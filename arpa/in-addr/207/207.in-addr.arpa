@@ -1,0 +1,29 @@
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     &quot;d / 207.in-addr.arpa&quot;
+#
+# Use &quot;?&quot; to get help.
+#
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/rdns/207.in-addr.arpa?showDetails=true
+#
+
+Name:           207.in-addr.arpa.
+Updated:        2010-06-30
+NameServer:     DILL.ARIN.NET
+NameServer:     X.ARIN.NET
+NameServer:     V.ARIN.NET
+NameServer:     U.ARIN.NET
+NameServer:     W.ARIN.NET
+NameServer:     Z.ARIN.NET
+NameServer:     Y.ARIN.NET
+NameServer:     T.ARIN.NET
+Ref:            http://whois.arin.net/rest/rdns/207.in-addr.arpa.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

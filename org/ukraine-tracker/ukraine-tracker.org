@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in 
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its 
+accuracy.  This service is intended only for query-based access.  You agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: (a) allow, enable, or otherwise 
+support the transmission by e-mail, telephone, or facsimile of mass 
+unsolicited, commercial advertising or solicitations to entities other than 
+the data recipient's own existing customers; or (b) enable high volume, 
+automated, electronic processes that send queries or data to the systems of 
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably 
+necessary to register domain names or modify existing registrations.  All 
+rights reserved. Public Interest Registry reserves the right to modify these terms at any 
+time. By submitting this query, you agree to abide by this policy. 
+
+Domain ID:D159807509-LROR
+Domain Name:UKRAINE-TRACKER.ORG
+Created On:03-Aug-2010 10:38:24 UTC
+Last Updated On:07-Aug-2011 03:19:59 UTC
+Expiration Date:03-Aug-2012 10:38:24 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:tuzyYTmnK1Noz9l7
+Registrant Name:Marcin Markiewicz
+Registrant Organization:Marcin Markiewicz
+Registrant Street1:M.Dabrowskiej 5/3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gorzow Wlkp
+Registrant State/Province:
+Registrant Postal Code:66-400
+Registrant Country:PL
+Registrant Phone:+48.791530735
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Ballevill@wp.pl
+Admin ID:tusrBKfl61NfBDUu
+Admin Name:Administracja Sieci home.pl
+Admin Organization:home.pl
+Admin Street1:plac Rodla 9
+Admin Street2:
+Admin Street3:
+Admin City:Szczecin
+Admin State/Province:
+Admin Postal Code:70-419
+Admin Country:PL
+Admin Phone:+48.914325555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@home.pl
+Tech ID:tuKxTaLJbPr4FCgK
+Tech Name:Administracja Sieci home.pl
+Tech Organization:home.pl
+Tech Street1:Plac Rodla 9
+Tech Street2:
+Tech Street3:
+Tech City:Szczecin
+Tech State/Province:NA
+Tech Postal Code:70-419
+Tech Country:PL
+Tech Phone:+48.914325555
+Tech Phone Ext.:
+Tech FAX:+48.914325599
+Tech FAX Ext.:
+Tech Email:dns@home.pl
+Name Server:NS1.RENEWYOURNAME.NET
+Name Server:NS2.RENEWYOURNAME.NET
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in 
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its 
+accuracy.  This service is intended only for query-based access.  You agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: (a) allow, enable, or otherwise 
+support the transmission by e-mail, telephone, or facsimile of mass 
+unsolicited, commercial advertising or solicitations to entities other than 
+the data recipient's own existing customers; or (b) enable high volume, 
+automated, electronic processes that send queries or data to the systems of 
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably 
+necessary to register domain names or modify existing registrations.  All 
+rights reserved. Public Interest Registry reserves the right to modify these terms at any 
+time. By submitting this query, you agree to abide by this policy. 
+
+Domain ID:D103440232-LROR
+Domain Name:MIDWESTRUGBY.ORG
+Created On:12-Dec-2003 20:11:15 UTC
+Last Updated On:12-Dec-2010 21:00:12 UTC
+Expiration Date:12-Dec-2011 20:11:15 UTC
+Sponsoring Registrar:000Domains, LLC (R69-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-UJG9PPWCIIO5
+Registrant Name:Shawn McKinney
+Registrant Organization:Thunderhead Marketing
+Registrant Street1:422 N. Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. Elmo
+Registrant State/Province:IL
+Registrant Postal Code:62458
+Registrant Country:US
+Registrant Phone:+1.6188293806
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:trnews@frontiernet.net
+Admin ID:DOT-IPRNTV6I65N9
+Admin Name:Shawn McKinney
+Admin Organization:Thunderhead Marketing
+Admin Street1:422 N. Main Street
+Admin Street2:
+Admin Street3:
+Admin City:St. Elmo
+Admin State/Province:IL
+Admin Postal Code:62458
+Admin Country:US
+Admin Phone:+1.6188293806
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:trnews@frontiernet.net
+Tech ID:DOT-HOFJLPDCWCPR
+Tech Name:Shawn McKinney
+Tech Organization:Thunderhead Marketing
+Tech Street1:422 N. Main Street
+Tech Street2:
+Tech Street3:
+Tech City:St. Elmo
+Tech State/Province:IL
+Tech Postal Code:62458
+Tech Country:US
+Tech Phone:+1.6188293806
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:trnews@frontiernet.net
+Name Server:NS1.PDCOMP.COM
+Name Server:NS2.PDCOMP.COM
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+
