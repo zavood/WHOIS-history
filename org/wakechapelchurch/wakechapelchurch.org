@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74866002-LROR
+Domain Name:WAKECHAPELCHURCH.ORG
+Created On:10-Jul-2001 21:08:23 UTC
+Last Updated On:06-Jun-2009 18:39:27 UTC
+Expiration Date:10-Jul-2014 21:08:23 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15935533-NSI
+Registrant Name:Wake Chapel Christian Church
+Registrant Organization:Wake Chapel Christian Church
+Registrant Street1:905 WAKE CHAPEL RD
+Registrant Street2:
+Registrant Street3:
+Registrant City:FUQUAY VARINA
+Registrant State/Province:NC
+Registrant Postal Code:27526-1623
+Registrant Country:US
+Registrant Phone:+1.9195524147
+Registrant Phone Ext.:
+Registrant FAX:+1.9195671000
+Registrant FAX Ext.:
+Registrant Email:dns7@aol.com
+Admin ID:15935533-NSI
+Admin Name:Wake Chapel Christian Church
+Admin Organization:Wake Chapel Christian Church
+Admin Street1:905 WAKE CHAPEL RD
+Admin Street2:
+Admin Street3:
+Admin City:FUQUAY VARINA
+Admin State/Province:NC
+Admin Postal Code:27526-1623
+Admin Country:US
+Admin Phone:+1.9195524147
+Admin Phone Ext.:
+Admin FAX:+1.9195671000
+Admin FAX Ext.:
+Admin Email:dns7@aol.com
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS4.LUNARPAGES.COM
+Name Server:NS5.LUNARPAGES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
