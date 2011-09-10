@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107226836-LROR
+Domain Name:SUNSHINEHOMES.ORG
+Created On:20-Aug-2005 19:55:06 UTC
+Last Updated On:22-Jul-2011 07:53:27 UTC
+Expiration Date:20-Aug-2012 19:55:06 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:95EEF76A71006006
+Registrant Name:Dolores Welter
+Registrant Organization:Sunshine Homes and Properties, LLC
+Registrant Street1:327 Crandon Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Greenville
+Registrant State/Province:SC
+Registrant Postal Code:29615
+Registrant Country:US
+Registrant Phone:+1.8649074722
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dwelter1realtor@aol.com
+Admin ID:95EEF76A71006006
+Admin Name:Dolores Welter
+Admin Organization:Sunshine Homes and Properties, LLC
+Admin Street1:327 Crandon Drive
+Admin Street2:
+Admin Street3:
+Admin City:Greenville
+Admin State/Province:SC
+Admin Postal Code:29615
+Admin Country:US
+Admin Phone:+1.8649074722
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dwelter1realtor@aol.com
+Tech ID:A368630460DD391D
+Tech Name:Domain Administrator
+Tech Organization:a la mode, inc.
+Tech Street1:3705 W Memorial Rd
+Tech Street2:Building 402
+Tech Street3:
+Tech City:Oklahoma City
+Tech State/Province:OK
+Tech Postal Code:73134
+Tech Country:US
+Tech Phone:+1.4053596587
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DomainsTech@alamode.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
