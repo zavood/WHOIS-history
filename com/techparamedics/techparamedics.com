@@ -5,27 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
+   Domain Name: TECHPARAMEDICS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS2.IPOWER.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 05-jun-2011
+   Creation Date: 03-jun-2003
+   Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:01:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:01:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,56 +53,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ Tech Paramedics
+ 10115 E. Mountainview Road #1071
+ Scottsdale, AZ 85258-5261
  US
 
- Domain name: AKAMAIEDGE.NET
+ Domain name: TECHPARAMEDICS.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Hopf, Kenneth von  k_von_hopf@hotmail.com
+    10115 E. Mountainview Road #1071
+    Scottsdale, AZ 85258-5261
     US
-    +1.6174443000    Fax: +1.6174443001
+    480-314-1810    Fax: 000-000-0000
 
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Manager, Domain  hostmaster@ipowerweb.com
+    2800 28th Street Suite 205
+    Santa Monica, California 90405
     US
-    +1.6174443000    Fax: +1.6174443001
+    888 511 4678    Fax: 310-314-1610
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
+    IPOWER, Inc., support@ipower-inc.com
+    888 511 4678
+
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 04-Oct-2017.
- Record created on 04-Oct-2001.
+ Record last updated on 05-Jun-2011.
+ Record expires on 03-Jun-2012.
+ Record created on 03-Jun-2003.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    LA3.AKAMAIEDGE.NET   96.7.251.131
-    LA1.AKAMAIEDGE.NET   64.211.42.193
-    LA11.AKAMAIEDGE.NET   208.44.108.133
-    LAC2.AKAMAIEDGE.NET   193.108.88.2
-    LA6.AKAMAIEDGE.NET   72.246.46.3
-    LAR7.AKAMAIEDGE.NET   62.41.78.201
-    LA7.AKAMAIEDGE.NET   96.17.144.197
-    LAC1.AKAMAIEDGE.NET   193.108.88.1
-    LAR6.AKAMAIEDGE.NET   195.59.44.137
-    LAR2.AKAMAIEDGE.NET   81.52.250.135
+    NS1.IPOWER.COM
+    NS2.IPOWER.COM
 
 
  Domain status: clientTransferProhibited

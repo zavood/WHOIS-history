@@ -5,25 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
+   Domain Name: LYNWOODENGINEERING.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Name Server: NS3.SOFTCOMCA.COM
+   Name Server: NS4.SOFTCOMCA.COM
+   Status: ok
+   Updated Date: 18-mar-2011
+   Creation Date: 17-apr-2003
+   Expiration Date: 17-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:01:46 UTC &lt;&lt;&lt;
 
@@ -61,60 +52,54 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
- US
+ Lynwood Engineering BLD
+ High Street, Princes End
+ Tipton, N/A DY4 9HG
+ GB
 
- Domain name: AKAMAIEDGE.NET
+ Domain name: LYNWOODENGINEERING.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
+    Webb, Keith  keith.webb@qualtronyc.co.uk
+    High Street, Princes End
+    Tipton, N/A DY4 9HG
+    GB
+    01215226600    Fax: 01215226601
 
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
+    OpenSRS Technical Contact, NIC  nicopensrs@softcomca.com
+    816-10 Bay St.
+    Toronto, ON M5J2R8
+    CA
+    +1.4169577400    Fax: +1.4169577401
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
+    SoftCom Inc., domains@softcom.com
+    +1 (866) 289-5091
+    +1 (416) 957-7405 (fax)
+    http://softcom.com
+    Please visit http://myhosting.com or http://mail2web.com for support
+    with domain name logins and passwords, DNS and Name Server changes,
+    renewals and general inquiries.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 04-Oct-2017.
- Record created on 04-Oct-2001.
+ Record last updated on 18-Mar-2011.
+ Record expires on 17-Apr-2012.
+ Record created on 17-Apr-2003.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    LA3.AKAMAIEDGE.NET   96.7.251.131
-    LA1.AKAMAIEDGE.NET   64.211.42.193
-    LA11.AKAMAIEDGE.NET   208.44.108.133
-    LAC2.AKAMAIEDGE.NET   193.108.88.2
-    LA6.AKAMAIEDGE.NET   72.246.46.3
-    LAR7.AKAMAIEDGE.NET   62.41.78.201
-    LA7.AKAMAIEDGE.NET   96.17.144.197
-    LAC1.AKAMAIEDGE.NET   193.108.88.1
-    LAR6.AKAMAIEDGE.NET   195.59.44.137
-    LAR2.AKAMAIEDGE.NET   81.52.250.135
+    NS3.SOFTCOMCA.COM
+    NS4.SOFTCOMCA.COM
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining
