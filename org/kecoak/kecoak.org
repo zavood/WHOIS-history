@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159462489-LROR
+Domain Name:KECOAK.ORG
+Created On:20-Jun-2010 12:44:13 UTC
+Last Updated On:20-Jun-2011 06:32:24 UTC
+Expiration Date:20-Jun-2012 12:44:13 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11867069
+Registrant Name:Betha Aris
+Registrant Organization:Kecoak Elektronik
+Registrant Street1:Apartemen Casablanca Mansion #102
+Registrant Street2:Jl. Casablanca Kav. 9
+Registrant Street3:
+Registrant City:Jakarta Selatan
+Registrant State/Province:DKI Jakarta
+Registrant Postal Code:12870
+Registrant Country:ID
+Registrant Phone:+62.081328722522
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:betha.aris@ieee.org
+Admin ID:DI_11867069
+Admin Name:Betha Aris
+Admin Organization:Kecoak Elektronik
+Admin Street1:Apartemen Casablanca Mansion #102
+Admin Street2:Jl. Casablanca Kav. 9
+Admin Street3:
+Admin City:Jakarta Selatan
+Admin State/Province:DKI Jakarta
+Admin Postal Code:12870
+Admin Country:ID
+Admin Phone:+62.081328722522
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:betha.aris@ieee.org
+Tech ID:DI_11867069
+Tech Name:Betha Aris
+Tech Organization:Kecoak Elektronik
+Tech Street1:Apartemen Casablanca Mansion #102
+Tech Street2:Jl. Casablanca Kav. 9
+Tech Street3:
+Tech City:Jakarta Selatan
+Tech State/Province:DKI Jakarta
+Tech Postal Code:12870
+Tech Country:ID
+Tech Phone:+62.081328722522
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:betha.aris@ieee.org
+Name Server:NS1.EVERYDNS.NET
+Name Server:NS2.EVERYDNS.NET
+Name Server:NS3.EVERYDNS.NET
+Name Server:NS4.EVERYDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
