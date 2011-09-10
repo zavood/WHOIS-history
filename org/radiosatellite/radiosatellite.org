@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104102592-LROR
+Domain Name:RADIOSATELLITE.ORG
+Created On:15-Mar-2004 23:49:46 UTC
+Last Updated On:23-Mar-2011 20:17:13 UTC
+Expiration Date:15-Mar-2012 23:49:46 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:8f466da44448eae6
+Registrant Name:Mike  Weber
+Registrant Organization:Magic Associates LLC
+Registrant Street1:25 Fairfields Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Huntington Station
+Registrant State/Province:P
+Registrant Postal Code:11746
+Registrant Country:US
+Registrant Phone:+1.6312232953
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:mweber@optonline.net
+Admin ID:8f466da44448eae6
+Admin Name:Mike  Weber
+Admin Organization:Magic Associates LLC
+Admin Street1:25 Fairfields Lane
+Admin Street2:
+Admin Street3:
+Admin City:Huntington Station
+Admin State/Province:P
+Admin Postal Code:11746
+Admin Country:US
+Admin Phone:+1.6312232953
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:mweber@optonline.net
+Tech ID:8f466da44448eae6
+Tech Name:Mike  Weber
+Tech Organization:Magic Associates LLC
+Tech Street1:25 Fairfields Lane
+Tech Street2:
+Tech Street3:
+Tech City:Huntington Station
+Tech State/Province:P
+Tech Postal Code:11746
+Tech Country:US
+Tech Phone:+1.6312232953
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:mweber@optonline.net
+Name Server:NS2.GATE.COM
+Name Server:NS1.GATE.COM
+Name Server:NS3.GATE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

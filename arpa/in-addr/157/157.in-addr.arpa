@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       157.in-addr.arpa
+
+organisation: Administered by ARIN
+
+nserver:      DILL.ARIN.NET.
+nserver:      T.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      V.ARIN.NET.
+nserver:      W.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     7071 5 1 9086121C46AE34CFFAB26E5ED88A5C948829741A
+
+whois:        whois.arin.net
+
+changed:      1993-05
+changed:      2011-04-27
+source:       IANA
+
