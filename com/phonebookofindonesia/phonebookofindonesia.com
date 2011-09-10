@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YOUTUBE.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YOUTUBE.COM.ZEN.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YOUTUBE.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YOUTUBE.COM.LOVES.HILPERS.COM
-YOUTUBE.COM.IS.N0T.AS.1337.AS.WWW.GULLI.COM
-YOUTUBE.COM.BLACKRAMINC.COM
-YOUTUBE.COM
+   Domain Name: PHONEBOOKOFINDONESIA.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS23.REGISTER.COM
+   Name Server: DNS24.REGISTER.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-aug-2009
+   Creation Date: 07-aug-2000
+   Expiration Date: 07-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:08:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:06:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,3 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about phonebookofindonesia.com
+&lt;a href=&quot;http://www.aboutus.org/phonebookofindonesia.com&quot;&gt;AboutUs: phonebookofindonesia.com&lt;/a&gt;
+
+
+Domain name: phonebookofindonesia.com
+
+Administrative Contact:
+   PBW
+   Ben Solms (julien@phonebookoftheworld.com)
+   +33.142211111
+   Fax:
+   11-15 rue des Halles
+   Paris, FR 75001
+   FR
+
+Technical Contact:
+   PBW
+   Ben Solms (julien@phonebookoftheworld.com)
+   +33.142211111
+   Fax:
+   11-15 rue des Halles
+   Paris, FR 75001
+   FR
+
+Registrant Contact:
+   PBW
+   Ben Solms ()
+
+   Fax:
+   11-15 rue des Halles
+   Paris, FR 75001
+   FR
+
+Status: Locked
+
+Name Servers:
+   DNS23.REGISTER.COM
+   DNS24.REGISTER.COM
+
+Creation date: 07 Aug 2000 13:09:29
+Expiration date: 07 Aug 2012 13:09:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
