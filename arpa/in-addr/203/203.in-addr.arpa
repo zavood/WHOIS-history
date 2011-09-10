@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       203.in-addr.arpa
+
+organisation: APNIC
+
+nserver:      apnic1.dnsnode.net.
+nserver:      dns1.telstra.net.
+nserver:      ns1.apnic.net.
+nserver:      ns3.apnic.net.
+nserver:      ns4.apnic.net.
+nserver:      sec1.authdns.ripe.net.
+nserver:      tinnie.arin.net.
+ds-rdata:     26357 5 1 b85fd89ca3f5c7e76cb1d2164eca8e6c8662235f
+ds-rdata:     26357 5 2 f61f675fdb0b8c50619faa71cb698aca97f0924431cfa373ada9cbb17e78ecc1
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+changed:      2011-05-03
+source:       IANA
+
