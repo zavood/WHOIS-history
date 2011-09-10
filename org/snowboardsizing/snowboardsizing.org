@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160596661-LROR
+Domain Name:SNOWBOARDSIZING.ORG
+Created On:05-Nov-2010 17:11:17 UTC
+Last Updated On:05-Jan-2011 03:51:26 UTC
+Expiration Date:05-Nov-2011 17:11:17 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C128897052860535
+Registrant Name:Blair Krause
+Registrant Organization:snowboardsizing
+Registrant Street1:24 Roy St. #272
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98109
+Registrant Country:US
+Registrant Phone:+1.2069403648
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:blairkrause@yahoo.com
+Admin ID:C128897052860532
+Admin Name:Blair Krause
+Admin Organization:snowboardsizing
+Admin Street1:24 Roy St. #272
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98109
+Admin Country:US
+Admin Phone:+1.2069403648
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:blairkrause@yahoo.com
+Tech ID:C128897052860534
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS2030.HOSTGATOR.COM
+Name Server:NS2029.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
