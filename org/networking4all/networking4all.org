@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104239249-LROR
+Domain Name:NETWORKING4ALL.ORG
+Created On:17-Apr-2004 09:01:06 UTC
+Last Updated On:26-Jul-2011 00:25:19 UTC
+Expiration Date:17-Apr-2013 09:01:06 UTC
+Sponsoring Registrar:Networking4all B.V. (R1869-LROR)
+Status:OK
+Registrant ID:ABC04534690012
+Registrant Name:Networking4all B.V.
+Registrant Organization:Networking4all B.V.
+Registrant Street1:Parallelweg 23
+Registrant Street2:
+Registrant Street3:
+Registrant City:Emmen
+Registrant State/Province:Drenthe
+Registrant Postal Code:7822 GM
+Registrant Country:NL
+Registrant Phone:+31.207881030
+Registrant Phone Ext.:
+Registrant FAX:+31.207881040
+Registrant FAX Ext.:
+Registrant Email:info@networking4all.com
+Admin ID:ABC01478110012
+Admin Name:Frank Leest
+Admin Organization:Networking4all B.V.
+Admin Street1:PO Box 15320
+Admin Street2:
+Admin Street3:
+Admin City:Amsterdam
+Admin State/Province:Noord-Holland
+Admin Postal Code:1001 MH
+Admin Country:NL
+Admin Phone:+31.207881030
+Admin Phone Ext.:
+Admin FAX:+31.207881040
+Admin FAX Ext.:
+Admin Email:f.leest@networking4all.com
+Tech ID:ABC06595650012
+Tech Name:Paul van Brouwershaven
+Tech Organization:Networking4all B.V.
+Tech Street1:PO Box 15320
+Tech Street2:
+Tech Street3:
+Tech City:Amsterdam
+Tech State/Province:Noord-Holland
+Tech Postal Code:1001 MH
+Tech Country:NL
+Tech Phone:+31.207881042
+Tech Phone Ext.:
+Tech FAX:+31.207881040
+Tech FAX Ext.:
+Tech Email:p.vanbrouwershaven@networking4all.com
+Name Server:NS1.NETWORKING4ALL.COM
+Name Server:NS2.NETWORKING4ALL.NET
+Name Server:NS3.NETWORKING4ALL.ORG
+Name Server:NS4.NETWORKING4ALL.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,38 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YAHOO.COM.ZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YAHOO.COM.ZZZZZZ.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YAHOO.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-YAHOO.COM.VN
-YAHOO.COM.VIRGINCHASSIS.COM
-YAHOO.COM.TWIXTEARS.COM
-YAHOO.COM.TW
-YAHOO.COM.SINGERPAT.COM
-YAHOO.COM.SG
-YAHOO.COM.MX
-YAHOO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.JTNELECTRIC.COM
-YAHOO.COM.IS.N0T.AS.1337.AS.SEARCH.GULLI.COM
-YAHOO.COM.HK
-YAHOO.COM.ELPOV.COM
-YAHOO.COM.EATINGFORJOY.NET
-YAHOO.COM.DUVALMANIA.COM
-YAHOO.COM.DALLARIVA.COM
-YAHOO.COM.CN
-YAHOO.COM.CHRISIMAMURAPHOTOWORKS.COM
-YAHOO.COM.BR
-YAHOO.COM.BGPETERSON.COM
-YAHOO.COM.AU
-YAHOO.COM.ACCUTAXSERVICES.COM
-YAHOO.COM
+   Domain Name: DENIZKABUKLARI.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.FULLCONTROL.NET
+   Name Server: NS2.FULLCONTROL.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-jun-2011
+   Creation Date: 13-jun-2007
+   Expiration Date: 13-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:24:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:23:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,3 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   CHOUSEIN BAIRAM CHOUSEIN
+   Horion Kalhas
+   KOMOTINI, RODOPI  69100
+   GR
+
+   Registrar: NAMESDIRECT
+   Domain Name: DENIZKABUKLARI.COM
+      Created on: 13-JUN-07
+      Expires on: 13-JUN-12
+      Last Updated on: 24-MAY-11
+
+   Administrative, Technical Contact:
+      BAIRAM CHOUSEIN, CHOUSEIN  huseyinbayram@gmail.com
+      Horion Kalhas
+      KOMOTINI, RODOPI  69100
+      GR
+      2531031741
+
+
+   Domain servers in listed order:
+      NS1.FULLCONTROL.NET
+      NS2.FULLCONTROL.NET
+
+End of Whois Information
