@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D91459757-LROR
+Domain Name:SCORELANCASTER.ORG
+Created On:22-Oct-2002 19:31:04 UTC
+Last Updated On:20-Apr-2009 17:54:00 UTC
+Expiration Date:22-Oct-2012 19:31:04 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31984879-NSI
+Registrant Name:SCORE Chapter 16
+Registrant Organization:SCORE Chapter 16
+Registrant Street1:313 W. Liberty St. #231
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lancaster
+Registrant State/Province:PA
+Registrant Postal Code:17603
+Registrant Country:US
+Registrant Phone:+1.7173973092
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wmcgraham@yahoo.com
+Admin ID:31984879-NSI
+Admin Name:SCORE Chapter 16
+Admin Organization:SCORE Chapter 16
+Admin Street1:313 W. Liberty St. #231
+Admin Street2:
+Admin Street3:
+Admin City:Lancaster
+Admin State/Province:PA
+Admin Postal Code:17603
+Admin Country:US
+Admin Phone:+1.7173973092
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wmcgraham@yahoo.com
+Tech ID:17904733-NSI
+Tech Name:Chris Yecker
+Tech Organization:RagnaSoft, Inc
+Tech Street1:117 South West End Ave
+Tech Street2:
+Tech Street3:
+Tech City:Lancaster
+Tech State/Province:PA
+Tech Postal Code:17602
+Tech Country:US
+Tech Phone:+1.7175096803
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:christian_yecker@ragnasoft.com
+Name Server:NS1.IHOSTASP.NET
+Name Server:NS2.IHOSTASP.NET
+Name Server:NS3.IHOSTASP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
