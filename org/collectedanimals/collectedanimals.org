@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161939537-LROR
+Domain Name:COLLECTEDANIMALS.ORG
+Created On:03-Apr-2011 03:50:14 UTC
+Last Updated On:25-Jun-2011 06:42:08 UTC
+Expiration Date:03-Apr-2012 03:50:14 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:91a4fac3c85fcfdb
+Registrant Name:Private  Registrant
+Registrant Organization:DomainSecrecy.net
+Registrant Street1:164 N. Gateway Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Providence
+Registrant State/Province:UT
+Registrant Postal Code:84332
+Registrant Country:US
+Registrant Phone:+1.4357553433
+Registrant Phone Ext.:
+Registrant FAX:+1.4357553449
+Registrant FAX Ext.:
+Registrant Email:1308945077@domainsecrecy.net
+Admin ID:91a4fac3c85fcfdb
+Admin Name:Private  Registrant
+Admin Organization:DomainSecrecy.net
+Admin Street1:164 N. Gateway Drive
+Admin Street2:
+Admin Street3:
+Admin City:Providence
+Admin State/Province:UT
+Admin Postal Code:84332
+Admin Country:US
+Admin Phone:+1.4357553433
+Admin Phone Ext.:
+Admin FAX:+1.4357553449
+Admin FAX Ext.:
+Admin Email:1308945077@domainsecrecy.net
+Tech ID:91a4fac3c85fcfdb
+Tech Name:Private  Registrant
+Tech Organization:DomainSecrecy.net
+Tech Street1:164 N. Gateway Drive
+Tech Street2:
+Tech Street3:
+Tech City:Providence
+Tech State/Province:UT
+Tech Postal Code:84332
+Tech Country:US
+Tech Phone:+1.4357553433
+Tech Phone Ext.:
+Tech FAX:+1.4357553449
+Tech FAX Ext.:
+Tech Email:1308945077@domainsecrecy.net
+Name Server:DNS1.ANHOSTING.COM
+Name Server:DNS2.ANHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
