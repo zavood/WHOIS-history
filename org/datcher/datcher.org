@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83948682-LROR
+Domain Name:DATCHER.ORG
+Created On:25-Feb-2002 13:06:33 UTC
+Last Updated On:14-Jul-2010 03:36:24 UTC
+Expiration Date:25-Feb-2013 13:06:33 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu5FOgYUp6Xv1yBV
+Registrant Name:Matthew Datcher
+Registrant Organization:Matthew Datcher
+Registrant Street1:610 Park Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Waynesboro
+Registrant State/Province:PA
+Registrant Postal Code:17268
+Registrant Country:US
+Registrant Phone:+1.7177620503
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:m_datcher@hotmail.com
+Admin ID:tu5FOgYUp6Xv1yBV
+Admin Name:Matthew Datcher
+Admin Organization:Matthew Datcher
+Admin Street1:610 Park Street
+Admin Street2:
+Admin Street3:
+Admin City:Waynesboro
+Admin State/Province:PA
+Admin Postal Code:17268
+Admin Country:US
+Admin Phone:+1.7177620503
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:m_datcher@hotmail.com
+Tech ID:tu5FOgYUp6Xv1yBV
+Tech Name:Matthew Datcher
+Tech Organization:Matthew Datcher
+Tech Street1:610 Park Street
+Tech Street2:
+Tech Street3:
+Tech City:Waynesboro
+Tech State/Province:PA
+Tech Postal Code:17268
+Tech Country:US
+Tech Phone:+1.7177620503
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:m_datcher@hotmail.com
+Name Server:NS1.CERMAKTECH.COM
+Name Server:NS2.CERMAKTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

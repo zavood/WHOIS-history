@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77589235-LROR
+Domain Name:BIOTRONIK.ORG
+Created On:21-Sep-2001 08:53:02 UTC
+Last Updated On:21-Sep-2010 23:18:41 UTC
+Expiration Date:21-Sep-2011 08:53:02 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:R23-75188167-PIR
+Registrant Name:Uwe Fischer
+Registrant Organization:BIOTRONIK SE und Co. KG
+Registrant Street1:Woermannkehre 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:
+Registrant Postal Code:12359
+Registrant Country:DE
+Registrant Phone:+49.30689053363
+Registrant Phone Ext.:
+Registrant FAX:+49.30689053931
+Registrant FAX Ext.:
+Registrant Email:domains@biotronik.com
+Admin ID:R23-75188167-PIR
+Admin Name:Uwe Fischer
+Admin Organization:BIOTRONIK SE und Co. KG
+Admin Street1:Woermannkehre 1
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:
+Admin Postal Code:12359
+Admin Country:DE
+Admin Phone:+49.30689053363
+Admin Phone Ext.:
+Admin FAX:+49.30689053931
+Admin FAX Ext.:
+Admin Email:domains@biotronik.com
+Tech ID:R23-1037996-PIR
+Tech Name:Versatel Hostmaster
+Tech Organization:Versatel Nord GmbH
+Tech Street1:Nordstr. 2
+Tech Street2:
+Tech Street3:
+Tech City:Flensburg
+Tech State/Province:SH
+Tech Postal Code:24937
+Tech Country:DE
+Tech Phone:+49.461909000
+Tech Phone Ext.:
+Tech FAX:+49.4619090561
+Tech FAX Ext.:
+Tech Email:hostmaster@versatel.de
+Name Server:SIF.KOMTEL.NET
+Name Server:THOR.KOMTEL.NET
+Name Server:NS.FRANKFURT.KOMTEL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105316024-LROR
+Domain Name:WEBJEAN.ORG
+Created On:10-Dec-2004 01:45:01 UTC
+Last Updated On:16-Nov-2010 00:24:27 UTC
+Expiration Date:10-Dec-2011 01:45:01 UTC
+Sponsoring Registrar:Megazone Corp. (R1832-LROR)
+Status:OK
+Registrant ID:HK1284433253575B
+Registrant Name:webjean
+Registrant Organization:webjean
+Registrant Street1:238-2  Nowon 2-ga 238-2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Daegu
+Registrant State/Province:Buk-gu
+Registrant Postal Code:701300
+Registrant Country:KR
+Registrant Phone:+82.0533532259
+Registrant Phone Ext.:
+Registrant FAX:+82.0533532259
+Registrant FAX Ext.:
+Registrant Email:justsemi@korea.com
+Admin ID:HK1284433253575B
+Admin Name:webjean
+Admin Organization:webjean
+Admin Street1:238-2  Nowon 2-ga 238-2
+Admin Street2:
+Admin Street3:
+Admin City:Daegu
+Admin State/Province:Buk-gu
+Admin Postal Code:701300
+Admin Country:KR
+Admin Phone:+82.0533532259
+Admin Phone Ext.:
+Admin FAX:+82.0533532259
+Admin FAX Ext.:
+Admin Email:justsemi@korea.com
+Tech ID:HK1284433253575B
+Tech Name:webjean
+Tech Organization:webjean
+Tech Street1:238-2  Nowon 2-ga 238-2
+Tech Street2:
+Tech Street3:
+Tech City:Daegu
+Tech State/Province:Buk-gu
+Tech Postal Code:701300
+Tech Country:KR
+Tech Phone:+82.0533532259
+Tech Phone Ext.:
+Tech FAX:+82.0533532259
+Tech FAX Ext.:
+Tech Email:justsemi@korea.com
+Name Server:NS.WEBJEAN.ORG
+Name Server:NS2.WEBJEAN.ORG
+Name Server:NS1.WEBJEAN.ORG
+Name Server:NS3.WEBJEAN.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

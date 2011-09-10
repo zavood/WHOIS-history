@@ -1,0 +1,21 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     IRC.SU
+descr:      Internet Relay Chat
+nserver:    ns1.afraid.org.
+nserver:    ns2.afraid.org.
+nserver:    ns3.afraid.org.
+nserver:    ns4.afraid.org.
+state:      REGISTERED, DELEGATED
+person:     Private Person
+e-mail:     irc.su@r01-service.ru
+registrar:  GPT-REG-FID
+created:    2006.02.27
+paid-till:  2012.02.27
+source:     TCI
+
+Last updated on 2011.09.10 08:30:46 MSK/MSD
+

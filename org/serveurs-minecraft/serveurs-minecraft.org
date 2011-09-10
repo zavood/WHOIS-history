@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161633743-LROR
+Domain Name:SERVEURS-MINECRAFT.ORG
+Created On:28-Feb-2011 12:52:15 UTC
+Last Updated On:30-Apr-2011 03:49:52 UTC
+Expiration Date:28-Feb-2014 12:52:15 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-381079
+Registrant Name:Nathalia FOLIA
+Registrant Street1:WHOIS PROXY PRIVACY
+Registrant Street2:Chez ONLINE - BP 438
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75366
+Registrant Country:FR
+Registrant Phone:+33.899193788
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nathalia.381079@spamfree.bookmyname.com
+Admin ID:BMN-381079
+Admin Name:Nathalia FOLIA
+Admin Street1:WHOIS PROXY PRIVACY
+Admin Street2:Chez ONLINE - BP 438
+Admin Street3:
+Admin City:PARIS
+Admin State/Province:
+Admin Postal Code:75366
+Admin Country:FR
+Admin Phone:+33.899193788
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nathalia.381079@spamfree.bookmyname.com
+Tech ID:BMN-381079
+Tech Name:Nathalia FOLIA
+Tech Street1:WHOIS PROXY PRIVACY
+Tech Street2:Chez ONLINE - BP 438
+Tech Street3:
+Tech City:PARIS
+Tech State/Province:
+Tech Postal Code:75366
+Tech Country:FR
+Tech Phone:+33.899193788
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nathalia.381079@spamfree.bookmyname.com
+Name Server:NS6.TR0N1X.COM
+Name Server:NS7.TR0N1X.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,39 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       bilskurshurdir.is
+descr:        &Aacute;sgeir Einarsson
+descr:        Klapparst&iacute;g 14
+descr:        IS-101 Reykjav&iacute;k
+admin-c:      AE566-IS
+tech-c:       AE566-IS
+zone-c:       EH59-IS
+billing-c:    AE566-IS
+nserver:      ns0.1984.is
+nserver:      ns1.1984.is
+nserver:      ns2.1984.is
+created:      April 13 2010
+expires:      April 13 2012
+source:       ISNIC
+
+person:       &Aacute;sgeir Einarsson
+address:      Klapparst&iacute;g 14
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 534 6060
+e-mail:       asgeir1978@gmail.com
+nic-hdl:      AE566-IS
+created:      May 15 2009
+source:       ISNIC
+
+role:         1984 ehf
+address:      P&oacute;sth&oacute;lf 126
+address:      IS-121 Reykjav&iacute;k
+phone:        +354 546 1984
+e-mail:       isnic@1984.is
+nic-hdl:      EH59-IS
+created:      April 29 2006
+source:       ISNIC
+
+

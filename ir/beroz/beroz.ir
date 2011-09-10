@@ -1,0 +1,39 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'beroz.ir'
+
+
+domain:		beroz.ir
+ascii:		beroz.ir
+remarks:	(Domain Holder) ali tavakoli
+remarks:	(Domain Holder Address) Ghods, Isfahan, Esfahan, IR
+holder-c:	at513-irnic
+admin-c:	pe134-irnic
+tech-c:		pe134-irnic
+bill-c:		pe134-irnic
+nserver:	ns25.mihanwebhost.com
+nserver:	ns26.mihanwebhost.com
+last-updated:	2011-08-09
+source:		IRNIC # Filtered
+
+nic-hdl:	at513-irnic
+person:		ali tavakoli
+e-mail:		amt_mat@yahoo.com
+address:	Ghods, Isfahan, Esfahan, IR
+phone:		09395315522
+source:		IRNIC # Filtered
+
+nic-hdl:	pe134-irnic
+org:		Persian High Tech Co.
+e-mail:		mrabbasb@yahoo.com
+address:	Floor 2, No. 336, Jamalzade Shomali, Enghelab Sq.,, Tehran, Tehran, IR
+phone:		+98 21 66431000
+fax-no:		+98 21 66431000
+source:		IRNIC # Filtered
+

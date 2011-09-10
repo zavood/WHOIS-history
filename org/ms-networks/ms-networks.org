@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152522721-LROR
+Domain Name:MS-NETWORKS.ORG
+Created On:23-Apr-2008 22:34:37 UTC
+Last Updated On:22-Jun-2011 00:26:27 UTC
+Expiration Date:23-Apr-2012 22:34:37 UTC
+Sponsoring Registrar:1st Antagus Internet GmbH (R1782-LROR)
+Status:OK
+Registrant ID:SCMAC0070-ANT
+Registrant Name:Schuettler Maren
+Registrant Organization:Bueroservice - Maren Schuettler
+Registrant Street1:Immig 23
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lichtenfels
+Registrant State/Province:hes
+Registrant Postal Code:35104
+Registrant Country:DE
+Registrant Phone:+49.5636993067
+Registrant Phone Ext.:
+Registrant FAX:+49.5636993424
+Registrant FAX Ext.:
+Registrant Email:marcosoeder@arcor.de
+Admin ID:SCMAC0070-ANT
+Admin Name:Schuettler Maren
+Admin Organization:Bueroservice - Maren Schuettler
+Admin Street1:Immig 23
+Admin Street2:
+Admin Street3:
+Admin City:Lichtenfels
+Admin State/Province:hes
+Admin Postal Code:35104
+Admin Country:DE
+Admin Phone:+49.5636993067
+Admin Phone Ext.:
+Admin FAX:+49.5636993424
+Admin FAX Ext.:
+Admin Email:marcosoeder@arcor.de
+Tech ID:SCMAC0070-ANT
+Tech Name:Schuettler Maren
+Tech Organization:Bueroservice - Maren Schuettler
+Tech Street1:Immig 23
+Tech Street2:
+Tech Street3:
+Tech City:Lichtenfels
+Tech State/Province:hes
+Tech Postal Code:35104
+Tech Country:DE
+Tech Phone:+49.5636993067
+Tech Phone Ext.:
+Tech FAX:+49.5636993424
+Tech FAX Ext.:
+Tech Email:marcosoeder@arcor.de
+Name Server:NS1.MARCO-SOEDER.DE
+Name Server:NS2.MARCO-SOEDER.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

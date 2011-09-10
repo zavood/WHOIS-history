@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162102979-LROR
+Domain Name:AVISOPACIFIC.ORG
+Created On:23-Apr-2011 02:08:42 UTC
+Last Updated On:22-Jun-2011 03:50:52 UTC
+Expiration Date:23-Apr-2012 02:08:42 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_15526371
+Registrant Name:Aiden Benson
+Registrant Organization:Aviso Pacific Inc
+Registrant Street1:Suit 'F' Level 1 Octagon
+Registrant Street2:110, George Street
+Registrant Street3:
+Registrant City:Parramatta
+Registrant State/Province:New South Wales
+Registrant Postal Code:2150
+Registrant Country:AU
+Registrant Phone:+61.296159675
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aaidenbnsn@gmail.com
+Admin ID:DI_15526371
+Admin Name:Aiden Benson
+Admin Organization:Aviso Pacific Inc
+Admin Street1:Suit 'F' Level 1 Octagon
+Admin Street2:110, George Street
+Admin Street3:
+Admin City:Parramatta
+Admin State/Province:New South Wales
+Admin Postal Code:2150
+Admin Country:AU
+Admin Phone:+61.296159675
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aaidenbnsn@gmail.com
+Tech ID:DI_15526371
+Tech Name:Aiden Benson
+Tech Organization:Aviso Pacific Inc
+Tech Street1:Suit 'F' Level 1 Octagon
+Tech Street2:110, George Street
+Tech Street3:
+Tech City:Parramatta
+Tech State/Province:New South Wales
+Tech Postal Code:2150
+Tech Country:AU
+Tech Phone:+61.296159675
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aaidenbnsn@gmail.com
+Name Server:NS1.WIN-SERVERS.COM
+Name Server:NS2.WIN-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

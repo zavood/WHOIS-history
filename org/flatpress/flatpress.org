@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132267803-LROR
+Domain Name:FLATPRESS.ORG
+Created On:05-Nov-2006 10:18:27 UTC
+Last Updated On:14-Nov-2010 00:24:52 UTC
+Expiration Date:05-Nov-2011 10:18:27 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:a6435dd55968
+Registrant Name:Edoardo Vacchi
+Registrant Organization:Edoardo Vacchi
+Registrant Street1:Via Cassanese 200/o
+Registrant Street2:
+Registrant Street3:
+Registrant City:Segrate
+Registrant State/Province:MI
+Registrant Postal Code:20090
+Registrant Country:IT
+Registrant Phone:+39.0226920183
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:uncommonnonsense@gmail.com
+Admin ID:a6c08dfa70ff
+Admin Name:Vacchi Edoardo
+Admin Organization:Edoardo Vacchi
+Admin Street1:Via Cassanese 200/o
+Admin Street2:
+Admin Street3:
+Admin City:Segrate
+Admin State/Province:MI
+Admin Postal Code:20090
+Admin Country:IT
+Admin Phone:+39.0226920183
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:uncommonnonsense@gmail.com
+Tech ID:REGISTER-TECH
+Tech Name:REGISTER.IT S.p.a.
+Tech Organization:REGISTER.IT S.p.a.
+Tech Street1:piazza Annigoni 9/b
+Tech Street2:
+Tech Street3:
+Tech City:Firenze
+Tech State/Province:FI
+Tech Postal Code:50122
+Tech Country:IT
+Tech Phone:+39.0353230300
+Tech Phone Ext.:
+Tech FAX:+39.0353230312
+Tech FAX Ext.:
+Tech Email:support@register.it
+Name Server:NS3.A2HOSTING.COM
+Name Server:NS4.A2HOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

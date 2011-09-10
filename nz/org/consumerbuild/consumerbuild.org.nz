@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-10T17:25:34+12:00
+domain_name: consumerbuild.org.nz
+query_status: 200 Active
+domain_dateregistered: 2003-11-17T14:49:17+13:00
+domain_datebilleduntil: 2012-05-17T14:49:17+12:00
+domain_datelastmodified: 2011-05-17T01:35:03+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Consumer NZ Incorporated
+registrant_contact_address1: Private Bag 6996
+registrant_contact_address2: Marion Square
+registrant_contact_city: WELLINGTON 6141
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 384 7963
+registrant_contact_fax: +64 4 385 8752
+registrant_contact_email: admin@consumer.org.nz
+%
+admin_contact_name: Consumer NZ Incorporated
+admin_contact_address1: Private Bag 6996
+admin_contact_address2: Marion Square
+admin_contact_city: WELLINGTON 6141
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 384 7963
+admin_contact_fax: +64 4 385 8752
+admin_contact_email: admin@consumer.org.nz
+%
+technical_contact_name: DTS Technical
+technical_contact_address1: PO BOX 40623
+technical_contact_address2: Lower Hutt
+technical_contact_city: Upper Hutt
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 9180160
+technical_contact_email: technical@dts.net.nz
+%
+ns_name_01: ns1.dts.net.nz
+ns_name_02: ns2.dts.net.nz
+ns_name_03: ns3.dts.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

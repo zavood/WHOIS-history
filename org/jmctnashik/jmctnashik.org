@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159371449-LROR
+Domain Name:JMCTNASHIK.ORG
+Created On:08-Jun-2010 10:41:39 UTC
+Last Updated On:17-Jun-2011 04:21:48 UTC
+Expiration Date:08-Jun-2012 10:41:39 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11811334
+Registrant Name:Mr. Sadique Khan
+Registrant Organization:N/A
+Registrant Street1:JMCT Polytechnic
+Registrant Street2:Wadala Road, Wadala
+Registrant Street3:
+Registrant City:Nasik
+Registrant State/Province:Maharashtra
+Registrant Postal Code:422006
+Registrant Country:IN
+Registrant Phone:+091.2532594592
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mauzzamali@gmail.com
+Admin ID:DI_11811334
+Admin Name:Mr. Sadique Khan
+Admin Organization:N/A
+Admin Street1:JMCT Polytechnic
+Admin Street2:Wadala Road, Wadala
+Admin Street3:
+Admin City:Nasik
+Admin State/Province:Maharashtra
+Admin Postal Code:422006
+Admin Country:IN
+Admin Phone:+091.2532594592
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mauzzamali@gmail.com
+Tech ID:DI_11811334
+Tech Name:Mr. Sadique Khan
+Tech Organization:N/A
+Tech Street1:JMCT Polytechnic
+Tech Street2:Wadala Road, Wadala
+Tech Street3:
+Tech City:Nasik
+Tech State/Province:Maharashtra
+Tech Postal Code:422006
+Tech Country:IN
+Tech Phone:+091.2532594592
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mauzzamali@gmail.com
+Name Server:NS883.WEBSITEWELCOME.COM
+Name Server:NS884.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

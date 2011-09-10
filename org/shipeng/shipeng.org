@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160423552-LROR
+Domain Name:SHIPENG.ORG
+Created On:16-Oct-2010 15:02:17 UTC
+Last Updated On:28-Dec-2010 19:01:34 UTC
+Expiration Date:16-Oct-2012 15:02:17 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc109873528-cn
+Registrant Name:Peng Shi
+Registrant Organization:Shi Peng
+Registrant Street1:yuexiu
+Registrant Street2:
+Registrant Street3:
+Registrant City:guangzhoushi
+Registrant State/Province:guangzhou
+Registrant Postal Code:510601
+Registrant Country:CN
+Registrant Phone:+86.13642705054
+Registrant Phone Ext.:
+Registrant FAX:+86.13642705054
+Registrant FAX Ext.:
+Registrant Email:shipeng404@163.com
+Admin ID:hc109873528-cn
+Admin Name:Peng Shi
+Admin Organization:Shi Peng
+Admin Street1:yuexiu
+Admin Street2:
+Admin Street3:
+Admin City:guangzhoushi
+Admin State/Province:guangzhou
+Admin Postal Code:510601
+Admin Country:CN
+Admin Phone:+86.13642705054
+Admin Phone Ext.:
+Admin FAX:+86.13642705054
+Admin FAX Ext.:
+Admin Email:shipeng404@163.com
+Tech ID:hichina001-cn
+Tech Name:hichina
+Tech Organization:HiChina Web Solutions Limited
+Tech Street1:3/F., HiChina Mansion
+Tech Street2:No.27 Gulouwai Avenue
+Tech Street3:Dongcheng District
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100011
+Tech Country:CN
+Tech Phone:+86.01064242299
+Tech Phone Ext.:
+Tech FAX:+86.01064258796
+Tech FAX Ext.:
+Tech Email:domainadm@hichina.com
+Name Server:DNS23.HICHINA.COM
+Name Server:DNS24.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

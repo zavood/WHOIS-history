@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D133831005-LROR
+Domain Name:MYPLAYSPACE.ORG
+Created On:27-Nov-2006 19:07:59 UTC
+Last Updated On:29-Oct-2010 09:29:15 UTC
+Expiration Date:27-Nov-2011 19:07:59 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:F38669F40565CE29
+Registrant Name:Phil Cook
+Registrant Organization:-
+Registrant Street1:186 west  22nd Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:B.C.
+Registrant Postal Code:V5Y 2G1
+Registrant Country:CA
+Registrant Phone:+1.6047191403
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:philcook@telus.net
+Admin ID:F38669F40565CE29
+Admin Name:Phil Cook
+Admin Organization:-
+Admin Street1:186 west  22nd Ave
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:B.C.
+Admin Postal Code:V5Y 2G1
+Admin Country:CA
+Admin Phone:+1.6047191403
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:philcook@telus.net
+Tech ID:F38669F40565CE29
+Tech Name:Phil Cook
+Tech Organization:-
+Tech Street1:186 west  22nd Ave
+Tech Street2:
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:B.C.
+Tech Postal Code:V5Y 2G1
+Tech Country:CA
+Tech Phone:+1.6047191403
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:philcook@telus.net
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

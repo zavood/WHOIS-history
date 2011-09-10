@@ -1,0 +1,76 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         aba.gv.at
+registrant:     ABA1202272-NICAT
+admin-c:        RS801156-NICAT
+tech-c:         IH1429690-NICAT
+nserver:        ns1.inode.at
+remarks:        195.58.160.2
+nserver:        ns2.inode.at
+remarks:        195.58.161.3
+changed:        20021104 16:59:04
+source:         AT-DOM
+
+personname:     Rene Siegl
+organization:   Austrian Business Agency
+street address: Opernring 3
+postal code:    A-1010
+city:           Wien
+country:        Austria
+phone:          +4315885853
+fax-no:         +4315868659
+e-mail:         r.siegl@aba.gv.at
+nic-hdl:        ABA1202272-NICAT
+changed:        20021104 16:59:03
+source:         AT-DOM
+
+personname:     Rene Siegl
+organization:
+street address: Austrian Business Agency
+street address: Opernring 3
+street address: A-1010 Wien
+street address: Austria
+postal code:
+city:
+country:
+phone:          +43 1 588 58 53
+fax-no:         +43 1 586 86 59
+e-mail:         r.siegl@aba.gv.at
+nic-hdl:        RS801156-NICAT
+changed:        20010227 14:08:06
+source:         AT-DOM
+
+personname:     INODE Hostmaster
+organization:   UPC Austria GmbH
+street address: Wolfganggasse 58-60
+postal code:    A-1120
+city:           Wien
+country:        Austria
+phone:          +43196060600
+fax-no:         +431409490949
+e-mail:         dom-reg@inode.at
+nic-hdl:        IH1429690-NICAT
+changed:        20090205 10:00:04
+source:         AT-DOM
+

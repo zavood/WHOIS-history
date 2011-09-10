@@ -1,0 +1,17 @@
+
+domain:   nebula.fi
+descr:    NEBULA OY
+descr:    06009583
+address:  Verkkotunnukset
+address:  Kiviaidankatu 2 H
+address:  00210
+address:  Helsinki
+phone:    09 68183810
+status:   Granted
+created:  23.9.1997
+expires:  31.8.2012
+nserver: ns.nebula.fi [OK] 217.30.180.225 2001:1bc8:100c:a180::225
+nserver: ns2.nebula.fi [OK] 217.30.182.225 2001:1bc8:103:9::17
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

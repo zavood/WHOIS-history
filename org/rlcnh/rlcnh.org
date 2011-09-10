@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104892014-LROR
+Domain Name:RLCNH.ORG
+Created On:15-Sep-2004 15:52:17 UTC
+Last Updated On:17-Aug-2011 04:29:41 UTC
+Expiration Date:15-Sep-2012 15:52:17 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuzWayiNwVG8fawW
+Registrant Name:Andrew Hemingway
+Registrant Organization:New Hampshire Republican Liberty Caucus
+Registrant Street1:PO Box 537
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Hampton
+Registrant State/Province:NH
+Registrant Postal Code:03256
+Registrant Country:US
+Registrant Phone:+1.6032034063
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:akreins@gmail.com
+Admin ID:tuBxDI08MEwqd9Ko
+Admin Name:Andrew Hemingway
+Admin Organization:New Hampshire Republican Liberty Caucus
+Admin Street1:PO Box 537
+Admin Street2:
+Admin Street3:
+Admin City:New Hampton
+Admin State/Province:NH
+Admin Postal Code:03256
+Admin Country:US
+Admin Phone:+1.6032034063
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:akreins@gmail.com
+Tech ID:tudsjoqbzogNBJgt
+Tech Name:Andrew Hemingway
+Tech Organization:New Hampshire Republican Liberty Caucus
+Tech Street1:PO Box 537
+Tech Street2:
+Tech Street3:
+Tech City:New Hampton
+Tech State/Province:NH
+Tech Postal Code:03256
+Tech Country:US
+Tech Phone:+1.6032034063
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:akreins@gmail.com
+Name Server:NS1.TCWEBSITE.COM
+Name Server:NS2.TCWEBSITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84887891-LROR
+Domain Name:WBEA-TEXAS.ORG
+Created On:26-Mar-2002 17:42:14 UTC
+Last Updated On:21-Feb-2011 17:50:40 UTC
+Expiration Date:26-Mar-2012 17:42:14 UTC
+Sponsoring Registrar:Dynamic Network Services, Inc. (R1450-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DYNDNS429759
+Registrant Name:Susan Repka
+Registrant Organization:WBEA
+Registrant Street1:4100 Westheimer, Suite 260
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77027
+Registrant Country:US
+Registrant Phone:+1.7136819232
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:srepka@wbea-texas.org
+Admin ID:DYNDNS429759
+Admin Name:Susan Repka
+Admin Organization:WBEA
+Admin Street1:4100 Westheimer, Suite 260
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:TX
+Admin Postal Code:77027
+Admin Country:US
+Admin Phone:+1.7136819232
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:srepka@wbea-texas.org
+Tech ID:DYNDNS429759
+Tech Name:Susan Repka
+Tech Organization:WBEA
+Tech Street1:4100 Westheimer, Suite 260
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:TX
+Tech Postal Code:77027
+Tech Country:US
+Tech Phone:+1.7136819232
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:srepka@wbea-texas.org
+Name Server:NS2.MYDYNDNS.ORG
+Name Server:NS1.MYDYNDNS.ORG
+Name Server:NS3.MYDYNDNS.ORG
+Name Server:NS4.MYDYNDNS.ORG
+Name Server:NS5.MYDYNDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

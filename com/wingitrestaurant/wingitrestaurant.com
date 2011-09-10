@@ -1,0 +1,108 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: WINGITRESTAURANT.COM
+   Registrar: DOMAINPEOPLE, INC.
+   Whois Server: whois.domainpeople.com
+   Referral URL: http://www.domainpeople.com
+   Name Server: W.DNS.NETNATION.COM
+   Name Server: X.DNS.NETNATION.COM
+   Status: clientTransferProhibited
+   Updated Date: 05-jan-2011
+   Creation Date: 02-feb-2009
+   Expiration Date: 02-feb-2012
+
+&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 21:16:50 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+=-=-=-=
+
+
+Domain name: wingitrestaurant.com
+
+Registrant Contact:
+   Issam Merhi
+   Issam Merhi ()
+
+   Fax:
+   PO Box 592760
+   Orlando, FL 32859
+   US
+
+Administrative Contact:
+   Issam Merhi
+   Issam Merhi (Issam@grayfifthavenue.com)
+   +1.4076164616
+   Fax:
+   PO Box 592760
+   Orlando, FL 32859
+   US
+
+Technical Contact:
+   Domain People
+   Domain Admin (support@domainpeople.com)
+   +1.6046391680
+   Fax: +1.6046391680
+   Bentall 5, Suite 200
+   Vancouver, BC V6C2B5
+   CA
+
+Status: Locked
+
+Name Servers:
+   w.dns.netnation.com
+   x.dns.netnation.com
+
+Creation date: 02 Feb 2009 15:06:21
+Expiration date: 02 Feb 2012 15:06:21
+
+
+
+
+=-=-=-=
+You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes.  The data in DomainPeople, Inc.'s WHOIS database (&quot;Data&quot;) is provided by DomainPeople, Inc. for information purposes only.  DomainPeople, Inc.
+does not guarantee the accuracy of this Data and it is provided &quot;as- is&quot;.
+
+By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via mail, email (spam), telephone or facsimile, or solicitations to entities other than the data recipients own, existing customers; or (2) enable high-volume, automated, electronic processes that apply to DomainPeople, Inc. (or its systems).  The compilation, repackaging, dissemination, distribution or other use of this Data is expressly prohibited without the prior written consent of DomainPeople, Inc.
+
+You agree not to use high-volume, automated, electronic processes to access or query the WHOIS database.  DomainPeople, Inc. reserves the right to terminate your access to the DomainPeople, Inc. WHOIS database in its sole discretion, including without limitation, for excessive querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+DomainPeople, Inc. reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the terms of this policy.

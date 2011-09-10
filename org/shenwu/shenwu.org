@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160036636-LROR
+Domain Name:SHENWU.ORG
+Created On:01-Sep-2010 07:11:04 UTC
+Last Updated On:26-Aug-2011 01:19:15 UTC
+Expiration Date:01-Sep-2012 07:11:04 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc552645723-cn
+Registrant Name:yu wenyong
+Registrant Organization:yu wenyong
+Registrant Street1:WuChengQu BaiLongQiaoZhen DongYuCun
+Registrant Street2:
+Registrant Street3:
+Registrant City:jinhua
+Registrant State/Province:ZJ
+Registrant Postal Code:321000
+Registrant Country:CN
+Registrant Phone:+86.057982210541
+Registrant Phone Ext.:
+Registrant FAX:+86.057982210541
+Registrant FAX Ext.:
+Registrant Email:admin@ywyo.com
+Admin ID:hc147203225-cn
+Admin Name:zhu xianhui
+Admin Organization:zhu xianhui
+Admin Street1:WuChengQu BaiLongQiaoZhen GuFangYiChun HuanChunNanLu 82 Hao
+Admin Street2:
+Admin Street3:
+Admin City:jinhua
+Admin State/Province:ZJ
+Admin Postal Code:321000
+Admin Country:CN
+Admin Phone:+86.057982210541
+Admin Phone Ext.:
+Admin FAX:+86.057982210541
+Admin FAX Ext.:
+Admin Email:admin@ywyo.com
+Tech ID:hc552645723-cn
+Tech Name:yu wenyong
+Tech Organization:yu wenyong
+Tech Street1:WuChengQu BaiLongQiaoZhen DongYuCun
+Tech Street2:
+Tech Street3:
+Tech City:jinhua
+Tech State/Province:ZJ
+Tech Postal Code:321000
+Tech Country:CN
+Tech Phone:+86.057982210541
+Tech Phone Ext.:
+Tech FAX:+86.057982210541
+Tech FAX Ext.:
+Tech Email:admin@ywyo.com
+Name Server:DNS23.HICHINA.COM
+Name Server:DNS24.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

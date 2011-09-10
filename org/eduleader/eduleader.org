@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132413915-LROR
+Domain Name:EDULEADER.ORG
+Created On:08-Nov-2006 01:41:29 UTC
+Last Updated On:19-Oct-2009 03:11:20 UTC
+Expiration Date:08-Nov-2011 01:41:29 UTC
+Sponsoring Registrar:Distribute.IT Pty Ltd (R1378-LROR)
+Status:OK
+Registrant ID:DIT-268841
+Registrant Name:Roger Pryor
+Registrant Street1:Old Farm Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ourimbah
+Registrant State/Province:NSW
+Registrant Postal Code:2258
+Registrant Country:AU
+Registrant Phone:+61.421316473
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:roger@pryorcommitment.com
+Admin ID:DIT-268844
+Admin Name:Roger Pryor
+Admin Street1:Old Farm Place
+Admin Street2:
+Admin Street3:
+Admin City:Ourimbah
+Admin State/Province:NSW
+Admin Postal Code:2258
+Admin Country:AU
+Admin Phone:+61.421316473
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:roger@pryorcommitment.com
+Tech ID:DIT-268842
+Tech Name:Roger Pryor
+Tech Street1:Old Farm Place
+Tech Street2:
+Tech Street3:
+Tech City:Ourimbah
+Tech State/Province:NSW
+Tech Postal Code:2258
+Tech Country:AU
+Tech Phone:+61.421316473
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:roger@pryorcommitment.com
+Name Server:BK1.UNLIMITED-SPACE.COM
+Name Server:NS16.UNLIMITED-SPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

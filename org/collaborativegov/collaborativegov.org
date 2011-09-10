@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151135576-LROR
+Domain Name:COLLABORATIVEGOV.ORG
+Created On:11-Feb-2008 20:58:16 UTC
+Last Updated On:18-Apr-2011 11:59:06 UTC
+Expiration Date:11-Feb-2012 20:58:16 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:B126322043323977
+Registrant Name:CGI Group Inc.
+Registrant Organization:CGI Group Inc.
+Registrant Street1:1130 Sherbrooke West
+Registrant Street2:5th Floor
+Registrant Street3:
+Registrant City:Montreal
+Registrant State/Province:Quebec
+Registrant Postal Code:H3A2M8
+Registrant Country:CA
+Registrant Phone:+1.5148413200
+Registrant Phone Ext.:
+Registrant FAX:+1.5148413299
+Registrant FAX Ext.:
+Registrant Email:dnsadmin@cgi.com
+Admin ID:A12632211219430
+Admin Name:. .
+Admin Organization:DNSAdmin
+Admin Street1:1130 Sherbrooke West
+Admin Street2:5th Floor
+Admin Street3:
+Admin City:Montreal
+Admin State/Province:Quebec
+Admin Postal Code:H3A2M8
+Admin Country:CA
+Admin Phone:+1.5148413200
+Admin Phone Ext.:
+Admin FAX:+1.5148413299
+Admin FAX Ext.:
+Admin Email:dnsadmin@cgi.com
+Tech ID:A12632211219431
+Tech Name:. .
+Tech Organization:DNSAdmin
+Tech Street1:1130 Sherbrooke West
+Tech Street2:5th Floor
+Tech Street3:
+Tech City:Montreal
+Tech State/Province:Quebec
+Tech Postal Code:H3A2M8
+Tech Country:CA
+Tech Phone:+1.5148413200
+Tech Phone Ext.:
+Tech FAX:+1.5148413299
+Tech FAX Ext.:
+Tech Email:dnsadmin@cgi.com
+Name Server:NS466.PAIR.COM
+Name Server:NS7.NS0.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

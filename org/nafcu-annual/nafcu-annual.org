@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155104968-LROR
+Domain Name:NAFCU-ANNUAL.ORG
+Created On:14-Jan-2009 22:07:20 UTC
+Last Updated On:15-Dec-2010 19:14:53 UTC
+Expiration Date:14-Jan-2016 22:07:20 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37950622
+Registrant Name:David Murray
+Registrant Organization:NAFCU
+Registrant Street1:3138 10th Street North
+Registrant Street2:
+Registrant Street3:
+Registrant City:Arlington
+Registrant State/Province:Virginia
+Registrant Postal Code:22201
+Registrant Country:US
+Registrant Phone:+1.7038422828
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dmurray@nafcu.org
+Admin ID:CR37950624
+Admin Name:David Murray
+Admin Organization:NAFCU
+Admin Street1:3138 10th Street North
+Admin Street2:
+Admin Street3:
+Admin City:Arlington
+Admin State/Province:Virginia
+Admin Postal Code:22201
+Admin Country:US
+Admin Phone:+1.7038422828
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dmurray@nafcu.org
+Tech ID:CR37950623
+Tech Name:David Murray
+Tech Organization:NAFCU
+Tech Street1:3138 10th Street North
+Tech Street2:
+Tech Street3:
+Tech City:Arlington
+Tech State/Province:Virginia
+Tech Postal Code:22201
+Tech Country:US
+Tech Phone:+1.7038422828
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dmurray@nafcu.org
+Name Server:NS24.DOMAINCONTROL.COM
+Name Server:NS23.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

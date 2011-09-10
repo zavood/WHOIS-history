@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156210869-LROR
+Domain Name:FLWESTCOASTREDCROSS.ORG
+Created On:22-May-2009 12:29:51 UTC
+Last Updated On:19-May-2011 15:21:03 UTC
+Expiration Date:22-May-2012 12:29:51 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D12429953907150
+Registrant Name:American Red Cross
+Registrant Organization:American Red Cross
+Registrant Street1:3310 W. Main St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tampa
+Registrant State/Province:Florida
+Registrant Postal Code:33607
+Registrant Country:US
+Registrant Phone:+1.8133484820
+Registrant Phone Ext.:
+Registrant FAX:+1.8133484830
+Registrant FAX Ext.:
+Registrant Email:lovetim@usa.redcross.org
+Admin ID:D124297185548796
+Admin Name:Hosting Team
+Admin Organization:Hosting Team
+Admin Street1:2107 Gunn Highway
+Admin Street2:
+Admin Street3:
+Admin City:Odessa
+Admin State/Province:Florida
+Admin Postal Code:33556
+Admin Country:US
+Admin Phone:+1.8139200788
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hosting@launchpadonline.com
+Tech ID:D124297185548798
+Tech Name:Hosting Team
+Tech Organization:Hosting Team
+Tech Street1:2107 Gunn Highway
+Tech Street2:
+Tech Street3:
+Tech City:Odessa
+Tech State/Province:Florida
+Tech Postal Code:33556
+Tech Country:US
+Tech Phone:+1.8139200788
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hosting@launchpadonline.com
+Name Server:NS1.SECURE.NET
+Name Server:NS2.SECURE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

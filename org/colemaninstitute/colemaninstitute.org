@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D68753778-LROR
+Domain Name:COLEMANINSTITUTE.ORG
+Created On:03-Apr-2001 15:40:28 UTC
+Last Updated On:19-May-2010 09:57:53 UTC
+Expiration Date:03-Apr-2012 16:40:28 UTC
+Sponsoring Registrar:Spot Domain LLC dba Domainsite.com (R87-LROR)
+Status:OK
+Registrant ID:dsite-203226
+Registrant Name:David Braddock
+Registrant Organization:Coleman Institute
+Registrant Street1:4001 Discovery Dr. Suite 210
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boulder
+Registrant State/Province:CO
+Registrant Postal Code:80303
+Registrant Country:US
+Registrant Phone:+1.3037356212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:braddock@cu.edu
+Admin ID:dsite-118046
+Admin Name:Jeff Arduino
+Admin Organization:Coleman Institute
+Admin Street1:3100 Marine Street
+Admin Street2:
+Admin Street3:
+Admin City:Boulder
+Admin State/Province:CO
+Admin Postal Code:80309
+Admin Country:US
+Admin Phone:+1.3037356212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jeff.arduino@ucsub.colorado.edu
+Tech ID:dsite-203227
+Tech Name:Jeff Arduino
+Tech Organization:Coleman Institute
+Tech Street1:3100 Marine Street
+Tech Street2:
+Tech Street3:
+Tech City:Boulder
+Tech State/Province:CO
+Tech Postal Code:80309
+Tech Country:US
+Tech Phone:+1.3037356212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jeff.arduino@ucsub.colorado.edu
+Name Server:ARIEL.ADGRP.COM
+Name Server:NS1.ROCKYNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

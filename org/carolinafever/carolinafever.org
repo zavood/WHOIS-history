@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158728727-LROR
+Domain Name:CAROLINAFEVER.ORG
+Created On:29-Mar-2010 21:39:50 UTC
+Last Updated On:30-Mar-2011 17:41:50 UTC
+Expiration Date:29-Mar-2013 21:39:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR44813877
+Registrant Name:Zachary Toal
+Registrant Organization:Carolina Fever
+Registrant Street1:281 Raleigh Street
+Registrant Street2:Connor Dorm, Room 222
+Registrant Street3:
+Registrant City:Chapel Hill
+Registrant State/Province:North Carolina
+Registrant Postal Code:27514
+Registrant Country:US
+Registrant Phone:+1.6785917860
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:zacharybtoal@gmail.com
+Admin ID:CR44813880
+Admin Name:Zachary Toal
+Admin Organization:Carolina Fever
+Admin Street1:281 Raleigh Street
+Admin Street2:Connor Dorm, Room 222
+Admin Street3:
+Admin City:Chapel Hill
+Admin State/Province:North Carolina
+Admin Postal Code:27514
+Admin Country:US
+Admin Phone:+1.6785917860
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:zacharybtoal@gmail.com
+Tech ID:CR44813878
+Tech Name:Zachary Toal
+Tech Organization:Carolina Fever
+Tech Street1:281 Raleigh Street
+Tech Street2:Connor Dorm, Room 222
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:North Carolina
+Tech Postal Code:27514
+Tech Country:US
+Tech Phone:+1.6785917860
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:zacharybtoal@gmail.com
+Name Server:NS07.DOMAINCONTROL.COM
+Name Server:NS08.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

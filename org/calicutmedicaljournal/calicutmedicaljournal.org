@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101484995-LROR
+Domain Name:CALICUTMEDICALJOURNAL.ORG
+Created On:22-Sep-2003 06:48:43 UTC
+Last Updated On:08-Jul-2011 06:31:00 UTC
+Expiration Date:22-Sep-2013 06:48:43 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_1624040
+Registrant Name:Dr . narayanandas
+Registrant Organization:calicut medical college alumini association
+Registrant Street1:president
+Registrant Street2:calicut
+Registrant Street3:kerala
+Registrant City:calicut
+Registrant State/Province:
+Registrant Postal Code:0998980
+Registrant Country:IN
+Registrant Phone:+091.89797798
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:alumnicmc@yahoo.com
+Admin ID:DI_1624040
+Admin Name:Dr . narayanandas
+Admin Organization:calicut medical college alumini association
+Admin Street1:president
+Admin Street2:calicut
+Admin Street3:kerala
+Admin City:calicut
+Admin State/Province:
+Admin Postal Code:0998980
+Admin Country:IN
+Admin Phone:+091.89797798
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:alumnicmc@yahoo.com
+Tech ID:DI_1624040
+Tech Name:Dr . narayanandas
+Tech Organization:calicut medical college alumini association
+Tech Street1:president
+Tech Street2:calicut
+Tech Street3:kerala
+Tech City:calicut
+Tech State/Province:
+Tech Postal Code:0998980
+Tech Country:IN
+Tech Phone:+091.89797798
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:alumnicmc@yahoo.com
+Name Server:LNX10.SUPERNETSOL.NET
+Name Server:LNX20.SUPERNETSOL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

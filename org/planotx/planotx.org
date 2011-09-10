@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7867034-LROR
+Domain Name:PLANOTX.ORG
+Created On:09-Jul-1999 14:28:31 UTC
+Last Updated On:01-May-2008 18:51:52 UTC
+Expiration Date:09-Jul-2013 14:28:31 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23303215-NSI
+Registrant Name:City of Plano
+Registrant Organization:City of Plano
+Registrant Street1:1520 Ave K
+Registrant Street2:
+Registrant Street3:
+Registrant City:Plano
+Registrant State/Province:TX
+Registrant Postal Code:75074
+Registrant Country:US
+Registrant Phone:+1.9729417324
+Registrant Phone Ext.:
+Registrant FAX:+1.9729417603
+Registrant FAX Ext.:
+Registrant Email:webmaster@plano.gov
+Admin ID:23303215-NSI
+Admin Name:City of Plano
+Admin Organization:City of Plano
+Admin Street1:1520 Ave K
+Admin Street2:
+Admin Street3:
+Admin City:Plano
+Admin State/Province:TX
+Admin Postal Code:75074
+Admin Country:US
+Admin Phone:+1.9729417324
+Admin Phone Ext.:
+Admin FAX:+1.9729417603
+Admin FAX Ext.:
+Admin Email:webmaster@plano.gov
+Tech ID:23303215-NSI
+Tech Name:City of Plano
+Tech Organization:City of Plano
+Tech Street1:1520 Ave K
+Tech Street2:
+Tech Street3:
+Tech City:Plano
+Tech State/Province:TX
+Tech Postal Code:75074
+Tech Country:US
+Tech Phone:+1.9729417324
+Tech Phone Ext.:
+Tech FAX:+1.9729417603
+Tech FAX Ext.:
+Tech Email:webmaster@plano.gov
+Name Server:NS1.PLANO.GOV
+Name Server:NS2.PLANO.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

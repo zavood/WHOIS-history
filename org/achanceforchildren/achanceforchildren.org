@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86770517-LROR
+Domain Name:ACHANCEFORCHILDREN.ORG
+Created On:20-May-2002 20:16:10 UTC
+Last Updated On:16-Feb-2011 01:33:42 UTC
+Expiration Date:20-May-2012 20:16:10 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:4640470feb848961
+Registrant Name:Tai Collins
+Registrant Organization:A Chance For Children Foundation
+Registrant Street1:17366 SunSet Blvd.  #102B
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pac Palisades
+Registrant State/Province:CA
+Registrant Postal Code:90272
+Registrant Country:US
+Registrant Phone:+1.3108334217
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:p_hoffman@sbcglobal.net
+Admin ID:2268067e03d87780
+Admin Name:Domain Registrar
+Admin Organization:Registercom
+Admin Street1:575 8th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10018
+Admin Country:US
+Admin Phone:+1.9027492701
+Admin Phone Ext.:
+Admin FAX:+1.9027492701
+Admin FAX Ext.:
+Admin Email:domainregistrar@register.com
+Tech ID:2268067e03d87780
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS240.A.REGISTER.COM
+Name Server:DNS047.B.REGISTER.COM
+Name Server:DNS200.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

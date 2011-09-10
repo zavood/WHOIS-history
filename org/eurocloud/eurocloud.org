@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155895089-LROR
+Domain Name:EUROCLOUD.ORG
+Created On:18-Apr-2009 13:12:06 UTC
+Last Updated On:26-Aug-2011 00:25:53 UTC
+Expiration Date:18-Apr-2014 13:12:06 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:OK
+Registrant ID:MBV1261846443
+Registrant Name:Maurice van der Woude
+Registrant Organization:EuroCloud Europe
+Registrant Street1:rue Michel-Ange 114 bis
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75016
+Registrant Country:FR
+Registrant Phone:+33.31620199608
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mvdwoude@eurocloud.org
+Admin ID:P-19276895
+Admin Name:Berrie Pelser
+Admin Organization:Ber|Art Visual Design
+Admin Street1:Mispelstraat 19
+Admin Street2:
+Admin Street3:
+Admin City:Dorst
+Admin State/Province:
+Admin Postal Code:4849 BC
+Admin Country:NL
+Admin Phone:+31.161413037
+Admin Phone Ext.:
+Admin FAX:+31.161413217
+Admin FAX Ext.:
+Admin Email:info@ber-art.nl
+Tech ID:P-19276895
+Tech Name:Berrie Pelser
+Tech Organization:Ber|Art Visual Design
+Tech Street1:Mispelstraat 19
+Tech Street2:
+Tech Street3:
+Tech City:Dorst
+Tech State/Province:
+Tech Postal Code:4849 BC
+Tech Country:NL
+Tech Phone:+31.161413037
+Tech Phone Ext.:
+Tech FAX:+31.161413217
+Tech FAX Ext.:
+Tech Email:info@ber-art.nl
+Name Server:NS5.CONTENTPOWERHOSTING.NL
+Name Server:NS6.CONTENTPOWERHOSTING.NL
+Name Server:NS9.CONTENTPOWERHOSTING.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

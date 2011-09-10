@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74666513-LROR
+Domain Name:AIDS2012.ORG
+Created On:04-Jul-2001 08:33:17 UTC
+Last Updated On:23-Mar-2010 11:21:50 UTC
+Expiration Date:04-Jul-2013 08:33:16 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:OK
+Registrant ID:DI_9269628
+Registrant Name:Sebastien Charlier
+Registrant Organization:International AIDS Society
+Registrant Street1:71, Avenue Louis Casai
+Registrant Street2:
+Registrant Street3:
+Registrant City:COINTRIN
+Registrant State/Province:
+Registrant Postal Code:1216
+Registrant Country:CH
+Registrant Phone:+41.227100804
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sebastien@iasociety.org
+Admin ID:DI_9269628
+Admin Name:Sebastien Charlier
+Admin Organization:International AIDS Society
+Admin Street1:71, Avenue Louis Casai
+Admin Street2:
+Admin Street3:
+Admin City:COINTRIN
+Admin State/Province:
+Admin Postal Code:1216
+Admin Country:CH
+Admin Phone:+41.227100804
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sebastien@iasociety.org
+Tech ID:DI_9269628
+Tech Name:Sebastien Charlier
+Tech Organization:International AIDS Society
+Tech Street1:71, Avenue Louis Casai
+Tech Street2:
+Tech Street3:
+Tech City:COINTRIN
+Tech State/Province:
+Tech Postal Code:1216
+Tech Country:CH
+Tech Phone:+41.227100804
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sebastien@iasociety.org
+Name Server:US2.MERCURY.ORDERBOX-DNS.COM
+Name Server:US2.VENUS.ORDERBOX-DNS.COM
+Name Server:US2.EARTH.ORDERBOX-DNS.COM
+Name Server:US2.MARS.ORDERBOX-DNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

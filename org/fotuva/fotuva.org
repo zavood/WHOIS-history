@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D18931976-LROR
+Domain Name:FOTUVA.ORG
+Created On:02-Feb-2000 18:24:03 UTC
+Last Updated On:02-Dec-2010 03:40:24 UTC
+Expiration Date:02-Feb-2013 18:24:03 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31074017
+Registrant Name:Ralph Leighton
+Registrant Organization:Friends of Tuva
+Registrant Street1:32 Hyde Park Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ottawa
+Registrant State/Province:Ontario
+Registrant Postal Code:K2G 5R4
+Registrant Country:CA
+Registrant Phone:+1.4157891177
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@yackoboski.com
+Admin ID:CR31074019
+Admin Name:Kerry Yackoboski
+Admin Organization:Friends of Tuva
+Admin Street1:32 Hyde Park Way
+Admin Street2:
+Admin Street3:
+Admin City:Ottawa
+Admin State/Province:Ontario
+Admin Postal Code:K2G5R4
+Admin Country:CA
+Admin Phone:+1.6137276337
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@yackoboski.com
+Tech ID:CR31074018
+Tech Name:Kerry Yackoboski
+Tech Organization:Friends of Tuva
+Tech Street1:32 Hyde Park Way
+Tech Street2:
+Tech Street3:
+Tech City:Ottawa
+Tech State/Province:Ontario
+Tech Postal Code:K2G5R4
+Tech Country:CA
+Tech Phone:+1.6137276337
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@yackoboski.com
+Name Server:NS3.PATRIOT.NET
+Name Server:NS4.PATRIOT.NET
+Name Server:NS5.PATRIOT.NET
+Name Server:NS6.PATRIOT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

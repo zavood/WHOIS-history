@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5129693-LROR
+Domain Name:TGSLC.ORG
+Created On:19-May-1994 04:00:00 UTC
+Last Updated On:04-Mar-2009 20:35:05 UTC
+Expiration Date:20-May-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22832407-NSI
+Registrant Name:TexasGuaranteedStudent Loan Corporation
+Registrant Organization:TexasGuaranteedStudent Loan Corporation
+Registrant Street1:P.O. Box 83100
+Registrant Street2:
+Registrant Street3:
+Registrant City:Round Rock
+Registrant State/Province:TX
+Registrant Postal Code:78683-3100
+Registrant Country:US
+Registrant Phone:+1.5122194547
+Registrant Phone Ext.:
+Registrant FAX:+1.5122194850
+Registrant FAX Ext.:
+Registrant Email:art.martinez@TGSLC.ORG
+Admin ID:15040302-NSI
+Admin Name:Art Martinez
+Admin Organization:TG
+Admin Street1:P.O. Box 83100
+Admin Street2:
+Admin Street3:
+Admin City:Round Rock
+Admin State/Province:TX
+Admin Postal Code:78683-3100
+Admin Country:US
+Admin Phone:+1.5122194547
+Admin Phone Ext.:
+Admin FAX:+1.5122194850
+Admin FAX Ext.:
+Admin Email:art.martinez@tgslc.org
+Tech ID:17510231-NSI
+Tech Name:Rees Coombe
+Tech Organization:Texas Guaranteed Student Loan Corp.
+Tech Street1:P.O. Box 83100
+Tech Street2:
+Tech Street3:
+Tech City:Round Rock
+Tech State/Province:TX
+Tech Postal Code:78683-3100
+Tech Country:US
+Tech Phone:+1.5122194521
+Tech Phone Ext.:
+Tech FAX:+1.5122194654
+Tech FAX Ext.:
+Tech Email:rees.coombe@TGSLC.ORG
+Name Server:CBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:CMTU.MT.NS.ELS-GMS.ATT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,56 @@
+query: hani.co.kr
+
+# KOREAN
+
+
+&micro;&micro;&cedil;&THORN;&Agrave;&Icirc;&Agrave;&Igrave;&cedil;&sect;                  : hani.co.kr
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc;                      : &Ccedil;&Ntilde;&deg;&Uuml;&middot;&sup1;&frac12;&Aring;&sup1;&reg;&cent;&szlig;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &Aacute;&Ouml;&frac14;&Ograve;                 : &frac14;&shy;&iquest;&iuml; &cedil;&para;&AElig;&divide;&plusmn;&cedil; &deg;&oslash;&acute;&ouml;&micro;&iquest; 116-25 &Ccedil;&Ntilde;&deg;&Uuml;&middot;&sup1;&frac12;&Aring;&sup1;&reg;&raquo;&ccedil;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &iquest;&igrave;&AElig;&iacute;&sup1;&oslash;&Egrave;&pound;             : 121020
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute;                      : &Ccedil;&Ntilde;&deg;&Uuml;&middot;&sup1;&frac12;&Aring;&sup1;&reg;&cent;&szlig;
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Agrave;&Uacute;&iquest;&igrave;&AElig;&iacute;             : noopy@hani.co.kr
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Egrave;&shy;&sup1;&oslash;&Egrave;&pound;             : 82-02-710
+&micro;&icirc;&middot;&Iuml;&Agrave;&Iuml;                      : 1995. 07. 08.
+&Atilde;&Ouml;&plusmn;&Ugrave; &Aacute;&curren;&ordm;&cedil; &ordm;&macr;&deg;&aelig;&Agrave;&Iuml;            : 2010. 09. 15.
+&raquo;&ccedil;&iquest;&euml; &Aacute;&frac34;&middot;&aacute;&Agrave;&Iuml;                 : 2011. 10. 15.
+&Aacute;&curren;&ordm;&cedil;&deg;&oslash;&deg;&sup3;&iquest;&copy;&ordm;&Icirc;                : Y
+&micro;&icirc;&middot;&Iuml;&acute;&euml;&Ccedil;&agrave;&Agrave;&Uacute;                  : &acute;&otilde;&ordm;&iacute;&Agrave;&macr;&iquest;&iexcl;&Agrave;&Igrave;&Auml;&iexcl;&AElig;&frac14;(http://www.r.co.kr)
+
+1&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns3.ihani.co.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.233.22.160
+
+2&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns.ihani.co.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.233.22.183
+
+&sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Agrave;&Igrave;&cedil;&sect;&Agrave;&Igrave; .kr&Agrave;&Igrave; &frac34;&AElig;&acute;&Ntilde; &deg;&aelig;&iquest;&igrave;&acute;&Acirc; IP&Aacute;&Ouml;&frac14;&Ograve;&deg;&iexcl; &ordm;&cedil;&Agrave;&Igrave;&Aacute;&ouml; &frac34;&Ecirc;&frac12;&Agrave;&acute;&Iuml;&acute;&Ugrave;.
+
+# ENGLISH
+
+
+Domain Name                 : hani.co.kr
+Registrant                  : Hankyoreh
+Registrant Address          : , Seoul, KR Gongdeok-dong, Mapo-gu
+Registrant Zip Code         : 121020
+Administrative Contact(AC)  : Hankyoreh
+AC E-Mail                   : noopy@hani.co.kr
+AC Phone Number             : 82-02-710
+Registered Date             : 1995. 07. 08.
+Last updated Date           : 2010. 09. 15.
+Expiration Date             : 2011. 10. 15.
+Publishes                   : Y
+Authorized Agency           : WHT(http://www.r.co.kr)
+
+Primary Name Server
+   Host Name                : ns3.ihani.co.kr
+   IP Address               : 211.233.22.160
+
+Secondary Name Server
+   Host Name                : ns.ihani.co.kr
+   IP Address               : 211.233.22.183
+
+
+- KISA/KRNIC Whois Service -
+
+

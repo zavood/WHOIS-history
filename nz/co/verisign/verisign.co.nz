@@ -1,0 +1,75 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-10T18:37:14+12:00
+domain_name: verisign.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-09-13T09:49:00+12:00
+domain_datebilleduntil: 2012-09-13T09:49:00+12:00
+domain_datelastmodified: 2011-09-10T12:42:05+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Melbourne IT Limited
+registrar_address1: Level 2
+registrar_address2: 120 King Street
+registrar_city: Melbourne
+registrar_province: Victoria
+registrar_postalcode: 3000
+registrar_country: AU (AUSTRALIA)
+registrar_phone: +61 3 8624 2300
+registrar_fax: +61 3 8624 2499
+registrar_email: hostmaster@melbourneit.com
+%
+registrant_contact_name: Verisign Inc.
+registrant_contact_address1: 21355 Ridgetop Circle
+registrant_contact_city: Dulles
+registrant_contact_province: VA
+registrant_contact_postalcode: 20166
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +1  7039484300
+registrant_contact_fax: +1  7039484331
+registrant_contact_email: vshostmaster@verisign.com
+%
+admin_contact_name: Verisign Hostmaster
+admin_contact_address1: 21345 Ridgetop Circle
+admin_contact_city: Dulles
+admin_contact_province: VA
+admin_contact_postalcode: 20166
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +1  7039484300
+admin_contact_fax: +1  7039484331
+admin_contact_email: vshostmaster@verisign.com
+%
+technical_contact_name: Melbourne IT Billing
+technical_contact_address1: 636 Ellis Street
+technical_contact_address2: Mountain View CA 94043 US
+technical_contact_city: Mountain View
+technical_contact_province: CA
+technical_contact_postalcode: 94043
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1  8669073267
+technical_contact_fax: +1  6509633266
+technical_contact_email: billing@melbourneitdbs.com
+%
+ns_name_01: a4.nstld.com
+ns_name_02: f4.nstld.com
+ns_name_03: g4.nstld.com
+ns_name_04: l4.nstld.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22475918-LROR
+Domain Name:HOPECHURCHONLINE.ORG
+Created On:15-Mar-2000 17:38:21 UTC
+Last Updated On:07-Aug-2010 04:16:16 UTC
+Expiration Date:15-Mar-2012 17:38:21 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:d848242fa8b5132b
+Registrant Name:Karmen  Friesen
+Registrant Organization:CoMission
+Registrant Street1:2900 Delk Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Marietta
+Registrant State/Province:GA
+Registrant Postal Code:30067
+Registrant Country:US
+Registrant Phone:+1.7174315977
+Registrant Phone Ext.:
+Registrant FAX:+1.7174315977
+Registrant FAX Ext.:
+Registrant Email:namecheap@comission.org
+Admin ID:d848242fa8b5132b
+Admin Name:Karmen  Friesen
+Admin Organization:CoMission
+Admin Street1:2900 Delk Road
+Admin Street2:
+Admin Street3:
+Admin City:Marietta
+Admin State/Province:GA
+Admin Postal Code:30067
+Admin Country:US
+Admin Phone:+1.7174315977
+Admin Phone Ext.:
+Admin FAX:+1.7174315977
+Admin FAX Ext.:
+Admin Email:namecheap@comission.org
+Tech ID:d848242fa8b5132b
+Tech Name:Karmen  Friesen
+Tech Organization:CoMission
+Tech Street1:2900 Delk Road
+Tech Street2:
+Tech Street3:
+Tech City:Marietta
+Tech State/Province:GA
+Tech Postal Code:30067
+Tech Country:US
+Tech Phone:+1.7174315977
+Tech Phone Ext.:
+Tech FAX:+1.7174315977
+Tech FAX Ext.:
+Tech Email:namecheap@comission.org
+Name Server:DNS1.REGISTRAR-SERVERS.COM
+Name Server:DNS2.REGISTRAR-SERVERS.COM
+Name Server:DNS3.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

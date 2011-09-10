@@ -1,0 +1,20 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     UCS.SU
+nserver:    ns1.di-net.ru.
+nserver:    ns2.di-net.ru.
+state:      REGISTERED, DELEGATED
+org:        United Card Service
+phone:      +7 495 9564806
+e-mail:     webadmin@ucscard.ru
+e-mail:     nic@masterhost.ru
+registrar:  RUCENTER-REG-FID
+created:    2007.02.13
+paid-till:  2012.02.13
+source:     TCI
+
+Last updated on 2011.09.10 16:00:46 MSK/MSD
+

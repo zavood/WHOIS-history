@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105554430-LROR
+Domain Name:NEPHARMACISTS.ORG
+Created On:11-Jan-2005 17:58:54 UTC
+Last Updated On:13-May-2010 14:05:59 UTC
+Expiration Date:11-Jan-2012 17:58:54 UTC
+Sponsoring Registrar:Misk.com, Inc. (R119-LROR)
+Status:OK
+Registrant ID:NIT0501111258B9W
+Registrant Name:Marghie Giuliano
+Registrant Organization:Connecticut Pharmacists Association
+Registrant Street1:35 Cold Spring Rd., Ste 121
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rocky Hill
+Registrant State/Province:CT
+Registrant Postal Code:06067
+Registrant Country:US
+Registrant Phone:+1.8605634619
+Registrant Phone Ext.:
+Registrant FAX:+1.8602578241
+Registrant FAX Ext.:
+Registrant Email:mgiuliano@ctpharmacists.org
+Admin ID:NIT0501111258W1G
+Admin Name:Marghie Giuliano
+Admin Organization:Connecticut Pharmacists Association
+Admin Street1:35 Cold Spring Rd., Ste 121
+Admin Street2:
+Admin Street3:
+Admin City:Rocky Hill
+Admin State/Province:CT
+Admin Postal Code:06067
+Admin Country:US
+Admin Phone:+1.8605634619
+Admin Phone Ext.:
+Admin FAX:+1.8602578241
+Admin FAX Ext.:
+Admin Email:mgiuliano@ctpharmacists.org
+Tech ID:NIT05011112581L9
+Tech Name:Marghie Giuliano
+Tech Organization:Connecticut Pharmacists Association
+Tech Street1:35 Cold Spring Rd., Ste 121
+Tech Street2:
+Tech Street3:
+Tech City:Rocky Hill
+Tech State/Province:CT
+Tech Postal Code:06067
+Tech Country:US
+Tech Phone:+1.8605634619
+Tech Phone Ext.:
+Tech FAX:+1.8602578241
+Tech FAX Ext.:
+Tech Email:mgiuliano@ctpharmacists.org
+Name Server:NS1.MISK.COM
+Name Server:NS2.MISK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

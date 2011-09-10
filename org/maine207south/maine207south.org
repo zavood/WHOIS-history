@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87750103-LROR
+Domain Name:MAINE207SOUTH.ORG
+Created On:21-Jun-2002 15:04:09 UTC
+Last Updated On:22-Apr-2011 06:54:59 UTC
+Expiration Date:21-Jun-2014 15:04:09 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:21292861-NSI
+Registrant Name:MaineTownshipHigh School District 207
+Registrant Organization:MaineTownshipHigh School District 207
+Registrant Street1:1111 South Dee Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Park Ridge
+Registrant State/Province:IL
+Registrant Postal Code:60068
+Registrant Country:US
+Registrant Phone:+1.8476928003
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bdreger@maine207south.k12.il.us
+Admin ID:21292861-NSI
+Admin Name:MaineTownshipHigh School District 207
+Admin Organization:MaineTownshipHigh School District 207
+Admin Street1:1111 South Dee Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Park Ridge
+Admin State/Province:IL
+Admin Postal Code:60068
+Admin Country:US
+Admin Phone:+1.8476928003
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bdreger@maine207south.k12.il.us
+Tech ID:21292861-NSI
+Tech Name:MaineTownshipHigh School District 207
+Tech Organization:MaineTownshipHigh School District 207
+Tech Street1:1111 South Dee Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Park Ridge
+Tech State/Province:IL
+Tech Postal Code:60068
+Tech Country:US
+Tech Phone:+1.8476928003
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bdreger@maine207south.k12.il.us
+Name Server:NS1.DNSPARK.NET
+Name Server:NS2.DNSPARK.NET
+Name Server:NS3.DNSPARK.NET
+Name Server:NS4.DNSPARK.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

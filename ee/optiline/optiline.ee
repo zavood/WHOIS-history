@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       optiline.ee
+registrant:   CID:EESTIDOMEENID:896
+admin-c:      CID:EESTIDOMEENID:897
+nsset:        NSSID:EESTIDOMEENID:244
+registrar:    eestidomeenid
+status:       paid and in zone
+registered:   04.07.2010 04:40:11
+changed:      21.12.2010 16:31:51
+expire:       21.12.2011
+
+contact:      CID:EESTIDOMEENID:896
+name:         O&Atilde;œ Optiline Grupp
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      21.12.2010 16:31:23
+
+contact:      CID:EESTIDOMEENID:897
+name:         Ilmar K&Atilde;&curren;stik
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      04.10.2010 23:08:44
+
+nsset:        NSSID:EESTIDOMEENID:244
+nserver:      whmns2.termnet.ee (212.47.217.221)
+nserver:      whmns1.termnet.ee (212.47.217.220)
+tech-c:       CID:EESTIDOMEENID:898
+registrar:    eestidomeenid
+created:      21.12.2010 16:31:33
+changed:      09.01.2011 20:30:31
+
+contact:      CID:EESTIDOMEENID:898
+name:         Ilmar K&Atilde;&curren;stik
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      21.12.2010 16:31:29
+
+

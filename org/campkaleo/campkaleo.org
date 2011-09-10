@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101892877-LROR
+Domain Name:CAMPKALEO.ORG
+Created On:25-Oct-2003 23:00:14 UTC
+Last Updated On:29-Aug-2011 02:16:39 UTC
+Expiration Date:25-Oct-2013 23:00:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30855369
+Registrant Name:Mike Flowers
+Registrant Organization:Camp Kaleo
+Registrant Street1:463 Old Zebulon Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Forsyth
+Registrant State/Province:Georgia
+Registrant Postal Code:31029
+Registrant Country:US
+Registrant Phone:+1.14789945333
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mflowers@gabaptist.org
+Admin ID:CR30855371
+Admin Name:Mike Flowers
+Admin Organization:Camp Kaleo
+Admin Street1:463 Old Zebulon Road
+Admin Street2:
+Admin Street3:
+Admin City:Forsyth
+Admin State/Province:Georgia
+Admin Postal Code:31029
+Admin Country:US
+Admin Phone:+1.14789945333
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mflowers@gabaptist.org
+Tech ID:CR30855370
+Tech Name:Mike Flowers
+Tech Organization:Camp Kaleo
+Tech Street1:463 Old Zebulon Road
+Tech Street2:
+Tech Street3:
+Tech City:Forsyth
+Tech State/Province:Georgia
+Tech Postal Code:31029
+Tech Country:US
+Tech Phone:+1.14789945333
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mflowers@gabaptist.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

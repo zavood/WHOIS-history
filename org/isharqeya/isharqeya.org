@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120606302-LROR
+Domain Name:ISHARQEYA.ORG
+Created On:17-Apr-2006 11:18:38 UTC
+Last Updated On:09-Jun-2011 12:46:44 UTC
+Expiration Date:17-Apr-2012 11:18:38 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tudL8IstPcL7WnIM
+Registrant Name:Sharqia Society
+Registrant Organization:Sharqia Society
+Registrant Street1:Gaza
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gaza
+Registrant State/Province:Gaza
+Registrant Postal Code:00000
+Registrant Country:PS
+Registrant Phone:+972.82072230
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jamea_sharqeya@hotmail.com
+Admin ID:tuZNuNxOLY6XcJ4G
+Admin Name:Sharqia Society
+Admin Organization:Sharqia Society
+Admin Street1:Gaza
+Admin Street2:
+Admin Street3:
+Admin City:Gaza
+Admin State/Province:Gaza
+Admin Postal Code:00000
+Admin Country:PS
+Admin Phone:+972.82072230
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jamea_sharqeya@hotmail.com
+Tech ID:tuCt3csbnddI6CR1
+Tech Name:Sharqia Society
+Tech Organization:Sharqia Society
+Tech Street1:Gaza
+Tech Street2:
+Tech Street3:
+Tech City:Gaza
+Tech State/Province:Gaza
+Tech Postal Code:00000
+Tech Country:PS
+Tech Phone:+972.82072230
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jamea_sharqeya@hotmail.com
+Name Server:NS13.NEPRAS.NET
+Name Server:NS14.NEPRAS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

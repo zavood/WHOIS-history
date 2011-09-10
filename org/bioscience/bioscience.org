@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D279401-LROR
+Domain Name:BIOSCIENCE.ORG
+Created On:16-Feb-1996 05:00:00 UTC
+Last Updated On:10-Feb-2011 22:51:36 UTC
+Expiration Date:17-Feb-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30165917-NSI
+Registrant Name:Frontiers in Bioscience
+Registrant Organization:Frontiers in Bioscience
+Registrant Street1:20 Sunset Cove
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newport Coast
+Registrant State/Province:CA
+Registrant Postal Code:92657
+Registrant Country:US
+Registrant Phone:+1.9497158286
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:Tabibzadeh@BIOSCIENCE.ORG
+Admin ID:30165919-NSI
+Admin Name:Frontiers in Bioscience
+Admin Organization:Frontiers in Bioscience
+Admin Street1:350 COMMUNITY DR
+Admin Street2:
+Admin Street3:
+Admin City:MANHASSET
+Admin State/Province:NY
+Admin Postal Code:11030-3849
+Admin Country:US
+Admin Phone:+1.51648428
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Tabibzadeh@BIOSCIENCE.ORG
+Tech ID:5444938-NSI
+Tech Name:digiHOST.com, Inc.
+Tech Organization:digiHOST.com, Inc.
+Tech Street1:10030 McNab Road
+Tech Street2:
+Tech Street3:
+Tech City:Tamarac
+Tech State/Province:FL
+Tech Postal Code:33321
+Tech Country:US
+Tech Phone:+1.9547188000
+Tech Phone Ext.:
+Tech FAX:+1.9547189256
+Tech FAX Ext.:
+Tech Email:hostmaster@DOMAINNAMESERVERS.NET
+Name Server:NS33.WORLDNIC.COM
+Name Server:NS34.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

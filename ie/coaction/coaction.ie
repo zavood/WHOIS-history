@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      coaction.ie
+descr:       Coaction West Cork Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     LH108-IEDR
+tech-c:      WIL6-IEDR
+renewal:     22-August-2011
+status:      Active
+nserver:     NS1.WEBHOSTINGIRELAND.IE
+nserver:     NS2.WEBHOSTINGIRELAND.IE
+nserver:     NS3.WEBHOSTINGIRELAND.IE
+source:      IEDR
+
+person:      Mary O'Donovan
+nic-hdl:     LH108-IEDR
+source:      IEDR
+
+person:      David Farrelly
+nic-hdl:     WIL6-IEDR
+source:      IEDR
+

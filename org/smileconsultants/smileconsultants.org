@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155027014-LROR
+Domain Name:SMILECONSULTANTS.ORG
+Created On:05-Jan-2009 05:06:51 UTC
+Last Updated On:27-Dec-2010 17:37:22 UTC
+Expiration Date:05-Jan-2013 05:06:51 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32730311
+Registrant Name:Sultan Ali Kudchiwala
+Registrant Organization:Smile Consultants
+Registrant Street1:D-4, Pride Residency II, Shreya Nagar,
+Registrant Street2:Tapadiya Village, B/h Rathi Towers,
+Registrant Street3:
+Registrant City:Aurangabad
+Registrant State/Province:Maharashtra
+Registrant Postal Code:431001
+Registrant Country:IN
+Registrant Phone:+91.919860017786
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ab.khalique@gmail.com
+Admin ID:CR32730316
+Admin Name:Sultan Ali Kudchiwala
+Admin Organization:Smile Consultants
+Admin Street1:D-4, Pride Residency II, Shreya Nagar,
+Admin Street2:Tapadiya Village, B/h Rathi Towers,
+Admin Street3:
+Admin City:Aurangabad
+Admin State/Province:Maharashtra
+Admin Postal Code:431001
+Admin Country:IN
+Admin Phone:+91.919860017786
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ab.khalique@gmail.com
+Tech ID:CR32730313
+Tech Name:Sultan Ali Kudchiwala
+Tech Organization:Smile Consultants
+Tech Street1:D-4, Pride Residency II, Shreya Nagar,
+Tech Street2:Tapadiya Village, B/h Rathi Towers,
+Tech Street3:
+Tech City:Aurangabad
+Tech State/Province:Maharashtra
+Tech Postal Code:431001
+Tech Country:IN
+Tech Phone:+91.919860017786
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ab.khalique@gmail.com
+Name Server:NS30.DOMAINCONTROL.COM
+Name Server:NS29.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

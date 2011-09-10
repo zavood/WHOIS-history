@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156109628-LROR
+Domain Name:QUALILEO.ORG
+Created On:12-May-2009 08:55:40 UTC
+Last Updated On:06-Apr-2011 07:36:58 UTC
+Expiration Date:12-May-2012 08:55:40 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D124223295623339
+Registrant Name:AFNOR
+Registrant Organization:AFNOR
+Registrant Street1:11 rue Francis de Pressense
+Registrant Street2:
+Registrant Street3:
+Registrant City:SAINT DENIS LA PLAINE CEDEX
+Registrant State/Province:SAINT DENIS LA PLAINE CEDEX
+Registrant Postal Code:9357
+Registrant Country:FR
+Registrant Phone:+33.141628000
+Registrant Phone Ext.:
+Registrant FAX:+33.149179077
+Registrant FAX Ext.:
+Registrant Email:dsi_production@afnor.org
+Admin ID:D124223295623340
+Admin Name:Service Juridique
+Admin Organization:AFNOR
+Admin Street1:11 rue Francis de Pressense
+Admin Street2:
+Admin Street3:
+Admin City:SAINT DENIS LA PLAINE CEDEX
+Admin State/Province:SAINT DENIS LA PLAINE CEDEX
+Admin Postal Code:93571
+Admin Country:FR
+Admin Phone:+33.141628000
+Admin Phone Ext.:
+Admin FAX:+33.149179077
+Admin FAX Ext.:
+Admin Email:admin-administratif-web@afnor.org
+Tech ID:C124209283682886
+Tech Name:Departement Systemes d'Information
+Tech Organization:AFNOR
+Tech Street1:11 rue Francis de Pressense
+Tech Street2:
+Tech Street3:
+Tech City:SAINT DENIS LA PLAINE CEDEX
+Tech State/Province:SAINT DENIS LA PLAINE CEDEX
+Tech Postal Code:93571
+Tech Country:FR
+Tech Phone:+33.141628000
+Tech Phone Ext.:
+Tech FAX:+33.149179077
+Tech FAX Ext.:
+Tech Email:dsi_production@afnor.org
+Name Server:A4.NSTLD.COM
+Name Server:F4.NSTLD.COM
+Name Server:SATURNE.AFNOR.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

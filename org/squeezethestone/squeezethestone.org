@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107873684-LROR
+Domain Name:SQUEEZETHESTONE.ORG
+Created On:19-Oct-2005 16:49:29 UTC
+Last Updated On:05-Oct-2010 07:14:53 UTC
+Expiration Date:19-Oct-2011 16:49:29 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30413636
+Registrant Name:rixzel13 catacutan
+Registrant Organization:rgc13
+Registrant Street1:add
+Registrant Street2:convention
+Registrant Street3:
+Registrant City:apalit
+Registrant State/Province:pampanga
+Registrant Postal Code:2016
+Registrant Country:PH
+Registrant Phone:+63.09214828551
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sutzain@yahoo.com
+Admin ID:CR30413638
+Admin Name:rixzel13 catacutan
+Admin Organization:rgc13
+Admin Street1:add
+Admin Street2:convention
+Admin Street3:
+Admin City:apalit
+Admin State/Province:pampanga
+Admin Postal Code:2016
+Admin Country:PH
+Admin Phone:+63.09214828551
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sutzain@yahoo.com
+Tech ID:CR30413637
+Tech Name:rixzel13 catacutan
+Tech Organization:rgc13
+Tech Street1:add
+Tech Street2:convention
+Tech Street3:
+Tech City:apalit
+Tech State/Province:pampanga
+Tech Postal Code:2016
+Tech Country:PH
+Tech Phone:+63.09214828551
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sutzain@yahoo.com
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

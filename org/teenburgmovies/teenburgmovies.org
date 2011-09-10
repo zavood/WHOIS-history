@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152769151-LROR
+Domain Name:TEENBURGMOVIES.ORG
+Created On:20-May-2008 18:26:26 UTC
+Last Updated On:30-Jan-2011 23:24:52 UTC
+Expiration Date:20-May-2012 18:26:26 UTC
+Sponsoring Registrar:Moniker Online Services LLC (R145-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:MONIKER1522996
+Registrant Name:Sergey Torshin
+Registrant Street1:274, 31 Bela Kuna str.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Simferopol
+Registrant State/Province:Crimea
+Registrant Postal Code:95022
+Registrant Country:UA
+Registrant Phone:+380.507636666
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:adminfreebsd@gmail.com
+Admin ID:MONIKER1522996
+Admin Name:Sergey Torshin
+Admin Street1:274, 31 Bela Kuna str.
+Admin Street2:
+Admin Street3:
+Admin City:Simferopol
+Admin State/Province:Crimea
+Admin Postal Code:95022
+Admin Country:UA
+Admin Phone:+380.507636666
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:adminfreebsd@gmail.com
+Tech ID:MONIKER1522996
+Tech Name:Sergey Torshin
+Tech Street1:274, 31 Bela Kuna str.
+Tech Street2:
+Tech Street3:
+Tech City:Simferopol
+Tech State/Province:Crimea
+Tech Postal Code:95022
+Tech Country:UA
+Tech Phone:+380.507636666
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:adminfreebsd@gmail.com
+Name Server:NS0.HQHOST.NET
+Name Server:NS1.HQHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

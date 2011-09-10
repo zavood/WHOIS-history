@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155235139-LROR
+Domain Name:MUCCC.ORG
+Created On:31-Jan-2009 02:28:20 UTC
+Last Updated On:17-Nov-2010 15:40:05 UTC
+Expiration Date:31-Jan-2016 02:28:20 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:43343972-NSI
+Registrant Name:MuCCC
+Registrant Organization:MuCCC
+Registrant Street1:29 Carlton Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rochester
+Registrant State/Province:NY
+Registrant Postal Code:14607
+Registrant Country:US
+Registrant Phone:+1.5852563336
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dougrice@rochester.rr.com
+Admin ID:43343972-NSI
+Admin Name:MuCCC
+Admin Organization:MuCCC
+Admin Street1:29 Carlton Street
+Admin Street2:
+Admin Street3:
+Admin City:Rochester
+Admin State/Province:NY
+Admin Postal Code:14607
+Admin Country:US
+Admin Phone:+1.5852563336
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dougrice@rochester.rr.com
+Tech ID:43343972-NSI
+Tech Name:MuCCC
+Tech Organization:MuCCC
+Tech Street1:29 Carlton Street
+Tech Street2:
+Tech Street3:
+Tech City:Rochester
+Tech State/Province:NY
+Tech Postal Code:14607
+Tech Country:US
+Tech Phone:+1.5852563336
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dougrice@rochester.rr.com
+Name Server:NS4.NETWISP.COM
+Name Server:NS5.NETWISP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,83 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         hofer-reisen.at
+registrant:     AEGC7300953-NICAT
+admin-c:        AEGC7300954-NICAT
+tech-c:         MIDI7160887-NICAT
+nserver:        a4.nstld.com
+remarks:        69.36.158.33
+nserver:        f4.nstld.com
+remarks:        192.35.51.33
+nserver:        g4.nstld.com
+remarks:        192.42.93.33
+nserver:        h4.nstld.com
+remarks:        192.54.112.33
+nserver:        j4.nstld.com
+remarks:        192.48.79.33
+nserver:        k4.nstld.com
+remarks:        192.52.178.33
+nserver:        l4.nstld.com
+remarks:        192.41.162.33
+changed:        20100929 17:59:59
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   ALDI Einkauf GmbH&amp; Co OHG
+street address: Mintarder Strasse 40
+postal code:    45481
+city:           Muelheim an der Ruhr
+country:        Germany
+phone:          +4920899270
+fax-no:         +4920899271969
+e-mail:         domain@aldi-sued.com
+nic-hdl:        AEGC7300953-NICAT
+changed:        20100716 10:23:32
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   ALDI Einkauf GmbH&amp; Co OHG
+street address: Mintarder Strasse 40
+postal code:    45481
+city:           Muelheim an der Ruhr
+country:        Germany
+phone:          +4920899270
+fax-no:         +4920899271969
+e-mail:         domain@aldi-sued.com
+nic-hdl:        AEGC7300954-NICAT
+changed:        20100716 10:23:35
+source:         AT-DOM
+
+personname:     Melbourne IT Tech
+organization:   Melbourne IT DBS, Inc.
+street address: 636 Ellis Street
+postal code:    94043
+city:           Mountain View CA
+country:        United States
+phone:          +18669073267
+fax-no:         +16506182574
+e-mail:         tech@melbourneitdbs.com
+nic-hdl:        MIDI7160887-NICAT
+changed:        20100507 12:28:39
+source:         AT-DOM
+

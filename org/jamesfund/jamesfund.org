@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98334518-LROR
+Domain Name:JAMESFUND.ORG
+Created On:10-Jul-2003 20:01:11 UTC
+Last Updated On:11-May-2011 06:52:56 UTC
+Expiration Date:10-Jul-2016 20:01:11 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26825984-NSI
+Registrant Name:Family Christian Stores, Inc.
+Registrant Organization:Family Christian Stores, Inc.
+Registrant Street1:5300 Patterson Ave SE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Grand Rapids
+Registrant State/Province:MI
+Registrant Postal Code:49530
+Registrant Country:US
+Registrant Phone:+1.61655487
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@FAMILYCHRISTIAN.COM
+Admin ID:45748406-NSI
+Admin Name:Domain Manager
+Admin Organization:Family Christian Stores
+Admin Street1:5300 Patterson Ave SE
+Admin Street2:
+Admin Street3:
+Admin City:Grand Rapids
+Admin State/Province:MI
+Admin Postal Code:49530
+Admin Country:US
+Admin Phone:+1.6165547377
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@familychristian.com
+Tech ID:5704146-NSI
+Tech Name:DNS Administrator
+Tech Organization:ISG
+Tech Street1:10720 ADAMS ST
+Tech Street2:
+Tech Street3:
+Tech City:HOLLAND
+Tech State/Province:MI
+Tech Postal Code:49423-9153
+Tech Country:US
+Tech Phone:+1.6163937250
+Tech Phone Ext.:
+Tech FAX:+1.6163962424
+Tech FAX Ext.:
+Tech Email:dnsadmin@goisg.com
+Name Server:NS7.WORLDNIC.COM
+Name Server:NS8.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,93 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D34594196-LROR
+Domain Name:DC-FOP.ORG
+Created On:14-Sep-2000 03:02:32 UTC
+Last Updated On:06-Sep-2011 00:36:42 UTC
+Expiration Date:14-Sep-2012 03:02:32 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30465387
+Registrant Name:Andrew Fried
+Registrant Organization:Deteque LLC
+Registrant Street1:5211 Ballycastle Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Alexandria
+Registrant State/Province:Virginia
+Registrant Postal Code:22315
+Registrant Country:US
+Registrant Phone:+1.7036674050
+Registrant Phone Ext.:
+Registrant FAX:+1.7036515820
+Registrant FAX Ext.:
+Registrant Email:afried@deteque.com
+Admin ID:CR30465389
+Admin Name:Andrew Fried
+Admin Organization:Deteque LLC
+Admin Street1:5211 Ballycastle Circle
+Admin Street2:
+Admin Street3:
+Admin City:Alexandria
+Admin State/Province:Virginia
+Admin Postal Code:22315
+Admin Country:US
+Admin Phone:+1.7036674050
+Admin Phone Ext.:
+Admin FAX:+1.7036515820
+Admin FAX Ext.:
+Admin Email:afried@deteque.com
+Tech ID:CR30465388
+Tech Name:Andrew Fried
+Tech Organization:Deteque LLC
+Tech Street1:5211 Ballycastle Circle
+Tech Street2:
+Tech Street3:
+Tech City:Alexandria
+Tech State/Province:Virginia
+Tech Postal Code:22315
+Tech Country:US
+Tech Phone:+1.7036674050
+Tech Phone Ext.:
+Tech FAX:+1.7036515820
+Tech FAX Ext.:
+Tech Email:afried@deteque.com
+Name Server:NS1.ISC-SNS.NET
+Name Server:NS2.ISC-SNS.COM
+Name Server:NS3.ISC-SNS.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Signed
+DS Created 1:06-Sep-2011 00:36:41 UTC
+DS Maximum Signature Life 1:3600 seconds
+DS Key Tag 1:31477
+Algorithm 1:5
+Digest Type 1:1
+Digest 1:913093B3C3F71FA599AB41C9CE80F58BC56F6550
+
+

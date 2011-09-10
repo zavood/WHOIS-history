@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157451101-LROR
+Domain Name:SOCIETYOFBRITISHINTERIORDESIGN.ORG
+Created On:27-Oct-2009 16:07:42 UTC
+Last Updated On:05-Apr-2011 14:17:53 UTC
+Expiration Date:27-Oct-2012 16:07:42 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:tuvVxlvlHzxQOVsC
+Registrant Name:Vanessa Brady
+Registrant Organization:Society of British Interior Design
+Registrant Street1:10 Molasses Row
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:SW113UX
+Registrant Country:GB
+Registrant Phone:+44.2077389383
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kerry@ids-europe.com
+Admin ID:tuElgualcN46y218
+Admin Name:Vanessa Brady
+Admin Organization:Society of British Interior Design
+Admin Street1:10 Molasses Row
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:SW113UX
+Admin Country:GB
+Admin Phone:+44.2077389383
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Hostmaster@1stdomains.co.uk
+Tech ID:tu0yGVvMSx40lAZ5
+Tech Name:Vanessa Brady
+Tech Organization:Society of British Interior Design
+Tech Street1:10 Molasses Row
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:
+Tech Postal Code:SW113UX
+Tech Country:GB
+Tech Phone:+44.2077389383
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Hostmaster@1stdomains.co.uk
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

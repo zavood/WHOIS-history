@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149112181-LROR
+Domain Name:BIBLEANSWERSMINISTRY.ORG
+Created On:12-Sep-2007 23:45:50 UTC
+Last Updated On:02-Sep-2011 07:17:01 UTC
+Expiration Date:12-Sep-2012 23:45:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33855865
+Registrant Name:Joe Roby
+Registrant Street1:145 CR 216
+Registrant Street2:
+Registrant Street3:
+Registrant City:Corinth
+Registrant State/Province:Mississippi
+Registrant Postal Code:38834
+Registrant Country:US
+Registrant Phone:+1.6035194
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kerusso1@comcast.net
+Admin ID:CR33855867
+Admin Name:Joe Roby
+Admin Street1:145 CR 216
+Admin Street2:
+Admin Street3:
+Admin City:Corinth
+Admin State/Province:Mississippi
+Admin Postal Code:38834
+Admin Country:US
+Admin Phone:+1.6035194
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kerusso1@comcast.net
+Tech ID:CR33855866
+Tech Name:Joe Roby
+Tech Street1:145 CR 216
+Tech Street2:
+Tech Street3:
+Tech City:Corinth
+Tech State/Province:Mississippi
+Tech Postal Code:38834
+Tech Country:US
+Tech Phone:+1.6035194
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kerusso1@comcast.net
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

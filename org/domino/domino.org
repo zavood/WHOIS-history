@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D849773-LROR
+Domain Name:DOMINO.ORG
+Created On:23-Aug-1994 04:00:00 UTC
+Last Updated On:19-Aug-2011 14:45:47 UTC
+Expiration Date:22-Aug-2016 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJo3qUi3XuoUtvW
+Registrant Name:Domino Software
+Registrant Organization:Domino Software
+Registrant Street1:14 Thirlmere Gardens
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wembley
+Registrant State/Province:NO STATE
+Registrant Postal Code:HA98RE
+Registrant Country:GB
+Registrant Phone:+1.447973110
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:neil@DOMINO.ORG
+Admin ID:tuXseRhVlM52XYQX
+Admin Name:Neil J McRae
+Admin Organization:Domino Software
+Admin Street1:14 Thirlmere Gardens
+Admin Street2:
+Admin Street3:
+Admin City:Wembley
+Admin State/Province:
+Admin Postal Code:HA98RE
+Admin Country:GB
+Admin Phone:+1.447973110161
+Admin Phone Ext.:
+Admin FAX:+1.442083852460
+Admin FAX Ext.:
+Admin Email:neil@DOMINO.ORG
+Tech ID:tuXseRhVlM52XYQX
+Tech Name:Neil J McRae
+Tech Organization:Domino Software
+Tech Street1:14 Thirlmere Gardens
+Tech Street2:
+Tech Street3:
+Tech City:Wembley
+Tech State/Province:
+Tech Postal Code:HA98RE
+Tech Country:GB
+Tech Phone:+1.447973110161
+Tech Phone Ext.:
+Tech FAX:+1.442083852460
+Tech FAX Ext.:
+Tech Email:neil@DOMINO.ORG
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

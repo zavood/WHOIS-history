@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D143961670-LROR
+Domain Name:THE-DIRECTORY.ORG
+Created On:19-Apr-2007 21:00:01 UTC
+Last Updated On:20-Apr-2011 12:50:31 UTC
+Expiration Date:19-Apr-2012 21:00:01 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33209534
+Registrant Name:alon klatchko
+Registrant Street1:31775 ridgeside dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:farmington hills
+Registrant State/Province:Michigan
+Registrant Postal Code:48334
+Registrant Country:US
+Registrant Phone:+1.2485398425
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kla66009@msn.com
+Admin ID:CR33209536
+Admin Name:alon klatchko
+Admin Street1:31775 ridgeside dr.
+Admin Street2:
+Admin Street3:
+Admin City:farmington hills
+Admin State/Province:Michigan
+Admin Postal Code:48334
+Admin Country:US
+Admin Phone:+1.2485398425
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kla66009@msn.com
+Tech ID:CR33209535
+Tech Name:alon klatchko
+Tech Street1:31775 ridgeside dr.
+Tech Street2:
+Tech Street3:
+Tech City:farmington hills
+Tech State/Province:Michigan
+Tech Postal Code:48334
+Tech Country:US
+Tech Phone:+1.2485398425
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kla66009@msn.com
+Name Server:NS45.DOMAINCONTROL.COM
+Name Server:NS46.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
