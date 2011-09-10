@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79683199-LROR
+Domain Name:MINNESOTAARC.ORG
+Created On:13-Nov-2001 20:40:18 UTC
+Last Updated On:09-Nov-2007 03:31:29 UTC
+Expiration Date:13-Nov-2012 20:40:18 UTC
+Sponsoring Registrar:Brandon Gray Internet Services (R1322-LROR)
+Status:OK
+Registrant ID:bGNjXS3M3KSvgeWV
+Registrant Name:Mansour Hadidi
+Registrant Organization:Private Registration
+Registrant Street1:625 N. Robert St.
+Registrant Street2:IDEPC
+Registrant Street3:
+Registrant City:St. Paul
+Registrant State/Province:MN
+Registrant Postal Code:55155
+Registrant Country:US
+Registrant Phone:+1.8664340212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:privacy@droa.com
+Admin ID:bGNjXS3M3KSvgeWV
+Admin Name:Mansour Hadidi
+Admin Organization:Private Registration
+Admin Street1:625 N. Robert St.
+Admin Street2:IDEPC
+Admin Street3:
+Admin City:St. Paul
+Admin State/Province:MN
+Admin Postal Code:55155
+Admin Country:US
+Admin Phone:+1.8664340212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:privacy@droa.com
+Tech ID:bGNjXS3M3KSvgeWV
+Tech Name:Mansour Hadidi
+Tech Organization:Private Registration
+Tech Street1:625 N. Robert St.
+Tech Street2:IDEPC
+Tech Street3:
+Tech City:St. Paul
+Tech State/Province:MN
+Tech Postal Code:55155
+Tech Country:US
+Tech Phone:+1.8664340212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:privacy@droa.com
+Name Server:NS1.STATE.MN.US
+Name Server:NS2.STATE.MN.US
+Name Server:NS3.STATE.MN.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
