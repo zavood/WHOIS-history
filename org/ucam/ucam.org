@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D792519-LROR
+Domain Name:UCAM.ORG
+Created On:10-Nov-1997 05:00:00 UTC
+Last Updated On:21-Feb-2011 19:11:39 UTC
+Expiration Date:09-Nov-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tudxl94yFS3dAfaP
+Registrant Name:Ian Jackson
+Registrant Organization:Ian Jackson
+Registrant Street1:c/o Arachsys Internet Services Ltd
+Registrant Street2:Meadowbank
+Registrant Street3:Crumpsbrook
+Registrant City:Cleobury Mortimer
+Registrant State/Province:Worcs
+Registrant Postal Code:DY140HP
+Registrant Country:GB
+Registrant Phone:+44.000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dnsmaster@arachsys.com
+Admin ID:tuudzI9Hk0zbu6fZ
+Admin Name:Ian Jackson
+Admin Organization:Ian Jackson
+Admin Street1:c/o Arachsys Internet Services Ltd
+Admin Street2:Meadowbank
+Admin Street3:Crumpsbrook
+Admin City:Cleobury Mortimer
+Admin State/Province:Worcs
+Admin Postal Code:DY140HP
+Admin Country:GB
+Admin Phone:+44.000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dnsmaster@arachsys.com
+Tech ID:tuSsDY6r4H3vvj8q
+Tech Name:Ian Jackson
+Tech Organization:Ian Jackson
+Tech Street1:c/o Arachsys Internet Services Ltd
+Tech Street2:Meadowbank
+Tech Street3:Crumpsbrook
+Tech City:Cleobury Mortimer
+Tech State/Province:Worcs
+Tech Postal Code:DY140HP
+Tech Country:GB
+Tech Phone:+44.000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dnsmaster@arachsys.com
+Name Server:CHIARK.NS.UCAM.ORG
+Name Server:BECKET.NS.UCAM.ORG
+Name Server:AUTHDNS0.CSX.NS.UCAM.ORG
+Name Server:AUTHDNS1.CSX.NS.UCAM.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
