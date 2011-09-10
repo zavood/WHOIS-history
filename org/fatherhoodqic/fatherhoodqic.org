@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131539865-LROR
+Domain Name:FATHERHOODQIC.ORG
+Created On:25-Oct-2006 17:11:32 UTC
+Last Updated On:29-Jan-2010 23:06:27 UTC
+Expiration Date:25-Oct-2012 17:11:32 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuC4l6sYBiVWAMFe
+Registrant Name:Host Master
+Registrant Organization:American Bar Association
+Registrant Street1:321 N. Clark St
+Registrant Street2:Mail Stop 17
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60610
+Registrant Country:US
+Registrant Phone:+1.3129885938
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@abanet.org
+Admin ID:tuhN4d7hVuWQxqiR
+Admin Name:Host Master
+Admin Organization:American Bar Association
+Admin Street1:321 N. Clark St
+Admin Street2:Mail Stop 17
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60610
+Admin Country:US
+Admin Phone:+1.3129885938
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@abanet.org
+Tech ID:tuZvReLTvBPCUdZW
+Tech Name:Host Master
+Tech Organization:American Bar Association
+Tech Street1:321 N. Clark St
+Tech Street2:Mail Stop 17
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60610
+Tech Country:US
+Tech Phone:+1.3129885938
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@abanet.org
+Name Server:NS2.YIPES.COM
+Name Server:NS1.YIPES.COM
+Name Server:AUTH1.DNS.COGENTCO.COM
+Name Server:NS1.ABANET.ORG
+Name Server:AUTH4.DNS.COGENTCO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
