@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104049404-LROR
+Domain Name:RAREDIS.ORG
+Created On:02-Mar-2004 21:41:09 UTC
+Last Updated On:01-Feb-2010 16:42:15 UTC
+Expiration Date:02-Mar-2019 21:41:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30790292
+Registrant Name:Rumen Stefanov
+Registrant Organization:Bulgarian Association for Promotion of Education and Science
+Registrant Street1:4 Bratia Svestarovi str.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Plovdiv
+Registrant State/Province:Not Applicable
+Registrant Postal Code:4000
+Registrant Country:BG
+Registrant Phone:+359.887948703
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stefanov@raredis.org
+Admin ID:CR30790294
+Admin Name:Rumen Stefanov
+Admin Organization:Bulgarian Association for Promotion of Education and Science
+Admin Street1:4 Bratia Svestarovi str.
+Admin Street2:
+Admin Street3:
+Admin City:Plovdiv
+Admin State/Province:Not Applicable
+Admin Postal Code:4000
+Admin Country:BG
+Admin Phone:+359.887948703
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stefanov@raredis.org
+Tech ID:CR30790293
+Tech Name:Rumen Stefanov
+Tech Organization:Bulgarian Association for Promotion of Education and Science
+Tech Street1:4 Bratia Svestarovi str.
+Tech Street2:
+Tech Street3:
+Tech City:Plovdiv
+Tech State/Province:Not Applicable
+Tech Postal Code:4000
+Tech Country:BG
+Tech Phone:+359.887948703
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stefanov@raredis.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
