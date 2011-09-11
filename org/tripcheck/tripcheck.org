@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7244944-LROR
+Domain Name:TRIPCHECK.ORG
+Created On:15-Jun-1999 00:31:17 UTC
+Last Updated On:16-Mar-2010 18:29:51 UTC
+Expiration Date:15-Jun-2019 00:31:55 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36479087
+Registrant Name:Karina Stewart
+Registrant Organization:Oregon Department of Transportation
+Registrant Street1:555 13th st NE Suite #1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Salem
+Registrant State/Province:Oregon
+Registrant Postal Code:97301
+Registrant Country:US
+Registrant Phone:+1.5039864340
+Registrant Phone Ext.:
+Registrant FAX:+1.5039864072
+Registrant FAX Ext.:
+Registrant Email:karina.stewart@odot.state.or.us
+Admin ID:CR36479089
+Admin Name:Karina Stewart
+Admin Organization:Oregon Department of Transportation
+Admin Street1:555 13th st NE Suite #1
+Admin Street2:
+Admin Street3:
+Admin City:Salem
+Admin State/Province:Oregon
+Admin Postal Code:97301
+Admin Country:US
+Admin Phone:+1.5039864340
+Admin Phone Ext.:
+Admin FAX:+1.5039864072
+Admin FAX Ext.:
+Admin Email:karina.stewart@odot.state.or.us
+Tech ID:CR36479088
+Tech Name:Karina Stewart
+Tech Organization:Oregon Department of Transportation
+Tech Street1:555 13th st NE Suite #1
+Tech Street2:
+Tech Street3:
+Tech City:Salem
+Tech State/Province:Oregon
+Tech Postal Code:97301
+Tech Country:US
+Tech Phone:+1.5039864340
+Tech Phone Ext.:
+Tech FAX:+1.5039864072
+Tech FAX Ext.:
+Tech Email:karina.stewart@odot.state.or.us
+Name Server:LYNX.STATE.OR.US
+Name Server:PANTHER.STATE.OR.US
+Name Server:MANX.STATE.OR.US
+Name Server:NSSPO1.WA.GOV
+Name Server:NSOLY1.WA.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
