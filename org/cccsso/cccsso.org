@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88919273-LROR
+Domain Name:CCCSSO.ORG
+Created On:31-Jul-2002 22:08:35 UTC
+Last Updated On:28-Jul-2011 03:04:23 UTC
+Expiration Date:31-Jul-2012 22:08:35 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu3KabEieznzyqub
+Registrant Name:Michael Parrish
+Registrant Organization:Consumer Credit Couns. Service of So. Oregon
+Registrant Street1:820 Crater Lake Ave
+Registrant Street2:Suite 202
+Registrant Street3:
+Registrant City:Medford
+Registrant State/Province:OR
+Registrant Postal Code:97504
+Registrant Country:US
+Registrant Phone:+1.5417792273
+Registrant Phone Ext.:
+Registrant FAX:+1.5417796412
+Registrant FAX Ext.:
+Registrant Email:parrishm@cccsso.org
+Admin ID:tuqSSJuIwNWn8DkU
+Admin Name:Michael Parrish
+Admin Organization:Consumer Credit Couns. Service of So. Oregon
+Admin Street1:820 Crater Lake Ave
+Admin Street2:Suite 202
+Admin Street3:
+Admin City:Medford
+Admin State/Province:OR
+Admin Postal Code:97504
+Admin Country:US
+Admin Phone:+1.5417792273
+Admin Phone Ext.:
+Admin FAX:+1.5417796412
+Admin FAX Ext.:
+Admin Email:parrishm@cccsso.org
+Tech ID:tusVkpeqpNKQHx8X
+Tech Name:Michael Parrish
+Tech Organization:Consumer Credit Couns. Service of So. Oregon
+Tech Street1:820 Crater Lake Ave
+Tech Street2:Suite 202
+Tech Street3:
+Tech City:Medford
+Tech State/Province:OR
+Tech Postal Code:97504
+Tech Country:US
+Tech Phone:+1.5417792273
+Tech Phone Ext.:
+Tech FAX:+1.5417796412
+Tech FAX Ext.:
+Tech Email:parrishm@cccsso.org
+Name Server:NS1.SCARABMEDIA.COM
+Name Server:NS2.SCARABMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
