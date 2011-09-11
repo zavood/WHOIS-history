@@ -1,0 +1,141 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; u-pec.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      u-pec.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UPXV3-FRNIC
+admin-c:     SB21-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      MS786-FRNIC
+tech-c:      PR1053-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34218-FRNIC
+registrar:   RENATER
+anniversary: 09/12
+created:     26/10/2009
+last-update: 04/01/2010
+source:      FRNIC
+
+ns-list:     NSL34218-FRNIC
+nserver:     ultra2.u-pec.fr [194.214.24.150]
+nserver:     ciripa.idris.fr [130.84.32.8]
+nserver:     shiva.jussieu.fr [134.157.0.129]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UPXV3-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE PARIS XII VAL DE MARNE
+address:     UNIVERSITE PARIS XII VAL DE MARNE
+address:     61, avenue du General de Gaulle
+address:     94010 Cr&eacute;teil
+country:     FR
+phone:       +33 1 45 17 12 72
+fax-no:      +33 1 45 17 12 73
+e-mail:      cuilhe@univ-paris12.fr
+changed:     10/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SB21-FRNIC
+type:        PERSON
+contact:     Simone Bonnafous
+address:     * UNIVERSITE PARIS XII VAL DE MARNE
+address:     61, avenue du G&eacute;n&eacute;ral de Gaulle
+address:     94010 Cr&eacute;teil
+country:     FR
+phone:       +33 1 45 17 12 72
+fax-no:      +33 1 45 17 12 73
+e-mail:      cuilhe@univ-paris12.fr
+changed:     04/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MS786-FRNIC
+type:        PERSON
+contact:     Manuel Segura
+address:     * UNIVERSITE PARIS XII VAL DE MARNE
+address:     61, avenue du G&eacute;n&eacute;ral de Gaulle
+address:     94010 Cr&eacute;teil
+country:     FR
+phone:       +33 1 45 17 12 90
+fax-no:      +33 1 45 17 12 73
+e-mail:      segura@univ-paris12.fr
+changed:     04/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PR1053-FRNIC
+type:        PERSON
+contact:     Patrick Rousselot
+address:     * UNIVERSITE PARIS XII VAL DE MARNE
+address:     61, avenue du General de Gaulle
+address:     94010 Cr&eacute;teil
+country:     FR
+phone:       +33 1 45 17 13 91
+fax-no:      +33 1 45 17 12 73
+e-mail:      rousselot@univ-paris12.fr
+changed:     04/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
