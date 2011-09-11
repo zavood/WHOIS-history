@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HHVV.NET
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.WEBSITEHK.COM
-   Name Server: NS2.WEBSITEHK.COM
+   Domain Name: COOKSTR.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS53.DOMAINCONTROL.COM
+   Name Server: NS54.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-jul-2011
-   Creation Date: 17-jul-2003
-   Expiration Date: 17-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 09-feb-2009
+   Creation Date: 24-mar-2008
+   Expiration Date: 24-mar-2018
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:29:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:28:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,65 +54,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
 Registrant:
-	 Henry Wong whenry@netvigator.com 98821832
-	 Henry Wong
-	 NA
-	 Hong Kong,Hong Kong,Hong Kong 852
+   William Schwalbe
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: COOKSTR.COM
+
+   Domain servers in listed order:
+      NS53.DOMAINCONTROL.COM
+      NS54.DOMAINCONTROL.COM
 
 
-Domain Name:hhvv.net
-Record last updated at 2011-07-14 21:29:00
-Record created on 2003/7/17
-Record expired on 2012/7/17
-
-
-Domain servers in listed order:
-	 ns1.websitehk.com 	 ns2.websitehk.com
-
-Administrator:
-	 Name-- Henry Wong
- EMail-: (whenry@netvigator.com)
- tel --: 98821832
-	 org: Henry Wong
-	 NA
-	 Hong Kong,Hong Kong,Hong Kong 852
-
-Technical Contactor:
-	 Name-- Henry Wong
- EMail-: (whenry@netvigator.com)
- tel --: 98821832
-	 org: Henry Wong
-	 NA
-	 Hong Kong,Hong Kong,Hong Kong 852
-
-Billing Contactor:
-	 Name-- Henry Wong
- EMail-: (whenry@netvigator.com)
- tel --: 98821832
-	 org: Henry Wong
-	 NA
-	 Hong Kong,Hong Kong,Hong Kong 852
-
-
-Registration Service Provider:
-	name: Keynet Technology Company Limited
-	tel: +852.21110821
- 	fax: +852.31019398
- 	web:http://
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=COOKSTR.COM

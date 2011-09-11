@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-jun-2010
    Expiration Date: 11-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 15:21:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:29:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    VOHRA HEALTH SERVICES
-   300 71 STREET
-   620
-   MIAMI BEACH, Florida 33141
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: VHSEHR.COM
-      Created on: 11-Jun-10
-      Expires on: 11-Jun-12
-      Last Updated on: 04-May-11
-
-   Administrative Contact:
-      MAYER, ALEJANDRO  bknofsky@vohrawoundteam.com
-      VOHRA HEALTH SERVICES
-      300 71 STREET
-      620
-      MIAMI BEACH, Florida 33141
-      United States
-      +1.3058669951      Fax -- +1.3056143352
-
-   Technical Contact:
-      MAYER, ALEJANDRO  denio@vohrawoundteam.com
-      VOHRA HEALTH SERVICES
-      300 71 STREET
-      620
-      MIAMI BEACH, Florida 33141
-      United States
-      (305) 866-9951      Fax -- (305) 614-3352
 
    Domain servers in listed order:
       NS35.DOMAINCONTROL.COM
       NS36.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=VHSEHR.COM
