@@ -1,0 +1,39 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'yamin.ir'
+
+
+domain:		yamin.ir
+ascii:		yamin.ir
+remarks:	(Domain Holder) mohammad sadeghi
+remarks:	(Domain Holder Address) No.15, Mahna st., Baqe no st., Nosrat st., Kargar ave.,, tehran, tehran, IR
+holder-c:	ms1047-irnic
+admin-c:	ir50-irnic
+tech-c:		ir50-irnic
+bill-c:		ir50-irnic
+nserver:	ns1.iranhost.com
+nserver:	ns2.iranhost.com
+last-updated:	2009-07-28
+source:		IRNIC # Filtered
+
+nic-hdl:	ms1047-irnic
+person:		mohammad sadeghi
+e-mail:		info@yamin.ir
+address:	No.15, Mahna st., Baqe no st., Nosrat st., Kargar ave.,, tehran, tehran, IR
+phone:		+98 21 66923903
+source:		IRNIC # Filtered
+
+nic-hdl:	ir50-irnic
+org:		Roshangar Rayane Tehran
+e-mail:		internal@iranhost.com
+address:	Unit 4, No.22,Qabousnameh St.,Motahari Ave.,, Tehran, Tehran, IR
+phone:		+98 21 8834 8973
+fax-no:		+98 21 8832 9652
+source:		IRNIC # Filtered
+
