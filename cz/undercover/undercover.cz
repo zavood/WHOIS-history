@@ -1,0 +1,64 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 11 10:08:23 2011
+
+domain:       undercover.cz
+registrant:   GIGASERVER-GALIERIK
+nsset:        GIGASERVER
+registrar:    REG-SEONET
+status:       paid and in zone
+registered:   20.06.2008 09:16:43
+changed:      22.08.2008 18:23:05
+expire:       20.06.2013
+
+contact:      GIGASERVER-GALIERIK
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Galierik
+address:      N&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; republiky
+address:      Ostrava
+address:      70010
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      19.06.2008 22:08:03
+changed:      22.06.2008 14:21:41
+
+nsset:        GIGASERVER
+nserver:      ns1.gigaserver.cz (88.208.118.146)
+nserver:      ns2.gigaserver.cz (88.208.118.147)
+nserver:      ns3.gigaserver.cz (88.208.118.40)
+nserver:      ns4.gigaserver.cz (67.208.112.110)
+tech-c:       GIGASERVER
+registrar:    REG-SEONET
+created:      01.10.2007 20:00:08
+changed:      03.02.2011 12:44:49
+
+contact:      GIGASERVER
+org:          Seonet Multimedia s.r.o.
+name:         Pavel Ond&Aring;™ej
+address:      Krnovsk&Atilde;&iexcl; 233/135
+address:      Opava
+address:      74707
+address:      CZ
+phone:        +420.774151730
+fax-no:       +420.591140073
+e-mail:       info@seonet.cz
+registrar:    REG-SEONET
+created:      01.10.2007 19:58:00
+changed:      13.01.2010 08:12:49
+
+
