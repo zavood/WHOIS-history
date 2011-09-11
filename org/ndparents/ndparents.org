@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154684396-LROR
+Domain Name:NDPARENTS.ORG
+Created On:13-Nov-2008 20:13:41 UTC
+Last Updated On:05-Nov-2010 17:35:21 UTC
+Expiration Date:13-Nov-2011 20:13:41 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37339624
+Registrant Name:Casy Laib
+Registrant Organization:Team Torque Inc
+Registrant Street1:1231 Park Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bismarck
+Registrant State/Province:North Dakota
+Registrant Postal Code:58504
+Registrant Country:US
+Registrant Phone:+1.7012234552
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@teamtorque.com
+Admin ID:CR37339626
+Admin Name:Casy Laib
+Admin Organization:Team Torque Inc
+Admin Street1:1231 Park Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Bismarck
+Admin State/Province:North Dakota
+Admin Postal Code:58504
+Admin Country:US
+Admin Phone:+1.7012234552
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@teamtorque.com
+Tech ID:CR37339625
+Tech Name:Casy Laib
+Tech Organization:Team Torque Inc
+Tech Street1:1231 Park Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Bismarck
+Tech State/Province:North Dakota
+Tech Postal Code:58504
+Tech Country:US
+Tech Phone:+1.7012234552
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@teamtorque.com
+Name Server:NS15.DOMAINCONTROL.COM
+Name Server:NS16.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

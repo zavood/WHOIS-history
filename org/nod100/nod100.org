@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157074060-LROR
+Domain Name:NOD100.ORG
+Created On:10-Sep-2009 12:56:18 UTC
+Last Updated On:10-Sep-2011 02:10:13 UTC
+Expiration Date:10-Sep-2012 12:56:18 UTC
+Sponsoring Registrar:Xiamen eName Network Technology Corporation Limited dba eName Corp. (R1701-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:ename_sl3cb7t70n
+Registrant Name:duanxiangwang
+Registrant Organization:duanxiangwang
+Registrant Street1:95080budui
+Registrant Street2:
+Registrant Street3:
+Registrant City:shantou
+Registrant State/Province:Guangdong
+Registrant Postal Code:515823
+Registrant Country:CN
+Registrant Phone:+86.07548362541
+Registrant Phone Ext.:
+Registrant FAX:+86.07548362541
+Registrant FAX Ext.:0
+Registrant Email:duanxiangwang@163.com
+Admin ID:ename_sl3cb7t70n
+Admin Name:duanxiangwang
+Admin Organization:duanxiangwang
+Admin Street1:95080budui
+Admin Street2:
+Admin Street3:
+Admin City:shantou
+Admin State/Province:Guangdong
+Admin Postal Code:515823
+Admin Country:CN
+Admin Phone:+86.07548362541
+Admin Phone Ext.:
+Admin FAX:+86.07548362541
+Admin FAX Ext.:0
+Admin Email:duanxiangwang@163.com
+Tech ID:ename_sl3cb7t70n
+Tech Name:duanxiangwang
+Tech Organization:duanxiangwang
+Tech Street1:95080budui
+Tech Street2:
+Tech Street3:
+Tech City:shantou
+Tech State/Province:Guangdong
+Tech Postal Code:515823
+Tech Country:CN
+Tech Phone:+86.07548362541
+Tech Phone Ext.:
+Tech FAX:+86.07548362541
+Tech FAX Ext.:0
+Tech Email:duanxiangwang@163.com
+Name Server:NS1.ENAME.NET
+Name Server:NS2.ENAME.NET
+Name Server:NS3.ENAME.NET
+Name Server:NS4.ENAME.NET
+Name Server:NS5.ENAME.NET
+Name Server:NS6.ENAME.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
