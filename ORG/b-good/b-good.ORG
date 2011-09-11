@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6288540-LROR
+Domain Name:B-GOOD.ORG
+Created On:06-May-1999 12:13:35 UTC
+Last Updated On:07-May-2011 01:25:41 UTC
+Expiration Date:06-May-2012 12:11:54 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:tutjI4LaZXuuvK5i
+Registrant Name:Jurgen van Kreij
+Registrant Organization:B-Good b.v.
+Registrant Street1:Caro van Eyckstraat 71
+Registrant Street2:
+Registrant Street3:
+Registrant City:HENGELO OV
+Registrant State/Province:
+Registrant Postal Code:7558NK
+Registrant Country:NL
+Registrant Phone:+31.652344471
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@byte.nl
+Admin ID:tuv2pxUCHCz7UHyp
+Admin Name:Jurgen van Kreij
+Admin Organization:B-Good b.v.
+Admin Street1:Caro van Eyckstraat 71
+Admin Street2:
+Admin Street3:
+Admin City:HENGELO OV
+Admin State/Province:
+Admin Postal Code:7558NK
+Admin Country:NL
+Admin Phone:+31.652344471
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@byte.nl
+Tech ID:tuFBDEdWaSEq3zv0
+Tech Name:Register.com Register.com
+Tech Organization:Register.com
+Tech Street1:575 8TH AVE FL 11
+Tech Street2:
+Tech Street3:
+Tech City:NEW YORK
+Tech State/Province:NY
+Tech Postal Code:10018-3058
+Tech Country:US
+Tech Phone:+1.2127989200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-registrar@REGISTER.COM
+Name Server:NSA.BYTE.NL
+Name Server:NSB.BYTE.NL
+Name Server:NSC.BYTE.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
