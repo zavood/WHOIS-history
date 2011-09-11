@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LYLWC.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
+   Domain Name: YOURDIGITALEXPERTS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS57.1AND1.COM
+   Name Server: NS58.1AND1.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 06-jul-2008
-   Expiration Date: 06-jul-2012
+   Updated Date: 03-jul-2009
+   Creation Date: 15-jun-2009
+   Expiration Date: 15-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:31:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:32:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... lylwc.com
-  Creation Date........ 2008-07-07 09:15:15
-  Registration Date.... 2008-07-07 09:15:15
-  Expiry Date.......... 2012-07-07 09:15:15
-  Organisation Name.... liu wang chuan CO.Ltd
-  Organisation Address. lai yuan xian shui bu
-  Organisation Address.
-  Organisation Address. bao ding
-  Organisation Address. 074300
-  Organisation Address. HE
-  Organisation Address. CN
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... kang zheng wei
-  Admin Address........ lai yuan xian ying bin lu
-  Admin Address........
-  Admin Address........ baoding
-  Admin Address........ 074300
-  Admin Address........ HE
-  Admin Address........ CN
-  Admin Email.......... ly@Lymu.com
-  Admin Phone.......... +86.3127319444
-  Admin Fax............ +86.3127319444
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ li xuebing
-  Tech Address......... chengdu
-  Tech Address.........
-  Tech Address......... Chengdu
-  Tech Address......... 610041
-  Tech Address......... SC
-  Tech Address......... CN
-  Tech Email........... webmaster@linkwww.com
-  Tech Phone........... +86.13980975373
-  Tech Fax............. +86.13980975373
+http://www.networksolutions.com/whois/index.jhtml
 
-Bill Name............ li xuebing
-  Bill Address......... chengdu
-  Bill Address.........
-  Bill Address......... Chengdu
-  Bill Address......... 610041
-  Bill Address......... SC
-  Bill Address......... CN
-  Bill Email........... webmaster@linkwww.com
-  Bill Phone........... +86.13980975373
-  Bill Fax............. +86.13980975373
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: yourdigitalexperts.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 11:22:50 EDT 2011
+Reason Code: IE

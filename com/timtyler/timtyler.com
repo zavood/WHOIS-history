@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LYLWC.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
+   Domain Name: TIMTYLER.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS11.DOMAINCONTROL.COM
+   Name Server: NS12.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 06-jul-2008
-   Expiration Date: 06-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 06-jul-2010
+   Creation Date: 14-feb-1996
+   Expiration Date: 15-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:31:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:31:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... lylwc.com
-  Creation Date........ 2008-07-07 09:15:15
-  Registration Date.... 2008-07-07 09:15:15
-  Expiry Date.......... 2012-07-07 09:15:15
-  Organisation Name.... liu wang chuan CO.Ltd
-  Organisation Address. lai yuan xian shui bu
-  Organisation Address.
-  Organisation Address. bao ding
-  Organisation Address. 074300
-  Organisation Address. HE
-  Organisation Address. CN
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Admin Name........... kang zheng wei
-  Admin Address........ lai yuan xian ying bin lu
-  Admin Address........
-  Admin Address........ baoding
-  Admin Address........ 074300
-  Admin Address........ HE
-  Admin Address........ CN
-  Admin Email.......... ly@Lymu.com
-  Admin Phone.......... +86.3127319444
-  Admin Fax............ +86.3127319444
 
-Tech Name............ li xuebing
-  Tech Address......... chengdu
-  Tech Address.........
-  Tech Address......... Chengdu
-  Tech Address......... 610041
-  Tech Address......... SC
-  Tech Address......... CN
-  Tech Email........... webmaster@linkwww.com
-  Tech Phone........... +86.13980975373
-  Tech Fax............. +86.13980975373
+Registrant:
+   TIM TYLER
 
-Bill Name............ li xuebing
-  Bill Address......... chengdu
-  Bill Address.........
-  Bill Address......... Chengdu
-  Bill Address......... 610041
-  Bill Address......... SC
-  Bill Address......... CN
-  Bill Email........... webmaster@linkwww.com
-  Bill Phone........... +86.13980975373
-  Bill Fax............. +86.13980975373
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: TIMTYLER.COM
+
+   Domain servers in listed order:
+      NS11.DOMAINCONTROL.COM
+      NS12.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TIMTYLER.COM
