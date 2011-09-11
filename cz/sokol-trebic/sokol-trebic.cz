@@ -1,0 +1,85 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 11 09:16:31 2011
+
+domain:       sokol-trebic.cz
+registrant:   SB:PSISCO-S3KNS1-S90867
+admin-c:      PSISCO-S3KNS1-C90867
+nsset:        NSS:KRAXNET:1
+registrar:    REG-KRAXNET
+status:       paid and in zone
+registered:   02.09.2004 11:35:00
+changed:      13.05.2008 18:14:47
+expire:       02.09.2012
+
+contact:      SB:PSISCO-S3KNS1-S90867
+name:         Jan Luk&Atilde;&iexcl;&Aring;&iexcl;ek
+address:      Wolkerova 6
+address:      T&Aring;ôeb&Atilde;&shy;&Auml;ç
+address:      67402
+address:      CZ
+e-mail:       hl@kapucin.cz
+registrar:    REG-KRAXNET
+created:      31.08.2004 19:15:00
+
+contact:      PSISCO-S3KNS1-C90867
+name:         Jan Luk&Atilde;&iexcl;&Aring;&iexcl;ek
+address:      Wolkerova 6
+address:      T&Aring;ôeb&Atilde;&shy;&Auml;ç
+address:      67402
+address:      CZ
+phone:        +420.568404499
+e-mail:       hl@kapucin.cz
+registrar:    REG-KRAXNET
+created:      31.08.2004 19:15:00
+
+nsset:        NSS:KRAXNET:1
+nserver:      ns.kraxnet.com
+nserver:      ns.kraxnet.cz (95.168.204.215, 2a02:1360::56)
+tech-c:       SB:KRAXNET
+tech-c:       KUBICEK
+registrar:    REG-KRAXNET
+created:      01.10.2007 02:00:00
+changed:      24.06.2010 13:26:30
+
+contact:      SB:KRAXNET
+org:          KRAXNET s.r.o.
+name:         Ji&Aring;ô&Atilde;&shy; Kub&Atilde;&shy;&Auml;çek
+address:      Kamenick&Atilde;&iexcl; 26
+address:      Praha 7
+address:      170 00
+address:      CZ
+e-mail:       info@kraxnet.cz
+registrar:    REG-KRAXNET
+created:      10.08.2001 22:13:00
+changed:      12.09.2003 15:51:00
+
+contact:      KUBICEK
+name:         Ing. Ji&Aring;ô&Atilde;&shy; Kub&Atilde;&shy;&Auml;çek
+address:      Kamenick&Atilde;&iexcl; 26
+address:      Praha 7
+address:      170 00
+address:      CZ
+fax-no:       +420.220199200
+e-mail:       jiri.kubicek@kraxnet.cz
+registrar:    REG-MOJEID
+created:      10.08.2001 22:13:00
+changed:      13.07.2011 16:33:32
+
+
