@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOTLONG.COM
+   Domain Name: DROPGIFT.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.AZEELO.COM
-   Name Server: NS2.AZEELO.COM
-   Status: clientTransferProhibited
-   Updated Date: 05-may-2011
-   Creation Date: 04-jun-2002
-   Expiration Date: 04-jun-2012
+   Name Server: NS1.FL4.NET
+   Name Server: NS2.FL4.NET
+   Status: ok
+   Updated Date: 28-jun-2011
+   Creation Date: 07-oct-2010
+   Expiration Date: 07-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:22:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:22:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about notlong.com
-&lt;a href=&quot;http://www.aboutus.org/notlong.com&quot;&gt;AboutUs: notlong.com&lt;/a&gt;
+Visit AboutUs.org for more information about dropgift.com
+&lt;a href=&quot;http://www.aboutus.org/dropgift.com&quot;&gt;AboutUs: dropgift.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: notlong.com
+Domain name: dropgift.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   SetReadyGo.com
+   Malcolm Lowry ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   201 st. paul's ave.
+   #16V
+   jersey city, nj 07306
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   SetReadyGo.com
+   Malcolm Lowry (malcolmlo@gmail.com)
+   +1.6466780803
+   Fax: +1.5555555555
+   201 st. paul's ave.
+   #16V
+   jersey city, nj 07306
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   SetReadyGo.com
+   Malcolm Lowry (malcolmlo@gmail.com)
+   +1.6466780803
+   Fax: +1.5555555555
+   201 st. paul's ave.
+   #16V
+   jersey city, nj 07306
    US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   NS1.AZEELO.COM
-   NS2.AZEELO.COM
+   ns1.fl4.net
+   ns2.fl4.net
 
-Creation date: 04 Jun 2002 18:16:00
-Expiration date: 04 Jun 2012 18:16:00
+Creation date: 08 Oct 2010 00:13:00
+Expiration date: 07 Oct 2011 19:13:00
 
 
 
