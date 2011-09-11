@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107561519-LROR
+Domain Name:ABHH.ORG
+Created On:21-Sep-2005 12:10:08 UTC
+Last Updated On:05-Aug-2009 10:49:17 UTC
+Expiration Date:21-Sep-2011 12:10:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:4CB98CA7BAF3C601
+Registrant Name:MIGUEL ZABA
+Registrant Organization:ASSOCIACAO BRASILEIRA DE HOMOTOXICOLOGIA E HOMEOPATIA
+Registrant Street1:Calcada dos Antares, 280, 2  a
+Registrant Street2:ndar, sala 24
+Registrant Street3:Centro de Apoio II - Alphavill
+Registrant City:Sao Paulo
+Registrant State/Province:
+Registrant Postal Code:06500-000
+Registrant Country:BR
+Registrant Phone:+19.36331624
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:zaba@uol.com.br
+Admin ID:4CB98CA7BAF3C601
+Admin Name:MIGUEL ZABA
+Admin Organization:ASSOCIACAO BRASILEIRA DE HOMOTOXICOLOGIA E HOMEOPATIA
+Admin Street1:Calcada dos Antares, 280, 2  a
+Admin Street2:ndar, sala 24
+Admin Street3:Centro de Apoio II - Alphavill
+Admin City:Sao Paulo
+Admin State/Province:
+Admin Postal Code:06500-000
+Admin Country:BR
+Admin Phone:+19.36331624
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:zaba@uol.com.br
+Tech ID:4CB98CA7BAF3C601
+Tech Name:MIGUEL ZABA
+Tech Organization:ASSOCIACAO BRASILEIRA DE HOMOTOXICOLOGIA E HOMEOPATIA
+Tech Street1:Calcada dos Antares, 280, 2  a
+Tech Street2:ndar, sala 24
+Tech Street3:Centro de Apoio II - Alphavill
+Tech City:Sao Paulo
+Tech State/Province:
+Tech Postal Code:06500-000
+Tech Country:BR
+Tech Phone:+19.36331624
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:zaba@uol.com.br
+Name Server:NS1.LOCAWEB.COM.BR
+Name Server:NS2.LOCAWEB.COM.BR
+Name Server:NS3.LOCAWEB.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
