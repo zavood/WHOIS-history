@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AARONCUTE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS55.DOMAINCONTROL.COM
-   Name Server: NS56.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-feb-2010
-   Creation Date: 14-feb-2010
-   Expiration Date: 14-feb-2013
+   Domain Name: AKTIFIMMO.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS210113.OVH.NET
+   Name Server: SDNS1.OVH.NET
+   Status: ok
+   Updated Date: 29-apr-2011
+   Creation Date: 24-apr-2003
+   Expiration Date: 24-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:06:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:07:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: AARONCUTE.COM
-
-   Domain servers in listed order:
-      NS55.DOMAINCONTROL.COM
-      NS56.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=AARONCUTE.COM
+Domain Name : AKTIFIMMO.COM
+Created On : 2003-04-24
+Expiration Date : 2012-04-24
+Status : ACTIVE
+Registrant Name : mickael carton
+Registrant Street1 : 209 impasse des myosotis
+Registrant City : nimes
+Registrant State/Province  :
+Registrant Postal Code : 30000
+Registrant Country : FR
+Admin Name : mickael carton
+Admin Street1 : 209 impasse des myosotis
+Admin City : nimes
+Admin State/Province : FR
+Admin Postal Code : 30000
+Admin Country : FR
+Admin Phone : +33.0660513031
+Admin Email : mickaelcarton@hotmail.com
+Tech Name : mickael carton
+Tech Street1 : 209 impasse des myosotis
+Tech City : nimes
+Tech State/Province : FR
+Tech Postal Code : 30000
+Tech Country : FR
+Tech Phone : +33.0660513031
+Tech Email : mickaelcarton@hotmail.com
+Billing Name : mickael carton
+Billing Street1 : 209 impasse des myosotis
+Billing City : nimes
+Billing State/Province : FR
+Billing Postal Code : 30000
+Billing Country : FR
+Billing Phone : +33.0660513031
+Billing Email : mickaelcarton@hotmail.com
+Name Server : NS210113.OVH.NET
+Name Server : SDNS1.OVH.NET
+Registrar Name : Namebay

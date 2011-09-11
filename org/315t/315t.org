@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160410703-LROR
+Domain Name:315T.ORG
+Created On:15-Oct-2010 00:58:14 UTC
+Last Updated On:28-Dec-2010 11:55:29 UTC
+Expiration Date:15-Oct-2011 00:58:14 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc102773727-cn
+Registrant Name:lin chen
+Registrant Organization:Chen lin
+Registrant Street1:SiChuan Neijiang
+Registrant Street2:
+Registrant Street3:
+Registrant City:Neijiang
+Registrant State/Province:sichuan
+Registrant Postal Code:123456
+Registrant Country:CN
+Registrant Phone:+86.07603335991
+Registrant Phone Ext.:
+Registrant FAX:+86.07603335991
+Registrant FAX Ext.:
+Registrant Email:shellord@163.com
+Admin ID:hc102773727-cn
+Admin Name:lin chen
+Admin Organization:Chen lin
+Admin Street1:SiChuan Neijiang
+Admin Street2:
+Admin Street3:
+Admin City:Neijiang
+Admin State/Province:sichuan
+Admin Postal Code:123456
+Admin Country:CN
+Admin Phone:+86.07603335991
+Admin Phone Ext.:
+Admin FAX:+86.07603335991
+Admin FAX Ext.:
+Admin Email:shellord@163.com
+Tech ID:hichina001-cn
+Tech Name:hichina
+Tech Organization:HiChina Web Solutions Limited
+Tech Street1:3/F., HiChina Mansion
+Tech Street2:No.27 Gulouwai Avenue
+Tech Street3:Dongcheng District
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100011
+Tech Country:CN
+Tech Phone:+86.01064242299
+Tech Phone Ext.:
+Tech FAX:+86.01064258796
+Tech FAX Ext.:
+Tech Email:domainadm@hichina.com
+Name Server:DNS23.HICHINA.COM
+Name Server:DNS24.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

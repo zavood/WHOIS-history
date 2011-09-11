@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AARONCUTE.COM
+   Domain Name: ALLENAMPS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS55.DOMAINCONTROL.COM
-   Name Server: NS56.DOMAINCONTROL.COM
+   Name Server: NS43.DOMAINCONTROL.COM
+   Name Server: NS44.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-feb-2010
-   Creation Date: 14-feb-2010
-   Expiration Date: 14-feb-2013
+   Updated Date: 20-may-2011
+   Creation Date: 19-may-2000
+   Expiration Date: 19-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:06:26 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Allen Amplification
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: AARONCUTE.COM
+   Domain Name: ALLENAMPS.COM
 
    Domain servers in listed order:
-      NS55.DOMAINCONTROL.COM
-      NS56.DOMAINCONTROL.COM
+      NS43.DOMAINCONTROL.COM
+      NS44.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=AARONCUTE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ALLENAMPS.COM
