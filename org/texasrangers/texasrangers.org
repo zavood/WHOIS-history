@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1073041-LROR
+Domain Name:TEXASRANGERS.ORG
+Created On:06-Apr-1998 04:00:00 UTC
+Last Updated On:22-Mar-2011 14:59:20 UTC
+Expiration Date:05-Apr-2020 04:00:00 UTC
+Sponsoring Registrar:DomainRegistry.com Inc. (R33-LROR)
+Status:OK
+Registrant ID:DR-MC-00008
+Registrant Name:Roland Russell
+Registrant Organization:Texas Ranger Law Enforcement Association (TRLEA)
+Registrant Street1:7309 Ravenswood Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Granbury
+Registrant State/Province:TX
+Registrant Postal Code:76049
+Registrant Country:US
+Registrant Phone:+1.8175799151
+Registrant Phone Ext.:
+Registrant FAX:+1.5123320690
+Registrant FAX Ext.:
+Registrant Email:roland@rolandrussell.com
+Admin ID:DR-MC-00008
+Admin Name:Roland Russell
+Admin Organization:Texas Ranger Law Enforcement Association (TRLEA)
+Admin Street1:7309 Ravenswood Road
+Admin Street2:
+Admin Street3:
+Admin City:Granbury
+Admin State/Province:TX
+Admin Postal Code:76049
+Admin Country:US
+Admin Phone:+1.8175799151
+Admin Phone Ext.:
+Admin FAX:+1.5123320690
+Admin FAX Ext.:
+Admin Email:roland@rolandrussell.com
+Tech ID:DR-MC-00008
+Tech Name:Roland Russell
+Tech Organization:Texas Ranger Law Enforcement Association (TRLEA)
+Tech Street1:7309 Ravenswood Road
+Tech Street2:
+Tech Street3:
+Tech City:Granbury
+Tech State/Province:TX
+Tech Postal Code:76049
+Tech Country:US
+Tech Phone:+1.8175799151
+Tech Phone Ext.:
+Tech FAX:+1.5123320690
+Tech FAX Ext.:
+Tech Email:roland@rolandrussell.com
+Name Server:NS19.WORLDNIC.COM
+Name Server:NS20.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
