@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104197-LROR
+Domain Name:IFEX.ORG
+Created On:11-Oct-1996 04:00:00 UTC
+Last Updated On:20-Apr-2010 17:29:32 UTC
+Expiration Date:10-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23837111-NSI
+Registrant Name:The IFEX Clearing House
+Registrant Organization:The IFEX Clearing House
+Registrant Street1:555 Richmond St. W. #1101, P.O.B. 407
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:Ontario
+Registrant Postal Code:M5V 3B1
+Registrant Country:CA
+Registrant Phone:+1.14165159622
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:ifex@IFEX.ORG
+Admin ID:23837111-NSI
+Admin Name:The IFEX Clearing House
+Admin Organization:The IFEX Clearing House
+Admin Street1:555 Richmond St. W. #1101, P.O.B. 407
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:Ontario
+Admin Postal Code:M5V 3B1
+Admin Country:CA
+Admin Phone:+1.14165159622
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:ifex@IFEX.ORG
+Tech ID:16217370-NSI
+Tech Name:IFEX ContactMiddleName Clearing House
+Tech Organization:IFEX
+Tech Street1:555 Richmond St. W. #1101, P.O.B. 407
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:Ontario
+Tech Postal Code:M5V 3B1
+Tech Country:CA
+Tech Phone:+1.416515962
+Tech Phone Ext.:
+Tech FAX:+1.416515787
+Tech FAX Ext.:
+Tech Email:ifex@ifex.org
+Name Server:NS1.BEANFIELD.NET
+Name Server:NS2.BEANFIELD.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       ilves.ee
+registrant:   CID:ELION:129008818384
+admin-c:      CID:ELION:129008818171
+nsset:        NSSID:ELION:ID001
+registrar:    elion
+status:       paid and in zone
+registered:   04.07.2010 03:32:58
+changed:      18.11.2010 15:50:00
+expire:       18.11.2011
+
+contact:      CID:ELION:129008818384
+name:         AKTSIASELTS ILVES-EXTRA
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      18.11.2010 15:49:43
+
+contact:      CID:ELION:129008818171
+name:         Urmo Kivikas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      18.11.2010 15:49:42
+
+nsset:        NSSID:ELION:ID001
+nserver:      ns.elion.ee (213.168.18.146)
+nserver:      ns2.elion.ee (195.50.193.163)
+tech-c:       CID:ELION:ID001
+registrar:    elion
+created:      06.07.2010 17:14:36
+
+contact:      CID:ELION:ID001
+org:          Elion Ettev&Atilde;&micro;tted AS
+name:         Elion Ettev&Atilde;&micro;tted AS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      06.07.2010 17:12:53
+
+
