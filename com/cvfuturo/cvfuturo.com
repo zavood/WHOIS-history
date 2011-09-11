@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KLAUSSNER.COM
+   Domain Name: CVFUTURO.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.SPRO.NET
+   Name Server: NS2.SPRO.NET
    Status: clientTransferProhibited
-   Updated Date: 11-jul-2011
-   Creation Date: 25-aug-1995
-   Expiration Date: 24-aug-2013
+   Updated Date: 08-feb-2011
+   Creation Date: 28-feb-2000
+   Expiration Date: 28-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:10:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:09:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about KLAUSSNER.COM
-&lt;a href=&quot;http://www.aboutus.org/KLAUSSNER.COM&quot;&gt;AboutUs: KLAUSSNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about CVFUTURO.COM
+&lt;a href=&quot;http://www.aboutus.org/CVFUTURO.COM&quot;&gt;AboutUs: CVFUTURO.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Klaussner Furniture Industries, Inc
-   405 Lewallen Rd. Drawer 220
-   Asheboro, NC 27204
-   US
+Diario El Universal C.A.
+   Edif. el Universal, Ave. Urdaneta
+   Caracas, DISTRITO FEDERAL 1010
+   VE
 
-   Domain Name: KLAUSSNER.COM
+   Domain Name: CVFUTURO.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,11 +95,13 @@ Klaussner Furniture Industries, Inc
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Klaussner Furniture Industries		jsmith@klaussner.com
-      405 LEWALLEN RD
-      ASHEBORO, NC 27205-6111
+      Disilvestro, Francisco		fdisilvestro@eluniversal.com
+      Manduca Media LLC
+      1209 Orange Street
+      The Corporation Trust Company
+      Wilmington, DE 19801
       US
-      336-625-6175 fax: 336-626-0905
+      212-355-1663 fax: 58-212-505-2156
 
    Technical Contact:
       Network Solutions, LLC.		customerservice@networksolutions.com
@@ -109,13 +111,13 @@ Klaussner Furniture Industries, Inc
       1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 24-Aug-2013.
-   Record created on 25-Aug-1995.
-   Database last updated on 11-Sep-2011 00:05:36 EDT.
+   Record expires on 28-Feb-2013.
+   Record created on 28-Feb-2000.
+   Database last updated on 11-Sep-2011 00:04:52 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   NS1.SPRO.NET                 207.70.1.10
+   NS2.SPRO.NET                 198.60.204.10
 
 

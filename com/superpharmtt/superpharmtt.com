@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KLAUSSNER.COM
+   Domain Name: SUPERPHARMTT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS19.WORLDNIC.COM
+   Name Server: NS20.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 11-jul-2011
-   Creation Date: 25-aug-1995
-   Expiration Date: 24-aug-2013
+   Updated Date: 05-aug-2010
+   Creation Date: 11-jun-2004
+   Expiration Date: 11-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:10:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:09:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about KLAUSSNER.COM
-&lt;a href=&quot;http://www.aboutus.org/KLAUSSNER.COM&quot;&gt;AboutUs: KLAUSSNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about SUPERPHARMTT.COM
+&lt;a href=&quot;http://www.aboutus.org/SUPERPHARMTT.COM&quot;&gt;AboutUs: SUPERPHARMTT.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Klaussner Furniture Industries, Inc
-   405 Lewallen Rd. Drawer 220
-   Asheboro, NC 27204
-   US
+SuperPharm Limited
+   ATTN SUPERPHARMTT.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: KLAUSSNER.COM
+
+   Domain Name: SUPERPHARMTT.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,11 +97,14 @@ Klaussner Furniture Industries, Inc
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Klaussner Furniture Industries		jsmith@klaussner.com
-      405 LEWALLEN RD
-      ASHEBORO, NC 27205-6111
+      Sobrian, David		cd3mp5pf4u4@networksolutionsprivateregistration.com
+      SuperPharm Limited
+      ATTN SUPERPHARMTT.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      336-625-6175 fax: 336-626-0905
+      570-708-8780
 
    Technical Contact:
       Network Solutions, LLC.		customerservice@networksolutions.com
@@ -109,13 +114,19 @@ Klaussner Furniture Industries, Inc
       1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 24-Aug-2013.
-   Record created on 25-Aug-1995.
-   Database last updated on 11-Sep-2011 00:05:36 EDT.
+   Record expires on 11-Jun-2012.
+   Record created on 11-Jun-2004.
+   Database last updated on 10-Sep-2011 23:59:25 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   NS19.WORLDNIC.COM            205.178.190.10
+   NS20.WORLDNIC.COM            206.188.198.10
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

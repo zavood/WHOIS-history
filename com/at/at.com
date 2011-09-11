@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KLAUSSNER.COM
+   Domain Name: AT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.STORMWEST.COM
+   Name Server: NS2.STORMWEST.COM
    Status: clientTransferProhibited
-   Updated Date: 11-jul-2011
-   Creation Date: 25-aug-1995
-   Expiration Date: 24-aug-2013
+   Updated Date: 30-nov-2009
+   Creation Date: 18-nov-1993
+   Expiration Date: 19-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:10:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:09:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about KLAUSSNER.COM
-&lt;a href=&quot;http://www.aboutus.org/KLAUSSNER.COM&quot;&gt;AboutUs: KLAUSSNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about AT.COM
+&lt;a href=&quot;http://www.aboutus.org/AT.COM&quot;&gt;AboutUs: AT.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Klaussner Furniture Industries, Inc
-   405 Lewallen Rd. Drawer 220
-   Asheboro, NC 27204
+Barrett, Roy
+   120 N. Robinson Avenue
+   Suite 2800
+   Oklahoma City, OK 73102
    US
 
-   Domain Name: KLAUSSNER.COM
+   Domain Name: AT.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -94,28 +95,22 @@ Klaussner Furniture Industries, Inc
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Klaussner Furniture Industries		jsmith@klaussner.com
-      405 LEWALLEN RD
-      ASHEBORO, NC 27205-6111
+   Administrative Contact, Technical Contact:
+      Barrett, Roy		roybar@gmail.com
+      120 N. Robinson Avenue
+      Suite 2800
+      Oklahoma City, OK 73102
       US
-      336-625-6175 fax: 336-626-0905
-
-   Technical Contact:
-      Network Solutions, LLC.		customerservice@networksolutions.com
-      13861 Sunrise Valley Drive
-      Herndon, VA 20171
-      US
-      1-888-642-9675 fax: 571-434-4620
+      877-839-7273
 
 
-   Record expires on 24-Aug-2013.
-   Record created on 25-Aug-1995.
-   Database last updated on 11-Sep-2011 00:05:36 EDT.
+   Record expires on 19-Mar-2014.
+   Record created on 19-Mar-2004.
+   Database last updated on 10-Sep-2011 23:59:25 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   NS1.STORMWEST.COM
+   NS2.STORMWEST.COM
 
 
