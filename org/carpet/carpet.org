@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4211400-LROR
+Domain Name:CARPET.ORG
+Created On:22-Feb-1999 05:00:00 UTC
+Last Updated On:29-Feb-2008 03:26:25 UTC
+Expiration Date:22-Feb-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30475580-NSI
+Registrant Name:Anthony Hylton
+Registrant Organization:Anthony Hylton
+Registrant Street1:3032 Pine Valley Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:East Point
+Registrant State/Province:GA
+Registrant Postal Code:30344
+Registrant Country:US
+Registrant Phone:+1.4043498970
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:pahylton@DESPAMMED.COM
+Admin ID:41075847-NSI
+Admin Name:Carpet.org LLC
+Admin Street1:4302 Commercial Ave #12
+Admin Street2:
+Admin Street3:
+Admin City:Madison
+Admin State/Province:WI
+Admin Postal Code:53714
+Admin Country:US
+Admin Phone:+1.608239672
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:danny921@hotmail.com
+Tech ID:41075847-NSI
+Tech Name:Carpet.org LLC
+Tech Street1:4302 Commercial Ave #12
+Tech Street2:
+Tech Street3:
+Tech City:Madison
+Tech State/Province:WI
+Tech Postal Code:53714
+Tech Country:US
+Tech Phone:+1.608239672
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:danny921@hotmail.com
+Name Server:DNS1.SUPREMECENTER42.COM
+Name Server:DNS2.SUPREMECENTER42.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
