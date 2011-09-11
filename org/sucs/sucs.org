@@ -1,0 +1,110 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D37905714-LROR
+Domain Name:SUCS.ORG
+Created On:16-Oct-2000 23:00:57 UTC
+Last Updated On:24-Aug-2011 11:06:49 UTC
+Expiration Date:16-Oct-2011 23:00:57 UTC
+Sponsoring Registrar:BB Online UK Limited (R20-LROR)
+Status:OK
+Registrant ID:1197483294o83623
+Registrant Name:Chris McKenna
+Registrant Street1:Shenstone
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lower North Street
+Registrant State/Province:Cheddar Somerset
+Registrant Postal Code:BS27 3HH
+Registrant Country:GB
+Registrant Phone:+44.1934742395
+Registrant Phone Ext.:
+Registrant FAX:+44.1934742395
+Registrant FAX Ext.:
+Registrant Email:cmckenna@sucs.swan.ac.uk
+Admin ID:1071751362a84668
+Admin Name:Chris McKenna
+Admin Street1:Shenstone
+Admin Street2:
+Admin Street3:
+Admin City:Lower North Street
+Admin State/Province:Cheddar Somerset
+Admin Postal Code:BS27 3HH
+Admin Country:GB
+Admin Phone:+44.1934742395
+Admin Phone Ext.:01
+Admin FAX:+44.1934742395
+Admin FAX Ext.:
+Admin Email:cmckenna@sucs.swan.ac.uk
+Admin ID:Ha-11558-qoowak0
+Admin Name:Chris McKenna
+Admin Organization:Swansea University Computer Society
+Admin Street1:PO Box 2162
+Admin Street2:
+Admin Street3:
+Admin City:Luton
+Admin State/Province:Beds
+Admin Postal Code:LU3 2YT
+Admin Country:GB
+Admin Phone:+44.1582572148
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:7nydsucsorg@snailgate.com
+Tech ID:1071751362t12019
+Tech Name:Chris McKenna
+Tech Street1:Shenstone
+Tech Street2:
+Tech Street3:
+Tech City:Lower North Street
+Tech State/Province:Cheddar Somerset
+Tech Postal Code:BS27 3HH
+Tech Country:GB
+Tech Phone:+44.1934742395
+Tech Phone Ext.:01
+Tech FAX:+44.1934742395
+Tech FAX Ext.:
+Tech Email:cmckenna@sucs.swan.ac.uk
+Tech ID:tR1230662609t571
+Tech Name:Chris McKenna
+Tech Street1:Shenstone
+Tech Street2:
+Tech Street3:
+Tech City:Lower North Street Cheddar
+Tech State/Province:Somerset
+Tech Postal Code:BS27 3HH
+Tech Country:GB
+Tech Phone:+44.1934742395
+Tech Phone Ext.:
+Tech FAX:+44.1934742395
+Tech FAX Ext.:
+Tech Email:cmckenna@sucs.swan.ac.uk
+Name Server:SUCS.SWAN.AC.UK
+Name Server:NS1.BOTEC.CO.UK
+Name Server:OUTPOST.OPENDIUM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
