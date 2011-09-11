@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-apr-2004
    Expiration Date: 27-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 02:47:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 05:11:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    bukai
-   hunan
-   changsha,  410000
-   China
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: YXDOWN.COM
-      Created on: 27-Apr-04
-      Expires on: 27-Apr-13
-      Last Updated on: 25-Aug-11
-
-   Administrative Contact:
-      bu, kai  yxdown@gmail.com
-      bukai
-      hunan
-      changsha,  410000
-      China
-      +86.13918813309      Fax -- +86.13918813309
-
-   Technical Contact:
-      bu, kai  yxdown@gmail.com
-      bukai
-      hunan
-      changsha,  410000
-      China
-      +86.13918813309      Fax -- +86.13918813309
 
    Domain servers in listed order:
       NS1.DNSV2.COM
       NS2.DNSV2.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=YXDOWN.COM

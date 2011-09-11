@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 05-nov-2001
    Expiration Date: 05-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 05:01:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 05:12:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ Registrant:
 
     ns3.p08.dynect.net
     ns2.p08.dynect.net
-    ns4.p08.dynect.net
     ns1.p08.dynect.net
+    ns4.p08.dynect.net
 
 
 
@@ -133,4 +133,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--
