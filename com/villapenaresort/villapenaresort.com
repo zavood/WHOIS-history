@@ -5,20 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TECHNODESIGNIP.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.REDHOSTING.NL
-   Name Server: NS2.REDHOSTING.NL
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-feb-2011
-   Creation Date: 09-feb-2001
-   Expiration Date: 09-feb-2012
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:56:16 UTC &lt;&lt;&lt;
+No match for &quot;VILLAPENARESORT.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:55:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,59 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   Techno Design IP
-   Koraalrood 100
-   Zoetermeer, n/a  2718 SC
-   NL
-
-   Registrar: DOTSTER
-   Domain Name: TECHNODESIGNIP.COM
-      Created on: 09-FEB-01
-      Expires on: 09-FEB-12
-      Last Updated on: 30-JUL-11
-
-   Administrative Contact:
-      Gorissen, J.  postmaster@technodesignip.com
-      Techno Design IP
-      Koraalrood 100
-      Zoetermeer, n/a  2718 SC
-      NL
-      +31 79 3618036
-      +31 79 3610278
-
-   Technical Contact:
-      Gorissen, Jeffrey  jgorissen@technodesignip.com
-      Techno Design IP bv
-      Koraalrood 100
-      Zoetermeer, ZH  2718 SC
-      NL
-      +31-79-3618036
-      +31-79-3601205
-
-
-   Domain servers in listed order:
-      NS2.REDHOSTING.NL
-      NS1.REDHOSTING.NL
-
-End of Whois Information

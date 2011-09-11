@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TECHNODESIGNIP.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.REDHOSTING.NL
-   Name Server: NS2.REDHOSTING.NL
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-feb-2011
-   Creation Date: 09-feb-2001
-   Expiration Date: 09-feb-2012
+   Domain Name: WEBASTRO.NET
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS364858.OVH.NET
+   Name Server: SDNS2.OVH.NET
+   Status: ok
+   Updated Date: 19-apr-2011
+   Creation Date: 18-apr-2003
+   Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:56:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:55:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,59 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+; This data is provided by Haisoft
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Haisoft does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+DOMAIN: WEBASTRO.NET
 
-Registrant:
-   Techno Design IP
-   Koraalrood 100
-   Zoetermeer, n/a  2718 SC
-   NL
+RSP: Haisoft
+URL: http://www.haisoft.net
 
-   Registrar: DOTSTER
-   Domain Name: TECHNODESIGNIP.COM
-      Created on: 09-FEB-01
-      Expires on: 09-FEB-12
-      Last Updated on: 30-JUL-11
+owner-contact: P-FBB500
+owner-fname: Florent
+owner-lname: Bouillon
+owner-street: 5 Rue Du Mar&Atilde;&copy;chal Leclerc
+owner-city: Acheville
+owner-zip: 62320
+owner-country: FR
+owner-phone: 33.321492195
+owner-email: createurdebugs@gmail.com
 
-   Administrative Contact:
-      Gorissen, J.  postmaster@technodesignip.com
-      Techno Design IP
-      Koraalrood 100
-      Zoetermeer, n/a  2718 SC
-      NL
-      +31 79 3618036
-      +31 79 3610278
+admin-contact: P-FBB500
+admin-fname: Florent
+admin-lname: Bouillon
+admin-street: 5 Rue Du Mar&Atilde;&copy;chal Leclerc
+admin-city: Acheville
+admin-zip: 62320
+admin-country: FR
+admin-phone: 33.321492195
+admin-email: createurdebugs@gmail.com
 
-   Technical Contact:
-      Gorissen, Jeffrey  jgorissen@technodesignip.com
-      Techno Design IP bv
-      Koraalrood 100
-      Zoetermeer, ZH  2718 SC
-      NL
-      +31-79-3618036
-      +31-79-3601205
+tech-contact: P-FQV78
+tech-organization: HaiSoft S.A.R.L.
+tech-title: Mr
+tech-fname: Frederic
+tech-lname: Vagner
+tech-street: 2 rue Girodet
+tech-city: Orleans
+tech-zip: 45000
+tech-country: FR
+tech-phone: +33238525812
+tech-fax: +33238525810
+tech-email: haisoft@haisoft.net
 
+billing-contact: P-FBB500
+billing-fname: Florent
+billing-lname: Bouillon
+billing-street: 5 Rue Du Mar&Atilde;&copy;chal Leclerc
+billing-city: Acheville
+billing-zip: 62320
+billing-country: FR
+billing-phone: 33.321492195
+billing-email: createurdebugs@gmail.com
 
-   Domain servers in listed order:
-      NS2.REDHOSTING.NL
-      NS1.REDHOSTING.NL
+nameserver: ns364858.ovh.net
+nameserver: sdns2.ovh.net
 
-End of Whois Information
+; Please register your domains at
+; http://www.haisoft.net
+
