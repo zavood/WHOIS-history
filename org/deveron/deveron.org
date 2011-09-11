@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D95838551-LROR
+Domain Name:DEVERON.ORG
+Created On:17-Mar-2003 13:59:04 UTC
+Last Updated On:06-Sep-2011 11:09:46 UTC
+Expiration Date:17-Mar-2017 13:59:04 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:OK
+Registrant ID:CORG-15342
+Registrant Name:Robin Vasey
+Registrant Street1:Avochie Stables
+Registrant Street2:Avochie
+Registrant Street3:
+Registrant City:Huntly
+Registrant State/Province:
+Registrant Postal Code:AB54 7YY
+Registrant Country:GB
+Registrant Phone:+014.66711388
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:robinvasey@deveron.org
+Admin ID:CORG-45626
+Admin Name:Tony Lucas
+Admin Organization:XCalibre Communications
+Admin Street1:Geddes House Business Centre
+Admin Street2:Kirkton North - Livingston
+Admin Street3:
+Admin City:West Lothian
+Admin State/Province:Scotland
+Admin Postal Code:EH54 6GU
+Admin Country:GB
+Admin Phone:+087.00500080
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:joker2@xcalibre.co.uk
+Tech ID:CORG-45626
+Tech Name:Tony Lucas
+Tech Organization:XCalibre Communications
+Tech Street1:Geddes House Business Centre
+Tech Street2:Kirkton North - Livingston
+Tech Street3:
+Tech City:West Lothian
+Tech State/Province:Scotland
+Tech Postal Code:EH54 6GU
+Tech Country:GB
+Tech Phone:+087.00500080
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:joker2@xcalibre.co.uk
+Name Server:ULTRA101.UK2.NET
+Name Server:ULTRA102.UK2.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

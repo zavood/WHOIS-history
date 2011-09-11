@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEARTILLY.COM
+   Domain Name: DFWKNIGHT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS41.DOMAINCONTROL.COM
-   Name Server: NS42.DOMAINCONTROL.COM
+   Name Server: SRV3.WJWEBDESIGNS.COM
+   Name Server: SRV4.WJWEBDESIGNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jan-2011
-   Creation Date: 10-feb-2006
-   Expiration Date: 10-feb-2012
+   Updated Date: 02-nov-2010
+   Creation Date: 01-nov-1999
+   Expiration Date: 01-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 09:06:37 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DEARTILLY.COM
+   Domain Name: DFWKNIGHT.COM
 
    Domain servers in listed order:
-      NS41.DOMAINCONTROL.COM
-      NS42.DOMAINCONTROL.COM
+      SRV3.WJWEBDESIGNS.COM
+      SRV4.WJWEBDESIGNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DEARTILLY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DFWKNIGHT.COM
