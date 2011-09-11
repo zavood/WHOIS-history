@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADOBE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ADOBE-DNS-01.ADOBE.COM
-   Name Server: ADOBE-DNS-02.ADOBE.COM
-   Name Server: ADOBE-DNS-03.ADOBE.COM
-   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Domain Name: UNITED-HELLAS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS0.NS0.COM
+   Name Server: NS6.PAIR.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 17-nov-1986
-   Expiration Date: 16-may-2013
+   Updated Date: 01-dec-2010
+   Creation Date: 31-dec-1996
+   Expiration Date: 30-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:03:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:03:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +52,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... adobe.com
-  Creation Date........ 1986-11-17
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2013-05-17
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366777
-  Admin Fax............ +1.4085374000
-
-Tech Name............ Adobe Systems Incorporated
-  Tech Address......... 345 Park Avenue
-  Tech Address.........
-  Tech Address......... San Jose
-  Tech Address......... 95110
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@adobe.com
-  Tech Phone........... +1.4085366000
-  Tech Fax.............
-  Name Server.......... ADOBE-DNS-02.ADOBE.COM
-  Name Server.......... ADOBE-DNS-01.ADOBE.COM
-  Name Server.......... ADOBE-DNS-04.ADOBE.COM
-  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+=-=-=-=
+Visit AboutUs.org for more information about united-hellas.com
+&lt;a href=&quot;http://www.aboutus.org/united-hellas.com&quot;&gt;AboutUs: united-hellas.com&lt;/a&gt;
 
 
+Domain name: united-hellas.com
+
+Administrative Contact:
+   United Online S.A.
+   Domain Administrator (admin@domainadmin.us)
+   +30.2102139810
+   Fax: +30.2102134822
+   61 Protopapadaki st
+   Galatsi, ATTIKI 11147
+   GR
+
+Technical Contact:
+   United Online S.A.
+   Domain Administrator (admin@domainadmin.us)
+   +30.2102139810
+   Fax: +30.2102134822
+   61 Protopapadaki st
+   Galatsi, ATTIKI 11147
+   GR
+
+Registrant Contact:
+   United Online S.A.
+   Domain Administrator ()
+
+   Fax:
+   61 Protopapadaki st
+   Galatsi, ATTIKI 11147
+   GR
+
+Status: Locked
+
+Name Servers:
+   NS0.NS0.COM
+   NS6.PAIR.COM
+
+Creation date: 31 Dec 1996 05:00:00
+Expiration date: 30 Dec 2011 05:00:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
