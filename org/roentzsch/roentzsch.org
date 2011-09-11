@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148616857-LROR
+Domain Name:ROENTZSCH.ORG
+Created On:17-Jul-2007 08:16:08 UTC
+Last Updated On:18-Jul-2011 01:26:02 UTC
+Expiration Date:17-Jul-2012 08:16:08 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:AT12796964-053
+Registrant Name:Lars Roentzsch
+Registrant Street1:Dornbluthstr. 21
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dresden
+Registrant State/Province:--
+Registrant Postal Code:01277
+Registrant Country:DE
+Registrant Phone:+49.1788554277
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lars.roentzsch@gmx.de
+Admin ID:AT4607819-051
+Admin Name:Hostmaster Funktionen
+Admin Organization:One.com A/S
+Admin Street1:Kalvebod Brygge 45
+Admin Street2:
+Admin Street3:
+Admin City:Copenhagen V
+Admin State/Province:
+Admin Postal Code:1560
+Admin Country:DK
+Admin Phone:+45.46907100
+Admin Phone Ext.:
+Admin FAX:+45.70205872
+Admin FAX Ext.:
+Admin Email:hostmaster@b-one.nu
+Tech ID:AT35145166-015
+Tech Name:Host Master
+Tech Organization:One.com
+Tech Street1:Kalvebod Brygge 45
+Tech Street2:
+Tech Street3:
+Tech City:Copenhagen V
+Tech State/Province:
+Tech Postal Code:1560
+Tech Country:DK
+Tech Phone:+45.46907100
+Tech Phone Ext.:
+Tech FAX:+45.70205872
+Tech FAX Ext.:
+Tech Email:hostmaster@one.com
+Name Server:NS01.ONE.COM
+Name Server:NS02.ONE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

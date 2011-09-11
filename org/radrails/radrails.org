@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107541806-LROR
+Domain Name:RADRAILS.ORG
+Created On:19-Sep-2005 17:11:15 UTC
+Last Updated On:13-Sep-2010 22:05:18 UTC
+Expiration Date:19-Sep-2011 17:11:15 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:39627948-NSI
+Registrant Name:Xamlon, Inc.
+Registrant Organization:Xamlon, Inc.
+Registrant Street1:1450 Fashion Island Blvd
+Registrant Street2:Suite 500
+Registrant Street3:
+Registrant City:San Mateo
+Registrant State/Province:CA
+Registrant Postal Code:94404
+Registrant Country:US
+Registrant Phone:+1.6505703022
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:paul@aptana.com
+Admin ID:39627948-NSI
+Admin Name:Xamlon, Inc.
+Admin Organization:Xamlon, Inc.
+Admin Street1:1450 Fashion Island Blvd
+Admin Street2:Suite 500
+Admin Street3:
+Admin City:San Mateo
+Admin State/Province:CA
+Admin Postal Code:94404
+Admin Country:US
+Admin Phone:+1.6505703022
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:paul@aptana.com
+Tech ID:39627948-NSI
+Tech Name:Xamlon, Inc.
+Tech Organization:Xamlon, Inc.
+Tech Street1:1450 Fashion Island Blvd
+Tech Street2:Suite 500
+Tech Street3:
+Tech City:San Mateo
+Tech State/Province:CA
+Tech Postal Code:94404
+Tech Country:US
+Tech Phone:+1.6505703022
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:paul@aptana.com
+Name Server:NS1.SLICEHOST.NET
+Name Server:NS2.SLICEHOST.NET
+Name Server:NS3.SLICEHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
