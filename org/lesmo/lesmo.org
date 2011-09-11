@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D68752172-LROR
+Domain Name:LESMO.ORG
+Created On:03-Apr-2001 15:07:27 UTC
+Last Updated On:05-Mar-2011 05:18:36 UTC
+Expiration Date:03-Apr-2012 16:07:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuSBj07JseQqIWkQ
+Registrant Name:CommunicationGraphicService S.n.c.
+Registrant Organization:CommunicationGraphicService S.n.c.
+Registrant Street1:Via Giovanni da Sovico 26
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sovico
+Registrant State/Province:Milano
+Registrant Postal Code:20050
+Registrant Country:IT
+Registrant Phone:+1.0039039201
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cgs@cgservice.com
+Admin ID:tullwpFIAhPkgIcK
+Admin Name:Alessandro Callovini
+Admin Organization:Communication Graphic Service s.n.c.
+Admin Street1:Via Giovanni da Sovico, 26
+Admin Street2:
+Admin Street3:
+Admin City:Sovico
+Admin State/Province:MI
+Admin Postal Code:20050
+Admin Country:IT
+Admin Phone:+39.03920169
+Admin Phone Ext.:
+Admin FAX:+39.03920141
+Admin FAX Ext.:
+Admin Email:ale@cgservice.com
+Tech ID:tuiAlQm7t1sFr07G
+Tech Name:Omero Narducci
+Tech Organization:9net srl
+Tech Street1:via caldera 21
+Tech Street2:
+Tech Street3:
+Tech City:Milano
+Tech State/Province:Italia
+Tech Postal Code:20153
+Tech Country:IT
+Tech Phone:+39.023919091
+Tech Phone Ext.:
+Tech FAX:+39.0239190929
+Tech FAX Ext.:
+Tech Email:hostmaster@9net.it
+Name Server:NS2.9NETWEB.IT
+Name Server:NS1.9NETWEB.IT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
