@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105715299-LROR
+Domain Name:HELIONET.ORG
+Created On:11-Feb-2005 00:17:35 UTC
+Last Updated On:12-Feb-2011 09:48:57 UTC
+Expiration Date:11-Feb-2012 00:17:35 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38093056
+Registrant Name:Ashoat Ashoat
+Registrant Organization:Tevosyan
+Registrant Street1:7018 117th Pl NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kirkland
+Registrant State/Province:Washington
+Registrant Postal Code:98033
+Registrant Country:US
+Registrant Phone:+1.4257399380
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ashoat@gmail.com
+Admin ID:CR38093058
+Admin Name:Ashoat Tevosyan
+Admin Organization:Ashoat Tevosyan
+Admin Street1:7018 117th Pl NE
+Admin Street2:
+Admin Street3:
+Admin City:Kirkland
+Admin State/Province:Washington
+Admin Postal Code:98033
+Admin Country:US
+Admin Phone:+1.4257399380
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ashoat@gmail.com
+Tech ID:CR38093057
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:California
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.6198813096
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS1.HELIOHOST.ORG
+Name Server:NS2.HELIOHOST.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
