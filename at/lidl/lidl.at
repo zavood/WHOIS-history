@@ -1,0 +1,79 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         lidl.at
+registrant:     LSUC7932915-NICAT
+admin-c:        LSUC7932916-NICAT
+tech-c:         ESA7932917-NICAT
+nserver:        ns1.prodns.net
+remarks:        208.78.70.32
+nserver:        ns2.prodns.net
+remarks:        204.13.250.32
+nserver:        ns3.prodns.net
+remarks:        208.78.71.32
+nserver:        ns4.prodns.net
+remarks:        204.13.251.32
+nserver:        ns9.prodns.net
+remarks:        74.116.176.8
+changed:        20110405 11:32:08
+source:         AT-DOM
+
+personname:     Department Trademark
+organization:   Lidl Stiftung u. Co. KG
+street address: Stiftsbergstr. 1
+postal code:    74167
+city:           Neckarsulm
+country:        Germany
+phone:          +49713294295354
+fax-no:         +49713294295439
+e-mail:         domains@lidl.com
+nic-hdl:        LSUC7932915-NICAT
+changed:        20110405 11:32:02
+source:         AT-DOM
+
+personname:     Domain- Admin-C
+organization:   Lidl Stiftung u. Co. KG
+street address: Stiftsbergstr. 1
+postal code:    74167
+city:           Neckarsulm
+country:        Germany
+phone:          +49713294295354
+fax-no:         +49713294295439
+e-mail:         domains@lidl.com
+nic-hdl:        LSUC7932916-NICAT
+changed:        20110405 11:32:05
+source:         AT-DOM
+
+personname:     Adlani Anouar
+organization:   EuroDNS S.A.
+street address: 2 rue Leon Laval
+postal code:    L-3372
+city:           Leudelange
+country:        Luxembourg
+phone:          +35226372525
+fax-no:         +35226372537
+e-mail:         itservices@eurodns.com
+nic-hdl:        ESA7932917-NICAT
+changed:        20110405 11:32:05
+source:         AT-DOM
+
