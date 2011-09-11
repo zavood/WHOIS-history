@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 11 22:58:28 2011
+
+domain:       cedrops.cz
+registrant:   A24CONTACT-13377
+nsset:        NSS:GIGAWEBCZ_34:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   06.10.2008 09:25:24
+changed:      13.10.2008 09:27:31
+expire:       06.10.2011
+
+contact:      A24CONTACT-13377
+org:          CEDR pardubice o.p.s.
+name:         CEDR pardubice o.p.s.
+address:      Jana Palacha 324
+address:      Pardubice
+address:      530 02
+address:      CZ
+phone:        +420.774658592
+e-mail:       vojvodik@s-firma.cz
+registrar:    REG-ACTIVE24
+created:      06.10.2008 09:25:17
+
+nsset:        NSS:GIGAWEBCZ_34:1
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.us
+nserver:      ns.forpsi.cn
+tech-c:       SB:GIGAWEBCZ_34
+tech-c:       GIGAWEBCZ_33
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+contact:      SB:GIGAWEBCZ_34
+name:         Franti&Aring;&iexcl;ek &Auml;åimbora
+address:      D&Aring;&frac34;b&Atilde;&iexcl;nov 125
+address:      Vysok&Atilde;&copy; M&Atilde;&frac12;to
+address:      56601
+address:      CZ
+e-mail:       Jan.Novacek@atlas.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      27.08.2003 11:56:00
+
+contact:      GIGAWEBCZ_33
+name:         Jan Nov&Atilde;&iexcl;&Auml;çek
+address:      &Aring;&frac12;i&Aring;&frac34;kova 362/IV
+address:      Vysok&Atilde;&copy; M&Atilde;&frac12;to
+address:      56601
+address:      CZ
+phone:        +420 608535300
+e-mail:       Jan.Novacek@atlas.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+
+

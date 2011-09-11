@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UDCSTUDENTTRACKER.NET
+   Domain Name: YOURMOSCOWGUIDE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.DISCOUNTASP.NET
-   Name Server: NS2.DISCOUNTASP.NET
-   Name Server: NS3.DISCOUNTASP.NET
+   Name Server: NS1.HYPERMART.NET
+   Name Server: NS2.HYPERMART.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-mar-2011
-   Creation Date: 03-apr-2008
-   Expiration Date: 03-apr-2012
+   Updated Date: 07-sep-2008
+   Creation Date: 19-oct-2001
+   Expiration Date: 19-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:58:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:57:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,54 +54,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- CurSoft Development &amp; Consultancy N.V.
- Kaya E. Plaate 4
- Suffisant, Willemstad, Curacao LP52
- AN
+ Your Moscow Guide
+ Kirovogradskaya str. 8 bld 4, apt 46
+ Moscow, XX 117587
+ RU
 
- Domain name: UDCSTUDENTTRACKER.NET
+ Domain name: YOURMOSCOWGUIDE.COM
 
 
  Administrative Contact:
-    Boehkoudt, Gaylord  gaylord@cursoft.com
-    Kaya E. Plaate 4
-    Suffisant, Willemstad, Curacao LP52
-    AN
-    +599.95234241    Fax: +599.95234241
-
+    Mikhailova, Elena  moscowguide@rambler.ru
+    Kirovogradskaya str. 8 bld 4, apt 46
+    Moscow, XX 117587
+    RU
+    + 7 916 63 249 63
  Technical Contact:
-    Support, Technical  domain@discountasp.net
-    8023 Beverly Blvd
-    #5-262
-    Los Angeles, CA 90048
+    DNS Administrator, HyperMart  pwebmaster@hypermart.net
+    999 Third Ave
+    Seattle, WA 98104
     US
-    +1.3233723864    Fax: +1.3233723864
+    206-447-1595    Fax: 206-447-1625
 
 
 
  Registration Service Provider:
-    DiscountASP.NET, hostmaster@discountasp.net
-    323-3723864
-    323-3723864 (fax)
-    http://www.discountASP.NET
+    HyperMart, support@hypermart.com
+    1-877-287-5929
 
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 27-Mar-2011.
- Record expires on 03-Apr-2012.
- Record created on 03-Apr-2008.
+ Record last updated on 07-Sep-2008.
+ Record expires on 19-Oct-2011.
+ Record created on 19-Oct-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.DISCOUNTASP.NET
-    NS1.DISCOUNTASP.NET
-    NS3.DISCOUNTASP.NET
+    NS2.HYPERMART.NET
+    NS1.HYPERMART.NET
 
 
- Domain status: clientTransferProhibited
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
                 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
