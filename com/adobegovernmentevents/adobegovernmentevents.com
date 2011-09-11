@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ANYASM.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:36:22 UTC &lt;&lt;&lt;
+   Domain Name: ADOBEGOVERNMENTEVENTS.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS1.IHOSTASP.NET
+   Name Server: NS2.IHOSTASP.NET
+   Name Server: NS3.IHOSTASP.NET
+   Status: ok
+   Updated Date: 13-jul-2011
+   Creation Date: 30-sep-2009
+   Expiration Date: 30-sep-2012
+
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:36:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+  JP Enterprises
+  108 Commerce Blvd - Suite D
+  P.O. Box 513
+  Lawrence, PA 15055
+  US
+
+  914s656p6282@junkemailprevention.com
+   +1.4129963435
+   +1.7248737338
+
+Domain Name: ADOBEGOVERNMENTEVENTS.COM
+
+Administrative &amp; Technical Contact:
+  Scott Gebhart
+  JP Enterprises
+  108 Commerce Blvd - Suite D
+  P.O. Box 513
+  Lawrence, PA 15055
+  US
+
+  914s656p6282@junkemailprevention.com
+   +1.7249163034
+   +1.7248737338
+
+Domain Name Servers:
+  NS1.IHOSTASP.NET
+  NS3.IHOSTASP.NET
+  NS2.IHOSTASP.NET
+
+Transfer-Lock Status: ENABLED
+
+ Created:     September 30, 2009
+Modified:     July 13, 2011
+ Expires:     September 30, 2012
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+
