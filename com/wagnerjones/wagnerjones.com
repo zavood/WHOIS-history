@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMATCH.COM
+   Domain Name: WAGNERJONES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1.IBIZDNS.COM
+   Name Server: NS2.IBIZDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 02-may-1998
-   Expiration Date: 01-may-2020
+   Updated Date: 27-mar-2009
+   Creation Date: 09-dec-2003
+   Expiration Date: 09-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:59:20 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   TrafficCat Inc.
+   Andrew B Jones
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: XMATCH.COM
+   Domain Name: WAGNERJONES.COM
 
    Domain servers in listed order:
-      UDNS2.ULTRADNS.NET
-      UDNS1.ULTRADNS.NET
+      NS2.IBIZDNS.COM
+      NS1.IBIZDNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=XMATCH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WAGNERJONES.COM
