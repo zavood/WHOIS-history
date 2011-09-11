@@ -1,0 +1,73 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         skyscanner.at
+registrant:     BWS7255383-NICAT
+admin-c:        SL7255384-NICAT
+tech-c:         NL7255385-NICAT
+nserver:        ns1.netnames.net
+nserver:        ns2.netnames.net
+nserver:        ns5.netnames.net
+nserver:        ns6.netnames.net
+changed:        20100622 11:58:19
+source:         AT-DOM
+
+personname:
+organization:   Bonsy Web Srl
+street address: Via Cicchetti 3
+postal code:    86170
+city:           Isernia
+country:        Italy
+phone:          +39865415262
+e-mail:         gaetanoiarussi@yahoo.it
+nic-hdl:        BWS7255383-NICAT
+changed:        20100621 11:57:21
+source:         AT-DOM
+
+personname:
+organization:   Skyscanner Limited
+street address: 10 Waterloo Place
+postal code:    EH1 3EG
+city:           Edinburgh
+country:        United Kingdom
+phone:          +441312525353
+fax-no:         +441312525902
+e-mail:         techadmin@skyscanner.net
+nic-hdl:        SL7255384-NICAT
+changed:        20100621 11:57:26
+source:         AT-DOM
+
+personname:
+organization:   Netnames Ltd
+street address: 3rd Floor Prospero House
+street address: 241 Borough High St.
+postal code:    SE1 1GA
+city:           null
+country:        United Kingdom
+phone:          +442070159222
+fax-no:         +442070159375
+e-mail:         hostmaster@netnames.net
+nic-hdl:        NL7255385-NICAT
+changed:        20100621 11:57:31
+source:         AT-DOM
+

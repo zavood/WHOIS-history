@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105763705-LROR
+Domain Name:TAMUSEUM.ORG
+Created On:21-Feb-2005 01:18:51 UTC
+Last Updated On:22-Feb-2010 19:05:13 UTC
+Expiration Date:21-Feb-2015 01:18:51 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33013875
+Registrant Name:Robin Petgrave
+Registrant Organization:Celebrity Helicopters
+Registrant Street1:916 W Alondra Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Compton
+Registrant State/Province:California
+Registrant Postal Code:90220
+Registrant Country:US
+Registrant Phone:+1.3106181155
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tony@branddevo.com
+Admin ID:CR33013877
+Admin Name:Robin Petgrave
+Admin Organization:Celebrity Helicopters
+Admin Street1:916 W Alondra Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Comtpon
+Admin State/Province:California
+Admin Postal Code:90220
+Admin Country:US
+Admin Phone:+1.6181155
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:robin@celebheli.com
+Tech ID:CR33013876
+Tech Name:Tony N
+Tech Organization:Brand Devo
+Tech Street1:PO Box 261
+Tech Street2:
+Tech Street3:
+Tech City:Hollywood
+Tech State/Province:California
+Tech Postal Code:90068
+Tech Country:US
+Tech Phone:+1.3106181155
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tony@branddevo.com
+Name Server:NS57.1AND1.COM
+Name Server:NS58.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
