@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D18476783-LROR
+Domain Name:DAVEBIAS.ORG
+Created On:26-Jan-2000 15:34:16 UTC
+Last Updated On:23-Jan-2011 18:29:53 UTC
+Expiration Date:26-Jan-2013 15:34:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31965332
+Registrant Name:David Bias
+Registrant Organization:David A. Bias
+Registrant Street1:223 1st Ave.
+Registrant Street2:No. 1
+Registrant Street3:
+Registrant City:New York City
+Registrant State/Province:New York
+Registrant Postal Code:10003
+Registrant Country:US
+Registrant Phone:+1.21225313
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:me@davebias.org
+Admin ID:CR31965334
+Admin Name:Dave Bias
+Admin Organization:davebias.org
+Admin Street1:223 1st Ave.
+Admin Street2:#1
+Admin Street3:
+Admin City:New York City
+Admin State/Province:New York
+Admin Postal Code:10003
+Admin Country:US
+Admin Phone:+1.6462630264
+Admin Phone Ext.:
+Admin FAX:+1.6462630264
+Admin FAX Ext.:
+Admin Email:me@davebias.org
+Tech ID:CR31965333
+Tech Name:Dave Bias
+Tech Organization:davebias.org
+Tech Street1:223 1st Ave.
+Tech Street2:#1
+Tech Street3:
+Tech City:New York City
+Tech State/Province:New York
+Tech Postal Code:10003
+Tech Country:US
+Tech Phone:+1.6462630264
+Tech Phone Ext.:
+Tech FAX:+1.6462630264
+Tech FAX Ext.:
+Tech Email:me@davebias.org
+Name Server:DNS2.STABLETRANSIT.COM
+Name Server:DNS1.STABLETRANSIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
