@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156051542-LROR
+Domain Name:LEGTUX.ORG
+Created On:04-May-2009 06:29:18 UTC
+Last Updated On:05-May-2011 14:16:36 UTC
+Expiration Date:04-May-2012 06:29:18 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-237119
+Registrant Name:Simon Le Guevel
+Registrant Street1:WHOIS PROXY PRIVACY
+Registrant Street2:Chez ONLINE - BP 438
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75366
+Registrant Country:FR
+Registrant Phone:+33.899193788
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:simon.237119@spamfree.bookmyname.com
+Admin ID:BMN-160084
+Admin Name:Benjamin SCHILZ
+Admin Organization:WHD-RS SARL
+Admin Street1:26 rue du four banal
+Admin Street2:
+Admin Street3:
+Admin City:THIONVILLE
+Admin State/Province:
+Admin Postal Code:57100
+Admin Country:FR
+Admin Phone:+33.359360041
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:whdrssarl.160084@spamfree.bookmyname.com
+Tech ID:BMN-160084
+Tech Name:Benjamin SCHILZ
+Tech Organization:WHD-RS SARL
+Tech Street1:26 rue du four banal
+Tech Street2:
+Tech Street3:
+Tech City:THIONVILLE
+Tech State/Province:
+Tech Postal Code:57100
+Tech Country:FR
+Tech Phone:+33.359360041
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:whdrssarl.160084@spamfree.bookmyname.com
+Name Server:NS15.ZONEEDIT.COM
+Name Server:NS17.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
