@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AMERICANTV.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.AMERICANTV.COM
-   Name Server: NS2.AMERICANTV.COM
-   Name Server: SUMATRA.AMERICANTV.COM
-   Status: clientTransferProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 28-feb-1995
-   Expiration Date: 01-mar-2017
+   Domain Name: AMERICASDOORSTEP.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Status: ok
+   Updated Date: 22-may-2011
+   Creation Date: 25-may-2001
+   Expiration Date: 25-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:04:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:05:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... americasdoorstep.com
+  Creation Date........ 2001-05-25
+  Registration Date.... 2001-05-25
+  Expiry Date.......... 2012-05-25
+  Organisation Name.... Digital Media Trends,LLC
+  Organisation Address. 715 J Street
+  Organisation Address. Suite 200
+  Organisation Address. San Diego
+  Organisation Address. 92101
+  Organisation Address. Ca
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Mark Simon
+  Admin Address........ 715 J Street
+  Admin Address........ Suite 200
+  Admin Address........ San Diego
+  Admin Address........ 92101
+  Admin Address........ Ca
+  Admin Address........ UNITED STATES
+  Admin Email.......... msimon@undergroundelephant.com
+  Admin Phone.......... +1.6197889632
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Mark Simon
+  Tech Address......... 715 J Street
+  Tech Address......... Suite 200
+  Tech Address......... San Diego
+  Tech Address......... 92101
+  Tech Address......... Ca
+  Tech Address......... UNITED STATES
+  Tech Email........... msimon@undergroundelephant.com
+  Tech Phone........... +1.6197889632
+  Tech Fax.............
+  Name Server.......... g4.nstld.com
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... h4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: americantv.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 09:54:47 EDT 2011
-Reason Code: IE
