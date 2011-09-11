@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEALPLY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.EASYDNS.COM
-   Name Server: DNS2.EASYDNS.NET
-   Name Server: DNS3.EASYDNS.ORG
-   Name Server: DNS4.EASYDNS.INFO
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 31-jan-2011
-   Expiration Date: 31-jan-2014
+   Domain Name: HOBBYKOKK.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   Status: ok
+   Updated Date: 28-may-2011
+   Creation Date: 19-may-2000
+   Expiration Date: 19-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 09:45:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 09:45:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   DealPly Technologies Ltd.
+  Tor Anders OEglaend (523465)
+  Myklabergveien 13A
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DEALPLY.COM
+  Sandnes, , 434
+  NO
 
-   Domain servers in listed order:
-      DNS1.EASYDNS.COM
-      DNS2.EASYDNS.NET
-      DNS3.EASYDNS.ORG
-      DNS4.EASYDNS.INFO
+  Domain name: hobbykokk.com
 
+Administrative and Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DEALPLY.COM
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
+
+Record created:           2008-11-04 09:51:53
+Record last updated:      2011-05-28 15:30:10
+Record expires:           2012-05-19 00:00:00
+
+Domain servers in listed order:
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)

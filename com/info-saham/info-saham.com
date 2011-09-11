@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEALPLY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.EASYDNS.COM
-   Name Server: DNS2.EASYDNS.NET
-   Name Server: DNS3.EASYDNS.ORG
-   Name Server: DNS4.EASYDNS.INFO
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 31-jan-2011
-   Expiration Date: 31-jan-2014
+   Domain Name: INFO-SAHAM.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: DNS.SITE5.COM
+   Name Server: DNS2.SITE5.COM
+   Status: ok
+   Updated Date: 07-jan-2011
+   Creation Date: 27-jan-2007
+   Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 09:45:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 09:45:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
+Whois Output for: info-saham.com
 
-Registrant:
-   DealPly Technologies Ltd.
+Domain Name Owner:
+  Ariston, Irwan
+  Jalan Kayumas Tengah IX no. 369
+  Jakarta, DKI Jakarta 13260
+  ID
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DEALPLY.COM
+Administrative Contact:
+  Ariston, Irwan
+  Jalan Kayumas Tengah IX no. 369
+  Jakarta, DKI Jakarta 13260, ID
+  Phone: +62.2168811552
+  Fax:   +62.8159808484
+  Email: irwanariston@yahoo.co.id
 
-   Domain servers in listed order:
-      DNS1.EASYDNS.COM
-      DNS2.EASYDNS.NET
-      DNS3.EASYDNS.ORG
-      DNS4.EASYDNS.INFO
+Technical Contact:
+  Ariston, Irwan
+  Jalan Kayumas Tengah IX no. 369
+  Jakarta, DKI Jakarta 13260, ID
+  Phone: +62.2168811552
+  Fax:   +62.8159808484
+  Email: irwanariston@yahoo.co.id
 
+Billing Contact:
+  Ariston, Irwan
+  Jalan Kayumas Tengah IX no. 369
+  Jakarta, DKI Jakarta 13260, ID
+  Phone: +62.2168811552
+  Fax:   +62.8159808484
+  Email: irwanariston@yahoo.co.id
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DEALPLY.COM
+Record Information:
+  Domain Record Created: January 27, 2007
+  Domain Record Updated: January 06, 2011
+  Domain Record Expires: January 27, 2012
+
+DNS Information:
+  Name Server: dns.site5.com
+  Name Server: dns2.site5.com
+
