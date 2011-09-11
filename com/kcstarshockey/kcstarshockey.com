@@ -5,14 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TAOBAO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-TAOBAO.COM
+   Domain Name: KCSTARSHOCKEY.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.TSTSERVER.COM
+   Name Server: NS2.TSTSERVER.COM
+   Name Server: NS3.TSTSERVER.COM
+   Name Server: NS4.TSTSERVER.COM
+   Name Server: NS5.TSTSERVER.COM
+   Status: ok
+   Updated Date: 14-aug-2009
+   Creation Date: 13-aug-2003
+   Expiration Date: 13-aug-2014
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:23:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:22:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.

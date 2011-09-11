@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TAOBAO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-TAOBAO.COM
+   Domain Name: JOSELUISDECASTRO.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS10.PIENSASOLUTIONS.COM
+   Name Server: NS9.PIENSASOLUTIONS.COM
+   Status: ok
+   Updated Date: 04-oct-2010
+   Creation Date: 03-oct-2009
+   Expiration Date: 03-oct-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:23:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:23:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
+
+
+Distribuidor Autorizado:
+Piensa Solutions
+info@piensasolutions.com
+http://www.piensasolutions.com
+
+
+Domain name: joseluisdecastro.com
+
+Registrant:
+      Jose Luis de Castro Martinez  (SROW-1361328)
+
+   jldcastromar@yahoo.es
+   Parque donana 2, Bq10, 5 A
+   Sevilla   SEVILLA
+   41015   ES
+   +34 650450180
+
+
+Administrative contact:
+   Jose Luis de Castro Martinez   (SRCO-2144197)
+   jldcastromar@yahoo.es
+   Parque donana 2, Bq10, 5 A
+   Sevilla   SEVILLA
+   41015   ES
+   +34 650450180
+
+
+Technical contact:
+   Jose Luis de Castro Martinez   (SRCO-2144198)
+   jldcastromar@yahoo.es
+   Parque donana 2, Bq10, 5 A
+   Sevilla   SEVILLA
+   41015   ES
+   +34 650450180
+
+
+Domain servers in listed order:
+   ns9.piensasolutions.com  217.76.150.149
+   ns10.piensasolutions.com  217.76.156.140
+
+
+Created:       03 Oct 2009 10:53:07:430   UTC
+Expires:       03 Oct 2011 08:53:08:000   UTC
+Last updated:  04 Oct 2010 09:28:35:873   UTC
+
+
+
