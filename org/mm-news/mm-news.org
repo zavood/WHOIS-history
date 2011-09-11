@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149339339-LROR
+Domain Name:MM-NEWS.ORG
+Created On:07-Oct-2007 14:13:12 UTC
+Last Updated On:24-Oct-2010 16:20:27 UTC
+Expiration Date:07-Oct-2011 14:13:12 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_11524365
+Registrant Name:Oleg Rodnin
+Registrant Organization:N/A
+Registrant Street1:B.Morskaya 25-10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint-Petersburg
+Registrant State/Province:Leningradskaya oblast
+Registrant Postal Code:190000
+Registrant Country:RU
+Registrant Phone:+911.7704917
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:olegrodnin@gmail.com
+Admin ID:DI_11524365
+Admin Name:Oleg Rodnin
+Admin Organization:N/A
+Admin Street1:B.Morskaya 25-10
+Admin Street2:
+Admin Street3:
+Admin City:Saint-Petersburg
+Admin State/Province:Leningradskaya oblast
+Admin Postal Code:190000
+Admin Country:RU
+Admin Phone:+911.7704917
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:olegrodnin@gmail.com
+Tech ID:DI_11524365
+Tech Name:Oleg Rodnin
+Tech Organization:N/A
+Tech Street1:B.Morskaya 25-10
+Tech Street2:
+Tech Street3:
+Tech City:Saint-Petersburg
+Tech State/Province:Leningradskaya oblast
+Tech Postal Code:190000
+Tech Country:RU
+Tech Phone:+911.7704917
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:olegrodnin@gmail.com
+Name Server:NS1.MCHOST.RU
+Name Server:NS2.MCHOST.RU
+Name Server:NS3.MCHOST.RU
+Name Server:NS4.MCHOST.RU
+Name Server:NS5.MCHOST.RU
+Name Server:NS6.MCHOST.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
