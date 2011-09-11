@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DSREDIRECTION.COM
-   Registrar: NAMEKING.COM, INC.
-   Whois Server: whois.nameking.com
-   Referral URL: http://www.nameking.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: PCH.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: MIA01.DIGEX.COM
+   Name Server: MIA02.DIGEX.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 24-jul-2006
-   Expiration Date: 24-jul-2014
+   Updated Date: 14-dec-2010
+   Creation Date: 18-jan-1994
+   Expiration Date: 19-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:18:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:18:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,4 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Your ip address 188.72.227.95 has been blocked.  If you believe this is in error please contact info@nameking.com  with your request.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: pch.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 17:08:53 EDT 2011
+Reason Code: IE
