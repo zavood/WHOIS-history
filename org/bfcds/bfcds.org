@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3368666-LROR
+Domain Name:BFCDS.ORG
+Created On:01-Aug-1997 04:00:00 UTC
+Last Updated On:07-Aug-2006 21:18:53 UTC
+Expiration Date:31-Jul-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27370828-NSI
+Registrant Name:BurgundyFarmCountry Day School
+Registrant Organization:BurgundyFarmCountry Day School
+Registrant Street1:3700 Burgundy Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Alexandria
+Registrant State/Province:VA
+Registrant Postal Code:22303
+Registrant Country:US
+Registrant Phone:+1.70382342
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dave_miller@BURGUNDYFARM.ORG
+Admin ID:16428899-NSI
+Admin Name:Bitstream Technology Services
+Admin Organization:Bitstream Technology Services
+Admin Street1:3700 BURGUNDY RD
+Admin Street2:
+Admin Street3:
+Admin City:ALEXANDRIA
+Admin State/Province:VA
+Admin Postal Code:22303-1001
+Admin Country:US
+Admin Phone:+1.7038234235
+Admin Phone Ext.:
+Admin FAX:+1.7038234236
+Admin FAX Ext.:
+Admin Email:dave_miller@BURGUNDYFARM.ORG
+Tech ID:5385633-NSI
+Tech Name:Gustavo Martinez
+Tech Organization:SAVVIS Communications
+Tech Street1:717 Office Parkway
+Tech Street2:
+Tech Street3:
+Tech City:St. Louis
+Tech State/Province:MO
+Tech Postal Code:63141
+Tech Country:US
+Tech Phone:+1.3144687000
+Tech Phone Ext.:
+Tech FAX:+1.3144686899
+Tech FAX Ext.:
+Tech Email:dns@SAVVIS.NET
+Name Server:NS1.WORLDNIC.COM
+Name Server:NS2.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
