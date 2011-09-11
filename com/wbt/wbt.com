@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WALLST.COM
+   Domain Name: WBT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS01.WALLST.COM
-   Name Server: DNS02.WALLST.COM
-   Name Server: DNS03.WALLST.COM
-   Name Server: NS4.WALLST.COM
+   Name Server: NS1.LNHI.NET
+   Name Server: NS2.LNHI.NET
+   Name Server: NS3.LNHI.NET
    Status: clientTransferProhibited
-   Updated Date: 27-dec-2008
-   Creation Date: 28-dec-1994
-   Expiration Date: 27-dec-2018
+   Updated Date: 13-jan-2008
+   Creation Date: 12-feb-1995
+   Expiration Date: 13-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:05:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:06:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: wallst.com
+Whois Query: wbt.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 12:55:20 EDT 2011
+Date and Time of Query: Sun Sep 11 12:56:56 EDT 2011
 Reason Code: IE
