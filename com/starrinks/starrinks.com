@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOFTONIC.COM
+   Domain Name: STARRINKS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.SOFTONIC.COM
-   Name Server: MASTERDNS.SOFTONIC.COM
-   Name Server: NSE.SOFTONIC.COM
+   Name Server: NS1.TSTSERVER.COM
+   Name Server: NS2.TSTSERVER.COM
+   Name Server: NS3.TSTSERVER.COM
+   Name Server: NS4.TSTSERVER.COM
+   Name Server: NS5.TSTSERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2011
-   Creation Date: 28-jan-2000
-   Expiration Date: 28-jan-2021
+   Updated Date: 25-oct-2010
+   Creation Date: 25-oct-2001
+   Expiration Date: 25-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 18:47:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 18:46:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: softonic.com
+Whois Query: starrinks.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 14:37:55 EDT 2011
+Date and Time of Query: Sun Sep 11 14:37:11 EDT 2011
 Reason Code: IE

@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOFTONIC.COM
+   Domain Name: WGTY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.SOFTONIC.COM
-   Name Server: MASTERDNS.SOFTONIC.COM
-   Name Server: NSE.SOFTONIC.COM
+   Name Server: NS1.TRITONDNS.COM
+   Name Server: NS2.TRITONDNS.COM
+   Name Server: NS3.TRITONDNS.COM
+   Name Server: NS4.TRITONDNS.COM
+   Name Server: NS5.TRITONDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2011
-   Creation Date: 28-jan-2000
-   Expiration Date: 28-jan-2021
+   Updated Date: 24-aug-2011
+   Creation Date: 09-aug-1996
+   Expiration Date: 08-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 18:47:38 UTC &lt;&lt;&lt;
 
@@ -68,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: softonic.com
+Whois Query: wgty.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 14:37:55 EDT 2011
+Date and Time of Query: Sun Sep 11 14:37:48 EDT 2011
 Reason Code: IE
