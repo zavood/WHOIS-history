@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149407716-LROR
+Domain Name:MANPOLLO.ORG
+Created On:15-Oct-2007 08:28:53 UTC
+Last Updated On:16-Oct-2010 12:15:37 UTC
+Expiration Date:15-Oct-2011 08:28:53 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34002565
+Registrant Name:Eric Sodomka
+Registrant Street1:167 Lloyd AVE APT 11
+Registrant Street2:
+Registrant Street3:
+Registrant City:Providence
+Registrant State/Province:Rhode Island
+Registrant Postal Code:02906
+Registrant Country:US
+Registrant Phone:+1.6123859236
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sodomka@cs.brown.edu
+Admin ID:CR34002567
+Admin Name:Eric Sodomka
+Admin Street1:167 Lloyd AVE APT 11
+Admin Street2:
+Admin Street3:
+Admin City:Providence
+Admin State/Province:Rhode Island
+Admin Postal Code:02906
+Admin Country:US
+Admin Phone:+1.6123859236
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sodomka@cs.brown.edu
+Tech ID:CR34002566
+Tech Name:Eric Sodomka
+Tech Street1:167 Lloyd AVE APT 11
+Tech Street2:
+Tech Street3:
+Tech City:Providence
+Tech State/Province:Rhode Island
+Tech Postal Code:02906
+Tech Country:US
+Tech Phone:+1.6123859236
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sodomka@cs.brown.edu
+Name Server:NS30.DOMAINCONTROL.COM
+Name Server:NS29.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
