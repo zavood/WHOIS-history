@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149698952-LROR
+Domain Name:MARCMCKERROWFOUNDATION.ORG
+Created On:08-Nov-2007 22:01:19 UTC
+Last Updated On:06-Nov-2010 13:23:00 UTC
+Expiration Date:08-Nov-2011 22:01:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34181497
+Registrant Name:Kimberly Reed
+Registrant Organization:Big Sky Film Productions, Inc.
+Registrant Street1:17 Ave. of the Americas
+Registrant Street2:Suite 2C
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10013
+Registrant Country:US
+Registrant Phone:+1.2129252220
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:permanentkim@yahoo.com
+Admin ID:CR34181499
+Admin Name:Kimberly Reed
+Admin Organization:Big Sky Film Productions, Inc.
+Admin Street1:17 Ave. of the Americas
+Admin Street2:Suite 2C
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10013
+Admin Country:US
+Admin Phone:+1.2129252220
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:permanentkim@yahoo.com
+Tech ID:CR34181498
+Tech Name:Kimberly Reed
+Tech Organization:Big Sky Film Productions, Inc.
+Tech Street1:17 Ave. of the Americas
+Tech Street2:Suite 2C
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10013
+Tech Country:US
+Tech Phone:+1.2129252220
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:permanentkim@yahoo.com
+Name Server:NS1.WEST-DATACENTER.NET
+Name Server:NS2.WEST-DATACENTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

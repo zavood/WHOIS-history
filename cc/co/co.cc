@@ -19,7 +19,7 @@ Go to http://registrar.verisign-grs.com/whois/ for detailed information.
    Expiration Date: 18-aug-2020
 
 
-&gt;&gt;&gt; Last update of whois database: Fri, 9 Sep 2011 19:23:24 EDT &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:23:00 EDT &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
