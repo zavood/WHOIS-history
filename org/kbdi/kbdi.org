@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1870391-LROR
+Domain Name:KBDI.ORG
+Created On:29-Aug-1998 04:00:00 UTC
+Last Updated On:30-Nov-2006 21:31:42 UTC
+Expiration Date:28-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:38355970-NSI
+Registrant Name:Front Range Educational Media Corp.
+Registrant Organization:Front Range Educational Media Corp.
+Registrant Street1:2900 WELTON ST. 1ST FLOOR
+Registrant Street2:
+Registrant Street3:
+Registrant City:DENVER
+Registrant State/Province:CO
+Registrant Postal Code:80205
+Registrant Country:US
+Registrant Phone:+1.303296121
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pgilpat@hostworks.com
+Admin ID:38355970-NSI
+Admin Name:Front Range Educational Media Corp.
+Admin Organization:Front Range Educational Media Corp.
+Admin Street1:2900 WELTON ST. 1ST FLOOR
+Admin Street2:
+Admin Street3:
+Admin City:DENVER
+Admin State/Province:CO
+Admin Postal Code:80205
+Admin Country:US
+Admin Phone:+1.303296121
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pgilpat@hostworks.com
+Tech ID:38355970-NSI
+Tech Name:Front Range Educational Media Corp.
+Tech Organization:Front Range Educational Media Corp.
+Tech Street1:2900 WELTON ST. 1ST FLOOR
+Tech Street2:
+Tech Street3:
+Tech City:DENVER
+Tech State/Province:CO
+Tech Postal Code:80205
+Tech Country:US
+Tech Phone:+1.303296121
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pgilpat@hostworks.com
+Name Server:SEBRING.HOSTWORKS.COM
+Name Server:DNS2.HOSTWORKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

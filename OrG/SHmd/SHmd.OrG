@@ -1,0 +1,117 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D113736765-LROR
+Domain Name:SHMD.ORG
+Created On:28-Jan-2006 13:24:52 UTC
+Last Updated On:21-Jan-2011 11:57:37 UTC
+Expiration Date:28-Jan-2012 13:24:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34265556
+Registrant Name:Mike Howard
+Registrant Organization:Phantom Computers
+Registrant Street1:62 Harrison Avenue #11
+Registrant Street2:
+Registrant Street3:
+Registrant City:South Glens Falls
+Registrant State/Province:New York
+Registrant Postal Code:12803
+Registrant Country:US
+Registrant Phone:+1.5188241229
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mhowardcmrp@gmail.com
+Admin ID:3335017f578c3716
+Admin Name:Mike Howard
+Admin Organization:Phantom Computers
+Admin Street1:3 Springwater Drive
+Admin Street2:
+Admin Street3:
+Admin City:Port Wentworth
+Admin State/Province:GA
+Admin Postal Code:31407
+Admin Country:US
+Admin Phone:+1.5188241229
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mikedhoward@hotmail.com
+Admin ID:CR34265558
+Admin Name:Mike Howard
+Admin Organization:Phantom Computers
+Admin Street1:62 Harrison Avenue #11
+Admin Street2:
+Admin Street3:
+Admin City:South Glens Falls
+Admin State/Province:New York
+Admin Postal Code:12803
+Admin Country:US
+Admin Phone:+1.5188241229
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mhowardcmrp@gmail.com
+Tech ID:1783183f6f1bc461
+Tech Name:Michael Howard
+Tech Organization:Phantom Computers
+Tech Street1:3 Springwater Drive
+Tech Street2:
+Tech Street3:
+Tech City:Port Wentworth
+Tech State/Province:GA
+Tech Postal Code:31407
+Tech Country:US
+Tech Phone:+1.5188241229
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mikedhoward@hotmail.com
+Tech ID:CR34265557
+Tech Name:Mike Howard
+Tech Organization:Phantom Computers
+Tech Street1:62 Harrison Avenue #11
+Tech Street2:
+Tech Street3:
+Tech City:South Glens Falls
+Tech State/Province:New York
+Tech Postal Code:12803
+Tech Country:US
+Tech Phone:+1.5188241229
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mhowardcmrp@gmail.com
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
