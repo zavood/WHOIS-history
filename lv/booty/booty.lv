@@ -1,0 +1,32 @@
+[Domain]
+Domain: booty.lv
+Status: active
+Changed: 2010-11-08T12:02:03+02:00
+
+[Holder]
+Type: Legal person
+Name: INNOVATE CONSULT
+Email: robot-lv@securenetim.net
+Phone: +33 000000000
+Address: Banul Udrea 9-11, BUCURESTI, 031272, Romania
+RegNr: None
+
+[Tech]
+Type: Natural person
+Email: robot-lv@securenetim.net
+Phone: +33 000000000
+
+[Registrar]
+Type: Legal person
+Name: NETIM
+Email: robot-lv@securenetim.net, vincentbruno@netim.com
+Phone: +33 000000000
+Address: 165 avenue de bretagne, Lille, 59000, France
+RegNr: 451394720
+
+[Nservers]
+Nserver: a.ns.netim.net
+Nserver: b.ns.netim.net
+
+[Whois]
+Updated: 2011-09-11T17:12:24.689308+00:00
