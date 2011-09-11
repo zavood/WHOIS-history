@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161726144-LROR
+Domain Name:VISUALRADIO.ORG
+Created On:10-Mar-2011 02:39:46 UTC
+Last Updated On:09-May-2011 03:49:14 UTC
+Expiration Date:10-Mar-2012 02:39:46 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR77493132
+Registrant Name:Tim Boyer
+Registrant Street1:26 Nottingham Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Camp Hill
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:17011
+Registrant Country:US
+Registrant Phone:+1.7177610101
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tim8906@gmail.com
+Admin ID:CR77493134
+Admin Name:Tim Boyer
+Admin Street1:26 Nottingham Road
+Admin Street2:
+Admin Street3:
+Admin City:Camp Hill
+Admin State/Province:Pennsylvania
+Admin Postal Code:17011
+Admin Country:US
+Admin Phone:+1.7177610101
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tim8906@gmail.com
+Tech ID:CR77493133
+Tech Name:Tim Boyer
+Tech Street1:26 Nottingham Road
+Tech Street2:
+Tech Street3:
+Tech City:Camp Hill
+Tech State/Province:Pennsylvania
+Tech Postal Code:17011
+Tech Country:US
+Tech Phone:+1.7177610101
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tim8906@gmail.com
+Name Server:NS1.CVTECH.COM
+Name Server:NS2.CVTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
