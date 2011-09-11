@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D903199-LROR
+Domain Name:WBUR.ORG
+Created On:26-Mar-1996 05:00:00 UTC
+Last Updated On:30-Nov-2009 21:57:21 UTC
+Expiration Date:27-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22770036-NSI
+Registrant Name:Trustees of Boston University
+Registrant Organization:Trustees of Boston University
+Registrant Street1:890 Commonwealth Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston
+Registrant State/Province:MA
+Registrant Postal Code:02215
+Registrant Country:US
+Registrant Phone:+1.6173530909
+Registrant Phone Ext.:
+Registrant FAX:+1.6173534747
+Registrant FAX Ext.:
+Registrant Email:webmaster@WBUR.BU.EDU
+Admin ID:15058587-NSI
+Admin Name:Webmaster ContactMiddleName Webmaster
+Admin Organization:WBUR
+Admin Street1:890 Commonwealth Ave
+Admin Street2:3 FL
+Admin Street3:
+Admin City:Boston
+Admin State/Province:MA
+Admin Postal Code:02215
+Admin Country:US
+Admin Phone:+1.6173530909
+Admin Phone Ext.:
+Admin FAX:+1.6173534747
+Admin FAX Ext.:
+Admin Email:webmaster@wbur.bu.edu
+Tech ID:15058587-NSI
+Tech Name:Webmaster ContactMiddleName Webmaster
+Tech Organization:WBUR
+Tech Street1:890 Commonwealth Ave
+Tech Street2:3 FL
+Tech Street3:
+Tech City:Boston
+Tech State/Province:MA
+Tech Postal Code:02215
+Tech Country:US
+Tech Phone:+1.6173530909
+Tech Phone Ext.:
+Tech FAX:+1.6173534747
+Tech FAX Ext.:
+Tech Email:webmaster@wbur.bu.edu
+Name Server:NS37.WORLDNIC.COM
+Name Server:NS38.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
