@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: CLICKVANCOUVERHOMES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HOSTING.XLHOST.COM
-   Name Server: NS2.HOSTING.XLHOST.COM
+   Name Server: NS67.DOMAINCONTROL.COM
+   Name Server: NS68.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-jan-2011
-   Creation Date: 23-jan-2011
-   Expiration Date: 23-jan-2012
+   Updated Date: 09-jan-2011
+   Creation Date: 09-jan-2011
+   Expiration Date: 09-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:48:45 UTC &lt;&lt;&lt;
 
@@ -76,18 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Ryan Owen
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: CLICKVANCOUVERHOMES.COM
 
    Domain servers in listed order:
-      NS1.HOSTING.XLHOST.COM
-      NS2.HOSTING.XLHOST.COM
+      NS67.DOMAINCONTROL.COM
+      NS68.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=THETRAFFICSTAT.NET
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CLICKVANCOUVERHOMES.COM

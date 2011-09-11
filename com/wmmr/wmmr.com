@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: WMMR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HOSTING.XLHOST.COM
-   Name Server: NS2.HOSTING.XLHOST.COM
+   Name Server: NS09.DOMAINCONTROL.COM
+   Name Server: NS10.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-jan-2011
-   Creation Date: 23-jan-2011
-   Expiration Date: 23-jan-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 02-mar-1999
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:48:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:49:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,18 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Greater Media Philadelpha
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: WMMR.COM
 
    Domain servers in listed order:
-      NS1.HOSTING.XLHOST.COM
-      NS2.HOSTING.XLHOST.COM
+      NS09.DOMAINCONTROL.COM
+      NS10.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=THETRAFFICSTAT.NET
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WMMR.COM
