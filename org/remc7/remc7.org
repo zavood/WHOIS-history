@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104308435-LROR
+Domain Name:REMC7.ORG
+Created On:05-May-2004 18:26:43 UTC
+Last Updated On:30-Aug-2011 11:18:00 UTC
+Expiration Date:05-May-2016 18:26:43 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26966098d335c690
+Registrant Name:Dennis Drooger
+Registrant Organization:Ottawa Area Intermediate School District
+Registrant Street1:13565 Port Sheldon St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Holland
+Registrant State/Province:MI
+Registrant Postal Code:49424
+Registrant Country:US
+Registrant Phone:+1.6167388940
+Registrant Phone Ext.:
+Registrant FAX:+1.6167388946
+Registrant FAX Ext.:
+Registrant Email:domain@remc7.org
+Admin ID:171593167541a731
+Admin Name:Patrick Donlin
+Admin Organization:Ottawa Area Intermediate School District
+Admin Street1:13565 Port Sheldon Street
+Admin Street2:
+Admin Street3:
+Admin City:Holland
+Admin State/Province:MI
+Admin Postal Code:49424
+Admin Country:US
+Admin Phone:+1.6167388940
+Admin Phone Ext.:
+Admin FAX:+1.6167388946
+Admin FAX Ext.:
+Admin Email:domain@remc7.org
+Tech ID:518612968e5db024
+Tech Name:Patrick Donlin
+Tech Organization:Ottawa Area ISD
+Tech Street1:13565 Port Sheldon ST
+Tech Street2:
+Tech Street3:
+Tech City:Holland
+Tech State/Province:MI
+Tech Postal Code:49424
+Tech Country:US
+Tech Phone:+1.6167388940
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain@remc7.org
+Name Server:SERVER.REMC4.K12.MI.US
+Name Server:DNS.REMC7.K12.MI.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
