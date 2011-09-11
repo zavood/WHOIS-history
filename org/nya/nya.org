@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D53140-LROR
+Domain Name:NYA.ORG
+Created On:07-Aug-1996 04:00:00 UTC
+Last Updated On:02-Jul-2010 17:44:10 UTC
+Expiration Date:06-Aug-2017 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22347685-NSI
+Registrant Name:North Yarmouth Academy
+Registrant Organization:North Yarmouth Academy
+Registrant Street1:148 Main St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Yarmouth
+Registrant State/Province:ME
+Registrant Postal Code:04096
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:mpeters@TWMAINE.COM
+Admin ID:42996939-NSI
+Admin Name:North Yarmouth Academy
+Admin Street1:148 Main St.
+Admin Street2:
+Admin Street3:
+Admin City:Yarmouth
+Admin State/Province:ME
+Admin Postal Code:04096
+Admin Country:US
+Admin Phone:+1.2078469051
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cmazzurco@nya.org
+Tech ID:42996939-NSI
+Tech Name:North Yarmouth Academy
+Tech Street1:148 Main St.
+Tech Street2:
+Tech Street3:
+Tech City:Yarmouth
+Tech State/Province:ME
+Tech Postal Code:04096
+Tech Country:US
+Tech Phone:+1.2078469051
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cmazzurco@nya.org
+Name Server:NS1.MEGALINK.NET
+Name Server:NS2.MEGALINK.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

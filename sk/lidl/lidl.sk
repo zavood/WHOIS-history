@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         lidl.sk
+Admin-id            ZONE-0002
+Admin-name          Zoner, s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35770929
+Admin-address       Kopcianska 94, Bratislava 85101
+Admin-telephone     +421-2-63815272, +421-2-68265986
+Tech-id             ZONE-0002
+Tech-name           Zoner, s.r.o.
+Tech-org.-ID        35770929
+Tech-address        Kopcianska 94, Bratislava 85101
+Tech-telephone      +421-2-63815272, +421-2-68265986
+dns_name            ns1.prodns.net
+dns_name            ns2.prodns.net
+dns_name            ns3.prodns.net
+dns_name            ns4.prodns.net
+Last-update         2011-01-12
+Valid-date          2011-11-19
+Domain-status       DOM_OK
+
