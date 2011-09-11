@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4610404-LROR
+Domain Name:CAMA.ORG
+Created On:20-May-1997 04:00:00 UTC
+Last Updated On:24-Sep-2009 18:07:39 UTC
+Expiration Date:21-May-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR4772100
+Registrant Name:Mary Thornley
+Registrant Organization:Canadian Agri-Marketing Association
+Registrant Street1:22 Guyers Drive
+Registrant Street2:RR#3
+Registrant Street3:
+Registrant City:Port Elgin
+Registrant State/Province:Ontario
+Registrant Postal Code:N0H2C7
+Registrant Country:CA
+Registrant Phone:+1.5193896552
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:camaont@bmts.com
+Admin ID:CR4772103
+Admin Name:Melynda Hutchinson
+Admin Organization:VLinteractive.com Inc.
+Admin Street1:52 Royal Road
+Admin Street2:Unit A
+Admin Street3:
+Admin City:Guelph
+Admin State/Province:Ontario
+Admin Postal Code:N1H1G3
+Admin Country:CA
+Admin Phone:+1.5197639660
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@vlinteractive.com
+Tech ID:CR4772101
+Tech Name:John So
+Tech Organization:VLinteractive.com Inc.
+Tech Street1:52 Royal Road
+Tech Street2:Unit A
+Tech Street3:
+Tech City:Guelph
+Tech State/Province:Ontario
+Tech Postal Code:N1H1G3
+Tech Country:CA
+Tech Phone:+1.5197639660
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@vlinteractive.com
+Name Server:NS.TDG.CA
+Name Server:NS.VENTURELABOUR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
