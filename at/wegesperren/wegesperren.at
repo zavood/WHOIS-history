@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         wegesperren.at
+registrant:     GK533072-NICAT
+admin-c:        GK533072-NICAT
+tech-c:         MK545247-NICAT
+nserver:        ns1.vistec.net
+remarks:        213.216.11.47
+nserver:        ns2.vistec.net
+remarks:        212.71.195.66
+changed:        20070903 17:38:55
+source:         AT-DOM
+
+personname:     Guenther Klein
+organization:   MORAVIA Verkehrssicherung GmbH
+street address: Rostocker Str. 10
+postal code:    D-65191
+city:           Wiesbaden
+country:        Germany
+phone:          +496119502215
+fax-no:         +496119503200
+e-mail:         postmaster@moravia.de
+nic-hdl:        GK533072-NICAT
+changed:        20070626 12:08:00
+source:         AT-DOM
+
+personname:     Martin Klein
+organization:   VISTEC Internet Service GmbH
+street address: Hagenauer Strasse 42
+postal code:    D-65203
+city:           Wiesbaden
+country:        Germany
+phone:          +4961122037
+fax-no:         +4961122701
+e-mail:         admin@vistec.net
+nic-hdl:        MK545247-NICAT
+changed:        20040309 09:49:21
+source:         AT-DOM
+
