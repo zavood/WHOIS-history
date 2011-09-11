@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10292663-LROR
+Domain Name:HMB.ORG
+Created On:16-Sep-1999 18:37:57 UTC
+Last Updated On:08-Aug-2011 13:46:37 UTC
+Expiration Date:16-Sep-2012 18:37:57 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-295231
+Registrant Name:John C. Fuller, Jr.
+Registrant Organization:Metabolic Technologies Inc.
+Registrant Street1:2711 S. Loop Dr.
+Registrant Street2:Suite 4400
+Registrant Street3:
+Registrant City:Ames
+Registrant State/Province:IA
+Registrant Postal Code:50010
+Registrant Country:US
+Registrant Phone:+1.5152968065
+Registrant Phone Ext.:
+Registrant FAX:+1.5152960908
+Registrant FAX Ext.:
+Registrant Email:Fuller@mti-hmb.com
+Admin ID:ODN-295231
+Admin Name:John C. Fuller, Jr.
+Admin Organization:Metabolic Technologies Inc.
+Admin Street1:2711 S. Loop Dr.
+Admin Street2:Suite 4400
+Admin Street3:
+Admin City:Ames
+Admin State/Province:IA
+Admin Postal Code:50010
+Admin Country:US
+Admin Phone:+1.5152968065
+Admin Phone Ext.:
+Admin FAX:+1.5152960908
+Admin FAX Ext.:
+Admin Email:Fuller@mti-hmb.com
+Tech ID:ODN-295231
+Tech Name:John C. Fuller, Jr.
+Tech Organization:Metabolic Technologies Inc.
+Tech Street1:2711 S. Loop Dr.
+Tech Street2:Suite 4400
+Tech Street3:
+Tech City:Ames
+Tech State/Province:IA
+Tech Postal Code:50010
+Tech Country:US
+Tech Phone:+1.5152968065
+Tech Phone Ext.:
+Tech FAX:+1.5152960908
+Tech FAX Ext.:
+Tech Email:Fuller@mti-hmb.com
+Name Server:NS1.CYPRUSWEB.COM
+Name Server:NS2.CYPRUSWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
