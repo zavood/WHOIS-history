@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2324350-LROR
+Domain Name:IGAMES.ORG
+Created On:02-Sep-1997 04:00:00 UTC
+Last Updated On:02-Sep-2011 01:23:26 UTC
+Expiration Date:01-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:00997330a4084118
+Registrant Name:Mark Nielsen
+Registrant Organization:iGames, Inc.
+Registrant Street1:201 San Antonio Circle
+Registrant Street2:Suite 260
+Registrant Street3:
+Registrant City:Mountain View
+Registrant State/Province:CA
+Registrant Postal Code:94040
+Registrant Country:US
+Registrant Phone:+1.6509179888
+Registrant Phone Ext.:
+Registrant FAX:+1.6509179887
+Registrant FAX Ext.:
+Registrant Email:mark@igamesinc.com
+Admin ID:C44013012-RCOM
+Admin Name:Mark Nielsen
+Admin Organization:iGames
+Admin Street1:210 San Antonio Circle
+Admin Street2:
+Admin Street3:
+Admin City:Mountain View
+Admin State/Province:CA
+Admin Postal Code:94040
+Admin Country:US
+Admin Phone:+1.6509179888
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mark@igames.org
+Tech ID:C44013008-RCOM
+Tech Name:Mark Nielsen
+Tech Organization:iGames
+Tech Street1:210 San Antonio Circle
+Tech Street2:
+Tech Street3:
+Tech City:Mountain View
+Tech State/Province:CA
+Tech Postal Code:94040
+Tech Country:US
+Tech Phone:+1.6509179888
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mark@igames.org
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
