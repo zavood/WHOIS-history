@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETDNA-CDN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NETDNA-CDN.COM
-   Name Server: NS2.NETDNA-CDN.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ZINGSTAFASHION.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.JUMBA.NET.AU
+   Name Server: NS2.JUMBA.NET.AU
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 15-jun-2009
-   Expiration Date: 15-jun-2013
+   Updated Date: 14-jan-2011
+   Creation Date: 18-jan-2010
+   Expiration Date: 18-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 02:15:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 02:17:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about zingstafashion.com
+&lt;a href=&quot;http://www.aboutus.org/zingstafashion.com&quot;&gt;AboutUs: zingstafashion.com&lt;/a&gt;
 
 
-Registrant:
-   Chris Ueland
+Domain name: zingstafashion.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NETDNA-CDN.COM
+Registrant Contact:
+   Acenorth Pty Ltd
+   Trevor Nottingham ()
 
-   Domain servers in listed order:
-      NS1.NETDNA-CDN.COM
-      NS2.NETDNA-CDN.COM
+   Fax:
+   PO Box 1050
+   Crows Nest, NSW 1585
+   AU
+
+Administrative Contact:
+   Uber Global Pty Ltd
+   Domain Hostmaster (domains@uber.com.au)
+   +61.261639350
+   Fax: +61.261632000
+   GPO Box 1515
+   Canberra, ACT 2601
+   AU
+
+Technical Contact:
+   Acenorth Pty Ltd
+   Trevor Nottingham (trevor@zingfactor.com.au)
+   +29.9044969
+   Fax: +41.9225630
+   PO Box 1050
+   Crows Nest, NSW 1585
+   AU
+
+Status: Locked
+
+Name Servers:
+   ns1.jumba.net.au
+   ns2.jumba.net.au
+
+Creation date: 18 Jan 2010 10:00:18
+Expiration date: 18 Jan 2012 10:00:18
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NETDNA-CDN.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
