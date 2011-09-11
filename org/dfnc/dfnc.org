@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89552963-LROR
+Domain Name:DFNC.ORG
+Created On:21-Aug-2002 20:46:42 UTC
+Last Updated On:20-Jan-2011 14:26:27 UTC
+Expiration Date:21-Aug-2012 20:46:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30445041
+Registrant Name:Domain Info
+Registrant Organization:LigTel Communications
+Registrant Street1:414 S Cavin St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ligonier
+Registrant State/Province:Indiana
+Registrant Postal Code:46767
+Registrant Country:US
+Registrant Phone:+1.2608947161
+Registrant Phone Ext.:
+Registrant FAX:+1.2608947711
+Registrant FAX Ext.:
+Registrant Email:domaininfo@ligtel.com
+Admin ID:CR30445043
+Admin Name:Domain Info
+Admin Organization:LigTel Communications
+Admin Street1:414 S Cavin St
+Admin Street2:
+Admin Street3:
+Admin City:Ligonier
+Admin State/Province:Indiana
+Admin Postal Code:46767
+Admin Country:US
+Admin Phone:+1.2608947161
+Admin Phone Ext.:
+Admin FAX:+1.2608947711
+Admin FAX Ext.:
+Admin Email:domaininfo@ligtel.com
+Tech ID:CR30445042
+Tech Name:Domain Info
+Tech Organization:LigTel Communications
+Tech Street1:414 S Cavin St
+Tech Street2:
+Tech Street3:
+Tech City:Ligonier
+Tech State/Province:Indiana
+Tech Postal Code:46767
+Tech Country:US
+Tech Phone:+1.2608947161
+Tech Phone Ext.:
+Tech FAX:+1.2608947711
+Tech FAX Ext.:
+Tech Email:domaininfo@ligtel.com
+Name Server:ZEUS.LIGTEL.COM
+Name Server:NS2.LIGTEL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
