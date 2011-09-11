@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; opnr.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      opnr.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AOP5-FRNIC
+admin-c:     ACAO100-FRNIC
+tech-c:      HU3-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL18530-FRNIC
+registrar:   1&amp;1 Internet AG
+anniversary: 26/01
+created:     26/01/2009
+last-update: 26/01/2009
+source:      FRNIC
+
+ns-list:     NSL18530-FRNIC
+nserver:     ns61.1and1.fr
+nserver:     ns62.1and1.fr
+source:      FRNIC
+
+registrar:   1&amp;1 Internet AG
+type:        Isp Option 1
+address:     Brauerstr. 48
+address:     DE-76135 KARLSRUHE
+country:     DE
+phone:       +49 721 91374 0
+fax-no:      +49 721 91374 215
+e-mail:      hostmaster@1und1.de
+website:     http://registrar.1und1.de
+anonymous:   NO
+registered:  17/01/2001
+source:      FRNIC
+
+nic-hdl:     HU3-FRNIC
+type:        ROLE
+contact:     Hostmaster UNETUN
+address:     1&amp;1 Internet Sarl.
+address:     7, place de la Gare
+address:     57200 Sarreguemines
+country:     FR
+e-mail:      hostmaster@1and1.fr
+admin-c:     IR2-FRNIC
+tech-c:      IR2-FRNIC
+changed:     15/03/2004 hostmaster@1and1.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AOP5-FRNIC
+type:        ORGANIZATION
+contact:     Association Objectif PNR
+address:     17, rue Bringier Monnier
+address:     83640 Saint-Zacharie
+country:     FR
+phone:       +33 6 87 30 19 93
+e-mail:      t.reynier@yahoo.fr
+changed:     26/01/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACAO100-FRNIC
+type:        PERSON
+contact:     admin-c Association Objectif PNR
+address:     17, rue Bringier Monnier
+address:     83640 Saint-Zacharie
+country:     FR
+phone:       +33 6 87 30 19 93
+e-mail:      t.reynier@yahoo.fr
+changed:     26/01/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
