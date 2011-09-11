@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162431873-LROR
+Domain Name:GROUNDWAR.ORG
+Created On:02-Jun-2011 19:47:25 UTC
+Last Updated On:02-Aug-2011 03:51:18 UTC
+Expiration Date:02-Jun-2012 19:47:25 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-4421475-4
+Registrant Name:Emre Canbolat
+Registrant Organization:Sayfa Net Web Hosting Sirketi
+Registrant Street1:iletisime gecmek icin email gonderiniz
+Registrant Street2:iletisime gecmek icin email gonderiniz
+Registrant Street3:
+Registrant City:Mugla
+Registrant State/Province:hosting sirketi yoneticisi
+Registrant Postal Code:48700
+Registrant Country:TR
+Registrant Phone:+90.5327235263
+Registrant Phone Ext.:1111
+Registrant FAX:+90.2324633008
+Registrant FAX Ext.:
+Registrant Email:info@sayfa.net
+Admin ID:ONLC-4421475-1
+Admin Name:Engin  Rencber
+Admin Organization:Sayfa Net Web Hosting Sirketi
+Admin Street1:iletisime gecmek icin email gonderiniz
+Admin Street2:iletisime gecmek icin email gonderiniz
+Admin Street3:
+Admin City:Mugla
+Admin State/Province:hosting sirketi yoneticisi
+Admin Postal Code:48700
+Admin Country:TR
+Admin Phone:+90.5327235263
+Admin Phone Ext.:1111
+Admin FAX:+90.2324633008
+Admin FAX Ext.:
+Admin Email:info@sayfa.net
+Tech ID:ONLC-4421475-2
+Tech Name:Engin  Rencber
+Tech Organization:Sayfa Net Web Hosting Sirketi
+Tech Street1:iletisime gecmek icin email gonderiniz
+Tech Street2:iletisime gecmek icin email gonderiniz
+Tech Street3:
+Tech City:Mugla
+Tech State/Province:hosting sirketi yoneticisi
+Tech Postal Code:48700
+Tech Country:TR
+Tech Phone:+90.5327235263
+Tech Phone Ext.:1111
+Tech FAX:+90.2324633008
+Tech FAX Ext.:
+Tech Email:info@sayfa.net
+Name Server:NS1.NATROHOST.COM
+Name Server:NS2.NATROHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
