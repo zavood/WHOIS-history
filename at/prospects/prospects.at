@@ -1,0 +1,62 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         prospects.at
+registrant:     ANI1311904-NICAT
+admin-c:        SH1433948-NICAT
+tech-c:         SH1433948-NICAT
+nserver:        ns1.dynamicname.com
+remarks:        207.0.50.10
+nserver:        ns2.dynamicname.com
+remarks:        64.235.234.138
+changed:        20030416 10:49:03
+source:         AT-DOM
+
+personname:     Maximiliam Andersen
+organization:   Add2Net, Inc
+street address: 1840 W. Whittier Blvd. #99
+postal code:    US-90631
+city:           La Habra
+country:        United States
+phone:          +15626912281
+fax-no:         +15626912464
+e-mail:         info@add2net.com
+nic-hdl:        ANI1311904-NICAT
+changed:        20030416 10:49:03
+source:         AT-DOM
+
+personname:     Speednames Hostmaster
+organization:
+street address: Speednames, Inc. Filial Danmark
+street address: Store Soendervoldstraede 9
+street address: DK-1419 Copenhagen K
+postal code:
+city:
+country:
+phone:          +4570277077
+fax-no:         +4570277078
+e-mail:         hostmaster@speednames.com
+nic-hdl:        SH1433948-NICAT
+changed:        20031129 04:32:19
+source:         AT-DOM
+
