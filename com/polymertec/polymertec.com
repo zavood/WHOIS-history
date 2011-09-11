@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECH.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
+   Domain Name: POLYMERTEC.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SETUPSITES.ORG
+   Name Server: NS2.SETUPSITES.ORG
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 01-aug-1998
-   Expiration Date: 31-jul-2017
+   Updated Date: 24-jul-2011
+   Creation Date: 18-may-2000
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:46:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:44:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+
+
+Domain name: polymertec.com
+
+Registrant Contact:
+   Polymer Technologies Pte Ltd
+   Melvin Seah ()
+
+   Fax:
+   121 Tuas View Walk 1
+   Singapore, SG 637737
+   SG
+
+Administrative Contact:
+   Polymer Technologies Pte Ltd
+   Melvin Seah (info@polymertec.com)
+   (65) 8638225
+   Fax: (65) 8638219
+   121 Tuas View Walk 1
+   Singapore, SG 637737
+   SG
+
+Technical Contact:
+   Bizweb Communications Pte Ltd
+   Florence Lim (florence@overseasyellowpages.com)
+   +65.62940509
+   Fax: +65.63964305
+   161 Lavender Street  #04-02, Singapore 338750
+   Singapore,  338750
+   SG
+
+Status: Locked
+
+Name Servers:
+   ns1.setupsites.org
+   ns2.setupsites.org
+
+Creation date: 18 May 2000 06:48:06
+Expiration date: 18 May 2012 06:48:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

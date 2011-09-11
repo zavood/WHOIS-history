@@ -5,25 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECH.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
+   Domain Name: CUTEMOVIE.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.DOMAINDISCOVER.COM
+   Name Server: NS2.DOMAINDISCOVER.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 01-aug-1998
-   Expiration Date: 31-jul-2017
+   Updated Date: 25-aug-2011
+   Creation Date: 24-aug-2001
+   Expiration Date: 24-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:46:16 UTC &lt;&lt;&lt;
 
@@ -60,5 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   L.A.S. Inc.
+   7071 warner ave #343
+   Huntington Beach, CA 92647
+   US
+
+   Domain Name: CUTEMOVIE.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      L.A.S. Inc.
+      O.M. Mohammed
+      7071 warner ave #343
+      Huntington Beach, CA 92647
+      US
+      (714)705-4966
+      (714)705-4967 [fax]
+      mywebnetone@gmail.com
+
+   Domain created on 24-Aug-2001
+   Domain expires on 23-Aug-2012
+   Last updated on 02-Aug-2011
+
+   Domain servers in listed order:
+
+      NS1.DOMAINDISCOVER.COM
+      NS2.DOMAINDISCOVER.COM
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+
