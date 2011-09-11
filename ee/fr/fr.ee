@@ -1,0 +1,33 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       fr.ee
+registrant:   CID:LINXTELECOM:11542879
+admin-c:      CID:LINXTELECOM:37812240236
+nsset:        NSSID:LINXTELECOM:FR.EE
+registrar:    linxtelecom
+status:       paid and in zone
+registered:   04.07.2010 03:56:07
+changed:      03.01.2011 15:17:32
+expire:       03.01.2012
+
+contact:      CID:LINXTELECOM:11542879
+org:          Hypester O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      03.01.2011 15:17:26
+
+contact:      CID:LINXTELECOM:37812240236
+name:         Marko M&Atilde;&curren;nd
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      03.01.2011 15:17:27
+
+nsset:        NSSID:LINXTELECOM:FR.EE
+nserver:      ns.eunet.ee (195.222.0.1)
+nserver:      ns.data.ee (195.222.4.1)
+tech-c:       CID:LINXTELECOM:37812240236
+registrar:    linxtelecom
+created:      03.01.2011 15:17:30
+
+
