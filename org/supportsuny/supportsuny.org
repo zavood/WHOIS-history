@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107247578-LROR
+Domain Name:SUPPORTSUNY.ORG
+Created On:22-Aug-2005 14:10:23 UTC
+Last Updated On:10-Aug-2011 17:24:30 UTC
+Expiration Date:22-Aug-2012 14:10:23 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31439747
+Registrant Name:Chief Technology Officer
+Registrant Organization:State University of New York
+Registrant Street1:F303A
+Registrant Street2:State University Plaza
+Registrant Street3:
+Registrant City:Albany
+Registrant State/Province:New York
+Registrant Postal Code:12246
+Registrant Country:US
+Registrant Phone:+1.5183201212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@suny.edu
+Admin ID:CR31439749
+Admin Name:Chief Technology Officer
+Admin Organization:State University of New York
+Admin Street1:F303A
+Admin Street2:State University Plaza
+Admin Street3:
+Admin City:Albany
+Admin State/Province:New York
+Admin Postal Code:12246
+Admin Country:US
+Admin Phone:+1.5183201212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@suny.edu
+Tech ID:CR31439748
+Tech Name:Domain Master
+Tech Organization:State University of New York
+Tech Street1:FB04
+Tech Street2:State University Plaza
+Tech Street3:
+Tech City:Albany
+Tech State/Province:New York
+Tech Postal Code:12246
+Tech Country:US
+Tech Phone:+1.5183201201
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DomainMaster@suny.edu
+Name Server:NS.SUNY.EDU
+Name Server:NS2.SUNY.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

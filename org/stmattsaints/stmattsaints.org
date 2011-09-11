@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69728433-LROR
+Domain Name:STMATTSAINTS.ORG
+Created On:20-Apr-2001 16:14:55 UTC
+Last Updated On:12-Oct-2010 18:30:15 UTC
+Expiration Date:20-Apr-2013 16:14:55 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26631186-NSI
+Registrant Name:St. Matthews School
+Registrant Organization:St. Matthews School
+Registrant Street1:602 Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kalispell
+Registrant State/Province:MT
+Registrant Postal Code:59901
+Registrant Country:US
+Registrant Phone:+1.40675267
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stmtech@CENTURYTEL.NET
+Admin ID:26631188-NSI
+Admin Name:Boyle, Gene
+Admin Organization:Boyle, Gene
+Admin Street1:St. Matthews School
+Admin Street2:602 Main Street
+Admin Street3:
+Admin City:Kalispell
+Admin State/Province:MT
+Admin Postal Code:59901
+Admin Country:US
+Admin Phone:+1.40675267
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stmtech@CENTURYTEL.NET
+Tech ID:31984127-NSI
+Tech Name:CenturyTel Hostmaster
+Tech Organization:CenturyTel Hostmaster
+Tech Street1:100 CenturyTel Dr
+Tech Street2:
+Tech Street3:
+Tech City:Monroe
+Tech State/Province:LA
+Tech Postal Code:71203
+Tech Country:US
+Tech Phone:+1.3183889000
+Tech Phone Ext.:
+Tech FAX:+1.3183405474
+Tech FAX Ext.:
+Tech Email:hostmaster@centurytel.net
+Name Server:DNS.SITE5.COM
+Name Server:DNS2.SITE5.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

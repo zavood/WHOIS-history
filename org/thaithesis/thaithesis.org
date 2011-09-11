@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157116920-LROR
+Domain Name:THAITHESIS.ORG
+Created On:16-Sep-2009 03:17:58 UTC
+Last Updated On:15-Nov-2009 03:54:29 UTC
+Expiration Date:16-Sep-2014 03:17:58 UTC
+Sponsoring Registrar:DotArai Co., Ltd. (R1703-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-dotarai_2710
+Registrant Name:Boonkiat Chetchamnongnuch
+Registrant Organization:NSTDA
+Registrant Street1:111
+Registrant Street2:Thailand Science Park Phahonyothin
+Registrant Street3:
+Registrant City:KlongLuang
+Registrant State/Province:Pathumthani
+Registrant Postal Code:12120
+Registrant Country:TH
+Registrant Phone:+66.866664015
+Registrant Phone Ext.:
+Registrant FAX:+66.25647060
+Registrant FAX Ext.:
+Registrant Email:boonkiat@nstda.or.th
+Admin ID:O-dotarai_2711
+Admin Name:Boonkiat Chetchamnongnuch
+Admin Organization:NSTDA
+Admin Street1:111
+Admin Street2:Thailand Science Park Phahonyothin
+Admin Street3:
+Admin City:KlongLuang
+Admin State/Province:Pathumthani
+Admin Postal Code:12120
+Admin Country:TH
+Admin Phone:+66.866664015
+Admin Phone Ext.:
+Admin FAX:+66.25647060
+Admin FAX Ext.:
+Admin Email:boonkiat@nstda.or.th
+Tech ID:O-dotarai_2712
+Tech Name:Boonkiat Chetchamnongnuch
+Tech Organization:NSTDA
+Tech Street1:111
+Tech Street2:Thailand Science Park Phahonyothin
+Tech Street3:
+Tech City:KlongLuang
+Tech State/Province:Pathumthani
+Tech Postal Code:12120
+Tech Country:TH
+Tech Phone:+66.866664015
+Tech Phone Ext.:
+Tech FAX:+66.25647060
+Tech FAX Ext.:
+Tech Email:boonkiat@nstda.or.th
+Name Server:NS1.DOTARAI.COM
+Name Server:NS2.DOTARAI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

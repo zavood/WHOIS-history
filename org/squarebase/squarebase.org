@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155479533-LROR
+Domain Name:SQUAREBASE.ORG
+Created On:27-Feb-2009 13:39:25 UTC
+Last Updated On:19-Apr-2011 00:26:30 UTC
+Expiration Date:27-Feb-2012 13:39:25 UTC
+Sponsoring Registrar:EPAG Domainservices GmbH (R40-LROR)
+Status:OK
+Registrant ID:PB1402-EPNIC
+Registrant Name:M.F. Reijnhoudt
+Registrant Organization:Plusis B.V.
+Registrant Street1:Galileistraat 3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eindhoven
+Registrant State/Province:
+Registrant Postal Code:5621AE
+Registrant Country:NL
+Registrant Phone:+31.402444740
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@qweb.nl
+Admin ID:QISB22-EPNIC
+Admin Name:Qweb Domeinbeheer
+Admin Organization:Qweb Internet Services B.V.
+Admin Street1:Piet Heinstraat 7
+Admin Street2:
+Admin Street3:
+Admin City:Schiedam
+Admin State/Province:Zuid-Holland
+Admin Postal Code:3115JC
+Admin Country:NL
+Admin Phone:+31.88208808
+Admin Phone Ext.:8
+Admin FAX:+31.88208808
+Admin FAX Ext.:9
+Admin Email:domains@qweb.nl
+Tech ID:QISB22-EPNIC
+Tech Name:Qweb Domeinbeheer
+Tech Organization:Qweb Internet Services B.V.
+Tech Street1:Piet Heinstraat 7
+Tech Street2:
+Tech Street3:
+Tech City:Schiedam
+Tech State/Province:Zuid-Holland
+Tech Postal Code:3115JC
+Tech Country:NL
+Tech Phone:+31.88208808
+Tech Phone Ext.:8
+Tech FAX:+31.88208808
+Tech FAX Ext.:9
+Tech Email:domains@qweb.nl
+Name Server:NS1.QWEB.NL
+Name Server:NS2.QWEB.NL
+Name Server:NS3.QWEB.CO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
