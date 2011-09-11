@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D82958043-LROR
+Domain Name:8800.ORG
+Created On:23-Jan-2002 17:40:01 UTC
+Last Updated On:02-Aug-2011 06:59:15 UTC
+Expiration Date:23-Jan-2013 17:40:01 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:ONLC-4469904-4
+Registrant Name:yong peng
+Registrant Organization:Yaako Ltd.
+Registrant Street1:Guanhe West Road, Changzhou, Room 1406, No. 119
+Registrant Street2:
+Registrant Street3:
+Registrant City:changzhou
+Registrant State/Province:jiangsu
+Registrant Postal Code:213002
+Registrant Country:CN
+Registrant Phone:+86.051968887188
+Registrant Phone Ext.:
+Registrant FAX:+86.051968887188
+Registrant FAX Ext.:
+Registrant Email:ppyy@astpbx.com
+Admin ID:ONLC-4469904-1
+Admin Name:Peng Yong
+Admin Organization:Yaako Ltd.
+Admin Street1:1406, Yinyuan Building
+Admin Street2:
+Admin Street3:
+Admin City:Changzhou
+Admin State/Province:Jiangsu
+Admin Postal Code:213002
+Admin Country:CN
+Admin Phone:+86.51986613399
+Admin Phone Ext.:
+Admin FAX:+86.51986613366
+Admin FAX Ext.:
+Admin Email:ppyy@astpbx.com
+Tech ID:ONLC-4469904-2
+Tech Name:Peng Yong
+Tech Organization:Yaako Ltd.
+Tech Street1:1406, Yinyuan Building
+Tech Street2:
+Tech Street3:
+Tech City:Changzhou
+Tech State/Province:Jiangsu
+Tech Postal Code:213002
+Tech Country:CN
+Tech Phone:+86.51986613399
+Tech Phone Ext.:
+Tech FAX:+86.51986613366
+Tech FAX Ext.:
+Tech Email:ppyy@astpbx.com
+Name Server:NS2.3322.NET
+Name Server:NS1.3322.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
