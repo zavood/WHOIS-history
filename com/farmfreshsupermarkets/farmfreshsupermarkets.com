@@ -5,41 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-MICROSOFT.COM.ZZZZZZZZZZZZZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-MICROSOFT.COM.ZZZZZZZZZZZZZZZZZZ.IM.ELITE.WANNABE.TOO.WWW.PLUS613.NET
-MICROSOFT.COM.ZZZZZZ.MORE.DETAILS.AT.WWW.BEYONDWHOIS.COM
-MICROSOFT.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-MICROSOFT.COM.ZZZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-MICROSOFT.COM.ZZZ.IS.0WNED.AND.HAX0RED.BY.SUB7.NET
-MICROSOFT.COM.WILL.BE.SLAPPED.IN.THE.FACE.BY.MY.BLUE.VEINED.SPANNER.NET
-MICROSOFT.COM.WILL.BE.BEATEN.WITH.MY.SPANNER.NET
-MICROSOFT.COM.WAREZ.AT.TOPLIST.GULLI.COM
-MICROSOFT.COM.TOTALLY.SUCKS.S3U.NET
-MICROSOFT.COM.SOFTWARE.IS.NOT.USED.AT.REG.RU
-MICROSOFT.COM.SHOULD.GIVE.UP.BECAUSE.LINUXISGOD.COM
-MICROSOFT.COM.RAWKZ.MUH.WERLD.MENTALFLOSS.CA
-MICROSOFT.COM.OHMYGODITBURNS.COM
-MICROSOFT.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-MICROSOFT.COM.MATCHES.THIS.STRING.AT.KEYSIGNERS.COM
-MICROSOFT.COM.MAKES.RICKARD.DRINK.SAMBUCA.0800CARRENTAL.COM
-MICROSOFT.COM.LOVES.ME.KOSMAL.NET
-MICROSOFT.COM.LIVES.AT.SHAUNEWING.COM
-MICROSOFT.COM.KNOWS.THAT.THE.BEST.WEB.HOSTING.IS.NASHHOST.NET
-MICROSOFT.COM.IS.NOT.YEPPA.ORG
-MICROSOFT.COM.IS.NOT.HOSTED.BY.ACTIVEDOMAINDNS.NET
-MICROSOFT.COM.IS.IN.BED.WITH.CURTYV.COM
-MICROSOFT.COM.IS.HOSTED.ON.PROFITHOSTING.NET
-MICROSOFT.COM.IS.A.STEAMING.HEAP.OF.FUCKING-BULLSHIT.NET
-MICROSOFT.COM.IS.A.MESS.TIMPORTER.CO.UK
-MICROSOFT.COM.HAS.A.PRESENT.COMING.FROM.HUGHESMISSILES.COM
-MICROSOFT.COM.FILLS.ME.WITH.BELLIGERENCE.NET
-MICROSOFT.COM.CAN.GO.FUCK.ITSELF.AT.SECZY.COM
-MICROSOFT.COM.ARE.GODDAMN.PIGFUCKERS.NET.NS-NOT-IN-SERVICE.COM
-MICROSOFT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: FARMFRESHSUPERMARKETS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS-A.SUPERVALU.COM
+   Name Server: NS-B.SVHARBOR.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 29-jul-2011
+   Creation Date: 21-aug-2003
+   Expiration Date: 21-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 02:14:15 UTC &lt;&lt;&lt;
 
@@ -76,3 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
+
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Supervalu
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: FARMFRESHSUPERMARKETS.COM
+
+   Domain servers in listed order:
+      NS-A.SUPERVALU.COM
+      NS-B.SVHARBOR.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FARMFRESHSUPERMARKETS.COM
