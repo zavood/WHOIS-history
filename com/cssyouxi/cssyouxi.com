@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AMAZON-CORNERSTONE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Domain Name: CSSYOUXI.COM
+   Registrar: GO CHINA DOMAINS, INC.
+   Whois Server: whois.gochinadomains.com
+   Referral URL: http://www.gochinadomains.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 16-jun-2011
-   Expiration Date: 16-jun-2012
+   Updated Date: 15-aug-2011
+   Creation Date: 08-aug-2011
+   Expiration Date: 08-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:20:26 UTC &lt;&lt;&lt;
 
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Amazon Technologies, Inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: AMAZON-CORNERSTONE.COM
+   Domain Name: CSSYOUXI.COM
 
    Domain servers in listed order:
-      PDNS1.ULTRADNS.NET
-      PDNS2.ULTRADNS.NET
-      PDNS3.ULTRADNS.ORG
-      PDNS4.ULTRADNS.ORG
-      PDNS5.ULTRADNS.INFO
-      PDNS6.ULTRADNS.CO.UK
+      NS1.BODIS.COM
+      NS2.BODIS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=AMAZON-CORNERSTONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CSSYOUXI.COM
