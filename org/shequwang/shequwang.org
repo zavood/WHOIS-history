@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156882053-LROR
+Domain Name:SHEQUWANG.ORG
+Created On:15-Aug-2009 05:40:34 UTC
+Last Updated On:16-Aug-2011 02:22:49 UTC
+Expiration Date:15-Aug-2012 05:40:34 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:d19n3oiwku34ae
+Registrant Name:wu lijing
+Registrant Organization:wu lijing
+Registrant Street1:haidianqu zhongguancun
+Registrant Street2:
+Registrant Street3:
+Registrant City:shixiaqu
+Registrant State/Province:beijingshi
+Registrant Postal Code:100086
+Registrant Country:CN
+Registrant Phone:+86.01082952265
+Registrant Phone Ext.:
+Registrant FAX:+86.01082376570
+Registrant FAX Ext.:
+Registrant Email:wu13001271702@gmail.com
+Admin ID:gmmgkrl9x0zcsd
+Admin Name:wu lijing
+Admin Organization:wu lijing
+Admin Street1:haidianqu zhongguancun
+Admin Street2:
+Admin Street3:
+Admin City:shixiaqu
+Admin State/Province:beijingshi
+Admin Postal Code:100086
+Admin Country:CN
+Admin Phone:+86.01082952265
+Admin Phone Ext.:
+Admin FAX:+86.01082376570
+Admin FAX Ext.:
+Admin Email:wu13001271702@gmail.com
+Tech ID:gmmgkrl9x0zcsd
+Tech Name:wu lijing
+Tech Organization:wu lijing
+Tech Street1:haidianqu zhongguancun
+Tech Street2:
+Tech Street3:
+Tech City:shixiaqu
+Tech State/Province:beijingshi
+Tech Postal Code:100086
+Tech Country:CN
+Tech Phone:+86.01082952265
+Tech Phone Ext.:
+Tech FAX:+86.01082376570
+Tech FAX Ext.:
+Tech Email:wu13001271702@gmail.com
+Name Server:DNS5.EXPIRENOTIFICATION.COM
+Name Server:DNS6.EXPIRENOTIFICATION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
