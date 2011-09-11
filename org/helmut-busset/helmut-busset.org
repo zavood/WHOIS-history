@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104114081-LROR
+Domain Name:HELMUT-BUSSET.ORG
+Created On:18-Mar-2004 15:37:38 UTC
+Last Updated On:19-Mar-2011 01:25:03 UTC
+Expiration Date:18-Mar-2012 15:37:38 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-386938
+Registrant Name:Helmut Busset
+Registrant Street1:Schifferstr. 26
+Registrant Street2:
+Registrant Street3:
+Registrant City:Frankfurt
+Registrant State/Province:Hessen
+Registrant Postal Code:60594
+Registrant Country:DE
+Registrant Phone:+49.6961992671
+Registrant Phone Ext.:
+Registrant FAX:+49.6961992675
+Registrant FAX Ext.:
+Registrant Email:hbusset@helmut-busset.de
+Admin ID:ABM-386938
+Admin Name:Helmut Busset
+Admin Street1:Schifferstr. 26
+Admin Street2:
+Admin Street3:
+Admin City:Frankfurt
+Admin State/Province:Hessen
+Admin Postal Code:60594
+Admin Country:DE
+Admin Phone:+49.6961992671
+Admin Phone Ext.:
+Admin FAX:+49.6961992675
+Admin FAX Ext.:
+Admin Email:hbusset@helmut-busset.de
+Tech ID:ABM-369776
+Tech Name:Volker Busch
+Tech Organization:net-solution GmbH
+Tech Street1:Beindstrasse 12
+Tech Street2:
+Tech Street3:
+Tech City:Heddesheim
+Tech State/Province:DE
+Tech Postal Code:68542
+Tech Country:DE
+Tech Phone:+49.620349490
+Tech Phone Ext.:
+Tech FAX:+49.6203494918
+Tech FAX Ext.:
+Tech Email:vbusch@net-solution.net
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
