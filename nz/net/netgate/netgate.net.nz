@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-12T04:24:33+12:00
+domain_name: netgate.net.nz
+query_status: 200 Active
+domain_dateregistered: 1997-06-09T00:00:00+12:00
+domain_datebilleduntil: 2014-06-09T00:00:00+12:00
+domain_datelastmodified: 2011-06-21T15:02:56+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Telecom IP Limited
+registrant_contact_address1: P O Box 949
+registrant_contact_city: WELLINGTON
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 4738278
+registrant_contact_fax: +64 4 4723358
+registrant_contact_email: dns@ajpark.com
+%
+admin_contact_name: A J Park
+admin_contact_address1: P O Box 949
+admin_contact_city: WELLINGTON
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 4738278
+admin_contact_fax: +64 4 4723358
+admin_contact_email: dns@ajpark.com
+%
+technical_contact_name: Kevin Stewart
+technical_contact_address1: 31 Airedale St
+technical_contact_address2: Auckland, New Zealand
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 93 569688
+technical_contact_email: kevins@netgate.net.nz
+%
+ns_ip4_01: 202.37.245.17
+ns_name_01: defiant.netgate.net.nz
+ns_ip4_02: 202.37.245.20
+ns_name_02: reliant.netgate.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
