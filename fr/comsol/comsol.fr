@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; comsol.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      comsol.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C1981-FRNIC
+admin-c:     LL216-FRNIC
+tech-c:      WS8507-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4286-FRNIC
+registrar:   WEB SOLUTIONS APS
+anniversary: 18/06
+created:     01/02/2002
+last-update: 24/01/2005
+source:      FRNIC
+
+ns-list:     NSL4286-FRNIC
+nserver:     nic.comsol.se
+nserver:     auth210.ns.uu.net
+source:      FRNIC
+
+registrar:   WEB SOLUTIONS APS
+type:        Isp Option 2
+address:     Nyhavn 43A
+address:     DK-1051 COPENHAGEN
+country:     DK
+phone:       +45 70 26 20 25
+fax-no:      +45 70 26 20 24
+e-mail:      hostmaster@web-solutions.dk
+website:     http://www.web-solutions.dk
+anonymous:   NO
+registered:  04/08/2000
+source:      FRNIC
+
+nic-hdl:     LL216-FRNIC
+type:        PERSON
+contact:     Langemyr Lars
+address:     Comsol
+address:     28, rue Felix Esclangon
+address:     38000 Grenoble
+country:     FR
+phone:       +33 4 76 46 49 01
+changed:     28/05/2003 allan@web-solutions.dk
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WS8507-FRNIC
+type:        ROLE
+contact:     Web Solutions ApS
+address:     Web Solutions ApS
+address:     Nyhavn 43A
+address:     1051 Copenhagen City
+address:     DK
+phone:       +45 70262025
+e-mail:      allan@web-solutions.dk
+trouble:     www.web-solutions.dk
+admin-c:     AP2489-FRNIC
+tech-c:      AP2489-FRNIC
+remarks:     Domain name registration and management world-wide
+notify:      allan@web-solutions.dk
+changed:     12/07/2007 allan@web-solutions.dk
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     C1981-FRNIC
+type:        ORGANIZATION
+contact:     Comsol
+address:     28, rue Felix Esclangon
+address:     38000 Grenoble
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
