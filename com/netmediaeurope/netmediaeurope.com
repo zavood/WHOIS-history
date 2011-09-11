@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXAC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DCA-ANS-01.INET.QWEST.NET
-   Name Server: NS0.NEXTACTION.NET
-   Name Server: NS1.NEXTACTION.NET
-   Name Server: SVL-ANS-01.INET.QWEST.NET
+   Domain Name: NETMEDIAEUROPE.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NETNAMES.NET
+   Name Server: NS2.NETNAMES.NET
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 30-oct-2006
-   Expiration Date: 30-oct-2012
+   Updated Date: 25-may-2011
+   Creation Date: 12-jun-2007
+   Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:05:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:06:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  NetMediaEurope (NETME16383)
+  36 rue vignon
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  PARIS, , 75008
+  FR
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: netmediaeurope.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  Administrator, Domain (DA6848195)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
 
-Whois Query: nexac.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 08:56:34 EDT 2011
-Reason Code: IE
+Administrative contact:
+  Chaussin, Laure (LC95623)
+  Laure Chaussin
+  36 rue vignon
+
+  PARIS, 75008
+  FR
+  lchaussin@netmediaeurope.com
+  +33.139577470 Fax:
+
+Record created:           2011-02-13 19:19:56
+Record last updated:      2011-02-13 19:19:56
+Record expires:           2012-06-12 13:50:00
+
+Domain servers in listed order:
+  NS1.AXINET.FR (NS1AX00588)
+  NS2.AXINET.FR (NS2AX26161)
+  ns1.netnames.net (NS1NE89928)
+  ns2.netnames.net (NS2NE527762)

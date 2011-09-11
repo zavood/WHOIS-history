@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXAC.COM
+   Domain Name: TALKSPOT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DCA-ANS-01.INET.QWEST.NET
-   Name Server: NS0.NEXTACTION.NET
-   Name Server: NS1.NEXTACTION.NET
-   Name Server: SVL-ANS-01.INET.QWEST.NET
+   Name Server: NS1.MAXIMUMASP.COM
+   Name Server: NS2.MAXIMUMASP.COM
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 30-oct-2006
-   Expiration Date: 30-oct-2012
+   Updated Date: 27-jun-2006
+   Creation Date: 27-jan-1999
+   Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:05:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:06:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: nexac.com
+Whois Query: talkspot.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 08:56:34 EDT 2011
+Date and Time of Query: Sun Sep 11 08:56:32 EDT 2011
 Reason Code: IE
