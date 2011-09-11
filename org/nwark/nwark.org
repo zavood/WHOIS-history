@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D486904-LROR
+Domain Name:NWARK.ORG
+Created On:20-Sep-1997 04:00:00 UTC
+Last Updated On:07-Sep-2011 14:23:44 UTC
+Expiration Date:19-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:tuiSdhbW67NfRF35
+Registrant Name:Matthew Romine
+Registrant Organization:IFWORLD Inc.
+Registrant Street1:4058 N College
+Registrant Street2:Ste 250
+Registrant Street3:
+Registrant City:Fayetteville
+Registrant State/Province:AR
+Registrant Postal Code:72703
+Registrant Country:US
+Registrant Phone:+1.4795825100
+Registrant Phone Ext.:
+Registrant FAX:+1.4795825599
+Registrant FAX Ext.:
+Registrant Email:mmr@nwark.com
+Admin ID:tuDBKAMLluLkcjcI
+Admin Name:Matthew Romine
+Admin Organization:Northwest Arkansas Computing
+Admin Street1:4058 N College
+Admin Street2:Ste 250
+Admin Street3:
+Admin City:Fayetteville
+Admin State/Province:AR
+Admin Postal Code:72703
+Admin Country:US
+Admin Phone:+1.4795825100
+Admin Phone Ext.:
+Admin FAX:+1.4795825599
+Admin FAX Ext.:
+Admin Email:mmr@nwark.com
+Tech ID:tuUHGdtdUKXafMyF
+Tech Name:Scott Mills
+Tech Organization:IFWORLD, Inc.
+Tech Street1:2209 Main Dr
+Tech Street2:
+Tech Street3:
+Tech City:Fayetteville
+Tech State/Province:AR
+Tech Postal Code:72704
+Tech Country:US
+Tech Phone:+1.4795825100
+Tech Phone Ext.:
+Tech FAX:+1.4795825599
+Tech FAX Ext.:
+Tech Email:wsm1@nwark.com
+Name Server:NS01.IFWORLD.COM
+Name Server:NS02.IFWORLD.COM
+Name Server:NS03.IFWORLD.COM
+Name Server:NS04.IFWORLD.COM
+Name Server:NS05.IFWORLD.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
