@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104754151-LROR
+Domain Name:BLOGGERCON.ORG
+Created On:13-Aug-2004 03:40:54 UTC
+Last Updated On:06-Nov-2010 00:25:00 UTC
+Expiration Date:13-Aug-2012 03:40:54 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR62078767
+Registrant Name:Dave Winer
+Registrant Organization:Scripting News, Inc.
+Registrant Street1:847 Mendocino Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berkeley
+Registrant State/Province:California
+Registrant Postal Code:94707
+Registrant Country:US
+Registrant Phone:+1.5105551212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dave.winer@gmail.com
+Admin ID:CR62078774
+Admin Name:Dave Winer
+Admin Organization:Scripting News, Inc.
+Admin Street1:847 Mendocino Ave
+Admin Street2:
+Admin Street3:
+Admin City:Berkeley
+Admin State/Province:California
+Admin Postal Code:94707
+Admin Country:US
+Admin Phone:+1.5105551212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dave.winer@gmail.com
+Tech ID:CR62078769
+Tech Name:Dave Winer
+Tech Organization:Scripting News, Inc.
+Tech Street1:847 Mendocino Ave
+Tech Street2:
+Tech Street3:
+Tech City:Berkeley
+Tech State/Province:California
+Tech Postal Code:94707
+Tech Country:US
+Tech Phone:+1.5105551212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dave.winer@gmail.com
+Name Server:NS15.DOMAINCONTROL.COM
+Name Server:NS16.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
