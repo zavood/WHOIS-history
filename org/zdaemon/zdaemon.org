@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92209017-LROR
+Domain Name:ZDAEMON.ORG
+Created On:14-Nov-2002 16:03:33 UTC
+Last Updated On:10-Oct-2009 01:30:06 UTC
+Expiration Date:14-Nov-2012 16:03:33 UTC
+Sponsoring Registrar:Advanced Internet Technologies, Inc. (AIT) (R232-LROR)
+Status:OK
+Registrant ID:AITorgORG6890
+Registrant Name:Administrator  . K
+Registrant Organization:Innovative Computing Technologies Inc.
+Registrant Street1:Broderick St NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:C-Town
+Registrant State/Province:NC
+Registrant Postal Code:28025
+Registrant Country:US
+Registrant Phone:+1.7045551212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aitda2011@gmail.com
+Admin ID:AITorgADM6890
+Admin Name:Administrator  . K
+Admin Organization:Innovative Computing Technologies Inc.
+Admin Street1:Broderick St NW
+Admin Street2:
+Admin Street3:
+Admin City:C-Town
+Admin State/Province:NC
+Admin Postal Code:28025
+Admin Country:US
+Admin Phone:+1.7045551212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aitda2011@gmail.com
+Tech ID:AITorgTEC6890
+Tech Name:Administrator  . K
+Tech Organization:Innovative Computing Technologies Inc.
+Tech Street1:Broderick St NW
+Tech Street2:
+Tech Street3:
+Tech City:C-Town
+Tech State/Province:NC
+Tech Postal Code:28025
+Tech Country:US
+Tech Phone:+1.7045551212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aitda2011@gmail.com
+Name Server:NS1.ZDAEMON.ORG
+Name Server:NS2.ZDAEMON.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
