@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: DALANPHIM.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-aug-2011
+   Creation Date: 10-sep-2008
+   Expiration Date: 10-sep-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:34:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:34:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... dalanphim.com
+  Creation Date........ 2008-09-11
+  Registration Date.... 2008-09-11
+  Expiry Date.......... 2012-09-11
+  Organisation Name.... Quang Le
+  Organisation Address. 3015 vin grande ct
+  Organisation Address.
+  Organisation Address. san jose
+  Organisation Address. 95135
+  Organisation Address. ca
+  Organisation Address. UNITED STATES
+
+Admin Name........... Quang Le
+  Admin Address........ 3015 vin grande ct
+  Admin Address........
+  Admin Address........ san jose
+  Admin Address........ 95135
+  Admin Address........ ca
+  Admin Address........ UNITED STATES
+  Admin Email.......... quanglek1938@yahoo.com
+  Admin Phone.......... +1.4082390165
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
+
+
