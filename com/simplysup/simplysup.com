@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNIVERSALTRAVELAGENTS.COM
+   Domain Name: SIMPLYSUP.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETBCP.COM
-   Name Server: NS2.NETBCP.NET
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: NS1.ADGRAFIX.COM
+   Name Server: NS2.ADGRAFIX.COM
+   Name Server: NS3.ADGRAFIX.COM
    Status: clientTransferProhibited
-   Updated Date: 14-sep-2007
-   Creation Date: 23-oct-2001
-   Expiration Date: 23-oct-2012
+   Updated Date: 13-mar-2011
+   Creation Date: 12-may-2000
+   Expiration Date: 12-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:24:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:25:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +75,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about UNIVERSALTRAVELAGENTS.COM
-&lt;a href=&quot;http://www.aboutus.org/UNIVERSALTRAVELAGENTS.COM&quot;&gt;AboutUs: UNIVERSALTRAVELAGENTS.COM &lt;/a&gt;
+Visit AboutUs.org for more information about SIMPLYSUP.COM
+&lt;a href=&quot;http://www.aboutus.org/SIMPLYSUP.COM&quot;&gt;AboutUs: SIMPLYSUP.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Universal City Studios
-   100 Universal City Plaza
-   Universal City, CA 91608
-   US
+Simply Super Software
+   ATTN SIMPLYSUP.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: UNIVERSALTRAVELAGENTS.COM
+
+   Domain Name: SIMPLYSUP.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -101,36 +98,40 @@ Universal City Studios
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Administrator, Domain Name		domains@nbcuni.com
-      Universal Studios
-      100 Universal City Plaza
-      Universal City, CA 91608
+      Thomas, Nigel		wn4cr5fp7am@networksolutionsprivateregistration.com
+      Simply Super Software
+      ATTN SIMPLYSUP.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      818.777.9338 fax: 818.866.1426
+      570-708-8780
 
    Technical Contact:
-      - NBC Universal Domains Tech, Universal City Studios		domainstech@nbcuni.com
-      Universal City Studios
-      100 Universal City Plaza
-      1360/4
-      Universal City, CA 91604
+      Hosting.com, Domain Admin Telecom. Inc		nr28h6fk6pc@networksolutionsprivateregistration.com
+      Hosting.com
+      ATTN SIMPLYSUP.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      818.777.1000
+      570-708-8780
 
 
-   Record expires on 23-Oct-2012.
-   Record created on 23-Oct-2001.
-   Database last updated on 11-Sep-2011 03:20:19 EDT.
+   Record expires on 12-May-2014.
+   Record created on 12-May-2000.
+   Database last updated on 11-Sep-2011 03:15:19 EDT.
 
    Domain servers in listed order:
 
-   PDNS1.ULTRADNS.NET           204.74.108.1
-   PDNS2.ULTRADNS.NET           204.74.109.1
-   PDNS3.ULTRADNS.ORG           199.7.68.1
-   PDNS4.ULTRADNS.ORG           199.7.69.1
-   PDNS5.ULTRADNS.INFO          204.74.114.1
-   PDNS6.ULTRADNS.CO.UK
-   NS1.NETBCP.COM
-   NS2.NETBCP.NET
+   NS1.ADGRAFIX.COM
+   NS2.ADGRAFIX.COM
+   NS3.ADGRAFIX.COM
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

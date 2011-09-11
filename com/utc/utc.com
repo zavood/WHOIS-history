@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-may-1987
    Expiration Date: 26-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 05:34:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:23:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,7 +114,7 @@ United Technologies Corporation
 
    Record expires on 26-May-2021.
    Record created on 27-May-1987.
-   Database last updated on 10-Sep-2011 01:30:40 EDT.
+   Database last updated on 11-Sep-2011 03:14:30 EDT.
 
    Domain servers in listed order:
 

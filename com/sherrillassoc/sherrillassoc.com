@@ -5,22 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNIVERSALTRAVELAGENTS.COM
+   Domain Name: SHERRILLASSOC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETBCP.COM
-   Name Server: NS2.NETBCP.NET
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Updated Date: 14-sep-2007
-   Creation Date: 23-oct-2001
-   Expiration Date: 23-oct-2012
+   Updated Date: 16-jun-2009
+   Creation Date: 24-jul-1997
+   Expiration Date: 23-jul-2014
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:24:46 UTC &lt;&lt;&lt;
 
@@ -80,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about UNIVERSALTRAVELAGENTS.COM
-&lt;a href=&quot;http://www.aboutus.org/UNIVERSALTRAVELAGENTS.COM&quot;&gt;AboutUs: UNIVERSALTRAVELAGENTS.COM &lt;/a&gt;
+Visit AboutUs.org for more information about SHERRILLASSOC.COM
+&lt;a href=&quot;http://www.aboutus.org/SHERRILLASSOC.COM&quot;&gt;AboutUs: SHERRILLASSOC.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Universal City Studios
-   100 Universal City Plaza
-   Universal City, CA 91608
+Sherrill Associates, Inc.
+   316 North Main Street
+   Edwardsville, IL 62025
    US
 
-   Domain Name: UNIVERSALTRAVELAGENTS.COM
+   Domain Name: SHERRILLASSOC.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,37 +94,22 @@ Universal City Studios
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Administrator, Domain Name		domains@nbcuni.com
-      Universal Studios
-      100 Universal City Plaza
-      Universal City, CA 91608
+   Administrative Contact, Technical Contact:
+      McVicar, Greg		gsm@sherrillassoc.com
+      Sherrill Associates, Inc.
+      316 North Main Street
+      Edwardsville, IL 62025
       US
-      818.777.9338 fax: 818.866.1426
-
-   Technical Contact:
-      - NBC Universal Domains Tech, Universal City Studios		domainstech@nbcuni.com
-      Universal City Studios
-      100 Universal City Plaza
-      1360/4
-      Universal City, CA 91604
-      US
-      818.777.1000
+      618-656-9251 fax: 618-656-9496
 
 
-   Record expires on 23-Oct-2012.
-   Record created on 23-Oct-2001.
-   Database last updated on 11-Sep-2011 03:20:19 EDT.
+   Record expires on 23-Jul-2014.
+   Record created on 24-Jul-1997.
+   Database last updated on 11-Sep-2011 03:14:57 EDT.
 
    Domain servers in listed order:
 
-   PDNS1.ULTRADNS.NET           204.74.108.1
-   PDNS2.ULTRADNS.NET           204.74.109.1
-   PDNS3.ULTRADNS.ORG           199.7.68.1
-   PDNS4.ULTRADNS.ORG           199.7.69.1
-   PDNS5.ULTRADNS.INFO          204.74.114.1
-   PDNS6.ULTRADNS.CO.UK
-   NS1.NETBCP.COM
-   NS2.NETBCP.NET
+   NS51.DOMAINCONTROL.COM
+   NS52.DOMAINCONTROL.COM
 
 
