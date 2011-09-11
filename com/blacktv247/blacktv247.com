@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BKTMUSIC.COM
-   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
-   Whois Server: whois.aitdomains.com
-   Referral URL: http://www.aitdomains.com
-   Name Server: NS0.AITCOM.NET
-   Name Server: NS1.AITCOM.NET
-   Status: ok
-   Updated Date: 29-jun-2007
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2014
+   Domain Name: BLACKTV247.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.DNSSERVER8.COM
+   Name Server: NS2.DNSSERVER8.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-sep-2010
+   Creation Date: 29-sep-2008
+   Expiration Date: 29-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:08:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:09:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The Data in THE NAMEIT CORPORATION WHOIS database is provided by
-THE NAMEIT CORPORATION for information purposes, and to assist persons
-in obtaining information about or related to a domain name registration record.
-THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
-WHOIS query, you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial advertising
-or solicitations via e-mail (spam); or  (2) enable high volume, automated,
-electronic processes that apply to THE NAMEIT
-CORPORATION (or its systems).
-
-THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-Domain Name:	bktmusic.com
-Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
-
-
-Registrant Contact
-
-Name:		Julie    Johnson
-Address:	5062 Siesta Lane
-		Yorba Linda, CA  92886
-		US
-
-Email Address:	juliesjunk@sbcglobal.net
-Phone Number:	(714)961-0257
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
-Administrative Contact
+Registrant:
+   Justin Beckett
 
-Name:		Julie    Johnson
-Address:	5062 Siesta Lane
-		Yorba Linda, CA  92886
-		US
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BLACKTV247.COM
 
-Email Address:	juliesjunk@sbcglobal.net
-Phone Number:	(714)961-0257
-
-
-Technical Contact
-
-Name:		Julie    Johnson
-Address:	5062 Siesta Lane
-		Yorba Linda, CA  92886
-		US
-
-Email Address:	juliesjunk@sbcglobal.net
-Phone Number:	(714)961-0257
+   Domain servers in listed order:
+      NS1.DNSSERVER8.COM
+      NS2.DNSSERVER8.COM
 
 
-Record Created on........ 2004-07-24 16:05:36.278
-Record last updated on... 2005-05-26 13:20:52.666
-Expire on................ 2014-07-24 13:20:51.538
-
-Domain Nameservers in listed order:
-
-	ns0.aitcom.net
- 	ns1.aitcom.net
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLACKTV247.COM
