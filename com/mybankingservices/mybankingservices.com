@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 31-aug-2009
    Expiration Date: 31-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 03:57:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:55:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ The Bancorp Bank
+ 409 Silverside road
+ wilmington, de 19809
+ US
+
+ Domain name: MYBANKINGSERVICES.COM
+
+
+ Administrative Contact:
+    Support, IT  domains@thebancorp.com
+    409 Silverside road
+    wilmington, de 19809
+    US
+    1.3023855000    Fax: NA
+
+ Technical Contact:
+    Support, IT  domains@thebancorp.com
+    409 Silverside road
+    wilmington, de 19809
+    US
+    1.3023855000    Fax: NA
+
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 15-Aug-2011.
+ Record expires on 31-Aug-2013.
+ Record created on 31-Aug-2009.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 3 lookups left today
