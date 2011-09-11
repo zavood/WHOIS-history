@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158466618-LROR
+Domain Name:EU5.ORG
+Created On:26-Feb-2010 21:46:33 UTC
+Last Updated On:13-Jan-2011 06:04:14 UTC
+Expiration Date:26-Feb-2013 21:46:33 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_10324845
+Registrant Name:FreeWebHostingArea.com
+Registrant Organization:FreeWebHostingArea.com
+Registrant Street1:P.O. Box 97
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moergestel
+Registrant State/Province:Zuid-Holland
+Registrant Postal Code:5066
+Registrant Country:NL
+Registrant Phone:+45.36946676
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@freewha.com
+Admin ID:DI_10324845
+Admin Name:FreeWebHostingArea.com
+Admin Organization:FreeWebHostingArea.com
+Admin Street1:P.O. Box 97
+Admin Street2:
+Admin Street3:
+Admin City:Moergestel
+Admin State/Province:Zuid-Holland
+Admin Postal Code:5066
+Admin Country:NL
+Admin Phone:+45.36946676
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@freewha.com
+Tech ID:DI_10324845
+Tech Name:FreeWebHostingArea.com
+Tech Organization:FreeWebHostingArea.com
+Tech Street1:P.O. Box 97
+Tech Street2:
+Tech Street3:
+Tech City:Moergestel
+Tech State/Province:Zuid-Holland
+Tech Postal Code:5066
+Tech Country:NL
+Tech Phone:+45.36946676
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@freewha.com
+Name Server:NS1.EU5.ORG
+Name Server:NS2.EU5.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
