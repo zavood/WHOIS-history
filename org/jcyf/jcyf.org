@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D32977163-LROR
+Domain Name:JCYF.ORG
+Created On:15-Aug-2000 03:56:44 UTC
+Last Updated On:27-May-2011 15:44:30 UTC
+Expiration Date:15-Aug-2012 03:56:44 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20427207-NSI
+Registrant Name:YK Communications, Inc.
+Registrant Organization:YK Communications, Inc.
+Registrant Street1:115 W Putnam
+Registrant Street2:P.O. Box 329
+Registrant Street3:
+Registrant City:Ganado
+Registrant State/Province:TX
+Registrant Postal Code:77962
+Registrant Country:US
+Registrant Phone:+1.361771333
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:bill@YKC.COM
+Admin ID:20427207-NSI
+Admin Name:YK Communications, Inc.
+Admin Organization:YK Communications, Inc.
+Admin Street1:115 W Putnam
+Admin Street2:P.O. Box 329
+Admin Street3:
+Admin City:Ganado
+Admin State/Province:TX
+Admin Postal Code:77962
+Admin Country:US
+Admin Phone:+1.361771333
+Admin Phone Ext.:
+Admin FAX:+1.999999999
+Admin FAX Ext.:
+Admin Email:bill@YKC.COM
+Tech ID:15791562-NSI
+Tech Name:YK Communications, Inc.
+Tech Organization:YK Communications, Inc.
+Tech Street1:115 W. Putnam
+Tech Street2:
+Tech Street3:
+Tech City:Ganado
+Tech State/Province:TX
+Tech Postal Code:77962
+Tech Country:US
+Tech Phone:+1.3617713334
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bill@ykc.com
+Name Server:NS3.MERCURY.NET
+Name Server:NS.YKC.COM
+Name Server:NS4.MERCURY.NET
+Name Server:NS2.MERCURY.NET
+Name Server:NS1.MERCURY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

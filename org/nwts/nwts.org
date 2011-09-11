@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120636732-LROR
+Domain Name:NWTS.ORG
+Created On:18-Apr-2006 19:05:07 UTC
+Last Updated On:15-Jul-2010 11:29:39 UTC
+Expiration Date:18-Apr-2014 19:05:07 UTC
+Sponsoring Registrar:Hostopia.com Inc. d/b/a Aplus.net (R14-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:8qmbmgd64sr1ntce
+Registrant Name:John Moran
+Registrant Organization:Puget Sound Blood Center
+Registrant Street1:921 Terry Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98104
+Registrant Country:US
+Registrant Phone:+1.2062924170
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:johnm@psbc.org
+Admin ID:acrdfns3shhlljln
+Admin Name:John Moran
+Admin Organization:Puget Sound Blood Center
+Admin Street1:921 Terry Ave
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98104
+Admin Country:US
+Admin Phone:+1.2062924170
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:johnm@psbc.org
+Tech ID:5re5pr4h232hhsns
+Tech Name:Steve Milton
+Tech Organization:Isomedia
+Tech Street1:2457 152nd Ave Ne
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:WA
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.4258695411
+Tech Phone Ext.:
+Tech FAX:+1.4258699437
+Tech FAX Ext.:
+Tech Email:hostmaster@isomedia.com
+Name Server:NS1.ISOMEDIA.COM
+Name Server:NS3.ISOMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
