@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TPNA.COM
+   Domain Name: TEAMGOA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.RIVERVALLEYIT.COM
+   Name Server: NS2.RIVERVALLEYIT.COM
    Status: clientTransferProhibited
-   Updated Date: 27-oct-2006
-   Creation Date: 19-nov-2001
-   Expiration Date: 19-nov-2013
+   Updated Date: 05-aug-2011
+   Creation Date: 22-jul-2003
+   Expiration Date: 22-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:12:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:12:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TPNA.COM
-&lt;a href=&quot;http://www.aboutus.org/TPNA.COM&quot;&gt;AboutUs: TPNA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about TEAMGOA.COM
+&lt;a href=&quot;http://www.aboutus.org/TEAMGOA.COM&quot;&gt;AboutUs: TEAMGOA.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Takeda Pharmaceuticals North America Inc.
-   One Takeda Parkway
-   Deerfield, IL 60015
+Georgia's Outdoor Adventures
+   P.O. Box 55
+   204 Mossland Drive
+   Perry, GA 31069
    US
 
-   Domain Name: TPNA.COM
+   Domain Name: TEAMGOA.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,28 +96,29 @@ Takeda Pharmaceuticals North America Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Robbins, Paul		DomainNameSupport@tpna.com
-      Takeda Pharmaceuticals NA, Inc
-      One Takeda Parkway
-      Deerfield, IL 60015
+      Todd, Terry		terrytodd@alltel.net
+      Georgia's Outdoor Adventures
+      P.O. Box 55
+      204 Mossland Drive
+      Perry, GA 31069
       US
-      224-554-7264 fax: 224-554-7866
+      478-987-1200
 
    Technical Contact:
-      Takeda Pharmaceuticals North America Inc.		DomainNameSupport@tpna.com
-      One Takeda Parkway
-      Deerfield, IL 60015
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
       US
-      224-554-7264
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 19-Nov-2013.
-   Record created on 19-Nov-2001.
-   Database last updated on 11-Sep-2011 03:08:15 EDT.
+   Record expires on 22-Jul-2012.
+   Record created on 22-Jul-2003.
+   Database last updated on 11-Sep-2011 03:08:39 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   NS2.RIVERVALLEYIT.COM
+   NS1.RIVERVALLEYIT.COM
 
 

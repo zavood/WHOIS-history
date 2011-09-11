@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TPNA.COM
+   Domain Name: THECELMERTEAM.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 27-oct-2006
-   Creation Date: 19-nov-2001
-   Expiration Date: 19-nov-2013
+   Updated Date: 12-mar-2010
+   Creation Date: 19-mar-2007
+   Expiration Date: 19-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:12:21 UTC &lt;&lt;&lt;
 
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TPNA.COM
-&lt;a href=&quot;http://www.aboutus.org/TPNA.COM&quot;&gt;AboutUs: TPNA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about THECELMERTEAM.COM
+&lt;a href=&quot;http://www.aboutus.org/THECELMERTEAM.COM&quot;&gt;AboutUs: THECELMERTEAM.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Takeda Pharmaceuticals North America Inc.
-   One Takeda Parkway
-   Deerfield, IL 60015
+FUTURE MANAGEMENT LTD.
+   10 Creston Lane Suite 2
+   SOLOMONS, MD 20688
    US
 
-   Domain Name: TPNA.COM
+   Domain Name: THECELMERTEAM.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -94,29 +94,21 @@ Takeda Pharmaceuticals North America Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Robbins, Paul		DomainNameSupport@tpna.com
-      Takeda Pharmaceuticals NA, Inc
-      One Takeda Parkway
-      Deerfield, IL 60015
+   Administrative Contact, Technical Contact:
+      FUTURE MANAGEMENT LTD.		pcelmer@hometowneteam.com
+      10 Creston Lane Suite 2
+      SOLOMONS, MD 20688
       US
-      224-554-7264 fax: 224-554-7866
-
-   Technical Contact:
-      Takeda Pharmaceuticals North America Inc.		DomainNameSupport@tpna.com
-      One Takeda Parkway
-      Deerfield, IL 60015
-      US
-      224-554-7264
+      410 326 4100 fax: 410 326 2398
 
 
-   Record expires on 19-Nov-2013.
-   Record created on 19-Nov-2001.
-   Database last updated on 11-Sep-2011 03:08:15 EDT.
+   Record expires on 19-Mar-2012.
+   Record created on 19-Mar-2007.
+   Database last updated on 11-Sep-2011 03:08:16 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   NS1.BLUEHOST.COM
+   NS2.BLUEHOST.COM
 
 
