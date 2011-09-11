@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-11T12:55:36+12:00
+domain_name: aucklandwebdesigncompany.co.nz
+query_status: 200 Active
+domain_dateregistered: 2010-11-11T10:44:52+13:00
+domain_datebilleduntil: 2011-11-11T10:44:52+13:00
+domain_datelastmodified: 2011-03-10T16:01:20+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: OPENHOST
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: North Shore City
+registrar_postalcode: 0751
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 2655
+registrar_email: domains@openhost.co.nz
+%
+registrant_contact_name: Essentee
+registrant_contact_address1: 9|108a Verran Road
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 0626
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 4839190
+registrant_contact_email: tony@essentee.co.nz
+%
+admin_contact_name: Essentee
+admin_contact_address1: 9|108a Verran Road
+admin_contact_city: Auckland
+admin_contact_postalcode: 0626
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 4839190
+admin_contact_email: tony@essentee.co.nz
+%
+technical_contact_name: Essentee
+technical_contact_address1: 9|108a Verran Road
+technical_contact_city: Auckland
+technical_contact_postalcode: 0626
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 4839190
+technical_contact_email: tony@essentee.co.nz
+%
+ns_name_01: ns1.openhost.net.nz
+ns_name_02: ns2.openhost.net.nz
+ns_name_03: ns3.openhost.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

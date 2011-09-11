@@ -5,24 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAM.NET
+   Domain Name: CRUISINGGUIDETOTHEFLORIDAKEYS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-1.AKAM.NET
-   Name Server: USC2.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: NS1.IHSCNET.NET
+   Name Server: NS2.IHSCNET.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 15-mar-1999
-   Expiration Date: 15-mar-2017
+   Updated Date: 04-apr-2011
+   Creation Date: 11-apr-2001
+   Expiration Date: 11-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:53:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:53:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,56 +54,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ Cruising Guide To The Florida Keys
+ 87425 Old Hwy #88
+ Islamorada, FL 33036
  US
 
- Domain name: AKAM.NET
+ Domain name: CRUISINGGUIDETOTHEFLORIDAKEYS.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Papy, Frank  fpapy@safari.net
+    87425 Old Hwy #88
+    Islamorada, FL 33036
     US
-    +1.6174443000    Fax: +1.6174443001
-
+    305-852-2326
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Daley, Patricia  pdaley@charternet.com
+    8392 Rambling River Drive
+    Sanford, FL 32771
     US
-    +1.6174443000    Fax: +1.6174443001
+    407-324-4091    Fax: 407-321-6942
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    Internet Host Services, pdaley@hostservices.net
+    407-324-4091
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 15-Mar-2017.
- Record created on 15-Mar-1999.
+ Record last updated on 04-Apr-2011.
+ Record expires on 11-Apr-2012.
+ Record created on 11-Apr-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1-1.AKAM.NET   193.108.91.1
-    USW4.AKAM.NET   64.211.42.196
-    USC2.AKAM.NET   64.215.164.170
-    EUR1.AKAM.NET   213.155.153.132
-    USW5.AKAM.NET   222.122.64.134
-    USE4.AKAM.NET   81.52.250.132
-    ASIA1.AKAM.NET   96.7.251.129
+    NS2.IHSCNET.NET
+    NS1.IHSCNET.NET
 
 
- Domain status: clientTransferProhibited
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
                 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
