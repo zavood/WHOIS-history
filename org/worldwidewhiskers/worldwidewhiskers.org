@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156946302-LROR
+Domain Name:WORLDWIDEWHISKERS.ORG
+Created On:24-Aug-2009 18:05:59 UTC
+Last Updated On:02-Jul-2011 17:25:36 UTC
+Expiration Date:24-Aug-2012 18:05:59 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR64030653
+Registrant Name:Asri Tadda
+Registrant Street1:Jl. Cendrawasih VII No. 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Makassar
+Registrant State/Province:South Sulawesi
+Registrant Postal Code:90122
+Registrant Country:ID
+Registrant Phone:+62.4115473178
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:astaseo@gmail.com
+Admin ID:CR64030657
+Admin Name:Asri Tadda
+Admin Street1:Jl. Cendrawasih VII No. 10
+Admin Street2:
+Admin Street3:
+Admin City:Makassar
+Admin State/Province:South Sulawesi
+Admin Postal Code:90122
+Admin Country:ID
+Admin Phone:+62.4115473178
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:astaseo@gmail.com
+Tech ID:CR64030655
+Tech Name:Asri Tadda
+Tech Street1:Jl. Cendrawasih VII No. 10
+Tech Street2:
+Tech Street3:
+Tech City:Makassar
+Tech State/Province:South Sulawesi
+Tech Postal Code:90122
+Tech Country:ID
+Tech Phone:+62.4115473178
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:astaseo@gmail.com
+Name Server:NS1.DOT5HOSTING.COM
+Name Server:NS2.DOT5HOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

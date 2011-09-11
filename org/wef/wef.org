@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2255939-LROR
+Domain Name:WEF.ORG
+Created On:28-Oct-1994 04:00:00 UTC
+Last Updated On:13-Sep-2010 14:29:24 UTC
+Expiration Date:27-Oct-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AEEC53170FDA6D3B
+Registrant Name:Domain Registrar
+Registrant Organization:Domain Registry Group Inc
+Registrant Street1:2316 Delaware Ave #266
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buffalo
+Registrant State/Province:NY
+Registrant Postal Code:14216-2687
+Registrant Country:US
+Registrant Phone:+1.8664340212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@droa.com
+Admin ID:38339347-NSI
+Admin Name:Carlos Portillo
+Admin Organization:Water Environment Federation
+Admin Street1:601 Wythe St
+Admin Street2:
+Admin Street3:
+Admin City:Alexandria
+Admin State/Province:VA
+Admin Postal Code:22134
+Admin Country:US
+Admin Phone:+1.703684240
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cportillo@wef.org
+Tech ID:FA9DEDA3A0C5CEDC
+Tech Name:Chris Funderburg
+Tech Organization:Water Environment Federation
+Tech Street1:601 Wythe St
+Tech Street2:
+Tech Street3:
+Tech City:Alexandria
+Tech State/Province:VA
+Tech Postal Code:22314
+Tech Country:US
+Tech Phone:+1.7036842400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cfunderburg@wef.org
+Name Server:DNS1.NETTICA.COM
+Name Server:DNS2.NETTICA.COM
+Name Server:DNS3.NETTICA.COM
+Name Server:DNS4.NETTICA.COM
+Name Server:DNS5.NETTICA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
