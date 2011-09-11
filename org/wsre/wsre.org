@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D15372533-LROR
+Domain Name:WSRE.ORG
+Created On:16-Dec-1999 08:38:19 UTC
+Last Updated On:07-Jul-2011 13:30:02 UTC
+Expiration Date:16-Dec-2013 08:38:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20249514-NSI
+Registrant Name:WSRE-TV Foundation
+Registrant Organization:WSRE-TV Foundation
+Registrant Street1:1000 College Boulevard
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pensacola
+Registrant State/Province:FL
+Registrant Postal Code:32504
+Registrant Country:US
+Registrant Phone:+1.8504841200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:robin_mcarthur@WSRE.PBS.ORG
+Admin ID:20249512-NSI
+Admin Name:WSRE-TV
+Admin Organization:WSRE-TV
+Admin Street1:1000 College Boulevard
+Admin Street2:
+Admin Street3:
+Admin City:Pensacola
+Admin State/Province:FL
+Admin Postal Code:32504
+Admin Country:US
+Admin Phone:+1.8504841200
+Admin Phone Ext.:
+Admin FAX:+1.8504841255
+Admin FAX Ext.:
+Admin Email:cskelton@wsre.org
+Tech ID:20249512-NSI
+Tech Name:WSRE-TV
+Tech Organization:WSRE-TV
+Tech Street1:1000 College Boulevard
+Tech Street2:
+Tech Street3:
+Tech City:Pensacola
+Tech State/Province:FL
+Tech Postal Code:32504
+Tech Country:US
+Tech Phone:+1.8504841200
+Tech Phone Ext.:
+Tech FAX:+1.8504841255
+Tech FAX Ext.:
+Tech Email:cskelton@wsre.org
+Name Server:NS1.FIRN.EDU
+Name Server:NS2.FIRN.EDU
+Name Server:NSA.PENSACOLASTATE.EDU
+Name Server:NSB.PENSACOLASTATE.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
