@@ -5,8 +5,14 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;DR-FP.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:00:58 UTC &lt;&lt;&lt;
+SIMPLEHOST.COM.BR
+SIMPLEHOST.COM
+
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
+
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:01:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
