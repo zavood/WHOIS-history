@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2630883-LROR
+Domain Name:AMERICAONWHEELS.ORG
+Created On:13-Nov-1998 05:00:00 UTC
+Last Updated On:06-Nov-2009 18:54:16 UTC
+Expiration Date:12-Nov-2014 05:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6c7d92ac5cf183ab
+Registrant Name:America  On Wheels
+Registrant Organization:America On Wheels
+Registrant Street1:Box 1400
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kitchener
+Registrant State/Province:PA
+Registrant Postal Code:18105
+Registrant Country:CA
+Registrant Phone:+1.6104324200
+Registrant Phone Ext.:
+Registrant FAX:+1.6104324200
+Registrant FAX Ext.:
+Registrant Email:director@americaonwheels.org
+Admin ID:6c7d92ac5cf183ab
+Admin Name:America  On Wheels
+Admin Organization:America On Wheels
+Admin Street1:Box 1400
+Admin Street2:
+Admin Street3:
+Admin City:Kitchener
+Admin State/Province:PA
+Admin Postal Code:18105
+Admin Country:CA
+Admin Phone:+1.6104324200
+Admin Phone Ext.:
+Admin FAX:+1.6104324200
+Admin FAX Ext.:
+Admin Email:director@americaonwheels.org
+Tech ID:3d88a0f1a8667dd1
+Tech Name:America  On Wheels
+Tech Organization:America On Wheels
+Tech Street1:P. O. Box 950
+Tech Street2:
+Tech Street3:
+Tech City:Allentown
+Tech State/Province:PA
+Tech Postal Code:18105
+Tech Country:US
+Tech Phone:+1.6104324200
+Tech Phone Ext.:
+Tech FAX:+1.6104324200
+Tech FAX Ext.:
+Tech Email:director@americaonwheels.org
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
