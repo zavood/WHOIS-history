@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GFSFILMS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.ISPRIME.COM
-   Name Server: NS2.ISPRIME.COM
+   Domain Name: 115.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.DNSV4.COM
+   Name Server: NS2.DNSV4.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 06-jul-2010
-   Expiration Date: 06-jul-2012
+   Updated Date: 21-jun-2011
+   Creation Date: 27-jan-1999
+   Expiration Date: 27-jan-2018
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:23:28 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain Name : 115.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Registrant Contact Information :
+&egrave;&micro;ñ&eacute;úñ&aelig;û&laquo;
+&aring;&sup1;&iquest;&auml;&cedil;ú&auml;&cedil;Ä&auml;&cedil;Ä&auml;&ordm;î&ccedil;&frac12;ë&ccedil;&raquo;ú&aelig;úâ&eacute;ôê&aring;Ö&not;&aring;è&cedil;
+domain@115.com
+&aelig;ù&frac34;&aring;&plusmn;&plusmn;&aelig;&sup1;ñ&eacute;&laquo;ò&aelig;ñ&deg;&aring;å&ordm;&aelig;ù&frac34;&ccedil;&sect;ë&egrave;ãë17&aring;è&middot;5&aelig;&yen;&frac14;, 523808
+tel: 86 076922888115
+fax: 86 076926888115
 
+Administrative Contact Information :
+&egrave;&micro;ñ&eacute;úñ&aelig;û&laquo;
+&aring;&sup1;&iquest;&auml;&cedil;ú&auml;&cedil;Ä&auml;&cedil;Ä&auml;&ordm;î&ccedil;&frac12;ë&ccedil;&raquo;ú&aelig;úâ&eacute;ôê&aring;Ö&not;&aring;è&cedil;
+domain@115.com
+&aelig;ù&frac34;&aring;&plusmn;&plusmn;&aelig;&sup1;ñ&eacute;&laquo;ò&aelig;ñ&deg;&aring;å&ordm;&aelig;ù&frac34;&ccedil;&sect;ë&egrave;ãë17&aring;è&middot;5&aelig;&yen;&frac14;, 523808
+tel: 86 076922888115
+fax: 86 076926888115
 
-Registrant:
-   Domains by Proxy, Inc.
+Technical Contact Information :
+&egrave;&micro;ñ&eacute;úñ&aelig;û&laquo;
+&aring;&sup1;&iquest;&auml;&cedil;ú&auml;&cedil;Ä&auml;&cedil;Ä&auml;&ordm;î&ccedil;&frac12;ë&ccedil;&raquo;ú&aelig;úâ&eacute;ôê&aring;Ö&not;&aring;è&cedil;
+domain@115.com
+&aelig;ù&frac34;&aring;&plusmn;&plusmn;&aelig;&sup1;ñ&eacute;&laquo;ò&aelig;ñ&deg;&aring;å&ordm;&aelig;ù&frac34;&ccedil;&sect;ë&egrave;ãë17&aring;è&middot;5&aelig;&yen;&frac14;, 523808
+tel: 86 076922888115
+fax: 86 076926888115
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GFSFILMS.COM
+Billing Contact Information :
+&egrave;&micro;ñ&eacute;úñ&aelig;û&laquo;
+&aring;&sup1;&iquest;&auml;&cedil;ú&auml;&cedil;Ä&auml;&cedil;Ä&auml;&ordm;î&ccedil;&frac12;ë&ccedil;&raquo;ú&aelig;úâ&eacute;ôê&aring;Ö&not;&aring;è&cedil;
+domain@115.com
+&aelig;ù&frac34;&aring;&plusmn;&plusmn;&aelig;&sup1;ñ&eacute;&laquo;ò&aelig;ñ&deg;&aring;å&ordm;&aelig;ù&frac34;&ccedil;&sect;ë&egrave;ãë17&aring;è&middot;5&aelig;&yen;&frac14;, 523808
+tel: 86 076922888115
+fax: 86 076926888115
 
-   Domain servers in listed order:
-      NS2.ISPRIME.COM
-      NS.ISPRIME.COM
+Status :
+clientDeleteProhibited
+clientTransferProhibited
 
+Domain Name Server :
+ns1.dnsv4.com
+ns2.dnsv4.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GFSFILMS.COM
+Registration Date :1999-1-27
+Expiration Date : 2018-1-27
+
+For more information, please go to http://whois.ename.com.
+
