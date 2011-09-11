@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOODGUILTINESS.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.DNSFORME.ORG
-   Name Server: NS2.DNSFORME.ORG
+   Domain Name: APTSCOLOMBIA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.OFFICELIVE.COM
+   Name Server: NS2.OFFICELIVE.COM
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 24-apr-2011
-   Expiration Date: 24-apr-2012
+   Updated Date: 14-apr-2011
+   Creation Date: 15-apr-2009
+   Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 01:37:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 01:38:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-BLOODGUILTINESS.COM
-24-Apr-2012
-24-Apr-2011
-    ns1.dnsforme.org
-    ns2.dnsforme.org
 
-    N/A
-    Anna Morozova        (mcconochiesara@yahoo.com)
-    Leninsky str, 215/32
-    Msk
-    Moskovskaya oblast,115932
-    RU
-    Tel. +994.8439322
-    N/A
-    Anna Morozova        (mcconochiesara@yahoo.com)
-    Leninsky str, 215/32
-    Msk
-    Moskovskaya oblast,115932
-    RU
-    Tel. +994.8439322
-    N/A
-    Anna Morozova        (mcconochiesara@yahoo.com)
-    Leninsky str, 215/32
-    Msk
-    Moskovskaya oblast,115932
-    RU
-    Tel. +994.8439322
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain Name.......... aptscolombia.com
+  Creation Date........ 2009-04-16
+  Registration Date.... 2009-04-16
+  Expiry Date.......... 2012-04-16
+  Organisation Name.... Ben Subedar
+  Organisation Address. PO Box 61359
+  Organisation Address.
+  Organisation Address. Sunnyvale
+  Organisation Address. 94088
+  Organisation Address. CA
+  Organisation Address. US
+
+Admin Name........... Admin PrivateRegContact
+  Admin Address........ PO Box 61359
+  Admin Address........ registered post accepted only
+  Admin Address........ Sunnyvale
+  Admin Address........ 94088
+  Admin Address........ CA
+  Admin Address........ US
+  Admin Email.......... contact@myprivateregistration.com
+  Admin Phone.......... +1.5105952002
+  Admin Fax............
+
+Tech Name............ TECH PrivateRegContact
+  Tech Address......... PO Box 61359
+  Tech Address......... registered post accepted only
+  Tech Address......... Sunnyvale
+  Tech Address......... 94088
+  Tech Address......... CA
+  Tech Address......... US
+  Tech Email........... contact@myprivateregistration.com
+  Tech Phone........... +1.5105952002
+  Tech Fax.............
+  Name Server.......... ns1.officelive.com
+  Name Server.......... ns2.officelive.com
+
 
