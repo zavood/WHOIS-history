@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107041080-LROR
+Domain Name:VIDEOIMAGEN.ORG
+Created On:29-Jul-2005 11:50:57 UTC
+Last Updated On:21-Jul-2011 11:28:03 UTC
+Expiration Date:29-Jul-2012 11:50:57 UTC
+Sponsoring Registrar:Dinahosting S.L. (R1469-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DHC-1557944348
+Registrant Name:Angel Arispn Gil
+Registrant Organization:NA
+Registrant Street1:c/Ardilla 9,2A 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sevilla
+Registrant State/Province:Sevilla
+Registrant Postal Code:41010
+Registrant Country:ES
+Registrant Phone:+34.661862621
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:arispyande@hotmail.com
+Admin ID:DHC-1212859527
+Admin Name:Angel  Arispn Gil
+Admin Organization:DINAHOSTING
+Admin Street1:C/ Ardilla 9, 2A 8
+Admin Street2:
+Admin Street3:
+Admin City:Sevilla
+Admin State/Province:Sevilla
+Admin Postal Code:41010
+Admin Country:ES
+Admin Phone:+34.661862621
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:arispyande@hotmail.com
+Tech ID:DHC-517990832
+Tech Name:Ruben Bouso
+Tech Organization:DINAHOSTING
+Tech Street1:Salvadas, 41
+Tech Street2:
+Tech Street3:
+Tech City:Santiago
+Tech State/Province:N/A
+Tech Postal Code:15705
+Tech Country:ES
+Tech Phone:+34.902090016
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rbouso@gestiondecuenta.com
+Name Server:NS1.NUTHOST.COM
+Name Server:NS2.NUTHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
