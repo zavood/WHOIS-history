@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: VANGUARDENGINES.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.STARKMEDIA.COM
+   Name Server: NS2.STARKMEDIA.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 07-mar-2011
+   Creation Date: 20-apr-2000
+   Expiration Date: 20-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:12:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... vanguardengines.com
+  Creation Date........ 2000-04-21
+  Registration Date.... 2010-02-25
+  Expiry Date.......... 2012-04-21
+  Organisation Name.... BRIGGS &amp; STRATTON CORPORATION
+  Organisation Address. 12301 W. Wirth St.
+  Organisation Address.
+  Organisation Address. WAUWATOSA
+  Organisation Address. 53222
+  Organisation Address. WI
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ 12301 W. Wirth St
+  Admin Address........
+  Admin Address........ WAUWATOSA
+  Admin Address........ 53222
+  Admin Address........ WI
+  Admin Address........ UNITED STATES
+  Admin Email.......... domainadmin@basco.com
+  Admin Phone.......... +1.4142595333
+  Admin Fax............
+
+Tech Name............ Eric Priepke
+  Tech Address......... 219 N. Milwaukee St
+  Tech Address.........
+  Tech Address......... Milwaukee
+  Tech Address......... 53202
+  Tech Address......... WI
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@starkmedia.com
+  Tech Phone........... +1.4142262710
+  Tech Fax.............
+  Name Server.......... NS1.STARKMEDIA.COM
+  Name Server.......... NS2.STARKMEDIA.COM
 
 
-Registrant:
-   Limelight Networks Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
-
-   Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET
