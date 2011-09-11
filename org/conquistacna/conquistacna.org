@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156880677-LROR
+Domain Name:CONQUISTACNA.ORG
+Created On:14-Aug-2009 22:27:48 UTC
+Last Updated On:15-Aug-2011 10:50:38 UTC
+Expiration Date:14-Aug-2012 22:27:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR12494292
+Registrant Name:jorge luis duenas
+Registrant Organization:OGD TUR TACNA
+Registrant Street1:deustua 368
+Registrant Street2:
+Registrant Street3:
+Registrant City:tacna
+Registrant State/Province:tacna
+Registrant Postal Code:tacna01
+Registrant Country:PE
+Registrant Phone:+52.245234
+Registrant Phone Ext.:
+Registrant FAX:+245.235
+Registrant FAX Ext.:
+Registrant Email:cocotopia@gmail.com
+Admin ID:CR12494297
+Admin Name:jorge luis duenas
+Admin Organization:OGD TUR TACNA
+Admin Street1:deustua 368
+Admin Street2:
+Admin Street3:
+Admin City:tacna
+Admin State/Province:tacna
+Admin Postal Code:tacna01
+Admin Country:PE
+Admin Phone:+52.245234
+Admin Phone Ext.:
+Admin FAX:+245.235
+Admin FAX Ext.:
+Admin Email:cocotopia@gmail.com
+Tech ID:CR12494294
+Tech Name:jorge luis duenas
+Tech Organization:OGD TUR TACNA
+Tech Street1:deustua 368
+Tech Street2:
+Tech Street3:
+Tech City:tacna
+Tech State/Province:tacna
+Tech Postal Code:tacna01
+Tech Country:PE
+Tech Phone:+52.245234
+Tech Phone Ext.:
+Tech FAX:+245.235
+Tech FAX Ext.:
+Tech Email:cocotopia@gmail.com
+Name Server:NS33.DOMAINCONTROL.COM
+Name Server:NS34.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
