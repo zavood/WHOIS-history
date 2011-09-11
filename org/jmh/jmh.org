@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D599126-LROR
+Domain Name:JMH.ORG
+Created On:05-Apr-1996 05:00:00 UTC
+Last Updated On:15-Apr-2011 13:38:25 UTC
+Expiration Date:06-Apr-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23050820-NSI
+Registrant Name:Johnston Memorial Hospital
+Registrant Organization:Johnston Memorial Hospital
+Registrant Street1:351 Court Street, NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Abingdon
+Registrant State/Province:VA
+Registrant Postal Code:24210
+Registrant Country:US
+Registrant Phone:+1.2766767000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:JSparger@jmha.org
+Admin ID:25040230-NSI
+Admin Name:Jill Sunderlin
+Admin Organization:Lightfalls Design
+Admin Street1:22011 PARKS MILL RD
+Admin Street2:
+Admin Street3:
+Admin City:ABINGDON
+Admin State/Province:VA
+Admin Postal Code:24211-5025
+Admin Country:US
+Admin Phone:+1.2766763440
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:anna@kitenet.net
+Tech ID:17614600-NSI
+Tech Name:Custom Internet Designs
+Tech Organization:Custom Internet Designs
+Tech Street1:14488 Old Stage Road
+Tech Street2:
+Tech Street3:
+Tech City:Lenoir City
+Tech State/Province:TN
+Tech Postal Code:37772
+Tech Country:US
+Tech Phone:+1.8654832383
+Tech Phone Ext.:
+Tech FAX:+1.8654832383
+Tech FAX Ext.:
+Tech Email:hostmaster@custominternet.com
+Name Server:DNS2.CUSTOMINTERNET.COM
+Name Server:DNS.CUSTOMINTERNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
