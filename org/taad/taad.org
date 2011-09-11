@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D616930-LROR
+Domain Name:TAAD.ORG
+Created On:09-Nov-1997 05:00:00 UTC
+Last Updated On:19-Nov-2010 18:31:11 UTC
+Expiration Date:08-Nov-2019 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27306361-NSIV
+Registrant Name:Texas Association of Appraisal Districts
+Registrant Organization:Texas Association of Appraisal Districts
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fh4tw6tw23v@networksolutionsprivateregistration.com
+Admin ID:27306363-NSIV
+Admin Name:Dianne Taylor
+Admin Organization:Texas Association of Appraisal Districts
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nj6fb2dm2sn@networksolutionsprivateregistration.com
+Tech ID:5359169-NSIV
+Tech Name:Domain Administrator
+Tech Organization:pair Networks
+Tech Street1:ATTN insert domain name here
+Tech Street2:care of Network Solutions
+Tech Street3:
+Tech City:Drums
+Tech State/Province:PA
+Tech Postal Code:18222
+Tech Country:US
+Tech Phone:+1.5707088780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hu8qc8cf63f@networksolutionsprivateregistration.com
+Name Server:NS0.NS0.COM
+Name Server:NS32.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
