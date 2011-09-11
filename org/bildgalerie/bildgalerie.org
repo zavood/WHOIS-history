@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105867671-LROR
+Domain Name:BILDGALERIE.ORG
+Created On:11-Mar-2005 12:42:24 UTC
+Last Updated On:12-Mar-2011 01:25:33 UTC
+Expiration Date:11-Mar-2012 12:42:24 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Registrant ID:ABM-9116156
+Registrant Name:unknown unknown
+Registrant Organization:Netzmarkt Internetservice Gmbh &amp; Co. KG
+Registrant Street1:Henkestr. 77
+Registrant Street2:
+Registrant Street3:
+Registrant City:Erlangen
+Registrant State/Province:DE
+Registrant Postal Code:91052
+Registrant Country:DE
+Registrant Phone:+49.9131974760
+Registrant Phone Ext.:
+Registrant FAX:+49.91319747666
+Registrant FAX Ext.:
+Registrant Email:hostmaster@netzmarkt.de
+Admin ID:ABM-9116154
+Admin Name:Heiko Zeutschner
+Admin Organization:Netzmarkt Internetservice GmbH &amp; Co. KG
+Admin Street1:Henkestr. 77
+Admin Street2:
+Admin Street3:
+Admin City:Erlangen
+Admin State/Province:DE
+Admin Postal Code:91052
+Admin Country:DE
+Admin Phone:+49.9131974760
+Admin Phone Ext.:
+Admin FAX:+49.91319747666
+Admin FAX Ext.:
+Admin Email:hze@netzmarkt.de
+Tech ID:ABM-9116155
+Tech Name:Netzmarkt Hostmaster
+Tech Organization:Netzmarkt Internetservice GmbH &amp; Co. KG
+Tech Street1:Henkestr. 77
+Tech Street2:
+Tech Street3:
+Tech City:Erlangen
+Tech State/Province:DE
+Tech Postal Code:91052
+Tech Country:DE
+Tech Phone:+49.9131974760
+Tech Phone Ext.:
+Tech FAX:+49.91319747666
+Tech FAX Ext.:
+Tech Email:hostmaster@netzmarkt.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
