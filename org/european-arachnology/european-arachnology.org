@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92077499-LROR
+Domain Name:EUROPEAN-ARACHNOLOGY.ORG
+Created On:10-Nov-2002 21:45:21 UTC
+Last Updated On:07-Jun-2005 13:37:22 UTC
+Expiration Date:10-Nov-2012 21:45:21 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-958126-4
+Registrant Name:Soeren Toft
+Registrant Organization:Biologisk Institut
+Registrant Street1:Ole Worms Alle, Bygn. 135
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aarhus C
+Registrant State/Province:DK
+Registrant Postal Code:8000
+Registrant Country:DK
+Registrant Phone:+4.89423188
+Registrant Phone Ext.:
+Registrant FAX:+4.89423188
+Registrant FAX Ext.:
+Registrant Email:staff@daimi.au.dk
+Admin ID:ONLC-958126-1
+Admin Name:Soeren Toft
+Admin Organization:Biologisk Institut
+Admin Street1:Ole Worms Alle, Bygn. 135
+Admin Street2:
+Admin Street3:
+Admin City:Aarhus C
+Admin State/Province:DK
+Admin Postal Code:8000
+Admin Country:DK
+Admin Phone:+4.89423188
+Admin Phone Ext.:
+Admin FAX:+4.89423188
+Admin FAX Ext.:
+Admin Email:staff@daimi.au.dk
+Tech ID:ONLC-958126-2
+Tech Name:Soeren Toft
+Tech Organization:Biologisk Institut
+Tech Street1:Ole Worms Alle, Bygn. 135
+Tech Street2:
+Tech Street3:
+Tech City:Aarhus C
+Tech State/Province:DK
+Tech Postal Code:8000
+Tech Country:DK
+Tech Phone:+4.89423188
+Tech Phone Ext.:
+Tech FAX:+4.89423188
+Tech FAX Ext.:
+Tech Email:staff@daimi.au.dk
+Name Server:AU.DK
+Name Server:URANUS.DAIMI.AU.DK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
