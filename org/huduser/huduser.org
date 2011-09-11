@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1403562-LROR
+Domain Name:HUDUSER.ORG
+Created On:16-Feb-1996 05:00:00 UTC
+Last Updated On:01-Feb-2011 18:18:30 UTC
+Expiration Date:17-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17219272-NSI
+Registrant Name:SWATI BANSAL
+Registrant Organization:Sage Computing Inc
+Registrant Street1:11491 Sunset Hills Rd
+Registrant Street2:Suite 350
+Registrant Street3:
+Registrant City:Reston
+Registrant State/Province:VA
+Registrant Postal Code:20190
+Registrant Country:US
+Registrant Phone:+1.7037427881
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sbansal@sagecomputing.com
+Admin ID:17219272-NSI
+Admin Name:SWATI BANSAL
+Admin Organization:Sage Computing Inc
+Admin Street1:11491 Sunset Hills Rd
+Admin Street2:Suite 350
+Admin Street3:
+Admin City:Reston
+Admin State/Province:VA
+Admin Postal Code:20190
+Admin Country:US
+Admin Phone:+1.7037427881
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sbansal@sagecomputing.com
+Tech ID:17554992-NSI
+Tech Name:Scott McIntosh
+Tech Organization:ICF Consulting
+Tech Street1:9300 Lee Highway
+Tech Street2:
+Tech Street3:
+Tech City:Fairfax
+Tech State/Province:VA
+Tech Postal Code:22031
+Tech Country:US
+Tech Phone:+1.7039343188
+Tech Phone Ext.:
+Tech FAX:+1.7039343974
+Tech FAX Ext.:
+Tech Email:smcintosh@icfi.com
+Name Server:ANY1.DNSHOSTING.COM
+Name Server:ANY2.DNSHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
