@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6929519-LROR
+Domain Name:WMOL.ORG
+Created On:31-May-1999 20:21:24 UTC
+Last Updated On:13-Jul-2011 19:15:27 UTC
+Expiration Date:31-May-2013 20:22:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJ7xHnpzvfQBkH6
+Registrant Name:Domain Manager
+Registrant Organization:West Michigan Online, Inc.
+Registrant Street1:348 S. Waverly Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Holland
+Registrant State/Province:Mi
+Registrant Postal Code:49423
+Registrant Country:US
+Registrant Phone:+1.6163923698
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@wmol.com
+Admin ID:tuJ7xHnpzvfQBkH6
+Admin Name:Domain Manager
+Admin Organization:West Michigan Online, Inc.
+Admin Street1:348 S. Waverly Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Holland
+Admin State/Province:Mi
+Admin Postal Code:49423
+Admin Country:US
+Admin Phone:+1.6163923698
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@wmol.com
+Tech ID:tunE1JZr8H0CIuhG
+Tech Name:Domain Manager
+Tech Organization:West Michigan Online, Inc.
+Tech Street1:348 S. Waverly Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Holland
+Tech State/Province:Michigan
+Tech Postal Code:49423
+Tech Country:US
+Tech Phone:+1.6163923698
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@wmol.com
+Name Server:NS2.DISTANCE.NET
+Name Server:NS3.DISTANCE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
