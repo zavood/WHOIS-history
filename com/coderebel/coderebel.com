@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BKD.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 21-mar-2011
-   Creation Date: 20-mar-1996
-   Expiration Date: 21-mar-2021
+   Domain Name: CODEREBEL.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.CODEREBEL.COM
+   Name Server: NS2.CODEREBEL.COM
+   Name Server: NS3.CODEREBEL.COM
+   Status: ok
+   Updated Date: 21-dec-2009
+   Creation Date: 30-dec-2005
+   Expiration Date: 30-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:37:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:36:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Whois Output for: coderebel.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name Owner:
+  Code Rebel LLC
+  89 Ho'okele St.Suite 201
+  Kahului, HI 96732
+  US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+  Contact, Administrative
+  Code Rebel LLC
+  89 Ho'okele St.Suite 201
+  Kahului, HI 96732, US
+  Phone: +1.8088932400
+  Fax:   +1.8088932401
+  Email: mail@coderebel.com
 
-Whois Query: bkd.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 11:28:53 EDT 2011
-Reason Code: IE
+Technical Contact:
+  Contact, Administrative
+  Code Rebel LLC
+  89 Ho'okele St.Suite 201
+  Kahului, HI 96732, US
+  Phone: +1.8088932400
+  Fax:   +1.8088932401
+  Email: mail@coderebel.com
+
+Billing Contact:
+  Contact, Administrative
+  Code Rebel LLC
+  89 Ho'okele St.Suite 201
+  Kahului, HI 96732, US
+  Phone: +1.8088932400
+  Fax:   +1.8088932401
+  Email: mail@coderebel.com
+
+Record Information:
+  Domain Record Created: December 30, 2005
+  Domain Record Updated: May 02, 2011
+  Domain Record Expires: December 30, 2011
+
+DNS Information:
+  Name Server: ns1.coderebel.com
+  Name Server: ns2.coderebel.com
+  Name Server: ns3.coderebel.com
+

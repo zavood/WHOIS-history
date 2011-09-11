@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D29506491-LROR
+Domain Name:WESTBASIN.ORG
+Created On:19-Jun-2000 15:22:49 UTC
+Last Updated On:19-Feb-2011 04:36:09 UTC
+Expiration Date:19-Jun-2014 15:22:49 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:61651820a691b328
+Registrant Name:Monique McCarroll
+Registrant Organization:central basin mwd
+Registrant Street1:17140 South Avalon Blvd.
+Registrant Street2:Suite 210
+Registrant Street3:
+Registrant City:Carson
+Registrant State/Province:CA
+Registrant Postal Code:90746
+Registrant Country:US
+Registrant Phone:+1.3102172411
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:margaretm@westbasin.org
+Admin ID:76636872353e0526
+Admin Name:Margaret Moggia
+Admin Organization:West Basin Municipal Water District
+Admin Street1:17140 South Avalon Blvd.
+Admin Street2:Suite 210
+Admin Street3:
+Admin City:Carson
+Admin State/Province:CA
+Admin Postal Code:90746
+Admin Country:US
+Admin Phone:+1.3102172411
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:margaretm@westbasin.org
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS113.A.REGISTER.COM
+Name Server:DNS218.B.REGISTER.COM
+Name Server:DNS036.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
