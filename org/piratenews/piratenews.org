@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104738905-LROR
+Domain Name:PIRATENEWS.ORG
+Created On:09-Aug-2004 20:32:15 UTC
+Last Updated On:01-Aug-2011 12:19:05 UTC
+Expiration Date:09-Aug-2012 20:32:15 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_627702
+Registrant Name:John Lee
+Registrant Organization:Pirate News
+Registrant Street1:8604 Spangler Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Knoxville
+Registrant State/Province:TN
+Registrant Postal Code:37920
+Registrant Country:US
+Registrant Phone:+011.8655773746
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:piratenews@infowars.net
+Admin ID:DI_627702
+Admin Name:John Lee
+Admin Organization:Pirate News
+Admin Street1:8604 Spangler Road
+Admin Street2:
+Admin Street3:
+Admin City:Knoxville
+Admin State/Province:TN
+Admin Postal Code:37920
+Admin Country:US
+Admin Phone:+011.8655773746
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:piratenews@infowars.net
+Tech ID:DI_627702
+Tech Name:John Lee
+Tech Organization:Pirate News
+Tech Street1:8604 Spangler Road
+Tech Street2:
+Tech Street3:
+Tech City:Knoxville
+Tech State/Province:TN
+Tech Postal Code:37920
+Tech Country:US
+Tech Phone:+011.8655773746
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:piratenews@infowars.net
+Name Server:DNS1.SUPREMECENTER38.COM
+Name Server:DNS2.SUPREMECENTER38.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
