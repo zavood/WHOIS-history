@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XZNDFY.COM
+   Domain Name: Y16Y.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DOMAIN3.EXPIREDNS.COM
-   Name Server: DOMAIN4.EXPIREDNS.COM
+   Name Server: DNS23.HICHINA.COM
+   Name Server: DNS24.HICHINA.COM
    Status: ok
-   Updated Date: 04-sep-2011
-   Creation Date: 03-sep-2010
-   Expiration Date: 03-sep-2012
+   Updated Date: 19-apr-2011
+   Creation Date: 02-nov-2010
+   Expiration Date: 02-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:19:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:20:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... xzndfy.com
-Name Server ..................... domain3.expiredns.com
-                                  domain4.expiredns.com
-Registrant ID ................... hc350489522-cn
-Registrant Name ................. Xiong hui
-Registrant Organization ......... Xiong hui
-Registrant Address .............. Southwest University of Political Science and Law
-Registrant City ................. Chongqing
-Registrant Province/State ....... Chongqing
-Registrant Postal Code .......... 401120
+Domain Name ..................... y16y.com
+Name Server ..................... dns23.hichina.com
+                                  dns24.hichina.com
+Registrant ID ................... hc890524465-cn
+Registrant Name ................. zhengqi zhang
+Registrant Organization ......... zhangahengqi
+Registrant Address .............. jiangxishenyichunshiyuanzhouquzhenghujiguanshiwuqu
+Registrant City ................. yichunshi
+Registrant Province/State ....... jiangxi
+Registrant Postal Code .......... 336000
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.13368027088 - 0
-Registrant Fax .................. +86.2365382202 - 0
-Registrant Email ................ zhuxiaoping1980@126.com
-Administrative ID ............... hc350489522-cn
-Administrative Name ............. Xiong hui
-Administrative Organization ..... Xiong hui
-Administrative Address .......... Southwest University of Political Science and Law
-Administrative City ............. Chongqing
-Administrative Province/State ... Chongqing
-Administrative Postal Code ...... 401120
+Registrant Phone Number ......... +86.07958957386 -
+Registrant Fax .................. +86.07958957386 -
+Registrant Email ................ zhangqi_yc@163.com
+Administrative ID ............... hc890524465-cn
+Administrative Name ............. zhengqi zhang
+Administrative Organization ..... zhangahengqi
+Administrative Address .......... jiangxishenyichunshiyuanzhouquzhenghujiguanshiwuqu
+Administrative City ............. yichunshi
+Administrative Province/State ... jiangxi
+Administrative Postal Code ...... 336000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.13368027088 - 0
-Administrative Fax .............. +86.2365382202 - 0
-Administrative Email ............ zhuxiaoping1980@126.com
-Billing ID ...................... hc350489522-cn
-Billing Name .................... Xiong hui
-Billing Organization ............ Xiong hui
-Billing Address ................. Southwest University of Political Science and Law
-Billing City .................... Chongqing
-Billing Province/State .......... Chongqing
-Billing Postal Code ............. 401120
+Administrative Phone Number ..... +86.07958957386 -
+Administrative Fax .............. +86.07958957386 -
+Administrative Email ............ zhangqi_yc@163.com
+Billing ID ...................... hc890524465-cn
+Billing Name .................... zhengqi zhang
+Billing Organization ............ zhangahengqi
+Billing Address ................. jiangxishenyichunshiyuanzhouquzhenghujiguanshiwuqu
+Billing City .................... yichunshi
+Billing Province/State .......... jiangxi
+Billing Postal Code ............. 336000
 Billing Country Code ............ CN
-Billing Phone Number ............ +86.13368027088 - 0
-Billing Fax ..................... +86.2365382202 - 0
-Billing Email ................... zhuxiaoping1980@126.com
-Technical ID .................... hc350489522-cn
-Technical Name .................. Xiong hui
-Technical Organization .......... Xiong hui
-Technical Address ............... Southwest University of Political Science and Law
-Technical City .................. Chongqing
-Technical Province/State ........ Chongqing
-Technical Postal Code ........... 401120
+Billing Phone Number ............ +86.07958957386 -
+Billing Fax ..................... +86.07958957386 -
+Billing Email ................... zhangqi_yc@163.com
+Technical ID .................... hc890524465-cn
+Technical Name .................. zhengqi zhang
+Technical Organization .......... zhangahengqi
+Technical Address ............... jiangxishenyichunshiyuanzhouquzhenghujiguanshiwuqu
+Technical City .................. yichunshi
+Technical Province/State ........ jiangxi
+Technical Postal Code ........... 336000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.13368027088 - 0
-Technical Fax ................... +86.2365382202 - 0
-Technical Email ................. zhuxiaoping1980@126.com
-Expiration Date ................. 2011-09-03 10:21:14
+Technical Phone Number .......... +86.07958957386 -
+Technical Fax ................... +86.07958957386 -
+Technical Email ................. zhangqi_yc@163.com
+Expiration Date ................. 2011-11-03 02:41:49
