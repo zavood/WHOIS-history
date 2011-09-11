@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCANTRONSSG.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: DNFABC.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-sep-2009
-   Creation Date: 26-dec-2000
-   Expiration Date: 26-dec-2011
+   Updated Date: 14-mar-2011
+   Creation Date: 25-mar-2009
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:18:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:19:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain Name : dnfabc.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Registrant Contact Information :
+&aring;&frac14;&nbsp;&aring;&deg;è&eacute;îã
+zhangxiaofeng
+xiongmaoboy@gmail.com
+&auml;&cedil;&shy;&aring;Ö&sup3;&aelig;ùë22&aring;è&middot;, 123400
+tel: 86 0592266975
+fax: 86 0592266975
 
+Administrative Contact Information :
+&aring;&frac14;&nbsp;&aring;&deg;è&eacute;îã
+zhangxiaofeng
+xiongmaoboy@gmail.com
+&auml;&cedil;&shy;&aring;Ö&sup3;&aelig;ùë22&aring;è&middot;, 123400
+tel: 86 0592266975
+fax: 86 0592266975
 
-Registrant:
-   SCANTRON SERVICE GROUP
+Technical Contact Information :
+&aring;&frac14;&nbsp;&aring;&deg;è&eacute;îã
+zhangxiaofeng
+xiongmaoboy@gmail.com
+&auml;&cedil;&shy;&aring;Ö&sup3;&aelig;ùë22&aring;è&middot;, 123400
+tel: 86 0592266975
+fax: 86 0592266975
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SCANTRONSSG.COM
+Billing Contact Information :
+&aring;&frac14;&nbsp;&aring;&deg;è&eacute;îã
+zhangxiaofeng
+xiongmaoboy@gmail.com
+&auml;&cedil;&shy;&aring;Ö&sup3;&aelig;ùë22&aring;è&middot;, 123400
+tel: 86 0592266975
+fax: 86 0592266975
 
-   Domain servers in listed order:
-      DMTU.MT.NS.ELS-GMS.ATT.NET
-      DBRU.BR.NS.ELS-GMS.ATT.NET
+Status :
+clientDeleteProhibited
+clientTransferProhibited
 
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SCANTRONSSG.COM
+Registration Date :2009-3-25
+Expiration Date : 2012-3-25
+
+For more information, please go to http://whois.ename.com.
+
