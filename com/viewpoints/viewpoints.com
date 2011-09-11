@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-DOMAINCONTROL.COM.STORMERLOANS.COM
-DOMAINCONTROL.COM.RAS-GROUP.COM
-DOMAINCONTROL.COM.NEWGOGETIT.COM
-DOMAINCONTROL.COM.HNDAWY.COM
-DOMAINCONTROL.COM
-DOMAINCONTROL.COM
+   Domain Name: VIEWPOINTS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.P16.DYNECT.NET
+   Name Server: NS2.P16.DYNECT.NET
+   Name Server: NS3.P16.DYNECT.NET
+   Name Server: NS4.P16.DYNECT.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-aug-2011
+   Creation Date: 14-dec-2000
+   Expiration Date: 14-dec-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:49:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:51:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +56,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
+
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Viewpoints Network, LLC
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: VIEWPOINTS.COM
+
+   Domain servers in listed order:
+      NS1.P16.DYNECT.NET
+      NS2.P16.DYNECT.NET
+      NS3.P16.DYNECT.NET
+      NS4.P16.DYNECT.NET
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=VIEWPOINTS.COM

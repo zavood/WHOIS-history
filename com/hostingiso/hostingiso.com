@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-DOMAINCONTROL.COM.STORMERLOANS.COM
-DOMAINCONTROL.COM.RAS-GROUP.COM
-DOMAINCONTROL.COM.NEWGOGETIT.COM
-DOMAINCONTROL.COM.HNDAWY.COM
-DOMAINCONTROL.COM
-DOMAINCONTROL.COM
+   Domain Name: HOSTINGISO.COM
+   Registrar: SOFTLAYER TECHNOLOGIES, INC
+   Whois Server: whois.theplanet.com
+   Referral URL: http://www.softlayer.com
+   Name Server: NS3.HOSTINGISO.COM
+   Name Server: NS4.HOSTINGISO.COM
+   Name Server: NS5.HOSTINGISO.COM
+   Name Server: NS6.HOSTINGISO.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 01-sep-2011
+   Creation Date: 01-feb-2008
+   Expiration Date: 01-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:49:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:51:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-DOMAINCONTROL.COM.STORMERLOANS.COM
-DOMAINCONTROL.COM.RAS-GROUP.COM
-DOMAINCONTROL.COM.NEWGOGETIT.COM
-DOMAINCONTROL.COM.HNDAWY.COM
-DOMAINCONTROL.COM
-DOMAINCONTROL.COM
+   Domain Name: NCBANGELHARPS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS1.SPICEISLE.COM
+   Name Server: DNS2.SPICEISLE.COM
+   Status: clientTransferProhibited
+   Updated Date: 25-nov-2008
+   Creation Date: 13-jan-2000
+   Expiration Date: 13-jan-2014
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:49:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:50:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: ncbangelharps.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 09:41:17 EDT 2011
+Reason Code: IE
