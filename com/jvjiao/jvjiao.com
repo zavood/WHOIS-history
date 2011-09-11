@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: K-BRANDSHOP.COM
+   Domain Name: JVJIAO.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS19.HICHINA.COM
-   Name Server: DNS20.HICHINA.COM
+   Name Server: DNS23.HICHINA.COM
+   Name Server: DNS24.HICHINA.COM
    Status: ok
-   Updated Date: 21-jul-2011
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 16-apr-2011
+   Creation Date: 21-sep-2010
+   Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:03:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:02:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... k-brandshop.com
-Name Server ..................... dns19.hichina.com
-                                  dns20.hichina.com
-Registrant ID ................... hc283517610-cn
-Registrant Name ................. li hejin
-Registrant Organization ......... li he jin
-Registrant Address .............. baiyun
-Registrant City ................. guangzhou
-Registrant Province/State ....... Guangdong
-Registrant Postal Code .......... 510000
+Domain Name ..................... jvjiao.com
+Name Server ..................... dns23.hichina.com
+                                  dns24.hichina.com
+Registrant ID ................... hc084485991-cn
+Registrant Name ................. chuanming zhao
+Registrant Organization ......... zhao chuangming
+Registrant Address .............. jingsanlu 68#
+Registrant City ................. zhenzhou
+Registrant Province/State ....... henan
+Registrant Postal Code .......... 450000
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.13378690543 - 0
-Registrant Fax .................. +86.13378690543 - 0
-Registrant Email ................ 790294290@qq.com
-Administrative ID ............... hc283517610-cn
-Administrative Name ............. li hejin
-Administrative Organization ..... li he jin
-Administrative Address .......... baiyun
-Administrative City ............. guangzhou
-Administrative Province/State ... Guangdong
-Administrative Postal Code ...... 510000
+Registrant Phone Number ......... +86.037166063131 -
+Registrant Fax .................. +86.037166063131 -
+Registrant Email ................ iyixiao@126.com
+Administrative ID ............... hc507410371-cn
+Administrative Name ............. chuanming zhao
+Administrative Organization ..... zhao chuangming
+Administrative Address .......... jingsanlu 68#
+Administrative City ............. zhenzhou
+Administrative Province/State ... henan
+Administrative Postal Code ...... 450000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.13378690543 - 0
-Administrative Fax .............. +86.13378690543 - 0
-Administrative Email ............ 790294290@qq.com
-Billing ID ...................... hc283517610-cn
-Billing Name .................... li hejin
-Billing Organization ............ li he jin
-Billing Address ................. baiyun
-Billing City .................... guangzhou
-Billing Province/State .......... Guangdong
-Billing Postal Code ............. 510000
+Administrative Phone Number ..... +86.037166063131 -
+Administrative Fax .............. +86.037166063131 -
+Administrative Email ............ iyixiao@126.com
+Billing ID ...................... hc884813432-cn
+Billing Name .................... chuanming zhao
+Billing Organization ............ zhao chuangming
+Billing Address ................. jingsanlu 68#
+Billing City .................... zhenzhou
+Billing Province/State .......... henan
+Billing Postal Code ............. 450000
 Billing Country Code ............ CN
-Billing Phone Number ............ +86.13378690543 - 0
-Billing Fax ..................... +86.13378690543 - 0
-Billing Email ................... 790294290@qq.com
-Technical ID .................... hc283517610-cn
-Technical Name .................. li hejin
-Technical Organization .......... li he jin
-Technical Address ............... baiyun
-Technical City .................. guangzhou
-Technical Province/State ........ Guangdong
-Technical Postal Code ........... 510000
+Billing Phone Number ............ +86.037166063131 -
+Billing Fax ..................... +86.037166063131 -
+Billing Email ................... iyixiao@126.com
+Technical ID .................... hc496871689-cn
+Technical Name .................. chuanming zhao
+Technical Organization .......... zhao chuangming
+Technical Address ............... jingsanlu 68#
+Technical City .................. zhenzhou
+Technical Province/State ........ henan
+Technical Postal Code ........... 450000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.13378690543 - 0
-Technical Fax ................... +86.13378690543 - 0
-Technical Email ................. 790294290@qq.com
-Expiration Date ................. 2011-11-18 11:45:54
+Technical Phone Number .......... +86.037166063131 -
+Technical Fax ................... +86.037166063131 -
+Technical Email ................. iyixiao@126.com
+Expiration Date ................. 2011-09-21 09:52:54
