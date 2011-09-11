@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153306121-LROR
+Domain Name:KEKANA.ORG
+Created On:11-Jul-2008 10:16:54 UTC
+Last Updated On:29-Jun-2011 10:13:14 UTC
+Expiration Date:11-Jul-2012 10:16:54 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuAbK5M25BTicd7d
+Registrant Name:Simon Kekana
+Registrant Organization:Kekana
+Registrant Street1:P O Box 2021
+Registrant Street2:
+Registrant Street3:
+Registrant City:Highlands North
+Registrant State/Province:Gauteng
+Registrant Postal Code:2037
+Registrant Country:ZA
+Registrant Phone:+27.118271566
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@litcreations.com
+Admin ID:tuuvKiQOZjVp80FJ
+Admin Name:Leigh-Ann O'Hagan
+Admin Organization:LIT Creations
+Admin Street1:P O Box 1001
+Admin Street2:Fourways
+Admin Street3:
+Admin City:Johannesburg
+Admin State/Province:Gauteng
+Admin Postal Code:2055
+Admin Country:ZA
+Admin Phone:+27.117003866
+Admin Phone Ext.:011
+Admin FAX:+27.866172236
+Admin FAX Ext.:
+Admin Email:info@litcreations.com
+Tech ID:tuBR1d6dKUN1joSo
+Tech Name:Leigh-Ann O'Hagan
+Tech Organization:LIT Creations
+Tech Street1:P O Box 1001
+Tech Street2:Fourways
+Tech Street3:
+Tech City:Johannesburg
+Tech State/Province:Gauteng
+Tech Postal Code:2055
+Tech Country:ZA
+Tech Phone:+27.117003866
+Tech Phone Ext.:011
+Tech FAX:+27.866172236
+Tech FAX Ext.:
+Tech Email:info@litcreations.com
+Name Server:NS1.LIVEDNS.CO.UK
+Name Server:NS2.LIVEDNS.CO.UK
+Name Server:NS3.LIVEDNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
