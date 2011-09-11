@@ -1,0 +1,33 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       auv.ee
+registrant:   CID:LINXTELECOM:10917917
+admin-c:      CID:LINXTELECOM:37907236518
+nsset:        NSSID:LINXTELECOM:AUV.EE
+registrar:    linxtelecom
+status:       paid and in zone
+registered:   04.07.2010 04:29:37
+changed:      13.12.2010 10:10:39
+expire:       13.12.2011
+
+contact:      CID:LINXTELECOM:10917917
+org:          A.U.V. System O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      15.09.2010 12:08:17
+
+contact:      CID:LINXTELECOM:37907236518
+name:         Viljo J&Atilde;&micro;ela
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      15.09.2010 12:08:26
+
+nsset:        NSSID:LINXTELECOM:AUV.EE
+nserver:      ns.eunet.ee (195.222.0.1)
+nserver:      ns.data.ee (195.222.4.1)
+tech-c:       CID:LINXTELECOM:37907236518
+registrar:    linxtelecom
+created:      13.12.2010 10:10:36
+
+
