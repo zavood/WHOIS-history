@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2074450-LROR
+Domain Name:PARKE.ORG
+Created On:30-Sep-1998 04:00:00 UTC
+Last Updated On:09-Aug-2011 15:28:51 UTC
+Expiration Date:29-Sep-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29637819-NSI
+Registrant Name:Keith Harrison
+Registrant Organization:The Parke Society
+Registrant Street1:4209 SANTA CLARA DR
+Registrant Street2:
+Registrant Street3:
+Registrant City:HOLT
+Registrant State/Province:MI
+Registrant Postal Code:48842-1868
+Registrant Country:US
+Registrant Phone:+1.517694939
+Registrant Phone Ext.:
+Registrant FAX:+1.517694081
+Registrant FAX Ext.:
+Registrant Email:pcinc@PRODIGY.NET
+Admin ID:29637820-NSI
+Admin Name:Harrison
+Admin Organization:Harrison
+Admin Street1:4209 SANTA CLARA DR
+Admin Street2:
+Admin Street3:
+Admin City:HOLT
+Admin State/Province:MI
+Admin Postal Code:48842-1868
+Admin Country:US
+Admin Phone:+1.51769493
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pcinc@PRODIGY.NET
+Tech ID:5382236-NSI
+Tech Name:CommuniTech.Net, Inc.
+Tech Organization:CommuniTech.Net, Inc.
+Tech Street1:1627 Main Street Suite 1100
+Tech Street2:**
+Tech Street3:
+Tech City:Kansas City
+Tech State/Province:MO
+Tech Postal Code:64108
+Tech Country:US
+Tech Phone:+1.816300
+Tech Phone Ext.:
+Tech FAX:+1.8163005321
+Tech FAX Ext.:
+Tech Email:internic@COMMUNITECH.NET
+Name Server:NS.HOSTING4U.NET
+Name Server:NS2.HOSTING4U.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
