@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-dec-1998
    Expiration Date: 02-dec-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:38:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 02:07:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,7 +118,7 @@ Dairy Farmers of America
 
    Record expires on 02-Dec-2015.
    Record created on 03-Dec-1998.
-   Database last updated on 9-Sep-2011 21:29:00 EDT.
+   Database last updated on 10-Sep-2011 21:58:16 EDT.
 
    Domain servers in listed order:
 
