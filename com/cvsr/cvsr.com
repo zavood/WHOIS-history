@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYXXLMOVIES.COM
-   Registrar: ALANTRON BILISIM LTD STI.
-   Whois Server: whois.alantron.com
-   Referral URL: http://www.alantron.com
-   Name Server: NS1.ANADOLUDNS.COM
-   Name Server: NS2.ANADOLUDNS.COM
+   Domain Name: CVSR.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: MNS01.DOMAINCONTROL.COM
+   Name Server: MNS02.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Updated Date: 03-mar-2011
-   Creation Date: 03-mar-2011
-   Expiration Date: 03-mar-2012
+   Updated Date: 03-jun-2011
+   Creation Date: 29-may-1998
+   Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:47:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-WHOIS SUNUCUSU v.10.6
-	Idari Yonetici / Registrant
-	(Admin)
-	Ad / Name	  Linh Wang
-	Adres	3617 Tower 1, Lippo Centre Hong Kong Queensway 89
-	Tel	+852.30064510
-	Faks	+852.30064510
-	E-posta   info@xchiang.com
-	Guncelleme / Updated  2011-03-03
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-	Teknik Yetkili / Tech
-        Ad / Name      Linh Wang
-        Adres 3617 Tower 1, Lippo Centre Hong Kong Queensway 89
-        Tel   +852.30064510
-        Faks     +852.30064510
-        E-posta   info@xchiang.com
-        Guncelleme / Updated	2011-03-03
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-	Muhasebe Yetkilisi / Billing
-        Ad / Name     Linh Wang
-        Adres 3617 Tower 1, Lippo Centre Hong Kong Queensway 89
-        Tel   +852.30064510
-        Faks     +852.30064510
-        E-posta   info@xchiang.com
-        Guncelleme / Updated 2011-03-03
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Alan Adi Sunucusu1 / DNS1       ns1.anadoludns.com
-Alan Adi Sunucusu1 IP / DNS1 IP
-Alan Adi Sunucusu2 / DNS2       ns2.anadoludns.com
-Alan Adi Sunucusu2 IP / DNS2 IP
-Son Guncelleme/ Last Updated  		2011-03-03
-Kayit Tarihi / Registration Date	2011-03-03
-SKT / Exp. Date				2012-03-02
-Statu					Aktif
+http://www.networksolutions.com/whois/index.jhtml
 
-This domain name is registered by AnadoluDNS.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-2011-09-11
-
-
+Whois Query: cvsr.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 13:38:27 EDT 2011
+Reason Code: IE

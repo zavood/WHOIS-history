@@ -1,0 +1,18 @@
+
+domain:   eniro.fi
+descr:    Oy Eniro Finland Ab
+descr:    01001304
+address:  Jukka Lahti
+address:  Valimotie 9
+address:  00380
+address:  Helsinki
+phone:    +358443366483
+status:   Granted
+created:  17.10.2000
+expires:  31.8.2012
+nserver: enoamgt9013p.prod.eniro.net [OK]
+nserver: enoamgt9014p.prod.eniro.net [OK]
+nserver: ns2.ascio.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority
