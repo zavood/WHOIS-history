@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146749550-LROR
+Domain Name:DISCOUNTNUTRITION.ORG
+Created On:22-May-2007 01:04:36 UTC
+Last Updated On:03-Oct-2009 00:31:19 UTC
+Expiration Date:22-May-2019 01:04:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR11169613
+Registrant Name:Maria Fauscett
+Registrant Organization:Discount Nutrition
+Registrant Street1:725 Barrett Parkway
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kennesaw
+Registrant State/Province:Georgia
+Registrant Postal Code:30144
+Registrant Country:US
+Registrant Phone:+1.7704239709
+Registrant Phone Ext.:
+Registrant FAX:+1.7704230818
+Registrant FAX Ext.:
+Registrant Email:dcountnutrition@aol.com
+Admin ID:CR11169615
+Admin Name:Host Master
+Admin Organization:Living Naturally
+Admin Street1:871 Venetia Bay Blvd
+Admin Street2:Suite 200
+Admin Street3:
+Admin City:Venice
+Admin State/Province:Florida
+Admin Postal Code:34285
+Admin Country:US
+Admin Phone:+1.9414801910
+Admin Phone Ext.:
+Admin FAX:+1.9414801720
+Admin FAX Ext.:
+Admin Email:hostmaster@livingnaturally.com
+Tech ID:CR11169614
+Tech Name:Host Master
+Tech Organization:Living Naturally
+Tech Street1:871 Venetia Bay Blvd
+Tech Street2:Suite 200
+Tech Street3:
+Tech City:Venice
+Tech State/Province:Florida
+Tech Postal Code:34285
+Tech Country:US
+Tech Phone:+1.9414801910
+Tech Phone Ext.:
+Tech FAX:+1.9414801720
+Tech FAX Ext.:
+Tech Email:hostmaster@livingnaturally.com
+Name Server:NS1.LIVINGNATURALLY.COM
+Name Server:NS2.LIVINGNATURALLY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
