@@ -1,0 +1,56 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 11 15:53:01 2011
+
+domain:       spectraweb.cz
+registrant:   ANDREY_OVCHAROV
+admin-c:      ANDREY_OVCHAROV
+nsset:        SPECTRAWEB.CZ
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   25.07.2009 23:52:33
+changed:      09.11.2010 09:38:39
+expire:       25.07.2012
+
+contact:      ANDREY_OVCHAROV
+org:          Spectraweb s.r.o.
+name:         Andrey Ovcharov
+address:      Rybalkova 202/21
+address:      Prague
+address:      10100
+address:      CZ
+phone:        +420.777270476
+e-mail:       andrew@spectraweb.cz
+registrar:    REG-ACTIVE24
+created:      31.07.2010 09:53:36
+
+nsset:        SPECTRAWEB.CZ
+nserver:      ns1.spectraweb.cz (188.40.117.58)
+nserver:      ns2.spectraweb.cz (188.40.180.224)
+nserver:      ns1.ypdns.com
+nserver:      ns2.ypdns.com
+nserver:      ns3.ypdns.com
+nserver:      ns4.ypdns.com
+nserver:      ns5.ypdns.com
+tech-c:       ANDREY_OVCHAROV
+registrar:    REG-ACTIVE24
+created:      31.07.2010 09:56:19
+changed:      31.07.2010 11:53:43
+
+
