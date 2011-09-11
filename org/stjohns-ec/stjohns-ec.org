@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1113809-LROR
+Domain Name:STJOHNS-EC.ORG
+Created On:15-Apr-1998 04:00:00 UTC
+Last Updated On:14-Apr-2010 13:54:04 UTC
+Expiration Date:14-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30392083
+Registrant Name:Sandy Huebscher
+Registrant Organization:St. Johns Lutheran Church
+Registrant Street1:1804 Highland Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eau Claire
+Registrant State/Province:Wisconsin
+Registrant Postal Code:54701
+Registrant Country:US
+Registrant Phone:+1.7158349571
+Registrant Phone Ext.:
+Registrant FAX:+1.7158349702
+Registrant FAX Ext.:
+Registrant Email:sandy@stjohns-ec.org
+Admin ID:CR30392085
+Admin Name:Ken Spies
+Admin Organization:K&amp;K Enterprises
+Admin Street1:6624 Carol Street
+Admin Street2:
+Admin Street3:
+Admin City:Eau Claire
+Admin State/Province:Wisconsin
+Admin Postal Code:54701
+Admin Country:US
+Admin Phone:+1.7158340463
+Admin Phone Ext.:
+Admin FAX:+1.7158340463
+Admin FAX Ext.:
+Admin Email:kspies@charter.net
+Tech ID:CR30392084
+Tech Name:Ken Spies
+Tech Organization:K&amp;K Enterprises
+Tech Street1:6624 Carol Street
+Tech Street2:
+Tech Street3:
+Tech City:Eau Claire
+Tech State/Province:Wisconsin
+Tech Postal Code:54701
+Tech Country:US
+Tech Phone:+1.7158340463
+Tech Phone Ext.:
+Tech FAX:+1.7158340463
+Tech FAX Ext.:
+Tech Email:ken@networksplusllc.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
