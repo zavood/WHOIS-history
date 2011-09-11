@@ -1,0 +1,52 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         pussypix.at
+registrant:     JF7911783-NICAT
+admin-c:        JF7911783-NICAT
+tech-c:         GG7398370-NICAT
+nserver:        ns1.toptip.info
+nserver:        ns2.toptip.info
+changed:        20110320 14:00:36
+source:         AT-DOM
+
+personname:     Fleck Johann
+organization:   Johann Fleck
+street address: Bachgasse 16
+postal code:    8572
+city:           Baernbach
+country:        Austria
+nic-hdl:        JF7911783-NICAT
+changed:        20110320 13:05:22
+source:         AT-DOM
+
+personname:     Dirk Anschuetz
+organization:   Galaxy GmbH
+street address: Hohenzollernring 84
+postal code:    50672
+city:           Koeln
+country:        Germany
+nic-hdl:        GG7398370-NICAT
+changed:        20100825 20:19:50
+source:         AT-DOM
+
