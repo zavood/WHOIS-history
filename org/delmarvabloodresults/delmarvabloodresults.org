@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148676467-LROR
+Domain Name:DELMARVABLOODRESULTS.ORG
+Created On:23-Jul-2007 17:56:46 UTC
+Last Updated On:25-Jun-2011 04:23:10 UTC
+Expiration Date:23-Jul-2012 17:56:46 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tud6vK3LXohNeQTE
+Registrant Name:Ken Hall
+Registrant Organization:BLOOD BANK OF DELMARVA
+Registrant Street1:100 Hygeia Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newark
+Registrant State/Province:DE
+Registrant Postal Code:19713
+Registrant Country:US
+Registrant Phone:+1.3027378405
+Registrant Phone Ext.:788
+Registrant FAX:+1.0
+Registrant FAX Ext.:
+Registrant Email:khall@bbd.org
+Admin ID:tud6vK3LXohNeQTE
+Admin Name:Ken Hall
+Admin Organization:BLOOD BANK OF DELMARVA
+Admin Street1:100 Hygeia Drive
+Admin Street2:
+Admin Street3:
+Admin City:Newark
+Admin State/Province:DE
+Admin Postal Code:19713
+Admin Country:US
+Admin Phone:+1.3027378405
+Admin Phone Ext.:788
+Admin FAX:+1.0
+Admin FAX Ext.:
+Admin Email:khall@bbd.org
+Tech ID:tuUC909RpWL3CMEd
+Tech Name:Technical Support
+Tech Organization:LNH Inc.
+Tech Street1:260 Chapman Road
+Tech Street2:Suite 205
+Tech Street3:
+Tech City:Newark
+Tech State/Province:DE
+Tech Postal Code:19702
+Tech Country:US
+Tech Phone:+1.3027314948
+Tech Phone Ext.:
+Tech FAX:+1.0
+Tech FAX Ext.:
+Tech Email:support@hostmysite.com
+Name Server:NS2.LNHI.NET
+Name Server:NS1.LNHI.NET
+Name Server:NS3.LNHI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
