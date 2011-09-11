@@ -1,0 +1,46 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       hp.is
+descr:        Hewlett-Packard Company
+descr:        3000 Hanover St.
+descr:        Palo Alto, CA 94304
+descr:        US
+admin-c:      HC5-IS
+tech-c:       MTC2-IS
+zone-c:       MTC2-IS
+billing-c:    MTC2-IS
+nserver:      ns1.hp.com
+nserver:      ns2.hp.com
+nserver:      ns3.hp.com
+nserver:      ns4.hp.com
+created:      March 15 1990
+expires:      March 15 2012
+source:       ISNIC
+
+person:       Markmonitor Tech Contact
+address:      MarkMonitor
+address:      PMB 155, 10400 Overland Road
+address:      Boise, ID 83709
+address:      US
+phone:        +1 208 3895740
+fax-no:       +1 208 3895799
+e-mail:       ccops@markmonitor.com
+nic-hdl:      MTC2-IS
+created:      July 22 2004
+source:       ISNIC
+
+role:         Hewlett-Packard Company
+address:      3000 Hanover Street
+address:      Palo Alto, CA 94304
+address:      US
+phone:        +1 800 5247638
+fax-no:       +1 650 8522936
+e-mail:       ccops@markmonitor.com
+nic-hdl:      HC5-IS
+created:      May 14 2009
+source:       ISNIC
+
+
