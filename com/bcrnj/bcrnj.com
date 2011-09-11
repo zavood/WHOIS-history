@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 111F.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.ENAME.NET
-   Name Server: NS2.ENAME.NET
-   Name Server: NS3.ENAME.NET
-   Name Server: NS4.ENAME.NET
-   Name Server: NS5.ENAME.NET
-   Name Server: NS6.ENAME.NET
-   Status: redemptionPeriod
-   Updated Date: 02-sep-2011
-   Creation Date: 23-jul-2002
-   Expiration Date: 23-jul-2011
+   Domain Name: BCRNJ.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS2.BCRNJ.COM
+   Name Server: NS3.BCRNJ.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-jul-2011
+   Creation Date: 05-aug-1999
+   Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:22:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:22:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,6 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Out of Registry
-For more information, please go to http://whois.ename.com.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: bcrnj.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 18:18:18 EDT 2011
+Reason Code: IE

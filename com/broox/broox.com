@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 111F.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.ENAME.NET
-   Name Server: NS2.ENAME.NET
-   Name Server: NS3.ENAME.NET
-   Name Server: NS4.ENAME.NET
-   Name Server: NS5.ENAME.NET
-   Name Server: NS6.ENAME.NET
-   Status: redemptionPeriod
-   Updated Date: 02-sep-2011
-   Creation Date: 23-jul-2002
-   Expiration Date: 23-jul-2011
+   Domain Name: BROOX.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: A.NS.JOKER.COM
+   Name Server: B.NS.JOKER.COM
+   Name Server: C.NS.JOKER.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-sep-2010
+   Creation Date: 24-sep-1999
+   Expiration Date: 24-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:22:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:21:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,6 +52,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Out of Registry
-For more information, please go to http://whois.ename.com.
+domain:       broox.com
+owner:        n/a
+organization: Broox Productions
+email:        derek@broox.com
+address:      Derek Brooks
+address:      1403 SE Rio Dr
+city:         Ankeny
+state:        IA
+postal-code:  50021
+country:      US
+phone:        +515.7706226
+admin-c:      CCOM-66185 derek@broox.com
+tech-c:       CCOM-66185 derek@broox.com
+billing-c:    CCOM-66185 derek@broox.com
+nserver:      a.ns.joker.com 207.44.185.100
+nserver:      b.ns.joker.com 66.197.237.21
+nserver:      c.ns.joker.com 207.44.185.10
+status:       lock
+created:      1999-09-24 21:57:54 UTC
+modified:     2010-12-12 17:17:06 UTC
+expires:      2011-09-25 01:57:53 UTC
+query-source: 188.72.227.95
 
+contact-hdl:  CCOM-66185
+person:       Derek Brooks
+organization: Broox Productions
+email:        derek@broox.com
+address:      1403 SE Rio Dr
+city:         Ankeny
+state:        IA
+postal-code:  50021
+country:      US
+phone:        +1.5157706226
+
+source:       joker.com live whois service
+query-time:   0.023997
+db-updated:   2011-09-11 22:22:19
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.
