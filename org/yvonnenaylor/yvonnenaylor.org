@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104216430-LROR
+Domain Name:YVONNENAYLOR.ORG
+Created On:11-Apr-2004 09:56:16 UTC
+Last Updated On:22-Jun-2011 16:11:00 UTC
+Expiration Date:11-Apr-2012 09:56:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuujNyPQBd2s0Xiw
+Registrant Name:Mrs Yvonne Naylor
+Registrant Organization:Mrs Yvonne Naylor
+Registrant Street1:29 Upper Malone Park
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belfast
+Registrant State/Province:.
+Registrant Postal Code:BT96PP
+Registrant Country:GB
+Registrant Phone:+44.08707540900
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@thus.net
+Admin ID:tuavSMlcnAIbX9nx
+Admin Name:Yvonne Naylor
+Admin Organization:Naylor Yvonne
+Admin Street1:29 Upper Malone Park
+Admin Street2:
+Admin Street3:
+Admin City:Belfast
+Admin State/Province:.
+Admin Postal Code:BT96PP
+Admin Country:GB
+Admin Phone:+44.08707540900
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@thus.net
+Tech ID:tuZfz1q5hY2rDDJQ
+Tech Name:Laura Sowerby
+Tech Organization:Sowerby Laura
+Tech Street1:Riversway House
+Tech Street2:
+Tech Street3:
+Tech City:Lancaster
+Tech State/Province:Lancashire
+Tech Postal Code:LA12SS
+Tech Country:GB
+Tech Phone:+44.8707555565
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@businessserve.co.uk
+Name Server:LAME0.NS.UK.DEMON.NET
+Name Server:LAME1.NS.UK.DEMON.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
