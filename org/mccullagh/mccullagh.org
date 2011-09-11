@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19262741-LROR
+Domain Name:MCCULLAGH.ORG
+Created On:07-Feb-2000 05:58:22 UTC
+Last Updated On:08-Feb-2011 10:27:07 UTC
+Expiration Date:07-Feb-2012 05:58:22 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30529746
+Registrant Name:D McCullagh
+Registrant Organization:mccullagh.org
+Registrant Street1:112 E. Pecan, Suite 600
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Antonio
+Registrant State/Province:Texas
+Registrant Postal Code:78205
+Registrant Country:US
+Registrant Phone:+1.2022991013
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@mccullagh.org
+Admin ID:CR30529748
+Admin Name:Declan McCullagh
+Admin Organization:mccullagh.org
+Admin Street1:112 E. Pecan, Suite 600
+Admin Street2:
+Admin Street3:
+Admin City:San Antonio
+Admin State/Province:Texas
+Admin Postal Code:78205
+Admin Country:US
+Admin Phone:+1.2022991013
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:declan@WELL.com
+Tech ID:CR30529747
+Tech Name:Technical Support
+Tech Organization:Rackspace
+Tech Street1:112 E. Pecan, Suite 600
+Tech Street2:
+Tech Street3:
+Tech City:San Antonio
+Tech State/Province:Texas
+Tech Postal Code:78205
+Tech Country:US
+Tech Phone:+1.2022991013
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@mccullagh.org
+Name Server:NS5.EV1SERVERS.NET
+Name Server:NS6.EV1SERVERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
