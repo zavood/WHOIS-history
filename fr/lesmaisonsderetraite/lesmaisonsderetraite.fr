@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; lesmaisonsderetraite.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lesmaisonsderetraite.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DFI75-FRNIC
+admin-c:     JD1684-FRNIC
+tech-c:      PL1712-FRNIC
+tech-c:      CVDB2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6935-FRNIC
+registrar:   COMBELL GROUP NV
+anniversary: 16/06
+created:     16/06/2005
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL6935-FRNIC
+nserver:     ns3.combell.net
+nserver:     ns4.combell.net
+source:      FRNIC
+
+registrar:   COMBELL GROUP NV
+type:        Isp Option 1
+address:     Skaldenstraat 121
+address:     B-9042 GENT
+country:     BE
+phone:       +32 9 218 79 79
+fax-no:      +32 9 218 79 78
+e-mail:      info@combell.com
+website:     http://www.combell.com
+anonymous:   NO
+registered:  19/05/2005
+source:      FRNIC
+
+nic-hdl:     JD1684-FRNIC
+type:        PERSON
+contact:     Jonas Dhaenens
+address:     COMBELL - De Fracl Inv
+address:     41, rue Charles de Gaulle
+address:     57958 Montigny-l&egrave;s-Metz Cedex
+country:     FR
+phone:       +33 8 05 03 20 40
+e-mail:      afnic@combellgroup.com
+changed:     19/12/2006 afnic@combellgroup.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PL1712-FRNIC
+type:        ROLE
+contact:     Pol Lauvaux
+address:     Websenior sprl
+address:     De morialm&eacute; 136
+address:     5650 Walcourt
+address:     BE
+phone:       +32 70223313
+e-mail:      Websenior@domaincentral.info
+admin-c:     CVDB2-FRNIC
+tech-c:      CVDB2-FRNIC
+changed:     16/06/2005 Websenior@domaincentral.info
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DFI75-FRNIC
+type:        ORGANIZATION
+contact:     DE FRACL INVESTISSEMENTS
+address:     rue Charles de Gaulle 41
+address:     57958 Montigny-l&egrave;s-Metz
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      fr@domaincentral.info
+changed:     22/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CVDB2-FRNIC
+type:        ROLE
+contact:     Christophe Van den Bulcke
+address:     COMBELL GROUP NV-SA
+address:     Antwerpsesteenweg 450
+address:     B-9040 Ghent
+address:     BE
+e-mail:      christophe@combellgroup.com
+admin-c:     CVDB1-FRNIC
+tech-c:      CVDB1-FRNIC
+changed:     19/05/2005 christophe@combellgroup.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

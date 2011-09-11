@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107095444-LROR
+Domain Name:NATIONALSERROSCOTTY.ORG
+Created On:04-Aug-2005 14:24:22 UTC
+Last Updated On:11-Jun-2010 00:23:37 UTC
+Expiration Date:04-Aug-2015 14:24:22 UTC
+Sponsoring Registrar:Brandon Gray Internet Services (R1322-LROR)
+Status:OK
+Registrant ID:C112316462702818
+Registrant Name:Nancy Kroes
+Registrant Organization:Nancy Kroes
+Registrant Street1:9700 Brickyard Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Delton
+Registrant State/Province:MI
+Registrant Postal Code:49046
+Registrant Country:US
+Registrant Phone:+1.2696232917
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nkroes@yahoo.com
+Admin ID:C112316462702815
+Admin Name:Nancy Kroes
+Admin Organization:Nancy Kroes
+Admin Street1:9700 Brickyard Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Delton
+Admin State/Province:MI
+Admin Postal Code:49046
+Admin Country:US
+Admin Phone:+1.2696232917
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nkroes@yahoo.com
+Tech ID:C112316462702817
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@YAHOO-INC.COM
+Name Server:NS19.INTERADVANTAGE.COM
+Name Server:NS20.INTERADVANTAGE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
