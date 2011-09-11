@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103487087-LROR
+Domain Name:LAHISTORY.ORG
+Created On:17-Dec-2003 20:48:16 UTC
+Last Updated On:01-Dec-2009 18:36:19 UTC
+Expiration Date:17-Dec-2014 20:48:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tusAOr5JFHVWcR2B
+Registrant Name:Domain Admin For Clients
+Registrant Organization:Firefly Digital, Inc.
+Registrant Street1:116 B Foreman Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lafayette
+Registrant State/Province:LA
+Registrant Postal Code:70506
+Registrant Country:US
+Registrant Phone:+1.3372690299
+Registrant Phone Ext.:
+Registrant FAX:+1.3372690276
+Registrant FAX Ext.:
+Registrant Email:domainadmin@fireflydigital.com
+Admin ID:tuOhW6R5DINqiIkg
+Admin Name:Domain Admin For Clients
+Admin Organization:Firefly Digital, Inc.
+Admin Street1:116 B Foreman Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Lafayette
+Admin State/Province:LA
+Admin Postal Code:70506
+Admin Country:US
+Admin Phone:+1.3372690299
+Admin Phone Ext.:
+Admin FAX:+1.3372690276
+Admin FAX Ext.:
+Admin Email:domainadmin@fireflydigital.com
+Tech ID:tuW57byEExgYvUU0
+Tech Name:Domain Admin For Clients
+Tech Organization:Firefly Digital, Inc.
+Tech Street1:116 B Foreman Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Lafayette
+Tech State/Province:LA
+Tech Postal Code:70506
+Tech Country:US
+Tech Phone:+1.3372690299
+Tech Phone Ext.:
+Tech FAX:+1.3372690276
+Tech FAX Ext.:
+Tech Email:domainadmin@fireflydigital.com
+Name Server:DNS1.NETTICA.COM
+Name Server:DNS2.NETTICA.COM
+Name Server:DNS3.NETTICA.COM
+Name Server:DNS4.NETTICA.COM
+Name Server:DNS5.NETTICA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
