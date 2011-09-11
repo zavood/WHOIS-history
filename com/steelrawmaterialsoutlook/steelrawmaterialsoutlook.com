@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS-VOLGA.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.AGAVA.NET.RU
-   Name Server: NS2.AGAVA.NET.RU
-   Status: ok
-   Updated Date: 27-mar-2011
-   Creation Date: 31-mar-2006
-   Expiration Date: 31-mar-2012
+   Domain Name: STEELRAWMATERIALSOUTLOOK.COM
+   Registrar: VISESH INFOTECNICS LTD. D/B/A SIGNDOMAINS.COM
+   Whois Server: whois.signdomains.com
+   Referral URL: http://www.signdomains.com
+   Name Server: PDNS.SIFYTECH.NET
+   Name Server: SDNS.SIFYTECH.NET
+   Status: clientTransferProhibited
+   Updated Date: 06-oct-2010
+   Creation Date: 06-oct-2010
+   Expiration Date: 06-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:51:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:51:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,58 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: AGAVA
-Contact: +7.4957816537
+Registration Service Provided By: SIFY
+Contact: +091.4422540770
+Website: http://www.sifycorp.com
 
-Domain Name: AS-VOLGA.COM
+Domain Name: STEELRAWMATERIALSOUTLOOK.COM
 
 Registrant:
-    private person
-    Anver Suslin        (anver_suslin@yahoo.com)
-    pr.Maslennikova 43-19
-    Samara
-    Samarskaya oblast,443110
-    RU
-    Tel. +917.1024718
+    IPFonline Limited
+    Syed Ali        (technology@ipfonline.com)
+    II Floor, Shafika Building
+    17, Kodambakkam High Road, Nungambakkam
+    Chennai
+    Tamil Nadu,600034
+    IN
+    Tel. +091.9894215123
 
-Creation Date: 31-Mar-2006
-Expiration Date: 31-Mar-2012
+Creation Date: 06-Oct-2010
+Expiration Date: 06-Oct-2011
 
 Domain servers in listed order:
-    ns1.agava.net.ru
-    ns2.agava.net.ru
+    pdns.sifytech.net
+    sdns.sifytech.net
 
 
 Administrative Contact:
-    private person
-    Anver Suslin        (anver_suslin@yahoo.com)
-    pr.Maslennikova 43-19
-    Samara
-    Samarskaya oblast,443110
-    RU
-    Tel. +917.1024718
+    IPFonline Limited
+    Syed Ali        (technology@ipfonline.com)
+    II Floor, Shafika Building
+    17, Kodambakkam High Road, Nungambakkam
+    Chennai
+    Tamil Nadu,600034
+    IN
+    Tel. +091.9894215123
 
 Technical Contact:
-    AGAVA Software
-    AGAVA Tech Department        (noc@agava.com)
-    Pervomayskaya St., 1
-    Dolgoprudnyi
-    Moskovskaya oblast,141700
-    RU
-    Tel. +495.7816537
-    Fax. +495.7816537
+    IPFonline Limited
+    Syed Ali        (technology@ipfonline.com)
+    II Floor, Shafika Building
+    17, Kodambakkam High Road, Nungambakkam
+    Chennai
+    Tamil Nadu,600034
+    IN
+    Tel. +091.9894215123
 
 Billing Contact:
-    AGAVA Software
-    Gleb Trofimov        (support@agava.com)
-    Pervomayskaya St., 1
-    Dolgoprudnyi
-    Moskovskaya oblast,141700
-    RU
-    Tel. +495.7816537
-    Fax. +495.7816537
+    Sify Limited
+    Sify Limited        (qc_portals@sifycorp.com)
+    Second Floor, Tidel Park
+    No. 4 Canal Bank Road,Taramani
+    Chennai
+    Tamil Nadu,600113
+    IN
+    Tel. +091.04422540770
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -114,7 +121,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is MPS TECHNOSOFT D/B/A SIGNDOMAINS.COM.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

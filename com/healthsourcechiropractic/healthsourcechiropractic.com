@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS-VOLGA.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.AGAVA.NET.RU
-   Name Server: NS2.AGAVA.NET.RU
-   Status: ok
-   Updated Date: 27-mar-2011
-   Creation Date: 31-mar-2006
-   Expiration Date: 31-mar-2012
+   Domain Name: HEALTHSOURCECHIROPRACTIC.COM
+   Registrar: LIQUIDNET LTD.
+   Whois Server: whois.liquidnetlimited.com
+   Referral URL: http://www.liquidnetlimited.com
+   Name Server: DNS1.SUPREMESERVER20.COM
+   Name Server: DNS2.SUPREMESERVER20.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-jan-2011
+   Creation Date: 20-jan-2004
+   Expiration Date: 20-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:51:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:52:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,58 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: AGAVA
-Contact: +7.4957816537
 
-Domain Name: AS-VOLGA.COM
+
+Registration Service Provided By: HostDale
+Contact: support@propersupport.com
+Visit: http://sdale.duoservers.com/
+
+Domain Name: healthsourcechiropractic.com
 
 Registrant:
-    private person
-    Anver Suslin        (anver_suslin@yahoo.com)
-    pr.Maslennikova 43-19
-    Samara
-    Samarskaya oblast,443110
-    RU
-    Tel. +917.1024718
+    Donald Dudley
+    Donald Dudley (dr9170@aol.com)
+    302 Barrington Street
 
-Creation Date: 31-Mar-2006
-Expiration Date: 31-Mar-2012
+    Rochester, NY 12607
+    US
+    Tel: +1.5859437686
+    Fax: +1.0000000
+
+
+Creation Date: 2004-01-21 00:42:24
+Expiration Date: 2012-01-21 00:42:24
 
 Domain servers in listed order:
-    ns1.agava.net.ru
-    ns2.agava.net.ru
+    dns1.supremeserver20.com
+    dns2.supremeserver20.com
 
 
 Administrative Contact:
-    private person
-    Anver Suslin        (anver_suslin@yahoo.com)
-    pr.Maslennikova 43-19
-    Samara
-    Samarskaya oblast,443110
-    RU
-    Tel. +917.1024718
+    Donald Dudley
+    Donald Dudley (dr9170@aol.com)
+    302 Barrington Street
+
+    Rochester, NY 12607
+    US
+    Tel: +1.5859437686
+    Fax: +1.0000000
+
 
 Technical Contact:
-    AGAVA Software
-    AGAVA Tech Department        (noc@agava.com)
-    Pervomayskaya St., 1
-    Dolgoprudnyi
-    Moskovskaya oblast,141700
-    RU
-    Tel. +495.7816537
-    Fax. +495.7816537
+    Donald Dudley
+    Donald Dudley (dr9170@aol.com)
+    302 Barrington Street
+
+    Rochester, NY 12607
+    US
+    Tel: +1.5859437686
+    Fax: +1.0000000
+
 
 Billing Contact:
-    AGAVA Software
-    Gleb Trofimov        (support@agava.com)
-    Pervomayskaya St., 1
-    Dolgoprudnyi
-    Moskovskaya oblast,141700
-    RU
-    Tel. +495.7816537
-    Fax. +495.7816537
+    Donald Dudley
+    Donald Dudley (dr9170@aol.com)
+    302 Barrington Street
 
-Status:ACTIVE
+    Rochester, NY 12607
+    US
+    Tel: +1.5859437686
+    Fax: +1.0000000
+
+
+Status: Unlocked
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -114,7 +123,6 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is LiquidNet Ltd..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
