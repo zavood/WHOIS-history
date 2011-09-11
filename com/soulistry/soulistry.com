@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CASPERCOMSCI.COM
+   Domain Name: SOULISTRY.COM
    Registrar: DOMAINPEOPLE, INC.
    Whois Server: whois.domainpeople.com
    Referral URL: http://www.domainpeople.com
-   Name Server: NS1.HOSTSAVE.COM
-   Name Server: NS2.HOSTSAVE.COM
-   Name Server: NS3.HOSTSAVE.COM
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 27-jul-2004
-   Expiration Date: 27-jul-2012
+   Updated Date: 28-jun-2009
+   Creation Date: 27-dec-2002
+   Expiration Date: 27-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:44:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:42:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,43 +54,43 @@ Registrars.
 =-=-=-=
 
 
-Domain name: caspercomsci.com
+Domain name: soulistry.com
 
 Registrant Contact:
-   Krumm, James
-   James Krumm ()
+   June Maffin
+   June Maffin ()
 
    Fax:
-   3740 Hawthorne
-   CASPER, WY 82604
-   US
+   1234 Main Street
+   anywhere, BC V1V1V1
+   CA
 
 Administrative Contact:
-   Krumm, James
-   James Krumm (jameskr@bresnan.net)
-   +1.3074723447
+   June Maffin
+   June Maffin (junemaffin@gmail.com)
+   +1.6041111111
    Fax:
-   3740 Hawthorne
-   CASPER, WY 82604
-   US
+   1234 Main Street
+   anywhere, BC V1V1V1
+   CA
 
 Technical Contact:
-   Gate.com
-   Domain Tech (domaintech@gate.com)
-   +1.9543348000
+   June Maffin
+   June Maffin (junemaffin@gmail.com)
+   +1.2507431089
    Fax:
-   3250 W. Commercial Blvd.
-   Ft. Lauderdale, FL 33309
-   US
+   2820 Lampman Road
+   Shawnigan Lake, BC V0R 2W1
+   CA
 
 Status: Locked
 
 Name Servers:
-   ns2.hostsave.com
-   ns3.hostsave.com
+   ns1.bluehost.com
+   ns2.bluehost.com
 
-Creation date: 27 Jul 2004 21:01:04
-Expiration date: 27 Jul 2012 00:00:00
+Creation date: 27 Dec 2002 00:00:00
+Expiration date: 27 Dec 2012 00:00:00
 
 
 

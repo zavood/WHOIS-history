@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STEYNSTORE.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS439.PAIR.COM
-   Name Server: NS5.NS0.COM
-   Status: ok
-   Updated Date: 12-feb-2010
-   Creation Date: 13-apr-2006
-   Expiration Date: 13-apr-2012
+   Domain Name: BEAUFORTSC.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.BEAUFORTSC.COM
+   Name Server: NS2.BEAUFORTSC.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-aug-2011
+   Creation Date: 18-may-1996
+   Expiration Date: 19-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:43:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:43:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-  Mark Steyn Enterprises (US) Inc
-  PO Box 30
-  Woodsville, NH 03785
-  US
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-  tiffany@marksteyn.com
-   +1.8667994500
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain Name: STEYNSTORE.COM
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative &amp; Technical Contact:
-  Mark Steyn
-  Mark Steyn Enterprises (US) Inc
-  PO Box 30
-  Woodsville, NH 03785
-  US
+http://www.networksolutions.com/whois/index.jhtml
 
-  tiffany@marksteyn.com
-   +1.8667994500
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain Name Servers:
-  NS5.NS0.COM
-  NS439.PAIR.COM
-
-Transfer-Lock Status: ENABLED
-
- Created:     April 13, 2006
-Modified:     February 12, 2010
- Expires:     April 13, 2012
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
-
+Whois Query: beaufortsc.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 19:39:01 EDT 2011
+Reason Code: IE
