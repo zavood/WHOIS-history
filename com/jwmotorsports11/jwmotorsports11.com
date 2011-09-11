@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AZITO.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Domain Name: JWMOTORSPORTS11.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS27.DOMAINCONTROL.COM
+   Name Server: NS28.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 31-jan-1999
-   Expiration Date: 31-jan-2020
+   Status: clientUpdateProhibited
+   Updated Date: 14-nov-2010
+   Creation Date: 19-nov-2007
+   Expiration Date: 19-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:06:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:06:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... azito.com
-  Creation Date........ 1999-01-31
-  Registration Date.... 2007-08-14
-  Expiry Date.......... 2020-01-31
-  Organisation Name.... Takeshi Arai
-  Organisation Address. KITA-KU
-  Organisation Address. 5-1-7-8 TONDEN
-  Organisation Address. SAPPORO-SHI
-  Organisation Address. 002-0855
-  Organisation Address. HOKKAIDO
-  Organisation Address. JAPAN
-
-Admin Name........... Dep. VDNS
-  Admin Address........ Yaesu
-  Admin Address........ 2-8-1
-  Admin Address........ Chuo-ku
-  Admin Address........ 104-0028
-  Admin Address........ Tokyo
-  Admin Address........ JAPAN
-  Admin Email.......... nsi-dns@verisign.co.jp
-  Admin Phone.......... +81.332717014
-  Admin Fax............ +81.332717029
-
-Tech Name............ Takeshi Arai
-  Tech Address......... KITA-KU
-  Tech Address......... 5-1-7-8 TONDEN
-  Tech Address......... SAPPORO-SHI
-  Tech Address......... 002-0855
-  Tech Address......... HOKKAIDO
-  Tech Address......... JAPAN
-  Tech Email........... azito@mac.com
-  Tech Phone........... +81.117723588
-  Tech Fax............. +81.117723588
-  Name Server.......... NS2.JOESDNS.NET
-  Name Server.......... NS1.JOESDNS.NET
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   joseph warren
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: JWMOTORSPORTS11.COM
+
+   Domain servers in listed order:
+      NS27.DOMAINCONTROL.COM
+      NS28.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=JWMOTORSPORTS11.COM

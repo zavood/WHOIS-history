@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104239474-LROR
+Domain Name:MONA-UK.ORG
+Created On:17-Apr-2004 11:46:33 UTC
+Last Updated On:18-Mar-2011 22:00:18 UTC
+Expiration Date:17-Apr-2013 11:46:33 UTC
+Sponsoring Registrar:Register.IT SPA (R124-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:a6c7977b489b
+Registrant Name:MONA-UK
+Registrant Organization:MONA-UK
+Registrant Street1:PO Box 372,, PO Box 372,
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:Cambridgeshire
+Registrant Postal Code:CB13XQ
+Registrant Country:GB
+Registrant Phone:+44.8453633630
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:transfers-auth@names.co.uk
+Admin ID:a6d5f80e6014
+Admin Name:Administrator Domain
+Admin Organization:Namesco Limited
+Admin Street1:Acton House, Perdiswell Park
+Admin Street2:
+Admin Street3:
+Admin City:Worcester
+Admin State/Province:England
+Admin Postal Code:WR3 7GD
+Admin Country:GB
+Admin Phone:+44.8453633630
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:transfers-auth@names.co.uk
+Tech ID:TC-a5cb5be0ae
+Tech Name:Namesco Limited
+Tech Organization:Namesco Limited
+Tech Street1:Acton House, Perdiswell Park
+Tech Street2:
+Tech Street3:
+Tech City:Worcester
+Tech State/Province:England
+Tech Postal Code:WR3 7GD
+Tech Country:GB
+Tech Phone:+44.8453633630
+Tech Phone Ext.:
+Tech FAX:+44.8453633631
+Tech FAX Ext.:
+Tech Email:register.it@names.co.uk
+Name Server:NS73.ROCHENHOST.COM
+Name Server:NS74.ROCHENHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D759338-LROR
+Domain Name:MSEXCHANGE.ORG
+Created On:29-Apr-1996 04:00:00 UTC
+Last Updated On:19-Apr-2011 16:39:11 UTC
+Expiration Date:30-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:Advanced Internet Technologies, Inc. (AIT) (R232-LROR)
+Status:OK
+Registrant ID:AITorgORG4174
+Registrant Name:Sean  . Buttigieg
+Registrant Organization:TechGenix Ltd.
+Registrant Street1:Abate Rigord Street, Susan Court Block A
+Registrant Street2:Office No 8
+Registrant Street3:
+Registrant City:Ta' Xbiex
+Registrant State/Province:NA
+Registrant Postal Code:XBX 1127
+Registrant Country:MT
+Registrant Phone:+1.35621383394
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@techgenix.com
+Admin ID:AITorgADM4174
+Admin Name:Domain  . Admin
+Admin Organization:TechGenix Ltd.
+Admin Street1:Abate Rigord Street, Susan Court Block A
+Admin Street2:Office No 8
+Admin Street3:
+Admin City:Ta' Xbiex
+Admin State/Province:NA
+Admin Postal Code:XBX 1127
+Admin Country:MT
+Admin Phone:+1.35621383394
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@techgenix.com
+Tech ID:AITorgTEC4174
+Tech Name:Domain  . Admin
+Tech Organization:TechGenix Ltd.
+Tech Street1:Abate Rigord Street, Susan Court Block A
+Tech Street2:Office No 8
+Tech Street3:
+Tech City:Ta' Xbiex
+Tech State/Province:NA
+Tech Postal Code:XBX 1127
+Tech Country:MT
+Tech Phone:+1.35621383394
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@techgenix.com
+Name Server:DNS1.NETTICA.COM
+Name Server:DNS2.NETTICA.COM
+Name Server:DNS3.NETTICA.COM
+Name Server:DNS4.NETTICA.COM
+Name Server:DNS5.NETTICA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

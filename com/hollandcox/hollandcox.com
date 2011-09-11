@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
+   Domain Name: HOLLANDCOX.COM
+   Registrar: 000DOMAINS LLC
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.LUNARPAGES.COM
+   Name Server: NS2.LUNARPAGES.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Status: clientUpdateProhibited
+   Updated Date: 17-jan-2007
+   Creation Date: 26-mar-2004
+   Expiration Date: 26-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:06:45 UTC &lt;&lt;&lt;
 
@@ -51,70 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain name: spartanbloks.com
+   Domain Services Provided By:
+      000domains, support@000domains.com
+      http://www.000domains.com
 
-Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
+Registrant:
+   Holland Cox
+   5456 Marlstone Lane
+   Fairfax, VA  22030
+   US
 
-   Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   Registrar: 000DOM
+   Domain Name: HOLLANDCOX.COM
+      Created on: 30-MAR-04
+      Expires on: 27-MAR-12
+      Last Updated on: 17-JAN-07
 
-Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
-
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
+   Administrative, Technical Contact:
+      Williams, Valerie  v_j_williams@yahoo.com
+      Holland Cox
+      5456 Marlstone Lane
+      Fairfax, VA  22030
+      US
+      1.7032181551
 
 
+   Domain servers in listed order:
+      NS1.LUNARPAGES.COM
+      NS2.LUNARPAGES.COM
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+End of Whois Information

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AZITO.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Domain Name: NNWAIRPORT.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS.WIDOMAKER.COM
+   Name Server: NS2.WIDOMAKER.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 31-jan-1999
-   Expiration Date: 31-jan-2020
+   Updated Date: 27-oct-2006
+   Creation Date: 15-may-2000
+   Expiration Date: 11-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:06:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:07:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... azito.com
-  Creation Date........ 1999-01-31
-  Registration Date.... 2007-08-14
-  Expiry Date.......... 2020-01-31
-  Organisation Name.... Takeshi Arai
-  Organisation Address. KITA-KU
-  Organisation Address. 5-1-7-8 TONDEN
-  Organisation Address. SAPPORO-SHI
-  Organisation Address. 002-0855
-  Organisation Address. HOKKAIDO
-  Organisation Address. JAPAN
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Admin Name........... Dep. VDNS
-  Admin Address........ Yaesu
-  Admin Address........ 2-8-1
-  Admin Address........ Chuo-ku
-  Admin Address........ 104-0028
-  Admin Address........ Tokyo
-  Admin Address........ JAPAN
-  Admin Email.......... nsi-dns@verisign.co.jp
-  Admin Phone.......... +81.332717014
-  Admin Fax............ +81.332717029
+Registrant:
+   Peninsula Airport Commission
+   900 Bland Blvd.
+   Newport News, VA 23602
+   US
 
-Tech Name............ Takeshi Arai
-  Tech Address......... KITA-KU
-  Tech Address......... 5-1-7-8 TONDEN
-  Tech Address......... SAPPORO-SHI
-  Tech Address......... 002-0855
-  Tech Address......... HOKKAIDO
-  Tech Address......... JAPAN
-  Tech Email........... azito@mac.com
-  Tech Phone........... +81.117723588
-  Tech Fax............. +81.117723588
-  Name Server.......... NS2.JOESDNS.NET
-  Name Server.......... NS1.JOESDNS.NET
+   Domain Name: NNWAIRPORT.COM
 
+   Administrative Contact:
+      Peninsula Airport Commission
+      Jessica Wharton
+      900 Bland Blvd.
+      Newport News, VA 23602
+      US
+      (757)877-0221
+      (757)877-6369 [fax]
+      jwharton@flyphf.com
+
+   Technical Contact, Zone Contact:
+      Peninsula Airport Commission
+      Jessica Wharton
+      900 Bland Blvd.
+      Newport News, VA 23602
+      US
+      (757)877-0221
+      (757)877-6369 [fax]
+      jwharton@nnwairport.com
+
+   Domain created on 15-May-2000
+   Domain expires on 11-Feb-2014
+   Last updated on 14-Apr-2006
+
+   Domain servers in listed order:
+
+      NS.WIDOMAKER.COM
+      NS2.WIDOMAKER.COM
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
