@@ -1,0 +1,43 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         wi2day.at
+registrant:     HHL8123982-NICAT
+admin-c:        HHL8123982-NICAT
+tech-c:         HHL8123982-NICAT
+nserver:        newreg-ns1.premiumregistrations.com
+nserver:        newreg-ns2.premiumregistrations.com
+changed:        20110715 16:01:55
+source:         AT-DOM
+
+personname:
+organization:   HELO HOLDINGS Ltd.
+street address: Unit 1, 26 Cleveland Road
+postal code:    E182AN
+city:           London
+country:        United Kingdom
+e-mail:         info@heloholdings.com
+nic-hdl:        HHL8123982-NICAT
+changed:        20110705 15:02:16
+source:         AT-DOM
+

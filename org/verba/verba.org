@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D16232697-LROR
+Domain Name:VERBA.ORG
+Created On:29-Dec-1999 16:59:26 UTC
+Last Updated On:03-Sep-2011 04:05:01 UTC
+Expiration Date:29-Dec-2011 16:59:26 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:OK
+Registrant ID:TNTN-0000921566
+Registrant Name:POBox.org
+Registrant Organization:Customer 13725
+Registrant Street1:Ramirez 1201-A
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chihuahua
+Registrant State/Province:Chihuahua
+Registrant Postal Code:31000
+Registrant Country:MX
+Registrant Phone:+971.2285300
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sales@vwnames.com
+Admin ID:TNTN-0000921566
+Admin Name:POBox.org
+Admin Organization:Customer 13725
+Admin Street1:Ramirez 1201-A
+Admin Street2:
+Admin Street3:
+Admin City:Chihuahua
+Admin State/Province:Chihuahua
+Admin Postal Code:31000
+Admin Country:MX
+Admin Phone:+971.2285300
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sales@vwnames.com
+Tech ID:TNTN-0000921566
+Tech Name:POBox.org
+Tech Organization:Customer 13725
+Tech Street1:Ramirez 1201-A
+Tech Street2:
+Tech Street3:
+Tech City:Chihuahua
+Tech State/Province:Chihuahua
+Tech Postal Code:31000
+Tech Country:MX
+Tech Phone:+971.2285300
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sales@vwnames.com
+Name Server:FORSALE2.REQUESTDOMAINQUOTE.COM
+Name Server:FORSALE1.REQUESTDOMAINQUOTE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
