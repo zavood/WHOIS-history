@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS.EHOST.CZ
    Name Server: NS2.EHOST.CZ
    Status: clientTransferProhibited
-   Updated Date: 08-nov-2010
+   Updated Date: 10-sep-2011
    Creation Date: 08-nov-2010
-   Expiration Date: 08-nov-2011
+   Expiration Date: 08-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:11:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 11:31:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,9 +69,9 @@ nserver:      ns.ehost.cz
 nserver:      ns2.ehost.cz
 status:       lock
 created:      2010-11-08 18:11:08 UTC
-modified:     2010-11-08 18:11:08 UTC
-expires:      2011-11-08 18:11:08 UTC
-query-source: 95.154.230.221
+modified:     2011-09-10 07:27:09 UTC
+expires:      2012-11-08 18:11:08 UTC
+query-source: 188.72.227.95
 
 contact-hdl:  CCOM-53891
 person:       Lukas Blecha
@@ -93,8 +93,8 @@ country:      CZ
 phone:        +420.296332211
 
 source:       joker.com live whois service
-query-time:   0.037393
-db-updated:   2011-09-10 06:12:16
+query-time:   0.006684
+db-updated:   2011-09-11 11:32:19
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:
