@@ -5,23 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GINYAS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 13-may-2006
-   Expiration Date: 13-may-2012
+   Domain Name: WOODBROSINC.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: ok
+   Updated Date: 11-dec-2009
+   Creation Date: 04-mar-2004
+   Expiration Date: 04-mar-2014
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 15:58:04 UTC &lt;&lt;&lt;
 
@@ -58,41 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Igal Rubinstein
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GINYAS.COM
-
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GINYAS.COM
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.
