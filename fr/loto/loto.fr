@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; loto.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      loto.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LFDJ27-FRNIC
+admin-c:     LFDJ11-FRNIC
+tech-c:      LFDJ86-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL28490-FRNIC
+registrar:   INDOM
+anniversary: 07/07
+created:     05/01/2004
+last-update: 06/01/2011
+source:      FRNIC
+
+ns-list:     NSL28490-FRNIC
+nserver:     dns.fdjeux.net
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     LFDJ11-FRNIC
+type:        ORGANIZATION
+contact:     LA FRANCAISE DES JEUX
+address:     126, rue Gallieni
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 41 10 35 28
+fax-no:      +33 1 41 10 35 15
+e-mail:      admin_dns@lfdj.com
+changed:     15/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LFDJ86-FRNIC
+type:        ORGANIZATION
+contact:     LA FRANCAISE DES JEUX
+address:     297, route de la Seds
+address:     zone industrielle B.P. 119
+address:     13127 Vitrolles
+country:     FR
+phone:       +33 4 42 78 55 00
+fax-no:      +33 4 42 78 55 06
+e-mail:      tech_dns@lfdj.com
+changed:     08/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     LFDJ27-FRNIC
+type:        ORGANIZATION
+contact:     LA FRANCAISE DES JEUX
+address:     126, rue Galli&eacute;ni
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 41 10 35 28
+e-mail:      admin_dns@lfdj.com
+changed:     07/07/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
