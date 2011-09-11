@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APPLEAUTOSALESCHARLOTTENC.COM
+   Domain Name: CDINDUSTRIESLTD.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DEALERSKINS.COM
-   Name Server: NS2.DEALERSKINS.COM
-   Name Server: NS3.DEALERSKINS.COM
+   Name Server: NS45.DOMAINCONTROL.COM
+   Name Server: NS46.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-mar-2008
-   Creation Date: 03-jan-2008
-   Expiration Date: 03-jan-2013
+   Updated Date: 12-jul-2011
+   Creation Date: 27-jul-2009
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:09:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:08:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   CD Industries, Ltd.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: APPLEAUTOSALESCHARLOTTENC.COM
+   Domain Name: CDINDUSTRIESLTD.COM
 
    Domain servers in listed order:
-      NS1.DEALERSKINS.COM
-      NS2.DEALERSKINS.COM
-      NS3.DEALERSKINS.COM
+      NS45.DOMAINCONTROL.COM
+      NS46.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=APPLEAUTOSALESCHARLOTTENC.COM
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CDINDUSTRIESLTD.COM
