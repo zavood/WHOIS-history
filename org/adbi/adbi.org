@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D361085-LROR
+Domain Name:ADBI.ORG
+Created On:17-Jul-1997 04:00:00 UTC
+Last Updated On:27-Jun-2006 01:35:10 UTC
+Expiration Date:16-Jul-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20777615-NSI
+Registrant Name:ASIANDEVELOPMENTBANK INSTITUTE
+Registrant Organization:ASIANDEVELOPMENTBANK INSTITUTE
+Registrant Street1:Kasumigaseki Bldg., 3-2-5 Kasu
+Registrant Street2:Kasumigaseki, Chiyoda-Ku
+Registrant Street3:
+Registrant City:Chiyoda-ku
+Registrant State/Province:TOKYO
+Registrant Postal Code:100-6008
+Registrant Country:JP
+Registrant Phone:+1.81335935
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:daryl@CM.CATV.NE.JP
+Admin ID:21724181-NSI
+Admin Name:AsiandevelopmentBank Institute
+Admin Organization:AsiandevelopmentBank Institute
+Admin Street1:Kasumigaseki Bldg. Kasumigasek
+Admin Street2:
+Admin Street3:
+Admin City:Chiyoda-ku
+Admin State/Province:Tokyo
+Admin Postal Code:100-6008
+Admin Country:JP
+Admin Phone:+1.8133593
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kddihelpdesk@ADBI.ORG
+Tech ID:21724181-NSI
+Tech Name:AsiandevelopmentBank Institute
+Tech Organization:AsiandevelopmentBank Institute
+Tech Street1:Kasumigaseki Bldg. Kasumigasek
+Tech Street2:
+Tech Street3:
+Tech City:Chiyoda-ku
+Tech State/Province:Tokyo
+Tech Postal Code:100-6008
+Tech Country:JP
+Tech Phone:+1.8133593
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kddihelpdesk@ADBI.ORG
+Name Server:NS3.NEWEB.NE.JP
+Name Server:NS.ADBI.ORG
+Name Server:NS2.ADBI.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
