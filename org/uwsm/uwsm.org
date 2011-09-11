@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D497075-LROR
+Domain Name:UWSM.ORG
+Created On:23-Sep-1997 04:00:00 UTC
+Last Updated On:15-Jul-2011 13:08:56 UTC
+Expiration Date:22-Sep-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31197882-NSI
+Registrant Name:United Way Southwest Michigan
+Registrant Organization:United Way Southwest Michigan
+Registrant Street1:PO Box 807
+Registrant Street2:
+Registrant Street3:
+Registrant City:Benton Harbor
+Registrant State/Province:MI
+Registrant Postal Code:49023-0807
+Registrant Country:US
+Registrant Phone:+1.2699821700
+Registrant Phone Ext.:
+Registrant FAX:+1.2699821701
+Registrant FAX Ext.:
+Registrant Email:shirley.washington@uwsm.org
+Admin ID:31197885-NSI
+Admin Name:United Way Southwest Michigan
+Admin Organization:United Way Southwest Michigan
+Admin Street1:PO BOX 807
+Admin Street2:
+Admin Street3:
+Admin City:BENTON HARBOR
+Admin State/Province:MI
+Admin Postal Code:49023-0807
+Admin Country:US
+Admin Phone:+1.61692577
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:uwsm@PARRETT.NET
+Tech ID:15829315-NSI
+Tech Name:Tony Finneman
+Tech Organization:OneEach Technologies
+Tech Street1:PO Box 51450
+Tech Street2:
+Tech Street3:
+Tech City:Mesa
+Tech State/Province:AZ
+Tech Postal Code:85208
+Tech Country:US
+Tech Phone:+1.6023344701
+Tech Phone Ext.:
+Tech FAX:+1.4803801683
+Tech FAX Ext.:
+Tech Email:tony@OneEach.com
+Name Server:NS1.ONEEACH.COM
+Name Server:NS2.ONEEACH.COM
+Name Server:NS3.ONEEACH.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132870045-LROR
+Domain Name:BULE.ORG
+Created On:14-Nov-2006 09:15:09 UTC
+Last Updated On:24-Feb-2011 00:19:53 UTC
+Expiration Date:14-Nov-2012 09:15:09 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:686e6c348cd368c2
+Registrant Name:vali  petcu
+Registrant Organization:rockmania
+Registrant Street1:eylauerstrasse 2
+Registrant Street2:
+Registrant Street3:
+Registrant City:berlin
+Registrant State/Province:NONE
+Registrant Postal Code:10965
+Registrant Country:RO
+Registrant Phone:+40.722222222
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:bule@zoso.ro
+Admin ID:686e6c348cd368c2
+Admin Name:vali  petcu
+Admin Organization:rockmania
+Admin Street1:eylauerstrasse 2
+Admin Street2:
+Admin Street3:
+Admin City:berlin
+Admin State/Province:NONE
+Admin Postal Code:10965
+Admin Country:RO
+Admin Phone:+40.722222222
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:bule@zoso.ro
+Tech ID:686e6c348cd368c2
+Tech Name:vali  petcu
+Tech Organization:rockmania
+Tech Street1:eylauerstrasse 2
+Tech Street2:
+Tech Street3:
+Tech City:berlin
+Tech State/Province:NONE
+Tech Postal Code:10965
+Tech Country:RO
+Tech Phone:+40.722222222
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:bule@zoso.ro
+Name Server:NS1.BULE.ORG
+Name Server:NS2.BULE.ORG
+Name Server:NS3.BULE.ORG
+Name Server:NS4.BULE.ORG
+Name Server:NS5.BULE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
