@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94427643-LROR
+Domain Name:THINKLINGS.ORG
+Created On:11-Feb-2003 02:31:23 UTC
+Last Updated On:12-Feb-2011 13:27:47 UTC
+Expiration Date:11-Feb-2012 02:31:23 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31272092
+Registrant Name:Bill Roberts
+Registrant Street1:11510 Counselor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:Texas
+Registrant Postal Code:77065
+Registrant Country:US
+Registrant Phone:+2.18904406
+Registrant Phone Ext.:
+Registrant FAX:+0.00000000
+Registrant FAX Ext.:
+Registrant Email:billjill@flash.net
+Admin ID:CR31272095
+Admin Name:Bill Roberts
+Admin Street1:11510 Counselor
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:Texas
+Admin Postal Code:77065
+Admin Country:US
+Admin Phone:+2.18904406
+Admin Phone Ext.:
+Admin FAX:+0.00000000
+Admin FAX Ext.:
+Admin Email:billjill@flash.net
+Tech ID:CR31272094
+Tech Name:Domain Manager
+Tech Organization:iPowerWeb, Inc
+Tech Street1:2800 28th Street Suite 205
+Tech Street2:
+Tech Street3:
+Tech City:Santa Monica
+Tech State/Province:California
+Tech Postal Code:90405
+Tech Country:US
+Tech Phone:+3.03141608
+Tech Phone Ext.:
+Tech FAX:+3.03993650
+Tech FAX Ext.:
+Tech Email:admin@ipowerweb.com
+Name Server:NS3.HMDNSGROUP.COM
+Name Server:NS4.HMDNSGROUP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
