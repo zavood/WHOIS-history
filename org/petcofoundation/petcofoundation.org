@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104022792-LROR
+Domain Name:PETCOFOUNDATION.ORG
+Created On:25-Feb-2004 01:44:38 UTC
+Last Updated On:15-May-2010 00:26:03 UTC
+Expiration Date:25-Feb-2015 01:44:38 UTC
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1117260d08795169
+Registrant Name:Stan Little
+Registrant Organization:PETCO Animal Supplies Stores, Inc.
+Registrant Street1:9125 Rehco Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Diego
+Registrant State/Province:CA
+Registrant Postal Code:92121
+Registrant Country:US
+Registrant Phone:+1.8582027813
+Registrant Phone Ext.:
+Registrant FAX:+1.8582027882
+Registrant FAX Ext.:
+Registrant Email:Law@petco.com
+Admin ID:1117260d08795169
+Admin Name:Stan Little
+Admin Organization:PETCO Animal Supplies Stores, Inc.
+Admin Street1:9125 Rehco Road
+Admin Street2:
+Admin Street3:
+Admin City:San Diego
+Admin State/Province:CA
+Admin Postal Code:92121
+Admin Country:US
+Admin Phone:+1.8582027813
+Admin Phone Ext.:
+Admin FAX:+1.8582027882
+Admin FAX Ext.:
+Admin Email:Law@petco.com
+Tech ID:1117260d08795169
+Tech Name:Stan Little
+Tech Organization:PETCO Animal Supplies Stores, Inc.
+Tech Street1:9125 Rehco Road
+Tech Street2:
+Tech Street3:
+Tech City:San Diego
+Tech State/Province:CA
+Tech Postal Code:92121
+Tech Country:US
+Tech Phone:+1.8582027813
+Tech Phone Ext.:
+Tech FAX:+1.8582027882
+Tech FAX Ext.:
+Tech Email:Law@petco.com
+Name Server:PDNS1.ULTRADNS.NET
+Name Server:PDNS2.ULTRADNS.NET
+Name Server:PDNS3.ULTRADNS.ORG
+Name Server:PDNS4.ULTRADNS.ORG
+Name Server:PDNS5.ULTRADNS.INFO
+Name Server:PDNS6.ULTRADNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

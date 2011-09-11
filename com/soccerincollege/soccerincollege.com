@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SBARROFEEDBACK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Domain Name: SOCCERINCOLLEGE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS3.ORCSWEB.COM
+   Name Server: NS4.ORCSWEB.COM
    Status: ok
-   Updated Date: 14-jul-2010
-   Creation Date: 11-nov-2009
-   Expiration Date: 11-nov-2012
+   Updated Date: 13-aug-2011
+   Creation Date: 14-aug-2001
+   Expiration Date: 14-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:28:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:27:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... soccerincollege.com
+  Creation Date........ 2001-08-15
+  Registration Date.... 2001-08-15
+  Expiry Date.......... 2012-08-15
+  Organisation Name.... MBA Corporation
+  Organisation Address. 407 E. Oakwood Drive
+  Organisation Address.
+  Organisation Address. Barrington
+  Organisation Address. 60010
+  Organisation Address. IL
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... John Foley
+  Admin Address........ 407 E. Oakwood Drive
+  Admin Address........
+  Admin Address........ Barrington
+  Admin Address........ 60010
+  Admin Address........ IL
+  Admin Address........ UNITED STATES
+  Admin Email.......... jpf@mbasports.com
+  Admin Phone.......... +1.8475260001
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Rapidsite Hostmaster
+  Tech Address......... 5050 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@rapidsite.net
+  Tech Phone........... +1.8886636648
+  Tech Fax.............
+  Name Server.......... ns3.orcsweb.com
+  Name Server.......... ns4.orcsweb.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: sbarrofeedback.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 19:18:46 EDT 2011
-Reason Code: IE
