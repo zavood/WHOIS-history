@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1612543-LROR
+Domain Name:IRCHELP.ORG
+Created On:15-Jun-1995 04:00:00 UTC
+Last Updated On:03-Dec-2009 02:59:46 UTC
+Expiration Date:14-Jun-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31228538
+Registrant Name:Joseph Lo
+Registrant Organization:Irchelp
+Registrant Street1:2424 Erwin Rd Ste 302
+Registrant Street2:
+Registrant Street3:
+Registrant City:Durham
+Registrant State/Province:North Carolina
+Registrant Postal Code:27705
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:joseph.lo@duke.edu
+Admin ID:CR31228540
+Admin Name:Davin Chin
+Admin Organization:Northwest Micro Electronics
+Admin Street1:PO BOX 6411
+Admin Street2:
+Admin Street3:
+Admin City:Bellevue
+Admin State/Province:Washington
+Admin Postal Code:98008
+Admin Country:US
+Admin Phone:+1.2067061644
+Admin Phone Ext.:
+Admin FAX:+1.2067837337
+Admin FAX Ext.:
+Admin Email:dchin@nwmicro.com
+Tech ID:CR31228539
+Tech Name:Alexander Key
+Tech Street1:PO Box 3722
+Tech Street2:
+Tech Street3:
+Tech City:West Lafayette
+Tech State/Province:Indiana
+Tech Postal Code:47996-3722
+Tech Country:US
+Tech Phone:+1.8774900021
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:alex@spacehost.us
+Name Server:NS1.LINODE.COM
+Name Server:NS2.LINODE.COM
+Name Server:NS3.LINODE.COM
+Name Server:NS4.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
