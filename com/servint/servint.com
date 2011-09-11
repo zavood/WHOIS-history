@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-feb-1995
    Expiration Date: 25-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:11:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:25:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -106,7 +106,7 @@ The ServInt Corporation
 
    Record expires on 25-Feb-2013.
    Record created on 24-Feb-1995.
-   Database last updated on 10-Sep-2011 06:07:40 EDT.
+   Database last updated on 11-Sep-2011 06:15:55 EDT.
 
    Domain servers in listed order:
 
