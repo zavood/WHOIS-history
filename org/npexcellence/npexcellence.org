@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D119038753-LROR
+Domain Name:NPEXCELLENCE.ORG
+Created On:23-Mar-2006 21:10:49 UTC
+Last Updated On:19-Mar-2007 17:16:25 UTC
+Expiration Date:23-Mar-2016 21:10:49 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30356516-NSI
+Registrant Name:The Grant Center
+Registrant Organization:The Grant Center
+Registrant Street1:606 South Mendenhall, Suite 108
+Registrant Street2:
+Registrant Street3:
+Registrant City:Memphis
+Registrant State/Province:TN
+Registrant Postal Code:38117
+Registrant Country:US
+Registrant Phone:+1.9016846605
+Registrant Phone Ext.:
+Registrant FAX:+1.9016846616
+Registrant FAX Ext.:
+Registrant Email:ddane@RAM-GRAPHICS.COM
+Admin ID:30356516-NSI
+Admin Name:The Grant Center
+Admin Organization:The Grant Center
+Admin Street1:606 South Mendenhall, Suite 108
+Admin Street2:
+Admin Street3:
+Admin City:Memphis
+Admin State/Province:TN
+Admin Postal Code:38117
+Admin Country:US
+Admin Phone:+1.9016846605
+Admin Phone Ext.:
+Admin FAX:+1.9016846616
+Admin FAX Ext.:
+Admin Email:ddane@RAM-GRAPHICS.COM
+Tech ID:30356516-NSI
+Tech Name:The Grant Center
+Tech Organization:The Grant Center
+Tech Street1:606 South Mendenhall, Suite 108
+Tech Street2:
+Tech Street3:
+Tech City:Memphis
+Tech State/Province:TN
+Tech Postal Code:38117
+Tech Country:US
+Tech Phone:+1.9016846605
+Tech Phone Ext.:
+Tech FAX:+1.9016846616
+Tech FAX Ext.:
+Tech Email:ddane@RAM-GRAPHICS.COM
+Name Server:W.DNS.NETNATION.COM
+Name Server:X.DNS.NETNATION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

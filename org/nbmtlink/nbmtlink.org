@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D68298067-LROR
+Domain Name:NBMTLINK.ORG
+Created On:26-Mar-2001 18:03:14 UTC
+Last Updated On:02-Mar-2011 15:38:29 UTC
+Expiration Date:26-Mar-2012 18:03:14 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6108004-NSI
+Registrant Name:NationalBoneMarrow Transplant Link
+Registrant Organization:NationalBoneMarrow Transplant Link
+Registrant Street1:20411 W 12 MILE RD STE 108
+Registrant Street2:
+Registrant Street3:
+Registrant City:SOUTHFIELD
+Registrant State/Province:MI
+Registrant Postal Code:48076-6404
+Registrant Country:US
+Registrant Phone:+1.2483581886
+Registrant Phone Ext.:
+Registrant FAX:+1.2483581889
+Registrant FAX Ext.:
+Registrant Email:nbmtlink@aol.com
+Admin ID:6108004-NSI
+Admin Name:NationalBoneMarrow Transplant Link
+Admin Organization:NationalBoneMarrow Transplant Link
+Admin Street1:20411 W 12 MILE RD STE 108
+Admin Street2:
+Admin Street3:
+Admin City:SOUTHFIELD
+Admin State/Province:MI
+Admin Postal Code:48076-6404
+Admin Country:US
+Admin Phone:+1.2483581886
+Admin Phone Ext.:
+Admin FAX:+1.2483581889
+Admin FAX Ext.:
+Admin Email:nbmtlink@aol.com
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS6.READYHOSTING.COM
+Name Server:NS5.READYHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
