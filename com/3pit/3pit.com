@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRAZZERSCONTENT.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Domain Name: 3PIT.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.HITFARM.COM
+   Name Server: NS2.HITFARM.COM
    Status: clientTransferProhibited
-   Updated Date: 23-apr-2011
-   Creation Date: 08-jan-2011
-   Expiration Date: 08-jan-2013
+   Updated Date: 01-jun-2011
+   Creation Date: 25-jun-2006
+   Expiration Date: 25-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:29:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:28:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,61 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain 3pit.com
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+Date Registered: 2006-6-25
+Date Modified: 2011-6-1
+Expiry Date: 2012-6-25
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+DNS1: ns1.hitfarm.com
+DNS2: ns2.hitfarm.com
 
-By submitting this query, you agree to abide by the above policy.
+Registrant
+    Private Whois 3pit.com
+    Private Whois 3pit.com  wclyfls4de5be5c0cbe5@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o 3pit.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Domain: brazzerscontent.com
-Registrar: Eurodns S.A.
+Administrative Contact
+    Private Whois 3pit.com
+    Private Whois 3pit.com  at09aeu4de5be5c15078@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o 3pit.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+Technical Contact
+    Private Whois 3pit.com
+    Private Whois 3pit.com  q7v6gbw4de5be5c10a65@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o 3pit.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
-
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
-
-Original Creation Date: 2011-01-08
-Expiration Date: 2013-01-07
-
-Status:
-clientTransferProhibited
-
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
-
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
