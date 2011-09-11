@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 11 09:57:53 2011
+
+domain:       vrsoviceuopavy.cz
+registrant:   SB:FORPSI-1MT-S171138
+admin-c:      FORPSI-1MT-C171138
+nsset:        NSS:ISOL:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   14.02.2006 15:25:00
+changed:      29.01.2008 20:34:58
+expire:       14.02.2016
+
+contact:      SB:FORPSI-1MT-S171138
+org:          Obec Vr&Aring;&iexcl;ovice
+name:         Josef Rychl&Atilde;&frac12;
+address:      Vr&Aring;&iexcl;ovice 38
+address:      Vr&Aring;&iexcl;ovice
+address:      74761
+address:      CZ
+e-mail:       obec.vrsovice@volny.cz
+registrar:    REG-INTERNET-CZ
+created:      14.02.2006 15:15:00
+
+contact:      FORPSI-1MT-C171138
+name:         Josef Rychl&Atilde;&frac12;
+address:      Vr&Aring;&iexcl;ovice 38
+address:      Vr&Aring;&iexcl;ovice
+address:      74761
+address:      CZ
+phone:        +420.553796224
+e-mail:       obec.vrsovice@volny.cz
+registrar:    REG-INTERNET-CZ
+created:      14.02.2006 15:15:00
+
+nsset:        NSS:ISOL:1
+nserver:      ns1.isol.cz (89.187.131.40)
+nserver:      ns2.isol.cz (89.187.131.41)
+tech-c:       FORPSI-LAZ-C151031
+registrar:    REG-INTERNET-CZ
+created:      16.10.2007 15:18:03
+changed:      20.02.2008 14:49:28
+
+contact:      FORPSI-LAZ-C151031
+org:          ISOL Int. s.r.o.
+name:         ISOL Int. s.r.o.
+address:      Borivojova 35/878
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.724979858
+registrar:    REG-GRANSY
+created:      12.11.2005 22:05:00
+changed:      11.03.2010 18:21:11
+
+
