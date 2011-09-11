@@ -1,0 +1,40 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'iicm.ir'
+
+
+domain:		iicm.ir
+ascii:		iicm.ir
+remarks:	(Domain Holder) no pardazan dade ye adak Co.
+remarks:	(Domain Holder Address) shahrak janbazan-janbaz 10- pelak 13, zanjan, zanjan, IR
+holder-c:	no1015-irnic
+admin-c:	ir50-irnic
+tech-c:		ir50-irnic
+bill-c:		ir50-irnic
+nserver:	ns1.iranhost.com
+nserver:	ns2.iranhost.com
+last-updated:	2010-04-27
+source:		IRNIC # Filtered
+
+nic-hdl:	no1015-irnic
+org:		no pardazan dade ye adak Co.
+e-mail:		adak-co@adak-co.ir
+address:	shahrak janbazan-janbaz 10- pelak 13, zanjan, zanjan, IR
+phone:		241 4155006
+fax-no:		241 4155006
+source:		IRNIC # Filtered
+
+nic-hdl:	ir50-irnic
+org:		Roshangar Rayane Tehran
+e-mail:		internal@iranhost.com
+address:	Unit 4, No.22,Qabousnameh St.,Motahari Ave.,, Tehran, Tehran, IR
+phone:		+98 21 8834 8973
+fax-no:		+98 21 8832 9652
+source:		IRNIC # Filtered
+
