@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2396274-LROR
+Domain Name:ABMS.ORG
+Created On:10-Apr-1996 04:00:00 UTC
+Last Updated On:10-Feb-2011 16:21:13 UTC
+Expiration Date:11-Apr-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30011560-NSI
+Registrant Name:Ken Korczynski
+Registrant Organization:American Board of Medical Specialties
+Registrant Street1:222 N LaSalle
+Registrant Street2:Suite 1500
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60601
+Registrant Country:US
+Registrant Phone:+1.3124362613
+Registrant Phone Ext.:
+Registrant FAX:+1.3124362713
+Registrant FAX Ext.:
+Registrant Email:kkorczynski@ABMS.ORG
+Admin ID:30011560-NSI
+Admin Name:Ken Korczynski
+Admin Organization:American Board of Medical Specialties
+Admin Street1:222 N LaSalle
+Admin Street2:Suite 1500
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60601
+Admin Country:US
+Admin Phone:+1.3124362613
+Admin Phone Ext.:
+Admin FAX:+1.3124362713
+Admin FAX Ext.:
+Admin Email:kkorczynski@ABMS.ORG
+Tech ID:30011560-NSI
+Tech Name:Ken Korczynski
+Tech Organization:American Board of Medical Specialties
+Tech Street1:222 N LaSalle
+Tech Street2:Suite 1500
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60601
+Tech Country:US
+Tech Phone:+1.3124362613
+Tech Phone Ext.:
+Tech FAX:+1.3124362713
+Tech FAX Ext.:
+Tech Email:kkorczynski@ABMS.ORG
+Name Server:NS1.CIMCOISP.NET
+Name Server:NS2.CIMCOISP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
