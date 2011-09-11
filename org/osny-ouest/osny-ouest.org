@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D110930036-LROR
+Domain Name:OSNY-OUEST.ORG
+Created On:09-Jan-2006 20:37:40 UTC
+Last Updated On:20-Feb-2011 00:26:07 UTC
+Expiration Date:09-Jan-2012 20:37:40 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-407639
+Registrant Name:PAUL BOIDIN
+Registrant Organization:association osny-ouest
+Registrant Street1:36 bis avenue du moulinard
+Registrant Street2:
+Registrant Street3:
+Registrant City:OSNY
+Registrant State/Province:
+Registrant Postal Code:95520
+Registrant Country:FR
+Registrant Phone:+33.130388037
+Registrant Phone Ext.:
+Registrant FAX:+33.130388037
+Registrant FAX Ext.:
+Registrant Email:paul.boidin@wanadoo.fr
+Admin ID:BMN-53351
+Admin Name:Thibaud GRANGIER
+Admin Organization:PHPNET
+Admin Street1:123 ter cours de la liberation
+Admin Street2:
+Admin Street3:
+Admin City:GRENOBLE
+Admin State/Province:
+Admin Postal Code:38100
+Admin Country:FR
+Admin Phone:+33.482530210
+Admin Phone Ext.:
+Admin FAX:+33.438128648
+Admin FAX Ext.:
+Admin Email:thibaud@phpnet.org
+Tech ID:BMN-53351
+Tech Name:Thibaud GRANGIER
+Tech Organization:PHPNET
+Tech Street1:123 ter cours de la liberation
+Tech Street2:
+Tech Street3:
+Tech City:GRENOBLE
+Tech State/Province:
+Tech Postal Code:38100
+Tech Country:FR
+Tech Phone:+33.482530210
+Tech Phone Ext.:
+Tech FAX:+33.438128648
+Tech FAX Ext.:
+Tech Email:thibaud@phpnet.org
+Name Server:NS.PHPNET.ORG
+Name Server:NS2.PHPNET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
