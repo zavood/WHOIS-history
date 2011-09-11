@@ -19,7 +19,7 @@ Go to http://registrar.verisign-grs.com/whois/ for detailed information.
    Expiration Date: 26-mar-2017
 
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:23:34 EDT &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:23:06 EDT &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,33 +78,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Niche Republic LLC
-   501 Silverside Road
-   Wilmington, Delaware 19807
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CX.CC
-      Created on: 12-Oct-97
-      Expires on: 25-Mar-17
-      Last Updated on: 28-Oct-10
-
-   Administrative Contact:
-      Ippolito, Mark  nrinnovationltd@gmail.com
-      Niche Republic LLC
-      501 Silverside Road
-      Wilmington, Delaware 19807
-      United States
-      +1.8134158314      Fax --
-
-   Technical Contact:
-      Ippolito, Mark  nrinnovationltd@gmail.com
-      Niche Republic LLC
-      501 Silverside Road
-      Wilmington, Delaware 19807
-      United States
-      +1.8134158314      Fax --
 
    Domain servers in listed order:
       NS1.CX.CC
       NS2.CX.CC
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CX.CC
