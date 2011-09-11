@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 25-may-2005
    Expiration Date: 25-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:28:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 01:40:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -89,35 +89,38 @@ Domain servers in listed order:
 	 ns1-89.akam.net 	 ns1-137.akam.net
 
 Administrator:
-	 1101 Gulf Breeze Pkwy
-	 Gulf Breeze
-FL,
-US
- 32561
+	 name: Joel  Smith
+ mail: domreg@appriver.com tel: +1.8509325338
+	 org: AppRiver
 
-	 name:(Joel  Smith)
-mail:(domreg@appriver.com) +1.8509325338
-	 AppRiver
+address: 1101 Gulf Breeze Pkwy
+	 city: Gulf Breeze
+,province: FL
+,country: US
+ postcode: 32561
+
 Technical Contactor:
-	 1101 Gulf Breeze Pkwy
-	 Gulf Breeze
-FL,
-US
- 32561
+	 name: Joel  Smith
+ mail: domreg@appriver.com tel: +1.8509325338
+	 org: AppRiver
 
-	 name:(Joel  Smith)
-mail:(domreg@appriver.com) +1.8509325338
-	 AppRiver
+address: 1101 Gulf Breeze Pkwy
+	 city: Gulf Breeze
+,province: FL
+,country: US
+ postcode: 32561
+
 Billing Contactor:
-	 1101 Gulf Breeze Pkwy
-	 Gulf Breeze
-FL,
-US
- 32561
+	 name: Joel  Smith
+ mail: jsmith@appriver.com tel: +1.8509325338
+	 org: AppRiver
 
-	 name:(Joel  Smith)
-mail:(jsmith@appriver.com) +1.8509325338
-	 AppRiver
+address: 1101 Gulf Breeze Pkwy
+	 city: Gulf Breeze
+,province: FL
+,country: US
+ postcode: 32561
+
 
 Registration Service Provider:
 	name: AppRiver
