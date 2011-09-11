@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ahead.ie
+descr:       Association for Higher Education Access and Disability (AHEAD)
+descr:       UNINCORPORATED ASSOCIATION
+descr:       Registered Trade Mark Name
+admin-c:     AAG427-IEDR
+tech-c:      WWA1-IEDR
+renewal:     30-September-2011
+status:      Active
+nserver:     NS1.CORVIDEON.NET
+nserver:     NS2.CORVIDEON.NET
+source:      IEDR
+
+person:      Alexis Donnelly
+nic-hdl:     AAG427-IEDR
+source:      IEDR
+
+person:      Webworld.ie Hostmaster
+nic-hdl:     WWA1-IEDR
+source:      IEDR
+
