@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D46101424-LROR
+Domain Name:UWROCHESTER.ORG
+Created On:04-Dec-2000 22:14:02 UTC
+Last Updated On:14-Jan-2011 00:25:03 UTC
+Expiration Date:04-Dec-2013 22:14:02 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-IM62OFF588A8
+Registrant Name:Mark Goodenough
+Registrant Organization:United Way of Gr Rochester
+Registrant Street1:75 College Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rochester
+Registrant State/Province:NY
+Registrant Postal Code:14607
+Registrant Country:US
+Registrant Phone:+1.5852426400
+Registrant Phone Ext.:
+Registrant FAX:+1.5852426530
+Registrant FAX Ext.:
+Registrant Email:mark.goodenough@local.unitedway.org
+Admin ID:DOT-0EMAVPRXV871
+Admin Name:Mark Goodenough
+Admin Organization:United Way of Gr Rochester
+Admin Street1:75 College Ave
+Admin Street2:
+Admin Street3:
+Admin City:Rochester
+Admin State/Province:NY
+Admin Postal Code:14607
+Admin Country:US
+Admin Phone:+1.5852426400
+Admin Phone Ext.:
+Admin FAX:+1.5852426530
+Admin FAX Ext.:
+Admin Email:mark.goodenough@local.unitedway.org
+Tech ID:DOT-91K4RMIZECJ7
+Tech Name:Mark Goodenough
+Tech Organization:United Way of Gr Rochester
+Tech Street1:75 College Ave
+Tech Street2:
+Tech Street3:
+Tech City:Rochester
+Tech State/Province:NY
+Tech Postal Code:14607
+Tech Country:US
+Tech Phone:+1.5852426400
+Tech Phone Ext.:
+Tech FAX:+1.5852426530
+Tech FAX Ext.:
+Tech Email:mark.goodenough@local.unitedway.org
+Name Server:AUTH.ROCH.NY.FRONTIERNET.NET
+Name Server:AUTH.LKVL.MN.FRONTIERNET.NET
+Name Server:AUTH.DLLS.PA.FRONTIERNET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
