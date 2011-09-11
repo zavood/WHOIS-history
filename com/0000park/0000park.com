@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XN--KOWEINE-80A.COM
-   Registrar: 1 API GMBH
-   Whois Server: whois.1api.net
-   Referral URL: http://www.1api.net
-   Name Server: NS1.DYNAMIC-NET.CH
-   Name Server: NS2.DYNAMIC-NET.CH
-   Name Server: NS3.DYNAMIC-NET.CH
+   Domain Name: 0000PARK.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1263.HOSTGATOR.COM
+   Name Server: NS1264.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 11-aug-2003
-   Expiration Date: 11-aug-2012
+   Updated Date: 09-mar-2011
+   Creation Date: 12-mar-2010
+   Expiration Date: 12-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:03:09 UTC &lt;&lt;&lt;
 
@@ -52,79 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by dynamic-net.ch AG
-; for information purposes, and to assist persons obtaining information
-; about or related to domain name registration records.
-; dynamic-net.ch AG does not guarantee its accuracy.
-; By submitting a WHOIS query, you agree that you will use this data
-; only for lawful purposes and that, under no circumstances, you will
-; use this data to
-; 1) allow, enable, or otherwise support the transmission of mass
-;    unsolicited, commercial advertising or solicitations via E-mail
-;    (spam); or
-; 2) enable high volume, automated, electronic processes that apply
-;    to this WHOIS server.
-; These terms may be changed without prior notice.
-; By submitting this query, you agree to abide by this policy.
+=-=-=-=
+
+
+Domain name: 0000park.com
+
+Registrant Contact:
+
+   zoe wang ()
+
+   Fax:
+   shanghai
+   shanghai,  200086
+   CN
+
+Administrative Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Technical Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1263.hostgator.com
+   ns1264.hostgator.com
+
+Creation date: 13 Mar 2010 03:04:00
+Expiration date: 12 Mar 2012 22:04:00
 
 
 
-DOMAIN: XN--KOWEINE-80A.COM
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-RSP: dynamic-net.ch AG
-URL: www.dynamic-net.ch
-
-created-date: 2003-08-11 06:55:58
-updated-date: 2010-08-24 13:45:33
-registration-expiration-date: 2011-08-11 06:55:58
-
-owner-organization: Sevina AG
-owner-name: Herr Ingo Hilpert
-owner-street: Davidstrasse 44
-owner-city: St.Gallen
-owner-state:
-owner-zip: 9000
-owner-country: CH
-owner-phone: +41.712280197
-owner-fax:
-owner-email: ingo.hilpert@delinat.com
-
-admin-organization: Sevina AG
-admin-name: Herr Ingo Hilpert
-admin-street: Davidstrasse 44
-admin-city: St.Gallen
-admin-state:
-admin-zip: 9000
-admin-country: CH
-admin-phone: +41.712280197
-admin-fax:
-admin-email: ingo.hilpert@delinat.com
-
-tech-organization: dynamic-net.ch AG
-tech-name: Dynamic-NET Hostmaster
-tech-street: TECHNOPARK LUZERN, D4 Platz 4
-tech-city: Root Laengenbold
-tech-state:
-tech-zip: 6039
-tech-country: CH
-tech-phone: +41.414505858
-tech-fax: +41.414504848
-tech-email: admin@dynamic-net.ch
-
-billing-organization: dynamic-net.ch AG
-billing-name: Dynamic-NET Hostmaster
-billing-street: TECHNOPARK LUZERN, D4 Platz 4
-billing-city: Root Laengenbold
-billing-state:
-billing-zip: 6039
-billing-country: CH
-billing-phone: +41.414505858
-billing-fax: +41.414504848
-billing-email: admin@dynamic-net.ch
-
-nameserver: ns3.dynamic-net.ch
-nameserver: ns1.dynamic-net.ch
-nameserver: ns2.dynamic-net.ch
-
-; Domain managed by dynamic-net.ch AG
-
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
