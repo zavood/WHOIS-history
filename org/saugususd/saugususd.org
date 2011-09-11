@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151930246-LROR
+Domain Name:SAUGUSUSD.ORG
+Created On:05-Mar-2008 17:45:08 UTC
+Last Updated On:25-Feb-2010 17:39:08 UTC
+Expiration Date:05-Mar-2013 17:45:08 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35201711
+Registrant Name:Eric Hayes
+Registrant Organization:Saugus Union School District
+Registrant Street1:24930 Avenue Stanford
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Clarita
+Registrant State/Province:California
+Registrant Postal Code:91355
+Registrant Country:US
+Registrant Phone:+1.6612945300
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ehayes@saugus.k12.ca.us
+Admin ID:CR35201715
+Admin Name:Eric Hayes
+Admin Organization:Saugus Union School District
+Admin Street1:24930 Avenue Stanford
+Admin Street2:
+Admin Street3:
+Admin City:Santa Clarita
+Admin State/Province:California
+Admin Postal Code:91355
+Admin Country:US
+Admin Phone:+1.6612945300
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ehayes@saugus.k12.ca.us
+Tech ID:CR35201713
+Tech Name:Eric Hayes
+Tech Organization:Saugus Union School District
+Tech Street1:24930 Avenue Stanford
+Tech Street2:
+Tech Street3:
+Tech City:Santa Clarita
+Tech State/Province:California
+Tech Postal Code:91355
+Tech Country:US
+Tech Phone:+1.6612945300
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ehayes@saugus.k12.ca.us
+Name Server:DO6.SAUGUS.K12.CA.US
+Name Server:DO1.SAUGUS.K12.CA.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
