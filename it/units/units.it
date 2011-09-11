@@ -1,0 +1,82 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             units.it
+Status:             ok
+Created:            2000-05-30 00:00:00
+Last Update:        2011-06-14 02:50:38
+Expire Date:        2012-05-30
+
+Registrant
+  Name:             Universita' degli Studi di Trieste
+  Organization:     Universita' degli Studi di Trieste
+  ContactID:        UNIV213
+  Address:          Via Valerio 12
+                    Trieste
+                    34127
+                    TS
+                    IT
+  Created:          2007-03-01 10:37:37
+  Last Update:      2011-03-24 11:01:07
+
+Admin Contact
+  Name:             Fabio Criscuoli
+  Organization:     Universita' degli Studi di Trieste
+  ContactID:        FC100632
+  Address:          Via Valerio 12
+                    Trieste
+                    34127
+                    TS
+                    IT
+  Created:          2007-03-12 17:24:41
+  Last Update:      2011-03-24 11:01:08
+
+Technical Contacts
+  Name:             Daniele Albrizio
+  ContactID:        DA1262
+  Address:          Universita' degli Studi di Trieste
+                    via Valerio, 12
+                    Trieste
+                    34127
+                    TS
+                    IT
+  Created:          2004-06-03 00:00:00
+  Last Update:      2011-03-24 11:01:09
+
+  Name:             Paolo Piccoli
+  ContactID:        PP9980
+  Address:          Universita' degli Studi di Trieste
+                    via Valerio 12
+                    Trieste
+                    34127
+                    TS
+                    IT
+  Created:          2007-03-01 10:34:50
+  Last Update:      2011-03-24 11:01:09
+
+  Name:             Stefano Catani
+  ContactID:        SC2874
+  Address:          Universita' degli Studi di Trieste
+                    via Valerio, 12
+                    Trieste
+                    34127
+                    TS
+                    IT
+  Created:          2004-06-03 00:00:00
+  Last Update:      2011-03-24 11:01:09
+
+Registrar
+  Organization:     Consortium GARR
+  Name:             GARR-REG
+
+Nameservers
+  dns.univ.trieste.it
+  afs.ts.infn.it
+  uts2.univ.trieste.it
+
