@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-dec-1995
    Expiration Date: 12-dec-2020
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:20:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:08:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,7 +109,7 @@ Atlantic Container Line
 
    Record expires on 12-Dec-2020.
    Record created on 13-Dec-1995.
-   Database last updated on 9-Sep-2011 19:11:53 EDT.
+   Database last updated on 10-Sep-2011 20:04:09 EDT.
 
    Domain servers in listed order:
 

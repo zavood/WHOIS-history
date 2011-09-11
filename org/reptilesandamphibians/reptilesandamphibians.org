@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151347299-LROR
+Domain Name:REPTILESANDAMPHIBIANS.ORG
+Created On:14-Feb-2008 17:04:33 UTC
+Last Updated On:04-Jan-2010 22:00:26 UTC
+Expiration Date:14-Feb-2012 17:04:33 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_3634028
+Registrant Name:Paul Hamilton
+Registrant Organization:RAEI
+Registrant Street1:3901 W Calle Don Miguel
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tucson
+Registrant State/Province:AZ
+Registrant Postal Code:85746
+Registrant Country:US
+Registrant Phone:+1.5202609280
+Registrant Phone Ext.:
+Registrant FAX:+1.8157177491
+Registrant FAX Ext.:
+Registrant Email:it@raei.org
+Admin ID:DI_3634028
+Admin Name:Paul Hamilton
+Admin Organization:RAEI
+Admin Street1:3901 W Calle Don Miguel
+Admin Street2:
+Admin Street3:
+Admin City:Tucson
+Admin State/Province:AZ
+Admin Postal Code:85746
+Admin Country:US
+Admin Phone:+1.5202609280
+Admin Phone Ext.:
+Admin FAX:+1.8157177491
+Admin FAX Ext.:
+Admin Email:it@raei.org
+Tech ID:DI_3634028
+Tech Name:Paul Hamilton
+Tech Organization:RAEI
+Tech Street1:3901 W Calle Don Miguel
+Tech Street2:
+Tech Street3:
+Tech City:Tucson
+Tech State/Province:AZ
+Tech Postal Code:85746
+Tech Country:US
+Tech Phone:+1.5202609280
+Tech Phone Ext.:
+Tech FAX:+1.8157177491
+Tech FAX Ext.:
+Tech Email:it@raei.org
+Name Server:NS2277.HOSTGATOR.COM
+Name Server:NS2278.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
