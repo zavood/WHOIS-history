@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VISITKC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: M-SERVIS.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS.FORPSI.CZ
+   Name Server: NS.FORPSI.NET
+   Name Server: NS.FORPSI.US
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 30-apr-1996
-   Expiration Date: 01-may-2016
+   Status: clientUpdateProhibited
+   Updated Date: 25-jan-2011
+   Creation Date: 24-jan-2006
+   Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:01:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +54,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Jaroslava Mikeskova M-servis
+   Tr. 9. kvetna 678
+   Tabor,    39002
+   cz
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar: DOTREGISTRAR
+   Domain Name: M-SERVIS.COM
+      Created on: 24-JAN-06
+      Expires on: 24-JAN-12
+      Last Updated on: 25-JAN-11
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      Mikeskova M-servis, Jaroslava  cechta@email.cz
+      Tr. 9. kvetna 678
+      Tabor,    39002
+      cz
+      +420 381257068
+      +420 381251161
 
-Whois Query: visitkc.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 15:57:25 EDT 2011
-Reason Code: IE
+   Technical Contact:
+      consulting, s.r.o., P.E.S.  admin@forpsi.com
+      Vaclavske namesti 17
+      Prague 1,    110 00
+      CZ
+      +420.383835353
+      +420.383835354
+
+
+   Domain servers in listed order:
+      NS.FORPSI.NET
+      NS.FORPSI.US
+      NS.FORPSI.CZ
+
+End of Whois Information

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VISITKC.COM
+   Domain Name: SONC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS51A.AVAHOST.NET
+   Name Server: NS51B.AVAHOST.NET
    Status: clientTransferProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 30-apr-1996
-   Expiration Date: 01-may-2016
+   Updated Date: 09-feb-2009
+   Creation Date: 09-mar-1999
+   Expiration Date: 09-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:01:37 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: visitkc.com
+Whois Query: sonc.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 15:57:25 EDT 2011
+Date and Time of Query: Sun Sep 11 15:51:43 EDT 2011
 Reason Code: IE

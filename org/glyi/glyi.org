@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98264169-LROR
+Domain Name:GLYI.ORG
+Created On:17-Jun-2003 16:03:00 UTC
+Last Updated On:21-Apr-2011 17:07:31 UTC
+Expiration Date:17-Jun-2013 16:03:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR4205510
+Registrant Name:Littleton Webmaster
+Registrant Organization:City of Littleton
+Registrant Street1:2255 W Berry Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Littleton
+Registrant State/Province:Colorado
+Registrant Postal Code:80120
+Registrant Country:US
+Registrant Phone:+1.3037953727
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@littletongov.org
+Admin ID:CR4205514
+Admin Name:Littleton Webmaster
+Admin Organization:City of Littleton
+Admin Street1:2255 W Berry Ave
+Admin Street2:
+Admin Street3:
+Admin City:Littleton
+Admin State/Province:Colorado
+Admin Postal Code:80120
+Admin Country:US
+Admin Phone:+1.3037953727
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@littletongov.org
+Tech ID:CR4205513
+Tech Name:Littleton Webmaster
+Tech Organization:City of Littleton
+Tech Street1:2255 W Berry Ave
+Tech Street2:
+Tech Street3:
+Tech City:Littleton
+Tech State/Province:Colorado
+Tech Postal Code:80120
+Tech Country:US
+Tech Phone:+1.3037953727
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@littletongov.org
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

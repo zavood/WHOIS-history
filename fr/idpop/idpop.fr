@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; idpop.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      idpop.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IP526-FRNIC
+admin-c:     ACIP34-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6286-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 16/02
+created:     16/02/2007
+last-update: 05/03/2007
+source:      FRNIC
+
+ns-list:     NSL6286-FRNIC
+nserver:     ns1.amen.fr [62.193.206.141]
+nserver:     ns2.amen.fr [62.193.201.13]
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ACIP34-FRNIC
+type:        PERSON
+contact:     admin-c ID-POP
+address:     2, rue des Carmelites
+address:     44000 Nantes
+country:     FR
+phone:       +33 2 40 89 10 90
+e-mail:      info@id-pop.com
+changed:     16/02/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IP526-FRNIC
+type:        ORGANIZATION
+contact:     ID POP
+address:     2, rue des Carmelites
+address:     44000 Nantes
+country:     FR
+phone:       +33 2 40 89 10 90
+e-mail:      info@id-pop.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

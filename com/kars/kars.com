@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VISITKC.COM
+   Domain Name: KARS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.HOSTING.TRUEBAND.NET
+   Name Server: NS2.HOSTING.TRUEBAND.NET
    Status: clientTransferProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 30-apr-1996
-   Expiration Date: 01-may-2016
+   Updated Date: 01-sep-2011
+   Creation Date: 21-sep-1995
+   Expiration Date: 20-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:01:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: visitkc.com
+Whois Query: kars.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 15:57:25 EDT 2011
+Date and Time of Query: Sun Sep 11 15:51:38 EDT 2011
 Reason Code: IE
