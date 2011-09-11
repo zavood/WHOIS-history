@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMARTCODE.COM
+   Domain Name: MSTAML.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SMARTCODE.COM
-   Name Server: NS2.SMARTCODE.COM
+   Name Server: NS23.DOMAINCONTROL.COM
+   Name Server: NS24.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 25-feb-1995
-   Expiration Date: 26-feb-2015
+   Updated Date: 05-mar-2010
+   Creation Date: 29-aug-2001
+   Expiration Date: 29-aug-2019
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 12:44:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 12:44:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   IT Dar
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SMARTCODE.COM
+   Domain Name: MSTAML.COM
 
    Domain servers in listed order:
-      NS1.SMARTCODE.COM
-      NS2.SMARTCODE.COM
+      NS23.DOMAINCONTROL.COM
+      NS24.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTCODE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MSTAML.COM
