@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 29-sep-1996
    Expiration Date: 28-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 14:06:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 16:19:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    ans1.suw1.qualitytech.com
-    ans1.sjc1.qualitytech.com
-    ans1.jcy1.qualitytech.com
     ans1.nyc16.qualitytech.com
+    ans1.sjc1.qualitytech.com
+    ans1.suw1.qualitytech.com
+    ans1.jcy1.qualitytech.com
 
 
 
@@ -133,4 +133,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

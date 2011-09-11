@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CASINOPAUMA.COM
+   Domain Name: MARKETWIRE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS20.NETRIPLEX.COM
+   Name Server: NS21.NETRIPLEX.COM
+   Name Server: NS22.NETRIPLEX.COM
+   Name Server: NS23.NETRIPLEX.COM
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2010
-   Creation Date: 25-mar-2001
-   Expiration Date: 25-mar-2015
+   Updated Date: 05-dec-2009
+   Creation Date: 21-feb-2000
+   Expiration Date: 21-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 16:20:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 16:20:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: casinopauma.com
+Whois Query: marketwire.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 12:16:23 EDT 2011
+Date and Time of Query: Sun Sep 11 12:10:46 EDT 2011
 Reason Code: IE
