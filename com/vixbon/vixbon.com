@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORUMOTION.COM
+   Domain Name: VIXBON.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNSPRO.ORG
-   Name Server: NS2.DNSPRO.ORG
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 18-may-2007
-   Expiration Date: 18-may-2020
+   Updated Date: 23-dec-2010
+   Creation Date: 23-dec-2010
+   Expiration Date: 23-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 11:50:32 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FORUMOTION.COM
+   Domain Name: VIXBON.COM
 
    Domain servers in listed order:
-      NS1.DNSPRO.ORG
-      NS2.DNSPRO.ORG
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMOTION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=VIXBON.COM
