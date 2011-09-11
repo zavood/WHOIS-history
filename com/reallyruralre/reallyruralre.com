@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SENDSPACE.COM
+   Domain Name: REALLYRURALRE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS425.WEBSITEWELCOME.COM
+   Name Server: NS426.WEBSITEWELCOME.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-may-2010
-   Creation Date: 14-jul-2005
-   Expiration Date: 14-jul-2014
+   Updated Date: 03-dec-2010
+   Creation Date: 10-feb-2000
+   Expiration Date: 10-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:01:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:00:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Salley DeLong
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SENDSPACE.COM
+   Domain Name: REALLYRURALRE.COM
 
    Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+      NS425.WEBSITEWELCOME.COM
+      NS426.WEBSITEWELCOME.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SENDSPACE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=REALLYRURALRE.COM

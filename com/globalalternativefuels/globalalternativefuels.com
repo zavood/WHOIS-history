@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SENDSPACE.COM
+   Domain Name: GLOBALALTERNATIVEFUELS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-may-2010
-   Creation Date: 14-jul-2005
-   Expiration Date: 14-jul-2014
+   Updated Date: 26-jul-2011
+   Creation Date: 04-aug-2006
+   Expiration Date: 04-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:01:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:02:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   MVT Services, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SENDSPACE.COM
+   Domain Name: GLOBALALTERNATIVEFUELS.COM
 
    Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SENDSPACE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GLOBALALTERNATIVEFUELS.COM

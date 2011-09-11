@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEXASPIPE.COM
+   Domain Name: BEPRESS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: BACKUPDNS.BEPRESS.COM
+   Name Server: NS-1126.AWSDNS-12.ORG
+   Name Server: NS-1881.AWSDNS-43.CO.UK
+   Name Server: NS-433.AWSDNS-54.COM
+   Name Server: NS-739.AWSDNS-28.NET
+   Name Server: NS2.MYDYNDNS.ORG
    Status: clientTransferProhibited
-   Updated Date: 22-jul-2011
-   Creation Date: 23-jul-1996
-   Expiration Date: 22-jul-2021
+   Updated Date: 30-aug-2011
+   Creation Date: 30-aug-1999
+   Expiration Date: 30-aug-2021
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:01:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:01:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +78,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TEXASPIPE.COM
-&lt;a href=&quot;http://www.aboutus.org/TEXASPIPE.COM&quot;&gt;AboutUs: TEXASPIPE.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BEPRESS.COM
+&lt;a href=&quot;http://www.aboutus.org/BEPRESS.COM&quot;&gt;AboutUs: BEPRESS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Texas Pipe &amp; Supply Co., Inc.
-   ATTN TEXASPIPE.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Internet-Journals, Inc.
+   2809 Telegraph Ave
+   Suite 202
+   Berkeley, CA 94705
+   US
 
-
-   Domain Name: TEXASPIPE.COM
+   Domain Name: BEPRESS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,30 +99,34 @@ Texas Pipe &amp; Supply Co., Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Rubenstein, Keith		px8ut9gq8mb@networksolutionsprivateregistration.com
-      Texas Pipe &amp; Supply Co., Inc
-      ATTN TEXASPIPE.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+   Administrative Contact:
+      Black, David		dblack99@hotmail.com
+      The Berkeley Electronic Press
+      2809 Telegraph Ave Ste 202
+      Berkeley, CA 94705
       US
-      570-708-8780
+      5106651200
+
+   Technical Contact:
+      		dns@BEPRESS.COM
+      The Berkeley Electronic Press
+      2809 Telegraph Ave Ste 202
+      Berkeley, CA 94705
+      US
+      510-665-1200 fax: 999 999 9999
 
 
-   Record expires on 22-Jul-2021.
-   Record created on 23-Jul-1996.
-   Database last updated on 11-Sep-2011 02:51:45 EDT.
+   Record expires on 30-Aug-2021.
+   Record created on 30-Aug-1999.
+   Database last updated on 11-Sep-2011 02:52:33 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS-739.AWSDNS-28.NET
+   NS-1881.AWSDNS-43.CO.UK
+   NS-1126.AWSDNS-12.ORG        205.251.196.102
+   NS-433.AWSDNS-54.COM
+   NS2.MYDYNDNS.ORG
+   BACKUPDNS.BEPRESS.COM        72.5.9.250
 
 
