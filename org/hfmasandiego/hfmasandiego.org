@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105671813-LROR
+Domain Name:HFMASANDIEGO.ORG
+Created On:02-Feb-2005 19:20:43 UTC
+Last Updated On:29-Apr-2011 17:09:24 UTC
+Expiration Date:02-Feb-2014 19:20:43 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-553734
+Registrant Name:Owner of Record
+Registrant Organization:Owner of Record at ePageCity
+Registrant Street1:4541 N Ravenswood Ave
+Registrant Street2:#201
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60640
+Registrant Country:US
+Registrant Phone:+1.3122912200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainowner@epagecitymail.com
+Admin ID:ODN-223952
+Admin Name:Web Master
+Admin Organization:ePageCity, Inc.
+Admin Street1:4541 N Ravenswood Ave
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60640
+Admin Country:US
+Admin Phone:+1.3122912200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@epagecity.com
+Tech ID:ODN-223952
+Tech Name:Web Master
+Tech Organization:ePageCity, Inc.
+Tech Street1:4541 N Ravenswood Ave
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60640
+Tech Country:US
+Tech Phone:+1.3122912200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@epagecity.com
+Name Server:NS1.DNSMADEEASY.COM
+Name Server:NS4.DNSMADEEASY.COM
+Name Server:NS3.DNSMADEEASY.COM
+Name Server:NS0.DNSMADEEASY.COM
+Name Server:NS2.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
