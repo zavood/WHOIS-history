@@ -1,0 +1,27 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      lidl.ie
+descr:       Lidl Ireland Gmbh
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AKF553-IEDR
+tech-c:      ADC696-IEDR
+renewal:     04-May-2013
+status:      Active
+nserver:     ns1.prodns.net
+nserver:     ns2.prodns.net
+nserver:     ns3.prodns.net
+nserver:     ns4.prodns.net
+nserver:     ns9.prodns.net
+source:      IEDR
+
+person:      Peter Fischer
+nic-hdl:     AKF553-IEDR
+source:      IEDR
+
+person:      Anouar Adlani
+nic-hdl:     ADC696-IEDR
+source:      IEDR
+
