@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 17:22:19 (BRT -03:00)
+
+domain:      tmobr.com.br
+owner:       CLINICA HEMATOLOGIA E ONCOLOGIA CELSO MASSUMOTO
+ownerid:     001.699.052/0001-60
+responsible: Dr. Celso Massumoto
+country:     BR
+owner-c:     DCM20
+admin-c:     DCM20
+tech-c:      NEA9
+billing-c:   DCM20
+nserver:     ns1.tmobr.com.br 201.20.20.223
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns2.tmobr.com.br 184.82.20.30
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     19971107 #68179
+expires:     20111107
+changed:     20110222
+status:      published
+
+nic-hdl-br:  DCM20
+person:      Dr. Celso Massumoto
+e-mail:      tmobr@tmobr.com.br
+created:     19990903
+changed:     20050803
+
+nic-hdl-br:  NEA9
+person:      NEUSA ANDRADE
+e-mail:      neusa@agenciaweb.com.br
+created:     19980714
+changed:     20060123
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
