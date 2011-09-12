@@ -5,27 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONSUGAR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: ASIA1.AKAM.NET
-   Name Server: ASIA9.AKAM.NET
-   Name Server: EUR3.AKAM.NET
-   Name Server: NS1-116.AKAM.NET
-   Name Server: NS1-247.AKAM.NET
-   Name Server: USC4.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW1.AKAM.NET
+   Domain Name: CCTVBEST.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: DNS1.IDCCOM.NET
+   Name Server: DNS2.IDCCOM.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-feb-2011
-   Creation Date: 23-jan-2008
-   Expiration Date: 23-jan-2012
+   Updated Date: 23-jul-2011
+   Creation Date: 06-aug-2006
+   Expiration Date: 06-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:34:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:33:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,43 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ONSUGAR.COM
-
-   Domain servers in listed order:
-      NS1-116.AKAM.NET
-      NS1-247.AKAM.NET
-      USC4.AKAM.NET
-      USW1.AKAM.NET
-      EUR3.AKAM.NET
-      ASIA1.AKAM.NET
-      ASIA9.AKAM.NET
-      USE4.AKAM.NET
+	 yaocuiliang gaobox@163.com +86.1062931515
+	 yaocuiliang
+	 beijing
+	 beijing,Beijing,CN 100080
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ONSUGAR.COM
+Domain Name:cctvbest.com
+Record last updated at 2011-07-23 06:01:01
+Record created on 2006/8/6
+Record expired on 2013/8/6
+
+
+Domain servers in listed order:
+	 dns1.idccom.net 	 dns2.idccom.net
+
+Administrator:
+	 name: beijingqishangzaixianshujutongxinyouxiangongsi
+ mail: info@8q8.net tel: +86.1062195217
+	 org: beijingqishangzaixianshujutongxinyouxiangongsi
+
+address: beijinghaidianqubeisanhuanxilujia30#401
+	 city: beijing
+,province: Beijing
+,country: CN
+ postcode: 100086
+
+Technical Contactor:
+	 name: beijingqishangzaixianshujutongxinyouxiangongsi
+ mail: info@8q8.net tel: +86.1062195217
+	 org: beijingqishangzaixianshujutongxinyouxiangongsi
+
+address: beijinghaidianqubeisanhuanxilujia30#401
+	 city: beijing
+,province: Beijing
+,country: CN
+ postcode: 100086
+
+Billing Contactor:
+	 name: beijingqishangzaixianshujutongxinyouxiangongsi
+ mail: info@8q8.net tel: +86.1062195217
+	 org: beijingqishangzaixianshujutongxinyouxiangongsi
+
+address: beijinghaidianqubeisanhuanxilujia30#401
+	 city: beijing
+,province: Beijing
+,country: CN
+ postcode: 100086
+

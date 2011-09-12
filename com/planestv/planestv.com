@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
+   Domain Name: PLANESTV.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
+   Name Server: NS1.PLANESTV-SERVER.COM
+   Name Server: NS2.PLANESTV-SERVER.COM
    Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Updated Date: 19-apr-2011
+   Creation Date: 20-apr-2000
+   Expiration Date: 20-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:34:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,54 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Contact Privacy Inc. Customer 017504618
- 96 Mowat Ave
- Toronto, ON M6K 3M1
- CA
+ Mr Adrian John Campbell
+ The Stone Cottage
+ Thorpe Lane
+ Tealby, Lincolnshire LN8 3YE
+ GB
 
- Domain name: MSCHOSTING.COM
+ Domain name: PLANESTV.COM
 
 
  Administrative Contact:
-    Contact Privacy Inc. Customer 017504618,   mschosting.com@contactprivacy.com
-    96 Mowat Ave
-    Toronto, ON M6K 3M1
-    CA
-    +1.4165385457
+    http://www.uk2.net/, UK2.NET  hostmaster@uk2.net
+    One Canada Square
+    Canary Wharf
+    London,  E14 5DY
+    GB
+    +044.2079871200
  Technical Contact:
-    Contact Privacy Inc. Customer 017504618,   mschosting.com@contactprivacy.com
-    96 Mowat Ave
-    Toronto, ON M6K 3M1
-    CA
-    +1.4165385457
+    http://www.uk2.net/, UK2.NET  hostmaster@uk2.net
+    One Canada Square
+    Canary Wharf
+    London,  E14 5DY
+    GB
+    +044.2079871200
 
 
  Registration Service Provider:
-    Exabytes.com, support@exabytes.com
-    +604-6308283
-    +604-6308288 (fax)
-    http://www.exabytes.com
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
+    UK2.NET
+    http://uk2.net/
+    For support and FAQs please go to http://support.uk2.net/
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 27-Jan-2011.
- Record expires on 05-Apr-2012.
- Record created on 05-Apr-2003.
+ Record last updated on 19-Apr-2011.
+ Record expires on 20-Apr-2013.
+ Record created on 20-Apr-2000.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS188.MSCHOSTING.COM   110.74.129.99
-    NS187.MSCHOSTING.COM   110.4.46.3
+    NS1.PLANESTV-SERVER.COM
+    NS2.PLANESTV-SERVER.COM
 
 
  Domain status: ok
-
-
-This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

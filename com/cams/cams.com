@@ -5,27 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONSUGAR.COM
+   Domain Name: CAMS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: ASIA1.AKAM.NET
-   Name Server: ASIA9.AKAM.NET
-   Name Server: EUR3.AKAM.NET
-   Name Server: NS1-116.AKAM.NET
-   Name Server: NS1-247.AKAM.NET
-   Name Server: USC4.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW1.AKAM.NET
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-feb-2011
-   Creation Date: 23-jan-2008
-   Expiration Date: 23-jan-2012
+   Updated Date: 16-jun-2010
+   Creation Date: 11-feb-1996
+   Expiration Date: 12-jan-2020
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:34:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:33:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,21 +80,19 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Streamray, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ONSUGAR.COM
+   Domain Name: CAMS.COM
 
    Domain servers in listed order:
-      NS1-116.AKAM.NET
-      NS1-247.AKAM.NET
-      USC4.AKAM.NET
-      USW1.AKAM.NET
-      EUR3.AKAM.NET
-      ASIA1.AKAM.NET
-      ASIA9.AKAM.NET
-      USE4.AKAM.NET
+      PDNS3.ULTRADNS.ORG
+      PDNS2.ULTRADNS.NET
+      PDNS5.ULTRADNS.INFO
+      PDNS6.ULTRADNS.CO.UK
+      PDNS1.ULTRADNS.NET
+      PDNS4.ULTRADNS.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ONSUGAR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CAMS.COM

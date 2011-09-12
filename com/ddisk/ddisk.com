@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNGC.NET
+   Domain Name: DDISK.COM
    Registrar: DOTNAME KOREA CORP
    Whois Server: whois.dotname.co.kr
    Referral URL: http://www.dotname.co.kr
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS17.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS24.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS36.DNSEVER.COM
    Status: ok
-   Updated Date: 29-nov-2010
-   Creation Date: 19-mar-2009
-   Expiration Date: 19-mar-2012
+   Updated Date: 03-aug-2011
+   Creation Date: 04-aug-2005
+   Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:34:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +55,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name           : cdngc.net
+Domain Name           : ddisk.com
 Registrar             : Dotname Korea Corp.
 
 Registrant:
-	company       :CDNetworks.,Co.Ltd
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
+	company       :woo, sangcheol
+	name          :sangcheol woo
+	e-mail        :woosangcheol@empal.com
+	address1      :Samseong-dong Gangnam-gu
+	address2      :107-4
+	city          :SEOUL
+	zipcode       :135-090
 	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+	phone         :02-364-7373
+	fax           :
 
 Administrative Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
+	name          :sangcheol woo
+	e-mail        :woosangcheol@empal.com
+	address1      :Samseong-dong Gangnam-gu
+	address2      :107-4
+	city          :SEOUL
+	zipcode       :135-090
 	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+	phone         :02-364-7373
+	fax           :
 
 Technical Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
+	name          :sangcheol woo
+	e-mail        :woosangcheol@empal.com
+	address1      :Samseong-dong Gangnam-gu
+	address2      :107-4
+	city          :SEOUL
+	zipcode       :135-090
 	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+	phone         :02-364-7373
+	fax           :
 
 Domain servers in listed order:
-		NS1.PANTHERCDN.COM  [205.252.255.11]
-		NS2.PANTHERCDN.COM  [67.72.21.11]
+		ns17.dnsever.com  [121.254.154.147]
+		ns24.dnsever.com  [121.254.154.154]
+		ns36.dnsever.com  [121.254.154.166]
+		ns231.dnsever.com  [125.141.231.179]
+		ns259.dnsever.com  [121.254.154.233]
 
-Created on 2009-03-19
-Updated on 2010-11-29
-Expires on 2012-03-19&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+Created on 2005-08-05
+Updated on 2011-08-03
+Expires on 2012-08-04&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 

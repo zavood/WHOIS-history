@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNGC.NET
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Domain Name: E-PANGPANG.COM
+   Registrar: TODAY AND TOMORROW CO. LTD.
+   Whois Server: whois.ttpia.com
+   Referral URL: http://www.ttpia.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS33.DNSEVER.COM
+   Name Server: NS74.DNSEVER.COM
    Status: ok
-   Updated Date: 29-nov-2010
-   Creation Date: 19-mar-2009
-   Expiration Date: 19-mar-2012
+   Updated Date: 11-may-2011
+   Creation Date: 20-may-2003
+   Expiration Date: 20-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:33:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +53,28 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+*** Welcome to TTpia.com.
 
-Domain Name           : cdngc.net
-Registrar             : Dotname Korea Corp.
+Domain Name : e-pangpang.com
 
-Registrant:
-	company       :CDNetworks.,Co.Ltd
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+Registrant Contact:
+&iexcl;&iexcl; Jong Pil Kim
+&iexcl;&iexcl; 405-13 1F Hongeun 3-dong Seodaemun-gu SEOUL
 
-Administrative Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+Administrative Contact; Technical Contact:
+&iexcl;&iexcl; Jong Pil Kim(event panapang)
+&iexcl;&iexcl; lesse414@freechal.com
+&iexcl;&iexcl; 405-13 1F Hongeun 3-dong Seodaemun-gu SEOUL
+&iexcl;&iexcl; Tel : 02-372-1381         Fax : 02-372-1380
 
-Technical Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+Record Creadted on : 2003-05-21
+Record Expires on : 2012-05-21
+Record last updated on : 2011-05-11
 
 Domain servers in listed order:
-		NS1.PANTHERCDN.COM  [205.252.255.11]
-		NS2.PANTHERCDN.COM  [67.72.21.11]
+&iexcl;&iexcl; ns19.dnsever.com
+&iexcl;&iexcl; ns33.dnsever.com
+&iexcl;&iexcl; ns74.dnsever.com
+&iexcl;&iexcl; ns231.dnsever.com
 
-Created on 2009-03-19
-Updated on 2010-11-29
-Expires on 2012-03-19&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
-
-
+*** Tomorrow is From Today.. TTpia
