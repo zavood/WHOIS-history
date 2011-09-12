@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOSSIPMEMBERS.COM
+   Domain Name: ALMIGHTYHITS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 15-may-2008
-   Expiration Date: 15-may-2013
+   Name Server: NS11.OWNATE.COM
+   Name Server: NS12.OWNATE.COM
+   Status: ok
+   Updated Date: 11-apr-2011
+   Creation Date: 10-apr-2010
+   Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:03:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:02:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about gossipmembers.com
-&lt;a href=&quot;http://www.aboutus.org/gossipmembers.com&quot;&gt;AboutUs: gossipmembers.com&lt;/a&gt;
+Visit AboutUs.org for more information about almightyhits.com
+&lt;a href=&quot;http://www.aboutus.org/almightyhits.com&quot;&gt;AboutUs: almightyhits.com&lt;/a&gt;
 
 
-Domain name: gossipmembers.com
+Domain name: almightyhits.com
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (ggtpxwmbpc@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
+   OWNaTE.com
+   Matthew Greene (pockettorch@gmail.com)
+   +1.4066531113
+   Fax:
+   116 Main Street
+   Wolf Point, MT 59201
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (ggtpxwmbpc@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
+   OWNaTE.com
+   Matthew Greene (pockettorch@gmail.com)
+   +1.4066531113
+   Fax:
+   116 Main Street
+   Wolf Point, MT 59201
    US
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   OWNaTE.com
+   Matthew Greene ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
+   116 Main Street
+   Wolf Point, MT 59201
    US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns11.ownate.com
+   ns12.ownate.com
 
-Creation date: 16 May 2008 03:43:00
-Expiration date: 16 May 2013 03:43:00
+Creation date: 10 Apr 2010 04:18:47
+Expiration date: 10 Apr 2012 04:18:00
 
 
 

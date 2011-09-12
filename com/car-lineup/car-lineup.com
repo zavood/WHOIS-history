@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOSSIPMEMBERS.COM
+   Domain Name: CAR-LINEUP.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: NS12.JOESWEBHOSTING.NET
+   Name Server: NS99.JOESWEBHOSTING.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 15-may-2008
-   Expiration Date: 15-may-2013
+   Updated Date: 18-apr-2011
+   Creation Date: 20-apr-2005
+   Expiration Date: 20-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:03:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:02:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about gossipmembers.com
-&lt;a href=&quot;http://www.aboutus.org/gossipmembers.com&quot;&gt;AboutUs: gossipmembers.com&lt;/a&gt;
+Visit AboutUs.org for more information about car-lineup.com
+&lt;a href=&quot;http://www.aboutus.org/car-lineup.com&quot;&gt;AboutUs: car-lineup.com&lt;/a&gt;
 
 
-Domain name: gossipmembers.com
+Domain name: car-lineup.com
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (ggtpxwmbpc@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
-   US
+   Joe's Web Hosting, Inc.
+   Teiko Suzuki (billing@joeswebhosting.net)
+   +81.663456070
+   Fax: +81.663456071
+   9th Floor, 1-11-4 Umeda
+   Kitaku
+   Osaka, JP 530-0001
+   JP
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (ggtpxwmbpc@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
-   US
+   Joe's Web Hosting, Inc.
+   Teiko Suzuki (billing@joeswebhosting.net)
+   +81.663456070
+   Fax: +81.663456071
+   9th Floor, 1-11-4 Umeda
+   Kitaku
+   Osaka, JP 530-0001
+   JP
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   Joe's Web Hosting, Inc.
+   Teiko Suzuki ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O gossipmembers.com
-   Bellevue, WA 98007
-   US
+   9th Floor, 1-11-4 Umeda
+   Kitaku
+   Osaka, JP 530-0001
+   JP
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns12.joeswebhosting.net
+   ns99.joeswebhosting.net
 
-Creation date: 16 May 2008 03:43:00
-Expiration date: 16 May 2013 03:43:00
+Creation date: 20 Apr 2005 23:20:24
+Expiration date: 20 Apr 2012 23:20:00
 
 
 
