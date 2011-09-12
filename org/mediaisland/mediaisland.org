@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4083915-LROR
+Domain Name:MEDIAISLAND.ORG
+Created On:04-Mar-1999 05:00:00 UTC
+Last Updated On:02-Dec-2010 19:04:52 UTC
+Expiration Date:04-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_6315987
+Registrant Name:Media Island
+Registrant Organization:n/a
+Registrant Street1:816 Adams Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Olympia
+Registrant State/Province:Washington
+Registrant Postal Code:98501
+Registrant Country:US
+Registrant Phone:+1.3603528526
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mediaisland@riseup.net
+Admin ID:DI_6315987
+Admin Name:Media Island
+Admin Organization:n/a
+Admin Street1:816 Adams Street
+Admin Street2:
+Admin Street3:
+Admin City:Olympia
+Admin State/Province:Washington
+Admin Postal Code:98501
+Admin Country:US
+Admin Phone:+1.3603528526
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mediaisland@riseup.net
+Tech ID:DI_6315987
+Tech Name:Media Island
+Tech Organization:n/a
+Tech Street1:816 Adams Street
+Tech Street2:
+Tech Street3:
+Tech City:Olympia
+Tech State/Province:Washington
+Tech Postal Code:98501
+Tech Country:US
+Tech Phone:+1.3603528526
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mediaisland@riseup.net
+Name Server:NS.PHX4.NEARLYFREESPEECH.NET
+Name Server:NS.PHX7.NEARLYFREESPEECH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

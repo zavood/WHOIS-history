@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MAKEOUTARTIST.COM
+   Domain Name: LTGRANFONDO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS07.DOMAINCONTROL.COM
-   Name Server: NS08.DOMAINCONTROL.COM
+   Name Server: NS1.TSTSERVER.COM
+   Name Server: NS2.TSTSERVER.COM
+   Name Server: NS3.TSTSERVER.COM
+   Name Server: NS4.TSTSERVER.COM
+   Name Server: NS5.TSTSERVER.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 09-aug-2005
-   Expiration Date: 09-aug-2012
+   Updated Date: 29-jul-2011
+   Creation Date: 19-may-2010
+   Expiration Date: 19-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:43:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:44:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Charlie Wasley
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MAKEOUTARTIST.COM
+   Domain Name: LTGRANFONDO.COM
 
    Domain servers in listed order:
-      NS07.DOMAINCONTROL.COM
-      NS08.DOMAINCONTROL.COM
+      NS1.TSTSERVER.COM
+      NS2.TSTSERVER.COM
+      NS3.TSTSERVER.COM
+      NS4.TSTSERVER.COM
+      NS5.TSTSERVER.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MAKEOUTARTIST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LTGRANFONDO.COM
