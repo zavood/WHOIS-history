@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:12:57 (BRT -03:00)
+
+domain:      cifraclub.com.br
+owner:       Studio Sol Comunica&ccedil;&atilde;o Digital Ltda
+ownerid:     004.365.809/0001-78
+responsible: Samuel Vignoli
+country:     BR
+owner-c:     SVF5
+admin-c:     SVF5
+tech-c:      SVF5
+billing-c:   SVF5
+nserver:     ns1.terra.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.terra.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20000128 #250750
+expires:     20210128
+changed:     20110111
+status:      published
+
+nic-hdl-br:  SVF5
+person:      Samuel Vignoli Federman
+e-mail:      atendimento@studiosol.com.br
+created:     20000117
+changed:     20041109
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

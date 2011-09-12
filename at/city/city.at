@@ -1,0 +1,61 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         city.at
+registrant:     GC1278731-NICAT
+admin-c:        GC501910-NICAT
+tech-c:         GC501910-NICAT
+nserver:        ns1.bluehost.com
+remarks:        74.220.195.31
+nserver:        ns2.bluehost.com
+remarks:        69.89.16.4
+changed:        20080103 08:35:51
+source:         AT-DOM
+
+personname:     Gheorghe Chesler
+organization:
+street address: Leo Slezakgasse 2/1
+postal code:    A-1180
+city:           Vienna
+country:        Austria
+phone:          +4314071259
+e-mail:         office@nightmedia.net
+nic-hdl:        GC1278731-NICAT
+changed:        20030303 11:29:17
+source:         AT-DOM
+
+personname:     Gheorghe CHESLER
+organization:
+street address: CHESLER INTERNET TODAY &amp; YESTERDAY
+street address: Leo Slezakgasse 2/1
+street address: A-1180 Wien
+postal code:
+city:
+country:
+phone:          +43 1 4071258
+fax-no:         +43 1 4071259
+e-mail:         office@city.at
+nic-hdl:        GC501910-NICAT
+changed:        20000825 13:01:59
+source:         AT-DOM
+

@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHEAPTRAVELHUNTER.COM
+   Domain Name: CAPITOLREPORTNEWMEXICO.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MDNSSERVICE.COM
-   Name Server: NS2.MDNSSERVICE.COM
-   Name Server: NS3.MDNSSERVICE.COM
+   Name Server: KITSUNE.SWCP.COM
+   Name Server: NS2.SWCP.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-jan-2011
-   Creation Date: 22-jan-2011
-   Expiration Date: 22-jan-2012
+   Updated Date: 17-jan-2011
+   Creation Date: 30-jan-2009
+   Expiration Date: 30-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:10:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:11:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +53,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- arya bina
- 28510 driver ave
- Agoura Hills, CA 91301
+ Rio Grande Foundation (Capitol Report)
+ PO Box 40336
+ Albuquerque, NM 87196
  US
 
- Domain name: CHEAPTRAVELHUNTER.COM
+ Domain name: CAPITOLREPORTNEWMEXICO.COM
 
 
  Administrative Contact:
-    bina, arya  aryabinaaa@gmail.com
-    28510 driver ave
-    Agoura Hills, CA 91301
+    Gessing, Paul  rgf@swcp.com
+    PO Box 40336
+    Albuquerque, NM 87196
     US
-    +1.8188571026
+    +1.5052646090
  Technical Contact:
-    Admin, Domain  DomainSupport@homestead-inc.com
-    2632 Marine Way
-    Mountain View, CA 94043
+    SWCP, Hostmaster  hostmaster@swcp.com
+    5021 Indian School NE
+    Suite 600
+    Albuquerque, NM 87110
     US
-    +1.8004283170
+    +1.5052327992    Fax: +1.5052327975
+
 
 
  Registration Service Provider:
-    Intuit Websites, hostmaster@homesteadsupport.com
-    1-800-428-3170
-    http://www.intuit.com
-
+    Southwest Cyberport, hostmaster@swcp.com
+    505-232-7992
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 22-Jan-2011.
- Record expires on 22-Jan-2012.
- Record created on 22-Jan-2011.
+ Record last updated on 17-Jan-2011.
+ Record expires on 30-Jan-2012.
+ Record created on 30-Jan-2009.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.MDNSSERVICE.COM
-    NS3.MDNSSERVICE.COM
-    NS1.MDNSSERVICE.COM
+    KITSUNE.SWCP.COM
+    NS2.SWCP.COM
 
 
  Domain status: clientTransferProhibited
