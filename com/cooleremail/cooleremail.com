@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OUTDOORHUBMEDIA.COM
+   Domain Name: COOLEREMAIL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.DOMAINCONTROL.COM
-   Name Server: NS36.DOMAINCONTROL.COM
+   Name Server: NS1.ICEBASE.NET
+   Name Server: NS2.ICEBASE.NET
+   Name Server: NS3.ICEBASE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-jun-2010
-   Creation Date: 04-jun-2010
-   Expiration Date: 04-jun-2015
+   Updated Date: 30-aug-2011
+   Creation Date: 22-feb-2001
+   Expiration Date: 22-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:14:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:13:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Outside Hub, LLC
+   CoolerEmail
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OUTDOORHUBMEDIA.COM
+   Domain Name: COOLEREMAIL.COM
 
    Domain servers in listed order:
-      NS35.DOMAINCONTROL.COM
-      NS36.DOMAINCONTROL.COM
+      NS1.ICEBASE.NET
+      NS2.ICEBASE.NET
+      NS3.ICEBASE.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OUTDOORHUBMEDIA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=COOLEREMAIL.COM
