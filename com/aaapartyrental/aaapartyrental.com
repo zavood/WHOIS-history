@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATTCHATNOW.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
+   Domain Name: AAAPARTYRENTAL.COM
+   Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS1.KCAINTERNET.COM
+   Name Server: NS2.KCAINTERNET.COM
    Status: clientTransferProhibited
-   Updated Date: 22-jan-2010
-   Creation Date: 22-jan-2010
-   Expiration Date: 22-jan-2013
+   Updated Date: 04-aug-2010
+   Creation Date: 16-jan-2001
+   Expiration Date: 16-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:34:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:33:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      PlumChoice
-      Aaron Hodges
-      5 Federal Street 3rd Floor
-      Billerica, MA 01821
+      AAA Party Rental, Inc.
+      M. Mandelbaum
+      310  West 80th Street
+      Kansas City, MO 64114-2315
       US
-      Phone: +1.8668113321
-      Email: ahodges@plumchoice.com
+      Phone: +1.8163331767
+      Email: christiejohnson12@yahoo.com
 
 
 
@@ -86,41 +84,39 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: attchatnow.com
-      Created on..............: 2010-01-22
-      Expires on..............: 2013-01-22
+   Domain Name: aaapartyrental.com
+      Created on..............: 2001-01-16
+      Expires on..............: 2014-01-16
 
    Administrative Contact:
-      PlumChoice
-      Aaron Hodges
-      5 Federal Street 3rd Floor
-      Billerica, MA 01821
+      AAA Party Rental, Inc.
+      Robert G. Johnson
+      310  West 80th St.
+      Kansas City, MO 64114-2315
       US
-      Phone: +1.8668113321
-      Email: ahodges@plumchoice.com
+      Phone: (816) 333-1767
+      Email: kcbojo@aol.com
 
 
    Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
+      AAA Party Rental, Inc.
+      Robert G. Johnson
+      310  West 80th St.
+      Kansas City, MO 64114-2315
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: (816) 333-1767
+      Email: kcbojo@aol.com
 
 
    DNS Servers:
-      ns10.dnsmadeeasy.com
-      ns11.dnsmadeeasy.com
-      ns13.dnsmadeeasy.com
-      ns12.dnsmadeeasy.com
+      ns2.kcainternet.com
+      ns1.kcainternet.com
 
 
 
-Visit AboutUs.org for more information about attchatnow.com
+Visit AboutUs.org for more information about aaapartyrental.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/attchatnow.com&quot;&gt;AboutUs: attchatnow.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/aaapartyrental.com&quot;&gt;AboutUs: aaapartyrental.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 
