@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154904960-LROR
+Domain Name:NATIONALDOUGHNUTWEEK.ORG
+Created On:15-Dec-2008 12:03:02 UTC
+Last Updated On:07-Jun-2011 21:36:59 UTC
+Expiration Date:15-Dec-2012 12:03:02 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuocjn0M9mEaump7
+Registrant Name:Christopher Freeman
+Registrant Organization:Dunns Limited
+Registrant Street1:6 The Broadway
+Registrant Street2:Crouch End
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:London
+Registrant Postal Code:N89SN
+Registrant Country:GB
+Registrant Phone:+020.83498213
+Registrant Phone Ext.:1198
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:christopher@dunns-bakery.co.uk
+Admin ID:tuVl5GLRS0Rb9ztz
+Admin Name:Alexis Pratsides
+Admin Organization:MintTwist
+Admin Street1:17 Russell Road
+Admin Street2:Crouch End
+Admin Street3:
+Admin City:London
+Admin State/Province:London
+Admin Postal Code:N88HN
+Admin Country:GB
+Admin Phone:+44.208374
+Admin Phone Ext.:1769
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@minttwist.com
+Tech ID:tupIIJ9ELonXLeWC
+Tech Name:Alexis Pratsides
+Tech Organization:MintTwist
+Tech Street1:17 Russell Road
+Tech Street2:Crouch End
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:N88HN
+Tech Country:GB
+Tech Phone:+44.208374
+Tech Phone Ext.:1769
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@minttwist.com
+Name Server:NS1.LIVEDNS.CO.UK
+Name Server:NS2.LIVEDNS.CO.UK
+Name Server:NS3.LIVEDNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
