@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 04-apr-2008
    Expiration Date: 04-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:20:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:34:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -105,7 +105,7 @@ Logytech Mobile
 
    Record expires on 04-Apr-2013.
    Record created on 04-Apr-2008.
-   Database last updated on 9-Sep-2011 21:16:50 EDT.
+   Database last updated on 12-Sep-2011 03:24:52 EDT.
 
    Domain servers in listed order:
 
