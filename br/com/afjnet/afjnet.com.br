@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 18:25:42 (BRT -03:00)
+
+domain:      afjnet.com.br
+owner:       AFJ NETWORK TELECOMUNICA&Ccedil;&Otilde;ES LTDA ME
+ownerid:     007.895.545/0001-52
+responsible: SILVIA G. SANTOS MICHELETO
+country:     BR
+owner-c:     FMS458
+admin-c:     FMS458
+tech-c:      LCM302
+billing-c:   FMS458
+nserver:     ns1.afjnet.com.br 201.20.20.223
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.afjnet.com.br 184.82.20.30
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20100305 #6613598
+expires:     20120305
+changed:     20110818
+status:      published
+
+nic-hdl-br:  FMS458
+person:      fernando micheleto da silva
+e-mail:      afjnet@hotmail.com
+created:     20050731
+changed:     20110711
+
+nic-hdl-br:  LCM302
+person:      Leandro C&eacute;sar Cunha Marques
+e-mail:      contato@midia4internet.com.br
+created:     20020802
+changed:     20070605
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

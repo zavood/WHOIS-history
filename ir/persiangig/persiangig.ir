@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'persiangig.ir'
+
+
+domain:		persiangig.ir
+ascii:		persiangig.ir
+remarks:	(Domain Holder) Payam Torkian
+remarks:	(Domain Holder Address) 1026 Maple AveVienna, VA, US 22180
+holder-c:	---
+admin-c:	pt51-irnic
+tech-c:		pt51-irnic
+nserver:	ns1.persiangig.com
+nserver:	ns2.persiangig.com
+nserver:	ns3.persiangig.com
+last-updated:	2007-11-24
+source:		IRNIC # Filtered
+
+nic-hdl:	pt51-irnic
+person:		Payam Torkian
+e-mail:		support@persiangiig.com
+address:	PO BOX 6366, Charlottesville, VA, US
+phone:		+1-703-231-8886
+source:		IRNIC # Filtered
+
