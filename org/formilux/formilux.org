@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129074213-LROR
+Domain Name:FORMILUX.ORG
+Created On:17-Sep-2006 17:15:05 UTC
+Last Updated On:21-Nov-2010 11:20:05 UTC
+Expiration Date:17-Sep-2012 17:15:05 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-1019627-GANDI
+Registrant Name:Benoit DOLEZ
+Registrant Organization:Benoit DOLEZ
+Registrant Street1:5, pl de rungis
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75013
+Registrant Country:FR
+Registrant Phone:+33.621059169
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:d14d340631852d0e0c40c880b5f105a9-1021416@owner.gandi.net
+Admin ID:BD1799-GANDI
+Admin Name:Benoit DOLEZ
+Admin Street1:5, pl de rungis
+Admin Street2:
+Admin Street3:
+Admin City:PARIS
+Admin State/Province:
+Admin Postal Code:75013
+Admin Country:FR
+Admin Phone:+33.621059169
+Admin Phone Ext.:
+Admin FAX:+33.1
+Admin FAX Ext.:
+Admin Email:39449451275b936cf8ada19632a642c0-bd1799@contact.gandi.net
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:NS6.GANDI.NET
+Name Server:NS.1WT.EU
+Name Server:NS3.FORMILUX.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
