@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MAYERANDNEWTON.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS11.DOMAINCONTROL.COM
-   Name Server: NS12.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-mar-2009
-   Creation Date: 26-jan-2009
-   Expiration Date: 26-jan-2014
+   Domain Name: SANTIAGOSUR.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS1.SERVIDORESDNS.NET
+   Name Server: DNS2.SERVIDORESDNS.NET
+   Status: ok
+   Updated Date: 27-jun-2011
+   Creation Date: 26-jun-2001
+   Expiration Date: 26-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:53:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:54:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Arsys Internet's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Arsys Internet does not guarantee the accuracy of the information
+contained in the WHOIS. Arsys Internet allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+Domain name: santiagosur.com
 
 Registrant:
-   Mayer &amp; Newton, Attorneys at Law
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MAYERANDNEWTON.COM
-
-   Domain servers in listed order:
-      NS11.DOMAINCONTROL.COM
-      NS12.DOMAINCONTROL.COM
+      SANTIAGO SUR S.L.  (SROW-207818)
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MAYERANDNEWTON.COM
+   UR PARQUE SANTIAGO III
+   PLAYA AMERICAS ARONA   TENERIFE
+   38660        ES
+   +34 000000000
+
+
+Administrative contact:
+   SANTIAGO SUR S.L   (SRCO-311431)
+   SANTIAGO SUR S.L
+
+   UR PARQUE SANTIAGO III
+   PLAYA AMERICAS ARONA   TENERIFE
+   38660        ES
+   +34 9999999999
+
+
+Technical contact:
+   SANTIAGO SUR S.L   (SRCO-311431)
+   SANTIAGO SUR S.L
+
+   UR PARQUE SANTIAGO III
+   PLAYA AMERICAS ARONA   TENERIFE
+   38660        ES
+   +34 9999999999
+
+
+Domain servers in listed order:
+   dns1.servidoresdns.net  217.76.128.128
+   dns2.servidoresdns.net  82.223.218.132
+
+
+Created:       26 Jun 2001 11:35:08:000   UTC
+Expires:       26 Jun 2012 15:35:08:000   UTC
+Last updated:  27 Jun 2011 12:17:01:317   UTC
+
+
+

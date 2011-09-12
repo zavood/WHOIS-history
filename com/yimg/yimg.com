@@ -24,7 +24,7 @@ for detailed information.
    Creation Date: 14-may-1997
    Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:05:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:53:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -119,11 +119,11 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.yahoo.com
-    ns5.yahoo.com
-    ns1.yahoo.com
     ns4.yahoo.com
     ns2.yahoo.com
+    ns5.yahoo.com
+    ns3.yahoo.com
+    ns1.yahoo.com
 
 
 
@@ -138,4 +138,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--
