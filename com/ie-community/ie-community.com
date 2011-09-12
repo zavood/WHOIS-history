@@ -5,23 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARIECATRIBS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-jun-2010
-   Creation Date: 30-aug-2005
-   Expiration Date: 30-aug-2012
+   Domain Name: IE-COMMUNITY.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.LUNARMANIA.COM
+   Name Server: NS2.LUNARMANIA.COM
+   Status: ok
+   Updated Date: 20-oct-2009
+   Creation Date: 20-oct-2005
+   Expiration Date: 20-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:23:49 UTC &lt;&lt;&lt;
 
@@ -58,41 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
+
+   Domain Name: IE-COMMUNITY.COM
+      Reseller..............: PlanetDomain Ltd Pty
+      Created on............: 20 Oct 2005 16:11:30 EST
+      Expires on............: 20 Oct 2011 17:07:23 EST
+      Record last updated on: 21 Oct 2009 07:54:04 EST
+      Status................: ACTIVE
 
 
-Registrant:
-   Marie Catrib's
+   Owner:
+      Vanessa Brown
+       (229924)
+      P.O. Box 8652
+      Moreno Valley, CA 92552
+      United States
+      Phone: +1.9512958789
+      Email: iecommevents@aol.com
+   Administrative Contact, Billing Contact:
+       (229925)
+      P.O. Box 8652
+      Moreno Valley, CA 92552
+      United States
+      Phone: +1.9512958789
+      Email: iecommevents@aol.com
+   Technical Contact:
+       (229926)
+      P.O. Box 8652
+      Moreno Valley, CA 92552
+      United States
+      Phone: +1.9512958789
+      Email: iecommevents@aol.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MARIECATRIBS.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MARIECATRIBS.COM
+      NS1.LUNARMANIA.COM
+      NS2.LUNARMANIA.COM
