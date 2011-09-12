@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOESDNS.NET
+   Domain Name: HGHLOOK.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Name Server: NS291.HOSTGATOR.COM
+   Name Server: NS292.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 14-nov-2010
-   Creation Date: 12-dec-2002
-   Expiration Date: 12-dec-2011
+   Updated Date: 21-jun-2010
+   Creation Date: 17-sep-2006
+   Expiration Date: 17-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:13:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:15:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about joesdns.net
-&lt;a href=&quot;http://www.aboutus.org/joesdns.net&quot;&gt;AboutUs: joesdns.net&lt;/a&gt;
+Visit AboutUs.org for more information about hghlook.com
+&lt;a href=&quot;http://www.aboutus.org/hghlook.com&quot;&gt;AboutUs: hghlook.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: joesdns.net
-
-Administrative Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
-
-Technical Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+Domain name: hghlook.com
 
 Registrant Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (03df110d009a46569eb4cfab4e073f9c.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (03df110d009a46569eb4cfab4e073f9c.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.joesdns.net
-   ns2.joesdns.net
+   ns291.hostgator.com
+   ns292.hostgator.com
 
-Creation date: 13 Dec 2002 01:41:11
-Expiration date: 13 Dec 2011 01:41:00
+Creation date: 17 Sep 2006 11:43:40
+Expiration date: 17 Sep 2015 11:43:40
 
 
 

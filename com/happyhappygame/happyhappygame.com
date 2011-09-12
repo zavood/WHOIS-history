@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOESDNS.NET
+   Domain Name: HAPPYHAPPYGAME.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Name Server: DNS1.ANHOSTING.COM
+   Name Server: DNS2.ANHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 14-nov-2010
-   Creation Date: 12-dec-2002
-   Expiration Date: 12-dec-2011
+   Updated Date: 03-nov-2010
+   Creation Date: 30-sep-2010
+   Expiration Date: 30-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:13:31 UTC &lt;&lt;&lt;
 
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about joesdns.net
-&lt;a href=&quot;http://www.aboutus.org/joesdns.net&quot;&gt;AboutUs: joesdns.net&lt;/a&gt;
+Visit AboutUs.org for more information about happyhappygame.com
+&lt;a href=&quot;http://www.aboutus.org/happyhappygame.com&quot;&gt;AboutUs: happyhappygame.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: joesdns.net
-
-Administrative Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
-
-Technical Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+Domain name: happyhappygame.com
 
 Registrant Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (385780656b0541f9ba8f585e10df741c.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (385780656b0541f9ba8f585e10df741c.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.joesdns.net
-   ns2.joesdns.net
+   DNS1.anhosting.com
+   DNS2.anhosting.com
 
-Creation date: 13 Dec 2002 01:41:11
-Expiration date: 13 Dec 2011 01:41:00
+Creation date: 01 Oct 2010 04:18:00
+Expiration date: 01 Oct 2011 03:18:09
 
 
 

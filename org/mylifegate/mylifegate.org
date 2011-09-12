@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107319965-LROR
+Domain Name:MYLIFEGATE.ORG
+Created On:29-Aug-2005 21:58:45 UTC
+Last Updated On:09-Aug-2010 19:10:35 UTC
+Expiration Date:29-Aug-2019 21:58:45 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:9381791425093596
+Registrant Name:Austin Beaty
+Registrant Organization:Lifegate Church
+Registrant Street1:3350 Deerwood Parkway
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denton
+Registrant State/Province:TX
+Registrant Postal Code:76205
+Registrant Country:US
+Registrant Phone:+1.9403828500
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elafuente@mylifegate.org
+Admin ID:628882243a82c895
+Admin Name:Eddie Lafuente
+Admin Organization:Lifegate Church
+Admin Street1:3350 Deerwood Parkway
+Admin Street2:
+Admin Street3:
+Admin City:Denton
+Admin State/Province:TX
+Admin Postal Code:76205
+Admin Country:US
+Admin Phone:+1.9403828500
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elafuente@mylifegate.org
+Tech ID:15103583fd90f260
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+011.19027492701
+Tech Phone Ext.:
+Tech FAX:+011.19027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS2.ALWAYSWEBHOSTING.COM
+Name Server:DNS1.ALWAYSWEBHOSTING.COM
+Name Server:DNS3.ALWAYSWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

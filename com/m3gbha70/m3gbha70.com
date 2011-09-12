@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOESDNS.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Domain Name: M3GBHA70.COM
+   Registrar: NAME.COM LLC
+   Whois Server: whois.name.com
+   Referral URL: http://www.name.com
+   Name Server: NS1.AK-NETWORKS.COM
+   Name Server: NS2.AK-NETWORKS.COM
    Status: clientTransferProhibited
-   Updated Date: 14-nov-2010
-   Creation Date: 12-dec-2002
-   Expiration Date: 12-dec-2011
+   Updated Date: 29-mar-2011
+   Creation Date: 16-jun-2010
+   Expiration Date: 16-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:13:31 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about joesdns.net
-&lt;a href=&quot;http://www.aboutus.org/joesdns.net&quot;&gt;AboutUs: joesdns.net&lt;/a&gt;
+
+__   _                             ____
+| \ | | __ _ _ __ ___   ___       / ___|___  _ __ ___
+|  \| |/ _` | '_ ` _ \ / _ \     | |   / _ \| '_ ` _ \
+| |\  | (_| | | | | | |  __/  _  | |__| (_) | | | | | |
+|_| \_|\__,_|_| |_| |_|\___| (_)  \____\___/|_| |_| |_|
+      On a first name basis with the rest of the world.
 
 
-Domain name: joesdns.net
+Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
-Administrative Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
 
-Technical Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+Domain Name:     m3gbha70.com
+Registrar:       Name.com LLC
 
-Registrant Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki ()
-
-   Fax:
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
-
-Status: Locked
+Expiration Date: 2012-06-16 16:36:05
+Creation Date:   2010-06-16 16:36:05
 
 Name Servers:
-   ns1.joesdns.net
-   ns2.joesdns.net
+	ns1.ak-networks.com
+	ns2.ak-networks.com
 
-Creation date: 13 Dec 2002 01:41:11
-Expiration date: 13 Dec 2011 01:41:00
+REGISTRANT CONTACT INFO
+Uptick Ads
+Robert Carter
+PO 241636
+Los Angeles
+CA
+90024
+US
+Phone:         +1.3109556700
+Email Address: rcarter@webullient.com
 
+ADMINISTRATIVE CONTACT INFO
+Uptick Ads
+Robert Carter
+PO 241636
+Los Angeles
+CA
+90024
+US
+Phone:         +1.3109556700
+Email Address: rcarter@webullient.com
 
+TECHNICAL CONTACT INFO
+Uptick Ads
+Robert Carter
+PO 241636
+Los Angeles
+CA
+90024
+US
+Phone:         +1.3109556700
+Email Address: rcarter@webullient.com
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+BILLING CONTACT INFO
+Adknowledge
+Domain Admin
+4600 Madison Ave.
+1000
+Kansas City
+MO
+64112
+US
+Phone:         +1.8169311771
+Email Address: sysrenew@adknowledge.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Timestamp: 1315858443.2061
+
+The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-12T14:14:03-06:00

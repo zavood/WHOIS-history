@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOESDNS.NET
+   Domain Name: GRIDIRONRAMS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
+   Name Server: NS1.SITEGROUND165.COM
+   Name Server: NS2.SITEGROUND165.COM
    Status: clientTransferProhibited
-   Updated Date: 14-nov-2010
-   Creation Date: 12-dec-2002
-   Expiration Date: 12-dec-2011
+   Updated Date: 10-feb-2009
+   Creation Date: 20-feb-2007
+   Expiration Date: 20-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:13:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:14:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about joesdns.net
-&lt;a href=&quot;http://www.aboutus.org/joesdns.net&quot;&gt;AboutUs: joesdns.net&lt;/a&gt;
+Visit AboutUs.org for more information about gridironrams.com
+&lt;a href=&quot;http://www.aboutus.org/gridironrams.com&quot;&gt;AboutUs: gridironrams.com&lt;/a&gt;
 
 
-Domain name: joesdns.net
-
-Administrative Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
-
-Technical Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+Domain name: gridironrams.com
 
 Registrant Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki ()
+
+   timothy locklear II ()
 
    Fax:
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+   po box 1266
+   pembroke, NC 28372
+   US
+
+Administrative Contact:
+
+   timothy locklear II (newdomains@siteground.com)
+   +1.9105214699
+   Fax:
+   po box 1266
+   pembroke, NC 28372
+   US
+
+Technical Contact:
+
+   timothy locklear II (newdomains@siteground.com)
+   +1.9105214699
+   Fax:
+   po box 1266
+   pembroke, NC 28372
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.joesdns.net
-   ns2.joesdns.net
+   ns1.siteground165.com
+   ns2.siteground165.com
 
-Creation date: 13 Dec 2002 01:41:11
-Expiration date: 13 Dec 2011 01:41:00
+Creation date: 20 Feb 2007 23:25:05
+Expiration date: 20 Feb 2012 23:25:05
 
 
 
