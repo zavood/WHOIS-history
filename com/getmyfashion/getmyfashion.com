@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KNIGHTHAIR.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS5.MYHOSTADMIN.NET
-   Name Server: NS6.MYHOSTADMIN.NET
+   Domain Name: GETMYFASHION.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-feb-2011
-   Creation Date: 02-mar-2004
-   Expiration Date: 02-mar-2012
+   Status: clientUpdateProhibited
+   Updated Date: 23-may-2010
+   Creation Date: 24-may-2006
+   Expiration Date: 24-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:45:39 UTC &lt;&lt;&lt;
 
@@ -52,59 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.bizcn.com
-Whois Server: whois.bizcn.com
-
-Domain name: knighthair.com
-
-Registrant Contact:
-   ran xin
-   xin ran aojer@126.com
-   36210711 fax: 36210711
-   gz
-   gz gz 510410
-   cn
-
-Administrative Contact:
-   xin ran aojer@126.com
-   36210711 fax: 36210711
-   gz
-   gz gz 510410
-   cn
-
-Technical Contact:
-   xin ran aojer@126.com
-   36210711 fax: 36210711
-   gz
-   gz gz 510410
-   cn
-
-Billing Contact:
-   xin ran aojer@126.com
-   36210711 fax: 36210711
-   gz
-   gz gz 510410
-   cn
-
-DNS:
-ns5.myhostadmin.net
-ns6.myhostadmin.net
-
-Created: 2004-03-02
-Expires: 2012-03-02
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.
