@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159690599-LROR
+Domain Name:KINOPOD.ORG
+Created On:19-Jul-2010 17:24:28 UTC
+Last Updated On:18-Jun-2011 20:05:58 UTC
+Expiration Date:19-Jul-2012 17:24:28 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_12004361
+Registrant Name:Gennadij V Kozlenko
+Registrant Organization:Gennadij V Kozlenko
+Registrant Street1:Rostovskaja oblast ul. Dobrovolskogo d.15/1 kv.9
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rostov-na-Donu
+Registrant State/Province:Rostov-na-Donu
+Registrant Postal Code:344000
+Registrant Country:RU
+Registrant Phone:+7.9043409427
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gennadiy.kozlenko@gmail.com
+Admin ID:DI_12004361
+Admin Name:Gennadij V Kozlenko
+Admin Organization:Gennadij V Kozlenko
+Admin Street1:Rostovskaja oblast ul. Dobrovolskogo d.15/1 kv.9
+Admin Street2:
+Admin Street3:
+Admin City:Rostov-na-Donu
+Admin State/Province:Rostov-na-Donu
+Admin Postal Code:344000
+Admin Country:RU
+Admin Phone:+7.9043409427
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gennadiy.kozlenko@gmail.com
+Tech ID:DI_12004361
+Tech Name:Gennadij V Kozlenko
+Tech Organization:Gennadij V Kozlenko
+Tech Street1:Rostovskaja oblast ul. Dobrovolskogo d.15/1 kv.9
+Tech Street2:
+Tech Street3:
+Tech City:Rostov-na-Donu
+Tech State/Province:Rostov-na-Donu
+Tech Postal Code:344000
+Tech Country:RU
+Tech Phone:+7.9043409427
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gennadiy.kozlenko@gmail.com
+Name Server:NS3.FASTVPS.RU
+Name Server:NS4.FASTVPS.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
