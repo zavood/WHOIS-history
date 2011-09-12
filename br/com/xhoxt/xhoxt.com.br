@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 20:25:47 (BRT -03:00)
+
+domain:      xhoxt.com.br
+owner:       CRISTIANO RAMOS DE OLIVEIRA
+ownerid:     283.481.828-29
+country:     BR
+owner-c:     JUSPE23
+admin-c:     JUSPE23
+tech-c:      JUSPE23
+billing-c:   JUSPE23
+nserver:     ns1.supervps.com.br
+nsstat:      20110912 UH
+nslastaa:    20110824
+nserver:     ns2.supervps.com.br
+nsstat:      20110912 UH
+nslastaa:    20110824
+saci:        yes
+created:     20110801 #8652101
+expires:     20110801
+changed:     20110815
+status:      on-hold
+
+nic-hdl-br:  JUSPE23
+person:      JULIANA SILVA PEDRA
+e-mail:      juliana.pedra@globomail.com
+created:     20110119
+changed:     20110119
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
