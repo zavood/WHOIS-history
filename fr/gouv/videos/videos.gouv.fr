@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; videos.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      videos.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SGDG32-FRNIC
+admin-c:     ED2164-FRNIC
+tech-c:      IN484-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1904-FRNIC
+registrar:   INTEGRA
+anniversary: 25/03
+created:     25/03/2010
+last-update: 14/04/2010
+source:      FRNIC
+
+ns-list:     NSL1904-FRNIC
+nserver:     ns1.integra-europe.fr [217.115.161.161]
+nserver:     ns2.integra-europe.fr [217.115.161.162]
+source:      FRNIC
+
+registrar:   INTEGRA
+type:        Isp Option 1
+address:     3 Boulevard des Bouvets
+address:     NANTERRE CEDEX
+country:     FR
+phone:       +33 1 55 17 36 50
+fax-no:      +33 1 55 17 47 90
+e-mail:      ttran@integra.fr
+website:     http://www.integra.fr/
+anonymous:   NO
+registered:  21/10/2002
+source:      FRNIC
+
+nic-hdl:     SGDG32-FRNIC
+type:        ORGANIZATION
+contact:     DIR DES SERVICES ADMINIST ET FINANCIER
+address:     18, rue Vaneau
+address:     75007 Paris
+country:     FR
+phone:       +33 1 42 75 51 98
+e-mail:      domreg@integra.fr
+changed:     09/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ED2164-FRNIC
+type:        PERSON
+contact:     Emmanuelle Denis
+address:     DIR DES SERVICES ADMINIST ET FINANCIER
+address:     18, rue Vaneau
+address:     75007 Paris
+country:     FR
+phone:       +33 1 42 75 53 65
+e-mail:      Emmanuelle.denis@pm.gouv.fr
+changed:     14/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IN484-FRNIC
+type:        ROLE
+contact:     INTEGRA NET
+address:     3, boulevard des Bouvets
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 56 58 60 15
+e-mail:      domreg@integra.fr
+admin-c:     CT1231-FRNIC
+tech-c:      CBDL2-FRNIC
+notify:      domreg@integra.fr
+changed:     22/05/2007 domreg@integra.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
