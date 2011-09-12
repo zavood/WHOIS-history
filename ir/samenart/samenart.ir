@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'samenart.ir'
+
+
+domain:		samenart.ir
+ascii:		samenart.ir
+remarks:	(Domain Holder) Mahdi Bagheri
+remarks:	(Domain Holder Address) 17 Shahrivar St., Abshar St., Farzam Alley, No. 10, Unit 3,, Tehran, Tehran, IR
+holder-c:	mb380-irnic
+admin-c:	mb380-irnic
+tech-c:		mb380-irnic
+nserver:	Ns1.ati24.com
+nserver:	Ns2.ati24.com
+last-updated:	2011-08-27
+source:		IRNIC # Filtered
+
+nic-hdl:	mb380-irnic
+person:		Mahdi Bagheri
+e-mail:		mahdi.b.mail@gmail.com
+address:	17 Shahrivar St., Abshar St., Farzam Alley, No. 10, Unit 3,, Tehran, Tehran, IR
+phone:		09125179430
+source:		IRNIC # Filtered
+
