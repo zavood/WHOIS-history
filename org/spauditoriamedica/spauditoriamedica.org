@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154009805-LROR
+Domain Name:SPAUDITORIAMEDICA.ORG
+Created On:06-Sep-2008 00:44:25 UTC
+Last Updated On:02-Sep-2011 18:01:14 UTC
+Expiration Date:06-Sep-2012 00:44:25 UTC
+Sponsoring Registrar:Dattatec.com de Irazoqui Veronica Palmira (R1737-LROR)
+Status:OK
+Registrant ID:DTTPIR-6919
+Registrant Name:David Urquizo Sanchez
+Registrant Organization:Urquizo Sanchez David
+Registrant Street1:Malecon Armendariz 791 Miraflores
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lima
+Registrant State/Province:Tramitado - Tramitado
+Registrant Postal Code:23
+Registrant Country:PE
+Registrant Phone:+0.95016661
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:durquizos@hotmail.com
+Admin ID:DTTPIR-6919
+Admin Name:David Urquizo Sanchez
+Admin Organization:Urquizo Sanchez David
+Admin Street1:Malecon Armendariz 791 Miraflores
+Admin Street2:
+Admin Street3:
+Admin City:Lima
+Admin State/Province:Tramitado - Tramitado
+Admin Postal Code:23
+Admin Country:PE
+Admin Phone:+0.95016661
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:durquizos@hotmail.com
+Tech ID:DTTPIR-6919
+Tech Name:David Urquizo Sanchez
+Tech Organization:Urquizo Sanchez David
+Tech Street1:Malecon Armendariz 791 Miraflores
+Tech Street2:
+Tech Street3:
+Tech City:Lima
+Tech State/Province:Tramitado - Tramitado
+Tech Postal Code:23
+Tech Country:PE
+Tech Phone:+0.95016661
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:durquizos@hotmail.com
+Name Server:NS3.HOSTMAR.COM
+Name Server:NS4.HOSTMAR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
