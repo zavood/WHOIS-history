@@ -1,0 +1,56 @@
+query: img.or.kr
+
+# KOREAN
+
+
+&micro;&micro;&cedil;&THORN;&Agrave;&Icirc;&Agrave;&Igrave;&cedil;&sect;                  : img.or.kr
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc;                      : (&Aacute;&Ouml;)&acute;&aring;&sup3;&times;&Agrave;&Oacute;&Auml;&Uacute;&cedil;&reg;&frac34;&AElig;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &Aacute;&Ouml;&frac14;&Ograve;                 : &frac14;&shy;&iquest;&iuml; &frac14;&Ucirc;&AElig;&Auml;&plusmn;&cedil; &deg;&iexcl;&para;&ocirc;&micro;&iquest; 146-4 &Agrave;&macr;&sup3;&ordf;II&ordm;&ocirc;&micro;&ugrave; 3&Atilde;&thorn;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &iquest;&igrave;&AElig;&iacute;&sup1;&oslash;&Egrave;&pound;             : 138160
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute;                      : &deg;&shy;&Egrave;&ntilde;&frac12;&Acirc;
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Agrave;&Uacute;&iquest;&igrave;&AElig;&iacute;             : domain-admin@dotname.co.kr
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Egrave;&shy;&sup1;&oslash;&Egrave;&pound;             : 02-443-6890
+&micro;&icirc;&middot;&Iuml;&Agrave;&Iuml;                      : 2005. 06. 15.
+&Atilde;&Ouml;&plusmn;&Ugrave; &Aacute;&curren;&ordm;&cedil; &ordm;&macr;&deg;&aelig;&Agrave;&Iuml;            : 2005. 06. 16.
+&raquo;&ccedil;&iquest;&euml; &Aacute;&frac34;&middot;&aacute;&Agrave;&Iuml;                 : 2014. 06. 15.
+&Aacute;&curren;&ordm;&cedil;&deg;&oslash;&deg;&sup3;&iquest;&copy;&ordm;&Icirc;                : Y
+&micro;&icirc;&middot;&Iuml;&acute;&euml;&Ccedil;&agrave;&Agrave;&Uacute;                  : (&Aacute;&Ouml;)&acute;&aring;&sup3;&times;&Agrave;&Oacute;&Auml;&Uacute;&cedil;&reg;&frac34;&AElig;(http://www.dotname.co.kr)
+
+1&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns1.dothost.co.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 218.239.223.222
+
+2&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns2.dothost.co.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.39.253.51
+
+&sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Agrave;&Igrave;&cedil;&sect;&Agrave;&Igrave; .kr&Agrave;&Igrave; &frac34;&AElig;&acute;&Ntilde; &deg;&aelig;&iquest;&igrave;&acute;&Acirc; IP&Aacute;&Ouml;&frac14;&Ograve;&deg;&iexcl; &ordm;&cedil;&Agrave;&Igrave;&Aacute;&ouml; &frac34;&Ecirc;&frac12;&Agrave;&acute;&Iuml;&acute;&Ugrave;.
+
+# ENGLISH
+
+
+Domain Name                 : img.or.kr
+Registrant                  : Dotname Korea Corporation
+Registrant Address          : 3F Yunah II Bldg. 146-4 Garak-dong SEOUL
+Registrant Zip Code         : 138160
+Administrative Contact(AC)  : HeeseungKang
+AC E-Mail                   : domain-admin@dotname.co.kr
+AC Phone Number             : 02-443-6890
+Registered Date             : 2005. 06. 15.
+Last updated Date           : 2005. 06. 16.
+Expiration Date             : 2014. 06. 15.
+Publishes                   : Y
+Authorized Agency           : Dotname Korea Corp.(http://www.dotname.co.kr)
+
+Primary Name Server
+   Host Name                : ns1.dothost.co.kr
+   IP Address               : 218.239.223.222
+
+Secondary Name Server
+   Host Name                : ns2.dothost.co.kr
+   IP Address               : 211.39.253.51
+
+
+- KISA/KRNIC Whois Service -
+
+
