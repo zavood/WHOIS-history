@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NURSINGCROSSING.COM
+   Domain Name: RIPPROTECTEDDVD.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS01.DOMAINCONTROL.COM
-   Name Server: PDNS02.DOMAINCONTROL.COM
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 09-may-2007
-   Expiration Date: 09-may-2014
+   Updated Date: 18-aug-2011
+   Creation Date: 06-jul-2008
+   Expiration Date: 06-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:12:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:12:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Harrison Barnes
+   Thinnakorn Chamai
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NURSINGCROSSING.COM
+   Domain Name: RIPPROTECTEDDVD.COM
 
    Domain servers in listed order:
-      PDNS01.DOMAINCONTROL.COM
-      PDNS02.DOMAINCONTROL.COM
+      NS1.SEDOPARKING.COM
+      NS2.SEDOPARKING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NURSINGCROSSING.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=RIPPROTECTEDDVD.COM

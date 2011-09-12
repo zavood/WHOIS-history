@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NURSINGCROSSING.COM
+   Domain Name: OURINSTANTWIN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS01.DOMAINCONTROL.COM
-   Name Server: PDNS02.DOMAINCONTROL.COM
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 09-may-2007
-   Expiration Date: 09-may-2014
+   Updated Date: 12-mar-2011
+   Creation Date: 19-may-2008
+   Expiration Date: 19-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:12:03 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Harrison Barnes
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NURSINGCROSSING.COM
+   Domain Name: OURINSTANTWIN.COM
 
    Domain servers in listed order:
-      PDNS01.DOMAINCONTROL.COM
-      PDNS02.DOMAINCONTROL.COM
+      NS1.BLUEHOST.COM
+      NS2.BLUEHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NURSINGCROSSING.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=OURINSTANTWIN.COM

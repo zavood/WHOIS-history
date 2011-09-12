@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NURSINGCROSSING.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS01.DOMAINCONTROL.COM
-   Name Server: PDNS02.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: TAITOREITTI.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.MEDIADRIVE.COM
+   Name Server: NS2.MEDIADRIVE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 09-may-2007
-   Expiration Date: 09-may-2014
+   Updated Date: 16-jun-2011
+   Creation Date: 28-jun-2002
+   Expiration Date: 28-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:12:03 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       taitoreitti.com
+owner:        n/a
+organization: TaitoReitti Oy
+email:        hostmaster@taitoreitti.com
+address:      Yliopistonkatu 23
+city:         Jyvaskyla
+postal-code:  FIN-40100
+country:      FI
+phone:        +358.14610211
+admin-c:      CCOM-13754 hostmaster@taitoreitti.com
+tech-c:       CCOM-25585 hostmaster@nebula.fi
+billing-c:    CCOM-25585 hostmaster@nebula.fi
+reseller:     Service provided by Nebula Oy Ltd
+reseller:     Webhosting, Software-as-a-Service,
+reseller:     Broadband connections and Co-Location services
+reseller:     For more information see www.nebula.fi
+nserver:      ns1.mediadrive.com 217.30.180.225
+nserver:      ns2.mediadrive.com 217.30.182.225
+status:       lock
+created:      2002-06-28 09:59:14 UTC
+modified:     2011-06-16 05:22:45 UTC
+expires:      2012-06-28 07:58:56 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-13754
+person:       n/a
+organization: TaitoReitti Oy
+email:        hostmaster@taitoreitti.com
+address:      Kotikuja 4
+city:         Vaajakoski
+postal-code:  FIN-40800
+country:      FI
+phone:        +358.503082330
 
+contact-hdl:  CCOM-25585
+person:       n/a
+organization: Nebula Oy
+email:        hostmaster@nebula.fi
+address:      Heikkilantie 2, 5. krs
+city:         Helsinki
+postal-code:  00210
+country:      FI
+phone:        +358.968183810
 
-Registrant:
-   Harrison Barnes
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NURSINGCROSSING.COM
-
-   Domain servers in listed order:
-      PDNS01.DOMAINCONTROL.COM
-      PDNS02.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NURSINGCROSSING.COM
+source:       joker.com live whois service
+query-time:   0.028995
+db-updated:   2011-09-12 23:12:29
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.
