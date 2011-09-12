@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 5MIN.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
-   Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 16-jul-2003
-   Expiration Date: 16-jul-2012
+   Domain Name: COACHOUTLETONLINESTORES.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: DNS7.ZGSJ.COM
+   Name Server: DNS8.ZGSJ.COM
+   Status: ok
+   Updated Date: 21-oct-2010
+   Creation Date: 21-oct-2010
+   Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:12:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:10:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,44 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us. We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Registrant:
-   5minutes
-   5 Yoni Netanyahu St.
-   Or Yehuda, Tel Aviv 64723
-   IL
+Domain Name: coachoutletonlinestores.com
 
-   Domain Name: 5MIN.COM
+Registrant Contact:
+   stanley
+   stanley ye stanley@zocytrade.com
+   +86.13799669795  fax: +86.13799669795
+   BJ street NO. 663
+   BJ BJ 350000
+   CN
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      5minutes
-      Hanan Laschover
-      5 Yoni Netanyahu St.
-      Or Yehuda, Tel Aviv 64723
-      IL
-      97 2542428175
-      lashover@gmail.com
+Administrative Contact:
+   stanley
+   stanley ye stanley@zocytrade.com
+   +86.13799669795  fax: +86.13799669795
+   BJ street NO. 663
+   BJ BJ 350000
+   CN
 
-   Domain created on 16-Jul-2003
-   Domain expires on 15-Jul-2016
-   Last updated on 27-Jun-2011
+Technical Contact:
+   stanley
+   stanley ye stanley@zocytrade.com
+   +86.13799669795  fax: +86.13799669795
+   BJ street NO. 663
+   BJ BJ 350000
+   CN
 
-   Domain servers in listed order:
-
-      DNS-01.NS.AOL.COM
-      DNS-02.NS.AOL.COM
-      DNS-06.NS.AOL.COM
-      DNS-07.NS.AOL.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+Billing Contact:
+   stanley
+   stanley ye stanley@zocytrade.com
+   +86.13799669795  fax: +86.13799669795
+   BJ street NO. 663
+   BJ BJ 350000
+   CN

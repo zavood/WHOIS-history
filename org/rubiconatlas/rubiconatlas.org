@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D47033727-LROR
+Domain Name:RUBICONATLAS.ORG
+Created On:10-Dec-2000 18:48:29 UTC
+Last Updated On:09-Aug-2011 23:22:36 UTC
+Expiration Date:10-Dec-2013 18:48:29 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:51479540-NSI
+Registrant Name:Rubicon West, Inc.
+Registrant Street1:121 SW Salmon
+Registrant Street2:Suite 1200
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:OR
+Registrant Postal Code:97204
+Registrant Country:US
+Registrant Phone:+1.5032287400
+Registrant Phone Ext.:
+Registrant FAX:+1.5032247474
+Registrant FAX Ext.:
+Registrant Email:rsmith@rubicon.com
+Admin ID:51479540-NSI
+Admin Name:Rubicon West, Inc.
+Admin Street1:121 SW Salmon
+Admin Street2:Suite 1200
+Admin Street3:
+Admin City:Portland
+Admin State/Province:OR
+Admin Postal Code:97204
+Admin Country:US
+Admin Phone:+1.5032287400
+Admin Phone Ext.:
+Admin FAX:+1.5032247474
+Admin FAX Ext.:
+Admin Email:rsmith@rubicon.com
+Tech ID:15085842-NSI
+Tech Name:Rubicon West, Inc.
+Tech Organization:Rubicon West, Inc.
+Tech Street1:One World Trade Center
+Tech Street2:
+Tech Street3:
+Tech City:Portland
+Tech State/Province:OR
+Tech Postal Code:97204
+Tech Country:US
+Tech Phone:+1.5032287400
+Tech Phone Ext.:
+Tech FAX:+1.5032247474
+Tech FAX Ext.:
+Tech Email:rsmith@RUBICON.COM
+Name Server:NS1.RUBICON.COM
+Name Server:AUTHNS1.QWEST.NET
+Name Server:AUTHNS2.QWEST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

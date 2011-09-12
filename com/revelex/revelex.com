@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 5MIN.COM
+   Domain Name: REVELEX.COM
    Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
    Whois Server: whois.domaindiscover.com
    Referral URL: http://www.domaindiscover.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
+   Name Server: DNS4.REVELEX.COM
+   Name Server: DNS5.REVELEX.COM
+   Name Server: NS-A.PNAP.NET
+   Name Server: NS-B.PNAP.NET
+   Name Server: NS-C.PNAP.NET
+   Name Server: NS-D.PNAP.NET
    Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 16-jul-2003
-   Expiration Date: 16-jul-2012
+   Updated Date: 13-nov-2010
+   Creation Date: 12-nov-1999
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:12:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:12:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -64,32 +66,45 @@ database. By submitting this query, you agree to abide by this
 policy.
 
 Registrant:
-   5minutes
-   5 Yoni Netanyahu St.
-   Or Yehuda, Tel Aviv 64723
-   IL
+   Revelex.Corp.
+   6405 Congress Ave Ste 120
+   Boca Raton, FL 33487-2861
+   US
 
-   Domain Name: 5MIN.COM
+   Domain Name: REVELEX.COM
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      5minutes
-      Hanan Laschover
-      5 Yoni Netanyahu St.
-      Or Yehuda, Tel Aviv 64723
-      IL
-      97 2542428175
-      lashover@gmail.com
+   Administrative Contact:
+      Revelex.Corp.
+      James Horvath
+      6405 Congress Ave Ste 120
+      Boca Raton, FL 33487-2861
+      US
+      5619885588
+      5619889099 [fax]
+      administrator@revelex.com
 
-   Domain created on 16-Jul-2003
-   Domain expires on 15-Jul-2016
-   Last updated on 27-Jun-2011
+   Technical Contact, Zone Contact:
+      Revelex.Corp.
+      Revelex Corp.
+      6405 Congress Ave Ste 120
+      Boca Raton, FL 33487-2861
+      US
+      561-988-5588
+      561-988-9099 [fax]
+      administrator@revelex.com
+
+   Domain created on 12-Nov-1999
+   Domain expires on 12-Nov-2011
+   Last updated on 18-Aug-2009
 
    Domain servers in listed order:
 
-      DNS-01.NS.AOL.COM
-      DNS-02.NS.AOL.COM
-      DNS-06.NS.AOL.COM
-      DNS-07.NS.AOL.COM
+      DNS4.REVELEX.COM
+      DNS5.REVELEX.COM
+      NS-A.PNAP.NET
+      NS-B.PNAP.NET
+      NS-C.PNAP.NET
+      NS-D.PNAP.NET
 
 Domain registration and hosting powered by DomainDiscover
 As low as $9/year, including FREE: responsive toll-free support,

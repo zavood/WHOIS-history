@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D23188826-LROR
+Domain Name:INDOMCO.ORG
+Created On:23-Mar-2000 23:53:27 UTC
+Last Updated On:25-Jun-2009 07:35:16 UTC
+Expiration Date:23-Mar-2012 23:53:27 UTC
+Sponsoring Registrar:INDOM (R1725-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:OWN-30E8DC219
+Registrant Name:- -
+Registrant Organization:INDOM
+Registrant Street1:79-81 rue du Fb Poissonniere
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:none
+Registrant Postal Code:75009
+Registrant Country:FR
+Registrant Phone:+33.148018360
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:indomco@indomco.com
+Admin ID:ADM1-30E8DC219
+Admin Name:Indomco Contact
+Admin Street1:79-81 rue du Faubourg Poissonniere
+Admin Street2:
+Admin Street3:
+Admin City:PARIS
+Admin State/Province:
+Admin Postal Code:75009
+Admin Country:FR
+Admin Phone:+33.148018360
+Admin Phone Ext.:
+Admin FAX:+33.148016773
+Admin FAX Ext.:
+Admin Email:indomco@indomco.com
+Tech ID:TECH1-30E8DC219
+Tech Name:Indomco Contact
+Tech Street1:79-81 rue du Faubourg Poissonniere
+Tech Street2:
+Tech Street3:
+Tech City:PARIS
+Tech State/Province:none
+Tech Postal Code:75009
+Tech Country:FR
+Tech Phone:+33.148018360
+Tech Phone Ext.:
+Tech FAX:+33.148016773
+Tech FAX Ext.:
+Tech Email:indomco@indomco.com
+Name Server:INDOM10.INDOMCO.COM
+Name Server:INDOM20.INDOMCO.NET
+Name Server:INDOM30.INDOMCO.FR
+Name Server:INDOM80.INDOMCO.HK
+Name Server:INDOM130.INDOMCO.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
