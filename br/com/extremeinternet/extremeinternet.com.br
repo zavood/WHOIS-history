@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 20:45:09 (BRT -03:00)
+
+domain:      extremeinternet.com.br
+owner:       Extreme Sistemas para Internet Ltda
+ownerid:     002.775.676/0001-82
+responsible: Davidson Matsunaga
+country:     BR
+owner-c:     DAM42
+admin-c:     DAM42
+tech-c:      DAM42
+billing-c:   DAM42
+nserver:     ns1.extremeinternet.com.br 189.21.116.20
+nsstat:      20110907 AA
+nslastaa:    20110907
+nserver:     ns2.extremeinternet.com.br 189.21.116.21
+nsstat:      20110907 AA
+nslastaa:    20110907
+created:     20001113 #464288
+expires:     20111113
+changed:     20101029
+status:      published
+
+nic-hdl-br:  DAM42
+person:      eXtreme Internet
+e-mail:      extreme@extreme.com.br
+created:     19981123
+changed:     20090526
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
