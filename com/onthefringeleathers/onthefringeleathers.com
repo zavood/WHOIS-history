@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CUBKA.COM
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: NS.EHOST.CZ
-   Name Server: NS2.EHOST.CZ
-   Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 08-nov-2010
-   Expiration Date: 08-nov-2012
+   Domain Name: ONTHEFRINGELEATHERS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: DNS01.GPN.REGISTER.COM
+   Name Server: DNS02.GPN.REGISTER.COM
+   Name Server: DNS03.GPN.REGISTER.COM
+   Name Server: DNS04.GPN.REGISTER.COM
+   Name Server: DNS05.GPN.REGISTER.COM
+   Status: pendingDelete
+   Updated Date: 09-sep-2011
+   Creation Date: 28-jun-2004
+   Expiration Date: 28-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:15:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:15:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,56 +54,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       cubka.com
-owner:        Lukas Blecha
-email:        blechaluk@seznam.cz
-address:      Slatina 14
-city:         Kralovice
-postal-code:  33141
-country:      CZ
-phone:        +60.3463523
-admin-c:      CCOM-53891 blechaluk@seznam.cz
-tech-c:       CCOM-53891 blechaluk@seznam.cz
-billing-c:    CCOM-106933 dom-reg-joker@ignum.cz
-reseller:     Domena byla registrovana na www.domena.cz.
-reseller:     Domain registered at www.domena.cz.
-reseller:     (c) IGNUM, s.r.o.
-nserver:      ns.ehost.cz
-nserver:      ns2.ehost.cz
-status:       lock
-created:      2010-11-08 18:11:08 UTC
-modified:     2011-09-10 07:27:09 UTC
-expires:      2012-11-08 18:11:08 UTC
-query-source: 188.72.227.95
-
-contact-hdl:  CCOM-53891
-person:       Lukas Blecha
-email:        blechaluk@seznam.cz
-address:      Slatina 14
-city:         Kralovice
-postal-code:  33141
-country:      CZ
-phone:        +603.463523
-
-contact-hdl:  CCOM-106933
-person:       Robert Prokes
-organization: IGNUM, s.r.o.
-email:        dom-reg-joker@ignum.cz
-address:      Vinohradska 190
-city:         Praha 3
-postal-code:  130 61
-country:      CZ
-phone:        +420.296332211
-
-source:       joker.com live whois service
-query-time:   0.034595
-db-updated:   2011-09-12 13:16:42
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+No match for &quot;onthefringeleathers.com&quot;

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CUBKA.COM
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: NS.EHOST.CZ
-   Name Server: NS2.EHOST.CZ
+   Domain Name: NEEDTWAT.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.CHOOPA.COM
+   Name Server: NS2.CHOOPA.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 08-nov-2010
-   Expiration Date: 08-nov-2012
+   Status: clientUpdateProhibited
+   Updated Date: 02-sep-2011
+   Creation Date: 18-dec-2006
+   Expiration Date: 18-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:15:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:17:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,56 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       cubka.com
-owner:        Lukas Blecha
-email:        blechaluk@seznam.cz
-address:      Slatina 14
-city:         Kralovice
-postal-code:  33141
-country:      CZ
-phone:        +60.3463523
-admin-c:      CCOM-53891 blechaluk@seznam.cz
-tech-c:       CCOM-53891 blechaluk@seznam.cz
-billing-c:    CCOM-106933 dom-reg-joker@ignum.cz
-reseller:     Domena byla registrovana na www.domena.cz.
-reseller:     Domain registered at www.domena.cz.
-reseller:     (c) IGNUM, s.r.o.
-nserver:      ns.ehost.cz
-nserver:      ns2.ehost.cz
-status:       lock
-created:      2010-11-08 18:11:08 UTC
-modified:     2011-09-10 07:27:09 UTC
-expires:      2012-11-08 18:11:08 UTC
-query-source: 188.72.227.95
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-contact-hdl:  CCOM-53891
-person:       Lukas Blecha
-email:        blechaluk@seznam.cz
-address:      Slatina 14
-city:         Kralovice
-postal-code:  33141
-country:      CZ
-phone:        +603.463523
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-contact-hdl:  CCOM-106933
-person:       Robert Prokes
-organization: IGNUM, s.r.o.
-email:        dom-reg-joker@ignum.cz
-address:      Vinohradska 190
-city:         Praha 3
-postal-code:  130 61
-country:      CZ
-phone:        +420.296332211
 
-source:       joker.com live whois service
-query-time:   0.034595
-db-updated:   2011-09-12 13:16:42
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+Registrant:
+   Adrian Stamer
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: NEEDTWAT.COM
+
+   Domain servers in listed order:
+      NS1.CHOOPA.COM
+      NS2.CHOOPA.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEEDTWAT.COM
