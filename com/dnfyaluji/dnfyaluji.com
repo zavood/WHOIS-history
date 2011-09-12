@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101CHESSTIPS.COM
+   Domain Name: DNFYALUJI.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 22-mar-2005
-   Expiration Date: 22-mar-2013
+   Updated Date: 14-aug-2011
+   Creation Date: 13-aug-2010
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:40:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:40:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about 101chesstips.com
-&lt;a href=&quot;http://www.aboutus.org/101chesstips.com&quot;&gt;AboutUs: 101chesstips.com&lt;/a&gt;
+Visit AboutUs.org for more information about dnfyaluji.com
+&lt;a href=&quot;http://www.aboutus.org/dnfyaluji.com&quot;&gt;AboutUs: dnfyaluji.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: 101chesstips.com
+Domain name: dnfyaluji.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+
+   Reactivation Period ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   15801 NE 24th Street
+   Bellevue, WA 98004
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (99bc0b06ca8d496cb5ab714d084eef0f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+
+   Reactivation Period (Reactivation-Pending@enom.com)
+   +1.4252744500
+   Fax: +1.4259744791
+   15801 NE 24th Street
+   Bellevue, WA 98004
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (99bc0b06ca8d496cb5ab714d084eef0f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+
+   Reactivation Period (Reactivation-Pending@enom.com)
+   +1.4252744500
+   Fax: +1.4259744791
+   15801 NE 24th Street
+   Bellevue, WA 98004
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.stabletransit.com
-   dns2.stabletransit.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 22 Mar 2005 06:13:00
-Expiration date: 22 Mar 2013 05:13:00
+Creation date: 13 Aug 2010 06:28:00
+Expiration date: 13 Aug 2011 01:28:00
 
 
 

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 15-apr-2010
    Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 12:32:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:40:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Jennifer Koenig
-   720 W 121st Street
-   Kansas City, Missouri 64145
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: 1FTPATCHCABLE.COM
-      Created on: 15-Apr-10
-      Expires on: 15-Apr-12
-      Last Updated on: 15-Apr-11
-
-   Administrative Contact:
-      Koenig, Jennifer  jkoenig@findem-keepem.com
-      720 W 121st Street
-      Kansas City, Missouri 64145
-      United States
-      (816) 769-3005      Fax --
-
-   Technical Contact:
-      Koenig, Jennifer  jkoenig@findem-keepem.com
-      720 W 121st Street
-      Kansas City, Missouri 64145
-      United States
-      (816) 769-3005      Fax --
 
    Domain servers in listed order:
       NS1.GAYPRIDEBAND.COM
       NS2.GAYPRIDEBAND.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=1FTPATCHCABLE.COM

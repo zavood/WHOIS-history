@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-jan-2006
    Expiration Date: 05-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 12:32:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:39:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Ben Cope
-   P.O. Box 1181
-   Powder Springs, Georgia 30127
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: 1SMARTMOM.COM
-      Created on: 05-Jan-06
-      Expires on: 05-Jan-12
-      Last Updated on: 06-Jan-11
-
-   Administrative Contact:
-      Cope, Ben  bcope1@gmail.com
-      P.O. Box 1181
-      Powder Springs, Georgia 30127
-      United States
-      +1.4049920957      Fax --
-
-   Technical Contact:
-      Cope, Ben  bcope1@gmail.com
-      P.O. Box 1181
-      Powder Springs, Georgia 30127
-      United States
-      +1.4049920957      Fax --
 
    Domain servers in listed order:
       NS51.DOMAINCONTROL.COM
       NS52.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=1SMARTMOM.COM

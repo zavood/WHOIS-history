@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 1STTIMEINVESTOR.COM
+   Domain Name: ANXAU.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-jul-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2013
+   Updated Date: 27-mar-2011
+   Creation Date: 26-mar-2006
+   Expiration Date: 26-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:40:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:39:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Derrick Thiecke
+   Fitsec Oy
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 1STTIMEINVESTOR.COM
+   Domain Name: ANXAU.COM
 
    Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=1STTIMEINVESTOR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ANXAU.COM
