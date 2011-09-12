@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129996631-LROR
+Domain Name:SITEUA.ORG
+Created On:03-Oct-2006 13:33:35 UTC
+Last Updated On:29-Sep-2010 12:42:11 UTC
+Expiration Date:03-Oct-2011 13:33:35 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-166389
+Registrant Name:-
+Registrant Organization:W Net ISP
+Registrant Street1:Esplanadnaya, str 20, office 302
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kiyv
+Registrant State/Province:--
+Registrant Postal Code:01023
+Registrant Country:UA
+Registrant Phone:+380.442359246
+Registrant Phone Ext.:
+Registrant FAX:+380.442359246
+Registrant FAX Ext.:
+Registrant Email:hm-joker@wnet.ua
+Admin ID:CORG-131567
+Admin Name:-
+Admin Organization:W Net ISP
+Admin Street1:Esplanadnaya, str 20, office 302
+Admin Street2:
+Admin Street3:
+Admin City:Kiyv
+Admin State/Province:--
+Admin Postal Code:01023
+Admin Country:UA
+Admin Phone:+380.442359246
+Admin Phone Ext.:
+Admin FAX:+380.442359246
+Admin FAX Ext.:
+Admin Email:hm-joker@wnet.ua
+Tech ID:CORG-131567
+Tech Name:-
+Tech Organization:W Net ISP
+Tech Street1:Esplanadnaya, str 20, office 302
+Tech Street2:
+Tech Street3:
+Tech City:Kiyv
+Tech State/Province:--
+Tech Postal Code:01023
+Tech Country:UA
+Tech Phone:+380.442359246
+Tech Phone Ext.:
+Tech FAX:+380.442359246
+Tech FAX Ext.:
+Tech Email:hm-joker@wnet.ua
+Name Server:NS.WNET.UA
+Name Server:NS2.WNET.UA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
