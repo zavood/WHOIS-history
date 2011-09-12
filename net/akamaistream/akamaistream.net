@@ -5,25 +5,26 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: AKAMAISTREAM.NET
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: AX0.AKAMAISTREAM.NET
+   Name Server: AX1.AKAMAISTREAM.NET
+   Name Server: AX2.AKAMAISTREAM.NET
+   Name Server: AX3.AKAMAISTREAM.NET
+   Name Server: P4.AKAMAISTREAM.NET
+   Name Server: P5.AKAMAISTREAM.NET
+   Name Server: P6.AKAMAISTREAM.NET
+   Name Server: P7.AKAMAISTREAM.NET
+   Name Server: P8.AKAMAISTREAM.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 08-mar-2011
+   Creation Date: 25-apr-2001
+   Expiration Date: 25-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:05:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:06:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -64,7 +65,7 @@ Registrant:
  Cambridge, MA 02142
  US
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: AKAMAISTREAM.NET
 
 
  Administrative Contact:
@@ -92,21 +93,22 @@ Registrant:
 
  Registrar of Record: TUCOWS, INC.
  Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record expires on 25-Apr-2017.
+ Record created on 25-Apr-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    AX3.AKAMAISTREAM.NET   64.211.42.199
+    P6.AKAMAISTREAM.NET   124.40.52.134
+    AX1.AKAMAISTREAM.NET   208.44.108.139
+    AX2.AKAMAISTREAM.NET   62.41.78.205
+    P5.AKAMAISTREAM.NET   193.108.88.66
+    P4.AKAMAISTREAM.NET   193.108.88.65
+    P8.AKAMAISTREAM.NET   96.17.144.198
+    P7.AKAMAISTREAM.NET   96.7.251.132
+    AX0.AKAMAISTREAM.NET   72.246.46.5
 
 
  Domain status: clientTransferProhibited
