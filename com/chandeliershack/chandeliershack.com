@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOYSPACK.COM
+   Domain Name: CHANDELIERSHACK.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS75.DOMAINCONTROL.COM
-   Name Server: NS76.DOMAINCONTROL.COM
+   Name Server: NS27.DOMAINCONTROL.COM
+   Name Server: NS28.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-may-2011
-   Creation Date: 15-may-2011
-   Expiration Date: 15-may-2013
+   Updated Date: 14-jul-2010
+   Creation Date: 21-nov-2002
+   Expiration Date: 13-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:11:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:12:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   LightsAmerica
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BOYSPACK.COM
+   Domain Name: CHANDELIERSHACK.COM
 
    Domain servers in listed order:
-      NS75.DOMAINCONTROL.COM
-      NS76.DOMAINCONTROL.COM
+      NS27.DOMAINCONTROL.COM
+      NS28.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BOYSPACK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CHANDELIERSHACK.COM
