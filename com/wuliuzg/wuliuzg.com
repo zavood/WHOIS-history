@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WURINET.NET
+   Domain Name: WULIUZG.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
@@ -13,10 +13,10 @@ for detailed information.
    Name Server: DNS24.HICHINA.COM
    Status: ok
    Updated Date: 18-apr-2011
-   Creation Date: 13-nov-2010
-   Expiration Date: 13-nov-2011
+   Creation Date: 02-nov-2010
+   Expiration Date: 02-nov-2020
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:05:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:04:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... wurinet.net
+Domain Name ..................... wuliuzg.com
 Name Server ..................... dns23.hichina.com
                                   dns24.hichina.com
-Registrant ID ................... hc098832003-cn
-Registrant Name ................. li hua
-Registrant Organization ......... li hua
-Registrant Address .............. wang qingxian dachuandonglu17hao
-Registrant City ................. wang qing
-Registrant Province/State ....... JL
-Registrant Postal Code .......... 133300
+Registrant ID ................... hc840636298-cn
+Registrant Name ................. Huajin Lin
+Registrant Organization ......... Lin Huajin
+Registrant Address .............. Feng Huang Village, Guangzhou Shi Jingqing Fengmin
+Registrant City ................. guangzhoushi
+Registrant Province/State ....... guangzhou
+Registrant Postal Code .......... 100082
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.04338817720 -
-Registrant Fax .................. +86.04338817720 -
-Registrant Email ................ admcjj@gmail.com
-Administrative ID ............... hc098832003-cn
-Administrative Name ............. li hua
-Administrative Organization ..... li hua
-Administrative Address .......... wang qingxian dachuandonglu17hao
-Administrative City ............. wang qing
-Administrative Province/State ... JL
-Administrative Postal Code ...... 133300
+Registrant Phone Number ......... +86.13318626988 -
+Registrant Fax .................. +86.13318626988 -
+Registrant Email ................ yuming@zhongsou.com
+Administrative ID ............... hc840636298-cn
+Administrative Name ............. Huajin Lin
+Administrative Organization ..... Lin Huajin
+Administrative Address .......... Feng Huang Village, Guangzhou Shi Jingqing Fengmin
+Administrative City ............. guangzhoushi
+Administrative Province/State ... guangzhou
+Administrative Postal Code ...... 100082
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.04338817720 -
-Administrative Fax .............. +86.04338817720 -
-Administrative Email ............ admcjj@gmail.com
-Billing ID ...................... hc098832003-cn
-Billing Name .................... li hua
-Billing Organization ............ li hua
-Billing Address ................. wang qingxian dachuandonglu17hao
-Billing City .................... wang qing
-Billing Province/State .......... JL
-Billing Postal Code ............. 133300
+Administrative Phone Number ..... +86.13318626988 -
+Administrative Fax .............. +86.13318626988 -
+Administrative Email ............ yuming@zhongsou.com
+Billing ID ...................... hichina001-cn
+Billing Name .................... hichina
+Billing Organization ............ HiChina Web Solutions Limited
+Billing Address ................. 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Billing City .................... Beijing
+Billing Province/State .......... Beijing
+Billing Postal Code ............. 100011
 Billing Country Code ............ CN
-Billing Phone Number ............ +86.04338817720 -
-Billing Fax ..................... +86.04338817720 -
-Billing Email ................... admcjj@gmail.com
-Technical ID .................... hc098832003-cn
-Technical Name .................. li hua
-Technical Organization .......... li hua
-Technical Address ............... wang qingxian dachuandonglu17hao
-Technical City .................. wang qing
-Technical Province/State ........ JL
-Technical Postal Code ........... 133300
+Billing Phone Number ............ +86.01064242299 -
+Billing Fax ..................... +86.01064258796 -
+Billing Email ................... domainadm@hichina.com
+Technical ID .................... hichina001-cn
+Technical Name .................. hichina
+Technical Organization .......... HiChina Web Solutions Limited
+Technical Address ............... 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Technical City .................. Beijing
+Technical Province/State ........ Beijing
+Technical Postal Code ........... 100011
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.04338817720 -
-Technical Fax ................... +86.04338817720 -
-Technical Email ................. admcjj@gmail.com
-Expiration Date ................. 2011-11-14 04:28:17
+Technical Phone Number .......... +86.01064242299 -
+Technical Fax ................... +86.01064258796 -
+Technical Email ................. domainadm@hichina.com
+Expiration Date ................. 2020-11-02 09:41:29
