@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 01:26:28 2011
+
+domain:       hq.cz
+registrant:   SB:XJP
+admin-c:      JPI
+nsset:        NSS:XJP:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   01.08.2002 17:20:00
+changed:      01.11.2006 15:45:00
+expire:       31.07.2012
+
+contact:      SB:XJP
+org:          Jirka PECH
+name:         Jiri PECH
+address:      St&Aring;™eleck&Atilde;&iexcl; 569/9
+address:      Hradec Kr&Atilde;&iexcl;lov&Atilde;&copy;
+address:      50002
+address:      CZ
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      09.08.2010 09:42:05
+
+contact:      JPI
+name:         Jiri Pech
+address:      Kunvald 143
+address:      Kunvald v Cechach
+address:      56181
+address:      CZ
+phone:        +420.602236625
+e-mail:       dnsmgr@pech.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      02.04.2004 11:23:00
+
+nsset:        NSS:XJP:1
+nserver:      pri.hq.cz (77.93.208.60)
+nserver:      ns.infobank.cz
+tech-c:       JPI
+tech-c:       SB:XJP
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+changed:      28.02.2008 15:27:04
+
+

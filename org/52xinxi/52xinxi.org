@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160920112-LROR
+Domain Name:52XINXI.ORG
+Created On:14-Dec-2010 03:56:19 UTC
+Last Updated On:10-May-2011 03:26:39 UTC
+Expiration Date:14-Dec-2011 03:56:19 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:CLIENT HOLD
+Registrant ID:c61kk12192wpcq
+Registrant Name:li hai bo
+Registrant Organization:li haibo
+Registrant Street1:jiangsusheng huaianshi lianshuixian hongyaozhen
+Registrant Street2:
+Registrant Street3:
+Registrant City:huaian
+Registrant State/Province:Jiangsu
+Registrant Postal Code:223442
+Registrant Country:CN
+Registrant Phone:+86.051782605838
+Registrant Phone Ext.:
+Registrant FAX:+86.051782605838
+Registrant FAX Ext.:
+Registrant Email:1261065666@qq.com
+Admin ID:c61kk12192wpcqa
+Admin Name:li hai bo
+Admin Organization:li haibo
+Admin Street1:jiangsusheng huaianshi lianshuixian hongyaozhen
+Admin Street2:
+Admin Street3:
+Admin City:huaian
+Admin State/Province:Jiangsu
+Admin Postal Code:223442
+Admin Country:CN
+Admin Phone:+86.051782605838
+Admin Phone Ext.:
+Admin FAX:+86.051782605838
+Admin FAX Ext.:
+Admin Email:1261065666@qq.com
+Tech ID:c61kk12192wpcqa
+Tech Name:li hai bo
+Tech Organization:li haibo
+Tech Street1:jiangsusheng huaianshi lianshuixian hongyaozhen
+Tech Street2:
+Tech Street3:
+Tech City:huaian
+Tech State/Province:Jiangsu
+Tech Postal Code:223442
+Tech Country:CN
+Tech Phone:+86.051782605838
+Tech Phone Ext.:
+Tech FAX:+86.051782605838
+Tech FAX Ext.:
+Tech Email:1261065666@qq.com
+Name Server:NS.XINNETDNS.COM
+Name Server:NS.XINNET.CN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
