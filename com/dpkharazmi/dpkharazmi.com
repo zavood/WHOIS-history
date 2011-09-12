@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMPOUNDGALLERY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DREAMHOST.COM
-   Name Server: NS2.DREAMHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
+   Domain Name: DPKHARAZMI.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.IRANHOST.COM
+   Name Server: NS2.IRANHOST.COM
    Status: clientUpdateProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 09-dec-2005
-   Expiration Date: 09-dec-2011
+   Updated Date: 29-may-2010
+   Creation Date: 21-may-2003
+   Expiration Date: 21-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:20:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   Justbe Complex
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: COMPOUNDGALLERY.COM
-
-   Domain servers in listed order:
-      NS1.DREAMHOST.COM
-      NS2.DREAMHOST.COM
+	 No. 6, Soheili St. f640006ff6b341ca613b872f04955820-847101@owner.gandi.net +98.218834092
+	 No. 6, Soheili St.
+	 158753667
+	 United Arab Emirates,United Arab Emirates,- Tehran
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=COMPOUNDGALLERY.COM
+Domain Name:dpkharazmi.com
+Record last updated at 2010-06-28 17:00:36
+Record created on 2003/5/21
+Record expired on 2015/5/21
+
+
+Domain servers in listed order:
+	 ns1.iranhost.com 	 ns2.iranhost.com
+
+Administrator:
+	 Name-- Mohammad ZendehDel
+ EMail-: (02ec5f81d64c51d869eec833c7c32ccf-mz145@contact.gandi.net)
+ tel --: +98.2188826611
+	 org: No. 6 -Soheili Alley- Ghaem Magham St.
+	 15315
+	 Iran (Islamic Rep. of),Iran (Islamic Rep. of),- 15315
+
+Technical Contactor:
+	 Name-- -
+ EMail-: (-)
+ tel --: -
+	 org: -
+	 -
+	 -,-,- -
+
+Billing Contactor:
+	 Name-- -
+ EMail-: (-)
+ tel --: -
+	 org: -
+	 -
+	 -,-,- -
+

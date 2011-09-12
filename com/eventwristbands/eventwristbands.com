@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMPOUNDGALLERY.COM
+   Domain Name: EVENTWRISTBANDS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DREAMHOST.COM
-   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS10.CORECOMMERCE.COM
+   Name Server: NS9.CORECOMMERCE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 09-dec-2005
-   Expiration Date: 09-dec-2011
+   Updated Date: 27-dec-2010
+   Creation Date: 19-jan-2008
+   Expiration Date: 19-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:20:24 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Justbe Complex
+   T.A. Ticket Printing LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: COMPOUNDGALLERY.COM
+   Domain Name: EVENTWRISTBANDS.COM
 
    Domain servers in listed order:
-      NS1.DREAMHOST.COM
-      NS2.DREAMHOST.COM
+      NS9.CORECOMMERCE.COM
+      NS10.CORECOMMERCE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=COMPOUNDGALLERY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EVENTWRISTBANDS.COM
