@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYHUNTERDOUGLAS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Domain Name: GOLFBABYGOLF.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 01-apr-2009
-   Expiration Date: 01-apr-2012
+   Updated Date: 03-feb-2009
+   Creation Date: 27-dec-2004
+   Expiration Date: 27-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 03:39:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 03:39:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,45 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... myhunterdouglas.com
-  Creation Date........ 2009-04-02
-  Registration Date.... 2009-04-02
-  Expiry Date.......... 2012-04-02
-  Organisation Name.... Hunter Douglas
-  Organisation Address. One Duette Way
-  Organisation Address.
-  Organisation Address. Broomfield
-  Organisation Address. 80020
-  Organisation Address. CO
-  Organisation Address. UNITED STATES
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... noc admin
-  Admin Address........ One Duette Way
-  Admin Address........
-  Admin Address........ Broomfield
-  Admin Address........ 80020
-  Admin Address........ CO
-  Admin Address........ UNITED STATES
-  Admin Email.......... noc-admin@hunterdouglas.com
-  Admin Phone.......... +1.3034661848
-  Admin Fax............ +1.9999999999
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ noc admin
-  Tech Address......... One Duette Way
-  Tech Address.........
-  Tech Address......... Broomfield
-  Tech Address......... 80020
-  Tech Address......... CO
-  Tech Address......... UNITED STATES
-  Tech Email........... noc-admin@hunterdouglas.com
-  Tech Phone........... +1.3034661848
-  Tech Fax............. +1.9999999999
-  Name Server.......... a4.nstld.com
-  Name Server.......... f4.nstld.com
-  Name Server.......... g4.nstld.com
-  Name Server.......... h4.nstld.com
-  Name Server.......... j4.nstld.com
-  Name Server.......... l4.nstld.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: golfbabygolf.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Sun Sep 11 23:30:32 EDT 2011
+Reason Code: IE
