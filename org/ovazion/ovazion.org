@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106886938-LROR
+Domain Name:OVAZION.ORG
+Created On:12-Jul-2005 15:43:41 UTC
+Last Updated On:15-Aug-2011 06:48:42 UTC
+Expiration Date:12-Jul-2012 15:43:41 UTC
+Sponsoring Registrar:Fabulous.com Pty Ltd. (R133-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:fab-27713-c6b681
+Registrant Name:DNS Administrator
+Registrant Organization:Cykon Technology Limited
+Registrant Street1:1007 Richmond Commercial Building, 107-111 Argyle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kowloon
+Registrant State/Province:Kowloon
+Registrant Postal Code:00000
+Registrant Country:HK
+Registrant Phone:+852.29590898
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@cykon.com
+Admin ID:fab-27713-c6b681
+Admin Name:DNS Administrator
+Admin Organization:Cykon Technology Limited
+Admin Street1:1007 Richmond Commercial Building, 107-111 Argyle
+Admin Street2:
+Admin Street3:
+Admin City:Kowloon
+Admin State/Province:Kowloon
+Admin Postal Code:00000
+Admin Country:HK
+Admin Phone:+852.29590898
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@cykon.com
+Tech ID:fab-27713-c6b681
+Tech Name:DNS Administrator
+Tech Organization:Cykon Technology Limited
+Tech Street1:1007 Richmond Commercial Building, 107-111 Argyle
+Tech Street2:
+Tech Street3:
+Tech City:Kowloon
+Tech State/Province:Kowloon
+Tech Postal Code:00000
+Tech Country:HK
+Tech Phone:+852.29590898
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@cykon.com
+Name Server:NS3.EASILY.NET
+Name Server:NS4.EASILY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
