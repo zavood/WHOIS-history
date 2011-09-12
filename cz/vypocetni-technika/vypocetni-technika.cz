@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 12 22:33:09 2011
+
+domain:       vypocetni-technika.cz
+registrant:   SB:D.COMP
+admin-c:      CADDY
+admin-c:      GRINGO
+nsset:        GRINGO13
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   15.04.2004 18:15:00
+changed:      07.11.2010 16:22:02
+expire:       15.04.2012
+
+contact:      SB:D.COMP
+org:          Petr Dorda D-Comp
+name:         Petr Dorda
+address:      Z&Atilde;&iexcl;vodn&Atilde;&shy; 2452
+address:      Karvin&Atilde;&iexcl; 6
+address:      73506
+address:      CZ
+e-mail:       d-comp@quick.cz
+registrar:    REG-IGNUM
+created:      06.10.2003 21:20:00
+
+contact:      CADDY
+name:         Petr Dorda
+address:      Z&Atilde;&iexcl;vodn&Atilde;&shy; 2452
+address:      Karvin&Atilde;&iexcl; 6
+address:      73506
+address:      CZ
+e-mail:       d-comp@quick.cz
+registrar:    REG-IGNUM
+created:      02.10.2003 13:35:00
+
+contact:      GRINGO
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;›jka
+address:      Z&Atilde;&iexcl;h&Aring;™ebsk&Atilde;&iexcl; 41
+address:      Brno
+address:      61600
+address:      CZ
+e-mail:       matejka@gringo.cz
+registrar:    REG-IGNUM
+created:      24.10.2007 20:47:02
+changed:      29.08.2009 22:55:32
+
+nsset:        GRINGO13
+nserver:      ns1.gringo.cz
+nserver:      ns3.gringo.cz
+tech-c:       SB:GRINGO
+registrar:    REG-IGNUM
+created:      03.10.2007 19:42:01
+
+contact:      SB:GRINGO
+org:          Mgr. Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;›jka
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;›jka
+address:      Z&Atilde;&iexcl;h&Aring;™ebsk&Atilde;&iexcl; 41
+address:      Brno
+address:      61600
+address:      CZ
+e-mail:       matejka@gringo.cz
+registrar:    REG-IGNUM
+created:      28.02.2004 23:35:00
+changed:      24.10.2007 23:45:02
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3523343-LROR
+Domain Name:VONNIEDA.ORG
+Created On:28-Sep-1996 04:00:00 UTC
+Last Updated On:07-Jul-2011 18:28:22 UTC
+Expiration Date:27-Sep-2011 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32018799
+Registrant Name:Jason von Nieda
+Registrant Street1:10223 Occidental Ave S
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:Washington
+Registrant Postal Code:98168
+Registrant Country:US
+Registrant Phone:+1.9132203208
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jason@vonnieda.org
+Admin ID:CR32018801
+Admin Name:Jason von Nieda
+Admin Street1:10223 Occidental Ave S
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:Washington
+Admin Postal Code:98168
+Admin Country:US
+Admin Phone:+1.9132203208
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jason@vonnieda.org
+Tech ID:CR32018800
+Tech Name:Jason von Nieda
+Tech Street1:10223 Occidental Ave S
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:Washington
+Tech Postal Code:98168
+Tech Country:US
+Tech Phone:+1.9132203208
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jason@vonnieda.org
+Name Server:NS1.VONNIEDA.ORG
+Name Server:NS2.VONNIEDA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
