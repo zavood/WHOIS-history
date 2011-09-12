@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9740169-LROR
+Domain Name:MISSISSIPPIVALLEYBSA.ORG
+Created On:02-Sep-1999 16:52:44 UTC
+Last Updated On:02-Jun-2010 00:23:30 UTC
+Expiration Date:02-Sep-2014 16:52:44 UTC
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:mmr-34113
+Registrant Name:Dave Campbell
+Registrant Organization:Boy Scouts of America
+Registrant Street1:1325 W. Walnut Hill Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Irving
+Registrant State/Province:TX
+Registrant Postal Code:75038
+Registrant Country:US
+Registrant Phone:+1.9725802460
+Registrant Phone Ext.:
+Registrant FAX:+1.9725802331
+Registrant FAX Ext.:
+Registrant Email:dcampbell@netbsa.org
+Admin ID:mmr-79128
+Admin Name:Dabir Haider
+Admin Organization:Boy Scouts of America
+Admin Street1:1325 West Walnut Hill Lane
+Admin Street2:
+Admin Street3:
+Admin City:Irving
+Admin State/Province:Texas
+Admin Postal Code:75038
+Admin Country:US
+Admin Phone:+1.9725802404
+Admin Phone Ext.:
+Admin FAX:+1.9725802543
+Admin FAX Ext.:
+Admin Email:dabir.haider@scouting.org
+Tech ID:mmr-34115
+Tech Name:David Jeffress
+Tech Organization:Boy Scouts of America
+Tech Street1:1325 W. Walnut Hill Lane
+Tech Street2:
+Tech Street3:
+Tech City:Irving
+Tech State/Province:TX
+Tech Postal Code:75038
+Tech Country:US
+Tech Phone:+1.9725802076
+Tech Phone Ext.:
+Tech FAX:+1.9725802331
+Tech FAX Ext.:
+Tech Email:david.jeffress@scouting.org
+Name Server:NS2.MARKMONITOR.COM
+Name Server:NS1.MARKMONITOR.COM
+Name Server:NS7.MARKMONITOR.COM
+Name Server:NS6.MARKMONITOR.COM
+Name Server:NS5.MARKMONITOR.COM
+Name Server:NS4.MARKMONITOR.COM
+Name Server:NS3.MARKMONITOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
