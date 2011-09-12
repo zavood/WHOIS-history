@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DVPNE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-jul-2011
-   Creation Date: 26-aug-2009
-   Expiration Date: 26-aug-2012
+   Domain Name: HISTORIA-DEL-ARTE-EROTICO.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS6.NGGN.ORG
+   Name Server: NS7.NGGN.ORG
+   Status: ok
+   Updated Date: 02-feb-2011
+   Creation Date: 28-dec-2007
+   Expiration Date: 28-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:27:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+
+Domain name: historia-del-arte-erotico.com
 
 Registrant:
-   Internet Marketing Solutions of Nevada, Inc.
+      Reformas Aereas SA  (SROW-1755136)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DVPNE.COM
+   spanspanspan@gmail.com
+   avd Cardenal Herrera Oria 146
+   Madrid   Madrid
+   n/a   ES
+   +34 490000000
 
-   Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
+
+Administrative contact:
+   Martin_Real Collado   (SRCO-2796001)
+   oculto
+   spanspanspan@gmail.com
+   Puerto Mijares 33
+   Madrid   Madrid
+   28950   ES
+   +34 913864494   fax: +34 913864494
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DVPNE.COM
+Technical contact:
+   Martin_Real Collado   (SRCO-2796002)
+   oculto
+   spanspanspan@gmail.com
+   Puerto Mijares 33
+   Madrid   Madrid
+   28950   ES
+   +34 913864494
+
+
+Domain servers in listed order:
+   ns6.nggn.org  91.151.100.73
+   ns7.nggn.org  91.151.100.74
+
+
+Created:       28 Dec 2007 18:20:33:000   UTC
+Expires:       28 Dec 2012 18:20:33:000   UTC
+Last updated:  02 Feb 2011 07:22:46:093   UTC
+
+
+

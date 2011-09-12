@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FLY975D-NORID
+Domain Name................: flysn.no
+Domain Holder Handle.......: DATN3O-NORID
+Registrar Handle...........: REG766-NORID
+Legal-c Handle.............: JH4704P-NORID
+Tech-c Handle..............: JH4704P-NORID
+Name Server Handle.........: NSAS37H-NORID
+Name Server Handle.........: NSAS38H-NORID
+
+Additional information:
+Created:         2003-04-28
+Last updated:    2011-04-30
+
+NORID Handle...............: DATN3O-NORID
+Type.......................: organization
+Name.......................: DELTA AIR TRANSPORT NORSK AVDELING AV UTENLANDSK FORETAK
+Id Type....................: organization_number
+Id Number..................: 984253761
+Registrar Handle...........: REG766-NORID
+Post Address...............: Stortingsgt 30
+Postal Code................: NO-0161
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22016688
+Email Address..............: jhermansen@brussels-airlines.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:28:25 (BRT -03:00)
+
+domain:      gamecultura.com.br
+owner:       Gamecultura Produ&ccedil;&otilde;es S/S LTDA-EPP
+ownerid:     007.675.379/0001-89
+responsible: Rog&eacute;rio Jr. Correia Tavares
+country:     BR
+owner-c:     RJT37
+admin-c:     RJT37
+tech-c:      RJT37
+billing-c:   RJT37
+nserver:     ns3.joombyte.com
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns4.joombyte.com
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     20051220 #2521236
+expires:     20111220
+changed:     20110807
+status:      published
+
+nic-hdl-br:  RJT37
+person:      Rogerio Junior Correia Tavares
+e-mail:      rogertavares@gmail.com
+created:     20050803
+changed:     20090506
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
