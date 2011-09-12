@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GONETWAVE.COM
-   Registrar: BLUE RAZOR DOMAINS, INC
-   Whois Server: whois.bluerazor.com
-   Referral URL: http://www.bluerazor.com
-   Name Server: NS881.WEBSITEWELCOME.COM
-   Name Server: NS882.WEBSITEWELCOME.COM
+   Domain Name: NEW2010USA.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS33.DOMAINCONTROL.COM
+   Name Server: NS34.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 05-aug-2003
-   Expiration Date: 05-aug-2012
+   Updated Date: 14-aug-2011
+   Creation Date: 13-aug-2010
+   Expiration Date: 13-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:37:01 UTC &lt;&lt;&lt;
 
@@ -54,37 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Net Wave
+   Lijun Zhu
 
-   Registered through: Blue Razor Domains, Inc.
-   Domain Name: GONETWAVE.COM
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: NEW2010USA.COM
 
    Domain servers in listed order:
-      NS881.WEBSITEWELCOME.COM
-      NS882.WEBSITEWELCOME.COM
+      NS33.DOMAINCONTROL.COM
+      NS34.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.bluerazor.com/whoischeck.aspx?Domain=GONETWAVE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEW2010USA.COM

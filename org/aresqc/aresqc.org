@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D51297560-LROR
+Domain Name:ARESQC.ORG
+Created On:08-Jan-2001 02:50:39 UTC
+Last Updated On:12-Feb-2011 17:51:23 UTC
+Expiration Date:08-Jan-2012 02:50:39 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000426187
+Registrant Name:B__rub__, Serge
+Registrant Organization:Serge B__rub__
+Registrant Street1:1075 Des Champs St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:St-Jean Chrysostome
+Registrant State/Province:QUEBEC
+Registrant Postal Code:g6z1v4
+Registrant Country:CA
+Registrant Phone:+1.4188394846
+Registrant Phone Ext.:
+Registrant FAX:+1.4188393532
+Registrant FAX Ext.:
+Registrant Email:ve2abc@globetrotter.net
+Admin ID:TNTN-0000426187
+Admin Name:B__rub__, Serge
+Admin Organization:Serge B__rub__
+Admin Street1:1075 Des Champs St.
+Admin Street2:
+Admin Street3:
+Admin City:St-Jean Chrysostome
+Admin State/Province:QUEBEC
+Admin Postal Code:g6z1v4
+Admin Country:CA
+Admin Phone:+1.4188394846
+Admin Phone Ext.:
+Admin FAX:+1.4188393532
+Admin FAX Ext.:
+Admin Email:ve2abc@globetrotter.net
+Tech ID:TNTN-0000426187
+Tech Name:B__rub__, Serge
+Tech Organization:Serge B__rub__
+Tech Street1:1075 Des Champs St.
+Tech Street2:
+Tech Street3:
+Tech City:St-Jean Chrysostome
+Tech State/Province:QUEBEC
+Tech Postal Code:g6z1v4
+Tech Country:CA
+Tech Phone:+1.4188394846
+Tech Phone Ext.:
+Tech FAX:+1.4188393532
+Tech FAX Ext.:
+Tech Email:ve2abc@globetrotter.net
+Name Server:NS1.CHANGEIP.COM
+Name Server:NS2.CHANGEIP.COM
+Name Server:NS3.CHANGEIP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

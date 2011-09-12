@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GONETWAVE.COM
-   Registrar: BLUE RAZOR DOMAINS, INC
-   Whois Server: whois.bluerazor.com
-   Referral URL: http://www.bluerazor.com
-   Name Server: NS881.WEBSITEWELCOME.COM
-   Name Server: NS882.WEBSITEWELCOME.COM
+   Domain Name: BIGJOESHELTON.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS41.DOMAINCONTROL.COM
+   Name Server: NS42.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 05-aug-2003
-   Expiration Date: 05-aug-2012
+   Updated Date: 07-jan-2011
+   Creation Date: 21-jan-2005
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:37:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:36:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 
 Registrant:
-   Net Wave
+   Joe Shelton
 
-   Registered through: Blue Razor Domains, Inc.
-   Domain Name: GONETWAVE.COM
+   Registered through: Backwoods Hosting
+   Domain Name: BIGJOESHELTON.COM
 
    Domain servers in listed order:
-      NS881.WEBSITEWELCOME.COM
-      NS882.WEBSITEWELCOME.COM
+      NS41.DOMAINCONTROL.COM
+      NS42.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.bluerazor.com/whoischeck.aspx?Domain=GONETWAVE.COM
+   http://who.securepaynet.net/whoischeck.aspx?Domain=BIGJOESHELTON.COM&amp;prog_id=278942
