@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-jan-2001
    Expiration Date: 18-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Liberty Revival Church
-   16200 State Highway 249
-   Houston, Texas 77086
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: LRCHOUSTON.COM
-      Created on: 18-Jan-01
-      Expires on: 18-Jan-13
-      Last Updated on: 13-Jul-11
-
-   Administrative Contact:
-      ,   angelika@lrchouston.com
-      Liberty Revival Church
-      16200 State Highway 249
-      Houston, Texas 77086
-      United States
-      281-444-6346      Fax -- 281-444-5521
-
-   Technical Contact:
-      HESKETH, SHAWN  shawn@leftlanedesigns.com
-      LeftLane Designs
-      9707 Shadowglade Ct.
-      Houston, Texas 77064-3846
-      United States
-      281-989-7189      Fax -- 123 123 1234
 
    Domain servers in listed order:
       NS1.HOSTMONSTER.COM
       NS2.HOSTMONSTER.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=LRCHOUSTON.COM

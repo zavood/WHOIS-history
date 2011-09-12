@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 03-jan-2008
    Expiration Date: 03-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Roger Bryan
-   6769 Old Waterloo Rd
-   Apt 523
-   Elkridge, Maryland 21075
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: IJUNKCARS.COM
-      Created on: 03-Jan-08
-      Expires on: 03-Jan-13
-      Last Updated on: 04-Jan-11
-
-   Administrative Contact:
-      Bryan, Roger  rogercbryan@gmail.com
-      6769 Old Waterloo Rd
-      Apt 523
-      Elkridge, Maryland 21075
-      United States
-      (440) 821-4332
-
-   Technical Contact:
-      Bryan, Roger  rogercbryan@gmail.com
-      6769 Old Waterloo Rd
-      Apt 523
-      Elkridge, Maryland 21075
-      United States
-      (440) 821-4332
 
    Domain servers in listed order:
       NS1.THEPLANET.COM
       NS2.THEPLANET.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=IJUNKCARS.COM

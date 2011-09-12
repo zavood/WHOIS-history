@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-jul-2008
    Expiration Date: 11-jul-2018
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Joe Polonczyk
-   379 maple ln
-   Elk Grove Village, Illinois 60007
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MIGHTBEHAUNTED.COM
-      Created on: 11-Jul-08
-      Expires on: 12-Jul-18
-      Last Updated on: 26-Nov-09
-
-   Administrative Contact:
-      Polonczyk, Joe  idontcare092288@aim.com
-      379 maple ln
-      Elk Grove Village, Illinois 60007
-      United States
-      (847) 347-8977      Fax --
-
-   Technical Contact:
-      Polonczyk, Joe  idontcare092288@aim.com
-      379 maple ln
-      Elk Grove Village, Illinois 60007
-      United States
-      (847) 347-8977      Fax --
 
    Domain servers in listed order:
       NS49.DOMAINCONTROL.COM
       NS50.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MIGHTBEHAUNTED.COM

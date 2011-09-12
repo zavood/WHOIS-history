@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 23-jul-2010
    Expiration Date: 23-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: Domain Cheapsters.com
    Domain Name: CHICKENHALLOWEENCOSTUME.COM
-      Created on: 23-Jul-10
-      Expires on: 23-Jul-12
-      Last Updated on: 24-Jul-11
-
-   Administrative Contact:
-      Private, Registration  CHICKENHALLOWEENCOSTUME.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  CHICKENHALLOWEENCOSTUME.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       NS2375.HOSTGATOR.COM
       NS2376.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=CHICKENHALLOWEENCOSTUME.COM&amp;prog_id=456913

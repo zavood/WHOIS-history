@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-mar-2006
    Expiration Date: 24-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    degree361
-   bul. slobodana jovanovica 22
-   novi sad, vojvodina 21000
-   Serbia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DEGREE361.COM
-      Created on: 24-Mar-06
-      Expires on: 24-Mar-13
-      Last Updated on: 23-Mar-11
-
-   Administrative Contact:
-      jakobac, damir  damirja@neobee.net
-      degree361
-      bul. slobodana jovanovica 22
-      novi sad, vojvodina 21000
-      Serbia
-      381658223817      Fax --
-
-   Technical Contact:
-      jakobac, damir  damirja@neobee.net
-      degree361
-      bul. slobodana jovanovica 22
-      novi sad, vojvodina 21000
-      Serbia
-      381658223817      Fax --
 
    Domain servers in listed order:
       NS15.HOSTEXCELLENCE.COM
       NS16.HOSTEXCELLENCE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DEGREE361.COM

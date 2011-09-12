@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-nov-2006
    Expiration Date: 11-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    AtWebDesigns, Inc.
-   400 North St. Paul
-   Suite 499
-   Dallas, Texas 75201
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: COMPETITIONSKIING.COM
-      Created on: 11-Nov-06
-      Expires on: 11-Nov-11
-      Last Updated on: 03-May-11
-
-   Administrative Contact:
-      Nelson, Damon  dunrent@swbell.net
-      AtWebDesigns, Inc.
-      400 North St. Paul
-      Suite 499
-      Dallas, Texas 75201
-      United States
-      +1.2149650852      Fax --
-
-   Technical Contact:
-      Nelson, Damon  dunrent@swbell.net
-      AtWebDesigns, Inc.
-      400 North St. Paul
-      Suite 499
-      Dallas, Texas 75201
-      United States
-      +1.2149650852      Fax --
 
    Domain servers in listed order:
       NS1.COOLHANDLE.COM
       NS2.COOLHANDLE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=COMPETITIONSKIING.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-feb-1998
    Expiration Date: 26-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Texas Pipe Works, Inc.
-   2810 Bill Owens Pkwy #400
-   Longview, Texas 75605
-   United States
 
    Registered through: Inhouse Associates, L.C.
    Domain Name: TEXASPIPEWORKS.COM
-      Created on: 27-Feb-98
-      Expires on: 26-Feb-12
-      Last Updated on: 27-Feb-11
-
-   Administrative Contact:
-      Haley, Randy  dns@teaminhouse.com
-      Texas Pipe Works, Inc.
-      2810 Bill Owens Pkwy #400
-      Longview, Texas 75605
-      United States
-      9032977833      Fax --
-
-   Technical Contact:
-      Brown, Robert  dns@teaminhouse.com
-      Inhouse Associates, L.C.
-      911 W. Loop 281
-      Suite 419
-      Longview, Texas 75604
-      United States
-      9037533551      Fax --
 
    Domain servers in listed order:
       NS0.TEAMINHOUSE.COM
       NS1.TEAMINHOUSE.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=TEXASPIPEWORKS.COM&amp;prog_id=340009

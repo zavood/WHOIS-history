@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 03-dec-2009
    Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Kapil Gupta
-   First Floor, Plot No. 95
-   Sundar Nagar, Ekangtangul
-   chennai, Tamil Nadu 600032
-   India
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: UBSAHIL.COM
-      Created on: 03-Dec-09
-      Expires on: 03-Dec-11
-      Last Updated on: 23-May-11
-
-   Administrative Contact:
-      Gupta, Kapil  richboy2k9@gmail.com
-      First Floor, Plot No. 95
-      Sundar Nagar, Ekangtangul
-      chennai, Tamil Nadu 600032
-      India
-      04466338459      Fax --
-
-   Technical Contact:
-      Gupta, Kapil  richboy2k9@gmail.com
-      First Floor, Plot No. 95
-      Sundar Nagar, Ekangtangul
-      chennai, Tamil Nadu 600032
-      India
-      04466338459      Fax --
 
    Domain servers in listed order:
       NS1249.HOSTGATOR.COM
       NS1250.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=UBSAHIL.COM

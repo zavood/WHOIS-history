@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 23-apr-2009
    Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Luc Reid
-   336 Flynn Ave.
-   Apt. 1
-   Burlington, Vermont 05401
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WILLPOWERENGINE.COM
-      Created on: 23-Apr-09
-      Expires on: 23-Apr-12
-      Last Updated on: 08-Apr-11
-
-   Administrative Contact:
-      Reid, Luc  domains@lucreid.com
-      336 Flynn Ave.
-      Apt. 1
-      Burlington, Vermont 05401
-      United States
-      (802) 846-7517      Fax --
-
-   Technical Contact:
-      Reid, Luc  domains@lucreid.com
-      336 Flynn Ave.
-      Apt. 1
-      Burlington, Vermont 05401
-      United States
-      (802) 846-7517      Fax --
 
    Domain servers in listed order:
       NS1.BLUEHOST.COM
       NS2.BLUEHOST.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WILLPOWERENGINE.COM

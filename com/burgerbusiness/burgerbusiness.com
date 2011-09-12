@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 22-jan-2009
    Expiration Date: 22-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Scott Hume
-   619 Forest Ave.
-   River Forest, Illinois 60305
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BURGERBUSINESS.COM
-      Created on: 22-Jan-09
-      Expires on: 22-Jan-13
-      Last Updated on: 24-Oct-10
-
-   Administrative Contact:
-      Hume, Scott  scott.hume1@gmail.com
-      619 Forest Ave.
-      River Forest, Illinois 60305
-      United States
-      (708) 488-1403      Fax --
-
-   Technical Contact:
-      Hume, Scott  scott.hume1@gmail.com
-      619 Forest Ave.
-      River Forest, Illinois 60305
-      United States
-      (708) 488-1403      Fax --
 
    Domain servers in listed order:
       NS1.BLUEHOST.COM
       NS2.BLUEHOST.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BURGERBUSINESS.COM

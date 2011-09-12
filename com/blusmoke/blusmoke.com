@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 14-may-2005
    Expiration Date: 14-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Barry Brinson
-   3001 Milton Rd
-   Montgomery, AL 36110
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BLUSMOKE.COM
-      Created on: 14-May-05
-      Expires on: 14-May-14
-      Last Updated on: 02-Jul-11
-
-   Administrative Contact:
-      Brinson, Barry  mrbadbeatz@yahoo.com
-      3001 Milton Rd
-      Montgomery, AL 36110
-      United States
-      3345387222      Fax --
-
-   Technical Contact:
-      Brinson, Barry  mrbadbeatz@yahoo.com
-      3001 Milton Rd
-      Montgomery, AL 36110
-      United States
-      3345387222      Fax --
 
    Domain servers in listed order:
       NS31.DOMAINCONTROL.COM
       NS32.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLUSMOKE.COM

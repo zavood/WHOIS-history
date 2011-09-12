@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-aug-2002
    Expiration Date: 27-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Christopher Picking
-   Valley View
-   RD 8
-   Masterton, Wairarapa 5921
-   New Zealand
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: STARRYNIGHTPHOTOS.COM
-      Created on: 27-Aug-02
-      Expires on: 27-Aug-12
-      Last Updated on: 28-Aug-10
-
-   Administrative Contact:
-      Picking, Christopher  picking@attglobal.net
-      Valley View
-      RD 8
-      Masterton, Wairarapa 5921
-      New Zealand
-      64 06 3786184      Fax --
-
-   Technical Contact:
-      Picking, Christopher  picking@attglobal.net
-      Valley View
-      RD 8
-      Masterton, Wairarapa 5921
-      New Zealand
-      64 06 3786184      Fax --
 
    Domain servers in listed order:
       NS51.DOMAINCONTROL.COM
       NS52.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=STARRYNIGHTPHOTOS.COM

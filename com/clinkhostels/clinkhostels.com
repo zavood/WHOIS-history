@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 30-aug-2006
    Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Clink Hostels
-   78 Kings Cross Road
-   London,  wc1x 9qg
-   United Kingdom
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CLINKHOSTELS.COM
-      Created on: 30-Aug-06
-      Expires on: 30-Aug-12
-      Last Updated on: 31-Aug-10
-
-   Administrative Contact:
-      Dolan, Anne  anne@clinkhostels.com
-      Clink Hostels
-      78 Kings Cross Road
-      London,  wc1x 9qg
-      United Kingdom
-      +44.2071839400      Fax --
-
-   Technical Contact:
-      Dolan, Anne  anne@clinkhostels.com
-      Clink Hostels
-      78 Kings Cross Road
-      London,  wc1x 9qg
-      United Kingdom
-      +44.2071839400      Fax --
 
    Domain servers in listed order:
       NS1.3DPIXELNET.COM
       NS2.3DPIXELNET.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CLINKHOSTELS.COM

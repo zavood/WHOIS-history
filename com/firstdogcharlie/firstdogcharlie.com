@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 10-apr-2009
    Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Ted Boatwright
-   PO Box 17062
-   Raleigh, North Carolina 27619
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FIRSTDOGCHARLIE.COM
-      Created on: 10-Apr-09
-      Expires on: 10-Apr-12
-      Last Updated on: 24-Apr-11
-
-   Administrative Contact:
-      Boatwright, Ted  beachwright@gmail.com
-      PO Box 17062
-      Raleigh, North Carolina 27619
-      United States
-      +1.9198335463      Fax --
-
-   Technical Contact:
-      Boatwright, Ted  beachwright@gmail.com
-      PO Box 17062
-      Raleigh, North Carolina 27619
-      United States
-      +1.9198335463      Fax --
 
    Domain servers in listed order:
       NS5.PACIFICHOST.COM
       NS6.PACIFICHOST.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FIRSTDOGCHARLIE.COM

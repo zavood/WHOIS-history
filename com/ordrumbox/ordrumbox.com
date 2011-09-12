@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 13-jun-2006
    Expiration Date: 13-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Saturday, 10-Sep-2011 19:11:33 CEST
-# gmt time      : Saturday, 10-Sep-2011 17:11:33 GMT
+# local time    : Monday, 12-Sep-2011 13:45:29 CEST
+# gmt time      : Monday, 12-Sep-2011 11:45:29 GMT
 # last modify   : Sunday, 04-Sep-2011 05:17:11 CEST
-# request from  : 192.168.248.1:3896
+# request from  : 192.168.248.2:45243
 
 Domain name: ordrumbox.com
 

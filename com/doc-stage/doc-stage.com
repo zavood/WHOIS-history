@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 27-feb-2002
    Expiration Date: 27-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -64,10 +64,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 95.154.230.221
+% Requesting IP: 188.72.227.95
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain doc-stage.com
-% Timestamp: 2011-09-10 19:09:54
+% Timestamp: 2011-09-12 13:44:07
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 04-aug-2008
    Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Maggie David
-   Post Office Box 237
-   Kurrajong, New South Wales 2758
-   Australia
 
    Registered through: GVO domain registration
    Domain Name: MAGGIEDAVID.COM
-      Created on: 04-Aug-08
-      Expires on: 04-Aug-12
-      Last Updated on: 09-Jun-10
-
-   Administrative Contact:
-      David, Maggie  oils@bigfoot.com.au
-      Post Office Box 237
-      Kurrajong, New South Wales 2758
-      Australia
-      61245721062      Fax --
-
-   Technical Contact:
-      David, Maggie  oils@bigfoot.com.au
-      Post Office Box 237
-      Kurrajong, New South Wales 2758
-      Australia
-      61245721062      Fax --
 
    Domain servers in listed order:
       NS1573.HOSTGATOR.COM
       NS1574.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=MAGGIEDAVID.COM&amp;prog_id=joelth

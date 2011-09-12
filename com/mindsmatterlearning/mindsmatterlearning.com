@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 20-feb-2006
    Expiration Date: 20-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Diqky Adjah
-   Jl.pandan
-   Bandung, Jawa Barat 99934
-   Indonesia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MINDSMATTERLEARNING.COM
-      Created on: 20-Feb-06
-      Expires on: 20-Feb-12
-      Last Updated on: 28-Dec-10
-
-   Administrative Contact:
-      Adjah, Diqky  diqkynaruto@yahoo.co.id
-      Jl.pandan
-      Bandung, Jawa Barat 99934
-      Indonesia
-      +62.8595338876      Fax --
-
-   Technical Contact:
-      Adjah, Diqky  diqkynaruto@yahoo.co.id
-      Jl.pandan
-      Bandung, Jawa Barat 99934
-      Indonesia
-      +62.8595338876      Fax --
 
    Domain servers in listed order:
       NS1.HAWKHOST.COM
       NS2.HAWKHOST.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MINDSMATTERLEARNING.COM

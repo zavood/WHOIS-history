@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-jun-2008
    Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,9 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Automatic Incomes
-   25 Nelmes Close
-   Toronto, New South Wales 2283
-   Australia
 
    Registered through: GVO domain registration
    Domain Name: VALFLINT.COM
-      Created on: 12-Jun-08
-      Expires on: 12-Jun-12
-      Last Updated on: 13-Jun-11
-
-   Administrative Contact:
-      Flint, Valerie  valf@mysoul.com.au
-      Automatic Incomes
-      25 Nelmes Close
-      Toronto, New South Wales 2283
-      Australia
-      61249599326      Fax --
-
-   Technical Contact:
-      Flint, Valerie  valf@mysoul.com.au
-      Automatic Incomes
-      25 Nelmes Close
-      Toronto, New South Wales 2283
-      Australia
-      61249599326      Fax --
 
    Domain servers in listed order:
       NS1.GVODNS.COM

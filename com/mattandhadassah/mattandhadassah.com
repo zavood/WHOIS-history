@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 06-may-2004
    Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    fendi aw
-   samarinda
-   samarinda, samarinda 75124
-   Indonesia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MATTANDHADASSAH.COM
-      Created on: 06-May-04
-      Expires on: 06-May-12
-      Last Updated on: 17-Jun-11
-
-   Administrative Contact:
-      aw, fendi  belfend@yahoo.co.id
-      samarinda
-      samarinda, samarinda 75124
-      Indonesia
-      08115720840      Fax --
-
-   Technical Contact:
-      aw, fendi  belfend@yahoo.co.id
-      samarinda
-      samarinda, samarinda 75124
-      Indonesia
-      08115720840      Fax --
 
    Domain servers in listed order:
       NS2587.HOSTGATOR.COM
       NS2588.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MATTANDHADASSAH.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-jun-2005
    Expiration Date: 28-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    andy watkiss
-   23
-   whitebeame close the rock
-   telford, shropshire tf35de
-   United Kingdom
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TIMEFORHOWARDMILLER.COM
-      Created on: 28-Jun-05
-      Expires on: 28-Jun-12
-      Last Updated on: 06-Jun-11
-
-   Administrative Contact:
-      watkiss, andy  andy.watkiss@blueyonder.co.uk
-      23
-      whitebeame close the rock
-      telford, shropshire tf35de
-      United Kingdom
-      +1.952504933      Fax --
-
-   Technical Contact:
-      watkiss, andy  andy.watkiss@blueyonder.co.uk
-      23
-      whitebeame close the rock
-      telford, shropshire tf35de
-      United Kingdom
-      +1.952504933      Fax --
 
    Domain servers in listed order:
       NS2131.HOSTGATOR.COM
       NS2132.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TIMEFORHOWARDMILLER.COM

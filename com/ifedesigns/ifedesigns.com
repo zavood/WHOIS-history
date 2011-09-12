@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 28-oct-1999
    Expiration Date: 28-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ Registrant Contact:
       NY,   14216-2687    US
       866-434-0212
       866-434-0211
-      20342b43761ddf36@private-contact.com
+      4bc929b955a36f8f@private-contact.com
 
 Administrative Contact:
       Kweku    Nii-Owoo

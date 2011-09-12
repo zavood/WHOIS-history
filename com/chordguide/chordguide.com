@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 07-jan-2003
    Expiration Date: 07-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Johan Franson
-   Arkovagen 45
-   Johanneshov 12155
-   Sweden
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CHORDGUIDE.COM
-      Created on: 07-Jan-03
-      Expires on: 07-Jan-13
-      Last Updated on: 08-Jan-11
-
-   Administrative Contact:
-      Franson, Johan  johan.franson@mail.com
-      Arkovagen 45
-      Johanneshov 12155
-      Sweden
-      0702380200      Fax --
-
-   Technical Contact:
-      Franson, Johan  johan.franson@mail.com
-      Arkovagen 45
-      Johanneshov 12155
-      Sweden
-      0702380200      Fax --
 
    Domain servers in listed order:
       NS3.JODOSHARED.COM
       NS4.JODOSHARED.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CHORDGUIDE.COM

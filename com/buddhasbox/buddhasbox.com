@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 07-nov-2005
    Expiration Date: 07-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Frank Kerley
-   1202 Congressional Way
-   Deerfield Beach, FL 33442
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BUDDHASBOX.COM
-      Created on: 07-Nov-05
-      Expires on: 07-Nov-13
-      Last Updated on: 30-May-11
-
-   Administrative Contact:
-      Kerley, Frank  frank1470@live.com
-      1202 Congressional Way
-      Deerfield Beach, FL 33442
-      United States
-      7543664234      Fax --
-
-   Technical Contact:
-      Kerley, Frank  frank1470@live.com
-      1202 Congressional Way
-      Deerfield Beach, FL 33442
-      United States
-      7543664234      Fax --
 
    Domain servers in listed order:
       NS1.BUDDHASBOX.COM
       NS2.BUDDHASBOX.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BUDDHASBOX.COM

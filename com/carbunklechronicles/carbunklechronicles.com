@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 25-jan-2008
    Expiration Date: 25-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Hetal Bidasaria
-   E - 801, Safal Parivesh
-   Prahaladnagar
-   Ahmedabad, GJ 380015
-   India
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CARBUNKLECHRONICLES.COM
-      Created on: 25-Jan-08
-      Expires on: 25-Jan-12
-      Last Updated on: 15-May-11
-
-   Administrative Contact:
-      Bidasaria, Hetal  hetal.bidasaria@gmail.com
-      E - 801, Safal Parivesh
-      Prahaladnagar
-      Ahmedabad, GJ 380015
-      India
-      +91.9879148288      Fax --
-
-   Technical Contact:
-      Bidasaria, Hetal  hetal.bidasaria@gmail.com
-      E - 801, Safal Parivesh
-      Prahaladnagar
-      Ahmedabad, GJ 380015
-      India
-      +91.9879148288      Fax --
 
    Domain servers in listed order:
       NS3.JUNAWEB.COM
       NS5.JUNAWEB.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CARBUNKLECHRONICLES.COM

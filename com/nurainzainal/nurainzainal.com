@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 07-nov-2007
    Expiration Date: 07-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Zaifunur'ain Zainal Abidin
-   28, Jalan USJ11/1E
-   UEP Subang Jaya
-   Subang Jaya, Selangor 47620
-   Malaysia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: NURAINZAINAL.COM
-      Created on: 07-Nov-07
-      Expires on: 07-Nov-11
-      Last Updated on: 06-Nov-10
-
-   Administrative Contact:
-      Zainal Abidin, Zaifunur'ain  nurprop@hotmail.com
-      28, Jalan USJ11/1E
-      UEP Subang Jaya
-      Subang Jaya, Selangor 47620
-      Malaysia
-      +60173758048      Fax --
-
-   Technical Contact:
-      Zainal Abidin, Zaifunur'ain  nurprop@hotmail.com
-      28, Jalan USJ11/1E
-      UEP Subang Jaya
-      Subang Jaya, Selangor 47620
-      Malaysia
-      +60173758048      Fax --
 
    Domain servers in listed order:
       NS1.VINCETAN.NET
       NS2.VINCETAN.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=NURAINZAINAL.COM

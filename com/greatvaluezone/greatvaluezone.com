@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 13-oct-2008
    Expiration Date: 13-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Machalek Communications, Inc
-   12550 W Frontage Rd
-   Suite 220
-   Burnsville, Minnesota 55337
-   United States
 
    Registered through: Domains Priced Right
    Domain Name: GREATVALUEZONE.COM
-      Created on: 13-Oct-08
-      Expires on: 13-Oct-12
-      Last Updated on: 14-Oct-10
-
-   Administrative Contact:
-      Machalek, Jonathan  jon@machalek.com
-      Machalek Communications, Inc
-      12550 W Frontage Rd
-      Suite 220
-      Burnsville, Minnesota 55337
-      United States
-      (952) 736-8000      Fax -- (952) 736-0234
-
-   Technical Contact:
-      Desk, Help  helpdesk@ivdesk.com
-      IV Desk
-      1509 Marshal St NE
-      Suite 300
-      Minneapolis, Minnesota 55413
-      United States
-      +1.6512935030      Fax -- +1.9527360234
 
    Domain servers in listed order:
       NS1.IBIZDNS.COM
       NS2.IBIZDNS.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=GREATVALUEZONE.COM&amp;prog_id=domainspricedright

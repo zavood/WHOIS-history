@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 25-jul-2007
    Expiration Date: 25-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Dennis Partridge
-   PO Box 2
-   Columbus, Georgia 31902
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WEBIFIEDDEVELOPMENT.COM
-      Created on: 25-Jul-07
-      Expires on: 25-Jul-13
-      Last Updated on: 26-Jul-11
-
-   Administrative Contact:
-      Partridge, Dennis  oddsource@gmail.com
-      PO Box 2
-      Columbus, Georgia 31902
-      United States
-      +1.7066629548      Fax --
-
-   Technical Contact:
-      Partridge, Dennis  oddsource@gmail.com
-      PO Box 2
-      Columbus, Georgia 31902
-      United States
-      +1.7066629548      Fax --
 
    Domain servers in listed order:
       NS.SOURCEDNS.COM
       NS1.SOURCEDNS.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WEBIFIEDDEVELOPMENT.COM

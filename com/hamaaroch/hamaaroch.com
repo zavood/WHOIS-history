@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-sep-2006
    Expiration Date: 27-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Aneeser Ross
-   6564, 5th Avenue
-   6564, 5th Avenue
-   New York, New York 10001
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: HAMAAROCH.COM
-      Created on: 27-Sep-06
-      Expires on: 27-Sep-11
-      Last Updated on: 04-Sep-10
-
-   Administrative Contact:
-      Ross, Aneeser  contact@HAMAAROCH.COM
-      6564, 5th Avenue
-      6564, 5th Avenue
-      New York, New York 10001
-      United States
-      2127485685      Fax --
-
-   Technical Contact:
-      Ross, Aneeser  contact@HAMAAROCH.COM
-      6564, 5th Avenue
-      6564, 5th Avenue
-      New York, New York 10001
-      United States
-      2127485685      Fax --
 
    Domain servers in listed order:
       NS7.HOSTNINE.COM
       NS8.HOSTNINE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=HAMAAROCH.COM

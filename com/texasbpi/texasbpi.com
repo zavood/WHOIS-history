@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-feb-2010
    Expiration Date: 05-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Art Armenta, M.D., P.A.
-   6560 Fannin
-   Suite 1804
-   Houston, Texas 77030
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TEXASBPI.COM
-      Created on: 05-Feb-10
-      Expires on: 05-Feb-12
-      Last Updated on: 29-Dec-10
-
-   Administrative Contact:
-      Armenta, Art  art@drarmenta.com
-      Art Armenta, M.D., P.A.
-      6560 Fannin
-      Suite 1804
-      Houston, Texas 77030
-      United States
-      +1.7133839651      Fax -- +1.7137901717
-
-   Technical Contact:
-      Armenta, Art  art@drarmenta.com
-      Art Armenta, M.D., P.A.
-      6560 Fannin
-      Suite 1804
-      Houston, Texas 77030
-      United States
-      +1.7133839651      Fax -- +1.7137901717
 
    Domain servers in listed order:
       NS1.LUNARIFFIC.COM
       NS2.LUNARIFFIC.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TEXASBPI.COM

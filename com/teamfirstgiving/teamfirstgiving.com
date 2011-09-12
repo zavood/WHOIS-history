@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-aug-2008
    Expiration Date: 11-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Firstgiving
-   48 Grove St
-   Boston, Massachusetts 02144
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TEAMFIRSTGIVING.COM
-      Created on: 11-Aug-08
-      Expires on: 11-Aug-12
-      Last Updated on: 12-Aug-11
-
-   Administrative Contact:
-      Halsey, Grant  grant@firstgiving.com
-      Firstgiving
-      48 Grove St
-      Boston, Massachusetts 02144
-      United States
-      (617) 591-2121      Fax --
-
-   Technical Contact:
-      Halsey, Grant  grant@firstgiving.com
-      Firstgiving
-      48 Grove St
-      Boston, Massachusetts 02144
-      United States
-      (617) 591-2121      Fax --
 
    Domain servers in listed order:
       NS51.DOMAINCONTROL.COM
       NS52.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFIRSTGIVING.COM

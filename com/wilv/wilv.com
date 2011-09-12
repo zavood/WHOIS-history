@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-feb-2002
    Expiration Date: 03-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 21:38:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -106,7 +106,7 @@ Hubbard Radio, LLC
 
    Record expires on 03-Feb-2012.
    Record created on 02-Feb-2006.
-   Database last updated on 9-Sep-2011 17:28:43 EDT.
+   Database last updated on 12-Sep-2011 07:39:54 EDT.
 
    Domain servers in listed order:
 

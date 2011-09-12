@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-apr-2010
    Expiration Date: 28-apr-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Terry Bishop
-   51 Bellerive Acres
-   Saint Louis, Missouri 63121
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: STLMUSICYESTERDAYS.COM
-      Created on: 28-Apr-10
-      Expires on: 28-Apr-15
-      Last Updated on: 28-Apr-10
-
-   Administrative Contact:
-      Bishop, Terry  terry@dejawho.com
-      51 Bellerive Acres
-      Saint Louis, Missouri 63121
-      United States
-      (314) 381-0309
-
-   Technical Contact:
-      Bishop, Terry  terry@dejawho.com
-      51 Bellerive Acres
-      Saint Louis, Missouri 63121
-      United States
-      (314) 381-0309
 
    Domain servers in listed order:
       NS25.DOMAINCONTROL.COM
       NS26.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=STLMUSICYESTERDAYS.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-may-2010
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    A Reynolds
-   PO Box 162
-   Coonabarabran, New South Wales 2357
-   Australia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SPHYNXCATPICTURES.COM
-      Created on: 12-May-10
-      Expires on: 12-May-12
-      Last Updated on: 12-May-10
-
-   Administrative Contact:
-      Reynolds, A  domains@reallylongurl.com
-      PO Box 162
-      Coonabarabran, New South Wales 2357
-      Australia
-      +61.240229444      Fax --
-
-   Technical Contact:
-      Reynolds, A  domains@reallylongurl.com
-      PO Box 162
-      Coonabarabran, New South Wales 2357
-      Australia
-      +61.240229444      Fax --
 
    Domain servers in listed order:
       NS1.BLUEHOST.COM
       NS2.BLUEHOST.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SPHYNXCATPICTURES.COM

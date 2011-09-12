@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 14-apr-2010
    Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Erwin Bantilan
-   564 Narra St., pag-asa, Lagao
-   General Santos City, South Cotabato 9500
-   Philippines
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ERWINBANTILAN.COM
-      Created on: 14-Apr-10
-      Expires on: 14-Apr-12
-      Last Updated on: 10-Jun-11
-
-   Administrative Contact:
-      Bantilan, Erwin  erwinbantilan@gmail.com
-      564 Narra St., pag-asa, Lagao
-      General Santos City, South Cotabato 9500
-      Philippines
-      639161625642      Fax --
-
-   Technical Contact:
-      Bantilan, Erwin  erwinbantilan@gmail.com
-      564 Narra St., pag-asa, Lagao
-      General Santos City, South Cotabato 9500
-      Philippines
-      639161625642      Fax --
 
    Domain servers in listed order:
       NS77.DOMAINCONTROL.COM
       NS78.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ERWINBANTILAN.COM

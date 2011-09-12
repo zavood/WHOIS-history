@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-may-2008
    Expiration Date: 24-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Jeffrey Gakstatter
-   66500 Gerking Market Road
-   Bend, OR 97701
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WORLDSTOREBLOG.COM
-      Created on: 23-May-08
-      Expires on: 23-May-12
-      Last Updated on: 13-Mar-11
-
-   Administrative Contact:
-      Gakstatter, Jeffrey  th.egaks@gmail.com
-      66500 Gerking Market Road
-      Bend, OR 97701
-      United States
-      5413822225      Fax -- 5413174193
-
-   Technical Contact:
-      Gakstatter, Jeffrey  th.egaks@gmail.com
-      66500 Gerking Market Road
-      Bend, OR 97701
-      United States
-      5413822225      Fax -- 5413174193
 
    Domain servers in listed order:
       NS1.COOLHANDLE.COM
       NS2.COOLHANDLE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WORLDSTOREBLOG.COM

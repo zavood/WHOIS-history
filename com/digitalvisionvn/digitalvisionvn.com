@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 24-nov-2008
    Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,29 +79,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    irfan keles
-   besiktas caddesi no65
-   Besiktas, Istanbul 34690
-   tr
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DIGITALVISIONVN.COM
-      Created on: 24-Nov-08
-      Expires on: 24-Nov-11
-      Last Updated on: 01-Mar-11
-
-   Administrative Contact:
-      keles, irfan  irfanlim@hotmail.com
-      besiktas caddesi no65
-      Besiktas, Istanbul 34690
-      tr
-      5072987800
-
-   Technical Contact:
-      keles, irfan  irfanlim@hotmail.com
-      besiktas caddesi no65
-      Besiktas, Istanbul 34690
-      tr
-      5072987800
 
    Domain servers in listed order:
       NS1.SERVAGE.NET
@@ -109,3 +89,6 @@ Registrant:
       NS3.SERVAGE.NET
       NS4.SERVAGE.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DIGITALVISIONVN.COM

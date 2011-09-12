@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-feb-2009
    Expiration Date: 12-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Eddie Delbridge Productions
-   2873 Player Lane
-   Tustin, California 92782
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CELEBLOGITY.COM
-      Created on: 12-Feb-09
-      Expires on: 12-Feb-13
-      Last Updated on: 17-Feb-11
-
-   Administrative Contact:
-      Delbridge, Eddie  ejdx3@yahoo.com
-      Eddie Delbridge Productions
-      2873 Player Lane
-      Tustin, California 92782
-      United States
-      (714) 389-2915      Fax -- (714) 389-2915
-
-   Technical Contact:
-      Delbridge, Eddie  ejdx3@yahoo.com
-      Eddie Delbridge Productions
-      2873 Player Lane
-      Tustin, California 92782
-      United States
-      (714) 389-2915      Fax -- (714) 389-2915
 
    Domain servers in listed order:
       NS07.DOMAINCONTROL.COM
       NS08.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CELEBLOGITY.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-aug-2002
    Expiration Date: 19-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,32 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    A Stroke of Genius
-   1482 Buckeye Lane
-   Palm Harbor, Florida 34683
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WENDYMCARTHUR.COM
-      Created on: 19-Aug-02
-      Expires on: 19-Aug-15
-      Last Updated on: 12-Oct-10
-
-   Administrative Contact:
-      Daniel, Cynthia  portraits2010@aol.com
-      1482 Buckeye Lane
-      Palm Harbor, Florida 34683
-      United States
-      727-738-1688
-
-   Technical Contact:
-      Registration, Domain  domreg@stl-net.net
-      1374 Clarkson/Clayton Center
-      PMB 324
-      St. Louis, Missouri 63011
-      United States
-      1.3144425322      Fax -- 1.3144426928
 
    Domain servers in listed order:
       NS01.DOMAINCONTROL.COM
       NS02.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WENDYMCARTHUR.COM

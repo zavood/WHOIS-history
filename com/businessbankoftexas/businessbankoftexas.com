@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-aug-2006
    Expiration Date: 19-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    BUSINESS BANK OF TEXAS,N.A.
-   1910 W. BRAKER LN
-   BLDG 3, STE. 100
-   Austin, Texas 78758
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BUSINESSBANKOFTEXAS.COM
-      Created on: 19-Aug-06
-      Expires on: 19-Aug-13
-      Last Updated on: 20-Jun-08
-
-   Administrative Contact:
-      Hebel, Mary Ann  MHebel@businessbankoftexas.com
-      BUSINESS BANK OF TEXAS,N.A.
-      1910 W. BRAKER LN
-      BLDG 3, STE. 100
-      Austin, Texas 78758
-      United States
-      +1.5128356600      Fax --
-
-   Technical Contact:
-      Stephens, Christopher  cstephens@riata-tech.com
-      BUSINESS BANK OF TEXAS,N.A.
-      1910 W. BRAKER LN
-      BLDG 3, STE. 100
-      Austin, Texas 78758
-      United States
-      +1.5128356600      Fax --
 
    Domain servers in listed order:
       NS11.DOMAINCONTROL.COM
       NS12.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BUSINESSBANKOFTEXAS.COM

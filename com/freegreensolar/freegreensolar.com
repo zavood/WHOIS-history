@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 20-jul-2009
    Expiration Date: 20-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Solaruniverse
-   525 Rimrock rd
-   thousand oaks, California 91361
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FREEGREENSOLAR.COM
-      Created on: 20-Jul-09
-      Expires on: 20-Jul-12
-      Last Updated on: 21-Jul-11
-
-   Administrative Contact:
-      Katz, Mitch  Mitch@katzkin.com
-      Solaruniverse
-      525 Rimrock rd
-      thousand oaks, California 91361
-      United States
-      (818) 292-1313      Fax --
-
-   Technical Contact:
-      Katz, Mitch  Mitch@katzkin.com
-      Solaruniverse
-      525 Rimrock rd
-      thousand oaks, California 91361
-      United States
-      (818) 292-1313      Fax --
 
    Domain servers in listed order:
       NS1.WEBPROPANE.COM
       NS2.WEBPROPANE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FREEGREENSOLAR.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 26-oct-2007
    Expiration Date: 26-oct-2017
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Christopher Otto
-   3504 Carroll Circle
-   Huntsville, Alabama 35801
-   United States
 
    Registered through: Domains Priced Right
    Domain Name: HALOMONITORING.COM
-      Created on: 26-Oct-07
-      Expires on: 26-Oct-17
-      Last Updated on: 16-Sep-08
-
-   Administrative Contact:
-      Otto, Christopher  chrisaotto@yahoo.com
-      3504 Carroll Circle
-      Huntsville, Alabama 35801
-      United States
-      (256) 797-4668      Fax --
-
-   Technical Contact:
-      Otto, Christopher  chrisaotto@yahoo.com
-      3504 Carroll Circle
-      Huntsville, Alabama 35801
-      United States
-      (256) 797-4668      Fax --
 
    Domain servers in listed order:
       NS43.DOMAINCONTROL.COM
       NS44.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=HALOMONITORING.COM&amp;prog_id=domainspricedright

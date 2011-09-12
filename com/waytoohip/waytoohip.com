@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-oct-2006
    Expiration Date: 11-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:10:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    WayTooHip Entertainment
-   341-D Crowells Road
-   highland park, New Jersey 08904
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WAYTOOHIP.COM
-      Created on: 11-Oct-06
-      Expires on: 11-Oct-11
-      Last Updated on: 12-Oct-10
-
-   Administrative Contact:
-      Grealis, Aslan  aslangrealis@gmail.com
-      WayTooHip Entertainment
-      341-D Crowells Road
-      highland park, New Jersey 08904
-      United States
-      +1.7324478030      Fax --
-
-   Technical Contact:
-      Grealis, Aslan  aslangrealis@gmail.com
-      WayTooHip Entertainment
-      341-D Crowells Road
-      highland park, New Jersey 08904
-      United States
-      +1.7324478030      Fax --
 
    Domain servers in listed order:
       NS21.DOMAINCONTROL.COM
       NS22.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WAYTOOHIP.COM
