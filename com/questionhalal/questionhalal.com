@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 07-nov-2010
    Expiration Date: 07-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:23:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:32:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Sunday, 11-Sep-2011 23:24:04 CEST
-# gmt time      : Sunday, 11-Sep-2011 21:24:04 GMT
+# local time    : Monday, 12-Sep-2011 23:32:56 CEST
+# gmt time      : Monday, 12-Sep-2011 21:32:56 GMT
 # last modify   : Wednesday, 24-Aug-2011 07:45:08 CEST
-# request from  : 192.168.248.3:57060
+# request from  : 192.168.248.2:21925
 
 Domain name: questionhalal.com
 
