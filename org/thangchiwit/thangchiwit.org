@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152854659-LROR
+Domain Name:THANGCHIWIT.ORG
+Created On:30-May-2008 11:16:41 UTC
+Last Updated On:19-May-2011 04:16:37 UTC
+Expiration Date:30-May-2012 11:16:41 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:0f11a70679c
+Registrant Name:Wanida  Jaiklieng
+Registrant Organization:The Way of Life
+Registrant Street1:3131/55-58 Sukhumvit 101/2 Ban
+Registrant Street2:
+Registrant Street3:
+Registrant City:Thailand
+Registrant State/Province:Bangkok
+Registrant Postal Code:10260
+Registrant Country:TH
+Registrant Phone:+2.3611182
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wolradio@hotmail.com
+Admin ID:0f11a70679c
+Admin Name:Wanida  Jaiklieng
+Admin Organization:The Way of Life
+Admin Street1:3131/55-58 Sukhumvit 101/2 Ban
+Admin Street2:
+Admin Street3:
+Admin City:Thailand
+Admin State/Province:Bangkok
+Admin Postal Code:10260
+Admin Country:TH
+Admin Phone:+2.3611182
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wolradio@hotmail.com
+Tech ID:0f11a70679c
+Tech Name:Wanida  Jaiklieng
+Tech Organization:The Way of Life
+Tech Street1:3131/55-58 Sukhumvit 101/2 Ban
+Tech Street2:
+Tech Street3:
+Tech City:Thailand
+Tech State/Province:Bangkok
+Tech Postal Code:10260
+Tech Country:TH
+Tech Phone:+2.3611182
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wolradio@hotmail.com
+Name Server:NS3.PORAR.COM
+Name Server:NS4.PORAR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
