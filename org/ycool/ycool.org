@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D113643229-LROR
+Domain Name:YCOOL.ORG
+Created On:27-Jan-2006 16:34:43 UTC
+Last Updated On:16-May-2011 02:25:46 UTC
+Expiration Date:27-Jan-2012 16:34:43 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31761702
+Registrant Name:Chuan HE
+Registrant Street1:2, Snead Pl.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hamilton
+Registrant State/Province:Waikato
+Registrant Postal Code:2000
+Registrant Country:NZ
+Registrant Phone:+64.1787932
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:foxanddog@gmail.com
+Admin ID:CR31761704
+Admin Name:Chuan HE
+Admin Street1:2, Snead Pl.
+Admin Street2:
+Admin Street3:
+Admin City:Hamilton
+Admin State/Province:Waikato
+Admin Postal Code:2000
+Admin Country:NZ
+Admin Phone:+64.1787932
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:foxanddog@gmail.com
+Tech ID:CR31761703
+Tech Name:Chuan HE
+Tech Street1:2, Snead Pl.
+Tech Street2:
+Tech Street3:
+Tech City:Hamilton
+Tech State/Province:Waikato
+Tech Postal Code:2000
+Tech Country:NZ
+Tech Phone:+64.1787932
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:foxanddog@gmail.com
+Name Server:NS17.DOMAINCONTROL.COM
+Name Server:NS18.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
