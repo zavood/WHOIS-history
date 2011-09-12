@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BDRULEZ.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.BYETHOST1.ORG
-   Name Server: NS2.BYETHOST1.ORG
+   Domain Name: THEHIGHLANDPARKBOGOR.COM
+   Registrar: ANSWERABLE.COM (I) PVT. LTD.
+   Whois Server: whois.answerable.com
+   Referral URL: http://www.answerable.com
+   Name Server: DNS1.SPARK.PARKING-PAGE.NET
+   Name Server: DNS2.SPARK.PARKING-PAGE.NET
    Status: clientTransferProhibited
-   Updated Date: 04-mar-2011
-   Creation Date: 14-oct-2009
-   Expiration Date: 14-oct-2012
+   Updated Date: 14-jul-2011
+   Creation Date: 04-jun-2010
+   Expiration Date: 04-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:59:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:58:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,72 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: XEONBD
-Contact: +88.01977936623
-Website: http://www.xeonbd.com
+Registration Service Provided By: PRIVATE REGISTRATIONS AKTIEN GESELLSCHAFT
+Contact: +55.5430545527
 
-Domain Name: BDRULEZ.COM
+Domain Name: THEHIGHLANDPARKBOGOR.COM
 
 Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Private Registrations Aktien Gesellschaft
+    Domain Admin        (domadmin@privateregistrations.ws)
+    CNR of Granby &amp; Sharpe St
+    Suite K2134
+    Kingstown
+    Not Applicable,Kingstown
+    VC
+    Tel. +55.5430545527
 
-Creation Date: 14-Oct-2009
-Expiration Date: 14-Oct-2012
+Creation Date: 04-Jun-2010
+Expiration Date: 04-Jun-2012
 
 Domain servers in listed order:
-    ns1.byethost1.org
-    ns2.byethost1.org
+    dns1.spark.parking-page.net
+    dns2.spark.parking-page.net
 
 
 Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Private Registrations Aktien Gesellschaft
+    Domain Admin        (domadmin@privateregistrations.ws)
+    CNR of Granby &amp; Sharpe St
+    Suite K2134
+    Kingstown
+    Not Applicable,Kingstown
+    VC
+    Tel. +55.5430545527
 
 Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Private Registrations Aktien Gesellschaft
+    Domain Admin        (domadmin@privateregistrations.ws)
+    CNR of Granby &amp; Sharpe St
+    Suite K2134
+    Kingstown
+    Not Applicable,Kingstown
+    VC
+    Tel. +55.5430545527
 
 Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Private Registrations Aktien Gesellschaft
+    Domain Admin        (domadmin@privateregistrations.ws)
+    CNR of Granby &amp; Sharpe St
+    Suite K2134
+    Kingstown
+    Not Applicable,Kingstown
+    VC
+    Tel. +55.5430545527
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
 	name cannot be transferred, hijacked, or modified. The Owner of this
 	domain name can easily change this status from their control panel.
 	This feature is provided as a security measure against fraudulent domain name hijacking.
-
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -128,7 +120,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
