@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARIASHARAPOVAHOT.COM
+   Domain Name: TRAFFIC2TRADE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
+   Name Server: NS11.OWNATE.COM
+   Name Server: NS12.OWNATE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-apr-2011
-   Creation Date: 06-sep-2009
-   Expiration Date: 06-sep-2012
+   Updated Date: 07-may-2011
+   Creation Date: 06-jun-2004
+   Expiration Date: 07-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:27:43 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MARIASHARAPOVAHOT.COM
+   Domain Name: TRAFFIC2TRADE.COM
 
    Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
+      NS11.OWNATE.COM
+      NS12.OWNATE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MARIASHARAPOVAHOT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TRAFFIC2TRADE.COM
