@@ -5,15 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
+   Domain Name: CUSTONWHEELS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.DNREDIRECT.COM
+   Name Server: NS2.DNREDIRECT.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 22-may-2011
+   Creation Date: 02-jun-2004
+   Expiration Date: 02-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:33:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:35:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+
+Domain custonwheels.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 63451827318664
+  63451827318664-4d3b3d@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 63451827318664
+  63451827318664-4d3b3d@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
+
+Record dates:
+  Record created on: 2004-06-02 17:00:12 UTC
+  Record modified on: 2010-07-08 22:00:01 UTC
+  Record expires on: 2012-06-02 UTC
+
+Nameservers:
+  ns2.dnredirect.com:
+    72.21.41.76
+  ns1.dnredirect.com:
+    67.15.80.73
+
+Note: Automated collection of data from this database is strictly prohibited.
+
