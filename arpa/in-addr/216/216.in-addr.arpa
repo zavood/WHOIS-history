@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       216.in-addr.arpa
+
+organisation: ARIN
+
+nserver:      DILL.ARIN.NET.
+nserver:      T.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      V.ARIN.NET.
+nserver:      W.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     53556 5 1 63384814A67B0070DC5D671F9B0F22663D36FDB0
+
+whois:        whois.arin.net
+
+changed:      1998-04
+changed:      2011-04-27
+source:       IANA
+

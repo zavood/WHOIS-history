@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 18:48:08 (BRT -03:00)
+
+domain:      2cristalia.com.br
+owner:       cristalia produtos quimicos farmaceuticos Ltda
+ownerid:     044.734.671/0004-02
+responsible: Francisco Eduardo Job
+country:     BR
+owner-c:     CRDOM5
+admin-c:     CRDOM5
+tech-c:      CRDOM5
+billing-c:   CRDOM5
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20080324 #4331890
+expires:     20120324
+changed:     20110303
+status:      published
+
+nic-hdl-br:  CRDOM5
+person:      cristalia dominios
+e-mail:      comunicacao@cristalia.com.br
+created:     20090928
+changed:     20110216
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
