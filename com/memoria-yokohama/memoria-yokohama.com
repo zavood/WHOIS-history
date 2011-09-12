@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNNUB.COM
-   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
-   Whois Server: whois.aboutdomainsolutions.com
-   Referral URL: http://www.aboutdomain.com
-   Name Server: NS1.PARKLOGIC.COM
-   Name Server: NS2.PARKLOGIC.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
+   Domain Name: MEMORIA-YOKOHAMA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.TSUKAERU.NET
+   Name Server: NS2.TSUKAERU.NET
+   Status: ok
+   Updated Date: 09-dec-2010
+   Creation Date: 19-dec-2006
+   Expiration Date: 19-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:10:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:10:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,38 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	Luca Mueller
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-	Domain Name: pornnub.com
-	Created on: 2007-10-10 13:12:20
-	Expires on: 2011-10-10 13:12:20
-
-Administrative Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-Technical Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-Domain servers in listed order:
-	NS1.PARKLOGIC.COM
-	NS2.PARKLOGIC.COM
-
-
-
-
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.
