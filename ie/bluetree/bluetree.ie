@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      bluetree.ie
+descr:       Blue Tree Systems Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     KH145-IEDR
+tech-c:      KH145-IEDR
+renewal:     31-December-2011
+status:      Active
+nserver:     CERBERUS.BLUETREE.IE 87.198.132.99
+nserver:     NS1.EASYDNS.COM
+nserver:     NS2.EASYDNS.COM
+source:      IEDR
+
+person:      Kenn Humborg
+nic-hdl:     KH145-IEDR
+source:      IEDR
+
+person:      Kenn Humborg
+nic-hdl:     KH145-IEDR
+source:      IEDR
+
