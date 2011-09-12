@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIGITALRIVER.COM
+   Domain Name: RIVERSIDEHONDA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1.RIVERSIDEHONDA.COM
+   Name Server: NS2.RIVERSIDEHONDA.COM
+   Name Server: NS3.RIVERSIDEHONDA.COM
    Status: clientTransferProhibited
-   Updated Date: 11-sep-2011
-   Creation Date: 28-feb-1995
-   Expiration Date: 01-mar-2013
+   Updated Date: 05-apr-2011
+   Creation Date: 29-apr-1998
+   Expiration Date: 28-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:22:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:22:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: digitalriver.com
+Whois Query: riversidehonda.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 19:18:36 EDT 2011
+Date and Time of Query: Mon Sep 12 19:12:33 EDT 2011
 Reason Code: IE
