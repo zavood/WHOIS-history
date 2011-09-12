@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157010217-LROR
+Domain Name:GALVESTONOGP.ORG
+Created On:01-Sep-2009 23:47:41 UTC
+Last Updated On:02-Sep-2011 10:48:17 UTC
+Expiration Date:01-Sep-2012 23:47:41 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR13386453
+Registrant Name:David Stanowski
+Registrant Organization:Galveston Open Government Project
+Registrant Street1:2211 Avenue P
+Registrant Street2:
+Registrant Street3:
+Registrant City:Galveston
+Registrant State/Province:Texas
+Registrant Postal Code:77550
+Registrant Country:US
+Registrant Phone:+1.4096212099
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dstanowski@att.net
+Admin ID:CR13386455
+Admin Name:David Stanowski
+Admin Organization:Galveston Open Government Project
+Admin Street1:2211 Avenue P
+Admin Street2:
+Admin Street3:
+Admin City:Galveston
+Admin State/Province:Texas
+Admin Postal Code:77550
+Admin Country:US
+Admin Phone:+1.4096212099
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dstanowski@att.net
+Tech ID:CR13386454
+Tech Name:David Stanowski
+Tech Organization:Galveston Open Government Project
+Tech Street1:2211 Avenue P
+Tech Street2:
+Tech Street3:
+Tech City:Galveston
+Tech State/Province:Texas
+Tech Postal Code:77550
+Tech Country:US
+Tech Phone:+1.4096212099
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dstanowski@att.net
+Name Server:NS09.DOMAINCONTROL.COM
+Name Server:NS10.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
