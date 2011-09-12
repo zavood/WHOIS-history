@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEALPLY.COM
+   Domain Name: OUTBLAZE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.EASYDNS.COM
-   Name Server: DNS2.EASYDNS.NET
-   Name Server: DNS3.EASYDNS.ORG
-   Name Server: DNS4.EASYDNS.INFO
+   Name Server: NS1.OUTBLAZE.COM
+   Name Server: NS1.PORTAL2.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 31-jan-2011
-   Expiration Date: 31-jan-2014
+   Updated Date: 13-apr-2011
+   Creation Date: 10-aug-1998
+   Expiration Date: 09-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:18:24 UTC &lt;&lt;&lt;
 
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   DealPly Technologies Ltd.
+   Outblaze
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DEALPLY.COM
+   Domain Name: OUTBLAZE.COM
 
    Domain servers in listed order:
-      DNS1.EASYDNS.COM
-      DNS2.EASYDNS.NET
-      DNS3.EASYDNS.ORG
-      DNS4.EASYDNS.INFO
+      NS1.OUTBLAZE.COM
+      NS1.PORTAL2.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DEALPLY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=OUTBLAZE.COM

@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEALPLY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.EASYDNS.COM
-   Name Server: DNS2.EASYDNS.NET
-   Name Server: DNS3.EASYDNS.ORG
-   Name Server: DNS4.EASYDNS.INFO
+   Domain Name: TREESANDBRANCHES.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS0.PHASE8.NET
+   Name Server: NS1.PHASE8.NET
+   Name Server: NS2.PHASE8.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 31-jan-2011
-   Expiration Date: 31-jan-2014
+   Updated Date: 06-sep-2010
+   Creation Date: 06-sep-2010
+   Expiration Date: 06-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:18:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:19:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +54,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: TREESANDBRANCHES.COM
+     Created on: 2010-09-06
+     Updated on: 2010-09-06
+     Expires on: 2012-09-06
+     Registrant Name: SIKIRAT MUSA-ELAKAMA
+     Contact: sikirat musa-elakama
+     Registrant Address: 9 Alderton Crescent
+     Registrant City: London
+     Registrant Postal Code: NW4 3XU
+     Registrant Country: GB
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS0.PHASE8.NET
+     Secondary Name Server Hostname: NS1.PHASE8.NET
 
 
-Registrant:
-   DealPly Technologies Ltd.
+&gt;&gt;&gt; Last update of whois database: Mon Sep 12 16:06:57 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DEALPLY.COM
-
-   Domain servers in listed order:
-      DNS1.EASYDNS.COM
-      DNS2.EASYDNS.NET
-      DNS3.EASYDNS.ORG
-      DNS4.EASYDNS.INFO
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DEALPLY.COM
