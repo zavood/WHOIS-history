@@ -5,25 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAI.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
+   Domain Name: DEALCOUNTRYCLUB.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.ONSITENJ.COM
+   Name Server: NS2.ONSITENJ.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 03-mar-1999
-   Expiration Date: 03-mar-2012
+   Updated Date: 24-mar-2011
+   Creation Date: 17-jun-1999
+   Expiration Date: 17-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:25:05 UTC &lt;&lt;&lt;
 
@@ -60,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... dealcountryclub.com
+  Creation Date........ 1999-06-18
+  Registration Date.... 2004-04-17
+  Expiry Date.......... 2012-06-18
+  Organisation Name.... Deal Golf and Country Club
+  Organisation Address. PO Box 387
+  Organisation Address.
+  Organisation Address. Deal
+  Organisation Address. 07723
+  Organisation Address. NJ
+  Organisation Address. UNITED STATES
+
+Admin Name........... Pat Chiafullo
+  Admin Address........ PO Box 387
+  Admin Address........
+  Admin Address........ Deal
+  Admin Address........ 07723
+  Admin Address........ NJ
+  Admin Address........ UNITED STATES
+  Admin Email.......... dave@onsitenj.com
+  Admin Phone.......... 732-531-1190
+  Admin Fax............ 732-531-9711
+
+Tech Name............ Dave Matteo
+  Tech Address......... 108 South Main Street
+  Tech Address.........
+  Tech Address......... Ocean Grove
+  Tech Address......... 07756
+  Tech Address......... NJ
+  Tech Address......... UNITED STATES
+  Tech Email........... dave@onsitenj.com
+  Tech Phone........... 732-774-7181
+  Tech Fax............. 732-988-2172
+  Name Server.......... ns2.onsitenj.com
+  Name Server.......... ns1.onsitenj.com
+
+
