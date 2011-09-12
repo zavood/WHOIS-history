@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 17:47:53 (BRT -03:00)
+
+domain:      vdmtelecom.com.br
+owner:       Vdm Telecomunica&ccedil;&otilde;es Ltda
+ownerid:     007.150.556/0001-03
+responsible: Bruno Policarpo Ferreira
+country:     BR
+owner-c:     BPF26
+admin-c:     BPF26
+tech-c:      HIS5
+billing-c:   BPF26
+nserver:     ns1.hostnet.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.hostnet.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20050114 #1970227
+expires:     20120114
+changed:     20110131
+status:      published
+
+nic-hdl-br:  BPF26
+person:      Bruno Policarpo Ferreira
+e-mail:      registro@hostnet.com.br
+created:     20050114
+changed:     20050114
+
+nic-hdl-br:  HIS5
+person:      Hostmaster HostNet Networks
+e-mail:      registro@hostnet.com.br
+created:     19981214
+changed:     20070903
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
