@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162071489-LROR
+Domain Name:FONDATION-BPPC.ORG
+Created On:19-Apr-2011 14:42:10 UTC
+Last Updated On:19-Jun-2011 03:48:32 UTC
+Expiration Date:19-Apr-2012 14:42:10 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DN-1150965
+Registrant Name:BAUDAT Cecile
+Registrant Organization:Fondation BPPC
+Registrant Street1:Parc d Activites
+Registrant Street2:du Roy d Espagne
+Registrant Street3:
+Registrant City:Marseille
+Registrant State/Province:Paca
+Registrant Postal Code:13009
+Registrant Country:FR
+Registrant Phone:+33.491176886
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:CecileBaudat-Fondation@bppc.fr
+Admin ID:ODN-304771
+Admin Name:Roussel Philippe
+Admin Organization:RD medias
+Admin Street1:6 rue de Toulouse
+Admin Street2:
+Admin Street3:
+Admin City:Marseille
+Admin State/Province:Paca
+Admin Postal Code:13005
+Admin Country:FR
+Admin Phone:+33.33491470621
+Admin Phone Ext.:33
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nic@as35334.net
+Tech ID:ODN-449789
+Tech Name:Zminka Laurent
+Tech Organization:RD medias
+Tech Street1:6 rue de Toulouse
+Tech Street2:
+Tech Street3:
+Tech City:Marseille
+Tech State/Province:Paca
+Tech Postal Code:13005
+Tech Country:FR
+Tech Phone:+33.33491470621
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nic@as35334.net
+Name Server:NS1.AS35334.NET
+Name Server:NS2.AS35334.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
