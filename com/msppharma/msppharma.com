@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FPBNS.NET
+   Domain Name: MSPPHARMA.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: A.NS.FPBNS.NET
-   Name Server: B.NS.FPBNS.NET
-   Name Server: C.NS.FPBNS.NET
-   Name Server: D.NS.FPBNS.NET
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-apr-2011
-   Creation Date: 14-may-2007
-   Expiration Date: 14-may-2012
+   Updated Date: 12-feb-2011
+   Creation Date: 16-mar-2004
+   Expiration Date: 16-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 05:46:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 05:46:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,44 +79,42 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Level 3  Communications, LLC
-        Level 3 Communications, LLC
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        Merck Sharp and  Dohme Corp
+        Merck Sharp and Dohme Corp
+        One Merck Drive
+         Whitehouse Station NJ 08889
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: +1.7208885619
+        merckdomains@merck.com +1.9084236903 Fax: +1.9087351399
 
-    Domain Name: fpbns.net
+    Domain Name: msppharma.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Level Three Communications, Inc
-        Level 3 Communications, Inc
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        Linda  Rauch
+        Merck and Co., Inc.
+        One Merck Drive
+         Whitehouse Station NJ 08889
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: -
+        merckdomains@merck.com +1.9084236903 Fax: +1.9087351399
     Technical Contact, Zone Contact:
-        Level Three Communications, Inc
-        Level 3 Communications, Inc
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        Global Network Management Center  (GNMC)
+        AT&amp;T DNS Services, Inc.
+        1111 Woodsmill Dr.
+         Town and Country MO 63017
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: -
+        rm-hostmaster@EMS.ATT.COM +1.6365195708 Fax: +1.6365195573
 
-    Created on..............: 2007-05-14.
-    Expires on..............: 2012-05-14.
-    Record last updated on..: 2011-04-21.
+    Created on..............: 2004-03-16.
+    Expires on..............: 2013-03-16.
+    Record last updated on..: 2011-02-12.
 
     Domain servers in listed order:
 
-    a.ns.fpbns.net
-    c.ns.fpbns.net
-    d.ns.fpbns.net
-    b.ns.fpbns.net
+    cbru.br.ns.els-gms.att.net
+    cmtu.mt.ns.els-gms.att.net
 
 
 
