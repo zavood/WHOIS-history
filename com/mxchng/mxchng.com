@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADGRAFIX.COM
+   Domain Name: MXCHNG.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.ADGRAFIX.COM
-   Name Server: NS2.ADGRAFIX.COM
-   Name Server: NS3.ADGRAFIX.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-mar-2010
-   Creation Date: 09-oct-1995
-   Expiration Date: 08-oct-2019
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: ok
+   Updated Date: 26-jul-2011
+   Creation Date: 26-jul-2010
+   Expiration Date: 26-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:52:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:52:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,57 +56,56 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- HOSTING.COM
- Express Technologies
- PO Box 22789
- Louisville, KY 40252
- US
+ Contact Privacy Inc. Customer 0124447134
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: ADGRAFIX.COM
+ Domain name: MXCHNG.COM
 
 
  Administrative Contact:
-    Hostmaster, Domain  abuse@hosting.com
-    Express Technologies
-    PO Box 22789
-    Louisville, KY 40252
-    US
-    +01.5022144100
+    Contact Privacy Inc. Customer 0124447134,   mxchng.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Hostmaster, Domain  abuse@hosting.com
-    Express Technologies
-    PO Box 22789
-    Louisville, KY 40252
-    US
-    +01.5022144100
+    Contact Privacy Inc. Customer 0124447134,   mxchng.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    WSMDomains, domainsupport@wsmdomains.com
-    800-455-1795
-    302-709-0951 (fax)
-    https://www.wsmdomains.com/help/support.html
-    Register your domain today! www.wsmdomains.com
-    Full DNS management - Free URL forwarding
-    Host with the family of Hosting.com companies
+    Hover, help@hover.com
+    416.538.5498
+    http://help.hover.com
+
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 25-Mar-2010.
- Record expires on 08-Oct-2019.
- Record created on 09-Oct-1995.
+ Record last updated on 31-Aug-2011.
+ Record expires on 26-Jul-2012.
+ Record created on 26-Jul-2010.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.ADGRAFIX.COM   130.94.6.155
-    NS1.ADGRAFIX.COM   199.231.136.11
-    NS3.ADGRAFIX.COM   65.182.208.253
+    PDNS1.ULTRADNS.NET
+    PDNS4.ULTRADNS.ORG
+    PDNS6.ULTRADNS.CO.UK
+    PDNS2.ULTRADNS.NET
+    PDNS5.ULTRADNS.INFO
+    PDNS3.ULTRADNS.ORG
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

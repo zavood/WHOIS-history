@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 18:53:29 (BRT -03:00)
+
+domain:      amaralaco.com.br
+owner:       Amaral de Igua&ccedil;u Distribuidor de A&ccedil;o Ltda.
+ownerid:     001.829.078/0001-86
+responsible: Jos&eacute; Manoel Martias Amaral
+country:     BR
+owner-c:     LSP48
+admin-c:     LSP48
+tech-c:      LSP48
+billing-c:   LSP48
+nserver:     ns1.sitelutions.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.sitelutions.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20031010 #1393144
+expires:     20111010
+changed:     20110601
+status:      published
+
+nic-hdl-br:  LSP48
+person:      Luiz Silveira Pires
+e-mail:      luiz@eportais.net
+created:     20020605
+changed:     20110818
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
