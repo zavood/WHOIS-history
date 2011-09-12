@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      talkingvoices.ie
+descr:       Talking Voices Ltd
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AED976-IEDR
+tech-c:      AAM456-IEDR
+renewal:     16-August-2012
+status:      Active
+nserver:     ns1.doopdns.net
+nserver:     ns2.doopdns.net
+source:      IEDR
+
+person:      Dean Whitbread
+nic-hdl:     AED976-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+
