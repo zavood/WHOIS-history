@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154517581-LROR
+Domain Name:CO-OPERATIVEMANIFESTO.ORG
+Created On:21-Oct-2008 21:39:51 UTC
+Last Updated On:21-Dec-2008 03:54:26 UTC
+Expiration Date:21-Oct-2011 21:39:51 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:8B31E5141E86EEC0
+Registrant Name:Customer Service Department
+Registrant Organization:AttractSoft GmbH
+Registrant Street1:Mathildenstr. 18
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kiel
+Registrant State/Province:SH
+Registrant Postal Code:24148
+Registrant Country:DE
+Registrant Phone:+49.4312207240
+Registrant Phone Ext.:
+Registrant FAX:+49.4312328011
+Registrant FAX Ext.:
+Registrant Email:sales@attractsoft.com
+Admin ID:8B31E5141E86EEC0
+Admin Name:Customer Service Department
+Admin Organization:AttractSoft GmbH
+Admin Street1:Mathildenstr. 18
+Admin Street2:
+Admin Street3:
+Admin City:Kiel
+Admin State/Province:SH
+Admin Postal Code:24148
+Admin Country:DE
+Admin Phone:+49.4312207240
+Admin Phone Ext.:
+Admin FAX:+49.4312328011
+Admin FAX Ext.:
+Admin Email:sales@attractsoft.com
+Tech ID:8B31E5141E86EEC0
+Tech Name:Customer Service Department
+Tech Organization:AttractSoft GmbH
+Tech Street1:Mathildenstr. 18
+Tech Street2:
+Tech Street3:
+Tech City:Kiel
+Tech State/Province:SH
+Tech Postal Code:24148
+Tech Country:DE
+Tech Phone:+49.4312207240
+Tech Phone Ext.:
+Tech FAX:+49.4312328011
+Tech FAX Ext.:
+Tech Email:sales@attractsoft.com
+Name Server:NS1.AWARDSPACE.COM
+Name Server:NS2.AWARDSPACE.COM
+Name Server:NS3.AWARDSPACE.COM
+Name Server:NS4.AWARDSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
