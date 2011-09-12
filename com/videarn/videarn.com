@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TYNT.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P20.DYNECT.NET
-   Name Server: NS2.P20.DYNECT.NET
-   Name Server: NS3.P20.DYNECT.NET
+   Domain Name: VIDEARN.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.LEASEWEB.NL
+   Name Server: NS4.LEASEWEB.NET
+   Name Server: NS5.LEASEWEB.NL
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-dec-2010
-   Creation Date: 13-sep-2004
-   Expiration Date: 13-sep-2012
+   Updated Date: 18-jul-2011
+   Creation Date: 18-jan-2010
+   Expiration Date: 18-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:46:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:46:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +52,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+; This data is provided by LeaseWeb BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; LeaseWeb BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: VIDEARN.COM
+
+RSP: LeaseWeb BV
+URL: http://www.leaseweb.com
+
+owner-contact: P-TMV437
+owner-fname: TVO
+owner-lname: Media
+owner-street: 15 Fairbanks Road
+owner-city: GEORGETOWN
+owner-zip: KY1-9006
+owner-country: KY
+owner-phone: +13459292637
+owner-email: noreply@videarn.com
+
+admin-contact: P-TMV437
+admin-fname: TVO
+admin-lname: Media
+admin-street: 15 Fairbanks Road
+admin-city: GEORGETOWN
+admin-zip: KY1-9006
+admin-country: KY
+admin-phone: +13459292637
+admin-email: noreply@videarn.com
+
+tech-contact: P-CNZ29
+tech-organization: LeaseWeb BV
+tech-fname: LeaseWeb
+tech-lname: BV
+tech-street: J.W. Lucasweg 35
+tech-city: Haarlem
+tech-zip: 2031BE
+tech-country: NL
+tech-phone: +31(0)203162899
+tech-fax: +31(0)203162898
+tech-email: technical@leaseweb.com
+
+billing-contact: P-CNZ29
+billing-organization: LeaseWeb BV
+billing-fname: LeaseWeb
+billing-lname: BV
+billing-street: J.W. Lucasweg 35
+billing-city: Haarlem
+billing-zip: 2031BE
+billing-country: NL
+billing-phone: +31(0)203162899
+billing-fax: +31(0)203162898
+billing-email: technical@leaseweb.com
+
+nameserver: ns1.leaseweb.nl
+nameserver: ns4.leaseweb.net
+nameserver: ns5.leaseweb.nl
+
+; Please register your domains at
+; http://www.leaseweb.com
+
