@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105464178-LROR
+Domain Name:LAESCUELAEMPRENDE.ORG
+Created On:21-Dec-2004 08:31:02 UTC
+Last Updated On:22-Dec-2010 01:23:00 UTC
+Expiration Date:21-Dec-2011 08:31:02 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:C8101081-LRMS
+Registrant Name:Asociacion de Desarrollo Rural de Gran Canaria AIDER Gran Canar
+Registrant Organization:NULL
+Registrant Street1:C . Del Agua, s n
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vega de San Mateo
+Registrant State/Province:Las Palmas
+Registrant Postal Code:35320
+Registrant Country:ES
+Registrant Phone:+34.928660665
+Registrant Phone Ext.:
+Registrant FAX:+34.928660708
+Registrant FAX Ext.:
+Registrant Email:miguel@redcanariarural.org
+Admin ID:C8101082-LRMS
+Admin Name:Orlando Garcia Ramos
+Admin Organization:NULL
+Admin Street1:Ctra. Albercon de la Virgen, 4 - 2
+Admin Street2:
+Admin Street3:
+Admin City:Santa Maria de Guia
+Admin State/Province:LAS PALMAS
+Admin Postal Code:35450
+Admin Country:ES
+Admin Phone:+34.928896543
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@orlando-garcia.com
+Tech ID:C8101083-LRMS
+Tech Name:Orlando Garcia Ramos
+Tech Organization:NULL
+Tech Street1:Ctra. Albercon de la Virgen, 4 - 2
+Tech Street2:
+Tech Street3:
+Tech City:Santa Maria de Guia
+Tech State/Province:LAS PALMAS
+Tech Postal Code:35450
+Tech Country:ES
+Tech Phone:+34.928896543
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@orlando-garcia.com
+Name Server:DNS5.SERVIDORESDNS.NET
+Name Server:DNS6.SERVIDORESDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
