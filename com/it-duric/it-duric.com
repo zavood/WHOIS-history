@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNSEVER.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS11.DNSEVER.COM
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS55.DNSEVER.COM
+   Domain Name: IT-DURIC.COM
+   Registrar: LIQUIDNET LTD.
+   Whois Server: whois.liquidnetlimited.com
+   Referral URL: http://www.liquidnetlimited.com
+   Name Server: DNS1.IT-DURIC.COM
+   Name Server: DNS2.IT-DURIC.COM
    Status: clientTransferProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 08-dec-2003
-   Expiration Date: 08-dec-2011
+   Updated Date: 02-jun-2011
+   Creation Date: 01-aug-2006
+   Expiration Date: 01-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,35 +52,77 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
 
-Domain Name: DNSEVER.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
+Registration Service Provided By: Digital Duric Hosting
+Contact: support@propersupport.com
+Visit: http://digitalduric.com/
 
-Domain Registration Date....: 2003-12-09 GMT.
-Domain Expiration Date......: 2011-12-09 GMT.
-Domain Last Updated Date....: 2010-12-07 16:18:01 GMT.
+Domain Name: it-duric.com
 
 Registrant:
-    SangCheol Woo
-    Sincheon-dong, Songpa-gu, 803 ho, SoLiCom, 8F ShinKwan, SongPaKuChung
-    Seoul,  138702
-    Korea
+    IT-Duric
+    Vahidin Duric (duricv@bih.net.ba)
+    Harmani H-2/3 sp3 br.42
 
-Administrative, Technical, Billing Contact:
-    SangCheol Woo    woosangcheol@empal.com
-    Sincheon-dong, Songpa-gu, 803 ho, SoLiCom, 8F ShinKwan, SongPaKuChung
-    Seoul,  138702
-    Korea
-    (PHONE) +82-2-000-0000    (FAX) +82-2-0000-0000
+    Bihac, USK 77000
+    BA
+    Tel: +387.62161047
+    Fax:
 
 
-Domain Name Servers in listed order:
-    NS11.DNSEVER.COM		121.254.154.141
-    NS33.DNSEVER.COM		121.254.154.163
-    NS55.DNSEVER.COM		121.254.154.185
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
+Creation Date: 2006-08-01 13:07:53
+Expiration Date: 2013-08-01 13:07:53
 
+Domain servers in listed order:
+    dns2.it-duric.com
+    dns1.it-duric.com
+
+
+Administrative Contact:
+    IT-Duric
+    Vahidin Duric (duricv@bih.net.ba)
+    Harmani H-2/3 sp3 br.42
+
+    Bihac, USK 77000
+    BA
+    Tel: +387.62161047
+    Fax:
+
+
+Technical Contact:
+    IT-Duric
+    Vahidin Duric (duricv@bih.net.ba)
+    Harmani H-2/3 sp3 br.42
+
+    Bihac, USK 77000
+    BA
+    Tel: +387.62161047
+    Fax:
+
+
+Billing Contact:
+    IT-Duric
+    Vahidin Duric (duricv@bih.net.ba)
+    Harmani H-2/3 sp3 br.42
+
+    Bihac, USK 77000
+    BA
+    Tel: +387.62161047
+    Fax:
+
+
+Status: Unlocked
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is LiquidNet Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-oct-1997
    Expiration Date: 05-oct-2020
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:31:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:37:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,7 +112,7 @@ AVAST Software a.s.
 
    Record expires on 05-Oct-2020.
    Record created on 06-Oct-1997.
-   Database last updated on 10-Sep-2011 19:26:58 EDT.
+   Database last updated on 12-Sep-2011 16:26:57 EDT.
 
    Domain servers in listed order:
 

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WSOD.COM
+   Domain Name: ZASSETS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS01.WALLST.COM
-   Name Server: DNS02.WALLST.COM
-   Name Server: DNS03.WALLST.COM
-   Name Server: NS4.WALLST.COM
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientTransferProhibited
-   Updated Date: 08-nov-2010
-   Creation Date: 07-apr-1997
-   Expiration Date: 08-apr-2014
+   Updated Date: 29-mar-2010
+   Creation Date: 28-may-2008
+   Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about WSOD.COM
-&lt;a href=&quot;http://www.aboutus.org/WSOD.COM&quot;&gt;AboutUs: WSOD.COM &lt;/a&gt;
+Visit AboutUs.org for more information about ZASSETS.COM
+&lt;a href=&quot;http://www.aboutus.org/ZASSETS.COM&quot;&gt;AboutUs: ZASSETS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Wall Street On Demand, Inc.
-   5718 Central Ave
-   Boulder, CO 80301
+Zappos IP, Inc
+   2280 Corporate Circle
+   Suite 100
+   Henderson, NV 89074
    US
 
-   Domain Name: WSOD.COM
+   Domain Name: ZASSETS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,30 +95,22 @@ Wall Street On Demand, Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Wall Street On Demand, Inc.		dnsadmin@WALLST.COM
-      5718 Central Ave
-      Boulder, CO 80301
+   Administrative Contact, Technical Contact:
+      Zappos IP, Inc		z-domains@zappos.com
+      2280 Corporate Circle
+      Suite 100
+      Henderson, NV 89074
       US
-      303-417-9999 fax: 123 123 1234
-
-   Technical Contact:
-      Administrator, Web		webmaster@wallst.com
-      3005 Center Green Drive, Suite 100
-      Boulder, CO 80301
-      US
-      303-417-9999 fax: 303-440-2982
+      702-943-7777 fax: 123 123 1234
 
 
-   Record expires on 08-Apr-2014.
-   Record created on 07-Apr-1997.
-   Database last updated on 12-Sep-2011 16:26:52 EDT.
+   Record expires on 28-May-2012.
+   Record created on 28-May-2008.
+   Database last updated on 12-Sep-2011 16:26:17 EDT.
 
    Domain servers in listed order:
 
-   DNS02.WALLST.COM             209.234.224.40
-   DNS03.WALLST.COM             209.234.234.41
-   DNS01.WALLST.COM             209.234.224.41
-   NS4.WALLST.COM               209.234.234.40
+   UDNS1.ULTRADNS.NET
+   UDNS2.ULTRADNS.NET
 
 

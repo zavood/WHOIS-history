@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WSOD.COM
+   Domain Name: HI-TEK.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS01.WALLST.COM
-   Name Server: DNS02.WALLST.COM
-   Name Server: DNS03.WALLST.COM
-   Name Server: NS4.WALLST.COM
+   Name Server: NS1.ASPADMIN.COM
+   Name Server: NS1.IBIZDNS.COM
+   Name Server: NS2.ASPADMIN.COM
+   Name Server: NS2.IBIZDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 08-nov-2010
-   Creation Date: 07-apr-1997
-   Expiration Date: 08-apr-2014
+   Updated Date: 21-apr-2007
+   Creation Date: 30-aug-1995
+   Expiration Date: 29-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +76,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about WSOD.COM
-&lt;a href=&quot;http://www.aboutus.org/WSOD.COM&quot;&gt;AboutUs: WSOD.COM &lt;/a&gt;
+Visit AboutUs.org for more information about HI-TEK.COM
+&lt;a href=&quot;http://www.aboutus.org/HI-TEK.COM&quot;&gt;AboutUs: HI-TEK.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Wall Street On Demand, Inc.
-   5718 Central Ave
-   Boulder, CO 80301
+Hi-Tek, Inc.
+   Reality in a Digital World
+   9449 Balboa Ave., Suite 114
+   San Diego, CA 92123
    US
 
-   Domain Name: WSOD.COM
+   Domain Name: HI-TEK.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,29 +98,30 @@ Wall Street On Demand, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Wall Street On Demand, Inc.		dnsadmin@WALLST.COM
-      5718 Central Ave
-      Boulder, CO 80301
+      Hi-Tek Multimedia, Inc.		lee@HI-TEK.COM
+      3665 RUFFIN RD STE 115
+      SAN DIEGO, CA 92123-1848
       US
-      303-417-9999 fax: 123 123 1234
+      (858) 571-8431 fax: (858) 571-8497
 
    Technical Contact:
-      Administrator, Web		webmaster@wallst.com
-      3005 Center Green Drive, Suite 100
-      Boulder, CO 80301
+      Officer, Chief Technical		cto@HI-TEK.COM
+      Hi-Tek Multimedia, Inc.
+      3665 RUFFIN RD STE 115
+      SAN DIEGO, CA 92123-1848
       US
-      303-417-9999 fax: 303-440-2982
+      (858)571-8431 fax: (858)571-8497
 
 
-   Record expires on 08-Apr-2014.
-   Record created on 07-Apr-1997.
-   Database last updated on 12-Sep-2011 16:26:52 EDT.
+   Record expires on 29-Aug-2015.
+   Record created on 30-Aug-1995.
+   Database last updated on 12-Sep-2011 16:26:15 EDT.
 
    Domain servers in listed order:
 
-   DNS02.WALLST.COM             209.234.224.40
-   DNS03.WALLST.COM             209.234.234.41
-   DNS01.WALLST.COM             209.234.224.41
-   NS4.WALLST.COM               209.234.234.40
+   NS1.IBIZDNS.COM
+   NS2.IBIZDNS.COM              209.126.190.71
+   NS1.ASPADMIN.COM             216.98.128.74
+   NS2.ASPADMIN.COM
 
 

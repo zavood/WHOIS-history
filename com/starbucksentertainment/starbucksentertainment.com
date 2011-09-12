@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNSEVER.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS11.DNSEVER.COM
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS55.DNSEVER.COM
+   Domain Name: STARBUCKSENTERTAINMENT.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 08-dec-2003
-   Expiration Date: 08-dec-2011
+   Updated Date: 07-mar-2011
+   Creation Date: 15-may-2004
+   Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:35:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,35 +54,42 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+Domain Name.......... starbucksentertainment.com
+  Creation Date........ 2004-05-15
+  Registration Date.... 2011-03-07
+  Expiry Date.......... 2012-05-16
+  Organisation Name.... Starbucks Coffee Company
+  Organisation Address. 2401 Utah Avenue S,
+  Organisation Address. #800
+  Organisation Address. Seattle
+  Organisation Address. 98134
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
 
-Domain Name: DNSEVER.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
+Admin Name........... . .
+  Admin Address........ 2401 Utah Avenue S,
+  Admin Address........ #800
+  Admin Address........ Seattle
+  Admin Address........ 98134
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... inethost@starbucks.com
+  Admin Phone.......... +1.2063181575
+  Admin Fax............ +1.2063182439
 
-Domain Registration Date....: 2003-12-09 GMT.
-Domain Expiration Date......: 2011-12-09 GMT.
-Domain Last Updated Date....: 2010-12-07 16:18:01 GMT.
+Tech Name............ Tech .
+  Tech Address......... 487 E. Middlefield Rd
+  Tech Address......... Mailstop MV 3-1-2
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dbms-tech@verisign.com
+  Tech Phone........... +1.8005792848
+  Tech Fax............. +1.6502378883
+  Name Server.......... G4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
 
-Registrant:
-    SangCheol Woo
-    Sincheon-dong, Songpa-gu, 803 ho, SoLiCom, 8F ShinKwan, SongPaKuChung
-    Seoul,  138702
-    Korea
-
-Administrative, Technical, Billing Contact:
-    SangCheol Woo    woosangcheol@empal.com
-    Sincheon-dong, Songpa-gu, 803 ho, SoLiCom, 8F ShinKwan, SongPaKuChung
-    Seoul,  138702
-    Korea
-    (PHONE) +82-2-000-0000    (FAX) +82-2-0000-0000
-
-
-Domain Name Servers in listed order:
-    NS11.DNSEVER.COM		121.254.154.141
-    NS33.DNSEVER.COM		121.254.154.163
-    NS55.DNSEVER.COM		121.254.154.185
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
 

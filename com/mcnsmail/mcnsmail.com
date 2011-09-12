@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WSOD.COM
+   Domain Name: MCNSMAIL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS01.WALLST.COM
-   Name Server: DNS02.WALLST.COM
-   Name Server: DNS03.WALLST.COM
-   Name Server: NS4.WALLST.COM
+   Name Server: NS15.WORLDNIC.COM
+   Name Server: NS16.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 08-nov-2010
-   Creation Date: 07-apr-1997
-   Expiration Date: 08-apr-2014
+   Updated Date: 24-mar-2011
+   Creation Date: 23-mar-2006
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:36:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about WSOD.COM
-&lt;a href=&quot;http://www.aboutus.org/WSOD.COM&quot;&gt;AboutUs: WSOD.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MCNSMAIL.COM
+&lt;a href=&quot;http://www.aboutus.org/MCNSMAIL.COM&quot;&gt;AboutUs: MCNSMAIL.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Wall Street On Demand, Inc.
-   5718 Central Ave
-   Boulder, CO 80301
-   US
+Network Solutions LLC
+   ATTN MCNSMAIL.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: WSOD.COM
+
+   Domain Name: MCNSMAIL.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,30 +96,29 @@ Wall Street On Demand, Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Wall Street On Demand, Inc.		dnsadmin@WALLST.COM
-      5718 Central Ave
-      Boulder, CO 80301
+   Administrative Contact, Technical Contact:
+      Network Solutions LLC		dt67a7yf7tp@networksolutionsprivateregistration.com
+      ATTN MCNSMAIL.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      303-417-9999 fax: 123 123 1234
-
-   Technical Contact:
-      Administrator, Web		webmaster@wallst.com
-      3005 Center Green Drive, Suite 100
-      Boulder, CO 80301
-      US
-      303-417-9999 fax: 303-440-2982
+      570-708-8780
 
 
-   Record expires on 08-Apr-2014.
-   Record created on 07-Apr-1997.
-   Database last updated on 12-Sep-2011 16:26:52 EDT.
+   Record expires on 23-Mar-2012.
+   Record created on 23-Mar-2006.
+   Database last updated on 12-Sep-2011 16:26:29 EDT.
 
    Domain servers in listed order:
 
-   DNS02.WALLST.COM             209.234.224.40
-   DNS03.WALLST.COM             209.234.234.41
-   DNS01.WALLST.COM             209.234.224.41
-   NS4.WALLST.COM               209.234.234.40
+   NS15.WORLDNIC.COM            205.178.190.8
+   NS16.WORLDNIC.COM            206.188.198.8
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 
