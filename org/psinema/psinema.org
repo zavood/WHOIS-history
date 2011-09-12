@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D137636913-LROR
+Domain Name:PSINEMA.ORG
+Created On:18-Jan-2007 11:23:02 UTC
+Last Updated On:01-Feb-2010 10:47:19 UTC
+Expiration Date:18-Jan-2012 11:23:02 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_92003
+Registrant Name:DNS Administrator
+Registrant Organization:SADECEHOSTING.COM Internet Hizmetleri San Tic Ltd Sti
+Registrant Street1:Otakcilar Cad. No:78 Kat:4 Flat Ofis
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eyup
+Registrant State/Province:Istanbul
+Registrant Postal Code:34000
+Registrant Country:TR
+Registrant Phone:+90.2124378787
+Registrant Phone Ext.:
+Registrant FAX:+90.2124378560
+Registrant FAX Ext.:
+Registrant Email:dnsadm@sadecehosting.com
+Admin ID:DI_92003
+Admin Name:DNS Administrator
+Admin Organization:SADECEHOSTING.COM Internet Hizmetleri San Tic Ltd Sti
+Admin Street1:Otakcilar Cad. No:78 Kat:4 Flat Ofis
+Admin Street2:
+Admin Street3:
+Admin City:Eyup
+Admin State/Province:Istanbul
+Admin Postal Code:34000
+Admin Country:TR
+Admin Phone:+90.2124378787
+Admin Phone Ext.:
+Admin FAX:+90.2124378560
+Admin FAX Ext.:
+Admin Email:dnsadm@sadecehosting.com
+Tech ID:DI_92003
+Tech Name:DNS Administrator
+Tech Organization:SADECEHOSTING.COM Internet Hizmetleri San Tic Ltd Sti
+Tech Street1:Otakcilar Cad. No:78 Kat:4 Flat Ofis
+Tech Street2:
+Tech Street3:
+Tech City:Eyup
+Tech State/Province:Istanbul
+Tech Postal Code:34000
+Tech Country:TR
+Tech Phone:+90.2124378787
+Tech Phone Ext.:
+Tech FAX:+90.2124378560
+Tech FAX Ext.:
+Tech Email:dnsadm@sadecehosting.com
+Name Server:NS1.SADECEHOSTING.COM
+Name Server:NS2.SADECEHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105785162-LROR
+Domain Name:ONEBIT.ORG
+Created On:24-Feb-2005 18:18:16 UTC
+Last Updated On:28-Jun-2011 00:26:13 UTC
+Expiration Date:24-Feb-2013 18:18:16 UTC
+Sponsoring Registrar:Gransy s.r.o. d/b/a subreg.cz (R1863-LROR)
+Status:OK
+Registrant ID:tu2JK0E8uwnDyxRS
+Registrant Name:Petr Benesovsky
+Registrant Organization:Petr Benesovsky
+Registrant Street1:Tyrsova 1591/24
+Registrant Street2:
+Registrant Street3:
+Registrant City:Slapanice
+Registrant State/Province:CZ
+Registrant Postal Code:66451
+Registrant Country:CZ
+Registrant Phone:+420.608070470
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:firma@onesolution.cz
+Admin ID:tulaogwnMQc5Y8Df
+Admin Name:Petr Benesovsky
+Admin Organization:Petr Benesovsky
+Admin Street1:Tyrsova 1591/24
+Admin Street2:
+Admin Street3:
+Admin City:Slapanice
+Admin State/Province:CZ
+Admin Postal Code:66451
+Admin Country:CZ
+Admin Phone:+420.608070470
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:firma@onesolution.cz
+Tech ID:tuMlGzoVRo1xgpaA
+Tech Name:Petr Benesovsky
+Tech Organization:Petr Benesovsky
+Tech Street1:Tyrsova 1591/24
+Tech Street2:
+Tech Street3:
+Tech City:Slapanice
+Tech State/Province:
+Tech Postal Code:66451
+Tech Country:CZ
+Tech Phone:+420.608070470
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:benesovsky@onebit.cz
+Name Server:NS.ONEBIT.CZ
+Name Server:NS.ONEBIT.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

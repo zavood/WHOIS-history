@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXCESS.NET
+   Domain Name: DESKTOPMACHINE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NEXCESS.NET
-   Name Server: NS2.NEXCESS.NET
-   Name Server: NS3.NEXCESS.NET
-   Name Server: NS4.NEXCESS.NET
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 25-jul-2000
-   Expiration Date: 25-jul-2014
+   Name Server: NS1.ACTIVEDOMAINDNS.NET
+   Name Server: NS2.ACTIVEDOMAINDNS.NET
+   Name Server: NS3.ACTIVEDOMAINDNS.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 24-oct-2010
+   Creation Date: 21-jan-2004
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:37:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:36:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

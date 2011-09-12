@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXCESS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NEXCESS.NET
-   Name Server: NS2.NEXCESS.NET
-   Name Server: NS3.NEXCESS.NET
-   Name Server: NS4.NEXCESS.NET
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 25-jul-2000
-   Expiration Date: 25-jul-2014
+   Domain Name: MACROMEDIA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: ADOBE-DNS-01.ADOBE.COM
+   Name Server: ADOBE-DNS-02.ADOBE.COM
+   Name Server: ADOBE-DNS-03.ADOBE.COM
+   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-aug-2011
+   Creation Date: 13-may-1993
+   Expiration Date: 14-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:37:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:37:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... macromedia.com
+  Creation Date........ 1993-05-13
+  Registration Date.... 2011-08-29
+  Expiry Date.......... 2014-05-15
+  Organisation Name.... Adobe Systems Incorporated
+  Organisation Address. 345 Park Avenue
+  Organisation Address.
+  Organisation Address. San Jose
+  Organisation Address. 95110
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Admin .
+  Admin Address........ 345 Park Avenue
+  Admin Address........
+  Admin Address........ San Jose
+  Admin Address........ 95110
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... dns-admin@adobe.com
+  Admin Phone.......... +1.4085366000
+  Admin Fax............
+
+Tech Name............ Tech .
+  Tech Address......... 345 Park Avenue
+  Tech Address.........
+  Tech Address......... San Jose
+  Tech Address......... 95110
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dns-tech@adobe.com
+  Tech Phone........... +1.4085366000
+  Tech Fax.............
+  Name Server.......... ADOBE-DNS-04.ADOBE.COM
+  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+  Name Server.......... ADOBE-DNS-01.ADOBE.COM
+  Name Server.......... ADOBE-DNS-02.ADOBE.COM
+
+

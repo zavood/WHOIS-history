@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXCESS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NEXCESS.NET
-   Name Server: NS2.NEXCESS.NET
-   Name Server: NS3.NEXCESS.NET
-   Name Server: NS4.NEXCESS.NET
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 25-jul-2000
-   Expiration Date: 25-jul-2014
+   Domain Name: 167BT.COM
+   Registrar: SOFTLAYER TECHNOLOGIES, INC
+   Whois Server: whois.theplanet.com
+   Referral URL: http://www.softlayer.com
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-jan-2011
+   Creation Date: 17-may-2005
+   Expiration Date: 17-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:37:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:38:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

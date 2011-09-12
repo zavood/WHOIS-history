@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXCESS.NET
+   Domain Name: SIMPLE103.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NEXCESS.NET
-   Name Server: NS2.NEXCESS.NET
-   Name Server: NS3.NEXCESS.NET
-   Name Server: NS4.NEXCESS.NET
+   Name Server: NS5.LUNARMANIA.COM
+   Name Server: NS6.LUNARMANIA.COM
    Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 25-jul-2000
-   Expiration Date: 25-jul-2014
+   Updated Date: 15-feb-2011
+   Creation Date: 01-mar-2010
+   Expiration Date: 01-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:37:10 UTC &lt;&lt;&lt;
 
