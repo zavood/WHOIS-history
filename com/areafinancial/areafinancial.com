@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-jan-1999
    Expiration Date: 10-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:34:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:18:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: areafinancial.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 09:24:51 EDT 2011
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Mon Sep 12 09:09:20 EDT 2011
 Reason Code: IE
