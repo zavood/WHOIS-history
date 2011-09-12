@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:44:03 2011
+
+domain:       infobank.cz
+registrant:   SB:CSOFT
+admin-c:      CERNAS
+nsset:        NSS:CSOFT:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   13.04.2000 17:41:00
+changed:      19.04.2007 13:25:00
+expire:       13.04.2012
+
+contact:      SB:CSOFT
+org:          Ing. Michal &Auml;Œern&Atilde;&frac12;
+name:         Michal Cerny
+address:      Mal&Atilde;&iexcl;tova 254
+address:      Velky Vrestov 23
+address:      54454
+address:      CZ
+e-mail:       cerny@csoft.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.10.2004 15:45:00
+
+contact:      CERNAS
+name:         Michal Cerny
+address:      Mal&Atilde;&iexcl;tova 253
+address:      Sk?ivany
+address:      50352
+address:      CZ
+phone:        +420.604877564
+e-mail:       cerny@csoft.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.02.2004 10:05:00
+
+nsset:        NSS:CSOFT:1
+nserver:      pri.hq.cz
+nserver:      ns.infobank.cz (217.31.52.197)
+tech-c:       SB:CSOFT
+tech-c:       CERNAS
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+

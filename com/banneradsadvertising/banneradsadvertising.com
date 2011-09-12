@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEDIAINFOWORLD.COM
+   Domain Name: BANNERADSADVERTISING.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
-   Name Server: NS1.ADASLABS.COM
-   Name Server: NS2.ADASLABS.COM
+   Name Server: NS21.DOMAINCONTROL.COM
+   Name Server: NS22.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 17-feb-2011
-   Creation Date: 17-jan-2010
-   Expiration Date: 17-jan-2012
+   Updated Date: 24-dec-2010
+   Creation Date: 20-mar-2009
+   Expiration Date: 20-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:44:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   media info world
+   Peter Roesler
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MEDIAINFOWORLD.COM
+   Domain Name: BANNERADSADVERTISING.COM
 
    Domain servers in listed order:
-      DNS1.STABLETRANSIT.COM
-      DNS2.STABLETRANSIT.COM
-      NS1.ADASLABS.COM
-      NS2.ADASLABS.COM
+      NS21.DOMAINCONTROL.COM
+      NS22.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MEDIAINFOWORLD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BANNERADSADVERTISING.COM

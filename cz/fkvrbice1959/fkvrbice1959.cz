@@ -1,0 +1,80 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:43:39 2011
+
+domain:       fkvrbice1959.cz
+registrant:   ONEBIT_CZ-REG-C16419
+nsset:        ONESOLUTION_CZ-NSSET
+keyset:       ONESOLUTION-KEYSET
+registrar:    REG-ONESOLUTION
+status:       paid and in zone
+registered:   06.08.2010 12:18:17
+changed:      28.06.2011 12:10:28
+expire:       06.08.2012
+
+contact:      ONEBIT_CZ-REG-C16419
+org:          FK Vrbice 1959
+name:         Milan Her&Aring;&macr;fek
+address:      Bo&Aring;™etice 477
+address:      Bo&Aring;™etice
+address:      691 08
+address:      &Auml;Œesk&Atilde;&iexcl; republika
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      06.08.2010 08:12:04
+
+nsset:        ONESOLUTION_CZ-NSSET
+nserver:      ns.onebit.cz (81.31.45.112, 2a01:430:13::112)
+nserver:      ns.onebit.org
+tech-c:       ONESOLUTION_CZ
+registrar:    REG-ONESOLUTION
+created:      05.10.2007 15:51:50
+changed:      07.06.2011 08:31:14
+
+contact:      ONESOLUTION_CZ
+org:          ONEsolution s.r.o.
+name:         Petr Bene&Aring;&iexcl;ovsk&Atilde;&frac12;
+address:      Cejl 58
+address:      Brno
+address:      602 00
+address:      CZ
+phone:        +420.840111136
+registrar:    REG-ONESOLUTION
+created:      05.10.2007 15:29:36
+changed:      03.01.2011 13:08:13
+
+keyset:       ONESOLUTION-KEYSET
+dnskey:       257 3 7 AwEAAatRa2ArZXS3T9z/PT7+HWK0SuutPZTTJMLAjVOFNbqGYtkuaUxyZjdLBlMLymWYA4Rc4vG+c9/QZf8/6X/jpdCYAr+gD7ainGXV2y5PYqJLxxky1vQRIH2DDUIYkg9/b4YbpH15cRUX1bUDOP6IhR0vb3WAb+iYRsXOjfuLPsJADdhfCOxoK9yh63Su2FmtqoQiymbOF2JnR87K1FJgutt7xjfVs0IAxTCMxtBNZbg3VCvrqFtCkMarAKjGNHRwLRBn0l25LBOeyRBLH3CkcEFcvWChYAHxiVQiDXzZ0N6aM4LlJ98kkjg2oQ5QokrKVlTKoJ8YaO3MU1iVNNf2BV0ZbgYqME6j4XCdxkLpyTL9Ool8u1m28fKitbnBOifgwpOqZsMOHDDx8HjbtE/XUkiBWXx9s4Bd45/M2VFsxagx1J0qq56D4qkbxrSxthgqPJxICrIttzsicJnPARtYpxKli3YHgtg2MnORTJ9sUnJVxgHFOlB2Ca3HQKdCZdiXHy0q3B0e67h7KpE6mpttunWrJ3uDGZRmxO9Le75rQZHV5Joy6lrjrs9yL8YyECvFOAxi5H3l3k+9fd7IgyXRivmxK2wlzQW7bdLn4xKoxRS5SIVtd/U2lE0FQerBh1gXiNsZHDAkH/rxQLnrP0CHl3FfCbAv3taIBWmJVhLow235
+tech-c:       ONESOLUTION_CZ-TECH
+registrar:    REG-ONESOLUTION
+created:      07.06.2011 16:55:00
+changed:      22.06.2011 05:48:14
+
+contact:      ONESOLUTION_CZ-TECH
+org:          ONEsolution s.r.o.
+name:         Petr Bene&Aring;&iexcl;ovsk&Atilde;&frac12;
+address:      Cejl 58
+address:      Brno
+address:      60200
+address:      CZ
+phone:        +420.840111136
+registrar:    REG-ONESOLUTION
+created:      16.05.2011 10:34:13
+
+

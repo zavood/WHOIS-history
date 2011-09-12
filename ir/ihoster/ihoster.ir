@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'ihoster.ir'
+
+
+domain:		ihoster.ir
+ascii:		ihoster.ir
+remarks:	(Domain Holder) Paya Pardazesh Ariya
+remarks:	(Domain Holder Address) No. 12, Zamani Alley, Zartosht Alley, Ghodosi St.,, Tehran, Tehran, IR
+holder-c:	pa572-irnic
+admin-c:	pa572-irnic
+tech-c:		pa572-irnic
+nserver:	ns1.ihoster.ir
+nserver:	ns2.ihoster.ir
+last-updated:	2011-08-06
+source:		IRNIC # Filtered
+
+nic-hdl:	pa572-irnic
+org:		Paya Pardazesh Ariya
+e-mail:		info@payaitm.com
+address:	No. 12, Zamani Alley, Zartosht Alley, Ghodosi St.,, Tehran, Tehran, IR
+phone:		+98 21 88418447
+fax-no:		+98 21 88474417
+source:		IRNIC # Filtered
+
