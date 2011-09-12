@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Domain Name: GOGOANDCO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 22-may-2011
+   Creation Date: 11-may-2009
+   Expiration Date: 11-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
+=-=-=-=
+Visit AboutUs.org for more information about gogoandco.com
+&lt;a href=&quot;http://www.aboutus.org/gogoandco.com&quot;&gt;AboutUs: gogoandco.com&lt;/a&gt;
 
-Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
+
+Domain name: gogoandco.com
+
+Registrant Contact:
+   GoGo&amp;Co
+   Tyler Harris ()
+
+   Fax:
+   215 Denison St Queens Park
+   Sydney, Nsw 2022
+   AU
 
 Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
 
 Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
 
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
+Status: Active
 
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
+Name Servers:
+   ns1.pipedns.com
+   ns2.pipedns.com
+
+Creation date: 12 May 2009 02:40:39
+Expiration date: 12 May 2013 02:40:39
 
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

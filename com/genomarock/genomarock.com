@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+No match for &quot;GENOMAROCK.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
-
-Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-
-Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
-
-Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
-
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
-
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
-
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
-

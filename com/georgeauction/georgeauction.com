@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
+   Domain Name: GEORGEAUCTION.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS403.HOSTGATOR.COM
+   Name Server: NS404.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Updated Date: 13-feb-2011
+   Creation Date: 14-feb-2000
+   Expiration Date: 14-feb-2020
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+http://www.networksolutions.com/whois/index.jhtml
 
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
-
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
-
+Whois Query: georgeauction.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 18:21:57 EDT 2011
+Reason Code: IE

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
+   Domain Name: JFASFASFASFASF.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.FREEDNS.WS
+   Name Server: NS2.FREEDNS.WS
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Updated Date: 19-jun-2011
+   Creation Date: 19-apr-2011
+   Expiration Date: 19-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
 
-Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: jfasfasfasfasf.com
+
+Registrant Contact:
+   Hartford Business
+   Joe Hartford bezerosavyk@yahoo.com
+   +1.7814548993 fax: +1.7814548993
+   32 Cedar Street,Apt. #4
+   Waltham MA 02453
+   us
 
 Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Joe Hartford bezerosavyk@yahoo.com
+   +1.7814548993 fax: +1.7814548993
+   32 Cedar Street,Apt. #4
+   Waltham MA 02453
+   us
 
 Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Joe Hartford bezerosavyk@yahoo.com
+   +1.7814548993 fax: +1.7814548993
+   32 Cedar Street,Apt. #4
+   Waltham MA 02453
+   us
 
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
+Billing Contact:
+   Joe Hartford bezerosavyk@yahoo.com
+   +1.7814548993 fax: +1.7814548993
+   32 Cedar Street,Apt. #4
+   Waltham MA 02453
+   us
 
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
+DNS:
+ns1.freedns.ws
+ns2.freedns.ws
 
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
-
+Created: 2011-04-19
+Expires: 2012-04-19

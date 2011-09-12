@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
+   Domain Name: GF-A.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Updated Date: 19-jan-2011
+   Creation Date: 17-jan-2006
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
 
-Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+Domain gf-a.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 39451256815563
+  39451256815563-e9a19c@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 39451256815563
+  39451256815563-e9a19c@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
+Record dates:
+  Record created on: 2006-01-17 11:45:32 UTC
+  Record modified on: 2011-01-19 11:23:47 UTC
+  Record expires on: 2012-01-17 UTC
 
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
+Nameservers:
+  ns1.sedoparking.com:
+    217.160.95.94
+  ns2.sedoparking.com:
+    217.160.141.42
 
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
+Note: Automated collection of data from this database is strictly prohibited.
 

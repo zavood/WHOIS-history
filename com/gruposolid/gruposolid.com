@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
+   Domain Name: GRUPOSOLID.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: OSI2.GUA.NET
+   Name Server: OSI3.GUA.NET
    Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Updated Date: 04-jun-2009
+   Creation Date: 17-apr-1999
+   Expiration Date: 17-apr-2019
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:24:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
+gruposolid.com
 
 Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-
-Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
-
-Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
-
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
-
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
+         Ernesto Rossbach  (ernesto@osint.net)
+        O.S.I. de Guatemala S.A.
+        9a. Calle 2-07 Zona 10
+        Guatemala,  01010
+        GT
+        24217600
 
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
+Domain Name: gruposolid.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Ernesto Rossbach  (ernesto@osint.net)
+        O.S.I. de Guatemala S.A.
+        9a. Calle 2-07 Zona 10
+        Guatemala,  01010
+        GT
+        24217600
+
+
+
+
+
+   Record created on Apr 17 1999.
+   Record expires on Apr 17 2019.
+Domain servers:
+        OSI2.GUA.NET
+        OSI3.GUA.NET
+
+
+
+Domain Service Provider:
+   O.S.I. de Guatemala S.A.
+
 

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOLIOVISION.NET
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.FOLIOVISION.NET
-   Name Server: NS2.FOLIOVISION.NET
+   Domain Name: ECLIENT10.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.EMAILDIRECT.COM
+   Name Server: NS2.EMAILDIRECT.COM
    Status: clientTransferProhibited
-   Updated Date: 16-mar-2011
-   Creation Date: 01-may-2007
-   Expiration Date: 01-may-2019
+   Updated Date: 19-jun-2011
+   Creation Date: 18-jun-2009
+   Expiration Date: 18-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:25:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: foliovision.net
-Registered at http://www.dynadot.com
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
+   EmailDirect, Inc.
+   2995 Prospect Park
+   #100
+   Rancho Cordova, CA 95670
+   US
 
-Administrative Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Domain Name: ECLIENT10.COM
 
-Technical Contact:
-Foliovision
-Alec Kinnear
-Foliovision
-12 Panska
-Bratislava, BA 81101
-Slovakia
-alec.kinnear@gmail.com
-+416 352 5026
+   Administrative Contact, Technical Contact, Zone Contact:
+      EmailDirect, Inc.
+      Host Master
+      2995 Prospect Park
+      #100
+      Rancho Cordova, CA 95670
+      US
+      (916)417-8179
+      noc@emaildirect.com
 
-Record expires on 2019/05/02 UTC
-Record created on 2007/05/02 UTC
+   Domain created on 18-Jun-2009
+   Domain expires on 18-Jun-2012
+   Last updated on 26-Apr-2011
 
-Domain servers in listed order:
-ns1.foliovision.net
-ns2.foliovision.net
+   Domain servers in listed order:
 
+      NS1.EMAILDIRECT.COM
+      NS2.EMAILDIRECT.COM
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:21:06 PST &lt;&lt;&lt;
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
