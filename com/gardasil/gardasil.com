@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 15-dec-2003
    Expiration Date: 15-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 15:11:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:39:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,8 +113,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    cmtu.mt.ns.els-gms.att.net
     cbru.br.ns.els-gms.att.net
+    cmtu.mt.ns.els-gms.att.net
 
 
 
