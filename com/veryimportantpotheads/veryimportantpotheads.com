@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-jul-2001
    Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:11:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:45:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-10 19:12:25 CEST
+# 2011-09-12 13:46:19 CEST
 
 domain: veryimportantpotheads.com
 reg_created: 2001-07-21 21:53:20

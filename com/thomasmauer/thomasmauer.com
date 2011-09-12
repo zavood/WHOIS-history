@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-jun-2008
    Expiration Date: 07-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:45:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 95.154.230.221
+IP Address: 188.72.227.95
 Maximum Daily connection limit reached. Lookup refused.
