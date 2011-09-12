@@ -1,0 +1,25 @@
+[Domain]
+Domain: delfi.lv
+Status: active
+Changed: 2004-01-21T11:14:28+02:00
+
+[Holder]
+Type: Legal person
+Name: A/S Delfi
+Email: hostmaster@delfi.lv
+Phone: +371 67784050
+Address: Mukusalas iela 29, Riga, LV-1004
+RegNr: 40003504352
+
+[Tech]
+Type: Natural person
+Email: hostmaster@delfi.lv
+Phone: +371 67784056
+
+[Nservers]
+Nserver: ns.delfi.lv
+Nserver: ns2.delfi.lv
+Nserver: ns3.delfi.lv
+
+[Whois]
+Updated: 2011-09-12T05:12:26.163617+00:00
