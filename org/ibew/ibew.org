@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1395805-LROR
+Domain Name:IBEW.ORG
+Created On:13-Apr-1998 04:00:00 UTC
+Last Updated On:17-May-2011 14:39:13 UTC
+Expiration Date:12-Apr-2021 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26421540-NSI
+Registrant Name:International Brotherhood of Electrical Workers International Union
+Registrant Organization:International Brotherhood of Electrical Workers International Union
+Registrant Street1:900 7th St. NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:WASHINGTON
+Registrant State/Province:DC
+Registrant Postal Code:20001
+Registrant Country:US
+Registrant Phone:+1.202833700
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:carlcantrell@IBEW.ORG
+Admin ID:26421541-NSI
+Admin Name:Darren DeMarco
+Admin Organization:International Brotherhood of Electrical
+Admin Street1:900 Seventh Street NW
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20001
+Admin Country:US
+Admin Phone:+1.2027286230
+Admin Phone Ext.:
+Admin FAX:+1.2027287666
+Admin FAX Ext.:
+Admin Email:darren_demarco@ibew.org
+Tech ID:26421541-NSI
+Tech Name:Darren DeMarco
+Tech Organization:International Brotherhood of Electrical
+Tech Street1:900 Seventh Street NW
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20001
+Tech Country:US
+Tech Phone:+1.2027286230
+Tech Phone Ext.:
+Tech FAX:+1.2027287666
+Tech FAX Ext.:
+Tech Email:darren_demarco@ibew.org
+Name Server:CBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:CMTU.MT.NS.ELS-GMS.ATT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
