@@ -1,0 +1,57 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:38:46 (BRT -03:00)
+
+domain:      linklog.com.br
+owner:       Fellipe F. Azamor
+ownerid:     110.615.787-71
+country:     BR
+owner-c:     AZD5
+admin-c:     INH15
+tech-c:      RFV44
+billing-c:   INH15
+nserver:     ns1.webmatrix.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.webmatrix.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns3.webmatrix.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20081102 #4980394
+expires:     20121102
+changed:     20110502
+status:      published
+
+nic-hdl-br:  AZD5
+person:      AZAMOR DUARTE
+e-mail:      azamor@uol.com.br
+created:     20050827
+changed:     20101220
+
+nic-hdl-br:  INH15
+person:      Inove Host
+e-mail:      felipeneto@gmail.com
+created:     20050915
+changed:     20100505
+
+nic-hdl-br:  RFV44
+person:      Rafael Ferreira Paganoti Viana
+e-mail:      rafaelfpviana@gmail.com
+created:     20020327
+changed:     20100927
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

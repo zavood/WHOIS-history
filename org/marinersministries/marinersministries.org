@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107437406-LROR
+Domain Name:MARINERSMINISTRIES.ORG
+Created On:09-Sep-2005 18:58:39 UTC
+Last Updated On:08-Sep-2010 17:05:01 UTC
+Expiration Date:09-Sep-2015 18:58:39 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:OK
+Registrant ID:hw5773317RS
+Registrant Name:Mariners Church
+Registrant Organization:Mariners Church
+Registrant Street1:5001 Newport Coast Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Irvine
+Registrant State/Province:CA
+Registrant Postal Code:92612
+Registrant Country:US
+Registrant Phone:+1.9498547600
+Registrant Phone Ext.:
+Registrant FAX:+1.9498549263
+Registrant FAX Ext.:
+Registrant Email:kwebb@marinerschurch.org
+Admin ID:hw1083700RS
+Admin Name:Mariners Church
+Admin Organization:Mariners Church
+Admin Street1:5001 Newport Coast Drive
+Admin Street2:
+Admin Street3:
+Admin City:Irvine
+Admin State/Province:CA
+Admin Postal Code:92612
+Admin Country:US
+Admin Phone:+1.9498547600
+Admin Phone Ext.:
+Admin FAX:+1.9498549263
+Admin FAX Ext.:
+Admin Email:kwebb@marinerschurch.org
+Tech ID:hw1477172AD
+Tech Name:Administrator DNS
+Tech Organization:SiteProduct Web Services
+Tech Street1:1 N State Street
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60602
+Tech Country:US
+Tech Phone:+1.3122362132
+Tech Phone Ext.:
+Tech FAX:+1.3122361958
+Tech FAX Ext.:
+Tech Email:administrator@siteprotect.com
+Name Server:A.DNS.HOSTWAY.NET
+Name Server:B.DNS.HOSTWAY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
