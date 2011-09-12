@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADIOPOWERMUSIC.COM
+   Domain Name: NAKEDCZECH.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Name Server: NS2605.HOSTGATOR.COM
+   Name Server: NS2606.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 09-aug-2010
-   Expiration Date: 09-aug-2012
+   Updated Date: 10-mar-2011
+   Creation Date: 16-apr-2010
+   Expiration Date: 16-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:46:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:45:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Designandservers
+   Fred Levasseur
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: RADIOPOWERMUSIC.COM
+   Domain Name: NAKEDCZECH.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS2605.HOSTGATOR.COM
+      NS2606.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=RADIOPOWERMUSIC.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NAKEDCZECH.COM
