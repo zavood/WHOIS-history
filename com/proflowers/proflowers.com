@@ -5,8 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;KAISOFTWARE.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:55:49 UTC &lt;&lt;&lt;
+   Domain Name: PROFLOWERS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 01-apr-2011
+   Creation Date: 04-feb-1998
+   Expiration Date: 03-feb-2017
+
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:55:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... proflowers.com
+  Creation Date........ 1998-02-04
+  Registration Date.... 2009-12-23
+  Expiry Date.......... 2017-02-04
+  Organisation Name.... Provide Commerce, Inc.
+  Organisation Address. 4840 Eastgate Mall
+  Organisation Address.
+  Organisation Address. San Diego
+  Organisation Address. 92121
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Provide Commerce
+  Admin Address........ 4840 Eastgate
+  Admin Address........
+  Admin Address........ San Diego
+  Admin Address........ 92121
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +1.8587292800
+  Admin Fax............
+
+Tech Name............ Provide Commerce
+  Tech Address......... 4840 Eastgate
+  Tech Address.........
+  Tech Address......... San Diego
+  Tech Address......... 92121
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... admin@melbourneitdbs.com
+  Tech Phone........... +1.8587292800
+  Tech Fax.............
+  Name Server.......... PDNS3.ULTRADNS.ORG
+  Name Server.......... PDNS2.ULTRADNS.NET
+  Name Server.......... PDNS5.ULTRADNS.INFO
+  Name Server.......... PDNS6.ULTRADNS.CO.UK
+  Name Server.......... PDNS1.ULTRADNS.NET
+  Name Server.......... PDNS4.ULTRADNS.ORG
+
+

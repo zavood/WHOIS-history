@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:57:34 2011
+
+domain:       joomlaportal.cz
+registrant:   SB:IGNUM-1803S
+admin-c:      IGNUM-1803K
+nsset:        NSS:SMARTHOST
+registrar:    REG-WEB4U
+status:       paid and in zone
+registered:   01.09.2005 21:45:00
+changed:      25.01.2008 21:43:07
+expire:       01.09.2012
+
+contact:      SB:IGNUM-1803S
+org:          Ing. Jan Guziur
+name:         Jan Guziur
+address:      U Branky 237/13
+address:      Lysa nad Labem
+address:      289 22
+address:      CZ
+e-mail:       jan.guziur@testudo.cz
+registrar:    REG-IGNUM
+created:      26.10.2001 12:31:00
+
+contact:      IGNUM-1803K
+name:         Jan Guziur
+address:      U Branky 237/13
+address:      Lysa nad Labem
+address:      289 22
+address:      CZ
+phone:        +420 604290195
+e-mail:       jan.guziur@testudo.cz
+registrar:    REG-IGNUM
+created:      26.10.2001 12:11:00
+
+nsset:        NSS:SMARTHOST
+nserver:      ns.testudo.eu
+nserver:      ns.smarthost.cz (217.31.49.46)
+tech-c:       TESTUDO
+tech-c:       SB:TESTUDO_CORP
+registrar:    REG-IGNUM
+created:      15.01.2008 23:28:07
+changed:      17.01.2008 09:29:07
+
+contact:      TESTUDO
+name:         Jan Guziur
+address:      Okru&Aring;&frac34;n&Atilde;&shy; 1491
+address:      Lys&Atilde;&iexcl; nad Labem
+address:      289 22
+address:      CZ
+registrar:    REG-IGNUM
+created:      06.06.2006 17:55:00
+changed:      25.01.2008 13:57:06
+
+contact:      SB:TESTUDO_CORP
+org:          Testudo corp. s.r.o.
+name:         Jan Guziur
+address:      Okru&Aring;&frac34;n&Atilde;&shy; 1491
+address:      Lys&Atilde;&iexcl; nad Labem
+address:      289 22
+address:      CZ
+e-mail:       info@testudo.cz
+registrar:    REG-IGNUM
+created:      07.06.2006 00:35:00
+
+
