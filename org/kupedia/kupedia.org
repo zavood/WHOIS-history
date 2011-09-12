@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152832020-LROR
+Domain Name:KUPEDIA.ORG
+Created On:27-May-2008 23:00:05 UTC
+Last Updated On:20-May-2011 11:20:26 UTC
+Expiration Date:27-May-2012 23:00:05 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuce2Lrc0oeub60t
+Registrant Name:Riley Dutton
+Registrant Organization:Revolution Design Studios, LLC
+Registrant Street1:4856 N Hillcrest
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bel Aire
+Registrant State/Province:KS
+Registrant Postal Code:67220
+Registrant Country:US
+Registrant Phone:+1.7856918430
+Registrant Phone Ext.:
+Registrant FAX:+1.3105642007
+Registrant FAX Ext.:
+Registrant Email:riley@newspringmedia.com
+Admin ID:tuce2Lrc0oeub60t
+Admin Name:Riley Dutton
+Admin Organization:Revolution Design Studios, LLC
+Admin Street1:4856 N Hillcrest
+Admin Street2:
+Admin Street3:
+Admin City:Bel Aire
+Admin State/Province:KS
+Admin Postal Code:67220
+Admin Country:US
+Admin Phone:+1.7856918430
+Admin Phone Ext.:
+Admin FAX:+1.3105642007
+Admin FAX Ext.:
+Admin Email:riley@newspringmedia.com
+Tech ID:tuo5dh9NSZKcZfOD
+Tech Name:DNS Administrator
+Tech Organization:(mt) Media Temple, Inc
+Tech Street1:8520 National Blvd.
+Tech Street2:Suite A
+Tech Street3:
+Tech City:Culver City
+Tech State/Province:CA
+Tech Postal Code:90232
+Tech Country:US
+Tech Phone:+1.8775784000
+Tech Phone Ext.:
+Tech FAX:+1.3105642007
+Tech FAX Ext.:
+Tech Email:dnsadmin@mediatemple.net
+Name Server:NS1.LINODE.COM
+Name Server:NS2.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
