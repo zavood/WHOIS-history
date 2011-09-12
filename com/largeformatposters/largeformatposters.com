@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Domain Name: LARGEFORMATPOSTERS.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1-HOSTS.SRSPLUS.COM
+   Name Server: NS2-HOSTS.SRSPLUS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 21-aug-2011
+   Creation Date: 24-aug-2004
+   Expiration Date: 24-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:05:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:06:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+largeformatposters.com
+
+Registrant:
+         Ronnie Mesriani  (ronnie@digitalroom.com)
+        Digital Room Inc.
+        10932 Santa Monica Blvd.
+        Los Angeles, CA  90025
+        US
+        310-575-4440
+
+
+Domain Name: largeformatposters.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Maida Chua  (russel@digitalroom.com)
+        UPrinting Trade
+        10932 Santa Monica Blvd
+        Los Angeles, CA  90025
+        US
+        3105754440
+
+
+
+
+
+   Record created on Aug 24 2004.
+   Record expires on Aug 24 2014.
+Domain servers:
+        ns1-hosts.srsplus.com
+        ns2-hosts.srsplus.com
+
+
+
+Domain Service Provider:
+   Digital Room, Inc.
+   3107093020
+   ronnie_digital@yahoo.com
+
+

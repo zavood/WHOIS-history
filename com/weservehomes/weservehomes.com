@@ -5,27 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Domain Name: WESERVEHOMES.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 05-jul-2011
+   Creation Date: 10-nov-1999
+   Expiration Date: 10-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:05:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:06:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... weservehomes.com
+  Creation Date........ 1999-11-11
+  Registration Date.... 2009-09-27
+  Expiry Date.......... 2011-11-11
+  Organisation Name.... The ServiceMaster Company
+  Organisation Address. 889 Ridge Lake Blvd.
+  Organisation Address.
+  Organisation Address. Memphis
+  Organisation Address. 38120
+  Organisation Address. TN
+  Organisation Address. UNITED STATES
+
+Admin Name........... BSC-DNSAdministrators Memphis Corporate
+  Admin Address........ 860 Ridge Lake Blvd
+  Admin Address........
+  Admin Address........ Memphis
+  Admin Address........ 38120
+  Admin Address........ TN
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +1.7661400
+  Admin Fax............
+
+Tech Name............ Todd Pompert
+  Tech Address......... 1 Servicemaster Way
+  Tech Address.........
+  Tech Address......... Downers Grove
+  Tech Address......... 60515
+  Tech Address......... IL
+  Tech Address......... UNITED STATES
+  Tech Email........... tpombert@wsh.com
+  Tech Phone........... +1.6302712297
+  Tech Fax............. +1.6302715940
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
+
+
