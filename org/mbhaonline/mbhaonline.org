@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154728604-LROR
+Domain Name:MBHAONLINE.ORG
+Created On:19-Nov-2008 22:29:42 UTC
+Last Updated On:17-Dec-2009 19:15:49 UTC
+Expiration Date:19-Nov-2013 22:29:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37400047
+Registrant Name:Carol McCall
+Registrant Organization:Myrtle Beach Housing Authority
+Registrant Street1:605 10th Ave N
+Registrant Street2:PO Box 2468
+Registrant Street3:
+Registrant City:Myrtle Beach
+Registrant State/Province:South Carolina
+Registrant Postal Code:29578
+Registrant Country:US
+Registrant Phone:+1.8439181525
+Registrant Phone Ext.:
+Registrant FAX:+1.8439181538
+Registrant FAX Ext.:
+Registrant Email:c.mccall@mbhaonline.org
+Admin ID:CR37400049
+Admin Name:Carol McCall
+Admin Organization:Myrtle Beach Housing Authority
+Admin Street1:605 10th Ave N
+Admin Street2:PO Box 2468
+Admin Street3:
+Admin City:Myrtle Beach
+Admin State/Province:South Carolina
+Admin Postal Code:29578
+Admin Country:US
+Admin Phone:+1.8439181525
+Admin Phone Ext.:
+Admin FAX:+1.8439181538
+Admin FAX Ext.:
+Admin Email:c.mccall@mbhaonline.org
+Tech ID:CR37400048
+Tech Name:Carol McCall
+Tech Organization:Myrtle Beach Housing Authority
+Tech Street1:605 10th Ave N
+Tech Street2:PO Box 2468
+Tech Street3:
+Tech City:Myrtle Beach
+Tech State/Province:South Carolina
+Tech Postal Code:29578
+Tech Country:US
+Tech Phone:+1.8439181525
+Tech Phone Ext.:
+Tech FAX:+1.8439181538
+Tech FAX Ext.:
+Tech Email:c.mccall@mbhaonline.org
+Name Server:NS41.DOMAINCONTROL.COM
+Name Server:NS42.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
