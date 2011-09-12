@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONSWIPE.COM
+   Domain Name: SPREADINGGIRLS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: CODY.NS.CLOUDFLARE.COM
-   Name Server: PAT.NS.CLOUDFLARE.COM
+   Name Server: DNS1.ICERTIFIED.NET
+   Name Server: DNS2.ICERTIFIED.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-may-2011
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 18-aug-2011
+   Creation Date: 24-sep-2006
+   Expiration Date: 24-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:52:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:51:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Lulo Ventures inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ONSWIPE.COM
+   Domain Name: SPREADINGGIRLS.COM
 
    Domain servers in listed order:
-      CODY.NS.CLOUDFLARE.COM
-      PAT.NS.CLOUDFLARE.COM
+      DNS1.ICERTIFIED.NET
+      DNS2.ICERTIFIED.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ONSWIPE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SPREADINGGIRLS.COM
