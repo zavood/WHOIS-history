@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150574951-LROR
+Domain Name:CEGRAN.ORG
+Created On:07-Jan-2008 20:23:01 UTC
+Last Updated On:16-Apr-2010 17:20:56 UTC
+Expiration Date:07-Jan-2013 20:23:01 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuSFSU6Ff5Fc74p4
+Registrant Name:Burim Bilalli
+Registrant Organization:Cegran
+Registrant Street1:Cegrane 1237
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gostivar
+Registrant State/Province:Cegran
+Registrant Postal Code:1230
+Registrant Country:MK
+Registrant Phone:+389.71820880
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:erdh1mesazh@hotmail.com
+Admin ID:tuKqA14WyLu1nX6C
+Admin Name:Burim Bilalli
+Admin Organization:Cegran
+Admin Street1:Cegrane 1237
+Admin Street2:
+Admin Street3:
+Admin City:Gostivar
+Admin State/Province:Cegran
+Admin Postal Code:1230
+Admin Country:MK
+Admin Phone:+389.71820880
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:erdh1mesazh@hotmail.com
+Tech ID:tu1JsH9TWCd7ZS7G
+Tech Name:Technical Contact
+Tech Organization:Hover, a service of Tucows Inc.
+Tech Street1:96 Mowat Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M6K3M1
+Tech Country:CA
+Tech Phone:+1.4165385498
+Tech Phone Ext.:
+Tech FAX:+1.4163520113
+Tech FAX Ext.:
+Tech Email:help@hover.com
+Name Server:NS1.HOVER.COM
+Name Server:NS2.HOVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
