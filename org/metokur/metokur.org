@@ -17,7 +17,7 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D155008680-LROR
 Domain Name:METOKUR.ORG
 Created On:01-Jan-2009 22:28:04 UTC
-Last Updated On:06-Sep-2011 04:46:45 UTC
+Last Updated On:12-Sep-2011 20:05:53 UTC
 Expiration Date:01-Jan-2012 22:28:04 UTC
 Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
 Status:CLIENT TRANSFER PROHIBITED
@@ -66,9 +66,9 @@ Tech Phone Ext.:
 Tech FAX:
 Tech FAX Ext.:
 Tech Email:contact@privacyprotect.org
-Name Server:NS1.DREAMHOST.COM
-Name Server:NS2.DREAMHOST.COM
-Name Server:NS3.DREAMHOST.COM
+Name Server:MAY.NS.CLOUDFLARE.COM
+Name Server:DUKE.NS.CLOUDFLARE.COM
+Name Server:
 Name Server:
 Name Server:
 Name Server:

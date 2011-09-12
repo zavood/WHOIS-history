@@ -25,7 +25,7 @@ for detailed information.
    Creation Date: 26-may-1998
    Expiration Date: 25-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 00:20:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:17:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,34 +83,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Clearspring Technologies
-   8000 Westpark Drive
-   Ste 625
-   McLean, VA 22102
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ADDTHIS.COM
-      Created on: 25-May-98
-      Expires on: 24-May-15
-      Last Updated on: 05-Oct-10
-
-   Administrative Contact:
-      Reverte, Charlie  domains@clearspring.com
-      Clearspring Technologies
-      8000 Westpark Drive
-      Ste 625
-      McLean, VA 22102
-      United States
-      +1.7036773999      Fax --
-
-   Technical Contact:
-      Reverte, Charlie  domains@clearspring.com
-      Clearspring Technologies
-      8000 Westpark Drive
-      Ste 625
-      McLean, VA 22102
-      United States
-      +1.7036773999      Fax --
 
    Domain servers in listed order:
       ASIA3.AKAM.NET
@@ -122,3 +97,6 @@ Registrant:
       USW1.AKAM.NET
       USW6.AKAM.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ADDTHIS.COM

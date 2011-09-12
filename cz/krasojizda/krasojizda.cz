@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:18:41 2011
+
+domain:       krasojizda.cz
+registrant:   AVANTI_PROMOTION
+nsset:        NSSID:IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   07.11.2008 10:57:13
+expire:       07.11.2011
+
+contact:      AVANTI_PROMOTION
+org:          Avanti Promotion s.r.o.
+name:         Jana F&Atilde;&iexcl;bryov&Atilde;&iexcl;
+address:      Akademick&Atilde;&iexcl; 663/5
+address:      Praha 10
+address:      10800
+address:      CZ
+registrar:    REG-IGNUM
+created:      07.11.2008 09:50:13
+
+nsset:        NSSID:IGNUM
+nserver:      ns2.ignum.cz
+nserver:      ns1.ignum.com
+tech-c:       CID:IGN-C117990-YN5
+registrar:    REG-IGNUM
+created:      20.09.2006 09:55:39
+changed:      12.09.2007 11:26:06
+
+contact:      CID:IGN-C117990-YN5
+org:          Ignum, s.r.o.
+name:         Marek Erneker
+address:      Th&Atilde;&iexcl;mova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+registrar:    REG-IGNUM
+created:      11.09.2007 15:28:03
+
+
