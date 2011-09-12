@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160909486-LROR
+Domain Name:ANONNEWS.ORG
+Created On:12-Dec-2010 20:31:54 UTC
+Last Updated On:23-Jun-2011 00:26:20 UTC
+Expiration Date:12-Dec-2012 20:31:54 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1e4e57ca16dcde96
+Registrant Name:Gottfrid  Swartholm
+Registrant Organization:PRQ Inet KB
+Registrant Street1:Box 1206
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stockholm
+Registrant State/Province:
+Registrant Postal Code:114 79
+Registrant Country:SE
+Registrant Phone:+46.737721056
+Registrant Phone Ext.:
+Registrant FAX:+46.737721056
+Registrant FAX Ext.:
+Registrant Email:registry@prq.se
+Admin ID:1e4e57ca16dcde96
+Admin Name:Gottfrid  Swartholm
+Admin Organization:PRQ Inet KB
+Admin Street1:Box 1206
+Admin Street2:
+Admin Street3:
+Admin City:Stockholm
+Admin State/Province:
+Admin Postal Code:114 79
+Admin Country:SE
+Admin Phone:+46.737721056
+Admin Phone Ext.:
+Admin FAX:+46.737721056
+Admin FAX Ext.:
+Admin Email:registry@prq.se
+Tech ID:1e4e57ca16dcde96
+Tech Name:Gottfrid  Swartholm
+Tech Organization:PRQ Inet KB
+Tech Street1:Box 1206
+Tech Street2:
+Tech Street3:
+Tech City:Stockholm
+Tech State/Province:
+Tech Postal Code:114 79
+Tech Country:SE
+Tech Phone:+46.737721056
+Tech Phone Ext.:
+Tech FAX:+46.737721056
+Tech FAX Ext.:
+Tech Email:registry@prq.se
+Name Server:LISA.NS.CLOUDFLARE.COM
+Name Server:ED.NS.CLOUDFLARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
