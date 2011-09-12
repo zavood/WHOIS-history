@@ -1,0 +1,43 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       creativecollective.is
+descr:        Clark
+descr:        1225 Old Alpharetta Road STE. 295
+descr:        Alpharetta, GA 30005
+descr:        US
+admin-c:      CL32-IS
+tech-c:       WR2-IS
+zone-c:       WR2-IS
+billing-c:    WR2-IS
+nserver:      ns1.101domain.com
+nserver:      ns5.101domain.com
+nserver:      ns2.101domain.com
+created:      September  2 2010
+expires:      September  2 2012
+source:       ISNIC
+
+role:         Clark
+address:      1225 Old Alpharetta Road STE. 295
+address:      Alpharetta, GA 30005
+address:      US
+e-mail:       domains@rwgusa.com
+nic-hdl:      CL32-IS
+created:      September  2 2010
+source:       ISNIC
+
+role:         101Domain, Inc.
+address:      101Domain, Inc.
+address:      5858 Edison Place
+address:      Carlsbad, CA 92008
+address:      US
+phone:        +1 760 4448673
+fax-no:       +1 760 5794996
+e-mail:       tech1@101domain.com
+nic-hdl:      WR2-IS
+created:      March 22 2005
+source:       ISNIC
+
+
