@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRANITEGRAIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: FASTSECURESERVERS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.FASTSECURESERVERS.COM
+   Name Server: NS2.FASTSECURESERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 11-jan-2011
-   Creation Date: 19-jun-2001
-   Expiration Date: 19-jun-2016
+   Status: clientUpdateProhibited
+   Updated Date: 12-jun-2011
+   Creation Date: 11-jul-2005
+   Expiration Date: 11-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:54:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:53:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: granitegrain.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Mon Sep 12 11:44:33 EDT 2011
-Reason Code: IE
+IP Address: 188.72.227.95
+Maximum Daily connection limit reached. Lookup refused.
