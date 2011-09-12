@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-jul-2010
    Expiration Date: 26-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 16:08:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:06:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,33 +74,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    HAMZOO
-   AMMAN
-   AMMAN 11621
-   Jordan
 
    Registered through: Brinkster
    Domain Name: AKABERCHAT.COM
-      Created on: 26-Jul-10
-      Expires on: 26-Jul-14
-      Last Updated on: 09-Aug-11
-
-   Administrative Contact:
-      ABUSABBAH, HAMZA  hamzoo@hotmail.com
-      HAMZOO
-      AMMAN
-      AMMAN 11621
-      Jordan
-      962796804334      Fax --
-
-   Technical Contact:
-      ABUSABBAH, HAMZA  hamzoo@hotmail.com
-      HAMZOO
-      AMMAN
-      AMMAN 11621
-      Jordan
-      962796804334      Fax --
 
    Domain servers in listed order:
       NS1.E3SARCOM.ORG
       NS2.E3SARCOM.ORG
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=AKABERCHAT.COM&amp;prog_id=brinkster2

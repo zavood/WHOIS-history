@@ -5,15 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IBM.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-IBM.COM.CN
-IBM.COM
+   Domain Name: UP2DATEBOOK.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS.BE.HOSTBASKET.COM
+   Name Server: NS.FR.HOSTBASKET.COM
+   Name Server: NS.NL.HOSTBASKET.COM
+   Status: clientTransferProhibited
+   Updated Date: 04-feb-2011
+   Creation Date: 03-feb-2010
+   Expiration Date: 03-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:04:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:06:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +52,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Ludo Van Helleputte (LUDOVANH11)
+  Kammeland 10
+
+  Brakel (Michelbeke), , 9660
+  BE
+
+  Domain name: up2datebook.com
+
+Technical contact:
+  Van Helleputte, Ludo (LV1397)
+
+  Kammeland 10
+
+  Brakel (Michelbeke), 9660
+  BE
+  ludo.van.helleputte@pandora.be
+  +32.476495004 Fax:
+
+Administrative contact:
+  Van Helleputte, Ludo (LV1394)
+
+  Kammeland 10
+
+  Brakel (Michelbeke), 9660
+  BE
+  ludo.van.helleputte@pandora.be
+  +32.476495004 Fax:
+
+Record created:           2010-02-03 22:26:55
+Record last updated:      2010-02-03 22:27:02
+Record expires:           2012-02-03 00:00:00
+
+Domain servers in listed order:
+  ns.be.hostbasket.com (NSBEHOST895)
+  ns.nl.hostbasket.com (NSNLHOST984)
+  ns.fr.hostbasket.com (NSFRHOST94)
