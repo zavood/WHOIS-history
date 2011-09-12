@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158654052-LROR
+Domain Name:ACCESSSECURITYSYSTEMS.ORG
+Created On:21-Mar-2010 10:43:15 UTC
+Last Updated On:29-Mar-2011 05:17:35 UTC
+Expiration Date:21-Mar-2012 10:43:15 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:18e7726597a7a25a
+Registrant Name:aaron  vidgeon
+Registrant Organization:none
+Registrant Street1:34 horsham walk
+Registrant Street2:
+Registrant Street3:
+Registrant City:corby
+Registrant State/Province:State
+Registrant Postal Code:nn18 0jd
+Registrant Country:GB
+Registrant Phone:+44.1536
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:avidgeon@googlemail.com
+Admin ID:e21461aa755a7f0c
+Admin Name:vidgeon
+Admin Organization:none
+Admin Street1:34 horsham walk
+Admin Street2:
+Admin Street3:
+Admin City:corby
+Admin State/Province:State
+Admin Postal Code:nn18 0jd
+Admin Country:GB
+Admin Phone:+44.1536
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:avidgeon@googlemail.com
+Tech ID:18e7726597a7a25a
+Tech Name:aaron  vidgeon
+Tech Organization:none
+Tech Street1:34 horsham walk
+Tech Street2:
+Tech Street3:
+Tech City:corby
+Tech State/Province:State
+Tech Postal Code:nn18 0jd
+Tech Country:GB
+Tech Phone:+44.1536
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:avidgeon@googlemail.com
+Name Server:NS1.LOWCOST-WEBSPACE.COM
+Name Server:NS2.LOWCOST-WEBSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
