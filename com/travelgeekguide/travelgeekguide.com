@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Domain Name: TRAVELGEEKGUIDE.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: 01.DNSV.JP
+   Name Server: 02.DNSV.JP
+   Status: ok
+   Updated Date: 15-jun-2011
+   Creation Date: 14-jun-2011
+   Expiration Date: 14-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:10:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:11:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
+GMO Internet, Inc. whois server 2.0
 
-Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-
-Domain Name: naiadexports.com
-
-
-
-
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
-
-
-
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
-
+Domain Handle: None
+Domain Name: travelgeekguide.com
+Created On: 2011-06-14 09:58:40.0
+Last Updated On: 2011-06-15 13:04:46.0
+Expiration Date: 2012-06-14 09:58:39.0
+Status: ACTIVE
+Registrant Name: yuu honda
+Registrant Organization: yuu honda
+Registrant Street1: 1-11-4-923Umeda
+Registrant Street2: 9F Osaka-Ekimae Build No.4
+Registrant City: Kita-ku Osaka-shi
+Registrant State: Osaka
+Registrant Postal Code: 530-0001
+Registrant Country: JP
+Registrant Phone: 090-9640-6953
+Registrant Fax:
+Registrant Email: support@double-domain.com
+Admin Name: yuu honda
+Admin Organization: yuu honda
+Admin Street1: 1-11-4-923Umeda
+Admin Street2: 9F Osaka-Ekimae Build No.4
+Admin City: Kita-ku Osaka-shi
+Admin State: Osaka
+Admin Postal Code: 530-0001
+Admin Country: JP
+Admin Phone: 090-9640-6953
+Admin Fax:
+Admin Email: support@double-domain.com
+Billing Name: yuu honda
+Billing Organization: yuu honda
+Billing Street1: 1-11-4-923Umeda
+Billing Street2: 9F Osaka-Ekimae Build No.4
+Billing City: Kita-ku Osaka-shi
+Billing State: Osaka
+Billing Postal Code: 530-0001
+Billing Country: JP
+Billing Phone: 090-9640-6953
+Billing Fax:
+Billing Email: support@double-domain.com
+Tech Name: Technical Contact
+Tech Organization: GMO Internet Inc.
+Tech Street1: 26-1 Sakuragaoka-cho
+Tech Street2: Cerulean Tower 11F
+Tech City: Shibuya-ku
+Tech State: Tokyo
+Tech Postal Code: 150-8512
+Tech Country: JP
+Tech Phone: 03-5456-2555
+Tech Fax: 03-5456-2556
+Tech Email: admin@onamae.com
+Name Server: 01.dnsv.jp
+Name Server: 02.dnsv.jp
 

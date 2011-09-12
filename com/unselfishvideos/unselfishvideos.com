@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
+   Domain Name: UNSELFISHVIDEOS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.UNSELFISHMARKETERS.COM
+   Name Server: NS2.UNSELFISHMARKETERS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Updated Date: 07-sep-2011
+   Creation Date: 06-sep-2010
+   Expiration Date: 06-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:10:47 UTC &lt;&lt;&lt;
 
@@ -51,43 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
 
 Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+	 JayKay Bak ceo@unselfishmarketers.com +45.60882802
+	 Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,Vest Sjaelland,DK 4100
 
 
-Domain Name: naiadexports.com
+Domain Name:unselfishvideos.com
+Record last updated at 2011-08-27 03:04:16
+Record created on 2010/9/6
+Record expired on 2012/9/6
 
 
+Domain servers in listed order:
+	 ns1.unselfishmarketers.com 	 ns2.unselfishmarketers.com
+
+Administrator:
+	 Name-- JayKay Bak
+ EMail-: (ceo@unselfishmarketers.com)
+ tel --: +45.60882802
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,Vest Sjaelland,DK 4100
+
+Technical Contactor:
+	 Name-- JayKay Bak
+ EMail-: (ceo@unselfishmarketers.com)
+ tel --: +45.60882802
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,Vest Sjaelland,DK 4100
+
+Billing Contactor:
+	 Name-- JayKay Bak
+ EMail-: (ceo@unselfishmarketers.com)
+ tel --: +45.60882802
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,Vest Sjaelland,DK 4100
 
 
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
-
-
-
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
-
-
+Registration Service Provider:
+	name: Unselfish Marketers Co. Ltd.
+	tel: +45.60882802
+ 	fax: +45.60882802
+ 	web:http://unselfishmarketers.com

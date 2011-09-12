@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Domain Name: MEDIENSERVICE24.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.NS-LUCKYSHOST.DE
+   Name Server: NS2.NS-LUCKYSHOST.DE
+   Status: ok
+   Updated Date: 23-mar-2011
+   Creation Date: 25-mar-2003
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:10:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:09:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
+Whois Server Version 2.1 at whois.tmagnic.net
 
-Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
+Owner Contact:
+   Sigrid Stippich-Guetz
+   ...
+   Hauptstrasse 15
+   Krumpendorf am W&Atilde;&para;rthersee, 9201, AT
 
-Domain Name: naiadexports.com
+   Punycode Name:  medienservice24.com
+   Unicode Name:   medienservice24.com
 
+   Admin Contact
+      Sigrid Stippich-Guetz
+      ...
+      sigridstippich@gmail.com
+      Hauptstrasse 15
+      Krumpendorf am W&Atilde;&para;rthersee, 9201, AT
+      phone: +49.7626345539
 
+   Technical Contact
+      Riad Aissa
+      LuckysHost
+      info@LuckysHost.de
+      Ziegelstr 32
+      Kandern, 79400, DE
+      phone: +49.7626345539
 
+   Zone Contact
+      Riad Aissa
+      LuckysHost
+      info@LuckysHost.de
+      Ziegelstr 32
+      Kandern, 79400, DE
+      phone: +49.7626345539
 
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+   Record expires on: 2012-03-25 00:00:00
 
+   Domain servers in listed order:
 
+      ns2.ns-luckyshost.de 193.254.187.110
+      ns1.ns-luckyshost.de 193.254.185.254
 
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
 
 
