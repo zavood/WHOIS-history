@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MADEADI.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS23.DOMAINCONTROL.COM
-   Name Server: NS24.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: E-SAILINGS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS23.IXWEBHOSTING.COM
+   Name Server: NS24.IXWEBHOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-oct-2010
-   Creation Date: 22-oct-2006
-   Expiration Date: 22-oct-2011
+   Updated Date: 02-aug-2011
+   Creation Date: 26-sep-2002
+   Expiration Date: 26-sep-2018
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:37:17 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   Made Adi
+   Registrant:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MADEADI.COM
-
-   Domain servers in listed order:
-      NS23.DOMAINCONTROL.COM
-      NS24.DOMAINCONTROL.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MADEADI.COM
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: e-sailings.com
+      Created on..............: 2002-09-26
+      Expires on..............: 2018-09-26
+
+   Administrative Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      ns24.ixwebhosting.com
+      ns23.ixwebhosting.com
+
+
+
+Visit AboutUs.org for more information about e-sailings.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/e-sailings.com&quot;&gt;AboutUs: e-sailings.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

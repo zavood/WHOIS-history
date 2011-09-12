@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MADEADI.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS23.DOMAINCONTROL.COM
-   Name Server: NS24.DOMAINCONTROL.COM
+   Domain Name: BITTERBEAR.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-oct-2010
-   Creation Date: 22-oct-2006
-   Expiration Date: 22-oct-2011
+   Updated Date: 17-may-2011
+   Creation Date: 17-may-2011
+   Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:37:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:37:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Made Adi
+   Karen Magner
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MADEADI.COM
+   Domain Name: BITTERBEAR.COM
 
    Domain servers in listed order:
-      NS23.DOMAINCONTROL.COM
-      NS24.DOMAINCONTROL.COM
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MADEADI.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BITTERBEAR.COM
