@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREEHDSOCCER.NET
-   Registrar: EPAG DOMAINSERVICES GMBH
-   Whois Server: whois.enterprice.net
-   Referral URL: http://www.enterprice.net
-   Name Server: NS1.EASYNAME.EU
-   Name Server: NS2.EASYNAME.EU
-   Status: ok
-   Updated Date: 12-sep-2011
-   Creation Date: 19-feb-2011
-   Expiration Date: 19-feb-2012
+   Domain Name: GETCUSTOMUNIFORMS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS2319.HOSTGATOR.COM
+   Name Server: NS2320.HOSTGATOR.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-sep-2011
+   Creation Date: 15-sep-2010
+   Expiration Date: 15-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:54:11 UTC &lt;&lt;&lt;
 
@@ -51,70 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-% EPAG Whois-Server Version 3.1.1 (28-07-2009)
-% The Data in this WHOIS database is provided by EPAG Domainservices GmbH
-% (EPAG) for information purposes, and to assist persons in obtaining
-% information about or related to a domain name registration record.
-% EPAG does not guarantee its accuracy. By submitting a WHOIS query,
-% you agree that you will use this Data only for lawful purposes and that,
-% under no circumstances will you use this Data to:
-% (1) allow, enable, or otherwise support the transmission of mass
-% unsolicited, commercial advertising or solicitations via e-mail (spam);
-% (2) enable high volume, automated, electronic processes that apply to
-% EPAG (or its systems).
-% EPAG reserves the right to modify these terms at any time. By submitting
-% this query, you agree to abide by this policy.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Domain Name:freehdsoccer.net
-Created On:2011-02-19 14:44:59
-Last Updated On:2011-09-12 15:46:28
-Expiration Date:2012-02-19 14:44:59
-Status:ok
 
-Registrant-ID:YA951-EPNIC
-Registrant-Name:Yalincan Ata
-Registrant-Street:anayn 45
-Registrant-City:sanane
-Registrant-Postal-Code:cb7 4lw
-Registrant-Country:GB
-Registrant-Phone:+44.1353443322
-Registrant-FAX:+43.1234
-Registrant-Email:ayaktayim1@hotmail.com
-Registrant-Comment:997093-EASY
+Registrant:
+   Ray Kowalski
 
-Admin-ID:YA951-EPNIC
-Admin-Name:Yalincan Ata
-Admin-Street:anayn 45
-Admin-City:sanane
-Admin-Postal-Code:cb7 4lw
-Admin-Country:GB
-Admin-Phone:+44.1353443322
-Admin-FAX:+43.1234
-Admin-Email:ayaktayim1@hotmail.com
-Admin-Comment:997093-EASY
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: GETCUSTOMUNIFORMS.COM
 
-Billing-ID:EB297-EPNIC
-Billing-Name:easyname.eu Billing
-Billing-Organisation:easyname Billing
-Billing-Street:Fernkorngasse 10/2/1
-Billing-City:Wien
-Billing-State/Province:Wien
-Billing-Postal-Code:1100
-Billing-Country:AT
-Billing-Phone:+43.720002828
-Billing-Email:billing@easyname.eu
+   Domain servers in listed order:
+      NS2319.HOSTGATOR.COM
+      NS2320.HOSTGATOR.COM
 
-Tech-ID:YA951-EPNIC
-Tech-Name:Yalincan Ata
-Tech-Street:anayn 45
-Tech-City:sanane
-Tech-Postal-Code:cb7 4lw
-Tech-Country:GB
-Tech-Phone:+44.1353443322
-Tech-FAX:+43.1234
-Tech-Email:ayaktayim1@hotmail.com
-Tech-Comment:997093-EASY
 
-Nameserver: ns2.easyname.eu
-Nameserver: ns1.easyname.eu
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GETCUSTOMUNIFORMS.COM
