@@ -5,19 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISPRIMECDN.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.ISPRIME.COM
-   Name Server: NS2.ISPRIME.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jul-2011
-   Creation Date: 28-aug-2007
-   Expiration Date: 28-aug-2012
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:11:43 UTC &lt;&lt;&lt;
+No match for &quot;ROEDYCENTRAL.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:11:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
