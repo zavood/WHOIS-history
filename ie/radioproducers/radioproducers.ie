@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      radioproducers.ie
+descr:       Digital Audio Productions Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     ACM568-IEDR
+tech-c:      AAM456-IEDR
+renewal:     14-September-2012
+status:      Active
+nserver:     ns1.doopdns.net
+nserver:     ns2.doopdns.net
+source:      IEDR
+
+person:      Dusty Rhodes
+nic-hdl:     ACM568-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LOOSEFOOT.COM.BRANDALIVE.COM
-LOOSEFOOT.COM
+   Domain Name: WEBSOULS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.FUTURESOULS.COM
+   Name Server: NS6.FUTURESOULS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 17-aug-2010
+   Creation Date: 23-jul-2002
+   Expiration Date: 23-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:31:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:31:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Muhammad Aslam Saqib saqib@futuresouls.com +92.4235914022
+	 WebSouls
+	 318-Century Tower Near Kalma Chowk Gulberg III
+	 Lahore,Punjab,PK 54000
+
+
+Domain Name:websouls.com
+Record last updated at 2010-12-27 03:35:46
+Record created on 2002/7/23
+Record expired on 2012/7/23
+
+
+Domain servers in listed order:
+	 ns1.futuresouls.com 	 ns6.futuresouls.com
+
+Administrator:
+	 Name-- Muhammad Aslam Saqib
+ EMail-: (saqib@futuresouls.com)
+ tel --: +92.4235914022
+	 org: WebSouls
+	 318-Century Tower Near Kalma Chowk Gulberg III
+	 Lahore,Punjab,PK 54000
+
+Technical Contactor:
+	 Name-- Muhammad Aslam Saqib
+ EMail-: (saqib@futuresouls.com)
+ tel --: +92.4235914022
+	 org: WebSouls
+	 318-Century Tower Near Kalma Chowk Gulberg III
+	 Lahore,Punjab,PK 54000
+
+Billing Contactor:
+	 Name-- Muhammad Aslam Saqib
+ EMail-: (saqib@futuresouls.com)
+ tel --: +92.4235914022
+	 org: WebSouls
+	 318-Century Tower Near Kalma Chowk Gulberg III
+	 Lahore,Punjab,PK 54000
+
+
+Registration Service Provider:
+	name: Websouls
+	tel: +92.425914022
+ 	fax: +92.425914025
+ 	web:http://www.websouls.com

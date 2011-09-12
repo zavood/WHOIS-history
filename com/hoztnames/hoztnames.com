@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LOOSEFOOT.COM.BRANDALIVE.COM
-LOOSEFOOT.COM
+   Domain Name: HOZTNAMES.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS3.CNMSN.COM
+   Name Server: NS4.CNMSN.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 14-mar-2011
+   Creation Date: 14-mar-2011
+   Expiration Date: 14-mar-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:31:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:30:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: hoztnames.com
+
+Registrant Contact:
+   NA
+   Badomero Collado greenfel@gmail.com
+   493458319 fax: 493458319
+   Avenida Cervantes, 11
+   Gernika-Lumo Gernika-Lumo 48300
+   es
+
+Administrative Contact:
+   Badomero Collado greenfel@gmail.com
+   493458319 fax: 493458319
+   Avenida Cervantes, 11
+   Gernika-Lumo Gernika-Lumo 48300
+   es
+
+Technical Contact:
+   Badomero Collado greenfel@gmail.com
+   493458319 fax: 493458319
+   Avenida Cervantes, 11
+   Gernika-Lumo Gernika-Lumo 48300
+   es
+
+Billing Contact:
+   Badomero Collado greenfel@gmail.com
+   493458319 fax: 493458319
+   Avenida Cervantes, 11
+   Gernika-Lumo Gernika-Lumo 48300
+   es
+
+DNS:
+ns3.cnmsn.com
+ns4.cnmsn.com
+
+Created: 2011-03-14
+Expires: 2012-03-14

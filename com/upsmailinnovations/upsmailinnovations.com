@@ -5,12 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LOOSEFOOT.COM.BRANDALIVE.COM
-LOOSEFOOT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: UPSMAILINNOVATIONS.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NSA.UPS.COM
+   Name Server: NSB.UPS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 04-apr-2011
+   Creation Date: 05-feb-2002
+   Expiration Date: 05-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:31:12 UTC &lt;&lt;&lt;
 
@@ -47,3 +53,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  United Parcel Service (UNITE94086)
+  340 MacArthur Blvd
+
+  Mahwah, NJ, 07430
+  US
+
+  Domain name: upsmailinnovations.com
+
+Technical contact:
+  Administrator, Domain (DA3100665)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
+
+Administrative contact:
+  Curley, Joe (JC52666)
+  United Parcel Service
+  340 MacArthur Blvd
+
+  Mahwah, NJ, 07430
+  US
+  internet@ups.com
+  +1.2018282480 Fax: +1.2018284895
+
+Record created:           2011-02-14 02:04:58
+Record last updated:      2011-08-10 03:16:45
+Record expires:           2012-02-05 00:00:00
+
+Domain servers in listed order:
+  nsa.ups.com (NSAUP67612)
+  nsb.ups.com (NSBUP67612)
