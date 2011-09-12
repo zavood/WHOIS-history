@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       tartu.ee
+registrant:   CID:EENET:3254
+admin-c:      CID:EENET:B39D
+nsset:        NSSID:EENET:E27F
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 03:59:09
+changed:      07.10.2010 10:54:39
+expire:       07.10.2012
+
+contact:      CID:EENET:3254
+name:         Tartu Linnavalitsus
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      07.10.2010 10:54:36
+
+contact:      CID:EENET:B39D
+name:         Toomas Aas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      07.10.2010 10:54:35
+
+nsset:        NSSID:EENET:E27F
+nserver:      ns.eenet.ee (193.40.56.245)
+nserver:      ns2.eenet.ee (193.40.0.12, 2001:bb8:2001::12)
+tech-c:       CID:EENET:7A19
+registrar:    eenet
+created:      06.07.2010 17:52:26
+changed:      27.05.2011 16:58:05
+
+contact:      CID:EENET:7A19
+name:         EENet
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      06.07.2010 17:52:25
+
+
