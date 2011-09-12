@@ -1,0 +1,81 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 12 05:05:58 2011
+
+domain:       ignum.cz
+registrant:   IGNUM
+admin-c:      ROB1
+nsset:        IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   25.09.1998 02:00:00
+changed:      25.04.2008 15:15:05
+expire:       28.10.2012
+
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Robert Proke&Aring;&iexcl;
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       info@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+
+contact:      ROB1
+name:         Robert Prokes
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.01.2009 10:18:17
+
+nsset:        IGNUM
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (213.235.133.138)
+tech-c:       IGNUM
+registrar:    REG-IGNUM
+created:      04.10.2007 15:19:01
+changed:      02.04.2008 18:37:05
+
+nsset:        IGNUM.CZ
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz
+tech-c:       CID:IGN-C198057-JPI
+registrar:    REG-IGNUM
+created:      13.10.2008 20:28:15
+
+contact:      CID:IGN-C198057-JPI
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Lou&Auml;çka
+address:      Dygr&Atilde;&frac12;nova 823
+address:      Praha 9
+address:      198 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      03.08.2008 07:57:10
+
+

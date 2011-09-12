@@ -1,0 +1,36 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       ut.ee
+registrant:   CID:EENET:3C7D
+admin-c:      CID:EENET:3D36
+nsset:        NSSID:EENET:9F7D
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 03:59:19
+changed:      11.08.2011 14:54:23
+expire:       09.12.2011
+
+contact:      CID:EENET:3C7D
+name:         Tartu &Atilde;œlikool
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      06.08.2010 12:40:41
+changed:      09.11.2010 17:08:07
+
+contact:      CID:EENET:3D36
+name:         Lauri Jesmin
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      06.08.2010 12:40:42
+
+nsset:        NSSID:EENET:9F7D
+nserver:      sneezy.physic.ut.ee (193.40.11.12)
+nserver:      ns.ut.ee (193.40.5.99)
+nserver:      ns2.ut.ee (193.40.5.76)
+nserver:      ns2.eenet.ee (193.40.0.12, 2001:bb8:2001::12)
+tech-c:       CID:EENET:3D36
+registrar:    eenet
+created:      11.08.2011 14:54:21
+
+
