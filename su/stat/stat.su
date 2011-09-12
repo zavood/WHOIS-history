@@ -1,0 +1,22 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     STAT.SU
+nserver:    ns1.agava.net.ru.
+nserver:    ns2.agava.net.ru.
+state:      REGISTERED, DELEGATED
+org:        AGAVA llc.
+phone:      +7 495 4284200
+phone:      +7 495 4081172
+phone:      +7 495 4081790
+phone:      +7 495 7816537
+e-mail:     domains@agava.com
+registrar:  RUCENTER-REG-FID
+created:    2005.12.12
+paid-till:  2011.12.12
+source:     TCI
+
+Last updated on 2011.09.12 11:43:42 MSK/MSD
+
