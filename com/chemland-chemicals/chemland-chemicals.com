@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XXXEI.COM
+   Domain Name: CHEMLAND-CHEMICALS.COM
    Registrar: XIN NET TECHNOLOGY CORPORATION
    Whois Server: whois.paycenter.com.cn
    Referral URL: http://www.xinnet.com
-   Name Server: NS1.DNSPOOD.NET
-   Name Server: NS2.DNSPOOD.NET
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 11-jun-2011
-   Creation Date: 11-jun-2009
-   Expiration Date: 11-jun-2012
+   Updated Date: 20-jan-2011
+   Creation Date: 01-feb-2010
+   Expiration Date: 01-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,54 +66,54 @@ apply to Paycenter or its systems.
 Paycenter reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : xxxei.com
-PunnyCode        : xxxei.com
-Creation Date    : 2009-06-12 10:50:27
-Updated Date     : 2011-06-11 21:17:04
-Expiration Date  : 2012-06-12 10:46:07
+Domain Name      : chemland-chemicals.com
+PunnyCode        : chemland-chemicals.com
+Creation Date    : 2010-02-02 08:39:57
+Updated Date     : 2011-01-21 08:52:43
+Expiration Date  : 2012-02-02 08:39:50
 
 
 Registrant:
-  Organization   : chen yulian
-  Name           : chen yulian
-  Address        : zhejiang hangzhou  gongsuquhunanlu186hao8danyuan807-2hao
-  City           : hangzhoushi
+  Organization   : ningbo net-volution electronic commerce
+  Name           : co co
+  Address        : 6/F, Building No.D,Innovation Building No.750 chuangyuan Roa
+  City           : ningboshi
   Province/State : zhejiangsheng
   Country        : china
-  Postal Code    : 210002
+  Postal Code    : 315000
 
 Administrative Contact:
-  Name           : chen yulian
-  Organization   : chen yulian
-  Address        : zhejiang hangzhou  gongsuquhunanlu186hao8danyuan807-2hao
-  City           : hangzhoushi
+  Name           : co co
+  Organization   : co co
+  Address        : 6/F, Building No.D,Innovation Building No.750 chuangyuan Roa
+  City           : ningboshi
   Province/State : zhejiangsheng
   Country        : china
-  Postal Code    : 210002
-  Phone Number   : 86-0571-85303774-7
-  Fax            : 86-0571-85303774
-  Email          : xxxei2009@126.com
+  Postal Code    : 315000
+  Phone Number   : 86-574-87916312
+  Fax            : 86-574-87642930
+  Email          : web1@netcec.com
 
 Technical Contact:
-  Name           : chen yulian
-  Organization   : chen yulian
-  Address        : zhejiang hangzhou  gongsuquhunanlu186hao8danyuan807-2hao
-  City           : hangzhoushi
+  Name           : co co
+  Organization   : co co
+  Address        : 6/F, Building No.D,Innovation Building No.750 chuangyuan Roa
+  City           : ningboshi
   Province/State : zhejiangsheng
   Country        : china
-  Postal Code    : 210002
-  Phone Number   : 86-0571-85303774-7
-  Fax            : 86-0571-85303774
-  Email          : xxxei2009@126.com
+  Postal Code    : 315000
+  Phone Number   : 86-574-87916312
+  Fax            : 86-574-87642930
+  Email          : web1@netcec.com
 
 Billing Contact:
-  Name           : chen yulian
-  Organization   : chen yulian
-  Address        : zhejiang hangzhou  gongsuquhunanlu186hao8danyuan807-2hao
-  City           : hangzhoushi
+  Name           : co co
+  Organization   : co co
+  Address        : 6/F, Building No.D,Innovation Building No.750 chuangyuan Roa
+  City           : ningboshi
   Province/State : zhejiangsheng
   Country        : china
-  Postal Code    : 210002
-  Phone Number   : 86-0571-85303774-7
-  Fax            : 86-0571-85303774
-  Email          : xxxei2009@126.com
+  Postal Code    : 315000
+  Phone Number   : 86-574-87916312
+  Fax            : 86-574-87642930
+  Email          : web1@netcec.com

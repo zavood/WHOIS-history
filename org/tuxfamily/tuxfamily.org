@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10810606-LROR
+Domain Name:TUXFAMILY.ORG
+Created On:29-Sep-1999 00:26:27 UTC
+Last Updated On:04-Dec-2010 02:02:45 UTC
+Expiration Date:29-Sep-2013 00:26:26 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AT1534-GANDI
+Registrant Name:Association TuxFamily.org
+Registrant Organization:Association TuxFamily.org
+Registrant Street1:225, rue des landes
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chatou
+Registrant State/Province:
+Registrant Postal Code:78400
+Registrant Country:FR
+Registrant Phone:+33.675230653
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:adm@staff.tuxfamily.org
+Admin ID:AT1534-GANDI
+Admin Name:Association TuxFamily.org
+Admin Organization:Association TuxFamily.org
+Admin Street1:225, rue des landes
+Admin Street2:
+Admin Street3:
+Admin City:Chatou
+Admin State/Province:
+Admin Postal Code:78400
+Admin Country:FR
+Admin Phone:+33.675230653
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:adm@staff.tuxfamily.org
+Tech ID:AT1534-GANDI
+Tech Name:Association TuxFamily.org
+Tech Organization:Association TuxFamily.org
+Tech Street1:225, rue des landes
+Tech Street2:
+Tech Street3:
+Tech City:Chatou
+Tech State/Province:
+Tech Postal Code:78400
+Tech Country:FR
+Tech Phone:+33.675230653
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:adm@staff.tuxfamily.org
+Name Server:NS1.STAFF.TUXFAMILY.NET
+Name Server:NS2.STAFF.TUXFAMILY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

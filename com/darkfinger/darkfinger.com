@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CYBERSIDER.COM
+   Domain Name: DARKFINGER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 06-jun-2008
-   Expiration Date: 06-jun-2012
+   Updated Date: 23-jan-2010
+   Creation Date: 24-jun-2005
+   Expiration Date: 24-jun-2017
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:55 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Yaser Shamekhi Gaskareei
+   Dinar LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CYBERSIDER.COM
+   Domain Name: DARKFINGER.COM
 
    Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+      NS05.DOMAINCONTROL.COM
+      NS06.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CYBERSIDER.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DARKFINGER.COM

@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; activeradio.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      activeradio.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AC7750-FRNIC
+admin-c:     ACAC577-FRNIC
+tech-c:      NF167-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6020-FRNIC
+registrar:   NETIM
+anniversary: 17/11
+created:     17/11/2008
+last-update: 09/12/2008
+source:      FRNIC
+
+ns-list:     NSL6020-FRNIC
+nserver:     ns5.securenetim.net
+nserver:     ns6.securenetim.net
+source:      FRNIC
+
+registrar:   NETIM
+type:        Isp Option 1
+address:     Euratechnologies
+address:     165 Avenue de Bretagne
+address:     LILLE
+country:     FR
+phone:       +33 9 72 11 33 52
+fax-no:      +33 3 59 35 03 74
+e-mail:      contact@netim.fr
+website:     http://www.netim.fr
+anonymous:   NO
+registered:  04/01/2005
+source:      FRNIC
+
+nic-hdl:     ACAC577-FRNIC
+type:        PERSON
+contact:     admin-c Association CBE
+address:     6, rue des marmouzets
+address:     B.P. 33
+address:     52300 Joinville
+country:     FR
+phone:       +33 3 25 04 05 20
+e-mail:      radiocbe@free.fr
+changed:     17/11/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NF167-FRNIC
+type:        ROLE
+contact:     NETIM FR
+address:     NETIM
+address:     50, rue Emile Zola
+address:     59155 Faches-Thumesnil
+country:     FR
+phone:       +33 8 70 28 07 38
+e-mail:      hostmaster@netim.net
+trouble:     trouble: Informations: http://www.netim.fr
+trouble:     trouble: Questions: support@netim.fr
+trouble:     trouble: Spam: abuse@netim.fr
+admin-c:     HF791-FRNIC
+tech-c:      BV278-FRNIC
+tech-c:      HF791-FRNIC
+notify:      hostmaster@netim.net
+changed:     10/11/2008 hostmaster@netim.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AC7750-FRNIC
+type:        ORGANIZATION
+contact:     Association C.B.E
+address:     6, rue des marmouzets
+address:     B.P. 33
+address:     52300 Joinville
+country:     FR
+phone:       +33 3 25 04 05 20
+e-mail:      radiocbe@free.fr
+changed:     09/12/2008 Herve.Cosquer@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

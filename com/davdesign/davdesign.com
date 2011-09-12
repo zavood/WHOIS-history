@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CYBERSIDER.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 06-jun-2008
-   Expiration Date: 06-jun-2012
+   Domain Name: DAVDESIGN.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
+   Status: ok
+   Updated Date: 02-apr-2011
+   Creation Date: 07-feb-2003
+   Expiration Date: 07-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:55 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... davdesign.com
+  Creation Date........ 2003-02-08
+  Registration Date.... 2003-02-08
+  Expiry Date.......... 2013-02-08
+  Organisation Name.... Stuart Davenport
+  Organisation Address. 4630 fessenden St., nw
+  Organisation Address.
+  Organisation Address. Washington
+  Organisation Address. 20016
+  Organisation Address. DC
+  Organisation Address. UNITED STATES
+
+Admin Name........... Stuart Davenport
+  Admin Address........ 4630 fessenden St., nw
+  Admin Address........
+  Admin Address........ Washington
+  Admin Address........ 20016
+  Admin Address........ DC
+  Admin Address........ UNITED STATES
+  Admin Email.......... studavenport@yahoo.com
+  Admin Phone.......... +1.2023624105
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns.inmotionhosting.com
+  Name Server.......... ns2.inmotionhosting.com
 
 
-Registrant:
-   Yaser Shamekhi Gaskareei
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CYBERSIDER.COM
-
-   Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CYBERSIDER.COM

@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CYBERSIDER.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 06-jun-2008
-   Expiration Date: 06-jun-2012
+   Domain Name: LOCUPLES.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS.LOCUPLES.COM
+   Name Server: NS2.LOCUPLES.COM
+   Name Server: NS3.WWI.AS
+   Name Server: NS4.WWI.EU
+   Status: ok
+   Updated Date: 13-oct-2010
+   Creation Date: 12-oct-2000
+   Expiration Date: 12-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   Yaser Shamekhi Gaskareei
+  WorldWeb Interactive A/S (WORLDWEB82)
+  Byleddet 22
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CYBERSIDER.COM
+  Randers, , 8900
+  DK
 
-   Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+  Domain name: locuples.com
 
+Administrative and Technical contact:
+  Hostmaster, WWI (JR3226)
+  WorldWeb Interactive ApS
+  Haderslevvej 14A
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CYBERSIDER.COM
+  Kolding, 6000
+  DK
+  hostmaster@wwi.dk
+  +45.70213214 Fax: +45.70213214
+
+Record created:           2007-09-26 07:59:43
+Record last updated:      2009-09-03 16:01:48
+Record expires:           2011-10-12 00:00:00
+
+Domain servers in listed order:
+  ns.locuples.com (NSLOCUPL936)
+  ns2.locuples.com (NSLOCUPL228)
+  ns3.wwi.as (NSWWIAS57)
+  ns4.wwi.eu (NSWWIEU49)

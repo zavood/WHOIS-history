@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154984438-LROR
+Domain Name:EEEN.ORG
+Created On:28-Dec-2008 22:40:52 UTC
+Last Updated On:20-Jan-2011 19:26:28 UTC
+Expiration Date:28-Dec-2011 22:40:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR41823484
+Registrant Name:prafangga permana
+Registrant Organization:prafangga
+Registrant Street1:gajahan rt 03 rw 2 pasarkliwon surakarta
+Registrant Street2:
+Registrant Street3:
+Registrant City:surakarta
+Registrant State/Province:jawa tegah
+Registrant Postal Code:57115
+Registrant Country:ID
+Registrant Phone:+62.628562402525
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:finansialblog@gmail.com
+Admin ID:CR41823486
+Admin Name:prafangga permana
+Admin Organization:prafangga
+Admin Street1:gajahan rt 03 rw 2 pasarkliwon surakarta
+Admin Street2:
+Admin Street3:
+Admin City:surakarta
+Admin State/Province:jawa tegah
+Admin Postal Code:57115
+Admin Country:ID
+Admin Phone:+62.628562402525
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:finansialblog@gmail.com
+Tech ID:CR41823485
+Tech Name:prafangga permana
+Tech Organization:prafangga
+Tech Street1:gajahan rt 03 rw 2 pasarkliwon surakarta
+Tech Street2:
+Tech Street3:
+Tech City:surakarta
+Tech State/Province:jawa tegah
+Tech Postal Code:57115
+Tech Country:ID
+Tech Phone:+62.628562402525
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:finansialblog@gmail.com
+Name Server:NS2061.HOSTGATOR.COM
+Name Server:NS2062.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
