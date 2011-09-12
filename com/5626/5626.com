@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TUCREASLOSJUEGOS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.MSFT.NET
-   Name Server: NS2.MSFT.NET
-   Name Server: NS3.MSFT.NET
-   Name Server: NS4.MSFT.NET
-   Name Server: NS5.MSFT.NET
+   Domain Name: 5626.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: F2Y1DNS1.DNSPOD.NET
+   Name Server: F2Y1DNS2.DNSPOD.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-feb-2011
-   Creation Date: 18-feb-2011
-   Expiration Date: 18-feb-2012
+   Updated Date: 21-oct-2010
+   Creation Date: 17-sep-1999
+   Expiration Date: 17-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:34:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:34:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,44 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : 5626.com
 
-Domain Name.......... tucreaslosjuegos.com
-  Creation Date........ 2011-02-19
-  Registration Date.... 2011-02-19
-  Expiry Date.......... 2012-02-19
-  Organisation Name.... Microsoft Corporation
-  Organisation Address. 1 Microsoft Way
-  Organisation Address.
-  Organisation Address. Redmond
-  Organisation Address. 98052
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
+Registrant Contact Information :
+&aelig;&plusmn;&curren;&aelig;òü
+&aelig;&plusmn;&curren;&aelig;òü
+a@liycn.com
+&aring;&sup2;&sup3;&eacute;&ordm;ì&aring;å&ordm;&aelig;úõ&eacute;&ordm;ì&aelig;&iexcl;&yen;27&aring;è&middot;, 410000
+tel: +86 07318565525
+fax: +86 07318565525
 
-Admin Name........... Domain Administrator
-  Admin Address........ One Microsoft Way
-  Admin Address........
-  Admin Address........ Redmond
-  Admin Address........ 98052
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... domains@microsoft.com
-  Admin Phone.......... +1.4258828080
-  Admin Fax............
+Administrative Contact Information :
+&aelig;&plusmn;&curren;&aelig;òü
+&aelig;&plusmn;&curren;&aelig;òü
+a@liycn.com
+&aring;&sup2;&sup3;&eacute;&ordm;ì&aring;å&ordm;&aelig;úõ&eacute;&ordm;ì&aelig;&iexcl;&yen;27&aring;è&middot;, 410000
+tel: +86 07318565525
+fax: +86 07318565525
 
-Tech Name............ MSN Hostmaster
-  Tech Address......... One Microsoft Way
-  Tech Address.........
-  Tech Address......... Redmond
-  Tech Address......... 98052
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... msnhst@microsoft.com
-  Tech Phone........... +1.4258828080
-  Tech Fax.............
-  Name Server.......... ns1.msft.net
-  Name Server.......... ns3.msft.net
-  Name Server.......... ns4.msft.net
-  Name Server.......... ns5.msft.net
-  Name Server.......... ns2.msft.net
+Technical Contact Information :
+&aelig;&plusmn;&curren;&aelig;òü
+&aelig;&plusmn;&curren;&aelig;òü
+a@liycn.com
+&aring;&sup2;&sup3;&eacute;&ordm;ì&aring;å&ordm;&aelig;úõ&eacute;&ordm;ì&aelig;&iexcl;&yen;27&aring;è&middot;, 410000
+tel: +86 07318565525
+fax: +86 07318565525
 
+Billing Contact Information :
+&aelig;&plusmn;&curren;&aelig;òü
+&aelig;&plusmn;&curren;&aelig;òü
+a@liycn.com
+&aring;&sup2;&sup3;&eacute;&ordm;ì&aring;å&ordm;&aelig;úõ&eacute;&ordm;ì&aelig;&iexcl;&yen;27&aring;è&middot;, 410000
+tel: +86 07318565525
+fax: +86 07318565525
+
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+f2y1dns1.dnspod.net
+f2y1dns2.dnspod.net
+
+Registration Date :1999-9-18
+Expiration Date : 2012-9-18
+
+For more information, please go to http://whois.ename.com.
 
