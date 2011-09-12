@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FIRSTTRUSTCU.COM
-   Registrar: MISK.COM, INC.
-   Whois Server: whois.misk.com
-   Referral URL: http://www.misk.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: ok
-   Updated Date: 15-jun-2010
-   Creation Date: 05-dec-2006
-   Expiration Date: 05-dec-2012
+   Domain Name: AVARAMAAILMA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.NEBULA.FI
+   Name Server: NS2.NEBULA.FI
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 31-oct-2010
+   Creation Date: 31-oct-2002
+   Expiration Date: 31-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:28:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:28:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,45 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- First Trust Federal Credit Union
- 950 East US highway 20
- PO Box 2116
- Michigan City, IN 46360
- US
+ Avara Maailma
+ Laurinniityntie 20 B 9
+ Helsinki,  00440
+ FI
 
- Domain name: FIRSTTRUSTCU.COM
+ Domain name: AVARAMAAILMA.COM
+
 
  Administrative Contact:
-    Rajsic, Daniel  drajsic@firsttrustcu.com
-    950 East US highway 20
-    PO Box 2116
-    Michigan City, IN 46360
-    US
-    +1.2198796161    Fax: +1.2198731361
-
+    Mero, Mari  marinafrica@yahoo.com
+    Laurinniityntie 20 B 9
+    Helsinki,  00440
+    FI
+    050-5433393
  Technical Contact:
-    Admin, DNS  dnsadmin@cuanswers.com
-    6000 28th Street SE
-    Suite 100
-    Grand Rapids, MI 49546
-    US
-    +1.6162855711    Fax: +1.6162855735
+    Master, Host  Hostmaster@websign.fi
+    PL 1046
+    Helsinki, Finland 00101
+    FI
+    +358.96849924    Fax: +358.96849924
 
- Registrar of Record: MISK.COM
- Record last updated on 2010-Jun-15.
- Record expires on 2012-Dec-05.
- Record created on 2006-Dec-05.
+
+
+ Registrar of Record: TUCOWS, INC.
+ Record last updated on 31-Oct-2010.
+ Record expires on 31-Oct-2011.
+ Record created on 31-Oct-2002.
+
+ Registrar Domain Name Help Center:
+    http://tucowsdomains.com
 
  Domain servers in listed order:
-    CBRU.BR.NS.ELS-GMS.ATT.NET
-    CMTU.MT.NS.ELS-GMS.ATT.NET
+    NS2.NEBULA.FI
+    NS.NEBULA.FI
 
 
-The Data in the Misk.com Registrar WHOIS database is provided to you by Misk.com
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining
 information about or related to a domain name's registration record.
 
-Misk.com makes this information available &quot;as is,&quot; and does not guarantee its
+Tucows makes this information available &quot;as is,&quot; and does not guarantee its
 accuracy.
 
 By submitting a WHOIS query, you agree that you will use this data only for
@@ -104,16 +110,18 @@ ICANN-Accredited registrar, except as reasonably necessary to register
 domain names or modify existing registrations.
 
 The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Misk.com.
+expressly prohibited without the prior written consent of Tucows.
 
-Misk.com reserves the right to terminate your access to the Misk.com WHOIS
+Tucows reserves the right to terminate your access to the Tucows WHOIS
 database in its sole discretion, including without limitation, for excessive
 querying of the WHOIS database or for failure to otherwise abide by this
 policy.
 
-Misk.com reserves the right to modify these terms at any time.
+Tucows reserves the right to modify these terms at any time.
 
 By submitting this query, you agree to abide by these terms.
 
 NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.&quot;;
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+
