@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BHRCONSTRUCTION.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS35.DOMAINCONTROL.COM
-   Name Server: NS36.DOMAINCONTROL.COM
+   Domain Name: CLASSICTUBEAUDIO.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS1.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 11-may-2009
-   Expiration Date: 11-may-2012
+   Updated Date: 19-oct-2010
+   Creation Date: 16-nov-2009
+   Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:05:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:07:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   G. Bratton
+   Dorey Design Group
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BHRCONSTRUCTION.COM
+   Domain Name: CLASSICTUBEAUDIO.COM
 
    Domain servers in listed order:
-      NS35.DOMAINCONTROL.COM
-      NS36.DOMAINCONTROL.COM
+      NS.RACKSPACE.COM
+      NS1.RACKSPACE.COM
+      NS2.RACKSPACE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BHRCONSTRUCTION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CLASSICTUBEAUDIO.COM
