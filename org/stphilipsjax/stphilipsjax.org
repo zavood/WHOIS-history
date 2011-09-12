@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155942973-LROR
+Domain Name:STPHILIPSJAX.ORG
+Created On:23-Apr-2009 16:17:11 UTC
+Last Updated On:21-Apr-2011 10:29:41 UTC
+Expiration Date:23-Apr-2013 16:17:11 UTC
+Sponsoring Registrar:LiquidNet Ltd. (R1831-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:LN_11536970
+Registrant Name:athlene jones
+Registrant Organization:N/A
+Registrant Street1:po box 37936
+Registrant Street2:
+Registrant Street3:
+Registrant City:jacksonville
+Registrant State/Province:FL
+Registrant Postal Code:32221
+Registrant Country:US
+Registrant Phone:+1.9043028146
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@ambitionn.com
+Admin ID:LN_11536970
+Admin Name:athlene jones
+Admin Organization:N/A
+Admin Street1:po box 37936
+Admin Street2:
+Admin Street3:
+Admin City:jacksonville
+Admin State/Province:FL
+Admin Postal Code:32221
+Admin Country:US
+Admin Phone:+1.9043028146
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@ambitionn.com
+Tech ID:LN_11536970
+Tech Name:athlene jones
+Tech Organization:N/A
+Tech Street1:po box 37936
+Tech Street2:
+Tech Street3:
+Tech City:jacksonville
+Tech State/Province:FL
+Tech Postal Code:32221
+Tech Country:US
+Tech Phone:+1.9043028146
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@ambitionn.com
+Name Server:DNS1.SUPREMEDNS.COM
+Name Server:DNS2.SUPREMEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
