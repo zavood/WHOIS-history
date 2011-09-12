@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGANNEITZEL.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS.INMOTIONHOSTING.COM
-   Name Server: NS2.INMOTIONHOSTING.COM
+   Domain Name: GRABSTREAM.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.DZIMI.EU
+   Name Server: NS2.DZIMI.EU
    Status: ok
-   Updated Date: 18-apr-2011
-   Creation Date: 17-apr-2009
-   Expiration Date: 17-apr-2013
+   Updated Date: 21-apr-2011
+   Creation Date: 12-oct-2010
+   Expiration Date: 12-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:21:17 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+; This data is provided by Michau Enterprises Limited
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Michau Enterprises Limited does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Domain Name.......... loganneitzel.com
-  Creation Date........ 2009-04-18
-  Registration Date.... 2009-04-18
-  Expiry Date.......... 2013-04-18
-  Organisation Name.... CHRIS MILLER
-  Organisation Address. 17 W MERCER
-  Organisation Address. 206
-  Organisation Address. SEATTLE
-  Organisation Address. 98119
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
+DOMAIN: GRABSTREAM.COM
 
-Admin Name........... CHRIS MILLER
-  Admin Address........ 17 W MERCER
-  Admin Address........ 206
-  Admin Address........ SEATTLE
-  Admin Address........ 98119
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dkbaum@hotmail.com
-  Admin Phone.......... 425-443-3000
-  Admin Fax............
+RSP: Michau Enterprises Limited
+URL: http://www.dropped.pl
 
-Tech Name............ Administrator Domain
-  Tech Address......... 4553 Glencoe Ave
-  Tech Address......... Suite #325
-  Tech Address......... Marina Del Rey
-  Tech Address......... 90292
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@inmotionhosting.com
-  Tech Phone........... +1.2132584422
-  Tech Fax.............
-  Name Server.......... ns.inmotionhosting.com
-  Name Server.......... ns2.inmotionhosting.com
+owner-contact: P-DPP791
+owner-fname: Darek
+owner-lname: Plazuk
+owner-street: Legionow Dabrowskiego 13/10
+owner-city: Miejscowosc Szczecin
+owner-zip: 70-337
+owner-country: PL
+owner-phone: +48.600267200
+owner-email: darek@plazuk.pl
 
+admin-contact: P-DPP791
+admin-fname: Darek
+admin-lname: Plazuk
+admin-street: Legionow Dabrowskiego 13/10
+admin-city: Miejscowosc Szczecin
+admin-zip: 70-337
+admin-country: PL
+admin-phone: +48.600267200
+admin-email: darek@plazuk.pl
+
+tech-contact: P-DPP791
+tech-fname: Darek
+tech-lname: Plazuk
+tech-street: Legionow Dabrowskiego 13/10
+tech-city: Miejscowosc Szczecin
+tech-zip: 70-337
+tech-country: PL
+tech-phone: +48.600267200
+tech-email: darek@plazuk.pl
+
+billing-contact: P-DPP791
+billing-fname: Darek
+billing-lname: Plazuk
+billing-street: Legionow Dabrowskiego 13/10
+billing-city: Miejscowosc Szczecin
+billing-zip: 70-337
+billing-country: PL
+billing-phone: +48.600267200
+billing-email: darek@plazuk.pl
+
+nameserver: ns1.dzimi.eu
+nameserver: ns2.dzimi.eu
+
+; Please register your domains at
+; http://www.dropped.pl
 

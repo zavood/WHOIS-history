@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGANNEITZEL.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS.INMOTIONHOSTING.COM
-   Name Server: NS2.INMOTIONHOSTING.COM
-   Status: ok
-   Updated Date: 18-apr-2011
-   Creation Date: 17-apr-2009
-   Expiration Date: 17-apr-2013
+   Domain Name: BARELYLEGALSUB.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 24-may-2011
+   Creation Date: 07-sep-2007
+   Expiration Date: 07-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:21:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:20:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... loganneitzel.com
-  Creation Date........ 2009-04-18
-  Registration Date.... 2009-04-18
-  Expiry Date.......... 2013-04-18
-  Organisation Name.... CHRIS MILLER
-  Organisation Address. 17 W MERCER
-  Organisation Address. 206
-  Organisation Address. SEATTLE
-  Organisation Address. 98119
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
-
-Admin Name........... CHRIS MILLER
-  Admin Address........ 17 W MERCER
-  Admin Address........ 206
-  Admin Address........ SEATTLE
-  Admin Address........ 98119
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dkbaum@hotmail.com
-  Admin Phone.......... 425-443-3000
-  Admin Fax............
-
-Tech Name............ Administrator Domain
-  Tech Address......... 4553 Glencoe Ave
-  Tech Address......... Suite #325
-  Tech Address......... Marina Del Rey
-  Tech Address......... 90292
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@inmotionhosting.com
-  Tech Phone........... +1.2132584422
-  Tech Fax.............
-  Name Server.......... ns.inmotionhosting.com
-  Name Server.......... ns2.inmotionhosting.com
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   LFP Internet Group, LLC
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BARELYLEGALSUB.COM
+
+   Domain servers in listed order:
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BARELYLEGALSUB.COM
