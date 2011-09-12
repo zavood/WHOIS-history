@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ANIMATIONSFACES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: REDENVELOPE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-mar-2011
-   Creation Date: 20-mar-2011
-   Expiration Date: 20-mar-2012
+   Updated Date: 30-aug-2011
+   Creation Date: 13-mar-1999
+   Expiration Date: 13-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:05:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:05:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... redenvelope.com
+  Creation Date........ 1999-03-13
+  Registration Date.... 2011-08-31
+  Expiry Date.......... 2014-03-14
+  Organisation Name.... Proflowers
+  Organisation Address. 5005 Wateridge Vista Drive
+  Organisation Address. Suite 200
+  Organisation Address. San Diego
+  Organisation Address. 92121
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Proflowers .
+  Admin Address........ 5005 Wateridge Vista Drive
+  Admin Address........ Suite 200
+  Admin Address........ San Diego
+  Admin Address........ 92121
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... DomainNames@proflowers.com
+  Admin Phone.......... +1.8587292800
+  Admin Fax............ +1.8587846923
+
+Tech Name............ Proflowers .
+  Tech Address......... 5005 Wateridge Vista Drive
+  Tech Address......... Suite 200
+  Tech Address......... San Diego
+  Tech Address......... 92121
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... DomainNames@proflowers.com
+  Tech Phone........... +1.8587292800
+  Tech Fax............. +1.8587846923
+  Name Server.......... PDNS5.ULTRADNS.INFO
+  Name Server.......... PDNS1.ULTRADNS.NET
+  Name Server.......... PDNS4.ULTRADNS.ORG
+  Name Server.......... PDNS2.ULTRADNS.NET
+  Name Server.......... PDNS6.ULTRADNS.CO.UK
+  Name Server.......... PDNS3.ULTRADNS.ORG
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ANIMATIONSFACES.COM
-
-   Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ANIMATIONSFACES.COM
