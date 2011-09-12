@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2380722-LROR
+Domain Name:SSRA.ORG
+Created On:09-Nov-1998 05:00:00 UTC
+Last Updated On:22-Sep-2010 08:31:49 UTC
+Expiration Date:08-Nov-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22719266-NSI
+Registrant Name:Swedish Street Rod Association
+Registrant Organization:Swedish Street Rod Association
+Registrant Street1:Sundsvall, Vnorrland 85234
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sundsvall
+Registrant State/Province:Vnorrland
+Registrant Postal Code:85234
+Registrant Country:SE
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:registry@CONNECTION.SE
+Admin ID:22149390-NSI
+Admin Name:Jonas Stoltz
+Admin Organization:Swedish Connection Broadview i Kramfors AB
+Admin Street1:Skonsbergsvagen 3
+Admin Street2:
+Admin Street3:
+Admin City:Sundsvall
+Admin State/Province:
+Admin Postal Code:S-85641
+Admin Country:SE
+Admin Phone:+46.60616750
+Admin Phone Ext.:
+Admin FAX:+46.60175821
+Admin FAX Ext.:
+Admin Email:registry@connection.se
+Tech ID:22149390-NSI
+Tech Name:Jonas Stoltz
+Tech Organization:Swedish Connection Broadview i Kramfors AB
+Tech Street1:Skonsbergsvagen 3
+Tech Street2:
+Tech Street3:
+Tech City:Sundsvall
+Tech State/Province:
+Tech Postal Code:S-85641
+Tech Country:SE
+Tech Phone:+46.60616750
+Tech Phone Ext.:
+Tech FAX:+46.60175821
+Tech FAX Ext.:
+Tech Email:registry@connection.se
+Name Server:CONNECTION.SE
+Name Server:DNS1.TELIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

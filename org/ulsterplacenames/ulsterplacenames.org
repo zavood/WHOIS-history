@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85769478-LROR
+Domain Name:ULSTERPLACENAMES.ORG
+Created On:19-Apr-2002 15:34:14 UTC
+Last Updated On:14-Apr-2011 17:01:32 UTC
+Expiration Date:19-Apr-2012 15:34:14 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuJvTramPjvvptFX
+Registrant Name:The Ulster Place-Name Society
+Registrant Organization:The Ulster Place-Name Society
+Registrant Street1:Celtic Studies
+Registrant Street2:School of Modern Languages
+Registrant Street3:
+Registrant City:Belfast
+Registrant State/Province:Belfast
+Registrant Postal Code:bt71nn
+Registrant Country:GB
+Registrant Phone:+1.08712309301
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cathrynwaggett@hotmail.com
+Admin ID:tuJvTramPjvvptFX
+Admin Name:The Ulster Place-Name Society
+Admin Organization:The Ulster Place-Name Society
+Admin Street1:Celtic Studies
+Admin Street2:School of Modern Languages
+Admin Street3:
+Admin City:Belfast
+Admin State/Province:Belfast
+Admin Postal Code:bt71nn
+Admin Country:GB
+Admin Phone:+1.08712309301
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cathrynwaggett@hotmail.com
+Tech ID:tugI8ZETpqJRTw4I
+Tech Name:Nildram Ltd
+Tech Organization:Nildram Ltd
+Tech Street1:Ardenham Court
+Tech Street2:**
+Tech Street3:
+Tech City:Aylesbury
+Tech State/Province:Bucks HP19 8HX
+Tech Postal Code:**
+Tech Country:GB
+Tech Phone:+1.01296319100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@nildram.net
+Name Server:NS1.LIVEDNS.CO.UK
+Name Server:NS2.LIVEDNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
