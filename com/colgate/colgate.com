@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: COLGATE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS.GREENSOFT.COM
+   Name Server: DNS2.GREENSOFT.COM
+   Status: clientTransferProhibited
+   Updated Date: 30-aug-2011
+   Creation Date: 24-apr-1995
+   Expiration Date: 02-jul-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... colgate.com
+  Creation Date........ 1995-04-24
+  Registration Date.... 2011-08-31
+  Expiry Date.......... 2013-07-03
+  Organisation Name.... Colgate-Palmolive Company
+  Organisation Address. 300 Park Avenue
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10022
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ 300 Park Avenue
+  Admin Address........
+  Admin Address........ New York
+  Admin Address........ 10022
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domadmin@colpal.com
+  Admin Phone.......... +1.2123102335
+  Admin Fax............ +1.2123103406
+
+Tech Name............ Colgate Production Support
+  Tech Address......... 250 Richards Rd., Suite 255
+  Tech Address.........
+  Tech Address......... Kansas City
+  Tech Address......... 64029
+  Tech Address......... MO
+  Tech Address......... UNITED STATES
+  Tech Email........... cpwebmaster@vml.com
+  Tech Phone........... +1.8162830700
+  Tech Fax............. +1.8162830954
+  Name Server.......... DNS2.GREENSOFT.COM
+  Name Server.......... DNS.GREENSOFT.COM
+
+

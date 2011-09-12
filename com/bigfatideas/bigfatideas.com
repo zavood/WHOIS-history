@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: USCHO.COM
+   Domain Name: BIGFATIDEAS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
    Status: clientTransferProhibited
-   Updated Date: 20-sep-2007
-   Creation Date: 12-apr-2000
-   Expiration Date: 12-apr-2013
+   Updated Date: 08-aug-2011
+   Creation Date: 06-feb-2003
+   Expiration Date: 06-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:03:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:04:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about USCHO.COM
-&lt;a href=&quot;http://www.aboutus.org/USCHO.COM&quot;&gt;AboutUs: USCHO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BIGFATIDEAS.COM
+&lt;a href=&quot;http://www.aboutus.org/BIGFATIDEAS.COM&quot;&gt;AboutUs: BIGFATIDEAS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Amateur Sports Marketing, LLC
-   P. O. Box 222
-   Chanhassen, MN 55317
+NESNADNY AND SCHWARTZ
+   10803 Magnolia Drive
+   CLEVELAND, OH 44106
    US
 
-   Domain Name: USCHO.COM
+   Domain Name: BIGFATIDEAS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,24 +94,28 @@ Amateur Sports Marketing, LLC
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Amateur Sports Marketing, LLC		registrar@amateursportsmarketing.com
-      P. O. Box 222
-      Chanhassen, MN 55317
+   Administrative Contact:
+      NESNADNY AND SCHWARTZ		Mark@NSideas.com
+      10803 Magnolia Drive
+      CLEVELAND, OH 44106
       US
-      612-812-3438
+      216 791 7721 fax: 216 791 3654
+
+   Technical Contact:
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
+      US
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 12-Apr-2013.
-   Record created on 12-Apr-2000.
-   Database last updated on 12-Sep-2011 17:53:41 EDT.
+   Record expires on 06-Feb-2013.
+   Record created on 06-Feb-2003.
+   Database last updated on 12-Sep-2011 17:54:10 EDT.
 
    Domain servers in listed order:
 
-   NS0.DNSMADEEASY.COM
-   NS1.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
+   NS1.MEDIATEMPLE.NET          64.207.128.246
+   NS2.MEDIATEMPLE.NET          70.32.65.137
 
 

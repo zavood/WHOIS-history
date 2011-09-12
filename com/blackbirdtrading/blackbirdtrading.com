@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: USCHO.COM
+   Domain Name: BLACKBIRDTRADING.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NS1.AFFINITY.COM
+   Name Server: NS2.AFFINITY.COM
    Status: clientTransferProhibited
-   Updated Date: 20-sep-2007
-   Creation Date: 12-apr-2000
-   Expiration Date: 12-apr-2013
+   Updated Date: 29-jan-2009
+   Creation Date: 31-jan-2000
+   Expiration Date: 31-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:03:34 UTC &lt;&lt;&lt;
 
@@ -77,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about USCHO.COM
-&lt;a href=&quot;http://www.aboutus.org/USCHO.COM&quot;&gt;AboutUs: USCHO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BLACKBIRDTRADING.COM
+&lt;a href=&quot;http://www.aboutus.org/BLACKBIRDTRADING.COM&quot;&gt;AboutUs: BLACKBIRDTRADING.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Amateur Sports Marketing, LLC
-   P. O. Box 222
-   Chanhassen, MN 55317
+lou and karen garon
+   pobox1109
+   dolores, CO 81323-1109
    US
 
-   Domain Name: USCHO.COM
+   Domain Name: BLACKBIRDTRADING.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,24 +94,30 @@ Amateur Sports Marketing, LLC
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Amateur Sports Marketing, LLC		registrar@amateursportsmarketing.com
-      P. O. Box 222
-      Chanhassen, MN 55317
+   Administrative Contact:
+      garon, lou		lsgaron@HOTMAIL.COM
+      garon
+      pobox1109
+      dolores, CO 81323-1109
       US
-      612-812-3438
+      (970) 565-2085 fax: 999 999 9999
+
+   Technical Contact:
+      Support, Technical		support@affinity.com
+      Affinity.com
+      101 Continental Boulevard, 3rd Floor
+      El Segundo, CA 90245
+      US
+      (310) 524-3000 fax: (310) 388-1335
 
 
-   Record expires on 12-Apr-2013.
-   Record created on 12-Apr-2000.
-   Database last updated on 12-Sep-2011 17:53:41 EDT.
+   Record expires on 31-Jan-2012.
+   Record created on 31-Jan-2000.
+   Database last updated on 12-Sep-2011 17:53:59 EDT.
 
    Domain servers in listed order:
 
-   NS0.DNSMADEEASY.COM
-   NS1.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
+   NS1.AFFINITY.COM
+   NS2.AFFINITY.COM
 
 

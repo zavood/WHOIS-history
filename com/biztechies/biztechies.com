@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: BIZTECHIES.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 23-aug-2011
+   Creation Date: 31-aug-2000
+   Expiration Date: 31-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:04:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +52,33 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain biztechies.com:
+  BizTechies, Inc.
+  300 Doe Run Road
+  Harleysville, PA 19438 US
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  BizTechies, Inc.
+  MTM
+  mmakaila@comcast.net
+  300 Doe Run Road
+  Harleysville, PA 19438 US
+  Phone: +1.2158729932
+  Fax:
+
+Record dates:
+  Record created on: 2000-09-01 00:12:49 UTC
+  Record modified on: 2011-08-24 01:47:24 UTC
+  Record expires on: 2012-09-01 UTC
+
+Nameservers:
+  ns2.bluehost.com:
+    69.89.16.4
+  ns1.bluehost.com:
+    74.220.195.31
+
+Note: Automated collection of data from this database is strictly prohibited.
+

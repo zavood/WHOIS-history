@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         ta3.sk
+Admin-id            TRON-0005
+Admin-name          Astronomicky ustav SAV
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       166529
+Admin-address       Slovenska akademia vied, Tatranska Lomnica 059 60
+Admin-telephone     052/7879130, 052/7879111
+Tech-id             TRON-0005
+Tech-name           Astronomicky ustav SAV
+Tech-org.-ID        166529
+Tech-address        Slovenska akademia vied, Tatranska Lomnica 059 60
+Tech-telephone      052/7879130, 052/7879111
+dns_name            auriga.ta3.sk
+dns_ip              193.87.1.1
+dns_name            sun.uakom.sk
+dns_name            cygnus.ta3.sk
+dns_ip              147.213.216.2
+Last-update         2011-05-13
+Valid-date          2012-06-01
+Domain-status       DOM_OK
+

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: USCHO.COM
+   Domain Name: BIGDOGSBREWS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: DNS1.BANNERVIEW.COM
+   Name Server: DNS2.BANNERVIEW.COM
    Status: clientTransferProhibited
-   Updated Date: 20-sep-2007
-   Creation Date: 12-apr-2000
-   Expiration Date: 12-apr-2013
+   Updated Date: 10-oct-2006
+   Creation Date: 22-jul-2003
+   Expiration Date: 22-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:03:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:03:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about USCHO.COM
-&lt;a href=&quot;http://www.aboutus.org/USCHO.COM&quot;&gt;AboutUs: USCHO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BIGDOGSBREWS.COM
+&lt;a href=&quot;http://www.aboutus.org/BIGDOGSBREWS.COM&quot;&gt;AboutUs: BIGDOGSBREWS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Amateur Sports Marketing, LLC
-   P. O. Box 222
-   Chanhassen, MN 55317
+Big Dog's Hospitality Group
+   6354 W. Sahara Ave
+   Las Vegas, NV 89146
    US
 
-   Domain Name: USCHO.COM
+   Domain Name: BIGDOGSBREWS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,24 +94,29 @@ Amateur Sports Marketing, LLC
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Amateur Sports Marketing, LLC		registrar@amateursportsmarketing.com
-      P. O. Box 222
-      Chanhassen, MN 55317
+   Administrative Contact:
+      SNYDER, ROBERT		rsnyder@bdhginc.com
+      BDHGINC
+      4547 N. Rancho Drive, Suite A
+      Las Vegas, NV 89130
       US
-      612-812-3438
+      702-368-3715 fax: 702-368-3723
+
+   Technical Contact:
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
+      US
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 12-Apr-2013.
-   Record created on 12-Apr-2000.
-   Database last updated on 12-Sep-2011 17:53:41 EDT.
+   Record expires on 22-Jul-2013.
+   Record created on 22-Jul-2003.
+   Database last updated on 12-Sep-2011 17:53:02 EDT.
 
    Domain servers in listed order:
 
-   NS0.DNSMADEEASY.COM
-   NS1.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
+   DNS2.BANNERVIEW.COM          24.234.161.51
+   DNS1.BANNERVIEW.COM          208.57.195.117
 
 

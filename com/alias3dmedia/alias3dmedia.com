@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: ALIAS3DMEDIA.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 27-may-2011
+   Creation Date: 23-jul-2008
+   Expiration Date: 23-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name: alias3dmedia.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Venkadesan Dharshan
+109/1,Bandaranayaka Mawatha
+Colombo-12
+Colombo, Western 00600
+Sri Lanka
+
+Administrative Contact:
+Venkadesan Dharshan
+109/1,Bandaranayaka Mawatha
+Colombo-12
+Colombo, Western 00600
+Sri Lanka
+londoninfotech@yahoo.com
++094 779174626
+
+Technical Contact:
+Venkadesan Dharshan
+109/1,Bandaranayaka Mawatha
+Colombo-12
+Colombo, Western 00600
+Sri Lanka
+londoninfotech@yahoo.com
++094 779174626
+
+Record expires on 2012/07/23 UTC
+Record created on 2008/07/23 UTC
+
+Domain servers in listed order:
+ns51.domaincontrol.com
+ns52.domaincontrol.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:01:06 PST &lt;&lt;&lt;
+

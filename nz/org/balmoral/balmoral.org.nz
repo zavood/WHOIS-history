@@ -1,0 +1,62 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-13T10:04:58+12:00
+domain_name: balmoral.org.nz
+query_status: 200 Active
+domain_dateregistered: 2007-11-09T12:20:15+13:00
+domain_datebilleduntil: 2011-11-09T12:20:15+13:00
+domain_datelastmodified: 2011-06-30T06:03:55+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Instra Corporation (www.instra.com)
+registrar_address1: GPO Box 988
+registrar_city: Melbourne
+registrar_province: Victoria
+registrar_postalcode: 3001
+registrar_country: AU (AUSTRALIA)
+registrar_phone: +61 3 97831800
+registrar_fax: +61 3 97836844
+registrar_email: admin@instra.co.nz
+%
+registrant_contact_name: TimBulkeley
+registrant_contact_address1: 74 Marsden Ave
+registrant_contact_city: Auckland
+registrant_contact_country: AU (AUSTRALIA)
+registrant_contact_phone: +61 9526034 4
+registrant_contact_email: tim@bible.gen.nz
+%
+admin_contact_name: Tim Bulkeley
+admin_contact_address1: 74 Marsden Ave
+admin_contact_city: Auckland
+admin_contact_country: AU (AUSTRALIA)
+admin_contact_phone: +61 9526034 4
+admin_contact_email: tim@bible.gen.nz
+%
+technical_contact_name: Tim Bulkeley
+technical_contact_address1: 74 Marsden Ave
+technical_contact_city: Auckland
+technical_contact_country: AU (AUSTRALIA)
+technical_contact_phone: +61 9526034 4
+technical_contact_email: tim@bible.gen.nz
+%
+ns_name_01: dns1.midphase.com
+ns_name_02: dns2.midphase.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

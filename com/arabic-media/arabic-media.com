@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: ARABIC-MEDIA.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-apr-2010
+   Creation Date: 22-oct-2003
+   Expiration Date: 22-oct-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:03:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name: arabic-media.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Saleh Al-Hakkak c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+
+Administrative Contact:
+Saleh Al-Hakkak c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Technical Contact:
+Saleh Al-Hakkak c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Record expires on 2015/10/22 UTC
+Record created on 2003/10/22 UTC
+
+Domain servers in listed order:
+ns25.domaincontrol.com
+ns26.domaincontrol.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:01:06 PST &lt;&lt;&lt;
+

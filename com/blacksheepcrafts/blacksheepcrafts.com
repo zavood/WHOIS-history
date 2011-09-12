@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: BLACKSHEEPCRAFTS.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS-CANADA.TOPDNS.COM
+   Name Server: NS-UK.TOPDNS.COM
+   Name Server: NS-USA.TOPDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-jul-2011
+   Creation Date: 28-jun-2011
+   Expiration Date: 28-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
 
@@ -51,3 +52,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain blacksheepcrafts.com
+
+Date Registered: 2011-6-28
+Date Modified: 2011-7-3
+Expiry Date: 2012-6-28
+
+DNS1: ns-canada.topdns.com
+DNS2: ns-uk.topdns.com
+DNS3: ns-usa.topdns.com
+
+Registrant
+    Private Whois blacksheepcrafts.com
+    Private Whois blacksheepcrafts.com  fcja7a14e09be4eb69dc@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blacksheepcrafts.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois blacksheepcrafts.com
+    Private Whois blacksheepcrafts.com  s0c89be4e09be4ec0a02@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blacksheepcrafts.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois blacksheepcrafts.com
+    Private Whois blacksheepcrafts.com  t50n9334e09be4ebfa68@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blacksheepcrafts.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

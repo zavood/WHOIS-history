@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: ADOBECSLIVE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: ADOBE-DNS-01.ADOBE.COM
+   Name Server: ADOBE-DNS-02.ADOBE.COM
+   Name Server: ADOBE-DNS-03.ADOBE.COM
+   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Status: clientTransferProhibited
+   Updated Date: 13-jun-2011
+   Creation Date: 10-mar-2010
+   Expiration Date: 10-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:46 UTC &lt;&lt;&lt;
 
@@ -51,3 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... adobecslive.com
+  Creation Date........ 2010-03-11
+  Registration Date.... 2010-03-11
+  Expiry Date.......... 2012-03-11
+  Organisation Name.... Adobe Systems Incorporated
+  Organisation Address. 345 Park Avenue
+  Organisation Address.
+  Organisation Address. San Jose
+  Organisation Address. 95110
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... DNS Admin
+  Admin Address........ 345 Park Avenue
+  Admin Address........
+  Admin Address........ San Jose
+  Admin Address........ 95110
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... dns-admin@adobe.com
+  Admin Phone.......... +1.4085366000
+  Admin Fax............
+
+Tech Name............ DNS Tech
+  Tech Address......... 345 Park Avenue
+  Tech Address.........
+  Tech Address......... San Jose
+  Tech Address......... 95110
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dns-tech@adobe.com
+  Tech Phone........... +1.4085366000
+  Tech Fax.............
+  Name Server.......... adobe-dns-01.adobe.com
+  Name Server.......... adobe-dns-02.adobe.com
+  Name Server.......... adobe-dns-03.adobe.com
+  Name Server.......... adobe-dns-04.adobe.com
+
+
