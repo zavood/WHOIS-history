@@ -1,0 +1,60 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       simnet.is
+descr:        S&iacute;minn hf
+descr:        v/Austurv&ouml;ll
+descr:        IS-150 Reykjav&iacute;k
+admin-c:      SH292-IS
+tech-c:       LH1957-IS
+zone-c:       OTA1-IS
+billing-c:    LIH5-IS
+nserver:      ns2.simnet.is
+nserver:      ns1.simnet.is
+created:      May 22 1998
+expires:      May 22 2012
+source:       ISNIC
+
+role:         S&iacute;minn hf
+address:      A&eth;alb&oacute;khald/m&oacute;ttaka reikninga
+address:      &Aacute;rm&uacute;la 25
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 550 7480
+fax-no:       +354 511 7070
+e-mail:       margretb@siminn.is
+nic-hdl:      LIH5-IS
+created:      September 30 2002
+source:       ISNIC
+
+role:         Landsiminn Hostmaster
+address:      &Aacute;rm&uacute;li 25
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 550 6000
+e-mail:       hostmaster@simi.is
+nic-hdl:      LH1957-IS
+created:      January 12 1999
+source:       ISNIC
+
+role:         S&iacute;minn hf
+address:      Vefdeild
+address:      &Aacute;rm&uacute;la 25
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 840 7117
+e-mail:       halldorhar@siminn.is
+nic-hdl:      SH292-IS
+created:      May 18 2007
+source:       ISNIC
+
+role:         S&iacute;mnet Hostmaster
+address:      S&iacute;minn hf - Gagnanet
+address:      &Aacute;rm&uacute;la 25
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 550 6000
+e-mail:       hjalp@siminn.is
+nic-hdl:      OTA1-IS
+created:      August 27 1998
+source:       ISNIC
+
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98256595-LROR
+Domain Name:WONDERFUSION.ORG
+Created On:14-Jun-2003 18:28:03 UTC
+Last Updated On:28-Jan-2011 03:16:13 UTC
+Expiration Date:14-Jun-2013 18:28:03 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuWWnKnLHHunhBoc
+Registrant Name:Domain Administrator
+Registrant Organization:WonderFusion Corporation
+Registrant Street1:511 Sixth Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10011
+Registrant Country:US
+Registrant Phone:+1.3474438896
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain-mgmt@wonderfusion.com
+Admin ID:tu95FlwdlKghsRN1
+Admin Name:Domain Administrator
+Admin Organization:WonderFusion Corporation
+Admin Street1:511 Sixth Avenue
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10011
+Admin Country:US
+Admin Phone:+1.3474438896
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain-mgmt@wonderfusion.com
+Tech ID:tuqgDdmwFRTr5rZW
+Tech Name:Domain Administrator
+Tech Organization:WonderFusion Corporation
+Tech Street1:511 Sixth Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10011
+Tech Country:US
+Tech Phone:+1.3474438896
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-mgmt@wonderfusion.com
+Name Server:NS-1455.AWSDNS-53.ORG
+Name Server:NS-608.AWSDNS-12.NET
+Name Server:NS-315.AWSDNS-39.COM
+Name Server:NS-1747.AWSDNS-26.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
