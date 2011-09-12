@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHAREMONSTERS.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: LIKEGROUPON.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS.NOCDIRECT.COM
+   Name Server: NS2.NOCDIRECT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2010
-   Expiration Date: 10-aug-2012
+   Updated Date: 05-jun-2011
+   Creation Date: 02-aug-2010
+   Expiration Date: 02-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:36:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:35:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name: likegroupon.com
+Registered at http://www.dynadot.com
 
 Registrant:
-   Christopher Maher
+Jamerson Rosa c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHAREMONSTERS.NET
+Administrative Contact:
+Jamerson Rosa c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
 
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+Technical Contact:
+Jamerson Rosa c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Record expires on 2012/08/02 UTC
+Record created on 2010/08/02 UTC
+
+Domain servers in listed order:
+ns.nocdirect.com
+ns2.nocdirect.com
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHAREMONSTERS.NET
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:31:06 PST &lt;&lt;&lt;
+

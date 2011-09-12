@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHAREMONSTERS.NET
+   Domain Name: LIKEBOOKNOW.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2010
-   Expiration Date: 10-aug-2012
+   Updated Date: 29-dec-2010
+   Creation Date: 26-nov-2010
+   Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:36:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:34:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Christopher Maher
+   Suzhou New Certury Book Store
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHAREMONSTERS.NET
+   Domain Name: LIKEBOOKNOW.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS1.PIPEDNS.COM
+      NS2.PIPEDNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHAREMONSTERS.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=LIKEBOOKNOW.COM

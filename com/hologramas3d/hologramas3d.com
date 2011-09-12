@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHAREMONSTERS.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2010
-   Expiration Date: 10-aug-2012
+   Domain Name: HOLOGRAMAS3D.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS18.RZONE.DE
+   Name Server: SHADES11.RZONE.DE
+   Status: ok
+   Updated Date: 10-apr-2011
+   Creation Date: 09-apr-2007
+   Expiration Date: 09-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:36:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:34:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
+Owner Contact:
+   Miguel Cervantes Sanchez
 
-Registrant:
-   Christopher Maher
+   Gran Via Corts Catalanes,989 7
+   Barcelona, 8020, ES
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHAREMONSTERS.NET
+   Punycode Name:  hologramas3d.com
+   Unicode Name:   hologramas3d.com
+
+   Admin Contact
+      Miguel Cervantes Sanchez
+
+      24708mcs@comb.es
+      Gran Via Corts Catalanes,989 7
+      Barcelona, 8020, ES
+      phone: +34 69322585
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-04-09 13:11:17
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+
+      shades11.rzone.de
+      docks18.rzone.de
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHAREMONSTERS.NET
+
