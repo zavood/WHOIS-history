@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
+   Domain Name: CREDITBUBBLESTOCKS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
+   Name Server: NS61.WORLDNIC.COM
+   Name Server: NS62.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Updated Date: 11-mar-2011
+   Creation Date: 10-may-2007
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:38:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:37:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about UKRPACK.NET
-&lt;a href=&quot;http://www.aboutus.org/UKRPACK.NET&quot;&gt;AboutUs: UKRPACK.NET &lt;/a&gt;
+Visit AboutUs.org for more information about CREDITBUBBLESTOCKS.COM
+&lt;a href=&quot;http://www.aboutus.org/CREDITBUBBLESTOCKS.COM&quot;&gt;AboutUs: CREDITBUBBLESTOCKS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-INFOCOM
-   10, Volodymyrska Str., Kiev, Ukraine
-   Kiev 252025
-   UA
+CREDITBUBBLESTOCKS.COM
+   ATTN CREDITBUBBLESTOCKS.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: UKRPACK.NET
+
+   Domain Name: CREDITBUBBLESTOCKS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,30 +96,29 @@ INFOCOM
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Milutin, Alexander E		amilutin@UKRPACK.NET
-      Infocom
-      8, Volodymyrska Str.
-      Kiev, 01025 01025
-      UA
-      +380 44 230 5200 fax: +380 44 230 5206
-
-   Technical Contact:
-      INFOCOM		hostmaster@UKRPACK.NET
-      10, Volodymyrska Str.
-      Kiev, 252025
-      UA
-      +380 44 245 4642 fax: +380 44 228 7340
+   Administrative Contact, Technical Contact:
+      CREDITBUBBLESTOCKS.COM		q55686am754@networksolutionsprivateregistration.com
+      ATTN CREDITBUBBLESTOCKS.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
+      US
+      570-708-8780
 
 
-   Record expires on 05-Nov-2015.
-   Record created on 06-Nov-1996.
-   Database last updated on 12-Sep-2011 02:28:18 EDT.
+   Record expires on 10-May-2012.
+   Record created on 10-May-2007.
+   Database last updated on 12-Sep-2011 02:28:00 EDT.
 
    Domain servers in listed order:
 
-   ALPHASITE.UKRPACK.NET        195.230.150.70
-   RELAY1.UKRPACK.NET           195.230.150.86
-   NS.LUCKY.NET                 193.193.193.100
+   NS61.WORLDNIC.COM            205.178.190.31
+   NS62.WORLDNIC.COM            206.188.198.31
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

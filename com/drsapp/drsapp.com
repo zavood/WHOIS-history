@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
+   Domain Name: DRSAPP.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
-   Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Name Server: NS1.PENDINGRENEWALDELETION.COM
+   Name Server: NS2.PENDINGRENEWALDELETION.COM
+   Status: redemptionPeriod
+   Updated Date: 23-aug-2011
+   Creation Date: 15-jul-2004
+   Expiration Date: 15-jul-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:38:04 UTC &lt;&lt;&lt;
 
@@ -75,50 +74,4 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about UKRPACK.NET
-&lt;a href=&quot;http://www.aboutus.org/UKRPACK.NET&quot;&gt;AboutUs: UKRPACK.NET &lt;/a&gt;
-
-
-
-
-Registrant:
-INFOCOM
-   10, Volodymyrska Str., Kiev, Ukraine
-   Kiev 252025
-   UA
-
-   Domain Name: UKRPACK.NET
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact:
-      Milutin, Alexander E		amilutin@UKRPACK.NET
-      Infocom
-      8, Volodymyrska Str.
-      Kiev, 01025 01025
-      UA
-      +380 44 230 5200 fax: +380 44 230 5206
-
-   Technical Contact:
-      INFOCOM		hostmaster@UKRPACK.NET
-      10, Volodymyrska Str.
-      Kiev, 252025
-      UA
-      +380 44 245 4642 fax: +380 44 228 7340
-
-
-   Record expires on 05-Nov-2015.
-   Record created on 06-Nov-1996.
-   Database last updated on 12-Sep-2011 02:28:18 EDT.
-
-   Domain servers in listed order:
-
-   ALPHASITE.UKRPACK.NET        195.230.150.70
-   RELAY1.UKRPACK.NET           195.230.150.86
-   NS.LUCKY.NET                 193.193.193.100
-
-
+No match for &quot;DRSAPP.COM&quot;.
