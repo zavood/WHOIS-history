@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         eventzelt.at
+registrant:     AW7988772-NICAT
+admin-c:        MHNW7988773-NICAT
+tech-c:         MHNW7988773-NICAT
+nserver:        ns.eventzelt.at
+remarks:        213.163.227.162
+nserver:        ns1.netzlabor.com
+remarks:        194.208.119.122
+changed:        20110504 20:04:50
+source:         AT-DOM
+
+personname:     Alexander Hammerer
+organization:   AHA Werbeagentur
+street address: Engelgasse 798
+postal code:    6863
+city:           Egg
+country:        Austria
+phone:          +436641113060
+fax-no:         +4355121111
+e-mail:         info@aha-sport.at
+nic-hdl:        AW7988772-NICAT
+changed:        20110504 20:04:50
+source:         AT-DOM
+
+personname:     Stefan Meusburger
+organization:   meuse. Hardware.Netzwerk.Webdesign
+street address: Platz 41
+postal code:    6870
+city:           Bezau
+country:        Austria
+phone:          +436641598888
+fax-no:         +43551430194
+e-mail:         stefan@meuse.at
+nic-hdl:        MHNW7988773-NICAT
+changed:        20110504 20:04:50
+source:         AT-DOM
+

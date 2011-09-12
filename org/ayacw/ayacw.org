@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105934421-LROR
+Domain Name:AYACW.ORG
+Created On:22-Mar-2005 05:14:08 UTC
+Last Updated On:05-Apr-2011 05:41:11 UTC
+Expiration Date:22-Mar-2012 05:14:08 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuYY3mhxeN1Cl14P
+Registrant Name:Kim Woo Kyung
+Registrant Organization:AYA
+Registrant Street1:Seocho-dong Seocho-gu
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seoul
+Registrant State/Province:
+Registrant Postal Code:137070
+Registrant Country:KR
+Registrant Phone:+82.25860906
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wkk0519@hanmail.net
+Admin ID:tuYY3mhxeN1Cl14P
+Admin Name:Kim Woo Kyung
+Admin Organization:AYA
+Admin Street1:Seocho-dong Seocho-gu
+Admin Street2:
+Admin Street3:
+Admin City:Seoul
+Admin State/Province:
+Admin Postal Code:137070
+Admin Country:KR
+Admin Phone:+82.25860906
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wkk0519@hanmail.net
+Tech ID:tu4SQiw4r8n8rVaL
+Tech Name:blueweb blueweb
+Tech Organization:blueweb
+Tech Street1:Yeoksam-dong 607-10
+Tech Street2:#5F Miele Building
+Tech Street3:Gangnam-gu
+Tech City:Seoul
+Tech State/Province:kr
+Tech Postal Code:135-080
+Tech Country:KR
+Tech Phone:+82.234291901
+Tech Phone Ext.:
+Tech FAX:+82.25673400
+Tech FAX Ext.:
+Tech Email:tdomain@blueweb.co.kr
+Name Server:NS5.BLUEWEB.CO.KR
+Name Server:NS4.BLUEWEB.CO.KR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

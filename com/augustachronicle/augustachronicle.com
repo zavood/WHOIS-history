@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WAGNERSPRAYTECH.COM
+   Domain Name: AUGUSTACHRONICLE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: DEVILS.GROUPZ.NET
+   Name Server: DUKE.GROUPZ.NET
+   Name Server: ZNET.GROUPZ.NET
    Status: clientTransferProhibited
-   Updated Date: 15-feb-2011
-   Creation Date: 23-apr-1996
-   Expiration Date: 24-apr-2016
+   Updated Date: 18-mar-2011
+   Creation Date: 01-apr-1996
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:53:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:54:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +75,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about WAGNERSPRAYTECH.COM
-&lt;a href=&quot;http://www.aboutus.org/WAGNERSPRAYTECH.COM&quot;&gt;AboutUs: WAGNERSPRAYTECH.COM &lt;/a&gt;
+Visit AboutUs.org for more information about AUGUSTACHRONICLE.COM
+&lt;a href=&quot;http://www.aboutus.org/AUGUSTACHRONICLE.COM&quot;&gt;AboutUs: AUGUSTACHRONICLE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Wagner Spray Tech Corporation
-   1770 Fernbrook Lane
-   Plymouth, MN 55447-4661
+Southeastern Newspapers Company, LLC
+   725 Broad Street
+   P.O. Box 936
+   Augusta, GA 30903
    US
 
-   Domain Name: WAGNERSPRAYTECH.COM
+   Domain Name: AUGUSTACHRONICLE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +97,22 @@ Wagner Spray Tech Corporation
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Wagner Spray Tech Corporation		WagAdmin@wagnerspraytech.com
-      1770 Fernbrook Lane
-      Plymouth, MN 55447-4661
+      Southeastern Newspapers Company, LLC		domain.admin@morris.com
+      725 Broad Street
+      P.O. Box 936
+      Augusta, GA 30903
       US
-      763-553-7000 fax: 763-553-7070
+      706-828-3861
 
 
-   Record expires on 24-Apr-2016.
-   Record created on 23-Apr-1996.
-   Database last updated on 12-Sep-2011 04:44:18 EDT.
+   Record expires on 02-Apr-2012.
+   Record created on 01-Apr-1996.
+   Database last updated on 12-Sep-2011 04:44:01 EDT.
 
    Domain servers in listed order:
 
-   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
-   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+   ZNET.GROUPZ.NET              216.116.230.12
+   DUKE.GROUPZ.NET              216.116.243.133
+   DEVILS.GROUPZ.NET            216.116.243.136
 
 
