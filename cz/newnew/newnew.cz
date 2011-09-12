@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 12 03:38:08 2011
+
+domain:       newnew.cz
+registrant:   SB:S.FI.509
+admin-c:      O.FC.509
+admin-c:      SPIDER.CZ
+nsset:        NSS:SPIDER.CZ:1
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   09.03.2006 11:55:00
+changed:      02.08.2007 12:26:00
+expire:       09.03.2012
+
+contact:      SB:S.FI.509
+name:         Filip Cenek
+address:      Traubova 3
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       cenek@ffa.vutbr.cz
+registrar:    REG-GENREG
+created:      17.10.2005 11:15:00
+
+contact:      O.FC.509
+name:         Filip Cenek
+address:      Traubova 3
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       cenek@ffa.vutbr.cz
+registrar:    REG-GENREG
+created:      17.10.2005 11:05:00
+
+contact:      SPIDER.CZ
+org:          SPIDER.CZ, s.r.o.
+name:         Ladislav Vojt&Atilde;&shy;&Aring;&iexcl;ek
+address:      &Aring;&nbsp;kolsk&Atilde;&iexcl; 7
+address:      Praha 1
+address:      110 00
+address:      CZ
+phone:        +420.246027419
+fax-no:       +420.257211899
+e-mail:       rsd@cznic.net
+registrar:    REG-GRANSY
+created:      10.08.2001 22:13:00
+changed:      10.03.2010 18:21:02
+
+nsset:        NSS:SPIDER.CZ:1
+nserver:      dns1.ns.cz (89.187.134.206)
+nserver:      dns3.ns.cz (89.187.134.160, 2a01:5f0:1005::160)
+nserver:      dns2.ns.cz (86.49.9.203)
+tech-c:       SPIDER
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+changed:      19.04.2010 11:36:08
+
+contact:      SPIDER
+org:          SPIDER.CZ, s.r.o.
+name:         Ladislav Vojt&Atilde;&shy;&Aring;&iexcl;ek
+address:      &Aring;&nbsp;kolsk&Atilde;&iexcl; 7
+address:      Praha 1
+address:      110 00
+address:      CZ
+phone:        +420.246027419
+fax-no:       +420.257211899
+e-mail:       rsd@cznic.net
+registrar:    REG-GRANSY
+created:      01.10.2007 13:10:00
+changed:      10.03.2010 18:24:01
+
+

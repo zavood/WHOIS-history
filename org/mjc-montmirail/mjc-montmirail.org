@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156170136-LROR
+Domain Name:MJC-MONTMIRAIL.ORG
+Created On:19-May-2009 07:14:16 UTC
+Last Updated On:29-Apr-2011 11:46:03 UTC
+Expiration Date:19-May-2012 07:14:16 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-245637
+Registrant Name:MJC MONTMIRAIL
+Registrant Organization:MJC MONTMIRAIL
+Registrant Street1:21 rue de la molotte
+Registrant Street2:
+Registrant Street3:
+Registrant City:MONTMIRAIL
+Registrant State/Province:--
+Registrant Postal Code:51210
+Registrant Country:FR
+Registrant Phone:+33.326420351
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:angelique.merlin635@orange.fr
+Admin ID:CORG-245638
+Admin Name:Georges KRUPA
+Admin Organization:KG INFORMATIQUE
+Admin Street1:7 Place Remy Petit
+Admin Street2:
+Admin Street3:
+Admin City:MONTMIRAIL
+Admin State/Province:--
+Admin Postal Code:51210
+Admin Country:FR
+Admin Phone:+33.326422052
+Admin Phone Ext.:
+Admin FAX:+33.326813448
+Admin FAX Ext.:
+Admin Email:kginformatique@orange.fr
+Tech ID:CORG-245638
+Tech Name:Georges KRUPA
+Tech Organization:KG INFORMATIQUE
+Tech Street1:7 Place Remy Petit
+Tech Street2:
+Tech Street3:
+Tech City:MONTMIRAIL
+Tech State/Province:--
+Tech Postal Code:51210
+Tech Country:FR
+Tech Phone:+33.326422052
+Tech Phone Ext.:
+Tech FAX:+33.326813448
+Tech FAX Ext.:
+Tech Email:kginformatique@orange.fr
+Name Server:SDNS.NETIM.NET
+Name Server:NS4.NETIM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
