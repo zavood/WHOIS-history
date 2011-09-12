@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 18:58:50 (BRT -03:00)
+
+domain:      meodesign.com.br
+owner:       Anunciart Comunica&ccedil;&atilde;o Visual Ltda ME
+ownerid:     005.973.940/0001-80
+responsible: Max Emiliandro de Oliveira
+country:     BR
+owner-c:     MEO40
+admin-c:     MEO40
+tech-c:      MEO40
+billing-c:   MEO40
+nserver:     ns1.meodesign.com.br 187.61.61.241
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.meodesign.com.br 187.61.14.179
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20050412 #2096575
+expires:     20120412
+changed:     20110428
+status:      published
+
+nic-hdl-br:  MEO40
+person:      Max Emiliandro de Oliveira
+e-mail:      data@data4you.com.br
+created:     20030925
+changed:     20110323
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
