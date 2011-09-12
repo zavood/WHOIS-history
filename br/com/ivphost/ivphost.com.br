@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:35:08 (BRT -03:00)
+
+domain:      ivphost.com.br
+owner:       Grupo XBlade Produ&ccedil;&otilde;es e Eventos
+ownerid:     070.188.916-04
+country:     BR
+owner-c:     MAOHO3
+admin-c:     MAOHO3
+tech-c:      MAOHO3
+billing-c:   MAOHO3
+nserver:     ns1.ivphost.com.br 67.23.241.242
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.ivphost.com.br 67.23.241.243
+nsstat:      20110909 AA
+nslastaa:    20110909
+saci:        yes
+created:     20110209 #7891807
+expires:     20120209
+changed:     20110216
+status:      published
+
+nic-hdl-br:  MAOHO3
+person:      Mauricio de Oliveira Honorio
+e-mail:      mauricio-honorio@uol.com.br
+created:     20080114
+changed:     20110204
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

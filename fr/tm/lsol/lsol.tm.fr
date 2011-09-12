@@ -1,0 +1,77 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lsol.tm.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lsol.tm.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LS2994-FRNIC
+admin-c:     DC641-FRNIC
+tech-c:      DC641-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1009-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 25/04
+created:     25/04/1996
+last-update: 06/03/2009
+source:      FRNIC
+
+ns-list:     NSL1009-FRNIC
+nserver:     server.lsol.tm.fr [194.206.215.1]
+nserver:     bow.rain.fr [194.51.3.49]
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     DC641-FRNIC
+type:        PERSON
+contact:     Didier Cros
+address:     Lincoln Systems
+address:     38, rue Vauthier
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 46 99 36 16
+fax-no:      +33 1 46 99 36 20
+e-mail:      dcr@lsol.tm.fr
+notify:      dcr@lsol.tm.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LS2994-FRNIC
+type:        ORGANIZATION
+contact:     Lincoln Systems
+address:     38, rue Vauthier
+address:     92774 Boulogne-Billancourt Cedex
+country:     FR
+changed:     06/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
