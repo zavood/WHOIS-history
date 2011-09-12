@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D38293312-LROR
+Domain Name:UUCROTON.ORG
+Created On:24-Oct-2000 01:47:22 UTC
+Last Updated On:20-Jul-2011 10:16:16 UTC
+Expiration Date:24-Oct-2012 01:47:22 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38722809
+Registrant Name:Andrew Denler
+Registrant Organization:Unitarian Universalist Fellowship of Briarcliff, Croton and Ossining
+Registrant Street1:8 Weeks Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baldwin Place
+Registrant State/Province:New York
+Registrant Postal Code:10505
+Registrant Country:US
+Registrant Phone:+1.9146285132
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:andy@denler.com
+Admin ID:CR38722811
+Admin Name:Rita Ruotolo
+Admin Organization:UUBCO
+Admin Street1:575 8th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10018
+Admin Country:US
+Admin Phone:+1.9027492701
+Admin Phone Ext.:
+Admin FAX:+1.9027492701
+Admin FAX Ext.:
+Admin Email:administrator@uucroton.org
+Tech ID:CR38722810
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:PDNS01.DOMAINCONTROL.COM
+Name Server:PDNS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
