@@ -1,0 +1,157 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: DORTMUND-IMMOBILIEN.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: B.NS14.NET
+   Name Server: C.NS14.NET
+   Name Server: D.NS14.NET
+   Name Server: NS1.HOODY.DE
+   Name Server: NS2.HOODY.DE
+   Status: clientTransferProhibited
+   Updated Date: 24-mar-2011
+   Creation Date: 23-mar-2003
+   Expiration Date: 23-mar-2012
+
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:48:01 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 188.72.227.95
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain dortmund-immobilien.net
+% Timestamp: 2011-09-12 04:48:40
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      dortmund-immobilien.net
+status:                      LOCK
+owner-c:                     LULU-10352542
+admin-c:                     LULU-10352542
+tech-c:                      LULU-10045063
+zone-c:                      LULU-10045063
+nserver:                     ns1.hoody.de
+nserver:                     ns2.hoody.de
+nserver:                     b.ns14.net
+nserver:                     c.ns14.net
+nserver:                     d.ns14.net
+created:                     2003-03-24 00:12:03
+expire:                      2012-03-23 23:12:03 (registry time)
+changed:                     2011-03-25 06:56:44
+
+[owner-c] handle:            10352542
+[owner-c] type:              PERSON
+[owner-c] title:
+[owner-c] fname:             Boris
+[owner-c] lname:             Edelhoff
+[owner-c] org:               HOODY GmbH
+[owner-c] address:           Leegeweg 8
+[owner-c] city:              Dortmund
+[owner-c] pcode:             44143
+[owner-c] country:           DE
+[owner-c] state:             NRW
+[owner-c] phone:             +49-231-2228566
+[owner-c] fax:               +49-231-2228567
+[owner-c] email:             hostmaster@hoody-gmbh.de
+[owner-c] protection:        B
+[owner-c] updated:           2010-09-23 12:45:17
+
+[admin-c] handle:            10352542
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Boris
+[admin-c] lname:             Edelhoff
+[admin-c] org:               HOODY GmbH
+[admin-c] address:           Leegeweg 8
+[admin-c] city:              Dortmund
+[admin-c] pcode:             44143
+[admin-c] country:           DE
+[admin-c] state:             NRW
+[admin-c] phone:             +49-231-2228566
+[admin-c] fax:               +49-231-2228567
+[admin-c] email:             hostmaster@hoody-gmbh.de
+[admin-c] protection:        B
+[admin-c] updated:           2010-09-23 12:45:17
+
+[tech-c] handle:             10045063
+[tech-c] type:               PERSON
+[tech-c] title:              Dr.
+[tech-c] fname:              Stefan
+[tech-c] lname:              Konarski
+[tech-c] org:                HOODY GmbH
+[tech-c] address:            Leegeweg 8
+[tech-c] city:               Dortmund
+[tech-c] pcode:              44143
+[tech-c] country:            DE
+[tech-c] state:              DE
+[tech-c] phone:              +49-231-2228566
+[tech-c] fax:                +49-231-2228567
+[tech-c] email:              s.konarski@hoody.de
+[tech-c] protection:         B
+[tech-c] updated:            2010-09-21 17:37:33
+
+[zone-c] handle:             10045063
+[zone-c] type:               PERSON
+[zone-c] title:              Dr.
+[zone-c] fname:              Stefan
+[zone-c] lname:              Konarski
+[zone-c] org:                HOODY GmbH
+[zone-c] address:            Leegeweg 8
+[zone-c] city:               Dortmund
+[zone-c] pcode:              44143
+[zone-c] country:            DE
+[zone-c] state:              DE
+[zone-c] phone:              +49-231-2228566
+[zone-c] fax:                +49-231-2228567
+[zone-c] email:              s.konarski@hoody.de
+[zone-c] protection:         B
+[zone-c] updated:            2010-09-21 17:37:33
+
