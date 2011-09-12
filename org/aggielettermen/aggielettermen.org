@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158163946-LROR
+Domain Name:AGGIELETTERMEN.ORG
+Created On:22-Jan-2010 19:02:33 UTC
+Last Updated On:10-Jan-2011 21:24:26 UTC
+Expiration Date:22-Jan-2013 19:02:33 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40819607
+Registrant Name:Cathy Capps
+Registrant Organization:Texas A&amp;M Lettermen's Association
+Registrant Street1:P.O. Box 30017
+Registrant Street2:
+Registrant Street3:
+Registrant City:College Station
+Registrant State/Province:Texas
+Registrant Postal Code:77842
+Registrant Country:US
+Registrant Phone:+1.9798463024
+Registrant Phone Ext.:
+Registrant FAX:+1.9798466279
+Registrant FAX Ext.:
+Registrant Email:ccapps@athletics.tamu.edu
+Admin ID:CR40819609
+Admin Name:Cathy Capps
+Admin Organization:Texas A&amp;M Lettermen's Association
+Admin Street1:P.O. Box 30017
+Admin Street2:
+Admin Street3:
+Admin City:College Station
+Admin State/Province:Texas
+Admin Postal Code:77842
+Admin Country:US
+Admin Phone:+1.9798463024
+Admin Phone Ext.:
+Admin FAX:+1.9798466279
+Admin FAX Ext.:
+Admin Email:ccapps@athletics.tamu.edu
+Tech ID:CR40819608
+Tech Name:Cathy Capps
+Tech Organization:Texas A&amp;M Lettermen's Association
+Tech Street1:P.O. Box 30017
+Tech Street2:
+Tech Street3:
+Tech City:College Station
+Tech State/Province:Texas
+Tech Postal Code:77842
+Tech Country:US
+Tech Phone:+1.9798463024
+Tech Phone Ext.:
+Tech FAX:+1.9798466279
+Tech FAX Ext.:
+Tech Email:ccapps@athletics.tamu.edu
+Name Server:NS05.DOMAINCONTROL.COM
+Name Server:NS06.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

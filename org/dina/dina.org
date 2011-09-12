@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D614920-LROR
+Domain Name:DINA.ORG
+Created On:03-Sep-1996 04:00:00 UTC
+Last Updated On:07-Oct-2010 14:24:19 UTC
+Expiration Date:02-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22824297-NSI
+Registrant Name:UALRInstitutefor Economic Advancement
+Registrant Organization:UALRInstitutefor Economic Advancement
+Registrant Street1:2801 S. University Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Little Rock
+Registrant State/Province:AR
+Registrant Postal Code:72204-1099
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@DINA.ORG
+Admin ID:15485826-NSI
+Admin Name:UALRInstitutefor Economic Advancement
+Admin Organization:UALRInstitutefor Economic Advancement
+Admin Street1:Reynolds Bldg #479
+Admin Street2:2801 S University Ave
+Admin Street3:
+Admin City:Little Rock
+Admin State/Province:AR
+Admin Postal Code:72204
+Admin Country:US
+Admin Phone:+1.5015698542
+Admin Phone Ext.:
+Admin FAX:+1.5015698538
+Admin FAX Ext.:
+Admin Email:hostmaster@DINA.ORG
+Tech ID:15485826-NSI
+Tech Name:UALRInstitutefor Economic Advancement
+Tech Organization:UALRInstitutefor Economic Advancement
+Tech Street1:Reynolds Bldg #479
+Tech Street2:2801 S University Ave
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:AR
+Tech Postal Code:72204
+Tech Country:US
+Tech Phone:+1.5015698542
+Tech Phone Ext.:
+Tech FAX:+1.5015698538
+Tech FAX Ext.:
+Tech Email:hostmaster@DINA.ORG
+Name Server:NS.DINA.ORG
+Name Server:NS2.DINA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: DEADBYMISTAKE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.HEARSTNP.COM
+   Name Server: NS2.HEARSTNP.COM
+   Name Server: NS3.HEARSTNP.COM
+   Status: clientTransferProhibited
+   Updated Date: 31-aug-2011
+   Creation Date: 17-jun-2009
+   Expiration Date: 17-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:18:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,19 +53,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain Name.......... deadbymistake.com
+  Creation Date........ 2009-06-18
+  Registration Date.... 2009-06-18
+  Expiry Date.......... 2012-06-18
+  Organisation Name.... Hearst Communications, Inc.
+  Organisation Address. 300 West 57th Street
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10019
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
 
-no match for 91mt.com
+Admin Name........... Newspapers Houston Chronicle
+  Admin Address........ 300 West 57th Street
+  Admin Address........
+  Admin Address........ New York
+  Admin Address........ 10019
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domains@hearst.com
+  Admin Phone.......... +1.2126492000
+  Admin Fax............ +1.2126492035
+
+Tech Name............ Houston Chronicle Publishing Company
+  Tech Address......... 801 TEXAS
+  Tech Address.........
+  Tech Address......... HOUSTON
+  Tech Address......... 77002
+  Tech Address......... TX
+  Tech Address......... UNITED STATES
+  Tech Email........... steven.evatt@chron.com
+  Tech Phone........... +1.7132202937
+  Tech Fax............. +1.9999999999
+  Name Server.......... ns3.hearstnp.com
+  Name Server.......... ns1.hearstnp.com
+  Name Server.......... ns2.hearstnp.com
+
+

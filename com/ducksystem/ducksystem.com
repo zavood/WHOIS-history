@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: DUCKSYSTEM.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: DNS1.MTS.NET
+   Name Server: DNS2.MTS.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 05-dec-2006
+   Creation Date: 03-jun-2004
+   Expiration Date: 03-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:18:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:19:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,6 +53,68 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
+=-=-=-=
+
+
+Domain name: ducksystem.com
+
+Registrant Contact:
+   Ducks Unlimited Canada
+   L Jackson ()
+
+   Fax:
+   Box%201160%201%20Mallard%20Bay%20at%20Hwy%20220
+   Stonewall, MB R0C 2Z0
+   CA
+
+Administrative Contact:
+   Ducks Unlimited Canada
+   L Jackson (webadmin@ducks.ca)
+   +1.2044673000
+   Fax: +1.2044679028
+   Box 1160 1 Mallard Bay at Hwy 220
+   Stonewall, MB R0C 2Z0
+   CA
+
+Technical Contact:
+   MTS Advanced
+   Manager MTS Advanced (mtsdns@mts.net)
+   +1.2047846100
+   Fax: +1.2047846590
+   1700 Ellice Avenue
+   Winnipeg, MB R3C 3V6
+   CA
+
+Status: Locked
+
+Name Servers:
+   dns1.mts.net
+   dns2.mts.net
+
+Creation date: 03 Jun 2004 13:23:37
+Expiration date: 03 Jun 2015 13:23:37
+
+
+
+
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,7 +127,15 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-no match for 91mt.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
+
+
+Visit AboutUs.org for more information about ducksystem.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/ducksystem.com&quot;&gt;AboutUs: ducksystem.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
