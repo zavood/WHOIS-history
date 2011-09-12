@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 16:08:55 (BRT -03:00)
+
+domain:      blogsurfistinha.com.br
+owner:       luiz algusto santos silva junio
+ownerid:     032.325.891-38
+country:     BR
+owner-c:     PECCA10
+admin-c:     PECCA10
+tech-c:      PECCA10
+billing-c:   PECCA10
+nserver:     ms2.blogsurfistinha.com.br 70.38.12.239
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ip-70-38-12-239.static.privatedns.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+saci:        yes
+created:     20110728 #8629960
+expires:     20120728
+changed:     20110801
+status:      published
+
+nic-hdl-br:  PECCA10
+person:      PEREIRA CICERO CARDOSO
+e-mail:      globo_k3@hotmail.com
+created:     20090226
+changed:     20110727
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
