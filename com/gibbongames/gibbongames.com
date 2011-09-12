@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DYNECT.NET
-   Registrar: DYNAMIC NETWORK SERVICES, INC
-   Whois Server: whois.dyndns.com
-   Referral URL: http://www.dyndns.com
-   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2011
-   Creation Date: 02-may-2007
-   Expiration Date: 02-may-2012
+   Domain Name: GIBBONGAMES.COM
+   Registrar: NETTUNER CORP. DBA WEBMASTERS.COM
+   Whois Server: whois.webmasters.com
+   Referral URL: http://www.webmasters.com
+   Name Server: NS100.WEBMASTERS.COM
+   Name Server: NS99.WEBMASTERS.COM
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 09-apr-2006
+   Expiration Date: 09-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:48:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:49:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,43 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+NOTICE AND TERMS OF USE: The data in WEBMASTERS.COM's WHOIS database is provided for
+information purposes only, and its accuracy is not guaranteed. By submitting a WHOIS
+query, you agree to abide by the following terms of use: You agree that you may use this
+Data only for lawful purposes and that under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail, telephone, or fax; or (2) enable high volume,
+automated, electronic processes for the purpose of re-transmitting the WHOIS data.
+
 Registrant:
- Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
- Dynamic Network Services, Inc.
- 150 Dow St
- Manchester, NH 03101
- US
+   Gibbon Games
+   32 Old Byron Bay Rd
+   Bangalow, NSW 2479
+   AU
 
- Domain name: DYNECT.NET
+   Domain Name: GIBBONGAMES.COM
 
+   Administrative Contact:
+      DavidDe Candia   david@gibbongames.com
+      Gibbon Games
+      32 Old Byron Bay Rd
+      Bangalow, NSW 2479
+      AU
+      +61.0266392110 (FAX)
 
- Administrative Contact, Technical Contact:
-    Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
-    Dynamic Network Services, Inc.
-    150 Dow St
-    Manchester, NH 03101
-    US
-    +1.6036684998  fax: +1.6036686474
+   Technical Contact:
+      DavidDe Candia   david@gibbongames.com
+      Gibbon Games
+      32 Old Byron Bay Rd
+      Bangalow, NSW 2479
+      AU
+      +61.0266392110 (FAX)
 
+   Billing Contact:
+      DavidDe Candia   david@gibbongames.com
+      Gibbon Games
+      32 Old Byron Bay Rd
+      Bangalow, NSW 2479
+      AU
+      +61.0266392110 (FAX)
 
- Registration Service Provider:
-    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
-    Login to your account at http://www.dyndns.com/+domains/ to manage
-    nameservers and contacts for your domain name.
+   Record created on 09-Apr-2006
+   Record expires on 09-Apr-2012
+   Record updated on 02-Jul-2006 17:55:48 EST
+   Database last updated on 12-Sep-2011 14:50:12 EST
 
+   Domain servers in listed order:
 
- Record last updated on 08-Sep-2011 13:46:28 UTC.
- Record expires on 03-May-2012.
- Record created on 03-May-2007.
+   NS99.WEBMASTERS.COM     208.64.136.21
+   NS100.WEBMASTERS.COM     208.64.136.51
 
-
- Domain servers in listed order:
-    NS1.DYNAMICNETWORKSERVICES.NET
-    NS3.DYNAMICNETWORKSERVICES.NET
-    NS4.DYNAMICNETWORKSERVICES.NET
-    NS2.DYNAMICNETWORKSERVICES.NET
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
+-----------------------------------------------------------------------------
+Get a free domain name with hosting at WEBMASTERS.COM for only $9.95 a month!
+-----------------------------------------------------------------------------
