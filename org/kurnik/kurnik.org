@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83335780-LROR
+Domain Name:KURNIK.ORG
+Created On:05-Feb-2002 00:47:28 UTC
+Last Updated On:16-Feb-2008 15:30:25 UTC
+Expiration Date:05-Feb-2012 00:47:28 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-YWA217H1KDX7
+Registrant Name:Marek Futrega
+Registrant Street1:Wroblewskiego 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Morag
+Registrant State/Province:Morag
+Registrant Postal Code:14-300
+Registrant Country:PL
+Registrant Phone:+48.897575174
+Registrant Phone Ext.:
+Registrant FAX:+48.897575174
+Registrant FAX Ext.:
+Registrant Email:futrega@gmail.com
+Admin ID:DOT-HSDYFHEJPDR6
+Admin Name:Marek Futrega
+Admin Street1:Wroblewskiego 12
+Admin Street2:
+Admin Street3:
+Admin City:Morag
+Admin State/Province:Morag
+Admin Postal Code:14-300
+Admin Country:PL
+Admin Phone:+48.897575174
+Admin Phone Ext.:
+Admin FAX:+48.897575174
+Admin FAX Ext.:
+Admin Email:futrega@gmail.com
+Tech ID:DOT-18KXDPCHN1TG
+Tech Name:Marek Futrega
+Tech Street1:Wroblewskiego 12
+Tech Street2:
+Tech Street3:
+Tech City:Morag
+Tech State/Province:Morag
+Tech Postal Code:14-300
+Tech Country:PL
+Tech Phone:+48.897575174
+Tech Phone Ext.:
+Tech FAX:+48.897575174
+Tech FAX Ext.:
+Tech Email:futrega@gmail.com
+Name Server:DNS.WIJATA.COM
+Name Server:DNS.KURNIK.PL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

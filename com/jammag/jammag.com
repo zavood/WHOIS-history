@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
+   Domain Name: JAMMAG.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: SERVER28.PANELSECURE.COM
+   Name Server: SERVER29.PANELSECURE.COM
    Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2019
+   Updated Date: 06-may-2011
+   Creation Date: 27-apr-1999
+   Expiration Date: 27-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:35:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Can't find specified domainname.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: jammag.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 19:25:46 EDT 2011
+Reason Code: IE
