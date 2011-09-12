@@ -5,20 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
+   Domain Name: EYECONTACTSEX.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
+   Name Server: NS0.REFLECTED.NET
+   Name Server: NS1.REFLECTED.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Updated Date: 08-sep-2011
+   Creation Date: 18-sep-2001
+   Expiration Date: 18-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:07:49 UTC &lt;&lt;&lt;
 
@@ -56,59 +53,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Tzolkin Corp
- 78 Main St.
- Pepperell, MA 01463
+ New Destiny Internet Group
+ 8929 Irvine Center Dr
+ 200
+ CA
+ Irvine, Ca 92618
  US
 
- Domain name: TZO.COM
+ Domain name: EYECONTACTSEX.COM
 
 
  Administrative Contact:
-    Registrar, Domain  domreg@tzo.com
-    78 Main St.
-    Pepperell, MA 01463
+    Support, Name  domains@newdig.com
+    8929 Irvine Center Dr
+    200
+    CA
+    Irvine, Ca 92618
     US
-    978 433 6865    Fax: 978 433 6535
-
+    949-716-8080
  Technical Contact:
-    Registrar, Domain  domreg@tzo.com
-    78 Main St.
-    Pepperell, MA 01463
+    Support, Name  domains@newdig.com
+    8929 Irvine Center Dr
+    200
+    CA
+    Irvine, Ca 92618
     US
-    978 433 6865    Fax: 978 433 6535
-
+    949-716-8080
 
 
  Registration Service Provider:
-    Tzolkin Corp, domreg@tzo.com
-    +1.9784336865
-    http://www.tzo.com/
-    TZO offers Dynamic DNS and Static DNS services.
-    Run your own Server, IP Camera, Mail Server, DVR,
-    Home Control and more!
+    New Destiny Internet Group, domains@newdig.com
+    949-716-8080
 
-    Enterprise Automatic Site Failover Service also available.
-    http://www.autofailover.com/
-
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 26-Oct-2010.
- Record expires on 24-Nov-2011.
- Record created on 25-Nov-1997.
+ Record last updated on 08-Sep-2011.
+ Record expires on 19-Sep-2012.
+ Record created on 19-Sep-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.TZO.COM   108.59.164.100
-    NS4.TZO.COM   108.59.166.200
-    NS.TZO.COM   108.59.160.140
-    NS3.TZO.COM   108.59.170.10
-    NS5.TZO.COM   108.59.168.70
+    NS0.REFLECTED.NET
+    NS1.REFLECTED.NET
 
 
  Domain status: clientTransferProhibited
