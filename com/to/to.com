@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-feb-1995
    Expiration Date: 23-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:48:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:08:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain to.com
-% Timestamp: 2011-09-11 21:48:57
+% Timestamp: 2011-09-12 23:08:43
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
