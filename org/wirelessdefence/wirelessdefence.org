@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105760852-LROR
+Domain Name:WIRELESSDEFENCE.ORG
+Created On:20-Feb-2005 12:30:28 UTC
+Last Updated On:06-Feb-2011 14:49:41 UTC
+Expiration Date:20-Feb-2014 12:30:28 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tufHqlwIm04mr0P3
+Registrant Name:Worg N/A
+Registrant Organization:WirelessDefence
+Registrant Street1:N/A
+Registrant Street2:N/A
+Registrant Street3:
+Registrant City:N/A
+Registrant State/Province:N/A
+Registrant Postal Code:N/A
+Registrant Country:GB
+Registrant Phone:+44.7866484724
+Registrant Phone Ext.:
+Registrant FAX:+44.7866484724
+Registrant FAX Ext.:
+Registrant Email:worg@wirelessdefence.org
+Admin ID:tuRPQRjVqLCQsaKi
+Admin Name:Worg N/A
+Admin Organization:WirelessDefence
+Admin Street1:N/A
+Admin Street2:N/A
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:Lincs
+Admin Postal Code:LN6
+Admin Country:GB
+Admin Phone:+44.7866484728
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:worg@wirelessdefence.org
+Tech ID:tui8xlzqPtLYHPbV
+Tech Name:Worg N/A
+Tech Organization:WirelessDefence
+Tech Street1:N/A
+Tech Street2:N/A
+Tech Street3:
+Tech City:Lincoln
+Tech State/Province:Lincs
+Tech Postal Code:LN6
+Tech Country:GB
+Tech Phone:+44.7866484728
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:worg@wirelessdefence.org
+Name Server:NS1.STREAMLINEDNS.CO.UK
+Name Server:NS2.STREAMLINEDNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
