@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERACTIVEDNS.COM
+   Domain Name: FAIRPOINTWEBSERVICES.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTERACTIVEDNS.COM
-   Name Server: NS2.INTERACTIVEDNS.COM
-   Name Server: NS3.INTERACTIVEDNS.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-apr-2011
-   Creation Date: 28-oct-2003
-   Expiration Date: 28-oct-2013
+   Name Server: NMS1.TACONIC.NET
+   Name Server: NMS2.TACONIC.NET
+   Status: ok
+   Updated Date: 03-feb-2011
+   Creation Date: 02-may-2005
+   Expiration Date: 02-may-2014
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:46:43 UTC &lt;&lt;&lt;
 

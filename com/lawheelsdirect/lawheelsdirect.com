@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERACTIVEDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTERACTIVEDNS.COM
-   Name Server: NS2.INTERACTIVEDNS.COM
-   Name Server: NS3.INTERACTIVEDNS.COM
+   Domain Name: LAWHEELSDIRECT.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS2591.HOSTGATOR.COM
+   Name Server: NS2592.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-apr-2011
-   Creation Date: 28-oct-2003
-   Expiration Date: 28-oct-2013
+   Updated Date: 26-nov-2010
+   Creation Date: 03-nov-2004
+   Expiration Date: 03-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:46:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:45:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+Hebert, Todd
+   LA Wheels Direct
+   185 Lilleyville rd
+   East calais, VT 05650
+   US
+
+   Domain Name: LAWHEELSDIRECT.COM
+
+   Administrative Contact:
+      Hebert, Todd		barretire1@aol.com
+      LA Wheels Direct
+      185 Lilleyville RD
+      East Calais, VT 05650
+      US
+      8024561044
+
+
+   Record expires on 03-Nov-2012.
+   Record created on 03-Nov-2004.
+   Database last updated on 12-Sep-2011 18:35:36 EDT.
+
+   Domain servers in listed order:
+
+   NS2591.HOSTGATOR.COM
+   NS2592.HOSTGATOR.COM
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

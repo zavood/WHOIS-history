@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERACTIVEDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTERACTIVEDNS.COM
-   Name Server: NS2.INTERACTIVEDNS.COM
-   Name Server: NS3.INTERACTIVEDNS.COM
+   Domain Name: VERYGOODSERVER.COM
+   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
+   Whois Server: Whois.theplanet.com
+   Referral URL: http://www.theplanet.com
+   Name Server: NS1.VERYGOODSERVER.COM
+   Name Server: NS2.VERYGOODSERVER.COM
+   Name Server: NS3.VERYGOODSERVER.COM
+   Name Server: NS4.VERYGOODSERVER.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-apr-2011
-   Creation Date: 28-oct-2003
-   Expiration Date: 28-oct-2013
+   Updated Date: 13-jun-2011
+   Creation Date: 13-jul-2007
+   Expiration Date: 13-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:46:43 UTC &lt;&lt;&lt;
 

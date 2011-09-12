@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERACTIVEDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTERACTIVEDNS.COM
-   Name Server: NS2.INTERACTIVEDNS.COM
-   Name Server: NS3.INTERACTIVEDNS.COM
+   Domain Name: PLATINUMONEHOSTING.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.PLATINUMONEHOSTING.COM
+   Name Server: NS2.PLATINUMONEHOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-apr-2011
-   Creation Date: 28-oct-2003
-   Expiration Date: 28-oct-2013
+   Updated Date: 06-jun-2011
+   Creation Date: 02-jan-2010
+   Expiration Date: 02-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:46:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:45:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain Name: platinumonehosting.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Craig Broussard c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+
+Administrative Contact:
+Craig Broussard c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Technical Contact:
+Craig Broussard c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Record expires on 2012/01/02 UTC
+Record created on 2010/01/02 UTC
+
+Domain servers in listed order:
+ns1.platinumonehosting.com
+ns2.platinumonehosting.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 15:41:06 PST &lt;&lt;&lt;
+

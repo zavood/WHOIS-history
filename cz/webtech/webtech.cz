@@ -1,0 +1,61 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:46:06 2011
+
+domain:       webtech.cz
+registrant:   SB:MHARTMAN
+admin-c:      HARTMAN
+nsset:        NSS:MHARTMAN:3
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   21.10.2001 00:21:00
+changed:      07.08.2004 18:35:00
+expire:       22.10.2011
+
+contact:      SB:MHARTMAN
+name:         Milan Hartman
+address:      Klicperova 2491
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.11.2007 20:00:04
+
+contact:      HARTMAN
+name:         Milan Hartman
+address:      Klicperova 2491
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.11.2007 20:00:03
+
+nsset:        NSS:MHARTMAN:3
+nserver:      pri.hq.cz
+nserver:      ns.infobank.cz
+tech-c:       SB:MHARTMAN
+tech-c:       HARTMAN
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+

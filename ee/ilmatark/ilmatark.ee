@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       ilmatark.ee
+registrant:   CID:ELKDATA:ORG-82851
+admin-c:      CID:ELKDATA:ADMIN-82852
+nsset:        NSSID:ELKDATA:16678
+registrar:    elkdata
+status:       paid and in zone
+registered:   04.07.2010 05:52:47
+changed:      21.01.2011 11:57:06
+expire:       21.01.2012
+
+contact:      CID:ELKDATA:ORG-82851
+name:         Glorious Trade O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      21.01.2011 11:57:04
+
+contact:      CID:ELKDATA:ADMIN-82852
+name:         priit p&Atilde;&curren;rli
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      21.01.2011 11:57:04
+
+nsset:        NSSID:ELKDATA:16678
+nserver:      ns.ilmatark.ee (194.204.33.46)
+nserver:      ns.uninet.ee (194.204.0.1)
+tech-c:       CID:ELKDATA:TECH-38716
+registrar:    elkdata
+created:      21.01.2011 11:57:06
+
+contact:      CID:ELKDATA:TECH-38716
+name:         Elkdata O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      08.07.2010 16:41:17
+
+
