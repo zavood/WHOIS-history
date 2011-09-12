@@ -1,0 +1,75 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         iscd.at
+registrant:     JN1162781-NICAT
+admin-c:        JN1162780-NICAT
+tech-c:         DHE842788-NICAT
+nserver:        b1.wpns.hosteurope.de
+remarks:        217.115.143.194
+nserver:        b1.wsns.hosteurope.de
+remarks:        80.237.128.66
+changed:        20040922 15:43:22
+source:         AT-DOM
+
+personname:     Johannes Neumann
+organization:
+street address: Pappelweg 12
+postal code:    D-14476
+city:           Seeburg
+country:        Germany
+phone:          +4916091878142
+e-mail:         mail@johannes-neumann.de
+nic-hdl:        JN1162781-NICAT
+changed:        20020830 16:34:10
+source:         AT-DOM
+
+personname:     Johannes Neumann
+organization:
+street address: Pappelweg 12
+street address: D-14476 Seeburg
+street address: Germany
+postal code:
+city:
+country:
+phone:          +4916091878142
+e-mail:         mail@johannes-neumann.de
+nic-hdl:        JN1162780-NICAT
+changed:        20020830 16:34:10
+source:         AT-DOM
+
+personname:     Domainregistrierung Host Europe
+organization:
+street address: Host Europe GmbH
+street address: Theodor-Heuss-Str. 92-100
+street address: 51149 Koeln
+postal code:
+city:
+country:
+phone:          +49 1805 663266
+fax-no:         +49 1805 663233
+e-mail:         domreg@hosteurope.de
+nic-hdl:        DHE842788-NICAT
+changed:        20010423 16:35:32
+source:         AT-DOM
+

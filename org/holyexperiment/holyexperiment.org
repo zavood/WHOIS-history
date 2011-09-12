@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31250953-LROR
+Domain Name:HOLYEXPERIMENT.ORG
+Created On:12-Jul-2000 16:12:41 UTC
+Last Updated On:15-Mar-2011 14:34:33 UTC
+Expiration Date:12-Jul-2012 16:12:41 UTC
+Sponsoring Registrar:Vitalwerks Internet Solutions, LLC (R1731-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:tuRjigkwoKikZ33o
+Registrant Name:David Alan
+Registrant Organization:David Alan Rech
+Registrant Street1:132 Bain Bridge
+Registrant Street2:
+Registrant Street3:
+Registrant City:Philadelphia
+Registrant State/Province:PA
+Registrant Postal Code:19147
+Registrant Country:US
+Registrant Phone:+1.2155927266
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:drech@scribenet.com
+Admin ID:tus8T8Z8LKBQJIgW
+Admin Name:David Alan
+Admin Organization:David Alan Rech
+Admin Street1:132 Bain Bridge
+Admin Street2:
+Admin Street3:
+Admin City:Philadelphia
+Admin State/Province:PA
+Admin Postal Code:19147
+Admin Country:US
+Admin Phone:+1.2155927266
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:drech@scribenet.com
+Tech ID:tuNJHf5shnQZnqVp
+Tech Name:David Alan
+Tech Organization:David Alan Rech
+Tech Street1:132 Bain Bridge
+Tech Street2:
+Tech Street3:
+Tech City:Philadelphia
+Tech State/Province:PA
+Tech Postal Code:19147
+Tech Country:US
+Tech Phone:+1.2155927266
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:drech@scribenet.com
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
