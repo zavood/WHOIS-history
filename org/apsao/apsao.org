@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152939770-LROR
+Domain Name:APSAO.ORG
+Created On:09-Jun-2008 16:36:59 UTC
+Last Updated On:31-May-2011 08:01:10 UTC
+Expiration Date:09-Jun-2012 16:36:59 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:NF-OWNER-214799
+Registrant Name:Peter VanRooyen
+Registrant Organization:Adult Protective Services of Ontario
+Registrant Street1:1120 Victoria St N. Suite 205
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kitchener
+Registrant State/Province:ON
+Registrant Postal Code:N2B-3T2
+Registrant Country:CA
+Registrant Phone:+1.5197411121
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:p.vanrooyen@on.aibn.com
+Admin ID:NF-ADMIN-214799
+Admin Name:Peter VanRooyen
+Admin Organization:Adult Protective Services of Ontario
+Admin Street1:1120 Victoria St N. Suite 205
+Admin Street2:
+Admin Street3:
+Admin City:Kitchener
+Admin State/Province:ON
+Admin Postal Code:N2B-3T2
+Admin Country:CA
+Admin Phone:+1.5197411121
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@seahorsesolutions.ca
+Tech ID:NF-TECH-214799
+Tech Name:Network Admin
+Tech Organization:Canadian Domain Online Registry Inc.
+Tech Street1:166 Delancey Blvd. Suite 1
+Tech Street2:
+Tech Street3:
+Tech City:Hamilton
+Tech State/Province:ON
+Tech Postal Code:L9B1Z6
+Tech Country:CA
+Tech Phone:+1.9055740129
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:office@ultimatewebsites.ca
+Name Server:NS1.NETFIRMS.COM
+Name Server:NS2.NETFIRMS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
