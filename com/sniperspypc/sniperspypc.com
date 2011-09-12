@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORLD2PORN.COM
+   Domain Name: SNIPERSPYPC.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.WORLD2PORN.COM
-   Name Server: NS2.WORLD2PORN.COM
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 12-dec-2010
-   Creation Date: 10-dec-2009
-   Expiration Date: 10-dec-2011
+   Updated Date: 29-sep-2010
+   Creation Date: 09-oct-2008
+   Expiration Date: 09-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:30:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:31:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +53,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about world2porn.com
-&lt;a href=&quot;http://www.aboutus.org/world2porn.com&quot;&gt;AboutUs: world2porn.com&lt;/a&gt;
+Visit AboutUs.org for more information about sniperspypc.com
+&lt;a href=&quot;http://www.aboutus.org/sniperspypc.com&quot;&gt;AboutUs: sniperspypc.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: world2porn.com
+Domain name: sniperspypc.com
 
 Registrant Contact:
-
-   dupont andrer ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   21d grande rue
-   paris, N/A 75009
-   FR
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Administrative Contact:
-
-   dupont andrer (warezmania@gmail.com)
-   +33.0678594756
-   Fax:
-   21d grande rue
-   paris, N/A 75009
-   FR
+   WhoisGuard
+   WhoisGuard Protected (207287361b00401c9b24416c73bdf5a4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Technical Contact:
-
-   dupont andrer (warezmania@gmail.com)
-   +33.0678594756
-   Fax:
-   21d grande rue
-   paris, N/A 75009
-   FR
+   WhoisGuard
+   WhoisGuard Protected (207287361b00401c9b24416c73bdf5a4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.world2porn.com
-   ns2.world2porn.com
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
 
-Creation date: 11 Dec 2009 01:02:13
-Expiration date: 11 Dec 2011 01:02:13
+Creation date: 09 Oct 2008 10:50:33
+Expiration date: 09 Oct 2011 10:50:33
 
 
 
