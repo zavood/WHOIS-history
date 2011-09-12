@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148690622-LROR
+Domain Name:DIKHOWMUKHCOLLEGE.ORG
+Created On:25-Jul-2007 05:16:14 UTC
+Last Updated On:24-Jun-2011 07:22:20 UTC
+Expiration Date:25-Jul-2012 05:16:14 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_5908565
+Registrant Name:nayan
+Registrant Organization:assamlook.com
+Registrant Street1:amulapatty
+Registrant Street2:nagaon
+Registrant Street3:
+Registrant City:nagaon
+Registrant State/Province:Assam
+Registrant Postal Code:782001
+Registrant Country:IN
+Registrant Phone:+91.3672232367
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nayanjec19@yahoo.co.in
+Admin ID:DI_5908565
+Admin Name:nayan
+Admin Organization:assamlook.com
+Admin Street1:amulapatty
+Admin Street2:nagaon
+Admin Street3:
+Admin City:nagaon
+Admin State/Province:Assam
+Admin Postal Code:782001
+Admin Country:IN
+Admin Phone:+91.3672232367
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nayanjec19@yahoo.co.in
+Tech ID:DI_5908565
+Tech Name:nayan
+Tech Organization:assamlook.com
+Tech Street1:amulapatty
+Tech Street2:nagaon
+Tech Street3:
+Tech City:nagaon
+Tech State/Province:Assam
+Tech Postal Code:782001
+Tech Country:IN
+Tech Phone:+91.3672232367
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nayanjec19@yahoo.co.in
+Name Server:NS1.111SERVERS.COM
+Name Server:NS2.111SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

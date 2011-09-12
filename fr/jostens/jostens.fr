@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; jostens.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      jostens.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     KD489-FRNIC
+tech-c:      KD489-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL44721-FRNIC
+registrar:   NETIM
+anniversary: 12/08
+created:     12/08/2009
+last-update: 24/12/2010
+source:      FRNIC
+
+ns-list:     NSL44721-FRNIC
+nserver:     ns10.netim.net
+nserver:     b.ns.netim.net
+source:      FRNIC
+
+registrar:   NETIM
+type:        Isp Option 1
+address:     Euratechnologies
+address:     165 Avenue de Bretagne
+address:     LILLE
+country:     FR
+phone:       +33 9 72 11 33 52
+fax-no:      +33 3 59 35 03 74
+e-mail:      contact@netim.fr
+website:     http://www.netim.fr
+anonymous:   NO
+registered:  04/01/2005
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     30/09/2010 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     KD489-FRNIC
+type:        PERSON
+contact:     Kerri Dolena
+address:     36, Chemin des Groux
+address:     78670 Villennes sur Seine
+country:     FR
+phone:       +33 6 64 39 81 59
+e-mail:      kdolena@gmail.com
+changed:     03/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

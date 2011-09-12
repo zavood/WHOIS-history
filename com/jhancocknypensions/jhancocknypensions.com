@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WHSPN.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.WEBHSP.COM
-   Name Server: NS2.WEBHSP.COM
+   Domain Name: JHANCOCKNYPENSIONS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 20-jun-2004
-   Expiration Date: 20-jun-2012
+   Updated Date: 02-sep-2011
+   Creation Date: 22-oct-2004
+   Expiration Date: 22-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:56:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:56:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about whspn.net
-&lt;a href=&quot;http://www.aboutus.org/whspn.net&quot;&gt;AboutUs: whspn.net&lt;/a&gt;
+
+Domain Name.......... jhancocknypensions.com
+  Creation Date........ 2004-10-23
+  Registration Date.... 2009-08-27
+  Expiry Date.......... 2012-10-23
+  Organisation Name.... Manulife Financial Corporation
+  Organisation Address. 200 Bloor Street East
+  Organisation Address.
+  Organisation Address. Toronto
+  Organisation Address. m4w1e5
+  Organisation Address. ON
+  Organisation Address. CANADA
+
+Admin Name........... Corporate Webmaster
+  Admin Address........ Manulife Financial Corporation
+  Admin Address........ 200 Bloor Street East
+  Admin Address........ Toronto
+  Admin Address........ m4w 1e5
+  Admin Address........ ON
+  Admin Address........ CANADA
+  Admin Email.......... webmaster@manulife.com
+  Admin Phone.......... +1.4169263000
+  Admin Fax............
+
+Tech Name............ Corporate Webmaster
+  Tech Address......... Manulife Financial Corporation
+  Tech Address......... 200 Bloor Street East
+  Tech Address......... Toronto
+  Tech Address......... m4w 1e5
+  Tech Address......... ON
+  Tech Address......... CANADA
+  Tech Email........... webmaster@manulife.com
+  Tech Phone........... +1.4169263000
+  Tech Fax.............
+  Name Server.......... j4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... k4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... l4.nstld.com
 
 
-Domain name: whspn.net
-
-Registrant Contact:
-   NA
-   LLC WebHSP ()
-
-   Fax:
-   6549 Tapadero Court
-   Castle Rock, CO 80108
-   US
-
-Administrative Contact:
-   NA
-   John Burns (john@zpat.com)
-   1-720-488-0955
-   Fax:
-   6549 Tapadero Court
-   Castle Rock, CO 80108
-   US
-
-Technical Contact:
-   NA
-   John Burns (john@zpat.com)
-   1-720-488-0955
-   Fax:
-   6549 Tapadero Court
-   Castle Rock, CO 80108
-   US
-
-Status: Locked
-
-Name Servers:
-   NS1.WEBHSP.COM
-   NS2.WEBHSP.COM
-
-Creation date: 20 Jun 2004 17:52:33
-Expiration date: 20 Jun 2012 17:52:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
