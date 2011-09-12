@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: VWSTORES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
+   Name Server: NS3.ENCOMPASSDNS.COM
+   Name Server: NS4.ENCOMPASSDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 16-feb-2011
-   Expiration Date: 16-feb-2016
+   Updated Date: 29-mar-2011
+   Creation Date: 01-mar-2001
+   Expiration Date: 01-mar-2015
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:17 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Kelly McCarthy
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: VWSTORES.COM
 
    Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
+      NS4.ENCOMPASSDNS.COM
+      NS3.ENCOMPASSDNS.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEMCMILLSES.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=VWSTORES.COM

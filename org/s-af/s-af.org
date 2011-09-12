@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156227141-LROR
+Domain Name:S-AF.ORG
+Created On:25-May-2009 10:32:23 UTC
+Last Updated On:06-Jun-2011 08:22:34 UTC
+Expiration Date:25-May-2012 10:32:23 UTC
+Sponsoring Registrar:AB CONNECT (R1715-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27140
+Registrant Name:nyoumsi   guy samuel
+Registrant Organization:particulier
+Registrant Street1:1 rue de la terrasse
+Registrant Street2:
+Registrant Street3:
+Registrant City:paris
+Registrant State/Province:none
+Registrant Postal Code:75002
+Registrant Country:FR
+Registrant Phone:+33.892701308
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:saf@congoprox.com
+Admin ID:27140
+Admin Name:nyoumsi   guy samuel
+Admin Organization:particulier
+Admin Street1:1 rue de la terrasse
+Admin Street2:
+Admin Street3:
+Admin City:paris
+Admin State/Province:none
+Admin Postal Code:75002
+Admin Country:FR
+Admin Phone:+33.892701308
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:saf@congoprox.com
+Tech ID:27140
+Tech Name:nyoumsi   guy samuel
+Tech Organization:particulier
+Tech Street1:1 rue de la terrasse
+Tech Street2:
+Tech Street3:
+Tech City:paris
+Tech State/Province:none
+Tech Postal Code:75002
+Tech Country:FR
+Tech Phone:+33.892701308
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:saf@congoprox.com
+Name Server:DNS1.HOSTEUR.COM
+Name Server:DNS2.HOSTEUR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

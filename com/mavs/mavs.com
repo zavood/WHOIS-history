@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MESSAGELABS.COM
+   Domain Name: MAVS.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
-   Name Server: DNS1.MESSAGELABS.COM
-   Name Server: DNS2.MLABS.NET
-   Name Server: DNS3.MESSAGELABS.COM
-   Name Server: DNS4.MLABS.NET
-   Name Server: DNS5.MESSAGELABS.COM
+   Name Server: NS40.NBA.COM
+   Name Server: NS50.NBA.COM
    Status: clientTransferProhibited
-   Updated Date: 10-may-2010
-   Creation Date: 24-dec-1999
-   Expiration Date: 24-dec-2016
+   Updated Date: 21-aug-2010
+   Creation Date: 26-aug-1996
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:47:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,39 +59,45 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      Symantec Corporation
-      Domain Manager
-      350 Ellis Street
-      Mountain View, CA 94043
+      NBA Media Ventures, LLC , c/o Television and New Media Ventures
+      Internic Administrator
+      645 5th Ave., 10th Floor .
+      New York, NY 10022
       US
-      Email: domains@symantec.com
+      Email: internicadmin@nba.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: messagelabs.com
+   Domain Name: mavs.com
 
-      Created on..............: Fri, Dec 24, 1999
-      Expires on..............: Sat, Dec 24, 2016
-      Record last updated on..: Wed, Oct 06, 2010
+      Created on..............: Sat, Jan 01, 2000
+      Expires on..............: Sat, Aug 25, 2012
+      Record last updated on..: Sat, Aug 21, 2010
 
-   Administrative,Technical Contact:
-      Symantec Corporation
-      Domain Manager
-      350 Ellis Street
-      Mountain View, CA 94043
+   Administrative Contact:
+      NBA Properties
+      Information Technology
+      100 Plaza Drive 3rd Fl .
+      Secaucus, NJ 07094
       US
-      Phone: +1.6505278000
-      Email: domains@symantec.com
+      Phone: 001-201-9746996
+      Email: internicadmin@nba.com
+
+   Technical Contact:
+      NBA
+      DNS Team
+      100 Plaza Drive .
+      Secaucus, NJ 07094
+      US
+      Phone: 001-201-9746169
+      Email: internicadmin@NBA.COM
 
    DNS Servers:
 
-   dns2.mlabs.net
-   dns5.messagelabs.com
-   dns1.messagelabs.com
-   dns4.mlabs.net
-   dns3.messagelabs.com
+   ns40.nba.com
+   ns50.nba.com
 
 
 Register your domain name at http://www.cscglobal.com

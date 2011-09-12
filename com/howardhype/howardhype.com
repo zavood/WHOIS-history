@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: HOWARDHYPE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
+   Name Server: NS1.ATLANTIC.NET
+   Name Server: NS2.ATLANTIC.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 16-feb-2011
-   Expiration Date: 16-feb-2016
+   Updated Date: 21-feb-2011
+   Creation Date: 16-feb-2009
+   Expiration Date: 16-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:47:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Kelly McCarthy
+   Page15, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: HOWARDHYPE.COM
 
    Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
+      NS1.ATLANTIC.NET
+      NS2.ATLANTIC.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEMCMILLSES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HOWARDHYPE.COM

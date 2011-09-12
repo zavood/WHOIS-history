@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: MYHEALTHEQUITY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 16-feb-2011
-   Expiration Date: 16-feb-2016
+   Updated Date: 31-oct-2010
+   Creation Date: 06-jan-2005
+   Expiration Date: 06-jan-2019
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:47:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,20 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Kelly McCarthy
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEMCMILLSES.COM
+   Domain Name: MYHEALTHEQUITY.COM
 
    Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
+      NS3.DNSMADEEASY.COM
+      NS1.DNSMADEEASY.COM
+      NS2.DNSMADEEASY.COM
+      NS0.DNSMADEEASY.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEMCMILLSES.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=MYHEALTHEQUITY.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEMCMILLSES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 16-feb-2011
-   Expiration Date: 16-feb-2016
+   Domain Name: OLOS-GROUP.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
+   Status: ok
+   Updated Date: 21-sep-2010
+   Creation Date: 21-sep-2010
+   Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:45:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: OLOS-GROUP.COM
+     Created on: 2010-09-21
+     Updated on: 2010-09-21
+     Expires on: 2011-09-21
+     Registrant Name: UEI SRL
+     Contact: UEI SRL
+     Registrant Address: VIA TAVAGNACOO 89
+     Registrant City: UDINE
+     Registrant Postal Code: 33100
+     Registrant Country: IT
+     Administrative Contact Organization: Simona Rossotti
+     Administrative Contact Name: Simona Rossotti
+     Administrative Contact Address: VIA TAVAGNACOO 89
+     Administrative Contact City: UDINE
+     Administrative Contact Postal Code: 33100
+     Administrative Contact Country: IT
+     Administrative Contact Email: annarita.cirina@ueisrl.it
+     Administrative Contact Tel: +39 043 2546409
+     Administrative Contact Fax: +39 043 2478646
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
-Registrant:
-   Kelly McCarthy
+&gt;&gt;&gt; Last update of whois database: Mon Sep 12 16:06:57 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEMCMILLSES.COM
-
-   Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEMCMILLSES.COM
