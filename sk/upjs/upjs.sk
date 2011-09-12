@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         upjs.sk
+Admin-id            UKOI-0001
+Admin-name          Univerzita Pavla Jozefa Safarika v Kosiciach
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       397768
+Admin-address       Srobarova 2, Kosice 04180
+Admin-telephone     055/2341510, 055/2341515, 0915/980092
+Tech-id             UKOI-0001
+Tech-name           Univerzita Pavla Jozefa Safarika v Kosiciach
+Tech-org.-ID        397768
+Tech-address        Srobarova 2, Kosice 04180
+Tech-telephone      055/2341510, 055/2341515, 0915/980092
+dns_name            ns.upjs.sk
+dns_ip              158.197.16.31
+dns_name            ns2.upjs.sk
+dns_ip              158.197.8.8
+Last-update         2011-08-17
+Valid-date          2012-09-02
+Domain-status       DOM_OK
+
