@@ -1,0 +1,38 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           tripadvisor.se
+holder:           tamtri2985-00001
+admin-c:          -
+tech-c:           -
+billing-c:        -
+created:          2005-03-23
+modified:         2011-02-19
+expires:          2012-03-23
+transferred:      2009-03-06
+nserver:          ns-d.pnap.net
+nserver:          ns1-89.akam.net
+nserver:          ns1-244.akam.net
+nserver:          ns.tripadvisor.com
+nserver:          ns-a.pnap.net
+dnssec:           unsigned delegation
+status:           ok
+registrar:        MarkMonitor Inc

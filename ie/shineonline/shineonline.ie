@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      shineonline.ie
+descr:       Schizophrenia Association of Ireland
+descr:       Charity
+descr:       Discretionary Name
+admin-c:     AIH131-IEDR
+tech-c:      AAM456-IEDR
+renewal:     14-October-2011
+status:      Active
+nserver:     ns1.doopdns.net
+nserver:     ns2.doopdns.net
+source:      IEDR
+
+person:      Leonor Bethencourt
+nic-hdl:     AIH131-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+
