@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: ZPRW6Q.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS3.CNMSN.COM
+   Name Server: NS4.CNMSN.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 11-dec-2010
+   Expiration Date: 11-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:43:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:43:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +53,58 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Domain name: zprw6q.com
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Registrant Contact:
+   Whois Privacy Protection Service
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
+Administrative Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+Technical Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
 
-Note: Automated collection of data from this database is strictly prohibited.
+Billing Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
 
+DNS:
+ns3.cnmsn.com
+ns4.cnmsn.com
+
+Created: 2010-12-11
+Expires: 2011-12-11
