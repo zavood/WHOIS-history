@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 18-dec-1997
    Expiration Date: 17-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 06:57:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:08:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,7 +109,7 @@ Tempil Inc.
 
    Record expires on 17-Dec-2014.
    Record created on 18-Dec-1997.
-   Database last updated on 11-Sep-2011 02:48:06 EDT.
+   Database last updated on 12-Sep-2011 04:04:07 EDT.
 
    Domain servers in listed order:
 
