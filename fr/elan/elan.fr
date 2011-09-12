@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; elan.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      elan.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AGF44-FRNIC
+admin-c:     BL1865-FRNIC
+tech-c:      JB371-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4461-FRNIC
+registrar:   VERIZON FRANCE
+anniversary: 27/02
+created:     27/02/2007
+last-update: 22/03/2011
+source:      FRNIC
+
+ns-list:     NSL4461-FRNIC
+nserver:     ns1.elan.fr [92.245.156.81]
+nserver:     ns1.nan1.fr.uu.net
+nserver:     ns1.nan2.fr.uu.net
+source:      FRNIC
+
+registrar:   VERIZON FRANCE
+type:        Isp Option 1
+address:     Tour Franklin La D&eacute;fense 8
+address:     100-101 Terrasse Boieldieu
+address:     PARIS LA DEFENSE
+country:     FR
+phone:       +33 1 53 75 82 00
+fax-no:      +33 1 53 75 82 09
+e-mail:      standard@fr.verizonbusiness.com
+website:     http://www.verizonbusiness.com/fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     AGF44-FRNIC
+type:        ORGANIZATION
+contact:     ACAPELA GROUPE FRANCE
+address:     immeuble &quot;Les Erables&quot;
+address:     rue du Lac
+address:     B.P. 98153
+address:     31681 Lab&egrave;ge
+country:     FR
+phone:       +33 5 62 24 71 00
+e-mail:      mis@acapela-group.com
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BL1865-FRNIC
+type:        PERSON
+contact:     Bernard Letoumy
+address:     ACAPELA GROUP FRANCE
+address:     immeuble &quot;Les Erables&quot;
+address:     rue du Lac
+address:     B.P. 98153
+address:     31681 Lab&egrave;ge Cedex
+country:     FR
+phone:       +33 5 62 24 71 00
+fax-no:      +33 5 62 24 71 01
+e-mail:      mis@acapela-group.com
+changed:     26/02/2007 frederic.martzel@fr.verizonbusiness.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JB371-FRNIC
+type:        ROLE
+contact:     Contact Technique
+address:     Verizon Business
+address:     100-101, Terrasse Boieldieu
+address:     Tour Franklin - la Defense 8
+address:     92042 Paris la Defense Cedex
+country:     FR
+phone:       +33 1 53 75 82 00
+e-mail:      net-adm@fr.verizonbusiness.com
+admin-c:     FM240-FRNIC
+admin-c:     PV611-FRNIC
+tech-c:      FM240-FRNIC
+tech-c:      PV611-FRNIC
+notify:      net-adm@fr.verizonbusiness.com
+changed:     24/01/2006 net-adm@fr.verizonbusiness.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
