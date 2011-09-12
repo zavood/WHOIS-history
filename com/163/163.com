@@ -6,6 +6,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 163.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
+163.COM.MORE.INFO.AT.PFBANK.COM
 163.COM.CN
 163.COM
 
@@ -13,7 +14,7 @@ To single out one record, look it up with &quot;xxx&quot;, where xxx is one of t
 of the records displayed above. If the records are the same, look them up
 with &quot;=xxx&quot; to receive a full display for each record.
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:08:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

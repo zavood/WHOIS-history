@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Domain Name: BILLYSBAR.COM
+   Registrar: HANGANG SYSTEMS, INC. D/B/A DOREGI.COM
+   Whois Server: whois.doregi.com
+   Referral URL: http://www.doregi.com
+   Name Server: NS.COUNTER.CO.KR
+   Name Server: NS.INDUCE.COM
+   Status: ok
+   Updated Date: 11-sep-2011
+   Creation Date: 04-sep-2008
+   Expiration Date: 04-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,11 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+Welcome to DOREGI.COM's WHOIS data service.
+
+
+No match for this domain name.
+
+
+

@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LTDOMAINS.COM
+   Domain Name: TYPEGREEK.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LTDOMAINS.COM
-   Name Server: NS2.LTDOMAINS.COM
-   Name Server: NS3.LTDOMAINS.COM
-   Name Server: NS4.LTDOMAINS.COM
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
+   Name Server: DNS4.REGISTRAR-SERVERS.COM
+   Name Server: DNS5.REGISTRAR-SERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 26-oct-2010
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2012
+   Updated Date: 03-apr-2011
+   Creation Date: 10-nov-2005
+   Expiration Date: 01-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +55,56 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
+Visit AboutUs.org for more information about typegreek.com
+&lt;a href=&quot;http://www.aboutus.org/typegreek.com&quot;&gt;AboutUs: typegreek.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: ltdomains.com
+Domain name: typegreek.com
+
+Registrant Contact:
+   Amesbury Web
+   NA NA ()
+
+   Fax:
+   10455 N Central Expwy
+   Suite 109-176
+   Dallas, TX 75231
+   US
 
 Administrative Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
+   NA
+   Randy Hoyt (rhoyt@amesburyweb.com)
+   +1.2142335774
    Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Amesbury Web
+   10455 N Central Expwy
+   Dallas, TX 75231
    US
 
 Technical Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
+   NA
+   Randy Hoyt (rhoyt@amesburyweb.com)
+   +1.2142335774
    Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Registrant Contact:
-   Layeretech
-   Layered Tech ()
-
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Amesbury Web
+   10455 N Central Expwy
+   Dallas, TX 75231
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.ltdomains.com
-   ns2.ltdomains.com
-   ns3.ltdomains.com
-   ns4.ltdomains.com
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
+   dns4.registrar-servers.com
+   dns5.registrar-servers.com
 
-Creation date: 01 Sep 2005 03:05:00
-Expiration date: 01 Sep 2012 03:05:00
+Creation date: 11 Nov 2005 03:33:00
+Expiration date: 02 Jan 2013 04:59:00
 
 
 

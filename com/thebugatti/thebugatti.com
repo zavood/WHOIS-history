@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
+   Domain Name: THEBUGATTI.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Updated Date: 11-aug-2011
+   Creation Date: 09-jul-2003
+   Expiration Date: 09-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

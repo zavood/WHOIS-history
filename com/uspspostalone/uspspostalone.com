@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
+   Domain Name: USPSPOSTALONE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS082.USPS.COM
+   Name Server: DNS100.USPS.COM
+   Name Server: DNS141.USPS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Updated Date: 04-mar-2011
+   Creation Date: 19-mar-1999
+   Expiration Date: 19-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: uspspostalone.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Mon Sep 12 10:32:02 EDT 2011
+Reason Code: IE

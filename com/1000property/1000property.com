@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
+   Domain Name: 1000PROPERTY.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.VODIEN.COM
+   Name Server: NS2.VODIEN.COM
+   Name Server: NS3.VODIEN.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Updated Date: 05-aug-2011
+   Creation Date: 04-oct-2004
+   Expiration Date: 04-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+Domain Name: 1000property.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Mark Tan Singapore Property Match
+D9,10,11
+D15,16
+singapore, singapore 238823
+Singapore
+
+Administrative Contact:
+Mark Tan Singapore Property Match
+D9,10,11
+D15,16
+singapore, singapore 238823
+Singapore
+tan206@starhub.net.sg
++65 93874786
+
+Technical Contact:
+Mark Tan Singapore Property Match
+D9,10,11
+D15,16
+singapore, singapore 238823
+Singapore
+tan206@starhub.net.sg
++65 93874786
+
+Record expires on 2012/10/04 UTC
+Record created on 2004/10/04 UTC
+
+Domain servers in listed order:
+ns1.vodien.com
+ns2.vodien.com
+ns3.vodien.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 07:41:06 PST &lt;&lt;&lt;
+

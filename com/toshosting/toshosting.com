@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LTDOMAINS.COM
+   Domain Name: TOSHOSTING.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LTDOMAINS.COM
-   Name Server: NS2.LTDOMAINS.COM
-   Name Server: NS3.LTDOMAINS.COM
-   Name Server: NS4.LTDOMAINS.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 26-oct-2010
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2012
+   Updated Date: 29-jun-2010
+   Creation Date: 28-jul-2002
+   Expiration Date: 28-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
+Visit AboutUs.org for more information about toshosting.com
+&lt;a href=&quot;http://www.aboutus.org/toshosting.com&quot;&gt;AboutUs: toshosting.com&lt;/a&gt;
 
 
-Domain name: ltdomains.com
+Domain name: toshosting.com
+
+Registrant Contact:
+   Total Online Solutions, Inc.
+   Domain Manager ()
+
+   Fax:
+   5020 Clark Road  #151
+   Sarasota, FL 34233
+   US
 
 Administrative Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Total Online Solutions, Inc.
+   Domain Manager (hostmaster@tosdomains.net)
+   +1.9419249422
+   Fax: +.
+   5020 Clark Road  #151
+   Sarasota, FL 34233
    US
 
 Technical Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Registrant Contact:
-   Layeretech
-   Layered Tech ()
-
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Total Online Solutions, Inc.
+   Domain Manager (hostmaster@tosdomains.net)
+   +1.9419249422
+   Fax: +.
+   5020 Clark Road  #151
+   Sarasota, FL 34233
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.ltdomains.com
-   ns2.ltdomains.com
-   ns3.ltdomains.com
-   ns4.ltdomains.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 01 Sep 2005 03:05:00
-Expiration date: 01 Sep 2012 03:05:00
+Creation date: 28 Jul 2002 01:10:55
+Expiration date: 28 Jul 2012 01:10:55
 
 
 

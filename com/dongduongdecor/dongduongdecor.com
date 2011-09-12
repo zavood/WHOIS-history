@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LTDOMAINS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LTDOMAINS.COM
-   Name Server: NS2.LTDOMAINS.COM
-   Name Server: NS3.LTDOMAINS.COM
-   Name Server: NS4.LTDOMAINS.COM
+   Domain Name: DONGDUONGDECOR.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: DNS17.FPT.VN
+   Name Server: DNS18.FPT.VN
    Status: clientTransferProhibited
-   Updated Date: 26-oct-2010
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2012
+   Updated Date: 15-dec-2009
+   Creation Date: 25-may-2003
+   Expiration Date: 25-may-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:15 UTC &lt;&lt;&lt;
 
@@ -53,67 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Domain name: ltdomains.com
-
-Administrative Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Technical Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Registrant Contact:
-   Layeretech
-   Layered Tech ()
-
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Status: Locked
-
-Name Servers:
-   ns1.ltdomains.com
-   ns2.ltdomains.com
-   ns3.ltdomains.com
-   ns4.ltdomains.com
-
-Creation date: 01 Sep 2005 03:05:00
-Expiration date: 01 Sep 2012 03:05:00
+   Registrant:
+      NA
+      FPT Communications
+      75 Tran Hung Dao, Hoan Kiem
+      Ha Noi, Ha Noi 10000
+      VN
+      Phone: +84.5555555555
+      Email: hieulc@fpt.vn
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   Domain Name: dongduongdecor.com
+      Created on..............: 2003-05-25
+      Expires on..............: 2013-05-25
+
+   Administrative Contact:
+      NA
+      Hieu Luong
+      75 Tran Hung Dao, Hoan Kiem
+      Ha Noi, Ha Noi 10000
+      VN
+      Phone: +84.48223100
+      Email: hieulc@fpt.vn
+
+
+   Technical  Contact:
+      NA
+      Hieu Luong
+      75 Tran Hung Dao, Hoan Kiem
+      Ha Noi, Ha Noi 10000
+      VN
+      Phone: +84.48223100
+      Email: hieulc@fpt.vn
+
+
+   DNS Servers:
+      dns17.fpt.vn
+      dns18.fpt.vn
+
+
+
+Visit AboutUs.org for more information about dongduongdecor.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/dongduongdecor.com&quot;&gt;AboutUs: dongduongdecor.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

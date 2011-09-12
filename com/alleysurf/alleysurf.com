@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Domain Name: ALLEYSURF.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS11.OWNATE.COM
+   Name Server: NS12.OWNATE.COM
+   Status: ok
+   Updated Date: 18-oct-2010
+   Creation Date: 18-oct-2010
+   Expiration Date: 18-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:41:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about alleysurf.com
+&lt;a href=&quot;http://www.aboutus.org/alleysurf.com&quot;&gt;AboutUs: alleysurf.com&lt;/a&gt;
+
+
+Domain name: alleysurf.com
+
+Administrative Contact:
+   OWNaTE.com
+   Matthew Greene (pockettorch@gmail.com)
+   +1.4066531113
+   Fax:
+   116 Main Street
+   Wolf Point, MT 59201
+   US
+
+Technical Contact:
+   OWNaTE.com
+   Matthew Greene (pockettorch@gmail.com)
+   +1.4066531113
+   Fax:
+   116 Main Street
+   Wolf Point, MT 59201
+   US
+
+Registrant Contact:
+   OWNaTE.com
+   Matthew Greene ()
+
+   Fax:
+   116 Main Street
+   Wolf Point, MT 59201
+   US
+
+Status: Active
+
+Name Servers:
+   ns11.ownate.com
+   ns12.ownate.com
+
+Creation date: 18 Oct 2010 15:29:49
+Expiration date: 18 Oct 2011 15:29:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

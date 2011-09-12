@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
+   Domain Name: CALIFORNIA-HOME-LOAN-CENTER.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.SITEHOSTING.NET
+   Name Server: NS3.SITEHOSTING.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 28-feb-2003
+   Expiration Date: 28-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... california-home-loan-center.com
+  Creation Date........ 2003-03-01
+  Registration Date.... 2003-03-01
+  Expiry Date.......... 2016-03-01
+  Organisation Name.... Jessie J. Beaudoin
+  Organisation Address. 729 E. Jefferson St
+  Organisation Address.
+  Organisation Address. Pomona
+  Organisation Address. 91768
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Jessie Beaudoin
+  Admin Address........ 729 E. Jefferson St
+  Admin Address........
+  Admin Address........ Pomona
+  Admin Address........ 91768
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... jessiebeaudoin@gmail.com
+  Admin Phone.......... 00000
+  Admin Fax............
+
+Tech Name............ Jessie Beaudoin
+  Tech Address......... 729 E. Jefferson St
+  Tech Address.........
+  Tech Address......... Pomona
+  Tech Address......... 91768
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... jessiebeaudoin@gmail.com
+  Tech Phone........... 00000
+  Tech Fax.............
+  Name Server.......... ns1.sitehosting.net
+  Name Server.......... ns3.sitehosting.net
+
+

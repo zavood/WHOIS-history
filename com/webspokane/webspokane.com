@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LTDOMAINS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LTDOMAINS.COM
-   Name Server: NS2.LTDOMAINS.COM
-   Name Server: NS3.LTDOMAINS.COM
-   Name Server: NS4.LTDOMAINS.COM
+   Domain Name: WEBSPOKANE.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.GO180.NET
+   Name Server: NS2.GO180.NET
    Status: clientTransferProhibited
-   Updated Date: 26-oct-2010
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2012
+   Updated Date: 28-jun-2011
+   Creation Date: 27-jun-2003
+   Expiration Date: 27-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:15 UTC &lt;&lt;&lt;
 
@@ -53,67 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Domain name: ltdomains.com
-
-Administrative Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Technical Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Registrant Contact:
-   Layeretech
-   Layered Tech ()
-
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
-   US
-
-Status: Locked
-
-Name Servers:
-   ns1.ltdomains.com
-   ns2.ltdomains.com
-   ns3.ltdomains.com
-   ns4.ltdomains.com
-
-Creation date: 01 Sep 2005 03:05:00
-Expiration date: 01 Sep 2012 03:05:00
+   Registrant:
+      KXLY Broadcast Group
+      Dave Simmons
+      500 West Boone Avenue
+      Spokane, WA 99201
+      US
+      Phone: 509-324-4000
+      Email: daves@kxly.com
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   Domain Name: webspokane.com
+      Created on..............: 2003-06-27
+      Expires on..............: 2012-06-27
+
+   Administrative Contact:
+      KXLY Broadcast Group
+      Dave Simmons
+      500 West Boone Avenue
+      Spokane, WA 99201
+      US
+      Phone: 509-324-4000
+      Email: daves@kxly.com
+
+
+   Technical  Contact:
+      Register.Com
+      Domain Registrar
+      575 8th Avenue 11th Floor
+      New York, NY 10018
+      US
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
+
+
+   DNS Servers:
+      ns1.go180.net
+      ns2.go180.net
+
+
+
+Visit AboutUs.org for more information about webspokane.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/webspokane.com&quot;&gt;AboutUs: webspokane.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

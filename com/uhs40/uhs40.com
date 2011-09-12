@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LTDOMAINS.COM
+   Domain Name: UHS40.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LTDOMAINS.COM
-   Name Server: NS2.LTDOMAINS.COM
-   Name Server: NS3.LTDOMAINS.COM
-   Name Server: NS4.LTDOMAINS.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 26-oct-2010
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2012
+   Updated Date: 27-feb-2011
+   Creation Date: 26-feb-2009
+   Expiration Date: 26-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:40:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
+Visit AboutUs.org for more information about uhs40.com
+&lt;a href=&quot;http://www.aboutus.org/uhs40.com&quot;&gt;AboutUs: uhs40.com&lt;/a&gt;
 
 
-Domain name: ltdomains.com
+Domain name: uhs40.com
 
 Administrative Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (ypsshkvmxj@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O uhs40.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Layeretech
-   Layered Tech (syseng@layeredtech.com)
-   +1.9723987034
-   Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (ypsshkvmxj@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O uhs40.com
+   Bellevue, WA 98007
    US
 
 Registrant Contact:
-   Layeretech
-   Layered Tech ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   5085 W Park Blvd, Suite #700
-   Plano, TX 75043
+   PMB 368, 14150 NE 20th St - F1
+   C/O uhs40.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.ltdomains.com
-   ns2.ltdomains.com
-   ns3.ltdomains.com
-   ns4.ltdomains.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 01 Sep 2005 03:05:00
-Expiration date: 01 Sep 2012 03:05:00
+Creation date: 26 Feb 2009 23:38:27
+Expiration date: 26 Feb 2012 23:38:27
 
 
 

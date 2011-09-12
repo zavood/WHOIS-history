@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIDCOOL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REGISTERSITE.COM
-   Name Server: NS2.REGISTERSITE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 10-may-2003
-   Expiration Date: 10-may-2012
+   Domain Name: BLACKANDLEKKER.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS.FASTNAME.NO
+   Name Server: NS2.FASTNAME.NO
+   Status: ok
+   Updated Date: 27-jan-2011
+   Creation Date: 26-jan-2005
+   Expiration Date: 26-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:42:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,29 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+; This data is provided by INIC AS - FastName.no
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; INIC AS - FastName.no does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: BLACKANDLEKKER.COM
+
+RSP: INIC AS - FastName.no
+URL: http://www.fastname.no
+
+nameserver: ns.fastname.no
+nameserver: ns2.fastname.no
+
+; Please register your domains at
+; http://www.fastname.no
+
