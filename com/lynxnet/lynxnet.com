@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUICKEN.COM
+   Domain Name: LYNXNET.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.QUICKEN.COM
-   Name Server: DNS2.QUICKEN.COM
-   Name Server: DNS3.INTUIT.COM
-   Name Server: DNS4.INTUIT.COM
+   Name Server: DNS1.USLEC.NET
+   Name Server: DNS2.USLEC.NET
+   Name Server: NS1.FAST.NET
    Status: clientTransferProhibited
-   Updated Date: 12-jun-2008
-   Creation Date: 13-jun-1995
-   Expiration Date: 12-jun-2018
+   Updated Date: 23-sep-2010
+   Creation Date: 10-oct-1996
+   Expiration Date: 09-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:01:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:00:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +75,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about QUICKEN.COM
-&lt;a href=&quot;http://www.aboutus.org/QUICKEN.COM&quot;&gt;AboutUs: QUICKEN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about LYNXNET.COM
+&lt;a href=&quot;http://www.aboutus.org/LYNXNET.COM&quot;&gt;AboutUs: LYNXNET.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-INTUIT INC.
-   7535 Torrey Santa Fe Rd.
-   San Diego, CA 92129
+Lynx Computer Technologies, Inc
+   7 Bristol Ct
+   Wyomissing Hills, PA 19610
    US
 
-   Domain Name: QUICKEN.COM
+   Domain Name: LYNXNET.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,23 +95,31 @@ INTUIT INC.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      INTUIT INC.		nadmin@intuit.com
-      7535 Torrey Santa Fe Rd.
-      San Diego, CA 92129
+   Administrative Contact:
+      LYNX Computer Technologies, Inc.		support@LYNXNET.COM
+      7 BRISTOL CT
+      READING, PA 19610-1805
       US
-      858 215 8000 fax: 123 123 1234
+      610-678-8131 fax: 610-678-8744
+
+   Technical Contact:
+      Operations Center, FASTNET Network		domreg@fast.net
+      USLEC Corp
+      3864 Courtney St.
+      Suite 130
+      Bethlehem, PA 18017
+      US
+      800-967-2233 fax: (610) 954-5925
 
 
-   Record expires on 12-Jun-2018.
-   Record created on 13-Jun-1995.
-   Database last updated on 12-Sep-2011 17:57:32 EDT.
+   Record expires on 09-Oct-2015.
+   Record created on 10-Oct-1996.
+   Database last updated on 12-Sep-2011 17:50:51 EDT.
 
    Domain servers in listed order:
 
-   DNS1.QUICKEN.COM             206.154.105.66
-   DNS2.QUICKEN.COM             206.154.105.67
-   DNS3.INTUIT.COM              198.31.208.70
-   DNS4.INTUIT.COM              198.31.208.71
+   DNS1.USLEC.NET
+   DNS2.USLEC.NET
+   NS1.FAST.NET
 
 

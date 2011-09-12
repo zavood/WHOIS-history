@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUICKEN.COM
+   Domain Name: INGATLAN.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.QUICKEN.COM
-   Name Server: DNS2.QUICKEN.COM
-   Name Server: DNS3.INTUIT.COM
-   Name Server: DNS4.INTUIT.COM
+   Name Server: NS2.INTERWARE.HU
+   Name Server: ZOMBI.LOXON.HU
    Status: clientTransferProhibited
-   Updated Date: 12-jun-2008
-   Creation Date: 13-jun-1995
-   Expiration Date: 12-jun-2018
+   Updated Date: 18-sep-2010
+   Creation Date: 18-nov-1997
+   Expiration Date: 17-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:01:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about QUICKEN.COM
-&lt;a href=&quot;http://www.aboutus.org/QUICKEN.COM&quot;&gt;AboutUs: QUICKEN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about INGATLAN.COM
+&lt;a href=&quot;http://www.aboutus.org/INGATLAN.COM&quot;&gt;AboutUs: INGATLAN.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-INTUIT INC.
-   7535 Torrey Santa Fe Rd.
-   San Diego, CA 92129
-   US
+Arkon Zrt.
+   Meszaros u. 58/A
+   Budapest, No Valid State 1016
+   HU
 
-   Domain Name: QUICKEN.COM
+   Domain Name: INGATLAN.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,22 +95,22 @@ INTUIT INC.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      INTUIT INC.		nadmin@intuit.com
-      7535 Torrey Santa Fe Rd.
-      San Diego, CA 92129
-      US
-      858 215 8000 fax: 123 123 1234
+      Korbuly, Krisztian		kkorbuly@ingatlan.com
+      Arkon Zrt.
+      Budapest
+      Meszaros u. 58/A
+      Budapest, Budapest 1016
+      HU
+      +36-1-237-2060 fax: +36-1-237-2069
 
 
-   Record expires on 12-Jun-2018.
-   Record created on 13-Jun-1995.
-   Database last updated on 12-Sep-2011 17:57:32 EDT.
+   Record expires on 17-Nov-2015.
+   Record created on 18-Nov-1997.
+   Database last updated on 12-Sep-2011 17:57:48 EDT.
 
    Domain servers in listed order:
 
-   DNS1.QUICKEN.COM             206.154.105.66
-   DNS2.QUICKEN.COM             206.154.105.67
-   DNS3.INTUIT.COM              198.31.208.70
-   DNS4.INTUIT.COM              198.31.208.71
+   ZOMBI.LOXON.HU
+   NS2.INTERWARE.HU
 
 

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUICKEN.COM
+   Domain Name: HAVERTYS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.QUICKEN.COM
-   Name Server: DNS2.QUICKEN.COM
-   Name Server: DNS3.INTUIT.COM
-   Name Server: DNS4.INTUIT.COM
+   Name Server: NS-EAST.CERF.NET
+   Name Server: NS-WEST.CERF.NET
    Status: clientTransferProhibited
-   Updated Date: 12-jun-2008
-   Creation Date: 13-jun-1995
-   Expiration Date: 12-jun-2018
+   Updated Date: 10-may-2011
+   Creation Date: 11-dec-1995
+   Expiration Date: 10-dec-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:01:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:02:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about QUICKEN.COM
-&lt;a href=&quot;http://www.aboutus.org/QUICKEN.COM&quot;&gt;AboutUs: QUICKEN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about HAVERTYS.COM
+&lt;a href=&quot;http://www.aboutus.org/HAVERTYS.COM&quot;&gt;AboutUs: HAVERTYS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-INTUIT INC.
-   7535 Torrey Santa Fe Rd.
-   San Diego, CA 92129
+Haverty Furniture Companies Inc
+   780 Johnson Ferry Rd.
+   Suite 800
+   Atlanta, GA 30342
    US
 
-   Domain Name: QUICKEN.COM
+   Domain Name: HAVERTYS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,23 +95,29 @@ INTUIT INC.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      INTUIT INC.		nadmin@intuit.com
-      7535 Torrey Santa Fe Rd.
-      San Diego, CA 92129
+   Administrative Contact:
+      Zurica, Pat		pzurica@HAVERTYS.COM
+      HAVERTY FURNITURE COMPANIES INC
+      780 JOHNSON FERRY RD NE STE 800
+      ATLANTA, GA 30342-1434
       US
-      858 215 8000 fax: 123 123 1234
+      (404) 443-4219 fax: (404) 443-4182
+
+   Technical Contact:
+      GNMC		rm-hostmaster@ems.att.com
+      424 S. Woodsmill Rd
+      Chesterfield, MO 63037
+      US
+      800-325-1898 fax: 281-664-9975
 
 
-   Record expires on 12-Jun-2018.
-   Record created on 13-Jun-1995.
-   Database last updated on 12-Sep-2011 17:57:32 EDT.
+   Record expires on 10-Dec-2016.
+   Record created on 11-Dec-1995.
+   Database last updated on 12-Sep-2011 17:52:19 EDT.
 
    Domain servers in listed order:
 
-   DNS1.QUICKEN.COM             206.154.105.66
-   DNS2.QUICKEN.COM             206.154.105.67
-   DNS3.INTUIT.COM              198.31.208.70
-   DNS4.INTUIT.COM              198.31.208.71
+   NS-EAST.CERF.NET             207.252.96.3
+   NS-WEST.CERF.NET             192.153.156.3
 
 
