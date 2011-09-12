@@ -1,0 +1,33 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'irinn.ir'
+
+
+domain:		irinn.ir
+ascii:		irinn.ir
+remarks:	(Domain Holder) Islamic  Republic of Iran News Network IT Dept.
+remarks:	(Domain Holder Address) IRINNIRINN BuildingIRIB Jamejam Street.ValiAsr  Ave.TEHRAN - IRANTehran, IR19395-3888 P.O.B., IR
+holder-c:	---
+admin-c:	ma831-irnic
+tech-c:		ma831-irnic
+nserver:	ns1.irinn.ir
+nserver:	ns1.irib.ir
+nserver:	ns4.sinet.ir
+nserver:	ns1.iribnews.ir
+last-updated:	2011-07-30
+source:		IRNIC # Filtered
+
+nic-hdl:	ma831-irnic
+person:		masoud aminipour
+e-mail:		amini@irib.ir
+address:	IRINNIRIBJamejam - VAliAsr St., Tehran, Tehran, IR
+phone:		+98 21 22013914
+fax-no:		+98 21 22013914
+source:		IRNIC # Filtered
+
