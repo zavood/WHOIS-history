@@ -5,17 +5,12 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AMPHLETT.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-oct-2006
-   Creation Date: 12-nov-1999
-   Expiration Date: 12-nov-2013
+INDIAMART.COM.STARSPECIALAIRGASES.COM
+INDIAMART.COM
+
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:14:14 UTC &lt;&lt;&lt;
 
@@ -52,5 +47,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.

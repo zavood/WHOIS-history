@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AMPHLETT.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-oct-2006
-   Creation Date: 12-nov-1999
-   Expiration Date: 12-nov-2013
+   Domain Name: KATEANDMIKEWEDDING.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS49.DOMAINCONTROL.COM
+   Name Server: NS50.DOMAINCONTROL.COM
+   Status: pendingDelete
+   Updated Date: 09-sep-2011
+   Creation Date: 28-jun-2010
+   Expiration Date: 28-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:14:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:12:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+No match for &quot;kateandmikewedding.com&quot; in the registrar database.
+

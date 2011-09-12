@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105003547-LROR
+Domain Name:GREYLODGE.ORG
+Created On:15-Oct-2004 17:56:50 UTC
+Last Updated On:07-Jun-2011 17:26:29 UTC
+Expiration Date:15-Oct-2012 17:56:50 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR85062797
+Registrant Name:Pale Rider
+Registrant Organization:Greylodge
+Registrant Street1:27 West Anapamu
+Registrant Street2:#166
+Registrant Street3:
+Registrant City:Santa Barbara
+Registrant State/Province:California
+Registrant Postal Code:93101
+Registrant Country:US
+Registrant Phone:+1.8055551212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:joseph@matheny.com
+Admin ID:CR85062801
+Admin Name:Pale Rider
+Admin Organization:Greylodge
+Admin Street1:27 West Anapamu
+Admin Street2:#166
+Admin Street3:
+Admin City:Santa Barbara
+Admin State/Province:California
+Admin Postal Code:93101
+Admin Country:US
+Admin Phone:+1.8055551212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:joseph@matheny.com
+Tech ID:CR85062799
+Tech Name:Pale Rider
+Tech Organization:Greylodge
+Tech Street1:27 West Anapamu
+Tech Street2:#166
+Tech Street3:
+Tech City:Santa Barbara
+Tech State/Province:California
+Tech Postal Code:93101
+Tech Country:US
+Tech Phone:+1.8055551212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:joseph@matheny.com
+Name Server:NS75.DOMAINCONTROL.COM
+Name Server:NS76.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
