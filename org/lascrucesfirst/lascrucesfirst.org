@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152325181-LROR
+Domain Name:LASCRUCESFIRST.ORG
+Created On:09-Apr-2008 20:41:03 UTC
+Last Updated On:15-Sep-2010 01:25:24 UTC
+Expiration Date:09-Apr-2012 20:41:03 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR62642285
+Registrant Name:Casey Fava
+Registrant Organization:Las Cruces First Assembly of God
+Registrant Street1:5605 Bataan Memorial W
+Registrant Street2:#1
+Registrant Street3:
+Registrant City:Las Cruces
+Registrant State/Province:New Mexico
+Registrant Postal Code:88012
+Registrant Country:US
+Registrant Phone:+1.5755240654
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:casey@lascrucesfirst.org
+Admin ID:CR62642287
+Admin Name:Casey Fava
+Admin Organization:Las Cruces First Assembly of God
+Admin Street1:5605 Bataan Memorial W
+Admin Street2:#1
+Admin Street3:
+Admin City:Las Cruces
+Admin State/Province:New Mexico
+Admin Postal Code:88012
+Admin Country:US
+Admin Phone:+1.5755240654
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:casey@lascrucesfirst.org
+Tech ID:CR62642286
+Tech Name:Casey Fava
+Tech Organization:Las Cruces First Assembly of God
+Tech Street1:5605 Bataan Memorial W
+Tech Street2:#1
+Tech Street3:
+Tech City:Las Cruces
+Tech State/Province:New Mexico
+Tech Postal Code:88012
+Tech Country:US
+Tech Phone:+1.5755240654
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:casey@lascrucesfirst.org
+Name Server:NS13.DOMAINCONTROL.COM
+Name Server:NS14.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
