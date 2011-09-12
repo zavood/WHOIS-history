@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154410551-LROR
+Domain Name:RIVERFALLSPUBLICLIBRARY.ORG
+Created On:06-Oct-2008 20:55:48 UTC
+Last Updated On:17-Dec-2009 01:44:48 UTC
+Expiration Date:06-Oct-2011 20:55:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37027768
+Registrant Name:Kim Kiiskinen
+Registrant Organization:River Falls Public Library
+Registrant Street1:140 Union St
+Registrant Street2:River Falls Public Library
+Registrant Street3:
+Registrant City:River Falls
+Registrant State/Province:Wisconsin
+Registrant Postal Code:54022
+Registrant Country:US
+Registrant Phone:+1.7154250905
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rfreference@ifls.lib.wi.us
+Admin ID:CR37027770
+Admin Name:Kim Kiiskinen
+Admin Organization:River Falls Public Library
+Admin Street1:140 Union St
+Admin Street2:River Falls Public Library
+Admin Street3:
+Admin City:River Falls
+Admin State/Province:Wisconsin
+Admin Postal Code:54022
+Admin Country:US
+Admin Phone:+1.7154250905
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rfreference@ifls.lib.wi.us
+Tech ID:CR37027769
+Tech Name:Kim Kiiskinen
+Tech Organization:River Falls Public Library
+Tech Street1:140 Union St
+Tech Street2:River Falls Public Library
+Tech Street3:
+Tech City:River Falls
+Tech State/Province:Wisconsin
+Tech Postal Code:54022
+Tech Country:US
+Tech Phone:+1.7154250905
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rfreference@ifls.lib.wi.us
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
