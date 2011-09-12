@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:39:58 (BRT -03:00)
+
+domain:      meermagen.com.br
+owner:       Meermagen-Importacao, Exportacao e Assessoria Ltda
+ownerid:     054.530.076/0001-58
+responsible: Alex Douglas Figueiredo
+country:     BR
+owner-c:     ALDFI
+admin-c:     ALDFI
+tech-c:      ALDFI
+billing-c:   ALDFI
+nserver:     ns1.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20011030 #668099
+expires:     20111030
+changed:     20101014
+status:      published
+
+nic-hdl-br:  ALDFI
+person:      Alex Douglas Figueiredo
+e-mail:      figueiredo.development@gmail.com
+created:     20070207
+changed:     20100127
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; msh-paris.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      msh-paris.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDSD11-FRNIC
+admin-c:     JL2169-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5838-FRNIC
+registrar:   RENATER
+anniversary: 18/10
+created:     18/10/1995
+last-update: 18/10/1995
+source:      FRNIC
+
+ns-list:     NSL5838-FRNIC
+nserver:     alize.msh-paris.fr [195.221.170.194]
+nserver:     calypso.urec.cnrs.fr [194.57.137.114 2001:660:3302:7001::2]
+nserver:     kirova.pmsh.msh-paris.fr [193.51.121.231]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     MDSD11-FRNIC
+type:        ORGANIZATION
+contact:     Maison des Sciences de l'Homme
+address:     54, boulevard Raspail
+address:     75006 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     JL2169-FRNIC
+type:        PERSON
+contact:     Jean-Louis Leonhardt
+address:     LISH - Maison des Sciences de l'Homme
+address:     54, boulevard Raspail
+address:     75006 Paris
+country:     FR
+phone:       +33 1 49 54 22 02
+fax-no:      +33 1 49 54 21 89
+e-mail:      leonhardt@lish.msh-paris.fr
+notify:      leonhardt@lish.msh-paris.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

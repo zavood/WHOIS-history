@@ -1,0 +1,71 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:40:13 2011
+
+domain:       mpo.cz
+registrant:   SB:PP388-RIPE_XX
+admin-c:      PP388-RIPE
+nsset:        MPOCZ3
+registrar:    REG-CT
+status:       paid and in zone
+registered:   15.10.1996 02:00:00
+changed:      04.01.2011 12:20:16
+expire:       29.10.2014
+
+contact:      SB:PP388-RIPE_XX
+org:          Ministry of Industry and Trade
+name:         Ministry of Industry and Trade
+address:      Politickych veznu 20
+address:      Praha 1
+address:      112 49
+address:      CZ
+e-mail:       Pokorny@alef.mpo.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+
+contact:      PP388-RIPE
+name:         Pavel Pokorny
+address:      CZ
+phone:        +420 221262148
+fax-no:       +420 2220134
+e-mail:       Pokorny@alef.mpo.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+
+nsset:        MPOCZ3
+nserver:      alef.mpo.cz (193.84.96.11, 2001:af0:fff8:fff1::b)
+nserver:      ns.inecnet.cz (212.47.0.10)
+tech-c:       SB:IOL1-RIPE
+registrar:    REG-CT
+created:      04.01.2011 12:19:58
+
+contact:      SB:IOL1-RIPE
+org:          Telef&Atilde;&sup3;nica Czech Republic, a.s.
+name:         Telef&Atilde;&sup3;nica Czech Republic, a.s.
+address:      Za Brumlovkou 266/2
+address:      Praha 4
+address:      14022
+address:      CZ
+phone:        +420.271466183
+e-mail:       hostmaster@iol.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+changed:      31.05.2011 11:35:24
+
+

@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:41:24 (BRT -03:00)
+
+domain:      maxiweb.com.br
+owner:       Pedro S&eacute;rgio Rigolo-ME
+ownerid:     052.981.156/0001-02
+responsible: Pedro Sergio Rigolo
+country:     BR
+owner-c:     PSR3
+admin-c:     PSR3
+tech-c:      ACF118
+billing-c:   PSR3
+nserver:     ns1.maxiweb.com.br 187.49.32.8 2804:1a4:1::8
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.maxiweb.com.br 200.152.201.130 2804:1a4:1::9
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.maxiweb.com.br 208.79.240.3 2607:fe70:0:3::b
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     19980812 #111181
+expires:     20150812
+changed:     20110114
+status:      published
+
+nic-hdl-br:  ACF118
+person:      Alexandre Chaves Fonseca
+e-mail:      abuse@specialist.srv.br
+created:     20000321
+changed:     20110426
+
+nic-hdl-br:  PSR3
+person:      Pedro Sergio Rigolo
+e-mail:      abuse@maxiweb.com.br
+created:     19980326
+changed:     20110426
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
