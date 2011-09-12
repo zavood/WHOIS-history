@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-12T15:37:30+12:00
+domain_name: basicbikes.co.nz
+query_status: 200 Active
+domain_dateregistered: 2008-06-16T19:59:22+12:00
+domain_datebilleduntil: 2012-06-16T19:59:22+12:00
+domain_datelastmodified: 2011-09-08T09:30:13+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: Ewen Robertson
+registrant_contact_address1: PO Box 8278
+registrant_contact_address2: Riccarton
+registrant_contact_city: Christchurch
+registrant_contact_postalcode: 8440
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 3416050
+registrant_contact_email: hosting@csolutions.co.nz
+%
+admin_contact_name: Synapse Media Limited
+admin_contact_address1: PO Box 8278
+admin_contact_address2: Riccarton
+admin_contact_city: Christchurch
+admin_contact_postalcode: 8440
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 3584856
+admin_contact_email: hosting@synapse.net.nz
+%
+technical_contact_name: Synapse Media Limited
+technical_contact_address1: PO Box 8278
+technical_contact_address2: Riccarton
+technical_contact_city: Christchurch
+technical_contact_postalcode: 8440
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 3 3416050
+technical_contact_fax: +64 3 3416023
+technical_contact_email: hosting@synapse.net.nz
+%
+ns_name_01: ns1.1stdomains.net.nz
+ns_name_02: ns2.1stdomains.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
