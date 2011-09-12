@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10526089-LROR
+Domain Name:TRUMED.ORG
+Created On:22-Sep-1999 05:30:07 UTC
+Last Updated On:03-Feb-2009 19:34:02 UTC
+Expiration Date:22-Sep-2013 05:30:06 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28655706-NSI
+Registrant Name:Truman Medical Centers, Inc.
+Registrant Organization:Truman Medical Centers, Inc.
+Registrant Street1:Ste. 740
+Registrant Street2:2310 Holmes
+Registrant Street3:
+Registrant City:Kansas City
+Registrant State/Province:MO
+Registrant Postal Code:64108
+Registrant Country:US
+Registrant Phone:+1.8164042000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@TMCMED.ORG
+Admin ID:16440819-NSI
+Admin Name:Truman Medical Center
+Admin Organization:Truman Medical Center
+Admin Street1:2301 HOLMES ST
+Admin Street2:
+Admin Street3:
+Admin City:KANSAS CITY
+Admin State/Province:MO
+Admin Postal Code:64108-2640
+Admin Country:US
+Admin Phone:+1.8165563592
+Admin Phone Ext.:
+Admin FAX:+1.8165564747
+Admin FAX Ext.:
+Admin Email:hostmaster@TMCMED.ORG
+Tech ID:28655707-NSI
+Tech Name:TMC Hostmaster
+Tech Organization:Truman Medical Centers, Inc.
+Tech Street1:2310 Holmes, Ste. 740
+Tech Street2:
+Tech Street3:
+Tech City:Kansas City
+Tech State/Province:MO
+Tech Postal Code:64108
+Tech Country:US
+Tech Phone:+1.8164042000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@TMCMED.ORG
+Name Server:CBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:CMTU.MT.NS.ELS-GMS.ATT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
