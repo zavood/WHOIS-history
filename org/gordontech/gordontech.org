@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D784335-LROR
+Domain Name:GORDONTECH.ORG
+Created On:09-Dec-1996 05:00:00 UTC
+Last Updated On:23-Dec-2009 21:08:17 UTC
+Expiration Date:08-Dec-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38118535-NSI
+Registrant Name:Gordon Tech High School
+Registrant Organization:Gordon Tech High School
+Registrant Street1:3633 N. California
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60618
+Registrant Country:US
+Registrant Phone:+1.7735393600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38118536-NSI
+Admin Name:David Vasquez
+Admin Organization:Gordon Tech High School
+Admin Street1:3633 N. California
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60618
+Admin Country:US
+Admin Phone:+1.7735393600
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dvasquez@gordontech.org
+Tech ID:38118536-NSI
+Tech Name:David Vasquez
+Tech Organization:Gordon Tech High School
+Tech Street1:3633 N. California
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60618
+Tech Country:US
+Tech Phone:+1.7735393600
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dvasquez@gordontech.org
+Name Server:NS89.WORLDNIC.COM
+Name Server:NS90.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIZSC.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS1.SEDOPARKING.COM
-   Name Server: NS2.SEDOPARKING.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-jul-2011
-   Creation Date: 09-jul-2011
-   Expiration Date: 09-jul-2012
+   Domain Name: MMMFRUITY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.MMMFRUITY.COM
+   Name Server: NS2.MMMFRUITY.COM
+   Status: ok
+   Updated Date: 27-oct-2010
+   Creation Date: 29-oct-2008
+   Expiration Date: 29-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:44:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:45:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Domain Name.......... mmmfruity.com
+  Creation Date........ 2008-10-30
+  Registration Date.... 2008-10-30
+  Expiry Date.......... 2011-10-30
+  Organisation Name.... Lycos, Inc.
+  Organisation Address. Yermaa Ave.
+  Organisation Address.
+  Organisation Address. Edinburgh
+  Organisation Address. EH22 5AD
+  Organisation Address. Midlothian
+  Organisation Address. GREAT BRITAIN (UK)
+
+Admin Name........... Stuart Crout
+  Admin Address........ Yermaa Ave.
+  Admin Address........
+  Admin Address........ Edinburgh
+  Admin Address........ EH22 5AD
+  Admin Address........ Midlothian
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... pockets100@hotmail.com
+  Admin Phone.......... 07511714692
+  Admin Fax............ +1.7814667060
+
+Tech Name............ Lycos Domains NIC
+  Tech Address......... 100 Fifth Ave
+  Tech Address.........
+  Tech Address......... Waltham
+  Tech Address......... 02451
+  Tech Address......... MA
+  Tech Address......... UNITED STATES
+  Tech Email........... nic@domains.lycos.com
+  Tech Phone........... +1.7813702700
+  Tech Fax.............
+  Name Server.......... ns1.mmmfruity.com
+  Name Server.......... ns2.mmmfruity.com
 
 
-Registrant:
-   Park HyungJin
-
-   Registered through: Domains at Retail
-   Domain Name: BIZSC.COM
-
-   Domain servers in listed order:
-      NS1.SEDOPARKING.COM
-      NS2.SEDOPARKING.COM
-
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=BIZSC.COM&amp;prog_id=mkralj

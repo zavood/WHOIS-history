@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         host.sk
+Admin-id            LMM--0001
+Admin-name          Prime Interactive s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35748346
+Admin-address       Vysoka 26, Bratislava 81106
+Admin-telephone     02-32117700, 0903556778
+Admin-email         info@primeinteractive.net
+Tech-id             LMM--0001
+Tech-name           Prime Interactive s.r.o.
+Tech-org.-ID        35748346
+Tech-address        Vysoka 26, Bratislava 81106
+Tech-telephone      02-32117700, 0903556778
+Tech-email          info@primeinteractive.net
+dns_name            ns1.primeinteractive.net
+dns_name            ns2.primeinteractive.net
+Last-update         2011-01-10
+Valid-date          2012-01-23
+Domain-status       DOM_OK
+
