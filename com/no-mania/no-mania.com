@@ -5,24 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 0FEES.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 23-oct-2007
-   Expiration Date: 23-oct-2011
+   Domain Name: NO-MANIA.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: VDNS.SHINOBI.JP
+   Status: ok
+   Updated Date: 07-jun-2011
+   Creation Date: 14-jul-2009
+   Expiration Date: 14-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:50:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:48:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,40 +50,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: no-mania.com
+Created On: 2009-07-14 07:49:01.0
+Last Updated On: 2011-06-08 12:27:38.0
+Expiration Date: 2012-07-14 07:49:01.0
+Status: ACTIVE
+Registrant Name: Junichi Ryusekido
+Registrant Organization: Samurai Factory Inc.
+Registrant Street1: 16-28 Nanpeidai-cho
+Registrant Street2: Glass City Shibuya 5F
+Registrant City: Shibuya-ku
+Registrant State: Tokyo
+Registrant Postal Code: 150-0036
+Registrant Country: JP
+Registrant Phone: 0362775281
+Registrant Fax:
+Registrant Email: domainregist@ml.ninja.co.jp
+Admin Name: Junichi Ryusekido
+Admin Organization: Samurai Factory Inc.
+Admin Street1: Nanpeidai-cho 16-28
+Admin Street2:
+Admin City: Shibuya-ku
+Admin State: Tokyo-to
+Admin Postal Code: 150-0036
+Admin Country: JP
+Admin Phone: 0362775281
+Admin Fax: 0362775283
+Admin Email: domainregist@ml.ninja.co.jp
+Billing Name: Junichi Ryusekido
+Billing Organization: Samurai Factory Inc.
+Billing Street1: Nanpeidai-cho 16-28
+Billing Street2:
+Billing City: Shibuya-ku
+Billing State: Tokyo-to
+Billing Postal Code: 150-0036
+Billing Country: JP
+Billing Phone: 0362775281
+Billing Fax: 0362775283
+Billing Email: domainregist@ml.ninja.co.jp
+Tech Name: Junichi Ryusekido
+Tech Organization: Samurai Factory Inc.
+Tech Street1: Nanpeidai-cho 16-28
+Tech Street2:
+Tech City: Shibuya-ku
+Tech State: Tokyo-to
+Tech Postal Code: 150-0036
+Tech Country: JP
+Tech Phone: 0362775281
+Tech Fax: 0362775283
+Tech Email: domainregist@ml.ninja.co.jp
+Name Server: vdns.shinobi.jp
 
-Registrant:
-   II Hosting Media
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 0FEES.NET
-
-   Domain servers in listed order:
-      NS1.BYET.ORG
-      NS2.BYET.ORG
-      NS3.BYET.ORG
-      NS4.BYET.ORG
-      NS5.BYET.ORG
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=0FEES.NET
