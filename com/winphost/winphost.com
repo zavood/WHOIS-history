@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRAZZERSCONTENT.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Domain Name: WINPHOST.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WINPHOST.COM
+   Name Server: NS2.WINPHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 23-apr-2011
-   Creation Date: 08-jan-2011
-   Expiration Date: 08-jan-2013
+   Updated Date: 30-mar-2011
+   Creation Date: 04-apr-2008
+   Expiration Date: 04-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:23:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:24:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about winphost.com
+&lt;a href=&quot;http://www.aboutus.org/winphost.com&quot;&gt;AboutUs: winphost.com&lt;/a&gt;
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+Domain name: winphost.com
 
-By submitting this query, you agree to abide by the above policy.
+Registrant Contact:
 
-Whois History: 8 records have been archived since 2011-01-05
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=brazzerscontent.com
+   Wanderson Reis ()
 
-Domain: brazzerscontent.com
-Registrar: Eurodns S.A.
-
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+   Fax:
+   DSQ
+   Brasilia,  72020210
+   BR
 
 Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+
+   Wanderson Reis (wor_20@yahoo.com.br)
+   1233333
+   Fax:
+   DSQ
+   Brasilia,  72020210
+   BR
 
 Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
 
-Original Creation Date: 2011-01-08
-Expiration Date: 2013-01-07
+   Wanderson Reis (wor_20@yahoo.com.br)
+   1233333
+   Fax:
+   DSQ
+   Brasilia,  72020210
+   BR
 
-Status:
-clientTransferProhibited
+Status: Locked
 
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
+Name Servers:
+   ns1.winphost.com
+   ns2.winphost.com
 
+Creation date: 04 Apr 2008 15:06:19
+Expiration date: 04 Apr 2012 15:06:19
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRAZZERSCONTENT.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Domain Name: INFORMATION-CHRISTIANCAFE081510.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-apr-2011
-   Creation Date: 08-jan-2011
-   Expiration Date: 08-jan-2013
+   Status: clientUpdateProhibited
+   Updated Date: 03-sep-2011
+   Creation Date: 13-aug-2010
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:23:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:25:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,63 +54,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+Moniker Whois Server Version 2.0
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-By submitting this query, you agree to abide by the above policy.
+    Domain Name: INFORMATION-CHRISTIANCAFE081510.COM
+         Status: EXPIRED - PENDING DELETE
+        Contact: support@moniker.com
 
-Whois History: 8 records have been archived since 2011-01-05
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=brazzerscontent.com
+&lt;a href=&quot;http://www.moniker.com/renew-expired-domains.jsp?domain=INFORMATION-CHRISTIANCAFE081510.COM&quot; target=&quot;pending_delete&quot;&gt;Renew Now&lt;/a&gt;
 
-Domain: brazzerscontent.com
-Registrar: Eurodns S.A.
+&lt;a href=&quot;https://www.snapnames.com/?dom=INFORMATION-CHRISTIANCAFE081510.COM&amp;aff=400&quot; target=&quot;backorder&quot;&gt;Backorder this domain&lt;/a&gt;
 
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+Domain servers in listed order:
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+        NS3.MONIKER.COM
+        NS4.MONIKER.COM
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+        Record created on:        2010-08-13 15:27:07.393
+        Database last updated on: 2010-08-16 12:05:28.657
+        Domain Expires on:        2011-08-13 15:27:07.0
 
-Original Creation Date: 2011-01-08
-Expiration Date: 2013-01-07
-
-Status:
-clientTransferProhibited
-
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
 
