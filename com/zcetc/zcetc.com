@@ -5,12 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-NETFIRMS.COM.SIMPSONELLIMUSIC.COM
-NETFIRMS.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: ZCETC.COM
+   Registrar: NAME2HOST, INC. DBA NAME2HOST.COM
+   Whois Server: whois.name2host.com
+   Referral URL: http://www.name2host.com
+   Name Server: NS1.51.NET
+   Name Server: NS2.51.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Updated Date: 29-jul-2011
+   Creation Date: 01-aug-2008
+   Expiration Date: 01-aug-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:02:33 UTC &lt;&lt;&lt;
 
@@ -47,3 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain name: ZCETC.COM
+   Updated Date: 2008-08-01
+   Creation Date: 2008-08-01
+   Expiration Date: 2013-08-01
+
+Registrant:
+     maning
+    xingtaishixingxinxidajie1haozhucheng
+
+
+    xingtai  054025
+
+    Phone: 0319-2116466 Fax: 0319-2116466
+
+Administrative Contact:
+     maning xingtaizhucheng ningni001@163.com
+    xingtaishixingxinxidajie1haozhucheng
+
+
+    xingtai  054025
+
+    Phone: 0319-2116466 Fax: 0319-2116466
+
+Technical Contact:
+     maning xingtaizhucheng ningni001@163.com
+    xingtaishixingxinxidajie1haozhucheng
+
+
+    xingtai  054025
+
+    Phone: 0319-2116466 Fax: 0319-2116466
+
+Registrar of Record: NAME2HOST, INC.
+Domain servers in listed order:
+    NS1.51.NET   118.144.82.171
+    NS2.51.NET   118.144.82.172
+
+
+Name2Host makes this information available &quot;as is,&quot; and does not guarantee
+its accuracy.
+
+By submitting a WHOIS query, you agree not to use this data to allow,
+enable, or otherwise support for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to collect or compile this data for any purpose,
+including repackaging this data for your own personal or commercial purposes.
+
+Name2Host reserves the right to modify these terms at any time.
+
