@@ -5,44 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-JUSTHOST.COM.ZOOGYDISTRICT.COM
-JUSTHOST.COM.YOURMARCARTISTRY.COM
-JUSTHOST.COM.YOOZOOT.COM
-JUSTHOST.COM.XTREMEMASON.COM
-JUSTHOST.COM.WILLIAMBURRUS.COM
-JUSTHOST.COM.WEARETRAVISPORTER.NET
-JUSTHOST.COM.TWITTERTWEETTWEET.COM
-JUSTHOST.COM.TRACSQUAD.COM
-JUSTHOST.COM.TODAYIMMAKINGADIFFERENCE.COM
-JUSTHOST.COM.THEJLUBLOG.COM
-JUSTHOST.COM.SWAGGTALK.NET
-JUSTHOST.COM.SQUEEZEPEEL.COM
-JUSTHOST.COM.PLEXISTOCK.COM
-JUSTHOST.COM.MIKECOSENTINOMUSIC.COM
-JUSTHOST.COM.MICHAELJACKSONCONCERT.NET
-JUSTHOST.COM.KLEERBOX.COM
-JUSTHOST.COM.HOODICONS.COM
-JUSTHOST.COM.HEATHERCROSSDESIGNS.COM
-JUSTHOST.COM.FREETWITTERLAYOUT.NET
-JUSTHOST.COM.FREETWITTERLAYOUT.COM
-JUSTHOST.COM.FORECLOSURECHEMIST.COM
-JUSTHOST.COM.EKTALIMOSERVICE.COM
-JUSTHOST.COM.DTAYLORBOOKS.COM
-JUSTHOST.COM.CONCEPTCLOUD.NET
-JUSTHOST.COM.CARLTONADAMS.COM
-JUSTHOST.COM.CAKEBOSSJUNIOR.COM
-JUSTHOST.COM.BUYAMERICANSILVERCOINS.COM
-JUSTHOST.COM.BESTOFTYLERPERRY.COM
-JUSTHOST.COM.AUSSIEFREE.COM
-JUSTHOST.COM.ASKKUMTIE.NET
-JUSTHOST.COM.123REALDIAMONDS.COM
-JUSTHOST.COM
+   Domain Name: CENTREALQUIMIA.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS5.PIENSASOLUTIONS.COM
+   Name Server: NS6.PIENSASOLUTIONS.COM
+   Status: ok
+   Updated Date: 15-jul-2011
+   Creation Date: 14-jul-2008
+   Expiration Date: 14-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:29:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:30:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
+
+
+Distribuidor Autorizado:
+Piensa Solutions
+info@piensasolutions.com
+http://www.piensasolutions.com
+
+
+Domain name: centrealquimia.com
+
+Registrant:
+      espacio sagrado  (SROW-1033416)
+
+   wickaert@yahoo.com
+   travesera del pi, 40
+   TARRAGONA   TARRAGONA
+   43007   ES
+   +34 977209935
+
+
+Administrative contact:
+   espacio sagrado   (SRCO-1515422)
+   wickaert@yahoo.com
+   travesera del pi, 40
+   TARRAGONA   TARRAGONA
+   43007   ES
+   +34 977209935
+
+
+Technical contact:
+   espacio sagrado   (SRCO-1515424)
+   wickaert@yahoo.com
+   travesera del pi, 40
+   TARRAGONA   TARRAGONA
+   43007   ES
+   +34 977209935
+
+
+Domain servers in listed order:
+   ns5.piensasolutions.com  217.76.150.139
+   ns6.piensasolutions.com  217.76.156.139
+
+
+Created:       14 Jul 2008 10:04:23:893   UTC
+Expires:       14 Jul 2012 08:04:29:000   UTC
+Last updated:  15 Jul 2011 09:18:17:893   UTC
+
+
+
