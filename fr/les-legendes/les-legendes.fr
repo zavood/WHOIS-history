@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; les-legendes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      les-legendes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     DC4641-FRNIC
+tech-c:      DC4641-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6020-FRNIC
+registrar:   NETIM
+anniversary: 12/05
+created:     12/05/2009
+last-update: 13/05/2009
+source:      FRNIC
+
+ns-list:     NSL6020-FRNIC
+nserver:     ns5.securenetim.net
+nserver:     ns6.securenetim.net
+source:      FRNIC
+
+registrar:   NETIM
+type:        Isp Option 1
+address:     Euratechnologies
+address:     165 Avenue de Bretagne
+address:     LILLE
+country:     FR
+phone:       +33 9 72 11 33 52
+fax-no:      +33 3 59 35 03 74
+e-mail:      contact@netim.fr
+website:     http://www.netim.fr
+anonymous:   NO
+registered:  04/01/2005
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     12/05/2009 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DC4641-FRNIC
+type:        ORGANIZATION
+contact:     Daniel COLLET
+address:     F14 batiment les Fourques
+address:     13220 Ch&acirc;teauneuf-les-Martigues
+country:     FR
+phone:       +33 6 75 61 44 44
+e-mail:      collet.daniel.f@wanadoo.fr
+changed:     12/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
