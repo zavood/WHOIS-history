@@ -1,0 +1,74 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         observatory.at
+registrant:     MP7659799-NICAT
+admin-c:        PM7659800-NICAT
+tech-c:         EA871991-NICAT
+nserver:        ns1.edis.at
+remarks:        85.126.82.42
+nserver:        ns2.edis.at
+remarks:        213.229.30.36
+changed:        20101130 16:46:19
+source:         AT-DOM
+
+personname:     Pagitz Michael
+organization:   Michael Pagitz
+street address: Welzenegger Str. 78
+postal code:    A-9020
+city:           Klagenfurt
+country:        Austria
+phone:          +4369911324825
+e-mail:         michael-pagitz@gmx.at
+nic-hdl:        MP7659799-NICAT
+changed:        20101130 16:32:54
+source:         AT-DOM
+
+personname:     Pagitz Michael
+organization:
+street address: A-9020 Klagenfurt
+street address: Austria
+street address: Welzenegger Str. 78
+postal code:
+city:
+country:
+phone:          +4369911324825
+e-mail:         michael-pagitz@gmx.at
+nic-hdl:        PM7659800-NICAT
+changed:        20101130 16:32:54
+source:         AT-DOM
+
+personname:     Gerhard Kleewein
+organization:   EDIS.AT Internet Services
+street address: Messendorfgrund 30
+street address: Schinko Business Center
+postal code:    A-8042
+city:           Graz
+country:        Austria
+phone:          +43316827500
+fax-no:         +4331682750077
+e-mail:         support@edis.at
+nic-hdl:        EA871991-NICAT
+changed:        20031203 20:45:30
+source:         AT-DOM
+
