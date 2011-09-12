@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCRAPANDSTAMPHAVEN.COM
+   Domain Name: LAVOZDEALAMOS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2005
-   Expiration Date: 10-aug-2012
+   Updated Date: 20-jul-2011
+   Creation Date: 19-jul-2007
+   Expiration Date: 19-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:32:49 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SCRAPANDSTAMPHAVEN.COM
+   Domain Name: LAVOZDEALAMOS.COM
 
    Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
+      NS51.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SCRAPANDSTAMPHAVEN.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LAVOZDEALAMOS.COM

@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 00:32:26 2011
+
+domain:       itek.cz
+registrant:   CID:IGN-C187216-M1F
+admin-c:      CID:IGN-C187216-M1F
+nsset:        NSS:IGNUM:83
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   25.05.2005 01:15:00
+changed:      04.01.2011 11:19:19
+expire:       24.05.2012
+
+contact:      CID:IGN-C187216-M1F
+name:         Martin Kadlcik
+address:      Uvoz 320
+address:      Kunovice
+address:      68604
+address:      CZ
+registrar:    REG-IGNUM
+created:      13.04.2008 21:41:05
+
+nsset:        NSS:IGNUM:83
+nserver:      ns.server4you.cz
+nserver:      ns2.server4you.cz
+tech-c:       ROB1
+tech-c:       SB:IGNUM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      ROB1
+name:         Robert Prokes
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.01.2009 10:18:17
+
+contact:      SB:IGNUM
+org:          IGNUM s.r.o.
+name:         Robert Proke&Aring;&iexcl;
+address:      Thamova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+e-mail:       info@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.10.2007 11:11:02
+
+

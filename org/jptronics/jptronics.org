@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101936636-LROR
+Domain Name:JPTRONICS.ORG
+Created On:06-Nov-2003 21:02:48 UTC
+Last Updated On:27-May-2011 19:18:07 UTC
+Expiration Date:06-Nov-2014 21:02:48 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuEtiaGvSszoM4VI
+Registrant Name:John Poulton
+Registrant Organization:jptronics
+Registrant Street1:8720 Union Grove Church Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chapel Hill
+Registrant State/Province:NC
+Registrant Postal Code:27516
+Registrant Country:US
+Registrant Phone:+1.9199290769
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jp@cs.unc.edu
+Admin ID:tuEtiaGvSszoM4VI
+Admin Name:John Poulton
+Admin Organization:jptronics
+Admin Street1:8720 Union Grove Church Rd
+Admin Street2:
+Admin Street3:
+Admin City:Chapel Hill
+Admin State/Province:NC
+Admin Postal Code:27516
+Admin Country:US
+Admin Phone:+1.9199290769
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jp@cs.unc.edu
+Tech ID:tuEtiaGvSszoM4VI
+Tech Name:John Poulton
+Tech Organization:jptronics
+Tech Street1:8720 Union Grove Church Rd
+Tech Street2:
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:NC
+Tech Postal Code:27516
+Tech Country:US
+Tech Phone:+1.9199290769
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jp@cs.unc.edu
+Name Server:NS14.ZONEEDIT.COM
+Name Server:NS18.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
