@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWXXXMATCH.COM
+   Domain Name: REQUIRED.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.REGISTRAR-SERVERS.COM
-   Name Server: DNS2.REGISTRAR-SERVERS.COM
-   Name Server: DNS3.REGISTRAR-SERVERS.COM
+   Name Server: NS.REQUIRED.COM
+   Name Server: NS2.REQUIRED.COM
+   Name Server: NS3.REQUIRED.COM
+   Name Server: NS4.REQUIRED.COM
+   Name Server: NS5.REQUIRED.COM
    Status: clientTransferProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 18-nov-2009
-   Expiration Date: 18-nov-2011
+   Updated Date: 01-feb-2011
+   Creation Date: 01-mar-1997
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:36:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:35:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,51 +55,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wwwxxxmatch.com
-&lt;a href=&quot;http://www.aboutus.org/wwwxxxmatch.com&quot;&gt;AboutUs: wwwxxxmatch.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: wwwxxxmatch.com
+Domain name: required.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   Required Media, LLC
+   Domain Administrator ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   2451 McMullen Booth Rd., Suite 200
+   Clearwater, FL 33759
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (d3e255a7b6b34c33be1b8c5672b5da30.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   Required Media, LLC
+   Domain Administrator (hostmaster@required.com)
+   +1.7272882177
+   Fax: +1.8138552630
+   2451 McMullen Booth Rd., Suite 200
+   Clearwater, FL 33759
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (d3e255a7b6b34c33be1b8c5672b5da30.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   Required Media, LLC
+   Domain Administrator (hostmaster@required.com)
+   +1.7272882177
+   Fax: +1.8138552630
+   2451 McMullen Booth Rd., Suite 200
+   Clearwater, FL 33759
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.registrar-servers.com
-   dns2.registrar-servers.com
-   dns3.registrar-servers.com
+   ns.required.com
+   ns2.required.com
+   ns3.required.com
+   ns4.required.com
+   ns5.required.com
 
-Creation date: 18 Nov 2009 08:42:21
-Expiration date: 18 Nov 2011 08:42:21
+Creation date: 01 Mar 1997 05:00:00
+Expiration date: 02 Mar 2012 05:00:00
 
 
 
