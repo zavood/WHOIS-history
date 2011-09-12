@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NIBBLEBIT.COM
+   Domain Name: ETEONLINE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS37.DOMAINCONTROL.COM
-   Name Server: NS38.DOMAINCONTROL.COM
+   Name Server: NS.HOST4U.NET
+   Name Server: NS2.HOST4U.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-sep-2010
-   Creation Date: 24-jun-2009
-   Expiration Date: 24-jun-2012
+   Updated Date: 17-aug-2011
+   Creation Date: 18-oct-1998
+   Expiration Date: 17-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:55:44 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Electronic Technical Enterprises
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NIBBLEBIT.COM
+   Domain Name: ETEONLINE.COM
 
    Domain servers in listed order:
-      NS37.DOMAINCONTROL.COM
-      NS38.DOMAINCONTROL.COM
+      NS.HOST4U.NET
+      NS2.HOST4U.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NIBBLEBIT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ETEONLINE.COM
