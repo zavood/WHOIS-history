@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 17:27:50 (BRT -03:00)
+
+domain:      bwidc.net.br
+owner:       Arthur Henrique Guimar&atilde;es Bonora
+ownerid:     051.357.139-64
+country:     BR
+owner-c:     AHB50
+admin-c:     AHB50
+tech-c:      LCM302
+billing-c:   AHB50
+nserver:     ns1.bwidc.net.br 201.20.20.223
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.bwidc.net.br 184.82.20.30
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20090729 #5834898
+expires:     20120729
+changed:     20110813
+status:      published
+
+nic-hdl-br:  AHB50
+person:      Arthur Henrique Guimar&atilde;es Bonora
+e-mail:      arthur@bonora.com.br
+created:     20050108
+changed:     20050410
+
+nic-hdl-br:  LCM302
+person:      Leandro C&eacute;sar Cunha Marques
+e-mail:      contato@midia4internet.com.br
+created:     20020802
+changed:     20070605
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

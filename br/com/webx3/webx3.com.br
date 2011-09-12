@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 17:26:07 (BRT -03:00)
+
+domain:      webx3.com.br
+owner:       A F SOUZA COMERCIO E SERVI&Ccedil;OS DE INFORM&Aacute;TICA
+ownerid:     001.595.424/0001-09
+responsible: Andr&eacute; Luiz da Silva Ferreira
+country:     BR
+owner-c:     ALF28
+admin-c:     ALF28
+tech-c:      LCM302
+billing-c:   ALF28
+nserver:     ns1.webx3.com.br 201.20.20.223
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.webx3.com.br 184.82.20.30
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20040429 #1617526
+expires:     20120429
+changed:     20110509
+status:      published
+
+nic-hdl-br:  ALF28
+person:      Andr&eacute; Luiz da Silva Ferreira
+e-mail:      andre.pwd@gmail.com
+created:     19980411
+changed:     20080421
+
+nic-hdl-br:  LCM302
+person:      Leandro C&eacute;sar Cunha Marques
+e-mail:      contato@midia4internet.com.br
+created:     20020802
+changed:     20070605
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

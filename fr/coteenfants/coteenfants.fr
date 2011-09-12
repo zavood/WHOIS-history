@@ -1,0 +1,85 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; coteenfants.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      coteenfants.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      AH63-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3574-FRNIC
+registrar:   ARSYS INTERNET EURL
+anniversary: 23/08
+created:     23/08/2007
+last-update: 23/08/2007
+source:      FRNIC
+
+ns-list:     NSL3574-FRNIC
+nserver:     ns1.serveursdns.net
+nserver:     ns2.serveursdns.net
+source:      FRNIC
+
+registrar:   ARSYS INTERNET EURL
+type:        Isp Option 1
+address:     102 Avenue de la Salanque
+address:     BP 40518
+address:     PERPIGNAN CEDEX
+country:     FR
+phone:       0 800 940 865
+fax-no:      +33 4 68 34 25 66
+e-mail:      info@arsys.fr
+website:     http://www.arsys.fr
+anonymous:   NO
+registered:  25/01/2001
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     23/08/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AH63-FRNIC
+type:        ROLE
+contact:     ARSYS Hostmaster
+address:     Arsys Internet SARL
+address:     102, avenue de la Salanque
+address:     B.P. 40518
+address:     66005 Perpignan Cedex
+country:     FR
+phone:       +33 8 00 94 08 65
+e-mail:      hostmaster@arsys.fr
+trouble:     Questions: mailto:info@arsys.fr
+admin-c:     LICV1-FRNIC
+tech-c:      LICV1-FRNIC
+notify:      hostmaster@arsys.fr
+changed:     01/02/2007 hostmaster@arsys.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
