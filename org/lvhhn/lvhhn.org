@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2117074-LROR
+Domain Name:LVHHN.ORG
+Created On:19-Dec-1996 05:00:00 UTC
+Last Updated On:06-Jan-2011 21:45:54 UTC
+Expiration Date:18-Dec-2019 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30039448-NSI
+Registrant Name:LehighValleyHospital &amp; Health Network
+Registrant Organization:LehighValleyHospital &amp; Health Network
+Registrant Street1:Information Services 2024 Lehi
+Registrant Street2:
+Registrant Street3:
+Registrant City:Allentown
+Registrant State/Province:PA
+Registrant Postal Code:18103
+Registrant Country:US
+Registrant Phone:+1.61040214
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Raymond.Miller@LVH.COM
+Admin ID:42992760-NSI
+Admin Name:Lehigh Valley Hospital
+Admin Street1:1245 S. Cedar Crest Blvd.
+Admin Street2:Suite 100
+Admin Street3:
+Admin City:Allentown
+Admin State/Province:PA
+Admin Postal Code:18103
+Admin Country:US
+Admin Phone:+1.6104021386
+Admin Phone Ext.:
+Admin FAX:+1.6104021408
+Admin FAX Ext.:
+Admin Email:brian.blagbrough@lvh.com
+Tech ID:42992760-NSI
+Tech Name:Lehigh Valley Hospital
+Tech Street1:1245 S. Cedar Crest Blvd.
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Allentown
+Tech State/Province:PA
+Tech Postal Code:18103
+Tech Country:US
+Tech Phone:+1.6104021386
+Tech Phone Ext.:
+Tech FAX:+1.6104021408
+Tech FAX Ext.:
+Tech Email:brian.blagbrough@lvh.com
+Name Server:DNS2.HOSTME.COM
+Name Server:DNS1.HOSTME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
