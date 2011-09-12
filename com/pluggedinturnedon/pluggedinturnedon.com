@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LUNARPAGES.COM.XN--NGBDPJ.COM
-LUNARPAGES.COM.HDABOB.COM
-LUNARPAGES.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: PLUGGEDINTURNEDON.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
+   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
+   Status: pendingDelete
+   Updated Date: 09-sep-2011
+   Creation Date: 26-jun-2000
+   Expiration Date: 26-jun-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:21:41 UTC &lt;&lt;&lt;
 
@@ -48,3 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+No match for &quot;pluggedinturnedon.com&quot;

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D141023502-LROR
+Domain Name:PROTECTPACHILDREN.ORG
+Created On:06-Mar-2007 21:38:11 UTC
+Last Updated On:07-Mar-2011 01:26:21 UTC
+Expiration Date:06-Mar-2012 21:38:11 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-GKZIF8B7I9X3
+Registrant Name:Laura Kennedy
+Registrant Organization:Echo Valley Graphics, Inc.
+Registrant Street1:213 Snyder School Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bernville
+Registrant State/Province:PA
+Registrant Postal Code:19506
+Registrant Country:US
+Registrant Phone:+1.6108230238
+Registrant Phone Ext.:
+Registrant FAX:+1.6107438488
+Registrant FAX Ext.:
+Registrant Email:lkennedy@echovalleygraphics.com
+Admin ID:DOT-DDIGP9PCVVEW
+Admin Name:Laura Kennedy
+Admin Organization:Echo Valley Graphics, Inc.
+Admin Street1:213 Snyder School Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Bernville
+Admin State/Province:PA
+Admin Postal Code:19506
+Admin Country:US
+Admin Phone:+1.6108230238
+Admin Phone Ext.:
+Admin FAX:+1.6107438488
+Admin FAX Ext.:
+Admin Email:lkennedy@echovalleygraphics.com
+Tech ID:DOT-S6W2BNPI8UWY
+Tech Name:Tony Wirebach
+Tech Organization:Echo Valley Graphics, Inc.
+Tech Street1:213 Snyder School Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Bernville
+Tech State/Province:PA
+Tech Postal Code:19506
+Tech Country:US
+Tech Phone:+1.6106931177
+Tech Phone Ext.:
+Tech FAX:+1.6107438488
+Tech FAX Ext.:
+Tech Email:twirebach@echovalleygraphics.com
+Name Server:DNS2.STABLETRANSIT.COM
+Name Server:DNS1.STABLETRANSIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

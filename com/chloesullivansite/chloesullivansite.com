@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LUNARPAGES.COM.XN--NGBDPJ.COM
-LUNARPAGES.COM.HDABOB.COM
-LUNARPAGES.COM
+   Domain Name: CHLOESULLIVANSITE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
+   Status: clientTransferProhibited
+   Updated Date: 11-may-2011
+   Creation Date: 25-may-2006
+   Expiration Date: 25-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:21:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:20:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name : CHLOESULLIVANSITE.COM
+Created On : 2006-05-25
+Expiration Date : 2012-05-25
+Status : PROTECTED
+Registrant Name : Cecilia THIBAUT
+Registrant Street1 : 12, rue de Brezets
+Registrant City : Bordeaux
+Registrant State/Province  : FR
+Registrant Postal Code : 33800
+Registrant Country : FR
+Admin Name : Cecilia THIBAUT
+Admin Street1 : 12, rue de Brezets
+Admin City : Bordeaux
+Admin State/Province : 33
+Admin Postal Code : 33800
+Admin Country : FR
+Admin Phone : +33.0557958087
+Admin Email : cecilia_chan@hotmail.fr
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay
