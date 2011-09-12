@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-12T15:25:56+12:00
+domain_name: waikato.co.nz
+query_status: 200 Active
+domain_dateregistered: 1997-04-07T00:00:00+12:00
+domain_datebilleduntil: 2012-04-07T00:00:00+12:00
+domain_datelastmodified: 2011-04-05T13:22:43+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Enlighten Domains
+registrar_address1: PO Box 14167
+registrar_city: HAMILTON
+registrar_postalcode: 2001
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 7 8536060
+registrar_fax: +64 7 8553975
+registrar_email: admin@enlightendomains.co.nz
+%
+registrant_contact_name: The University of Waikato
+registrant_contact_address1: The University of Waikato
+registrant_contact_address2: Private Bag 3105
+registrant_contact_city: HAMILTON
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 7 8384642
+registrant_contact_fax: +64 7 8384066
+registrant_contact_email: dns@waikato.ac.nz
+%
+admin_contact_name: Waikato DNS Admin
+admin_contact_address1: The University of Waikato
+admin_contact_address2: Private Bag 3105
+admin_contact_city: HAMILTON
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 7 8384642
+admin_contact_fax: +64 7 8384066
+admin_contact_email: dns@waikato.ac.nz
+%
+technical_contact_name: DNS Administrator
+technical_contact_address1: University of Waikato, Private Bag 3105, Hamilton
+technical_contact_address2: Hamilton, New Zealand
+technical_contact_city: Hamilton, New Zealand
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 78 384413
+technical_contact_fax: +64 9 0
+technical_contact_email: dns@waikato.ac.nz
+%
+ns_ip4_01: 130.217.76.99
+ns_name_01: a.ns.waikato.co.nz
+ns_ip4_02: 130.217.66.99
+ns_name_02: b.ns.waikato.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
