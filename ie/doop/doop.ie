@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      doop.ie
+descr:       Doop Design
+descr:       Unincorporated Association
+descr:       Registered Business Name
+admin-c:     ABK124-IEDR
+tech-c:      AAM456-IEDR
+renewal:     17-June-2012
+status:      Active
+nserver:     ns1.doopdns.net
+nserver:     ns2.doopdns.net
+source:      IEDR
+
+person:      Brian Greene
+nic-hdl:     ABK124-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

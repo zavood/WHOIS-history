@@ -1,0 +1,38 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'special.ir'
+
+
+domain:		special.ir
+ascii:		special.ir
+remarks:	(Domain Holder) Navid Mojahed
+remarks:	(Domain Holder Address) End of salman st., Opposite Meli bank, 22nd ave.,From right side second house,, Yazd, Yazd, IR
+holder-c:	nm70-irnic
+admin-c:	mt53-irnic
+tech-c:		nm70-irnic
+nserver:	ns1.special.ir
+nserver:	ns2.special.ir
+last-updated:	2011-06-17
+source:		IRNIC # Filtered
+
+nic-hdl:	nm70-irnic
+person:		Navid Mojahed
+e-mail:		weblog@gmail.com
+address:	End of salman st., Opposite Meli bank, 22nd ave.,From right side second house,, Yazd, Yazd, IR
+phone:		03516280989
+source:		IRNIC # Filtered
+
+nic-hdl:	mt53-irnic
+person:		Mahdi Taghizadeh
+e-mail:		mahdi@digitalpersia.com
+address:	Suite No. 8, 3rd. Floor, Bldg. No. 28, Daneshvar Ln., South Jamalzadeh St., Enghelab Ave., Tehran, Tehran, IR
+phone:		+98-21-6691-7426
+fax-no:		+98-21-6690-7951
+source:		IRNIC # Filtered
+
