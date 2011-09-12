@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMARTCODE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SMARTCODE.COM
-   Name Server: NS2.SMARTCODE.COM
+   Domain Name: ABRETOR.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.AHFORCE.COM
+   Name Server: NS2.AHFORCE.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 25-feb-1995
-   Expiration Date: 26-feb-2015
+   Updated Date: 09-nov-2010
+   Creation Date: 09-nov-2010
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:50:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:52:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
+Domain name: abretor.com
 
-Registrant:
-   Domains by Proxy, Inc.
+Registrant Contact:
+   NA
+   Vladimir Bevza admin@aacoast.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SMARTCODE.COM
+Administrative Contact:
+   Vladimir Bevza admin@aacoast.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
 
-   Domain servers in listed order:
-      NS1.SMARTCODE.COM
-      NS2.SMARTCODE.COM
+Technical Contact:
+   Vladimir Bevza admin@aacoast.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
 
+Billing Contact:
+   Vladimir Bevza admin@aacoast.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTCODE.COM
+DNS:
+ns1.ahforce.com
+ns2.ahforce.com
+
+Created: 2010-11-09
+Expires: 2011-11-09

@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMARTCODE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SMARTCODE.COM
-   Name Server: NS2.SMARTCODE.COM
+   Domain Name: WOWTRK.COM
+   Registrar: ADVANTAGE INTERACTIVE LTD
+   Whois Server: whois.advantage-interactive.com
+   Referral URL: http://www.lcn.com
+   Name Server: NS0.LCN.COM
+   Name Server: NS1.LCN.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 25-feb-1995
-   Expiration Date: 26-feb-2015
+   Updated Date: 10-feb-2011
+   Creation Date: 29-sep-2010
+   Expiration Date: 29-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:50:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:50:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:  WOWTRK.COM
+owner-c: AI-876497
+admin-c: AI-876497
+tech-c: AI-300624
+bill-c: AI-300624
+nserver: ns1.lcn.com 195.82.107.156
+nserver: ns0.lcn.com 94.126.40.3
+created: 2010-09-29 11:05:36
+expires: 2012-09-29 11:05:36
+changed: 2011-07-01 09:32:26
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-handle: AI-876497
+contact:        Matthew Lovett
+organisation:   WOW Media UK Ltd
+address:        24 Carter Gate
+address:        Newark
+address:        NG24 1UB
+address:        GB
+phone:          +44.1636612598
+email:          matt@wowmedia.eu
 
+contact-handle: AI-300624
+contact:        Hostmaster
+address:        Units H, J, K
+address:        Gateway 1000
+address:        Whittle Way
+address:        Stevenage
+address:        England
+address:        SG1 2FP
+address:        GB
+phone:          +44.1438342490
+fax:            +44.1438300137
+email:          support@lcn.com
 
-Registrant:
-   Domains by Proxy, Inc.
+****************************************************************
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SMARTCODE.COM
+Domain Registration Service Provider:
 
-   Domain servers in listed order:
-      NS1.SMARTCODE.COM
-      NS2.SMARTCODE.COM
+    lcn
+    For all domain related queries go to http://www.lcn.com
 
+****************************************************************
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTCODE.COM

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158514535-LROR
+Domain Name:ALSPAN.ORG
+Created On:04-Mar-2010 18:07:38 UTC
+Last Updated On:05-Mar-2011 01:25:02 UTC
+Expiration Date:04-Mar-2012 18:07:38 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-CVL80EPPXQY6
+Registrant Name:Direct Administration
+Registrant Organization:S.P.A.N. Program
+Registrant Street1:231 Haynes Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Talladega
+Registrant State/Province:AL
+Registrant Postal Code:35160
+Registrant Country:US
+Registrant Phone:+1.2564802061
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@alspan.org
+Admin ID:DOT-DQI5P66YJABH
+Admin Name:Justin Hancock
+Admin Organization:S.P.A.N. Program
+Admin Street1:20 Bealle Circle NE
+Admin Street2:
+Admin Street3:
+Admin City:Tuscaloosa
+Admin State/Province:AL
+Admin Postal Code:35404
+Admin Country:US
+Admin Phone:+1.2055540565
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jhancock@alspan.org
+Tech ID:DOT-5J29OOO7CR3W
+Tech Name:Justin Hancock
+Tech Organization:S.P.A.N. Program
+Tech Street1:20 Bealle Circle NE
+Tech Street2:
+Tech Street3:
+Tech City:Tuscaloosa
+Tech State/Province:AL
+Tech Postal Code:35404
+Tech Country:US
+Tech Phone:+1.2055540565
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jhancock@alspan.org
+Name Server:NS1.MYDOMAINWEBHOST.COM
+Name Server:NS2.MYDOMAINWEBHOST.COM
+Name Server:NS3.MYDOMAINWEBHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

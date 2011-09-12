@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMARTCODE.COM
+   Domain Name: 929THEBANDIT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SMARTCODE.COM
-   Name Server: NS2.SMARTCODE.COM
+   Name Server: DNS1.YOCITIES.COM
+   Name Server: DNS2.YOCITIES.COM
+   Name Server: DNS3.YOCITIES.COM
+   Name Server: DNS4.YOCITIES.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 25-feb-1995
-   Expiration Date: 26-feb-2015
+   Updated Date: 22-oct-2010
+   Creation Date: 25-oct-2005
+   Expiration Date: 25-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:50:07 UTC &lt;&lt;&lt;
 
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Fred Giles
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SMARTCODE.COM
+   Domain Name: 929THEBANDIT.COM
 
    Domain servers in listed order:
-      NS1.SMARTCODE.COM
-      NS2.SMARTCODE.COM
+      DNS1.YOCITIES.COM
+      DNS2.YOCITIES.COM
+      DNS3.YOCITIES.COM
+      DNS4.YOCITIES.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTCODE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=929THEBANDIT.COM
