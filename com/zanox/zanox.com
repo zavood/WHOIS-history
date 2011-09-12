@@ -5,15 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WEBMASTERS.COM.IRONHORSELEATHERS.NET
-WEBMASTERS.COM.COLLEENSSTUFF.COM
-WEBMASTERS.COM
+   Domain Name: ZANOX.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NETNAMES.NET
+   Name Server: NS2.NETNAMES.NET
+   Name Server: NS5.NETNAMES.NET
+   Name Server: NS6.NETNAMES.NET
+   Name Server: NS7.NETNAMES.NET
+   Status: ok
+   Updated Date: 04-apr-2011
+   Creation Date: 01-mar-2000
+   Expiration Date: 01-mar-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:22:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:23:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +54,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  ZANOX.de AG (ZANOX65267)
+  Stralauer Allee 2
+
+  Berlin, ., 10245
+  DE
+
+  Domain name: zanox.com
+
+Technical contact:
+  Administrator, Domain (DA915364)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
+
+Administrative contact:
+  Administrator, Domain (DA3989325)
+  ZANOX.de AG
+  Stralauer Allee 2
+
+  Berlin, ., 10245
+  DE
+  domains@zanox.com
+  +49.305096910 Fax: +49.3050969199
+
+Record created:           2011-02-14 07:43:08
+Record last updated:      2011-04-28 04:34:00
+Record expires:           2011-10-24 23:00:00
+
+Domain servers in listed order:
+  ns1.netnames.net (NS1NE791271)
+  ns2.netnames.net (NS2NE85700)
+  ns5.netnames.net (NS5NE58567)
+  ns6.netnames.net (NS6NE58567)
+  ns7.netnames.net (NS7NE11325)
