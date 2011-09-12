@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOBCATOFSTL.COM
+   Domain Name: MEGACROSSFIT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS63.DOMAINCONTROL.COM
+   Name Server: NS64.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jun-2010
-   Creation Date: 12-may-2000
-   Expiration Date: 12-may-2019
+   Updated Date: 05-jan-2011
+   Creation Date: 05-jan-2011
+   Expiration Date: 05-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:50:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:51:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Bobcat of St. Louis
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BOBCATOFSTL.COM
+   Domain Name: MEGACROSSFIT.COM
 
    Domain servers in listed order:
-      CBRU.BR.NS.ELS-GMS.ATT.NET
-      CMTU.MT.NS.ELS-GMS.ATT.NET
+      NS63.DOMAINCONTROL.COM
+      NS64.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BOBCATOFSTL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MEGACROSSFIT.COM
