@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAGFS.COM
+   Domain Name: SHARONKETKO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBDNSPROVIDER.COM
-   Name Server: NS2.WEBDNSPROVIDER.COM
-   Name Server: NS3.WEBDNSPROVIDER.COM
+   Name Server: NS2017.HOSTGATOR.COM
+   Name Server: NS2018.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 11-aug-2010
-   Expiration Date: 11-aug-2012
+   Updated Date: 06-oct-2010
+   Creation Date: 22-nov-2005
+   Expiration Date: 28-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:33:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:32:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   CRAKMEDIA LTD
+   Sharon Ketko
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DAGFS.COM
+   Domain Name: SHARONKETKO.COM
 
    Domain servers in listed order:
-      NS1.WEBDNSPROVIDER.COM
-      NS2.WEBDNSPROVIDER.COM
-      NS3.WEBDNSPROVIDER.COM
+      NS2017.HOSTGATOR.COM
+      NS2018.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DAGFS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SHARONKETKO.COM
