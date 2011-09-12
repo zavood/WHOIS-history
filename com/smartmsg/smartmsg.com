@@ -5,33 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-REGISTER.COM.WWW.APLUSBEAUTYBUYS.COM.RCOM-DNS.EU
-REGISTER.COM.THEWOODMARKET.COM
-REGISTER.COM.THEWOODEXCHANGE.COM
-REGISTER.COM.SUCKS.REALMS.ORG
-REGISTER.COM.SPLENDORSMILES.COM.US
-REGISTER.COM.SCULPTUREDHORMONES.COM.20071111.RCOM-DNS.COM
-REGISTER.COM.RESPECTED.BY.WWW.DNDIALOG.COM
-REGISTER.COM.NY.US1.ANHHUY.COM
-REGISTER.COM.MAGNAFABRICS.COM
-REGISTER.COM.JAZZYJEMS.COM
-REGISTER.COM.JACKSPICKLES.COM
-REGISTER.COM.INDEPENDENTCOACHES.COM
-REGISTER.COM.HAVEKIDSANDTRAVEL.COM
-REGISTER.COM.DENNISSTEINMAN.COM
-REGISTER.COM.CLEARCREEKLIGHTING.COM
-REGISTER.COM.BACKUP.NY.US1.ANHHUY.COM
-REGISTER.COM.AVIATIONHS.NET
-REGISTER.COM.ASHYANABANQUETS.COM
-REGISTER.COM.APLUSBEAUTYBUYS.COM.RCOM-DNS.EU
-REGISTER.COM.ADULTDESTINATIONPARTIES.COM
-REGISTER.COM
+   Domain Name: SMARTMSG.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-nov-2010
+   Creation Date: 26-sep-2002
+   Expiration Date: 26-sep-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:09:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:10:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,3 +56,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: smartmsg.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Mon Sep 12 12:00:48 EDT 2011
+Reason Code: IE
