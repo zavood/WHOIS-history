@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 26-oct-2007
    Expiration Date: 26-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:46:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:09:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Saturday, 10-Sep-2011 08:47:20 CEST
-# gmt time      : Saturday, 10-Sep-2011 06:47:20 GMT
+# local time    : Monday, 12-Sep-2011 22:10:20 CEST
+# gmt time      : Monday, 12-Sep-2011 20:10:20 GMT
 # last modify   : Sunday, 31-Oct-2010 12:15:18 CET
-# request from  : 192.168.248.1:17475
+# request from  : 192.168.248.3:40839
 
 Domain name: atomestudio.com
 
