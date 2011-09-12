@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: W55C.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.P14.DYNECT.NET
-   Name Server: NS2.P14.DYNECT.NET
-   Name Server: NS3.P14.DYNECT.NET
-   Name Server: NS4.P14.DYNECT.NET
+   Domain Name: THEWEATHENETWORK.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.MBN00.COM
+   Name Server: NS2.MBN00.COM
    Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 13-may-2009
-   Expiration Date: 13-may-2012
+   Updated Date: 28-apr-2011
+   Creation Date: 27-nov-2005
+   Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:02:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:02:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain theweathenetwork.com
+
+Date Registered: 2005-11-27
+Date Modified: 2011-4-28
+Expiry Date: 2011-11-27
+
+DNS1: ns1.mbn00.com
+DNS2: ns2.mbn00.com
+
+Registrant
+    Private Whois theweathenetwork.com
+    Private Whois theweathenetwork.com  klnh7zw4d93d0ee40f5e@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o theweathenetwork.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois theweathenetwork.com
+    Private Whois theweathenetwork.com  lqdtaq24d93d0ee506be@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o theweathenetwork.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois theweathenetwork.com
+    Private Whois theweathenetwork.com  kk3wbx84d93d0ee4ac22@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o theweathenetwork.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

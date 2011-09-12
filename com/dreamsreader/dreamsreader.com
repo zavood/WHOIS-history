@@ -5,20 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: W55C.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.P14.DYNECT.NET
-   Name Server: NS2.P14.DYNECT.NET
-   Name Server: NS3.P14.DYNECT.NET
-   Name Server: NS4.P14.DYNECT.NET
-   Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 13-may-2009
-   Expiration Date: 13-may-2012
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:02:29 UTC &lt;&lt;&lt;
+No match for &quot;DREAMSREADER.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:01:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
