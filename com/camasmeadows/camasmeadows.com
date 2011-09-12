@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CAMASMEADOWS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS1.TIMTYLER.COM
+   Name Server: NS2.TIMTYLER.COM
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2009
-   Creation Date: 09-aug-2004
-   Expiration Date: 09-aug-2018
+   Updated Date: 01-jun-2007
+   Creation Date: 17-dec-1999
+   Expiration Date: 17-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:06:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about OUTBRAIN.COM
-&lt;a href=&quot;http://www.aboutus.org/OUTBRAIN.COM&quot;&gt;AboutUs: OUTBRAIN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about CAMASMEADOWS.COM
+&lt;a href=&quot;http://www.aboutus.org/CAMASMEADOWS.COM&quot;&gt;AboutUs: CAMASMEADOWS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Galai, Yaron
-   Outbrain
-   116 East 16th Street
-   12th Floor
-   New York, NY 10003
+lacamas reality inc.
+   4105 NW Camas Meadows Drive
+   Camas, WA 98607
    US
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CAMASMEADOWS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,23 +94,30 @@ Galai, Yaron
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Galai, Yaron		DNSAdmin@outbrain.com
-      Outbrain
-      116 East 16th Street
-      12th Floor
-      New York, NY 10003
+   Administrative Contact:
+      Mcintyre, Tim		tmcintyre@camasmeadows.com
+      Camas Meadows Golf Course
+      4105 NW Camas Meadows Drive
+      Camas, WA 98607
       US
-      1-212-260-4046 fax: 1-316-223-2585
+      360-833-2000
+
+   Technical Contact:
+      Communications Inc., Sterling		hostmaster@STERLINK.NET
+      14945 SW Sequoia Parkway
+      Suite 110
+      Portland, OR 97224
+      US
+      503-968-8908 fax: 503-603-1879
 
 
-   Record expires on 09-Aug-2018.
-   Record created on 27-Dec-2005.
-   Database last updated on 12-Sep-2011 17:57:02 EDT.
+   Record expires on 17-Dec-2011.
+   Record created on 17-Dec-1999.
+   Database last updated on 12-Sep-2011 17:56:47 EDT.
 
    Domain servers in listed order:
 
-   DNS11.COTDNS.NET
-   DNS12.COTDNS.NET
+   NS1.TIMTYLER.COM
+   NS2.TIMTYLER.COM
 
 

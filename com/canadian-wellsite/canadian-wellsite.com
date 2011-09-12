@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CANADIAN-WELLSITE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: ATLANTIS1.CHINOOKCOMPUTERS.NET
+   Name Server: NS1.CHINOOKCOMPUTERS.NET
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2009
-   Creation Date: 09-aug-2004
-   Expiration Date: 09-aug-2018
+   Updated Date: 05-oct-2006
+   Creation Date: 09-mar-1998
+   Expiration Date: 08-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:06:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about OUTBRAIN.COM
-&lt;a href=&quot;http://www.aboutus.org/OUTBRAIN.COM&quot;&gt;AboutUs: OUTBRAIN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about CANADIAN-WELLSITE.COM
+&lt;a href=&quot;http://www.aboutus.org/CANADIAN-WELLSITE.COM&quot;&gt;AboutUs: CANADIAN-WELLSITE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Galai, Yaron
-   Outbrain
-   116 East 16th Street
-   12th Floor
-   New York, NY 10003
-   US
+Canadian Wellsite Inc.
+   4131-67 St, N.W.
+   Calgary, AB T3B 2J2
+   CA
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CANADIAN-WELLSITE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,23 +94,29 @@ Galai, Yaron
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Galai, Yaron		DNSAdmin@outbrain.com
-      Outbrain
-      116 East 16th Street
-      12th Floor
-      New York, NY 10003
+   Administrative Contact:
+      Adams, Chad		info@canadianwellsite.com
+      Canadian Wellsite Inc.
+      Box 70045, BPO
+      Calgary, AB T3B 5K3
+      CA
+      403-286-6150
+
+   Technical Contact:
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
       US
-      1-212-260-4046 fax: 1-316-223-2585
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 09-Aug-2018.
-   Record created on 27-Dec-2005.
-   Database last updated on 12-Sep-2011 17:57:02 EDT.
+   Record expires on 08-Mar-2013.
+   Record created on 09-Mar-1998.
+   Database last updated on 12-Sep-2011 17:57:41 EDT.
 
    Domain servers in listed order:
 
-   DNS11.COTDNS.NET
-   DNS12.COTDNS.NET
+   NS1.CHINOOKCOMPUTERS.NET
+   ATLANTIS1.CHINOOKCOMPUTERS.NET
 
 

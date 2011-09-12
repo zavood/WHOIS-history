@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-nov-2002
    Expiration Date: 01-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 06:48:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:08:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,7 +113,7 @@ Lindkvist, Joakim
 
    Record expires on 01-Nov-2014.
    Record created on 01-Nov-2002.
-   Database last updated on 11-Sep-2011 02:38:13 EDT.
+   Database last updated on 12-Sep-2011 17:58:31 EDT.
 
    Domain servers in listed order:
 

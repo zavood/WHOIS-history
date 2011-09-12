@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CALHOUNTIMES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS1.PFNATHENS.COM
+   Name Server: NS2.PFNATHENS.COM
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2009
-   Creation Date: 09-aug-2004
-   Expiration Date: 09-aug-2018
+   Updated Date: 31-jan-2008
+   Creation Date: 29-mar-1997
+   Expiration Date: 30-mar-2017
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about OUTBRAIN.COM
-&lt;a href=&quot;http://www.aboutus.org/OUTBRAIN.COM&quot;&gt;AboutUs: OUTBRAIN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about CALHOUNTIMES.COM
+&lt;a href=&quot;http://www.aboutus.org/CALHOUNTIMES.COM&quot;&gt;AboutUs: CALHOUNTIMES.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Galai, Yaron
-   Outbrain
-   116 East 16th Street
-   12th Floor
-   New York, NY 10003
+News Publishing Company
+   305 East 6th Ave
+   Rome, GA 30162
    US
 
-   Domain Name: OUTBRAIN.COM
+   Domain Name: CALHOUNTIMES.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,23 +94,30 @@ Galai, Yaron
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Galai, Yaron		DNSAdmin@outbrain.com
-      Outbrain
-      116 East 16th Street
-      12th Floor
-      New York, NY 10003
+   Administrative Contact:
+      Mozley, Dan		DMozley@NPCO.COM
+      News Publishing Company
+      305 East 6th Ave
+      Rome, GA 30162
       US
-      1-212-260-4046 fax: 1-316-223-2585
+      (706) 290-5293 fax: (706) 234-6478
+
+   Technical Contact:
+      DeBord, Matt		MDeBord@NPCO.COM
+      News Publishing Company
+      305 East 6th Ave
+      Rome, GA 30161
+      US
+      706-290-5322 fax: 706-290-5309
 
 
-   Record expires on 09-Aug-2018.
-   Record created on 27-Dec-2005.
-   Database last updated on 12-Sep-2011 17:57:02 EDT.
+   Record expires on 30-Mar-2017.
+   Record created on 29-Mar-1997.
+   Database last updated on 12-Sep-2011 17:58:09 EDT.
 
    Domain servers in listed order:
 
-   DNS11.COTDNS.NET
-   DNS12.COTDNS.NET
+   NS1.PFNATHENS.COM            208.71.233.82
+   NS2.PFNATHENS.COM            208.71.234.163
 
 

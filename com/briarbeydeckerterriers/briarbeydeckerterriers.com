@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TUBESTV.COM
-   Registrar: NAME.COM LLC
-   Whois Server: whois.name.com
-   Referral URL: http://www.name.com
-   Name Server: NS1.TUBESTV.COM
-   Name Server: NS2.TUBESTV.COM
+   Domain Name: BRIARBEYDECKERTERRIERS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS5.SECUREDC.COM
+   Name Server: NS6.SECUREDC.COM
    Status: clientTransferProhibited
-   Updated Date: 13-mar-2011
-   Creation Date: 14-apr-2010
-   Expiration Date: 14-apr-2012
+   Updated Date: 08-mar-2011
+   Creation Date: 28-feb-2009
+   Expiration Date: 28-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-__   _                             ____
-| \ | | __ _ _ __ ___   ___       / ___|___  _ __ ___
-|  \| |/ _` | '_ ` _ \ / _ \     | |   / _ \| '_ ` _ \
-| |\  | (_| | | | | | |  __/  _  | |__| (_) | | | | | |
-|_| \_|\__,_|_| |_| |_|\___| (_)  \____\___/|_| |_| |_|
-      On a first name basis with the rest of the world.
+=-=-=-=
+Visit AboutUs.org for more information about briarbeydeckerterriers.com
+&lt;a href=&quot;http://www.aboutus.org/briarbeydeckerterriers.com&quot;&gt;AboutUs: briarbeydeckerterriers.com&lt;/a&gt;
 
 
-Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
+Domain name: briarbeydeckerterriers.com
 
+Registrant Contact:
+   BriarBey Black Arabians
+   Deanna DeLong ()
 
-Domain Name:     tubestv.com
-Registrar:       Name.com LLC
+   Fax:
+   28 BriarBey Lane
+   Fleming, OH 45729
+   US
 
-Expiration Date: 2012-04-14 10:07:31
-Creation Date:   2010-04-14 10:07:31
+Administrative Contact:
+   BriarBey Black Arabians
+   Deanna DeLong (briarbey@earthlink.net)
+   +1.7403368034
+   Fax:
+   28 BriarBey Lane
+   Fleming, OH 45729
+   US
+
+Technical Contact:
+   Net1.net
+   Infinology Hosting (help@infinology.com)
+   +1.8778832248
+   Fax: +1.8887817160
+   P.O. Box 5328
+   Katy, TX 77491-5328
+   US
+
+Status: Locked
 
 Name Servers:
-	ns1.tubestv.com
-	ns2.tubestv.com
+   ns5.securedc.com
+   ns6.securedc.com
 
-REGISTRANT CONTACT INFO
-Afiwa Senyo
-Afiwa Senyo
-River Rd
-Baton Rouge
-LA
-70803
-US
-Phone:         +1.2255785302
-Email Address: afiwasenyo@gmail.com
+Creation date: 28 Feb 2009 15:46:31
+Expiration date: 28 Feb 2012 15:46:31
 
-ADMINISTRATIVE CONTACT INFO
-Afiwa Senyo
-Afiwa Senyo
-River Rd
-Baton Rouge
-LA
-70803
-US
-Phone:         +1.2255785302
-Email Address: afiwasenyo@gmail.com
 
-TECHNICAL CONTACT INFO
-Afiwa Senyo
-Afiwa Senyo
-River Rd
-Baton Rouge
-LA
-70803
-US
-Phone:         +1.2255785302
-Email Address: afiwasenyo@gmail.com
 
-BILLING CONTACT INFO
-Afiwa Senyo
-Afiwa Senyo
-River Rd
-Baton Rouge
-LA
-70803
-US
-Phone:         +1.2255785302
-Email Address: afiwasenyo@gmail.com
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-Timestamp: 1315865299.7846
-
-The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
-
-Cached on: 2011-09-12T16:08:19-06:00
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
