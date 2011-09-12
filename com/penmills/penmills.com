@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-aug-1998
    Expiration Date: 11-aug-2019
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:35:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:08:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
+database through the use of high-volume, automated, electronic processes. The
+Data in Network Solutions' WHOIS database is provided by Network Solutions for information
+purposes only, and to assist persons in obtaining information about or related
+to a domain name registration record. Network Solutions does not guarantee its accuracy.
+By submitting a WHOIS query, you agree to abide by the following terms of use:
+You agree that you may use this Data only for lawful purposes and that under no
+circumstances will you use this Data to: (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or solicitations
+via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+electronic processes that apply to Network Solutions (or its computer systems). The
+compilation, repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of Network Solutions. You agree not to use
+high-volume, automated, electronic processes to access or query the WHOIS
+database. Network Solutions reserves the right to terminate your access to the WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this policy.
+Network Solutions reserves the right to modify these terms at any time.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+http://www.networksolutions.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Visit AboutUs.org for more information about PENMILLS.COM
+&lt;a href=&quot;http://www.aboutus.org/PENMILLS.COM&quot;&gt;AboutUs: PENMILLS.COM &lt;/a&gt;
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: penmills.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 13:25:48 EDT 2011
-Reason Code: IE
+
+
+Registrant:
+Pendleton Woolen Mills
+   220 NW Broadway
+   Portland, OR 97209
+   US
+
+   Domain Name: PENMILLS.COM
+
+   ------------------------------------------------------------------------
+   Promote your business to millions of viewers for only $1 a month
+   Learn how you can get an Enhanced Business Listing here for your domain name.
+   Learn more at http://www.NetworkSolutions.com/
+   ------------------------------------------------------------------------
+
+   Administrative Contact:
+      Burghardt, Jill		Jill.Burghardt@PENWOOL.COM
+      Pendleton Woolen Mills
+      220 NW BROADWAY
+      PORTLAND, OR 97209-3509
+      US
+      (503) 535-5730 fax: (503) 535-5502
+
+   Technical Contact:
+      Hostmaster Role Account		hostmaster@RAIN.NET
+      1411 SW MORRISON ST STE 250
+      PORTLAND, OR 97205-1948
+      US
+      +1 503 227 5665 fax: - +1 503 227 5945
+
+
+   Record expires on 11-Aug-2019.
+   Record created on 12-Aug-1998.
+   Database last updated on 12-Sep-2011 15:04:12 EDT.
+
+   Domain servers in listed order:
+
+   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
+   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
+
+

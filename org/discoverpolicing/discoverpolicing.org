@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D117332615-LROR
+Domain Name:DISCOVERPOLICING.ORG
+Created On:27-Feb-2006 01:49:14 UTC
+Last Updated On:25-Oct-2010 17:21:02 UTC
+Expiration Date:27-Feb-2015 01:49:14 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:874568-NSI
+Registrant Name:International Assocation of Chiefs of Police
+Registrant Organization:International Assocation of Chiefs of Police
+Registrant Street1:515 N WASHINGTON ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:ALEXANDRIA
+Registrant State/Province:VA
+Registrant Postal Code:22314-2340
+Registrant Country:US
+Registrant Phone:+1.7038366767
+Registrant Phone Ext.:
+Registrant FAX:+1.7038364543
+Registrant FAX Ext.:
+Registrant Email:paulsond@theiacp.org
+Admin ID:874568-NSI
+Admin Name:International Assocation of Chiefs of Police
+Admin Organization:International Assocation of Chiefs of Police
+Admin Street1:515 N WASHINGTON ST
+Admin Street2:
+Admin Street3:
+Admin City:ALEXANDRIA
+Admin State/Province:VA
+Admin Postal Code:22314-2340
+Admin Country:US
+Admin Phone:+1.7038366767
+Admin Phone Ext.:
+Admin FAX:+1.7038364543
+Admin FAX Ext.:
+Admin Email:paulsond@theiacp.org
+Tech ID:874568-NSI
+Tech Name:International Assocation of Chiefs of Police
+Tech Organization:International Assocation of Chiefs of Police
+Tech Street1:515 N WASHINGTON ST
+Tech Street2:
+Tech Street3:
+Tech City:ALEXANDRIA
+Tech State/Province:VA
+Tech Postal Code:22314-2340
+Tech Country:US
+Tech Phone:+1.7038366767
+Tech Phone Ext.:
+Tech FAX:+1.7038364543
+Tech FAX Ext.:
+Tech Email:paulsond@theiacp.org
+Name Server:NS2.MATRIXGROUP.NET
+Name Server:NS1.MATRIXGROUP.NET
+Name Server:NS3.MATRIXGROUP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

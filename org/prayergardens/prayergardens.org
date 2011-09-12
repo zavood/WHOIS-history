@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D30842760-LROR
+Domain Name:PRAYERGARDENS.ORG
+Created On:04-Jul-2000 15:25:07 UTC
+Last Updated On:25-Jul-2007 03:34:06 UTC
+Expiration Date:04-Jul-2012 15:25:07 UTC
+Sponsoring Registrar:Answerable.com (I) Pvt. Ltd. (R1305-LROR)
+Status:OK
+Registrant ID:DI_522249
+Registrant Name:RD Sunder Singh
+Registrant Organization:Ministry of Jesus
+Registrant Street1:Prayer Gardens,
+Registrant Street2:Hospital Junction,
+Registrant Street3:
+Registrant City:Neyyattinkara
+Registrant State/Province:
+Registrant Postal Code:695 121
+Registrant Country:IN
+Registrant Phone:+91.4712220100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rdsundersingh@hotmail.com
+Admin ID:DI_522249
+Admin Name:RD Sunder Singh
+Admin Organization:Ministry of Jesus
+Admin Street1:Prayer Gardens,
+Admin Street2:Hospital Junction,
+Admin Street3:
+Admin City:Neyyattinkara
+Admin State/Province:
+Admin Postal Code:695 121
+Admin Country:IN
+Admin Phone:+91.4712220100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rdsundersingh@hotmail.com
+Tech ID:DI_522249
+Tech Name:RD Sunder Singh
+Tech Organization:Ministry of Jesus
+Tech Street1:Prayer Gardens,
+Tech Street2:Hospital Junction,
+Tech Street3:
+Tech City:Neyyattinkara
+Tech State/Province:
+Tech Postal Code:695 121
+Tech Country:IN
+Tech Phone:+91.4712220100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rdsundersingh@hotmail.com
+Name Server:NS1.ASIANETINDIA.COM
+Name Server:NS2.ASIANETINDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
