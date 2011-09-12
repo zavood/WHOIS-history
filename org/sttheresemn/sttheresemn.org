@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106256470-LROR
+Domain Name:STTHERESEMN.ORG
+Created On:06-May-2005 16:52:48 UTC
+Last Updated On:07-May-2011 01:23:11 UTC
+Expiration Date:06-May-2012 16:52:48 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-NWX5PPXSI0OA
+Registrant Name:N/A
+Registrant Organization:St. Therese Home, Inc.
+Registrant Street1:8000 Bass Lake Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Hope
+Registrant State/Province:mn
+Registrant Postal Code:55428
+Registrant Country:US
+Registrant Phone:+1.7635315000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chriss@sttheresenh.org
+Admin ID:DOT-AVCIT94YF7OX
+Admin Name:N/A
+Admin Organization:St. Therese Home, Inc.
+Admin Street1:8000 Bass Lake Road
+Admin Street2:
+Admin Street3:
+Admin City:New Hope
+Admin State/Province:mn
+Admin Postal Code:55428
+Admin Country:US
+Admin Phone:+1.7635315000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chriss@sttheresenh.org
+Tech ID:DOT-L3KTI98VBE0P
+Tech Name:N/A
+Tech Organization:St. Therese Home, Inc.
+Tech Street1:8000 Bass Lake Road
+Tech Street2:
+Tech Street3:
+Tech City:New Hope
+Tech State/Province:mn
+Tech Postal Code:55428
+Tech Country:US
+Tech Phone:+1.7635315000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:chriss@sttheresenh.org
+Name Server:NS2.TELA.COM
+Name Server:NS3.TELA.COM
+Name Server:NS1.TELA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QQBBWG.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: DNS5.4CUN.COM
-   Name Server: DNS6.4CUN.COM
-   Status: ok
-   Updated Date: 05-aug-2011
-   Creation Date: 05-aug-2011
-   Expiration Date: 05-aug-2012
+   Domain Name: THE-HIGHWAY.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.BIRDHOSTING.COM
+   Name Server: NS2.BIRDHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 21-feb-2011
+   Creation Date: 22-mar-2001
+   Expiration Date: 22-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:19:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:18:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,7 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about the-highway.com
+&lt;a href=&quot;http://www.aboutus.org/the-highway.com&quot;&gt;AboutUs: the-highway.com&lt;/a&gt;
 
+
+Domain name: the-highway.com
+
+Registrant Contact:
+   Nesbitt, Jeffrey
+   NA NA ()
+
+   Fax:
+   ATTN THE-HIGHWAY.COM
+   NA,
+   US
+
+Administrative Contact:
+   NA
+   Jeffrey Nesbitt (ud7fm3ss9y2@networksolutionsprivateregistration.com)
+   +1.5707088780
+   Fax:
+   ATTN THE-HIGHWAY.COM
+   care of Network Solutions
+   Drums, PA 18222
+   US
+
+Technical Contact:
+   NA
+   LLC Network Solutions (customerservice@networksolutions.com)
+   +1.8886429675
+   Fax: 571-434-4620
+   13861 Sunrise Valley Drive
+   Herndon, VA 20171
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.BIRDHOSTING.COM
+   NS2.BIRDHOSTING.COM
+
+Creation date: 22 Mar 2001 15:57:00
+Expiration date: 22 Mar 2012 14:57:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,39 +111,8 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-Domain Name: qqbbwg.com
-
-Registrant Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Administrative Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Technical Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Billing Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

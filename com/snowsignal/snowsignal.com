@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HIGHENERGYSPA.COM
+   Domain Name: SNOWSIGNAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS-117.AWSDNS-14.COM
+   Name Server: NS-1240.AWSDNS-27.ORG
+   Name Server: NS-1974.AWSDNS-54.CO.UK
+   Name Server: NS-862.AWSDNS-43.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-jun-2010
-   Creation Date: 26-may-2004
-   Expiration Date: 26-may-2012
+   Updated Date: 14-apr-2011
+   Creation Date: 16-feb-2010
+   Expiration Date: 16-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:19:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:20:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,20 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   p100.ca
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HIGHENERGYSPA.COM
+   Domain Name: SNOWSIGNAL.COM
 
    Domain servers in listed order:
-      NS52.DOMAINCONTROL.COM
-      NS51.DOMAINCONTROL.COM
+      NS-1240.AWSDNS-27.ORG
+      NS-117.AWSDNS-14.COM
+      NS-1974.AWSDNS-54.CO.UK
+      NS-862.AWSDNS-43.NET
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HIGHENERGYSPA.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=SNOWSIGNAL.COM

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QQBBWG.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: DNS5.4CUN.COM
-   Name Server: DNS6.4CUN.COM
-   Status: ok
-   Updated Date: 05-aug-2011
-   Creation Date: 05-aug-2011
-   Expiration Date: 05-aug-2012
+   Domain Name: REGINECOTESCRAP.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS0.JFG-NETWORKS.NET
+   Name Server: NS1.PROCEAU.NET
+   Status: clientTransferProhibited
+   Updated Date: 02-oct-2010
+   Creation Date: 04-oct-2006
+   Expiration Date: 04-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:19:41 UTC &lt;&lt;&lt;
 
@@ -51,7 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about reginecotescrap.com
+&lt;a href=&quot;http://www.aboutus.org/reginecotescrap.com&quot;&gt;AboutUs: reginecotescrap.com&lt;/a&gt;
 
+
+Domain name: reginecotescrap.com
+
+Administrative Contact:
+   JFG Networks
+   regine baratciart (whois@jfg-networks.net)
+   +33.562483390
+   Fax: +33.562483390
+   1, avenue Jean Rieux
+   Toulouse,  31500
+   FR
+
+Technical Contact:
+   jfg://networks
+   jfg networks (whois@over-blog.com)
+   +33.0562483390
+   Fax:
+   1 avenue Jean Rieux
+   Toulouse, FR 31500
+   FR
+
+Registrant Contact:
+   jfg://networks
+   jfg networks ()
+
+   Fax:
+   1 avenue Jean Rieux
+   Toulouse, FR 31500
+   FR
+
+Status: Locked
+
+Name Servers:
+   ns0.jfg-networks.net
+   ns1.proceau.net
+
+Creation date: 04 Oct 2006 01:51:55
+Expiration date: 04 Oct 2011 01:51:55
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,39 +110,8 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-Domain Name: qqbbwg.com
-
-Registrant Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Administrative Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Technical Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
-
-Billing Contact:
-   qingchen
-   chen qing 1206686641@qq.com
-   +86.18739613639  fax: +86.18739613639
-   gangdong sheng huo che zhan
-   Dongoing wan Guang Dongoing 510000
-   CN
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
