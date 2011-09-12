@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159282571-LROR
+Domain Name:TBOWA.ORG
+Created On:27-May-2010 15:32:35 UTC
+Last Updated On:27-Apr-2011 20:38:32 UTC
+Expiration Date:27-May-2013 15:32:35 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:B128404956372384
+Registrant Name:Bishop of Winchester Comp
+Registrant Organization:Bishop of Winchester Comp
+Registrant Street1:Mallard Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bournemouth
+Registrant State/Province:NA
+Registrant Postal Code:BH8 9PW
+Registrant Country:GB
+Registrant Phone:+99.99999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Christian@tbows.co.uk
+Admin ID:A128404957838981
+Admin Name:IHG Order Fulfilment
+Admin Organization:RM PLC
+Admin Street1:183 Milton Park
+Admin Street2:
+Admin Street3:
+Admin City:Abingdon
+Admin State/Province:NA
+Admin Postal Code:OX14 4SE
+Admin Country:GB
+Admin Phone:+44.1235854255
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@rm.com
+Tech ID:A128404957838982
+Tech Name:IHG Order Fulfilment
+Tech Organization:RM PLC
+Tech Street1:183 Milton Park
+Tech Street2:
+Tech Street3:
+Tech City:Abingdon
+Tech State/Province:NA
+Tech Postal Code:OX14 4SE
+Tech Country:GB
+Tech Phone:+44.1235854255
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@rm.com
+Name Server:NS0.IFL.NET
+Name Server:NS1.IFL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

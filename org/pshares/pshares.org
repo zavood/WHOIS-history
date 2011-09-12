@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2824263-LROR
+Domain Name:PSHARES.ORG
+Created On:21-Dec-1998 05:00:00 UTC
+Last Updated On:21-Dec-2010 18:59:36 UTC
+Expiration Date:21-Dec-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25303388-NSI
+Registrant Name:Ploughshares
+Registrant Organization:Ploughshares
+Registrant Street1:Emerson College 100 Beacon Str
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston
+Registrant State/Province:MA
+Registrant Postal Code:02116
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ECL_GILLIGAN@FLO.ORG
+Admin ID:15849226-NSI
+Admin Name:Emerson College
+Admin Organization:Emerson College
+Admin Street1:180 TREMONT ST FL 4
+Admin Street2:
+Admin Street3:
+Admin City:BOSTON
+Admin State/Province:MA
+Admin Postal Code:02111-1014
+Admin Country:US
+Admin Phone:+1.6175788770
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ECL_GILLIGAN@FLO.ORG
+Tech ID:15849225-NSI
+Tech Name:Richard Grossman
+Tech Organization:Emerson College
+Tech Street1:120 Boylston Street
+Tech Street2:
+Tech Street3:
+Tech City:BOSTON
+Tech State/Province:MA
+Tech Postal Code:02116-1553
+Tech Country:US
+Tech Phone:+1.6178248480
+Tech Phone Ext.:
+Tech FAX:+1.6178248081
+Tech FAX Ext.:
+Tech Email:rgrossman@EMERSON.EDU
+Name Server:DNS-SERV.EMERSON.EDU
+Name Server:DEBORAH.UNTRUST.EMERSON.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

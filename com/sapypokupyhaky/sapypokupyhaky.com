@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MUGAATGAMES.NET
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
+   Domain Name: SAPYPOKUPYHAKY.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.SAPYPOKUPYHAKY.COM
+   Name Server: NS2.SAPYPOKUPYHAKY.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-nov-2010
-   Creation Date: 08-feb-2007
-   Expiration Date: 08-feb-2012
+   Updated Date: 13-may-2011
+   Creation Date: 12-may-2011
+   Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:58:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:58:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
+Domain name: sapypokupyhaky.com
 
-Registrant:
-   AtGames Holdings Ltd.
+Registrant Contact:
+   Betty Nelson
+   Betty Nelson yl@mailae.com
+   +12049560665 fax: +12049560665
+   330 York Avenue
+   Winnipeg Manitoba R3C 0N9
+   CA
 
-   Registered through: XKR ESSEX, INC
-   Domain Name: MUGAATGAMES.NET
+Administrative Contact:
+   Betty Nelson yl@mailae.com
+   +12049560665 fax: +12049560665
+   330 York Avenue
+   Winnipeg Manitoba R3C 0N9
+   CA
 
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+Technical Contact:
+   Betty Nelson yl@mailae.com
+   +12049560665 fax: +12049560665
+   330 York Avenue
+   Winnipeg Manitoba R3C 0N9
+   CA
 
+Billing Contact:
+   Betty Nelson yl@mailae.com
+   +12049560665 fax: +12049560665
+   330 York Avenue
+   Winnipeg Manitoba R3C 0N9
+   CA
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=MUGAATGAMES.NET&amp;prog_id=grreek
+Registration Service Provider:
+name: Bizcn
+
+DNS:
+ns1.sapypokupyhaky.com
+ns2.sapypokupyhaky.com
+
+Created: 2011-05-12
+Expires: 2012-05-12
