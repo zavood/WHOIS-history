@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SSECURE-DNS.COM
+   Domain Name: UPTIMEWEBHOSTING.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SSECURE-DNS.COM
-   Name Server: NS2.SSECURE-DNS.COM
-   Name Server: NS25.SSECURE-DNS.COM
-   Name Server: NS26.SSECURE-DNS.COM
+   Name Server: NS1.UPTIMEWEBHOSTING.COM
+   Name Server: NS2.UPTIMEWEBHOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientHold
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 28-feb-2003
-   Expiration Date: 28-feb-2012
+   Updated Date: 11-sep-2011
+   Creation Date: 10-sep-2004
+   Expiration Date: 10-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:46:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,52 +55,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- InsideMedia SRL
- Delfinului, 7, bl. D30, ap. 53
- Bucuresti, sector 2 70000
- RO
+ isphost.org
+ 352 georgetown dr
+ casselberry, FL 32707
+ US
 
- Domain name: SSECURE-DNS.COM
+ Domain name: UPTIMEWEBHOSTING.COM
 
 
  Administrative Contact:
-    Adrian, Firican  domenii@hostx.ro
-    Delfinului, 7, bl. D30, ap. 53
-    Bucuresti, sector 2 70000
-    RO
-    +40.722241273
+    Beckworth, James  sales@isphost.org
+    352 georgetown dr
+    casselberry, FL 32707
+    US
+    +1.4075927889
  Technical Contact:
-    Adrian, Firican  domenii@hostx.ro
-    Delfinului, 7, bl. D30, ap. 53
-    Bucuresti, sector 2 70000
-    RO
-    +40.722241273
+    Beckworth, James  sales@isphost.org
+    352 georgetown dr
+    casselberry, FL 32707
+    US
+    +1.4075927889
 
 
  Registration Service Provider:
-    InsideMedia SRL, domenii@hostx.ro
-    +40.365-882-777
-    +40.365-882-777 (fax)
-    http://www.hostx.ro
+    Hover, help@hover.com
+    416.538.5498
+    http://help.hover.com
 
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Sep-2011.
- Record expires on 28-Feb-2012.
- Record created on 28-Feb-2003.
+ Record last updated on 31-Mar-2011.
+ Record expires on 10-Sep-2011.
+ Record created on 10-Sep-2004.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SSECURE-DNS.COM   80.86.106.89
-    NS25.SSECURE-DNS.COM   80.86.106.162
-    NS26.SSECURE-DNS.COM   89.149.4.1
-    NS2.SSECURE-DNS.COM   83.166.196.81
+    NS1.UPTIMEWEBHOSTING.COM   216.127.68.65
+    NS2.UPTIMEWEBHOSTING.COM   216.127.68.65
 
 
- Domain status: clientTransferProhibited
+ Domain status: clientDeleteProhibited
+                clientHold
+                clientTransferProhibited
                 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows

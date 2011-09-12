@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SSECURE-DNS.COM
+   Domain Name: HOSTEDEMAIL.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SSECURE-DNS.COM
-   Name Server: NS2.SSECURE-DNS.COM
-   Name Server: NS25.SSECURE-DNS.COM
-   Name Server: NS26.SSECURE-DNS.COM
+   Name Server: NS1.MDNSSERVICE.COM
+   Name Server: NS2.MDNSSERVICE.COM
+   Name Server: NS3.MDNSSERVICE.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 28-feb-2003
-   Expiration Date: 28-feb-2012
+   Status: serverDeleteProhibited
+   Status: serverTransferProhibited
+   Status: serverUpdateProhibited
+   Updated Date: 03-mar-2011
+   Creation Date: 01-apr-2005
+   Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:46:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +57,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- InsideMedia SRL
- Delfinului, 7, bl. D30, ap. 53
- Bucuresti, sector 2 70000
- RO
+ Tucows Inc
+ 96 Mowat Ave.
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: SSECURE-DNS.COM
+ Domain name: HOSTEDEMAIL.COM
 
 
  Administrative Contact:
-    Adrian, Firican  domenii@hostx.ro
-    Delfinului, 7, bl. D30, ap. 53
-    Bucuresti, sector 2 70000
-    RO
-    +40.722241273
+    Admin, Domain  domain_management@tucows.com
+    96 Mowat Ave.
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165350123
  Technical Contact:
-    Adrian, Firican  domenii@hostx.ro
-    Delfinului, 7, bl. D30, ap. 53
-    Bucuresti, sector 2 70000
-    RO
-    +40.722241273
+    Admin, Domain  domain_management@tucows.com
+    96 Mowat Ave.
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165350123
 
 
  Registration Service Provider:
-    InsideMedia SRL, domenii@hostx.ro
-    +40.365-882-777
-    +40.365-882-777 (fax)
-    http://www.hostx.ro
+    Tucows.com Co., tucowsdomains@tucows.com
+    416-535-0123
 
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Sep-2011.
- Record expires on 28-Feb-2012.
- Record created on 28-Feb-2003.
+ Record last updated on 12-Sep-2011.
+ Record expires on 01-Apr-2012.
+ Record created on 01-Apr-2005.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SSECURE-DNS.COM   80.86.106.89
-    NS25.SSECURE-DNS.COM   80.86.106.162
-    NS26.SSECURE-DNS.COM   89.149.4.1
-    NS2.SSECURE-DNS.COM   83.166.196.81
+    NS1.MDNSSERVICE.COM
+    NS3.MDNSSERVICE.COM
+    NS2.MDNSSERVICE.COM
 
 
  Domain status: clientTransferProhibited
                 clientUpdateProhibited
+                serverDeleteProhibited
+                serverTransferProhibited
+                serverUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining
