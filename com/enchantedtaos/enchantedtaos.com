@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOFTONIC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.SOFTONIC.COM
-   Name Server: MASTERDNS.SOFTONIC.COM
-   Name Server: NSE.SOFTONIC.COM
+   Domain Name: ENCHANTEDTAOS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.BROWNRICE.COM
+   Name Server: NS2.BROWNRICE.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2011
-   Creation Date: 28-jan-2000
-   Expiration Date: 28-jan-2021
+   Status: clientUpdateProhibited
+   Updated Date: 31-jul-2006
+   Creation Date: 18-jan-2003
+   Expiration Date: 18-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:22:56 UTC &lt;&lt;&lt;
 
@@ -52,23 +53,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrant:
+      Lisa Davis
+      Lisa Davis
+      P.O. Box 835
+      Taos, NM 87571
+      US
+      Phone: +1.5057581924
+      Email: lisandavis@msn.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: softonic.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 18:18:54 EDT 2011
-Reason Code: IE
+
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: enchantedtaos.com
+      Created on..............: 2003-01-18
+      Expires on..............: 2016-01-18
+
+   Administrative Contact:
+      Lisa Davis
+      Lisa Davis
+      PO box 835
+      Taos, NM 87571
+      US
+      Phone: 505-770-2983
+      Email: lisandavis@msn.com
+
+
+   Technical  Contact:
+      Register.Com
+      Domain Registrar
+      575 8th Avenue 11th Floor
+      New York, NY 10018
+      US
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
+
+
+   DNS Servers:
+      ns1.brownrice.com
+      ns2.brownrice.com
+
+
+
+Visit AboutUs.org for more information about enchantedtaos.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/enchantedtaos.com&quot;&gt;AboutUs: enchantedtaos.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

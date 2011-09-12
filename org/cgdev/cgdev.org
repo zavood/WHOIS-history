@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77763670-LROR
+Domain Name:CGDEV.ORG
+Created On:25-Sep-2001 18:16:24 UTC
+Last Updated On:04-May-2011 13:39:22 UTC
+Expiration Date:25-Sep-2017 18:16:24 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16710927-NSI
+Registrant Name:Center For Global Developement
+Registrant Organization:Center For Global Developement
+Registrant Street1:1800 Massachusetts Avenue NW
+Registrant Street2:Third Floor
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036
+Registrant Country:US
+Registrant Phone:+1.2024160700
+Registrant Phone Ext.:
+Registrant FAX:+1.12024164050
+Registrant FAX Ext.:
+Registrant Email:jgarland@cgdev.org
+Admin ID:42006538-NSI
+Admin Name:Jeff Garland
+Admin Organization:Center for Global Development
+Admin Street1:1800 Massachusetts Ave
+Admin Street2:Suite 301
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20036
+Admin Country:US
+Admin Phone:+1.2024164043
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jgarland@cgdev.org
+Tech ID:42006538-NSI
+Tech Name:Jeff Garland
+Tech Organization:Center for Global Development
+Tech Street1:1800 Massachusetts Ave
+Tech Street2:Suite 301
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20036
+Tech Country:US
+Tech Phone:+1.2024164043
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jgarland@cgdev.org
+Name Server:AUTH20.NS.WCOM.COM
+Name Server:AUTH02.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
