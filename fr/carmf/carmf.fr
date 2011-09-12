@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; carmf.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      carmf.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CADM16-FRNIC
+admin-c:     SN1240-FRNIC
+tech-c:      NOC2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL558-FRNIC
+registrar:   INFOCLIP
+anniversary: 06/03
+created:     06/03/1997
+last-update: 25/08/2009
+source:      FRNIC
+
+ns-list:     NSL558-FRNIC
+nserver:     dns1.filnet.fr [194.187.192.249]
+nserver:     dns2.filnet.fr [194.51.170.248]
+source:      FRNIC
+
+registrar:   INFOCLIP
+type:        Isp Option 2
+address:     32 Avenue Corentin Cariou
+address:     PARIS
+country:     FR
+phone:       +33 1 43 18 19 20
+fax-no:      +33 1 43 18 19 29
+e-mail:      hostmaster@infoclip.fr
+website:     http://www.infoclip.fr
+anonymous:   NO
+registered:  10/02/2004
+source:      FRNIC
+
+nic-hdl:     CADM16-FRNIC
+type:        ORGANIZATION
+contact:     CAISSE AUTONOME RETRAITE MEDECINS FRAN
+address:     46, rue Saint Ferdinand
+address:     75017 Paris
+country:     FR
+phone:       +33 1 40 68 32 00
+changed:     24/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SN1240-FRNIC
+type:        PERSON
+contact:     Sylvianne Nazzareno
+address:     CARMF
+address:     46, rue Saint Ferdinand
+address:     75017 Paris
+country:     FR
+phone:       +33 1 40 68 32 00
+fax-no:      +33 1 40 68 32 00
+e-mail:      carmf@filnet.fr
+notify:      carmf@filnet.fr
+changed:     07/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NOC2-FRNIC
+type:        ROLE
+contact:     Network Operation Center
+address:     INFOCLIP
+address:     32, avenue Corentin Cariou
+address:     75019 Paris
+country:     FR
+phone:       +33 1 43 18 19 20
+e-mail:      hostmaster@infoclip.fr
+trouble:     Informations: http://www.infoclip.fr
+admin-c:     EM140-FRNIC
+admin-c:     LM197-FRNIC
+tech-c:      LM197-FRNIC
+notify:      hostmaster@infoclip.fr
+changed:     15/05/2006 hostmaster@infoclip.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

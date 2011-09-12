@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUBA.NET
+   Domain Name: FOODANDWINE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS.KINGSOFT.NET
-   Name Server: NS.KINGSOFT.COM
+   Name Server: GW1.AMEXPUB.COM
+   Name Server: GW2.AMEXPUB.COM
    Status: clientTransferProhibited
-   Updated Date: 06-mar-2007
-   Creation Date: 19-mar-2002
-   Expiration Date: 19-mar-2012
+   Updated Date: 03-dec-2009
+   Creation Date: 11-nov-1998
+   Expiration Date: 10-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:12:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:13:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about DUBA.NET
-&lt;a href=&quot;http://www.aboutus.org/DUBA.NET&quot;&gt;AboutUs: DUBA.NET &lt;/a&gt;
+Visit AboutUs.org for more information about FOODANDWINE.COM
+&lt;a href=&quot;http://www.aboutus.org/FOODANDWINE.COM&quot;&gt;AboutUs: FOODANDWINE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Beijing Kingsoft DEG Co., Ltd.
-   20F, Baiyan Bldg., No238 Beisihuan Rd.
-   Beijing, Beijing 100083
-   CN
+AMERICAN EXPRESS PUBLISHING
+   1120 Ave. of the Americas
+   New York, NY 10036
+   US
 
-   Domain Name: DUBA.NET
+   Domain Name: FOODANDWINE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,21 +95,20 @@ Beijing Kingsoft DEG Co., Ltd.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Qiu, Vincent		qbj@kingsoft.com
-      kingsoft co.
-      kingsoft bldg., jida
-      Zhuhai, GuangDong 519015
-      CN
-      +86-756-3335688 fax: +86-756-3335268
+      AMERICAN EXPRESS PUBLISHING		christopher.p.stuss@aexp.com
+      1120 Ave. of the Americas
+      New York, NY 10036
+      US
+      212 827-6423 fax: 212 642 1962
 
 
-   Record expires on 19-Mar-2012.
-   Record created on 19-Mar-2002.
-   Database last updated on 12-Sep-2011 18:03:14 EDT.
+   Record expires on 10-Nov-2015.
+   Record created on 11-Nov-1998.
+   Database last updated on 12-Sep-2011 18:03:38 EDT.
 
    Domain servers in listed order:
 
-   DNS.KINGSOFT.NET             202.105.177.124
-   NS.KINGSOFT.COM              218.30.82.31
+   GW1.AMEXPUB.COM              63.87.229.172
+   GW2.AMEXPUB.COM              63.87.229.173
 
 

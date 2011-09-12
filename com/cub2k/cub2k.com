@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUBA.NET
+   Domain Name: CUB2K.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS.KINGSOFT.NET
-   Name Server: NS.KINGSOFT.COM
+   Name Server: NS1.IMPSAT.NET.AR
+   Name Server: NS3.IMPSAT.NET.AR
    Status: clientTransferProhibited
-   Updated Date: 06-mar-2007
-   Creation Date: 19-mar-2002
-   Expiration Date: 19-mar-2012
+   Updated Date: 17-may-2011
+   Creation Date: 14-sep-2000
+   Expiration Date: 14-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:12:59 UTC &lt;&lt;&lt;
 
@@ -74,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about DUBA.NET
-&lt;a href=&quot;http://www.aboutus.org/DUBA.NET&quot;&gt;AboutUs: DUBA.NET &lt;/a&gt;
+Visit AboutUs.org for more information about CUB2K.COM
+&lt;a href=&quot;http://www.aboutus.org/CUB2K.COM&quot;&gt;AboutUs: CUB2K.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Beijing Kingsoft DEG Co., Ltd.
-   20F, Baiyan Bldg., No238 Beisihuan Rd.
-   Beijing, Beijing 100083
-   CN
+Cubika S.A.
+   ATTN CUB2K.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: DUBA.NET
+
+   Domain Name: CUB2K.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,21 +97,29 @@ Beijing Kingsoft DEG Co., Ltd.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Qiu, Vincent		qbj@kingsoft.com
-      kingsoft co.
-      kingsoft bldg., jida
-      Zhuhai, GuangDong 519015
-      CN
-      +86-756-3335688 fax: +86-756-3335268
+      Bello, Juan		yp2dm3zg84w@networksolutionsprivateregistration.com
+      CUBIKA S.A.
+      ATTN CUB2K.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
+      US
+      570-708-8780
 
 
-   Record expires on 19-Mar-2012.
-   Record created on 19-Mar-2002.
-   Database last updated on 12-Sep-2011 18:03:14 EDT.
+   Record expires on 14-Sep-2012.
+   Record created on 14-Sep-2000.
+   Database last updated on 12-Sep-2011 18:09:01 EDT.
 
    Domain servers in listed order:
 
-   DNS.KINGSOFT.NET             202.105.177.124
-   NS.KINGSOFT.COM              218.30.82.31
+   NS1.IMPSAT.NET.AR
+   NS3.IMPSAT.NET.AR
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 
