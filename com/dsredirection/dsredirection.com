@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-jul-2006
    Expiration Date: 24-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:18:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:45:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,4 +53,121 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Your ip address 188.72.227.95 has been blocked.  If you believe this is in error please contact info@nameking.com  with your request.
+
+
+
+
+Domain Name:                 dsredirection.com
+
+
+
+
+Registrant
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Admin Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Billing Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Tech Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+
+Creation Date:               07/24/06
+Expiration Date:             07/24/14
+Domain Status:               LOCKED
+
+
+Domain Servers
+
+
+  dns11.cotdns.net
+
+  dns12.cotdns.net
+
+
+
+Registration Provided By:    NAMEKING INC.
+Contact:                     info@nameking.com
+Abuse Desk Email Address:    abuse@nameking.com
+
+
+
+
+
+
+Request 2/20
