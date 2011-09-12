@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LCN.COM
-   Registrar: ADVANTAGE INTERACTIVE LTD
-   Whois Server: whois.advantage-interactive.com
-   Referral URL: http://www.lcn.com
-   Name Server: NS0.AI270.NET
-   Name Server: NS1.AI270.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-nov-2009
-   Creation Date: 10-feb-1996
-   Expiration Date: 11-feb-2019
+   Domain Name: ALESSANDROCARRABSCOUTURE.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
+   Status: ok
+   Updated Date: 06-feb-2011
+   Creation Date: 05-feb-2010
+   Expiration Date: 05-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:01:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:02:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,61 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:  LCN.COM
-owner-c: AI-786569
-admin-c: AI-300624
-tech-c: AI-300624
-bill-c: AI-300624
-nserver: ns1.ai270.net 195.82.107.234
-nserver: ns0.ai270.net 94.126.40.2
-nserver: ns0.ai270.net 94.126.40.2
-created: 1996-02-10 00:00:00
-expires: 2019-02-11 00:00:00
-changed: 2011-08-30 09:34:14
 
-contact-handle: AI-786569
-contact:        Mark Boost
-organisation:   Advantage Interactive Ltd
-address:        Units H, J, K
-address:        Gateway 1000, Whittle Way
-address:        Stevenage
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-email:          contact@advantage-interactive.com
+REGISTER.IT SPA - Whois Server Version 1.4
 
-contact-handle: AI-300624
-contact:        Hostmaster
-address:        Units H, J, K
-address:        Gateway 1000
-address:        Whittle Way
-address:        Stevenage
-address:        England
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-fax:            +44.1438300137
-email:          support@lcn.com
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-contact-handle: AI-300624
-contact:        Hostmaster
-address:        Units H, J, K
-address:        Gateway 1000
-address:        Whittle Way
-address:        Stevenage
-address:        England
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-fax:            +44.1438300137
-email:          support@lcn.com
+     Domain name: ALESSANDROCARRABSCOUTURE.COM
+     Created on: 2010-02-05
+     Updated on: 2011-03-02
+     Expires on: 2012-02-05
+     Registrant Name: CARRABS
+     Contact: Carrabs
+     Registrant Address: 19/A, V. Belvedere
+     Registrant City: Battipaglia
+     Registrant Postal Code: 84091
+     Registrant Country: IT
+     Administrative Contact Organization: CARRABS ALESSANDRO
+     Administrative Contact Name: Carrabs Alessandro
+     Administrative Contact Address: 19/A, V. Belvedere
+     Administrative Contact City: Battipaglia
+     Administrative Contact Postal Code: 84091
+     Administrative Contact Country: IT
+     Administrative Contact Email: info@alessandrocarrabs.it
+     Administrative Contact Tel: +39 0828 371517
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
-****************************************************************
 
-Domain Registration Service Provider:
-
-    lcn
-    For all domain related queries go to http://www.lcn.com
-
-****************************************************************
+&gt;&gt;&gt; Last update of whois database: Mon Sep 12 16:06:57 2011 &lt;&lt;&lt;
 

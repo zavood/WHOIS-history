@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LCN.COM
-   Registrar: ADVANTAGE INTERACTIVE LTD
-   Whois Server: whois.advantage-interactive.com
-   Referral URL: http://www.lcn.com
-   Name Server: NS0.AI270.NET
-   Name Server: NS1.AI270.NET
-   Status: clientDeleteProhibited
+   Domain Name: INDRA.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS.BITWAY.COM
+   Name Server: NS1.INDRA.COM
+   Name Server: NS2.INDRA.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-nov-2009
-   Creation Date: 10-feb-1996
-   Expiration Date: 11-feb-2019
+   Updated Date: 17-dec-2010
+   Creation Date: 30-jun-1994
+   Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:01:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:02:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,61 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:  LCN.COM
-owner-c: AI-786569
-admin-c: AI-300624
-tech-c: AI-300624
-bill-c: AI-300624
-nserver: ns1.ai270.net 195.82.107.234
-nserver: ns0.ai270.net 94.126.40.2
-nserver: ns0.ai270.net 94.126.40.2
-created: 1996-02-10 00:00:00
-expires: 2019-02-11 00:00:00
-changed: 2011-08-30 09:34:14
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-contact-handle: AI-786569
-contact:        Mark Boost
-organisation:   Advantage Interactive Ltd
-address:        Units H, J, K
-address:        Gateway 1000, Whittle Way
-address:        Stevenage
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-email:          contact@advantage-interactive.com
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-contact-handle: AI-300624
-contact:        Hostmaster
-address:        Units H, J, K
-address:        Gateway 1000
-address:        Whittle Way
-address:        Stevenage
-address:        England
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-fax:            +44.1438300137
-email:          support@lcn.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-contact-handle: AI-300624
-contact:        Hostmaster
-address:        Units H, J, K
-address:        Gateway 1000
-address:        Whittle Way
-address:        Stevenage
-address:        England
-address:        SG1 2FP
-address:        GB
-phone:          +44.1438342490
-fax:            +44.1438300137
-email:          support@lcn.com
+http://www.networksolutions.com/whois/index.jhtml
 
-****************************************************************
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain Registration Service Provider:
-
-    lcn
-    For all domain related queries go to http://www.lcn.com
-
-****************************************************************
-
+Whois Query: indra.com
+YOUR IP address is 188.72.227.95
+Date and Time of Query: Mon Sep 12 10:52:35 EDT 2011
+Reason Code: IE
