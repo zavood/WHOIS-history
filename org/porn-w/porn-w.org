@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150501627-LROR
+Domain Name:PORN-W.ORG
+Created On:29-Dec-2007 22:31:17 UTC
+Last Updated On:14-Jun-2011 07:46:47 UTC
+Expiration Date:29-Dec-2011 22:31:17 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:9109bb3832afb081
+Registrant Name:Andrej  Zahorsky
+Registrant Organization:---
+Registrant Street1:Bratislavska 100
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kosice
+Registrant State/Province:SR
+Registrant Postal Code:86547
+Registrant Country:SK
+Registrant Phone:+421.908761486
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:contact@porn-w.org
+Admin ID:9109bb3832afb081
+Admin Name:Andrej  Zahorsky
+Admin Organization:---
+Admin Street1:Bratislavska 100
+Admin Street2:
+Admin Street3:
+Admin City:Kosice
+Admin State/Province:SR
+Admin Postal Code:86547
+Admin Country:SK
+Admin Phone:+421.908761486
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:contact@porn-w.org
+Tech ID:9109bb3832afb081
+Tech Name:Andrej  Zahorsky
+Tech Organization:---
+Tech Street1:Bratislavska 100
+Tech Street2:
+Tech Street3:
+Tech City:Kosice
+Tech State/Province:SR
+Tech Postal Code:86547
+Tech Country:SK
+Tech Phone:+421.908761486
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:contact@porn-w.org
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
