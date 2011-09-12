@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BATTLE.NET
+   Domain Name: DTMOVIES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS-EAST.CERF.NET
-   Name Server: NS-WEST.CERF.NET
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 26-mar-1996
-   Expiration Date: 27-mar-2013
+   Updated Date: 08-jun-2009
+   Creation Date: 29-mar-1997
+   Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:52:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:53:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: battle.net
+Whois Query: dtmovies.com
 YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 22:42:38 EDT 2011
+Date and Time of Query: Sun Sep 11 22:43:26 EDT 2011
 Reason Code: IE
