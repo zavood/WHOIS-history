@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OT-PUBLIER.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.INFOMANIAK.CH
-   Name Server: NS2.INFOMANIAK.CH
+   Domain Name: JAGUARUSA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: GYDNS04.JLREXT.COM
+   Name Server: WHDNS04.JLREXT.COM
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 28-feb-2005
-   Expiration Date: 28-feb-2012
+   Updated Date: 10-aug-2011
+   Creation Date: 26-mar-1997
+   Expiration Date: 27-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:01 UTC &lt;&lt;&lt;
 
@@ -52,42 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name : OT-PUBLIER.COM
-Created On : 2005-02-28
-Expiration Date : 2012-02-28
-Status : PROTECTED
-Registrant Name : MEDIACOM Consulting
-Registrant Street1 : SITE DARCHAMPS
-Registrant Street2 : EUROPA 1
-Registrant City : ARCHAMPS
-Registrant State/Province  :
-Registrant Postal Code : 74166
-Registrant Country : FR
-Admin Name : MEDIACOM Consulting
-Admin Street1 : SITE DARCHAMPS
-Admin Street2 : EUROPA 1
-Admin City : ARCHAMPS
-Admin State/Province : FR
-Admin Postal Code : 74166
-Admin Country : FR
-Admin Phone : +41.033450431515
-Admin Email : namebay@infomaniak.ch
-Tech Name : Infomaniak Network
-Tech Street1 : Av. de la Praille 26
-Tech City : Carouge
-Tech State/Province : Geneva
-Tech Postal Code : 1227
-Tech Country : CH
-Tech Phone : +41.228203541
-Tech Email : namebay@infomaniak.ch
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+Domain Name.......... jaguarusa.com
+  Creation Date........ 1997-03-26
+  Registration Date.... 2008-05-29
+  Expiry Date.......... 2012-03-27
+  Organisation Name.... Jaguar Cars Limited
+  Organisation Address. 20600 Rotunda Drive
+  Organisation Address.
+  Organisation Address. Dearborn
+  Organisation Address. 48121
+  Organisation Address. -
+  Organisation Address. UNITED STATES
+
+Admin Name........... Administrative Contact J
+  Admin Address........ 20600 Rotunda Drive
+  Admin Address........
+  Admin Address........ Dearborn
+  Admin Address........ 48121
+  Admin Address........ -
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsmgr@ford.com
+  Admin Phone.......... +1.3133903476
+  Admin Fax............
+
+Tech Name............ DNS Admin
+  Tech Address......... Banbury Road
+  Tech Address.........
+  Tech Address......... Gaydon
+  Tech Address......... CV35 0RG
+  Tech Address......... Warwick
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... dnsadmin@jaguarlandrover.com
+  Tech Phone........... +44.1926641111
+  Tech Fax............. +44.1926649403
+  Name Server.......... whdns04.jlrext.com
+  Name Server.......... gydns04.jlrext.com
+
+

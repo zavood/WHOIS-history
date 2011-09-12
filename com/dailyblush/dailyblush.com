@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OT-PUBLIER.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.INFOMANIAK.CH
-   Name Server: NS2.INFOMANIAK.CH
+   Domain Name: DAILYBLUSH.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: DNS1.TEXTDRIVE.COM
+   Name Server: DNS2.TEXTDRIVE.COM
+   Name Server: DNS3.TEXTDRIVE.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 28-feb-2005
-   Expiration Date: 28-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 06-jul-2011
+   Creation Date: 05-jul-2005
+   Expiration Date: 05-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +55,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name : OT-PUBLIER.COM
-Created On : 2005-02-28
-Expiration Date : 2012-02-28
-Status : PROTECTED
-Registrant Name : MEDIACOM Consulting
-Registrant Street1 : SITE DARCHAMPS
-Registrant Street2 : EUROPA 1
-Registrant City : ARCHAMPS
-Registrant State/Province  :
-Registrant Postal Code : 74166
-Registrant Country : FR
-Admin Name : MEDIACOM Consulting
-Admin Street1 : SITE DARCHAMPS
-Admin Street2 : EUROPA 1
-Admin City : ARCHAMPS
-Admin State/Province : FR
-Admin Postal Code : 74166
-Admin Country : FR
-Admin Phone : +41.033450431515
-Admin Email : namebay@infomaniak.ch
-Tech Name : Infomaniak Network
-Tech Street1 : Av. de la Praille 26
-Tech City : Carouge
-Tech State/Province : Geneva
-Tech Postal Code : 1227
-Tech Country : CH
-Tech Phone : +41.228203541
-Tech Email : namebay@infomaniak.ch
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Poke Media
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: DAILYBLUSH.COM
+
+   Domain servers in listed order:
+      DNS1.TEXTDRIVE.COM
+      DNS2.TEXTDRIVE.COM
+      DNS3.TEXTDRIVE.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DAILYBLUSH.COM

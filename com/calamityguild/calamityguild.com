@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OT-PUBLIER.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.INFOMANIAK.CH
-   Name Server: NS2.INFOMANIAK.CH
-   Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 28-feb-2005
-   Expiration Date: 28-feb-2012
+   Domain Name: CALAMITYGUILD.COM
+   Registrar: NETTUNER CORP. DBA WEBMASTERS.COM
+   Whois Server: whois.webmasters.com
+   Referral URL: http://www.webmasters.com
+   Name Server: NS100.WEBMASTERS.COM
+   Name Server: NS99.WEBMASTERS.COM
+   Status: ok
+   Updated Date: 08-jun-2011
+   Creation Date: 07-jun-2006
+   Expiration Date: 07-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:38:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+NOTICE AND TERMS OF USE: The data in WEBMASTERS.COM's WHOIS database is provided for
+information purposes only, and its accuracy is not guaranteed. By submitting a WHOIS
+query, you agree to abide by the following terms of use: You agree that you may use this
+Data only for lawful purposes and that under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail, telephone, or fax; or (2) enable high volume,
+automated, electronic processes for the purpose of re-transmitting the WHOIS data.
 
-Domain Name : OT-PUBLIER.COM
-Created On : 2005-02-28
-Expiration Date : 2012-02-28
-Status : PROTECTED
-Registrant Name : MEDIACOM Consulting
-Registrant Street1 : SITE DARCHAMPS
-Registrant Street2 : EUROPA 1
-Registrant City : ARCHAMPS
-Registrant State/Province  :
-Registrant Postal Code : 74166
-Registrant Country : FR
-Admin Name : MEDIACOM Consulting
-Admin Street1 : SITE DARCHAMPS
-Admin Street2 : EUROPA 1
-Admin City : ARCHAMPS
-Admin State/Province : FR
-Admin Postal Code : 74166
-Admin Country : FR
-Admin Phone : +41.033450431515
-Admin Email : namebay@infomaniak.ch
-Tech Name : Infomaniak Network
-Tech Street1 : Av. de la Praille 26
-Tech City : Carouge
-Tech State/Province : Geneva
-Tech Postal Code : 1227
-Tech Country : CH
-Tech Phone : +41.228203541
-Tech Email : namebay@infomaniak.ch
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+Registrant:
+   None
+   581 S. Easy St.
+   Sebastian, FL 32958
+   US
+
+   Domain Name: CALAMITYGUILD.COM
+
+   Administrative Contact:
+      Martin Terra   martyt1985@bellsouth.net
+      None
+      581 S. Easy St.
+      Sebastian, FL 32958
+      US
+      +1.7725328689 (FAX)
+
+   Technical Contact:
+      Martin Terra   martyt1985@bellsouth.net
+      None
+      581 S. Easy St.
+      Sebastian, FL 32958
+      US
+      +1.7725328689 (FAX)
+
+   Billing Contact:
+      Martin Terra   martyt1985@bellsouth.net
+      None
+      581 S. Easy St.
+      Sebastian, FL 32958
+      US
+      +1.7725328689 (FAX)
+
+   Record created on 07-Jun-2006
+   Record expires on 07-Jun-2012
+   Record updated on 07-Jun-2006 00:00:00 EST
+   Database last updated on 12-Sep-2011 17:38:50 EST
+
+   Domain servers in listed order:
+
+   NS100.WEBMASTERS.COM     208.64.136.51
+   NS99.WEBMASTERS.COM     208.64.136.21
+
+-----------------------------------------------------------------------------
+Get a free domain name with hosting at WEBMASTERS.COM for only $9.95 a month!
+-----------------------------------------------------------------------------

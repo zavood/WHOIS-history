@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 18:39:52 (BRT -03:00)
+
+domain:      iresult.com.br
+owner:       Everson Leite Costa
+ownerid:     007.358.920/0001-25
+responsible: Everson Leite Costa
+country:     BR
+owner-c:     ELC326
+admin-c:     ELC326
+tech-c:      ELC326
+billing-c:   ELC326
+nserver:     ns1.iresult.com.br 201.20.20.223
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.iresult.com.br 184.82.20.30
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20090428 #5471296
+expires:     20120428
+changed:     20110427
+status:      published
+
+nic-hdl-br:  ELC326
+person:      Everson Leite Costa
+e-mail:      dominios@esinet.com.br
+created:     20041227
+changed:     20100608
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

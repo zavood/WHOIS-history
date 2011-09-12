@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OT-PUBLIER.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.INFOMANIAK.CH
-   Name Server: NS2.INFOMANIAK.CH
+   Domain Name: EQWEAWRASDQQWE.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.FREEDNS.WS
+   Name Server: NS2.FREEDNS.WS
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 28-feb-2005
-   Expiration Date: 28-feb-2012
+   Updated Date: 19-jun-2011
+   Creation Date: 06-jun-2011
+   Expiration Date: 06-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:38:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +53,58 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name : OT-PUBLIER.COM
-Created On : 2005-02-28
-Expiration Date : 2012-02-28
-Status : PROTECTED
-Registrant Name : MEDIACOM Consulting
-Registrant Street1 : SITE DARCHAMPS
-Registrant Street2 : EUROPA 1
-Registrant City : ARCHAMPS
-Registrant State/Province  :
-Registrant Postal Code : 74166
-Registrant Country : FR
-Admin Name : MEDIACOM Consulting
-Admin Street1 : SITE DARCHAMPS
-Admin Street2 : EUROPA 1
-Admin City : ARCHAMPS
-Admin State/Province : FR
-Admin Postal Code : 74166
-Admin Country : FR
-Admin Phone : +41.033450431515
-Admin Email : namebay@infomaniak.ch
-Tech Name : Infomaniak Network
-Tech Street1 : Av. de la Praille 26
-Tech City : Carouge
-Tech State/Province : Geneva
-Tech Postal Code : 1227
-Tech Country : CH
-Tech Phone : +41.228203541
-Tech Email : namebay@infomaniak.ch
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: eqweawrasdqqwe.com
+
+Registrant Contact:
+   Phinney Business
+   Skye Phinney jh.nvns.92@gmail.com
+   +1.7814548993 fax: +1.6612830438
+   8536 Kern canyon Road, Sp 35
+   Bakersfield CA 93306
+   us
+
+Administrative Contact:
+   Skye Phinney jh.nvns.92@gmail.com
+   +1.7814548993 fax: +1.6612830438
+   8536 Kern canyon Road, Sp 35
+   Bakersfield CA 93306
+   us
+
+Technical Contact:
+   Skye Phinney jh.nvns.92@gmail.com
+   +1.7814548993 fax: +1.6612830438
+   8536 Kern canyon Road, Sp 35
+   Bakersfield CA 93306
+   us
+
+Billing Contact:
+   Skye Phinney jh.nvns.92@gmail.com
+   +1.7814548993 fax: +1.6612830438
+   8536 Kern canyon Road, Sp 35
+   Bakersfield CA 93306
+   us
+
+DNS:
+ns1.freedns.ws
+ns2.freedns.ws
+
+Created: 2011-06-06
+Expires: 2012-06-06

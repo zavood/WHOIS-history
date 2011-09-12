@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OT-PUBLIER.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.INFOMANIAK.CH
-   Name Server: NS2.INFOMANIAK.CH
+   Domain Name: 110STUDIO.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS01.CHICAPPA.JP
+   Name Server: DNS02.CHICAPPA.JP
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 28-feb-2005
-   Expiration Date: 28-feb-2012
+   Updated Date: 06-feb-2011
+   Creation Date: 09-dec-2007
+   Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:39:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:38:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+GMO Internet, Inc. whois server 2.0
 
-Domain Name : OT-PUBLIER.COM
-Created On : 2005-02-28
-Expiration Date : 2012-02-28
-Status : PROTECTED
-Registrant Name : MEDIACOM Consulting
-Registrant Street1 : SITE DARCHAMPS
-Registrant Street2 : EUROPA 1
-Registrant City : ARCHAMPS
-Registrant State/Province  :
-Registrant Postal Code : 74166
-Registrant Country : FR
-Admin Name : MEDIACOM Consulting
-Admin Street1 : SITE DARCHAMPS
-Admin Street2 : EUROPA 1
-Admin City : ARCHAMPS
-Admin State/Province : FR
-Admin Postal Code : 74166
-Admin Country : FR
-Admin Phone : +41.033450431515
-Admin Email : namebay@infomaniak.ch
-Tech Name : Infomaniak Network
-Tech Street1 : Av. de la Praille 26
-Tech City : Carouge
-Tech State/Province : Geneva
-Tech Postal Code : 1227
-Tech Country : CH
-Tech Phone : +41.228203541
-Tech Email : namebay@infomaniak.ch
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
+
+Domain Handle:
+Domain Name: 110studio.com
+Created On: 2007-12-09 14:38:56.0
+Last Updated On: 2011-02-07 10:56:10.0
+Expiration Date: 2011-12-09 05:38:56.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 092-713-7999
+Registrant Fax: 092-713-7944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 092-713-7999
+Admin Fax: 092-713-7944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns01.chicappa.jp
+Name Server: dns02.chicappa.jp
+
