@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1491270-LROR
+Domain Name:PSWI.ORG
+Created On:08-Jan-1998 05:00:00 UTC
+Last Updated On:14-Jul-2011 15:50:31 UTC
+Expiration Date:07-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Allindomains LLC (R1377-LROR)
+Status:OK
+Registrant ID:DOT-QQ0PFV6HO8GV
+Registrant Name:chad nechvatal
+Registrant Organization:pharmacy society of wisconsin, inc
+Registrant Street1:701 Heartland Trail
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madison
+Registrant State/Province:WI
+Registrant Postal Code:53717
+Registrant Country:US
+Registrant Phone:+1.6088279200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@affiniscape.com
+Admin ID:DOT-VG9SAESG77KK
+Admin Name:chad nechvatal
+Admin Organization:pharmacy society of wisconsin, inc
+Admin Street1:701 Heartland Trail
+Admin Street2:
+Admin Street3:
+Admin City:Madison
+Admin State/Province:WI
+Admin Postal Code:53717
+Admin Country:US
+Admin Phone:+1.6088279200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@affiniscape.com
+Tech ID:10748
+Tech Name:Administrator System
+Tech Organization:Shaver Communications, Inc.
+Tech Street1:6757 Edgewater Commerce Parkway,
+Tech Street2:Shaver Communications Building
+Tech Street3:
+Tech City:Orlando
+Tech State/Province:FL
+Tech Postal Code:32810
+Tech Country:US
+Tech Phone:+1.4074456864
+Tech Phone Ext.:
+Tech FAX:+1.4074452427
+Tech FAX Ext.:
+Tech Email:hostmaster@web2010.com
+Name Server:NS.WEB2010.COM
+Name Server:NS2.WEB2010.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
