@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: JCTTC.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS.ALLNESS.BIZ
+   Name Server: NS2.ALLNESS.BIZ
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Updated Date: 29-aug-2010
+   Creation Date: 09-sep-2004
+   Expiration Date: 09-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:58:51 UTC &lt;&lt;&lt;
 
@@ -53,43 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
+Domain Name : jcttc.com
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+::Registrant::
+Name : jaehee choi
+Email : jkjhms@chollian.net
+Address : 1581-6 youngduk-ri sancheokmyun chungju  city chungbuk korea
+Zipcode : 380830
+Nation : KR
+Tel : +82-43-853-8828
+Fax : +82-43-853-8828
 
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+::Administrative Contact::
+Name : jaehee choi
+Email : jkjhms@chollian.net
+Address : 1581-6 youngduk-ri sancheokmyun chungju  city chungbuk korea
+Zipcode : 380830
+Nation : KR
+Tel : +82-43-853-8828
+Fax : +82-43-853-8828
+
+::Technical Contact::
+Name : Whois
+Email : whois@whois.co.kr
+Address : Seobuk Building 740-3 Yeoksam-dong
+Zipcode : 135080
+Nation : KR
+Tel : 02-557-4259
+Fax : +82-2-3484-4701
+
+::Name Servers::
+ns.allness.biz
+ns2.allness.biz
+
+::Dates &amp; Status::
+Created Date : 2004/09/09 03:50:29 EST
+Updated Date : 2010/08/30 10:01:00 EST
+Valid Date : 2013/09/09 02:50:29 EST
+Status ACTIVE
 
 
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
