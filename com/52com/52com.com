@@ -5,16 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHICAGOLANDOBITS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS97.WORLDNIC.COM
-   Name Server: NS98.WORLDNIC.COM
+   Domain Name: 52COM.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 27-jan-2011
-   Creation Date: 27-jan-2011
-   Expiration Date: 27-jan-2014
+   Updated Date: 08-aug-2011
+   Creation Date: 29-sep-2004
+   Expiration Date: 29-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 03:11:30 UTC &lt;&lt;&lt;
 
@@ -51,23 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name : 52com.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant Contact Information :
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+king888777@163.com
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;, 789999
+tel: +86 13955660555
+fax: +86 13955660555
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact Information :
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+king888777@163.com
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;, 789999
+tel: +86 13955660555
+fax: +86 13955660555
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact Information :
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+king888777@163.com
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;, 789999
+tel: +86 13955660555
+fax: +86 13955660555
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Contact Information :
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;
+king888777@163.com
+&ccedil;&frac34;Ž&aring;›&frac12;&auml;&ordm;&ordm;, 789999
+tel: +86 13955660555
+fax: +86 13955660555
 
-Whois Query: chicagolandobits.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 23:07:09 EDT 2011
-Reason Code: IE
+Status :
+clientTransferProhibited
+clientDeleteProhibited
+
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
+
+Registration Date :2004-9-29
+Expiration Date : 2012-9-29
+
+For more information, please go to http://whois.ename.com.
+
