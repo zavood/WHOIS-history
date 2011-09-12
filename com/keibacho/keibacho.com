@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REALITYTEENVIDEOS.COM
-   Registrar: REGTIME LTD.
-   Whois Server: whois.regtime.net
-   Referral URL: http://www.webnames.ru
-   Name Server: NS1.FREEMATUREPORNO.NET
-   Name Server: NS2.FREEMATUREPORNO.NET
+   Domain Name: KEIBACHO.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.DNS.NE.JP
+   Name Server: NS2.DNS.NE.JP
    Status: ok
-   Updated Date: 13-mar-2011
-   Creation Date: 12-feb-2011
-   Expiration Date: 12-feb-2012
+   Updated Date: 13-nov-2010
+   Creation Date: 13-nov-2010
+   Expiration Date: 13-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:08:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:09:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% Regtime Ltd. WHOIS server
 
-Domain name: realityteenvideos.com
+Domain Name.......... keibacho.com
+  Creation Date........ 2010-11-14
+  Registration Date.... 2010-11-14
+  Expiry Date.......... 2011-11-14
+  Organisation Name.... hakubo
+  Organisation Address. 9F, 1-8-14, Minami-hommachi, Chuo-ku
+  Organisation Address.
+  Organisation Address. Osaka
+  Organisation Address. 541-0054
+  Organisation Address. Osaka
+  Organisation Address. JAPAN
 
+Admin Name........... Internet SAKURA
+  Admin Address........ 9F, 1-8-14, Minami-hommachi, Chuo-ku
+  Admin Address........
+  Admin Address........ Osaka
+  Admin Address........ 541-0054
+  Admin Address........ Osaka
+  Admin Address........ JAPAN
+  Admin Email.......... nic-staff@sakura.ad.jp
+  Admin Phone.......... 81-6-6265-4830
+  Admin Fax............
 
-Name servers:
-    ns1.freematureporno.net
-    ns2.freematureporno.net
+Tech Name............ Internet SAKURA
+  Tech Address......... 9F, 1-8-14, Minami-hommachi, Chuo-ku
+  Tech Address.........
+  Tech Address......... Osaka
+  Tech Address......... 541-0054
+  Tech Address......... Osaka
+  Tech Address......... JAPAN
+  Tech Email........... nic-staff@sakura.ad.jp
+  Tech Phone........... 81-6-6265-4830
+  Tech Fax.............
+  Name Server.......... ns1.dns.ne.jp
+  Name Server.......... ns2.dns.ne.jp
 
-Registrar: Regtime Ltd.
-Creation date: 2011-02-12
-Expiration date: 2012-02-12
-
-Registrant:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Administrative Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Technical Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Billing Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
 

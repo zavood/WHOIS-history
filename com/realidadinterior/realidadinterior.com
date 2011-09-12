@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REALITYTEENVIDEOS.COM
-   Registrar: REGTIME LTD.
-   Whois Server: whois.regtime.net
-   Referral URL: http://www.webnames.ru
-   Name Server: NS1.FREEMATUREPORNO.NET
-   Name Server: NS2.FREEMATUREPORNO.NET
-   Status: ok
-   Updated Date: 13-mar-2011
-   Creation Date: 12-feb-2011
-   Expiration Date: 12-feb-2012
+   Domain Name: REALIDADINTERIOR.COM
+   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
+   Whois Server: whois.dattatec.com
+   Referral URL: http://www.dattatec.com
+   Name Server: NS1-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   Name Server: NS2-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   Status: pendingDelete
+   Updated Date: 09-sep-2011
+   Creation Date: 25-jul-2007
+   Expiration Date: 25-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:08:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:08:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,9 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% Regtime Ltd. WHOIS server
 
-Domain name: realityteenvideos.com
-
-
-Name servers:
-    ns1.freematureporno.net
-    ns2.freematureporno.net
-
-Registrar: Regtime Ltd.
-Creation date: 2011-02-12
-Expiration date: 2012-02-12
-
-Registrant:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Administrative Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Technical Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-Billing Contact:
-    Evgeniy Belokon
-    Email: e-belokon@mail.ru
-    Organization: Evgeniy Belokon
-    Address: ul.Kosmonavtov ,29 ,kv.15
-    City: Odessa
-    State: Odesskaja
-    ZIP: 65000
-    Country: UA
-    Phone: +3.80962506092
-
+Datttatec.com - Registration Service Provided By: Dattatec.com
+Contact: +54 341 599000
+Email: dominios@dattatec.com
+Website: http://www.dattatec.com
+DOMAIN realidadinterior.com NO  FOUND!
