@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: USTOMP.COM
+   Domain Name: GLOBALRUSSIANBRIDES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS19.DOMAINCONTROL.COM
-   Name Server: NS20.DOMAINCONTROL.COM
+   Name Server: NS45.DOMAINCONTROL.COM
+   Name Server: NS46.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-feb-2011
-   Creation Date: 04-feb-2003
-   Expiration Date: 04-feb-2012
+   Updated Date: 18-dec-2010
+   Creation Date: 22-feb-2006
+   Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:42:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:42:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Steven Rittmeyer
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: USTOMP.COM
+   Domain Name: GLOBALRUSSIANBRIDES.COM
 
    Domain servers in listed order:
-      NS19.DOMAINCONTROL.COM
-      NS20.DOMAINCONTROL.COM
+      NS45.DOMAINCONTROL.COM
+      NS46.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=USTOMP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GLOBALRUSSIANBRIDES.COM

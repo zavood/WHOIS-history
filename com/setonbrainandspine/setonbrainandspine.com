@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 08-mar-2010
    Expiration Date: 08-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:08:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:42:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,34 +80,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Seton Family of Hospitals
-   1345 Philomena
-   Suite 300
-   Austin, Texas 78723
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SETONBRAINANDSPINE.COM
-      Created on: 08-Mar-10
-      Expires on: 08-Mar-12
-      Last Updated on: 28-Mar-11
-
-   Administrative Contact:
-      Macdonald, Mark  mmac@vertex.com
-      Vertex Software Corp
-      1515 S Capital of Texas Hwy
-      Suite 400
-      Austin, Texas 78746
-      United States
-      +1.5123283700      Fax -- +1.5123284044
-
-   Technical Contact:
-      Macdonald, Mark  mmac@vertex.com
-      Vertex Software Corp
-      1515 S Capital of Texas Hwy
-      Suite 400
-      Austin, Texas 78746
-      United States
-      +1.5123283700      Fax -- +1.5123284044
 
    Domain servers in listed order:
       NS1.VERTEX.COM
@@ -116,3 +91,6 @@ Registrant:
       NS6.DNSMADEEASY.COM
       NS7.DNSMADEEASY.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SETONBRAINANDSPINE.COM

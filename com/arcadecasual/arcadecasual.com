@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-nov-2007
    Expiration Date: 02-nov-2018
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:09:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Games Banner Network, Inc
-   suite 325, N.Pitt str. 901
-   Alexandria, Virginia 22314
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ARCADECASUAL.COM
-      Created on: 02-Nov-07
-      Expires on: 02-Nov-18
-      Last Updated on: 09-Oct-09
-
-   Administrative Contact:
-      Zanin, Sergey  sergey@alawar.com
-      Games Banner Network, Inc
-      suite 325, N.Pitt str. 901
-      Alexandria, Virginia 22314
-      United States
-      (202) 752-6398      Fax --
-
-   Technical Contact:
-      Zanin, Sergey  sergey@alawar.com
-      Games Banner Network, Inc
-      suite 325, N.Pitt str. 901
-      Alexandria, Virginia 22314
-      United States
-      (202) 752-6398      Fax --
 
    Domain servers in listed order:
       NS05.DOMAINCONTROL.COM
       NS06.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ARCADECASUAL.COM
