@@ -5,21 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEXTSRV.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.P02.DYNECT.NET
-   Name Server: NS2.P02.DYNECT.NET
-   Name Server: NS3.P02.DYNECT.NET
-   Name Server: NS4.P02.DYNECT.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: VIAGRAININDIA.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 20-jun-2011
-   Expiration Date: 20-jun-2012
+   Updated Date: 08-dec-2010
+   Creation Date: 01-may-2010
+   Expiration Date: 01-may-2013
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:03:39 UTC &lt;&lt;&lt;
 
@@ -56,39 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEXTSRV.COM
-
-   Domain servers in listed order:
-      NS1.P02.DYNECT.NET
-      NS2.P02.DYNECT.NET
-      NS3.P02.DYNECT.NET
-      NS4.P02.DYNECT.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEXTSRV.COM
+Domain Name:viagrainindia.com
+Name Server:ns1.bluehost.com
+Name Server:ns2.bluehost.com
+Created On:2010-12-08
+Last Updated On:2011-07-16
+Expiration Date:2013-05-01
+Dealer:liger123
+Registrant ID:liger123
+Registrant Name:Vijay Nair
+Registrant Organization:
+Registrant Street1:Plot No 2, Street-2
+Registrant Street2:AS Rao Nagar
+Registrant Street3:
+Registrant City:Hyderabad
+Registrant State/Province:AP
+Registrant Postal Code:500052
+Registrant Country:IN
+Registrant Phone:+91.9849945036
+Registrant Fax:
+Registrant Email:vijaygold@gmail.com
+Admin ID:liger123
+Admin Name:Vijay Nair
+Admin Organization:
+Admin Street1:Plot No 2, Street-2
+Admin Street2:AS Rao Nagar
+Admin Street3:
+Admin City:Hyderabad
+Admin State/Province:AP
+Admin Postal Code:500052
+Admin Country:IN
+Admin Phone:+91.9849945036
+Admin Fax:
+Admin Email:vijaygold@gmail.com
+Billing ID:liger123
+Billing Name:Vijay Nair
+Billing Organization:
+Billing Street1:Plot No 2, Street-2
+Billing Street2:AS Rao Nagar
+Billing Street3:
+Billing City:Hyderabad
+Billing State/Province:AP
+Billing Postal Code:500052
+Billing Country:IN
+Billing Phone:+91.9849945036
+Billing Fax:
+Billing Email:vijaygold@gmail.com
+Tech ID:BlueHost.com
+Tech Name:Bluehost Inc
+Tech Organization:Bluehost Inc
+Tech Street1:1958 South 950 East
+Tech Street2:
+Tech Street3:
+Tech City:Provo
+Tech State/Province:Utah
+Tech Postal Code:84604
+Tech Country:US
+Tech Phone:+1.8017659400
+Tech Fax:+1.8017651992
+Tech Email:whois@bluehost.com

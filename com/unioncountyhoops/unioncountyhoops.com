@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEXTSRV.COM
+   Domain Name: UNIONCOUNTYHOOPS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.P02.DYNECT.NET
-   Name Server: NS2.P02.DYNECT.NET
-   Name Server: NS3.P02.DYNECT.NET
-   Name Server: NS4.P02.DYNECT.NET
+   Name Server: NS17.DOMAINCONTROL.COM
+   Name Server: NS18.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 20-jun-2011
-   Expiration Date: 20-jun-2012
+   Updated Date: 10-oct-2010
+   Creation Date: 09-oct-2006
+   Expiration Date: 09-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:03:39 UTC &lt;&lt;&lt;
 
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Matt Abrigg
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEXTSRV.COM
+   Domain Name: UNIONCOUNTYHOOPS.COM
 
    Domain servers in listed order:
-      NS1.P02.DYNECT.NET
-      NS2.P02.DYNECT.NET
-      NS3.P02.DYNECT.NET
-      NS4.P02.DYNECT.NET
+      NS17.DOMAINCONTROL.COM
+      NS18.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEXTSRV.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=UNIONCOUNTYHOOPS.COM

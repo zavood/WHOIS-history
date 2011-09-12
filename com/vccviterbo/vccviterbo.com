@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEXTSRV.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.P02.DYNECT.NET
-   Name Server: NS2.P02.DYNECT.NET
-   Name Server: NS3.P02.DYNECT.NET
-   Name Server: NS4.P02.DYNECT.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 20-jun-2011
-   Expiration Date: 20-jun-2012
+   Domain Name: VCCVITERBO.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
+   Status: ok
+   Updated Date: 29-oct-2010
+   Creation Date: 28-oct-2001
+   Expiration Date: 28-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:03:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:04:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: VCCVITERBO.COM
+     Created on: 2006-05-10
+     Updated on: 2010-11-22
+     Expires on: 2011-10-28
+     Registrant Name: GIORGIO CESETTI
+     Contact: Giorgio Cesetti
+     Registrant Address: silvio pellico  2
+     Registrant City: viterbo
+     Registrant Postal Code: 01100
+     Registrant Country: IT
+     Administrative Contact Organization: Giorgio Cesetti
+     Administrative Contact Name: Giorgio Cesetti
+     Administrative Contact Address: silvio pellico  2
+     Administrative Contact City: viterbo
+     Administrative Contact Postal Code: 01100
+     Administrative Contact Country: IT
+     Administrative Contact Email: gcesetti@hotmail.com
+     Administrative Contact Tel: +39 761 220698
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
-Registrant:
-   Domains by Proxy, Inc.
+&gt;&gt;&gt; Last update of whois database: Mon Sep 12 22:03:05 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEXTSRV.COM
-
-   Domain servers in listed order:
-      NS1.P02.DYNECT.NET
-      NS2.P02.DYNECT.NET
-      NS3.P02.DYNECT.NET
-      NS4.P02.DYNECT.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEXTSRV.COM
