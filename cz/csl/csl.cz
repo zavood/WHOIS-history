@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 12 08:26:41 2011
+
+domain:       csl.cz
+registrant:   PHLETISTE
+admin-c:      PETRAKS
+nsset:        NSS:JD246-RIPE_XX:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   21.03.1997 01:00:00
+changed:      15.11.2010 15:54:13
+expire:       10.10.2015
+
+contact:      PHLETISTE
+org:          Letiste Praha, a.s.
+name:         Stanislav Petr&Atilde;&iexcl;k
+address:      K Letisti 6
+address:      Praha 6
+address:      160 08
+address:      CZ
+phone:        +420.220111111
+e-mail:       lkprposy@csl.cz
+registrar:    REG-IGNUM
+created:      24.09.2010 10:36:04
+
+contact:      PETRAKS
+name:         Stanislav Petr&Atilde;&iexcl;k
+address:      K Letisti 6
+address:      Praha 6
+address:      160 08
+address:      CZ
+phone:        +420.220111111
+e-mail:       lkprposy@csl.cz
+registrar:    REG-IGNUM
+created:      24.09.2010 10:42:16
+
+nsset:        NSS:JD246-RIPE_XX:1
+nserver:      astra.csl.cz (193.86.243.68)
+nserver:      ns.inecnet.cz
+nserver:      mercury.csl.cz
+tech-c:       SB:JD246-RIPE_XX
+tech-c:       PHLETISTE
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      30.09.2010 10:40:01
+
+contact:      SB:JD246-RIPE_XX
+org:          CSL s.p.
+name:         CSL s.p.
+address:      Letiste Praha Ruzyne
+address:      Praha
+address:      160 08
+address:      CZ
+e-mail:       lkprposy@csl.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      26.01.2009 12:36:39
+
+
