@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-DOMAINCONTROL.COM.STORMERLOANS.COM
-DOMAINCONTROL.COM.RAS-GROUP.COM
-DOMAINCONTROL.COM.NEWGOGETIT.COM
-DOMAINCONTROL.COM.HNDAWY.COM
-DOMAINCONTROL.COM
-DOMAINCONTROL.COM
+   Domain Name: WALKERSBRASIL.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.SDSERVER8.COM
+   Name Server: NS2.SDSERVER8.COM
+   Status: clientTransferProhibited
+   Updated Date: 17-jul-2011
+   Creation Date: 25-jul-2010
+   Expiration Date: 25-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:41:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:42:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% UOL HOST whois server
+
+Searching for walkersbrasil.com.  Found 1 record(s) matching walkersbrasil.com.
+
+Domain:              walkersbrasil.com
+Nameserver:          ns1.sdserver8.com
+Nameserver:          ns2.sdserver8.com
+Created:             20100725
+Updated:             20110717
+
+Registrant:
+
+Name:                Moacir Jose Paz
+Organization:        Moacir Jose Paz
+E-mail:              mjpaz@uol.com.br
+Address:             RUA DOS GOLFINHOS 920 null
+Address:             85855540
+Address:             FOZ DO IGUACU - PR
+Phone:               55 45 35273847
+Country:             BRASIL
+Created:             20100725
+Updated:             20100725
+
+Administrative Contact:
+
+Name:                Moacir Jose Paz
+Organization:        Moacir Jose Paz
+E-mail:              mjpaz@uol.com.br
+Address:             RUA DOS GOLFINHOS 920 null
+Address:             85855540
+Address:             FOZ DO IGUACU - PR
+Phone:               55 45 35273847
+Country:             BRASIL
+Created:             20100725
+Updated:             20100725
+
+Technical Contact:
+
+Name:                Moacir Jose Paz
+Organization:        Moacir Jose Paz
+E-mail:              mjpaz@uol.com.br
+Address:             RUA DOS GOLFINHOS 920 null
+Address:             85855540
+Address:             FOZ DO IGUACU - PR
+Phone:               55 45 35273847
+Country:             BRASIL
+Created:             20100725
+Updated:             20100725
+
