@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SSKNEZAMANEMEKLIOLABILIRIM.COM
-   Registrar: FBS INC.
-   Whois Server: whois.isimtescil.net
-   Referral URL: http://www.isimtescil.net
-   Name Server: CPRES1.AYSIMA.NET
-   Name Server: CPRES2.AYSIMA.NET
+   Domain Name: ELECTROTHERM.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS11.JINFO.NET
+   Name Server: NS12.JINFO.NET
    Status: clientTransferProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 05-aug-2010
-   Expiration Date: 05-aug-2012
+   Updated Date: 20-jun-2011
+   Creation Date: 25-jun-1997
+   Expiration Date: 24-jun-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:50:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:51:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,58 +51,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;strong&gt;Registration Service Provided By: &lt;/strong&gt;Registration Service Provided By: WWW.ISIMTESCIL.NET
-Contact: +90.2163299393
- &lt;br&gt;
-          &lt;strong&gt;Domain Adi: SSKNEZAMANEMEKLIOLABILIRIM.COM &lt;/strong&gt;
-          &lt;strong&gt;Bitis Tarihi: &lt;/strong&gt;05-Aug-2012
-          &lt;strong&gt;Kaydedilme Tarihi: &lt;/strong&gt; 05-Aug-2010
-          &lt;strong&gt;Domain Durumu: &lt;/strong&gt; LOCKED
+Registration Service Provided By: J-INFO TECHNOLOGIES
+Contact: +91.9825572500
+Website: http://www.jinfo.net
+
+Domain Name: ELECTROTHERM.COM
+
+Registrant:
+    Electrotherm (India) Ltd
+    Mr Anil Dhote        (Anil.Dhote@electrotherm.com)
+    72, Palodia, Via Thaltej,
+    Ahmedabad
+    Gujarat,382115
+    IN
+    Tel. +91.2717234553
+    Fax. +91.9825026814
+
+Creation Date: 25-Jun-1997
+Expiration Date: 24-Jun-2016
+
+Domain servers in listed order:
+    ns11.jinfo.net
+    ns12.jinfo.net
+
+
+Administrative Contact:
+    Electrotherm (India) Ltd
+    Mr Anil Dhote        (Anil.Dhote@electrotherm.com)
+    72, Palodia, Via Thaltej,
+    Ahmedabad
+    Gujarat,382115
+    IN
+    Tel. +91.2717234553
+    Fax. +91.9825026814
+
+Technical Contact:
+    Electrotherm (India) Ltd
+    Mr Anil Dhote        (Anil.Dhote@electrotherm.com)
+    72, Palodia, Via Thaltej,
+    Ahmedabad
+    Gujarat,382115
+    IN
+    Tel. +91.2717234553
+    Fax. +91.9825026814
+
+Billing Contact:
+    Electrotherm (India) Ltd
+    Mr Anil Dhote        (Anil.Dhote@electrotherm.com)
+    72, Palodia, Via Thaltej,
+    Ahmedabad
+    Gujarat,382115
+    IN
+    Tel. +91.2717234553
+    Fax. +91.9825026814
+
+Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
 	name cannot be transferred, hijacked, or modified. The Owner of this
 	domain name can easily change this status from their control panel.
 	This feature is provided as a security measure against fraudulent domain name hijacking.
-	 &lt;br&gt;
-          &lt;strong&gt;DNS Sunucular: &lt;/strong&gt;&lt;br&gt;
-    cpres1.aysima.net
-    cpres2.aysima.net
- &lt;br&gt;
-&lt;strong&gt;Kaydedicinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
-    TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Yoneticinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
-    TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Teknik Yetkilinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
-    TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Odeme Yetkilisinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
-    TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
+
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,
@@ -113,8 +121,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is FBS Inc..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
 

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SSKNEZAMANEMEKLIOLABILIRIM.COM
-   Registrar: FBS INC.
-   Whois Server: whois.isimtescil.net
-   Referral URL: http://www.isimtescil.net
-   Name Server: CPRES1.AYSIMA.NET
-   Name Server: CPRES2.AYSIMA.NET
-   Status: clientTransferProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 05-aug-2010
-   Expiration Date: 05-aug-2012
+   Domain Name: VEKTORBARKOD.COM
+   Registrar: IHS TELEKOM, INC.
+   Whois Server: whois.ihs.com.tr
+   Referral URL: http://www.ihs.com.tr
+   Name Server: DIJKSTRA.IHSDNS.COM
+   Name Server: KNUTH.IHSDNS.COM
+   Status: ok
+   Updated Date: 26-jun-2010
+   Creation Date: 07-feb-2008
+   Expiration Date: 07-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:50:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:51:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,58 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;strong&gt;Registration Service Provided By: &lt;/strong&gt;Registration Service Provided By: WWW.ISIMTESCIL.NET
-Contact: +90.2163299393
- &lt;br&gt;
-          &lt;strong&gt;Domain Adi: SSKNEZAMANEMEKLIOLABILIRIM.COM &lt;/strong&gt;
-          &lt;strong&gt;Bitis Tarihi: &lt;/strong&gt;05-Aug-2012
-          &lt;strong&gt;Kaydedilme Tarihi: &lt;/strong&gt; 05-Aug-2010
-          &lt;strong&gt;Domain Durumu: &lt;/strong&gt; LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
-	 &lt;br&gt;
-          &lt;strong&gt;DNS Sunucular: &lt;/strong&gt;&lt;br&gt;
-    cpres1.aysima.net
-    cpres2.aysima.net
- &lt;br&gt;
-&lt;strong&gt;Kaydedicinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
+Registration Service Provided By: IHS TELEKOM INC
+Contact: +90.3923656400
+
+Domain Name: VEKTORBARKOD.COM
+
+Registrant:
+    Mustafa KIRLI
+    Mustafa KIRLI        (mustafakirli@gmail.com)
+    Hanimseti sk. No:23/B Kisikli Uskudar
+    Istanbul
+    Istanbul,00340030
     TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Yoneticinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
+    Tel. +90.5306651477
+    Fax. +90.5306651477
+
+Creation Date: 07-Feb-2008
+Expiration Date: 07-Feb-2012
+
+Domain servers in listed order:
+    dijkstra.ihsdns.com
+    knuth.ihsdns.com
+
+
+Administrative Contact:
+    Mustafa KIRLI
+    Mustafa KIRLI        (mustafakirli@gmail.com)
+    Hanimseti sk. No:23/B Kisikli Uskudar
+    Istanbul
+    Istanbul,00340030
     TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Teknik Yetkilinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
+    Tel. +90.5306651477
+    Fax. +90.5306651477
+
+Technical Contact:
+    Mustafa KIRLI
+    Mustafa KIRLI        (mustafakirli@gmail.com)
+    Hanimseti sk. No:23/B Kisikli Uskudar
+    Istanbul
+    Istanbul,00340030
     TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
-&lt;strong&gt;Odeme Yetkilisinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Sinan Gedik CID106647
-    Sinan Gedik        (mydoom@hotmail.it)
-    Fevzi Cakmak Mahallesi 63 Evler ozlem apt. Kat:1 D
-    KARABUK
-    ,78100
+    Tel. +90.5306651477
+    Fax. +90.5306651477
+
+Billing Contact:
+    Mustafa KIRLI
+    Mustafa KIRLI        (mustafakirli@gmail.com)
+    Hanimseti sk. No:23/B Kisikli Uskudar
+    Istanbul
+    Istanbul,00340030
     TR
-    Tel. +90.3704155226
-    Fax. +90.3704155226 &lt;br&gt;
+    Tel. +90.5306651477
+    Fax. +90.5306651477
+
+Status:ACTIVE
+
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,
@@ -113,8 +116,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is FBS Inc..
+prior written consent from us. The Registrar of record is IHS Telekom, Inc.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
 
