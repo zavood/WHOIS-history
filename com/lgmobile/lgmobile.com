@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MONROEHOSTING.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MONROEHOSTING.COM
-   Name Server: NS2.MONROEHOSTING.COM
-   Name Server: NS3.MONROEHOSTING.COM
+   Domain Name: LGMOBILE.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: PRMNS.LG.CO.KR
+   Name Server: SECNS.LG.CO.KR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-aug-2011
-   Creation Date: 18-oct-2006
-   Expiration Date: 18-oct-2011
+   Updated Date: 27-jan-2011
+   Creation Date: 11-jan-2000
+   Expiration Date: 11-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:51:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:52:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 188.72.227.95
-Maximum Daily connection limit reached. Lookup refused.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
+
+Domain Name : lgmobile.com
+
+::Registrant::
+Name : LG Electronics, Inc.
+Email : domain@lge.com
+Address : 20 Yoidodong Youngdungpogu Seoul
+Zipcode : 150721
+Nation : KR
+Tel : 02-3777-3703
+Fax : 82-2-3777-5206
+
+::Administrative Contact::
+Name : Domain-Manager
+Email : domain@lge.com
+Address : 20 Yoidodong Youngdungpogu Seoul
+Zipcode : 150721
+Nation : KR
+Tel : 02-3777-3703
+Fax : 82-2-3777-5206
+
+::Technical Contact::
+Name : LG Electronics, INC
+Email : domain@lge.com
+Address : 20 Yoidodong Youngdungpogu Seoul
+Zipcode : 150721
+Nation : KR
+Tel : 02-3777-3703
+Fax : 82-2-3777-5206
+
+::Name Servers::
+PRMNS.LG.CO.KR
+SECNS.LG.CO.KR
+
+::Dates &amp; Status::
+Created Date : 2000/01/11 12:13:10 EST
+Updated Date : 2007/11/12 13:48:27 EST
+Valid Date : 2014/01/11 12:13:10 EST
+Status ACTIVE
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
