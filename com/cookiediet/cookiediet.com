@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GUILFORDCOUNTYSHERIFF.COM
+   Domain Name: COOKIEDIET.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
+   Name Server: NS1.AMERICANEAGLE.COM
+   Name Server: NS2.AMERICANEAGLE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 03-jan-2004
-   Expiration Date: 03-jan-2012
+   Updated Date: 15-feb-2009
+   Creation Date: 23-jan-1998
+   Expiration Date: 22-jan-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:29:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:29:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Guilford County Sheriff's Office
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GUILFORDCOUNTYSHERIFF.COM
+   Domain Name: COOKIEDIET.COM
 
    Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+      NS1.AMERICANEAGLE.COM
+      NS2.AMERICANEAGLE.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GUILFORDCOUNTYSHERIFF.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=COOKIEDIET.COM
