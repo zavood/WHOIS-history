@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104712061-LROR
+Domain Name:OCFLPA.ORG
+Created On:02-Aug-2004 06:03:23 UTC
+Last Updated On:25-Jul-2011 10:04:25 UTC
+Expiration Date:02-Aug-2012 06:03:23 UTC
+Sponsoring Registrar:Moniker Online Services LLC (R145-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:MONIKER10424
+Registrant Name:domain
+Registrant Organization:Jasper Developments Pty Ltd
+Registrant Street1:GPO Box 1188
+Registrant Street2:
+Registrant Street3:
+Registrant City:Melbourne
+Registrant State/Province:VIC (ext 932)
+Registrant Postal Code:3001
+Registrant Country:AU
+Registrant Phone:+61.280147284
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:whois@developments.com
+Admin ID:MONIKER10424
+Admin Name:domain
+Admin Organization:Jasper Developments Pty Ltd
+Admin Street1:GPO Box 1188
+Admin Street2:
+Admin Street3:
+Admin City:Melbourne
+Admin State/Province:VIC (ext 932)
+Admin Postal Code:3001
+Admin Country:AU
+Admin Phone:+61.280147284
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:whois@developments.com
+Tech ID:MONIKER10424
+Tech Name:domain
+Tech Organization:Jasper Developments Pty Ltd
+Tech Street1:GPO Box 1188
+Tech Street2:
+Tech Street3:
+Tech City:Melbourne
+Tech State/Province:VIC (ext 932)
+Tech Postal Code:3001
+Tech Country:AU
+Tech Phone:+61.280147284
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:whois@developments.com
+Name Server:NS2.ABOVE.COM
+Name Server:NS1.ABOVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
