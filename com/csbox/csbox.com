@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWN-KOREA.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS61.DNSEVER.COM
-   Name Server: NS76.DNSEVER.COM
+   Domain Name: CSBOX.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.CSBOX.COM
+   Name Server: NS2.CSBOX.COM
    Status: clientTransferProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 01-mar-2011
+   Creation Date: 15-jul-2002
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,41 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Domain Name: DOWN-KOREA.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
-
-Service Provider: Cypack
-Phone: 02-3445-6651
-URL: www.cypack.com
-Email: webmaster@cydentity.com
-
-Domain Registration Date....: 2010-11-18 GMT.
-Domain Expiration Date......: 2011-11-18 GMT.
-Domain Last Updated Date....: 2010-11-22 02:09:46 GMT.
 
 Registrant:
-    down-korea
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-
-Administrative, Technical, Billing Contact:
-    down-korea    stepdream@naver.com
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-    (PHONE) +82-2-3443-6433    (FAX)
+	 CSbox (CSBOX-COM-DOM) support@csbox.com +66.29481078
+	 CSBox Free Web Hosting
+	 90/156 Goldenplace Watcharapon Road
+	 Bangkok,Bangkhen,TH 10220
 
 
-Domain Name Servers in listed order:
-    NS33.DNSEVER.COM		121.254.154.163
-    NS61.DNSEVER.COM		121.254.154.191
-    NS76.DNSEVER.COM		121.254.154.206
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
+Domain Name:csbox.com
+Record last updated at 2011-03-01 00:17:58
+Record created on 2002/7/15
+Record expired on 2012/7/15
 
+
+Domain servers in listed order:
+	 ns1.csbox.com 	 ns2.csbox.com
+
+Administrator:
+	 90/156 Goldenplace Watcharapon Road
+	 Bangkok
+Bangkhen,
+TH
+ 10220
+
+	 name:(CSbox (CSBOX-COM-DOM))
+mail:(support@csbox.com) +66.29481078
+	 CSBox Free Web Hosting
+Technical Contactor:
+	 90/156 Goldenplace Watcharapon Road
+	 Bangkok
+Bangkhen,
+TH
+ 10220
+
+	 name:(CSbox (CSBOX-COM-DOM))
+mail:(support@csbox.com) +66.29481078
+	 CSBox Free Web Hosting
+Billing Contactor:
+	 90/156 Goldenplace Watcharapon Road
+	 Bangkok
+Bangkhen,
+TH
+ 10220
+
+	 name:(CSbox (CSBOX-COM-DOM))
+mail:(support@csbox.com) +66.29481078
+	 CSBox Free Web Hosting
+
+Registration Service Provider:
+	name: CSBox Free Web Hosting
+	tel: +66.29481078
+ 	fax: +66.29481078
+ 	web:http://www.csbox.com

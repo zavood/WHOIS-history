@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWN-KOREA.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS61.DNSEVER.COM
-   Name Server: NS76.DNSEVER.COM
+   Domain Name: FIREHOUSESERVICES.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.FIREHOUSESERVICES.COM
+   Name Server: NS2.FIREHOUSESERVICES.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Status: clientUpdateProhibited
+   Updated Date: 24-apr-2011
+   Creation Date: 23-apr-2002
+   Expiration Date: 23-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:14 UTC &lt;&lt;&lt;
 
@@ -54,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Domain Name: DOWN-KOREA.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
-
-Service Provider: Cypack
-Phone: 02-3445-6651
-URL: www.cypack.com
-Email: webmaster@cydentity.com
-
-Domain Registration Date....: 2010-11-18 GMT.
-Domain Expiration Date......: 2011-11-18 GMT.
-Domain Last Updated Date....: 2010-11-22 02:09:46 GMT.
 
 Registrant:
-    down-korea
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
+   Domains by Proxy, Inc.
 
-Administrative, Technical, Billing Contact:
-    down-korea    stepdream@naver.com
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-    (PHONE) +82-2-3443-6433    (FAX)
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: FIREHOUSESERVICES.COM
+
+   Domain servers in listed order:
+      NS1.FIREHOUSESERVICES.COM
+      NS2.FIREHOUSESERVICES.COM
 
 
-Domain Name Servers in listed order:
-    NS33.DNSEVER.COM		121.254.154.163
-    NS61.DNSEVER.COM		121.254.154.191
-    NS76.DNSEVER.COM		121.254.154.206
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FIREHOUSESERVICES.COM

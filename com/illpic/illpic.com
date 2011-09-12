@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWN-KOREA.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS61.DNSEVER.COM
-   Name Server: NS76.DNSEVER.COM
+   Domain Name: ILLPIC.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.ILLPIC.COM
+   Name Server: NS2.ILLPIC.COM
    Status: clientTransferProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 26-apr-2011
+   Creation Date: 07-dec-2006
+   Expiration Date: 07-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:14 UTC &lt;&lt;&lt;
 
@@ -55,40 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+Domain Name.......... illpic.com
+  Creation Date........ 2006-12-08
+  Registration Date.... 2006-12-08
+  Expiry Date.......... 2012-12-08
+  Organisation Name.... Stephanie M Nagy
+  Organisation Address. 384 Wickes Rd
+  Organisation Address.
+  Organisation Address. Bushkill
+  Organisation Address. 18324
+  Organisation Address. PA
+  Organisation Address. UNITED STATES
 
-Domain Name: DOWN-KOREA.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
+Admin Name........... Stephanie M Nagy
+  Admin Address........ 384 Wickes Rd
+  Admin Address........
+  Admin Address........ Bushkill
+  Admin Address........ 18324
+  Admin Address........ PA
+  Admin Address........ UNITED STATES
+  Admin Email.......... dick_forum@yahoo.com
+  Admin Phone.......... +1.5705881614
+  Admin Fax............
 
-Service Provider: Cypack
-Phone: 02-3445-6651
-URL: www.cypack.com
-Email: webmaster@cydentity.com
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns1.illpic.com
+  Name Server.......... ns2.illpic.com
 
-Domain Registration Date....: 2010-11-18 GMT.
-Domain Expiration Date......: 2011-11-18 GMT.
-Domain Last Updated Date....: 2010-11-22 02:09:46 GMT.
-
-Registrant:
-    down-korea
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-
-Administrative, Technical, Billing Contact:
-    down-korea    stepdream@naver.com
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-    (PHONE) +82-2-3443-6433    (FAX)
-
-
-Domain Name Servers in listed order:
-    NS33.DNSEVER.COM		121.254.154.163
-    NS61.DNSEVER.COM		121.254.154.191
-    NS76.DNSEVER.COM		121.254.154.206
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
 

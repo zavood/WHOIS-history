@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWN-KOREA.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS61.DNSEVER.COM
-   Name Server: NS76.DNSEVER.COM
+   Domain Name: ESTEVAORADA.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS13.ZONEEDIT.COM
+   Name Server: NS9.ZONEEDIT.COM
    Status: clientTransferProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 11-dec-2010
+   Creation Date: 10-dec-2009
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:47:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,41 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% UOL HOST whois server
 
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+Searching for estevaorada.com.  Found 1 record(s) matching estevaorada.com.
 
-Domain Name: DOWN-KOREA.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
-
-Service Provider: Cypack
-Phone: 02-3445-6651
-URL: www.cypack.com
-Email: webmaster@cydentity.com
-
-Domain Registration Date....: 2010-11-18 GMT.
-Domain Expiration Date......: 2011-11-18 GMT.
-Domain Last Updated Date....: 2010-11-22 02:09:46 GMT.
+Domain:              estevaorada.com
+Nameserver:          ns13.zoneedit.com
+Nameserver:          ns9.zoneedit.com
+Created:             20091210
+Updated:             20101211
 
 Registrant:
-    down-korea
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
 
-Administrative, Technical, Billing Contact:
-    down-korea    stepdream@naver.com
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-    (PHONE) +82-2-3443-6433    (FAX)
+Name:                Estev?o Rada Oliveira
+Organization:        RadaLab Systems Incorporated
+E-mail:              estevaorada@estevaorada.com
+Address:             Rua Armenedis Fermenedis Irmenedis 1547
+Address:             37110000
+Address:             ELOI MENDES - MG
+Phone:               55 35 99673752
+Country:             BRASIL
+Created:             20091210
+Updated:             20110222
 
+Administrative Contact:
 
-Domain Name Servers in listed order:
-    NS33.DNSEVER.COM		121.254.154.163
-    NS61.DNSEVER.COM		121.254.154.191
-    NS76.DNSEVER.COM		121.254.154.206
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
+Name:                Estev?o Rada Oliveira
+Organization:        RadaLab Systems Incorporated
+E-mail:              estevaorada@estevaorada.com
+Address:             Rua Armenedis Fermenedis Irmenedis 1547
+Address:             37110000
+Address:             ELOI MENDES - MG
+Phone:               55 35 99673752
+Country:             BRASIL
+Created:             20091210
+Updated:             20110222
+
+Technical Contact:
+
+Name:                Estev?o Rada Oliveira
+Organization:        RadaLab Systems Incorporated
+E-mail:              estevaorada@estevaorada.com
+Address:             Rua Armenedis Fermenedis Irmenedis 1547
+Address:             37110000
+Address:             ELOI MENDES - MG
+Phone:               55 35 99673752
+Country:             BRASIL
+Created:             20091210
+Updated:             20110222
 

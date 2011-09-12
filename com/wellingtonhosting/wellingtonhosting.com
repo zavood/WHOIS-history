@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWN-KOREA.COM
-   Registrar: INAMES CO., LTD.
-   Whois Server: whois.inames.co.kr
-   Referral URL: http://www.inames.co.kr
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS33.DNSEVER.COM
-   Name Server: NS61.DNSEVER.COM
-   Name Server: NS76.DNSEVER.COM
+   Domain Name: WELLINGTONHOSTING.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WELLINGTONHOSTING.COM
+   Name Server: NS2.WELLINGTONHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-nov-2010
-   Expiration Date: 18-nov-2011
+   Updated Date: 21-aug-2011
+   Creation Date: 21-aug-2001
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:48:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,41 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
-
-Domain Name: DOWN-KOREA.COM
-Domain Status: ACTIVE
-Registrar: Inames Co., Ltd. dba inames.co.kr
-Referral URL: http://www.inames.co.kr
-
-Service Provider: Cypack
-Phone: 02-3445-6651
-URL: www.cypack.com
-Email: webmaster@cydentity.com
-
-Domain Registration Date....: 2010-11-18 GMT.
-Domain Expiration Date......: 2011-11-18 GMT.
-Domain Last Updated Date....: 2010-11-22 02:09:46 GMT.
-
-Registrant:
-    down-korea
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-
-Administrative, Technical, Billing Contact:
-    down-korea    stepdream@naver.com
-    216-2, Nonhyeon 2-dong, Gangnam-gu
-    Seoul,  135829
-    KP
-    (PHONE) +82-2-3443-6433    (FAX)
+=-=-=-=
+Visit AboutUs.org for more information about wellingtonhosting.com
+&lt;a href=&quot;http://www.aboutus.org/wellingtonhosting.com&quot;&gt;AboutUs: wellingtonhosting.com&lt;/a&gt;
 
 
-Domain Name Servers in listed order:
-    NS33.DNSEVER.COM		121.254.154.163
-    NS61.DNSEVER.COM		121.254.154.191
-    NS76.DNSEVER.COM		121.254.154.206
-    NS231.DNSEVER.COM		125.141.231.179
-    NS259.DNSEVER.COM		112.222.217.122
+Domain name: wellingtonhosting.com
 
+Administrative Contact:
+   Idea Media, Inc.
+   Howard Fallen (info@ideamediainc.com)
+   +1.5613713603
+   Fax:
+   645 Lake Wellington Drive
+   Wellington, FL 33414
+   US
+
+Technical Contact:
+   Idea Media, Inc.
+   Howard Fallen (info@ideamediainc.com)
+   +1.5613713603
+   Fax:
+   645 Lake Wellington Drive
+   Wellington, FL 33414
+   US
+
+Registrant Contact:
+   Idea Media, Inc.
+   Howard Fallen ()
+
+   Fax:
+   645 Lake Wellington Drive
+   Wellington, FL 33414
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.wellingtonhosting.com
+   ns2.wellingtonhosting.com
+
+Creation date: 21 Aug 2001 18:56:05
+Expiration date: 21 Aug 2012 18:56:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
