@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSATC.NET
+   Domain Name: FWMEDIA.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: A.NS.NSATC.NET
-   Name Server: B.NS.NSATC.NET
-   Name Server: C.NS.NSATC.NET
-   Name Server: D.NS.NSATC.NET
-   Name Server: E.NS.NSATC.NET
-   Name Server: J.NS.NSATC.NET
-   Name Server: L.NS.NSATC.NET
+   Name Server: DNS1.NETTICA.COM
+   Name Server: DNS2.NETTICA.COM
+   Name Server: DNS3.NETTICA.COM
+   Name Server: DNS4.NETTICA.COM
+   Name Server: DNS5.NETTICA.COM
    Status: clientTransferProhibited
-   Updated Date: 23-sep-2010
-   Creation Date: 26-sep-2001
-   Expiration Date: 26-sep-2012
+   Updated Date: 16-apr-2011
+   Creation Date: 01-may-1997
+   Expiration Date: 02-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:25:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:26:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,13 +73,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Level 3 Communications, Inc.
-      NSATC Administrator
-      1025 Eldorado Boulevard
-      Broomfield, CO 80021
+      F and W Media Inc.
+      F and W Publications Inc
+      4700 East Galbraith Road
+      Cincinnati, OH 45236
       US
-      Phone: +1.7208881000
-      Email: nsatc-host@level3.com
+      Phone: +1.5135312690
+      Email: dnsadmin@fwmedia.com
 
 
 
@@ -89,44 +87,42 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: nsatc.net
-      Created on..............: 2001-09-26
-      Expires on..............: 2012-09-26
+   Domain Name: fwmedia.com
+      Created on..............: 2009-03-24
+      Expires on..............: 2013-05-02
 
    Administrative Contact:
-      Level 3 Communications, Inc.
-      NSATC Administrator
-      1025 Eldorado Boulevard
-      Broomfield, CO 80021
+      F and W Media Inc.
+      Scott Sander
+      4700 East Galbraith Road
+      Cincinnati, OH 45236
       US
-      Phone: +1.7208881000
-      Email: nsatc-host@level3.com
+      Phone: +1.5135312690
+      Email: scott.sander@fwmedia.com
 
 
    Technical  Contact:
-      Level 3 Communications, Inc.
-      NSATC Administrator
-      1025 Eldorado Boulevard
-      Broomfield, CO 80021
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
       US
-      Phone: +1.7208881000
-      Email: nsatc-host@level3.com
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
 
    DNS Servers:
-      a.ns.nsatc.net
-      c.ns.nsatc.net
-      b.ns.nsatc.net
-      l.ns.nsatc.net
-      j.ns.nsatc.net
-      e.ns.nsatc.net
-      d.ns.nsatc.net
+      dns2.nettica.com
+      dns5.nettica.com
+      dns3.nettica.com
+      dns1.nettica.com
+      dns4.nettica.com
 
 
 
-Visit AboutUs.org for more information about nsatc.net
+Visit AboutUs.org for more information about fwmedia.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/nsatc.net&quot;&gt;AboutUs: nsatc.net&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/fwmedia.com&quot;&gt;AboutUs: fwmedia.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 
