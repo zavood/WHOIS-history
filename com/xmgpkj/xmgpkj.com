@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUINTAREALHOTEL.COM
-   Registrar: UK2 GROUP LTD.
-   Whois Server: whois.hostingservicesinc.net
-   Referral URL: http://www.resell.biz
-   Name Server: NS1.HOLACEIBITA.NET
-   Name Server: NS2.HOLACEIBITA.NET
+   Domain Name: XMGPKJ.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 01-feb-2011
-   Creation Date: 06-feb-2005
-   Expiration Date: 06-feb-2012
+   Updated Date: 01-jul-2008
+   Creation Date: 06-jun-2005
+   Expiration Date: 06-jun-2018
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:40:19 UTC &lt;&lt;&lt;
 
@@ -51,73 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: RESELL.BIZ
-Contact: +1.8778266890
-Website: http://Resell.biz
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Domain Name: QUINTAREALHOTEL.COM
+Domain Name      : xmgpkj.com
+PunnyCode        : xmgpkj.com
+Creation Date    : 2005-06-06 00:00:00
+Updated Date     : 2005-06-06 00:00:00
+Expiration Date  : 2018-06-06 00:00:00
+
 
 Registrant:
-    Not Applicable
-    Raul Gomez Wesley        (rgomezw@yahoo.com)
-    La Ceiba Internet CafeBo El Iman, 9 callecontiguo a Computeck
-    La Ceiba
-    Atlantida,31101
-    US
-    Tel. +1.5044401505
-    Fax. +00.0000000
-
-Creation Date: 06-Feb-2005
-Expiration Date: 06-Feb-2012
-
-Domain servers in listed order:
-    ns1.holaceibita.net
-    ns2.holaceibita.net
-
+  Organization   : xmgpkj.com
+  Name           :
+  Address        : xiamen
+  City           : xiamen
+  Province/State : Fujian
+  Country        : China
+  Postal Code    : 316000
 
 Administrative Contact:
-    Not Applicable
-    Raul Gomez Wesley        (rgomezw@yahoo.com)
-    La Ceiba Internet CafeBo El Iman, 9 callecontiguo a Computeck
-    La Ceiba
-    Atlantida,31101
-    US
-    Tel. +1.5044401505
-    Fax. +00.0000000
+  Name           : zizhu chai
+  Organization   : xmgpkj.com
+  Address        : xiamen
+  City           : xiamen
+  Province/State : Fujian
+  Country        : China
+  Postal Code    : 316000
+  Phone Number   : 86-0592-5131280
+  Fax            : 86-0592-5131280
+  Email          : longcqz@yahoo.com.cn
 
 Technical Contact:
-    Not Applicable
-    Raul Gomez Wesley        (rgomezw@yahoo.com)
-    La Ceiba Internet CafeBo El Iman, 9 callecontiguo a Computeck
-    La Ceiba
-    Atlantida,31101
-    US
-    Tel. +1.5044401505
-    Fax. +00.0000000
+  Name           : zizhu chai
+  Organization   : xmgpkj.com
+  Address        : xiamen
+  City           : xiamen
+  Province/State : Fujian
+  Country        : China
+  Postal Code    : 316000
+  Phone Number   : 86-0592-5131280
+  Fax            : 86-0592-5131280
+  Email          : longcqz@yahoo.com.cn
 
 Billing Contact:
-    Not Applicable
-    Raul Gomez Wesley        (rgomezw@yahoo.com)
-    La Ceiba Internet CafeBo El Iman, 9 callecontiguo a Computeck
-    La Ceiba
-    Atlantida,31101
-    US
-    Tel. +1.5044401505
-    Fax. +00.0000000
-
-Status:ACTIVE
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is UK2 Group Ltd..
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
+  Name           : zizhu chai
+  Organization   : xmgpkj.com
+  Address        : xiamen
+  City           : xiamen
+  Province/State : Fujian
+  Country        : China
+  Postal Code    : 316000
+  Phone Number   : 86-0592-5131280
+  Fax            : 86-0592-5131280
+  Email          : longcqz@yahoo.com.cn
