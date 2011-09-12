@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [188.72.227.95 REQUEST] &gt;&gt; sfr.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sfr.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    S6245-FRNIC
+admin-c:     SFDR75-FRNIC
+tech-c:      HM1896-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15037-FRNIC
+registrar:   MAILCLUB
+anniversary: 13/10
+created:     23/07/1996
+last-update: 02/12/2010
+source:      FRNIC
+
+ns-list:     NSL15037-FRNIC
+nserver:     ns1.9services.com
+nserver:     ns2.9services.com
+nserver:     ns2.sfr.fr [93.20.84.208]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     S6245-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR
+address:     SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR
+address:     42, avenue de Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 71 08 08 65
+fax-no:      +33 1 71 08 09 15
+e-mail:      domaine@9tel.net
+changed:     04/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SFDR75-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR
+address:     SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR
+address:     42, avenue de Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 71 08 08 65
+e-mail:      domains@sfr.com
+changed:     26/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     HM1896-FRNIC
+type:        PERSON
+contact:     Host Master
+address:     MAILCLUB
+address:     Pole Media de la Belle de Mai, 37 rue Guibal
+address:     13356 Marseille
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+changed:     05/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
