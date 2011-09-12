@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ICE.NET.UA
-ICE.NET
+   Domain Name: NAD123NAD.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.FREEDNS.WS
+   Name Server: NS2.FREEDNS.WS
+   Name Server: NS3.FREEDNS.WS
+   Name Server: NS4.FREEDNS.WS
+   Status: clientTransferProhibited
+   Updated Date: 10-feb-2010
+   Creation Date: 30-dec-2006
+   Expiration Date: 30-dec-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:17:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:17:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... nad123nad.com
+  Creation Date........ 2006-12-30
+  Registration Date.... 2006-12-30
+  Expiry Date.......... 2015-12-30
+  Organisation Name.... Tara E Lane
+  Organisation Address. 4937 Merlin Lane
+  Organisation Address.
+  Organisation Address. Glen Allen
+  Organisation Address. 23060
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Tara E Lane
+  Admin Address........ 4937 Merlin Lane
+  Admin Address........
+  Admin Address........ Glen Allen
+  Admin Address........ 23060
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain.tech@yahoo-inc.com
+  Admin Phone.......... +1.8042177235
+  Admin Fax............
+
+Tech Name............ - Yahoo! Security Lock
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns1.freedns.ws
+  Name Server.......... ns2.freedns.ws
+  Name Server.......... ns3.freedns.ws
+  Name Server.......... ns4.freedns.ws
+
+
