@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 20:03:12 (BRT -03:00)
+
+domain:      webmaker.net.br
+owner:       TKS Teleinform&aacute;tica S/C Ltda.
+ownerid:     003.072.905/0001-65
+responsible: Cyro Augusto Baffi
+country:     BR
+owner-c:     TKS2
+admin-c:     TKS2
+tech-c:      TKS2
+billing-c:   TKS2
+nserver:     ns1.fly.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.fly.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20030107 #1056556
+expires:     20120107
+changed:     20110104
+status:      published
+
+nic-hdl-br:  TKS2
+person:      Turn Key Services
+e-mail:      registro@allnet.com.br
+created:     20010418
+changed:     20061130
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
