@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 19:22:47 (BRT -03:00)
+
+domain:      estressei.com.br
+owner:       Gabriel Palhares Esteves da Fonseca
+ownerid:     084.948.136-84
+country:     BR
+owner-c:     GPEFO
+admin-c:     GPEFO
+tech-c:      GPEFO
+billing-c:   GPEFO
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20080803 #4740153
+expires:     20120803
+changed:     20110812
+status:      published
+
+nic-hdl-br:  GPEFO
+person:      Gabriel Palhares Esteves da Fonseca
+e-mail:      gabrielpef@gmail.com
+created:     20080802
+changed:     20110311
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

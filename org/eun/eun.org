@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2134004-LROR
+Domain Name:EUN.ORG
+Created On:22-May-1997 04:00:00 UTC
+Last Updated On:10-Jun-2010 10:25:18 UTC
+Expiration Date:23-May-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuOHYMJIt184id8z
+Registrant Name:Ivo Sir
+Registrant Organization:EUN Partnership A.I.S.B.L.
+Registrant Street1:Rue de Treves 61
+Registrant Street2:
+Registrant Street3:
+Registrant City:Brussels
+Registrant State/Province:BE 865.838.331
+Registrant Postal Code:1040
+Registrant Country:BE
+Registrant Phone:+32.27907575
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@eun.org
+Admin ID:tu02K8R7MMJ8KkS3
+Admin Name:Ivo Sir
+Admin Organization:EUN Partnership A.I.S.B.L.
+Admin Street1:Rue de Treves 61
+Admin Street2:
+Admin Street3:
+Admin City:Brussels
+Admin State/Province:BE 865.838.331
+Admin Postal Code:1040
+Admin Country:BE
+Admin Phone:+32.27907575
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@eun.org
+Tech ID:tuc96MUlgSDD1frG
+Tech Name:Ivo Sir
+Tech Organization:EUN Partnership A.I.S.B.L.
+Tech Street1:Rue de Treves 61
+Tech Street2:
+Tech Street3:
+Tech City:Brussels
+Tech State/Province:BE 865.838.331
+Tech Postal Code:1040
+Tech Country:BE
+Tech Phone:+32.27907575
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@eun.org
+Name Server:NS1.EUN.ORG
+Name Server:NS2.EUN.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
