@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 26-oct-2010
    Expiration Date: 26-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 07:14:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:18:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    RMR Development
-   137 E Iron Ave
-   Dover, Ohio 44622
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: LIVINGFOREXCELLENCE.COM
-      Created on: 26-Oct-10
-      Expires on: 26-Oct-13
-      Last Updated on: 08-Mar-11
-
-   Administrative Contact:
-      Reed, Michael  reed@rmrdevelopment.com
-      RMR Development
-      137 E Iron Ave
-      Dover, Ohio 44622
-      United States
-      (330) 343-3454      Fax --
-
-   Technical Contact:
-      Reed, Michael  reed@rmrdevelopment.com
-      RMR Development
-      137 E Iron Ave
-      Dover, Ohio 44622
-      United States
-      (330) 343-3454      Fax --
 
    Domain servers in listed order:
       DNS.KAPLODE.COM
       DNS2.KAPLODE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=LIVINGFOREXCELLENCE.COM
