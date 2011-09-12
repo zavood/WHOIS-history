@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUD-IPS.COM
+   Domain Name: LABM.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-jun-2009
-   Creation Date: 01-jun-2009
-   Expiration Date: 01-jun-2019
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: ok
+   Updated Date: 12-nov-2010
+   Creation Date: 30-dec-2001
+   Expiration Date: 30-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:58:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:57:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,53 +52,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Josh Odom
- 112 E. Pecan St.
- Suite #400
- San Antonio, TX 78205
- US
+ LabM
+ Topley House
+ 52 Wash Lane
+ Bury, Lancashire BL96AS
+ UK
 
- Domain name: CLOUD-IPS.COM
+ Domain name: LABM.COM
 
 
  Administrative Contact:
-    Odom, Josh  josh.odom@rackspace.com
-    112 E. Pecan St.
-    Suite #400
-    San Antonio, TX 78205
-    US
-    +1.2103125267
+    Bouttell, Karen  Karen.Bouttell@labm.com
+    Topley House
+    52 Wash Lane
+    Bury, Lancashire BL96AS
+    UK
+    +44.1617975729
  Technical Contact:
-    Odom, Josh  josh.odom@rackspace.com
-    112 E. Pecan St.
-    Suite #400
-    San Antonio, TX 78205
-    US
-    +1.2103125267
+    Ltd, Webfusion  services@123-reg.co.uk
+    5 Roundwood Avenue
+    Stockley Park
+    Uxbridge, Middlesex UB11 1FF
+    GB
+    +44.8712309525    Fax: +44.8701650437
+
 
 
  Registration Service Provider:
-    Click And Name, support@clickandname.com
-    210-798-0105
-
+    123-reg.co.uk, services@123-reg.co.uk
+    08712309525
+    08709126612 (fax)
+    http://www.123-reg.co.uk
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 18-Nov-2010.
- Record expires on 02-Jun-2019.
- Record created on 02-Jun-2009.
+ Record last updated on 17-Nov-2010.
+ Record expires on 30-Dec-2012.
+ Record created on 30-Dec-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.SLICEHOST.NET
-    NS1.SLICEHOST.NET
-    NS3.SLICEHOST.NET
+    NS.123-REG.CO.UK
+    NS2.123-REG.CO.UK
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining
