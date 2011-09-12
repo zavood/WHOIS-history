@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154631514-LROR
+Domain Name:TOCANDOVIDAS.ORG
+Created On:06-Nov-2008 21:10:14 UTC
+Last Updated On:14-Jan-2009 18:30:12 UTC
+Expiration Date:06-Nov-2013 21:10:14 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3003538-NSI
+Registrant Name:VISUAL COMMUNICATIONS, INC.
+Registrant Organization:VISUAL COMMUNICATIONS, INC.
+Registrant Street1:1866 Fernandez Juncos Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:SAN JUAN
+Registrant State/Province:PR
+Registrant Postal Code:00909-3008
+Registrant Country:US
+Registrant Phone:+1.7877285252
+Registrant Phone Ext.:
+Registrant FAX:+1.7877282830
+Registrant FAX Ext.:
+Registrant Email:vdescombes@vicompr.com
+Admin ID:3003538-NSI
+Admin Name:VISUAL COMMUNICATIONS, INC.
+Admin Organization:VISUAL COMMUNICATIONS, INC.
+Admin Street1:1866 Fernandez Juncos Ave
+Admin Street2:
+Admin Street3:
+Admin City:SAN JUAN
+Admin State/Province:PR
+Admin Postal Code:00909-3008
+Admin Country:US
+Admin Phone:+1.7877285252
+Admin Phone Ext.:
+Admin FAX:+1.7877282830
+Admin FAX Ext.:
+Admin Email:vdescombes@vicompr.com
+Tech ID:3003538-NSI
+Tech Name:VISUAL COMMUNICATIONS, INC.
+Tech Organization:VISUAL COMMUNICATIONS, INC.
+Tech Street1:1866 Fernandez Juncos Ave
+Tech Street2:
+Tech Street3:
+Tech City:SAN JUAN
+Tech State/Province:PR
+Tech Postal Code:00909-3008
+Tech Country:US
+Tech Phone:+1.7877285252
+Tech Phone Ext.:
+Tech FAX:+1.7877282830
+Tech FAX Ext.:
+Tech Email:vdescombes@vicompr.com
+Name Server:NS100.WEBMASTERS.COM
+Name Server:NS101.WEBMASTERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
