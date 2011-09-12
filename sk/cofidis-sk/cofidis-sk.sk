@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         cofidis-sk.sk
+Admin-id            JUMI-0010
+Admin-name          JUDr. Milan Hrbek
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       31783805
+Admin-address       Kycerskeho 7, Bratislava 811 05
+Admin-telephone     02/524 44 019, 02/524 44 020, 0905 628 558
+Admin-email         hrbek@chplaw.sk
+Tech-id             YEGO-0001
+Tech-name           Yegon s.r.o.
+Tech-org.-ID        35797924
+Tech-address        Ruzova dolina 6, Bratislava 82108
+Tech-telephone      02/20633171, 0905 612570
+Tech-email          registrator@yegon.sk
+dns_name            ns1.mailclub.fr
+dns_name            ns2.mailclub.fr
+Last-update         2011-07-11
+Valid-date          2012-08-07
+Domain-status       DOM_OK
+
