@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOGOINFLIGHT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: NET-BUILD.NET
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS1.NET-BUILD.NET
+   Name Server: NS2.NET-BUILD.NET
+   Name Server: NS3.NET-BUILD.NET
+   Name Server: NS4.NET-BUILD.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 18-jun-2007
-   Expiration Date: 27-jun-2012
+   Updated Date: 01-sep-2011
+   Creation Date: 31-aug-2002
+   Expiration Date: 31-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 03:36:28 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
+domain:          net-build.net
+nserver:         ns1.net-build.net
+nserver:         ns2.net-build.net
+nserver:         ns3.net-build.net
+nserver:         ns4.net-build.net
+created:         2002-08-31
+updated:         2009-09-03
 
-Registrant:
-   Domains by Proxy, Inc.
+owner-id:        PB396954
+owner-org:
+owner-name:      Patrick Bohn
+owner-address:   Trierer Str. 223-225
+owner-pcode:     66663
+owner-city:      Merzig
+owner-country:   DE
+owner-phone:     +49 6861 9312500
+owner-fax:       +49 6861 9312500
+owner-email:     domain@netbuild.net
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOGOINFLIGHT.COM
+admin-id:        PB396954
+admin-org:
+admin-name:      Patrick Bohn
+admin-address:   Trierer Str. 223-225
+admin-pcode:     66663
+admin-city:      Merzig
+admin-country:   DE
+admin-phone:     +49 6861 9312500
+admin-fax:       +49 6861 9312500
+admin-email:     domain@netbuild.net
 
-   Domain servers in listed order:
-      CBRU.BR.NS.ELS-GMS.ATT.NET
-      CMTU.MT.NS.ELS-GMS.ATT.NET
+tech-id:         HO396876
+tech-org:        Net-Build GmbH
+tech-name:       Hostmaster of the Day
+tech-address:    Am Saaraltarm 1
+tech-pcode:      66740
+tech-city:       Saarlouis
+tech-country:    DE
+tech-phone:      +49 6831 516440
+tech-fax:        +49 6831 5164420
+tech-email:      support@netbuild.net
 
+billing-id:      HO396876
+billing-org:     Net-Build GmbH
+billing-name:    Hostmaster of the Day
+billing-address: Am Saaraltarm 1
+billing-pcode:   66740
+billing-city:    Saarlouis
+billing-country: DE
+billing-phone:   +49 6831 516440
+billing-fax:     +49 6831 5164420
+billing-email:   support@netbuild.net
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOGOINFLIGHT.COM
