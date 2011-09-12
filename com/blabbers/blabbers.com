@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 18-aug-2005
    Expiration Date: 18-aug-2018
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 04:46:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:44:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,31 +81,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Blabbers Communications Ltd.
-   Blabbers Communications Ltd. Arad 3 Tel-Aviv ISRAEL
-   ,  43034
-   Israel
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BLABBERS.COM
-      Created on: 18-Aug-05
-      Expires on: 18-Aug-18
-      Last Updated on: 25-Jul-11
-
-   Administrative Contact:
-      ,   admin@blabbers.com
-      Blabbers Communications Ltd.
-      Blabbers Communications Ltd. Arad 3 Tel-Aviv ISRAEL
-      ,  43034
-      Israel
-      +972.36441617
-
-   Technical Contact:
-      ,   admin@blabbers.com
-      Blabbers Communications Ltd.
-      Blabbers Communications Ltd. Arad 3 Tel-Aviv ISRAEL
-      ,  43034
-      Israel
-      +972.36441617
 
    Domain servers in listed order:
       NS14.DNSMADEEASY.COM
@@ -115,3 +93,6 @@ Registrant:
       NS11.DNSMADEEASY.COM
       NS15.DNSMADEEASY.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLABBERS.COM
