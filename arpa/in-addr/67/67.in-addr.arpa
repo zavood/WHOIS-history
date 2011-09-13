@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       67.in-addr.arpa
+
+organisation: ARIN
+
+nserver:      DILL.ARIN.NET.
+nserver:      T.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      V.ARIN.NET.
+nserver:      W.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     29358 5 1 332C30F33FA8B53FA7C0BADD63A66F4686C8D382
+
+whois:        whois.arin.net
+
+changed:      2001-05
+changed:      2011-04-27
+source:       IANA
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 15-aug-2011
    Expiration Date: 15-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:27:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:34:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Sunday, 11-Sep-2011 23:28:46 CEST
-# gmt time      : Sunday, 11-Sep-2011 21:28:46 GMT
+# local time    : Tuesday, 13-Sep-2011 20:35:26 CEST
+# gmt time      : Tuesday, 13-Sep-2011 18:35:26 GMT
 # last modify   : Friday, 02-Sep-2011 06:38:08 CEST
-# request from  : 192.168.248.1:54975
+# request from  : 192.168.248.1:7248
 
 Domain name: photoshopwizard.com
 
