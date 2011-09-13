@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
+   Domain Name: TRYGOD.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS.WEBHOSTINGSERVERS.NET
+   Name Server: NS2.WEBHOSTINGSERVERS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-oct-2010
-   Creation Date: 13-nov-1998
-   Expiration Date: 12-nov-2011
+   Updated Date: 20-mar-2010
+   Creation Date: 19-jun-1998
+   Expiration Date: 18-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:34:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:33:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +52,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about cineca.com
-&lt;a href=&quot;http://www.aboutus.org/cineca.com&quot;&gt;AboutUs: cineca.com&lt;/a&gt;
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-Domain name: cineca.com
-
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Domain name: trygod.com
 
 Registrant Contact:
-   CINECA
-   Hostmaster Cineca ()
+      Bill    Gravell
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      5178a3247c75c297@private-contact.com
 
-   Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Administrative Contact:
+      Bill    Gravell
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      amkkmttg1wmnaj0g@private-contact.com
 
-Status: Locked
+Technical Contact:
+      Bill    Gravell
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      ewnlrmskf5x1j9uv@private-contact.com
 
-Name Servers:
-   dns.cineca.com
-   dns.cineca.it
-
-Creation date: 13 Nov 1998 05:00:00
-Expiration date: 12 Nov 2011 05:00:00
+Update date: 2010-03-20
+Expiration date: 2012-06-18
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -114,4 +109,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

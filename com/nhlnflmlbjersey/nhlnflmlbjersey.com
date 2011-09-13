@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
+   Domain Name: NHLNFLMLBJERSEY.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS10.CDNCENTER.COM
+   Name Server: NS11.CDNCENTER.COM
+   Name Server: NS12.CDNCENTER.COM
+   Name Server: NS7.CDNCENTER.COM
+   Name Server: NS8.CDNCENTER.COM
+   Name Server: NS9.CDNCENTER.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-oct-2010
-   Creation Date: 13-nov-1998
-   Expiration Date: 12-nov-2011
+   Updated Date: 02-dec-2010
+   Creation Date: 02-dec-2010
+   Expiration Date: 02-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:34:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:33:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +56,7 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about cineca.com
-&lt;a href=&quot;http://www.aboutus.org/cineca.com&quot;&gt;AboutUs: cineca.com&lt;/a&gt;
 
-
-Domain name: cineca.com
-
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Registrant Contact:
-   CINECA
-   Hostmaster Cineca ()
-
-   Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Status: Locked
-
-Name Servers:
-   dns.cineca.com
-   dns.cineca.it
-
-Creation date: 13 Nov 1998 05:00:00
-Expiration date: 12 Nov 2011 05:00:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -108,10 +67,52 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
+mail, or by telephone.  The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain name: nhlnflmlbjersey.com
+
+Registrant Contact:
+   Long Chen
+   Long Chen gumingdong@tom.com
+   +86.05942791507 fax: +86.05942791507
+   zhongdeng building xian shanxi
+   xian shanxi 710000
+   CN
+
+Administrative Contact:
+   Long Chen gumingdong@tom.com
+   +86.05942791507 fax: +86.05942791507
+   zhongdeng building xian shanxi
+   xian shanxi 710000
+   CN
+
+Technical Contact:
+   Long Chen gumingdong@tom.com
+   +86.05942791507 fax: +86.05942791507
+   zhongdeng building xian shanxi
+   xian shanxi 710000
+   CN
+
+Billing Contact:
+   Long Chen gumingdong@tom.com
+   +86.05942791507 fax: +86.05942791507
+   zhongdeng building xian shanxi
+   xian shanxi 710000
+   CN
+
+DNS:
+ns7.cdncenter.com
+ns8.cdncenter.com
+ns9.cdncenter.com
+ns10.cdncenter.com
+ns11.cdncenter.com
+ns12.cdncenter.com
+
+Created: 2010-12-03
+Expires: 2011-12-03

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.COM
+   Domain Name: QPYMES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
+   Name Server: DNS1.CANALDOMINIOS.COM
+   Name Server: DNS2.CANALDOMINIOS.COM
+   Name Server: DNS3.CANALDOMINIOS.COM
+   Name Server: DNS4.CANALDOMINIOS.COM
    Status: clientTransferProhibited
-   Updated Date: 14-oct-2010
-   Creation Date: 13-nov-1998
-   Expiration Date: 12-nov-2011
+   Updated Date: 30-sep-2010
+   Creation Date: 31-dec-2009
+   Expiration Date: 31-dec-2019
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:34:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:32:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +54,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about cineca.com
-&lt;a href=&quot;http://www.aboutus.org/cineca.com&quot;&gt;AboutUs: cineca.com&lt;/a&gt;
+Visit AboutUs.org for more information about qpymes.com
+&lt;a href=&quot;http://www.aboutus.org/qpymes.com&quot;&gt;AboutUs: qpymes.com&lt;/a&gt;
 
 
-Domain name: cineca.com
-
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Domain name: qpymes.com
 
 Registrant Contact:
-   CINECA
-   Hostmaster Cineca ()
+   Smallsquid S.L.
+   Jose Manuel Perez Sevilla 213606 ()
 
    Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Pje Caralt 21 entlo 2a
+   Santa Coloma de Gramanet, Barcelona 08924
+   ES
+
+Administrative Contact:
+   Smallsquid S.L.
+   Jose Manuel Perez Sevilla 213606 (jmperez@gmail.com)
+   +34.934514580
+   Fax:
+   Pje Caralt 21 entlo 2a
+   Santa Coloma de Gramanet, Barcelona 08924
+   ES
+
+Technical Contact:
+   Smallsquid S.L.
+   Jose Manuel Perez Sevilla 213606 (jmperez@gmail.com)
+   +34.934514580
+   Fax:
+   Pje Caralt 21 entlo 2a
+   Santa Coloma de Gramanet, Barcelona 08924
+   ES
 
 Status: Locked
 
 Name Servers:
-   dns.cineca.com
-   dns.cineca.it
+   dns1.canaldominios.com
+   dns2.canaldominios.com
+   dns3.canaldominios.com
+   dns4.canaldominios.com
 
-Creation date: 13 Nov 1998 05:00:00
-Expiration date: 12 Nov 2011 05:00:00
+Creation date: 31 Dec 2009 09:48:35
+Expiration date: 31 Dec 2019 09:48:35
 
 
 

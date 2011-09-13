@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.COM
+   Domain Name: JIGERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
+   Name Server: NS1.EXTNS.NET
+   Name Server: NS2.EXTNS.NET
    Status: clientTransferProhibited
-   Updated Date: 14-oct-2010
-   Creation Date: 13-nov-1998
-   Expiration Date: 12-nov-2011
+   Updated Date: 07-mar-2011
+   Creation Date: 16-mar-2010
+   Expiration Date: 16-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:34:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:32:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about cineca.com
-&lt;a href=&quot;http://www.aboutus.org/cineca.com&quot;&gt;AboutUs: cineca.com&lt;/a&gt;
+Visit AboutUs.org for more information about jigers.com
+&lt;a href=&quot;http://www.aboutus.org/jigers.com&quot;&gt;AboutUs: jigers.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: cineca.com
-
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
-
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Domain name: jigers.com
 
 Registrant Contact:
-   CINECA
-   Hostmaster Cineca ()
+   Friends Development Foundation
+   Arbaz Abid ()
 
    Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Azad Kashmir
+   Muzaffarabad, S 13100
+   PK
+
+Administrative Contact:
+   Friends Development Foundation
+    Abid (arbaz_abid@hotmail.com)
+   +92.3445520088
+   Fax: +1.5555555555
+   Azad Kashmir
+   Muzaffarabad, S 13100
+   PK
+
+Technical Contact:
+   Friends Development Foundation
+   Arbaz Abid (arbaz_abid@hotmail.com)
+   +92.3445520088
+   Fax: +1.5555555555
+   Azad Kashmir
+   Muzaffarabad, S 13100
+   PK
 
 Status: Locked
 
 Name Servers:
-   dns.cineca.com
-   dns.cineca.it
+   ns1.extns.net
+   ns2.extns.net
 
-Creation date: 13 Nov 1998 05:00:00
-Expiration date: 12 Nov 2011 05:00:00
+Creation date: 16 Mar 2010 15:07:00
+Expiration date: 16 Mar 2012 10:07:00
 
 
 
