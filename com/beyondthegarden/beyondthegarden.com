@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIGANLAWATTORNEY.COM
+   Domain Name: BEYONDTHEGARDEN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
+   Name Server: NS69.DOMAINCONTROL.COM
+   Name Server: NS70.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jan-2010
-   Creation Date: 20-jan-2010
-   Expiration Date: 20-jan-2015
+   Updated Date: 13-mar-2011
+   Creation Date: 26-dec-2004
+   Expiration Date: 26-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:41:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:41:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   PRESENTATIONS
+   Beyond the Garden
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MICHIGANLAWATTORNEY.COM
+   Domain Name: BEYONDTHEGARDEN.COM
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
+      NS69.DOMAINCONTROL.COM
+      NS70.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MICHIGANLAWATTORNEY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BEYONDTHEGARDEN.COM

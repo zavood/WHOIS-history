@@ -5,13 +5,33 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-12 10:39:25 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-13 15:41:01 (BRT -03:00)
 
 domain:      visualmaster.com.br
-owner:       Minist&eacute;rio Sal &amp; Luz - Evangelismo (214662)
+owner:       Minist&eacute;rio Sal &amp; Luz - Evangelismo
+ownerid:     003.158.576/0001-70
+responsible: Minist&eacute;rio Sal &amp; Luz
+country:     BR
+owner-c:     JFH7
+admin-c:     JFH7
+tech-c:      JFH7
+billing-c:   JFH7
+nserver:     ns1.visualmaster.com.br 78.46.20.141
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.visualmaster.com.br 88.198.29.247
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20001209 #479868
+expires:     20131209
+changed:     20101229
+status:      published
+
+nic-hdl-br:  JFH7
+person:      Jo&atilde;o F&aacute;bio Hil&aacute;rio
+e-mail:      jesusnet@onda.com.br
+created:     20000321
+changed:     20051213
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br
