@@ -1,0 +1,96 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 20:26:54 2011
+
+domain:       antiqua-apollon.cz
+registrant:   SB:SAHULA_MARTIN
+admin-c:      SAHULA_MARTIN
+temp-c:       OCI
+nsset:        NSS:BENETA-IGNUM:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   19.04.2004 18:55:00
+changed:      26.08.2005 19:25:00
+expire:       19.04.2012
+
+contact:      SB:SAHULA_MARTIN
+name:         Martin Sahula
+address:      Libocka 60
+address:      Praha 6
+address:      162 00
+address:      CZ
+e-mail:       sahula.martin@post.cz
+registrar:    REG-IGNUM
+created:      19.04.2004 18:15:00
+
+contact:      SAHULA_MARTIN
+name:         Martin Sahula
+address:      Libocka 60
+address:      Praha 6
+address:      162 00
+address:      CZ
+e-mail:       sahula.martin@post.cz
+registrar:    REG-IGNUM
+created:      19.04.2004 17:45:00
+
+contact:      OCI
+name:         Petr Ocasek
+address:      Ml&Atilde;&iexcl;de&Aring;&frac34;e 15
+address:      Praha
+address:      16000
+address:      CZ
+registrar:    REG-MOJEID
+created:      30.10.2001 13:46:00
+changed:      16.03.2011 14:27:38
+
+nsset:        NSS:BENETA-IGNUM:1
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz
+tech-c:       SB:BENETA-IGNUM
+tech-c:       ROB1
+tech-c:       OCI
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      03.04.2009 11:31:19
+
+contact:      SB:BENETA-IGNUM
+org:          BENETA.cz, s.r.o. + IGNUM, s.r.o.
+name:         BENETA.cz, s.r.o. + IGNUM, s.r.o.
+address:      K Jas&Atilde;&iexcl;nk&Atilde;&iexcl;m 1196
+address:      Praha 5 - Stod&Aring;&macr;lky
+address:      15500
+address:      CZ
+registrar:    REG-IGNUM
+created:      27.01.2005 18:55:00
+changed:      09.05.2008 17:55:05
+
+contact:      ROB1
+name:         Robert Prokes
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.01.2009 10:18:17
+
+
