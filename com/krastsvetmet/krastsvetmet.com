@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CISION.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.BUR.QWEST.NET
-   Name Server: NS1.EWR.QWEST.NET
-   Name Server: NS1.IAD.QWEST.NET
-   Name Server: NS1.JSV.QWEST.NET
-   Status: ok
-   Updated Date: 04-apr-2011
-   Creation Date: 24-feb-2002
-   Expiration Date: 24-feb-2016
+   Domain Name: KRASTSVETMET.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS1.INTECMEDIA.RU
+   Name Server: NS2.INTECMEDIA.RU
+   Status: clientTransferProhibited
+   Updated Date: 21-mar-2011
+   Creation Date: 26-mar-2007
+   Expiration Date: 26-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:40:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:38:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,49 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  BACON'S INFORMATION INC (BACONSIN385)
-  332 S Michigan Ave STE 900
+Domain name:             KRASTSVETMET.COM
+Name Server:             ns1.intecmedia.ru
+Name Server:             ns2.intecmedia.ru
+Creation Date:           2007.03.26
+Expiration Date:         2012.03.26
 
-  Chicago, IL, 60604
-  US
+Status:                  DELEGATED
 
-  Domain name: cision.com
+Registrant ID:           IG1VH7L-RU
+Registrant Name:         Join Stock Company &quot;The Gulidov Krasnoyarsk Non-Ferrous Metals Plant&quot;
+Registrant Organization: Join Stock Company &quot;The Gulidov Krasnoyarsk Non-Ferrous Metals Plant&quot;
+Registrant Street1:      1, Transportniy proezd
+Registrant City:         Krasnoyarsk
+Registrant State:        Krasnoyarsk region
+Registrant Postal Code:  660027
+Registrant Country:      RU
 
-Administrative and Technical contact:
-  INC, BACON'S INFORMATION (BI1236)
-  BACON'S INFORMATION INC
-  332 S Michigan Ave STE 900
+Administrative, Technical Contact
+Contact ID:              IG1VH7L-RU
+Contact Name:            Join Stock Company &quot;The Gulidov Krasnoyarsk Non-Ferrous Metals Plant&quot;
+Contact Organization:    Join Stock Company &quot;The Gulidov Krasnoyarsk Non-Ferrous Metals Plant&quot;
+Contact Street1:         1, Transportniy proezd
+Contact City:            Krasnoyarsk
+Contact State:           Krasnoyarsk region
+Contact Postal Code:     660027
+Contact Country:         RU
+Contact Phone:           +7 3912 642033
+Contact Fax:             +7 3912 642903
+Contact E-mail:          info@knfmp.ru
 
-  Chicago, IL, 60604
-  US
-  dwons@bacons.com
-  +1.3129222400 Fax: +1.3129229395
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Record created:           2010-09-15 23:05:13
-Record last updated:      2011-08-29 08:00:51
-Record expires:           2016-02-24 00:00:00
+Last updated on 2011.09.13 06:39:29 MSK/MSD
 
-Domain servers in listed order:
-  NS1.IAD.QWEST.NET (NS1IA22569)
-  NS1.EWR.QWEST.NET (NS1EW69701)
-  NS1.BUR.QWEST.NET (NS1BU80471)
-  NS1.JSV.QWEST.NET (NS1JS01809)
