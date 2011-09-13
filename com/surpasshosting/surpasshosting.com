@@ -5,8 +5,14 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ALEXANDERLAWFORD.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:07 UTC &lt;&lt;&lt;
+SURPASSHOSTING.COM.ROYAL-DRAMA.NET
+SURPASSHOSTING.COM
+
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

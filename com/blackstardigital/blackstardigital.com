@@ -5,7 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ALEXANDERLAWFORD.COM&quot;.
+   Domain Name: BLACKSTARDIGITAL.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 04-jun-2011
+   Creation Date: 03-jun-2010
+   Expiration Date: 03-jun-2012
+
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
@@ -41,3 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

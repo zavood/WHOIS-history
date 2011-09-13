@@ -5,19 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORTLANDTRAILBLAZERS.NET
+   Domain Name: TICKETMASTER.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
-   Name Server: NS40.NBA.COM
-   Name Server: NS50.NBA.COM
-   Status: clientDeleteProhibited
+   Name Server: ASIA3.AKAM.NET
+   Name Server: AUS1.AKAM.NET
+   Name Server: EUR3.AKAM.NET
+   Name Server: EUR5.AKAM.NET
+   Name Server: NS1-131.AKAM.NET
+   Name Server: NS1-248.AKAM.NET
+   Name Server: USE4.AKAM.NET
+   Name Server: USW1.AKAM.NET
    Status: clientTransferProhibited
-   Updated Date: 24-may-2010
-   Creation Date: 29-may-1997
-   Expiration Date: 28-may-2012
+   Updated Date: 06-feb-2008
+   Creation Date: 06-jan-1994
+   Expiration Date: 05-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:46:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,45 +65,51 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      NBA Media Ventures, LLC , c/o Television and New Media Ventures
-      Internic Administrator
-      645 5th Ave., 10th Floor .
-      New York, NY 10022
+      Ticketmaster
+      TM Hostmaster
+      8800 Sunset Blvd
+      West Hollywood, CA 90069
       US
-      Email: internicadmin@nba.com
+      Email: legal@ticketmaster.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: portlandtrailblazers.net
+   Domain Name: ticketmaster.com
 
-      Created on..............: Thu, May 29, 1997
-      Expires on..............: Mon, May 28, 2012
-      Record last updated on..: Mon, May 24, 2010
+      Created on..............: Thu, Jan 06, 1994
+      Expires on..............: Thu, Jan 05, 2012
+      Record last updated on..: Mon, Nov 09, 2009
 
    Administrative Contact:
-      NBA Properties
-      Information Technology
-      100 Plaza Drive 3rd Fl .
-      Secaucus, NJ 07094
+      Ticketmaster
+      TM Hostmaster
+      8800 Sunset Blvd
+      West Hollywood, CA 90069
       US
-      Phone: 001-201-9746996
-      Email: internicadmin@nba.com
+      Phone: 1--3103603300
+      Email: tmhostmaster@ticketmaster.com
 
    Technical Contact:
-      NBA
-      DNS Team
-      100 Plaza Drive .
-      Secaucus, NJ 07094
+      Ticketmaster
+      Client Systems
+      8800 Sunset Blvd. .
+      West Hollywood, CA 90069
       US
-      Phone: 001-201-9746169
-      Email: internicadmin@NBA.COM
+      Phone: 001-213-7395111
+      Email: tmhostmaster@ticketmaster.com
 
    DNS Servers:
 
-   ns40.nba.com
-   ns50.nba.com
+   eur5.akam.net
+   ns1-131.akam.net
+   ns1-248.akam.net
+   usw1.akam.net
+   asia3.akam.net
+   aus1.akam.net
+   use4.akam.net
+   eur3.akam.net
 
 
 Register your domain name at http://www.cscglobal.com

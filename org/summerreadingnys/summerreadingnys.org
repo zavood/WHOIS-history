@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90987703-LROR
+Domain Name:SUMMERREADINGNYS.ORG
+Created On:07-Oct-2002 18:53:45 UTC
+Last Updated On:24-Sep-2010 17:20:09 UTC
+Expiration Date:07-Oct-2012 18:53:44 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-IY7XFF3AH7DJ
+Registrant Name:Karen Balsen
+Registrant Organization:New York State Library
+Registrant Street1:Division of Library Development
+Registrant Street2:Cultural Education Center
+Registrant Street3:
+Registrant City:Albany
+Registrant State/Province:NY
+Registrant Postal Code:12230
+Registrant Country:US
+Registrant Phone:+1.5184862194
+Registrant Phone Ext.:
+Registrant FAX:+1.5184865254
+Registrant FAX Ext.:
+Registrant Email:kbalsen@mail.nysed.gov
+Admin ID:DOT-UF4L8Q0XV1GJ
+Admin Name:James Fairbrother
+Admin Organization:Fairbrother &amp; Company LLC
+Admin Street1:32 Main Street
+Admin Street2:
+Admin Street3:
+Admin City:Chatham
+Admin State/Province:NY
+Admin Postal Code:12037
+Admin Country:US
+Admin Phone:+1.5183927700
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:james@fairbrother.com
+Tech ID:DOT-WT4TTXRXC33L
+Tech Name:Polly Farrington
+Tech Organization:PA Farrington Associates
+Tech Street1:35 Fletcher Road
+Tech Street2:
+Tech Street3:
+Tech City:Albany
+Tech State/Province:NY
+Tech Postal Code:12203
+Tech Country:US
+Tech Phone:+1.5183696860
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:polly@pafa.net
+Name Server:NS2.GIPPY.NET
+Name Server:NS1.GIPPY.NET
+Name Server:NS3.GIPPY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

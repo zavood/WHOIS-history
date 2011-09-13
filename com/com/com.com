@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 13-apr-1995
    Expiration Date: 14-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:11:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.cnet.com
     ns2.cnet.com
+    ns3.cnet.com
     ns.cnet.com
 
 
@@ -134,4 +134,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

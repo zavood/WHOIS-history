@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TECHASIS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVER1.TECHASIS.COM
-   Name Server: NS2.SERVER1.TECHASIS.COM
+   Domain Name: BANCOFAMERICALOGGONS.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS167.IP-ASIA.COM
+   Name Server: NS168.IP-ASIA.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 27-jul-2005
-   Expiration Date: 27-jul-2012
+   Updated Date: 05-jun-2011
+   Creation Date: 05-jun-2011
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:46:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:46:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-Registrant:
-   GadgetVenue
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TECHASIS.COM
-
-   Domain servers in listed order:
-      NS1.SERVER1.TECHASIS.COM
-      NS2.SERVER1.TECHASIS.COM
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TECHASIS.COM
+Domain: bancofamericaloggons.com
+Status: Protected
+
+DNS:
+	ns167.ip-asia.com
+	ns168.ip-asia.com
+
+Created: 2011-06-06 10:35:54
+Expires: 2012-06-06 10:35:54
+Last Modified: 2011-06-06 10:35:54
+
+Registrant Contact:
+	Brevil Host Propagators
+	KAITLYN BREVIL - (jeremiah.long1@aol.com)
+	2602 BLOCK ST
+	TALLAHASSEE, Florida, us 32304
+	P: +810.9263746 F: +0.0
+
+Administrative Contact:
+	Brevil Host Propagators
+	KAITLYN BREVIL - (jeremiah.long1@aol.com)
+	2602 BLOCK ST
+	TALLAHASSEE, Florida, us 32304
+	P: +810.9263746 F: +0.0
+
+Technical Contact:
+	Brevil Host Propagators
+	KAITLYN BREVIL - (jeremiah.long1@aol.com)
+	2602 BLOCK ST
+	TALLAHASSEE, Florida, us 32304
+	P: +810.9263746 F: +0.0
+
+Billing Contact:
+	Brevil Host Propagators
+	KAITLYN BREVIL - (jeremiah.long1@aol.com)
+	2602 BLOCK ST
+	TALLAHASSEE, Florida, us 32304
+	P: +810.9263746 F: +0.0
+

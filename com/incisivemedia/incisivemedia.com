@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TECHASIS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVER1.TECHASIS.COM
-   Name Server: NS2.SERVER1.TECHASIS.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: INCISIVEMEDIA.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.INCBASE.NET
+   Name Server: NS2.INCBASE.NET
+   Name Server: NS3.INCBASE.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 27-jul-2005
-   Expiration Date: 27-jul-2012
+   Updated Date: 01-jul-2011
+   Creation Date: 30-aug-2000
+   Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:46:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:47:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   GadgetVenue
+  INCISIVE MEDIA INVESTMENTS LIMITED (INCIS11334)
+  HAYMARKET HOUSE
+  28-29 HAYMARKET
+  LONDON, , SW1Y 4RX
+  GB
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TECHASIS.COM
+  Domain name: incisivemedia.com
 
-   Domain servers in listed order:
-      NS1.SERVER1.TECHASIS.COM
-      NS2.SERVER1.TECHASIS.COM
+Technical contact:
+  Administrator, Domain (DA063781)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
 
+Administrative contact:
+  Doobay, Ron (RD32094)
+  INCISIVE MEDIA INVESTMENTS LIMITED
+  HAYMARKET HOUSE
+  28-29 HAYMARKET
+  LONDON, SW1Y 4RX
+  GB
+  dns@incisivemedia.com
+  +44.2074849700 Fax: +44.2079302238
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TECHASIS.COM
+Record created:           2010-10-30 07:27:34
+Record last updated:      2010-10-30 07:27:34
+Record expires:           2012-08-30 08:58:00
+
+Domain servers in listed order:
+  NS1.INCBASE.NET (NS1IN85940)
+  NS1.NETNAMES.NET (NS1NE69468)
+  NS2.INCBASE.NET (NS2IN06500)
+  NS2.NETNAMES.NET (NS2NE27260)
+  NS3.INCBASE.NET (NS3IN54403)
+  ns1.netnames.net (NS1NE489201)
+  ns2.netnames.net (NS2NE751621)

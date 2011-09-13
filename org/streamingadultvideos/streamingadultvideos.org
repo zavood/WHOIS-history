@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150086395-LROR
+Domain Name:STREAMINGADULTVIDEOS.ORG
+Created On:01-Dec-2007 05:36:58 UTC
+Last Updated On:10-Dec-2009 09:28:20 UTC
+Expiration Date:01-Dec-2011 05:36:58 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34354178
+Registrant Name:John Jacobs
+Registrant Street1:8735 Promise Land Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mountain Home
+Registrant State/Province:Arkansas
+Registrant Postal Code:72653
+Registrant Country:US
+Registrant Phone:+1.8704318593
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:clakshakle@yahoo.com
+Admin ID:CR34354180
+Admin Name:John Jacobs
+Admin Street1:8735 Promise Land Rd
+Admin Street2:
+Admin Street3:
+Admin City:Mountain Home
+Admin State/Province:Arkansas
+Admin Postal Code:72653
+Admin Country:US
+Admin Phone:+1.8704318593
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:clakshakle@yahoo.com
+Tech ID:CR34354179
+Tech Name:John Jacobs
+Tech Street1:8735 Promise Land Rd
+Tech Street2:
+Tech Street3:
+Tech City:Mountain Home
+Tech State/Province:Arkansas
+Tech Postal Code:72653
+Tech Country:US
+Tech Phone:+1.8704318593
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:clakshakle@yahoo.com
+Name Server:NS0.EMGNAMESERVICES.COM
+Name Server:NS1.EMGNAMESERVICES.COM
+Name Server:NS2.EMGNAMESERVICES.COM
+Name Server:NS3.EMGNAMESERVICES.COM
+Name Server:NS4.EMGNAMESERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
