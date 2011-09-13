@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         cserkesznet.sk
+Admin-id            KATA-0167
+Admin-name          Katarina Baloghova
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         baloghsz-domain@muai.sk
+Tech-id             MARE-0061
+Tech-name           Mgr. Marek Pajchl
+Tech-org.-ID        34535314
+Tech-address        150, Dulov 01852
+Tech-telephone      0905621497
+Tech-email          ump@ump.sk
+dns_name            ns1.dynamit.sk
+dns_name            ns2.dynamit.sk
+dns_name            ns3.dynamit.sk
+dns_name            ns4.dynamit.sk
+Last-update         2011-03-04
+Valid-date          2012-03-20
+Domain-status       DOM_OK
+
