@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T07:00:31+12:00
+domain_name: registerdirect.net.nz
+query_status: 200 Active
+domain_dateregistered: 2000-12-06T00:00:00+13:00
+domain_datebilleduntil: 2011-12-06T21:08:21+13:00
+domain_datelastmodified: 2010-11-03T12:03:21+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: Net24 Limited
+registrant_contact_address1: PO Box 1520
+registrant_contact_city: Christchurch
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 9629510
+registrant_contact_fax: +64 3 9629513
+registrant_contact_email: nikolai@net24.co.nz
+%
+admin_contact_name: Net24 Limited
+admin_contact_address1: PO Box 1520
+admin_contact_city: Christchurch
+admin_contact_province: Canterbury
+admin_contact_postalcode: 8014
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 9629510
+admin_contact_fax: +64 3 9629513
+admin_contact_email: m.schupbach@net24.co.nz
+%
+technical_contact_name: RegisterDIRECT
+technical_contact_address1: PO Box 1520
+technical_contact_address2: Christchurch, New Zealand
+technical_contact_phone: +64 3 377 6535
+technical_contact_fax: +64 3 377 6536
+technical_contact_email: hostmaster@registerdirect.net.nz
+%
+ns_ip4_01: 210.55.4.11
+ns_name_01: ns2.net24.net.nz
+ns_ip4_02: 210.55.4.10
+ns_name_02: ns1.net24.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

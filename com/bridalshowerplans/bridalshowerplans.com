@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGEKEY.NET
+   Domain Name: BRIDALSHOWERPLANS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ADNS1.AKAM.NET
-   Name Server: ADNS2.AKAM.NET
-   Name Server: ADNS3.AKAM.NET
-   Name Server: ADNS4.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Name Server: NS3.LASERVERS.COM
+   Name Server: NS4.LASERVERS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 18-jun-2011
+   Creation Date: 15-jun-2004
+   Expiration Date: 15-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:58:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:59:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
