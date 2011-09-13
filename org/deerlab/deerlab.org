@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130484853-LROR
+Domain Name:DEERLAB.ORG
+Created On:10-Oct-2006 20:13:23 UTC
+Last Updated On:11-Oct-2010 01:23:47 UTC
+Expiration Date:10-Oct-2011 20:13:23 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:OK
+Registrant ID:P-7181682
+Registrant Name:Werner Flueck
+Registrant Street1:Sichelweg 40
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bottmingen
+Registrant State/Province:
+Registrant Postal Code:4103
+Registrant Country:CH
+Registrant Phone:+41.614011433
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:deerlab@baritel.com.ar
+Admin ID:P-3920259
+Admin Name:David Burkardt
+Admin Organization:cyon GmbH
+Admin Street1:Gerbergasse 14
+Admin Street2:
+Admin Street3:
+Admin City:Basel
+Admin State/Province:BS
+Admin Postal Code:4001
+Admin Country:CH
+Admin Phone:+41.612719974
+Admin Phone Ext.:
+Admin FAX:+41.612719975
+Admin FAX Ext.:
+Admin Email:info@cyon.ch
+Tech ID:P-3920259
+Tech Name:David Burkardt
+Tech Organization:cyon GmbH
+Tech Street1:Gerbergasse 14
+Tech Street2:
+Tech Street3:
+Tech City:Basel
+Tech State/Province:BS
+Tech Postal Code:4001
+Tech Country:CH
+Tech Phone:+41.612719974
+Tech Phone Ext.:
+Tech FAX:+41.612719975
+Tech FAX Ext.:
+Tech Email:info@cyon.ch
+Name Server:NS1.CYON.CH
+Name Server:NS2.CYON.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
