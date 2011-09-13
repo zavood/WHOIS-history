@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17019501-LROR
+Domain Name:DIYSUBWOOFERS.ORG
+Created On:09-Jan-2000 22:55:38 UTC
+Last Updated On:07-Dec-2008 14:17:15 UTC
+Expiration Date:09-Jan-2014 22:55:38 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17216879-NSI
+Registrant Name:Brian Steele
+Registrant Street1:c/o LIME
+Registrant Street2:P.O.Box 119
+Registrant Street3:
+Registrant City:St. George's
+Registrant State/Province:St. George
+Registrant Postal Code:000
+Registrant Country:GD
+Registrant Phone:+1.4734407000
+Registrant Phone Ext.:
+Registrant FAX:+1.4734400025
+Registrant FAX Ext.:
+Registrant Email:brian@SPICEISLE.COM
+Admin ID:17216879-NSI
+Admin Name:Brian Steele
+Admin Street1:c/o LIME
+Admin Street2:P.O.Box 119
+Admin Street3:
+Admin City:St. George's
+Admin State/Province:St. George
+Admin Postal Code:000
+Admin Country:GD
+Admin Phone:+1.4734407000
+Admin Phone Ext.:
+Admin FAX:+1.4734400025
+Admin FAX Ext.:
+Admin Email:brian@SPICEISLE.COM
+Tech ID:17216879-NSI
+Tech Name:Brian Steele
+Tech Street1:c/o LIME
+Tech Street2:P.O.Box 119
+Tech Street3:
+Tech City:St. George's
+Tech State/Province:St. George
+Tech Postal Code:000
+Tech Country:GD
+Tech Phone:+1.4734407000
+Tech Phone Ext.:
+Tech FAX:+1.4734400025
+Tech FAX Ext.:
+Tech Email:brian@SPICEISLE.COM
+Name Server:DNS2.SPICEISLE.COM
+Name Server:DNS1.SPICEISLE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

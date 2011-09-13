@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:25:27 (BRT -03:00)
+
+domain:      dicadistribuidora.com.br
+owner:       Distribuidora Castro Alves de Publica&ccedil;&otilde;es LTDA
+ownerid:     013.265.129/0001-73
+responsible: Marcos Barboza Gomez
+country:     BR
+owner-c:     MABGO21
+admin-c:     MABGO21
+tech-c:      MABGO21
+billing-c:   MABGO21
+nserver:     dns23.hoteldaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     dns24.hoteldaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20080331 #4357023
+expires:     20130331
+changed:     20100406
+status:      published
+
+nic-hdl-br:  MABGO21
+person:      Marcos B. Gomez
+e-mail:      marcos.dica@terra.com.br
+created:     20080903
+changed:     20080903
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

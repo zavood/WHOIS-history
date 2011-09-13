@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOLARWORKSCA.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: A.AUTH-NS.SONIC.NET
-   Name Server: B.AUTH-NS.SONIC.NET
-   Name Server: C.AUTH-NS.SONIC.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-oct-2006
-   Creation Date: 18-jul-2002
-   Expiration Date: 18-jul-2013
+   Domain Name: EAZYPOWER.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.ADGRAFIX.COM
+   Name Server: NS2.ADGRAFIX.COM
+   Status: ok
+   Updated Date: 19-may-2011
+   Creation Date: 23-dec-1996
+   Expiration Date: 22-dec-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:25:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:25:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+eazypower.com
+
+Registrant:
+         IRA KOZAK  (j75n6axz5cv@privateregistration.srsplus.com)
+        EAZYPOWER CORPORATION
+	ATTN: eazypower.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
+
+Domain Name: eazypower.com
+
+
+
+Administrative, Billing Contact:
+         IRA KOZAK  (j75n6axz5cv@privateregistration.srsplus.com)
+        EAZYPOWER CORPORATION
+	ATTN: eazypower.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
+
+Technical Contact:
+         allegiance Hostmaster  (j75n6axz5cv@privateregistration.srsplus.com)
+        allegiance internet
+	ATTN: eazypower.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
+
+
+
+   Record created on Dec 23 1996.
+   Record expires on Dec 22 2016.
+Domain servers:
+        ns1.adgrafix.com
+        ns2.adgrafix.com
+
+
+
+Domain Service Provider:
+   Combined Products 1
+   3125434779
+   irakozak1@aol.com
+
+

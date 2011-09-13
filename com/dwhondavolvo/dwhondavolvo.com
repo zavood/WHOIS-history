@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RAISEUSFORCE.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.RAISEUSFORCE.NET
-   Name Server: NS2.RAISEUSFORCE.NET
+   Domain Name: DWHONDAVOLVO.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.IZMOCARS.NET
+   Name Server: NS2.IZMOCARS.NET
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-mar-2011
-   Creation Date: 02-mar-2011
-   Expiration Date: 02-mar-2012
+   Updated Date: 05-may-2011
+   Creation Date: 06-jun-1996
+   Expiration Date: 05-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:25:02 UTC &lt;&lt;&lt;
 
@@ -53,82 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Moniker Whois Server Version 2.0
-
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam),
-telephone, or facsimile; or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
-
-The compilation, repackaging, dissemination or
-other use of this Data is expressly
-prohibited without the prior written consent
-of Moniker.
-
-Domain Name: RAISEUSFORCE.NET
-Registrar: MONIKER
-
-Registrant [3192897]:
-        roxy santos finmac77@yahoo.com
-        11613 carnation
-        buena park
-        CA
-        90250
-        US
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
-Administrative Contact [3192897]:
-        roxy santos finmac77@yahoo.com
-        11613 carnation
-        buena park
-        CA
-        90250
-        US
-        Phone: +1.4081171034
+Registrant:
+   Domains by Proxy, Inc.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: DWHONDAVOLVO.COM
+
+   Domain servers in listed order:
+      NS1.IZMOCARS.NET
+      NS2.IZMOCARS.NET
 
 
-Billing Contact [3192897]:
-        roxy santos finmac77@yahoo.com
-        11613 carnation
-        buena park
-        CA
-        90250
-        US
-        Phone: +1.4081171034
-
-
-Technical Contact [3192897]:
-        roxy santos finmac77@yahoo.com
-        11613 carnation
-        buena park
-        CA
-        90250
-        US
-        Phone: +1.4081171034
-
-
-Domain servers in listed order:
-
-        NS1.RAISEUSFORCE.NET         209.160.21.232
-        NS2.RAISEUSFORCE.NET         209.160.67.56
-
-        Record created on:        2011-03-02 01:31:05.0
-        Database last updated on: 2011-03-02 01:37:05.72
-        Domain Expires on:        2012-03-02 01:31:05.0
-
-
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DWHONDAVOLVO.COM
