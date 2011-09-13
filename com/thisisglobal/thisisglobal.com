@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: THISISGLOBAL.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS0.AS39202.NET
+   Name Server: NS1.AS39202.NET
+   Name Server: NS2.AS39202.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 06-dec-2010
+   Creation Date: 14-jun-2007
+   Expiration Date: 14-jun-2019
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +52,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+thisisglobal.com
+
+Registrant:
+         Domain Manager  (domains@thisisglobal.com)
+        Global Radio Limited
+        30 Leicester Square
+        London,  WC2H 7LA
+        UK
+        01179843248
+
+
+Domain Name: thisisglobal.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Domain Manager  (domains@gcapmedia.com)
+        GCAP Media Services Ltd
+        30 Leicester Square
+        London,  WC2H 7LA
+        UK
+        01179843248
+
+
+
+
+
+   Record created on Jun 14 2007.
+   Record expires on Jun 14 2019.
+Domain servers:
+        ns0.as39202.net
+        ns1.as39202.net
+        ns2.as39202.co.uk
+
+
+
+Domain Service Provider:
+   AS39202.net
+
+

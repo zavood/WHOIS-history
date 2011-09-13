@@ -5,16 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: STARSONSTUFF.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.LIVEDNS.CO.UK
+   Name Server: NS2.LIVEDNS.CO.UK
+   Name Server: NS3.LIVEDNS.CO.UK
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-aug-2011
+   Creation Date: 03-dec-2010
+   Expiration Date: 03-dec-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

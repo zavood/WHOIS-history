@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: RECURSOSGRATIS.COM
+   Registrar: SOLUCIONES CORPORATIVAS IP,SLU
+   Whois Server: whois.scip.es
+   Referral URL: http://www.scip.es
+   Name Server: NS10.COLORVIVO.NET
+   Name Server: NS20.COLORVIVO.NET
+   Status: ok
+   Updated Date: 20-jan-2011
+   Creation Date: 13-feb-1999
+   Expiration Date: 13-feb-2018
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Soluciones Corporativas IP (SCIP) Whois Server v 2.0
+
+Domain Name:
+	RECURSOSGRATIS.COM
+
+Domain Status:
+	Active
+
+	Registrar of Record:	DonDominio (SCIP)
+	Registrar URL: 		www.dondominio.com
+
+	Record last updated:	20/01/2011
+	Record created:		13/02/1999
+	Record expires:		13/02/2018
+
+Registrant:
+	Name:			Jaime Carrero Fern&Atilde;&iexcl;ndez-Baillo
+	Organization:		Color Vivo Internet
+	Email:			dominios@colorvivo.com
+	Address:		Caldereros, 5 (Apdo. 64)
+	City:			Herencia
+	State:			Ciudad Real
+	Postal Code:		13640
+	Country:		ES
+	Phone:			+34.902026585
+	Fax:
+
+Admin Contact:
+	Name:			Jaime Carrero Fern&Atilde;&iexcl;ndez-Baillo
+	Organization:		Color Vivo Internet
+	Email:			dominios@colorvivo.com
+	Address:		Caldereros, 5 (Apdo. 64)
+	City:			Herencia
+	State:			Ciudad Real
+	Postal Code:		13640
+	Country:		ES
+	Phone:			+34.902026585
+	Fax:
+
+Tech Contact:
+	Name:			Jaime Carrero Fern&Atilde;&iexcl;ndez-Baillo
+	Organization:		Color Vivo Internet
+	Email:			dominios@colorvivo.com
+	Address:		Caldereros, 5 (Apdo. 64)
+	City:			Herencia
+	State:			Ciudad Real
+	Postal Code:		13640
+	Country:		ES
+	Phone:			+34.902026585
+	Fax:
+
+Nameservers list:
+	ns10.colorvivo.net
+	ns20.colorvivo.net
+
+
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+

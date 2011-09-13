@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: TECHNOPOLICY.NET
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.SOKO.NL
+   Name Server: NS2.SOKO.NL
+   Name Server: NS3.SOKO.NL
+   Status: ok
+   Updated Date: 27-jun-2011
+   Creation Date: 29-sep-2003
+   Expiration Date: 29-sep-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+; This data is provided by Soko BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Soko BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: TECHNOPOLICY.NET
+
+RSP: Soko BV
+URL: -
+
+owner-contact: P-JIR1429
+owner-organization: Science Alliance B.V.
+owner-fname: Jan Willem
+owner-lname: Roks
+owner-street: Oosterdijk 42
+owner-city: Dirkshorn
+owner-zip: 1746CH
+owner-country: NL
+owner-phone: +31 224553335
+owner-email: regadmin@soko.nl
+
+admin-contact: P-JON471
+admin-organization: Soko ISP BV
+admin-fname: Jan
+admin-lname: Nieuwenhuizen
+admin-street: Oosterdijk 42
+admin-city: Dirkshorn
+admin-zip: 1746 CH
+admin-country: NL
+admin-phone: +31 224 553335
+admin-email: regadmin@soko.nl
+
+tech-contact: P-JON471
+tech-organization: Soko ISP BV
+tech-fname: Jan
+tech-lname: Nieuwenhuizen
+tech-street: Oosterdijk 42
+tech-city: Dirkshorn
+tech-zip: 1746 CH
+tech-country: NL
+tech-phone: +31 224 553335
+tech-email: regadmin@soko.nl
+
+billing-contact: P-RAF548
+billing-organization: Soko BV
+billing-fname: Richard
+billing-lname: Frank
+billing-street: Oosterdijk 42
+billing-city: Dirkshorn
+billing-zip: 1746 CH
+billing-country: NL
+billing-phone: +31 224 553335
+billing-email: regadmin@soko.nl
+
+nameserver: ns1.soko.nl
+nameserver: ns2.soko.nl
+nameserver: ns3.soko.nl
+

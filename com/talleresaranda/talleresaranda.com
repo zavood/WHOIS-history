@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: TALLERESARANDA.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS15.RZONE.DE
+   Name Server: SHADES12.RZONE.DE
+   Status: ok
+   Updated Date: 11-jan-2011
+   Creation Date: 11-jan-2011
+   Expiration Date: 11-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Carlos Aranda Bajo
+
+   Santa Rosalia 47-49
+   Barcelona, 08035, ES
+
+   Punycode Name:  talleresaranda.com
+   Unicode Name:   talleresaranda.com
+
+   Admin Contact
+      Carlos Aranda Bajo
+
+      carlos.aranda@red.renault.es
+      Santa Rosalia 47-49
+      Barcelona, 08035, ES
+      phone: +34 934073800
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-01-11 19:35:26
+
+   Domain servers in listed order:
+
+      docks15.rzone.de
+      shades12.rzone.de
+
+
+

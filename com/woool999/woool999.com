@@ -5,16 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
+   Domain Name: WOOOL999.COM
+   Registrar: ENETICA PTY LTD
+   Whois Server: whois.enetica.com.au
+   Referral URL: http://www.enetica.com.au
+   Name Server: NS1.DNSPOD.NET
+   Name Server: NS2.DNSPOD.NET
+   Status: clientDeleteProhibited
+   Status: clientHold
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 10-sep-2011
+   Creation Date: 09-sep-2008
+   Expiration Date: 09-sep-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:41:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:42:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +54,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant Details:
+  woool999.com
+  YangPu
+  Shanghai, Shanghai 000000
+  AU
+
+  Domain Name: WOOOL999.COM
+
+  Administrative Contact:
+    Bian, Hu  info@woool999.com
+    YangPu
+    Shanghai, Shanghai 000000
+    AU
+    +61.0085202134064888
+
+  Technical Contact:
+    Bian, Hu  info@woool999.com
+    YangPu
+    Shanghai, Shanghai 000000
+    AU
+    +61.0085202134064888
+
+  Name Server:  NS1.DNSPOD.NET
+  Name Server:  NS2.DNSPOD.NET
+
+  Registrar of Record: Enetica Pty Ltd
+  Record last updated on 2011-09-11
+  Record created on 2008-09-10
+  Record expires on 2011-09-10
+
+The information contained in this WHOIS database is provided by Enetica
+for information purposes only.  Enetica makes this information available
+on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
+accuracy.  In particular, please note that the WHOIS database is a
+contact database only - and lack of a whois record does not necessarily
+mean that the domain is available for registration.
+
+By submitting a WHOIS query, you agree to abide by our terms of use,
+and that you will use this data only for lawful purposes.  Our full
+terms and conditions can be accessed via the Enetica website at:
+http://www.enetica.com.au/whois/usage.html
+
