@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       logica.ee
+registrant:   CID:DOMAININFO:DI-35-HXF-1
+admin-c:      CID:DOMAININFO:LOCALADMIN2
+nsset:        NSSID:DOMAININFO:NS.WM.NETNS1.WM.NETNS2.WM.NET
+registrar:    domaininfo
+status:       paid and in zone
+registered:   04.07.2010 04:49:05
+changed:      22.11.2010 12:26:40
+expire:       25.10.2012
+
+contact:      CID:DOMAININFO:DI-35-HXF-1
+name:         Logica AS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    domaininfo
+created:      25.10.2010 14:57:13
+
+contact:      CID:DOMAININFO:LOCALADMIN2
+name:         Raivo Koitel
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    domaininfo
+created:      09.07.2010 21:55:38
+
+nsset:        NSSID:DOMAININFO:NS.WM.NETNS1.WM.NETNS2.WM.NET
+nserver:      ns.wm.net (85.119.128.52)
+nserver:      ns1.wm.net (85.119.128.60)
+nserver:      ns2.wm.net (85.119.128.68)
+tech-c:       CID:DOMAININFO:DI-218-MAS-1
+registrar:    domaininfo
+created:      19.11.2010 18:41:10
+
+contact:      CID:DOMAININFO:DI-218-MAS-1
+name:         Bj&Atilde;&para;rn Leissner
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    domaininfo
+created:      25.10.2010 14:57:13
+
+

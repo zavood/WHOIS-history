@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DPN10D-NORID
+Domain Name................: dpnett.no
+Domain Holder Handle.......: SSA782O-NORID
+Registrar Handle...........: REG553-NORID
+Legal-c Handle.............: HCS131P-NORID
+Tech-c Handle..............: HO16R-NORID
+Name Server Handle.........: NSON26H-NORID
+Name Server Handle.........: NSON29H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: SSA782O-NORID
+Type.......................: organization
+Name.......................: SPN SERVICES AS
+Id Type....................: organization_number
+Id Number..................: 976657721
+Registrar Handle...........: REG553-NORID
+Post Address...............: Postboks 289
+Postal Code................: NO-3201
+Postal Area................: Sandefjord
+Country....................: NO
+Phone Number...............: +47.33428500
+Fax Number.................: +47.33428501
+Email Address..............: solhaug@spn.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

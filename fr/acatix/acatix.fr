@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; acatix.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      acatix.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A7396-FRNIC
+admin-c:     MR223-FRNIC
+tech-c:      AS202-FRNIC
+tech-c:      PS1317-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL46818-FRNIC
+registrar:   ACATIX
+anniversary: 16/10
+created:     16/10/2002
+last-update: 08/03/2011
+source:      FRNIC
+
+ns-list:     NSL46818-FRNIC
+nserver:     ns1.afsw.net
+nserver:     ns2.afsw.net
+source:      FRNIC
+
+registrar:   ACATIX
+type:        Isp Option 2
+anonymous:   YES
+registered:  15/01/2002
+source:      FRNIC
+
+nic-hdl:     MR223-FRNIC
+type:        PERSON
+contact:     Maria Rodrigues
+address:     acatix
+address:     B.P. 21
+address:     23220 Bonnat
+country:     FR
+phone:       +33 5 55 80 54 98
+fax-no:      +33 5 55 80 54 99
+e-mail:      compta@acatix.com
+notify:      domaines@acatix.com
+changed:     17/05/2004 compta@acatix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AS202-FRNIC
+type:        ROLE
+contact:     acatix sarl
+address:     acatix
+address:     B.P. 21
+address:     23220 Bonnat
+country:     FR
+phone:       +33 5 55 80 54 98
+e-mail:      domaines@acatix.com
+admin-c:     MR223-FRNIC
+tech-c:      PS1317-FRNIC
+changed:     26/09/2006 domaines@acatix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A7396-FRNIC
+type:        ORGANIZATION
+contact:     ACATIX
+address:     Boite Postale 21
+address:     23220 Bonnat
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PS1317-FRNIC
+type:        PERSON
+contact:     Patrick Silva
+address:     acatix
+address:     B.P. 21
+address:     23220 Bonnat
+country:     FR
+phone:       +33 5 55 80 54 98
+changed:     19/02/2002 domaines@acatix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
