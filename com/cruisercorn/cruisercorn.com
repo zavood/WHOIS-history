@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACCOUNTONLINE.COM
+   Domain Name: CRUISERCORN.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
-   Name Server: NS1.NSROOT1.COM
-   Name Server: NS2.NSROOT2.COM
+   Name Server: DNS1.CSCDNS.NET
+   Name Server: DNS2.CSCDNS.NET
    Status: clientTransferProhibited
-   Updated Date: 23-jan-2011
-   Creation Date: 28-jan-1998
-   Expiration Date: 27-jan-2012
+   Updated Date: 17-jun-2010
+   Creation Date: 21-jun-2002
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:28:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:28:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,45 +59,45 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      CitiBank, N.A.
-      Domain Administration
-      Sort 1710
-      New York, NY 10043
-      US
-      Email: domain.admin@citi.com
+      Syngenta Participations AG
+      Intellectual Property Domain Name Management
+      Schwarzwaldallee 215 .
+      Basel, . CH-4058
+      CH
+      Email: syngenta.dns_admin@syngenta.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: accountonline.com
+   Domain Name: cruisercorn.com
 
-      Created on..............: Wed, Jan 28, 1998
-      Expires on..............: Fri, Jan 27, 2012
-      Record last updated on..: Sun, Jan 23, 2011
+      Created on..............: Fri, Jun 21, 2002
+      Expires on..............: Thu, Jun 21, 2012
+      Record last updated on..: Thu, Jun 17, 2010
 
    Administrative Contact:
-      CitiBank, N.A.
-      Domain Administration
-      Sort 1710
-      New York, NY 10043
-      US
-      Phone: +1.7182480307
-      Email: domain.admin@citi.com
+      Syngenta Participations AG
+      Intellectual Property Domain Name Management
+      Schwarzwaldallee 215 .
+      Basel, . CH-4058
+      CH
+      Phone: 041-613-239243
+      Email: syngenta.dns_admin@syngenta.com
 
    Technical Contact:
-      CitiBank, N.A.
-      Technical Admin
-      111 Sylvan Avenue
-      Englewood Cliffs, NJ 07456
+      Register.Com
+      Domain Registrar
+      575 8th Avenue .
+      New York, NY 10018
       US
-      Phone: +1.8009342484
-      Email: dns@citicorp.com
+      Phone: 001-212-7989200
+      Email: domain-registrar@register.com
 
    DNS Servers:
 
-   ns2.nsroot2.com
-   ns1.nsroot1.com
+   dns1.cscdns.net
+   dns2.cscdns.net
 
 
 Register your domain name at http://www.cscglobal.com

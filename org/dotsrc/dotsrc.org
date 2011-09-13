@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96730065-LROR
+Domain Name:DOTSRC.ORG
+Created On:15-Apr-2003 08:11:41 UTC
+Last Updated On:29-Jul-2011 11:14:03 UTC
+Expiration Date:15-Apr-2012 08:11:41 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:ASCIO2621787-001
+Registrant Name:Jensen, Steen
+Registrant Organization:Netic A/S
+Registrant Street1:Niels Jernes Vej 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aalborg
+Registrant State/Province:
+Registrant Postal Code:DK-9220
+Registrant Country:DK
+Registrant Phone:+45.99999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@netic.dk
+Admin ID:ASCIO2621791-001
+Admin Name:Hostmaster Hostmaster
+Admin Organization:Netic A/S
+Admin Street1:Niels Jernes Vej 10
+Admin Street2:
+Admin Street3:
+Admin City:Aalborg East
+Admin State/Province:
+Admin Postal Code:DK-9220
+Admin Country:DK
+Admin Phone:+45.96354595
+Admin Phone Ext.:
+Admin FAX:+45.96354596
+Admin FAX Ext.:
+Admin Email:hostmaster@netic.dk
+Tech ID:AT11756059-053
+Tech Name:Ole Benner
+Tech Organization:Netic A/S
+Tech Street1:Niels Jernes Vej 10
+Tech Street2:
+Tech Street3:
+Tech City:Aalborg East
+Tech State/Province:
+Tech Postal Code:DK-9220
+Tech Country:DK
+Tech Phone:+45.96354595
+Tech Phone Ext.:
+Tech FAX:+45.96354596
+Tech FAX Ext.:
+Tech Email:hostmaster@netic.dk
+Name Server:NS1.QUICKDNS.DK
+Name Server:NS2.QUICKDNS.DK
+Name Server:NS3.QUICKDNS.DK
+Name Server:NS4.QUICKDNS.DK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

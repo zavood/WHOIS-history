@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92268115-LROR
+Domain Name:THEHAUGLANDS.ORG
+Created On:16-Nov-2002 03:12:16 UTC
+Last Updated On:08-Jan-2011 06:18:49 UTC
+Expiration Date:16-Nov-2012 03:12:16 UTC
+Sponsoring Registrar:Hostopia.com Inc. d/b/a Aplus.net (R14-LROR)
+Status:OK
+Registrant ID:vtcvq3ej2pfvaoah
+Registrant Name:Todd Haugland
+Registrant Organization:tHc
+Registrant Street1:8104 Bentwood Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27615
+Registrant Country:US
+Registrant Phone:+1.9198891533
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:thaugland1@nc.rr.com
+Admin ID:5ucelbgfj8bjc2jj
+Admin Name:Todd Haugland
+Admin Organization:tHc
+Admin Street1:8104 Bentwood Place
+Admin Street2:
+Admin Street3:
+Admin City:Raleigh
+Admin State/Province:NC
+Admin Postal Code:27615
+Admin Country:US
+Admin Phone:+1.9198891533
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:thaugland1@nc.rr.com
+Tech ID:sr1anbt02smcladv
+Tech Name:Todd Haugland
+Tech Organization:tHc
+Tech Street1:8104 Bentwood Place
+Tech Street2:
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:NC
+Tech Postal Code:27615
+Tech Country:US
+Tech Phone:+1.9198891533
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:thaugland1@nc.rr.com
+Name Server:NS2.DNSEXIT.COM
+Name Server:NS1.DNSEXIT.COM
+Name Server:NS3.DNSEXIT.COM
+Name Server:NS4.DNSEXIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

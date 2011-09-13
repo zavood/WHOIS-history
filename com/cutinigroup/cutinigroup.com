@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MID-DAY.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS41.DOMAINCONTROL.COM
-   Name Server: NS42.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-feb-2009
-   Creation Date: 28-oct-1997
-   Expiration Date: 27-oct-2011
+   Domain Name: CUTINIGROUP.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
+   Status: ok
+   Updated Date: 20-jan-2011
+   Creation Date: 19-jan-2004
+   Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:28:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:29:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: CUTINIGROUP.COM
+     Created on: 2004-01-19
+     Updated on: 2011-02-13
+     Expires on: 2012-01-19
+     Registrant Name: CUTINI GROUP SRL
+     Contact: CUTINI GROUP SRL
+     Registrant Address: via casale sansoni n 28
+     Registrant City: roma
+     Registrant Postal Code: 00135
+     Registrant Country: IT
+     Administrative Contact Organization: Paride Cutini
+     Administrative Contact Name: Paride Cutini
+     Administrative Contact Address: via casale sansoni  28
+     Administrative Contact City: roma
+     Administrative Contact Postal Code: 00135
+     Administrative Contact Country: IT
+     Administrative Contact Email: cutinigroup@tiscali.it
+     Administrative Contact Tel: +39 06 30818939
+     Administrative Contact Fax: +39 06 30818939
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
-Registrant:
-   Mid-Day InfoMedia Ltd.
+&gt;&gt;&gt; Last update of whois database: Tue Sep 13 22:03:45 2011 &lt;&lt;&lt;
 
-   Registered through: Domains Priced Right
-   Domain Name: MID-DAY.COM
-
-   Domain servers in listed order:
-      NS41.DOMAINCONTROL.COM
-      NS42.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=MID-DAY.COM&amp;prog_id=domainspricedright
