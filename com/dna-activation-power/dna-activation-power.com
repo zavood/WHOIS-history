@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-nov-2008
    Expiration Date: 28-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Tom Conze
-   82 Babay Lopez
-   Binmaley, Armed Forces America 2417
-   Philippines
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DNA-ACTIVATION-POWER.COM
-      Created on: 28-Nov-08
-      Expires on: 28-Nov-12
-      Last Updated on: 28-Aug-11
-
-   Administrative Contact:
-      Conze, Tom  tconze@yahoo.com
-      82 Babay Lopez
-      Binmaley, Armed Forces America 2417
-      Philippines
-      (602) 543-3545      Fax --
-
-   Technical Contact:
-      Conze, Tom  tconze@yahoo.com
-      82 Babay Lopez
-      Binmaley, Armed Forces America 2417
-      Philippines
-      (602) 543-3545      Fax --
 
    Domain servers in listed order:
       NS41.DOMAINCONTROL.COM
       NS42.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DNA-ACTIVATION-POWER.COM

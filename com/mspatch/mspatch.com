@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 24-feb-2003
    Expiration Date: 24-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,29 +79,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Shannon Turner
-   135 Richards Drive
-   Oliver Springs, Tennessee 37840
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MSPATCH.COM
-      Created on: 24-Feb-03
-      Expires on: 24-Feb-13
-      Last Updated on: 29-Aug-11
-
-   Administrative Contact:
-      Turner, Shannon  lnxrulez@gmail.com
-      135 Richards Drive
-      Oliver Springs, Tennessee 37840
-      United States
-      +1.8654350455      Fax --
-
-   Technical Contact:
-      Turner, Shannon  lnxrulez@gmail.com
-      135 Richards Drive
-      Oliver Springs, Tennessee 37840
-      United States
-      +1.8654350455      Fax --
 
    Domain servers in listed order:
       NS1.AFRAID.ORG
@@ -109,3 +89,6 @@ Registrant:
       NS3.AFRAID.ORG
       NS4.AFRAID.ORG
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MSPATCH.COM

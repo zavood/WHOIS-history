@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-feb-2003
    Expiration Date: 11-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -111,7 +111,7 @@ Critical Systems, Inc.
 
    Record expires on 11-Feb-2014.
    Record created on 11-Feb-2003.
-   Database last updated on 9-Sep-2011 19:25:18 EDT.
+   Database last updated on 13-Sep-2011 01:24:10 EDT.
 
    Domain servers in listed order:
 

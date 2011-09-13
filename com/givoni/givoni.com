@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 23-apr-2001
    Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,34 +78,15 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    David Givoni
-   Rosellon 361, pr - 3
-   Barcelona, Barcelona 08025
-   Spain
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: GIVONI.COM
-      Created on: 23-Apr-01
-      Expires on: 23-Apr-12
-      Last Updated on: 04-Apr-11
-
-   Administrative Contact:
-      Givoni, David  david@givoni.dk
-      Givoni
-      Calle Servet 43, 1 - 1
-      Barcelona, Barcelona 08030
-      Spain
-      665643051      Fax --
-
-   Technical Contact:
-      Givoni, David  david@givoni.dk
-      Givoni
-      Calle Servet 43, 1 - 1
-      Barcelona, Barcelona 08030
-      Spain
-      665643051      Fax --
 
    Domain servers in listed order:
       NS1.SURF-TOWN.NET
       NS2.SURF-TOWN.NET
       NS3.SURF-TOWN.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GIVONI.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 15-sep-2009
    Expiration Date: 15-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    YBK Publishers, Inc
-   YBK Publishers, Inc.
-   39 Crosby St.
-   New York, New York 10013
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CHEFZUBIN.COM
-      Created on: 15-Sep-09
-      Expires on: 15-Sep-11
-      Last Updated on: 17-Jun-10
-
-   Administrative Contact:
-      Barz, Otto  obarz@ybkpublishers.com
-      YBK Publishers, Inc
-      YBK Publishers, Inc.
-      39 Crosby St.
-      New York, New York 10013
-      United States
-      (212) 219-0135      Fax --
-
-   Technical Contact:
-      Barz, Otto  obarz@ybkpublishers.com
-      YBK Publishers, Inc
-      YBK Publishers, Inc.
-      39 Crosby St.
-      New York, New York 10013
-      United States
-      (212) 219-0135      Fax --
 
    Domain servers in listed order:
       YNS1.YAHOO.COM
       YNS2.YAHOO.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CHEFZUBIN.COM

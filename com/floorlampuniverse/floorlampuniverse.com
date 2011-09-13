@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-apr-2008
    Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    LightingUniverse.com
-   11730 118th Ave NE, Ste 100
-   Kirkland, Washington 98034
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FLOORLAMPUNIVERSE.COM
-      Created on: 18-Apr-08
-      Expires on: 18-Apr-12
-      Last Updated on: 04-Apr-11
-
-   Administrative Contact:
-      Halbach, Brad  bhalbach@lightinguniverse.com
-      LightingUniverse.com
-      11730 118th Ave NE, Ste 100
-      Kirkland, Washington 98034
-      United States
-      (425) 814-2515      Fax --
-
-   Technical Contact:
-      Halbach, Brad  bhalbach@lightinguniverse.com
-      LightingUniverse.com
-      11730 118th Ave NE, Ste 100
-      Kirkland, Washington 98034
-      United States
-      (425) 814-2515      Fax --
 
    Domain servers in listed order:
       NS1.ATGSTORES.COM
       NS2.ATGSTORES.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FLOORLAMPUNIVERSE.COM

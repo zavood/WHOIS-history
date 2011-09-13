@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-feb-2008
    Expiration Date: 19-feb-2017
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Maui Media LLC
-   1215 S. Kihei Road, Suite O-155
-   Kihei, Hawaii 96753
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DOGCANCERBLOG.COM
-      Created on: 19-Feb-08
-      Expires on: 19-Feb-17
-      Last Updated on: 23-Jun-11
-
-   Administrative Contact:
-      Jacobson, James  webmaster@mauimedia.com
-      Maui Media LLC
-      1215 S. Kihei Road, Suite O-155
-      Kihei, Hawaii 96753
-      United States
-      +1.8083444800      Fax -- +1.8084427298
-
-   Technical Contact:
-      Jacobson, James  webmaster@mauimedia.com
-      Maui Media LLC
-      1215 S. Kihei Road, Suite O-155
-      Kihei, Hawaii 96753
-      United States
-      +1.8083444800      Fax -- +1.8084427298
 
    Domain servers in listed order:
       DNS1.STABLETRANSIT.COM
       DNS2.STABLETRANSIT.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DOGCANCERBLOG.COM

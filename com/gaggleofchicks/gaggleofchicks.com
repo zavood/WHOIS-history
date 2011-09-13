@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 08-apr-2010
    Expiration Date: 08-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,34 +81,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Aldrich Seven, LLC
-   680 Fifth Avenue
-   8th Flr
-   New York, New York 10019
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: GAGGLEOFCHICKS.COM
-      Created on: 08-Apr-10
-      Expires on: 08-Apr-12
-      Last Updated on: 17-Mar-11
-
-   Administrative Contact:
-      Evans, M  mrevans100@yahoo.com
-      Aldrich Seven, LLC
-      680 Fifth Avenue
-      8th Flr
-      New York, New York 10019
-      United States
-      +1.2129315358      Fax --
-
-   Technical Contact:
-      Evans, M  mrevans100@yahoo.com
-      Aldrich Seven, LLC
-      680 Fifth Avenue
-      8th Flr
-      New York, New York 10019
-      United States
-      +1.2129315358      Fax --
 
    Domain servers in listed order:
       NS10.DNSMADEEASY.COM
@@ -118,3 +93,6 @@ Registrant:
       NS14.DNSMADEEASY.COM
       NS15.DNSMADEEASY.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GAGGLEOFCHICKS.COM

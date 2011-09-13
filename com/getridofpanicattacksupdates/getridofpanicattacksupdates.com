@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 14-may-2010
    Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    MICHAEL PICKERING
-   PO Box 26056
-   San Diego, California 92196
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: GETRIDOFPANICATTACKSUPDATES.COM
-      Created on: 14-May-10
-      Expires on: 14-May-12
-      Last Updated on: 11-May-11
-
-   Administrative Contact:
-      PICKERING, MICHAEL  mgvpick@gmail.com
-      PO Box 26056
-      San Diego, California 92196
-      United States
-      (619) 847-6494      Fax --
-
-   Technical Contact:
-      PICKERING, MICHAEL  mgvpick@gmail.com
-      PO Box 26056
-      San Diego, California 92196
-      United States
-      (619) 847-6494      Fax --
 
    Domain servers in listed order:
       NS1.COOLHANDLE.COM
       NS2.COOLHANDLE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GETRIDOFPANICATTACKSUPDATES.COM

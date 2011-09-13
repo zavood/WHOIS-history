@@ -13,12 +13,12 @@ for detailed information.
    Name Server: NS2.INFINITY-TECH.INFO
    Name Server: NS30.MYNAMESERVERS.US
    Name Server: NS31.MYNAMESERVERS.US
-   Status: ok
-   Updated Date: 10-sep-2010
+   Status: redemptionPeriod
+   Updated Date: 09-sep-2011
    Creation Date: 09-sep-2010
    Expiration Date: 09-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,63 +71,7 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          bingoboardgames.com
-created:                         10-Sep-2010
-last-changed:                    10-Sep-2010
-registration-expiration:         10-Sep-2011
-
-nserver:                         ns30.mynameservers.us
-nserver:                         ns31.mynameservers.us
-nserver:                         ns1.infinity-tech.info
-nserver:                         ns2.infinity-tech.info
-
-status:                          CLIENT-TRANSFER-PROHIBITED
-
-registrant-firstname:            Cornel
-registrant-lastname:             Vaida
-registrant-street1:              Drum Poiana Horea 21
-registrant-pcode:                014654
-registrant-state:                B
-registrant-city:                 Bucuresti
-registrant-ccode:                RO
-registrant-phone:                +40.40755169903
-registrant-email:                corenel@emydomains.com
-
-admin-c-firstname:               Cornel
-admin-c-lastname:                Vaida
-admin-c-street1:                 Drum Poiana Horea 21
-admin-c-pcode:                   014654
-admin-c-state:                   B
-admin-c-city:                    Bucuresti
-admin-c-ccode:                   RO
-admin-c-phone:                   +40.40755169903
-admin-c-email:                   corenel@emydomains.com
-
-tech-c-firstname:                Hostmaster
-tech-c-lastname:                 ONEANDONE
-tech-c-organization:             1&amp;1 Internet Inc.
-tech-c-street1:                  701 Lee Rd.
-tech-c-street2:                  Suite 300
-tech-c-pcode:                    19087
-tech-c-state:                    PA
-tech-c-city:                     Chesterbrook
-tech-c-ccode:                    US
-tech-c-phone:                    +1.8774612631
-tech-c-fax:                      +1.6105601501
-tech-c-email:                    hostmaster@1and1.com
-
-bill-c-firstname:                Hostmaster
-bill-c-lastname:                 ONEANDONE
-bill-c-organization:             1&amp;1 Internet Inc.
-bill-c-street1:                  701 Lee Rd.
-bill-c-street2:                  Suite 300
-bill-c-pcode:                    19087
-bill-c-state:                    PA
-bill-c-city:                     Chesterbrook
-bill-c-ccode:                    US
-bill-c-phone:                    +1.8774612631
-bill-c-fax:                      +1.6105601501
-bill-c-email:                    hostmaster@1and1.com
+Domain bingoboardgames.com is not registered here.
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 

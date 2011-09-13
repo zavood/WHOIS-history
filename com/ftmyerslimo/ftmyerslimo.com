@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-jan-2008
+   Updated Date: 12-sep-2011
    Creation Date: 20-mar-2005
    Expiration Date: 20-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,32 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   SmartWeb International
-   711 Rt 3 East
-   Clifton, New Jersey 07014
-   United States
+   WebSmart Int. INC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FTMYERSLIMO.COM
-      Created on: 20-Mar-05
-      Expires on: 20-Mar-13
-      Last Updated on: 22-Jan-08
-
-   Administrative Contact:
-      International, SmartWeb  gleranian@limowebdesigns.com
-      711 Rt 3 East
-      Clifton, New Jersey 07014
-      United States
-      973-249-1850
-
-   Technical Contact:
-      International, SmartWeb  gleranian@limowebdesigns.com
-      711 Rt 3 East
-      Clifton, New Jersey 07014
-      United States
-      973-249-1850
 
    Domain servers in listed order:
       NS1.SERVDNS.COM
       NS2.SERVDNS.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FTMYERSLIMO.COM

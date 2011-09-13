@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; anact.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      anact.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANPL9-FRNIC
+admin-c:     MM694-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2731-FRNIC
+registrar:   NAMEBAY
+anniversary: 13/10
+created:     15/11/1996
+last-update: 16/10/2009
+source:      FRNIC
+
+ns-list:     NSL2731-FRNIC
+nserver:     dns1.namebay.com
+nserver:     dns2.namebay.com
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     ANPL9-FRNIC
+type:        ORGANIZATION
+contact:     Agence Nationale pour l'Amelioration des Conditions de Travail
+address:     41, quai Fulchiron
+address:     69005 Lyon
+country:     FR
+phone:       +33 4 72 56 13 13
+changed:     10/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MM694-FRNIC
+type:        PERSON
+contact:     Michel Moriaud
+address:     Agence Nationale pour l'Amelioration des conditions de Travail
+address:     4, quai des Etroits
+address:     69231 Lyon
+country:     FR
+phone:       +33 4 72 56 13 13
+fax-no:      +33 4 72 56 13 77
+e-mail:      tma@anact.fr
+changed:     13/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-dec-2005
    Expiration Date: 02-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Sumbodo Malik
-   Jln. Mustika Jaya 2 no. 3 Rawamangun Pul
-   Jakarta Timur, DKI Jakarta 13220
-   Indonesia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: AMBULETTEMUSIC.COM
-      Created on: 02-Dec-05
-      Expires on: 02-Dec-11
-      Last Updated on: 05-Dec-10
-
-   Administrative Contact:
-      Malik, Sumbodo  mbotee@gmail.com
-      Jln. Mustika Jaya 2 no. 3 Rawamangun Pul
-      Jakarta Timur, DKI Jakarta 13220
-      Indonesia
-      +62.622194634949      Fax --
-
-   Technical Contact:
-      Malik, Sumbodo  mbotee@gmail.com
-      Jln. Mustika Jaya 2 no. 3 Rawamangun Pul
-      Jakarta Timur, DKI Jakarta 13220
-      Indonesia
-      +62.622194634949      Fax --
 
    Domain servers in listed order:
       NS1.HOSTMONSTER.COM
       NS2.HOSTMONSTER.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=AMBULETTEMUSIC.COM

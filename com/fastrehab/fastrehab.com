@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-may-2004
    Expiration Date: 27-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Mundt Construction Services
-   2676 Richwood Street
-   Memphis, Tennessee 38134
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FASTREHAB.COM
-      Created on: 27-May-04
-      Expires on: 27-May-12
-      Last Updated on: 07-Sep-11
-
-   Administrative Contact:
-      Mundt, Bret  mundt@bellsouth.net
-      Mundt Construction Services
-      2676 Richwood Street
-      Memphis, Tennessee 38134
-      United States
-      9012131070      Fax --
-
-   Technical Contact:
-      Mundt, Bret  mundt@bellsouth.net
-      Mundt Construction Services
-      2676 Richwood Street
-      Memphis, Tennessee 38134
-      United States
-      9012131070      Fax --
 
    Domain servers in listed order:
       NS1-JIN.WEBSERVERSYSTEMS.COM
       NS2-JIN.WEBSERVERSYSTEMS.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FASTREHAB.COM

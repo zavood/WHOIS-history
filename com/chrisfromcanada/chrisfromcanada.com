@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-jul-2007
    Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,38 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: chrisfromcanada.com
-Registered at http://www.dynadot.com
-
-Registrant:
-Chris Vacher
-123 Main Street
-Orangeville, ON M5W 1E6
-Canada
-
-Administrative Contact:
-Chris Vacher
-123 Main Street
-Orangeville, ON M5W 1E6
-Canada
-chrisvacher@gmail.com
-+1 555 5555
-
-Technical Contact:
-Chris Vacher
-123 Main Street
-Orangeville, ON M5W 1E6
-Canada
-chrisvacher@gmail.com
-+1 555 5555
-
-Record expires on 2012/07/10 UTC
-Record created on 2007/07/10 UTC
-
-Domain servers in listed order:
-fh1.flockhosting.com
-fh2.flockhosting.com
-
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/09 16:31:06 PST &lt;&lt;&lt;
-
+You have exceeded your access quota. Please try again later.

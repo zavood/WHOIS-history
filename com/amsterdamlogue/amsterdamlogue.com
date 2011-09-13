@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 06-dec-2005
    Expiration Date: 06-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    BootsnAll Travel Network
-   1305 SW Claremont Terrace
-   Portland, Oregon 97225
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: AMSTERDAMLOGUE.COM
-      Created on: 06-Dec-05
-      Expires on: 06-Dec-11
-      Last Updated on: 30-Jun-10
-
-   Administrative Contact:
-      Keener, Sean  sean@BootsnAll.com
-      BootsnAll Travel Network
-      1305 SW Claremont Terrace
-      Portland, Oregon 97225
-      United States
-      +1.5035281005      Fax --
-
-   Technical Contact:
-      Keener, Sean  sean@BootsnAll.com
-      BootsnAll Travel Network
-      1305 SW Claremont Terrace
-      Portland, Oregon 97225
-      United States
-      +1.5035281005      Fax --
 
    Domain servers in listed order:
       NS.RACKSPACE.COM
       NS2.RACKSPACE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=AMSTERDAMLOGUE.COM

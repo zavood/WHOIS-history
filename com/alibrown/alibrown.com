@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-oct-1999
    Expiration Date: 29-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Ali International
-   2029 Century Park East
-   Ste. 1400
-   Los Angeles, California 90067
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ALIBROWN.COM
-      Created on: 29-Oct-99
-      Expires on: 29-Oct-11
-      Last Updated on: 30-Oct-10
-
-   Administrative Contact:
-      Blanchard, Megan  megan.blanchard@alibrown.com
-      Ali International
-      2029 Century Park East
-      Ste. 1400
-      Los Angeles, California 90067
-      United States
-      +1.888484555923      Fax -- +1.6266083046
-
-   Technical Contact:
-      Blanchard, Megan  megan.blanchard@alibrown.com
-      Ali International
-      2029 Century Park East
-      Ste. 1400
-      Los Angeles, California 90067
-      United States
-      +1.888484555923      Fax -- +1.6266083046
 
    Domain servers in listed order:
       DNS1.STABLETRANSIT.COM
       DNS2.STABLETRANSIT.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ALIBROWN.COM

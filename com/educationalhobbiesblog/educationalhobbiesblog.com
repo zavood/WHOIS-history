@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-aug-2008
    Expiration Date: 18-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Shari Voigt
-   PO Box 216
-   Neenah, Wisconsin 54957-0216
-   United States
 
    Registered through: Express Domains &amp;amp; Hosting
    Domain Name: EDUCATIONALHOBBIESBLOG.COM
-      Created on: 18-Aug-08
-      Expires on: 18-Aug-12
-      Last Updated on: 19-Aug-11
-
-   Administrative Contact:
-      Voigt, Shari  svoigt@new.rr.com
-      PO Box 216
-      Neenah, Wisconsin 54957-0216
-      United States
-      (920) 257-4944      Fax --
-
-   Technical Contact:
-      Voigt, Shari  svoigt@new.rr.com
-      PO Box 216
-      Neenah, Wisconsin 54957-0216
-      United States
-      (920) 257-4944      Fax --
 
    Domain servers in listed order:
       NS1.AFFORDABLE-BUSINESS-HOSTING.NET
       NS2.AFFORDABLE-BUSINESS-HOSTING.NET
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=EDUCATIONALHOBBIESBLOG.COM&amp;prog_id=429490

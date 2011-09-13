@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-jun-2008
    Expiration Date: 27-jun-2020
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Adrienne Nater
-   6480 Old Balcom Cyn Rd
-   Somis, California 93066
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DEATHDYINGGRIEFANDMOURNING.COM
-      Created on: 27-Jun-08
-      Expires on: 27-Jun-20
-      Last Updated on: 23-Jun-11
-
-   Administrative Contact:
-      Nater, Adrienne  sonniesma@aol.com
-      6480 Old Balcom Cyn Rd
-      Somis, California 93066
-      United States
-      (805) 529-0593      Fax --
-
-   Technical Contact:
-      Nater, Adrienne  sonniesma@aol.com
-      6480 Old Balcom Cyn Rd
-      Somis, California 93066
-      United States
-      (805) 529-0593      Fax --
 
    Domain servers in listed order:
       NS31.DOMAINCONTROL.COM
       NS32.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DEATHDYINGGRIEFANDMOURNING.COM

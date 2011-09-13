@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 30-may-2001
    Expiration Date: 30-may-2018
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    chi huynh
-   548 W. Bonita Ave.
-   San Dimas, California 91764
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DIAMONDINAPEARL.COM
-      Created on: 30-May-01
-      Expires on: 30-May-18
-      Last Updated on: 27-Aug-08
-
-   Administrative Contact:
-      huynh, chi  galateajewelry@yahoo.com
-      548 W. Bonita Ave.
-      San Dimas, California 91764
-      United States
-      +909.5920877
-
-   Technical Contact:
-      Techcontact, YahooDomains  domain.tech@yahoo-inc.com
-      701 First Ave.
-      Sunnyvale, California 94089
-      United States
-      +909.5920877
 
    Domain servers in listed order:
       NS51.DOMAINCONTROL.COM
       NS52.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DIAMONDINAPEARL.COM

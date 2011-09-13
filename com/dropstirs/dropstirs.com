@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-oct-1999
    Expiration Date: 11-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,7 +112,7 @@ Klein Consulting Services
 
    Record expires on 11-Oct-2012.
    Record created on 11-Oct-1999.
-   Database last updated on 9-Sep-2011 19:24:28 EDT.
+   Database last updated on 13-Sep-2011 01:17:57 EDT.
 
    Domain servers in listed order:
 

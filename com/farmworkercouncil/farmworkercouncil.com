@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-may-2009
    Expiration Date: 29-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Farmworker Coordinating Council
-   1313 Central Terrace
-   Lake Worth, Florida 33460
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FARMWORKERCOUNCIL.COM
-      Created on: 29-May-09
-      Expires on: 29-May-13
-      Last Updated on: 24-May-11
-
-   Administrative Contact:
-      Gomez, Jorge  jgomez@farmworkercouncil.org
-      Farmworker Coordinating Council
-      1313 Central Terrace
-      Lake Worth, Florida 33460
-      United States
-      +1.5615337227      Fax -- +1.5615336099
-
-   Technical Contact:
-      Gomez, Jorge  jgomez@farmworkercouncil.org
-      Farmworker Coordinating Council
-      1313 Central Terrace
-      Lake Worth, Florida 33460
-      United States
-      +1.5615337227      Fax -- +1.5615336099
 
    Domain servers in listed order:
       NS03.DOMAINCONTROL.COM
       NS04.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FARMWORKERCOUNCIL.COM

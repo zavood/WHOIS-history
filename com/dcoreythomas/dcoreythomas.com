@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-jun-2008
    Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Daniel Thomas
-   2400 N Arizona Ave
-   1134
-   Chandler, Arizona 85225
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DCOREYTHOMAS.COM
-      Created on: 02-Jun-08
-      Expires on: 02-Jun-12
-      Last Updated on: 03-Jun-11
-
-   Administrative Contact:
-      Thomas, Daniel  alohacorey@gmail.com
-      2400 N Arizona Ave
-      1134
-      Chandler, Arizona 85225
-      United States
-      +1.9378301167      Fax --
-
-   Technical Contact:
-      Thomas, Daniel  alohacorey@gmail.com
-      2400 N Arizona Ave
-      1134
-      Chandler, Arizona 85225
-      United States
-      +1.9378301167      Fax --
 
    Domain servers in listed order:
       NS45.DOMAINCONTROL.COM
       NS46.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DCOREYTHOMAS.COM

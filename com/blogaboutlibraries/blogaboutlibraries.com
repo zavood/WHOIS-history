@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 01-may-2006
    Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Global Risk Guard Ltd
-   311 SHOREHAM STREET
-   SHEFFIELD,  S2 4FA
-   United Kingdom
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BLOGABOUTLIBRARIES.COM
-      Created on: 01-May-06
-      Expires on: 01-May-12
-      Last Updated on: 18-Jan-11
-
-   Administrative Contact:
-      Carbone, Andrea  privacy.protect@grgo.net
-      Global Risk Guard Ltd
-      311 SHOREHAM STREET
-      SHEFFIELD,  S2 4FA
-      United Kingdom
-      +44.7901195769      Fax --
-
-   Technical Contact:
-      Carbone, Andrea  privacy.protect@grgo.net
-      Global Risk Guard Ltd
-      311 SHOREHAM STREET
-      SHEFFIELD,  S2 4FA
-      United Kingdom
-      +44.7901195769      Fax --
 
    Domain servers in listed order:
       NS1.HOSTMONSTER.COM
       NS2.HOSTMONSTER.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLOGABOUTLIBRARIES.COM

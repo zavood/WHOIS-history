@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-apr-2008
    Expiration Date: 19-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Charleme Salomon
-   5623 186th Pl  S.W #4
-   Lynnwood, WA 98037
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CONNECTREALTYNW.COM
-      Created on: 19-Apr-08
-      Expires on: 19-Apr-12
-      Last Updated on: 02-May-11
-
-   Administrative Contact:
-      Salomon, Charleme  charleme2004@yahoo.com
-      5623 186th Pl  S.W #4
-      Lynnwood, WA 98037
-      United States
-      206-414-0384      Fax --
-
-   Technical Contact:
-      Salomon, Charleme  charleme2004@yahoo.com
-      5623 186th Pl  S.W #4
-      Lynnwood, WA 98037
-      United States
-      206-414-0384      Fax --
 
    Domain servers in listed order:
       NS2399.HOSTGATOR.COM
       NS2400.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CONNECTREALTYNW.COM

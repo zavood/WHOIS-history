@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-nov-2010
    Expiration Date: 02-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    DigitalMarketSite
-   322  4th Street North East
-   Devils Lake, North Dakota 58301
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FREEDOWNLOADSDL.COM
-      Created on: 02-Nov-10
-      Expires on: 02-Nov-12
-      Last Updated on: 02-Nov-10
-
-   Administrative Contact:
-      Rinehardt, Robert  dakota50@live.com
-      DigitalMarketSite
-      322  4th Street North East
-      Devils Lake, North Dakota 58301
-      United States
-      7016627521      Fax --
-
-   Technical Contact:
-      Rinehardt, Robert  dakota50@live.com
-      DigitalMarketSite
-      322  4th Street North East
-      Devils Lake, North Dakota 58301
-      United States
-      7016627521      Fax --
 
    Domain servers in listed order:
       NS2181.HOSTGATOR.COM
       NS2182.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FREEDOWNLOADSDL.COM

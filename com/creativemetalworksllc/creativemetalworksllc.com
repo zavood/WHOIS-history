@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-may-2003
    Expiration Date: 29-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    MQ Enterprises LLC
-   21500 Riverwood Road
-   Dundee, Oregon 97115
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CREATIVEMETALWORKSLLC.COM
-      Created on: 29-May-03
-      Expires on: 29-May-14
-      Last Updated on: 03-Jul-09
-
-   Administrative Contact:
-      Denney, Merrill  merrill@creativemetalworksllc.com
-      MQ Enterprises LLC
-      21500 Riverwood Rd.
-      US postcode 97115
-      Dundee, Oregon 97115
-      United States
-      +1.5032294065      Fax --
-
-   Technical Contact:
-      Denney, Merrill  yeeeeha@effectnet.com
-      MQ Enterprises LLC
-      21500 Riverwood Road
-      Dundee, Oregon 97115
-      United States
-      +1.5032294065      Fax --
 
    Domain servers in listed order:
       NS51.DOMAINCONTROL.COM
       NS52.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CREATIVEMETALWORKSLLC.COM

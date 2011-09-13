@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 17-jun-2008
    Expiration Date: 17-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    AVL Moving Systems
-   2953 Bunker Hill Lane
-   400
-   Santa Clara, California 95054
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: AVLMOVING.COM
-      Created on: 17-Jun-08
-      Expires on: 17-Jun-13
-      Last Updated on: 14-Mar-11
-
-   Administrative Contact:
-      Viswanathan, Suraj  admin@allunitedvanlines.com
-      All United Van Lines, Inc
-      1252 Memorex Dr.
-      Santa Clara, California 95050
-      United States
-      1-888-668 3068      Fax --
-
-   Technical Contact:
-      Viswanathan, Suraj  admin@allunitedvanlines.com
-      All United Van Lines, Inc
-      1252 Memorex Dr.
-      Santa Clara, California 95050
-      United States
-      1-888-668 3068      Fax --
 
    Domain servers in listed order:
       NS1.WEBSITEDESIGNINGCOMPANY.NET
       NS2.WEBSITEDESIGNINGCOMPANY.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=AVLMOVING.COM

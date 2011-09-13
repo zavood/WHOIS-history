@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-jun-1999
    Expiration Date: 18-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,7 +115,7 @@ Discovery Cruise Line
 
    Record expires on 18-Jun-2013.
    Record created on 18-Jun-1999.
-   Database last updated on 9-Sep-2011 19:23:20 EDT.
+   Database last updated on 13-Sep-2011 01:17:57 EDT.
 
    Domain servers in listed order:
 

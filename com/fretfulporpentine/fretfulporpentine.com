@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 11-feb-2005
    Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,29 +79,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Kenneth Smoker
-   217 Long Acre Road
-   Rochester, New York 14621
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FRETFULPORPENTINE.COM
-      Created on: 11-Feb-05
-      Expires on: 11-Feb-12
-      Last Updated on: 30-Jan-07
-
-   Administrative Contact:
-      Smoker, Kenneth  ksmoker@rochester.rr.com
-      217 Long Acre Road
-      Rochester, New York 14621
-      United States
-      (585) 820-4387      Fax --
-
-   Technical Contact:
-      Smoker, Kenneth  ksmoker@rochester.rr.com
-      217 Long Acre Road
-      Rochester, New York 14621
-      United States
-      (585) 820-4387      Fax --
 
    Domain servers in listed order:
       NS1.BASERUNNER.NET
@@ -109,3 +89,6 @@ Registrant:
       NS1.SOFTLAYER.COM
       NS2.SOFTLAYER.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FRETFULPORPENTINE.COM

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-aug-2009
    Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Dan Soltesz
-   24 meadow rd
-   cromwell, Connecticut 06416
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DANSOLTESZ.COM
-      Created on: 05-Aug-09
-      Expires on: 05-Aug-12
-      Last Updated on: 09-Jun-10
-
-   Administrative Contact:
-      Soltesz, Dan  dan_soltesz@hotmail.com
-      24 meadow rd
-      cromwell, Connecticut 06416
-      United States
-      +1.8607882131      Fax --
-
-   Technical Contact:
-      Soltesz, Dan  dan_soltesz@hotmail.com
-      24 meadow rd
-      cromwell, Connecticut 06416
-      United States
-      +1.8607882131      Fax --
 
    Domain servers in listed order:
       NS1.DNSSERVER8.COM
       NS2.DNSSERVER8.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DANSOLTESZ.COM

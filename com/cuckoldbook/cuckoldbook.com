@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 04-aug-2009
    Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Carolyn Allen
-   3801 Kenilworth ave apt 401e
-   bladensburg, Maryland 20710
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CUCKOLDBOOK.COM
-      Created on: 04-Aug-09
-      Expires on: 04-Aug-12
-      Last Updated on: 04-Aug-11
-
-   Administrative Contact:
-      Allen, Carolyn  webguruhodge@yahoo.com
-      3801 Kenilworth ave apt 401e
-      bladensburg, Maryland 20710
-      United States
-      (240) 838-4998      Fax --
-
-   Technical Contact:
-      Allen, Carolyn  webguruhodge@yahoo.com
-      3801 Kenilworth ave apt 401e
-      bladensburg, Maryland 20710
-      United States
-      (240) 838-4998      Fax --
 
    Domain servers in listed order:
       NS1.DCGOHARD.COM
       NS2.DCGOHARD.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CUCKOLDBOOK.COM

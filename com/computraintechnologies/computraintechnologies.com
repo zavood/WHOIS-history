@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 16-jan-2009
    Expiration Date: 16-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Shilav Loopimer
-   56 Kuoter Ave.
-   Ivone, ME 45543
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: COMPUTRAINTECHNOLOGIES.COM
-      Created on: 16-Jan-09
-      Expires on: 16-Jan-12
-      Last Updated on: 09-Jan-11
-
-   Administrative Contact:
-      Loopimer, Shilav  shilavloopimer@aol.com
-      56 Kuoter Ave.
-      Ivone, ME 45543
-      United States
-      +1.4453423678      Fax --
-
-   Technical Contact:
-      Loopimer, Shilav  shilavloopimer@aol.com
-      56 Kuoter Ave.
-      Ivone, ME 45543
-      United States
-      +1.4453423678      Fax --
 
    Domain servers in listed order:
       SNS47.WEBSITEWELCOME.COM
       SNS48.WEBSITEWELCOME.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=COMPUTRAINTECHNOLOGIES.COM

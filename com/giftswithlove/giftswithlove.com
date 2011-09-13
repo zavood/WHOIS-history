@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-sep-1998
    Expiration Date: 08-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,7 +112,7 @@ St. Jude Shop
 
    Record expires on 08-Sep-2015.
    Record created on 09-Sep-1998.
-   Database last updated on 9-Sep-2011 19:25:18 EDT.
+   Database last updated on 13-Sep-2011 01:19:09 EDT.
 
    Domain servers in listed order:
 

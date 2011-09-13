@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 11-aug-1995
    Expiration Date: 10-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ Registrant:
 
    Record expires on 12-Aug-2015.
    Record created on 11-Aug-1995.
-   Database last updated on 9-Sep-2011 19:23:33 EDT.
+   Database last updated on 13-Sep-2011 01:17:38 EDT.
 
    Domain servers in listed order:
 

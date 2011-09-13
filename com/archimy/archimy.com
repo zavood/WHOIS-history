@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-nov-2007
    Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,22 +84,40 @@ Domain servers in listed order:
 	 ns1.cifnet.com 	 ns2.cifnet.com
 
 Administrator:
-	 Denis Kozyr dkozyr@gmail.com +380.0506370208
+	 name:(Denis Kozyr)
+	Email:(dkozyr@gmail.com) tel-- +380.0506370208
 	 Denis Kozyr
 	 Postysheva st, 133-7
-	 Donetsk,Donetskaya,UKRAINE 83055
+\r
+t Donetsk
+Donetskaya,
+UKRAINE
+
+ zipcode:83055
 
 Technical Contactor:
-	 Denis Kozyr dkozyr@gmail.com +380.0506370208
+	 name:(Denis Kozyr)
+	Email:(dkozyr@gmail.com) tel-- +380.0506370208
 	 Denis Kozyr
 	 Postysheva st, 133-7
-	 Donetsk,Donetskaya,UKRAINE 83055
+\r
+t Donetsk
+Donetskaya,
+UKRAINE
+
+ zipcode:83055
 
 Billing Contactor:
-	 Denis Kozyr dkozyr@gmail.com +380.0506370208
+	 name:(Denis Kozyr)
+	Email:(dkozyr@gmail.com) tel-- +380.0506370208
 	 Denis Kozyr
 	 Postysheva st, 133-7
-	 Donetsk,Donetskaya,UKRAINE 83055
+\r
+t Donetsk
+Donetskaya,
+UKRAINE
+
+ zipcode:83055
 
 
 Registration Service Provider:

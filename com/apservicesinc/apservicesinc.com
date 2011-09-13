@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 22-jan-2000
    Expiration Date: 22-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,7 +109,7 @@ AP Services, Inc.
 
    Record expires on 22-Jan-2013.
    Record created on 22-Jan-2000.
-   Database last updated on 9-Sep-2011 19:28:49 EDT.
+   Database last updated on 13-Sep-2011 01:17:46 EDT.
 
    Domain servers in listed order:
 

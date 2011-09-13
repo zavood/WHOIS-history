@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-feb-2000
    Expiration Date: 24-feb-2019
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Sparklit
-   4110 Shelbourne
-   Victoria, British Columbia V8N 3E7
-   Canada
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ACTIVEBOARD.COM
-      Created on: 24-Feb-00
-      Expires on: 24-Feb-19
-      Last Updated on: 21-Dec-09
-
-   Administrative Contact:
-      Hostmaster, Sparklit  Hostmaster@Sparklit.com
-      Sparklit
-      4110 Shelbourne
-      Victoria, British Columbia V8N 3E7
-      Canada
-      2504771336      Fax --
-
-   Technical Contact:
-      Hostmaster, Sparklit  Hostmaster@Sparklit.com
-      Sparklit
-      4110 Shelbourne
-      Victoria, British Columbia V8N 3E7
-      Canada
-      2504771336      Fax --
 
    Domain servers in listed order:
       NS1.SPARKLIT.COM
       NS2.SPARKLIT.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ACTIVEBOARD.COM

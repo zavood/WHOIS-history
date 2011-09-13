@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 19-sep-1997
    Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:33:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,34 +78,15 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    E-Six Lab of Atlanta
-   678 10th St. N.W.
-   Atlanta, Georgia 30318
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: E-SIXLAB.COM
-      Created on: 18-Sep-97
-      Expires on: 17-Sep-12
-      Last Updated on: 18-Jul-10
-
-   Administrative Contact:
-      Lines, Tom  tsl@imagers.com
-      E-Six Lab of Atlanta
-      678 10th St. N.W.
-      Atlanta, Georgia 30318
-      United States
-      +1.4046058325      Fax -- +1.4043519020
-
-   Technical Contact:
-      Lines, Tom  tsl@imagers.com
-      E-Six Lab of Atlanta
-      678 Tenth Street
-      Atlanta, Georgia 30318
-      United States
-      +1.4046058325      Fax -- +1.4043519020
 
    Domain servers in listed order:
       HEARSAY.EARTHLINK.NET
       RUMOR.EARTHLINK.NET
       SPEAKEASY.EARTHLINK.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=E-SIXLAB.COM

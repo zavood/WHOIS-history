@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-oct-2009
    Expiration Date: 29-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Oscar .
-   Jl. Minangkabau No.49 Rt.004
-   Balikpapan, Kalimantan Timur 76126
-   Indonesia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BLUECLASSIFIEDADS.COM
-      Created on: 29-Oct-09
-      Expires on: 29-Oct-11
-      Last Updated on: 11-Jul-11
-
-   Administrative Contact:
-      ., Oscar  oscar@oscarfamily.info
-      Jl. Minangkabau No.49 Rt.004
-      Balikpapan, Kalimantan Timur 76126
-      Indonesia
-      081347752263      Fax --
-
-   Technical Contact:
-      ., Oscar  oscar@oscarfamily.info
-      Jl. Minangkabau No.49 Rt.004
-      Balikpapan, Kalimantan Timur 76126
-      Indonesia
-      081347752263      Fax --
 
    Domain servers in listed order:
       NS1.SEDOPARKING.COM
       NS2.SEDOPARKING.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLUECLASSIFIEDADS.COM
