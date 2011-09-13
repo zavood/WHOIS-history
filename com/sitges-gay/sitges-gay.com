@@ -5,14 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TAOBAO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-TAOBAO.COM
+   Domain Name: SITGES-GAY.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS3.SYSTIX.DE
+   Name Server: NS4.SYSTIX.DE
+   Status: ok
+   Updated Date: 19-jul-2011
+   Creation Date: 21-jul-2004
+   Expiration Date: 21-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:38:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:37:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Steffen Teufel
+   Privat
+   Oskar-Schlemmer-Weg 2
+   Plochingen, 73207, DE
+
+   Punycode Name:  sitges-gay.com
+   Unicode Name:   sitges-gay.com
+
+   Admin Contact
+      Steffen Teufel
+      Privat
+      hostmaster@systix.de
+      Oskar-Schlemmer-Weg 2
+      Plochingen, 73207, DE
+      phone: +49.7153999393
+
+   Technical Contact
+      SYSTIX Hostmaster
+      SYSTIX Bunk &amp; Partner IT-Services
+      hostmaster@systix.de
+      Callinstr. 6
+      Hannover, 30167, DE
+      phone: +49.5116002528
+
+   Zone Contact
+      SYSTIX Hostmaster
+      SYSTIX Bunk &amp; Partner IT-Services
+      hostmaster@systix.de
+      Callinstr. 6
+      Hannover, 30167, DE
+      phone: +49.5116002528
+
+   Record expires on: 2012-07-21 00:00:00
+
+   Domain servers in listed order:
+
+      ns4.systix.de 193.254.187.110
+      ns3.systix.de 193.254.189.162
+
+
+

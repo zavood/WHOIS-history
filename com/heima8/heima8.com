@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DILANDAU.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS1.AFRAID.ORG
-   Name Server: NS2.AFRAID.ORG
-   Name Server: NS3.AFRAID.ORG
-   Name Server: NS4.AFRAID.ORG
+   Domain Name: HEIMA8.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.DNSV2.COM
+   Name Server: NS2.DNSV2.COM
    Status: clientTransferProhibited
-   Updated Date: 18-feb-2011
-   Creation Date: 19-jul-2007
-   Expiration Date: 19-jul-2017
+   Updated Date: 24-aug-2011
+   Creation Date: 28-feb-2005
+   Expiration Date: 28-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:36:40 UTC &lt;&lt;&lt;
 
@@ -53,46 +51,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain dilandau.com
+=-=-=-=
+Visit AboutUs.org for more information about heima8.com
+&lt;a href=&quot;http://www.aboutus.org/heima8.com&quot;&gt;AboutUs: heima8.com&lt;/a&gt;
 
-Date Registered: 2007-7-19
-Date Modified: 2011-2-18
-Expiry Date: 2017-7-19
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-DNS1: ns4.afraid.org
-DNS2: ns1.afraid.org
-DNS3: ns2.afraid.org
-DNS4: ns3.afraid.org
+Domain name: heima8.com
 
-Registrant
-    Private Whois dilandau.com
-    Private Whois dilandau.com  ufxk7r24d9610a324273@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o dilandau.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
+Registrant Contact:
+   HuYangFeng Info Tech Co.,Ltd.
+   YanChangJie Yan ()
 
-Administrative Contact
-    Private Whois dilandau.com
-    Private Whois dilandau.com  nv6b8yc4d9610a36ca9c@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o dilandau.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
+   Fax:
+   Room A2-911,ChangYuanTiandi,SuZhou ST.
+   HaiDian
+   BeiJing, P 100080
+   CN
 
-Technical Contact
-    Private Whois dilandau.com
-    Private Whois dilandau.com  vmsu0a24d9610a34c317@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o dilandau.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
+Administrative Contact:
+   HuYangFeng Info Tech Co.,Ltd.
+   YanChangJie Yan (ycj@heima8.com)
+   +86.01051290588
+   Fax: +86.01051290588212
+   Room A2-911,ChangYuanTiandi,SuZhou ST.
+   HaiDian
+   BeiJing, P 100080
+   CN
 
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
+Technical Contact:
+   HuYangFeng Info Tech Co.,Ltd.
+   YanChangJie Yan (ycj@heima8.com)
+   +86.01051290588
+   Fax: +86.01051290588212
+   Room A2-911,ChangYuanTiandi,SuZhou ST.
+   HaiDian
+   BeiJing, P 100080
+   CN
+
+Status: Locked
+
+Name Servers:
+   ns1.dnsv2.com
+   ns2.dnsv2.com
+
+Creation date: 28 Feb 2005 21:45:07
+Expiration date: 28 Feb 2013 21:45:07
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

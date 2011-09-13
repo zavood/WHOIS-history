@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162181092-LROR
+Domain Name:SEARCHATOMIC.ORG
+Created On:03-May-2011 17:07:22 UTC
+Last Updated On:03-Jul-2011 03:51:23 UTC
+Expiration Date:03-May-2012 17:07:22 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgag04442439310
+Registrant Name:Adelaide Garcia
+Registrant Organization:AdelaideGarcia
+Registrant Street1:2054 NW 43rd Terrace 7
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lauderhill
+Registrant State/Province:FL
+Registrant Postal Code:33151
+Registrant Country:US
+Registrant Phone:+1.9434393159
+Registrant Phone Ext.:
+Registrant FAX:+1.9434393159
+Registrant FAX Ext.:
+Registrant Email:AdelaideGarcia@hotmailbox.com
+Admin ID:orgag04442439588
+Admin Name:Adelaide Garcia
+Admin Organization:AdelaideGarcia
+Admin Street1:2054 NW 43rd Terrace 7
+Admin Street2:
+Admin Street3:
+Admin City:Lauderhill
+Admin State/Province:FL
+Admin Postal Code:33151
+Admin Country:US
+Admin Phone:+1.9434393159
+Admin Phone Ext.:
+Admin FAX:+1.9434393159
+Admin FAX Ext.:
+Admin Email:AdelaideGarcia@hotmailbox.com
+Tech ID:orgag04442440295
+Tech Name:Adelaide Garcia
+Tech Organization:AdelaideGarcia
+Tech Street1:2054 NW 43rd Terrace 7
+Tech Street2:
+Tech Street3:
+Tech City:Lauderhill
+Tech State/Province:FL
+Tech Postal Code:33151
+Tech Country:US
+Tech Phone:+1.9434393159
+Tech Phone Ext.:
+Tech FAX:+1.9434393159
+Tech FAX Ext.:
+Tech Email:AdelaideGarcia@hotmailbox.com
+Name Server:NS1.SEARCHATOMIC.ORG
+Name Server:NS2.SEARCHATOMIC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

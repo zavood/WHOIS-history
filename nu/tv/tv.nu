@@ -1,26 +1,30 @@
 ------------------------------------------------------------------------
 .NU Domain Ltd Whois service
 
-Domain Name (ASCII): com.nu
+Domain Name (ASCII): tv.nu
 
 Technical Contact:
-    Martin Steinkamp subdomain@websuche.de  technik@websuche.de
-    Websuche Search Technology GmbH &amp; Co. KG
-    Martinistrasse 3
-    Osnabr&Atilde;&frac14;ck
-    DE
-    Phone: +49.541406660 (voice)  +49.5414066622 (fax)
+    Domain Name Department  dms@dipcon.com
+    DIPCON AB
+    William Gibsons vag 1
+    Jonsered
+    SE
+    Phone: +46.317202030 (voice)  +46.317202039 (fax)
 
-Record last updated on 2010-Dec-7.
-Record expires on 2011-Dec-4.
-Record created on 2007-Dec-4.
+Record last updated on 2011-Mar-8.
+Record expires on 2018-Nov-30.
+Record created on 1998-Nov-30.
 Record status: Active
-Registrar of record: InterNetX GmbH
-Referral URL: http://www.internetx.de
+Registrar of record: Domaininfo AB
+ReferralServer: whois://whois.domaininfo.com
+Referral URL: http://www.domaininfo.com
 
 Domain servers in listed order:
-    ns1.subdomain.com
-    ns2.subdomain.com
+    ns0.dnsmadeeasy.com
+    ns1.dnsmadeeasy.com
+    ns2.dnsmadeeasy.com
+    ns3.dnsmadeeasy.com
+    ns4.dnsmadeeasy.com
 
 Owner and Administrative Contact information for domains
 registered in .nu is available upon request from support@nic.nu

@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TAOBAO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-TAOBAO.COM
+   Domain Name: SANDERSFINEWOODWORKING.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
+   Status: clientTransferProhibited
+   Updated Date: 06-dec-2010
+   Creation Date: 26-may-2009
+   Expiration Date: 26-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:38:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:38:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+
+Registrant:
+Sanders, Stephen
+    Sanders Woodworking
+   10450 NC 801 Hwy.
+   Mount Ulla, NC 28125
+   US
+
+   Domain Name: SANDERSFINEWOODWORKING.COM
+
+   Administrative Contact:
+      Sanders, Stephen		ssanders@hughes.net
+       Sanders Woodworking
+      10450 NC 801 Hwy.
+      Mount Ulla, NC 28125
+      US
+      704-278-4106
+
+
+   Record expires on 26-May-2012.
+   Record created on 26-May-2009.
+   Database last updated on 12-Sep-2011 20:34:06 EDT.
+
+   Domain servers in listed order:
+
+   NS1.MEDIATEMPLE.NET          64.207.129.18
+   NS2.MEDIATEMPLE.NET          64.207.128.18
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

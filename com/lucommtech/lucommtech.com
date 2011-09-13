@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TAOBAO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-TAOBAO.COM
+   Domain Name: LUCOMMTECH.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS11A.VERIO-WEB.COM
+   Name Server: NS11B.VERIO-WEB.COM
+   Status: ok
+   Updated Date: 04-jun-2008
+   Creation Date: 26-jun-2003
+   Expiration Date: 26-jun-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:38:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:37:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... lucommtech.com
+  Creation Date........ 2003-06-27
+  Registration Date.... 2003-06-27
+  Expiry Date.......... 2013-06-27
+  Organisation Name.... Lucomm Technologies Inc.
+  Organisation Address. 14400 Bel Red Rd #208
+  Organisation Address.
+  Organisation Address. Bellevue
+  Organisation Address. 98007
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Technical Webmaster
+  Admin Address........ 14400 Bel Red Rd #208
+  Admin Address........
+  Admin Address........ Bellevue
+  Admin Address........ 98007
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... webmaster@lucommtech.com
+  Admin Phone.......... 4253787629
+  Admin Fax............
+
+Tech Name............ VERIO VERIO
+  Tech Address......... 12345 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax............. 888-663-6655
+  Name Server.......... ns11a.verio-web.com
+  Name Server.......... ns11b.verio-web.com
+
+

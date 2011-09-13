@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 02:38:06 2011
+
+domain:       postrehy.cz
+registrant:   SB:XPIPNI2629
+admin-c:      PIPNI2629
+nsset:        NSS:DAVIDSIMONEK2:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   06.08.2002 00:11:00
+changed:      11.09.2007 18:45:00
+expire:       04.08.2013
+
+contact:      SB:XPIPNI2629
+name:         Petr Novak
+address:      Halkova 259
+address:      Mlada Boleslav
+address:      29301
+address:      CZ
+e-mail:       mojepostrehy@centrum.cz
+registrar:    REG-INTERNET-CZ
+created:      06.08.2002 00:11:00
+
+contact:      PIPNI2629
+name:         Petr Novak
+address:      Halkova 259
+address:      Mlada Boleslav
+address:      29301
+address:      CZ
+e-mail:       mojepostrehy@centrum.cz
+registrar:    REG-INTERNET-CZ
+created:      06.08.2002 00:11:00
+
+nsset:        NSS:DAVIDSIMONEK2:1
+nserver:      ns2.pipni.cz
+nserver:      ns.pipni.cz
+tech-c:       SB:DAVIDSIMONEK2
+tech-c:       DAVIDSIMONEK
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+contact:      SB:DAVIDSIMONEK2
+org:          PIPNI s.r.o.
+name:         David Simonek
+address:      Karlovo namesti 16
+address:      Praha 2
+address:      12000
+address:      CZ
+e-mail:       pipni@pipni.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      30.08.2003 19:06:00
+
+contact:      DAVIDSIMONEK
+name:         David Simonek
+address:      Karlovo namesti 16
+address:      Praha 2
+address:      12000
+address:      CZ
+phone:        +420 608 978170
+e-mail:       pipni@pipni.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      02.04.2004 11:23:00
+
+
