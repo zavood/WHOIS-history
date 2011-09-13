@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNNUB.COM
-   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
-   Whois Server: whois.aboutdomainsolutions.com
-   Referral URL: http://www.aboutdomain.com
-   Name Server: NS1.PARKLOGIC.COM
-   Name Server: NS2.PARKLOGIC.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SUNDAYRIVER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
+   Updated Date: 05-may-2011
+   Creation Date: 02-jun-1995
+   Expiration Date: 01-jun-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:16:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:18:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,38 +54,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	Luca Mueller
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+=-=-=-=
 
-	Domain Name: pornnub.com
-	Created on: 2007-10-10 13:12:20
-	Expires on: 2011-10-10 13:12:20
+
+Domain name: sundayriver.com
+
+Registrant Contact:
+   Boyne Resorts
+   Dale Burmeister ()
+
+   Fax:
+   1 Boyne Mountain Rd
+   Boyne Falls, MI 49713
+   US
 
 Administrative Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+   Boyne Resorts
+   Dale Burmeister (dns@boyne.com)
+   +1.2315497950
+   Fax:
+   1 Boyne Mountain Rd
+   Boyne Falls, MI 49713
+   US
 
 Technical Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+   Boyne Resorts
+   Dale Burmeister (dns@boyne.com)
+   +1.2315497950
+   Fax:
+   1 Boyne Mountain Rd
+   Boyne Falls, MI 49713
+   US
 
-Domain servers in listed order:
-	NS1.PARKLOGIC.COM
-	NS2.PARKLOGIC.COM
+Status: Locked
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 02 Jun 1995 04:00:00
+Expiration date: 01 Jun 2016 04:00:00
 
 
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

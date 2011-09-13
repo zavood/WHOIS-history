@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-feb-2005
    Expiration Date: 26-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:16:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:17:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,35 @@ Domain servers in listed order:
 	 ns1.dnsv5.com 	 ns2.dnsv5.com
 
 Administrator:
-	 Name-- Guangzhou Huaduo Information Technology Limited
- EMail-: (lxl@163.com)
- tel --: +86.02085552667
+	 name: Guangzhou Huaduo Information Technology Limited
+ mail: lxl@163.com tel: +86.02085552667
 	 org: Guangzhou Huaduo Information Technology Limited
-	 4 fl, No.44 JianZhong rd, TianHe
-	 guangzhoushi,guangzhou,CN 510060
+
+address: 4 fl, No.44 JianZhong rd, TianHe
+	 city: guangzhoushi
+,province: guangzhou
+,country: CN
+ postcode: 510060
 
 Technical Contactor:
-	 Name-- Guangzhou Huaduo Information Technology Limited
- EMail-: (lxl@163.com)
- tel --: +86.02085552667
+	 name: Guangzhou Huaduo Information Technology Limited
+ mail: lxl@163.com tel: +86.02085552667
 	 org: Guangzhou Huaduo Information Technology Limited
-	 4 fl, No.44 JianZhong rd, TianHe
-	 guangzhoushi,guangzhou,CN 510060
+
+address: 4 fl, No.44 JianZhong rd, TianHe
+	 city: guangzhoushi
+,province: guangzhou
+,country: CN
+ postcode: 510060
 
 Billing Contactor:
-	 Name-- Guangzhou Huaduo Information Technology Limited
- EMail-: (lxl@163.com)
- tel --: +86.02085552667
+	 name: Guangzhou Huaduo Information Technology Limited
+ mail: lxl@163.com tel: +86.02085552667
 	 org: Guangzhou Huaduo Information Technology Limited
-	 4 fl, No.44 JianZhong rd, TianHe
-	 guangzhoushi,guangzhou,CN 510060
+
+address: 4 fl, No.44 JianZhong rd, TianHe
+	 city: guangzhoushi
+,province: guangzhou
+,country: CN
+ postcode: 510060
 

@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FC2.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-FC2.COM
+   Domain Name: RITSAPU-KR.COM
+   Registrar: HANGANG SYSTEMS, INC. D/B/A DOREGI.COM
+   Whois Server: whois.doregi.com
+   Referral URL: http://www.doregi.com
+   Name Server: NIS.DACOM.CO.KR
+   Name Server: NS2.DACOM.CO.KR
+   Status: clientTransferProhibited
+   Updated Date: 11-nov-2009
+   Creation Date: 16-dec-2002
+   Expiration Date: 16-dec-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:17:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:18:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to DOREGI.COM's WHOIS data service.
+
+The Data in Doregi' WHOIS database is provided by Doregi
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Doregi does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Doregi (or its systems).  Doregi reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Domain Name: RITSAPU-KR.COM
+Registrar: HANGANG Systems,Inc. dba doregi.com
+
+    Registrant:
+      Geon-tae
+      #505 Halla classic officetel, 824-11  Kangnam-Gu
+      apukorea@chollian.net
+      02-564-3425
+      02-564-3427
+
+
+    Administrative Contact:
+      Geon-tae Woo
+      apukorea@chollian.net
+      02-564-3425
+
+
+    Technical Contact:
+      Geon-tae Woo
+      apukorea@chollian.net
+      02-564-3425
+
+
+    Billing Contact:
+      Geon-tae Woo
+      apukorea@chollian.net
+      02-564-3425
+
+
+   Record created on.......: Dec 16, 2002
+   Record last updated on..: Nov 23, 2004
+   Record expires on.......: Dec 16, 2012
+
+   Domain name servers in listed order:
+
+   nis.dacom.co.kr
+   ns2.dacom.co.kr
+
+
+
