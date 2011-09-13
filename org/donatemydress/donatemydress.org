@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150742330-LROR
+Domain Name:DONATEMYDRESS.ORG
+Created On:25-Jan-2008 00:41:20 UTC
+Last Updated On:07-Dec-2010 17:42:18 UTC
+Expiration Date:25-Jan-2012 00:41:20 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:A125855887059466
+Registrant Name:The Hearst Corporation
+Registrant Organization:The Hearst Corporation
+Registrant Street1:300 West 57th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10019
+Registrant Country:US
+Registrant Phone:+1.2126492000
+Registrant Phone Ext.:
+Registrant FAX:+1.2126492035
+Registrant FAX Ext.:
+Registrant Email:domains@hearst.com
+Admin ID:B125855893467034
+Admin Name:Administrator .
+Admin Organization:The Hearst Corporation
+Admin Street1:Magazines/Hearst Digital Media
+Admin Street2:300 West 57th Street
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10019
+Admin Country:US
+Admin Phone:+1.2126492000
+Admin Phone Ext.:
+Admin FAX:+1.2126492035
+Admin FAX Ext.:
+Admin Email:domains@hearst.com
+Tech ID:B125855893467035
+Tech Name:Administrator .
+Tech Organization:The Hearst Corporation
+Tech Street1:300 West 57th Street
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10019
+Tech Country:US
+Tech Phone:+212.6492000
+Tech Phone Ext.:
+Tech FAX:+212.6492035
+Tech FAX Ext.:
+Tech Email:domains@hearst.com
+Name Server:NS1.HEARSTDIGITAL.COM
+Name Server:NS2.HEARSTDIGITAL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
