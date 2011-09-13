@@ -1,0 +1,84 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 03:32:55 2011
+
+domain:       kralovedvorsko.cz
+registrant:   SB:ALSKBC-1
+admin-c:      ALSKBC-0
+nsset:        NSS:MHARTMAN:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   31.08.2002 19:01:00
+changed:      02.09.2011 13:17:45
+expire:       31.08.2012
+
+contact:      SB:ALSKBC-1
+name:         Ales Kubica
+address:      Okruzni 2329
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       kralovedvorsko@seznam.cz
+registrar:    REG-IGNUM
+created:      31.08.2002 18:51:00
+
+contact:      ALSKBC-0
+name:         Ales Kubica
+address:      Okruzni 2329
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+phone:        +420.736224222
+e-mail:       kubica@kralovedvorsko.cz
+registrar:    REG-IGNUM
+created:      31.08.2002 18:31:00
+changed:      13.02.2007 11:15:00
+
+nsset:        NSS:MHARTMAN:1
+nserver:      ns.webtech.cz
+nserver:      pri.hq.cz
+tech-c:       SB:MHARTMAN
+tech-c:       HARTMAN
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      08.12.2007 17:01:09
+
+contact:      SB:MHARTMAN
+name:         Milan Hartman
+address:      Klicperova 2491
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.11.2007 20:00:04
+
+contact:      HARTMAN
+name:         Milan Hartman
+address:      Klicperova 2491
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.11.2007 20:00:03
+
+

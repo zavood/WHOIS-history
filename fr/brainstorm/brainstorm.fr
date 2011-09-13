@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; brainstorm.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      brainstorm.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     G710-FRNIC
+tech-c:      G710-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6503-FRNIC
+registrar:   ONLINE SAS
+anniversary: 02/05
+created:     02/05/2007
+last-update: 12/05/2010
+source:      FRNIC
+
+ns-list:     NSL6503-FRNIC
+nserver:     ns.brainstorm.fr [217.24.84.72]
+nserver:     ns0.galacsys.net
+nserver:     ns1.galacsys.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     02/05/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     G710-FRNIC
+type:        ORGANIZATION
+contact:     GalacSYS
+address:     19, rue de rambouillet
+address:     78720 Dampierre en Yvelines
+country:     FR
+phone:       +33 1 77 69 59 68
+fax-no:      +33 1 77 62 48 24
+e-mail:      galacsys.126327@spamfree.bookmyname.com
+changed:     30/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
