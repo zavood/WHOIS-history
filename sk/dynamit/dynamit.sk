@@ -1,0 +1,31 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         dynamit.sk
+Admin-id            MARE-0061
+Admin-name          Mgr. Marek Pajchl
+Admin-legal-form    zivnost
+Admin-org.-ID       34535314
+Admin-address       150, Dulov 01852
+Admin-telephone     0905621497
+Admin-email         ump@ump.sk
+Tech-id             MARE-0061
+Tech-name           Mgr. Marek Pajchl
+Tech-org.-ID        34535314
+Tech-address        150, Dulov 01852
+Tech-telephone      0905621497
+Tech-email          ump@ump.sk
+dns_name            ns1.dynamit.sk
+dns_ip              92.240.241.67
+dns_name            ns2.dynamit.sk
+dns_ip              83.168.150.107
+dns_name            ns3.dynamit.sk
+dns_ip              89.173.50.146
+dns_name            ns4.dynamit.sk
+dns_ip              158.195.190.37
+Last-update         2011-08-08
+Valid-date          2012-08-18
+Domain-status       DOM_OK
+

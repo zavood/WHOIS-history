@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D30156575-LROR
+Domain Name:FCUCC.ORG
+Created On:28-Jun-2000 20:03:05 UTC
+Last Updated On:21-Jul-2009 19:56:37 UTC
+Expiration Date:28-Jun-2016 20:03:05 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686273171640
+Registrant Name:Fisrt Congregational Church
+Registrant Organization:First Congregational Church
+Registrant Street1:20 East Saint Vrain
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colroado Springs
+Registrant State/Province:CO
+Registrant Postal Code:80903
+Registrant Country:US
+Registrant Phone:+1.7196353549
+Registrant Phone Ext.:
+Registrant FAX:+1.8886636648
+Registrant FAX Ext.:
+Registrant Email:ruth@fcucc.org
+Admin ID:10686273175240
+Admin Name:Ruth Roland
+Admin Organization:Ruth Roland
+Admin Street1:20 East Saint Vrain
+Admin Street2:
+Admin Street3:
+Admin City:Colroado Springs
+Admin State/Province:CO
+Admin Postal Code:80903
+Admin Country:US
+Admin Phone:+1.7196353549
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ruth@fcucc.org
+Tech ID:10686273181860
+Tech Name:QWEST QWEST
+Tech Organization:QWEST QWEST
+Tech Street1:600 Stinson Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Minneapolas
+Tech State/Province:MN
+Tech Postal Code:55413
+Tech Country:US
+Tech Phone:+1.8006728520
+Tech Phone Ext.:
+Tech FAX:+1.6126644770
+Tech FAX Ext.:
+Tech Email:dns-info@qwest.net
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

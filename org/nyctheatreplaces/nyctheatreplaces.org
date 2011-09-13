@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96684831-LROR
+Domain Name:NYCTHEATREPLACES.ORG
+Created On:31-Mar-2003 14:56:30 UTC
+Last Updated On:16-May-2011 00:26:31 UTC
+Expiration Date:31-Mar-2012 14:56:30 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AH2832-GANDI
+Registrant Name:Adam Huttler
+Registrant Organization:Fractured Atlas
+Registrant Street1:248 W. 35th Street
+Registrant Street2:10th Floor
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10001
+Registrant Country:US
+Registrant Phone:+1.2122778020
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:263561308c9e12201b2d051bbf930be3-1253254@contact.gandi.net
+Admin ID:AH2832-GANDI
+Admin Name:Adam Huttler
+Admin Organization:Fractured Atlas
+Admin Street1:248 W. 35th Street
+Admin Street2:10th Floor
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10001
+Admin Country:US
+Admin Phone:+1.2122778020
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:263561308c9e12201b2d051bbf930be3-1253254@contact.gandi.net
+Tech ID:AH2832-GANDI
+Tech Name:Adam Huttler
+Tech Organization:Fractured Atlas
+Tech Street1:248 W. 35th Street
+Tech Street2:10th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10001
+Tech Country:US
+Tech Phone:+1.2122778020
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:263561308c9e12201b2d051bbf930be3-1253254@contact.gandi.net
+Name Server:NS1.GEMINISBS.NET
+Name Server:NS2.GEMINISBS.NET
+Name Server:NS3.GEMINISBS.NET
+Name Server:NS4.GEMINISBS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
