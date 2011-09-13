@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FISTMARKER.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS27.DOMAINCONTROL.COM
-   Name Server: NS28.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 07-dec-2010
-   Expiration Date: 07-dec-2011
+   Domain Name: POLOACTION.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.METAREGISTRAR.NL
+   Name Server: NS2.METAREGISTRAR.NL
+   Status: ok
+   Updated Date: 27-feb-2011
+   Creation Date: 26-feb-2008
+   Expiration Date: 26-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:01:17 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by Metaregistrar
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Metaregistrar does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: POLOACTION.COM
 
+RSP: Metaregistrar
+URL: http://www.mijndomein.nl/
 
-Registrant:
-   Domains by Proxy, Inc.
+owner-contact: P-RWV184
+owner-fname: Robert
+owner-lname: van Santen
+owner-street: Wilsonstraat 37
+owner-city: HOOFDDORP
+owner-zip: 2131PK
+owner-country: NL
+owner-phone: +310235657085
+owner-email: robertvansanten@vansantenpolo.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FISTMARKER.COM
+admin-contact: P-RWV184
+admin-fname: Robert
+admin-lname: van Santen
+admin-street: Wilsonstraat 37
+admin-city: HOOFDDORP
+admin-zip: 2131PK
+admin-country: NL
+admin-phone: +310235657085
+admin-email: robertvansanten@vansantenpolo.com
 
-   Domain servers in listed order:
-      NS27.DOMAINCONTROL.COM
-      NS28.DOMAINCONTROL.COM
+tech-contact: P-HBM165
+tech-organization: Metaregistrar.nl
+tech-title: Mr.
+tech-fname: Hostmaster
+tech-lname: Metaregistrar
+tech-street: Jaagpad 20
+tech-city: Gouda
+tech-zip: 2802 AZ
+tech-country: NL
+tech-phone: +31 848338137
+tech-fax: +31 877845100
+tech-email: hostmaster@metaregistrar.nl
 
+billing-contact: P-HBM165
+billing-organization: Metaregistrar.nl
+billing-title: Mr.
+billing-fname: Hostmaster
+billing-lname: Metaregistrar
+billing-street: Jaagpad 20
+billing-city: Gouda
+billing-zip: 2802 AZ
+billing-country: NL
+billing-phone: +31 848338137
+billing-fax: +31 877845100
+billing-email: hostmaster@metaregistrar.nl
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FISTMARKER.COM
+nameserver: ns1.metaregistrar.nl
+nameserver: ns2.metaregistrar.nl
+
+; Please register your domains at
+; http://www.mijndomein.nl/
+

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FISTMARKER.COM
+   Domain Name: AFTERMARKETCYCLEPARTSNATION.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS27.DOMAINCONTROL.COM
-   Name Server: NS28.DOMAINCONTROL.COM
+   Name Server: NS.VISI.COM
+   Name Server: NS2.VISI.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 07-dec-2010
-   Expiration Date: 07-dec-2011
+   Updated Date: 08-dec-2010
+   Creation Date: 13-aug-2009
+   Expiration Date: 12-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:01:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:02:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Sean DeVrou
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FISTMARKER.COM
+   Domain Name: AFTERMARKETCYCLEPARTSNATION.COM
 
    Domain servers in listed order:
-      NS27.DOMAINCONTROL.COM
-      NS28.DOMAINCONTROL.COM
+      NS.VISI.COM
+      NS2.VISI.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FISTMARKER.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AFTERMARKETCYCLEPARTSNATION.COM
