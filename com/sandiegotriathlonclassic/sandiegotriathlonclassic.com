@@ -5,7 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;OPTIMUMREPORTING.COM&quot;.
+   Domain Name: SANDIEGOTRIATHLONCLASSIC.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.SMARTETAILING.NET
+   Name Server: NS2.SMARTETAILING.NET
+   Status: ok
+   Updated Date: 25-jul-2011
+   Creation Date: 28-jul-2009
+   Expiration Date: 28-jul-2012
+
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:49:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
@@ -41,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
