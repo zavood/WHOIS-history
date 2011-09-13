@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D65174466-LROR
+Domain Name:SJALISLE.ORG
+Created On:28-Feb-2001 18:53:50 UTC
+Last Updated On:28-Jul-2011 03:22:30 UTC
+Expiration Date:28-Feb-2014 18:53:50 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:10687041543930
+Registrant Name:St. Joan of Arc School
+Registrant Street1:4913 Columbia Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lisle
+Registrant State/Province:IL
+Registrant Postal Code:60532
+Registrant Country:US
+Registrant Phone:+1.6309691452
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sjatec@xnet.com
+Admin ID:10687041547680
+Admin Name:Jane Connell
+Admin Street1:4913 Columbia Ave
+Admin Street2:
+Admin Street3:
+Admin City:Lisle
+Admin State/Province:IL
+Admin Postal Code:60532-3307
+Admin Country:US
+Admin Phone:+1.6309691452
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sjatectoo@yahoo.com
+Tech ID:10687041555750
+Tech Name:YahooDomains Techcontact
+Tech Street1:701 First Ave
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS8.SAN.YAHOO.COM
+Name Server:NS9.SAN.YAHOO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
