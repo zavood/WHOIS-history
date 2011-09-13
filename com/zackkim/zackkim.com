@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101DOMAIN.COM
-   Registrar: 101DOMAIN, INC.
-   Whois Server: whois.101domain.com
-   Referral URL: http://www.101domain.com
-   Name Server: NS1.101DOMAIN.COM
-   Name Server: NS2.101DOMAIN.COM
+   Domain Name: ZACKKIM.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS12.LOCALDNS.COM
+   Name Server: NS13.LOCALDNS.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 04-may-1999
-   Expiration Date: 04-may-2020
+   Updated Date: 01-feb-2011
+   Creation Date: 14-feb-2006
+   Expiration Date: 14-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:39:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:40:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,75 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-------------------------------------------------------------
-TERMS OF USE: The data in this whois database is provided
-only for lawful purposes.  It is expressly forbidden to use
-the data to: (a) allow, enable, or otherwise support the
-transmission by e-mail, telephone, or facsimile of mass,
-unsolicited, commercial advertising or solicitations to
-entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic
-processes that send queries or data to the systems of any
-registry operator or ICANN-accredited registrar, except as
-reasonably necessary to register domain names or modify
-existing registrations.  In addition to (a) and (b), high-
-volume, automated, electronic processes directed at this
-whois database is also expressly forbidden.  Accuracy in
-the provided data is not guaranteed.  Failure to abide by
-these terms of use may result in restricted or terminated
-access.  These terms of use may be modified at any time.
-------------------------------------------------------------
 
-Registrar: 101Domain, Inc. (IANA 1011)
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
 
-Domain name: 101DOMAIN.COM
+Domain: zackkim.com
+Status: Protected
+
+DNS:
+	NS12.LOCALDNS.COM
+	NS13.LOCALDNS.COM
+
+Created: 2006-02-14 00:00:00
+Expires: 2012-02-15 04:18:16
+Last Modified: 2008-02-18 18:04:18
 
 Registrant Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+	-
+	Zack Kim (admin@emerge.com.my)
+	E-909, Block E, Palmspring@Damansara No1, Jalan PJU 3/29, Kota Damansara
+	Petaling Jaya, -, my 47810
+	P: +60.123509122 F: +60.12345678
 
 Administrative Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+	Etanium Sdn Bhd
+	Zack Kim (admin@emerge.com.my)
+	6F-16, IOI Business Park Persiarian Puchong Jaya Selatan
+	Puchong Jaya, SE, my 47100
+	P: +603.80644000 F: +603.80642020
 
 Technical Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+	Etanium Sdn Bhd
+	Zack Kim (admin@emerge.com.my)
+	6F-16, IOI Business Park Persiarian Puchong Jaya Selatan
+	Puchong Jaya, SE, my 47100
+	P: +603.80644000 F: +603.80642020
 
 Billing Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl.
-   Carlsbad, CA
-   US
+	Etanium Sdn Bhd
+	Zack Kim (admin@emerge.com.my)
+	6F-16, IOI Business Park Persiarian Puchong Jaya Selatan
+	Puchong Jaya, SE, my 47100
+	P: +603.80644000 F: +603.80642020
 
-Status:
-   clientUpdateProhibited
-   clientDeleteProhibited
-   clientTransferProhibited
-
-Name Servers:
-   NS1.101DOMAIN.COM
-   NS2.101DOMAIN.COM
-
-Creation date: 04 May 1999 06:05:55
-Expiration date: 04 May 2020 06:05:16
-Updated date: 10 Nov 2010 07:11:35

@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101DOMAIN.COM
-   Registrar: 101DOMAIN, INC.
-   Whois Server: whois.101domain.com
-   Referral URL: http://www.101domain.com
-   Name Server: NS1.101DOMAIN.COM
-   Name Server: NS2.101DOMAIN.COM
+   Domain Name: ZIZZOANDCO.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS53.DOMAINCONTROL.COM
+   Name Server: NS54.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 04-may-1999
-   Expiration Date: 04-may-2020
+   Updated Date: 18-aug-2011
+   Creation Date: 17-aug-2007
+   Expiration Date: 17-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:39:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:41:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,75 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-------------------------------------------------------------
-TERMS OF USE: The data in this whois database is provided
-only for lawful purposes.  It is expressly forbidden to use
-the data to: (a) allow, enable, or otherwise support the
-transmission by e-mail, telephone, or facsimile of mass,
-unsolicited, commercial advertising or solicitations to
-entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic
-processes that send queries or data to the systems of any
-registry operator or ICANN-accredited registrar, except as
-reasonably necessary to register domain names or modify
-existing registrations.  In addition to (a) and (b), high-
-volume, automated, electronic processes directed at this
-whois database is also expressly forbidden.  Accuracy in
-the provided data is not guaranteed.  Failure to abide by
-these terms of use may result in restricted or terminated
-access.  These terms of use may be modified at any time.
-------------------------------------------------------------
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Registrar: 101Domain, Inc. (IANA 1011)
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
-Domain name: 101DOMAIN.COM
+Registrant:
+   Domains by Proxy, Inc.
 
-Registrant Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: ZIZZOANDCO.COM
 
-Administrative Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+   Domain servers in listed order:
+      NS53.DOMAINCONTROL.COM
+      NS54.DOMAINCONTROL.COM
 
-Technical Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
 
-Billing Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl.
-   Carlsbad, CA
-   US
-
-Status:
-   clientUpdateProhibited
-   clientDeleteProhibited
-   clientTransferProhibited
-
-Name Servers:
-   NS1.101DOMAIN.COM
-   NS2.101DOMAIN.COM
-
-Creation date: 04 May 1999 06:05:55
-Expiration date: 04 May 2020 06:05:16
-Updated date: 10 Nov 2010 07:11:35
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ZIZZOANDCO.COM

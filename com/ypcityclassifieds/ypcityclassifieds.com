@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101DOMAIN.COM
-   Registrar: 101DOMAIN, INC.
-   Whois Server: whois.101domain.com
-   Referral URL: http://www.101domain.com
-   Name Server: NS1.101DOMAIN.COM
-   Name Server: NS2.101DOMAIN.COM
+   Domain Name: YPCITYCLASSIFIEDS.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: DNS23.GAHOST.COM
+   Name Server: DNS24.GAHOST.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 04-may-1999
-   Expiration Date: 04-may-2020
+   Updated Date: 22-aug-2011
+   Creation Date: 30-aug-2006
+   Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:39:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:40:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,75 +53,82 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-------------------------------------------------------------
-TERMS OF USE: The data in this whois database is provided
-only for lawful purposes.  It is expressly forbidden to use
-the data to: (a) allow, enable, or otherwise support the
-transmission by e-mail, telephone, or facsimile of mass,
-unsolicited, commercial advertising or solicitations to
-entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic
-processes that send queries or data to the systems of any
-registry operator or ICANN-accredited registrar, except as
-reasonably necessary to register domain names or modify
-existing registrations.  In addition to (a) and (b), high-
-volume, automated, electronic processes directed at this
-whois database is also expressly forbidden.  Accuracy in
-the provided data is not guaranteed.  Failure to abide by
-these terms of use may result in restricted or terminated
-access.  These terms of use may be modified at any time.
-------------------------------------------------------------
 
-Registrar: 101Domain, Inc. (IANA 1011)
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: YPCITYCLASSIFIEDS.COM
+Registrar: MONIKER
+
+Registrant [584358]:
+        Maria Pavone domainadmin@yellowpagecity.com
+        2060 Brighton Henrietta Town-Line Rd.
+        Rochester
+        NY
+        14623
+        US
 
 
-Domain name: 101DOMAIN.COM
+Administrative Contact [584358]:
+        Maria Pavone domainadmin@yellowpagecity.com
+        2060 Brighton Henrietta Town-Line Rd.
+        Rochester
+        NY
+        14623
+        US
+        Phone: +1.5852473996
 
-Registrant Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
 
-Administrative Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
+Billing Contact [584358]:
+        Maria Pavone domainadmin@yellowpagecity.com
+        2060 Brighton Henrietta Town-Line Rd.
+        Rochester
+        NY
+        14623
+        US
+        Phone: +1.5852473996
 
-Technical Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
 
-Billing Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl.
-   Carlsbad, CA
-   US
+Technical Contact [173331]:
+        Maria Pavone domainadmin@yellowpagecity.com
+        107 Norris Drive
+        Rochester
+        NY
+        14101
+        US
+        Phone: +1.5852473996
 
-Status:
-   clientUpdateProhibited
-   clientDeleteProhibited
-   clientTransferProhibited
 
-Name Servers:
-   NS1.101DOMAIN.COM
-   NS2.101DOMAIN.COM
+Domain servers in listed order:
 
-Creation date: 04 May 1999 06:05:55
-Expiration date: 04 May 2020 06:05:16
-Updated date: 10 Nov 2010 07:11:35
+        DNS23.GAHOST.COM
+        DNS24.GAHOST.COM
+
+        Record created on:        2006-08-30 12:50:37.0
+        Database last updated on: 2011-08-22 11:41:00.873
+        Domain Expires on:        2012-08-30 12:50:39.0
+
+
+

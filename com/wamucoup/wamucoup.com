@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101DOMAIN.COM
-   Registrar: 101DOMAIN, INC.
-   Whois Server: whois.101domain.com
-   Referral URL: http://www.101domain.com
-   Name Server: NS1.101DOMAIN.COM
-   Name Server: NS2.101DOMAIN.COM
+   Domain Name: WAMUCOUP.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 04-may-1999
-   Expiration Date: 04-may-2020
+   Updated Date: 16-mar-2011
+   Creation Date: 28-sep-2008
+   Expiration Date: 28-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:39:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:39:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,75 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-------------------------------------------------------------
-TERMS OF USE: The data in this whois database is provided
-only for lawful purposes.  It is expressly forbidden to use
-the data to: (a) allow, enable, or otherwise support the
-transmission by e-mail, telephone, or facsimile of mass,
-unsolicited, commercial advertising or solicitations to
-entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic
-processes that send queries or data to the systems of any
-registry operator or ICANN-accredited registrar, except as
-reasonably necessary to register domain names or modify
-existing registrations.  In addition to (a) and (b), high-
-volume, automated, electronic processes directed at this
-whois database is also expressly forbidden.  Accuracy in
-the provided data is not guaranteed.  Failure to abide by
-these terms of use may result in restricted or terminated
-access.  These terms of use may be modified at any time.
-------------------------------------------------------------
-
-Registrar: 101Domain, Inc. (IANA 1011)
-
-
-Domain name: 101DOMAIN.COM
-
-Registrant Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
-
-Administrative Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
-
-Technical Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl
-   Carlsbad, CA
-   US
-
-Billing Contact:
-   101Domain, Inc.
-   Domain Manager (domains@101domain.com)
-   +1.7607363700 ext
-   Fax: +1.7607363701 ext
-   5858 Edison Pl.
-   Carlsbad, CA
-   US
-
-Status:
-   clientUpdateProhibited
-   clientDeleteProhibited
-   clientTransferProhibited
-
-Name Servers:
-   NS1.101DOMAIN.COM
-   NS2.101DOMAIN.COM
-
-Creation date: 04 May 1999 06:05:55
-Expiration date: 04 May 2020 06:05:16
-Updated date: 10 Nov 2010 07:11:35
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
