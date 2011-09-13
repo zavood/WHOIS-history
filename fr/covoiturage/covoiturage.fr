@@ -1,0 +1,77 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; covoiturage.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      covoiturage.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C3309-FRNIC
+admin-c:     C10515-FRNIC
+tech-c:      C10515-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL45867-FRNIC
+registrar:   ONLINE SAS
+anniversary: 31/08
+created:     26/07/2007
+last-update: 03/03/2011
+source:      FRNIC
+
+ns-list:     NSL45867-FRNIC
+nserver:     ns0.comuto.com
+nserver:     ns-slave.free.org
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     C3309-FRNIC
+type:        ORGANIZATION
+contact:     Comuto
+address:     2, rue Lamarck
+address:     75018 Paris
+country:     FR
+phone:       +33 6 82 83 98 42
+e-mail:      comuto.374319@spamfree.bookmyname.com
+changed:     08/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     C10515-FRNIC
+type:        ORGANIZATION
+contact:     Comuto
+address:     2, rue Lamarck
+address:     75018 Paris
+country:     FR
+phone:       +33 6 82 83 98 42
+e-mail:      comuto.253237@spamfree.bookmyname.com
+changed:     01/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
