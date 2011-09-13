@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:03:42 (BRT -03:00)
+
+domain:      projesom.com.br
+owner:       PROJESOM INTERNET LTDA
+ownerid:     001.646.956/0001-28
+responsible: Jose Luiz Correa
+country:     BR
+owner-c:     JLC8
+admin-c:     JLC8
+tech-c:      JLC8
+billing-c:   JLC8
+nserver:     ns01.projesom.com.br 189.84.192.18
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     sunset.projesom.net
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns1.twisted4life.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ws.projesom.com.br 189.84.192.20
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19960721 #12215
+expires:     20120721
+changed:     20100914
+status:      published
+
+nic-hdl-br:  JLC8
+person:      Jose Luiz Correa
+e-mail:      jluiz@projesom.net
+created:     19980207
+changed:     20101202
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

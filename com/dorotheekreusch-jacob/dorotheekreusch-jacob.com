@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 27-nov-2000
    Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:46:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:04:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain dorotheekreusch-jacob.com
-% Timestamp: 2011-09-12 04:47:27
+% Timestamp: 2011-09-13 05:05:16
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
