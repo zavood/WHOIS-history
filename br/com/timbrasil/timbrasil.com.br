@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 21:43:35 (BRT -03:00)
+
+domain:      timbrasil.com.br
+owner:       Tim Brasil Servicos e Participacoes S/A
+ownerid:     002.600.854/0001-34
+responsible: H&eacute;lio Fabbri Jr.
+country:     BR
+owner-c:     MAA770
+admin-c:     MAA770
+tech-c:      ANSKU
+billing-c:   MAA770
+nserver:     rjocpdne01.timbrasil.com.br 189.40.220.33
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     rjocpdne02.timbrasil.com.br 189.40.220.34
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20010417 #551966
+expires:     20120417
+changed:     20110707
+status:      published
+
+nic-hdl-br:  ANSKU
+person:      Andre Shindi Kurokawa
+e-mail:      akurokawa@timbrasil.com.br
+created:     20110628
+changed:     20110628
+
+nic-hdl-br:  MAA770
+person:      Maur&iacute;cio Ariboni
+e-mail:      cfc@aribonifabbri.com.br
+created:     20010807
+changed:     20101109
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

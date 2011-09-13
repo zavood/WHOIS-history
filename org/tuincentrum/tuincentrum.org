@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148953715-LROR
+Domain Name:TUINCENTRUM.ORG
+Created On:24-Aug-2007 16:26:09 UTC
+Last Updated On:25-Aug-2011 01:25:18 UTC
+Expiration Date:24-Aug-2012 16:26:09 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DOW1406844754
+Registrant Name:D Wentink
+Registrant Organization:index.nl
+Registrant Street1:Tudderenderweg 18
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sittard
+Registrant State/Province:
+Registrant Postal Code:6137 CE
+Registrant Country:NL
+Registrant Phone:+31.464000770
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:daan@index.nl
+Admin ID:DQW1356408668
+Admin Name:D Wentink
+Admin Organization:i76
+Admin Street1:Tudderenderweg 18
+Admin Street2:
+Admin Street3:
+Admin City:Sittard
+Admin State/Province:
+Admin Postal Code:6137 CE
+Admin Country:NL
+Admin Phone:+31.464000770
+Admin Phone Ext.:
+Admin FAX:+31.464009640
+Admin FAX Ext.:
+Admin Email:daan@i76.nl
+Tech ID:DUW1435653257
+Tech Name:D Wentink
+Tech Organization:i76
+Tech Street1:Tudderenderweg 18
+Tech Street2:
+Tech Street3:
+Tech City:Sittard
+Tech State/Province:
+Tech Postal Code:6137 CE
+Tech Country:NL
+Tech Phone:+31.464000770
+Tech Phone Ext.:
+Tech FAX:+31.464009640
+Tech FAX Ext.:
+Tech Email:daan@i76.nl
+Name Server:NS2.TRANSIP.NET
+Name Server:NS0.TRANSIP.NET
+Name Server:NS1.TRANSIP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
