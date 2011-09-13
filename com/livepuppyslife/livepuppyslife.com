@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDRANDUNIVERSITY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
+   Domain Name: LIVEPUPPYSLIFE.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS1.BOSEE.NET
+   Name Server: NS2.BOSEE.NET
    Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 29-aug-2008
-   Expiration Date: 29-aug-2012
+   Updated Date: 27-sep-2010
+   Creation Date: 23-sep-2009
+   Expiration Date: 23-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:32:32 UTC &lt;&lt;&lt;
 
@@ -51,5 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name      : livepuppyslife.com
+PunnyCode        : livepuppyslife.com
+Creation Date    : 2009-09-24 09:41:34
+Updated Date     : 2010-09-27 19:54:24
+Expiration Date  : 2011-09-24 09:39:36
+
+
+Registrant:
+  Organization   : John Smith
+  Name           : John Smith
+  Address        : LA
+  City           : qita
+  Province/State : qita
+  Country        : qita
+  Postal Code    : 000000
+
+Administrative Contact:
+  Name           : John Smith
+  Organization   : John Smith
+  Address        : LA
+  City           : qita
+  Province/State : qita
+  Country        : qita
+  Postal Code    : 000000
+  Phone Number   : 00-000-00000000
+  Fax            : 00-000-00000000
+  Email          : sales@xiezhong.com
+
+Technical Contact:
+  Name           : John Smith
+  Organization   : John Smith
+  Address        : LA
+  City           : qita
+  Province/State : qita
+  Country        : qita
+  Postal Code    : 000000
+  Phone Number   : 00-000-00000000
+  Fax            : 00-000-00000000
+  Email          : sales@xiezhong.com
+
+Billing Contact:
+  Name           : John Smith
+  Organization   : John Smith
+  Address        : LA
+  City           : qita
+  Province/State : qita
+  Country        : qita
+  Postal Code    : 000000
+  Phone Number   : 00-000-00000000
+  Fax            : 00-000-00000000
+  Email          : sales@xiezhong.com
