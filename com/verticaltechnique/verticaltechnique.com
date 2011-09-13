@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: VERTICALTECHNIQUE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Name Server: NS47.DOMAINCONTROL.COM
+   Name Server: NS48.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 02-dec-2009
-   Expiration Date: 02-dec-2011
+   Updated Date: 09-oct-2010
+   Creation Date: 08-oct-2007
+   Expiration Date: 08-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:49:09 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Derrick Thiecke
+   Brian Mondschein
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: VERTICALTECHNIQUE.COM
 
    Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
+      NS47.DOMAINCONTROL.COM
+      NS48.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENAARTSYNDICATE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=VERTICALTECHNIQUE.COM

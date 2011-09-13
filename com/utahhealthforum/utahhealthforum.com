@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: UTAHHEALTHFORUM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 02-dec-2009
-   Expiration Date: 02-dec-2011
+   Updated Date: 27-jun-2011
+   Creation Date: 29-jun-2009
+   Expiration Date: 29-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:49:09 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Derrick Thiecke
+   MediaOne of Utah
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: UTAHHEALTHFORUM.COM
 
    Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENAARTSYNDICATE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=UTAHHEALTHFORUM.COM

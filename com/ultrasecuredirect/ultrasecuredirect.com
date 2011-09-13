@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENAARTSYNDICATE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Domain Name: ULTRASECUREDIRECT.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 02-dec-2009
-   Expiration Date: 02-dec-2011
+   Updated Date: 09-dec-2008
+   Creation Date: 24-oct-2006
+   Expiration Date: 24-oct-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:49:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:48:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: ULTRASECUREDIRECT.COM
+     Created on: 2008-12-09
+     Updated on: 2008-12-09
+     Expires on: 2018-10-24
+     Registrant Name: EASISERV
+     Contact: EASISERV
+     Registrant Address: 69 grafton way
+     Registrant City: northampton
+     Registrant Postal Code: NN5 6NG
+     Registrant Country: GB
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS.RACKSPACE.COM
+     Secondary Name Server Hostname: NS2.RACKSPACE.COM
 
 
-Registrant:
-   Derrick Thiecke
+&gt;&gt;&gt; Last update of whois database: Tue Sep 13 22:03:45 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENAARTSYNDICATE.COM
-
-   Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENAARTSYNDICATE.COM

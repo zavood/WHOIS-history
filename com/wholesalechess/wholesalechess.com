@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: WHOLESALECHESS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Name Server: NS1.ZEROLAG.COM
+   Name Server: NS2.ZEROLAG.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 02-dec-2009
-   Expiration Date: 02-dec-2011
+   Updated Date: 15-jul-2006
+   Creation Date: 24-jan-2002
+   Expiration Date: 24-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:49:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:50:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Derrick Thiecke
+   Wholesale Chess
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: WHOLESALECHESS.COM
 
    Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
+      NS1.ZEROLAG.COM
+      NS2.ZEROLAG.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENAARTSYNDICATE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WHOLESALECHESS.COM

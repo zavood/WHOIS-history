@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: WESTERNINTERIORS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS57.1AND1.COM
-   Name Server: NS58.1AND1.COM
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 02-dec-2009
-   Expiration Date: 02-dec-2011
+   Updated Date: 22-feb-2011
+   Creation Date: 22-aug-2004
+   Expiration Date: 22-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:49:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:50:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Derrick Thiecke
+   Sandow Media LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENAARTSYNDICATE.COM
+   Domain Name: WESTERNINTERIORS.COM
 
    Domain servers in listed order:
-      NS57.1AND1.COM
-      NS58.1AND1.COM
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENAARTSYNDICATE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WESTERNINTERIORS.COM
