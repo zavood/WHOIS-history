@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152153055-LROR
+Domain Name:WYPX.ORG
+Created On:27-Mar-2008 02:44:05 UTC
+Last Updated On:16-Mar-2011 11:35:00 UTC
+Expiration Date:27-Mar-2012 02:44:05 UTC
+Sponsoring Registrar:Beijing Innovative Linkage Technology Ltd. (R1292-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CT6ZW5ORPKRQ9T7
+Registrant Name:Li xiang
+Registrant Organization:hb yc
+Registrant Street1:wu han
+Registrant Street2:
+Registrant Street3:
+Registrant City:WUHAN
+Registrant State/Province:HB
+Registrant Postal Code:430000
+Registrant Country:CN
+Registrant Phone:+86.13971199337
+Registrant Phone Ext.:
+Registrant FAX:+86.2787523951
+Registrant FAX Ext.:
+Registrant Email:lx2002win@163.com
+Admin ID:CTF6QRRIQR5KSEQ
+Admin Name:Li xiang
+Admin Organization:hb yc
+Admin Street1:wu han
+Admin Street2:
+Admin Street3:
+Admin City:WUHAN
+Admin State/Province:HB
+Admin Postal Code:430000
+Admin Country:CN
+Admin Phone:+86.13971199337
+Admin Phone Ext.:
+Admin FAX:+86.2787523951
+Admin FAX Ext.:
+Admin Email:lx2002win@163.com
+Tech ID:CTVRSPXT7X97Y6R
+Tech Name:z bs
+Tech Organization:wuhan
+Tech Street1:wuhan
+Tech Street2:
+Tech Street3:
+Tech City:Wuhan
+Tech State/Province:HB
+Tech Postal Code:430072
+Tech Country:CN
+Tech Phone:+86.87871525
+Tech Phone Ext.:
+Tech FAX:+86.2787871525
+Tech FAX Ext.:
+Tech Email:agent16175@agent.dns.com.cn
+Name Server:NS1.DNS.COM.CN
+Name Server:NS2.DNS.COM.CN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

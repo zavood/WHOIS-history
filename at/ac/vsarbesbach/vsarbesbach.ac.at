@@ -1,0 +1,59 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         vsarbesbach.ac.at
+registrant:     VA3211969-NICAT
+admin-c:        ASNL768479-NICAT
+tech-c:         ASNL768479-NICAT
+nserver:        dns1.asn-noe.ac.at
+remarks:        193.171.123.14
+nserver:        dns2.asn-noe.ac.at
+remarks:        193.171.123.15
+changed:        20080214 11:09:52
+source:         AT-DOM
+
+personname:     Johann ATTENEDER
+organization:   Volksschule Arbesbach
+street address: Nr. 152
+postal code:    A-3925
+city:           Arbesbach
+country:        Austria
+phone:          +4328137224
+e-mail:         325041@noeschule.at
+nic-hdl:        VA3211969-NICAT
+changed:        20080214 11:09:51
+source:         AT-DOM
+
+personname:
+organization:   Austrian School Network Landesschulrat fuer Niederoesterreich
+street address: Rennbahnstrasse 29
+postal code:    A-3100
+city:           St. Poelten
+country:        Austria
+phone:          +4327422803722
+fax-no:         +4327422803790
+e-mail:         support@asn-noe.ac.at
+nic-hdl:        ASNL768479-NICAT
+changed:        20081008 10:26:05
+source:         AT-DOM
+

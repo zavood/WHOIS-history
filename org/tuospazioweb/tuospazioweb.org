@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156069304-LROR
+Domain Name:TUOSPAZIOWEB.ORG
+Created On:06-May-2009 13:30:32 UTC
+Last Updated On:06-Apr-2011 11:30:04 UTC
+Expiration Date:06-May-2012 13:30:32 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:79f7a2d15666041c
+Registrant Name:Marco  Marini
+Registrant Street1:via roma
+Registrant Street2:
+Registrant Street3:
+Registrant City:Firenze
+Registrant State/Province:n/a
+Registrant Postal Code:50100
+Registrant Country:IT
+Registrant Phone:+39.55754214
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dralf987@gmail.com
+Admin ID:79f7a2d15666041c
+Admin Name:Marco  Marini
+Admin Street1:via roma
+Admin Street2:
+Admin Street3:
+Admin City:Firenze
+Admin State/Province:n/a
+Admin Postal Code:50100
+Admin Country:IT
+Admin Phone:+39.55754214
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dralf987@gmail.com
+Tech ID:79f7a2d15666041c
+Tech Name:Marco  Marini
+Tech Street1:via roma
+Tech Street2:
+Tech Street3:
+Tech City:Firenze
+Tech State/Province:n/a
+Tech Postal Code:50100
+Tech Country:IT
+Tech Phone:+39.55754214
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dralf987@gmail.com
+Name Server:NS1.POLARWEBSERVICES.COM
+Name Server:NS2.POLARWEBSERVICES.COM
+Name Server:NS3.POLARWEBSERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
