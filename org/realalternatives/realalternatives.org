@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D586721-LROR
+Domain Name:REALALTERNATIVES.ORG
+Created On:29-Oct-1997 05:00:00 UTC
+Last Updated On:12-Sep-2011 21:09:46 UTC
+Expiration Date:28-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:PENDING TRANSFER
+Registrant ID:27748804-NSI
+Registrant Name:Real Alternatives
+Registrant Organization:Real Alternatives
+Registrant Street1:7810 Allentown Blvd  Suite 304
+Registrant Street2:
+Registrant Street3:
+Registrant City:Harrisburg
+Registrant State/Province:PA
+Registrant Postal Code:17112
+Registrant Country:US
+Registrant Phone:+1.71754111
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:projwin@AOL.COM
+Admin ID:26754721-NSI
+Admin Name:Kevin Bagatta
+Admin Organization:Real Alternatives
+Admin Street1:7810 Allentown Blvd Suite 304
+Admin Street2:
+Admin Street3:
+Admin City:Harrisburg
+Admin State/Province:PA
+Admin Postal Code:17112
+Admin Country:US
+Admin Phone:+1.717541111
+Admin Phone Ext.:
+Admin FAX:+1.717541971
+Admin FAX Ext.:
+Admin Email:brian@harrisburgwebsites.com
+Tech ID:5453425-NSI
+Tech Name:Interliant
+Tech Organization:Interliant
+Tech Street1:PO BOX 201481
+Tech Street2:
+Tech Street3:
+Tech City:HOUSTON
+Tech State/Province:TX
+Tech Postal Code:77216-1481
+Tech Country:US
+Tech Phone:+1.3018371070
+Tech Phone Ext.:
+Tech FAX:+1.3019821958
+Tech FAX Ext.:
+Tech Email:admin@awc.net
+Name Server:NS1.INFOQUESTHOSTING.NET
+Name Server:NS2.INFOQUESTHOSTING.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

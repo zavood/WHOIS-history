@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PERGOLALANDSCAPE.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS9.APPSERVHOSTING.COM
-   Name Server: NS9.APPSERVNETWORK.COM
+   Domain Name: PARROTSHOPPING.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NETNAMES.NET
+   Name Server: NS2.NETNAMES.NET
    Status: clientTransferProhibited
-   Updated Date: 06-jun-2011
-   Creation Date: 27-jun-2007
-   Expiration Date: 27-jun-2012
+   Updated Date: 10-jun-2011
+   Creation Date: 11-jul-2006
+   Expiration Date: 11-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:37:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:37:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,71 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-	 pergolalandscape thewhoisguard@gmail.com +1.4156656387
-	 Yapeng, Manas
-	 Yapeng, Manas
-	 Yapeng, Manas,Yapeng, Manas,AF 51111
+  Parrot (PARRO24926)
+  174, quai de jemmapes
 
+  Paris, , 75010
+  FR
 
-Domain Name:pergolalandscape.com
-Record last updated at 2011-06-06 02:07:07
-Record created on 2007/6/27
-Record expired on 2012/6/27
+  Domain name: parrotshopping.com
 
+Technical contact:
+  Hostmaster, NetNames (NH217141)
+  Netnames Ltd
+  3rd Floor Prospero House
+  241 Borough High St.
+  null, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
+
+Administrative contact:
+  Guingant, Jeremy (JG45567)
+  Jeremy Guingant
+  Parrot
+  174, quai de jemmapes
+  Paris, 75010
+  GB
+  admin@parrot.fr
+  +33.148036060 Fax: +33.148030666
+
+Record created:           2011-03-25 16:55:51
+Record last updated:      2011-03-25 16:55:51
+Record expires:           2013-07-11 13:52:00
 
 Domain servers in listed order:
-	 ns9.appservhosting.com 	 ns9.appservnetwork.com
-
-Administrator:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-Technical Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-Billing Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-
-Registration Service Provider:
-	name: AppServDomain.com
-	tel: +1.6690899530212
- 	fax: +1.6690899530212
- 	web:http://www.appservdomain.com
+  ns1.netnames.net (NS1NE747781)
+  ns2.netnames.net (NS2NE228032)

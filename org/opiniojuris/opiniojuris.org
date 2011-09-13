@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105025908-LROR
+Domain Name:OPINIOJURIS.ORG
+Created On:19-Oct-2004 21:19:50 UTC
+Last Updated On:16-Jul-2011 17:58:05 UTC
+Expiration Date:19-Oct-2020 21:19:50 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38567834-NSI
+Registrant Name:Margaret McGuinness
+Registrant Organization:St. John's Law School
+Registrant Street1:8000 Utopia Parkway
+Registrant Street2:School of Law
+Registrant Street3:
+Registrant City:Queens
+Registrant State/Province:NY
+Registrant Postal Code:11439
+Registrant Country:US
+Registrant Phone:+1.7189908018
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Mcguinnm@stjohns.edu
+Admin ID:38567834-NSI
+Admin Name:Margaret McGuinness
+Admin Organization:St. John's Law School
+Admin Street1:8000 Utopia Parkway
+Admin Street2:School of Law
+Admin Street3:
+Admin City:Queens
+Admin State/Province:NY
+Admin Postal Code:11439
+Admin Country:US
+Admin Phone:+1.7189908018
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Mcguinnm@stjohns.edu
+Tech ID:38567834-NSI
+Tech Name:Margaret McGuinness
+Tech Organization:St. John's Law School
+Tech Street1:8000 Utopia Parkway
+Tech Street2:School of Law
+Tech Street3:
+Tech City:Queens
+Tech State/Province:NY
+Tech Postal Code:11439
+Tech Country:US
+Tech Phone:+1.7189908018
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Mcguinnm@stjohns.edu
+Name Server:NS1.MEDIATEMPLE.NET
+Name Server:NS2.MEDIATEMPLE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

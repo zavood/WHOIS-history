@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PERGOLALANDSCAPE.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS9.APPSERVHOSTING.COM
-   Name Server: NS9.APPSERVNETWORK.COM
+   Domain Name: PONDEROSASTOMP.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.A2WEBHOSTING.COM
+   Name Server: NS2.A2WEBHOSTING.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 06-jun-2011
-   Creation Date: 27-jun-2007
-   Expiration Date: 27-jun-2012
+   Status: clientUpdateProhibited
+   Updated Date: 14-mar-2011
+   Creation Date: 13-mar-2003
+   Expiration Date: 13-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:37:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:37:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,71 +53,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-	 pergolalandscape thewhoisguard@gmail.com +1.4156656387
-	 Yapeng, Manas
-	 Yapeng, Manas
-	 Yapeng, Manas,Yapeng, Manas,AF 51111
+   Bent Media
+   128 South Clark Street
+   New Orleans, LA  70119
+   US
+
+   Registrar: DOTSTER
+   Domain Name: PONDEROSASTOMP.COM
+      Created on: 13-MAR-03
+      Expires on: 14-MAR-12
+      Last Updated on: 22-FEB-11
+
+   Administrative Contact:
+      Brewster, Brad  vStmMR@privacypost.com
+      Bent Media
+      128 South Clark Street
+      New Orleans, LA  70119
+      US
+      504-488-2848
+      5044882979
+
+   Technical Contact:
+      Brewster, Brad  H24kz1@privacypost.com
+      Bent Media
+      128 South Clark Street
+      New Orleans, LA  70119
+      US
+      5044882848x17
+      5044882979
 
 
-Domain Name:pergolalandscape.com
-Record last updated at 2011-06-06 02:07:07
-Record created on 2007/6/27
-Record expired on 2012/6/27
+   Domain servers in listed order:
+      NS1.A2WEBHOSTING.COM
+      NS2.A2WEBHOSTING.COM
 
-
-Domain servers in listed order:
-	 ns9.appservhosting.com 	 ns9.appservnetwork.com
-
-Administrator:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-Technical Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-Billing Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
-
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
-
-Registration Service Provider:
-	name: AppServDomain.com
-	tel: +1.6690899530212
- 	fax: +1.6690899530212
- 	web:http://www.appservdomain.com
+End of Whois Information
