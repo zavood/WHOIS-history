@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XVIDEOS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.RANDOMSERVER.COM
-   Name Server: NS2.RANDOMSERVER.COM
+   Domain Name: ZWAJIL.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS10.DI.NET.SA
+   Name Server: NS20.DI.NET.SA
+   Name Server: NS21.DI.NET.SA
    Status: clientTransferProhibited
-   Updated Date: 30-dec-2010
-   Creation Date: 30-dec-1997
-   Expiration Date: 29-dec-2011
+   Updated Date: 04-aug-2011
+   Creation Date: 16-may-2009
+   Expiration Date: 16-may-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:50:43 UTC &lt;&lt;&lt;
 
@@ -51,23 +52,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about zwajil.com
+&lt;a href=&quot;http://www.aboutus.org/zwajil.com&quot;&gt;AboutUs: zwajil.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: zwajil.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   zwajil
+   mohammed shafie ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   Western Province
+   jeddah, MAKKAH 21448
+   SA
 
-Whois Query: xvideos.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:40:58 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   zwajil
+   mohammed shafie (domains@di.net.sa)
+   1.112345678
+   Fax:
+   Western Province
+   jeddah, MAKKAH 21448
+   SA
+
+Technical Contact:
+   Domain Privacy
+   Domain Privacy (domains@di.net.sa)
+   1.11
+   Fax: 1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
+
+Status: Locked
+
+Name Servers:
+   NS10.DI.NET.SA
+   NS20.DI.NET.SA
+   NS21.DI.NET.SA
+
+Creation date: 16 May 2009 11:57:00
+Expiration date: 16 May 2013 11:57:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
