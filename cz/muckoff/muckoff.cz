@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 03:22:57 2011
+
+domain:       muckoff.cz
+registrant:   PIPNI-MUCKOFF
+nsset:        NSPIPNI
+registrar:    REG-PIPNI
+status:       paid and in zone
+registered:   11.06.2009 10:32:33
+expire:       11.06.2012
+
+contact:      PIPNI-MUCKOFF
+name:         Ond&Aring;ôej Vor&Atilde;&iexcl;&Auml;çek
+address:      &Aring;&nbsp;e&Aring;ô&Atilde;&shy;kov&Atilde;&iexcl; 189
+address:      &Auml;åesk&Atilde;&frac12; Krumlov
+address:      381 01
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      10.06.2009 23:34:07
+
+nsset:        NSPIPNI
+nserver:      ns.pipni.cz
+nserver:      ns2.pipni.cz
+nserver:      ns3.pipni.cz
+tech-c:       PIPNI
+registrar:    REG-PIPNI
+created:      01.10.2007 13:29:57
+changed:      09.01.2009 11:22:27
+
+contact:      PIPNI
+name:         Petr Simonek
+address:      Karlovo n&Atilde;&iexcl;m&Auml;õst&Atilde;&shy; 290/16
+address:      Praha 2
+address:      120 00
+address:      CZ
+registrar:    REG-PIPNI
+created:      14.02.2003 01:56:00
+changed:      23.01.2009 00:55:36
+
+

@@ -1,0 +1,73 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-13T13:21:49+12:00
+domain_name: nicknz.co.nz
+query_status: 200 Active
+domain_dateregistered: 2006-05-24T16:31:43+12:00
+domain_datebilleduntil: 2012-05-24T16:31:43+12:00
+domain_datelastmodified: 2011-04-22T21:10:05+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: MarkMonitor
+registrar_address1: 391 N. Ancestor Place
+registrar_city: Boise
+registrar_province: ID
+registrar_postalcode: 83704
+registrar_country: US (UNITED STATES)
+registrar_phone: +1 208 3895740
+registrar_fax: +1 208 3895771
+registrar_email: ccops@markmonitor.com
+%
+registrant_contact_name: Viacom International Inc.
+registrant_contact_address1: 1515 Broadway
+registrant_contact_city: New York
+registrant_contact_province: NY
+registrant_contact_postalcode: 10036
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +1 2 2122586000
+registrant_contact_fax: +1  2128461965
+registrant_contact_email: domreg-admin@mtvn.com
+%
+admin_contact_name: Viacom International Inc.
+admin_contact_address1: 1515 Broadway
+admin_contact_city: New York
+admin_contact_province: NY
+admin_contact_postalcode: 10036
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +1 2 2122586000
+admin_contact_fax: +1  2128461965
+admin_contact_email: domreg-admin@mtvn.com
+%
+technical_contact_name: Viacom International Inc.
+technical_contact_address1: 1515 Broadway
+technical_contact_city: New York
+technical_contact_province: NY
+technical_contact_postalcode: 10036
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1 6 2122586000
+technical_contact_fax: +1  2128461965
+technical_contact_email: domreg-admin@mtvn.com
+%
+ns_name_01: pdns1.ultradns.net
+ns_name_02: pdns2.ultradns.net
+ns_name_03: pdns3.ultradns.org
+ns_name_04: pdns4.ultradns.org
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONLYWIRE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-jun-2009
-   Creation Date: 11-nov-2005
-   Expiration Date: 11-nov-2018
+   Domain Name: NOBORIERI.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS01.YAHOODOMAINS.JP
+   Name Server: NS02.YAHOODOMAINS.JP
+   Status: ok
+   Updated Date: 30-may-2011
+   Creation Date: 25-jun-2010
+   Expiration Date: 25-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:21:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:21:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Domain Name.......... noborieri.com
+  Creation Date........ 2010-06-25
+  Registration Date.... 2010-06-25
+  Expiry Date.......... 2012-06-25
+  Organisation Name.... TOM RECORDS
+  Organisation Address. 9-7-1, Akasaka
+  Organisation Address. Midtown Tower
+  Organisation Address. Minato-ku
+  Organisation Address. 107-6211
+  Organisation Address. Tokyo
+  Organisation Address. JAPAN
+
+Admin Name........... RECORDDS TOM
+  Admin Address........ 9-7-1, Akasaka
+  Admin Address........ Midtown Tower
+  Admin Address........ Minato-ku
+  Admin Address........ 107-6211
+  Admin Address........ Tokyo
+  Admin Address........ JAPAN
+  Admin Email.......... mail@blue.tom-records-noborieri.jp
+  Admin Phone.......... +81.0364404979
+  Admin Fax............
+
+Tech Name............ YahooJAPANDomains TechContact
+  Tech Address......... 9-7-1, Akasaka
+  Tech Address......... Midtown Tower
+  Tech Address......... Minato-ku
+  Tech Address......... 107-6211
+  Tech Address......... Tokyo
+  Tech Address......... JAPAN
+  Tech Email........... domains-info@mail.yahoo.co.jp
+  Tech Phone........... +81.0364404979
+  Tech Fax.............
+  Name Server.......... ns01.yahoodomains.jp
+  Name Server.......... ns02.yahoodomains.jp
 
 
-Registrant:
-   OnlyWire, LLC
-
-   Registered through: Domains Made Easy
-   Domain Name: ONLYWIRE.COM
-
-   Domain servers in listed order:
-      NS0.DNSMADEEASY.COM
-      NS1.DNSMADEEASY.COM
-      NS2.DNSMADEEASY.COM
-      NS3.DNSMADEEASY.COM
-
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=ONLYWIRE.COM&amp;prog_id=tiggee

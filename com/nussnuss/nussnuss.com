@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONLYWIRE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-jun-2009
-   Creation Date: 11-nov-2005
-   Expiration Date: 11-nov-2018
+   Domain Name: NUSSNUSS.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   Status: ok
+   Updated Date: 11-jul-2011
+   Creation Date: 10-jul-2007
+   Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:21:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:21:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   OnlyWire, LLC
+  Mark Sprietsma (464020)
+  Harlingerweg 14
 
-   Registered through: Domains Made Easy
-   Domain Name: ONLYWIRE.COM
+  Kimswerd, --, 8821LC
+  NL
 
-   Domain servers in listed order:
-      NS0.DNSMADEEASY.COM
-      NS1.DNSMADEEASY.COM
-      NS2.DNSMADEEASY.COM
-      NS3.DNSMADEEASY.COM
+  Domain name: nussnuss.com
 
+Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=ONLYWIRE.COM&amp;prog_id=tiggee
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
+
+Administrative contact:
+  Funktionen, Hostmaster (HF2035)
+  One.com A/S
+  Kalvebod Brygge 45
+
+  Copenhagen V, 1560
+  DK
+  hostmaster@b-one.nu
+  +45.46907100 Fax: +45.70205872
+
+Record created:           2009-12-09 11:29:40
+Record last updated:      2011-05-29 21:50:13
+Record expires:           2012-07-10 00:00:00
+
+Domain servers in listed order:
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)
