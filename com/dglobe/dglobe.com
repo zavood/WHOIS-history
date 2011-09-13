@@ -5,23 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AIRBNB.COM
+   Domain Name: DGLOBE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS-1349.AWSDNS-40.ORG
-   Name Server: NS-1548.AWSDNS-01.CO.UK
-   Name Server: NS-446.AWSDNS-55.COM
-   Name Server: NS-696.AWSDNS-23.NET
+   Name Server: NS1.I29.NET
+   Name Server: NS2.I29.NET
+   Name Server: NS3.I29.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2019
+   Updated Date: 17-jul-2011
+   Creation Date: 24-aug-1998
+   Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:02:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:01:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Brian Chesky, Inc.
+   i29 Internet Services
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: AIRBNB.COM
+   Domain Name: DGLOBE.COM
 
    Domain servers in listed order:
-      NS-1548.AWSDNS-01.CO.UK
-      NS-446.AWSDNS-55.COM
-      NS-696.AWSDNS-23.NET
-      NS-1349.AWSDNS-40.ORG
+      NS2.I29.NET
+      NS3.I29.NET
+      NS1.I29.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=AIRBNB.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DGLOBE.COM

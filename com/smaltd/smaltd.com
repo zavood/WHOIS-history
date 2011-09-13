@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DASACO.NET
-   Registrar: ANSWERABLE.COM (I) PVT. LTD.
-   Whois Server: whois.answerable.com
-   Referral URL: http://www.answerable.com
-   Name Server: DNS1.SPARK.PARKING-PAGE.NET
-   Name Server: DNS2.SPARK.PARKING-PAGE.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-jan-2011
-   Creation Date: 27-nov-2005
-   Expiration Date: 27-nov-2011
+   Domain Name: SMALTD.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS11.INTERACTIVEDNS.COM
+   Name Server: NS12.INTERACTIVEDNS.COM
+   Status: ok
+   Updated Date: 03-jun-2011
+   Creation Date: 23-may-2006
+   Expiration Date: 23-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:02:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:03:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: PRIVATE REGISTRATIONS AKTIEN GESELLSCHAFT
-Contact: +55.5430545527
+Registration Service Provided By: VIGNETTE SOLUTIONS
+Contact: +91.2228875440
 
-Domain Name: DASACO.NET
+Domain Name: SMALTD.COM
 
 Registrant:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    Standard Materials Agencies
+    Kirit Shah        (smaexcel@bom2.vsnl.net.in)
+    45 / 46, Podar Chambers, S.A. Brevli Road, Mumbai
+    Mumbai
+    Maharashtra,400023
+    IN
+    Tel. +91.2222663262
 
-Creation Date: 28-Nov-2005
-Expiration Date: 28-Nov-2011
+Creation Date: 24-May-2006
+Expiration Date: 24-May-2012
 
 Domain servers in listed order:
-    dns1.spark.parking-page.net
-    dns2.spark.parking-page.net
+    ns11.interactivedns.com
+    ns12.interactivedns.com
 
 
 Administrative Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    Standard Materials Agencies
+    Kirit Shah        (smaexcel@bom2.vsnl.net.in)
+    45 / 46, Podar Chambers, S.A. Brevli Road, Mumbai
+    Mumbai
+    Maharashtra,400023
+    IN
+    Tel. +91.2222663262
 
 Technical Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    Standard Materials Agencies
+    Kirit Shah        (smaexcel@bom2.vsnl.net.in)
+    45 / 46, Podar Chambers, S.A. Brevli Road, Mumbai
+    Mumbai
+    Maharashtra,400023
+    IN
+    Tel. +91.2222663262
 
 Billing Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    Standard Materials Agencies
+    Kirit Shah        (smaexcel@bom2.vsnl.net.in)
+    45 / 46, Podar Chambers, S.A. Brevli Road, Mumbai
+    Mumbai
+    Maharashtra,400023
+    IN
+    Tel. +91.2222663262
 
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -120,7 +112,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

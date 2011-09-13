@@ -5,21 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AIRBNB.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS-1349.AWSDNS-40.ORG
-   Name Server: NS-1548.AWSDNS-01.CO.UK
-   Name Server: NS-446.AWSDNS-55.COM
-   Name Server: NS-696.AWSDNS-23.NET
+   Domain Name: WABERN.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: DNS1.VADIAN.NET
+   Name Server: DNS2.VADIAN.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2019
+   Updated Date: 23-sep-2010
+   Creation Date: 22-sep-2003
+   Expiration Date: 22-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:02:54 UTC &lt;&lt;&lt;
 
@@ -56,39 +52,76 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by VADIAN.NET
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; VADIAN.NET does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: WABERN.COM
 
+RSP: VADIAN.NET
+URL: http://www.branchenbuch.ch/domains
 
-Registrant:
-   Brian Chesky, Inc.
+owner-contact: P-ROV29
+owner-fname: Ronnie
+owner-lname: Vetterli
+owner-street: Steinweg 14
+owner-city: Wabern
+owner-zip: 3084
+owner-country: CH
+owner-phone: 00413729292
+owner-email: ronel.info@bluewin.ch
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: AIRBNB.COM
+admin-contact: P-ROV29
+admin-fname: Ronnie
+admin-lname: Vetterli
+admin-street: Steinweg 14
+admin-city: Wabern
+admin-zip: 3084
+admin-country: CH
+admin-phone: 00413729292
+admin-email: ronel.info@bluewin.ch
 
-   Domain servers in listed order:
-      NS-1548.AWSDNS-01.CO.UK
-      NS-446.AWSDNS-55.COM
-      NS-696.AWSDNS-23.NET
-      NS-1349.AWSDNS-40.ORG
+tech-contact: P-HMV23
+tech-organization: VADIAN.NET AG
+tech-fname: Hostmaster
+tech-lname: VADIAN.NET
+tech-street: Katharinengasse 10
+tech-city: St.Gallen
+tech-state: SG
+tech-zip: 9000
+tech-country: CH
+tech-phone: +41.71 246 5656
+tech-fax: +41.71 246 5657
+tech-email: hostmaster@vadian.net
 
+billing-contact: P-HMV23
+billing-organization: VADIAN.NET AG
+billing-fname: Hostmaster
+billing-lname: VADIAN.NET
+billing-street: Katharinengasse 10
+billing-city: St.Gallen
+billing-state: SG
+billing-zip: 9000
+billing-country: CH
+billing-phone: +41.71 246 5656
+billing-fax: +41.71 246 5657
+billing-email: hostmaster@vadian.net
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=AIRBNB.COM
+nameserver: dns1.vadian.net
+nameserver: dns2.vadian.net
+
+; Please register your domains at
+; branchenbuch.ch/domains
+; URL: http://www.branchenbuch.ch/domains
+
