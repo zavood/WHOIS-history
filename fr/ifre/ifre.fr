@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ifre.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ifre.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FMDS15-FRNIC
+admin-c:     FMDS15-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL20761-FRNIC
+registrar:   GANDI
+anniversary: 22/03
+created:     23/05/2007
+last-update: 22/03/2010
+source:      FRNIC
+
+ns-list:     NSL20761-FRNIC
+nserver:     alize.msh-paris.fr [195.221.170.194]
+nserver:     kirova.pmsh.msh-paris.fr [193.51.121.231]
+nserver:     ns6.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     FMDS15-FRNIC
+type:        ORGANIZATION
+contact:     Fondation maison des sciences de l'homme
+address:     Fondation maison des sciences de l'homme
+address:     54, boulevard raspail
+address:     75006 Paris
+country:     FR
+phone:       +33 1 49 54 22 23
+e-mail:      e8a952a4fbf150bc423b3154dcac3b35-739629@contact.gandi.net
+changed:     27/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

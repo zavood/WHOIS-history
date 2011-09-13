@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EG.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DXMON.CERN.CH
-   Name Server: NS.EU.NET
-   Name Server: NS.EUNET.EG.NET
-   Name Server: NS1.EUNET.EG.NET
-   Name Server: SUNIC.SUNET.SE
+   Domain Name: AFR.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.FAIRFAX.COM.AU
+   Name Server: NS2.FAIRFAX.COM.AU
    Status: clientTransferProhibited
-   Updated Date: 26-feb-2009
-   Creation Date: 08-feb-1995
-   Expiration Date: 09-feb-2014
+   Updated Date: 21-apr-2011
+   Creation Date: 03-jun-1997
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:43:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:45:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... afr.com
+  Creation Date........ 1997-06-03
+  Registration Date.... 2003-05-24
+  Expiry Date.......... 2012-06-02
+  Organisation Name.... Fairfax Digital Australia and New Zealand Pty Ltd
+  Organisation Address. Level 2, 1 Darling Island Rd
+  Organisation Address.
+  Organisation Address. Darling Island
+  Organisation Address. 2009
+  Organisation Address. NSW
+  Organisation Address. AUSTRALIA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Admin Contact Fairfax Digital
+  Admin Address........ Level 2, 1 Darling Island Rd
+  Admin Address........
+  Admin Address........ Darling Island
+  Admin Address........ 2009
+  Admin Address........ NSW
+  Admin Address........ AUSTRALIA
+  Admin Email.......... domainnameadmin@f2.com.au
+  Admin Phone.......... +61.285964444
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Domain Tech Fairfax Digital
+  Tech Address......... Level 2, 1 Darling Island Rd
+  Tech Address.........
+  Tech Address......... Darling Island
+  Tech Address......... 2009
+  Tech Address......... NSW
+  Tech Address......... AUSTRALIA
+  Tech Email........... hostmaster@f2.com.au
+  Tech Phone........... +61.285964444
+  Tech Fax............. +61.285964466
+  Name Server.......... NS1.FAIRFAX.COM.AU
+  Name Server.......... NS2.FAIRFAX.COM.AU
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: eg.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:33:55 EDT 2011
-Reason Code: IE

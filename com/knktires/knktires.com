@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EG.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DXMON.CERN.CH
-   Name Server: NS.EU.NET
-   Name Server: NS.EUNET.EG.NET
-   Name Server: NS1.EUNET.EG.NET
-   Name Server: SUNIC.SUNET.SE
+   Domain Name: KNKTIRES.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.VISI.COM
+   Name Server: NS2.VISI.COM
    Status: clientTransferProhibited
-   Updated Date: 26-feb-2009
-   Creation Date: 08-feb-1995
-   Expiration Date: 09-feb-2014
+   Updated Date: 11-aug-2011
+   Creation Date: 26-feb-2010
+   Expiration Date: 26-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:43:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:44:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about knktires.com
+&lt;a href=&quot;http://www.aboutus.org/knktires.com&quot;&gt;AboutUs: knktires.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: knktires.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   K &amp; K Tires Inc.
+   Kevin k. shenton ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   816 oregon ave.
+   None
+   linthicum, MD 21090
+   US
 
-Whois Query: eg.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:33:55 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   50 Below Sales and Marketing
+   Domain Administrator (domain@50below.com)
+   +1.8008626521
+   Fax:
+   PO Box 16827
+   None
+   Duluth, MN 55816
+   US
+
+Technical Contact:
+   50 Below Sales &amp; Marketing
+   Domain Administrator (domain@50below.com)
+   +1.8008626521
+   Fax:
+   P.O. Box 16827
+   Duluth, MN 55816
+   US
+
+Status: Locked
+
+Name Servers:
+   ns.visi.com
+   ns2.visi.com
+
+Creation date: 27 Feb 2010 00:47:25
+Expiration date: 27 Feb 2012 00:47:25
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

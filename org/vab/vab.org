@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2652637-LROR
+Domain Name:VAB.ORG
+Created On:07-Jul-1997 04:00:00 UTC
+Last Updated On:28-Jul-2009 19:31:37 UTC
+Expiration Date:06-Jul-2018 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22474313-NSI
+Registrant Name:VermontAssociationof Broadcasters
+Registrant Organization:VermontAssociationof Broadcasters
+Registrant Street1:70 Joy Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Burlington
+Registrant State/Province:VT
+Registrant Postal Code:05406
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dbiondi@BROADCAST.NET
+Admin ID:5581470-NSI
+Admin Name:Dave ** Biondi
+Admin Street1:PO BOX 27595
+Admin Street2:
+Admin Street3:
+Admin City:HOUSTON
+Admin State/Province:TX
+Admin Postal Code:77227-7595
+Admin Country:US
+Admin Phone:+1.7139262209
+Admin Phone Ext.:
+Admin FAX:+1.7139262694
+Admin FAX Ext.:
+Admin Email:dbiondi@BROADCAST.NET
+Tech ID:20438459-NSI
+Tech Name:Lonewolfe Ltd.
+Tech Organization:Lonewolfe Ltd.
+Tech Street1:5225 Sherrill Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Amarillo
+Tech State/Province:TX
+Tech Postal Code:79108
+Tech Country:US
+Tech Phone:+1.8063356311
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:bart@LONEWOLFE.NET
+Name Server:NS1.PSHIFT.COM
+Name Server:NS2.PSHIFT.COM
+Name Server:NS3.PSHIFT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
