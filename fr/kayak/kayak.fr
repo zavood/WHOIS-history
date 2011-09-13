@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; kayak.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      kayak.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      KTI1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15286-FRNIC
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+anniversary: 02/10
+created:     02/10/2006
+last-update: 10/10/2006
+source:      FRNIC
+
+ns-list:     NSL15286-FRNIC
+nserver:     a.dnsvr.com
+nserver:     i.dnsvr.com
+nserver:     e.dnsvr.co.uk
+source:      FRNIC
+
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+type:        Isp Option 2
+address:     Emil-Figge-Strasse 76-80
+address:     D-44227 DORTMUND
+country:     DE
+phone:       +49 231 9742 543
+fax-no:      +49 231 9742 544
+e-mail:      info@123domain.de
+website:     http://www.123domain.de
+anonymous:   NO
+registered:  20/04/2000
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     18/04/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     KTI1-FRNIC
+type:        ROLE
+contact:     KTIT Hostmaster
+address:     Klute-Thiemann Informationstechnologie GmbH &amp; Co. KG
+address:     Emil-Figge-Str. 76-80
+address:     44227 Dortmund
+address:     DE
+phone:       +49 231 97424123
+e-mail:      support@klute-thiemann.de
+trouble:     Information: http://www.123domain.eu
+trouble:     Questions mailto: support@123domain.eu
+admin-c:     TK3527-FRNIC
+tech-c:      TK3527-FRNIC
+changed:     23/10/2008 support@klute-thiemann.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

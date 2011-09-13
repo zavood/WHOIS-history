@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lbmbioval.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lbmbioval.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BS1442-FRNIC
+admin-c:     NB2074-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5030-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 04/02
+created:     04/02/2011
+last-update: 04/02/2011
+source:      FRNIC
+
+ns-list:     NSL5030-FRNIC
+nserver:     ns1.amenworld.com
+nserver:     ns2.amenworld.com
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     NB2074-FRNIC
+type:        PERSON
+contact:     Nicolas Bernhard
+address:     Nicolas BERNHARD
+address:     10, rue des fondeurs
+address:     68500 Guebwiller
+country:     FR
+phone:       +33 3 89 76 22 33
+e-mail:      labo.fehr@wanadoo.fr
+changed:     04/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     BS1442-FRNIC
+type:        ORGANIZATION
+contact:     LABORATOIRE D ANALYSES MEDICALES BIOVAL
+address:     Bioval SELAS
+address:     10, rue des fondeurs
+address:     68500 Guebwiller
+country:     FR
+phone:       +33 3 89 76 22 33
+e-mail:      labo.fehr@wanadoo.fr
+changed:     08/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
