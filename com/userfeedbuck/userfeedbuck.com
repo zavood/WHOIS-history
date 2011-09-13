@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMSZ.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS1.DNS-DIY.COM
-   Name Server: NS2.DNS-DIY.COM
-   Name Server: NS3.DNS-DIY.COM
-   Name Server: NS4.DNS-DIY.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 24-sep-2004
-   Expiration Date: 24-sep-2013
+   Domain Name: USERFEEDBUCK.COM
+   Registrar: CENTER OF UKRAINIAN INTERNET NAMES
+   Whois Server: whois.ukrnames.com
+   Referral URL: http://www.ukrnames.com
+   Name Server: NS1.UKRAINE.COM.UA
+   Name Server: NS2.UKRAINE.COM.UA
+   Name Server: NS3.UKRAINE.COM.UA
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 01-apr-2011
+   Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:04:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,65 +52,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+Service Provided By: UKRAINE.COM.UA HOSTING PROVIDER - DELTA-X LTD
+Website: ukraine.com.ua
+Contact: +380 (44) 392-74-33
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Domain Name: USERFEEDBUCK.COM
 
-
-Registrant:
-	 wangjinyou airensz@163.com +86.75581182212
-	 wangjinyou
-	 futian town
-	 shenzhen,Guangdong,CN 518028
-
-
-Domain Name:comsz.com
-Record last updated at 2011-06-14 22:10:15
-Record created on 2004/9/24
-Record expired on 2013/9/24
-
+Creation Date: 01-Apr-2011
+Modification Date: 01-Apr-2011
+Expiration Date: 01-Apr-2012
 
 Domain servers in listed order:
-	 ns1.dns-diy.com 	 ns2.dns-diy.com
+ns1.ukraine.com.ua
+ns2.ukraine.com.ua
+ns3.ukraine.com.ua
 
-Administrator:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
+Registrant:
+Privacy Protection, report abuse to abuse@ukraine.com.ua
+PO Box 65
+Kiev, 03065
+UKRAINE
++380.445921192
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Technical Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Billing Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
+Billing Contact:
+Privacy Protection, report abuse to abuse@ukraine.com.ua
+Registrar: DELTA-X Ltd.
+PO Box 65
+Kiev, 03065
+UKRAINE
++380.445921192
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
+
+Administrative Contact:
+Privacy Protection, report abuse to abuse@ukraine.com.ua
+Registrar: DELTA-X Ltd.
+PO Box 65
+Kiev, 03065
+UKRAINE
++380.445921192
+
+
+Technical Contact:
+Privacy Protection, report abuse to abuse@ukraine.com.ua
+Registrar: DELTA-X Ltd.
+PO Box 65
+Kiev, 03065
+UKRAINE
++380.445921192
+
+
+Status: ok
+

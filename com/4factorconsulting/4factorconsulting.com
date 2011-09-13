@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMSZ.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS1.DNS-DIY.COM
-   Name Server: NS2.DNS-DIY.COM
-   Name Server: NS3.DNS-DIY.COM
-   Name Server: NS4.DNS-DIY.COM
+   Domain Name: 4FACTORCONSULTING.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 24-sep-2004
-   Expiration Date: 24-sep-2013
+   Updated Date: 15-sep-2010
+   Creation Date: 18-sep-2009
+   Expiration Date: 18-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,65 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+4factorconsulting.com
 
 Registrant:
-	 wangjinyou airensz@163.com +86.75581182212
-	 wangjinyou
-	 futian town
-	 shenzhen,Guangdong,CN 518028
+         Autumn Stover  (autumn@neonexuscorp.com)
+        NeoNexus Corporation
+        3501 MacCorkle Ave,  SE #203
+        Charleston, WV  25304
+        US
+        910-338-0197
 
 
-Domain Name:comsz.com
-Record last updated at 2011-06-14 22:10:15
-Record created on 2004/9/24
-Record expired on 2013/9/24
+Domain Name: 4factorconsulting.com
 
 
-Domain servers in listed order:
-	 ns1.dns-diy.com 	 ns2.dns-diy.com
 
-Administrator:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Technical Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
+Administrative, Billing Contact:
+         Louise Ellis  (louise@neonexuscorp.com)
+        NeoNexus Corporation
+        17 Cross Street
+        Rockport, ME  04856
+        US
+        910-338-0155
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Billing Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
 
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
+Billing Contact:
+         Christina Miller  (christina@neonexuscorp.com)
+        NeoNexus
+        3224-C North College Road
+        Wilmington, NC  28405
+        US
+        910-399-7603
+
+
+
+
+
+   Record created on Sep 18 2009.
+   Record expires on Sep 18 2011.
+Domain servers:
+        ns.rackspace.com
+        ns2.rackspace.com
+
+
+
+Domain Service Provider:
+   NeoNexus Corporation
+   9103380155
+   autumn@neonexuscorp.com
+   www.neonexuscorp.com
+
+

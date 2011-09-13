@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMSZ.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS1.DNS-DIY.COM
-   Name Server: NS2.DNS-DIY.COM
-   Name Server: NS3.DNS-DIY.COM
-   Name Server: NS4.DNS-DIY.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 24-sep-2004
-   Expiration Date: 24-sep-2013
+   Domain Name: AVIHAK.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 12-sep-2010
+   Creation Date: 13-sep-2009
+   Expiration Date: 13-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
 
@@ -53,65 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+=-=-=-=
+Visit AboutUs.org for more information about avihak.com
+&lt;a href=&quot;http://www.aboutus.org/avihak.com&quot;&gt;AboutUs: avihak.com&lt;/a&gt;
 
 
-Registrant:
-	 wangjinyou airensz@163.com +86.75581182212
-	 wangjinyou
-	 futian town
-	 shenzhen,Guangdong,CN 518028
+Domain name: avihak.com
+
+Registrant Contact:
+   AVIHAK EMPLOYMENT AGENCY CORP
+   Eric Hakimian ()
+
+   Fax:
+   144-54 73rd Ave
+   Flushing, Ny 11367
+   US
+
+Administrative Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
+
+Technical Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
+
+Status: Active
+
+Name Servers:
+   ns1.pipedns.com
+   ns2.pipedns.com
+
+Creation date: 13 Sep 2009 08:15:42
+Expiration date: 13 Sep 2011 08:15:42
 
 
-Domain Name:comsz.com
-Record last updated at 2011-06-14 22:10:15
-Record created on 2004/9/24
-Record expired on 2013/9/24
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-Domain servers in listed order:
-	 ns1.dns-diy.com 	 ns2.dns-diy.com
-
-Administrator:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Technical Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Billing Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

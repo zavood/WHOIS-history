@@ -5,25 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: MUSKOKALAKESREALESTATE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: ARACHNE.BAYTIDES.ON.CA
+   Name Server: ICEWALL.VIANET.ON.CA
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 15-jan-2011
+   Creation Date: 12-feb-2001
+   Expiration Date: 12-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,57 +54,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
- US
+ Don Evans
+ 1 Lock Street, P.O. Box 338
+ Port Carling, ON P0B 1J0
+ CA
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: MUSKOKALAKESREALESTATE.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    Evans, Don  dgevans@muskoka.com
+    1 Lock Street, P.O. Box 338
+    Port Carling, ON P0B 1J0
+    CA
+    705-765-6855
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    Heuer, Nora  info@baytides.ca
+    Box 5614
+    Huntsville, ON P1H 2L5
+    CA
+    +1.7057871411
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
+    Baytides Management Inc., info@baytides.ca
+    1-877-265-0123
+    http://www.baytides.ca
+    Website Design &amp; Development, Website Maintenance, Custom Content
+    Management System, E-Commerce Solutions, Domain Registrations, Hosted
+    Email Service
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record last updated on 15-Jan-2011.
+ Record expires on 12-Feb-2012.
+ Record created on 12-Feb-2001.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    ICEWALL.VIANET.ON.CA
+    ARACHNE.BAYTIDES.ON.CA
 
 
- Domain status: clientTransferProhibited
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
                 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows

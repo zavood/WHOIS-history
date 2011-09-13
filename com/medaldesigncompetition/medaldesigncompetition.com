@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMSZ.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS1.DNS-DIY.COM
-   Name Server: NS2.DNS-DIY.COM
-   Name Server: NS3.DNS-DIY.COM
-   Name Server: NS4.DNS-DIY.COM
+   Domain Name: MEDALDESIGNCOMPETITION.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS1.OLYMPIC.ORG
+   Name Server: DNS2.OLYMPIC.ORG
    Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 24-sep-2004
-   Expiration Date: 24-sep-2013
+   Updated Date: 22-jun-2011
+   Creation Date: 21-oct-2009
+   Expiration Date: 21-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,65 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-	 wangjinyou airensz@163.com +86.75581182212
-	 wangjinyou
-	 futian town
-	 shenzhen,Guangdong,CN 518028
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain Name:comsz.com
-Record last updated at 2011-06-14 22:10:15
-Record created on 2004/9/24
-Record expired on 2013/9/24
-
-
-Domain servers in listed order:
-	 ns1.dns-diy.com 	 ns2.dns-diy.com
-
-Administrator:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Technical Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
-Billing Contactor:
-	 futian town
-	 shenzhen
-Guangdong,
-CN
- 518028
-
-	 name:(wangjinyou)
-mail:(airensz@163.com) +86.75581182212
-	 wangjinyou
+Whois Query: medaldesigncompetition.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 14:56:25 EDT 2011
+Reason Code: IE

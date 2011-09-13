@@ -5,23 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: INTERNETWEBHOSTING.NET
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: NS4.INTERNETWEBHOSTING.NET
+   Name Server: NS5.INTERNETWEBHOSTING.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 17-jan-2011
+   Creation Date: 15-feb-1999
+   Expiration Date: 15-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
 
@@ -59,54 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ Datapipe, Inc.
+ 10 Exchange Place
+ 12th Floor
+ Jersey City, NJ 07302
  US
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: INTERNETWEBHOSTING.NET
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Master, Host  domains@datapipe.com
+    10 Exchange Place
+    12th Floor
+    Jersey City, NJ 07302
     US
-    +1.6174443000    Fax: +1.6174443001
-
+    +1.2017921918
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Master, Host  domains@datapipe.com
+    10 Exchange Place
+    12th Floor
+    Jersey City, NJ 07302
     US
-    +1.6174443000    Fax: +1.6174443001
-
+    +1.2017921918
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    Datapipe, Inc., domains@datapipe.com
+    2017921918
+    http://www.datapipe.com
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record last updated on 26-Apr-2011.
+ Record expires on 15-Feb-2012.
+ Record created on 15-Feb-1999.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    NS4.INTERNETWEBHOSTING.NET   64.27.65.15
+    NS5.INTERNETWEBHOSTING.NET   64.27.64.77
 
 
  Domain status: clientTransferProhibited

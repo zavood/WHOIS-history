@@ -5,25 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: ESTARA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: DNS-VIP-13.ESTARA.COM
+   Name Server: DNS-VIP-14.ESTARA.COM
+   Name Server: DNS-VIP-6.ESTARA.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 19-jul-2011
+   Creation Date: 31-jan-2000
+   Expiration Date: 31-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:06:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,54 +54,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ Oracle Corporation
+ 500 Oracle Parkway
+ M/S 501ip3
+ Redwood Shores, CA 94065
  US
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: ESTARA.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Hoynowski, Charles  domain-contact_ww@oracle.com
+    500 Oracle Parkway
+    Redwood Shores, CA 94065
     US
-    +1.6174443000    Fax: +1.6174443001
+    +1.6506070691    Fax: +1.6506070691
 
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
+    Nilsson, Robert  network-contact_ww@oracle.com
+    Kronborgsgrand 17
+    Kista,  16446
+    SE
+    +46.84773376    Fax: +46.84773376
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    Oracle Corporation, charles.hoynowski@oracle.com
+    650-607-0691
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record last updated on 19-Jul-2011.
+ Record expires on 31-Jan-2013.
+ Record created on 31-Jan-2000.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    DNS-VIP-13.ESTARA.COM   64.69.13.116
+    DNS-VIP-6.ESTARA.COM   64.69.6.116
+    DNS-VIP-14.ESTARA.COM   64.69.14.116
 
 
  Domain status: clientTransferProhibited

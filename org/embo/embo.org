@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2445729-LROR
+Domain Name:EMBO.ORG
+Created On:24-Sep-1996 04:00:00 UTC
+Last Updated On:28-Jun-2011 08:13:25 UTC
+Expiration Date:23-Sep-2019 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15594208-NSI
+Registrant Name:EMBO
+Registrant Organization:EMBO
+Registrant Street1:Meyerhofstrasse 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Heidelberg
+Registrant State/Province:
+Registrant Postal Code:69117
+Registrant Country:DE
+Registrant Phone:+49.62218891305
+Registrant Phone Ext.:
+Registrant FAX:+49.62218891200
+Registrant FAX Ext.:
+Registrant Email:Marlies.Otter-Nilsson@embo.org
+Admin ID:16592917-NSI
+Admin Name:EMBL
+Admin Organization:EMBL
+Admin Street1:European Molecular Biology Lab
+Admin Street2:
+Admin Street3:
+Admin City:Meyerhofstr. 1 Heidelberg, De
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:DE
+Admin Phone:+49.6221387247
+Admin Phone Ext.:
+Admin FAX:+49.6221387517
+Admin FAX Ext.:
+Admin Email:Hans.Doebbeling@EMBL-HEIDELBERG.DE
+Tech ID:16592917-NSI
+Tech Name:EMBL
+Tech Organization:EMBL
+Tech Street1:European Molecular Biology Lab
+Tech Street2:
+Tech Street3:
+Tech City:Meyerhofstr. 1 Heidelberg, De
+Tech State/Province:
+Tech Postal Code:99999
+Tech Country:DE
+Tech Phone:+49.6221387247
+Tech Phone Ext.:
+Tech FAX:+49.6221387517
+Tech FAX Ext.:
+Tech Email:Hans.Doebbeling@EMBL-HEIDELBERG.DE
+Name Server:DNS1.EMBL-HEIDELBERG.DE
+Name Server:DNS2.EMBL-HEIDELBERG.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

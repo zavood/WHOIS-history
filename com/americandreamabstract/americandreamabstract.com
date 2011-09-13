@@ -5,23 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: AMERICANDREAMABSTRACT.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: NS1.YOURWEBHOSTING.COM
+   Name Server: NS2.YOURWEBHOSTING.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 20-aug-2011
+   Creation Date: 04-sep-2009
+   Expiration Date: 04-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
 
@@ -59,58 +53,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
- US
+ Contact Privacy Inc. Customer 0121701006
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: AMERICANDREAMABSTRACT.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    Contact Privacy Inc. Customer 0121701006,   americandreamabstract.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    Contact Privacy Inc. Customer 0121701006,   americandreamabstract.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    YourWebHosting, support@yourwebhosting.com
+    866-791-4678
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record last updated on 03-Sep-2011.
+ Record expires on 04-Sep-2012.
+ Record created on 04-Sep-2009.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    NS2.YOURWEBHOSTING.COM
+    NS1.YOURWEBHOSTING.COM
 
 
  Domain status: clientTransferProhibited
                 clientUpdateProhibited
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

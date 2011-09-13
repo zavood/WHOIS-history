@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CHILLAXGAMES.COM
+   Registrar: NAME.COM LLC
+   Whois Server: whois.name.com
+   Referral URL: http://www.name.com
+   Name Server: NS1.SOFT163.COM
+   Name Server: NS2.SOFT163.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Updated Date: 21-aug-2011
+   Creation Date: 21-aug-2008
+   Expiration Date: 21-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:36 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+__   _                             ____
+| \ | | __ _ _ __ ___   ___       / ___|___  _ __ ___
+|  \| |/ _` | '_ ` _ \ / _ \     | |   / _ \| '_ ` _ \
+| |\  | (_| | | | | | |  __/  _  | |__| (_) | | | | | |
+|_| \_|\__,_|_| |_| |_|\___| (_)  \____\___/|_| |_| |_|
+      On a first name basis with the rest of the world.
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYWEIGHTLOSSMADESIMPLE.COM
+Domain Name:     chillaxgames.com
+Registrar:       Name.com LLC
+
+Expiration Date: 2012-08-21 10:35:30
+Creation Date:   2008-08-21 10:35:30
+
+Name Servers:
+	ns1.soft163.com
+	ns2.soft163.com
+
+REGISTRANT CONTACT INFO
+Web Page Boom
+Vipin Kumar
+95, Subhash Khand, Giri Nagar
+Kalkaji
+New Delhi
+Delhi
+110019
+IN
+Phone:         +91.9811590297
+Email Address: harrylora@gmail.com
+
+ADMINISTRATIVE CONTACT INFO
+Web Page Boom
+Vipin Kumar
+95, Subhash Khand, Giri Nagar
+Kalkaji
+New Delhi
+Delhi
+110019
+IN
+Phone:         +91.9811590297
+Email Address: harrylora@gmail.com
+
+TECHNICAL CONTACT INFO
+Web Page Boom
+Vipin Kumar
+95, Subhash Khand, Giri Nagar
+Kalkaji
+New Delhi
+Delhi
+110019
+IN
+Phone:         +91.9811590297
+Email Address: harrylora@gmail.com
+
+BILLING CONTACT INFO
+Web Page Boom
+Vipin Kumar
+95, Subhash Khand, Giri Nagar
+Kalkaji
+New Delhi
+Delhi
+110019
+IN
+Phone:         +91.9811590297
+Email Address: harrylora@gmail.com
+
+Timestamp: 1315940798.7977
+
+The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-13T13:06:38-06:00

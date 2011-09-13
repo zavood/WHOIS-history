@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECHNOLOGIES.COM
+   Domain Name: CUSTOMWHEELEXCHANGE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USC3.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Name Server: ALPHA.INTERWORLD.NET
+   Name Server: NS.INTERWORLD.NET
+   Name Server: NS2.INTERWORLD.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 18-aug-1998
-   Expiration Date: 17-aug-2017
+   Updated Date: 13-jun-2011
+   Creation Date: 12-jul-2003
+   Expiration Date: 12-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:06:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,57 +55,58 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ c/o Interworld Communications, Inc.
+ 2531 W. 237th Street
+ Suite 102
+ Torrance, CA 90505
  US
 
- Domain name: AKAMAITECHNOLOGIES.COM
+ Domain name: CUSTOMWHEELEXCHANGE.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Registrar, Domain  dns-admin@interworld.net
+    2531 W. 237th Street
+    Suite 102
+    Torrance, CA 90505
     US
-    +1.6174443000    Fax: +1.6174443001
+    +1.3108560550    Fax: +1.3108560557
 
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Registrar, Domain  dns-admin@interworld.net
+    2531 W. 237th Street
+    Suite 102
+    Torrance, CA 90505
     US
-    +1.6174443000    Fax: +1.6174443001
+    +1.3108560550    Fax: +1.3108560557
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    InterWorld Communications Inc, dns-admin@interworld.net
+    310-856-0550
+    310-856-0557 (fax)
+    http://www.interworld.net
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Dec-2009.
- Record expires on 17-Aug-2017.
- Record created on 18-Aug-1998.
+ Record last updated on 13-Jun-2011.
+ Record expires on 12-Jul-2012.
+ Record created on 12-Jul-2003.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    USC3.AKAM.NET
-    USW4.AKAM.NET
-    EUR1.AKAM.NET
-    NS1-137.AKAM.NET
-    USE4.AKAM.NET
-    USW5.AKAM.NET
-    ASIA1.AKAM.NET
-    NS1-2.AKAM.NET
+    NS.INTERWORLD.NET
+    NS2.INTERWORLD.NET
+    ALPHA.INTERWORLD.NET
 
 
- Domain status: clientTransferProhibited
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
                 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
