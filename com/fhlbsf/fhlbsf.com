@@ -5,22 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYHUNTERDOUGLAS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
+   Domain Name: FHLBSF.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
    Name Server: A4.NSTLD.COM
    Name Server: F4.NSTLD.COM
    Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 01-apr-2009
-   Expiration Date: 01-apr-2012
+   Status: clientUpdateProhibited
+   Updated Date: 08-oct-2006
+   Creation Date: 14-oct-1995
+   Expiration Date: 14-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:20:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:20:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,45 +55,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... myhunterdouglas.com
-  Creation Date........ 2009-04-02
-  Registration Date.... 2009-04-02
-  Expiry Date.......... 2012-04-02
-  Organisation Name.... Hunter Douglas
-  Organisation Address. One Duette Way
-  Organisation Address.
-  Organisation Address. Broomfield
-  Organisation Address. 80020
-  Organisation Address. CO
-  Organisation Address. UNITED STATES
-
-Admin Name........... noc admin
-  Admin Address........ One Duette Way
-  Admin Address........
-  Admin Address........ Broomfield
-  Admin Address........ 80020
-  Admin Address........ CO
-  Admin Address........ UNITED STATES
-  Admin Email.......... noc-admin@hunterdouglas.com
-  Admin Phone.......... +1.3034661848
-  Admin Fax............ +1.9999999999
-
-Tech Name............ noc admin
-  Tech Address......... One Duette Way
-  Tech Address.........
-  Tech Address......... Broomfield
-  Tech Address......... 80020
-  Tech Address......... CO
-  Tech Address......... UNITED STATES
-  Tech Email........... noc-admin@hunterdouglas.com
-  Tech Phone........... +1.3034661848
-  Tech Fax............. +1.9999999999
-  Name Server.......... a4.nstld.com
-  Name Server.......... f4.nstld.com
-  Name Server.......... g4.nstld.com
-  Name Server.......... h4.nstld.com
-  Name Server.......... j4.nstld.com
-  Name Server.......... l4.nstld.com
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   Federal Home Loan Bank of San Francisco
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: FHLBSF.COM
+
+   Domain servers in listed order:
+      F4.NSTLD.COM
+      G4.NSTLD.COM
+      A4.NSTLD.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FHLBSF.COM
