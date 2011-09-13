@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOSPIRE.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NEOSPIRE.NET
-   Name Server: NS2.NEOSPIRE.NET
-   Name Server: NS3.NEOSPIRE.NET
-   Name Server: RNS1.NEOSPIRE.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MONRIO.NET
+   Registrar: NORDNET
+   Whois Server: whois.nordnet.net
+   Referral URL: http://www.nordnet.net
+   Name Server: NS1.LERELAISINTERNET.COM
+   Name Server: NS2.LERELAISINTERNET.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 10-jul-2000
-   Expiration Date: 10-jul-2018
+   Updated Date: 16-apr-2011
+   Creation Date: 15-apr-2002
+   Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:53:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:52:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Serveur Whois version 4.1
+**************************************************
+* Base de Donnees des domaines COM, NET et ORG   *
+* enregistres par NORDNET.                       *
+* Ces informations sont affichees par le serveur *
+* Whois de NORDNET, le Registrar du              *
+* Groupe FRANCE-TELECOM                          *
+* Elles ne peuvent etre utilisees sans l accord  *
+* prealable de NORDNET.                          *
+*                                                *
+* Database of registration for COM, NET and      *
+* ORG by NORDNET.                                *
+* This informations is from NORDNET s Whois      *
+* Server, the Registrar for the                  *
+* Group FRANCE-TELECOM.                          *
+* Use of this data is strictly prohibited with   *
+* out proper authorisation of NORDNET.           *
+**************************************************
 
 Registrant:
-   Mitch Gervis
+	  (NNR-crousd15)
+		Crous De Montpellier
+		2 Rue Monteil
+		34000 Montpellier
+		FR
+		Phone:
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEOSPIRE.NET
+        Registrar....: Nordnet
+        Web..........: http://www.nordnet.net
+        Whois........: whois.nordnet.net
 
-   Domain servers in listed order:
-      NS1.NEOSPIRE.NET
-      RNS1.NEOSPIRE.NET
-      NS2.NEOSPIRE.NET
-      NS3.NEOSPIRE.NET
+	Domain Name: monrio.net
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEOSPIRE.NET
+	Administrative Contact:
+		Franceschino Serge (NNR-centre1625) serge.franceschino@wanadoo.fr
+		Centre Regional Oeuvres Univ Scolaires
+		2 Rue Monteil
+		34000 Montpellier
+		FR
+		Phone: +33.467415048	Fax: +33.467042696
+
+	Technical Contact:
+		Contact Technique  (NNR-lerela1) technical@lerelaisinternet.com
+		Le Relais Internet
+		111, Rue De Croix
+		59510 Hem
+		FR
+		Phone: +33.892702099	Fax: +33.320665669
+
+	Billing Contact:
+		Contact Facturation  (NNR-lerela0) billing-reg@lerelaisinternet.com
+		Le Relais Internet
+		111, Rue De Croix
+		59510 Hem
+		FR
+		Phone: +33.892702099	Fax: +33.320665669
+
+	Record last updated on 2011-Apr-15
+	Record expires on 2012-Apr-15
+	Record created on 2002-Apr-15
+
+	Domain servers in listed order:
+
+	ns1.lerelaisinternet.com
+	ns2.lerelaisinternet.com
+Deposez votre domaine sur le site http://www.nordnet.net
+
+
+Copyright Nordnet Registrar

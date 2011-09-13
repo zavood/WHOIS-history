@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATLANTALANDSCAPE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.HOSTMONSTER.COM
-   Name Server: NS2.HOSTMONSTER.COM
+   Domain Name: FLAMENCOBALLET.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS1.DISCOUNTASP.NET
+   Name Server: NS2.DISCOUNTASP.NET
+   Name Server: NS3.DISCOUNTASP.NET
    Status: ok
-   Updated Date: 28-apr-2011
-   Creation Date: 27-apr-2005
-   Expiration Date: 27-apr-2012
+   Updated Date: 02-aug-2011
+   Creation Date: 21-nov-2005
+   Expiration Date: 21-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:52:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:53:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
+
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name:	flamencoballet.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
+
+
+Registrant Contact
+
+Name:		Jorge    Ceron
+Address:	505E NW 96 ST
+		MIAMI, FL  33150
+		US
+
+Email Address:	isaac3x@hotmail.com
+Phone Number:	(786)258-4336
+
+
+Administrative Contact
+
+Name:		Jorge    Ceron
+Address:	505E NW 96 ST
+		MIAMI, FL  33150
+		US
+
+Email Address:	isaac3x@hotmail.com
+Phone Number:	(786)258-4336
+
+
+Technical Contact
+
+Name:		Jorge    Ceron
+Address:	505E NW 96 ST
+		MIAMI, FL  33150
+		US
+
+Email Address:	isaac3x@hotmail.com
+Phone Number:	(786)258-4336
+
+
+Record Created on........ 2005-11-21 11:36:56.531
+Record last updated on... 2011-08-02 10:44:23.424
+Expire on................ 2013-11-21 10:44:23.036
+
+Domain Nameservers in listed order:
+
+	ns1.discountasp.net
+ 	ns2.discountasp.net
+ 	ns3.discountasp.net
+

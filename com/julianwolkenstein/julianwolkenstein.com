@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATLANTALANDSCAPE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.HOSTMONSTER.COM
-   Name Server: NS2.HOSTMONSTER.COM
+   Domain Name: JULIANWOLKENSTEIN.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
    Status: ok
-   Updated Date: 28-apr-2011
-   Creation Date: 27-apr-2005
-   Expiration Date: 27-apr-2012
+   Updated Date: 06-sep-2011
+   Creation Date: 18-feb-2005
+   Expiration Date: 18-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:52:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:53:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... julianwolkenstein.com
+  Creation Date........ 2005-02-18
+  Registration Date.... 2011-08-31
+  Expiry Date.......... 2014-02-19
+  Organisation Name.... Wolkenstein p/l
+  Organisation Address. 8 Waite St
+  Organisation Address.
+  Organisation Address. Moss Vale
+  Organisation Address. 2577
+  Organisation Address. NSW
+  Organisation Address. AUSTRALIA
+
+Admin Name........... Wolkenstein Julian
+  Admin Address........ 8 Waite St
+  Admin Address........
+  Admin Address........ Moss Vale
+  Admin Address........ 2577
+  Admin Address........ NSW
+  Admin Address........ AUSTRALIA
+  Admin Email.......... enquiries@julianwolkenstein.com
+  Admin Phone.......... +61416248414
+  Admin Fax............
+
+Tech Name............ Administrator Domain
+  Tech Address......... 4553 Glencoe Ave
+  Tech Address......... Suite #325
+  Tech Address......... Marina Del Rey
+  Tech Address......... 90292
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dns-admin@inmotionhosting.com
+  Tech Phone........... +1.7574166575
+  Tech Fax.............
+  Name Server.......... ns.inmotionhosting.com
+  Name Server.......... ns2.inmotionhosting.com
+
+
