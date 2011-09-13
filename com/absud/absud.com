@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CACHEMONITOR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ABSUD.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2010
-   Expiration Date: 10-aug-2012
+   Updated Date: 03-may-2011
+   Creation Date: 17-may-2005
+   Expiration Date: 17-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:23:27 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Rene Kroes
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CACHEMONITOR.COM
-
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CACHEMONITOR.COM
+Domain Name : ABSUD.COM
+Created On : 2005-05-17
+Expiration Date : 2012-05-17
+Status : PROTECTED
+Registrant Name : Claude Choulet
+Registrant Street1 : 10 rue d'Aupailhac
+Registrant City : Miremont
+Registrant State/Province  :
+Registrant Postal Code : 31190
+Registrant Country : FR
+Admin Name : Claude Choulet
+Admin Street1 : 10 rue d'Aupailhac
+Admin City : Miremont
+Admin State/Province : FR
+Admin Postal Code : 31190
+Admin Country : FR
+Admin Phone : +33.561505919
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

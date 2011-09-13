@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D113359363-LROR
+Domain Name:UKSSC.ORG
+Created On:25-Jan-2006 16:58:10 UTC
+Last Updated On:23-Feb-2011 22:24:40 UTC
+Expiration Date:25-Jan-2012 16:58:10 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:135d380609967216
+Registrant Name:Kenneth  Zheng
+Registrant Organization:The UKSSC
+Registrant Street1:Flat 2b Crowndale Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:London
+Registrant Postal Code:NW1 1TT
+Registrant Country:GB
+Registrant Phone:+44.7552584348
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:secretary@ukssc.org
+Admin ID:135d380609967216
+Admin Name:Kenneth  Zheng
+Admin Organization:The UKSSC
+Admin Street1:Flat 2b Crowndale Road
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:London
+Admin Postal Code:NW1 1TT
+Admin Country:GB
+Admin Phone:+44.7552584348
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:secretary@ukssc.org
+Tech ID:135d380609967216
+Tech Name:Kenneth  Zheng
+Tech Organization:The UKSSC
+Tech Street1:Flat 2b Crowndale Road
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:NW1 1TT
+Tech Country:GB
+Tech Phone:+44.7552584348
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:secretary@ukssc.org
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

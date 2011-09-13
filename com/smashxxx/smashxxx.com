@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CACHEMONITOR.COM
+   Domain Name: SMASHXXX.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Name Server: NS61.DOMAINCONTROL.COM
+   Name Server: NS62.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 10-aug-2010
-   Expiration Date: 10-aug-2012
+   Updated Date: 25-aug-2010
+   Creation Date: 17-sep-2007
+   Expiration Date: 17-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:23:27 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Rene Kroes
+   Hushinc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CACHEMONITOR.COM
+   Domain Name: SMASHXXX.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS61.DOMAINCONTROL.COM
+      NS62.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CACHEMONITOR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SMASHXXX.COM
