@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107379462-LROR
+Domain Name:FEMMSS.ORG
+Created On:05-Sep-2005 01:34:56 UTC
+Last Updated On:28-Aug-2008 12:24:27 UTC
+Expiration Date:05-Sep-2013 01:34:56 UTC
+Sponsoring Registrar:Sibername Internet and Software Technologies Inc. (R1388-LROR)
+Status:OK
+Registrant ID:DI_6922417
+Registrant Name:Letitia Meynell
+Registrant Organization:Dalhousie University
+Registrant Street1:Philosophy Department, Dalhousie University
+Registrant Street2:
+Registrant Street3:
+Registrant City:Halifax
+Registrant State/Province:NS
+Registrant Postal Code:B3H 4P9
+Registrant Country:CA
+Registrant Phone:+1.9024943342
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lmeynell@gmail.com
+Admin ID:DI_6922417
+Admin Name:Letitia Meynell
+Admin Organization:Dalhousie University
+Admin Street1:Philosophy Department, Dalhousie University
+Admin Street2:
+Admin Street3:
+Admin City:Halifax
+Admin State/Province:NS
+Admin Postal Code:B3H 4P9
+Admin Country:CA
+Admin Phone:+1.9024943342
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lmeynell@gmail.com
+Tech ID:DI_8626857
+Tech Name:DNS Technical Contact
+Tech Organization:Dalhousie University
+Tech Street1:Networks and Systems, Dalhousie University, 6225 University Ave
+Tech Street2:
+Tech Street3:
+Tech City:Halifax
+Tech State/Province:Nova Scotia
+Tech Postal Code:B3H 4H8
+Tech Country:CA
+Tech Phone:+1.9024942662
+Tech Phone Ext.:
+Tech FAX:+1.9024942319
+Tech FAX Ext.:
+Tech Email:DNSTech@dal.ca
+Name Server:NS1.DAL.CA
+Name Server:NS2.DAL.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

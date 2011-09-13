@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS1836.NET
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS.AS1836.CH
-   Name Server: NS.AS1836.NET
-   Status: ok
-   Updated Date: 04-jun-2008
-   Creation Date: 28-nov-2005
-   Expiration Date: 28-nov-2011
+   Domain Name: MNSICO.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS41.DNSEVER.COM
+   Name Server: NS47.DNSEVER.COM
+   Status: clientTransferProhibited
+   Updated Date: 26-oct-2010
+   Creation Date: 06-nov-2001
+   Expiration Date: 06-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:03:23 UTC &lt;&lt;&lt;
 
@@ -51,57 +54,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  VIA NET.WORKS Schweiz AG (VIANETWO186)
-  Badstrasse 50
+Domain Name : mnsico.com
 
-  Brugg, , 5201
-  CH
+::Registrant::
+Name : M&amp;S Build Co., Ltd.
+Email : mnsico@yahoo.co.kr
+Address : Suite 1710, Dong-eui-bo-gam Tower Yongdu-dong Dongdaemun-gu, Seoul, kOREA
+Zipcode : 130723
+Nation : KR
+Tel : 02-741-8041
+Fax : 02-764-8045
 
-  Domain name: as1836.net
+::Administrative Contact::
+Name : M&amp;S Build Co., Ltd.
+Email : mnsico@yahoo.co.kr
+Address : Suite 1710, Dong-eui-bo-gam Tower Yongdu-dong Dongdaemun-gu, Seoul, kOREA
+Zipcode : 130723
+Nation : KR
+Tel : 02-741-8041
+Fax : 02-764-8045
 
-Technical contact:
-  Grueter, Franz (FG1552)
-  green.ch AG
-  Badstrasse 50
+::Technical Contact::
+Name : M&amp;S Build Co., Ltd.
+Email : mnsico@yahoo.co.kr
+Address : Suite 1710, Dong-eui-bo-gam Tower Yongdu-dong Dongdaemun-gu, Seoul, kOREA
+Zipcode : 130723
+Nation : KR
+Tel : 02-741-8041
+Fax : 02-764-8045
 
-  Brugg, 5201
-  CH
-  hostmaster@green.ch
-  +41.564602323 Fax: +41.564602300
+::Name Servers::
+ns19.dnsever.com
+ns41.dnsever.com
+ns47.dnsever.com
+ns231.dnsever.com
 
-Administrative contact:
-  Grueter, Franz (FG1547)
-  green.ch AG
-  Badstrasse 50
+::Dates &amp; Status::
+Created Date : 2001/11/06 04:49:23 EST
+Updated Date : 2010/10/26 14:31:58 EST
+Valid Date : 2011/11/06 04:49:23 EST
+Status ACTIVE
 
-  Brugg, 5201
-  CH
-  hostmaster@green.ch
-  +41.564602323 Fax: +41.564602300
 
-Record created:           2008-05-29 12:29:40
-Record last updated:      2008-06-04 17:11:51
-Record expires:           2011-11-28 00:00:00
-
-Domain servers in listed order:
-  ns.as1836.ch (NSASCH833)
-  ns.as1836.net (NSASNET240)
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

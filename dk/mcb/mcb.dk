@@ -12,17 +12,18 @@
 # are explicitly forbidden and will be prosecuted. DK Hostmaster A/S
 # requests to be notified of any such activities or suspicions thereof.
 
-Domain:               hsp.dk
-DNS:                  hsp.dk
-Registered:           2009-01-06
-Expires:              2012-01-31
-Registration period:  1 year
+Domain:               mcb.dk
+DNS:                  mcb.dk
+Registered:           1999-10-14
+Expires:              2015-12-31
+Registration period:  5 years
 VID:                  no
 Status:               Active
 
 Nameservers
-Hostname:             ns01.one.com
-Hostname:             ns02.one.com
+Hostname:             ns1.mcb.dk
+Hostname:             ns2.mcb.dk
+Hostname:             ns3.mcb.dk
 
 # Use option --show-handles to get handle information.
 # Whois HELP for more help.

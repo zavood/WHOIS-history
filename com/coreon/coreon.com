@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS1836.NET
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS.AS1836.CH
-   Name Server: NS.AS1836.NET
-   Status: ok
-   Updated Date: 04-jun-2008
-   Creation Date: 28-nov-2005
-   Expiration Date: 28-nov-2011
+   Domain Name: COREON.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.HITFARM.COM
+   Name Server: NS2.HITFARM.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 03-jun-2011
+   Creation Date: 28-jun-2002
+   Expiration Date: 28-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:03:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:02:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  VIA NET.WORKS Schweiz AG (VIANETWO186)
-  Badstrasse 50
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-  Brugg, , 5201
-  CH
-
-  Domain name: as1836.net
-
-Technical contact:
-  Grueter, Franz (FG1552)
-  green.ch AG
-  Badstrasse 50
-
-  Brugg, 5201
-  CH
-  hostmaster@green.ch
-  +41.564602323 Fax: +41.564602300
+Domain coreon.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 22383075753930
+  22383075753930-ca6791@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
 Administrative contact:
-  Grueter, Franz (FG1547)
-  green.ch AG
-  Badstrasse 50
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 22383075753930
+  22383075753930-ca6791@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-  Brugg, 5201
-  CH
-  hostmaster@green.ch
-  +41.564602323 Fax: +41.564602300
+Record dates:
+  Record created on: 2002-06-28 18:07:15 UTC
+  Record modified on: 2011-06-03 22:00:01 UTC
+  Record expires on: 2012-06-28 UTC
 
-Record created:           2008-05-29 12:29:40
-Record last updated:      2008-06-04 17:11:51
-Record expires:           2011-11-28 00:00:00
+Nameservers:
+  ns2.hitfarm.com:
+    64.40.102.32
+  ns1.hitfarm.com:
+    72.51.27.54
 
-Domain servers in listed order:
-  ns.as1836.ch (NSASCH833)
-  ns.as1836.net (NSASNET240)
+Note: Automated collection of data from this database is strictly prohibited.
+
