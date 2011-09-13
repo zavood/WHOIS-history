@@ -5,14 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GMAIL.COM.BR
-GMAIL.COM
+TUMBLR.COM.THETRILOGYBOUTIQUE.COM
+TUMBLR.COM.THEQUILTCOTTAGELLC.COM
+TUMBLR.COM.SHAITEG.COM
+TUMBLR.COM.SCHILLINGESI.COM
+TUMBLR.COM.MARISSACALLORI.COM
+TUMBLR.COM.JEURYSANMUSIC.COM
+TUMBLR.COM.DANGERSHARK.COM
+TUMBLR.COM.BILLSLOCKSHOP.COM
+TUMBLR.COM.AU
+TUMBLR.COM
 
 To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
 of the records displayed above. If the records are the same, look them up
 with &quot;=xxx&quot; to receive a full display for each record.
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:15:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:15:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

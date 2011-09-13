@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160076980-LROR
+Domain Name:MOOOGLE.ORG
+Created On:06-Sep-2010 11:12:16 UTC
+Last Updated On:08-Sep-2011 10:38:20 UTC
+Expiration Date:06-Sep-2012 11:12:16 UTC
+Sponsoring Registrar:united-domains AG (R1838-LROR)
+Status:TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:P-15420842
+Registrant Name:Michael Muther
+Registrant Street1:Sonnmatt 22
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sempach
+Registrant State/Province:
+Registrant Postal Code:6204
+Registrant Country:CH
+Registrant Phone:+41.41
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:michael.muther@gmail.com
+Admin ID:P-15420842
+Admin Name:Michael Muther
+Admin Street1:Sonnmatt 22
+Admin Street2:
+Admin Street3:
+Admin City:Sempach
+Admin State/Province:
+Admin Postal Code:6204
+Admin Country:CH
+Admin Phone:+41.41
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:michael.muther@gmail.com
+Tech ID:P-NCT21-63
+Tech Name:Hostmaster Hostmaster
+Tech Organization:united-domains AG
+Tech Street1:Gautinger Strasse 10
+Tech Street2:
+Tech Street3:
+Tech City:Starnberg
+Tech State/Province:
+Tech Postal Code:82319
+Tech Country:DE
+Tech Phone:+49.8151368670
+Tech Phone Ext.:
+Tech FAX:+49.81513686777
+Tech FAX Ext.:
+Tech Email:hostmaster@united-domains.de
+Name Server:NS2.HOSTPOINT.CH
+Name Server:NS.HOSTPOINT.CH
+Name Server:NS3.HOSTPOINT.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,14 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GMAIL.COM.BR
-GMAIL.COM
+   Domain Name: VACCINEU.COM
+   Registrar: INAMES CO., LTD.
+   Whois Server: whois.inames.co.kr
+   Referral URL: http://www.inames.co.kr
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS33.DNSEVER.COM
+   Name Server: NS61.DNSEVER.COM
+   Name Server: NS76.DNSEVER.COM
+   Status: ok
+   Updated Date: 27-apr-2011
+   Creation Date: 27-apr-2011
+   Expiration Date: 27-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:15:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:14:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +54,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+
+Domain Name: VACCINEU.COM
+Domain Status: ACTIVE
+Registrar: Inames Co., Ltd. dba inames.co.kr
+Referral URL: http://www.inames.co.kr
+
+Service Provider: hostcenter
+Phone: 02-6925-5046
+URL: www.domainclub.kr
+Email: domain@hostcenter.co.kr
+
+Domain Registration Date....: 2011-04-27 GMT.
+Domain Expiration Date......: 2012-04-27 GMT.
+Domain Last Updated Date....: 2011-04-27 07:42:41 GMT.
+
+Registrant:
+    vaccineu
+    108-1404 10 modern apartments myeongsudae, Seoul Dongjak-gu Heukseok-dong
+    tmp_ecity, tmp_estate 156070
+    Korea
+
+Administrative, Technical, Billing Contact:
+    vaccineu    sisilri07@naver.com
+    108-1404 10 modern apartments myeongsudae, Seoul Dongjak-gu Heukseok-dong
+    tmp_ecity, tmp_estate 156070
+    Korea
+    (PHONE) +82-31-558-0886    (FAX) +82-31-558-0886
+
+
+Domain Name Servers in listed order:
+    NS33.DNSEVER.COM		121.254.154.163
+    NS61.DNSEVER.COM		121.254.154.191
+    NS76.DNSEVER.COM		121.254.154.206
+    NS231.DNSEVER.COM		125.141.231.179
+    NS259.DNSEVER.COM		121.254.154.233
+
