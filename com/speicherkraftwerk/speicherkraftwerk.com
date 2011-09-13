@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRUPOALEGRIADECORAZON.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SHIELDHOST.COM
-   Name Server: NS2.SHIELDHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-feb-2011
-   Creation Date: 11-feb-2010
-   Expiration Date: 11-feb-2012
+   Domain Name: SPEICHERKRAFTWERK.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS01.1BLU.DE
+   Name Server: NS02.1BLU.DE
+   Status: ok
+   Updated Date: 06-mar-2011
+   Creation Date: 05-mar-2007
+   Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:54:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:56:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by 1blu AG
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; 1blu AG does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: SPEICHERKRAFTWERK.COM
 
+RSP: 1blu AG
+URL: http://www.1blu.de
 
-Registrant:
-   NetComm Sistemas y Telecomunicaciones
+owner-contact: P-ARF123
+owner-fname: andr&Atilde;&copy;
+owner-lname: finzel
+owner-street: Am Schulacker 2
+owner-city: Gro&Atilde;Ÿ-Zimmern
+owner-zip: 64846
+owner-country: DE
+owner-phone: 06071 826438
+owner-email: webpower123@hotmail.de
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GRUPOALEGRIADECORAZON.COM
+admin-contact: P-ARF123
+admin-fname: andr&Atilde;&copy;
+admin-lname: finzel
+admin-street: Am Schulacker 2
+admin-city: Gro&Atilde;Ÿ-Zimmern
+admin-zip: 64846
+admin-country: DE
+admin-phone: 06071 826438
+admin-email: webpower123@hotmail.de
 
-   Domain servers in listed order:
-      NS1.SHIELDHOST.COM
-      NS2.SHIELDHOST.COM
+tech-contact: P-JPD121
+tech-organization: 1blu AG
+tech-fname: Johann
+tech-lname: Dasch
+tech-street: Stromstr. 1-5
+tech-city: Berlin
+tech-state: Berlin
+tech-zip: 10555
+tech-country: DE
+tech-phone: 493020181000
+tech-fax: 493020181001
+tech-email: info@1blu.de
 
+billing-contact: P-JPD121
+billing-organization: 1blu AG
+billing-fname: Johann
+billing-lname: Dasch
+billing-street: Stromstr. 1-5
+billing-city: Berlin
+billing-state: Berlin
+billing-zip: 10555
+billing-country: DE
+billing-phone: 493020181000
+billing-fax: 493020181001
+billing-email: info@1blu.de
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GRUPOALEGRIADECORAZON.COM
+nameserver: ns01.1blu.de
+nameserver: ns02.1blu.de
+
+; Please register your domains at
+; http://www.1blu.de
+

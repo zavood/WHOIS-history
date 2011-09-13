@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148401443-LROR
+Domain Name:BIOCHAR-INTERNATIONAL.ORG
+Created On:02-Jul-2007 15:14:18 UTC
+Last Updated On:10-Jul-2009 18:25:14 UTC
+Expiration Date:02-Jul-2015 15:14:18 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:42010259-NSI
+Registrant Name:International Biochar Initiative
+Registrant Organization:International Biochar Initiative
+Registrant Street1:3012 Military Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Arlington
+Registrant State/Province:VA
+Registrant Postal Code:22207
+Registrant Country:US
+Registrant Phone:+1.571431662
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:42010259-NSI
+Admin Name:International Biochar Initiative
+Admin Organization:International Biochar Initiative
+Admin Street1:3012 Military Road
+Admin Street2:
+Admin Street3:
+Admin City:Arlington
+Admin State/Province:VA
+Admin Postal Code:22207
+Admin Country:US
+Admin Phone:+1.571431662
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:42010259-NSI
+Tech Name:International Biochar Initiative
+Tech Organization:International Biochar Initiative
+Tech Street1:3012 Military Road
+Tech Street2:
+Tech Street3:
+Tech City:Arlington
+Tech State/Province:VA
+Tech Postal Code:22207
+Tech Country:US
+Tech Phone:+1.571431662
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS.HIS.COM
+Name Server:NS2.HIS.COM
+Name Server:NS3.HIS.COM
+Name Server:NS4.HIS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
