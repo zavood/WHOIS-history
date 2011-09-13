@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 12-jun-2000
    Expiration Date: 12-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:14:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:43:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -110,7 +110,7 @@ NOVANI, LLC
 
    Record expires on 12-Jun-2015.
    Record created on 12-Jun-2000.
-   Database last updated on 12-Sep-2011 02:05:10 EDT.
+   Database last updated on 13-Sep-2011 02:34:21 EDT.
 
    Domain servers in listed order:
 
