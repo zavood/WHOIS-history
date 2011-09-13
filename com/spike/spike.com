@@ -5,26 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 1E100.NET
+   Domain Name: SPIKE.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS1.GOOGLE.COM
-   Name Server: NS2.GOOGLE.COM
-   Name Server: NS3.GOOGLE.COM
-   Name Server: NS4.GOOGLE.COM
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-sep-2010
-   Creation Date: 25-sep-2009
-   Expiration Date: 25-sep-2019
+   Updated Date: 21-jan-2009
+   Creation Date: 19-mar-1997
+   Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:51:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:50:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,44 +83,46 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Domain Registrant
+        Viacom International Inc.
+        1515 Broadway
+         New York NY 10036
         US
-        dns-admin@google.com +1.6502530000 Fax: +1.6506188571
+        domreg-admin@mtvn.com +1.2122586000 Fax: +1.2128461965
 
-    Domain Name: 1e100.net
+    Domain Name: spike.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Domain Administrator
+        Viacom International Inc.
+        1515 Broadway
+         New York NY 10036
         US
-        dns-admin@google.com +1.6502530000 Fax: +1.6506188571
+        domreg-admin@mtvn.com +1.2122588000 Fax: -
     Technical Contact, Zone Contact:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Domain Technical Admin
+        Viacom International Inc.
+        1515 Broadway
+         New York NY 10036
         US
-        dns-admin@google.com +1.6502530000 Fax: +1.6506188571
+        domreg-tech@mtvn.com +1.2122586000 Fax:
 
-    Created on..............: 2009-09-24.
-    Expires on..............: 2019-09-24.
-    Record last updated on..: 2011-05-05.
+    Created on..............: 1997-03-18.
+    Expires on..............: 2011-12-09.
+    Record last updated on..: 2010-11-01.
 
     Domain servers in listed order:
 
-    ns2.google.com
-    ns1.google.com
-    ns3.google.com
-    ns4.google.com
+    pdns6.ultradns.co.uk
+    pdns2.ultradns.net
+    pdns1.ultradns.net
+    pdns4.ultradns.org
+    pdns3.ultradns.org
+    pdns5.ultradns.info
 
 
 
@@ -137,4 +137,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+
