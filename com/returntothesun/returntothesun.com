@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASHAMPOO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: AUTH02.NS.DE.UU.NET
-   Name Server: AUTH52.NS.DE.UU.NET
+   Domain Name: RETURNTOTHESUN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.RETURNTOTHESUN.COM
+   Name Server: NS2.RETURNTOTHESUN.COM
    Status: clientTransferProhibited
-   Updated Date: 29-jul-2011
-   Creation Date: 28-jul-1999
-   Expiration Date: 28-jul-2012
+   Updated Date: 25-may-2011
+   Creation Date: 03-jun-2010
+   Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:25:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:24:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+=-=-=-=
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  ashampoo GmbH &amp; CO. KG (ASHAMPOO132)
-  Felix-Wankel-Strasse 16
 
-  Oldenburg, , 26125
-  DE
+Domain name: returntothesun.com
 
-  Domain name: ashampoo.com
+Registrant Contact:
 
-Technical contact:
-  Hostmaster, Verizon (UH956)
-  Verizon Deutschland GmbH
-  Sebrathweg 20
+   Kristen King ()
 
-  D-44149, Dortmund
-  DE
-  domtech@eu.uu.net
-  +49.2319720 Fax: +49.2319722082
+   Fax:
+   44148 Hardwood Ave
+   Lancaster,  93534
+   US
 
-Administrative contact:
-  Hilchner, Rolf (RH3217)
-  ashampoo GmbH &amp; CO. KG
-  Felix-Wankel-Strasse 16
+Administrative Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
 
-  Oldenburg, 26125
-  DE
-  rh@ashampoo.com
-  +49.441933790 Fax: +49.4419337979
+Technical Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
 
-Record created:           2004-01-18 16:54:00
-Record last updated:      2005-02-01 13:52:00
-Record expires:           2012-07-28 00:00:00
+Status: Locked
 
-Domain servers in listed order:
-  auth02.ns.de.uu.net (AUTHNSDE866)
-  auth52.ns.de.uu.net (AUTHNSDE861)
+Name Servers:
+   ns1.returntothesun.com
+   ns2.returntothesun.com
+
+Creation date: 04 Jun 2010 03:19:00
+Expiration date: 03 Jun 2012 22:19:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

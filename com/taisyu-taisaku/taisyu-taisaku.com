@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASHAMPOO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: AUTH02.NS.DE.UU.NET
-   Name Server: AUTH52.NS.DE.UU.NET
-   Status: clientTransferProhibited
-   Updated Date: 29-jul-2011
-   Creation Date: 28-jul-1999
-   Expiration Date: 28-jul-2012
+   Domain Name: TAISYU-TAISAKU.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS01.CHICAPPA.JP
+   Name Server: DNS02.CHICAPPA.JP
+   Status: ok
+   Updated Date: 23-feb-2011
+   Creation Date: 25-mar-2008
+   Expiration Date: 25-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:25:02 UTC &lt;&lt;&lt;
 
@@ -51,57 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+GMO Internet, Inc. whois server 2.0
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  ashampoo GmbH &amp; CO. KG (ASHAMPOO132)
-  Felix-Wankel-Strasse 16
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-  Oldenburg, , 26125
-  DE
+Domain Handle: None
+Domain Name: taisyu-taisaku.com
+Created On: 2008-03-25 16:57:11.0
+Last Updated On: 2011-02-24 09:15:54.0
+Expiration Date: 2012-03-25 07:57:11.0
+Status: ACTIVE
+Registrant Name: shouichiro fukano
+Registrant Organization: Innovade Co.,Ltd.
+Registrant Street1: 1-11-1 Takasago Chuouku
+Registrant Street2:
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100011
+Registrant Country: JP
+Registrant Phone: 81-92-534-0005
+Registrant Fax:
+Registrant Email: webmaster@innovade.co.jp
+Admin Name: shouichiro fukano
+Admin Organization: Innovade Co.,Ltd.
+Admin Street1: 1-11-1 Takasago Chuouku
+Admin Street2:
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100011
+Admin Country: JP
+Admin Phone: 81-92-534-0005
+Admin Fax:
+Admin Email: webmaster@innovade.co.jp
+Billing Name: shouichiro fukano
+Billing Organization: Innovade Co.,Ltd.
+Billing Street1: 1-11-1 Takasago Chuouku
+Billing Street2:
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100011
+Billing Country: JP
+Billing Phone: 81-92-534-0005
+Billing Fax:
+Billing Email: webmaster@innovade.co.jp
+Tech Name: shouichiro fukano
+Tech Organization: Innovade Co.,Ltd.
+Tech Street1: 1-11-1 Takasago Chuouku
+Tech Street2:
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100011
+Tech Country: JP
+Tech Phone: 81-92-534-0005
+Tech Fax:
+Tech Email: webmaster@innovade.co.jp
+Name Server: dns01.chicappa.jp
+Name Server: dns02.chicappa.jp
 
-  Domain name: ashampoo.com
-
-Technical contact:
-  Hostmaster, Verizon (UH956)
-  Verizon Deutschland GmbH
-  Sebrathweg 20
-
-  D-44149, Dortmund
-  DE
-  domtech@eu.uu.net
-  +49.2319720 Fax: +49.2319722082
-
-Administrative contact:
-  Hilchner, Rolf (RH3217)
-  ashampoo GmbH &amp; CO. KG
-  Felix-Wankel-Strasse 16
-
-  Oldenburg, 26125
-  DE
-  rh@ashampoo.com
-  +49.441933790 Fax: +49.4419337979
-
-Record created:           2004-01-18 16:54:00
-Record last updated:      2005-02-01 13:52:00
-Record expires:           2012-07-28 00:00:00
-
-Domain servers in listed order:
-  auth02.ns.de.uu.net (AUTHNSDE866)
-  auth52.ns.de.uu.net (AUTHNSDE861)
