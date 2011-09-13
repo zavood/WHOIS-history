@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GINYAS.COM
+   Domain Name: KSSHRM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Name Server: NS1.AFFINISCAPE.COM
+   Name Server: NS2.AFFINISCAPE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 13-may-2006
-   Expiration Date: 13-may-2012
+   Updated Date: 28-sep-2010
+   Creation Date: 22-oct-2004
+   Expiration Date: 22-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:43:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:42:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Igal Rubinstein
+   Affiniscape, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GINYAS.COM
+   Domain Name: KSSHRM.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+      NS1.AFFINISCAPE.COM
+      NS2.AFFINISCAPE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GINYAS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=KSSHRM.COM
