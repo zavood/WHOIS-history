@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LONETREE.COM
+   Domain Name: DIABETESMINE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS2.LONETREE.COM
-   Name Server: NS3.LONETREE.COM
-   Name Server: TOMCAT.LONETREE.COM
+   Name Server: NS.DIABETESMINE.COM
+   Name Server: NS.FORUMONE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-may-2010
-   Creation Date: 03-may-1996
-   Expiration Date: 04-may-2012
+   Updated Date: 16-apr-2009
+   Creation Date: 23-feb-2005
+   Expiration Date: 23-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:02:06 UTC &lt;&lt;&lt;
 
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   WyomingNetwork, Inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LONETREE.COM
+   Domain Name: DIABETESMINE.COM
 
    Domain servers in listed order:
-      NS2.LONETREE.COM
-      NS3.LONETREE.COM
-      TOMCAT.LONETREE.COM
+      NS.FORUMONE.COM
+      NS.DIABETESMINE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LONETREE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DIABETESMINE.COM
