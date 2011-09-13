@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:42:22 (BRT -03:00)
+
+domain:      ofertastam.com.br
+owner:       TAM Linhas Aereas S/A
+ownerid:     002.012.862/0001-60
+responsible: Tam Hostmaster Team
+country:     BR
+owner-c:     THT33
+admin-c:     THT33
+tech-c:      THT33
+billing-c:   THT33
+nserver:     ns1.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns3.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20070507 #3560073
+expires:     20130507
+changed:     20110207
+status:      published
+
+nic-hdl-br:  THT33
+person:      TAM Hostmaster Team
+e-mail:      tam.hostmaster@tam.com.br
+created:     20031020
+changed:     20110627
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

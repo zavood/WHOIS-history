@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; fashionunited.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      fashionunited.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EZS4-FRNIC
+admin-c:     PJ417-FRNIC
+tech-c:      EZS1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11126-FRNIC
+registrar:   E-ZONE SAS
+anniversary: 12/08
+created:     12/08/2004
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL11126-FRNIC
+nserver:     nsa.byte.nl
+nserver:     nsb.byte.nl
+nserver:     nsc.byte.nl
+source:      FRNIC
+
+registrar:   E-ZONE SAS
+type:        Isp Option 1
+address:     149 Boulevard Malesherbes
+address:     PARIS
+country:     FR
+phone:       +33 1 70 70 03 93
+fax-no:      +33 1 70 70 03 94
+e-mail:      contact@e-zone.fr
+website:     http://www.e-zone.fr
+anonymous:   NO
+registered:  27/04/2004
+source:      FRNIC
+
+nic-hdl:     PJ417-FRNIC
+type:        PERSON
+contact:     Paul Janssens
+address:     e-Zone SAS
+address:     149, boulevard Malesherbes
+address:     75017 Paris
+country:     FR
+phone:       +33 1 70 70 03 93
+fax-no:      +33 1 70 70 03 94
+e-mail:      info@e-zone.fr
+changed:     07/06/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EZS1-FRNIC
+type:        ROLE
+contact:     E-ZONE Support
+address:     E-Zone SAS
+address:     boulevard Malesherbes, 149
+address:     75017 Paris
+country:     FR
+phone:       +33 1 70 70 03 93
+fax-no:      +33 1 70 70 03 94
+e-mail:      info@e-zone.fr
+trouble:     Information : http://www.e-zone.fr
+admin-c:     PJ292-FRNIC
+tech-c:      PJ292-FRNIC
+notify:      info@e-zone.fr
+changed:     07/04/2004 info@e-zone.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EZS4-FRNIC
+type:        ORGANIZATION
+contact:     e-Zone SAS
+address:     149, boulevard Malesherbes
+address:     75017 Paris
+country:     FR
+phone:       +33 1 70 70 03 93
+fax-no:      +33 1 70 70 03 94
+e-mail:      info@e-zone.fr
+changed:     05/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
