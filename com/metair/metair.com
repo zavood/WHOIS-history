@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SRV6207.NET
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
+   Domain Name: METAIR.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 19-may-2011
-   Expiration Date: 19-may-2012
+   Status: clientUpdateProhibited
+   Updated Date: 15-apr-2011
+   Creation Date: 16-apr-1998
+   Expiration Date: 15-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:40:58 UTC &lt;&lt;&lt;
 
@@ -51,50 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... srv6207.net
-  Creation Date........ 2011-05-19 23:50:57
-  Registration Date.... 2011-05-19 23:50:57
-  Expiry Date.......... 2012-05-19 23:50:57
-  Organisation Name.... chang chen
-  Organisation Address. nanchangshichangshouqubeibenlu145hao101shi
-  Organisation Address.
-  Organisation Address. nanchang
-  Organisation Address. 326523
-  Organisation Address. JX
-  Organisation Address. CN
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Admin Name........... changchen
-  Admin Address........ nanchangshichangshouqubeibenlu145hao101shi
-  Admin Address........
-  Admin Address........ nanchang
-  Admin Address........ 326523
-  Admin Address........ JX
-  Admin Address........ CN
-  Admin Email.......... ftgy23fge@126.com
-  Admin Phone.......... +86.1326548545-0
-  Admin Fax............ +86.1326548545
 
-Tech Name............ lu chuan
-  Tech Address......... guangzhou
-  Tech Address.........
-  Tech Address......... Guangzhou
-  Tech Address......... 510660
-  Tech Address......... GD
-  Tech Address......... CN
-  Tech Email........... 350286@qq.com
-  Tech Phone........... +86.18602055765
-  Tech Fax............. +86.18602055765
+Registrant:
+   FSA, Inc.
 
-Bill Name............ lu chuan
-  Bill Address......... guangzhou
-  Bill Address.........
-  Bill Address......... Guangzhou
-  Bill Address......... 510660
-  Bill Address......... GD
-  Bill Address......... CN
-  Bill Email........... 350286@qq.com
-  Bill Phone........... +86.18602055765
-  Bill Fax............. +86.18602055765
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: METAIR.COM
+
+   Domain servers in listed order:
+      DNS1.STABLETRANSIT.COM
+      DNS2.STABLETRANSIT.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=METAIR.COM
