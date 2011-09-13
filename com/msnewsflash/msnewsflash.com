@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PEDALLINGAROUND.COM
+   Domain Name: MSNEWSFLASH.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Name Server: NS1.WINDOWS8BETA.NET
+   Name Server: NS2.WINDOWS8BETA.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-aug-2010
-   Creation Date: 10-oct-2006
-   Expiration Date: 10-oct-2015
+   Updated Date: 08-may-2011
+   Creation Date: 23-mar-2011
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:09:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:09:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
