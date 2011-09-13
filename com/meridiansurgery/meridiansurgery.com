@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MASSCHAOS-GM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Domain Name: MERIDIANSURGERY.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: MA1.MEDAVE.COM
+   Name Server: MA3.MEDAVE.COM
    Status: clientTransferProhibited
-   Updated Date: 10-aug-2010
-   Creation Date: 05-dec-2009
-   Expiration Date: 05-dec-2011
+   Updated Date: 01-oct-2008
+   Creation Date: 01-dec-2003
+   Expiration Date: 06-sep-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:44:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:45:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Kelly Tjelmeland
+   4220 Bull Creek Rd.
+   Austin, TX 78731
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: MERIDIANSURGERY.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact, Technical Contact, Zone Contact:
+      Kelly Tjelmeland
+      4220 Bull Creek Rd.
+      Austin, TX 78731
+      US
+      (512)617-7500
+      (512)617-7507 [fax]
+      whois@emailaddressprotection.com
+   ** VISIT http://www.emailaddressprotection.com **
 
-Whois Query: masschaos-gm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:35:13 EDT 2011
-Reason Code: IE
+   Domain created on 01-Dec-2003
+   Domain expires on 06-Sep-2018
+   Last updated on 18-Feb-2010
+
+   Domain servers in listed order:
+
+      MA1.MEDAVE.COM
+      MA3.MEDAVE.COM
+
+At our customer's request, our system is acting as a proxy for email
+addressed to the contacts which are listed above. Please visit
+www.emailaddressprotection.com to contact the appropriate party.
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

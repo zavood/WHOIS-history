@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MELOTR.COM
-   Registrar: FBS INC.
-   Whois Server: whois.isimtescil.net
-   Referral URL: http://www.isimtescil.net
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
+   Domain Name: FASTSERVERSFORYOU.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NSR1.NETPU.COM
+   Name Server: NSR2.NETPU.COM
+   Name Server: NSR3.NETPU.COM
+   Name Server: NSR4.NETPU.COM
    Status: clientTransferProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 28-aug-2010
-   Expiration Date: 28-aug-2012
+   Updated Date: 25-mar-2011
+   Creation Date: 07-apr-2010
+   Expiration Date: 07-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:45:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:45:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +53,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;strong&gt;Registration Service Provided By: &lt;/strong&gt;Registration Service Provided By: WWW.ISIMTESCIL.NET
-Contact: +90.2163299393
- &lt;br&gt;
-          &lt;strong&gt;Domain Adi: MELOTR.COM &lt;/strong&gt;
-          &lt;strong&gt;Bitis Tarihi: &lt;/strong&gt;28-Aug-2011
-          &lt;strong&gt;Kaydedilme Tarihi: &lt;/strong&gt; 28-Aug-2010
-          &lt;strong&gt;Domain Durumu: &lt;/strong&gt; RENEWAL HOLD
-	Note: This Domain Name has expired. In this status the domain name
-	is inactive. This domain name will be activated once it is renewed.
-	 The Owner of this domain name can renew this domain name from their control panel.
-	If this domain name is not renewed by 07-Oct-2011, it will be permanently deleted. &lt;br&gt;
-          &lt;strong&gt;DNS Sunucular: &lt;/strong&gt;&lt;br&gt;
-    ns1.alvemar.com
-    ns2.alvemar.com
- &lt;br&gt;
-&lt;strong&gt;Kaydedicinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Mersin Tarsus CID84733
-    Ahmet Kosar        (humanThom@hotmail.com)
-    SOFULAR MAHALLESI  37. SOKAK
-    MERSIN
-    ,34100
-    TR
-    Tel. +90.5462829452
-    Fax. +90.00000 &lt;br&gt;
-&lt;strong&gt;Yoneticinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Mersin Tarsus CID84733
-    Ahmet Kosar        (humanThom@hotmail.com)
-    SOFULAR MAHALLESI  37. SOKAK
-    MERSIN
-    ,34100
-    TR
-    Tel. +90.5462829452
-    Fax. +90.00000 &lt;br&gt;
-&lt;strong&gt;Teknik Yetkilinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Mersin Tarsus CID84733
-    Ahmet Kosar        (humanThom@hotmail.com)
-    SOFULAR MAHALLESI  37. SOKAK
-    MERSIN
-    ,34100
-    TR
-    Tel. +90.5462829452
-    Fax. +90.00000 &lt;br&gt;
-&lt;strong&gt;Odeme Yetkilisinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
-     Mersin Tarsus CID84733
-    Ahmet Kosar        (humanThom@hotmail.com)
-    SOFULAR MAHALLESI  37. SOKAK
-    MERSIN
-    ,34100
-    TR
-    Tel. +90.5462829452
-    Fax. +90.00000 &lt;br&gt;
+Registration Service Provided By: NETPU TECHNOLOGY
+Contact: +001.2068011855
+Website: http://www.netpu.com
+
+Domain Name: FASTSERVERSFORYOU.COM
+
+Registrant:
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
+
+Creation Date: 07-Apr-2010
+Expiration Date: 07-Apr-2012
+
+Domain servers in listed order:
+    nsr1.netpu.com
+    nsr2.netpu.com
+    nsr3.netpu.com
+    nsr4.netpu.com
+
+
+Administrative Contact:
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
+
+Technical Contact:
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
+
+Billing Contact:
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
+
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+
+PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
+protect the owner from spam and phishing attacks. PrivacyProtect.org is not
+responsible for any of the activities associated with this domain name. If you wish
+to report any abuse concerning the usage of this domain name, you may do so at
+http://privacyprotect.org/contact. We have a stringent abuse policy and any
+complaint will be actioned within a short period of time.
+
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,
@@ -112,8 +132,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is FBS Inc..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
 

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MASSCHAOS-GM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
-   Status: clientTransferProhibited
-   Updated Date: 10-aug-2010
-   Creation Date: 05-dec-2009
-   Expiration Date: 05-dec-2011
+   Domain Name: JUNO-E.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.YMC.NE.JP
+   Name Server: DNS2.YMC.NE.JP
+   Status: ok
+   Updated Date: 02-aug-2011
+   Creation Date: 12-mar-2001
+   Expiration Date: 12-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:44:56 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... juno-e.com
+  Creation Date........ 2001-03-12
+  Registration Date.... 2005-09-02
+  Expiry Date.......... 2013-03-12
+  Organisation Name.... Yoshinori Yanai
+  Organisation Address. 15-4,Higashimachi
+  Organisation Address.
+  Organisation Address. Masuda-shi
+  Organisation Address. 698-0001
+  Organisation Address. Shimane-ken
+  Organisation Address. JAPAN
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Takaki Sakabe
+  Admin Address........ 15-4,Higashimachi
+  Admin Address........
+  Admin Address........ Masuda-shi
+  Admin Address........ 698-0001
+  Admin Address........ Shimane-ken
+  Admin Address........ JAPAN
+  Admin Email.......... g-tld@so-net.ne.jp
+  Admin Phone.......... +81.856236252
+  Admin Fax............ +81.856236252
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Takaki Sakabe
+  Tech Address......... 15-4,Higashimachi
+  Tech Address.........
+  Tech Address......... Masuda-shi
+  Tech Address......... 698-0001
+  Tech Address......... Shimane-ken
+  Tech Address......... JAPAN
+  Tech Email........... g-tld@so-net.ne.jp
+  Tech Phone........... +81.856236252
+  Tech Fax............. +81.856236252
+  Name Server.......... dns1.ymc.ne.jp
+  Name Server.......... dns2.ymc.ne.jp
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: masschaos-gm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:35:13 EDT 2011
-Reason Code: IE

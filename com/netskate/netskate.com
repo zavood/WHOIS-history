@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MASSCHAOS-GM.COM
+   Domain Name: NETSKATE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Name Server: NS.DREAMWORXHOSTING.NET
+   Name Server: NS2.DREAMWORXHOSTING.NET
    Status: clientTransferProhibited
-   Updated Date: 10-aug-2010
-   Creation Date: 05-dec-2009
-   Expiration Date: 05-dec-2011
+   Updated Date: 26-mar-2011
+   Creation Date: 25-mar-1996
+   Expiration Date: 26-mar-2021
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:44:56 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: masschaos-gm.com
+Whois Query: netskate.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:35:13 EDT 2011
+Date and Time of Query: Tue Sep 13 17:34:38 EDT 2011
 Reason Code: IE

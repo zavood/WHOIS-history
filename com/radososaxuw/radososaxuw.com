@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MASSCHAOS-GM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Domain Name: RADOSOSAXUW.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.RADOSOSAXUW.COM
+   Name Server: NS2.RADOSOSAXUW.COM
    Status: clientTransferProhibited
-   Updated Date: 10-aug-2010
-   Creation Date: 05-dec-2009
-   Expiration Date: 05-dec-2011
+   Updated Date: 17-jun-2011
+   Creation Date: 07-jun-2011
+   Expiration Date: 07-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:44:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:46:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 Jessie Bucklin oars@fxmail.net +1.6135494766
+	 Jessie Bucklin
+	 225 King Street East
+	 Kingston,ON,CA K7L 3A7
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: masschaos-gm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:35:13 EDT 2011
-Reason Code: IE
+Domain Name:radososaxuw.com
+Record last updated at
+Record created on 2011/6/7
+Record expired on 2012/6/7
+
+
+Domain servers in listed order:
+	 ns1.radososaxuw.com 	 ns2.radososaxuw.com
+
+Administrator:
+	 name: Jessie Bucklin
+ mail: oars@fxmail.net tel: +1.6135494766
+	 org: Jessie Bucklin
+
+address: 225 King Street East
+	 city: Kingston
+,province: ON
+,country: CA
+ postcode: K7L 3A7
+
+Technical Contactor:
+	 name: Jessie Bucklin
+ mail: oars@fxmail.net tel: +1.6135494766
+	 org: Jessie Bucklin
+
+address: 225 King Street East
+	 city: Kingston
+,province: ON
+,country: CA
+ postcode: K7L 3A7
+
+Billing Contactor:
+	 name: Jessie Bucklin
+ mail: oars@fxmail.net tel: +1.6135494766
+	 org: Jessie Bucklin
+
+address: 225 King Street East
+	 city: Kingston
+,province: ON
+,country: CA
+ postcode: K7L 3A7
+
