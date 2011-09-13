@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHARLOTTEAREAHOMESONLINE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 29-dec-2005
-   Expiration Date: 29-dec-2014
+   Domain Name: HOLLANDSEGARNAAL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.IS.NL
+   Name Server: NS2.IS.NL
+   Status: ok
+   Updated Date: 24-may-2011
+   Creation Date: 14-nov-2002
+   Expiration Date: 14-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:46:39 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... hollandsegarnaal.com
+  Creation Date........ 2002-11-15
+  Registration Date.... 2002-11-15
+  Expiry Date.......... 2011-11-15
+  Organisation Name.... Heiploeg B.V.
+  Organisation Address. Panserweg 14
+  Organisation Address.
+  Organisation Address. ZOUTKAMP
+  Organisation Address. 9974SL
+  Organisation Address. na
+  Organisation Address. NETHERLANDS
+
+Admin Name........... Margreet van Harn
+  Admin Address........ Panserweg 14
+  Admin Address........
+  Admin Address........ ZOUTKAMP
+  Admin Address........ 9974SL
+  Admin Address........ na
+  Admin Address........ NETHERLANDS
+  Admin Email.......... margreet.vanharn@heiploeg.com
+  Admin Phone.......... 31.505405555
+  Admin Fax............
+
+Tech Name............ IS Domeinbeheer
+  Tech Address......... Gorslaan 18
+  Tech Address.........
+  Tech Address......... Purmerend
+  Tech Address......... 1441 RG
+  Tech Address......... -
+  Tech Address......... NETHERLANDS
+  Tech Email........... domainadmin@is.nl
+  Tech Phone........... +31.299476185
+  Tech Fax............. +31.299476288
+  Name Server.......... ns1.is.nl
+  Name Server.......... ns2.is.nl
 
 
-Registrant:
-   Venture Realty
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CHARLOTTEAREAHOMESONLINE.COM
-
-   Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CHARLOTTEAREAHOMESONLINE.COM

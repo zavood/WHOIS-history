@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHARLOTTEAREAHOMESONLINE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 29-dec-2005
-   Expiration Date: 29-dec-2014
+   Domain Name: DOPPELCARAMEL.COM
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: A.NS14.NET
+   Name Server: B.NS14.NET
+   Name Server: C.NS14.NET
+   Name Server: D.NS14.NET
+   Status: redemptionPeriod
+   Updated Date: 09-sep-2011
+   Creation Date: 07-mar-2003
+   Expiration Date: 07-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:46:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:47:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,22 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 174.142.225.246
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain doppelcaramel.com
+% Timestamp: 2011-09-13 16:48:02
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
 
 
-Registrant:
-   Venture Realty
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CHARLOTTEAREAHOMESONLINE.COM
-
-   Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CHARLOTTEAREAHOMESONLINE.COM
+DomainQuery doppelcaramel.com NOT FOUND
