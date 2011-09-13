@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BATTLE.NET
+   Domain Name: EMI.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS-EAST.CERF.NET
-   Name Server: NS-WEST.CERF.NET
+   Name Server: NS1.EMIHOSTING.COM
+   Name Server: NS1.EMIHOSTING2.COM
+   Name Server: NS1.EMIHOSTING3.COM
+   Name Server: NS2.EMIHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 26-mar-1996
-   Expiration Date: 27-mar-2013
+   Updated Date: 26-jan-2011
+   Creation Date: 25-jan-1994
+   Expiration Date: 26-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:47:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:45:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: battle.net
+Whois Query: emi.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:37:06 EDT 2011
+Date and Time of Query: Tue Sep 13 15:35:50 EDT 2011
 Reason Code: IE

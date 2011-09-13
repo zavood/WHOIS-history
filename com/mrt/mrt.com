@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BATTLE.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS-EAST.CERF.NET
-   Name Server: NS-WEST.CERF.NET
+   Domain Name: MRT.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.HEARSTNP.COM
+   Name Server: NS2.HEARSTNP.COM
+   Name Server: NS3.HEARSTNP.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 26-mar-1996
-   Expiration Date: 27-mar-2013
+   Updated Date: 02-sep-2011
+   Creation Date: 01-nov-1994
+   Expiration Date: 31-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:47:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:46:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... mrt.com
+  Creation Date........ 1994-11-01
+  Registration Date.... 2009-08-27
+  Expiry Date.......... 2012-11-01
+  Organisation Name.... The Hearst Corporation
+  Organisation Address. 300 West 57th Street
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10019
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... The Hearst Corporation
+  Admin Address........ Newspapers/Midland Reporter
+  Admin Address........ 959 8th Avenue
+  Admin Address........ New York
+  Admin Address........ 10019
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domains@HEARST.COM
+  Admin Phone.......... +1.2126492000
+  Admin Fax............ +1.2126492639
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Gordon Zeigler
+  Tech Address......... PO BOX 1240
+  Tech Address.........
+  Tech Address......... PLAINVIEW
+  Tech Address......... 79073-1240
+  Tech Address......... TX
+  Tech Address......... UNITED STATES
+  Tech Email........... gzeigler@plainviewdailyherald.com
+  Tech Phone........... +1.8062961346
+  Tech Fax............. +1.8062961315
+  Name Server.......... ns3.hearstnp.com
+  Name Server.......... ns1.hearstnp.com
+  Name Server.......... ns2.hearstnp.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: battle.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:37:06 EDT 2011
-Reason Code: IE

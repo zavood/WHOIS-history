@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BYE121D-NORID
+Domain Name................: byer.no
+Domain Holder Handle.......: JG109O-NORID
+Registrar Handle...........: REG812-NORID
+Legal-c Handle.............: JG1535P-NORID
+Tech-c Handle..............: HM1278P-NORID
+Name Server Handle.........: NSON12H-NORID
+Name Server Handle.........: NSON8H-NORID
+
+Additional information:
+Created:         2007-10-03
+Last updated:    2011-08-04
+
+NORID Handle...............: JG109O-NORID
+Type.......................: organization
+Name.......................: JAN GUNDERSEN
+Id Type....................: organization_number
+Id Number..................: 976027582
+Registrar Handle...........: REG812-NORID
+Post Address...............: Postboks 117
+Postal Code................: NO-9915
+Postal Area................: Kirkenes
+Country....................: NO
+Mobile Phone Number........: +47.99256625
+Email Address..............: klinknor@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

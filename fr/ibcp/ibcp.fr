@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ibcp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ibcp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IDBE1-FRNIC
+admin-c:     AC197-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1430-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 28/05/2004
+source:      FRNIC
+
+ns-list:     NSL1430-FRNIC
+nserver:     audi.ibcp.fr [193.51.160.127]
+nserver:     bentley.ibcp.fr [193.51.160.1]
+nserver:     ccpnvx.in2p3.fr [134.158.69.104]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     IDBE1-FRNIC
+type:        ORGANIZATION
+contact:     Institut de Biologie et Chimie des Proteines - IBPC
+address:     7, passage du Vercors
+address:     69367 Lyon
+country:     FR
+phone:       +33 1 00 00 00 00
+changed:     10/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AC197-FRNIC
+type:        PERSON
+contact:     Alain-Jean Cozzone
+address:     Institut de Biologie et Chimie des Proteines - IBCP
+address:     7, passage du Vercors
+address:     69367 Lyon Cedex 7
+country:     FR
+phone:       +33 72 72 26 72
+e-mail:      cozzone@ibcp.fr
+notify:      cozzone@ibcp.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

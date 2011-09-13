@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; loca.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      loca.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A22310-FRNIC
+admin-c:     DL4227-FRNIC
+tech-c:      PC8417-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5437-FRNIC
+registrar:   OPEN WEB NETWORK SOLUTIONS
+anniversary: 04/08
+created:     04/08/2003
+last-update: 11/02/2011
+source:      FRNIC
+
+ns-list:     NSL5437-FRNIC
+nserver:     ns.ows.fr [194.116.202.43]
+nserver:     ns2.ows.fr [212.37.219.30]
+source:      FRNIC
+
+registrar:   OPEN WEB NETWORK SOLUTIONS
+type:        Isp Option 2
+address:     23 rue du dessous des berges
+address:     PARIS
+country:     FR
+phone:       +33 1 42 46 40 25
+fax-no:      +33 9 55 29 17 34
+e-mail:      contact@ows.fr
+website:     http://www.owns.fr
+anonymous:   NO
+registered:  11/02/2011
+source:      FRNIC
+
+nic-hdl:     DL4227-FRNIC
+type:        PERSON
+contact:     Daniel Livonnet
+address:     AGC
+address:     192, rue de Vesle
+address:     51100 Reims
+country:     FR
+phone:       +33 3 26 88 51 50
+fax-no:      +33 3 26 07 99 53
+e-mail:      agc.loca@wanadoo.fr
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PC8417-FRNIC
+type:        ROLE
+contact:     Perronnet Cedric
+address:     Open Web Solutions
+address:     26, rue du faubourg Saint Antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+e-mail:      contact@ows.fr
+admin-c:     CP404-FRNIC
+tech-c:      CP404-FRNIC
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A22310-FRNIC
+type:        ORGANIZATION
+contact:     AGC
+address:     192, rue de Vesle
+address:     51100 Reims
+country:     FR
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
