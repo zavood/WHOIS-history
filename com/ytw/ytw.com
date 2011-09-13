@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-CHRON.COM
-CHRON.COM
+   Domain Name: YTW.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: DNS1.MALKM.COM
+   Name Server: DNS2.MALKM.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-sep-2011
+   Creation Date: 09-jan-2000
+   Expiration Date: 09-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:47:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:45:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain ytw.com
+
+Date Registered: 2000-1-9
+Date Modified: 2011-9-9
+Expiry Date: 2012-1-9
+
+DNS1: dns1.malkm.com
+DNS2: dns2.malkm.com
+
+Registrant
+    Private Whois ytw.com
+    Private Whois ytw.com  jv5lgd64d943db9bff42@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ytw.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois ytw.com
+    Private Whois ytw.com  cacrjev4d943db9d40c6@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ytw.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois ytw.com
+    Private Whois ytw.com  bj83ht24d943db9ce6d0@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ytw.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

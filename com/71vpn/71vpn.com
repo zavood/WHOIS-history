@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-CHRON.COM
-CHRON.COM
+   Domain Name: 71VPN.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: NS3.01ISP.COM
+   Name Server: NS4.01ISP.NET
+   Status: clientTransferProhibited
+   Updated Date: 18-feb-2011
+   Creation Date: 07-apr-2007
+   Expiration Date: 07-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:47:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:46:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Dear Valued Customer,
+
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
+
+
+Domain name: 71vpn.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+
+Registrant:
+Name: WuXianLin
+Organization: WuXianLin
+Address: changjiang road NO.28
+City: WuXianLin
+Province/state: SH
+Country: CN
+Postal Code: 210110
+Email: wuely@163.com
+
+Administrative Contact:
+Name: WuXianLin
+Organization: WuXianLin
+Address: changjiang road NO.28
+City: WuXianLin
+Province/state: SH
+Country: CN
+Postal Code: 210110
+Phone: +86.2164499499
+Fax: +86.2164499499
+Email: wuely@163.com
+
+Technical Contact:
+Name: WuXianLin
+Organization: WuXianLin
+Address: changjiang road NO.28
+City: WuXianLin
+Province/state: SH
+Country: CN
+Postal Code: 210110
+
+
+Nameserver Information:
+    ns3.01isp.com
+    ns4.01isp.net
+
+Create: 2007-04-07 23:50:39
+Update: 2011-02-18
+Expired: 2012-04-07
+QueryTimes: 264
+
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.
