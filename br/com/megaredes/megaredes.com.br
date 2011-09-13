@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 22:25:19 (BRT -03:00)
+
+domain:      megaredes.com.br
+owner:       RAUL BAZETH
+ownerid:     038.091.227-93
+country:     BR
+owner-c:     RABAZ3
+admin-c:     RABAZ3
+tech-c:      RABAZ3
+billing-c:   RABAZ3
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+saci:        yes
+created:     20110704 #8531491
+expires:     20120704
+changed:     20110719
+status:      published
+
+nic-hdl-br:  RABAZ3
+person:      Raul Bazeth
+e-mail:      raulbazeth@yahoo.com.br
+created:     20090728
+changed:     20110704
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
