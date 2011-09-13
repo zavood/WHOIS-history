@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVERAIL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Domain Name: UNLIKELYMOOSE.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS.MALDRE.COM
+   Name Server: NS1.MALDRE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jul-2010
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2013
+   Updated Date: 13-may-2010
+   Creation Date: 18-may-2001
+   Expiration Date: 18-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:12:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:12:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+Maldre, Erik
+   Erik Maldre
+   266 Monterey Ave
+   Elmhurst, IL 60126
+   US
+
+   Domain Name: UNLIKELYMOOSE.COM
+
+   Administrative Contact:
+      Maldre, Erik		yikesmoose@yahoo.com
+      Erik Maldre
+      266 Monterey Ave
+      Elmhurst, IL 60126
+      US
+      630-279-3611
+
+
+   Record expires on 18-May-2013.
+   Record created on 20-Apr-2004.
+   Database last updated on 12-Sep-2011 23:02:24 EDT.
+
+   Domain servers in listed order:
+
+   NS.MALDRE.COM                66.187.110.169
+   NS1.MALDRE.COM               66.187.110.170
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

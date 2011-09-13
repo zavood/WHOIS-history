@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVERAIL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jul-2010
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2013
+   Domain Name: SZEXCSAP.COM
+   Registrar: DOTROLL KFT.
+   Whois Server: whois.dotroll.com
+   Referral URL: http://www.dotroll.com
+   Name Server: NS1.DOTROLL.COM
+   Name Server: NS2.DOTROLL.COM
+   Status: ok
+   Updated Date: 01-feb-2011
+   Creation Date: 18-nov-2009
+   Expiration Date: 18-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:12:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:11:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+;
+;            D o t R o l l  D o m a i n  R e g i s t r a t i o n
+;
+; The Data in DotRoll WHOIS database is provided for information purposes only.
+; The fact that DotRoll display such information does not provide any guarantee
+; expressed or implied on the purpose for which the database may be used, its
+; accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+; use this Data only for lawful purposes and that, under no circumstances will
+; you use this Data to:
+
+; (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+; commercial advertising or solicitations via e-mail (spam); or
+; (2) enable high volume, automated, electronic processes that apply to DotRoll
+; (or its systems). DotRoll reserves the right to modify these terms at any time.
+;
+; By submitting this query, you agree to abide by the above policy.
+;
+DOMAIN: szexcsap.com
+
+Registrant:
+Company:
+Name:           Attila Billig
+Address:        Petofi Sandor 48
+City:           Felsozsolca
+Country:        HU
+Postal Code:    3561
+Phone:          +36-702907339
+Email:          billigattila@gmail.com
+
+Administrative Contact:
+Company:
+Name:           Attila Billig
+Address:        Petofi Sandor 48
+City:           Felsozsolca
+Country:        HU
+Postal Code:    3561
+Phone:          +36-702907339
+Email:          billigattila@gmail.com
+
+Technical Contact:
+Company:
+Name:           Attila Billig
+Address:        Petofi Sandor 48
+City:           Felsozsolca
+Country:        HU
+Postal Code:    3561
+Phone:          +36-702907339
+Email:          billigattila@gmail.com
+
+Record created: 2011-02-01 10:35:34 CET
+Last updated:   2011-06-20 04:01:03 CEST
+Domain Expires: 2012-11-18 10:15:32 CET
+Name servers:   ns1.dotroll.com
+                ns2.dotroll.com
+
+; Register your domain name at http://www.dotroll.com
