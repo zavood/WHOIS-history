@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SEOQUAKE.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.SEOQUAKE.COM
-   Name Server: NS2.SEOQUAKE.COM
-   Name Server: NS3.SEOQUAKE.COM
-   Status: ok
-   Updated Date: 29-apr-2011
-   Creation Date: 16-jun-2006
-   Expiration Date: 16-jun-2015
+   Domain Name: SHOWMEBLOGS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: SRV3.WJWEBDESIGNS.COM
+   Name Server: SRV4.WJWEBDESIGNS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-jul-2011
+   Creation Date: 22-apr-2006
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:45:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:44:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,77 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
-Registrant:
-	 Dmitri Melnikov mail@seoquaketeam.com +7.8123631708
-	 seoquake team
-	 zanevskiy 30
-	 Saint-Petersburg,SPb,RU 195112
-
-
-Domain Name:seoquake.com
-Record last updated at 2011-06-17 03:44:22
-Record created on 2006/6/16
-Record expired on 2015/6/16
-
-
-Domain servers in listed order:
-	 ns1.seoquake.com 	 ns2.seoquake.com
-
-Administrator:
-	 name:(Dmitri Melnikov)
-	Email:(mail@seoquaketeam.com) tel-- +7.8123631708
-	 seoquake team
-	 zanevskiy 30
-\r
-t Saint-Petersburg
-SPb,
-RU
-
- zipcode:195112
-
-Technical Contactor:
-	 name:(Dmitri Melnikov)
-	Email:(mail@seoquaketeam.com) tel-- +7.8123631708
-	 seoquake team
-	 zanevskiy 30
-\r
-t Saint-Petersburg
-SPb,
-RU
-
- zipcode:195112
-
-Billing Contactor:
-	 name:(Dmitri Melnikov)
-	Email:(mail@seoquaketeam.com) tel-- +7.8123631708
-	 seoquake team
-	 zanevskiy 30
-\r
-t Saint-Petersburg
-SPb,
-RU
-
- zipcode:195112
-
-
-Registration Service Provider:
-	name: SEOQuakeTeam
-	tel: +7.9112385147
- 	fax: +7.9112385147
- 	web:http://
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
