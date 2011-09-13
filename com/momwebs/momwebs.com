@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: T35.COM
+   Domain Name: MOMWEBS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.T35.NET
-   Name Server: NS2.T35.NET
-   Status: clientTransferProhibited
-   Updated Date: 09-jul-2010
-   Creation Date: 30-mar-1999
-   Expiration Date: 30-mar-2012
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
+   Status: ok
+   Updated Date: 16-jul-2011
+   Creation Date: 24-jul-2004
+   Expiration Date: 24-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:04:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:03:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about t35.com
-&lt;a href=&quot;http://www.aboutus.org/t35.com&quot;&gt;AboutUs: t35.com&lt;/a&gt;
+Visit AboutUs.org for more information about momwebs.com
+&lt;a href=&quot;http://www.aboutus.org/momwebs.com&quot;&gt;AboutUs: momwebs.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: t35.com
-
-Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
-
-   Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+Domain name: momwebs.com
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (575d77d688d64e9dbc35ca1b76635113.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   Reliable Webs
+   Kelly McCausey (billing@reliablewebs.com)
+   +1.5173763247
+   Fax:
+   P. O. 315
+   Portland, MI 48875
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (575d77d688d64e9dbc35ca1b76635113.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   Reliable Webs
+   Kelly McCausey (billing@reliablewebs.com)
+   +1.5173763247
+   Fax:
+   P. O. 315
+   Portland, MI 48875
    US
 
-Status: Locked
+Registrant Contact:
+   Reliable Webs
+   Kelly McCausey ()
+
+   Fax:
+   P. O. 315
+   Portland, MI 48875
+   US
+
+Status: Active
 
 Name Servers:
-   ns1.t35.net
-   ns2.t35.net
+   ns0.dnsmadeeasy.com
+   ns1.dnsmadeeasy.com
+   ns2.dnsmadeeasy.com
+   ns3.dnsmadeeasy.com
+   ns4.dnsmadeeasy.com
 
-Creation date: 30 Mar 1999 00:00:00
-Expiration date: 30 Mar 2012 00:00:00
+Creation date: 25 Jul 2004 00:03:32
+Expiration date: 25 Jul 2012 00:03:00
 
 
 

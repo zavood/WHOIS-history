@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: T35.COM
+   Domain Name: DETROITNIPPLEWORKS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.T35.NET
-   Name Server: NS2.T35.NET
+   Name Server: NS1.VRMETRO.COM
+   Name Server: NS2.VRMETRO.COM
    Status: clientTransferProhibited
-   Updated Date: 09-jul-2010
-   Creation Date: 30-mar-1999
-   Expiration Date: 30-mar-2012
+   Updated Date: 29-jun-2011
+   Creation Date: 10-sep-2006
+   Expiration Date: 10-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:04:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:03:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about t35.com
-&lt;a href=&quot;http://www.aboutus.org/t35.com&quot;&gt;AboutUs: t35.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: t35.com
+Domain name: detroitnippleworks.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   Detroit Nipple Works
+   Mike Laresen ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   6530 Beaubien St
+   Detroit, MI 48202
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (575d77d688d64e9dbc35ca1b76635113.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   VR Metro LLC
+   Randy Johnston (hostmaster@vrmetro.com)
+   +1.7347297082
+   Fax:
+   37655 Ford Road
+   Westland, MI 48185
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (575d77d688d64e9dbc35ca1b76635113.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   NA
+   Mark Sutton (mm12sutton@yahoo.com)
+   +1.2483905481
+   Fax:
+   22833 Violet
+   Farmington, MI 48336
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.t35.net
-   ns2.t35.net
+   NS1.VRMETRO.COM
+   NS2.VRMETRO.COM
 
-Creation date: 30 Mar 1999 00:00:00
-Expiration date: 30 Mar 2012 00:00:00
+Creation date: 10 Sep 2006 23:29:00
+Expiration date: 10 Sep 2012 23:29:00
 
 
 
