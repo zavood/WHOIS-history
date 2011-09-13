@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: AFT144D-NORID
+Domain Name................: afterdawn.no
+Domain Holder Handle.......: RDF6O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: PMK2427P-NORID
+Tech-c Handle..............: PMK2428P-NORID
+Name Server Handle.........: DLLW2H-NORID
+Name Server Handle.........: HEVO2H-NORID
+
+Additional information:
+Created:         2010-09-24
+Last updated:    2011-05-05
+
+NORID Handle...............: RDF6O-NORID
+Type.......................: organization
+Name.......................: RANDABERG DOMENE FORENING
+Id Type....................: organization_number
+Id Number..................: 990793026
+Registrar Handle...........: REG164-NORID
+Post Address...............: Postboks 163
+Postal Code................: NO-4358
+Postal Area................: Kleppe
+Country....................: NO
+Phone Number...............: +47.85392165
+Fax Number.................: +47.51207892
+Email Address..............: hostmaster@nethut.no
+
+Additional information:
+Created:         2011-05-05
+Last updated:    2011-05-05
+

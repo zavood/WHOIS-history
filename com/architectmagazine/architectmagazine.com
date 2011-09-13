@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: ARCHITECTMAGAZINE.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Updated Date: 16-sep-2010
+   Creation Date: 13-jan-2003
+   Expiration Date: 13-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Hanley Wood LLC
+   1 Thomas Circle, NW Suite 600
+   Washington, DC 20005
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: ARCHITECTMAGAZINE.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact, Technical Contact, Zone Contact:
+      Hanley Wood LLC
+      DNS ADMIN
+      1 Thomas Circle, NW Suite 600
+      Washington, DC 20005
+      US
+      (202)736-3767
+      (202)785-1974 [fax]
+      dnsadmin@hanleywood.com
 
-Whois Query: apnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
-Reason Code: IE
+   Domain created on 13-Jan-2003
+   Domain expires on 14-Jan-2012
+   Last updated on 16-Sep-2010
+
+   Domain servers in listed order:
+
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Domain Name: SANOKAI.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NS1.XSERVER.JP
+   Name Server: NS2.XSERVER.JP
+   Status: ok
+   Updated Date: 26-jan-2011
+   Creation Date: 28-mar-2000
+   Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+GMO Internet, Inc. whois server 2.0
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Handle: 16948
+Domain Name: sanokai.com
+Created On: 2000-03-28 14:24:26.0
+Last Updated On: 2011-01-27 12:28:30.0
+Expiration Date: 2012-03-28 00:28:10.0
+Status: ACTIVE
+Registrant Name: iryouhoujin sanokai
+Registrant Organization: iryouhoujin sanokai
+Registrant Street1: 7-1-7-115
+Registrant Street2:
+Registrant City: edogawaku minamikasai
+Registrant State: tokyo
+Registrant Postal Code: 134-0085
+Registrant Country: JP
+Registrant Phone: 9999999999
+Registrant Fax:
+Registrant Email: admin@onamae.com
+Admin Name: sano shuuji
+Admin Organization: iryouhoujin sanokai
+Admin Street1: 7-1-7-115
+Admin Street2:
+Admin City: edogawaku minamikasai
+Admin State: Tokyo
+Admin Postal Code: 134-0085
+Admin Country: JP
+Admin Phone: 03-3877-0841
+Admin Fax: 03-3877-6471
+Admin Email: sano007@nifty.com
+Billing Name: sano shuuji
+Billing Organization: iryouhoujin sanokai
+Billing Street1: 7-1-7-115
+Billing Street2:
+Billing City: edogawaku minamikasai
+Billing State: Tokyo
+Billing Postal Code: 134-0085
+Billing Country: JP
+Billing Phone: 03-3877-0841
+Billing Fax: 03-3877-6471
+Billing Email: sano007@nifty.com
+Tech Name: sano shuuji
+Tech Organization: sano shuuji
+Tech Street1: 7-1-7-115
+Tech Street2:
+Tech City: edogawaku minamikasai
+Tech State: Tokyo
+Tech Postal Code: 134-0085
+Tech Country: JP
+Tech Phone: 03-3877-0841
+Tech Fax: 03-3877-6471
+Tech Email: sano007@nifty.com
+Name Server: ns1.xserver.jp
+Name Server: ns2.xserver.jp
 
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: apnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
-Reason Code: IE

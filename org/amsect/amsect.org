@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4207832-LROR
+Domain Name:AMSECT.ORG
+Created On:26-Dec-1995 05:00:00 UTC
+Last Updated On:09-Feb-2010 16:37:31 UTC
+Expiration Date:25-Dec-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25911661-NSI
+Registrant Name:AmSECT
+Registrant Organization:AmSECT
+Registrant Street1:503 Carlisle Drive, #125
+Registrant Street2:
+Registrant Street3:
+Registrant City:Herndon
+Registrant State/Province:VA
+Registrant Postal Code:20170
+Registrant Country:US
+Registrant Phone:+1.70343585
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@AMSECT.ORG
+Admin ID:25911664-NSI
+Admin Name:AmSECT
+Admin Organization:AmSECT
+Admin Street1:503 Carlisle Drive, #125
+Admin Street2:
+Admin Street3:
+Admin City:Herndon
+Admin State/Province:VA
+Admin Postal Code:20170
+Admin Country:US
+Admin Phone:+1.70343585
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@AMSECT.ORG
+Tech ID:31642187-NSI
+Tech Name:Remove User
+Tech Organization:Tokunaga, Tetsushi
+Tech Street1:1-51-1 Hatsudai Shibuya-ku
+Tech Street2:
+Tech Street3:
+Tech City:Tokyo
+Tech State/Province:Tokyo
+Tech Postal Code:34471
+Tech Country:JP
+Tech Phone:+81.353433543
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:jack@simpleartistanddisplay.com
+Name Server:NS1.DNSMADEEASY.COM
+Name Server:NS4.DNSMADEEASY.COM
+Name Server:NS3.DNSMADEEASY.COM
+Name Server:NS0.DNSMADEEASY.COM
+Name Server:NS2.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

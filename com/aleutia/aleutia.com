@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
+   Domain Name: ALEUTIA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
    Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Updated Date: 13-jul-2011
+   Creation Date: 05-aug-1997
+   Expiration Date: 04-aug-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:52:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: apnews.com
+Whois Query: aleutia.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
+Date and Time of Query: Mon Sep 12 20:48:32 EDT 2011
 Reason Code: IE

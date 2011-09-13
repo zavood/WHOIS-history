@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Domain Name: SEAFLOG.COM
+   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
+   Whois Server: whois.dattatec.com
+   Referral URL: http://www.dattatec.com
+   Name Server: NS1-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   Name Server: NS2-DOMINIO-SUSPENDIDO.TRAXHOST.COM
+   Status: pendingDelete
+   Updated Date: 08-sep-2011
+   Creation Date: 24-jul-2008
+   Expiration Date: 24-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,9 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: apnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
-Reason Code: IE
+Datttatec.com - Registration Service Provided By: Dattatec.com
+Contact: +54 341 599000
+Email: dominios@dattatec.com
+Website: http://www.dattatec.com
+DOMAIN seaflog.com NO  FOUND!

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Domain Name: BJCBXY.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientUpdateProhibited
+   Updated Date: 11-aug-2011
+   Creation Date: 06-aug-2010
+   Expiration Date: 06-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 bei jing cheng bo xing ye zhuang shi gong cheng you xian gong si lotus_7452@163.com +86.02156844012
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+	 bei jing
+	 bei jing,bei jing,CN 200940
 
-Whois Query: apnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
-Reason Code: IE
+
+Domain Name:bjcbxy.com
+Record last updated at 2011-08-11 01:40:53
+Record created on 2010/8/6
+Record expired on 2015/8/6
+
+
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
+
+Administrator:
+	 name:(bei jing cheng bo xing ye zhuang shi gong cheng you xian gong si)
+	Email:(lotus_7452@163.com) tel-- +86.02156844012
+
+	 bei jing
+\r
+t bei jing
+bei jing,
+CN
+
+ zipcode:200940
+
+Technical Contactor:
+	 name:(bei jing cheng bo xing ye zhuang shi gong cheng you xian gong si)
+	Email:(lotus_7452@163.com) tel-- +86.02156844012
+
+	 bei jing
+\r
+t bei jing
+bei jing,
+CN
+
+ zipcode:200940
+
+Billing Contactor:
+	 name:(bei jing cheng bo xing ye zhuang shi gong cheng you xian gong si)
+	Email:(lotus_7452@163.com) tel-- +86.02156844012
+
+	 bei jing
+\r
+t bei jing
+bei jing,
+CN
+
+ zipcode:200940
+

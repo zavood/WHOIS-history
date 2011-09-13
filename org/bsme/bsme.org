@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8123493-LROR
+Domain Name:BSME.ORG
+Created On:18-Jul-1999 20:37:19 UTC
+Last Updated On:11-Aug-2011 22:15:17 UTC
+Expiration Date:18-Jul-2012 20:37:19 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:9A223E7C636BF3C6
+Registrant Name:Clure Bradley
+Registrant Organization:Wavefront Technologies
+Registrant Street1:12314 Maple Crest Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Burlington
+Registrant State/Province:WA
+Registrant Postal Code:98233
+Registrant Country:US
+Registrant Phone:+1.3606107378
+Registrant Phone Ext.:
+Registrant FAX:+1.3606107378
+Registrant FAX Ext.:
+Registrant Email:brad@clure.com
+Admin ID:750404a4ff22b442
+Admin Name:Cohn  David
+Admin Organization:Whatcom Skagit Model Railroad Club
+Admin Street1:711 Chuckanut Drive N
+Admin Street2:
+Admin Street3:
+Admin City:Bellingham
+Admin State/Province:WA
+Admin Postal Code:98229
+Admin Country:US
+Admin Phone:+1.3607330711
+Admin Phone Ext.:
+Admin FAX:+1.3607330711
+Admin FAX Ext.:
+Admin Email:david@dscohn.com
+Tech ID:9A223E7C636BF3C6
+Tech Name:Clure Bradley
+Tech Organization:Wavefront Technologies
+Tech Street1:12314 Maple Crest Drive
+Tech Street2:
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:WA
+Tech Postal Code:98233
+Tech Country:US
+Tech Phone:+1.3606107378
+Tech Phone Ext.:
+Tech FAX:+1.3606107378
+Tech FAX Ext.:
+Tech Email:brad@clure.com
+Name Server:NS1.DNSMADEEASY.COM
+Name Server:NS4.DNSMADEEASY.COM
+Name Server:NS3.DNSMADEEASY.COM
+Name Server:NS0.DNSMADEEASY.COM
+Name Server:NS2.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: APNEWS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BELL.AP.ORG
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: AMERTACK.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 12-jul-1991
-   Expiration Date: 11-jul-2012
+   Updated Date: 23-nov-2010
+   Creation Date: 03-jan-2010
+   Expiration Date: 03-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:53:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name: amertack.com
+Registered at http://www.dynadot.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+tanto prasetyo
+kp.pasir kaliki barat rt.10 rw.15
+bandung, jawa barat 40133
+Indonesia
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+tanto prasetyo
+kp.pasir kaliki barat rt.10 rw.15
+bandung, jawa barat 40133
+Indonesia
+nezz4.tp@gmail.com
++62 8562315092
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+tanto prasetyo
+kp.pasir kaliki barat rt.10 rw.15
+bandung, jawa barat 40133
+Indonesia
+nezz4.tp@gmail.com
++62 8562315092
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record expires on 2012/01/03 UTC
+Record created on 2010/01/03 UTC
 
-Whois Query: apnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:43:56 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+ns1.bluehost.com
+ns2.bluehost.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 17:50:51 PST &lt;&lt;&lt;
+
