@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D147971535-LROR
+Domain Name:AMECOS.ORG
+Created On:04-Jun-2007 07:50:57 UTC
+Last Updated On:09-Jun-2011 07:00:59 UTC
+Expiration Date:04-Jun-2012 07:50:57 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-2737668-4
+Registrant Name:plogHost
+Registrant Organization:plogHost Web Services
+Registrant Street1:1561 P. Santos St., Bangkal
+Registrant Street2:1561 P. Santos St., Bangkal
+Registrant Street3:
+Registrant City:Makati City
+Registrant State/Province:NCR
+Registrant Postal Code:1223
+Registrant Country:PH
+Registrant Phone:+632.1111111
+Registrant Phone Ext.:
+Registrant FAX:+632.1111111
+Registrant FAX Ext.:
+Registrant Email:sales@ploghost.com
+Admin ID:ONLC-2737668-1
+Admin Name:Abe Olandres
+Admin Organization:Domain Registration
+Admin Street1:1561 P. Santos St., Bangkal
+Admin Street2:1561 P. Santos St., Bangkal
+Admin Street3:
+Admin City:Makati City
+Admin State/Province:NCR
+Admin Postal Code:1223
+Admin Country:PH
+Admin Phone:+632.8857089
+Admin Phone Ext.:
+Admin FAX:+632.8857089
+Admin FAX Ext.:
+Admin Email:accounts@ploghost.com
+Tech ID:ONLC-2737668-2
+Tech Name:Abe Olandres
+Tech Organization:Domain Registration
+Tech Street1:1561 P. Santos St., Bangkal
+Tech Street2:1561 P. Santos St., Bangkal
+Tech Street3:
+Tech City:Makati City
+Tech State/Province:NCR
+Tech Postal Code:1223
+Tech Country:PH
+Tech Phone:+632.8857089
+Tech Phone Ext.:
+Tech FAX:+632.8857089
+Tech FAX Ext.:
+Tech Email:support@ploghost.com
+Name Server:NS3.PLOGHOST.NET
+Name Server:NS4.PLOGHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
