@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2479057-LROR
+Domain Name:MCOECN.ORG
+Created On:02-May-1998 04:00:00 UTC
+Last Updated On:15-Apr-2011 16:50:26 UTC
+Expiration Date:01-May-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22304255-NSI
+Registrant Name:Northwest Ohio Computer Association
+Registrant Organization:Northwest Ohio Computer Association
+Registrant Street1:NWOCA Administrative Offices 22-900 SR 34
+Registrant Street2:
+Registrant Street3:
+Registrant City:Archbold
+Registrant State/Province:OH
+Registrant Postal Code:43502
+Registrant Country:US
+Registrant Phone:+1.4192675565
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:baker@NWOCA.ORG
+Admin ID:5438513-NSI
+Admin Name:Northwest Ohio Computer Assn.
+Admin Organization:Northwest Ohio Computer Assn.
+Admin Street1:209 Nolan Parkway
+Admin Street2:PO Box 407
+Admin Street3:
+Admin City:Archbold
+Admin State/Province:OH
+Admin Postal Code:43502
+Admin Country:US
+Admin Phone:+1.4192675565
+Admin Phone Ext.:
+Admin FAX:+1.4192675222
+Admin FAX Ext.:
+Admin Email:hostmaster@ESU.K12.OH.US
+Tech ID:5438513-NSI
+Tech Name:Northwest Ohio Computer Assn.
+Tech Organization:Northwest Ohio Computer Assn.
+Tech Street1:209 Nolan Parkway
+Tech Street2:PO Box 407
+Tech Street3:
+Tech City:Archbold
+Tech State/Province:OH
+Tech Postal Code:43502
+Tech Country:US
+Tech Phone:+1.4192675565
+Tech Phone Ext.:
+Tech FAX:+1.4192675222
+Tech FAX Ext.:
+Tech Email:hostmaster@ESU.K12.OH.US
+Name Server:NS1.ESU.K12.OH.US
+Name Server:NS4.ESU.K12.OH.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

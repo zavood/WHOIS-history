@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      tv3.ie
+descr:       Tv3 Television Network Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     GB116-IEDR
+tech-c:      ABG704-IEDR
+renewal:     30-September-2015
+status:      Active
+nserver:     ns1.tv3.ie 79.140.139.2
+nserver:     ns2.tv3.ie 82.195.131.218
+source:      IEDR
+
+person:      Jose de Freitas
+nic-hdl:     GB116-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+
