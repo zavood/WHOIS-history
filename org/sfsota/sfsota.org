@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D35120466-LROR
+Domain Name:SFSOTA.ORG
+Created On:20-Sep-2000 14:06:35 UTC
+Last Updated On:10-Aug-2011 16:29:59 UTC
+Expiration Date:20-Sep-2012 14:06:35 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36109039
+Registrant Name:Unknown
+Registrant Organization:San Francisco School of the Arts
+Registrant Street1:555 Portola Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:California
+Registrant Postal Code:94131
+Registrant Country:US
+Registrant Phone:+1.5103292396
+Registrant Phone Ext.:
+Registrant FAX:+1.8886636648
+Registrant FAX Ext.:
+Registrant Email:stevenhendee@yahoo.com
+Admin ID:CR36109041
+Admin Name:Steven Hendee
+Admin Street1:555 Portola Dr
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:California
+Admin Postal Code:94131
+Admin Country:US
+Admin Phone:+1.5103292396
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stevenhendee@yahoo.com
+Tech ID:CR36109040
+Tech Name:Steven Hendee
+Tech Street1:555 Portola Dr
+Tech Street2:
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:California
+Tech Postal Code:94131
+Tech Country:US
+Tech Phone:+1.5103292396
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stevenhendee@yahoo.com
+Name Server:NS3.WEBCONTROLCENTER.COM
+Name Server:NS4.WEBCONTROLCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

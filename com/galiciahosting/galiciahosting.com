@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOTLONG.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.AZEELO.COM
-   Name Server: NS2.AZEELO.COM
+   Domain Name: GALICIAHOSTING.COM
+   Registrar: DINAHOSTING SL
+   Whois Server: whois.dinahosting.com
+   Referral URL: http://www.dinahosting.com
+   Name Server: NS.GESTIONDECUENTA.COM
+   Name Server: NS2.GESTIONDECUENTA.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-may-2011
-   Creation Date: 04-jun-2002
-   Expiration Date: 04-jun-2012
+   Updated Date: 20-jan-2011
+   Creation Date: 28-dec-2000
+   Expiration Date: 28-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:46:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:47:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,55 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about notlong.com
-&lt;a href=&quot;http://www.aboutus.org/notlong.com&quot;&gt;AboutUs: notlong.com&lt;/a&gt;
+Dinahosting Whois server v5
+===========================
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
-
-Domain name: notlong.com
+Domain Name: galiciahosting.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
-
-   Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+	IMPACTOS EN INTERNET, SL
+	IMPACTOS PUB.
+	dominios@masimpacto.com
+	PRINCIPE, 24 - PLANTA 4
+	VIGO PONTEVEDRA
+	36202 ES
+	Telf: +34.902112425
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+	IMPACTOS EN INTERNET, SL
+	IMPACTOS PUB.
+	dominios@masimpacto.com
+	PRINCIPE, 24 - PLANTA 4
+	VIGO PONTEVEDRA
+	36202 ES
+	Telf: +34.902112425
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+	GALICIA HOSTING
+	GALICIA
+	dominios@masimpacto.com
+	PLAZA FCO. FERNANDEZ DEL RIEGO, 1
+	VIGO PONTEVEDRA
+	36203 ES
+	Telf: +34.902112425
 
-Status: Locked
+Billing Contact:
+	GALICIA HOSTING
+	GALICIA
+	dominios@masimpacto.com
+	PLAZA FCO. FERNANDEZ DEL RIEGO, 1
+	VIGO PONTEVEDRA
+	36203 ES
+	Telf: +34.902112425
 
-Name Servers:
-   NS1.AZEELO.COM
-   NS2.AZEELO.COM
-
-Creation date: 04 Jun 2002 18:16:00
-Expiration date: 04 Jun 2012 18:16:00
 
 
+Creation Date: 2000-12-28 15:14:09
+Expiration Date: 2011-12-28 15:14:09
+Registrar transfer date: 2010-12-23 14:44:50
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+Status: clientDeleteProhibited
+Status: clientTransferProhibited
+
+Dns servers:
+	ns.gestiondecuenta.com
+	ns2.gestiondecuenta.com
 =-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
@@ -117,4 +122,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

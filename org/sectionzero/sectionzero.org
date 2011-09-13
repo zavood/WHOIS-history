@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120995554-LROR
+Domain Name:SECTIONZERO.ORG
+Created On:24-Apr-2006 14:54:26 UTC
+Last Updated On:04-Mar-2011 17:00:48 UTC
+Expiration Date:24-Apr-2012 14:54:26 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-153820
+Registrant Name:Michael de Bruin
+Registrant Street1:Jade 17
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zoetermeer
+Registrant State/Province:--
+Registrant Postal Code:2719RT
+Registrant Country:NL
+Registrant Phone:+317.93617220
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dwaalspoor@buum.nl
+Admin ID:CORG-153819
+Admin Name:Michael de Bruin
+Admin Street1:Jade 17
+Admin Street2:
+Admin Street3:
+Admin City:Zoetermeer
+Admin State/Province:--
+Admin Postal Code:2719RT
+Admin Country:NL
+Admin Phone:+317.93617220
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dwaalspoor@buum.nl
+Tech ID:CORG-153819
+Tech Name:Michael de Bruin
+Tech Street1:Jade 17
+Tech Street2:
+Tech Street3:
+Tech City:Zoetermeer
+Tech State/Province:--
+Tech Postal Code:2719RT
+Tech Country:NL
+Tech Phone:+317.93617220
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dwaalspoor@buum.nl
+Name Server:NS1.DWAALSPOOR.ORG
+Name Server:NS1.SECTIONZERO.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
