@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 16:39:10 (BRT -03:00)
+
+domain:      birocarioca.com.br
+owner:       Jorge Octavio Ferreira Junior
+ownerid:     125.781.377-30
+country:     BR
+owner-c:     JOFJU23
+admin-c:     JOFJU23
+tech-c:      JOFJU23
+billing-c:   JOFJU23
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     20100804 #7175227
+expires:     20120804
+changed:     20110817
+status:      published
+
+nic-hdl-br:  JOFJU23
+person:      Jorge Octavio Ferreira Junior
+e-mail:      jorgeo.blend@gmail.com
+created:     20090615
+changed:     20100527
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

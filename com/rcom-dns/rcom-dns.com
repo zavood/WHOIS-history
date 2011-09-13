@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DWBROOKSFUNERALHOME.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
+   Domain Name: RCOM-DNS.COM
+   Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: DNS010.D.REGISTER.COM
-   Name Server: DNS050.C.REGISTER.COM
-   Name Server: DNS060.A.REGISTER.COM
-   Name Server: DNS102.B.REGISTER.COM
+   Name Server: DNS15.REGISTER.COM
+   Name Server: DNS16.REGISTER.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 11-dec-2010
-   Creation Date: 11-dec-2009
-   Expiration Date: 11-dec-2011
+   Updated Date: 25-nov-2009
+   Creation Date: 25-mar-2004
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:38:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:38:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +71,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Domain Discreet
-      ATTN: dwbrooksfuneralhome.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 51bd04130a16123303166c5db1cca5d0@domaindiscreet.com
+      Register.com
+      Domain Administrator
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.2127989200
+      Email: domain-registrar@register.com
 
 
 
@@ -86,35 +85,39 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: dwbrooksfuneralhome.com
-      Created on..............: 2009-12-11
-      Expires on..............: 2011-12-11
+   Domain Name: rcom-dns.com
+      Created on..............: 2004-03-25
+      Expires on..............: 2012-03-25
 
    Administrative Contact:
-      Domain Discreet
-      ATTN: dwbrooksfuneralhome.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 51bd04120a1612332bc779ed09115978@domaindiscreet.com
+      Register.Com
+      Domain Administrator
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.2127989200
+      Email: domain-registrar@register.com
 
 
    Technical  Contact:
-      Domain Discreet
-      ATTN: dwbrooksfuneralhome.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 51bd04140a16123335244f40227e3ef2@domaindiscreet.com
+      Register.Com
+      Domain Administrator
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.2127989200
+      Email: domain-registrar@register.com
 
 
    DNS Servers:
-      dns010.d.register.com
-      dns050.c.register.com
-      dns102.b.register.com
-      dns060.a.register.com
+      dns16.register.com
+      dns15.register.com
 
 
+
+Visit AboutUs.org for more information about rcom-dns.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/rcom-dns.com&quot;&gt;AboutUs: rcom-dns.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 
