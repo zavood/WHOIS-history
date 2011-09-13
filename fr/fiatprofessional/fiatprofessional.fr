@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; fiatprofessional.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      fiatprofessional.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FFS84-FRNIC
+admin-c:     CB4711-FRNIC
+tech-c:      TS2691-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2071-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 17/04
+created:     17/04/2007
+last-update: 27/01/2010
+source:      FRNIC
+
+ns-list:     NSL2071-FRNIC
+nserver:     ns1.register.it
+nserver:     ns2.register.it
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     TS2691-FRNIC
+type:        ROLE
+contact:     Technical Service
+address:     Register It SpA
+address:     Via Ponti, 6
+address:     24126 Bergamo
+country:     IT
+phone:       +39 0353230300
+fax-no:      +39 0353230312
+e-mail:      fr-technical@registry.it
+admin-c:     TS8-FRNIC
+tech-c:      TS8-FRNIC
+changed:     27/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FFS84-FRNIC
+type:        ORGANIZATION
+contact:     Fiat France SA
+address:     6, rue Nicolas Copernic
+address:     78190 Trappes
+country:     FR
+phone:       +33 1 30 16 70 00
+fax-no:      +33 1 30 16 70 00
+e-mail:      christophe.bertoncini@fiat.com
+changed:     27/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CB4711-FRNIC
+type:        PERSON
+contact:     Christophe Bertoncini
+address:     Fiat France SA
+address:     6, rue Nicolas Copernic
+address:     78190 Trappes
+country:     FR
+phone:       +33 1 30 16 70 00
+fax-no:      +33 1 30 16 70 00
+e-mail:      christophe.bertoncini@fiat.com
+changed:     27/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
