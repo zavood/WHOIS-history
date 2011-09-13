@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161618319-LROR
+Domain Name:SEARCHMISTY.ORG
+Created On:26-Feb-2011 06:03:37 UTC
+Last Updated On:28-Apr-2011 03:48:52 UTC
+Expiration Date:26-Feb-2012 06:03:37 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgmf98700213430
+Registrant Name:Marilyn Follmer
+Registrant Organization:MarilynFollmer
+Registrant Street1:724 W. Queen Creek Road #1178
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chandler
+Registrant State/Province:AZ
+Registrant Postal Code:85248
+Registrant Country:US
+Registrant Phone:+1.4809172994
+Registrant Phone Ext.:
+Registrant FAX:+1.4809172994
+Registrant FAX Ext.:
+Registrant Email:MarilynFollmer@hotmailbox.com
+Admin ID:orgmf98700213945
+Admin Name:Marilyn Follmer
+Admin Organization:MarilynFollmer
+Admin Street1:724 W. Queen Creek Road #1178
+Admin Street2:
+Admin Street3:
+Admin City:Chandler
+Admin State/Province:AZ
+Admin Postal Code:85248
+Admin Country:US
+Admin Phone:+1.4809172994
+Admin Phone Ext.:
+Admin FAX:+1.4809172994
+Admin FAX Ext.:
+Admin Email:MarilynFollmer@hotmailbox.com
+Tech ID:orgmf98700214509
+Tech Name:Marilyn Follmer
+Tech Organization:MarilynFollmer
+Tech Street1:724 W. Queen Creek Road #1178
+Tech Street2:
+Tech Street3:
+Tech City:Chandler
+Tech State/Province:AZ
+Tech Postal Code:85248
+Tech Country:US
+Tech Phone:+1.4809172994
+Tech Phone Ext.:
+Tech FAX:+1.4809172994
+Tech FAX Ext.:
+Tech Email:MarilynFollmer@hotmailbox.com
+Name Server:NS1.SEARCHMISTY.ORG
+Name Server:NS2.SEARCHMISTY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
