@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:57:42 (BRT -03:00)
+
+domain:      ptr004.com.br
+owner:       ALQG TECNOLOGIA LTDA.
+ownerid:     006.052.910/0001-02
+responsible: Hostgold Internet
+country:     BR
+owner-c:     HOI27
+admin-c:     HOI27
+tech-c:      HOI27
+billing-c:   HOI27
+nserver:     ns1.ptr004.com.br 201.33.16.77
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.ptr004.com.br 201.33.16.78
+nsstat:      20110912 AA
+nslastaa:    20110912
+saci:        yes
+created:     20110620 #8468590
+expires:     20120620
+changed:     20110624
+status:      published
+
+nic-hdl-br:  HOI27
+person:      Hostgold Internet
+e-mail:      registro@hostgold.com.br
+created:     20060220
+changed:     20110117
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

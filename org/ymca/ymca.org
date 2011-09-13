@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1383619-LROR
+Domain Name:YMCA.ORG
+Created On:03-Jul-1995 04:00:00 UTC
+Last Updated On:11-Mar-2011 09:31:46 UTC
+Expiration Date:02-Jul-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2474962-NSI
+Registrant Name:YMCA OF SAN DIEGO COUNTY
+Registrant Organization:YMCA OF SAN DIEGO COUNTY
+Registrant Street1:3708 Ruffin Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:SAN DIEGO
+Registrant State/Province:CA
+Registrant Postal Code:92123-1628
+Registrant Country:US
+Registrant Phone:+1.8582929622
+Registrant Phone Ext.:
+Registrant FAX:+1.8582920045
+Registrant FAX Ext.:
+Registrant Email:jmerritt@ymca.org
+Admin ID:21966156-NSI
+Admin Name:John Merritt
+Admin Organization:YMCA of San Diego County
+Admin Street1:3708 Ruffin Rd.
+Admin Street2:
+Admin Street3:
+Admin City:SAN DIEGO
+Admin State/Province:CA
+Admin Postal Code:92123-1628
+Admin Country:US
+Admin Phone:+1.858292962
+Admin Phone Ext.:
+Admin FAX:+1.858292004
+Admin FAX Ext.:
+Admin Email:jmerritt@YMCA.ORG
+Tech ID:21966156-NSI
+Tech Name:John Merritt
+Tech Organization:YMCA of San Diego County
+Tech Street1:3708 Ruffin Rd.
+Tech Street2:
+Tech Street3:
+Tech City:SAN DIEGO
+Tech State/Province:CA
+Tech Postal Code:92123-1628
+Tech Country:US
+Tech Phone:+1.858292962
+Tech Phone Ext.:
+Tech FAX:+1.858292004
+Tech FAX Ext.:
+Tech Email:jmerritt@YMCA.ORG
+Name Server:NS10.DNSMADEEASY.COM
+Name Server:NS11.DNSMADEEASY.COM
+Name Server:NS12.DNSMADEEASY.COM
+Name Server:NS13.DNSMADEEASY.COM
+Name Server:NS14.DNSMADEEASY.COM
+Name Server:NS15.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
