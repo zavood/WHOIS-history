@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107974773-LROR
+Domain Name:WESTWCEA.ORG
+Created On:27-Oct-2005 23:20:23 UTC
+Last Updated On:07-Dec-2009 23:50:50 UTC
+Expiration Date:27-Oct-2011 23:20:23 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tubYWDqj5LkO5aYI
+Registrant Name:William Carriere
+Registrant Organization:WCEA
+Registrant Street1:2651 E. Chapman Ave. Suite 216
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fullerton
+Registrant State/Province:CA
+Registrant Postal Code:92831-3737
+Registrant Country:US
+Registrant Phone:+1.7144479834
+Registrant Phone Ext.:
+Registrant FAX:+1.7144479846
+Registrant FAX Ext.:
+Registrant Email:reynoldsjrr@sbcglobal.net
+Admin ID:tuWxgtuSWprU6kDA
+Admin Name:William Carriere
+Admin Organization:WCEA
+Admin Street1:2651 E. Chapman Ave. Suite 216
+Admin Street2:
+Admin Street3:
+Admin City:Fullerton
+Admin State/Province:CA
+Admin Postal Code:92831-3737
+Admin Country:US
+Admin Phone:+1.7144479834
+Admin Phone Ext.:
+Admin FAX:+1.7144479846
+Admin FAX Ext.:
+Admin Email:reynoldsjrr@sbcglobal.net
+Tech ID:tuqxLP5wZ9gevd8h
+Tech Name:Janet Reynolds
+Tech Organization:WCEA
+Tech Street1:2651 E. Chapman Ave. Suite 216
+Tech Street2:
+Tech Street3:
+Tech City:Fullerton
+Tech State/Province:CA
+Tech Postal Code:92831-3737
+Tech Country:US
+Tech Phone:+1.7144479834
+Tech Phone Ext.:
+Tech FAX:+1.7144479846
+Tech FAX Ext.:
+Tech Email:reynoldsjrr@sbcglobal.net
+Name Server:DNS1.ENTERHOST.COM
+Name Server:DNS2.ENTERHOST.COM
+Name Server:DNS3.ENTERHOST.COM
+Name Server:DNS4.ENTERHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

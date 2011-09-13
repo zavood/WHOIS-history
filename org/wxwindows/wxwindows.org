@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2573637-LROR
+Domain Name:WXWINDOWS.ORG
+Created On:30-Nov-1998 05:00:00 UTC
+Last Updated On:25-Jul-2010 00:23:53 UTC
+Expiration Date:29-Nov-2011 05:00:00 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:B127480145218663
+Registrant Name:Microsoft Corporation
+Registrant Organization:Microsoft Corporation
+Registrant Street1:1 Microsoft Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:WA
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.4258828080
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@microsoft.com
+Admin ID:A127480145252662
+Admin Name:. .
+Admin Organization:Microsoft Corporation
+Admin Street1:One Microsoft Way
+Admin Street2:
+Admin Street3:
+Admin City:Redmond
+Admin State/Province:WA
+Admin Postal Code:98052
+Admin Country:US
+Admin Phone:+1.4258828080
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@microsoft.com
+Tech ID:A127480145252663
+Tech Name:Corporation .
+Tech Organization:Microsoft Corporation
+Tech Street1:One Microsoft Way
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:WA
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.4258828080
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:msnhst@microsoft.com
+Name Server:NS1.MSFT.NET
+Name Server:NS5.MSFT.NET
+Name Server:NS2.MSFT.NET
+Name Server:NS3.MSFT.NET
+Name Server:NS4.MSFT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
