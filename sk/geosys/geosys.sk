@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         geosys.sk
+Admin-id            GEOS-0001
+Admin-name          GEOsys s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35849894
+Admin-address       Trencianska 55, Bratislava II 821 09
+Admin-telephone     0905 311 073, 0905 311 072
+Admin-email         martin.talarovic@geosys.sk
+Tech-id             MARE-0061
+Tech-name           Mgr. Marek Pajchl
+Tech-org.-ID        34535314
+Tech-address        150, Dulov 01852
+Tech-telephone      0905621497
+Tech-email          ump@ump.sk
+dns_name            ns1.dynamit.sk
+dns_name            ns2.dynamit.sk
+dns_name            ns3.dynamit.sk
+dns_name            ns4.dynamit.sk
+Last-update         2011-02-13
+Valid-date          2012-02-12
+Domain-status       DOM_OK
+
