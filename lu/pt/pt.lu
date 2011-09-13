@@ -1,0 +1,56 @@
+% Access to RESTENA DNS-LU WHOIS information is provided to assist persons
+% in determining the content of a domain name registration record in the LU
+% registration database. The data in this record is provided by RESTENA DNS-LU
+% for information purposes only, and RESTENA DNS-LU does not guarantee its
+% accuracy. Compilation, repackaging, dissemination or other use of the
+% WHOIS database in its entirety, or of a substantial part thereof, is not
+% allowed without the prior written permission of RESTENA DNS-LU.
+%
+% By submitting a WHOIS query, you agree to abide by this policy. You acknowledge
+% that the use of the WHOIS database is regulated by the ACCEPTABLE USE POLICY
+% (http://www.dns.lu/en/EN-LUCharteUtil.html), that you are aware of its
+% content, and that you accept its terms and conditions.
+%
+% You agree especially that you will use this data only for lawful purposes and
+% that you will not use this data to:
+% (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+% commercial advertising or solicitations via e-mail (spam); or
+% (2) enable high volume, automated, electronic processes that apply to
+% RESTENA DNS-LU (or its systems).
+%
+% All rights reserved.
+%
+% powered by Whois Server 3.1, (c) dns.be
+%
+% WHOIS pt
+domainname:	pt.lu
+domaintype:	ACTIVE
+nserver:	ns1.pt.lu [194.154.192.1]
+nserver:	ns2.pt.lu [195.46.252.2]
+nserver:	ns3.pt.lu [80.90.63.90,2001:1610:2:1::90]
+ownertype:	ORGANISATION
+registered:	02/02/1993
+org-name:	Entreprise des Postes et T&eacute;l&eacute;communications
+org-address:	2, rue Emile Bian
+org-zipcode:	2999
+org-city:	Luxembourg
+org-country:	LU
+adm-name:	Lucien Max
+adm-address:	Division des T&eacute;l&eacute;communications
+adm-address:	2, rue Emile Bian
+adm-zipcode:	2999
+adm-city:	Luxembourg
+adm-country:	LU
+adm-email:	dns@pt.lu
+tec-name:	Division des T&eacute;l&eacute;communications Service Internet
+tec-address:	Entreprise des Postes et T&eacute;l&eacute;communications
+tec-address:	2, rue Emile Bian
+tec-zipcode:	2999
+tec-city:	Luxembourg
+tec-country:	LU
+tec-email:	dns@pt.lu
+registrar-name:		Ent. P&amp;T Luxembourg
+registrar-email:	dns@pt.lu
+registrar-url:		http://www.ept.lu
+registrar-country:	LU
+
