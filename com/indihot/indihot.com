@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RAYBESTOSGARAGE.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.PEER1.NET
-   Name Server: NS2.PEER1.NET
+   Domain Name: INDIHOT.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS0.MYSTERIOUSDNS.NET
+   Name Server: NS1.MYSTERIOUSDNS.NET
    Status: ok
-   Updated Date: 23-apr-2011
-   Creation Date: 21-apr-2010
-   Expiration Date: 21-apr-2013
+   Updated Date: 01-jan-2011
+   Creation Date: 01-jan-2008
+   Expiration Date: 01-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:14:59 UTC &lt;&lt;&lt;
 
@@ -51,62 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: SANINDIA.NET
+Contact: +91.52321255
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name: INDIHOT.COM
 
 Registrant:
-   c/o RAYBESTOSGARAGE.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
+    domains
+    s        (s.domains@yahoo.com)
+    St
+    AP
+    Hyderabad
+    Andhra Pradesh,500001
+    IN
+    Tel. +91.2222141
 
-   Registrar: DOTSTER
-   Domain Name: RAYBESTOSGARAGE.COM
-      Created on: 21-APR-10
-      Expires on: 21-APR-13
-      Last Updated on: 23-APR-11
+Creation Date: 01-Jan-2008
+Expiration Date: 01-Jan-2012
 
-   Administrative Contact:
-      RpQohd@PRIVACYPOST.COM
-      c/o RAYBESTOSGARAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
-
-   Technical Contact:
-      kVyvwa@PRIVACYPOST.COM
-      c/o RAYBESTOSGARAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+Domain servers in listed order:
+    ns0.mysteriousdns.net
+    ns1.mysteriousdns.net
 
 
-   Domain servers in listed order:
-      NS1.PEER1.NET
-      NS2.PEER1.NET
+Administrative Contact:
+    domains
+    s        (s.domains@yahoo.com)
+    St
+    AP
+    Hyderabad
+    Andhra Pradesh,500001
+    IN
+    Tel. +91.2222141
 
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
+Technical Contact:
+    domains
+    s        (s.domains@yahoo.com)
+    St
+    AP
+    Hyderabad
+    Andhra Pradesh,500001
+    IN
+    Tel. +91.2222141
 
-End of Whois Information
+Billing Contact:
+    domains
+    s        (s.domains@yahoo.com)
+    St
+    AP
+    Hyderabad
+    Andhra Pradesh,500001
+    IN
+    Tel. +91.2222141
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

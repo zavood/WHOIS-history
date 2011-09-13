@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXTOYS.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DNS8CN.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS13.DNS.COM.CN
+   Name Server: NS14.DNS.COM.CN
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-feb-2010
-   Creation Date: 11-may-2008
-   Expiration Date: 11-may-2012
+   Updated Date: 10-aug-2011
+   Creation Date: 25-jan-2007
+   Expiration Date: 25-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:14:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:13:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... dns8cn.com
+  Creation Date........ 2007-01-25 18:50:23
+  Registration Date.... 2007-01-25 18:50:23
+  Expiry Date.......... 2013-01-25 18:50:23
+  Organisation Name.... zheng ke yao
+  Organisation Address. CD 15A2
+  Organisation Address.
+  Organisation Address. cd
+  Organisation Address. 610000
+  Organisation Address. SC
+  Organisation Address. CN
 
+Admin Name........... zheng ke yao
+  Admin Address........ CD 15A2
+  Admin Address........
+  Admin Address........ cd
+  Admin Address........ 610000
+  Admin Address........ SC
+  Admin Address........ CN
+  Admin Email.......... my130130@qq.com
+  Admin Phone.......... +86.2885288139
+  Admin Fax............ +86.2885288109
 
-Registrant:
-   (Kabushiki Kaisha ) Artech Co Ltd
+Tech Name............ zheng ke yao
+  Tech Address......... cd
+  Tech Address.........
+  Tech Address......... Chengdu
+  Tech Address......... 610010
+  Tech Address......... SC
+  Tech Address......... CN
+  Tech Email........... my130130@qq.com
+  Tech Phone........... +86.2885288139
+  Tech Fax............. +86.2885288179
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEXTOYS.NET
-
-   Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEXTOYS.NET
+Bill Name............ zheng ke yao
+  Bill Address......... cd
+  Bill Address.........
+  Bill Address......... Chengdu
+  Bill Address......... 610010
+  Bill Address......... SC
+  Bill Address......... CN
+  Bill Email........... my130130@qq.com
+  Bill Phone........... +86.2885288139
+  Bill Fax............. +86.2885288179
+  Name Server.......... ns14.dns.com.cn
+  Name Server.......... ns13.dns.com.cn
