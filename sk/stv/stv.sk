@@ -1,0 +1,29 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         stv.sk
+Admin-id            SLOV-0376
+Admin-name          Slovenska televizia
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       167398
+Admin-address       Mlynska dolina, Bratislava 845 45
+Admin-telephone     421-2-60612174, 421-2-60613144, 0905/200117
+Admin-email         matuskova@stv.sk
+Tech-id             SWAN-0002
+Tech-name           SWAN, a.s.
+Tech-org.-ID        35680202
+Tech-address        Borska 6, Bratislava 84104
+Tech-telephone      +421 2 35000516, +421 2 35000516
+Tech-email          domeny@swan.sk
+dns_name            ns1.stv.sk
+dns_ip              193.148.46.6
+dns_name            ns2.stv.sk
+dns_ip              193.148.46.7
+dns_name            ns1.swan.sk
+dns_name            ns2.swan.sk
+Last-update         2011-09-08
+Valid-date          2012-09-28
+Domain-status       DOM_OK
+

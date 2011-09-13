@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107289577-LROR
+Domain Name:LOUISIANAMUSICHALLOFFAME.ORG
+Created On:26-Aug-2005 19:29:32 UTC
+Last Updated On:20-Dec-2009 19:52:19 UTC
+Expiration Date:26-Aug-2012 19:29:32 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35654459-NSI
+Registrant Name:Mike Shepherd
+Registrant Organization:LMHOF
+Registrant Street1:538 Hebert St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baton Rouge
+Registrant State/Province:LA
+Registrant Postal Code:70806
+Registrant Country:US
+Registrant Phone:+1.2259371298
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mike@lmhof.org
+Admin ID:35654459-NSI
+Admin Name:Mike Shepherd
+Admin Organization:LMHOF
+Admin Street1:538 Hebert St.
+Admin Street2:
+Admin Street3:
+Admin City:Baton Rouge
+Admin State/Province:LA
+Admin Postal Code:70806
+Admin Country:US
+Admin Phone:+1.2259371298
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mike@lmhof.org
+Tech ID:35654459-NSI
+Tech Name:Mike Shepherd
+Tech Organization:LMHOF
+Tech Street1:538 Hebert St.
+Tech Street2:
+Tech Street3:
+Tech City:Baton Rouge
+Tech State/Province:LA
+Tech Postal Code:70806
+Tech Country:US
+Tech Phone:+1.2259371298
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mike@lmhof.org
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
