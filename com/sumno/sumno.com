@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEATHERSF.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: redemptionPeriod
-   Updated Date: 29-aug-2011
-   Creation Date: 18-jul-2003
-   Expiration Date: 18-jul-2011
+   Domain Name: SUMNO.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.DALLAS.HVOSTING.UA
+   Name Server: NS2.DALLAS.HVOSTING.UA
+   Status: ok
+   Updated Date: 24-sep-2010
+   Creation Date: 22-sep-2005
+   Expiration Date: 22-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:30:59 UTC &lt;&lt;&lt;
 
@@ -54,70 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about weathersf.com
-&lt;a href=&quot;http://www.aboutus.org/weathersf.com&quot;&gt;AboutUs: weathersf.com&lt;/a&gt;
+Registration Service Provided By: HVOSTING
+Contact: +380.443313278
 
+Domain Name: SUMNO.COM
 
-Domain name: weathersf.com
+Registrant:
+    Sumno
+    Bogdan Logvynenko        (sumno@hvosting.net.ua)
+    Art. provulok 5a, 41
+    Kiev
+    Kiev,02113
+    UA
+    Tel. +380.507224506
+
+Creation Date: 22-Sep-2005
+Expiration Date: 22-Sep-2011
+
+Domain servers in listed order:
+    ns1.dallas.hvosting.ua
+    ns2.dallas.hvosting.ua
+
 
 Administrative Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+    Sumno
+    Bogdan Logvynenko        (sumno@hvosting.net.ua)
+    Art. provulok 5a, 41
+    Kiev
+    Kiev,02113
+    UA
+    Tel. +380.507224506
 
 Technical Contact:
+    Sumno
+    Bogdan Logvynenko        (sumno@hvosting.net.ua)
+    Art. provulok 5a, 41
+    Kiev
+    Kiev,02113
+    UA
+    Tel. +380.507224506
 
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+Billing Contact:
+    Sumno
+    Bogdan Logvynenko        (sumno@hvosting.net.ua)
+    Art. provulok 5a, 41
+    Kiev
+    Kiev,02113
+    UA
+    Tel. +380.507224506
 
-Registrant Contact:
+Status:ACTIVE
 
-   Reactivation Period ()
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-   Fax:
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
-
-Status: Locked
-
-Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
-
-Creation date: 18 Jul 2003 12:10:38
-Expiration date: 18 Jul 2011 16:10:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

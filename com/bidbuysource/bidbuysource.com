@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.domainpeople.com
    Name Server: NS1.DOMAINPEOPLE.COM
    Name Server: NS2.DOMAINPEOPLE.COM
-   Status: ok
-   Updated Date: 17-nov-2010
+   Status: clientTransferProhibited
+   Updated Date: 12-sep-2011
    Creation Date: 08-oct-2003
-   Expiration Date: 08-oct-2011
+   Expiration Date: 08-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:18:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:30:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -90,7 +90,7 @@ Name Servers:
    ns2.domainpeople.com
 
 Creation date: 08 Oct 2003 18:32:57
-Expiration date: 08 Oct 2011 00:00:00
+Expiration date: 08 Oct 2012 00:00:00
 
 
 

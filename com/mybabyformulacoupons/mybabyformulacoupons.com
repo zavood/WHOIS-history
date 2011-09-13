@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEATHERSF.COM
+   Domain Name: MYBABYFORMULACOUPONS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: redemptionPeriod
-   Updated Date: 29-aug-2011
-   Creation Date: 18-jul-2003
-   Expiration Date: 18-jul-2011
+   Name Server: NS2247.HOSTGATOR.COM
+   Name Server: NS2248.HOSTGATOR.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-dec-2010
+   Creation Date: 14-dec-2009
+   Expiration Date: 14-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:30:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:31:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about weathersf.com
-&lt;a href=&quot;http://www.aboutus.org/weathersf.com&quot;&gt;AboutUs: weathersf.com&lt;/a&gt;
+Visit AboutUs.org for more information about mybabyformulacoupons.com
+&lt;a href=&quot;http://www.aboutus.org/mybabyformulacoupons.com&quot;&gt;AboutUs: mybabyformulacoupons.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: weathersf.com
-
-Administrative Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
-
-Technical Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+Domain name: mybabyformulacoupons.com
 
 Registrant Contact:
 
-   Reactivation Period ()
+   Sharon Lai ()
 
    Fax:
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+   39 Emmanuel Anquetil
+   Port Louis, P 230
+   MU
+
+Administrative Contact:
+
+    Lai (shajon0312@gmail.com)
+   +230.34549
+   Fax: +1.5555555555
+   39 Emmanuel Anquetil
+   Port Louis, P 230
+   MU
+
+Technical Contact:
+
+   Sharon Lai (shajon0312@gmail.com)
+   +230.34549
+   Fax: +1.5555555555
+   39 Emmanuel Anquetil
+   Port Louis, P 230
+   MU
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   ns2247.hostgator.com
+   ns2248.hostgator.com
 
-Creation date: 18 Jul 2003 12:10:38
-Expiration date: 18 Jul 2011 16:10:00
+Creation date: 14 Dec 2009 12:20:51
+Expiration date: 14 Dec 2011 12:20:51
 
 
 
