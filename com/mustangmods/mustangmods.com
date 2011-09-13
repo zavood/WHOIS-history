@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 18BAY.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: redemptionPeriod
-   Updated Date: 06-sep-2011
-   Creation Date: 26-jul-2010
-   Expiration Date: 26-jul-2011
+   Domain Name: MUSTANGMODS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.DSREDIRECTION.COM
+   Name Server: NS2.DSREDIRECTION.COM
+   Status: ok
+   Updated Date: 12-sep-2011
+   Creation Date: 21-jul-2010
+   Expiration Date: 21-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:35:31 UTC &lt;&lt;&lt;
 
@@ -54,70 +51,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about 18bay.com
-&lt;a href=&quot;http://www.aboutus.org/18bay.com&quot;&gt;AboutUs: 18bay.com&lt;/a&gt;
 
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain name: 18bay.com
+Domain mustangmods.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 25313953196937
+  25313953196937-724c51@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-Registrant Contact:
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 25313953196937
+  25313953196937-724c51@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-   Reactivation Period ()
+Record dates:
+  Record created on: 2010-07-21 18:12:17 UTC
+  Record modified on: 2011-09-12 21:56:54 UTC
+  Record expires on: 2012-07-21 UTC
 
-   Fax:
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+Nameservers:
+  ns1.dsredirection.com:
+  ns2.dsredirection.com:
 
-Administrative Contact:
+Note: Automated collection of data from this database is strictly prohibited.
 
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
-
-Technical Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
-
-Status: Locked
-
-Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
-
-Creation date: 26 Jul 2010 17:45:00
-Expiration date: 26 Jul 2011 12:45:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

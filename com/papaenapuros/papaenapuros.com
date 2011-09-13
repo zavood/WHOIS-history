@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 18BAY.COM
+   Domain Name: PAPAENAPUROS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: redemptionPeriod
-   Updated Date: 06-sep-2011
-   Creation Date: 26-jul-2010
-   Expiration Date: 26-jul-2011
+   Name Server: NS1.DESPACHOTRES.COM
+   Name Server: NS2.DESPACHOTRES.COM
+   Status: clientTransferProhibited
+   Updated Date: 05-sep-2011
+   Creation Date: 13-aug-2007
+   Expiration Date: 13-aug-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:35:31 UTC &lt;&lt;&lt;
 
@@ -55,50 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about 18bay.com
-&lt;a href=&quot;http://www.aboutus.org/18bay.com&quot;&gt;AboutUs: 18bay.com&lt;/a&gt;
 
 
-Domain name: 18bay.com
+Domain name: papaenapuros.com
 
 Registrant Contact:
 
-   Reactivation Period ()
+   Daniel Martin Alonso ()
 
    Fax:
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+   Valladolid
+   Valladolid, VALLADOLID 47014
+   ES
 
 Administrative Contact:
 
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+   Daniel Martin Alonso (info@papaenapuros.com)
+   +34.983117228
+   Fax: 1.
+   Valladolid
+   Valladolid, VALLADOLID 47014
+   ES
 
 Technical Contact:
 
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+   Daniel Martin Alonso (info@papaenapuros.com)
+   +34.983117228
+   Fax: 1.
+   Valladolid
+   Valladolid, VALLADOLID 47014
+   ES
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   ns1.despachotres.com
+   ns2.despachotres.com
 
-Creation date: 26 Jul 2010 17:45:00
-Expiration date: 26 Jul 2011 12:45:00
+Creation date: 13 Aug 2007 13:07:43
+Expiration date: 13 Aug 2015 13:07:43
 
 
 
