@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 08-feb-2010
    Expiration Date: 08-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 15:39:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:52:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,34 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Atlas Business Solutions, Inc.
-   3330 Fiechtner Dr
-   Fargo, North Dakota 58103
-   United States
+   Jon Forknell
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SCHEDULEBASE.COM
-      Created on: 08-Feb-10
-      Expires on: 08-Feb-12
-      Last Updated on: 08-Feb-10
-
-   Administrative Contact:
-      Eaton, Charles  webmaster@abs-usa.com
-      Atlas Business Solutions, Inc.
-      3330 Fiechtner Dr
-      Fargo, North Dakota 58103
-      United States
-      (701) 235-5226      Fax --
-
-   Technical Contact:
-      Eaton, Charles  webmaster@abs-usa.com
-      Atlas Business Solutions, Inc.
-      3330 Fiechtner Dr
-      Fargo, North Dakota 58103
-      United States
-      (701) 235-5226      Fax --
 
    Domain servers in listed order:
       NS55.DOMAINCONTROL.COM
       NS56.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SCHEDULEBASE.COM
