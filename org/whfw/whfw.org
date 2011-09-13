@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83221333-LROR
+Domain Name:WHFW.ORG
+Created On:31-Jan-2002 21:26:43 UTC
+Last Updated On:15-Nov-2010 23:56:53 UTC
+Expiration Date:31-Jan-2013 21:26:43 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30728069
+Registrant Name:Marlene Brown
+Registrant Organization:Wildlife Heritage Foundation of Wyoming
+Registrant Street1:PO Box 20088
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cheyenne
+Registrant State/Province:WY
+Registrant Postal Code:82003
+Registrant Country:US
+Registrant Phone:+1.3077774693
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@lonetree.com
+Admin ID:CR30728071
+Admin Name:Marlene Brown
+Admin Organization:Wildlife Heritage Foundation of Wyoming
+Admin Street1:PO Box 20088
+Admin Street2:
+Admin Street3:
+Admin City:Cheyenne
+Admin State/Province:WY
+Admin Postal Code:82003
+Admin Country:US
+Admin Phone:+1.3077774693
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@lonetree.com
+Tech ID:CR30728070
+Tech Name:Marlene Brown
+Tech Organization:Wildlife Heritage Foundation of Wyoming
+Tech Street1:PO Box 20088
+Tech Street2:
+Tech Street3:
+Tech City:Cheyenne
+Tech State/Province:WY
+Tech Postal Code:82003
+Tech Country:US
+Tech Phone:+1.3077774693
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@lonetree.com
+Name Server:NS6.LONETREE.COM
+Name Server:NS7.LONETREE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPULARMEDIA.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
+   Domain Name: FROOITION.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS0.PHASE8.NET
+   Name Server: NS1.PHASE8.NET
+   Name Server: NS2.PHASE8.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-aug-2011
-   Creation Date: 19-aug-2005
-   Expiration Date: 19-aug-2012
+   Updated Date: 15-jan-2010
+   Creation Date: 08-aug-2006
+   Expiration Date: 08-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:57:39 UTC &lt;&lt;&lt;
 
@@ -54,37 +54,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: FROOITION.COM
+     Created on: 2008-09-20
+     Updated on: 2010-01-15
+     Expires on: 2012-08-08
+     Registrant Name: FROOITION LIMITED
+     Contact: Frooition Limited
+     Registrant Address: Silver End Business Park, Brettell Lane
+     Registrant City: Brierley Hill
+     Registrant Postal Code: DY5 3LG
+     Registrant Country: GB
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS0.PHASE8.NET
+     Secondary Name Server Hostname: NS1.PHASE8.NET
 
 
-Registrant:
-   Aaron Ferguson
+&gt;&gt;&gt; Last update of whois database: Tue Sep 13 19:04:47 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: POPULARMEDIA.NET
-
-   Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=POPULARMEDIA.NET
