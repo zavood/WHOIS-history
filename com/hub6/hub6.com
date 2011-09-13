@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REGISTEREDSITE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.REGISTEREDSITE.COM
-   Name Server: DNS2.REGISTEREDSITE.COM
-   Name Server: DNS3.REGISTEREDSITE.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 28-may-1998
-   Expiration Date: 27-may-2012
+   Domain Name: HUB6.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DOPA.COM
+   Name Server: NS3.DOPA.COM
+   Status: ok
+   Updated Date: 13-may-2011
+   Creation Date: 19-dec-2010
+   Expiration Date: 19-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:55:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:54:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 Wei Bo haotaocom@gmail.com +86.1083040777
+	 HaoTao.net
+	 To buy this domain,Please email me!!
+	 QQ:1-4-9-9-0-5,Beijing,CN 150000
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: registeredsite.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:45:21 EDT 2011
-Reason Code: IE
+Domain Name:hub6.com
+Record last updated at 2010-12-19 14:57:48
+Record created on 2010/12/19
+Record expired on 2011/12/19
+
+
+Domain servers in listed order:
+	 ns1.dopa.com 	 ns3.dopa.com
+
+Administrator:
+	 name:(Wei Bo)
+	Email:(haotaocom@gmail.com) tel-- +86.1083040777
+	 HaoTao.net
+	 To buy this domain,Please email me!!
+\r
+t QQ:1-4-9-9-0-5
+Beijing,
+CN
+
+ zipcode:150000
+
+Technical Contactor:
+	 name:(Wei Bo)
+	Email:(haotaocom@gmail.com) tel-- +86.1083040777
+	 HaoTao.net
+	 To buy this domain,Please email me!!
+\r
+t QQ:1-4-9-9-0-5
+Beijing,
+CN
+
+ zipcode:150000
+
+Billing Contactor:
+	 name:(Wei Bo)
+	Email:(haotaocom@gmail.com) tel-- +86.1083040777
+	 HaoTao.net
+	 To buy this domain,Please email me!!
+\r
+t QQ:1-4-9-9-0-5
+Beijing,
+CN
+
+ zipcode:150000
+

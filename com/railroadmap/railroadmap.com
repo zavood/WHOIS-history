@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REGISTEREDSITE.COM
+   Domain Name: RAILROADMAP.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.REGISTEREDSITE.COM
-   Name Server: DNS2.REGISTEREDSITE.COM
-   Name Server: DNS3.REGISTEREDSITE.COM
+   Name Server: NS1.HE.NET
+   Name Server: NS2.HE.NET
+   Name Server: NS3.HE.NET
+   Name Server: NS4.HE.NET
+   Name Server: NS5.HE.NET
    Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 28-may-1998
-   Expiration Date: 27-may-2012
+   Updated Date: 28-jun-2009
+   Creation Date: 08-sep-2002
+   Expiration Date: 08-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:55:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:54:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: registeredsite.com
+Whois Query: railroadmap.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:45:21 EDT 2011
+Date and Time of Query: Tue Sep 13 15:50:23 EDT 2011
 Reason Code: IE

@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REGISTEREDSITE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.REGISTEREDSITE.COM
-   Name Server: DNS2.REGISTEREDSITE.COM
-   Name Server: DNS3.REGISTEREDSITE.COM
+   Domain Name: CMS9.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 28-may-1998
-   Expiration Date: 27-may-2012
+   Updated Date: 24-aug-2011
+   Creation Date: 08-jan-2011
+   Expiration Date: 08-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:55:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:54:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name : cms9.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant Contact Information :
+&auml;&cedil;Å&ccedil;Ñ&para;
+&auml;&cedil;Å&ccedil;Ñ&para;
+30796933@qq.com
+&auml;&cedil;ñ&ccedil;&ordm;&ordf;&eacute;&laquo;ò&aring;&deg;î&aring;&curren;&laquo;5-901, 314500
+tel: 86 057388986033
+fax: 86 057388986033
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact Information :
+&auml;&cedil;Å&ccedil;Ñ&para;
+&auml;&cedil;Å&ccedil;Ñ&para;
+30796933@qq.com
+&auml;&cedil;ñ&ccedil;&ordm;&ordf;&eacute;&laquo;ò&aring;&deg;î&aring;&curren;&laquo;5-901, 314500
+tel: 86 057388986033
+fax: 86 057388986033
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact Information :
+&auml;&cedil;Å&ccedil;Ñ&para;
+&auml;&cedil;Å&ccedil;Ñ&para;
+30796933@qq.com
+&auml;&cedil;ñ&ccedil;&ordm;&ordf;&eacute;&laquo;ò&aring;&deg;î&aring;&curren;&laquo;5-901, 314500
+tel: 86 057388986033
+fax: 86 057388986033
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Contact Information :
+&auml;&cedil;Å&ccedil;Ñ&para;
+&auml;&cedil;Å&ccedil;Ñ&para;
+30796933@qq.com
+&auml;&cedil;ñ&ccedil;&ordm;&ordf;&eacute;&laquo;ò&aring;&deg;î&aring;&curren;&laquo;5-901, 314500
+tel: 86 057388986033
+fax: 86 057388986033
 
-Whois Query: registeredsite.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:45:21 EDT 2011
-Reason Code: IE
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
+
+Registration Date :2011-1-8
+Expiration Date : 2013-1-8
+
+For more information, please go to http://whois.ename.com.
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAFFIKINGS.COM
+   Domain Name: PILLOWSTUDIO.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.SIMPLECOM.NET
-   Name Server: NS2.SIMPLECOM.NET
+   Name Server: NS1.FASTPARK.NET
+   Name Server: NS2.FASTPARK.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-aug-2011
-   Creation Date: 13-aug-2009
-   Expiration Date: 13-aug-2012
+   Updated Date: 25-oct-2010
+   Creation Date: 01-nov-2007
+   Expiration Date: 01-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:53:50 UTC &lt;&lt;&lt;
 
@@ -79,67 +79,60 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: TRAFFIKINGS.COM
+Domain Name: PILLOWSTUDIO.COM
 Registrar: MONIKER
 
-Registrant [2000601]:
-        Moniker Privacy Services TRAFFIKINGS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Registrant [617396]:
+        Alexander Pavlov alex@rushproject.com
+        Rush Project, Inc
+        PO Box 848
+        Needham
+        MA
+        02494
         US
 
 
-Administrative Contact [2000601]:
-        Moniker Privacy Services TRAFFIKINGS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Administrative Contact [617396]:
+        Alexander Pavlov alex@rushproject.com
+        Rush Project, Inc
+        PO Box 848
+        Needham
+        MA
+        02494
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7816703730
 
 
-Billing Contact [2000601]:
-        Moniker Privacy Services TRAFFIKINGS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Billing Contact [617396]:
+        Alexander Pavlov alex@rushproject.com
+        Rush Project, Inc
+        PO Box 848
+        Needham
+        MA
+        02494
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7816703730
 
 
-Technical Contact [2000601]:
-        Moniker Privacy Services TRAFFIKINGS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Technical Contact [617396]:
+        Alexander Pavlov alex@rushproject.com
+        Rush Project, Inc
+        PO Box 848
+        Needham
+        MA
+        02494
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7816703730
 
 
 Domain servers in listed order:
 
-        NS1.SIMPLECOM.NET
-        NS2.SIMPLECOM.NET
+        NS2.FASTPARK.NET
+        NS1.FASTPARK.NET
 
-        Record created on:        2009-08-13 16:29:37.0
-        Database last updated on: 2011-08-01 11:34:30.37
-        Domain Expires on:        2012-08-13 16:29:37.0
+        Record created on:        2007-11-01 14:20:22.0
+        Database last updated on: 2010-10-25 06:22:33.12
+        Domain Expires on:        2011-11-01 14:20:22.0
 
 
 

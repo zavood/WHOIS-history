@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REGISTEREDSITE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.REGISTEREDSITE.COM
-   Name Server: DNS2.REGISTEREDSITE.COM
-   Name Server: DNS3.REGISTEREDSITE.COM
+   Domain Name: HX95.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.126IDC.COM
+   Name Server: NS3.126IDC.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 28-may-1998
-   Expiration Date: 27-may-2012
+   Updated Date: 11-jun-2011
+   Creation Date: 18-feb-2007
+   Expiration Date: 18-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:55:06 UTC &lt;&lt;&lt;
 
@@ -52,23 +52,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name      : hx95.com
+PunnyCode        : hx95.com
+Creation Date    : 2007-02-18 00:00:00
+Updated Date     : 2011-02-13 00:21:41
+Expiration Date  : 2012-02-18 00:00:00
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+  Organization   : Shi Fengfei
+  Name           : Shi Fengfei
+  Address        : shiyantangtouyouyicun
+  City           : shenzhen
+  Province/State : Guangdong
+  Country        : CN
+  Postal Code    : 518108
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+  Name           : Shi Fengfei
+  Organization   : Shi Fengfei
+  Address        : shiyantangtouyouyicun
+  City           : shenzhen
+  Province/State : Guangdong
+  Country        : CN
+  Postal Code    : 518108
+  Phone Number   : 86-0755-28695144
+  Fax            : -0755-28695144
+  Email          : 1062335@qq.com
 
-Whois Query: registeredsite.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:45:21 EDT 2011
-Reason Code: IE
+Technical Contact:
+  Name           : Shi Fengfei
+  Organization   : Shi Fengfei
+  Address        :
+  City           : shenzhen
+  Province/State : Guangdong
+  Country        : CN
+  Postal Code    : 518108
+  Phone Number   : 86-0755-28695144
+  Fax            : 86-0755-28695144
+  Email          : 1062335@qq.com
+
+Billing Contact:
+  Name           : Shi Fengfei
+  Organization   : Shi Fengfei
+  Address        : shiyantangtouyouyicun
+  City           : shenzhen
+  Province/State : Guangdong
+  Country        : CN
+  Postal Code    : 518108
+  Phone Number   : 86-0755-28695144
+  Fax            : 86-0755-28695144
+  Email          : 1062335@qq.com

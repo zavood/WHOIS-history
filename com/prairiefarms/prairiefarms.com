@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REGISTEREDSITE.COM
+   Domain Name: PRAIRIEFARMS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.REGISTEREDSITE.COM
-   Name Server: DNS2.REGISTEREDSITE.COM
-   Name Server: DNS3.REGISTEREDSITE.COM
+   Name Server: AUTH.LKV.MN.FRONTIERNET.NET
+   Name Server: AUTH01.ROC.NY.FRONTIERNET.NET
    Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 28-may-1998
-   Expiration Date: 27-may-2012
+   Updated Date: 25-jun-2008
+   Creation Date: 09-jul-1997
+   Expiration Date: 08-jul-2017
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:55:06 UTC &lt;&lt;&lt;
 
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: registeredsite.com
+Whois Query: prairiefarms.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:45:21 EDT 2011
+Date and Time of Query: Tue Sep 13 15:45:52 EDT 2011
 Reason Code: IE

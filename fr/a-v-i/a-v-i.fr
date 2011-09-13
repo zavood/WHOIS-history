@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; a-v-i.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      a-v-i.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      AC1013-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11445-FRNIC
+registrar:   AB CONNECT
+anniversary: 07/02
+created:     07/02/2007
+last-update: 07/02/2011
+source:      FRNIC
+
+ns-list:     NSL11445-FRNIC
+nserver:     dns1.hosteur.com
+nserver:     dns2.hosteur.com
+source:      FRNIC
+
+registrar:   AB CONNECT
+type:        Isp Option 1
+address:     2 Avenue des D&eacute;port&eacute;s de la R&eacute;sistance
+address:     AIX EN PROVENCE
+country:     FR
+phone:       0 892 701 308
+fax-no:      +33 4 42 92 49 40
+e-mail:      afnic@hosteur.com
+website:     http://www.hosteur.com
+anonymous:   NO
+registered:  13/09/2004
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     07/02/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AC1013-FRNIC
+type:        ROLE
+contact:     AB CONNECT
+address:     AB Connect
+address:     21, rue des Vertus
+address:     13005 Marseille
+country:     FR
+phone:       08 92 70 13 08
+e-mail:      contact@hosteur.com
+admin-c:     JDG5-FRNIC
+tech-c:      JDG5-FRNIC
+changed:     24/11/2006 contact@hosteur.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
