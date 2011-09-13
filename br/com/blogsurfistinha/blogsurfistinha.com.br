@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-12 16:08:55 (BRT -03:00)
+%  2011-09-13 17:23:37 (BRT -03:00)
 
 domain:      blogsurfistinha.com.br
 owner:       luiz algusto santos silva junio
@@ -16,11 +16,11 @@ admin-c:     PECCA10
 tech-c:      PECCA10
 billing-c:   PECCA10
 nserver:     ms2.blogsurfistinha.com.br 70.38.12.239
-nsstat:      20110909 AA
-nslastaa:    20110909
+nsstat:      20110913 AA
+nslastaa:    20110913
 nserver:     ip-70-38-12-239.static.privatedns.com
-nsstat:      20110909 AA
-nslastaa:    20110909
+nsstat:      20110913 AA
+nslastaa:    20110913
 saci:        yes
 created:     20110728 #8629960
 expires:     20120728

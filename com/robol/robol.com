@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOLDOGOBTIMES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS23.DOMAINCONTROL.COM
-   Name Server: NS24.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ROBOL.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: DNS1.FREEHOSTIA.COM
+   Name Server: DNS2.FREEHOSTIA.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 09-feb-2008
-   Expiration Date: 09-feb-2012
+   Updated Date: 11-may-2011
+   Creation Date: 03-jun-1999
+   Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:22:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:23:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       robol.com
+owner:        n/a
+organization: Gunnlaugsson, Olafur
+email:        oligunnlaugs@gmail.com
+address:      54 Century Avenue
+address:      Oldbrook
+city:         Milton Keynes
+postal-code:  MK6 2NQ
+country:      GB
+phone:        +44.1908668949
+admin-c:      CCOM-169032 oli@audiotools.com
+tech-c:       CCOM-169032 oli@audiotools.com
+billing-c:    CCOM-70529 axfjord@aol.com
+nserver:      dns2.freehostia.com
+nserver:      dns1.freehostia.com
+status:       lock
+created:      1999-06-03 13:19:12 UTC
+modified:     2011-05-11 23:57:34 UTC
+expires:      2012-06-03 17:19:49 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-169032
+person:       n/a
+organization: Gunnlaugsson, Olafur
+email:        oli@audiotools.com
+address:      285 Conniburrow Boulevard
+address:      Conniburrow
+city:         Milton Keynes
+postal-code:  n/a
+country:      GB
+phone:        +44.7951905881
 
+contact-hdl:  CCOM-70529
+person:       Olafur Gunnlaugsson
+email:        axfjord@aol.com
+address:      54 Century Avenue
+city:         Milton Keynes
+postal-code:  MK6 2NQ
+country:      GB
+phone:        +44.07905948317
 
-Registrant:
-   Galdogob Times Media
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOLDOGOBTIMES.COM
-
-   Domain servers in listed order:
-      NS23.DOMAINCONTROL.COM
-      NS24.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOLDOGOBTIMES.COM
+source:       joker.com live whois service
+query-time:   0.025925
+db-updated:   2011-09-13 20:24:13
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

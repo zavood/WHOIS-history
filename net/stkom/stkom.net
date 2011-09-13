@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOLDOGOBTIMES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS23.DOMAINCONTROL.COM
-   Name Server: NS24.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: STKOM.NET
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: INTS.VTC.RU
+   Name Server: TURBO.STKOM.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 09-feb-2008
-   Expiration Date: 09-feb-2012
+   Updated Date: 21-apr-2011
+   Creation Date: 30-may-2008
+   Expiration Date: 30-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:22:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:23:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain name:             STKOM.NET
+Name Server:             ints.vtc.ru
+Name Server:             turbo.stkom.net 82.194.176.42
+Creation Date:           2008.05.30
+Updated Date:            2009.04.15
+Expiration Date:         2012.05.30
 
+Status:                  DELEGATED
 
-Registrant:
-   Galdogob Times Media
+Registrant ID:           OZC2XCC-RU
+Registrant Name:         JSC &quot;SviazTelecom&quot;
+Registrant Organization: JSC &quot;SviazTelecom&quot;
+Registrant Street1:      Lenina st. 20
+Registrant City:         Anadyr
+Registrant State:        Chukotka
+Registrant Postal Code:  689000
+Registrant Country:      RU
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOLDOGOBTIMES.COM
+Administrative, Technical Contact
+Contact ID:              UVLACZK-RU
+Contact Name:            Gordienko, Alexey
+Contact Organization:    SviazTelecom
+Contact Street1:         20, Lenina st.
+Contact City:            Anadyr
+Contact State:           Chukotka
+Contact Postal Code:     689000
+Contact Country:         RU
+Contact Phone:           +7 427 2220045
+Contact E-mail:          alx@anadyr.org
 
-   Domain servers in listed order:
-      NS23.DOMAINCONTROL.COM
-      NS24.DOMAINCONTROL.COM
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
+Last updated on 2011.09.14 00:23:47 MSK/MSD
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOLDOGOBTIMES.COM

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108108512-LROR
+Domain Name:HAVERHILLANDDISTRICTMCC.ORG
+Created On:04-Nov-2005 12:55:20 UTC
+Last Updated On:18-Oct-2010 10:08:30 UTC
+Expiration Date:04-Nov-2011 12:55:20 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuArwpa20aUqgBgS
+Registrant Name:David Rawlings
+Registrant Organization:Haverhill and District MCC
+Registrant Street1:Unit F
+Registrant Street2:Brocks Business Centre
+Registrant Street3:Homefield Road
+Registrant City:Haverhill
+Registrant State/Province:Suffolk
+Registrant Postal Code:CB98QP
+Registrant Country:GB
+Registrant Phone:+44.1440709794
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@pureenergy.org.uk
+Admin ID:tuWjR89RM0Fu1dE5
+Admin Name:Domains Manager
+Admin Organization:Pure Energy Multimedia Ltd
+Admin Street1:20 Rookwood Way
+Admin Street2:
+Admin Street3:
+Admin City:Haverhill
+Admin State/Province:Suffolk
+Admin Postal Code:CB98PB
+Admin Country:GB
+Admin Phone:+44.1440709794
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@havnet.net
+Tech ID:tuiNWPUS8i2MR0ZV
+Tech Name:Domains Manager
+Tech Organization:Pure Energy Multimedia Ltd
+Tech Street1:20 Rookwood Way
+Tech Street2:
+Tech Street3:
+Tech City:Haverhill
+Tech State/Province:Suffolk
+Tech Postal Code:CB98PB
+Tech Country:GB
+Tech Phone:+44.1440709794
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@havnet.net
+Name Server:NS1.POSITIVE-INTERNET.COM
+Name Server:NS0.POSITIVE-INTERNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOLDOGOBTIMES.COM
+   Domain Name: IT-NU.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS23.DOMAINCONTROL.COM
-   Name Server: NS24.DOMAINCONTROL.COM
+   Name Server: NS2393.HOSTGATOR.COM
+   Name Server: NS2394.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 09-feb-2008
-   Expiration Date: 09-feb-2012
+   Updated Date: 20-sep-2010
+   Creation Date: 20-sep-2010
+   Expiration Date: 20-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:22:09 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Galdogob Times Media
+   nuttapont sukson
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOLDOGOBTIMES.COM
+   Domain Name: IT-NU.COM
 
    Domain servers in listed order:
-      NS23.DOMAINCONTROL.COM
-      NS24.DOMAINCONTROL.COM
+      NS2393.HOSTGATOR.COM
+      NS2394.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOLDOGOBTIMES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=IT-NU.COM
