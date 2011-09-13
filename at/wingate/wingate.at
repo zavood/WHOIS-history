@@ -1,0 +1,58 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         wingate.at
+registrant:     EA864598-NICAT
+admin-c:        SE551620-NICAT
+tech-c:         SE551620-NICAT
+nserver:        ns1.namesserver.net
+nserver:        ns2.namesserver.net
+changed:        20071005 09:07:26
+source:         AT-DOM
+
+personname:
+organization:   EULINK AG
+street address: Schiffenberger Weg 61
+postal code:    D-35394
+city:           Giessen
+country:        Germany
+phone:          +49641979900
+fax-no:         +496419799021
+e-mail:         info@eulink.com
+nic-hdl:        EA864598-NICAT
+changed:        20010522 15:10:38
+source:         AT-DOM
+
+personname:     Steffen Ebert
+organization:   EBERTLANG Distribution GmbH
+street address: Neuenweg 19b
+postal code:    35390
+city:           Giessen
+country:        Germany
+phone:          +49641979900
+fax-no:         +496419799021
+e-mail:         hostmaster@ebertlang.com
+nic-hdl:        SE551620-NICAT
+changed:        20071011 15:25:48
+source:         AT-DOM
+

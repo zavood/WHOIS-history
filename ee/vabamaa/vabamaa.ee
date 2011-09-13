@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       vabamaa.ee
+registrant:   CID:EESTIDOMEENID:1367
+admin-c:      CID:EESTIDOMEENID:1368
+nsset:        NSSID:EESTIDOMEENID:379
+registrar:    eestidomeenid
+status:       paid and in zone
+registered:   04.07.2010 04:06:50
+changed:      07.12.2010 19:47:12
+expire:       07.12.2011
+
+contact:      CID:EESTIDOMEENID:1367
+name:         Vaba Maa AS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      07.12.2010 19:46:06
+
+contact:      CID:EESTIDOMEENID:1368
+name:         Enn Vels
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      07.12.2010 19:46:12
+
+nsset:        NSSID:EESTIDOMEENID:379
+nserver:      ns2.elion.ee (195.50.193.163)
+nserver:      ns.elion.ee (213.168.18.146)
+tech-c:       CID:EESTIDOMEENID:1369
+registrar:    eestidomeenid
+created:      07.12.2010 19:46:22
+
+contact:      CID:EESTIDOMEENID:1369
+name:         Taavi Viilukas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eestidomeenid
+created:      07.12.2010 19:46:17
+
+
