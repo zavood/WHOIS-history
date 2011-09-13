@@ -5,23 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAME-SERVICES.COM
+   Domain Name: MENCHAN.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
+   Name Server: NS1.VALUE-DOMAIN.COM
+   Name Server: NS2.VALUE-DOMAIN.COM
+   Name Server: NS3.VALUE-DOMAIN.COM
+   Name Server: NS4.VALUE-DOMAIN.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-feb-2010
-   Creation Date: 11-jun-2001
-   Expiration Date: 11-jun-2013
+   Updated Date: 03-may-2011
+   Creation Date: 29-may-2004
+   Expiration Date: 29-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:44:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:44:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,53 +54,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about name-services.com
-&lt;a href=&quot;http://www.aboutus.org/name-services.com&quot;&gt;AboutUs: name-services.com&lt;/a&gt;
+Visit AboutUs.org for more information about menchan.com
+&lt;a href=&quot;http://www.aboutus.org/menchan.com&quot;&gt;AboutUs: menchan.com&lt;/a&gt;
 
 
-Domain name: name-services.com
+Domain name: menchan.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   personal
+   megumi oota ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
-   US
+   miiminamimati 24-3-101 none
+   neyagawa-city, OSAKA 572-0019
+   JP
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (rbpgfhld@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
-   US
+   personal
+   megumi oota (menchan@cwk.zaq.ne.jp)
+   +81.728310837
+   Fax: +81.728310837
+   miiminamimati 24-3-101 none
+   neyagawa-city, OSAKA 572-0019
+   JP
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (rbpgfhld@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
-   US
+   personall
+   megumi oota (menchan@cwk.zaq.ne.jp)
+   +81.728310837
+   Fax: +81.728310837
+   miiminamimati 24-3-101 none
+   neyagawa-city, OSAKA 572-0019
+   JP
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   ns1.value-domain.com
+   ns2.value-domain.com
+   ns3.value-domain.com
+   ns4.value-domain.com
 
-Creation date: 11 Jun 2001 17:11:27
-Expiration date: 11 Jun 2013 17:11:00
+Creation date: 29 May 2004 22:55:19
+Expiration date: 29 May 2012 22:55:19
 
 
 

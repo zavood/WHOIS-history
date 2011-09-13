@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAME-SERVICES.COM
+   Domain Name: XREVTRX.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
+   Name Server: DNS4.REGISTRAR-SERVERS.COM
+   Name Server: DNS5.REGISTRAR-SERVERS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-feb-2010
-   Creation Date: 11-jun-2001
-   Expiration Date: 11-jun-2013
+   Updated Date: 13-dec-2010
+   Creation Date: 13-dec-2010
+   Expiration Date: 13-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:44:33 UTC &lt;&lt;&lt;
 
@@ -57,53 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about name-services.com
-&lt;a href=&quot;http://www.aboutus.org/name-services.com&quot;&gt;AboutUs: name-services.com&lt;/a&gt;
+Visit AboutUs.org for more information about xrevtrx.com
+&lt;a href=&quot;http://www.aboutus.org/xrevtrx.com&quot;&gt;AboutUs: xrevtrx.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: name-services.com
+Domain name: xrevtrx.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (rbpgfhld@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (c1a5909a0f8d4b1fbbadf71160fd0de4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (rbpgfhld@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O name-services.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (c1a5909a0f8d4b1fbbadf71160fd0de4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
+   dns4.registrar-servers.com
+   dns5.registrar-servers.com
 
-Creation date: 11 Jun 2001 17:11:27
-Expiration date: 11 Jun 2013 17:11:00
+Creation date: 14 Dec 2010 01:44:00
+Expiration date: 13 Dec 2011 20:44:00
 
 
 
