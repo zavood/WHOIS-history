@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CATALYST2.NET
+   Domain Name: WARCOREGAMERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.CATALYST2.NET
-   Name Server: NS2.CATALYST2.NET
-   Status: clientTransferProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 21-mar-2000
-   Expiration Date: 21-mar-2014
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 16-jun-2011
+   Creation Date: 05-nov-2010
+   Expiration Date: 05-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:44:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:44:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about catalyst2.net
-&lt;a href=&quot;http://www.aboutus.org/catalyst2.net&quot;&gt;AboutUs: catalyst2.net&lt;/a&gt;
+Visit AboutUs.org for more information about warcoregamers.com
+&lt;a href=&quot;http://www.aboutus.org/warcoregamers.com&quot;&gt;AboutUs: warcoregamers.com&lt;/a&gt;
 
 
-Domain name: catalyst2.net
+Domain name: warcoregamers.com
 
 Registrant Contact:
-   NA
-   Catalyst2 Services Ltd ()
+   Domain Privacy
+   Domain PRIVACY ()
 
    Fax:
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
+   A2 Segensworth Business Centre
+   Segensworth Road
+   Fareham, Hampshire PO15 5RQ
    GB
 
 Administrative Contact:
-   NA
-   Paul Redpath (domains@catalyst2.com)
-   +44.8001077979
-   Fax: 448452804993
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
+   Lisa Edwards
+   Lisa Edwards (subzerohimself@hotmail.co.uk)
+   +1.1702321176
+   Fax:
+   63 Fraser Close Shoeburyness
+   Southend On Sea, Uk SS3 9YU
    GB
 
 Technical Contact:
-   NA
-   Paul Redpath (domains@catalyst2.com)
-   +44.8001077979
-   Fax: 448452804993
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
-   GB
+   Just Host
+   Domain Manager (domainmanager@justhostinc.com)
 
-Status: Locked
+   Fax:
+   919 East Jefferson Blvd.
+   Phoenix, AZ 85034
+   US
+
+Status: Active
 
 Name Servers:
-   NS1.CATALYST2.NET
-   NS2.CATALYST2.NET
+   ns1.pipedns.com
+   ns2.pipedns.com
 
-Creation date: 21 Mar 2000 10:46:00
-Expiration date: 21 Mar 2014 09:46:00
+Creation date: 05 Nov 2010 10:15:00
+Expiration date: 05 Nov 2012 05:15:00
 
 
 

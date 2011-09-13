@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRENDMICRO.COM
+   Domain Name: TRADESHOWNEWS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR2.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: NS1-155.AKAM.NET
-   Name Server: NS1-72.AKAM.NET
-   Name Server: USC4.AKAM.NET
-   Name Server: USE1.AKAM.NET
-   Name Server: USW1.AKAM.NET
+   Name Server: NS11.BUSINESSWIRE.COM
+   Name Server: NS22.BUSINESSWIRE.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jun-2010
-   Creation Date: 20-apr-1995
-   Expiration Date: 21-apr-2013
+   Updated Date: 27-jun-2006
+   Creation Date: 25-jun-1998
+   Expiration Date: 24-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:43:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:44:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TRENDMICRO.COM
-&lt;a href=&quot;http://www.aboutus.org/TRENDMICRO.COM&quot;&gt;AboutUs: TRENDMICRO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about TRADESHOWNEWS.COM
+&lt;a href=&quot;http://www.aboutus.org/TRADESHOWNEWS.COM&quot;&gt;AboutUs: TRADESHOWNEWS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Trend Micro, Inc.
-   10101 N. De Anza Blvd., 4th floor
-   Cupertino, CA 95014
+Business Wire
+   44 Montgomery Street
+   39th Floor
+   San Francisco, CA 94104
    US
 
-   Domain Name: TRENDMICRO.COM
+   Domain Name: TRADESHOWNEWS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -101,34 +96,31 @@ Trend Micro, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Trend, Dnsadmin		dnsadmin@TRENDMICRO.COM
-      10101 N DE ANZA BLVD
-      CUPERTINO, CA 95014-2264
+      Roomian, Chris		hostadmin@businesswire.com
+      Business Wire
+      44 MONTGOMERY ST
+      39th Floor
+      SAN FRANCISCO, CA 94104-4602
       US
-      408-2571500 fax: 408-2572003
+      415-986-4422
 
    Technical Contact:
-      Chen, Jing		dnsadmin@TRENDMICRO.COM
-      TrendMicro
-      10101 N DE ANZA BLVD
-      CUPERTINO, CA 95014
+      Dylina, Gary		Hostmaster@BusinessWire.com
+      Business Wire
+      44 Montgomery St
+      39th Floor
+      San Francisco, CA 94104-4602
       US
-      408-863-6400 fax: 408-2572003
+      415-986-4422 fax: 415-956-2609
 
 
-   Record expires on 21-Apr-2013.
-   Record created on 20-Apr-1995.
-   Database last updated on 13-Sep-2011 13:34:13 EDT.
+   Record expires on 24-Jun-2014.
+   Record created on 25-Jun-1998.
+   Database last updated on 13-Sep-2011 13:34:41 EDT.
 
    Domain servers in listed order:
 
-   AUS1.AKAM.NET
-   EUR2.AKAM.NET
-   EUR5.AKAM.NET
-   NS1-155.AKAM.NET
-   NS1-72.AKAM.NET
-   USC4.AKAM.NET                65.203.234.27
-   USE1.AKAM.NET
-   USW1.AKAM.NET
+   NS11.BUSINESSWIRE.COM        208.1.114.4
+   NS22.BUSINESSWIRE.COM        208.28.117.69
 
 

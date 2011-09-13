@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CATALYST2.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.CATALYST2.NET
-   Name Server: NS2.CATALYST2.NET
+   Domain Name: LUFTHANSASYSTEMS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 21-mar-2000
-   Expiration Date: 21-mar-2014
+   Updated Date: 07-mar-2011
+   Creation Date: 20-apr-2007
+   Expiration Date: 20-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:44:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:44:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about catalyst2.net
-&lt;a href=&quot;http://www.aboutus.org/catalyst2.net&quot;&gt;AboutUs: catalyst2.net&lt;/a&gt;
+
+Domain Name.......... lufthansasystems.com
+  Creation Date........ 2007-04-21
+  Registration Date.... 2010-02-25
+  Expiry Date.......... 2012-04-21
+  Organisation Name.... Deutsche Lufthansa AG
+  Organisation Address. LAC, Airportring
+  Organisation Address.
+  Organisation Address. Frankfurt
+  Organisation Address. 60546
+  Organisation Address. -
+  Organisation Address. GERMANY
+
+Admin Name........... DNS Administration
+  Admin Address........ Am Weiher 24
+  Admin Address........
+  Admin Address........ 65451 Kelsterbach
+  Admin Address........ -
+  Admin Address........ 65451 Kelsterbach
+  Admin Address........ GERMANY
+  Admin Email.......... dnsadmin@lhsystems.com
+  Admin Phone.......... +99.99999999
+  Admin Fax............
+
+Tech Name............ DNS Administration
+  Tech Address......... Am Weiher 24
+  Tech Address.........
+  Tech Address......... 65451 Kelsterbach
+  Tech Address......... -
+  Tech Address......... -
+  Tech Address......... GERMANY
+  Tech Email........... dnsadmin@lhsystems.com
+  Tech Phone........... +49.6969696163
+  Tech Fax.............
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
 
 
-Domain name: catalyst2.net
-
-Registrant Contact:
-   NA
-   Catalyst2 Services Ltd ()
-
-   Fax:
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
-   GB
-
-Administrative Contact:
-   NA
-   Paul Redpath (domains@catalyst2.com)
-   +44.8001077979
-   Fax: 448452804993
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
-   GB
-
-Technical Contact:
-   NA
-   Paul Redpath (domains@catalyst2.com)
-   +44.8001077979
-   Fax: 448452804993
-   79 Chichester Street
-   Belfast, ANTRIM BT1 4JE
-   GB
-
-Status: Locked
-
-Name Servers:
-   NS1.CATALYST2.NET
-   NS2.CATALYST2.NET
-
-Creation date: 21 Mar 2000 10:46:00
-Expiration date: 21 Mar 2014 09:46:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
