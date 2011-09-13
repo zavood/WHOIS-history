@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:24:36 (BRT -03:00)
+
+domain:      e-cal.inf.br
+owner:       Fadel Eventos Ltda
+ownerid:     003.148.501/0001-08
+responsible: CARLOS MATIAS
+country:     BR
+owner-c:     DFF39
+admin-c:     DFF39
+tech-c:      CMC302
+billing-c:   DFF39
+nserver:     ns1.e-cal.inf.br 200.219.214.4
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.e-cal.inf.br 200.219.214.5
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20090119 #5200957
+expires:     20130119
+changed:     20110103
+status:      published
+
+nic-hdl-br:  CMC302
+person:      Carlos M. Cardoso
+e-mail:      maildocal@gmail.com
+created:     20040804
+changed:     20090803
+
+nic-hdl-br:  DFF39
+person:      David Fadel Filho
+e-mail:      carlosmcardoso@yahoo.com.br
+created:     20021125
+changed:     20091015
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

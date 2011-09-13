@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DATTAWEB.COM
-   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
-   Whois Server: whois.dattatec.com
-   Referral URL: http://www.dattatec.com
-   Name Server: NS1.DATTAWEB.COM
-   Name Server: NS2.DATTAWEB.COM
-   Status: ok
-   Updated Date: 02-jun-2011
-   Creation Date: 17-jun-2001
-   Expiration Date: 17-jun-2012
+   Domain Name: MUSKOKA-COTTAGES.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: ARACHNE.BAYTIDES.ON.CA
+   Name Server: NS1.VIANET.CA
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 25-dec-2010
+   Creation Date: 23-jan-1999
+   Expiration Date: 23-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:23:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:23:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,62 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain name: dattaweb.com
-Creation Date: 2001-06-17
-Expiration Date: 2012-06-17
-
-Status(es):
-   ok
-
-Domain Name servers(es):
-   ns2.dattaweb.com
-   ns1.dattaweb.com
-
-Registrant contact:
-   Name:    Dattatec.com
-   Company: Hosting Solutions
-   Email:   info@dattatec.com
-   Address: Cordoba 3753 - Argentina
-            AR - Rosario ( zip: 2000 )
-   Phone  : 54 - 3414360555
-
-Admin contact:
-   Name:    Dattatec.com
-   Company: Hosting Solutions
-   Email:   info@dattatec.com
-   Address: Cordoba 3753 - Argentina
-            AR - Rosario ( zip: 2000 )
-   Phone  : 54 - 3414360555
-
-Billing contact:
-   Name:    Dattatec.com
-   Company: Hosting Solutions
-   Email:   info@dattatec.com
-   Address: Cordoba 3753 - Argentina
-            AR - Rosario ( zip: 2000 )
-   Phone  : 54 - 3414360555
-
-Tech contact:
-   Name:    Dattatec.com
-   Company: Hosting Solutions
-   Email:   info@dattatec.com
-   Address: Cordoba 3753 - Argentina
-            AR - Rosario ( zip: 2000 )
-   Phone  : 54 - 3414360555
-
-All data in this whois database is provided by dattatec.com for
-information purposes only, and to assist persons in obtaining
-information about or related to a domain name registration record.
-By querying this server, you agree that you :
- (1)-may use this data only for lawful purposes;
- (2)-will not re-use data for any kind of support for the transmission
-     of unsolicited advertising via e-mail, telephone, or facsimile;
- (3)-will not reproduce and/or store any part of the data without prior
-     permission of the copyright holders;
- (4)-are aware of and agree to the fact that all access to the server is
-     under constant monitoring and will be logged for the purpose of
-     prosecution in case of missuse!
-
-The registrar record is DATTATEC.COM BELONGING TO VERONICA P. IRAZOQUI
- Dattatec.com reserves the right to modify these terms at any time.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

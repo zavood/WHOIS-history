@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D110805030-LROR
+Domain Name:DUBOIS-MANCHOT.ORG
+Created On:07-Jan-2006 12:46:05 UTC
+Last Updated On:07-Jan-2011 02:20:00 UTC
+Expiration Date:07-Jan-2012 12:46:05 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4d267854s0cn
+Registrant Name:david thomas
+Registrant Street1:13 rue amelot
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75011
+Registrant Country:FR
+Registrant Phone:+33.148050206
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@dubois-manchot.org
+Admin ID:ovh4d267854hruu
+Admin Name:Pierre-Yves Martinez
+Admin Organization:Magic ATP
+Admin Street1:13 Rue Amelot
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.148050206
+Admin Phone Ext.:
+Admin FAX:+33.148050206
+Admin FAX Ext.:
+Admin Email:contact@magiccorporation.com
+Tech ID:ovh4d267855cgo7
+Tech Name:Jean-Christophe Taisne
+Tech Street1:13 Rue Eugene Renault apt408
+Tech Street2:
+Tech Street3:
+Tech City:Maisons-Alfort
+Tech State/Province:
+Tech Postal Code:94700
+Tech Country:FR
+Tech Phone:+33.676968407
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:taisnejc@gmail.com
+Name Server:SDNS1.OVH.NET
+Name Server:NS60195.OVH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

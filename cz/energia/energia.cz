@@ -1,0 +1,86 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 04:23:12 2011
+
+domain:       energia.cz
+registrant:   SB:L_BALEK
+admin-c:      L_BALEK
+nsset:        NSS:IGNUM:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   05.06.2001 16:51:00
+changed:      09.07.2004 08:55:00
+expire:       05.06.2012
+
+contact:      SB:L_BALEK
+name:         Libor Balek
+address:      Vancurova 2
+address:      Haj ve Slezsku
+address:      747 92
+address:      CZ
+e-mail:       energia@opava.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+contact:      L_BALEK
+name:         Libor Balek
+address:      Vancurova 2
+address:      Haj ve Slezsku
+address:      747 92
+address:      CZ
+phone:        +420 603820123
+fax-no:       +420 553773397
+e-mail:       energia@opava.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:IGNUM:1
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (213.235.133.138)
+tech-c:       ROB1
+tech-c:       SB:IGNUM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      ROB1
+name:         Robert Prokes
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.01.2009 10:18:17
+
+contact:      SB:IGNUM
+org:          IGNUM s.r.o.
+name:         Robert Proke&Aring;&iexcl;
+address:      Thamova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+e-mail:       info@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.10.2007 11:11:02
+
+
