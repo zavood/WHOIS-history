@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNETWORKS.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.CDNETWORKS.NET
-   Name Server: NS2.CDNETWORKS.NET
-   Name Server: NS3.CDNETWORKS.NET
-   Name Server: NS4.CDNETWORKS.NET
-   Name Server: NS5.CDNETWORKS.NET
-   Name Server: NS6.CDNETWORKS.NET
+   Domain Name: WALEEDALSAGGAF.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS49.DOMAINCONTROL.COM
+   Name Server: NS50.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 27-aug-2010
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2014
+   Status: clientUpdateProhibited
+   Updated Date: 21-jul-2008
+   Creation Date: 07-feb-2001
+   Expiration Date: 07-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:46:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:48:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,58 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
+
 
 Registrant:
-   CDNetworks Inc.
-   2218 N 1st ST.
-   San Jose, CA 95131
-   US
+   STS
 
-   Domain Name: CDNETWORKS.NET
-
-   Administrative Contact:
-      CDNetworks Inc.
-      OPS
-      441 W Trimble RD
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      support@cdnetworks.com
-
-   Technical Contact, Zone Contact:
-      CDNetworks Inc.
-      Jennifer Shin
-      2218 N 1st ST.
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      jennifer.shin@cdnetworks.com
-
-   Domain created on 13-Jun-2006
-   Domain expires on 13-Jun-2014
-   Last updated on 24-Feb-2009
+   Registered through: STS
+   Domain Name: WALEEDALSAGGAF.COM
 
    Domain servers in listed order:
+      NS49.DOMAINCONTROL.COM
+      NS50.DOMAINCONTROL.COM
 
-      NS1.CDNETWORKS.NET
-      NS2.CDNETWORKS.NET
-      NS3.CDNETWORKS.NET
-      NS4.CDNETWORKS.NET
-      NS5.CDNETWORKS.NET
-      NS6.CDNETWORKS.NET
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=WALEEDALSAGGAF.COM&amp;prog_id=436361

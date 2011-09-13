@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEATHERBUG.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Domain Name: VINDLE.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS0.TRANSIP.NET
+   Name Server: NS1.TRANSIP.NET
+   Name Server: NS2.TRANSIP.NET
    Status: clientTransferProhibited
-   Updated Date: 05-mar-2011
-   Creation Date: 20-sep-1999
-   Expiration Date: 20-sep-2013
+   Updated Date: 04-feb-2011
+   Creation Date: 03-feb-2006
+   Expiration Date: 03-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:48:01 UTC &lt;&lt;&lt;
 
@@ -51,23 +52,79 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+; This data is provided by Transip BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Transip BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+DOMAIN: VINDLE.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+RSP: Transip BV
+URL: http://www.transip.nl/
 
-http://www.networksolutions.com/whois/index.jhtml
+owner-contact: P-FMS97
+owner-organization: Schoep, FL
+owner-fname: FL
+owner-lname: Schoep
+owner-street: Molenstraat 77
+owner-city: Oud-Vossemeer
+owner-zip: 4698 BB
+owner-country: NL
+owner-phone: +31166672297
+owner-fax: +31166672297
+owner-email: frank@ffnn.nl
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+admin-contact: P-FMS97
+admin-organization: Schoep, FL
+admin-fname: FL
+admin-lname: Schoep
+admin-street: Molenstraat 77
+admin-city: Oud-Vossemeer
+admin-zip: 4698 BB
+admin-country: NL
+admin-phone: +31166672297
+admin-fax: +31166672297
+admin-email: frank@ffnn.nl
 
-Whois Query: weatherbug.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:38:52 EDT 2011
-Reason Code: IE
+tech-contact: P-FMS97
+tech-organization: Schoep, FL
+tech-fname: FL
+tech-lname: Schoep
+tech-street: Molenstraat 77
+tech-city: Oud-Vossemeer
+tech-zip: 4698 BB
+tech-country: NL
+tech-phone: +31166672297
+tech-fax: +31166672297
+tech-email: frank@ffnn.nl
+
+billing-contact: P-FMS97
+billing-organization: Schoep, FL
+billing-fname: FL
+billing-lname: Schoep
+billing-street: Molenstraat 77
+billing-city: Oud-Vossemeer
+billing-zip: 4698 BB
+billing-country: NL
+billing-phone: +31166672297
+billing-fax: +31166672297
+billing-email: frank@ffnn.nl
+
+nameserver: ns0.transip.net
+nameserver: ns1.transip.net
+nameserver: ns2.transip.net
+
+; Transip BV
+; Real-time domeinregistratie en -beheer vanaf 5.99 Euro!
+; http://www.transip.nl/products/domain/
+

@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNETWORKS.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.CDNETWORKS.NET
-   Name Server: NS2.CDNETWORKS.NET
-   Name Server: NS3.CDNETWORKS.NET
-   Name Server: NS4.CDNETWORKS.NET
-   Name Server: NS5.CDNETWORKS.NET
-   Name Server: NS6.CDNETWORKS.NET
+   Domain Name: IZU-TOKUTAROU.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS01.MUUMUU-DOMAIN.COM
+   Name Server: DNS02.MUUMUU-DOMAIN.COM
    Status: clientTransferProhibited
-   Updated Date: 27-aug-2010
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2014
+   Updated Date: 28-jan-2011
+   Creation Date: 27-jan-2010
+   Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:46:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:48:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,58 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+GMO Internet, Inc. whois server 2.0
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Registrant:
-   CDNetworks Inc.
-   2218 N 1st ST.
-   San Jose, CA 95131
-   US
-
-   Domain Name: CDNETWORKS.NET
-
-   Administrative Contact:
-      CDNetworks Inc.
-      OPS
-      441 W Trimble RD
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      support@cdnetworks.com
-
-   Technical Contact, Zone Contact:
-      CDNetworks Inc.
-      Jennifer Shin
-      2218 N 1st ST.
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      jennifer.shin@cdnetworks.com
-
-   Domain created on 13-Jun-2006
-   Domain expires on 13-Jun-2014
-   Last updated on 24-Feb-2009
-
-   Domain servers in listed order:
-
-      NS1.CDNETWORKS.NET
-      NS2.CDNETWORKS.NET
-      NS3.CDNETWORKS.NET
-      NS4.CDNETWORKS.NET
-      NS5.CDNETWORKS.NET
-      NS6.CDNETWORKS.NET
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+Domain Handle: None
+Domain Name: izu-tokutarou.com
+Created On: 2010-01-28 13:35:53.0
+Last Updated On: 2011-01-29 08:53:49.0
+Expiration Date: 2012-01-28 04:35:53.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns01.muumuu-domain.com
+Name Server: dns02.muumuu-domain.com
 
