@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152355100-LROR
+Domain Name:3PINTERNATIONAL.ORG
+Created On:11-Apr-2008 11:06:38 UTC
+Last Updated On:11-Apr-2011 14:13:10 UTC
+Expiration Date:11-Apr-2012 11:06:38 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0e866b5cd036dc9c
+Registrant Name:Majid  Samad
+Registrant Organization:Neosol
+Registrant Street1:Suit 619 Mashriq Centre
+Registrant Street2:
+Registrant Street3:
+Registrant City:Karachi
+Registrant State/Province:
+Registrant Postal Code:03332314526
+Registrant Country:PK
+Registrant Phone:+92.214142385
+Registrant Phone Ext.:
+Registrant FAX:+92.214142385
+Registrant FAX Ext.:
+Registrant Email:info@neosols.com
+Admin ID:0e866b5cd036dc9c
+Admin Name:Majid  Samad
+Admin Organization:Neosol
+Admin Street1:Suit 619 Mashriq Centre
+Admin Street2:
+Admin Street3:
+Admin City:Karachi
+Admin State/Province:
+Admin Postal Code:03332314526
+Admin Country:PK
+Admin Phone:+92.214142385
+Admin Phone Ext.:
+Admin FAX:+92.214142385
+Admin FAX Ext.:
+Admin Email:info@neosols.com
+Tech ID:785d0cbd14084cd5
+Tech Name:Domain  Registry
+Tech Organization:Net Access Communication Systems (Pvt) Ltd
+Tech Street1:1107 Park Avenue, 24- A,Block 6, PECHS
+Tech Street2:
+Tech Street3:
+Tech City:Karachi
+Tech State/Province:
+Tech Postal Code:74500
+Tech Country:PK
+Tech Phone:+92.21111222377
+Tech Phone Ext.:
+Tech FAX:+92.21111222377
+Tech FAX Ext.:
+Tech Email:faisal@nacspl.com
+Name Server:NS5.INSPEDIUMCORP.COM
+Name Server:NS6.INSPEDIUMCORP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
