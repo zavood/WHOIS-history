@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6330210-LROR
+Domain Name:FCLSPA.ORG
+Created On:07-May-1999 20:22:11 UTC
+Last Updated On:13-May-2008 15:47:54 UTC
+Expiration Date:07-May-2013 20:20:28 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25954509-NSI
+Registrant Name:FRANKLIN COUNTY LIBRARY SYSTEM
+Registrant Organization:FRANKLIN COUNTY LIBRARY SYSTEM
+Registrant Street1:102 N MAIN STREET
+Registrant Street2:
+Registrant Street3:
+Registrant City:CHAMBERSBURG
+Registrant State/Province:PA
+Registrant Postal Code:17201
+Registrant Country:US
+Registrant Phone:+1.7177090282
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fclspa@INNERNET.NET
+Admin ID:25954512-NSI
+Admin Name:Franklin County Library System
+Admin Organization:Franklin County Library System
+Admin Street1:102 N MAIN ST
+Admin Street2:
+Admin Street3:
+Admin City:CHAMBERSBURG
+Admin State/Province:PA
+Admin Postal Code:17201-1638
+Admin Country:US
+Admin Phone:+1.7177090282
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fclspa@INNERNET.NET
+Tech ID:5737730-NSI
+Tech Name:NameSecure Registrar
+Tech Organization:NameSecure Registrar
+Tech Street1:21355 Ridgetop Circle Lakeside
+Tech Street2:
+Tech Street3:
+Tech City:Dulles
+Tech State/Province:VA
+Tech Postal Code:20166
+Tech Country:US
+Tech Phone:+1.7210
+Tech Phone Ext.:
+Tech FAX:+1.778
+Tech FAX Ext.:
+Tech Email:support@NAMESECURE.COM
+Name Server:NS1.CVTECH.COM
+Name Server:NS2.CVTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
