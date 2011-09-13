@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161215373-LROR
+Domain Name:BALLOONTOWERDEFENCE4.ORG
+Created On:16-Jan-2011 09:11:11 UTC
+Last Updated On:29-Apr-2011 09:14:37 UTC
+Expiration Date:16-Jan-2012 09:11:11 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_9337997
+Registrant Name:Giorgi Charkviani
+Registrant Organization:N/A
+Registrant Street1:Saburtalo
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tbilisi
+Registrant State/Province:T'bilisi
+Registrant Postal Code:0157
+Registrant Country:GE
+Registrant Phone:+9.7953116547
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ertoblivi@yahoo.com
+Admin ID:DI_9337997
+Admin Name:Giorgi Charkviani
+Admin Organization:N/A
+Admin Street1:Saburtalo
+Admin Street2:
+Admin Street3:
+Admin City:Tbilisi
+Admin State/Province:T'bilisi
+Admin Postal Code:0157
+Admin Country:GE
+Admin Phone:+9.7953116547
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ertoblivi@yahoo.com
+Tech ID:DI_9337997
+Tech Name:Giorgi Charkviani
+Tech Organization:N/A
+Tech Street1:Saburtalo
+Tech Street2:
+Tech Street3:
+Tech City:Tbilisi
+Tech State/Province:T'bilisi
+Tech Postal Code:0157
+Tech Country:GE
+Tech Phone:+9.7953116547
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ertoblivi@yahoo.com
+Name Server:NS1813.HOSTGATOR.COM
+Name Server:NS1814.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

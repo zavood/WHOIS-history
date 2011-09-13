@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREMIERGUIDE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
+   Domain Name: HAPPYEASTERSTORE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
    Name Server: PDNS1.ULTRADNS.NET
    Name Server: PDNS2.ULTRADNS.NET
    Name Server: PDNS3.ULTRADNS.ORG
    Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 05-oct-2010
-   Creation Date: 07-nov-2002
-   Expiration Date: 07-nov-2011
+   Updated Date: 02-sep-2011
+   Creation Date: 08-oct-2010
+   Expiration Date: 08-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:51:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:50:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,67 +56,44 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain Name.......... happyeasterstore.com
+  Creation Date........ 2010-10-09
+  Registration Date.... 2010-10-09
+  Expiry Date.......... 2012-10-09
+  Organisation Name.... Provide Commerce, Inc.
+  Organisation Address. 4840 Eastgate Mall
+  Organisation Address.
+  Organisation Address. San Diego
+  Organisation Address. 92121
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
 
+Admin Name........... Provide Commerce
+  Admin Address........ 4840 Eastgate
+  Admin Address........
+  Admin Address........ San Diego
+  Admin Address........ 92121
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +1.8587292800
+  Admin Fax............
 
-   Registrant:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a16123315ab85cb0935aa8f@domaindiscreet.com
-
-
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: premierguide.com
-      Created on..............: 2007-09-20
-      Expires on..............: 2011-11-07
-
-   Administrative Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04e0a16123361cfd335761bbca7@domaindiscreet.com
-
-
-   Technical  Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a1612332fdcdd8a91156b74@domaindiscreet.com
-
-
-   DNS Servers:
-      pdns3.ultradns.org
-      pdns4.ultradns.org
-      pdns2.ultradns.net
-      pdns1.ultradns.net
-
+Tech Name............ Provide Commerce
+  Tech Address......... 4840 Eastgate
+  Tech Address.........
+  Tech Address......... San Diego
+  Tech Address......... 92121
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... admin@melbourneitdbs.com
+  Tech Phone........... +1.8587292800
+  Tech Fax.............
+  Name Server.......... pdns5.ultradns.info
+  Name Server.......... pdns4.ultradns.org
+  Name Server.......... pdns1.ultradns.net
+  Name Server.......... pdns2.ultradns.net
+  Name Server.......... pdns3.ultradns.org
+  Name Server.......... pdns6.ultradns.co.uk
 
 
