@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROGRESSIVEITGROUP.COM
+   Domain Name: LASTSHREDSOFSANITY.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 10-dec-2010
-   Creation Date: 10-mar-2008
-   Expiration Date: 10-mar-2015
+   Name Server: NS2165.HOSTGATOR.COM
+   Name Server: NS2166.HOSTGATOR.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 21-aug-2011
+   Creation Date: 04-sep-2009
+   Expiration Date: 04-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:29:04 UTC &lt;&lt;&lt;
 

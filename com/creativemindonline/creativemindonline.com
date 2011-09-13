@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROGRESSIVEITGROUP.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 10-dec-2010
-   Creation Date: 10-mar-2008
-   Expiration Date: 10-mar-2015
+   Domain Name: CREATIVEMINDONLINE.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS.NOCDIRECT.COM
+   Name Server: NS2.NOCDIRECT.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 21-oct-2010
+   Creation Date: 20-oct-2006
+   Expiration Date: 20-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:29:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:27:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Ross Oliver
+   443-G Costa Mesa Terrace
+   Sunnyvale, CA  94085
+   US
+
+   Registrar: DOTSTER
+   Domain Name: CREATIVEMINDONLINE.COM
+      Created on: 19-OCT-06
+      Expires on: 20-OCT-11
+      Last Updated on: 30-SEP-10
+
+   Administrative, Technical Contact:
+      Oliver, Ross  dotster@airaffair.com
+      443-G Costa Mesa Terrace
+      Sunnyvale, CA  94085
+      US
+      408-733-5804
+
+
+   Domain servers in listed order:
+      NS.NOCDIRECT.COM
+      NS2.NOCDIRECT.COM
+
+End of Whois Information
