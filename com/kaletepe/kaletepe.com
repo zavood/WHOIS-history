@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LHBLESCHAMPIONS.COM
+   Domain Name: KALETEPE.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: NS1.PANELBOXMANAGER.COM
-   Name Server: NS2.PANELBOXMANAGER.COM
+   Name Server: NS1.INSTADNS.COM
+   Name Server: NS2.INSTADNS.COM
    Status: ok
-   Updated Date: 19-aug-2011
-   Creation Date: 18-aug-2009
-   Expiration Date: 18-aug-2012
+   Updated Date: 11-may-2011
+   Creation Date: 06-may-2005
+   Expiration Date: 06-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:07:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:08:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... lhbleschampions.com
-  Creation Date........ 2009-08-19
-  Registration Date.... 2009-08-19
-  Expiry Date.......... 2012-08-19
-  Organisation Name.... LHB les champions
-  Organisation Address. 3303 Notre-dame app 402
+Domain Name.......... kaletepe.com
+  Creation Date........ 2005-05-06
+  Registration Date.... 2008-03-10
+  Expiry Date.......... 2013-05-06
+  Organisation Name.... Kerem Ozturk
+  Organisation Address. Besevler
   Organisation Address.
-  Organisation Address. Laval
-  Organisation Address. H7V 3R8
-  Organisation Address. QC
-  Organisation Address. CANADA
+  Organisation Address. Besevler
+  Organisation Address. 06100
+  Organisation Address. Ankara
+  Organisation Address. TURKEY
 
-Admin Name........... Impression Vip
-  Admin Address........ 3758 Carre Arthur Buies
+Admin Name........... Hasim ozudogru
+  Admin Address........ Besevler
   Admin Address........
-  Admin Address........ Boisbriand
-  Admin Address........ J7H 1M4
-  Admin Address........ QC
-  Admin Address........ CANADA
-  Admin Email.......... ray@impressionvip.com
-  Admin Phone.......... +1.4508184970
-  Admin Fax............ +1.4508184971
+  Admin Address........ golbasi
+  Admin Address........ 06100
+  Admin Address........ Ankara
+  Admin Address........ TURKEY
+  Admin Email.......... hozudogru@gmail.com
+  Admin Phone.......... 90.00000
+  Admin Fax............
 
-Tech Name............ iWeb Technologies
-  Tech Address......... 3185 Hochelaga
+Tech Name............ hasim ozudogru
+  Tech Address......... golbasi
   Tech Address.........
-  Tech Address......... Montreal
-  Tech Address......... H1W 1G4
-  Tech Address......... QC
-  Tech Address......... CANADA
-  Tech Email........... reservation@iweb.ca
-  Tech Phone........... +1.5142864242
-  Tech Fax............. +1.5142861292
-  Name Server.......... ns1.panelboxmanager.com
-  Name Server.......... ns2.panelboxmanager.com
+  Tech Address......... ankara
+  Tech Address......... 06100
+  Tech Address......... Ankara
+  Tech Address......... TURKEY
+  Tech Email........... hozudogru@gmail.com
+  Tech Phone........... 90.00000
+  Tech Fax.............
+  Name Server.......... NS1.INSTADNS.COM
+  Name Server.......... NS2.INSTADNS.COM
 
 

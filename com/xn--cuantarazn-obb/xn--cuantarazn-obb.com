@@ -9,14 +9,14 @@ for detailed information.
    Registrar: HEBEI GUOJI MAOYI (SHANGHAI) LTD DBA HEBEIDOMAINS.COM
    Whois Server: whois.hebeidomains.com
    Referral URL: http://www.hebeidomains.com
-   Name Server: NS1.MFK1.COM
-   Name Server: NS2.MFK1.COM
+   Name Server: NS1.NEXT.ORG
+   Name Server: NS2.NEXT.ORG
    Status: ok
-   Updated Date: 04-jan-2011
+   Updated Date: 12-sep-2011
    Creation Date: 04-jan-2011
    Expiration Date: 04-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 18:08:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:08:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +51,8 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Request denied
 
-Domainname: XN--CUANTARAZN-OBB.COM
-
-Registrant:
-   XN--CUANTARAZN-OBB.COM
-   Privacy--Protect.org
-   1200 Pudong Avenue Rm 702
-   Note - All Postal Mails Rejected, visit Privacy--Protect.org
-   200135 Shanghai
-   China
-   Tel.: +55.1137117371
-   Email: XN--CUANTARAZN-OBB.COM (at) privacy--protect.org
-
-Administrative:
-   XN--CUANTARAZN-OBB.COM
-   Privacy--Protect.org
-   1200 Pudong Avenue Rm 702
-   Note - All Postal Mails Rejected, visit Privacy--Protect.org
-   200135 Shanghai
-   China
-   Tel.: +55.1137117371
-   Email: XN--CUANTARAZN-OBB.COM (at) privacy--protect.org
-
-Technical:
-   XN--CUANTARAZN-OBB.COM
-   Privacy--Protect.org
-   1200 Pudong Avenue Rm 702
-   Note - All Postal Mails Rejected, visit Privacy--Protect.org
-   200135 Shanghai
-   China
-   Tel.: +55.1137117371
-   Email: XN--CUANTARAZN-OBB.COM (at) privacy--protect.org
-
-
-Legal note:
-PRIVACY--PROTECT.ORG is providing privacy protection services to
-this domain name to protect the owner from spam and phishing attacks.
-Privacy--Protect.org is not responsible for any of the activities
-associated with this domain name. If you wish to report any abuse
-concerning the usage of this domain name, you may do so at
-http://privacy--protect.org/. We have a stringent abuse policy and
-any complaint will be actioned within a short period of time.
-&lt;script&gt;window.open(&quot;http://privacy--protect.org/&quot;,&quot;&quot;,&quot;toolbar=no,
-location=no,scrollbars=no,resizable=no,width=800,height=600&quot;);&lt;/script&gt;
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about
-or related to a domain name registration record. We make this information
-available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful purposes
-and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail,
-or by telephone.
-
-The compilation, repackaging, dissemination or other use of this data is
-expressly prohibited without prior written consent from us. The Registrar
-of record is HebeiDomains.com. We reserve the right to modify these terms
-at any time. By submitting this query, you agree to abide by these terms.
-
-
-
-Request number 3 from 5 daily allowed from your IP address.
-Email to trick bots (does not work)  XN--CUANTARAZN-OBB.COM@hotmail.com
-
+You made too many requests from your IP address today. This server
+allows only 5 requests daily. You can do more requests
+on http://whois.hebeidomains.com

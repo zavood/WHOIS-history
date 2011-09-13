@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LHBLESCHAMPIONS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.PANELBOXMANAGER.COM
-   Name Server: NS2.PANELBOXMANAGER.COM
-   Status: ok
-   Updated Date: 19-aug-2011
-   Creation Date: 18-aug-2009
-   Expiration Date: 18-aug-2012
+   Domain Name: HOMETOYOU.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
+   Status: clientTransferProhibited
+   Updated Date: 01-apr-2011
+   Creation Date: 23-apr-1999
+   Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:07:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:08:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,43 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... lhbleschampions.com
-  Creation Date........ 2009-08-19
-  Registration Date.... 2009-08-19
-  Expiry Date.......... 2012-08-19
-  Organisation Name.... LHB les champions
-  Organisation Address. 3303 Notre-dame app 402
-  Organisation Address.
-  Organisation Address. Laval
-  Organisation Address. H7V 3R8
-  Organisation Address. QC
-  Organisation Address. CANADA
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Admin Name........... Impression Vip
-  Admin Address........ 3758 Carre Arthur Buies
-  Admin Address........
-  Admin Address........ Boisbriand
-  Admin Address........ J7H 1M4
-  Admin Address........ QC
-  Admin Address........ CANADA
-  Admin Email.......... ray@impressionvip.com
-  Admin Phone.......... +1.4508184970
-  Admin Fax............ +1.4508184971
+Registrant:
+   Hanley Wood LLC
+   1 Thomas Circle, NW Suite 600
+   Washington, DC 20005
+   US
 
-Tech Name............ iWeb Technologies
-  Tech Address......... 3185 Hochelaga
-  Tech Address.........
-  Tech Address......... Montreal
-  Tech Address......... H1W 1G4
-  Tech Address......... QC
-  Tech Address......... CANADA
-  Tech Email........... reservation@iweb.ca
-  Tech Phone........... +1.5142864242
-  Tech Fax............. +1.5142861292
-  Name Server.......... ns1.panelboxmanager.com
-  Name Server.......... ns2.panelboxmanager.com
+   Domain Name: HOMETOYOU.COM
 
+   Administrative Contact, Technical Contact, Zone Contact:
+      Hanley Wood LLC
+      DNS ADMIN
+      1 Thomas Circle, NW Suite 600
+      Washington, DC 20005
+      US
+      (202)736-3767
+      (202)785-1974 [fax]
+      dnsadmin@hanleywood.com
+
+   Domain created on 23-Apr-1999
+   Domain expires on 22-Apr-2012
+   Last updated on 01-Apr-2011
+
+   Domain servers in listed order:
+
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 

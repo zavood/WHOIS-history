@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LHBLESCHAMPIONS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.PANELBOXMANAGER.COM
-   Name Server: NS2.PANELBOXMANAGER.COM
-   Status: ok
-   Updated Date: 19-aug-2011
-   Creation Date: 18-aug-2009
-   Expiration Date: 18-aug-2012
+   Domain Name: PLYGEMWINDOWS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: clientTransferProhibited
+   Updated Date: 12-oct-2010
+   Creation Date: 16-oct-2008
+   Expiration Date: 16-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:07:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:08:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... lhbleschampions.com
-  Creation Date........ 2009-08-19
-  Registration Date.... 2009-08-19
-  Expiry Date.......... 2012-08-19
-  Organisation Name.... LHB les champions
-  Organisation Address. 3303 Notre-dame app 402
-  Organisation Address.
-  Organisation Address. Laval
-  Organisation Address. H7V 3R8
-  Organisation Address. QC
-  Organisation Address. CANADA
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Impression Vip
-  Admin Address........ 3758 Carre Arthur Buies
-  Admin Address........
-  Admin Address........ Boisbriand
-  Admin Address........ J7H 1M4
-  Admin Address........ QC
-  Admin Address........ CANADA
-  Admin Email.......... ray@impressionvip.com
-  Admin Phone.......... +1.4508184970
-  Admin Fax............ +1.4508184971
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ iWeb Technologies
-  Tech Address......... 3185 Hochelaga
-  Tech Address.........
-  Tech Address......... Montreal
-  Tech Address......... H1W 1G4
-  Tech Address......... QC
-  Tech Address......... CANADA
-  Tech Email........... reservation@iweb.ca
-  Tech Phone........... +1.5142864242
-  Tech Fax............. +1.5142861292
-  Name Server.......... ns1.panelboxmanager.com
-  Name Server.......... ns2.panelboxmanager.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: plygemwindows.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 14:58:17 EDT 2011
+Reason Code: IE
