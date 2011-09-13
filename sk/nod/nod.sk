@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         nod.sk
+Admin-id            ESET-0001
+Admin-name          Eset spol. s r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       31333532
+Admin-address       Einsteinova 24, Bratislava 85101
+Admin-telephone     32244111
+Tech-id             WEBG-0001
+Tech-name           WEBGLOBE, s.r.o.
+Tech-org.-ID        36306444
+Tech-address        Stara Prievozska 2, Bratislava 82109
+Tech-telephone      02 / 58101062, 02 / 58101060
+Tech-email          sk-nic@webglobe.sk
+dns_name            e.ns.lanechange.info
+dns_name            ns2.lanechange.net
+dns_name            ns3.lanechange.net
+dns_name            ns4.lanechange.net
+Last-update         2011-08-29
+Valid-date          2012-09-20
+Domain-status       DOM_OK
+

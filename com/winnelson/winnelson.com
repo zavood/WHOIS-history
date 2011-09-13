@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COOKTIMEWITHREMMI.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS1.INTERNETHAPPENS.COM
-   Name Server: NS2.INTERNETHAPPENS.COM
+   Domain Name: WINNELSON.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.P17.DYNECT.NET
+   Name Server: NS2.P17.DYNECT.NET
+   Name Server: NS3.P17.DYNECT.NET
+   Name Server: NS4.P17.DYNECT.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jul-2010
-   Creation Date: 26-sep-2008
-   Expiration Date: 26-sep-2019
+   Updated Date: 09-sep-2010
+   Creation Date: 30-aug-1996
+   Expiration Date: 29-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:46:59 UTC &lt;&lt;&lt;
 
@@ -54,37 +56,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Summit Industries NCS LLC
+   Domains by Proxy, Inc.
 
-   Registered through: Angela Webb-Designs
-   Domain Name: COOKTIMEWITHREMMI.COM
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: WINNELSON.COM
 
    Domain servers in listed order:
-      NS1.INTERNETHAPPENS.COM
-      NS2.INTERNETHAPPENS.COM
+      NS1.P17.DYNECT.NET
+      NS2.P17.DYNECT.NET
+      NS3.P17.DYNECT.NET
+      NS4.P17.DYNECT.NET
 
 
    For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=COOKTIMEWITHREMMI.COM&amp;prog_id=449544
+   http://who.godaddy.com/whoischeck.aspx?Domain=WINNELSON.COM

@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COOKTIMEWITHREMMI.COM
+   Domain Name: FINALASP.COM
    Registrar: WILD WEST DOMAINS, INC.
    Whois Server: whois.wildwestdomains.com
    Referral URL: http://www.wildwestdomains.com
-   Name Server: NS1.INTERNETHAPPENS.COM
-   Name Server: NS2.INTERNETHAPPENS.COM
+   Name Server: NS1.FINALASP.COM
+   Name Server: NS2.FINALASP.COM
+   Name Server: NS3.FINALASP.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jul-2010
-   Creation Date: 26-sep-2008
-   Expiration Date: 26-sep-2019
+   Updated Date: 02-nov-2009
+   Creation Date: 02-aug-2004
+   Expiration Date: 02-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:46:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:47:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 
 Registrant:
-   Summit Industries NCS LLC
+   Final ASP
 
-   Registered through: Angela Webb-Designs
-   Domain Name: COOKTIMEWITHREMMI.COM
+   Registered through: Final ASP LLC
+   Domain Name: FINALASP.COM
 
    Domain servers in listed order:
-      NS1.INTERNETHAPPENS.COM
-      NS2.INTERNETHAPPENS.COM
+      NS3.FINALASP.COM
+      NS1.FINALASP.COM
+      NS2.FINALASP.COM
 
 
    For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=COOKTIMEWITHREMMI.COM&amp;prog_id=449544
+   http://who.securepaynet.net/whoischeck.aspx?Domain=FINALASP.COM&amp;prog_id=439284

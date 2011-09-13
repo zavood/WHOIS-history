@@ -1,0 +1,33 @@
+Nome de dom&iacute;nio / Domain Name: uminho.pt
+Data de registo / Creation Date (dd/mm/yyyy): 29/06/1995
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 03/07/2012
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Universidade do Minho
+   Campus de Gualtar
+   Braga
+   4710-057 Braga
+   Email: sec@scom.uminho.pt
+
+Entidade Gestora / Billing Contact
+   Universidade do Minho
+   Email: sec@scom.uminho.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   Universidade do Minho
+   Email: sec@scom.uminho.pt
+
+Nameserver Information
+   Nameserver: uminho.pt	NS	dns.uminho.pt.
+   Nameserver: uminho.pt	NS	dns2.uminho.pt.
+   Nameserver: uminho.pt	NS	dns3.uminho.pt.
+   Nameserver: uminho.pt	NS	ns02.fccn.pt.
+   Nameserver: dns.uminho.pt.	A	193.137.16.75
+   Nameserver: dns2.uminho.pt.	A	193.137.16.145
+   Nameserver: dns3.uminho.pt.	A	193.137.16.65
+   Nameserver: ns02.fccn.pt.	A	193.136.2.228
+   Nameserver: dns.uminho.pt.	AAAA	2001:690:2280:1::75
+   Nameserver: dns2.uminho.pt.	AAAA	2001:690:2280:801::145
+   Nameserver: dns3.uminho.pt.	AAAA	2001:690:2280:1::65
+   Nameserver: ns02.fccn.pt.	AAAA	2001:690:a80:4001::200

@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-13T14:48:42+12:00
+domain_name: naturalstar.co.nz
+query_status: 200 Active
+domain_dateregistered: 2008-09-11T07:47:02+12:00
+domain_datebilleduntil: 2012-09-11T07:47:02+12:00
+domain_datelastmodified: 2011-09-09T10:29:06+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: OPENHOST
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: North Shore City
+registrar_postalcode: 0751
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 2655
+registrar_email: domains@openhost.co.nz
+%
+registrant_contact_name: Natural Star
+registrant_contact_address1: 241 Burwood Road
+registrant_contact_address2: Burwood
+registrant_contact_city: Christchurch
+registrant_contact_postalcode: 8083
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 3839800
+registrant_contact_email: brenda.green@snap.net.nz
+%
+admin_contact_name: Natural Star
+admin_contact_address1: 241 Burwood Road
+admin_contact_address2: Burwood
+admin_contact_city: Christchurch
+admin_contact_postalcode: 8083
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 3839800
+admin_contact_email: brenda.green@snap.net.nz
+%
+technical_contact_name: Natural Star
+technical_contact_address1: 241 Burwood Road
+technical_contact_address2: Burwood
+technical_contact_city: Christchurch
+technical_contact_postalcode: 8083
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 3 3839800
+technical_contact_fax: +64 6 7572883
+technical_contact_email: brenda.green@snap.net.nz
+%
+ns_name_01: ns1.openhost.net.nz
+ns_name_02: ns2.openhost.net.nz
+ns_name_03: ns3.openhost.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
