@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         bible.sk
+Admin-id            SLOV-0352
+Admin-name          Slovenska biblicka spolocnost
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       22665331
+Admin-address       Mlynska 43, Banska Bystrica 97401
+Admin-telephone     0484134191
+Admin-email         office@bible.sk
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-06-17
+Valid-date          2012-06-24
+Domain-status       DOM_OK
+

@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-READYHOSTING.COM.UMBRASTUDIO.NET
-READYHOSTING.COM.TIMFRENCHSHOWHORSES.COM
-READYHOSTING.COM.BETHHEIT.COM
-READYHOSTING.COM
+   Domain Name: SAPROPERTYNEWS.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: NS1.DNS-H.COM
+   Name Server: NS1.HOST-H.NET
+   Name Server: NS2.HOST-H.NET
+   Status: ok
+   Updated Date: 24-sep-2010
+   Creation Date: 23-sep-2009
+   Expiration Date: 23-sep-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:59:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:57:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Yolande Hung
+   Yolande Hung
+   5 Broughton Mews, Baviaanskloof Road Hout Bay
+   Cape Town, 7806, ZA
+
+   Punycode Name:  sapropertynews.com
+   Unicode Name:   sapropertynews.com
+
+   Admin Contact
+      Yolande Hung
+      Yolande Hung
+      yolandehung@gmail.com
+      5 Broughton Mews, Baviaanskloof Road Hout Bay
+      Cape Town, 7806, ZA
+      phone: +27 217619551
+
+   Technical Contact
+      Domain Administrator
+      Hetzner Pty Ltd
+      dns-admin@hetzner.co.za
+      PO Box 3450
+      Durbanville, 7551, ZA
+      phone: +27.219702000
+
+   Zone Contact
+      Domain Administrator
+      Hetzner Pty Ltd
+      dns-admin@hetzner.co.za
+      PO Box 3450
+      Durbanville, 7551, ZA
+      phone: +27.219702000
+
+   Record expires on: 2011-09-23 11:50:15
+
+   Domain servers in listed order:
+
+      ns1.dns-h.com 41.204.201.2
+      ns1.host-h.net 196.40.99.254
+      ns2.host-h.net 196.22.142.254
+
+
+

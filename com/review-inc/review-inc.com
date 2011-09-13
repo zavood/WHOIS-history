@@ -5,14 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-READYHOSTING.COM.UMBRASTUDIO.NET
-READYHOSTING.COM.TIMFRENCHSHOWHORSES.COM
-READYHOSTING.COM.BETHHEIT.COM
-READYHOSTING.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: REVIEW-INC.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   Status: ok
+   Updated Date: 14-jun-2011
+   Creation Date: 14-jun-2011
+   Expiration Date: 14-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:59:54 UTC &lt;&lt;&lt;
 
@@ -49,3 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
+
+Whois Output for: review-inc.com
+
+Domain Name Owner:
+  wind gather
+  P.O. Box 1491
+  st johns, st johns st johns
+  AG
+
+Administrative Contact:
+  Vacariu, Marius
+  wind gather
+  P.O. Box 1491
+  st johns, st johns st johns, AG
+  Phone: +1.0123456789
+  Email: windinv@yahoo.com
+
+Technical Contact:
+  Vacariu, Marius
+  wind gather
+  P.O. Box 1491
+  st johns, st johns st johns, AG
+  Phone: +1.0123456789
+  Email: windinv@yahoo.com
+
+Billing Contact:
+  Vacariu, Marius
+  wind gather
+  P.O. Box 1491
+  st johns, st johns st johns, AG
+  Phone: +1.0123456789
+  Email: windinv@yahoo.com
+
+Record Information:
+  Domain Record Created: June 14, 2011
+  Domain Record Updated: June 14, 2011
+  Domain Record Expires: June 14, 2012
+
+DNS Information:
+  Name Server: ns1.above.com
+  Name Server: ns2.above.com
+

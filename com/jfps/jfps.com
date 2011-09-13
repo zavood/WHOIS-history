@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-READYHOSTING.COM.UMBRASTUDIO.NET
-READYHOSTING.COM.TIMFRENCHSHOWHORSES.COM
-READYHOSTING.COM.BETHHEIT.COM
-READYHOSTING.COM
+   Domain Name: JFPS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.HITFARM.COM
+   Name Server: NS2.HITFARM.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 03-jun-2011
+   Creation Date: 21-jun-2001
+   Expiration Date: 21-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:59:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:57:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+
+Domain jfps.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 45382412111753
+  45382412111753-c653da@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 45382412111753
+  45382412111753-c653da@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
+
+Record dates:
+  Record created on: 2001-06-21 10:41:21 UTC
+  Record modified on: 2011-06-03 22:00:01 UTC
+  Record expires on: 2012-06-21 UTC
+
+Nameservers:
+  ns2.hitfarm.com:
+    64.40.102.32
+  ns1.hitfarm.com:
+    72.51.27.54
+
+Note: Automated collection of data from this database is strictly prohibited.
+

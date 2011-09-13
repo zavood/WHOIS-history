@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 31-jan-2000
    Expiration Date: 31-jan-2016
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 16:09:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:59:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,6 +74,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: interpolls.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 12:05:08 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 15:50:16 EDT 2011
 Reason Code: IE

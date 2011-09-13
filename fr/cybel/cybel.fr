@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cybel.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cybel.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C10606-FRNIC
+admin-c:     TV738-FRNIC
+tech-c:      NOC2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL558-FRNIC
+registrar:   INFOCLIP
+anniversary: 23/07
+created:     25/07/1997
+last-update: 23/02/2010
+source:      FRNIC
+
+ns-list:     NSL558-FRNIC
+nserver:     dns1.filnet.fr [194.187.192.249]
+nserver:     dns2.filnet.fr [194.51.170.248]
+source:      FRNIC
+
+registrar:   INFOCLIP
+type:        Isp Option 2
+address:     32 Avenue Corentin Cariou
+address:     PARIS
+country:     FR
+phone:       +33 1 43 18 19 20
+fax-no:      +33 1 43 18 19 29
+e-mail:      hostmaster@infoclip.fr
+website:     http://www.infoclip.fr
+anonymous:   NO
+registered:  10/02/2004
+source:      FRNIC
+
+nic-hdl:     C10606-FRNIC
+type:        ORGANIZATION
+contact:     Cybel
+address:     9-11, avenue Franklin Roosevelt
+address:     75008 Paris
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TV738-FRNIC
+type:        PERSON
+contact:     Thierry Vagne
+address:     Cybel
+address:     9-11, avenue Franklin Roosevelt
+address:     75008 Paris
+country:     FR
+phone:       +33 1 42 56 25 97
+fax-no:      +33 1 42 25 95 37
+e-mail:      cybel@cybel.fr
+notify:      cybel@cybel.fr
+changed:     07/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NOC2-FRNIC
+type:        ROLE
+contact:     Network Operation Center
+address:     INFOCLIP
+address:     32, avenue Corentin Cariou
+address:     75019 Paris
+country:     FR
+phone:       +33 1 43 18 19 20
+e-mail:      hostmaster@infoclip.fr
+trouble:     Informations: http://www.infoclip.fr
+admin-c:     EM140-FRNIC
+admin-c:     LM197-FRNIC
+tech-c:      LM197-FRNIC
+notify:      hostmaster@infoclip.fr
+changed:     15/05/2006 hostmaster@infoclip.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

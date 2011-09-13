@@ -5,16 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-READYHOSTING.COM.UMBRASTUDIO.NET
-READYHOSTING.COM.TIMFRENCHSHOWHORSES.COM
-READYHOSTING.COM.BETHHEIT.COM
-READYHOSTING.COM
+   Domain Name: SKAPILLAREG.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS1.AFRAID.ORG
+   Name Server: NS2.AFRAID.ORG
+   Name Server: NS3.AFRAID.ORG
+   Name Server: NS4.AFRAID.ORG
+   Status: clientTransferProhibited
+   Updated Date: 24-dec-2010
+   Creation Date: 17-dec-2010
+   Expiration Date: 17-dec-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:59:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:58:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +53,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
+
+Domain name:             SKAPILLAREG.COM
+Name Server:             ns1.afraid.org
+Name Server:             ns2.afraid.org
+Name Server:             ns3.afraid.org
+Name Server:             ns4.afraid.org
+Creation Date:           2010.12.17
+Updated Date:            2010.12.24
+Expiration Date:         2011.12.17
+
+Status:                  DELEGATED
+
+Registrant ID:           XUW4ANB-RU
+Registrant Name:         Kirill R Sulkhanyants
+Registrant Organization: Kirill R Sulkhanyants
+Registrant Street1:      Gdanskaya street, 10-61
+Registrant City:         St. Petersburg
+Registrant Postal Code:  194017
+Registrant Country:      RU
+
+Administrative, Technical Contact
+Contact ID:              XUW4ANB-RU
+Contact Name:            Kirill R Sulkhanyants
+Contact Organization:    Kirill R Sulkhanyants
+Contact Street1:         Gdanskaya street, 10-61
+Contact City:            St. Petersburg
+Contact Postal Code:     194017
+Contact Country:         RU
+Contact Phone:           +7 812 3274547
+Contact E-mail:          aroma@fastermail.ru
+
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+
+Last updated on 2011.09.13 23:58:59 MSK/MSD
+

@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; grame.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      grame.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    G112-FRNIC
+admin-c:     DF1182-FRNIC
+tech-c:      DF1182-FRNIC
+tech-c:      YO53-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL28-FRNIC
+registrar:   RENATER
+anniversary: 29/09
+created:     08/03/1995
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL28-FRNIC
+nserver:     rd.grame.fr [194.5.49.4]
+nserver:     ccpntc3.in2p3.fr [134.158.69.191]
+nserver:     ccpnvx.in2p3.fr [134.158.69.104]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     G112-FRNIC
+type:        ORGANIZATION
+contact:     Grame
+address:     6, quai Jean Moulin
+address:     B.P. 1185
+address:     69202 Lyon Cedex 1
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     DF1182-FRNIC
+type:        PERSON
+contact:     Dominique Forber
+address:     Grame
+address:     6, quai Jean Moulin
+address:     B.P. 1185
+address:     69202 Lyon Cedex 1
+country:     FR
+phone:       +33 72 07 37 00
+fax-no:      +33 72 07 37 01
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     YO53-FRNIC
+type:        PERSON
+contact:     Yann Orlarey
+address:     Grame
+address:     6, quai Jean Moulin
+address:     69001 Lyon
+country:     FR
+phone:       +33 72 07 37 00
+fax-no:      +33 72 07 37 01
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
