@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNEWSGLOBAL.COM
+   Domain Name: MSHALE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.ASKSCARFACE.COM
-   Name Server: NS2.ASKSCARFACE.COM
+   Name Server: NS1.LNHI.NET
+   Name Server: NS2.LNHI.NET
+   Name Server: NS3.LNHI.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-jul-2011
-   Creation Date: 31-oct-2010
-   Expiration Date: 31-oct-2011
+   Updated Date: 09-nov-2009
+   Creation Date: 07-oct-1996
+   Expiration Date: 06-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:39:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:38:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   dudi giriyana
+   Mshale Communications, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DNEWSGLOBAL.COM
+   Domain Name: MSHALE.COM
 
    Domain servers in listed order:
-      NS1.ASKSCARFACE.COM
-      NS2.ASKSCARFACE.COM
+      NS1.LNHI.NET
+      NS2.LNHI.NET
+      NS3.LNHI.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DNEWSGLOBAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MSHALE.COM

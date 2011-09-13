@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T09:40:21+12:00
+domain_name: lastocean.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-08-17T11:56:37+12:00
+domain_datebilleduntil: 2016-08-17T11:56:37+12:00
+domain_datelastmodified: 2011-02-09T17:13:17+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 2day.com
+registrar_address1: Private Bag 92142
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 977 3595
+registrar_fax: +64 9 977 3596
+registrar_email: registrar@2day.com
+%
+registrant_contact_name: Domainz Limited
+registrant_contact_address1: Po Box 2515
+registrant_contact_city: Christchurch
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 3898818
+registrant_contact_fax: +64 3 3898818
+registrant_contact_email: peter@fisheyefilms.co.nz
+%
+admin_contact_name: The Ross Sea documentry Limited
+admin_contact_address1: Po Box 2515
+admin_contact_city: Christchurch
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 3898818
+admin_contact_fax: +64 3 3898818
+admin_contact_email: peter@fisheyefilms.co.nz
+%
+technical_contact_name: 2Day.com
+technical_contact_address1: Private Bag 92142
+technical_contact_address2: Takapuna
+technical_contact_city: Auckland
+technical_contact_postalcode: 1309
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 977 3595
+technical_contact_fax: +64 9 977 3596
+technical_contact_email: dns@2day.com
+%
+ns_name_01: ns1.2day.com
+ns_name_02: ns2.2day.com
+ns_name_03: ns3.2day.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

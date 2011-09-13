@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNEWSGLOBAL.COM
+   Domain Name: PEMPHICAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.ASKSCARFACE.COM
-   Name Server: NS2.ASKSCARFACE.COM
+   Name Server: NS1.SERVERSHOST.NET
+   Name Server: NS2.SERVERSHOST.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-jul-2011
-   Creation Date: 31-oct-2010
-   Expiration Date: 31-oct-2011
+   Updated Date: 07-may-2011
+   Creation Date: 11-may-2009
+   Expiration Date: 11-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:39:52 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   dudi giriyana
+   Solutions by Nature
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DNEWSGLOBAL.COM
+   Domain Name: PEMPHICAL.COM
 
    Domain servers in listed order:
-      NS1.ASKSCARFACE.COM
-      NS2.ASKSCARFACE.COM
+      NS1.SERVERSHOST.NET
+      NS2.SERVERSHOST.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DNEWSGLOBAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PEMPHICAL.COM

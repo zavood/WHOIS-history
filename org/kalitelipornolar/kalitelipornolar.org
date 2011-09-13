@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160877605-LROR
+Domain Name:KALITELIPORNOLAR.ORG
+Created On:09-Dec-2010 08:54:25 UTC
+Last Updated On:29-Apr-2011 13:57:49 UTC
+Expiration Date:09-Dec-2011 08:54:25 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR69417380
+Registrant Name:Serkan Fakiroglu
+Registrant Street1:Bursa mah
+Registrant Street2:Gaziosmanpasa
+Registrant Street3:
+Registrant City:istanbul
+Registrant State/Province:bursa mah
+Registrant Postal Code:34000
+Registrant Country:TR
+Registrant Phone:+90.05358887999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:serkan@glodinas.com
+Admin ID:CR69417382
+Admin Name:serkan Fakiroglu
+Admin Street1:bursa mah
+Admin Street2:Gop
+Admin Street3:
+Admin City:istanbul
+Admin State/Province:gop
+Admin Postal Code:34000
+Admin Country:TR
+Admin Phone:+90.05358889756
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:serkan@glodiassi.com
+Tech ID:CR69417381
+Tech Name:serkan Fakiroglu
+Tech Street1:bursa mah
+Tech Street2:gop
+Tech Street3:
+Tech City:istanbul
+Tech State/Province:bursa mah
+Tech Postal Code:34000
+Tech Country:TR
+Tech Phone:+90.0535999999
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:serkan@glodiassi.com
+Name Server:NS2.TELEKOMUNTAA.COM
+Name Server:NS1.TELEKOMUNTAA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

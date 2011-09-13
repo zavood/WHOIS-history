@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D68802208-LROR
+Domain Name:PROGWERELD.ORG
+Created On:04-Apr-2001 11:26:03 UTC
+Last Updated On:05-Apr-2011 01:23:03 UTC
+Expiration Date:04-Apr-2012 12:26:03 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ABM-203193
+Registrant Name:Maarten Goossensen
+Registrant Street1:Dunantstraat 802
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zoetermeer
+Registrant State/Province:NL
+Registrant Postal Code:2713 XH
+Registrant Country:NL
+Registrant Phone:+31.0793162199
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mm.goossensen@wanadoo.nl
+Admin ID:ABM-201990
+Admin Name:Richard van den Berg
+Admin Street1:Gaasterland 2 II
+Admin Street2:
+Admin Street3:
+Admin City:Beverwijk
+Admin State/Province:NL
+Admin Postal Code:1948 RG
+Admin Country:NL
+Admin Phone:+31.251274669
+Admin Phone Ext.:
+Admin FAX:+31.251274669
+Admin FAX Ext.:
+Admin Email:domainadmin@deheeg.nl
+Tech ID:ABM-203194
+Tech Name:Maarten Goossensen
+Tech Street1:Dunantstraat 802
+Tech Street2:
+Tech Street3:
+Tech City:Zoetermeer
+Tech State/Province:NL
+Tech Postal Code:2713 XH
+Tech Country:NL
+Tech Phone:+31.0793162199
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mm.goossensen@wanadoo.nl
+Name Server:NS.EATSERVER.NL
+Name Server:NS2.EATSERVER.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
