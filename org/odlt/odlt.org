@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D142510782-LROR
+Domain Name:ODLT.ORG
+Created On:29-Mar-2007 16:30:19 UTC
+Last Updated On:07-Dec-2009 23:33:57 UTC
+Expiration Date:29-Mar-2012 16:30:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33121349
+Registrant Name:Jon Steeves
+Registrant Organization:Blair Arts Ltd.
+Registrant Street1:968 W King Edward Ave
+Registrant Street2:PO Box 38056
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:British Columbia
+Registrant Postal Code:V5Z 4L9
+Registrant Country:CA
+Registrant Phone:+1.7788288813
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:blairarts@mootgame.com
+Admin ID:CR33121351
+Admin Name:Jon Steeves
+Admin Organization:Blair Arts Ltd.
+Admin Street1:968 W King Edward Ave
+Admin Street2:PO Box 38056
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:British Columbia
+Admin Postal Code:V5Z 4L9
+Admin Country:CA
+Admin Phone:+1.7788288813
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:blairarts@mootgame.com
+Tech ID:CR33121350
+Tech Name:Jon Steeves
+Tech Organization:Blair Arts Ltd.
+Tech Street1:968 W King Edward Ave
+Tech Street2:PO Box 38056
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:British Columbia
+Tech Postal Code:V5Z 4L9
+Tech Country:CA
+Tech Phone:+1.7788288813
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:blairarts@mootgame.com
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

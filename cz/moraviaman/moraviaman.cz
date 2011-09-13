@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 03:20:17 2011
+
+domain:       moraviaman.cz
+registrant:   DANEK-JIRI
+admin-c:      VALOUSEK-MICHAL
+nsset:        ANAFRA
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   10.02.2007 23:15:00
+changed:      07.01.2008 17:55:50
+expire:       10.02.2012
+
+contact:      DANEK-JIRI
+name:         Ji&Aring;ô&Atilde;&shy; Dan&Auml;õk
+address:      &Aring;&nbsp;t&Auml;õrkovi&Aring;&iexcl;t&Auml;õ 1295
+address:      Otrokovice
+address:      76502
+address:      CZ
+registrar:    REG-GENREG
+created:      02.10.2007 10:25:00
+
+contact:      VALOUSEK-MICHAL
+name:         Michal Valou&Aring;&iexcl;ek
+address:      Kraiczova 1041
+address:      Vala&Aring;&iexcl;sk&Atilde;&copy; Mezi&Aring;ô&Atilde;&shy;&Auml;ç&Atilde;&shy;
+address:      75701
+address:      CZ
+registrar:    REG-GENREG
+created:      02.10.2007 10:15:00
+changed:      03.06.2008 10:54:01
+
+nsset:        ANAFRA
+nserver:      ns.anafra.net
+nserver:      ns2.anafra.net
+tech-c:       VALOUSEK-MICHAL
+registrar:    REG-GENREG
+created:      07.01.2008 17:42:02
+
+
