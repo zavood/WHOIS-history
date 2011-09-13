@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
+   Domain Name: DSNEXTGEN.COM
+   Registrar: NAMEKING.COM, INC.
+   Whois Server: whois.nameking.com
+   Referral URL: http://www.nameking.com
+   Name Server: DNS11.COTDNS.NET
+   Name Server: DNS12.COTDNS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2016
+   Status: clientUpdateProhibited
+   Updated Date: 19-jul-2011
+   Creation Date: 18-jan-2010
+   Expiration Date: 18-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:29:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:28:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +53,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Your ip address 174.142.225.246 has been blocked.  If you believe this is in error please contact info@nameking.com  with your request.

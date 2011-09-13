@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96793384-LROR
+Domain Name:SBCEOPORTAL.ORG
+Created On:06-May-2003 18:59:11 UTC
+Last Updated On:03-May-2010 19:45:13 UTC
+Expiration Date:06-May-2015 18:59:11 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20322413-NSI
+Registrant Name:Santa Barbara County Education Office
+Registrant Organization:Santa Barbara County Education Office
+Registrant Street1:4400 Cathedral Oaks Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Barbara
+Registrant State/Province:CA
+Registrant Postal Code:93110
+Registrant Country:US
+Registrant Phone:+1.8059644711
+Registrant Phone Ext.:
+Registrant FAX:+1.8059644712
+Registrant FAX Ext.:
+Registrant Email:dnsadmin@sbceo.org
+Admin ID:20322411-NSI
+Admin Name:Sharon Van Gundy
+Admin Organization:SBCEO
+Admin Street1:4400 Cathedral Oaks Road
+Admin Street2:
+Admin Street3:
+Admin City:Santa Barbara
+Admin State/Province:CA
+Admin Postal Code:93110
+Admin Country:US
+Admin Phone:+1.805964471
+Admin Phone Ext.:
+Admin FAX:+1.805964471
+Admin FAX Ext.:
+Admin Email:dnsadmin@sbceo.org
+Tech ID:20322411-NSI
+Tech Name:Sharon Van Gundy
+Tech Organization:SBCEO
+Tech Street1:4400 Cathedral Oaks Road
+Tech Street2:
+Tech Street3:
+Tech City:Santa Barbara
+Tech State/Province:CA
+Tech Postal Code:93110
+Tech Country:US
+Tech Phone:+1.805964471
+Tech Phone Ext.:
+Tech FAX:+1.805964471
+Tech FAX Ext.:
+Tech Email:dnsadmin@sbceo.org
+Name Server:NS2.CSU.NET
+Name Server:SERVER1.SBCEO.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

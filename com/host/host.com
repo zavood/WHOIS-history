@@ -5,18 +5,15 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
-   Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2016
+HOST.COM.VN
+HOST.COM.BR
+HOST.COM
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:29:09 UTC &lt;&lt;&lt;
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:27:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

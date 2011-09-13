@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
+   Domain Name: ROZYHYMICI.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.ROZYHYMICI.COM
+   Name Server: NS2.ROZYHYMICI.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2016
+   Updated Date: 10-aug-2011
+   Creation Date: 03-aug-2011
+   Expiration Date: 03-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:29:09 UTC &lt;&lt;&lt;
 
@@ -51,3 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: rozyhymici.com
+
+Registrant Contact:
+   Barbara Hamilton
+   Barbara Hamilton eat@mail13.com
+   +14166668023 fax: +14166668023
+   1499 Halsey Avenue
+   Toronto ON M3B 2W6
+   CA
+
+Administrative Contact:
+   Barbara Hamilton eat@mail13.com
+   +14166668023 fax: +14166668023
+   1499 Halsey Avenue
+   Toronto ON M3B 2W6
+   CA
+
+Technical Contact:
+   Barbara Hamilton eat@mail13.com
+   +14166668023 fax: +14166668023
+   1499 Halsey Avenue
+   Toronto ON M3B 2W6
+   CA
+
+Billing Contact:
+   Barbara Hamilton eat@mail13.com
+   +14166668023 fax: +14166668023
+   1499 Halsey Avenue
+   Toronto ON M3B 2W6
+   CA
+
+Registration Service Provider:
+name: Bizcn
+
+DNS:
+ns1.rozyhymici.com
+ns2.rozyhymici.com
+
+Created: 2011-08-03
+Expires: 2012-08-03
