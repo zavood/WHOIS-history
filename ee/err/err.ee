@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       err.ee
+registrant:   CID:RIKS:R1017
+admin-c:      CID:RIKS:H1017
+nsset:        NSSID:RIKS:1017
+registrar:    riks
+status:       paid and in zone
+registered:   04.07.2010 06:16:54
+changed:      12.11.2010 10:05:35
+expire:       12.11.2011
+
+contact:      CID:RIKS:R1017
+org:          Eesti Rahvusringh&Atilde;&curren;&Atilde;&curren;ling
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    riks
+created:      04.10.2010 15:57:12
+
+contact:      CID:RIKS:H1017
+name:         Margus Tamm
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    riks
+created:      04.10.2010 15:57:31
+
+nsset:        NSSID:RIKS:1017
+nserver:      tikk.etv.ee (194.36.162.129)
+nserver:      takk.etv.ee (194.36.162.130)
+tech-c:       CID:RIKS:T1017
+registrar:    riks
+created:      04.10.2010 15:58:04
+
+contact:      CID:RIKS:T1017
+org:          Eesti Rahvusringh&Atilde;&curren;&Atilde;&curren;ling
+name:         Andres Pilve
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    riks
+created:      04.10.2010 15:57:49
+
+
