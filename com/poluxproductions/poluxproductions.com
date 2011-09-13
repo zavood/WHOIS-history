@@ -5,19 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PENTICTONDAILYNEWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTELICS.COM
-   Name Server: NS2.INTELICS.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 09-dec-2010
-   Expiration Date: 09-dec-2011
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:05:39 UTC &lt;&lt;&lt;
+No match for &quot;POLUXPRODUCTIONS.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:05:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PENTICTONDAILYNEWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTELICS.COM
-   Name Server: NS2.INTELICS.COM
+   Domain Name: VQ666.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.247PLACE.COM
+   Name Server: NS2.247PLACE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 09-dec-2010
-   Expiration Date: 09-dec-2011
+   Updated Date: 03-nov-2010
+   Creation Date: 01-dec-2008
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:05:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:06:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about vq666.com
+&lt;a href=&quot;http://www.aboutus.org/vq666.com&quot;&gt;AboutUs: vq666.com&lt;/a&gt;
+
+
+Domain name: vq666.com
+
+Administrative Contact:
+   4cheaphost.com
+   Hoshang Fazel Poor (admin@4cheaphost.com)
+   +1.8583821251
+   Fax: +1.8583821251
+   9024 Mesa Woods Ave
+   San Diego, CA 92126
+   US
+
+Technical Contact:
+   4cheaphost.com
+   Hoshang Fazel Poor (admin@4cheaphost.com)
+   +1.8583821251
+   Fax: +1.8583821251
+   9024 Mesa Woods Ave
+   San Diego, CA 92126
+   US
+
+Registrant Contact:
+   4cheaphost.com
+   Hoshang Fazel Poor ()
+
+   Fax:
+   9024 Mesa Woods Ave
+   San Diego, CA 92126
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.247place.com
+   ns2.247place.com
+
+Creation date: 02 Dec 2008 00:50:13
+Expiration date: 02 Dec 2011 00:50:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

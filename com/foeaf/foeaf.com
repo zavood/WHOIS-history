@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PENTICTONDAILYNEWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.INTELICS.COM
-   Name Server: NS2.INTELICS.COM
+   Domain Name: FOEAF.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 09-dec-2010
-   Expiration Date: 09-dec-2011
+   Updated Date: 01-dec-2010
+   Creation Date: 15-dec-2006
+   Expiration Date: 15-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:05:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:06:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : FOEAF.COM
+Created On : 2006-12-15
+Expiration Date : 2011-12-15
+Status : PROTECTED
+Registrant Name : Federation of European Automotive forums
+Registrant Street1 : 5 rue du Capitaine Ferber
+Registrant City : Issy les Moulineaux
+Registrant State/Province  :
+Registrant Postal Code : 92130
+Registrant Country : FR
+Admin Name : Federation of European Automotive forums
+Admin Street1 : 5 rue du Capitaine Ferber
+Admin City : Issy les Moulineaux
+Admin State/Province : FR
+Admin Postal Code : 92130
+Admin Country : FR
+Admin Phone : +33.699504026
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

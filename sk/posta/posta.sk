@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         posta.sk
+Admin-id            SLOV-0285
+Admin-name          Slovenska posta, akciova spolocnost
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       36631124
+Admin-address       Partizanska cesta 9, Banska Bystrica 975 99
+Admin-telephone     048/4115233, 048/4339635, 0903803860
+Admin-email         puchy.jan@slposta.sk
+Tech-id             SLOV-0004
+Tech-name           SLOVANET, a.s.
+Tech-org.-ID        35765143
+Tech-address        Zahradnicka 151, Bratislava 82108
+Tech-telephone      02/20828693, 02/20828111
+Tech-email          dns@slovanet.sk
+dns_name            ns.slovanet.net
+dns_name            ns1.slovanet.net
+Last-update         2011-01-31
+Valid-date          2012-02-11
+Domain-status       DOM_OK
+
