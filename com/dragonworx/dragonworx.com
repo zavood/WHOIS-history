@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEXTSRV.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.P02.DYNECT.NET
-   Name Server: NS2.P02.DYNECT.NET
-   Name Server: NS3.P02.DYNECT.NET
-   Name Server: NS4.P02.DYNECT.NET
+   Domain Name: DRAGONWORX.COM
+   Registrar: KOREA INFORMATION CERTIFICATE AUTHORITY INC DBA DOMAINCA.COM
+   Whois Server: whois.domainca.com
+   Referral URL: http://www.domainca.com
+   Name Server: NS7.FREEDOMAIN.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 20-jun-2011
-   Expiration Date: 20-jun-2012
+   Updated Date: 21-feb-2011
+   Creation Date: 20-feb-2007
+   Expiration Date: 20-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:42:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:41:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to KICA, Inc. dba DomainCA.COM's WHOIS Service
+(Acceptable use policy for WHOIS service of DomainCA.com)
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+WHOIS information of DomainCA.com is provided by the database of DomainCA.com.
+We do not guarantee the accuracy about the purpose of providing information,
+the purpose of obtaining identity information, and the records of the domain registration.
 
+The requested WHOIS information is used only as a legitimate purpose,
+is not used for any other purpose such as the following.
+1) Commercial advertisement or solicitation mail/spam mail without the consent
+2) Automation of mass information process by applying DomainCA.com or DomainCA service system
+
+DomainCA reserves the right to add,
+delete or modify any provision of this policy at any time without notice.
+You have accepted and agreed to this policy by providing this information.
+
+Domain Name: dragonworx.com
+Domain Status: REGISTRAR LOCK
+Registrar: Korea Information Certificate Authority, Inc. dba DomainCA.com
+Referral URL: http://www.DomainCA.com
 
 Registrant:
-   Domains by Proxy, Inc.
+    Jung Hochul
+    391-2
+     Suseongdong 3-ga Suseong-gu
+    Daegu,  706834
+    KR
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEXTSRV.COM
+Administrative, Technical, Billing Contact:
+    Jung Hochul   ibclub@dreamwiz.com
+    391-2
+     Suseongdong 3-ga Suseong-gu
+    Daegu,  706834
+    KR
+    (TEL) +82.115557615, (FAX)
 
-   Domain servers in listed order:
-      NS1.P02.DYNECT.NET
-      NS2.P02.DYNECT.NET
-      NS3.P02.DYNECT.NET
-      NS4.P02.DYNECT.NET
+Domain Registration Date....: 2007-02-19 GMT.
+Domain Expiration Date......: 2012-02-19 GMT.
+Domain Last Updated Date....: 2011-02-22 19:59:33 GMT.
 
+Domain Name Servers in listed order:
+   ns7.FREEDOMAIN.NET		116.122.158.191
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEXTSRV.COM
+If a customer is not using our name server, the IP address of
+the customer's name server will not be displayed.
+
+Please register domain name at www.DomainCA.com.
