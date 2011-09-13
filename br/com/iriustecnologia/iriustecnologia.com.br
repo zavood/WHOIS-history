@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 16:03:38 (BRT -03:00)
+
+domain:      iriustecnologia.com.br
+owner:       IRIUS TECNOLOGIA LTDA
+ownerid:     004.622.796/0001-75
+responsible: MIGUEL BISPO DE OLIVEIRA
+country:     BR
+owner-c:     MBO14
+admin-c:     MBO14
+tech-c:      MBO14
+billing-c:   AFDSA97
+nserver:     ns1.iriustecnologia.com.br 174.36.77.40
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.iriustecnologia.com.br 174.36.77.41
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20080609 #4550343
+expires:     20120609
+changed:     20110615
+status:      published
+
+nic-hdl-br:  AFDSA97
+person:      Adriana Ferreira dos Santos
+e-mail:      adriana.ferreira@iriustecnologia.com.br
+created:     20091108
+changed:     20100830
+
+nic-hdl-br:  MBO14
+person:      Miguel Bispo de Oliveira
+e-mail:      miguel.bispo@iriustecnologia.com.br
+created:     20000422
+changed:     20110821
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
