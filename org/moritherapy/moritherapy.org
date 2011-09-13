@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D124800881-LROR
+Domain Name:MORITHERAPY.ORG
+Created On:20-Jun-2006 00:46:26 UTC
+Last Updated On:20-Jun-2011 01:25:53 UTC
+Expiration Date:20-Jun-2012 00:46:26 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-34825037
+Registrant Name:Isabella Mori
+Registrant Organization:moritherapy
+Registrant Street1:6195 elgin street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:BC
+Registrant Postal Code:V5W 3K2
+Registrant Country:CA
+Registrant Phone:+1.6043278167
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:moritherapy@shaw.ca
+Admin ID:SPAG-34825037
+Admin Name:Isabella Mori
+Admin Organization:moritherapy
+Admin Street1:6195 elgin street
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:BC
+Admin Postal Code:V5W 3K2
+Admin Country:CA
+Admin Phone:+1.6043278167
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:moritherapy@shaw.ca
+Tech ID:SPAG-34825037
+Tech Name:Isabella Mori
+Tech Organization:moritherapy
+Tech Street1:6195 elgin street
+Tech Street2:
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:BC
+Tech Postal Code:V5W 3K2
+Tech Country:CA
+Tech Phone:+1.6043278167
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:moritherapy@shaw.ca
+Name Server:NS1.DREAMHOST.COM
+Name Server:NS2.DREAMHOST.COM
+Name Server:NS3.DREAMHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

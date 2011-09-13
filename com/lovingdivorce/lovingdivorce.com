@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BANDOO.COM
+   Domain Name: LOVINGDIVORCE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.ELRON.NET
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-apr-2000
-   Expiration Date: 18-apr-2014
+   Updated Date: 21-nov-2008
+   Creation Date: 19-mar-2006
+   Expiration Date: 19-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BANDOO.COM
+   Domain Name: LOVINGDIVORCE.COM
 
    Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.ELRON.NET
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BANDOO.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LOVINGDIVORCE.COM

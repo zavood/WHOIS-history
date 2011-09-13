@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BANDOO.COM
+   Domain Name: MATHWAVE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.ELRON.NET
+   Name Server: NS6.LUNARPAGES.COM
+   Name Server: NS7.LUNARPAGES.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-apr-2000
-   Expiration Date: 18-apr-2014
+   Updated Date: 02-feb-2011
+   Creation Date: 18-mar-2004
+   Expiration Date: 18-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:31:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Antony Drokin
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BANDOO.COM
+   Domain Name: MATHWAVE.COM
 
    Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.ELRON.NET
+      NS7.LUNARPAGES.COM
+      NS6.LUNARPAGES.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BANDOO.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MATHWAVE.COM

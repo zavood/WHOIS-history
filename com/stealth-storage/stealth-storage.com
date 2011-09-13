@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BANDOO.COM
+   Domain Name: STEALTH-STORAGE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.ELRON.NET
+   Name Server: DNS.INTERSERVER.NET
+   Name Server: DNS2.INTERSERVER.NET
+   Name Server: DNS4.INTERSERVER.NET
+   Name Server: DNS5.INTERSERVER.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-apr-2000
-   Expiration Date: 18-apr-2014
+   Updated Date: 06-oct-2009
+   Creation Date: 23-oct-2003
+   Expiration Date: 23-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:31:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Sergei Polishchuk
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BANDOO.COM
+   Domain Name: STEALTH-STORAGE.COM
 
    Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.ELRON.NET
+      DNS5.INTERSERVER.NET
+      DNS2.INTERSERVER.NET
+      DNS.INTERSERVER.NET
+      DNS4.INTERSERVER.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BANDOO.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STEALTH-STORAGE.COM

@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BANDOO.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.ELRON.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: LUCTREMBLAY.COM
+   Registrar: MISK.COM, INC.
+   Whois Server: whois.misk.com
+   Referral URL: http://www.misk.com
+   Name Server: NS1.MISK.COM
+   Name Server: NS2.MISK.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-apr-2000
-   Expiration Date: 18-apr-2014
+   Updated Date: 14-nov-2010
+   Creation Date: 14-nov-2010
+   Expiration Date: 14-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Domains by Proxy, Inc.
+ familliale
+ 355 Rue guoulet
+ Chicoutimi, QC G7H5Y6
+ CA
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BANDOO.COM
+ Domain name: LUCTREMBLAY.COM
 
-   Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.ELRON.NET
+ Administrative Contact:
+    Tremblay, Lyse  scorpion.lyse@videotron.ca
+    355 Rue guoulet
+    Chicoutimi, QC G7H5Y6
+    CA
+    +1.4186938987    Fax:
+
+ Technical Contact:
+    Tremblay, Lyse  scorpion.lyse@videotron.ca
+    355 Rue guoulet
+    Chicoutimi, QC G7H5Y6
+    CA
+    +1.4186938987    Fax:
+
+ Registrar of Record: MISK.COM
+ Record last updated on 2010-Nov-14.
+ Record expires on 2011-Nov-14.
+ Record created on 2010-Nov-14.
+
+ Domain servers in listed order:
+    NS1.MISK.COM
+    NS2.MISK.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BANDOO.COM
+The Data in the Misk.com Registrar WHOIS database is provided to you by Misk.com
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Misk.com makes this information available &quot;as is,&quot; and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Misk.com.
+
+Misk.com reserves the right to terminate your access to the Misk.com WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Misk.com reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.&quot;;
