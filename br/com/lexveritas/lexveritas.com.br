@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:41:50 (BRT -03:00)
+
+domain:      lexveritas.com.br
+owner:       Lex veritas processamento de dados ltda
+ownerid:     004.297.449/0001-14
+responsible: Gerson heidrich pinh
+country:     BR
+owner-c:     GHP13
+admin-c:     GHP13
+tech-c:      JLDSA7
+billing-c:   GHP13
+nserver:     ns1.chimeric.com.br
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns2.chimeric.com.br
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     20071022 #4007255
+expires:     20111022
+changed:     20100420
+status:      published
+
+nic-hdl-br:  GHP13
+person:      gerson heidrich pinheiro
+e-mail:      gersonveritas@veritas.trix.net
+created:     20010328
+changed:     20100401
+
+nic-hdl-br:  JLDSA7
+person:      Jess&eacute; leal dos Santos
+e-mail:      jesse@chimeric.com.br
+created:     20061005
+changed:     20091022
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

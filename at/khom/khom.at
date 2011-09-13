@@ -1,0 +1,58 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         khom.at
+registrant:     TK5084629-NICAT
+admin-c:        TK5084629-NICAT
+tech-c:         CYAF5084630-NICAT
+nserver:        ns1.domainname.at
+nserver:        ns2.domainname.at
+changed:        20090527 13:17:03
+source:         AT-DOM
+
+personname:     Thomas Khom
+organization:
+street address: Schelhammerg. 36
+postal code:    3420
+city:           Kritzendorf
+country:        Germany
+phone:          +4369910778439
+fax-no:         +4369910778439
+e-mail:         thomas.khom@creative4you.at
+nic-hdl:        TK5084629-NICAT
+changed:        20090527 13:16:58
+source:         AT-DOM
+
+personname:     Thomas Khom
+organization:   Creative4you Agentur fuer neue Medien
+street address: Schelhammergasse 36
+postal code:    3420
+city:           Kritzendorf
+country:        Austria
+phone:          +430224320135
+fax-no:         +430224320135
+e-mail:         office@creative4you.at
+nic-hdl:        CYAF5084630-NICAT
+changed:        20090527 13:17:00
+source:         AT-DOM
+

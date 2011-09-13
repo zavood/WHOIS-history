@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      boards.ie
+descr:       Boards Ltd
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Business Name
+admin-c:     AKV381-IEDR
+tech-c:      ABO206-IEDR
+renewal:     12-July-2012
+status:      Active
+nserver:     ns10.dnsmadeeasy.com
+nserver:     ns11.dnsmadeeasy.com
+nserver:     ns12.dnsmadeeasy.com
+nserver:     ns13.dnsmadeeasy.com
+nserver:     ns14.dnsmadeeasy.com
+nserver:     ns15.dnsmadeeasy.com
+source:      IEDR
+
+person:      Kara Browning
+nic-hdl:     AKV381-IEDR
+source:      IEDR
+
+person:      Dan King
+nic-hdl:     ABO206-IEDR
+source:      IEDR
+
