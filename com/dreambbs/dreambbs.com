@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YOUPLAY.COM
-   Registrar: ENETICA PTY LTD
-   Whois Server: whois.enetica.com.au
-   Referral URL: http://www.enetica.com.au
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: ok
-   Updated Date: 30-dec-2008
-   Creation Date: 13-jan-1999
-   Expiration Date: 13-jan-2012
+   Domain Name: DREAMBBS.COM
+   Registrar: KOREA INFORMATION CERTIFICATE AUTHORITY INC DBA DOMAINCA.COM
+   Whois Server: whois.domainca.com
+   Referral URL: http://www.domainca.com
+   Name Server: NS55.DNSEVER.COM
+   Name Server: NS68.DNSEVER.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-apr-2011
+   Creation Date: 27-apr-2000
+   Expiration Date: 27-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:12:09 UTC &lt;&lt;&lt;
 
@@ -54,51 +53,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant Details:
-  YouPlay Pty Ltd
-  Suite 1 Level 4 Gateway Centre
-  221 Mann St
-  Gosford, NSW 2250
-  AU
+Welcome to KICA, Inc. dba DomainCA.COM's WHOIS Service
+(Acceptable use policy for WHOIS service of DomainCA.com)
 
-  Domain Name: YOUPLAY.COM
+WHOIS information of DomainCA.com is provided by the database of DomainCA.com.
+We do not guarantee the accuracy about the purpose of providing information,
+the purpose of obtaining identity information, and the records of the domain registration.
 
-  Administrative Contact:
-    Drane, Andrew  andrewd@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
+The requested WHOIS information is used only as a legitimate purpose,
+is not used for any other purpose such as the following.
+1) Commercial advertisement or solicitation mail/spam mail without the consent
+2) Automation of mass information process by applying DomainCA.com or DomainCA service system
 
-  Technical Contact:
-    Griffiths, David  davidg@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
+DomainCA reserves the right to add,
+delete or modify any provision of this policy at any time without notice.
+You have accepted and agreed to this policy by providing this information.
 
-  Name Server:  ns0.dnsmadeeasy.com
-  Name Server:  ns1.dnsmadeeasy.com
-  Name Server:  ns2.dnsmadeeasy.com
-  Name Server:  ns3.dnsmadeeasy.com
-  Name Server:  ns4.dnsmadeeasy.com
+Domain Name: dreambbs.com
+Domain Status: REGISTRAR LOCK
+Registrar: Korea Information Certificate Authority, Inc. dba DomainCA.com
+Referral URL: http://www.DomainCA.com
 
-  Registrar of Record: Enetica Pty Ltd
-  Record last updated on 2008-12-31
-  Record created on 1999-01-13
-  Record expires on 2012-01-14
+Registrant:
+    SungRyul Hwang
+    GeojeSi SangDongDong
+    Daedong Dasoop APT 112-1004
+    Gyeongsangnam-Do,  656777
+    KR
 
-The information contained in this WHOIS database is provided by Enetica
-for information purposes only.  Enetica makes this information available
-on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
-accuracy.  In particular, please note that the WHOIS database is a
-contact database only - and lack of a whois record does not necessarily
-mean that the domain is available for registration.
+Administrative, Technical, Billing Contact:
+    SungRyul Hwang   kndns@naver.com
+    GeojeSi SangDongDong
+    Daedong Dasoop APT 112-1004
+    Gyeongsangnam-Do,   656777
+    KR
+    (TEL) +82.5055551231, (FAX)
 
-By submitting a WHOIS query, you agree to abide by our terms of use,
-and that you will use this data only for lawful purposes.  Our full
-terms and conditions can be accessed via the Enetica website at:
-http://www.enetica.com.au/whois/usage.html
+Domain Registration Date....: 2000-04-27 GMT.
+Domain Expiration Date......: 2012-04-27 GMT.
+Domain Last Updated Date....: 2011-04-20 01:00:02 GMT.
 
+Domain Name Servers in listed order:
+   NS68.DNSEVER.COM
+   ns55.dnsever.com
+
+If a customer is not using our name server, the IP address of
+the customer's name server will not be displayed.
+
+Please register domain name at www.DomainCA.com.

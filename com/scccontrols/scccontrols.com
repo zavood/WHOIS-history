@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YOUPLAY.COM
-   Registrar: ENETICA PTY LTD
-   Whois Server: whois.enetica.com.au
-   Referral URL: http://www.enetica.com.au
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: ok
-   Updated Date: 30-dec-2008
-   Creation Date: 13-jan-1999
-   Expiration Date: 13-jan-2012
+   Domain Name: SCCCONTROLS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NSA.POWERDNN.COM
+   Name Server: NSB.POWERDNN.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-nov-2008
+   Creation Date: 24-jul-1997
+   Expiration Date: 23-jul-2018
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:12:09 UTC &lt;&lt;&lt;
 
@@ -54,51 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant Details:
-  YouPlay Pty Ltd
-  Suite 1 Level 4 Gateway Centre
-  221 Mann St
-  Gosford, NSW 2250
-  AU
 
-  Domain Name: YOUPLAY.COM
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-  Administrative Contact:
-    Drane, Andrew  andrewd@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
 
-  Technical Contact:
-    Griffiths, David  davidg@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
+   Registrant:
+      Static Controls Corp.
+      Brent Ames
+      30460 Wixom Road
+      Wixom, MI 48393
+      US
+      Phone: +1.2489264400
+      Email: sales@scccontrols.com
 
-  Name Server:  ns0.dnsmadeeasy.com
-  Name Server:  ns1.dnsmadeeasy.com
-  Name Server:  ns2.dnsmadeeasy.com
-  Name Server:  ns3.dnsmadeeasy.com
-  Name Server:  ns4.dnsmadeeasy.com
 
-  Registrar of Record: Enetica Pty Ltd
-  Record last updated on 2008-12-31
-  Record created on 1999-01-13
-  Record expires on 2012-01-14
 
-The information contained in this WHOIS database is provided by Enetica
-for information purposes only.  Enetica makes this information available
-on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
-accuracy.  In particular, please note that the WHOIS database is a
-contact database only - and lack of a whois record does not necessarily
-mean that the domain is available for registration.
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-By submitting a WHOIS query, you agree to abide by our terms of use,
-and that you will use this data only for lawful purposes.  Our full
-terms and conditions can be accessed via the Enetica website at:
-http://www.enetica.com.au/whois/usage.html
+   Domain Name: scccontrols.com
+      Created on..............: 2006-07-21
+      Expires on..............: 2018-07-23
+
+   Administrative Contact:
+      Static Controls Corp.
+      Brent Ames
+      30460 Wixom Road
+      Wixom, MI 48393
+      US
+      Phone: +1.2489264400
+      Email: BrentA@SccControls.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      nsa.powerdnn.com
+      nsb.powerdnn.com
+
+
+
+Visit AboutUs.org for more information about scccontrols.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/scccontrols.com&quot;&gt;AboutUs: scccontrols.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

@@ -5,21 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YOUPLAY.COM
-   Registrar: ENETICA PTY LTD
-   Whois Server: whois.enetica.com.au
-   Referral URL: http://www.enetica.com.au
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: ok
-   Updated Date: 30-dec-2008
-   Creation Date: 13-jan-1999
-   Expiration Date: 13-jan-2012
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:12:09 UTC &lt;&lt;&lt;
+No match for &quot;BH-10.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:12:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,51 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant Details:
-  YouPlay Pty Ltd
-  Suite 1 Level 4 Gateway Centre
-  221 Mann St
-  Gosford, NSW 2250
-  AU
-
-  Domain Name: YOUPLAY.COM
-
-  Administrative Contact:
-    Drane, Andrew  andrewd@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
-
-  Technical Contact:
-    Griffiths, David  davidg@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
-
-  Name Server:  ns0.dnsmadeeasy.com
-  Name Server:  ns1.dnsmadeeasy.com
-  Name Server:  ns2.dnsmadeeasy.com
-  Name Server:  ns3.dnsmadeeasy.com
-  Name Server:  ns4.dnsmadeeasy.com
-
-  Registrar of Record: Enetica Pty Ltd
-  Record last updated on 2008-12-31
-  Record created on 1999-01-13
-  Record expires on 2012-01-14
-
-The information contained in this WHOIS database is provided by Enetica
-for information purposes only.  Enetica makes this information available
-on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
-accuracy.  In particular, please note that the WHOIS database is a
-contact database only - and lack of a whois record does not necessarily
-mean that the domain is available for registration.
-
-By submitting a WHOIS query, you agree to abide by our terms of use,
-and that you will use this data only for lawful purposes.  Our full
-terms and conditions can be accessed via the Enetica website at:
-http://www.enetica.com.au/whois/usage.html
-

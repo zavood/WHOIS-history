@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YOUPLAY.COM
-   Registrar: ENETICA PTY LTD
-   Whois Server: whois.enetica.com.au
-   Referral URL: http://www.enetica.com.au
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: ok
-   Updated Date: 30-dec-2008
-   Creation Date: 13-jan-1999
-   Expiration Date: 13-jan-2012
+   Domain Name: LEISUREIDEAS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.HAGENHOSTING.COM
+   Name Server: NS2.HAGENHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 26-apr-2010
+   Creation Date: 10-feb-1998
+   Expiration Date: 09-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:12:09 UTC &lt;&lt;&lt;
 
@@ -54,51 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant Details:
-  YouPlay Pty Ltd
-  Suite 1 Level 4 Gateway Centre
-  221 Mann St
-  Gosford, NSW 2250
-  AU
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-  Domain Name: YOUPLAY.COM
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-  Administrative Contact:
-    Drane, Andrew  andrewd@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-  Technical Contact:
-    Griffiths, David  davidg@youplay.com
-    Suite 1 Level 4 Gateway Centre
-    221 Mann St
-    Gosford, NSW 2250
-    AU
-    +61.243254306   Fax: +61.243254188
+http://www.networksolutions.com/whois/index.jhtml
 
-  Name Server:  ns0.dnsmadeeasy.com
-  Name Server:  ns1.dnsmadeeasy.com
-  Name Server:  ns2.dnsmadeeasy.com
-  Name Server:  ns3.dnsmadeeasy.com
-  Name Server:  ns4.dnsmadeeasy.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-  Registrar of Record: Enetica Pty Ltd
-  Record last updated on 2008-12-31
-  Record created on 1999-01-13
-  Record expires on 2012-01-14
-
-The information contained in this WHOIS database is provided by Enetica
-for information purposes only.  Enetica makes this information available
-on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
-accuracy.  In particular, please note that the WHOIS database is a
-contact database only - and lack of a whois record does not necessarily
-mean that the domain is available for registration.
-
-By submitting a WHOIS query, you agree to abide by our terms of use,
-and that you will use this data only for lawful purposes.  Our full
-terms and conditions can be accessed via the Enetica website at:
-http://www.enetica.com.au/whois/usage.html
-
+Whois Query: leisureideas.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 22:02:52 EDT 2011
+Reason Code: IE
