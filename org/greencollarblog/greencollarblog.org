@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151306096-LROR
+Domain Name:GREENCOLLARBLOG.ORG
+Created On:14-Feb-2008 03:06:43 UTC
+Last Updated On:04-Feb-2011 00:34:35 UTC
+Expiration Date:14-Feb-2012 03:06:43 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000423677
+Registrant Name:Leonard Adler
+Registrant Street1:PO Box 251
+Registrant Street2:
+Registrant Street3:
+Registrant City:Walnut Creek
+Registrant State/Province:CA
+Registrant Postal Code:94597
+Registrant Country:US
+Registrant Phone:+1.6507768621
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ladler@alumni.stanford.org
+Admin ID:TNTN-0000753267
+Admin Name:Leonard Adler
+Admin Street1:2150 Allston Way
+Admin Street2:Suite 280
+Admin Street3:
+Admin City:Berkeley
+Admin State/Province:CA
+Admin Postal Code:94704
+Admin Country:US
+Admin Phone:+1.6507768621
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ladler@alumni.stanford.org
+Tech ID:TNTN-0000423677
+Tech Name:Leonard Adler
+Tech Street1:PO Box 251
+Tech Street2:
+Tech Street3:
+Tech City:Walnut Creek
+Tech State/Province:CA
+Tech Postal Code:94597
+Tech Country:US
+Tech Phone:+1.6507768621
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ladler@alumni.stanford.org
+Name Server:NS1.DOMAINDISCOVER.COM
+Name Server:NS2.DOMAINDISCOVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
