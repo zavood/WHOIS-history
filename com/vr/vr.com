@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: E-GITT.NET
+   Domain Name: VR.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.E-GITT.NET
-   Name Server: NS2.E-GITT.NET
-   Name Server: NS3.E-GITT.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 29-may-2000
-   Expiration Date: 29-may-2012
+   Name Server: NS1.ANYTHING.COM
+   Name Server: NS2.ANYTHING.COM
+   Status: clientDeleteProhibited
+   Updated Date: 15-aug-2011
+   Creation Date: 19-oct-1998
+   Expiration Date: 18-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:43:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:43:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,56 +52,44 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Redaktionsbuero Michlick &amp;amp; Brandmueller GbR
- Offenbacher Str. 1
- Berlin,  14197
- DE
+ Anything.com Ltd. (.ky)
+ P.O. Box 309 ,Ugland House
+ George Town, Grand Cayman
+ KY
 
- Domain name: E-GITT.NET
+ Domain name: VR.COM
 
 
  Administrative Contact:
-    Brandmueller, Oliver  ob@gruft.de
-    Offenbacher Str. 1
-    Berlin,  14197
-    DE
-    +49 172 3130856    Fax: +49 177 992147766
+    administration, domain  contactanything@10.com
+    P.O. Box 309 ,Ugland House
+    George Town, Grand Cayman
+    KY
+    212-937-2077    Fax: 212-937-2077
 
  Technical Contact:
-    Michlick, Frank  domains@domaincocoon.com
-    3551 St Charles Blvd
-    Suite #545
-    Kirkland, QC H9H 3C4
-    CA
-    +1.5143161050    Fax: +1.6474354253
+    administration, domain  contactanything@10.com
+    P.O. Box 309 ,Ugland House
+    George Town, Grand Cayman
+    KY
+    212-937-2077    Fax: 212-937-2077
 
-
-
- Registration Service Provider:
-    Degap, domains@degap.ca
-    +1.514 316-1050
-    http://www.degap.ca/
-    Degap may be contacted by the domain owner/admin-contact for domain
-    login/passwords, DNS/Nameserver changes, and general domain support
-    questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-May-2011.
- Record expires on 29-May-2012.
- Record created on 29-May-2000.
+ Record last updated on 19-Sep-2010.
+ Record expires on 18-Oct-2011.
+ Record created on 19-Oct-1998.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.E-GITT.NET   83.137.98.94
-    NS3.E-GITT.NET   85.214.34.122
-    NS.E-GITT.NET   213.73.92.34
+    NS2.ANYTHING.COM
+    NS1.ANYTHING.COM
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: clientDeleteProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

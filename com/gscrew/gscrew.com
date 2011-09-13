@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: E-GITT.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.E-GITT.NET
-   Name Server: NS2.E-GITT.NET
-   Name Server: NS3.E-GITT.NET
+   Domain Name: GSCREW.COM
+   Registrar: TPP DOMAINS PTY LTD. DBA TPP INTERNET
+   Whois Server: whois.tppinternet.com
+   Referral URL: http://www.tppinternet.com
+   Name Server: NS27.CRUCIALDNS.COM
+   Name Server: NS28.CRUCIALDNS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 29-may-2000
-   Expiration Date: 29-may-2012
+   Updated Date: 26-jun-2011
+   Creation Date: 26-jun-2007
+   Expiration Date: 26-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:43:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:44:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,87 +53,82 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Redaktionsbuero Michlick &amp;amp; Brandmueller GbR
- Offenbacher Str. 1
- Berlin,  14197
- DE
+ GScrew
+ 287 Graet Eastern Highway
+ Midland, W.A 6056
+ AU
 
- Domain name: E-GITT.NET
+ Domain name: GSCREW.COM
 
 
  Administrative Contact:
-    Brandmueller, Oliver  ob@gruft.de
-    Offenbacher Str. 1
-    Berlin,  14197
-    DE
-    +49 172 3130856    Fax: +49 177 992147766
+    Wingard, Peter  dns-accounts@hostaway.net.au
+    Unit 1/8 Midas Road
+    Malaga, W.A 6090
+    AU
+    +61.892493646    Fax: +61.892494446
 
  Technical Contact:
-    Michlick, Frank  domains@domaincocoon.com
-    3551 St Charles Blvd
-    Suite #545
-    Kirkland, QC H9H 3C4
-    CA
-    +1.5143161050    Fax: +1.6474354253
+    Wingard, Peter  dns-accounts@hostaway.net.au
+    Unit 1/8 Midas Road
+    Malaga, W.A 6090
+    AU
+    +61.892493646    Fax: +61.892494446
 
 
 
  Registration Service Provider:
-    Degap, domains@degap.ca
-    +1.514 316-1050
-    http://www.degap.ca/
-    Degap may be contacted by the domain owner/admin-contact for domain
-    login/passwords, DNS/Nameserver changes, and general domain support
-    questions.
+    TPP Domains Pty Ltd, trading as TPP Internet, sales@tppinternet.com
+    1300 665 491
+    1300 792 306 (fax)
+    http://www.tppinternet.com
+    To update your domain details please visit
+    https://ssl.twoplums.com.au/tppretail/forms/online-management-login.php
+    and login using your client username and password.
 
 
- Registrar of Record: TUCOWS, INC.
- Record last updated on 02-May-2011.
- Record expires on 29-May-2012.
- Record created on 29-May-2000.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
+ Registrar of Record: TPP Internet Pty Ltd
+ Record last updated on 26-Jun-2011.
+ Record expires on 27-Jun-2012.
+ Record created on 27-Jun-2007.
 
  Domain servers in listed order:
-    NS2.E-GITT.NET   83.137.98.94
-    NS3.E-GITT.NET   85.214.34.122
-    NS.E-GITT.NET   213.73.92.34
+    NS27.CRUCIALDNS.COM
+    NS28.CRUCIALDNS.COM
 
 
  Domain status: clientTransferProhibited
                 clientUpdateProhibited
 
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
+The Data in the TPP Internet Registrar WHOIS database is provided to you by
+TPP Internet for information purposes only, and may be used to assist you in
+ obtaining information about or related to a domain name's registration record.
 
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
+TPP Internet makes this information available &quot;as is,&quot;
+and does not guarantee its accuracy.
 
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
+By submitting a WHOIS query, you agree that you will use this data only
+for lawful purposes and that, under no circumstances will you use this data to:
 a) allow, enable, or otherwise support the transmission by e-mail,
 telephone, or facsimile of mass, unsolicited, commercial advertising or
 solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
+customers; or (b) enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registry Operator or
 ICANN-Accredited registrar, except as reasonably necessary to register
 domain names or modify existing registrations.
 
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
+The compilation, repackaging, dissemination or other use of this
+Data is expressly prohibited without the prior written consent of TPP Internet.
 
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
+TPP Internet reserves the right to terminate your access to the
+TPP Internet WHOIS database in its sole discretion,
+including without limitation, for excessive querying of the WHOIS database or
+for failure to otherwise abide by this policy.
 
-Tucows reserves the right to modify these terms at any time.
+TPP Internet reserves the right to modify these terms at any time.
 
 By submitting this query, you agree to abide by these terms.
 
 NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
 RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
 
