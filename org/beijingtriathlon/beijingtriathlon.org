@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158869801-LROR
+Domain Name:BEIJINGTRIATHLON.ORG
+Created On:14-Apr-2010 01:35:57 UTC
+Last Updated On:10-May-2011 10:00:09 UTC
+Expiration Date:14-Apr-2012 01:35:57 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc400055258-cn
+Registrant Name:mingwei Liu
+Registrant Organization:BeiJing Chanping Tiyueju
+Registrant Street1:Beijing shi chanping qu
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:Beijing
+Registrant Postal Code:102200
+Registrant Country:CN
+Registrant Phone:+86.01080102173
+Registrant Phone Ext.:
+Registrant FAX:+86.01080102537
+Registrant FAX Ext.:
+Registrant Email:sawa558@126.com
+Admin ID:hc084774194-cn
+Admin Name:mingwei Liu
+Admin Organization:BeiJing Chanping Tiyueju
+Admin Street1:Beijing shi chanping qu
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:Beijing
+Admin Postal Code:102200
+Admin Country:CN
+Admin Phone:+86.01080102173
+Admin Phone Ext.:
+Admin FAX:+86.01080102537
+Admin FAX Ext.:
+Admin Email:sawa558@126.com
+Tech ID:hc584774194-cn
+Tech Name:mingwei Liu
+Tech Organization:BeiJing Chanping Tiyueju
+Tech Street1:Beijing shi chanping qu
+Tech Street2:
+Tech Street3:
+Tech City:beijing
+Tech State/Province:Beijing
+Tech Postal Code:102200
+Tech Country:CN
+Tech Phone:+86.01080102173
+Tech Phone Ext.:
+Tech FAX:+86.01080102537
+Tech FAX Ext.:
+Tech Email:sawa558@126.com
+Name Server:DNS15.HICHINA.COM
+Name Server:DNS16.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
