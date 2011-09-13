@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WOODCOCKCYCLE.COM
-   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
-   Whois Server: whois.namejuice.com
-   Referral URL: http://www.namejuice.com
-   Name Server: DNS1.NAMERESOLVERS.COM
-   Name Server: DNS2.NAMERESOLVERS.COM
-   Name Server: DNS3.NAMERESOLVERS.COM
-   Name Server: DNS4.NAMERESOLVERS.COM
+   Domain Name: DEWEYCOOTER.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
    Status: ok
-   Updated Date: 31-mar-2010
-   Creation Date: 29-apr-2004
-   Expiration Date: 29-apr-2014
+   Updated Date: 25-feb-2011
+   Creation Date: 11-mar-2007
+   Expiration Date: 11-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:25:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:23:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,60 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: Domain Registry of Canada
-Contact: support@droc.ca
-Web:http://www.droc.ca
-
-
-Domain name: woodcockcycle.com
-
-Registrant Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
-
-Administrative Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
-
-Technical Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3k7    CA
-      +1.2042535896
-      +1.2042576306
-      woodcockcycle@shaw.ca
-
-Update date: 2010-03-31
-Expiration date: 2014-04-29
-
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

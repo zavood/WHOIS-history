@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WOODCOCKCYCLE.COM
-   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
-   Whois Server: whois.namejuice.com
-   Referral URL: http://www.namejuice.com
-   Name Server: DNS1.NAMERESOLVERS.COM
-   Name Server: DNS2.NAMERESOLVERS.COM
-   Name Server: DNS3.NAMERESOLVERS.COM
-   Name Server: DNS4.NAMERESOLVERS.COM
-   Status: ok
-   Updated Date: 31-mar-2010
-   Creation Date: 29-apr-2004
-   Expiration Date: 29-apr-2014
+   Domain Name: CHBACO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: OAK.FOREST.NET
+   Name Server: WILLOW.FOREST.NET
+   Status: clientTransferProhibited
+   Updated Date: 15-oct-2010
+   Creation Date: 19-nov-2007
+   Expiration Date: 19-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:25:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:24:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,47 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: Domain Registry of Canada
-Contact: support@droc.ca
-Web:http://www.droc.ca
+=-=-=-=
 
 
-Domain name: woodcockcycle.com
+Domain name: chbaco.com
 
 Registrant Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
+   CHBA Central Okanagan
+   Claude Claude ()
+
+   Fax:
+   212-1884 Spall Road
+   Kelowna, BC V1Y 4R1
+   CA
 
 Administrative Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
+   CHBA Central Okanagan
+   Claude Claude (info@chbakelowna.bc.ca)
+   +1.2508613988
+   Fax: +1.2508613950
+   212-1884 Spall Road
+   Kelowna, BC V1Y 4R1
+   CA
 
 Technical Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3k7    CA
-      +1.2042535896
-      +1.2042576306
-      woodcockcycle@shaw.ca
+   Welcome to Kelowna Ventures Ltd.
+   Jim Csek (admin@csekcreative.com)
+   +1.2508628010
+   Fax: +1.2508628069
+   #206-1441 Ellis Street
+   Kelowna, BC V1Y2A3
+   CA
 
-Update date: 2010-03-31
-Expiration date: 2014-04-29
+Status: Locked
+
+Name Servers:
+   oak.forest.net
+   willow.forest.net
+
+Creation date: 19 Nov 2007 21:58:33
+Expiration date: 19 Nov 2011 21:58:00
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -110,3 +112,4 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

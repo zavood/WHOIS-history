@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WOODCOCKCYCLE.COM
-   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
-   Whois Server: whois.namejuice.com
-   Referral URL: http://www.namejuice.com
-   Name Server: DNS1.NAMERESOLVERS.COM
-   Name Server: DNS2.NAMERESOLVERS.COM
-   Name Server: DNS3.NAMERESOLVERS.COM
-   Name Server: DNS4.NAMERESOLVERS.COM
-   Status: ok
-   Updated Date: 31-mar-2010
-   Creation Date: 29-apr-2004
-   Expiration Date: 29-apr-2014
+   Domain Name: ALAMOSA.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS63.DOMAINCONTROL.COM
+   Name Server: NS64.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 23-feb-2011
+   Creation Date: 16-jun-1997
+   Expiration Date: 15-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:25:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:25:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,60 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: Domain Registry of Canada
-Contact: support@droc.ca
-Web:http://www.droc.ca
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
+
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
-Domain name: woodcockcycle.com
+Registrant:
+   Alamosa Tourism Developmemt
 
-Registrant Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
+   Registered through: MicroNet, Inc.
+   Domain Name: ALAMOSA.COM
 
-Administrative Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3K7    CA
-      +1.2042535896
-      +1.2042576306
-      cycle@shaw.ca
-
-Technical Contact:
-      Tim    Woodcock
-      Woodcock Cycle Works Inc.
-      433 St Mary's Road
-      Winnipeg
-      MB,   R2M-3k7    CA
-      +1.2042535896
-      +1.2042576306
-      woodcockcycle@shaw.ca
-
-Update date: 2010-03-31
-Expiration date: 2014-04-29
+   Domain servers in listed order:
+      NS63.DOMAINCONTROL.COM
+      NS64.DOMAINCONTROL.COM
 
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=ALAMOSA.COM&amp;prog_id=282065
