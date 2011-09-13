@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICCLICK.COM
+   Domain Name: CARTALKING.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Name Server: NS1.IZMOCARS.NET
+   Name Server: NS2.IZMOCARS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 26-sep-2003
-   Expiration Date: 26-sep-2018
+   Updated Date: 17-jun-2011
+   Creation Date: 23-jun-2005
+   Expiration Date: 23-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:15:41 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   PicClick LLC
+   Izmocars
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICCLICK.COM
+   Domain Name: CARTALKING.COM
 
    Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+      NS1.IZMOCARS.NET
+      NS2.IZMOCARS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICCLICK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CARTALKING.COM

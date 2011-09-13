@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D142501233-LROR
+Domain Name:AUFSFELD.ORG
+Created On:29-Mar-2007 13:35:14 UTC
+Last Updated On:30-Mar-2011 01:23:42 UTC
+Expiration Date:29-Mar-2012 13:35:14 UTC
+Sponsoring Registrar:InterNetWire Communications GmbH (R1565-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:SA611757
+Registrant Name:Stephan Aufsfeld
+Registrant Street1:Lachenstrasse 27
+Registrant Street2:
+Registrant Street3:
+Registrant City:Schoenaich
+Registrant State/Province:
+Registrant Postal Code:71101
+Registrant Country:DE
+Registrant Phone:+49.7031818869
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stephan@aufsfeld.de
+Admin ID:SA611757
+Admin Name:Stephan Aufsfeld
+Admin Street1:Lachenstrasse 27
+Admin Street2:
+Admin Street3:
+Admin City:Schoenaich
+Admin State/Province:
+Admin Postal Code:71101
+Admin Country:DE
+Admin Phone:+49.7031818869
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stephan@aufsfeld.de
+Tech ID:WK1126
+Tech Name:Werner Kaltofen
+Tech Organization:Neue Medien Muennich GmbH
+Tech Street1:Hauptstr. 68
+Tech Street2:
+Tech Street3:
+Tech City:Friedersdorf
+Tech State/Province:
+Tech Postal Code:02742
+Tech Country:DE
+Tech Phone:+49.3587235310
+Tech Phone Ext.:
+Tech FAX:+49.3587235330
+Tech FAX Ext.:
+Tech Email:hostmaster@all-inkl.com
+Name Server:NS5.KASSERVER.COM
+Name Server:NS6.KASSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

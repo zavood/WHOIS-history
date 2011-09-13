@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICCLICK.COM
+   Domain Name: GKAINDL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 26-sep-2003
-   Expiration Date: 26-sep-2018
+   Updated Date: 27-oct-2009
+   Creation Date: 19-nov-2006
+   Expiration Date: 27-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:15:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:14:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   PicClick LLC
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICCLICK.COM
+   Domain Name: GKAINDL.COM
 
    Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+      NS1.MEDIATEMPLE.NET
+      NS2.MEDIATEMPLE.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICCLICK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GKAINDL.COM

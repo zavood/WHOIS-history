@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICCLICK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: HARDSEXTUBEPREMIUM.COM
+   Registrar: EURODNS S.A
+   Whois Server: whois.eurodns.com
+   Referral URL: http://www.eurodns.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 26-sep-2003
-   Expiration Date: 26-sep-2018
+   Updated Date: 09-may-2011
+   Creation Date: 15-apr-2009
+   Expiration Date: 15-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:15:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:15:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in EuroDNS WHOIS database is provided for information purposes only.
+The fact that EuroDNS display such information does not provide any guarantee
+expressed or implied on the purpose for which the database may be used, its
+accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will
+you use this Data to:
 
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that apply to EuroDNS
+(or its systems). EuroDNS reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the above policy.
+
+Whois History: 43 records have been archived since 2009-04-16
+http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=hardsextubepremium.com
+
+Domain: hardsextubepremium.com
+Registrar: Eurodns S.A.
 
 Registrant:
-   PicClick LLC
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICCLICK.COM
+Administrative Contact:
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
+Phone: +852 5808 1344
+Fax: +852 5808 1345
+Email: d9c1d17f4cde8fe2@whoisprivacy.com
 
-   Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+Technical Contact:
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
+Phone: +852 5808 1344
+Fax: +852 5808 1345
+Email: d9c1d17f4cde8fe2@whoisprivacy.com
 
+Original Creation Date: 2009-04-15
+Expiration Date: 2013-04-14
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICCLICK.COM
+Status:
+clientTransferProhibited
+
+Nameserver Information:
+Nameserver: ns.rackspace.com
+Nameserver: ns2.rackspace.com
+
