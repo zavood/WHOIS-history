@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEDCOELECTRONICS.COM
+   Domain Name: KHOVDELRAY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS73.WORLDNIC.COM
-   Name Server: NS74.WORLDNIC.COM
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2011
-   Creation Date: 01-dec-2000
-   Expiration Date: 01-dec-2015
+   Updated Date: 19-nov-2009
+   Creation Date: 19-nov-2009
+   Expiration Date: 19-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:23:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:23:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about NEDCOELECTRONICS.COM
-&lt;a href=&quot;http://www.aboutus.org/NEDCOELECTRONICS.COM&quot;&gt;AboutUs: NEDCOELECTRONICS.COM &lt;/a&gt;
+Visit AboutUs.org for more information about KHOVDELRAY.COM
+&lt;a href=&quot;http://www.aboutus.org/KHOVDELRAY.COM&quot;&gt;AboutUs: KHOVDELRAY.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Nedco Electronics
-   12110 Prichard Farm Road
-   Maryland Heights, MO 63043
+K. Hovnanian Companies, LLC
+   110 West Front Street
+   RED BANK, NJ 07701
    US
 
-   Domain Name: NEDCOELECTRONICS.COM
+   Domain Name: KHOVDELRAY.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +95,20 @@ Nedco Electronics
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Nedco Electronics		mattk@nedcoelectronics.com
-      12110 Prichard Farm Road
-      Maryland Heights, MO 63043
+      K. Hovnanian Companies, LLC		hovdnsmgrs@khov.com
+      110 West Front Street
+      RED BANK, NJ 07701
       US
-      314-344-0344
+      732 747 7800 fax: 123 123 1234
 
 
-   Record expires on 01-Dec-2015.
-   Record created on 01-Dec-2000.
-   Database last updated on 13-Sep-2011 02:13:09 EDT.
+   Record expires on 19-Nov-2012.
+   Record created on 19-Nov-2009.
+   Database last updated on 13-Sep-2011 02:14:06 EDT.
 
    Domain servers in listed order:
 
-   NS73.WORLDNIC.COM            205.178.190.37
-   NS74.WORLDNIC.COM            206.188.198.37
+   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
+   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
 
 
