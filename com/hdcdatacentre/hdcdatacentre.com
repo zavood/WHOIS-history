@@ -5,25 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAITECH.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
+   Domain Name: HDCDATACENTRE.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS01.HDCDATACENTRE.COM
+   Name Server: NS02.HDCDATACENTRE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 01-aug-1998
-   Expiration Date: 31-jul-2017
+   Updated Date: 01-sep-2011
+   Creation Date: 06-jul-2006
+   Expiration Date: 06-jul-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:36:55 UTC &lt;&lt;&lt;
 
@@ -60,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Henderson Data Centre Limited admin.dns@hdcdatacentre.com +852.23980088 F: +852.22580233
+	 Henderson Data Centre Limited
+	 17/F., 9 Pat Tat Street, San Po Kong,
+	 ,,
+
+
+Domain Name:hdcdatacentre.com
+Record last updated at 2011-09-01 03:53:22
+Record created on 2006/7/6
+Record expired on 2014/7/6
+
+
+Domain servers in listed order:
+	 ns01.hdcdatacentre.com 	 ns02.hdcdatacentre.com
+
+Administrator:
+	 Name-- HDC Data Centre Ltd
+ EMail-: (admin.dns@hdcdatacentre.com)
+ tel --: +852.23980088 F: +852.22580233
+	 org: HDC Data Centre Ltd
+	 17/F., 9 Pat Tat Street, San Po Kong,
+	 ,,
+
+Technical Contactor:
+	 Name-- HDC Data Centre Ltd
+ EMail-: (tech.dns@hdcdatacentre.com)
+ tel --: +852.23980088 F: +852.22580233
+	 org: HDC Data Centre Ltd
+	 17/F., 9 Pat Tat Street, San Po Kong,
+	 ,,
+
+Billing Contactor:
+	 Name-- HDC Data Centre Ltd
+ EMail-: (billing.dns@hdcdatacentre.com)
+ tel --: +852.23980088 F: +852.22580233
+	 org: HDC Data Centre Ltd
+	 17/F., 9 Pat Tat Street, San Po Kong,
+	 ,,
+
+
+Registration Service Provider:
+	name: Hong Kong E-Trade Centre
+	tel: +852.27644331
+ 	fax: +852.27644399
+ 	web:http://www.hketc.com
