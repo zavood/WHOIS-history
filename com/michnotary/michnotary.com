@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
+   Domain Name: MICHNOTARY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Updated Date: 08-apr-2008
+   Creation Date: 26-oct-1998
+   Expiration Date: 25-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:09:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about CARECENTRIXPORTAL.COM
-&lt;a href=&quot;http://www.aboutus.org/CARECENTRIXPORTAL.COM&quot;&gt;AboutUs: CARECENTRIXPORTAL.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MICHNOTARY.COM
+&lt;a href=&quot;http://www.aboutus.org/MICHNOTARY.COM&quot;&gt;AboutUs: MICHNOTARY.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Carecentrix
-   7725 woodland center blvd
-   suite 100
-   tampa, FL 33614
+Michigan Notary Service
+   555 Longfellow
+   Troy, MI 48098
    US
 
-   Domain Name: CARECENTRIXPORTAL.COM
+   Domain Name: MICHNOTARY.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +95,21 @@ Carecentrix
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Carecentrix		tim.davis@carecentrix.com
-      7725 woodland center blvd
-      suite 100
-      tampa, FL 33614
+      E-Access Inc		hostmaster@E-ACCESS.NET
+      E-Access Inc
+      836 6TH AVE
+      HUNTINGTON, WV 25701-2108
       US
-      813-901-2325
+      1-888-561-2215 fax: 304-697-0912
 
 
-   Record expires on 22-Nov-2011.
-   Record created on 22-Nov-2005.
-   Database last updated on 13-Sep-2011 11:59:35 EDT.
+   Record expires on 26-Oct-2013.
+   Record created on 26-Oct-1998.
+   Database last updated on 13-Sep-2011 12:00:58 EDT.
 
    Domain servers in listed order:
 
-   NS84.WORLDNIC.COM            206.188.198.42
-   NS83.WORLDNIC.COM            205.178.190.42
+   NS51.DOMAINCONTROL.COM
+   NS52.DOMAINCONTROL.COM
 
 

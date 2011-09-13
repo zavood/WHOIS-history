@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
+   Domain Name: THEB2BT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
+   Name Server: NS43.WORLDNIC.COM
+   Name Server: NS44.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Updated Date: 05-oct-2010
+   Creation Date: 05-oct-2010
+   Expiration Date: 05-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:09:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:10:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about CARECENTRIXPORTAL.COM
-&lt;a href=&quot;http://www.aboutus.org/CARECENTRIXPORTAL.COM&quot;&gt;AboutUs: CARECENTRIXPORTAL.COM &lt;/a&gt;
+Visit AboutUs.org for more information about THEB2BT.COM
+&lt;a href=&quot;http://www.aboutus.org/THEB2BT.COM&quot;&gt;AboutUs: THEB2BT.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Carecentrix
-   7725 woodland center blvd
-   suite 100
-   tampa, FL 33614
+Advantage Business Media, LLC
+   100 Enterprise Drive
+   Suite 600
+   Rockaway, NJ 07866
    US
 
-   Domain Name: CARECENTRIXPORTAL.COM
+   Domain Name: THEB2BT.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +95,29 @@ Carecentrix
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Carecentrix		tim.davis@carecentrix.com
-      7725 woodland center blvd
-      suite 100
-      tampa, FL 33614
+   Administrative Contact:
+      Advantage Business Media, LLC		vipul.desai@advantagemedia.com
+      100 Enterprise Drive
+      Suite 600
+      Rockaway, NJ 07866
       US
-      813-901-2325
+      973-920-7000
+
+   Technical Contact:
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
+      US
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 22-Nov-2011.
-   Record created on 22-Nov-2005.
-   Database last updated on 13-Sep-2011 11:59:35 EDT.
+   Record expires on 05-Oct-2012.
+   Record created on 05-Oct-2010.
+   Database last updated on 13-Sep-2011 12:00:41 EDT.
 
    Domain servers in listed order:
 
-   NS84.WORLDNIC.COM            206.188.198.42
-   NS83.WORLDNIC.COM            205.178.190.42
+   NS43.WORLDNIC.COM            205.178.190.22
+   NS44.WORLDNIC.COM            206.188.198.22
 
 
