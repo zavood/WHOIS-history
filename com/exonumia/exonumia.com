@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELYSA-EXHIB.COM
+   Domain Name: EXONUMIA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: KS26011.KIMSUFI.COM
-   Name Server: NS.KIMSUFI.COM
+   Name Server: NS29.DOMAINCONTROL.COM
+   Name Server: NS30.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-dec-2010
-   Creation Date: 10-dec-2005
-   Expiration Date: 10-dec-2011
+   Updated Date: 31-dec-2010
+   Creation Date: 15-mar-1998
+   Expiration Date: 30-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:22 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Olivier Garcia
+   Rich Hartzog
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ELYSA-EXHIB.COM
+   Domain Name: EXONUMIA.COM
 
    Domain servers in listed order:
-      KS26011.KIMSUFI.COM
-      NS.KIMSUFI.COM
+      NS29.DOMAINCONTROL.COM
+      NS30.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ELYSA-EXHIB.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EXONUMIA.COM

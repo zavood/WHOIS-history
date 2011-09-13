@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELYSA-EXHIB.COM
+   Domain Name: ENTRECOMICS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: KS26011.KIMSUFI.COM
-   Name Server: NS.KIMSUFI.COM
+   Name Server: DNS18.OVH.NET
+   Name Server: NS18.OVH.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-dec-2010
-   Creation Date: 10-dec-2005
-   Expiration Date: 10-dec-2011
+   Updated Date: 05-may-2011
+   Creation Date: 25-jun-2006
+   Expiration Date: 25-jun-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:22 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Olivier Garcia
+   Fernando Rodriguez
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ELYSA-EXHIB.COM
+   Domain Name: ENTRECOMICS.COM
 
    Domain servers in listed order:
-      KS26011.KIMSUFI.COM
-      NS.KIMSUFI.COM
+      DNS18.OVH.NET
+      NS18.OVH.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ELYSA-EXHIB.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ENTRECOMICS.COM

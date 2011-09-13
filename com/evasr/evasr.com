@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELYSA-EXHIB.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: KS26011.KIMSUFI.COM
-   Name Server: NS.KIMSUFI.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: EVASR.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: KNS3.KTDOM.COM
+   Name Server: KNS4.KTDOM.COM
+   Status: clientHold
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-dec-2010
-   Creation Date: 10-dec-2005
-   Expiration Date: 10-dec-2011
+   Updated Date: 09-sep-2011
+   Creation Date: 08-sep-2005
+   Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name : evasr.com
+
+::Registrant::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Administrative Contact::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Technical Contact::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Name Servers::
+kns3.ktdom.com
+kns4.ktdom.com
+
+::Dates &amp; Status::
+Created Date : 2005/09/08 21:49:48 EST
+Updated Date : 2011/09/09 17:01:42 EST
+Valid Date : 2011/09/08 20:49:48 EST
+Status clientHold
 
 
-Registrant:
-   Olivier Garcia
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ELYSA-EXHIB.COM
-
-   Domain servers in listed order:
-      KS26011.KIMSUFI.COM
-      NS.KIMSUFI.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ELYSA-EXHIB.COM
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

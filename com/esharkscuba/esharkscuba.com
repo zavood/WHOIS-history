@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-nov-2009
    Expiration Date: 23-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:37:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:20:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,41 @@ Domain servers in listed order:
 	 ns1.aaips.com 	 ns2.aaips.com
 
 Administrator:
+	 name:(David  Weiller)
+	Email:(optics2001@optics2001.com) tel-- +1.30524762
+	 -
 	 17 rue henri janin
-	 saint remy les chevreuse
+\r
+t saint remy les chevreuse
 na,
 FR
- 78470
 
-	 name:(David  Weiller)
-mail:(optics2001@optics2001.com) +1.30524762
-	 -
+ zipcode:78470
+
 Technical Contactor:
+	 name:(David  Weiller)
+	Email:(optics2001@optics2001.com) tel-- +1.30524762
+	 -
 	 17 rue henri janin
-	 saint remy les chevreuse
+\r
+t saint remy les chevreuse
 na,
 FR
- 78470
 
-	 name:(David  Weiller)
-mail:(optics2001@optics2001.com) +1.30524762
-	 -
+ zipcode:78470
+
 Billing Contactor:
+	 name:(David  Weiller)
+	Email:(optics2001@optics2001.com) tel-- +1.30524762
+	 -
 	 17 rue henri janin
-	 saint remy les chevreuse
+\r
+t saint remy les chevreuse
 na,
 FR
- 78470
 
-	 name:(David  Weiller)
-mail:(optics2001@optics2001.com) +1.30524762
-	 -
+ zipcode:78470
+
 
 Registration Service Provider:
 	name: -

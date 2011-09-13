@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELYSA-EXHIB.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: KS26011.KIMSUFI.COM
-   Name Server: NS.KIMSUFI.COM
+   Domain Name: FLASHPORTAL.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-dec-2010
-   Creation Date: 10-dec-2005
-   Expiration Date: 10-dec-2011
+   Updated Date: 30-apr-2010
+   Creation Date: 05-jul-2001
+   Expiration Date: 05-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:20:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Olivier Garcia
+   Jason Whitham
+   15911-132st
+   Edmonton, AB  t6v1e4
+   CA
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ELYSA-EXHIB.COM
+   Registrar: DOTREGISTRAR
+   Domain Name: FLASHPORTAL.COM
+      Created on: 05-JUL-01
+      Expires on: 05-JUL-16
+      Last Updated on: 30-APR-10
+
+   Administrative, Technical Contact:
+      Whitham, Jason  jason@flashportal.com
+      15911-132st
+      Edmonton, AB  t6v1e4
+      CA
+      780-668-6075
+
 
    Domain servers in listed order:
-      KS26011.KIMSUFI.COM
-      NS.KIMSUFI.COM
+      NS1.THEPLANET.COM
+      NS2.THEPLANET.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ELYSA-EXHIB.COM
+End of Whois Information

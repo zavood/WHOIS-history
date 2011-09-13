@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D70870591-LROR
+Domain Name:EMACSWIKI.ORG
+Created On:15-May-2001 19:17:03 UTC
+Last Updated On:15-Mar-2011 01:29:11 UTC
+Expiration Date:15-May-2015 19:17:03 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-714749-Gandi
+Registrant Name:Alex Schroeder
+Registrant Organization:Alex Schroeder
+Registrant Street1:Kanzleistrasse 222
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zuerich
+Registrant State/Province:
+Registrant Postal Code:8004
+Registrant Country:CH
+Registrant Phone:+41.786125175
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:alex@gnu.org
+Admin ID:AS1480-GANDI
+Admin Name:Alex Schroeder
+Admin Street1:Kanzleistrasse 222
+Admin Street2:
+Admin Street3:
+Admin City:Zuerich
+Admin State/Province:
+Admin Postal Code:8004
+Admin Country:CH
+Admin Phone:+41.786125175
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:alex@gnu.org
+Tech ID:AS1480-GANDI
+Tech Name:Alex Schroeder
+Tech Street1:Kanzleistrasse 222
+Tech Street2:
+Tech Street3:
+Tech City:Zuerich
+Tech State/Province:
+Tech Postal Code:8004
+Tech Country:CH
+Tech Phone:+41.786125175
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:alex@gnu.org
+Name Server:NS6.GANDI.NET
+Name Server:NS1.THINKMO.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

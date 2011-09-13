@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22297528-LROR
+Domain Name:ENR-NETWORK.ORG
+Created On:13-Mar-2000 16:09:41 UTC
+Last Updated On:13-Mar-2011 04:40:51 UTC
+Expiration Date:13-Mar-2013 16:09:41 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:turTU5FKZFxzjqeS
+Registrant Name:Elena Taxeri
+Registrant Organization:CRES
+Registrant Street1:19nth Khm Marathonos Av.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pikermi
+Registrant State/Province:Attiki
+Registrant Postal Code:19009
+Registrant Country:GR
+Registrant Phone:+30.2106603301
+Registrant Phone Ext.:
+Registrant FAX:+30.2106603332
+Registrant FAX Ext.:
+Registrant Email:elena@cres.gr
+Admin ID:tup8Un08RYU1UkmR
+Admin Name:Elena Taxeri
+Admin Organization:CRES
+Admin Street1:19nth Khm Marathonos Av.
+Admin Street2:
+Admin Street3:
+Admin City:Pikermi
+Admin State/Province:Attiki
+Admin Postal Code:19009
+Admin Country:GR
+Admin Phone:+30.2106603301
+Admin Phone Ext.:
+Admin FAX:+30.2106603332
+Admin FAX Ext.:
+Admin Email:elena@cres.gr
+Tech ID:tug4cGhJNbAd9ffG
+Tech Name:Elena Taxeri
+Tech Organization:CRES
+Tech Street1:19nth Khm Marathonos Av.
+Tech Street2:
+Tech Street3:
+Tech City:Pikermi
+Tech State/Province:Attiki
+Tech Postal Code:19009
+Tech Country:GR
+Tech Phone:+30.2106603301
+Tech Phone Ext.:
+Tech FAX:+30.2106603332
+Tech FAX Ext.:
+Tech Email:elena@cres.gr
+Name Server:NS.MAINNAMESERVER.COM
+Name Server:NS2.MAINNAMESERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

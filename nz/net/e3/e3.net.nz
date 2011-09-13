@@ -1,0 +1,60 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T08:21:45+12:00
+domain_name: e3.net.nz
+query_status: 200 Active
+domain_dateregistered: 2000-07-02T00:00:00+12:00
+domain_datebilleduntil: 2011-10-02T16:04:30+13:00
+domain_datelastmodified: 2011-09-02T23:31:45+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: ICONZ
+registrar_address1: Private Bag 92080
+registrar_address2: Victoria Street West
+registrar_city: Auckland
+registrar_postalcode: 1142
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 977-3500
+registrar_fax: +64 9 977-3535
+registrar_email: soa@iconz.co.nz
+%
+registrant_contact_name: eSurf Wireless
+registrant_contact_address1: Level 2 60 Airedale Street
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 309 6310
+registrant_contact_email: mike@visp.co.nz
+%
+admin_contact_name: Michael P. Spencer
+admin_contact_address1: Level 2 60 Airedale Street
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 309 6310
+admin_contact_email: mike@visp.co.nz
+%
+technical_contact_name: dns
+technical_contact_address1: 60 Airedale Street
+technical_contact_address2: Level 2
+technical_contact_email: dns@ezysurf.co.nz
+%
+ns_name_01: ns1.iconz.co.nz
+ns_name_02: ns2.iconz.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELYSA-EXHIB.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: KS26011.KIMSUFI.COM
-   Name Server: NS.KIMSUFI.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ELITEZENITH.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS1.FASTDOMAIN.COM
+   Name Server: NS2.FASTDOMAIN.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-dec-2010
-   Creation Date: 10-dec-2005
-   Expiration Date: 10-dec-2011
+   Updated Date: 25-mar-2011
+   Creation Date: 01-may-2002
+   Expiration Date: 01-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:21:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:20:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
 
 Registrant:
-   Olivier Garcia
+    eLite Zenith
+    Calvin Fan
+    5910 Dewey Blvd
+    Sacramento, CA 95824
+    US
+    +1.9283775673
+    gkg@elitezenith.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ELYSA-EXHIB.COM
+Administrative Contact:
+    eLite Zenith
+    Calvin Fan
+    5910 Dewey Blvd
+    Sacramento, CA 95824
+    US
+    +1.9283775673
+    gkg@elitezenith.com
 
-   Domain servers in listed order:
-      KS26011.KIMSUFI.COM
-      NS.KIMSUFI.COM
+Technical Contact:
+    eLite Zenith
+    Calvin Fan
+    5910 Dewey Blvd
+    Sacramento, CA 95824
+    US
+    +1.9283775673
+    gkg@elitezenith.com
 
+Billing Contact
+    eLite Zenith
+    Calvin Fan
+    5910 Dewey Blvd
+    Sacramento, CA 95824
+    US
+    +1.9283775673
+    gkg@elitezenith.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ELYSA-EXHIB.COM
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: ELITEZENITH.COM
+	Created on..............: 02-MAY-2002
+	Expires on..............: 02-MAY-2013
+	Record last updated on..: 25-MAR-2011
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS1.FASTDOMAIN.COM
+    NS2.FASTDOMAIN.COM
