@@ -2,7 +2,7 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       91.in-addr.arpa
+domain:       31.in-addr.arpa
 
 organisation: RIPE NCC
 
@@ -12,12 +12,12 @@ nserver:      sec1.apnic.net.
 nserver:      sec3.apnic.net.
 nserver:      sns-pb.isc.org.
 nserver:      tinnie.arin.net.
-ds-rdata:     44047 5 1 4d1547289f17e14d7b8db91dd5ff4d03ac5ad901
-ds-rdata:     44047 5 2 cab5d61f102673288b8da7c264fdfd7a6121ec12e7085b30c3dc28ef30dc2ca3
+ds-rdata:     8854 5 1 da33e30cda2f0025c89f0e68c5fce594fc66ba22
+ds-rdata:     8854 5 2 0530110080d23c18e13ed4cc59c50ed676325ed8407fe5342f16d21cb0320842
 
 whois:        whois.ripe.net
 
-changed:      2005-06
+changed:      2010-05
 changed:      2011-04-13
 source:       IANA
 

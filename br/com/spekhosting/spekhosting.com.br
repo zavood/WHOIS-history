@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 15:16:22 (BRT -03:00)
+
+domain:      spekhosting.com.br
+owner:       Carlos Roberto Santos da Concei&ccedil;&atilde;o
+ownerid:     053.268.525-35
+country:     BR
+owner-c:     CAENE9
+admin-c:     CAENE9
+tech-c:      CAENE9
+billing-c:   CAENE9
+nserver:     ns1.spekhosting.com.br 201.20.20.223
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.spekhosting.com.br 184.82.20.30
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20101213 #7667208
+expires:     20111213
+changed:     20110508
+status:      published
+
+nic-hdl-br:  CAENE9
+person:      Carlos Eduardo Nescedo
+e-mail:      identidade.bourner@hotmail.com
+created:     20100625
+changed:     20110420
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
