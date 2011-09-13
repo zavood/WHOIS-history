@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2202882-LROR
+Domain Name:SUI.ORG
+Created On:15-Oct-1998 04:00:00 UTC
+Last Updated On:10-Jun-2011 14:07:24 UTC
+Expiration Date:14-Oct-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20161708-NSI
+Registrant Name:NO FIRST NAME NO LAST NAME
+Registrant Organization:Systems Unlimited Inc.
+Registrant Street1:2533 Scott blvd se
+Registrant Street2:
+Registrant Street3:
+Registrant City:Iowa City
+Registrant State/Province:IA
+Registrant Postal Code:52240
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:mis@SUI.ORG
+Admin ID:20161706-NSI
+Admin Name:IT Support
+Admin Street1:2533 scott blvd se
+Admin Street2:
+Admin Street3:
+Admin City:Iowa City
+Admin State/Province:IA
+Admin Postal Code:52240
+Admin Country:US
+Admin Phone:+1.3193389212
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:italerts@SUI.ORG
+Tech ID:20161706-NSI
+Tech Name:IT Support
+Tech Street1:2533 scott blvd se
+Tech Street2:
+Tech Street3:
+Tech City:Iowa City
+Tech State/Province:IA
+Tech Postal Code:52240
+Tech Country:US
+Tech Phone:+1.3193389212
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:italerts@SUI.ORG
+Name Server:NS31.WORLDNIC.COM
+Name Server:NS32.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
