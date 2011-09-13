@@ -1,0 +1,24 @@
+[Domain]
+Domain: eset.lv
+Status: active
+Changed: 2006-11-20T16:27:28+02:00
+
+[Holder]
+Type: Legal person
+Name: INITEC LATVIA, SIA
+Email: sven.kinsigo@gmail.com
+Phone: +37128296521
+Address: Dzelzavas iela 120G, Riga, LV-1021
+RegNr: 40003745193
+
+[Tech]
+Type: Natural person
+Email: sven.kinsigo@gmail.com
+Phone: +37128296521
+
+[Nservers]
+Nserver: ns.zone.ee
+Nserver: ns2.zone.ee
+
+[Whois]
+Updated: 2011-09-13T05:12:25.961837+00:00
