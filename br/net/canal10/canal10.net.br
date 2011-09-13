@@ -5,32 +5,32 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-12 23:59:51 (BRT -03:00)
+%  2011-09-13 00:00:19 (BRT -03:00)
 
-domain:      loquax.com.br
-owner:       M. Brand&atilde;o
-ownerid:     250.041.718-23
+domain:      canal10.net.br
+owner:       Fernando Ferreira Santos
+ownerid:     234.700.971-00
 country:     BR
-owner-c:     MAROD66
-admin-c:     MAROD66
-tech-c:      MAROD66
-billing-c:   MAROD66
-nserver:     ns1.loquax.com.br 69.175.54.250
+owner-c:     FEFSA5
+admin-c:     FEFSA5
+tech-c:      FEFSA5
+billing-c:   FEFSA5
+nserver:     ns1.canal10.net.br 201.20.37.242
 nsstat:      20110912 AA
 nslastaa:    20110912
-nserver:     ns2.loquax.com.br 69.175.54.251
+nserver:     ns2.canal10.net.br 201.20.37.243
 nsstat:      20110912 AA
 nslastaa:    20110912
-created:     20080503 #4438633
-expires:     20120503
-changed:     20110517
+created:     20091110 #6262011
+expires:     20111110
+changed:     20110724
 status:      published
 
-nic-hdl-br:  MAROD66
-person:      Marcio Rodrigues
-e-mail:      marcio_2506@hotmail.com
-created:     20080503
-changed:     20090716
+nic-hdl-br:  FEFSA5
+person:      Fernando Ferreira Santos
+e-mail:      colunadosul@yahoo.com.br
+created:     20071123
+changed:     20100513
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

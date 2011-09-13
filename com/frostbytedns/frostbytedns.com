@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOONOT.COM
-   Registrar: UNITED-DOMAINS AG
-   Whois Server: whois.udag.net
-   Referral URL: http://www.united-domains.de
-   Name Server: NS1.DYNAMIC-NET.CH
-   Name Server: NS2.DYNAMIC-NET.CH
-   Status: ok
-   Updated Date: 10-jun-2011
-   Creation Date: 04-may-2007
-   Expiration Date: 04-may-2012
+   Domain Name: FROSTBYTEDNS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.FROSTBYTEDNS.COM
+   Name Server: NS2.FROSTBYTEDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-may-2011
+   Creation Date: 28-jan-2007
+   Expiration Date: 28-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:59:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about frostbytedns.com
+&lt;a href=&quot;http://www.aboutus.org/frostbytedns.com&quot;&gt;AboutUs: frostbytedns.com&lt;/a&gt;
 
-# Whois Server Version 1.30
-#
-# Terms and conditions:
-#
-# This data is provided by united-domains AG
-# for information purposes, and to assist persons obtaining information
-# about or related to domain name registration records.
-# united-domains AG does not guarantee its accuracy.
-# By submitting a WHOIS query, you agree that you will use this data
-# only for lawful purposes and that, under no circumstances, you will
-# use this data to
-# 1) allow, enable, or otherwise support the transmission of mass
-# unsolicited, commercial advertising or solicitations via E-mail
-# (spam); or
-# 2) enable high volume, automated, electronic processes that apply
-# to this WHOIS server.
-# These terms may be changed without prior notice.
-# By submitting this query, you agree to abide by this policy.
 
-request for: doonot.com
+Domain name: frostbytedns.com
 
-nameserver1: ns1.dynamic-net.ch
-nameserver2: ns2.dynamic-net.ch
+Administrative Contact:
+   FrostbyteHosting
+   Stan Spaeth (stan@mygamer.com)
+   +1.9732076650
+   Fax: +1.9738431111
+   39 Sunset Trail
+   Sparta, NJ 07871
+   US
 
-owner-name: Patrick Breiter
-owner-address: Ruetimattstr.
-owner-city: Mosen
-owner-state: CH
-owner-country: CH
-owner-postcode: 6295
-owner-telephone: +41.9173173
-owner-fax:
-owner-email: patrick.breiter@bluewin.ch
+Technical Contact:
+   FrostbyteHosting
+   Stan Spaeth (stan@mygamer.com)
+   +1.9732076650
+   Fax: +1.9738431111
+   39 Sunset Trail
+   Sparta, NJ 07871
+   US
 
-admin-name: Patrick Breiter
-admin-address: Ruetimattstr.
-admin-city: Mosen
-admin-state: CH
-admin-country: CH
-admin-postcode: 6295
-admin-telephone: +41.9173173
-admin-fax:
-admin-email: patrick.breiter@bluewin.ch
+Registrant Contact:
+   FrostbyteHosting
+   Stan Spaeth ()
 
-tech-name: Host Master
-tech-company: united-domains AG
-tech-address: Gautinger Str. 10
-tech-city: Starnberg
-tech-state: Bayern
-tech-country: DE
-tech-postcode: 82319
-tech-telephone: +49.8151368670
-tech-fax: +49.81513686777
-tech-email: hostmaster@united-domains.de
+   Fax:
+   39 Sunset Trail
+   Sparta, NJ 07871
+   US
 
-billing-name: Host Master
-billing-company: united-domains AG
-billing-address: Gautinger Str. 10
-billing-city: Starnberg
-billing-state: Bayern
-billing-country: DE
-billing-postcode: 82319
-billing-telephone: +49.8151368670
-billing-fax: +49.81513686777
-billing-email: hostmaster@united-domains.de
+Status: Locked
 
-# Please register your domains at:
-# http://www.united-domains.de/
+Name Servers:
+   NS1.FROSTBYTEDNS.COM
+   NS2.FROSTBYTEDNS.COM
 
+Creation date: 28 Jan 2007 18:46:03
+Expiration date: 28 Jan 2013 18:46:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

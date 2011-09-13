@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOONOT.COM
-   Registrar: UNITED-DOMAINS AG
-   Whois Server: whois.udag.net
-   Referral URL: http://www.united-domains.de
-   Name Server: NS1.DYNAMIC-NET.CH
-   Name Server: NS2.DYNAMIC-NET.CH
-   Status: ok
-   Updated Date: 10-jun-2011
-   Creation Date: 04-may-2007
-   Expiration Date: 04-may-2012
+   Domain Name: KHOV.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: clientTransferProhibited
+   Updated Date: 03-aug-2009
+   Creation Date: 20-aug-1996
+   Expiration Date: 19-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:59:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-# Whois Server Version 1.30
-#
-# Terms and conditions:
-#
-# This data is provided by united-domains AG
-# for information purposes, and to assist persons obtaining information
-# about or related to domain name registration records.
-# united-domains AG does not guarantee its accuracy.
-# By submitting a WHOIS query, you agree that you will use this data
-# only for lawful purposes and that, under no circumstances, you will
-# use this data to
-# 1) allow, enable, or otherwise support the transmission of mass
-# unsolicited, commercial advertising or solicitations via E-mail
-# (spam); or
-# 2) enable high volume, automated, electronic processes that apply
-# to this WHOIS server.
-# These terms may be changed without prior notice.
-# By submitting this query, you agree to abide by this policy.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-request for: doonot.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-nameserver1: ns1.dynamic-net.ch
-nameserver2: ns2.dynamic-net.ch
+http://www.networksolutions.com/whois/index.jhtml
 
-owner-name: Patrick Breiter
-owner-address: Ruetimattstr.
-owner-city: Mosen
-owner-state: CH
-owner-country: CH
-owner-postcode: 6295
-owner-telephone: +41.9173173
-owner-fax:
-owner-email: patrick.breiter@bluewin.ch
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-admin-name: Patrick Breiter
-admin-address: Ruetimattstr.
-admin-city: Mosen
-admin-state: CH
-admin-country: CH
-admin-postcode: 6295
-admin-telephone: +41.9173173
-admin-fax:
-admin-email: patrick.breiter@bluewin.ch
-
-tech-name: Host Master
-tech-company: united-domains AG
-tech-address: Gautinger Str. 10
-tech-city: Starnberg
-tech-state: Bayern
-tech-country: DE
-tech-postcode: 82319
-tech-telephone: +49.8151368670
-tech-fax: +49.81513686777
-tech-email: hostmaster@united-domains.de
-
-billing-name: Host Master
-billing-company: united-domains AG
-billing-address: Gautinger Str. 10
-billing-city: Starnberg
-billing-state: Bayern
-billing-country: DE
-billing-postcode: 82319
-billing-telephone: +49.8151368670
-billing-fax: +49.81513686777
-billing-email: hostmaster@united-domains.de
-
-# Please register your domains at:
-# http://www.united-domains.de/
-
+Whois Query: khov.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 22:49:31 EDT 2011
+Reason Code: IE

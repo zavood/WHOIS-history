@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOONOT.COM
-   Registrar: UNITED-DOMAINS AG
-   Whois Server: whois.udag.net
-   Referral URL: http://www.united-domains.de
-   Name Server: NS1.DYNAMIC-NET.CH
-   Name Server: NS2.DYNAMIC-NET.CH
-   Status: ok
-   Updated Date: 10-jun-2011
-   Creation Date: 04-may-2007
-   Expiration Date: 04-may-2012
+   Domain Name: PODJOCKEY.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS3.PODJOCKEY.COM
+   Name Server: NS4.PODJOCKEY.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 03-jun-2011
+   Creation Date: 13-jun-2005
+   Expiration Date: 13-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-# Whois Server Version 1.30
-#
-# Terms and conditions:
-#
-# This data is provided by united-domains AG
-# for information purposes, and to assist persons obtaining information
-# about or related to domain name registration records.
-# united-domains AG does not guarantee its accuracy.
-# By submitting a WHOIS query, you agree that you will use this data
-# only for lawful purposes and that, under no circumstances, you will
-# use this data to
-# 1) allow, enable, or otherwise support the transmission of mass
-# unsolicited, commercial advertising or solicitations via E-mail
-# (spam); or
-# 2) enable high volume, automated, electronic processes that apply
-# to this WHOIS server.
-# These terms may be changed without prior notice.
-# By submitting this query, you agree to abide by this policy.
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
-request for: doonot.com
 
-nameserver1: ns1.dynamic-net.ch
-nameserver2: ns2.dynamic-net.ch
+Registrant:
+   Matthew B. Harrison
 
-owner-name: Patrick Breiter
-owner-address: Ruetimattstr.
-owner-city: Mosen
-owner-state: CH
-owner-country: CH
-owner-postcode: 6295
-owner-telephone: +41.9173173
-owner-fax:
-owner-email: patrick.breiter@bluewin.ch
+   Registered through: YourDentalTech.com
+   Domain Name: PODJOCKEY.COM
 
-admin-name: Patrick Breiter
-admin-address: Ruetimattstr.
-admin-city: Mosen
-admin-state: CH
-admin-country: CH
-admin-postcode: 6295
-admin-telephone: +41.9173173
-admin-fax:
-admin-email: patrick.breiter@bluewin.ch
+   Domain servers in listed order:
+      NS3.PODJOCKEY.COM
+      NS4.PODJOCKEY.COM
 
-tech-name: Host Master
-tech-company: united-domains AG
-tech-address: Gautinger Str. 10
-tech-city: Starnberg
-tech-state: Bayern
-tech-country: DE
-tech-postcode: 82319
-tech-telephone: +49.8151368670
-tech-fax: +49.81513686777
-tech-email: hostmaster@united-domains.de
 
-billing-name: Host Master
-billing-company: united-domains AG
-billing-address: Gautinger Str. 10
-billing-city: Starnberg
-billing-state: Bayern
-billing-country: DE
-billing-postcode: 82319
-billing-telephone: +49.8151368670
-billing-fax: +49.81513686777
-billing-email: hostmaster@united-domains.de
-
-# Please register your domains at:
-# http://www.united-domains.de/
-
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=PODJOCKEY.COM&amp;prog_id=yourdentaltech

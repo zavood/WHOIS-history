@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOONOT.COM
-   Registrar: UNITED-DOMAINS AG
-   Whois Server: whois.udag.net
-   Referral URL: http://www.united-domains.de
-   Name Server: NS1.DYNAMIC-NET.CH
-   Name Server: NS2.DYNAMIC-NET.CH
+   Domain Name: VINTAGEMACWORLD.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS00.NS0.COM
+   Name Server: NS194.PAIR.COM
    Status: ok
-   Updated Date: 10-jun-2011
-   Creation Date: 04-may-2007
-   Expiration Date: 04-may-2012
+   Updated Date: 14-nov-2008
+   Creation Date: 16-oct-2005
+   Expiration Date: 16-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+  Phil Beesley
+  29 St Annes Drive
+  Leicester, Leicestershire LE2 8HU
+  GB
 
-# Whois Server Version 1.30
-#
-# Terms and conditions:
-#
-# This data is provided by united-domains AG
-# for information purposes, and to assist persons obtaining information
-# about or related to domain name registration records.
-# united-domains AG does not guarantee its accuracy.
-# By submitting a WHOIS query, you agree that you will use this data
-# only for lawful purposes and that, under no circumstances, you will
-# use this data to
-# 1) allow, enable, or otherwise support the transmission of mass
-# unsolicited, commercial advertising or solicitations via E-mail
-# (spam); or
-# 2) enable high volume, automated, electronic processes that apply
-# to this WHOIS server.
-# These terms may be changed without prior notice.
-# By submitting this query, you agree to abide by this policy.
+  beesley@mandrake.demon.co.uk
+   +44.1162522249
+   +44.1162522828
 
-request for: doonot.com
+Domain Name: VINTAGEMACWORLD.COM
 
-nameserver1: ns1.dynamic-net.ch
-nameserver2: ns2.dynamic-net.ch
+Administrative &amp; Technical Contact:
+  Phil Beesley
+  29 St Annes Drive
+  Leicester, Leicestershire LE2 8HU
+  GB
 
-owner-name: Patrick Breiter
-owner-address: Ruetimattstr.
-owner-city: Mosen
-owner-state: CH
-owner-country: CH
-owner-postcode: 6295
-owner-telephone: +41.9173173
-owner-fax:
-owner-email: patrick.breiter@bluewin.ch
+  beesley@mandrake.demon.co.uk
+   +44.1162522249
+   +44.1162522828
 
-admin-name: Patrick Breiter
-admin-address: Ruetimattstr.
-admin-city: Mosen
-admin-state: CH
-admin-country: CH
-admin-postcode: 6295
-admin-telephone: +41.9173173
-admin-fax:
-admin-email: patrick.breiter@bluewin.ch
+Domain Name Servers:
+  NS00.NS0.COM
+  NS194.PAIR.COM
 
-tech-name: Host Master
-tech-company: united-domains AG
-tech-address: Gautinger Str. 10
-tech-city: Starnberg
-tech-state: Bayern
-tech-country: DE
-tech-postcode: 82319
-tech-telephone: +49.8151368670
-tech-fax: +49.81513686777
-tech-email: hostmaster@united-domains.de
+Transfer-Lock Status: ENABLED
 
-billing-name: Host Master
-billing-company: united-domains AG
-billing-address: Gautinger Str. 10
-billing-city: Starnberg
-billing-state: Bayern
-billing-country: DE
-billing-postcode: 82319
-billing-telephone: +49.8151368670
-billing-fax: +49.81513686777
-billing-email: hostmaster@united-domains.de
+ Created:     October 16, 2005
+Modified:     November 14, 2008
+ Expires:     October 16, 2014
 
-# Please register your domains at:
-# http://www.united-domains.de/
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
 
