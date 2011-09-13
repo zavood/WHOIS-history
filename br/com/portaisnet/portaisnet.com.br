@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 01:12:19 (BRT -03:00)
+
+domain:      portaisnet.com.br
+owner:       SmartSys Informatica
+ownerid:     001.270.207/0001-49
+responsible: Jos&eacute; Augusto Guimar&atilde;es
+country:     BR
+owner-c:     JAG65
+admin-c:     JAG65
+tech-c:      JAG65
+billing-c:   JAG65
+nserver:     ns1.portaisnet.com.br 69.26.176.28
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.portaisnet.com.br 66.231.180.140
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.portaisnet.com.br 69.26.176.208
+nsstat:      20110912 TIMEOUT
+nslastaa:    20110207
+nserver:     ns4.portaisnet.com.br 66.117.40.216
+nsstat:      20110912 TIMEOUT
+nslastaa:    20110404
+created:     20031004 #1385810
+expires:     20111004
+changed:     20101026
+status:      published
+
+nic-hdl-br:  JAG65
+person:      Jos&eacute; Augusto Guimaraes
+e-mail:      JAugustoGuimaraes@gmail.com
+created:     20000329
+changed:     20110529
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
