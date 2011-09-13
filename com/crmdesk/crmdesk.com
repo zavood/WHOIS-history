@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URBANDADDY.COM
+   Domain Name: CRMDESK.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS-1494.AWSDNS-58.ORG
-   Name Server: NS-1830.AWSDNS-36.CO.UK
-   Name Server: NS-207.AWSDNS-25.COM
-   Name Server: NS-624.AWSDNS-14.NET
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 19-sep-2004
-   Expiration Date: 19-sep-2019
+   Updated Date: 07-sep-2011
+   Creation Date: 29-may-2002
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:53:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:52:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   UrbanDaddy
+   ForeSoft Corporation
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: URBANDADDY.COM
+   Domain Name: CRMDESK.COM
 
    Domain servers in listed order:
-      NS-207.AWSDNS-25.COM
-      NS-1494.AWSDNS-58.ORG
-      NS-624.AWSDNS-14.NET
-      NS-1830.AWSDNS-36.CO.UK
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=URBANDADDY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CRMDESK.COM

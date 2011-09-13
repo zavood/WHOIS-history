@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1989691-LROR
+Domain Name:MVPS.ORG
+Created On:28-Jan-1997 05:00:00 UTC
+Last Updated On:26-Feb-2011 04:48:45 UTC
+Expiration Date:29-Jan-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30779013
+Registrant Name:Felix Kasza
+Registrant Street1:6824 156th Place NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:Washington
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.2062353291
+Registrant Phone Ext.:
+Registrant FAX:+1.2062353291
+Registrant FAX Ext.:
+Registrant Email:fk@mvps.org
+Admin ID:CR30779015
+Admin Name:Felix Kasza
+Admin Street1:6824 156th Place NE
+Admin Street2:
+Admin Street3:
+Admin City:Redmond
+Admin State/Province:Washington
+Admin Postal Code:98052
+Admin Country:US
+Admin Phone:+1.2062353291
+Admin Phone Ext.:
+Admin FAX:+1.2062353291
+Admin FAX Ext.:
+Admin Email:fk@mvps.org
+Tech ID:CR30779014
+Tech Name:Felix Kasza
+Tech Street1:6824 156th Place NE
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:Washington
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.2062353291
+Tech Phone Ext.:
+Tech FAX:+1.2062353291
+Tech FAX Ext.:
+Tech Email:fk@mvps.org
+Name Server:NS1.MVPS.ORG
+Name Server:NS2.MVPS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

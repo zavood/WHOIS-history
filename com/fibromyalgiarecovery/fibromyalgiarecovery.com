@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URBANDADDY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS-1494.AWSDNS-58.ORG
-   Name Server: NS-1830.AWSDNS-36.CO.UK
-   Name Server: NS-207.AWSDNS-25.COM
-   Name Server: NS-624.AWSDNS-14.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: FIBROMYALGIARECOVERY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.BCENTRALHOST.COM
+   Name Server: NS2.BCENTRALHOST.COM
+   Name Server: NS3.BCENTRALHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 19-sep-2004
-   Expiration Date: 19-sep-2019
+   Updated Date: 19-mar-2011
+   Creation Date: 07-apr-2004
+   Expiration Date: 07-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:53:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:51:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... fibromyalgiarecovery.com
+  Creation Date........ 2004-04-08
+  Registration Date.... 2004-04-08
+  Expiry Date.......... 2016-04-08
+  Organisation Name.... Fibromyalgia Recovery Group
+  Organisation Address. 3814 E. Mallory St.
+  Organisation Address.
+  Organisation Address. Mesa
+  Organisation Address. 85215
+  Organisation Address. AZ
+  Organisation Address. UNITED STATES
+
+Admin Name........... Brenda Frandsen
+  Admin Address........ 3814 E. Mallory St.
+  Admin Address........
+  Admin Address........ Mesa
+  Admin Address........ 85215
+  Admin Address........ AZ
+  Admin Address........ UNITED STATES
+  Admin Email.......... brendafrandsen@cox.net
+  Admin Phone.......... 480-832-5733
+  Admin Fax............ 480-832-6551
+
+Tech Name............ XO Communications
+  Tech Address......... 4800 Concentric Boulevard
+  Tech Address.........
+  Tech Address......... Saginaw
+  Tech Address......... 48604
+  Tech Address......... MI
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@bcentralhost.com
+  Tech Phone........... 1.86649597
+  Tech Fax.............
+  Name Server.......... ns1.bcentralhost.com
+  Name Server.......... ns2.bcentralhost.com
+  Name Server.......... ns3.bcentralhost.com
 
 
-Registrant:
-   UrbanDaddy
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: URBANDADDY.COM
-
-   Domain servers in listed order:
-      NS-207.AWSDNS-25.COM
-      NS-1494.AWSDNS-58.ORG
-      NS-624.AWSDNS-14.NET
-      NS-1830.AWSDNS-36.CO.UK
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=URBANDADDY.COM

@@ -1,0 +1,121 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; decus.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      decus.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DF281-FRNIC
+admin-c:     MM6577-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      DC547-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL835-FRNIC
+registrar:   RENATER
+anniversary: 29/09
+created:     12/07/1995
+last-update: 21/12/2004
+source:      FRNIC
+
+ns-list:     NSL835-FRNIC
+nserver:     decus.decus.fr [81.255.211.5]
+nserver:     asimov.cnam.fr [163.173.128.6]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     DF281-FRNIC
+type:        ORGANIZATION
+contact:     DECUS FRANCE
+address:     91005 Evry
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     MM6577-FRNIC
+type:        PERSON
+contact:     Marie-Christine Monget
+address:     Institut National des Telecommunications
+address:     9, rue Charles Fourier
+address:     91011 Evry Cedex
+country:     FR
+phone:       +33 1 60 76 45 06
+fax-no:      +33 1 60 78 38 78
+e-mail:      mcm@int-evry.fr
+notify:      mcm@int-evry.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DC547-FRNIC
+type:        PERSON
+contact:     Daniel Clar
+address:     Ecole Superieure d'Electricite, SUPELEC
+address:     Plateau du Moulon
+address:     91190 Gif-sur-Yvette Cedex
+country:     FR
+phone:       +33 1 69 85 14 87
+fax-no:      +33 1 69 85 12 34
+e-mail:      daniel.clar@supelec.fr
+notify:      daniel.clar@supelec.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

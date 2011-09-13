@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D417769-LROR
+Domain Name:IUCU.ORG
+Created On:02-Jul-1996 04:00:00 UTC
+Last Updated On:04-Apr-2011 16:26:26 UTC
+Expiration Date:01-Jul-2019 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29512002-NSIV
+Registrant Name:Indiana University EmployeesFederal Credit Union
+Registrant Organization:Indiana University EmployeesFederal Credit Union
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pa6zp3rt79f@networksolutionsprivateregistration.com
+Admin ID:29512003-NSIV
+Admin Name:IUCU Admin
+Admin Organization:IU Credit Union
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kk2nf54s9jw@networksolutionsprivateregistration.com
+Tech ID:29512003-NSIV
+Tech Name:IUCU Admin
+Tech Organization:IU Credit Union
+Tech Street1:ATTN insert domain name here
+Tech Street2:care of Network Solutions
+Tech Street3:
+Tech City:Drums
+Tech State/Province:PA
+Tech Postal Code:18222
+Tech Country:US
+Tech Phone:+1.5707088780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kk2nf54s9jw@networksolutionsprivateregistration.com
+Name Server:NS1.DNSPARK.NET
+Name Server:NS2.DNSPARK.NET
+Name Server:NS3.DNSPARK.NET
+Name Server:NS4.DNSPARK.NET
+Name Server:NS5.DNSPARK.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
