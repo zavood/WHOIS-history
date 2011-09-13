@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:56:51 (BRT -03:00)
+
+domain:      adigito.com.br
+owner:       Nildo Vicenzi
+ownerid:     180.907.379-00
+country:     BR
+owner-c:     KLTVI3
+admin-c:     KLTVI3
+tech-c:      KLTVI3
+billing-c:   KLTVI3
+nserver:     ns1.adigito.com.br 69.175.54.250
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.adigito.com.br 69.175.54.251
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20091008 #6105688
+expires:     20111008
+changed:     20100921
+status:      published
+
+nic-hdl-br:  KLTVI3
+person:      Kl&eacute;ber Terc&iacute;lio Vicenzi
+e-mail:      klebervicenzi@gmail.com
+created:     20091008
+changed:     20110601
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
