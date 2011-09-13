@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DISNEYBLURAY3D.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: TREESAGAIN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HOSTMONSTER.COM
+   Name Server: NS2.HOSTMONSTER.COM
    Status: clientTransferProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 04-jan-2010
-   Expiration Date: 04-jan-2012
+   Updated Date: 05-sep-2011
+   Creation Date: 03-oct-2010
+   Expiration Date: 03-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:11:27 UTC &lt;&lt;&lt;
 
@@ -53,43 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... disneybluray3d.com
-  Creation Date........ 2010-01-05
-  Registration Date.... 2010-01-05
-  Expiry Date.......... 2012-01-05
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
-  Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
-  Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+=-=-=-=
+Visit AboutUs.org for more information about treesagain.com
+&lt;a href=&quot;http://www.aboutus.org/treesagain.com&quot;&gt;AboutUs: treesagain.com&lt;/a&gt;
 
 
+Domain name: treesagain.com
+
+Administrative Contact:
+
+   rodney kress (teenmodelingtv@gmail.com)
+   +1.5404091434
+   Fax:
+   P.O. Box 18863
+   Boulder, CO 80308
+   US
+
+Technical Contact:
+
+   rodney kress (teenmodelingtv@gmail.com)
+   +1.5404091434
+   Fax:
+   P.O. Box 18863
+   Boulder, CO 80308
+   US
+
+Registrant Contact:
+
+   rodney kress ()
+
+   Fax:
+   P.O. Box 18863
+   Boulder, CO 80308
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.hostmonster.com
+   ns2.hostmonster.com
+
+Creation date: 04 Oct 2010 01:23:46
+Expiration date: 04 Oct 2012 01:23:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

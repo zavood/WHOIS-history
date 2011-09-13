@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DISNEYBLURAY3D.COM
+   Domain Name: FAMILYHEALTHBUDGET.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 07-dec-2010
-   Creation Date: 04-jan-2010
-   Expiration Date: 04-jan-2012
+   Updated Date: 06-may-2010
+   Creation Date: 25-jun-2004
+   Expiration Date: 25-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:11:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:10:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... disneybluray3d.com
-  Creation Date........ 2010-01-05
-  Registration Date.... 2010-01-05
-  Expiry Date.......... 2012-01-05
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
+Domain Name.......... familyhealthbudget.com
+  Creation Date........ 2004-06-26
+  Registration Date.... 2010-05-07
+  Expiry Date.......... 2012-06-26
+  Organisation Name.... Humana Inc.
+  Organisation Address. 500 West Main St.
   Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
+  Organisation Address. Louisville
+  Organisation Address. 40202
+  Organisation Address. Kentucky
   Organisation Address. UNITED STATES
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
+Admin Name........... Admin .
+  Admin Address........ 500 West Main Street
   Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
+  Admin Address........ Louisville
+  Admin Address........ 40202
+  Admin Address........ KY
   Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
+  Admin Email.......... domainadmin@humana.com
+  Admin Phone.......... +1.5025801000
   Admin Fax............
 
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
+Tech Name............ Admin .
+  Tech Address......... 500 West Main Street
   Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
+  Tech Address......... Louisville
+  Tech Address......... 40202
+  Tech Address......... KY
   Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
+  Tech Email........... domainadmin@humana.com
+  Tech Phone........... +1.5025801000
   Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
+  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
 
 
