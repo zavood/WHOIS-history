@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELELOGIC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS.ALMADEN.IBM.COM
-   Name Server: NS.WATSON.IBM.COM
-   Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 05-apr-1995
-   Expiration Date: 06-apr-2016
+   Domain Name: CQJMXX.COM
+   Registrar: HANG ZHOU E-BUSINESS SERVICES CO.LTD.
+   Whois Server: whois.eb.com.cn
+   Referral URL: http://www.eb.com.cn
+   Name Server: NS1.NDNS.CN
+   Name Server: NS2.NDNS.CN
+   Status: ok
+   Updated Date: 28-nov-2010
+   Creation Date: 28-nov-2010
+   Expiration Date: 28-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:28:05 UTC &lt;&lt;&lt;
 
@@ -52,40 +52,43 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... telelogic.com
-  Creation Date........ 1995-04-05
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2016-04-07
-  Organisation Name.... International Business Machines Corporation
-  Organisation Address. New Orchard Road
-  Organisation Address.
-  Organisation Address. Armonk
-  Organisation Address. 10504
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
 
-Admin Name........... IBM DNS Admin
-  Admin Address........ IBM Corporation
-  Admin Address........ New Orchard Road
-  Admin Address........ Armonk
-  Admin Address........ 10504
-  Admin Address........ NY
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsadm@us.ibm.com
-  Admin Phone.......... +1.9147654227
-  Admin Fax............ +1.9147654370
+Domain name: cqjmxx.com
 
-Tech Name............ IBM DNS Technical
-  Tech Address......... IBM Corporation
-  Tech Address......... New Orchard Road
-  Tech Address......... Armonk
-  Tech Address......... 10504
-  Tech Address......... NY
-  Tech Address......... UNITED STATES
-  Tech Email........... ipreg@us.ibm.com
-  Tech Phone........... +1.9192544441
-  Tech Fax............. +1.9147654370
-  Name Server.......... NS.ALMADEN.IBM.COM
-  Name Server.......... NS.WATSON.IBM.COM
+Registrant Contact:
+  yu hong fei
+  fei yu hong
+  191528514@qq.com
+  tel: +86.02358116915
+  fax: +86.02358116915
+  chong qing zhong qing wan zhou qu zhong tian guang chang
+  CN
+
+Administrative Contact:
+  yu hong fei
+  fei yu hong
+  191528514@qq.com
+  tel: +86.02358116915
+  fax: +86.02358116915
+  chong qing zhong qing wan zhou qu zhong tian guang chang
+  CN
+
+Technical Contact:
+  yu hong fei
+  fei yu hong
+  191528514@qq.com
+  tel: +86.02358116915
+  fax: +86.02358116915
+  chong qing zhong qing wan zhou qu zhong tian guang chang
+  CN
+
+Billing Contact:
+  yu hong fei
+  fei yu hong
+  191528514@qq.com
+  tel: +86.02358116915
+  fax: +86.02358116915
+  chong qing zhong qing wan zhou qu zhong tian guang chang
+  CN
 
 

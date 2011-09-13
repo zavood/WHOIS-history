@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 16:28:37 (BRT -03:00)
+
+domain:      acreunagoias.com.br
+owner:       PREFEITURA MUNICIPAL DE ACRE&Uacute;NA
+ownerid:     007.048.956/0001-02
+responsible: Miguel Filho
+country:     BR
+owner-c:     PMAGO
+admin-c:     LTL154
+tech-c:      PMAGO
+billing-c:   PMAGO
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20090623 #5671703
+expires:     20130623
+changed:     20110608
+status:      published
+
+nic-hdl-br:  LTL154
+person:      L.A.M Tecnologia e Internet Ltda.
+e-mail:      miguelgomesfilho@hotmail.com
+created:     20041122
+changed:     20061018
+
+nic-hdl-br:  PMAGO
+person:      Prefeitura Municipal de Acre&uacute;na Goi&aacute;s
+e-mail:      ti@acreunagoias.com.br
+created:     20100614
+changed:     20100614
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

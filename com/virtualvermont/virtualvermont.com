@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELELOGIC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS.ALMADEN.IBM.COM
-   Name Server: NS.WATSON.IBM.COM
+   Domain Name: VIRTUALVERMONT.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.MYHOSTSERVERS.NET
+   Name Server: NS2.MYHOSTSERVERS.NET
+   Name Server: NS3.MYHOSTSERVERS.NET
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 05-apr-1995
-   Expiration Date: 06-apr-2016
+   Updated Date: 17-may-2011
+   Creation Date: 16-mar-1998
+   Expiration Date: 15-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:28:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:27:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +52,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain virtualvermont.com
 
-Domain Name.......... telelogic.com
-  Creation Date........ 1995-04-05
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2016-04-07
-  Organisation Name.... International Business Machines Corporation
-  Organisation Address. New Orchard Road
-  Organisation Address.
-  Organisation Address. Armonk
-  Organisation Address. 10504
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
+Date Registered: 1998-3-16
+Date Modified: 2011-5-17
+Expiry Date: 2014-3-15
 
-Admin Name........... IBM DNS Admin
-  Admin Address........ IBM Corporation
-  Admin Address........ New Orchard Road
-  Admin Address........ Armonk
-  Admin Address........ 10504
-  Admin Address........ NY
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsadm@us.ibm.com
-  Admin Phone.......... +1.9147654227
-  Admin Fax............ +1.9147654370
+DNS1: ns1.myhostservers.net
+DNS2: ns3.myhostservers.net
+DNS3: ns2.myhostservers.net
 
-Tech Name............ IBM DNS Technical
-  Tech Address......... IBM Corporation
-  Tech Address......... New Orchard Road
-  Tech Address......... Armonk
-  Tech Address......... 10504
-  Tech Address......... NY
-  Tech Address......... UNITED STATES
-  Tech Email........... ipreg@us.ibm.com
-  Tech Phone........... +1.9192544441
-  Tech Fax............. +1.9147654370
-  Name Server.......... NS.ALMADEN.IBM.COM
-  Name Server.......... NS.WATSON.IBM.COM
+Registrant
+    Virtual Vermont Internet Services
+    Matthew Wills  webadmin05@virtualvermont.com
+    18 School Street
+    05476 Richford
+    United States
+    Tel: +1.8028488087
 
+Administrative Contact
+    Virtual Vermont Internet Services
+    Matthew Wills  webadmin05@virtualvermont.com
+    18 School Street
+    05476 Richford
+    United States
+    Tel: +1.8028488087
 
+Technical Contact
+    Virtual Vermont Internet Services
+    Matthew Wills  webadmin05@virtualvermont.com
+    18 School Street
+    05476 Richford
+    United States
+    Tel: +1.8028488087
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

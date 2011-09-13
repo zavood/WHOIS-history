@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELELOGIC.COM
+   Domain Name: RAMSET-REDHEAD.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: NS.ALMADEN.IBM.COM
-   Name Server: NS.WATSON.IBM.COM
+   Name Server: NS1.ITWHOSTING.COM
+   Name Server: NS2.ITWHOSTING.NET
+   Name Server: NS3.ITWHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 05-apr-1995
-   Expiration Date: 06-apr-2016
+   Updated Date: 04-nov-2010
+   Creation Date: 20-dec-1996
+   Expiration Date: 19-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:28:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:27:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +53,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... telelogic.com
-  Creation Date........ 1995-04-05
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2016-04-07
-  Organisation Name.... International Business Machines Corporation
-  Organisation Address. New Orchard Road
+Domain Name.......... ramset-redhead.com
+  Creation Date........ 1996-12-20
+  Registration Date.... 2009-10-27
+  Expiry Date.......... 2011-12-20
+  Organisation Name.... Illinois Tool Works, Inc.
+  Organisation Address. 3600 West Lake Ave
   Organisation Address.
-  Organisation Address. Armonk
-  Organisation Address. 10504
-  Organisation Address. NY
+  Organisation Address. Glenview
+  Organisation Address. 60026
+  Organisation Address. IL
   Organisation Address. UNITED STATES
 
-Admin Name........... IBM DNS Admin
-  Admin Address........ IBM Corporation
-  Admin Address........ New Orchard Road
-  Admin Address........ Armonk
-  Admin Address........ 10504
-  Admin Address........ NY
+Admin Name........... Desk .
+  Admin Address........ 3600 W. Lake Ave.
+  Admin Address........
+  Admin Address........ Glenview
+  Admin Address........ 60026
+  Admin Address........ IL
   Admin Address........ UNITED STATES
-  Admin Email.......... dnsadm@us.ibm.com
-  Admin Phone.......... +1.9147654227
-  Admin Fax............ +1.9147654370
+  Admin Email.......... helpdesk@itw.com
+  Admin Phone.......... +1.8476574349
+  Admin Fax............ +1.8476575336
 
-Tech Name............ IBM DNS Technical
-  Tech Address......... IBM Corporation
-  Tech Address......... New Orchard Road
-  Tech Address......... Armonk
-  Tech Address......... 10504
-  Tech Address......... NY
+Tech Name............ Desk .
+  Tech Address......... 3600 W. Lake Ave.
+  Tech Address.........
+  Tech Address......... Glenview
+  Tech Address......... 60026
+  Tech Address......... IL
   Tech Address......... UNITED STATES
-  Tech Email........... ipreg@us.ibm.com
-  Tech Phone........... +1.9192544441
-  Tech Fax............. +1.9147654370
-  Name Server.......... NS.ALMADEN.IBM.COM
-  Name Server.......... NS.WATSON.IBM.COM
+  Tech Email........... helpdesk@itw.com
+  Tech Phone........... +1.8476574349
+  Tech Fax............. +1.8476575336
+  Name Server.......... NS1.ITWHOSTING.COM
+  Name Server.......... NS3.ITWHOSTING.COM
+  Name Server.......... NS2.ITWHOSTING.NET
 
 

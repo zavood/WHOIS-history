@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELELOGIC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS.ALMADEN.IBM.COM
-   Name Server: NS.WATSON.IBM.COM
+   Domain Name: WIESENHUETTER.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.CYON.CH
+   Name Server: NS2.CYON.CH
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 05-apr-1995
-   Expiration Date: 06-apr-2016
+   Updated Date: 03-aug-2009
+   Creation Date: 04-aug-2000
+   Expiration Date: 04-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:28:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:28:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       wiesenhuetter.com
+owner:        Wiesenhuetter Wilko
+email:        webmaster@wiesenhuetter.com
+address:      Sonnenbergstrasse 3
+city:         Schwerzenbach
+state:        CH
+postal-code:  8603
+country:      CH
+phone:        +41.18256636
+admin-c:      CCOM-24748 webmaster@wiesenhuetter.com
+tech-c:       CCOM-24748 webmaster@wiesenhuetter.com
+billing-c:    CCOM-24748 webmaster@wiesenhuetter.com
+nserver:      ns2.cyon.ch
+nserver:      ns1.cyon.ch
+status:       lock
+created:      2000-08-04 03:15:07 UTC
+modified:     2009-08-03 20:39:02 UTC
+expires:      2014-08-04 07:15:07 UTC
+query-source: 174.142.225.246
 
-Domain Name.......... telelogic.com
-  Creation Date........ 1995-04-05
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2016-04-07
-  Organisation Name.... International Business Machines Corporation
-  Organisation Address. New Orchard Road
-  Organisation Address.
-  Organisation Address. Armonk
-  Organisation Address. 10504
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
+contact-hdl:  CCOM-24748
+person:       Wiesenhuetter Wilko
+email:        webmaster@wiesenhuetter.com
+address:      Sonnenbergstrasse 32
+city:         Schwerzenbach
+state:        CH
+postal-code:  8603
+country:      CH
+phone:        +41.18256636
 
-Admin Name........... IBM DNS Admin
-  Admin Address........ IBM Corporation
-  Admin Address........ New Orchard Road
-  Admin Address........ Armonk
-  Admin Address........ 10504
-  Admin Address........ NY
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsadm@us.ibm.com
-  Admin Phone.......... +1.9147654227
-  Admin Fax............ +1.9147654370
-
-Tech Name............ IBM DNS Technical
-  Tech Address......... IBM Corporation
-  Tech Address......... New Orchard Road
-  Tech Address......... Armonk
-  Tech Address......... 10504
-  Tech Address......... NY
-  Tech Address......... UNITED STATES
-  Tech Email........... ipreg@us.ibm.com
-  Tech Phone........... +1.9192544441
-  Tech Fax............. +1.9147654370
-  Name Server.......... NS.ALMADEN.IBM.COM
-  Name Server.......... NS.WATSON.IBM.COM
-
-
+source:       joker.com live whois service
+query-time:   0.03161
+db-updated:   2011-09-13 19:28:45
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.
