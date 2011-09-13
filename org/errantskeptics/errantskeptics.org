@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8266617-LROR
+Domain Name:ERRANTSKEPTICS.ORG
+Created On:21-Jul-1999 20:44:05 UTC
+Last Updated On:08-Jul-2008 19:21:58 UTC
+Expiration Date:21-Jul-2013 20:44:05 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30924947-NSI
+Registrant Name:The Errant Skeptics Institute
+Registrant Organization:The Errant Skeptics Institute
+Registrant Street1:9987 Edelweiss Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shawnee-Mission
+Registrant State/Province:KS
+Registrant Postal Code:66203-4612
+Registrant Country:US
+Registrant Phone:+1.91326830
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:DrGary777@AOL.COM
+Admin ID:15922627-NSI
+Admin Name:Kansans for Life
+Admin Organization:Kansans for Life
+Admin Street1:PO BOX 4448
+Admin Street2:
+Admin Street3:
+Admin City:OVERLAND PARK
+Admin State/Province:KS
+Admin Postal Code:66204-0448
+Admin Country:US
+Admin Phone:+1.9132683034
+Admin Phone Ext.:
+Admin FAX:+1.9132688486
+Admin FAX Ext.:
+Admin Email:DrGary777@AOL.COM
+Tech ID:5360048-NSI
+Tech Name:Icom DNS Hostmaster
+Tech Street1:7787 Sunset Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Los Angeles
+Tech State/Province:CA
+Tech Postal Code:90046
+Tech Country:US
+Tech Phone:+1.3234360247
+Tech Phone Ext.:
+Tech FAX:+1.3234360248
+Tech FAX Ext.:
+Tech Email:lori@beaveranimalclinic.com
+Name Server:NS2.WEBHOSTINGSERVERS.NET
+Name Server:NS.WEBHOSTINGSERVERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

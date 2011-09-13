@@ -1,0 +1,38 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUROCONTROL.INT
+
+organisation: EuroControl
+address:      Rue de la fusee, 96
+address:      Brussels Brussels 1130
+address:      Belgium
+
+contact:      administrative
+name:         Eric Roelants
+address:      Rue de la fusee, 96
+address:      Brussels Brussels 1130
+address:      Belgium
+phone:        +3227293058
+fax-no:       +3227293971
+e-mail:       eric.roelants@eurocontrol.int
+
+contact:      technical
+name:         Hostmaster
+organisation: Equant
+address:      400 Cobb Galleria Parkway
+address:      Atlanta GA 30339
+address:      USA
+phone:        +1 678 346 4000
+fax-no:       +1 678 346 4895
+e-mail:       hostmaster@equant.com
+
+nserver:      NS1.EQUANT.NET 57.66.127.194
+nserver:      NS2.EQUANT.NET 57.68.127.194
+nserver:      NS3.EQUANT.NET 57.70.127.194
+
+created:      2001-09-10
+changed:      2007-03-26
+source:       IANA
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2863814-LROR
+Domain Name:KOTTKE.ORG
+Created On:26-Dec-1998 05:00:00 UTC
+Last Updated On:15-Jul-2011 17:43:12 UTC
+Expiration Date:26-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOTR-00398858
+Registrant Name:N/A
+Registrant Organization:0sil8
+Registrant Street1:2419 South 9th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Minneapolis
+Registrant State/Province:MN
+Registrant Postal Code:55406
+Registrant Country:US
+Registrant Phone:+1.6127047891
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jason@0sil8.com
+Admin ID:DOT-XXJS09KHSSD1
+Admin Name:Jason Kottke
+Admin Street1:2419 South 9th Street
+Admin Street2:
+Admin Street3:
+Admin City:Minneapolis
+Admin State/Province:MN
+Admin Postal Code:55406
+Admin Country:US
+Admin Phone:+1.6127047891
+Admin Phone Ext.:
+Admin FAX:+1.6127047733
+Admin FAX Ext.:
+Admin Email:jason@0sil8.com
+Tech ID:DOTC-01575819
+Tech Name:Mark Wilkie
+Tech Organization:Exception Media
+Tech Street1:4944 37th Ave S
+Tech Street2:
+Tech Street3:
+Tech City:Minneapolis
+Tech State/Province:MN
+Tech Postal Code:55417
+Tech Country:US
+Tech Phone:+1.6128390968
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mark@exceptionmedia.com
+Name Server:NS1.THEPLANET.COM
+Name Server:NS2.THEPLANET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

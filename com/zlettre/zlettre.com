@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MP3LIZARD.COM
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: DLLW3.AFTERDAWN.NET
-   Name Server: HEVONEN.AFTERDAWN.NET
+   Domain Name: ZLETTRE.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 14-mar-2000
-   Expiration Date: 14-mar-2014
+   Updated Date: 22-aug-2011
+   Creation Date: 12-nov-2009
+   Expiration Date: 12-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:27:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:27:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,46 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       mp3lizard.com
-owner:        Jari Ketola
-organization: AfterDawn Oy
-email:        domains@afterdawn.com
-address:      PL 14
-address:      PL 14
-city:         Oulu
-postal-code:  90501
-country:      FI
-phone:        +358.451108040
-admin-c:      CCOM-78517 domains@afterdawn.com
-tech-c:       CCOM-78517 domains@afterdawn.com
-billing-c:    CCOM-78517 domains@afterdawn.com
-nserver:      hevonen.afterdawn.net
-nserver:      dllw3.afterdawn.net
-status:       lock
-created:      2000-03-14 17:04:22 UTC
-modified:     2011-08-24 11:46:39 UTC
-expires:      2014-03-14 21:04:22 UTC
-query-source: 174.142.225.246
+Domain Name: zlettre.com
+Registered at http://www.dynadot.com
 
-contact-hdl:  CCOM-78517
-person:       Jari Ketola
-organization: AfterDawn Oy
-email:        domains@afterdawn.com
-address:      PL 14
-city:         Oulu
-postal-code:  90501
-country:      FI
-phone:        +358.451108040
+Registrant:
+Sherman
+Sydney 30 avenue street
+Sydney, 0001 0001
+Austria
 
-source:       joker.com live whois service
-query-time:   0.021293
-db-updated:   2011-09-13 02:27:49
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+Administrative Contact:
+Sherman
+Sydney 30 avenue street
+Sydney, 0001 0001
+Austria
+Sherman2100@gmail.com
++6 55422445544
+
+Technical Contact:
+Sherman
+Sydney 30 avenue street
+Sydney, 0001 0001
+Austria
+Sherman2100@gmail.com
++6 55422445544
+
+Record expires on 2012/11/12 UTC
+Record created on 2009/11/12 UTC
+
+Domain servers in listed order:
+ns1.bluehost.com
+ns2.bluehost.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 19:25:52 PST &lt;&lt;&lt;
+

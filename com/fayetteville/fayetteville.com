@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MP3LIZARD.COM
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: DLLW3.AFTERDAWN.NET
-   Name Server: HEVONEN.AFTERDAWN.NET
+   Domain Name: FAYETTEVILLE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS01.IFWORLD.COM
+   Name Server: NS02.IFWORLD.COM
+   Name Server: NS03.IFWORLD.COM
+   Name Server: NS04.IFWORLD.COM
+   Name Server: NS05.IFWORLD.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 14-mar-2000
-   Expiration Date: 14-mar-2014
+   Status: clientUpdateProhibited
+   Updated Date: 05-nov-2010
+   Creation Date: 30-nov-1995
+   Expiration Date: 29-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:27:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:28:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,46 +56,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       mp3lizard.com
-owner:        Jari Ketola
-organization: AfterDawn Oy
-email:        domains@afterdawn.com
-address:      PL 14
-address:      PL 14
-city:         Oulu
-postal-code:  90501
-country:      FI
-phone:        +358.451108040
-admin-c:      CCOM-78517 domains@afterdawn.com
-tech-c:       CCOM-78517 domains@afterdawn.com
-billing-c:    CCOM-78517 domains@afterdawn.com
-nserver:      hevonen.afterdawn.net
-nserver:      dllw3.afterdawn.net
-status:       lock
-created:      2000-03-14 17:04:22 UTC
-modified:     2011-08-24 11:46:39 UTC
-expires:      2014-03-14 21:04:22 UTC
-query-source: 174.142.225.246
-
-contact-hdl:  CCOM-78517
-person:       Jari Ketola
-organization: AfterDawn Oy
-email:        domains@afterdawn.com
-address:      PL 14
-city:         Oulu
-postal-code:  90501
-country:      FI
-phone:        +358.451108040
-
-source:       joker.com live whois service
-query-time:   0.021293
-db-updated:   2011-09-13 02:27:49
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

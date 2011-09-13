@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:28:34 (BRT -03:00)
+
+domain:      navserver.com.br
+owner:       Navsoft Consultoria e Servi&ccedil;os Ltda.
+ownerid:     003.666.384/0001-74
+responsible: Marcos Machado da Silveira
+country:     BR
+owner-c:     MMS119
+admin-c:     MMS119
+tech-c:      REC32
+billing-c:   MMS119
+nserver:     ns1.navserver.com.br 209.59.244.216
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.navserver.com.br 209.59.244.217
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20030922 #1369062
+expires:     20130922
+changed:     20110825
+status:      published
+
+nic-hdl-br:  MMS119
+person:      Marcos Machado da Silveira
+e-mail:      contato@navsoft.com.br
+created:     20000501
+changed:     20041009
+
+nic-hdl-br:  REC32
+person:      Renato Carvalho
+e-mail:      registro@uweb.com.br
+created:     19990104
+changed:     20080123
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
