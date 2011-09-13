@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; roxio.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      roxio.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    RGCK1-FRNIC
+admin-c:     EC330-FRNIC
+tech-c:      KH1111-FRNIC
+tech-c:      AMH1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1849-FRNIC
+registrar:   Knipp Medien und Kommunikation GmbH
+anniversary: 27/11
+created:     27/11/2002
+last-update: 06/11/2006
+source:      FRNIC
+
+ns-list:     NSL1849-FRNIC
+nserver:     dca-ans-01.inet.qwest.net
+nserver:     svl-ans-01.inet.qwest.net
+source:      FRNIC
+
+registrar:   Knipp Medien und Kommunikation GmbH
+type:        Isp Option 2
+address:     Martin-Schmeisser-Weg 9
+address:     DE-44227 DORTMUND
+country:     DE
+phone:       +49 231 9703 0
+fax-no:      +49 231 9703 200
+e-mail:      cctld@knipp.de
+website:     http://www.knipp.de
+anonymous:   NO
+registered:  02/02/2001
+source:      FRNIC
+
+nic-hdl:     RGCK1-FRNIC
+type:        ORGANIZATION
+contact:     Roxio GmbH &amp; Co. KG
+address:     Jens-Otto-Krag-Strasse 11
+address:     52146 Wuerselen
+country:     DE
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     EC330-FRNIC
+type:        PERSON
+contact:     Eric Charriot
+address:     Roxio Gmbh &amp; Co. Kg
+address:     Jens-Otto-Krag-Strasse 11
+address:     52146 Wuerselen
+country:     FR
+phone:       +49 240545080
+fax-no:      +49 2405450811
+e-mail:      info@roxio.com
+changed:     27/11/2002 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     KH1111-FRNIC
+type:        ROLE
+contact:     Knipp Hostmaster
+address:     Knipp Medien Und Kommunikation Gmbh
+address:     Martin-Schmeisser-Weg 9
+address:     44227 Dortmund
+country:     DE
+phone:       +49 231 9703 0
+e-mail:      ccTLD@knipp.de
+admin-c:     EK40-FRNIC
+tech-c:      EK40-FRNIC
+changed:     29/01/2008 ccTLD@knipp.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMH1-FRNIC
+type:        PERSON
+contact:     Arena Medien Hostmaster
+address:     Arena.Medien GmbH
+address:     Schloss-Rahe-Strasse 15
+address:     52072 Aachen
+address:     DE
+phone:       +49 24193671800
+fax-no:      +49 24193671889
+e-mail:      info@arena-medien.net
+notify:      cctld@knipp.de
+changed:     06/11/2006 ccTLD@knipp.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
