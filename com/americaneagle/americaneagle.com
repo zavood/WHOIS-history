@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CENTRPORT.NET
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS1.DOMAINMANAGER.COM
-   Name Server: NS2.DOMAINMANAGER.COM
-   Status: clientDeleteProhibited
+   Domain Name: AMERICANEAGLE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.AMERICANEAGLE.COM
+   Name Server: NS2.AMERICANEAGLE.COM
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 13-may-1999
-   Expiration Date: 13-may-2012
+   Updated Date: 04-oct-2006
+   Creation Date: 14-nov-1995
+   Expiration Date: 13-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:45:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:45:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain centrport.net:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+http://www.networksolutions.com/whois/index.jhtml
 
-Record dates:
-  Record created on: 1999-05-14 03:15:36 UTC
-  Record modified on: 2011-08-16 07:07:51 UTC
-  Record expires on: 2012-05-14 UTC
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Nameservers:
-  ns1.domainmanager.com:
-    174.120.244.229
-  ns2.domainmanager.com:
-    208.87.34.18
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+Whois Query: americaneagle.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 22:35:59 EDT 2011
+Reason Code: IE

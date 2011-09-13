@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CENTRPORT.NET
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS1.DOMAINMANAGER.COM
-   Name Server: NS2.DOMAINMANAGER.COM
+   Domain Name: MERITREALTYGROUP.COM
+   Registrar: ALLINDOMAINS, LLC
+   Whois Server: whois.allindomains.com
+   Referral URL: http://www.allindomains.com
+   Name Server: NS1.EPROSPECTING.NET
+   Name Server: NS2.EPROSPECTING.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 13-may-1999
-   Expiration Date: 13-may-2012
+   Status: clientUpdateProhibited
+   Updated Date: 22-dec-2010
+   Creation Date: 16-dec-2004
+   Expiration Date: 16-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:45:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:45:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +54,60 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain centrport.net:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+   Domain Services Provided By:
+      Alldomains.com, support@alldomains.com
+       http://www.alldomains.com
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Registrant:
+   michelle zwart
+   4299 willow pond circle
+   west palm beach, fl  33417
+   us
 
-Record dates:
-  Record created on: 1999-05-14 03:15:36 UTC
-  Record modified on: 2011-08-16 07:07:51 UTC
-  Record expires on: 2012-05-14 UTC
+   Registrar: ALLINDOM
+   Domain Name: MERITREALTYGROUP.COM
+      Created on: 16-DEC-04
+      Expires on: 17-DEC-12
+      Last Updated on: 22-DEC-10
 
-Nameservers:
-  ns1.domainmanager.com:
-    174.120.244.229
-  ns2.domainmanager.com:
-    208.87.34.18
+   Administrative Contact:
+      zwart, michelle  mzwart@adelphia.net
+      michelle zwart
+      4299 willow pond circle
+      west palm beach, fl  33417
+      us
+      +1.5616156463
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Technical Contact:
+      zwart, michelle  mzwart@adelphia.net
+      michelle zwart
+      4299 willow pond circle
+      west palm beach, fl  33417
+      us
+      +1.5616156463
 
+
+   Domain servers in listed order:
+      NS1.EPROSPECTING.NET
+      NS2.EPROSPECTING.NET
+
+End of Whois Information

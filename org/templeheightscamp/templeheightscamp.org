@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101672688-LROR
+Domain Name:TEMPLEHEIGHTSCAMP.ORG
+Created On:12-Oct-2003 01:33:16 UTC
+Last Updated On:02-Dec-2009 01:34:10 UTC
+Expiration Date:12-Oct-2013 01:33:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30677768
+Registrant Name:Graham Connolly
+Registrant Street1:66 Martin Heights
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raymond
+Registrant State/Province:Maine
+Registrant Postal Code:04071
+Registrant Country:US
+Registrant Phone:+1.2076556673
+Registrant Phone Ext.:
+Registrant FAX:+1.2076556673
+Registrant FAX Ext.:
+Registrant Email:gconnol1@maine.rr.com
+Admin ID:CR30677770
+Admin Name:Graham Connolly
+Admin Street1:66 Martin Heights
+Admin Street2:
+Admin Street3:
+Admin City:Raymond
+Admin State/Province:Maine
+Admin Postal Code:04071
+Admin Country:US
+Admin Phone:+1.2076556673
+Admin Phone Ext.:
+Admin FAX:+1.2076556673
+Admin FAX Ext.:
+Admin Email:gconnol1@maine.rr.com
+Tech ID:CR30677769
+Tech Name:Graham Connolly
+Tech Street1:66 Martin Heights
+Tech Street2:
+Tech Street3:
+Tech City:Raymond
+Tech State/Province:Maine
+Tech Postal Code:04071
+Tech Country:US
+Tech Phone:+1.2076556673
+Tech Phone Ext.:
+Tech FAX:+1.2076556673
+Tech FAX Ext.:
+Tech Email:gconnol1@maine.rr.com
+Name Server:NS.JAGUARPC.NET
+Name Server:NS2.JAGUARPC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

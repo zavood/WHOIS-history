@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:45:52 (BRT -03:00)
+
+domain:      mesquita.blog.br
+owner:       Jos&eacute; Leite Mesquita
+ownerid:     027.904.083-00
+country:     BR
+owner-c:     ROV34
+admin-c:     ROV34
+tech-c:      ROV34
+billing-c:   ROV34
+nserver:     ns1.vps2.rov.com.br
+nsstat:      20110905 AA
+nslastaa:    20110905
+nserver:     ns2.vps2.rov.com.br
+nsstat:      20110905 AA
+nslastaa:    20110905
+created:     20061025 #3156491
+expires:     20111025
+changed:     20110813
+status:      published
+
+nic-hdl-br:  ROV34
+person:      Raphael Oliveira Vieira
+e-mail:      ROV34@rov.com.br
+created:     19990830
+changed:     20071203
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

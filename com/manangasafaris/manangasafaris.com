@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CENTRPORT.NET
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS1.DOMAINMANAGER.COM
-   Name Server: NS2.DOMAINMANAGER.COM
-   Status: clientDeleteProhibited
+   Domain Name: MANANGASAFARIS.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS745.WEBSITEWELCOME.COM
+   Name Server: NS746.WEBSITEWELCOME.COM
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 13-may-1999
-   Expiration Date: 13-may-2012
+   Updated Date: 13-apr-2011
+   Creation Date: 26-apr-2004
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:45:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:44:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Domain centrport.net:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Registrant:
+   Softline Media
+   Radiokop
+   Johannesburg, Gauteng
+   ZA
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 73314532478792
-  73314532478792-37f347@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+   Domain Name: MANANGASAFARIS.COM
 
-Record dates:
-  Record created on: 1999-05-14 03:15:36 UTC
-  Record modified on: 2011-08-16 07:07:51 UTC
-  Record expires on: 2012-05-14 UTC
+   Administrative Contact, Technical Contact, Zone Contact:
+      Softline Media
+      Softline
+      Radiokop
+      Johannesburg, Gauteng
+      ZA
+      0114757298
+      0115075366 [fax]
+      info@softlinemedia.com
 
-Nameservers:
-  ns1.domainmanager.com:
-    174.120.244.229
-  ns2.domainmanager.com:
-    208.87.34.18
+   Domain created on 26-Apr-2004
+   Domain expires on 26-Apr-2012
+   Last updated on 13-Apr-2011
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Domain servers in listed order:
+
+      NS745.WEBSITEWELCOME.COM
+      NS746.WEBSITEWELCOME.COM
+
+
 
