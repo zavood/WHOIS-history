@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEFULLEPISODES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2011
-   Creation Date: 06-sep-2009
-   Expiration Date: 06-sep-2012
+   Domain Name: BLOGS.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS1.SAYMEDIA.COM
+   Name Server: NS2.SAYMEDIA.COM
+   Name Server: NS3.SAYMEDIA.COM
+   Status: ok
+   Updated Date: 04-sep-2011
+   Creation Date: 10-sep-1999
+   Expiration Date: 10-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:03:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:03:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Domains by Proxy, Inc.
+  SAY Media, Inc
+  c/o pairNIC.com Whois Privacy
+  PO Box 42319
+  Pittsburgh, PA 15203
+  US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEFULLEPISODES.COM
+  9u3p6r3686@junkemailprevention.com
+   +1.4123257437
 
-   Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
+Domain Name: BLOGS.COM
 
+Administrative &amp; Technical Contact:
+  SAY Media Operations
+  SAY Media
+  c/o pairNIC.com Whois Privacy
+  PO Box 42319
+  Pittsburgh, PA 15203
+  US
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEFULLEPISODES.COM
+  9u3p6r3686@junkemailprevention.com
+   +1.4123257437
+
+Domain Name Servers:
+  NS1.SAYMEDIA.COM
+  NS3.SAYMEDIA.COM
+  NS2.SAYMEDIA.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     September 10, 1999
+Modified:     September  4, 2011
+ Expires:     September 10, 2014
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+
