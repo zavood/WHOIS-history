@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 01-sep-1998
    Expiration Date: 31-aug-2016
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 20:51:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:05:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -107,7 +107,7 @@ Engineer, Network
 
    Record expires on 31-Aug-2016.
    Record created on 21-Aug-2011.
-   Database last updated on 9-Sep-2011 16:42:24 EDT.
+   Database last updated on 13-Sep-2011 00:56:02 EDT.
 
    Domain servers in listed order:
 
