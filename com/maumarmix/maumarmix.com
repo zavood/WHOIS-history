@@ -5,28 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKADNS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA9.AKADNS.NET
-   Name Server: EUR1.AKADNS.NET
-   Name Server: USE3.AKADNS.NET
-   Name Server: USE4.AKADNS.NET
-   Name Server: USW2.AKADNS.NET
-   Name Server: ZA.AKADNS.ORG
-   Name Server: ZB.AKADNS.ORG
-   Name Server: ZC.AKADNS.ORG
-   Name Server: ZD.AKADNS.ORG
-   Name Server: ZE.AKADNS.NET
-   Name Server: ZF.AKADNS.NET
+   Domain Name: MAUMARMIX.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.ADIGITO.COM.BR
+   Name Server: NS2.ADIGITO.COM.BR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 12-may-1999
-   Expiration Date: 12-may-2017
+   Updated Date: 24-mar-2011
+   Creation Date: 27-feb-2010
+   Expiration Date: 27-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:07:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:06:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,5 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+% UOL HOST whois server
+
+Searching for maumarmix.com.  Found 1 record(s) matching maumarmix.com.
+
+Domain:              maumarmix.com
+Nameserver:          ns1.adigito.com.br
+Nameserver:          ns2.adigito.com.br
+Created:             20100227
+Updated:             20110324
+
+Registrant:
+
+Name:                mauro cesar batista dos santos
+Organization:        mauro cesar batista dos santos
+E-mail:              maumar2009@hotmail.com
+Address:             RUA VICTOR MATEUS TEIXEIRA 215 null
+Address:             89235240
+Address:             JOINVILLE - SC
+Phone:               55 47 34639799
+Country:             BRASIL
+Created:             20100227
+Updated:             20100227
+
+Administrative Contact:
+
+Name:                mauro cesar batista dos santos
+Organization:        mauro cesar batista dos santos
+E-mail:              maumar2009@hotmail.com
+Address:             RUA VICTOR MATEUS TEIXEIRA 215 null
+Address:             89235240
+Address:             JOINVILLE - SC
+Phone:               55 47 34639799
+Country:             BRASIL
+Created:             20100227
+Updated:             20100227
+
+Technical Contact:
+
+Name:                mauro cesar batista dos santos
+Organization:        mauro cesar batista dos santos
+E-mail:              maumar2009@hotmail.com
+Address:             RUA VICTOR MATEUS TEIXEIRA 215 null
+Address:             89235240
+Address:             JOINVILLE - SC
+Phone:               55 47 34639799
+Country:             BRASIL
+Created:             20100227
+Updated:             20100227
+
