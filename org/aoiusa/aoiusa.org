@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107758863-LROR
+Domain Name:AOIUSA.ORG
+Created On:10-Oct-2005 00:30:29 UTC
+Last Updated On:26-Aug-2011 20:00:34 UTC
+Expiration Date:10-Oct-2013 00:30:29 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:GODA-059262964
+Registrant Name:Johannes Jacobse
+Registrant Street1:Not listed
+Registrant Street2:
+Registrant Street3:
+Registrant City:Not listed
+Registrant State/Province:Florida
+Registrant Postal Code:34135
+Registrant Country:US
+Registrant Phone:+1.239
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jacobse@usa.com
+Admin ID:GODA-259262964
+Admin Name:Johannes Jacobse
+Admin Street1:Not listed
+Admin Street2:
+Admin Street3:
+Admin City:Not listed
+Admin State/Province:Florida
+Admin Postal Code:34135
+Admin Country:US
+Admin Phone:+1.239
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jacobse@usa.com
+Tech ID:GODA-159262964
+Tech Name:Johannes Jacobse
+Tech Street1:Not listed
+Tech Street2:
+Tech Street3:
+Tech City:Not listed
+Tech State/Province:Florida
+Tech Postal Code:34135
+Tech Country:US
+Tech Phone:+1.239
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jacobse@usa.com
+Name Server:NS.ORTHODOXINTERNET.COM
+Name Server:NS2.ORTHODOXINTERNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
