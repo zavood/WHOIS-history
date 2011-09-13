@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REACHCLIC.NET
+   Domain Name: BLACKLIGHT9.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 26-apr-2011
-   Creation Date: 26-apr-2011
-   Expiration Date: 26-apr-2014
+   Updated Date: 25-may-2011
+   Creation Date: 13-nov-2004
+   Expiration Date: 13-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:28 UTC &lt;&lt;&lt;
 
@@ -76,18 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   -
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REACHCLIC.NET
+   Domain Name: BLACKLIGHT9.COM
 
    Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=REACHCLIC.NET
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLACKLIGHT9.COM

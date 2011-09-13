@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REACHCLIC.NET
+   Domain Name: BLVDPREOWNED.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 26-apr-2011
-   Creation Date: 26-apr-2011
-   Expiration Date: 26-apr-2014
+   Updated Date: 05-feb-2010
+   Creation Date: 30-jan-2006
+   Expiration Date: 30-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:28 UTC &lt;&lt;&lt;
 
@@ -79,15 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REACHCLIC.NET
+   Domain Name: BLVDPREOWNED.COM
 
    Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+      NS39.DOMAINCONTROL.COM
+      NS40.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=REACHCLIC.NET
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLVDPREOWNED.COM

@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REACHCLIC.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: WINDEFAULTS.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-apr-2011
-   Creation Date: 26-apr-2011
-   Expiration Date: 26-apr-2014
+   Updated Date: 13-nov-2010
+   Creation Date: 13-nov-2010
+   Expiration Date: 13-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:28 UTC &lt;&lt;&lt;
 
@@ -54,40 +52,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+windefaults.com
 
 Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REACHCLIC.NET
-
-   Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+         Jeremy Collake  (support@bitsum.com)
+        Bitsum Technologies
+        PO BOX 1143
+        Talbott, TN  37877-1143
+        US
+        865-471-8619
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=REACHCLIC.NET
+Domain Name: windefaults.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Jeremy Collake  (support@bitsum.com)
+        Bitsum Technologies
+        PO BOX 1143
+        Talbott, TN  37877-1143
+        US
+        865-471-8619
+
+
+
+
+
+   Record created on Nov 13 2010.
+   Record expires on Nov 13 2012.
+Domain servers:
+        ns1.pipedns.com
+        ns2.pipedns.com
+        ns3.pipedns.com
+
+
+
+Domain Service Provider:
+   ISQ Solutions Inc.
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1802468-LROR
+Domain Name:CLARET.ORG
+Created On:30-Sep-1994 04:00:00 UTC
+Last Updated On:03-May-2010 15:01:40 UTC
+Expiration Date:29-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22993756-NSI
+Registrant Name:Claretian Missionaries
+Registrant Organization:Claretian Missionaries
+Registrant Street1:205 W. Monroe
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60606
+Registrant Country:US
+Registrant Phone:+1.3122367782
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mminnich@CLARET.ORG
+Admin ID:15108314-NSI
+Admin Name:Martha Minnich
+Admin Organization:Claretian Missionaries
+Admin Street1:205 W MONROE ST
+Admin Street2:
+Admin Street3:
+Admin City:CHICAGO
+Admin State/Province:IL
+Admin Postal Code:60606-5013
+Admin Country:US
+Admin Phone:+1.3122367782
+Admin Phone Ext.:
+Admin FAX:+1.3122367230
+Admin FAX Ext.:
+Admin Email:mminnich@CLARET.ORG
+Tech ID:15108291-NSI
+Tech Name:Kevin Coulter
+Tech Organization:Claretian Missionaries
+Tech Street1:205 W MONROE ST
+Tech Street2:
+Tech Street3:
+Tech City:CHICAGO
+Tech State/Province:IL
+Tech Postal Code:60606-5013
+Tech Country:US
+Tech Phone:+1.3122367782
+Tech Phone Ext.:
+Tech FAX:+1.3122367230
+Tech FAX Ext.:
+Tech Email:kevin@CLARET.ORG
+Name Server:A.NS.CLARET.ORG
+Name Server:B.NS.CLARET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

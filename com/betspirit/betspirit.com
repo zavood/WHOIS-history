@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REACHCLIC.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-apr-2011
-   Creation Date: 26-apr-2011
-   Expiration Date: 26-apr-2014
+   Domain Name: BETSPIRIT.COM
+   Registrar: 1 API GMBH
+   Whois Server: whois.1api.net
+   Referral URL: http://www.1api.net
+   Name Server: NS1.WORLDFIRMS.COM
+   Name Server: NS2.WORLDFIRMS.COM
+   Status: ok
+   Updated Date: 17-dec-2010
+   Creation Date: 31-oct-2002
+   Expiration Date: 31-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:09:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,40 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+; This data is provided by 1api GmbH
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; 1api GmbH does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
 
-Registrant:
-   Domains by Proxy, Inc.
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REACHCLIC.NET
+DOMAIN: BETSPIRIT.COM
 
-   Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+RSP: 1api GmbH
+URL: http://www.1api.net/
+
+created-date: 2002-10-31 16:05:41
+updated-date: 2010-12-17 05:22:26
+registration-expiration-date: 2012-10-31 15:05:41
+
+owner-organization:
+owner-name:
+owner-street:
+owner-city:
+owner-state:
+owner-zip:
+owner-country:
+owner-phone:
+owner-fax:
+owner-email:
+
+admin-organization:
+admin-name:
+admin-street:
+admin-city:
+admin-state:
+admin-zip:
+admin-country:
+admin-phone:
+admin-fax:
+admin-email:
+
+tech-organization:
+tech-name:
+tech-street:
+tech-city:
+tech-state:
+tech-zip:
+tech-country:
+tech-phone:
+tech-fax:
+tech-email:
+
+billing-organization:
+billing-name:
+billing-street:
+billing-city:
+billing-state:
+billing-zip:
+billing-country:
+billing-phone:
+billing-fax:
+billing-email:
+
+nameserver: ns1.worldfirms.com 64.92.113.3
+nameserver: ns2.worldfirms.com 64.92.114.3
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=REACHCLIC.NET

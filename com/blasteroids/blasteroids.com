@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REACHCLIC.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: BLASTEROIDS.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: DLLW3.AFTERDAWN.NET
+   Name Server: HEVONEN.AFTERDAWN.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-apr-2011
-   Creation Date: 26-apr-2011
-   Expiration Date: 26-apr-2014
+   Updated Date: 24-aug-2011
+   Creation Date: 13-may-2003
+   Expiration Date: 13-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:08:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,40 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       blasteroids.com
+owner:        Jari Ketola
+organization: AfterDawn.com
+email:        domains@afterdawn.com
+address:      PL 14
+city:         Oulu
+postal-code:  90501
+country:      FI
+phone:        +358.443080700
+fax:          +358.88811285
+admin-c:      CCOM-78517 domains@afterdawn.com
+tech-c:       CCOM-78517 domains@afterdawn.com
+billing-c:    CCOM-78517 domains@afterdawn.com
+nserver:      hevonen.afterdawn.net
+nserver:      dllw3.afterdawn.net
+status:       lock
+created:      2003-05-13 14:17:57 UTC
+modified:     2011-08-24 11:45:49 UTC
+expires:      2014-05-13 18:17:57 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-78517
+person:       Jari Ketola
+organization: AfterDawn Oy
+email:        domains@afterdawn.com
+address:      PL 14
+city:         Oulu
+postal-code:  90501
+country:      FI
+phone:        +358.451108040
 
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REACHCLIC.NET
-
-   Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
-
-
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=REACHCLIC.NET
+source:       joker.com live whois service
+query-time:   0.024363
+db-updated:   2011-09-13 20:09:38
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.
