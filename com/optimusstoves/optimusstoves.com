@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ED4.NET
+   Domain Name: OPTIMUSSTOVES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ASIA3.AKAM.NET
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR2.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: EUR6.AKAM.NET
-   Name Server: NS1-200.AKAM.NET
-   Name Server: NS1-23.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Name Server: NS1.V-1.CH
+   Name Server: NS2.V-1.CH
    Status: clientTransferProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2016
+   Updated Date: 23-feb-2011
+   Creation Date: 22-apr-2008
+   Expiration Date: 22-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:27:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:28:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ed4.net
+Whois Query: optimusstoves.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:23:24 EDT 2011
+Date and Time of Query: Mon Sep 12 20:19:02 EDT 2011
 Reason Code: IE

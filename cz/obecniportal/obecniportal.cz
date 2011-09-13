@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 02:28:44 2011
+
+domain:       obecniportal.cz
+registrant:   SB:PH3531-RIPE_XX
+admin-c:      PH3531-RIPE
+nsset:        NSS:PH3531-RIPE_XX:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   13.08.2003 10:56:00
+changed:      23.07.2004 18:35:00
+expire:       12.08.2012
+
+contact:      SB:PH3531-RIPE_XX
+org:          Verlag Dashofer,nakladatelstvi,spol.s r.o.
+name:         Verlag Dashofer,nakladatelstvi,spol.s r.o.
+address:      Na Prikope 18
+address:      Praha 1
+address:      111 21
+address:      CZ
+e-mail:       hlubik@dashofer.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      30.09.2003 15:20:00
+
+contact:      PH3531-RIPE
+name:         Pavel Hlubik
+address:      Na P&Aring;™&Atilde;&shy;kop&Auml;› 18
+address:      Praha
+address:      11121
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      26.05.2011 14:12:13
+
+nsset:        NSS:PH3531-RIPE_XX:1
+nserver:      bill2.dashofer.cz (193.179.188.99)
+nserver:      ns.inecnet.cz
+tech-c:       SB:PH3531-RIPE_XX
+tech-c:       PH3531-RIPE
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      18.03.2008 13:02:47
+
+
