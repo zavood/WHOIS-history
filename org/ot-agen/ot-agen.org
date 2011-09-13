@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D45429726-LROR
+Domain Name:OT-AGEN.ORG
+Created On:27-Nov-2000 13:11:08 UTC
+Last Updated On:28-Nov-2010 01:23:41 UTC
+Expiration Date:27-Nov-2011 13:11:08 UTC
+Sponsoring Registrar:Nordnet (R62-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:NNR-office11
+Registrant Name:office du tourisme d agen
+Registrant Organization:office du tourisme d agen
+Registrant Street1:107 bd Carnot
+Registrant Street2:
+Registrant Street3:
+Registrant City:Agen Cedex
+Registrant State/Province:
+Registrant Postal Code:47006
+Registrant Country:FR
+Registrant Phone:+33.100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nonapplicable@pir.nordnet.net
+Admin ID:NNR-office31
+Admin Name:Soule Didier
+Admin Organization:office du tourisme d agen
+Admin Street1:107 bd Carnot
+Admin Street2:
+Admin Street3:
+Admin City:Agen Cedex
+Admin State/Province:
+Admin Postal Code:47006
+Admin Country:FR
+Admin Phone:+33.553473609
+Admin Phone Ext.:
+Admin FAX:+33.553472998
+Admin FAX Ext.:
+Admin Email:dns-admin@domicile.fr
+Tech ID:NNR-wanado14
+Tech Name:Contact Technique
+Tech Organization:Wanadoo Service Pro
+Tech Street1:48 52 rue Camille Desmoulins
+Tech Street2:
+Tech Street3:
+Tech City:Issy les Moulineaux Cedex
+Tech State/Province:
+Tech Postal Code:92791
+Tech Country:FR
+Tech Phone:+33.158887638
+Tech Phone Ext.:
+Tech FAX:+33.158887390
+Tech FAX Ext.:
+Tech Email:dns-master@domicile.fr
+Name Server:NS3.DOMICILE.FR
+Name Server:NS2.DOMICILE.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
