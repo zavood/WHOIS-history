@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DWAPPS.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DWAPPS.NET
-   Name Server: NS2.DWAPPS.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-dec-2010
-   Creation Date: 22-dec-2010
-   Expiration Date: 22-dec-2011
+   Domain Name: WYGWAM.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.MAEHDROS.BE
+   Name Server: NS2.MAEHDROS.BE
+   Status: ok
+   Updated Date: 19-feb-2011
+   Creation Date: 18-feb-2003
+   Expiration Date: 18-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:23:09 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by UniWeb BVBA
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; UniWeb BVBA does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: WYGWAM.COM
 
+RSP: UniWeb BVBA
+URL: http://www.uniweb.be
 
-Registrant:
-   Virtual Webscapes
+owner-contact: P-USC26
+owner-organization: wygwam
+owner-fname: Gregoire
+owner-lname: Malvoisin
+owner-street: Rue de Lannoy 376
+owner-city: Villeneuve d'Ascq
+owner-state: France
+owner-zip: 59650
+owner-country: FR
+owner-phone: +33.328099923
+owner-email: gregoire@wygwam.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DWAPPS.NET
+admin-contact: P-USC26
+admin-organization: wygwam
+admin-fname: Gregoire
+admin-lname: Malvoisin
+admin-street: Rue de Lannoy 376
+admin-city: Villeneuve d'Ascq
+admin-state: France
+admin-zip: 59650
+admin-country: FR
+admin-phone: +33.328099923
+admin-email: gregoire@wygwam.com
 
-   Domain servers in listed order:
-      NS1.DWAPPS.NET
-      NS2.DWAPPS.NET
+tech-contact: P-USC26
+tech-organization: wygwam
+tech-fname: Gregoire
+tech-lname: Malvoisin
+tech-street: Rue de Lannoy 376
+tech-city: Villeneuve d'Ascq
+tech-state: France
+tech-zip: 59650
+tech-country: FR
+tech-phone: +33.328099923
+tech-email: gregoire@wygwam.com
 
+billing-contact: P-RIT40
+billing-organization: UniWeb bvba
+billing-fname: Rudi
+billing-lname: Tielemans
+billing-street: St. Amandsstraat 2
+billing-city: Strombeek-bever
+billing-state: Belgium B
+billing-zip: 1853
+billing-country: BE
+billing-phone: +32.23060003
+billing-email: dns@uniweb.be
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DWAPPS.NET
+nameserver: ns1.maehdros.be
+nameserver: ns2.maehdros.be
+
+; Please register your domains at
+; http://www.uniweb.be
+

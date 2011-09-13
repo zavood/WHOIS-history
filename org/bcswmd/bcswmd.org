@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D16822139-LROR
+Domain Name:BCSWMD.ORG
+Created On:07-Jan-2000 22:30:22 UTC
+Last Updated On:10-Aug-2011 16:38:25 UTC
+Expiration Date:07-Jan-2012 22:30:22 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29699108-NSI
+Registrant Name:BrownCountySolid Waste Management District
+Registrant Organization:BrownCountySolid Waste Management District
+Registrant Street1:P.O. Box 1308
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nashville
+Registrant State/Province:IN
+Registrant Postal Code:47448
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@KIVA.NET
+Admin ID:5568331-NSI
+Admin Name:Evolve Kiva Legacy
+Admin Street1:12650 Meridian Crossing
+Admin Street2:
+Admin Street3:
+Admin City:Carmel
+Admin State/Province:IN
+Admin Postal Code:46032
+Admin Country:US
+Admin Phone:+1.3178165100
+Admin Phone Ext.:
+Admin FAX:+1.8123375082
+Admin FAX Ext.:
+Admin Email:hostmaster@kiva.net
+Tech ID:5568331-NSI
+Tech Name:Evolve Kiva Legacy
+Tech Street1:12650 Meridian Crossing
+Tech Street2:
+Tech Street3:
+Tech City:Carmel
+Tech State/Province:IN
+Tech Postal Code:46032
+Tech Country:US
+Tech Phone:+1.3178165100
+Tech Phone Ext.:
+Tech FAX:+1.8123375082
+Tech FAX Ext.:
+Tech Email:hostmaster@kiva.net
+Name Server:NS1.KIVA.NET
+Name Server:NS2.KIVA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

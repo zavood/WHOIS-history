@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DWAPPS.NET
+   Domain Name: NEORED.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DWAPPS.NET
-   Name Server: NS2.DWAPPS.NET
+   Name Server: NS1.NEORED.COM
+   Name Server: NS2.NEORED.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-dec-2010
-   Creation Date: 22-dec-2010
-   Expiration Date: 22-dec-2011
+   Updated Date: 30-jul-2011
+   Creation Date: 29-jul-1999
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:23:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:22:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Virtual Webscapes
+   NeoRed
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DWAPPS.NET
+   Domain Name: NEORED.COM
 
    Domain servers in listed order:
-      NS1.DWAPPS.NET
-      NS2.DWAPPS.NET
+      NS1.NEORED.COM
+      NS2.NEORED.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DWAPPS.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEORED.COM

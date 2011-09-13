@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DWAPPS.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DWAPPS.NET
-   Name Server: NS2.DWAPPS.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-dec-2010
-   Creation Date: 22-dec-2010
-   Expiration Date: 22-dec-2011
+   Domain Name: CLOUDJ.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS45.DNSEVER.COM
+   Name Server: NS72.DNSEVER.COM
+   Name Server: NS89.DNSEVER.COM
+   Status: ok
+   Updated Date: 15-jan-2009
+   Creation Date: 14-jan-2009
+   Expiration Date: 14-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:23:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:21:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name           : cloudj.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   Virtual Webscapes
+	company       :aeri jung
+	name          :aeri jung
+	e-mail        :llgodseye@yahoo.co.kr
+	address1      :Geumcheon-gu
+	address2      :150-14
+	city          :Seoul
+	zipcode       :153-010
+	country       :
+	phone         :02-853-9873
+	fax           :
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DWAPPS.NET
+Administrative Contact:
+	name          :aeri jung
+	e-mail        :llgodseye@yahoo.co.kr
+	address1      :Geumcheon-gu
+	address2      :150-14
+	city          :Seoul
+	zipcode       :153-010
+	country       :
+	phone         :02-853-9873
+	fax           :
 
-   Domain servers in listed order:
-      NS1.DWAPPS.NET
-      NS2.DWAPPS.NET
+Technical Contact:
+	name          :aeri jung
+	e-mail        :llgodseye@yahoo.co.kr
+	address1      :Geumcheon-gu
+	address2      :150-14
+	city          :Seoul
+	zipcode       :153-010
+	country       :
+	phone         :02-853-9873
+	fax           :
+
+Domain servers in listed order:
+		ns45.dnsever.com  [121.254.154.175]
+		ns72.dnsever.com  [121.254.154.202]
+		ns89.dnsever.com  [121.254.154.219]
+		ns259.dnsever.com  [211.233.59.20]
+
+Created on 2009-01-14
+Updated on 2009-01-16
+Expires on 2012-01-14&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DWAPPS.NET
