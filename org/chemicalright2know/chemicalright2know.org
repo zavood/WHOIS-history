@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154040286-LROR
+Domain Name:CHEMICALRIGHT2KNOW.ORG
+Created On:10-Sep-2008 15:16:11 UTC
+Last Updated On:04-Apr-2011 20:45:17 UTC
+Expiration Date:10-Sep-2013 15:16:11 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:43052142-NSI
+Registrant Name:ECOS
+Registrant Organization:ECOS
+Registrant Street1:50 F Street, N.W.
+Registrant Street2:Suite 350
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20001
+Registrant Country:US
+Registrant Phone:+1.2022664920
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:43052142-NSI
+Admin Name:ECOS
+Admin Organization:ECOS
+Admin Street1:50 F Street, N.W.
+Admin Street2:Suite 350
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20001
+Admin Country:US
+Admin Phone:+1.2022664920
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:43052142-NSI
+Tech Name:ECOS
+Tech Organization:ECOS
+Tech Street1:50 F Street, N.W.
+Tech Street2:Suite 350
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20001
+Tech Country:US
+Tech Phone:+1.2022664920
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

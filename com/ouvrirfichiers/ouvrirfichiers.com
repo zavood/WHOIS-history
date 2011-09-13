@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HUMPDATE.COM
+   Domain Name: OUVRIRFICHIERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.CHOOPA.COM
-   Name Server: NS2.CHOOPA.COM
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
    Status: clientTransferProhibited
-   Updated Date: 10-jul-2011
-   Creation Date: 23-jul-2010
-   Expiration Date: 23-jul-2012
+   Updated Date: 09-feb-2011
+   Creation Date: 11-mar-2010
+   Expiration Date: 11-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:18:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:19:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,14 +52,14 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about humpdate.com
-&lt;a href=&quot;http://www.aboutus.org/humpdate.com&quot;&gt;AboutUs: humpdate.com&lt;/a&gt;
+Visit AboutUs.org for more information about ouvrirfichiers.com
+&lt;a href=&quot;http://www.aboutus.org/ouvrirfichiers.com&quot;&gt;AboutUs: ouvrirfichiers.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: humpdate.com
+Domain name: ouvrirfichiers.com
 
 Registrant Contact:
    WhoisGuard
@@ -72,7 +72,7 @@ Registrant Contact:
 
 Administrative Contact:
    WhoisGuard
-   WhoisGuard Protected (4a66c19022674d18af23aef354798ecc.protect@whoisguard.com)
+   WhoisGuard Protected (f9c3caf7559e46dd91100705cfecba0b.protect@whoisguard.com)
    +1.6613102107
    Fax: +1.6613102107
    11400 W. Olympic Blvd. Suite 200
@@ -81,7 +81,7 @@ Administrative Contact:
 
 Technical Contact:
    WhoisGuard
-   WhoisGuard Protected (4a66c19022674d18af23aef354798ecc.protect@whoisguard.com)
+   WhoisGuard Protected (f9c3caf7559e46dd91100705cfecba0b.protect@whoisguard.com)
    +1.6613102107
    Fax: +1.6613102107
    11400 W. Olympic Blvd. Suite 200
@@ -91,11 +91,11 @@ Technical Contact:
 Status: Locked
 
 Name Servers:
-   NS1.choopa.com
-   NS2.choopa.com
+   ns1.theplanet.com
+   ns2.theplanet.com
 
-Creation date: 23 Jul 2010 17:10:00
-Expiration date: 23 Jul 2012 12:10:00
+Creation date: 11 Mar 2010 15:31:00
+Expiration date: 11 Mar 2012 10:31:00
 
 
 
