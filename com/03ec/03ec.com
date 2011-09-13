@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SQLTEAM.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS3.ORCSWEB.COM
-   Name Server: NS4.ORCSWEB.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: 03EC.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-aug-2009
-   Creation Date: 21-jun-2000
-   Expiration Date: 21-jun-2014
+   Updated Date: 05-sep-2011
+   Creation Date: 27-sep-2008
+   Expiration Date: 27-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:01:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:03:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... 03ec.com
+  Creation Date........ 2008-09-28
+  Registration Date.... 2008-09-28
+  Expiry Date.......... 2012-09-28
+  Organisation Name.... Michael Buck
+  Organisation Address. 1748 Keele Street Ave West # 948
+  Organisation Address.
+  Organisation Address. Toronto
+  Organisation Address. M4K1N6
+  Organisation Address. Ontario
+  Organisation Address. CANADA
+
+Admin Name........... Michael Buck
+  Admin Address........ 1748 Keele Street Ave West # 948
+  Admin Address........
+  Admin Address........ Toronto
+  Admin Address........ M4K1N6
+  Admin Address........ Ontario
+  Admin Address........ CANADA
+  Admin Email.......... dotcomd@ymail.com
+  Admin Phone.......... +1.5193952286
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SQLTEAM.COM
-
-   Domain servers in listed order:
-      NS4.ORCSWEB.COM
-      NS3.ORCSWEB.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SQLTEAM.COM

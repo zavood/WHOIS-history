@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cpmhe.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cpmhe.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    OWS8-FRNIC
+admin-c:     CP6886-FRNIC
+tech-c:      CP6886-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5437-FRNIC
+registrar:   OPEN WEB NETWORK SOLUTIONS
+anniversary: 15/04
+created:     15/04/2010
+last-update: 11/02/2011
+source:      FRNIC
+
+ns-list:     NSL5437-FRNIC
+nserver:     ns.ows.fr [194.116.202.43]
+nserver:     ns2.ows.fr [212.37.219.30]
+source:      FRNIC
+
+registrar:   OPEN WEB NETWORK SOLUTIONS
+type:        Isp Option 2
+address:     23 rue du dessous des berges
+address:     PARIS
+country:     FR
+phone:       +33 1 42 46 40 25
+fax-no:      +33 9 55 29 17 34
+e-mail:      contact@ows.fr
+website:     http://www.owns.fr
+anonymous:   NO
+registered:  11/02/2011
+source:      FRNIC
+
+nic-hdl:     OWS8-FRNIC
+type:        ORGANIZATION
+contact:     OPEN WEB SOLUTIONS
+address:     26, rue du faubourg Saint Antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+fax-no:      +33 1 42 46 26 84
+e-mail:      contact@ows.fr
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CP6886-FRNIC
+type:        PERSON
+contact:     Cedric Perronnet
+address:     Open Web Solutions
+address:     26, rue du faubourg Saint Antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+fax-no:      +33 1 42 46 26 84
+e-mail:      contact@ows.fr
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

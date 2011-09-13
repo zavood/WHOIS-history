@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SQLTEAM.COM
+   Domain Name: WELLCOSTORE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS3.ORCSWEB.COM
-   Name Server: NS4.ORCSWEB.COM
+   Name Server: NS1.HOSTASAURUS.COM
+   Name Server: NS2.HOSTASAURUS.COM
+   Name Server: NS3.HOSTASAURUS.COM
+   Name Server: NS4.HOSTASAURUS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-aug-2009
-   Creation Date: 21-jun-2000
-   Expiration Date: 21-jun-2014
+   Updated Date: 15-mar-2010
+   Creation Date: 08-mar-2010
+   Expiration Date: 08-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:01:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:03:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Tactical Holdings Operations Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SQLTEAM.COM
+   Domain Name: WELLCOSTORE.COM
 
    Domain servers in listed order:
-      NS4.ORCSWEB.COM
-      NS3.ORCSWEB.COM
+      NS1.HOSTASAURUS.COM
+      NS2.HOSTASAURUS.COM
+      NS3.HOSTASAURUS.COM
+      NS4.HOSTASAURUS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SQLTEAM.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WELLCOSTORE.COM

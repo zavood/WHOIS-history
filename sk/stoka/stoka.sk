@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         stoka.sk
+Admin-id            ZUEN-0057
+Admin-name          Zdruzenie STOKA
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       31745091
+Admin-address       Pribinova 1, Bratislava  810 00
+Admin-telephone     5292 4463, 52924470, 0905 211 031
+Admin-email         stoka@stoka.sk
+Tech-id             SWAN-0002
+Tech-name           SWAN, a.s.
+Tech-org.-ID        35680202
+Tech-address        Borska 6, Bratislava 84104
+Tech-telephone      +421 2 35000516, +421 2 35000516
+Tech-email          domeny@swan.sk
+dns_name            ns1.swan.sk
+dns_name            ns2.swan.sk
+dns_name            ns3.swan.sk
+Last-update         2010-10-14
+Valid-date          2011-10-27
+Domain-status       DOM_OK
+
