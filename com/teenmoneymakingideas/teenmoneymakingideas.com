@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MISSIONFIRSTTACTICAL.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.ASMALLORANGE.COM
-   Name Server: NS2.ASMALLORANGE.COM
+   Domain Name: TEENMONEYMAKINGIDEAS.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS51.CIRTEXHOSTING.COM
+   Name Server: NS52.CIRTEXHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 08-oct-2010
-   Expiration Date: 08-oct-2011
+   Updated Date: 04-nov-2010
+   Creation Date: 02-dec-2006
+   Expiration Date: 02-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:44:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:45:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about missionfirsttactical.com
-&lt;a href=&quot;http://www.aboutus.org/missionfirsttactical.com&quot;&gt;AboutUs: missionfirsttactical.com&lt;/a&gt;
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
-
-Domain name: missionfirsttactical.com
-
-Registrant Contact:
-   Mission First Tactical
-   David Edelman ()
-
-   Fax:
-   780 Haunted Ln
-   Bensalem, PA 19020
-   US
+Registrant:
+    S. Clair
+    S. Clair
+    PMB 2051
+    Pensacola, FL 32513
+    US
+    +1.2704232118
+    6fcc54c92eeef530ecec4ac0597c2e81aa9543e8@whois.gkg.net
 
 Administrative Contact:
-   Mission First Tactical
-   David Edelman (Kris@firstsamco.com)
-   +1.2678031517
-   Fax: +1.
-   780 Haunted Ln
-   Bensalem, PA 19020
-   US
+    S. Clair
+    S. Clair
+    PMB 2051
+    Pensacola, FL 32513
+    US
+    +1.2704232118
+    6fcc54c92eeef530ecec4ac0597c2e81aa9543e8@whois.gkg.net
 
 Technical Contact:
-   Mission First Tactical
-   David Edelman (Kris@firstsamco.com)
-   +1.2678031517
-   Fax: +1.
-   780 Haunted Ln
-   Bensalem, PA 19020
-   US
+    S. Clair
+    S. Clair
+    PMB 2051
+    Pensacola, FL 32513
+    US
+    +1.2704232118
+    6fcc54c92eeef530ecec4ac0597c2e81aa9543e8@whois.gkg.net
 
-Status: Locked
+Billing Contact
+    S. Clair
+    S. Clair
+    PMB 2051
+    Pensacola, FL 32513
+    US
+    +1.2704232118
+    6fcc54c92eeef530ecec4ac0597c2e81aa9543e8@whois.gkg.net
 
-Name Servers:
-   NS1.ASMALLORANGE.COM
-   NS2.ASMALLORANGE.COM
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: TEENMONEYMAKINGIDEAS.COM
+	Created on..............: 02-DEC-2006
+	Expires on..............: 02-DEC-2011
+	Record last updated on..: 04-NOV-2010
+	Status..................: ACTIVE
 
-Creation date: 08 Oct 2010 19:58:00
-Expiration date: 08 Oct 2011 14:58:00
+    Domain servers in listed order:
 
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+    NS51.CIRTEXHOSTING.COM
+    NS52.CIRTEXHOSTING.COM
