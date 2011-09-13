@@ -14,65 +14,64 @@ necessary to register domain names or modify existing registrations.  All
 rights reserved. Public Interest Registry reserves the right to modify these terms at any
 time. By submitting this query, you agree to abide by this policy.
 
-Domain ID:D35893704-LROR
-Domain Name:OPML.ORG
-Created On:24-Sep-2000 21:28:12 UTC
-Last Updated On:19-Jul-2011 13:06:49 UTC
-Expiration Date:24-Sep-2012 21:28:12 UTC
-Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
-Status:CLIENT TRANSFER PROHIBITED
-Status:CLIENT UPDATE PROHIBITED
-Registrant ID:tu6HNDlj1SaQqEa6
-Registrant Name:Dave Winer
-Registrant Organization:Scripting News, Inc.
-Registrant Street1:847 Mendocino Ave
+Domain ID:D104195394-LROR
+Domain Name:BOTANICALSWAP.ORG
+Created On:05-Apr-2004 20:40:53 UTC
+Last Updated On:07-Apr-2010 17:02:56 UTC
+Expiration Date:05-Apr-2013 20:40:53 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-C62G1BHRHYXM
+Registrant Name:reed carlsen
+Registrant Organization:botanical swap
+Registrant Street1:po box 4862
 Registrant Street2:
 Registrant Street3:
-Registrant City:Berkeley
-Registrant State/Province:CA
-Registrant Postal Code:94707
+Registrant City:wheaton
+Registrant State/Province:il
+Registrant Postal Code:60189-4862
 Registrant Country:US
-Registrant Phone:+1.5105551212
+Registrant Phone:+1.6308217980
 Registrant Phone Ext.:
 Registrant FAX:
 Registrant FAX Ext.:
-Registrant Email:dave.winer@gmail.com
-Admin ID:tuNClFLvVzi19pau
-Admin Name:Dave Winer
-Admin Organization:Scripting News, Inc.
-Admin Street1:847 Mendocino Ave
+Registrant Email:catfishgroid_2004@hotmail.com
+Admin ID:DOT-46YAMDF4ULKA
+Admin Name:reed carlsen
+Admin Organization:botanical swap
+Admin Street1:po box 4862
 Admin Street2:
 Admin Street3:
-Admin City:Berkeley
-Admin State/Province:CA
-Admin Postal Code:94707
+Admin City:wheaton
+Admin State/Province:il
+Admin Postal Code:60189-4862
 Admin Country:US
-Admin Phone:+1.5105551212
+Admin Phone:+1.6308217980
 Admin Phone Ext.:
 Admin FAX:
 Admin FAX Ext.:
-Admin Email:dave.winer@gmail.com
-Tech ID:tuA65D0ghEIkfd47
-Tech Name:Dave Winer
-Tech Organization:Scripting News, Inc.
-Tech Street1:847 Mendocino Ave
+Admin Email:catfishgroid_2004@hotmail.com
+Tech ID:DOT-GTZI12LGNL52
+Tech Name:reed carlsen
+Tech Organization:botanical swap
+Tech Street1:po box 4862
 Tech Street2:
 Tech Street3:
-Tech City:Berkeley
-Tech State/Province:CA
-Tech Postal Code:94707
+Tech City:wheaton
+Tech State/Province:il
+Tech Postal Code:60189-4862
 Tech Country:US
-Tech Phone:+1.5105551212
+Tech Phone:+1.6308217980
 Tech Phone Ext.:
 Tech FAX:
 Tech FAX Ext.:
-Tech Email:dave.winer@gmail.com
-Name Server:NS1.EASYDNS.COM
-Name Server:NS2.EASYDNS.COM
-Name Server:REMOTE1.EASYDNS.COM
-Name Server:REMOTE2.EASYDNS.COM
-Name Server:NS6.EASYDNS.NET
-Name Server:NS3.EASYDNS.ORG
+Tech Email:catfishgroid_2004@hotmail.com
+Name Server:NS2.BLUESPHEREWEB.COM
+Name Server:NS1.BLUESPHEREWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
 Name Server:
 Name Server:
 Name Server:

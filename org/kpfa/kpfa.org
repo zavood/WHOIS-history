@@ -14,65 +14,67 @@ necessary to register domain names or modify existing registrations.  All
 rights reserved. Public Interest Registry reserves the right to modify these terms at any
 time. By submitting this query, you agree to abide by this policy.
 
-Domain ID:D35893704-LROR
-Domain Name:OPML.ORG
-Created On:24-Sep-2000 21:28:12 UTC
-Last Updated On:19-Jul-2011 13:06:49 UTC
-Expiration Date:24-Sep-2012 21:28:12 UTC
-Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Domain ID:D587410-LROR
+Domain Name:KPFA.ORG
+Created On:14-Dec-1995 05:00:00 UTC
+Last Updated On:21-Mar-2010 00:22:56 UTC
+Expiration Date:13-Dec-2017 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
 Status:CLIENT TRANSFER PROHIBITED
 Status:CLIENT UPDATE PROHIBITED
-Registrant ID:tu6HNDlj1SaQqEa6
-Registrant Name:Dave Winer
-Registrant Organization:Scripting News, Inc.
-Registrant Street1:847 Mendocino Ave
-Registrant Street2:
+Registrant ID:CR40583907
+Registrant Name:KPFA-FM Pacifica
+Registrant Organization:KPFA-FM Pacifica
+Registrant Street1:1929 Martin
+Registrant Street2:Luther King Jr. Way
 Registrant Street3:
 Registrant City:Berkeley
-Registrant State/Province:CA
-Registrant Postal Code:94707
+Registrant State/Province:California
+Registrant Postal Code:94704
 Registrant Country:US
-Registrant Phone:+1.5105551212
+Registrant Phone:+1.5108486767
 Registrant Phone Ext.:
 Registrant FAX:
 Registrant FAX Ext.:
-Registrant Email:dave.winer@gmail.com
-Admin ID:tuNClFLvVzi19pau
-Admin Name:Dave Winer
-Admin Organization:Scripting News, Inc.
-Admin Street1:847 Mendocino Ave
+Registrant Email:hostmaster@kpfa.org
+Admin ID:CR40583915
+Admin Name:KPFA Radio
+Admin Organization:KPFA Radio
+Admin Street1:1929 MARTIN LUTHER KING JR WAY
 Admin Street2:
 Admin Street3:
-Admin City:Berkeley
-Admin State/Province:CA
-Admin Postal Code:94707
+Admin City:BERKELEY
+Admin State/Province:California
+Admin Postal Code:94704-1037
 Admin Country:US
-Admin Phone:+1.5105551212
+Admin Phone:+1.5108486767
 Admin Phone Ext.:
 Admin FAX:
 Admin FAX Ext.:
-Admin Email:dave.winer@gmail.com
-Tech ID:tuA65D0ghEIkfd47
-Tech Name:Dave Winer
-Tech Organization:Scripting News, Inc.
-Tech Street1:847 Mendocino Ave
+Admin Email:hostmaster@kpfa.org
+Tech ID:CR40583910
+Tech Name:KPFA Hostmaster
+Tech Organization:KPFA FM 94.1
+Tech Street1:1929 Martin Luther King Jr Way
 Tech Street2:
 Tech Street3:
 Tech City:Berkeley
-Tech State/Province:CA
-Tech Postal Code:94707
+Tech State/Province:California
+Tech Postal Code:94704
 Tech Country:US
-Tech Phone:+1.5105551212
+Tech Phone:+1.510848676792
 Tech Phone Ext.:
-Tech FAX:
+Tech FAX:+1.5108485776
 Tech FAX Ext.:
-Tech Email:dave.winer@gmail.com
-Name Server:NS1.EASYDNS.COM
-Name Server:NS2.EASYDNS.COM
-Name Server:REMOTE1.EASYDNS.COM
-Name Server:REMOTE2.EASYDNS.COM
-Name Server:NS6.EASYDNS.NET
-Name Server:NS3.EASYDNS.ORG
+Tech Email:hostmaster@kpfa.org
+Name Server:NS2.LMI.NET
+Name Server:NS2.VIA.NET
+Name Server:NS.VIA.NET
+Name Server:
+Name Server:
+Name Server:
 Name Server:
 Name Server:
 Name Server:

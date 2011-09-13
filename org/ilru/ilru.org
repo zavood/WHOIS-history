@@ -14,65 +14,64 @@ necessary to register domain names or modify existing registrations.  All
 rights reserved. Public Interest Registry reserves the right to modify these terms at any
 time. By submitting this query, you agree to abide by this policy.
 
-Domain ID:D35893704-LROR
-Domain Name:OPML.ORG
-Created On:24-Sep-2000 21:28:12 UTC
-Last Updated On:19-Jul-2011 13:06:49 UTC
-Expiration Date:24-Sep-2012 21:28:12 UTC
-Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Domain ID:D160343-LROR
+Domain Name:ILRU.ORG
+Created On:27-Feb-1997 05:00:00 UTC
+Last Updated On:16-Aug-2010 20:18:16 UTC
+Expiration Date:28-Feb-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
 Status:CLIENT TRANSFER PROHIBITED
-Status:CLIENT UPDATE PROHIBITED
-Registrant ID:tu6HNDlj1SaQqEa6
-Registrant Name:Dave Winer
-Registrant Organization:Scripting News, Inc.
-Registrant Street1:847 Mendocino Ave
+Registrant ID:23579889-NSI
+Registrant Name:Independent Living Research Utilization (ILRU) Program
+Registrant Organization:Independent Living Research Utilization (ILRU) Program
+Registrant Street1:2323 S. Shepherd, Suite 1000
 Registrant Street2:
 Registrant Street3:
-Registrant City:Berkeley
-Registrant State/Province:CA
-Registrant Postal Code:94707
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77019
 Registrant Country:US
-Registrant Phone:+1.5105551212
+Registrant Phone:+1.713520023
 Registrant Phone Ext.:
-Registrant FAX:
+Registrant FAX:+1.713520578
 Registrant FAX Ext.:
-Registrant Email:dave.winer@gmail.com
-Admin ID:tuNClFLvVzi19pau
-Admin Name:Dave Winer
-Admin Organization:Scripting News, Inc.
-Admin Street1:847 Mendocino Ave
+Registrant Email:cdresden@BCM.TMC.EDU
+Admin ID:2819440-NSI
+Admin Name:MARJORIE ELHARDT
+Admin Organization:ILRU
+Admin Street1:2323 S. Shepherd Suite 1000
 Admin Street2:
 Admin Street3:
-Admin City:Berkeley
-Admin State/Province:CA
-Admin Postal Code:94707
+Admin City:HOUSTON
+Admin State/Province:TX
+Admin Postal Code:77019-7024
 Admin Country:US
-Admin Phone:+1.5105551212
+Admin Phone:+1.7135940479
 Admin Phone Ext.:
-Admin FAX:
+Admin FAX:+1.7135205785
 Admin FAX Ext.:
-Admin Email:dave.winer@gmail.com
-Tech ID:tuA65D0ghEIkfd47
-Tech Name:Dave Winer
-Tech Organization:Scripting News, Inc.
-Tech Street1:847 Mendocino Ave
+Admin Email:marjorie.elhardt@memorialhermann.org
+Tech ID:2819440-NSI
+Tech Name:MARJORIE ELHARDT
+Tech Organization:ILRU
+Tech Street1:2323 S. Shepherd Suite 1000
 Tech Street2:
 Tech Street3:
-Tech City:Berkeley
-Tech State/Province:CA
-Tech Postal Code:94707
+Tech City:HOUSTON
+Tech State/Province:TX
+Tech Postal Code:77019-7024
 Tech Country:US
-Tech Phone:+1.5105551212
+Tech Phone:+1.7135940479
 Tech Phone Ext.:
-Tech FAX:
+Tech FAX:+1.7135205785
 Tech FAX Ext.:
-Tech Email:dave.winer@gmail.com
-Name Server:NS1.EASYDNS.COM
-Name Server:NS2.EASYDNS.COM
-Name Server:REMOTE1.EASYDNS.COM
-Name Server:REMOTE2.EASYDNS.COM
-Name Server:NS6.EASYDNS.NET
-Name Server:NS3.EASYDNS.ORG
+Tech Email:marjorie.elhardt@memorialhermann.org
+Name Server:NS1.BCM.EDU
+Name Server:NS2.BCM.EDU
+Name Server:NS3.BCM.EDU
+Name Server:NS4.BCM.EDU
+Name Server:NS5.BCM.EDU
+Name Server:
 Name Server:
 Name Server:
 Name Server:

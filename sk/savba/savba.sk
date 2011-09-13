@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         savba.sk
+Admin-id            VSSA-0001
+Admin-name          VS SAV
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       398144
+Admin-address       Dubravska cesta 9, Bratislava 84535
+Admin-telephone     02/59307915, 02/59307904, 0915/743046
+Admin-email         postmaster@savba.sk
+Tech-id             VSSA-0001
+Tech-name           VS SAV
+Tech-org.-ID        398144
+Tech-address        Dubravska cesta 9, Bratislava 84535
+Tech-telephone      02/59307915, 02/59307904, 0915/743046
+Tech-email          postmaster@savba.sk
+dns_name            savba.savba.sk
+dns_ip              147.213.1.1
+dns_name            ns.sav.sk
+dns_name            ns.ta3.sk
+Last-update         2011-08-23
+Valid-date          2012-09-15
+Domain-status       DOM_OK
+
