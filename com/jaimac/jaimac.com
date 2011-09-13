@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PCC-SF.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Domain Name: JAIMAC.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.DNSTHAI.COM
+   Name Server: NS2.DNSTHAI.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-jan-2011
-   Creation Date: 08-feb-2005
-   Expiration Date: 08-feb-2013
+   Updated Date: 10-jun-2011
+   Creation Date: 05-jun-2001
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:50:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:49:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PCC-SF.COM
-
-   Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+	 jaimac.com info@hodgroup.com +66.22266112
+	 jaimac.com
+	 House of the DEV Group Co., Ltd.
+	 Samphanthawong,Bangkok,TH 10100
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PCC-SF.COM
+Domain Name:jaimac.com
+Record last updated at 2011-06-10 21:51:33
+Record created on 2001/6/5
+Record expired on 2012/6/5
+
+
+Domain servers in listed order:
+	 ns1.dnsthai.com 	 ns2.dnsthai.com
+
+Administrator:
+	 Name-- Chairat Sripongtanakul
+ EMail-: (info@hodgroup.com)
+ tel --: +66.22266112
+	 org: jaimac.com
+	 House of the DEV Group Co., Ltd.
+	 Samphanthawong,Bangkok,TH 10100
+
+Technical Contactor:
+	 Name-- Chairat Sripongtanakul
+ EMail-: (info@hodgroup.com)
+ tel --: +66.22266112
+	 org: jaimac.com
+	 House of the DEV Group Co., Ltd.
+	 Samphanthawong,Bangkok,TH 10100
+
+Billing Contactor:
+	 Name-- Chairat Sripongtanakul
+ EMail-: (info@hodgroup.com)
+ tel --: +66.22266112
+	 org: jaimac.com
+	 House of the DEV Group Co., Ltd.
+	 Samphanthawong,Bangkok,TH 10100
+
+
+Registration Service Provider:
+	name: YourConnect CO.,LTD.
+	tel: +66.26429838
+ 	fax: +66.26429839
+ 	web:http://www.yourconnect.com
