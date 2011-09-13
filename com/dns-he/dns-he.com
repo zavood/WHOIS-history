@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMMYR.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Domain Name: DNS-HE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.DNS-HE.COM
+   Name Server: NS2.DNS-HE.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 03-mar-2005
-   Expiration Date: 03-mar-2012
+   Updated Date: 26-mar-2010
+   Creation Date: 08-sep-2003
+   Expiration Date: 08-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:27 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... jimmyr.com
-  Creation Date........ 2005-03-04
-  Registration Date.... 2005-03-04
-  Expiry Date.......... 2012-03-04
-  Organisation Name.... Jimmy Ruska
-  Organisation Address. 7300 Stonybrooke
-  Organisation Address.
-  Organisation Address. North Richland Hills
-  Organisation Address. 76180
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
-
-Admin Name........... Jimmy Ruska
-  Admin Address........ 7300 Stonybrooke
-  Admin Address........
-  Admin Address........ North Richland Hills
-  Admin Address........ 76180
-  Admin Address........ Texas
-  Admin Address........ UNITED STATES
-  Admin Email.......... webmaster_jimmy@yahoo.com
-  Admin Phone.......... +817.7880704
-  Admin Fax............
-
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+=-=-=-=
+Visit AboutUs.org for more information about dns-he.com
+&lt;a href=&quot;http://www.aboutus.org/dns-he.com&quot;&gt;AboutUs: dns-he.com&lt;/a&gt;
 
 
+Domain name: dns-he.com
+
+Registrant Contact:
+   UK2 Group
+   Technical Support ()
+
+   Fax:
+   164 N Gateway Drive
+   Providence, UT 84332
+   US
+
+Administrative Contact:
+   UK2 Group
+   Technical Support (hostmaster@westhost.com)
+   +1.4357553433
+   Fax:
+   164 N Gateway Drive
+   Providence, UT 84332
+   US
+
+Technical Contact:
+   UK2 Group
+   Technical Support (hostmaster@westhost.com)
+   +1.4357553433
+   Fax:
+   164 N Gateway Drive
+   Providence, UT 84332
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.DNS-HE.COM
+   NS2.DNS-HE.COM
+
+Creation date: 08 Sep 2003 19:19:15
+Expiration date: 08 Sep 2012 19:19:15
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

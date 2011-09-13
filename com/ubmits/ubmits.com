@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMMYR.COM
+   Domain Name: UBMITS.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Name Server: DNS3.UBMITS.COM
+   Name Server: DNS4.UBMITS.COM
+   Name Server: NS1.CMPNET.COM
+   Name Server: NS2.CMPNET.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 03-mar-2005
-   Expiration Date: 03-mar-2012
+   Updated Date: 07-jun-2011
+   Creation Date: 24-jul-2003
+   Expiration Date: 24-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +54,42 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... jimmyr.com
-  Creation Date........ 2005-03-04
-  Registration Date.... 2005-03-04
-  Expiry Date.......... 2012-03-04
-  Organisation Name.... Jimmy Ruska
-  Organisation Address. 7300 Stonybrooke
+Domain Name.......... ubmits.com
+  Creation Date........ 2003-07-25
+  Registration Date.... 2006-01-30
+  Expiry Date.......... 2012-07-25
+  Organisation Name.... United Business Media Group Ltd
+  Organisation Address. Ludgate House, 245 Blackfriars Road
   Organisation Address.
-  Organisation Address. North Richland Hills
-  Organisation Address. 76180
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
+  Organisation Address. London
+  Organisation Address. SE1 9UY
+  Organisation Address. -
+  Organisation Address. GREAT BRITAIN (UK)
 
-Admin Name........... Jimmy Ruska
-  Admin Address........ 7300 Stonybrooke
+Admin Name........... Communications Dept
+  Admin Address........ Ludgate House, 245 Blackfriars Road
   Admin Address........
-  Admin Address........ North Richland Hills
-  Admin Address........ 76180
-  Admin Address........ Texas
-  Admin Address........ UNITED STATES
-  Admin Email.......... webmaster_jimmy@yahoo.com
-  Admin Phone.......... +817.7880704
+  Admin Address........ London
+  Admin Address........ SE1 9UY
+  Admin Address........ -
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... domains@ubmgroup.biz
+  Admin Phone.......... 44.2079215000
   Admin Fax............
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
+Tech Name............ Networks Team
+  Tech Address......... Sovereign House, Sovereign Way
   Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
+  Tech Address......... Tonbridge
+  Tech Address......... TN9 1RW
+  Tech Address......... -
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... admin@cmpinformation.com
+  Tech Phone........... 44.1732376644
   Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+  Name Server.......... dns4.ubmits.com
+  Name Server.......... ns1.cmpnet.com
+  Name Server.......... ns2.cmpnet.com
+  Name Server.......... dns3.ubmits.com
 
 

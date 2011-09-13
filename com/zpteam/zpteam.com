@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMMYR.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Domain Name: ZPTEAM.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 03-mar-2005
-   Expiration Date: 03-mar-2012
+   Updated Date: 06-apr-2011
+   Creation Date: 06-apr-2011
+   Expiration Date: 06-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name: zpteam.com
+Registered at http://www.dynadot.com
 
-Domain Name.......... jimmyr.com
-  Creation Date........ 2005-03-04
-  Registration Date.... 2005-03-04
-  Expiry Date.......... 2012-03-04
-  Organisation Name.... Jimmy Ruska
-  Organisation Address. 7300 Stonybrooke
-  Organisation Address.
-  Organisation Address. North Richland Hills
-  Organisation Address. 76180
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
+Registrant:
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
 
-Admin Name........... Jimmy Ruska
-  Admin Address........ 7300 Stonybrooke
-  Admin Address........
-  Admin Address........ North Richland Hills
-  Admin Address........ 76180
-  Admin Address........ Texas
-  Admin Address........ UNITED STATES
-  Admin Email.......... webmaster_jimmy@yahoo.com
-  Admin Phone.......... +817.7880704
-  Admin Fax............
+Administrative Contact:
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
+ibanez-death@hotmail.fr
++212 75660620
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+Technical Contact:
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
+ibanez-death@hotmail.fr
++212 75660620
 
+Record expires on 2012/04/06 UTC
+Record created on 2011/04/06 UTC
+
+Domain servers in listed order:
+ns1.dynadot.com
+ns2.dynadot.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/13 15:25:54 PST &lt;&lt;&lt;
 

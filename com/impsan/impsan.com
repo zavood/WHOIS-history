@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMMYR.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Domain Name: IMPSAN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HPDNS.COM.DIRECTIDELETEDDOMAIN.COM
+   Name Server: NS2.HPDNS.COM.DIRECTIDELETEDDOMAIN.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 03-mar-2005
-   Expiration Date: 03-mar-2012
+   Updated Date: 09-nov-2010
+   Creation Date: 12-nov-2004
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:25:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... jimmyr.com
-  Creation Date........ 2005-03-04
-  Registration Date.... 2005-03-04
-  Expiry Date.......... 2012-03-04
-  Organisation Name.... Jimmy Ruska
-  Organisation Address. 7300 Stonybrooke
-  Organisation Address.
-  Organisation Address. North Richland Hills
-  Organisation Address. 76180
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
-
-Admin Name........... Jimmy Ruska
-  Admin Address........ 7300 Stonybrooke
-  Admin Address........
-  Admin Address........ North Richland Hills
-  Admin Address........ 76180
-  Admin Address........ Texas
-  Admin Address........ UNITED STATES
-  Admin Email.......... webmaster_jimmy@yahoo.com
-  Admin Phone.......... +817.7880704
-  Admin Fax............
-
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+=-=-=-=
 
 
+Domain name: impsan.com
+
+Registrant Contact:
+   IMPSAN S.A.
+   Manuel Antonio Coello Uriarte ()
+
+   Fax:
+   Jr. Recavarren 103 - dpto. 1104
+   Miraflores, Lima 18
+   PE
+
+Administrative Contact:
+   IMPSAN S.A.
+   Manuel Antonio Coello Uriarte (impsan@terra.com)
+   511 446 4513
+   Fax: 511 446 4523
+   Jr. Recavarren 103 - dpto. 1104
+   Miraflores, Lima 18
+   PE
+
+Technical Contact:
+   SERVIDORES PERU S.A.
+   Rosa Maria Carrillo (info@servidoresperu.com)
+   +51.12419712
+   Fax: +51.14467294
+   Domingo Elias 164
+   Miraflores, PE Lima 18
+   PE
+
+Status: Locked
+
+Name Servers:
+   ns1.hpdns.com
+   ns2.hpdns.com
+
+Creation date: 12 Nov 2004 19:27:55
+Expiration date: 12 Nov 2011 19:27:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

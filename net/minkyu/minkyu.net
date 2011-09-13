@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMMYR.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Domain Name: MINKYU.NET
+   Registrar: ASADAL, INC.
+   Whois Server: whois.asadal.com
+   Referral URL: http://www.asadal.com
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS40.DNSEVER.COM
+   Name Server: NS54.DNSEVER.COM
+   Name Server: NS67.DNSEVER.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 03-mar-2005
-   Expiration Date: 03-mar-2012
+   Updated Date: 28-aug-2011
+   Creation Date: 28-aug-2002
+   Expiration Date: 28-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:26:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:25:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +53,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Asadal, Inc.(whois.asadal.com) Whois Service
 
-Domain Name.......... jimmyr.com
-  Creation Date........ 2005-03-04
-  Registration Date.... 2005-03-04
-  Expiry Date.......... 2012-03-04
-  Organisation Name.... Jimmy Ruska
-  Organisation Address. 7300 Stonybrooke
-  Organisation Address.
-  Organisation Address. North Richland Hills
-  Organisation Address. 76180
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
+Domain               : minkyu.net
 
-Admin Name........... Jimmy Ruska
-  Admin Address........ 7300 Stonybrooke
-  Admin Address........
-  Admin Address........ North Richland Hills
-  Admin Address........ 76180
-  Admin Address........ Texas
-  Admin Address........ UNITED STATES
-  Admin Email.......... webmaster_jimmy@yahoo.com
-  Admin Phone.......... +817.7880704
-  Admin Fax............
+Registered Date      : 2002. 08. 29.
+Expiration Date      : 2013. 08. 29.
+Valid Date           : 2012. 08. 29.
+Last Updated Date    : 2011. 08. 29.
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+Registrant           : Hong Geol Kim
+Email                : mtheart@naver.com
+Zip Code             : 442-740
+Address              : 1603-109 Youngtong-Dong Yeongtong-dong Suwon -si Paldal-gu Gyeonggi-do
+Phone                : 031-205-0197
+Publishes            : Y
+
+Administrative Contact : Hong Geol Kim
+Email                : mtheart@naver.com
+Zip Code             : 442-740
+Address              : 1603-109 Youngtong-Dong Yeongtong-dong Suwon -si Paldal-gu Gyeonggi-do
+Phone                : 031-205-0197
+Publishes            : Y
 
 
+Technical Contact    : Hong Geol Kim
+Email                : mtheart@naver.com
+Phone                : 031-205-0197
+Publishes            : Y
+
+Name Server          #1
+Hostname             : ns40.dnsever.com
+IP Address           : 121.254.154.170
+
+Name Server          #2
+Hostname             : ns54.dnsever.com
+IP Address           : 121.254.154.184
+
+Name Server          #3
+Hostname             : ns67.dnsever.com
+IP Address           : 121.254.154.197
+
+Name Server          #4
+Hostname             : ns231.dnsever.com
+IP Address           : 125.141.231.179
+
+Domain Status        : REGISTRAR-LOCK
+
+- ASADAL, Inc. -

@@ -1,0 +1,53 @@
+% Access to RESTENA DNS-LU WHOIS information is provided to assist persons
+% in determining the content of a domain name registration record in the LU
+% registration database. The data in this record is provided by RESTENA DNS-LU
+% for information purposes only, and RESTENA DNS-LU does not guarantee its
+% accuracy. Compilation, repackaging, dissemination or other use of the
+% WHOIS database in its entirety, or of a substantial part thereof, is not
+% allowed without the prior written permission of RESTENA DNS-LU.
+%
+% By submitting a WHOIS query, you agree to abide by this policy. You acknowledge
+% that the use of the WHOIS database is regulated by the ACCEPTABLE USE POLICY
+% (http://www.dns.lu/en/EN-LUCharteUtil.html), that you are aware of its
+% content, and that you accept its terms and conditions.
+%
+% You agree especially that you will use this data only for lawful purposes and
+% that you will not use this data to:
+% (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+% commercial advertising or solicitations via e-mail (spam); or
+% (2) enable high volume, automated, electronic processes that apply to
+% RESTENA DNS-LU (or its systems).
+%
+% All rights reserved.
+%
+% powered by Whois Server 3.1, (c) dns.be
+%
+% WHOIS lgl
+domainname:	lgl.lu
+domaintype:	ACTIVE
+nserver:	ns1.restena.lu
+nserver:	hal.lgl.lu [158.64.72.230]
+ownertype:	ORGANISATION
+registered:	31/05/1995
+org-name:	Lyc&eacute;e de Gar&ccedil;ons de Luxembourg
+org-address:	Place Auguste Laurent
+org-zipcode:	1921
+org-city:	Luxembourg
+org-country:	LU
+adm-name:	Monsieur le Directeur
+adm-address:	Place Auguste Laurent
+adm-zipcode:	1921
+adm-city:	Luxembourg
+adm-country:	LU
+adm-email:	nobody@dns.lu
+tec-name:	Monsieur le Directeur
+tec-address:	Place Auguste Laurent
+tec-zipcode:	1921
+tec-city:	Luxembourg
+tec-country:	LU
+tec-email:	nobody@dns.lu
+registrar-name:		Fondation RESTENA
+registrar-email:	domreg@dns.lu
+registrar-url:		http://www.dns.lu
+registrar-country:	LU
+

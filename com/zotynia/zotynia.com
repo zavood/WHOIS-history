@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-feb-2004
    Expiration Date: 19-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:26:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:25:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: zotynia.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 16:16:31 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 18:21:41 EDT 2011
 Reason Code: IE

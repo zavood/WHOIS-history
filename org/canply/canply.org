@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2105952-LROR
+Domain Name:CANPLY.ORG
+Created On:23-Aug-1997 04:00:00 UTC
+Last Updated On:12-Aug-2010 20:16:03 UTC
+Expiration Date:22-Aug-2015 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuE2nKi4wHJZGjJz
+Registrant Name:Dan Poh
+Registrant Organization:Canadian Plywood Association
+Registrant Street1:735 West 15th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:North Vancouver
+Registrant State/Province:BC
+Registrant Postal Code:V7M1T2
+Registrant Country:CA
+Registrant Phone:+1.6049814179
+Registrant Phone Ext.:
+Registrant FAX:+1.6049850342
+Registrant FAX Ext.:
+Registrant Email:poh@canply.org
+Admin ID:tuE2nKi4wHJZGjJz
+Admin Name:Dan Poh
+Admin Organization:Canadian Plywood Association
+Admin Street1:735 West 15th Street
+Admin Street2:
+Admin Street3:
+Admin City:North Vancouver
+Admin State/Province:BC
+Admin Postal Code:V7M1T2
+Admin Country:CA
+Admin Phone:+1.6049814179
+Admin Phone Ext.:
+Admin FAX:+1.6049850342
+Admin FAX Ext.:
+Admin Email:poh@canply.org
+Tech ID:tuauIdGTIj4dbEpe
+Tech Name:Saied Toussi
+Tech Organization:2ic Systems Inc.
+Tech Street1:3855
+Tech Street2:114
+Tech Street3:Henning Dr.
+Tech City:Burnaby
+Tech State/Province:BC
+Tech Postal Code:V5C6N3
+Tech Country:CA
+Tech Phone:+1.6044739700
+Tech Phone Ext.:
+Tech FAX:+1.6044739080
+Tech FAX Ext.:
+Tech Email:stoussi@smartt.com
+Name Server:KTK1.SMARTT.COM
+Name Server:KTK2.SMARTT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
