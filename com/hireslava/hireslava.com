@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KELLYSDESIGNERDRAPERIES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: HIRESLAVA.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS3.NIC.RU
+   Name Server: NS4.NIC.RU
+   Name Server: NS8.NIC.RU
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-jun-2010
-   Creation Date: 14-dec-2008
-   Expiration Date: 14-dec-2012
+   Updated Date: 27-mar-2011
+   Creation Date: 28-mar-2010
+   Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:14:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:14:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain name:             HIRESLAVA.COM
+Name Server:             ns3.nic.ru
+Name Server:             ns4.nic.ru
+Name Server:             ns8.nic.ru
+Creation Date:           2010.03.28
+Updated Date:            2010.03.28
+Expiration Date:         2012.03.28
 
+Status:                  DELEGATED
 
-Registrant:
-   leigh sarver
+Registrant ID:           EJNWQK1-RU
+Registrant Name:         Vyacheslav A Silchenko
+Registrant Organization: Vyacheslav A Silchenko
+Registrant Street1:      Partsiezda 57-33
+Registrant City:         Omsk
+Registrant State:        Omskaya obl.
+Registrant Postal Code:  644077
+Registrant Country:      RU
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KELLYSDESIGNERDRAPERIES.COM
+Administrative, Technical Contact
+Contact ID:              EJNWQK1-RU
+Contact Name:            Vyacheslav A Silchenko
+Contact Organization:    Vyacheslav A Silchenko
+Contact Street1:         Partsiezda 57-33
+Contact City:            Omsk
+Contact State:           Omskaya obl.
+Contact Postal Code:     644077
+Contact Country:         RU
+Contact Phone:           +7 913 9698466
+Contact E-mail:          mail@de-sign.ru
 
-   Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
+Last updated on 2011.09.13 05:14:47 MSK/MSD
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KELLYSDESIGNERDRAPERIES.COM
