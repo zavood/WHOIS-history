@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREE-BEAUTY-TIPS.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
+   Domain Name: PETELL.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS1.UHOST.CO.KR
+   Name Server: NS2.UHOST.CO.KR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2008
-   Creation Date: 04-sep-2000
-   Expiration Date: 04-sep-2017
+   Updated Date: 27-feb-2011
+   Creation Date: 19-mar-2004
+   Expiration Date: 19-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+--------------------------------------------------------------------------------------
+Please be informed that this domain is registered with private registration service and
+the registrant name specified in the &quot;registrant&quot; field is not the registrant.
+ Please use the following URL for the registrant contact or whois info inquiry request.
+http://whoisdomain.kr/proxy/proxy_contact.php
+--------------------------------------------------------------------------------------
+
+Domain Name : petell.com
+
+::Registrant::
+Name : Whois Domain Admin.
+Email : admin@whoisblind.com
+Address : #1101 Daerung post tower 182-4 guro3dong guro gu
+Zipcode : 152847
+Nation : KR
+Tel : 82-2-1588-4259
+Fax : 82-02-1588-4259
+
+::Administrative Contact::
+Name : Whois Domain Admin.
+Email : admin@whoisblind.com
+Address : #1101 Daerung post tower 182-4 guro3dong guro gu
+Zipcode : 152847
+Nation : KR
+Tel : 82-2-1588-4259
+Fax : 82-02-1588-4259
+
+::Technical Contact::
+Name : Whois Domain Admin.
+Email : admin@whoisblind.com
+Address : #1101 Daerung post tower 182-4 guro3dong guro gu
+Zipcode : 152847
+Nation : KR
+Tel : 82-2-1588-4259
+Fax : 82-02-1588-4259
+
+::Name Servers::
+ns1.uhost.co.kr
+ns2.uhost.co.kr
+
+::Dates &amp; Status::
+Created Date : 2004/03/19 04:29:11 EST
+Updated Date : 2011/02/28 05:54:30 EST
+Valid Date : 2014/03/19 03:29:11 EST
+Status ACTIVE
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

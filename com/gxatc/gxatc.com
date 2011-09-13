@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREE-BEAUTY-TIPS.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
+   Domain Name: GXATC.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.PARKINGHELP.NET
+   Name Server: NS2.PARKINGHELP.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2008
-   Creation Date: 04-sep-2000
-   Expiration Date: 04-sep-2017
+   Updated Date: 30-aug-2011
+   Creation Date: 26-aug-2006
+   Expiration Date: 26-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:34:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+
+Domain Name.......... gxatc.com
+  Creation Date........ 2006-08-27 10:37:58
+  Registration Date.... 2006-08-27 10:37:58
+  Expiry Date.......... 2011-08-27 10:37:58
+  Organisation Name.... nn xyr
+  Organisation Address. nanning
+  Organisation Address.
+  Organisation Address. nanning
+  Organisation Address. 541000
+  Organisation Address. GX
+  Organisation Address. CN
+
+Admin Name........... nnxyr
+  Admin Address........ nanning
+  Admin Address........
+  Admin Address........ nanning
+  Admin Address........ 541000
+  Admin Address........ GX
+  Admin Address........ CN
+  Admin Email.......... jztdx@163.com
+  Admin Phone.......... +86.7715805337-0
+  Admin Fax............ +86.7715805317
+
+Tech Name............ Yang yang
+  Tech Address......... shanghai
+  Tech Address.........
+  Tech Address......... shanghai
+  Tech Address......... 200439
+  Tech Address......... SH
+  Tech Address......... CN
+  Tech Email........... agent10979@agent.dns.com.cn
+  Tech Phone........... +86.210
+  Tech Fax............. +86.210
+
+Bill Name............ Yang yang
+  Bill Address......... shanghai
+  Bill Address.........
+  Bill Address......... shanghai
+  Bill Address......... 200439
+  Bill Address......... SH
+  Bill Address......... CN
+  Bill Email........... agent10979@agent.dns.com.cn
+  Bill Phone........... +86.210
+  Bill Fax............. +86.210
+  Name Server.......... ns1.dns.com.cn
+  Name Server.......... ns2.dns.com.cn

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D70906650-LROR
+Domain Name:FOX-TOOLKIT.ORG
+Created On:16-May-2001 17:59:16 UTC
+Last Updated On:22-Apr-2010 01:06:18 UTC
+Expiration Date:16-May-2012 17:59:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30856881
+Registrant Name:Jeroen van der Zijp
+Registrant Organization:FOX Toolkit
+Registrant Street1:517 Brenda dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madison
+Registrant State/Province:Alabama
+Registrant Postal Code:35758
+Registrant Country:US
+Registrant Phone:+1.12567727506
+Registrant Phone Ext.:
+Registrant FAX:+1.12567727506
+Registrant FAX Ext.:
+Registrant Email:jvdzijp@gmail.com
+Admin ID:CR30856883
+Admin Name:Jeroen van der Zijp
+Admin Organization:FOX Toolkit
+Admin Street1:517 Brenda dr
+Admin Street2:
+Admin Street3:
+Admin City:Madison
+Admin State/Province:Alabama
+Admin Postal Code:35758
+Admin Country:US
+Admin Phone:+1.12567727506
+Admin Phone Ext.:
+Admin FAX:+1.12567727506
+Admin FAX Ext.:
+Admin Email:jvdzijp@gmail.com
+Tech ID:CR30856882
+Tech Name:Jeroen van der Zijp
+Tech Organization:FOX Toolkit
+Tech Street1:517 Brenda dr
+Tech Street2:
+Tech Street3:
+Tech City:Madison
+Tech State/Province:Alabama
+Tech Postal Code:35758
+Tech Country:US
+Tech Phone:+1.12567727506
+Tech Phone Ext.:
+Tech FAX:+1.12567727506
+Tech FAX Ext.:
+Tech Email:jvdzijp@gmail.com
+Name Server:NS3.NO-IP.COM
+Name Server:NS2.NO-IP.COM
+Name Server:NS1.NO-IP.COM
+Name Server:NS4.NO-IP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

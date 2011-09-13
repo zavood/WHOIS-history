@@ -5,22 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREE-BEAUTY-TIPS.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
+   Domain Name: IDIVA.COM
+   Registrar: TIMES INTERNET LIMITED
+   Whois Server: whois.indiatimes.com
+   Referral URL: http://www.indiatimes.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-sep-2008
-   Creation Date: 04-sep-2000
-   Expiration Date: 04-sep-2017
+   Updated Date: 28-oct-2010
+   Creation Date: 16-nov-1999
+   Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +56,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Idiva
+ times house
+ Mumbai, Maharashtra 400013
+ IN
+
+ Domain name: IDIVA.COM
+
+
+ Administrative Contact:
+    Radhakrishnan, Abhimanyu  corp.domains@indiatimes.co.in
+    times house
+    Mumbai, Maharashtra 400013
+    IN
+    +91.2230989003
+ Technical Contact:
+    Radhakrishnan, Abhimanyu  corp.domains@indiatimes.co.in
+    times house
+    Mumbai, Maharashtra 400013
+    IN
+    +91.2230989003
+ Billing Contact:
+    Radhakrishnan, Abhimanyu  corp.domains@indiatimes.co.in
+    times house
+    Mumbai, Maharashtra 400013
+    IN
+    +91.2230989003
+
+ Registration Service Provider:
+    Times Internet Ltd., corp.domains@indiatimes.co.in
+    +911244187000
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+
+ Registrar of Record: Times Internet Ltd.
+ Record last updated on 28-Oct-2010.
+ Record expires on 16-Nov-2011.
+ Record created on 16-Nov-1999.
+
+ Domain servers in listed order:
+    PDNS3.ULTRADNS.ORG
+    PDNS2.ULTRADNS.NET
+    PDNS1.ULTRADNS.NET
+    PDNS6.ULTRADNS.CO.UK
+    PDNS5.ULTRADNS.INFO
+    PDNS4.ULTRADNS.ORG
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+

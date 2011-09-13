@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158405240-LROR
+Domain Name:HIDDENVIDEO.ORG
+Created On:19-Feb-2010 17:30:21 UTC
+Last Updated On:22-Apr-2011 07:46:04 UTC
+Expiration Date:19-Feb-2012 17:30:21 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu717YLjaIRdnXWt
+Registrant Name:Contact Privacy Inc. Customer 0123097536
+Registrant Organization:Contact Privacy Inc. Customer 0123097536
+Registrant Street1:96 Mowat Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M6K3M1
+Registrant Country:CA
+Registrant Phone:+1.4165385457
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hiddenvideo.org@contactprivacy.com
+Admin ID:tu717YLjaIRdnXWt
+Admin Name:Contact Privacy Inc. Customer 0123097536
+Admin Organization:Contact Privacy Inc. Customer 0123097536
+Admin Street1:96 Mowat Ave
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M6K3M1
+Admin Country:CA
+Admin Phone:+1.4165385457
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hiddenvideo.org@contactprivacy.com
+Tech ID:tu717YLjaIRdnXWt
+Tech Name:Contact Privacy Inc. Customer 0123097536
+Tech Organization:Contact Privacy Inc. Customer 0123097536
+Tech Street1:96 Mowat Ave
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M6K3M1
+Tech Country:CA
+Tech Phone:+1.4165385457
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hiddenvideo.org@contactprivacy.com
+Name Server:NS2.IPOWER.COM
+Name Server:NS1.IPOWER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREE-BEAUTY-TIPS.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
+   Domain Name: GODOFINSECTS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS53.WORLDNIC.COM
+   Name Server: NS54.WORLDNIC.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2008
-   Creation Date: 04-sep-2000
-   Expiration Date: 04-sep-2017
+   Updated Date: 05-sep-2011
+   Creation Date: 15-sep-2000
+   Expiration Date: 15-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:34:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: godofinsects.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 17:30:12 EDT 2011
+Reason Code: IE

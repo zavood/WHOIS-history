@@ -1,0 +1,33 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       datanet.ee
+registrant:   CID:LINXTELECOM:10784403
+admin-c:      CID:LINXTELECOM:38101200224
+nsset:        NSSID:LINXTELECOM:DATANET.EE
+registrar:    linxtelecom
+status:       paid and in zone
+registered:   04.07.2010 04:11:49
+changed:      15.08.2011 15:39:29
+expire:       14.12.2011
+
+contact:      CID:LINXTELECOM:10784403
+org:          Linxtelecom Estonia O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      08.07.2010 15:07:31
+
+contact:      CID:LINXTELECOM:38101200224
+name:         Ivo Saluoks
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      24.01.2011 12:25:22
+
+nsset:        NSSID:LINXTELECOM:DATANET.EE
+nserver:      ns.eunet.ee (195.222.0.1)
+nserver:      ns.data.ee (195.222.4.1)
+tech-c:       CID:LINXTELECOM:10784403
+registrar:    linxtelecom
+created:      14.12.2010 16:05:31
+
+

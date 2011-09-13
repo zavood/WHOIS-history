@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREE-BEAUTY-TIPS.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2008
-   Creation Date: 04-sep-2000
-   Expiration Date: 04-sep-2017
+   Domain Name: NOUKIN.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.DNS.NE.JP
+   Name Server: NS2.DNS.NE.JP
+   Status: ok
+   Updated Date: 26-jan-2011
+   Creation Date: 26-mar-2005
+   Expiration Date: 26-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:34:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+
+Domain Name.......... noukin.com
+  Creation Date........ 2005-03-26
+  Registration Date.... 2005-06-15
+  Expiry Date.......... 2012-03-26
+  Organisation Name.... Shinji Tamura
+  Organisation Address. ...
+  Organisation Address.
+  Organisation Address. ...
+  Organisation Address. 140 0000
+  Organisation Address. tokyo
+  Organisation Address. JAPAN
+
+Admin Name........... Shinji Tamura
+  Admin Address........ ...
+  Admin Address........
+  Admin Address........ ...
+  Admin Address........ 140 0000
+  Admin Address........ tokyo
+  Admin Address........ JAPAN
+  Admin Email.......... maounet@gmail.com
+  Admin Phone.......... 816.00000000
+  Admin Fax............
+
+Tech Name............ Kunihiro Tanaka
+  Tech Address......... 1-9-26 Senba IS Buildling.3F
+  Tech Address......... Kuntaro-cho , Chuou-ku
+  Tech Address......... Osaka City
+  Tech Address......... 541-0056
+  Tech Address......... OSAKA
+  Tech Address......... JAPAN
+  Tech Email........... tanaka@sakura.ad.jp
+  Tech Phone........... 816.62654830
+  Tech Fax............. 813.62654834
+  Name Server.......... NS1.DNS.NE.JP
+  Name Server.......... NS2.DNS.NE.JP
+
+
