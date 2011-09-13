@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 02:33:00 2011
+
+domain:       projekt-baraka.cz
+registrant:   KACERR
+admin-c:      UAM99CJK
+admin-c:      UAM-VM
+nsset:        MYSHCZ
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   02.09.2008 15:49:11
+expire:       02.09.2012
+
+contact:      KACERR
+name:         Radim Ka&Auml;çer
+address:      &Aring;&frac12;i&Aring;&frac34;kova 18
+address:      Vy&Aring;&iexcl;kov
+address:      682 01
+address:      CZ
+phone:        +420.605780387
+e-mail:       kacerr@kacerr.cz
+registrar:    REG-ACTIVE24
+created:      23.10.2003 18:35:00
+
+contact:      UAM99CJK
+name:         Jan Ku&Auml;çera
+address:      Po&Auml;çernick&Atilde;&iexcl; 467/44
+address:      Praha 10
+address:      108 00
+address:      CZ
+e-mail:       uam@centrum.cz
+registrar:    REG-IGNUM
+created:      06.11.2005 19:35:00
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;ôilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+nsset:        MYSHCZ
+nserver:      ns2.mysh.cz (195.122.199.198)
+nserver:      ns3.mysh.cz (90.182.144.165)
+nserver:      ns1.mysh.cz (95.168.208.231)
+tech-c:       UAM-VM
+registrar:    REG-IGNUM
+created:      31.10.2007 10:11:02
+changed:      21.05.2011 13:59:35
+
+

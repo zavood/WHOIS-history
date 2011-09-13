@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IGNPHRASES.COM
+   Domain Name: SNITCH.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2002
-   Expiration Date: 27-jun-2011
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   Status: clientTransferProhibited
+   Updated Date: 06-sep-2011
+   Creation Date: 11-nov-1999
+   Expiration Date: 11-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:31:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+=-=-=-=
+Visit AboutUs.org for more information about snitch.com
+&lt;a href=&quot;http://www.aboutus.org/snitch.com&quot;&gt;AboutUs: snitch.com&lt;/a&gt;
+
+
+Domain name: snitch.com
+
+Registrant Contact:
+   Insane Entertainment, LLC
+   Adam Maysonet ()
+
+   Fax:
+   4939 Cypress Way
+   Coconut Creek, FL 33073
+   US
+
+Administrative Contact:
+   Insane Entertainment, LLC
+   Adam Maysonet (synozeer@bellsouth.net)
+   +1.9544216994
+   Fax:
+   4939 Cypress Way
+   Coconut Creek, FL 33073
+   US
+
+Technical Contact:
+   Insane Entertainment, LLC
+   Adam Maysonet (synozeer@bellsouth.net)
+   +1.9544216994
+   Fax:
+   4939 Cypress Way
+   Coconut Creek, FL 33073
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.sedoparking.com
+   ns2.sedoparking.com
+
+Creation date: 11 Nov 1999 20:30:34
+Expiration date: 11 Nov 2011 20:30:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

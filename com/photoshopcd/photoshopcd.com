@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IGNPHRASES.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2002
-   Expiration Date: 27-jun-2011
+   Domain Name: PHOTOSHOPCD.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: RNS1.LOOKWHOIS.COM
+   Name Server: RNS2.LOOKWHOIS.COM
+   Status: ok
+   Updated Date: 17-aug-2009
+   Creation Date: 13-dec-2002
+   Expiration Date: 13-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

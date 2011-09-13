@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IGNPHRASES.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2002
-   Expiration Date: 27-jun-2011
+   Domain Name: PLANETSEEK.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.PARKED.COM
+   Name Server: NS2.PARKED.COM
+   Status: clientDeleteProhibited
+   Status: clientHold
+   Status: clientTransferProhibited
+   Updated Date: 30-aug-2011
+   Creation Date: 29-aug-2008
+   Expiration Date: 29-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:31:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +53,33 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+
+Domain planetseek.com:
+  Grattan Group Capital
+  Suite 201, 1002 High Stree
+  Armadale, Vic 3143 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Grattan Group Capital
+  Rob Baumert
+  ghunt@ggc.com.au
+  Suite 201, 1002 High Stree
+  Armadale, Vic 3143 AU
+  Phone: +61.395099700
+  Fax:
+
+Record dates:
+  Record created on: 2008-08-29 04:26:51 UTC
+  Record modified on: 2011-08-30 19:40:00 UTC
+  Record expires on: 2011-08-29 UTC
+
+Nameservers:
+  ns1.parked.com:
+    69.46.226.23
+  ns2.parked.com:
+    69.46.227.24
+
+Note: Automated collection of data from this database is strictly prohibited.
+

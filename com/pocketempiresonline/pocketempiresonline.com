@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IGNPHRASES.COM
+   Domain Name: POCKETEMPIRESONLINE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2002
-   Expiration Date: 27-jun-2011
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 07-apr-2011
+   Creation Date: 08-apr-2010
+   Expiration Date: 08-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:36 UTC &lt;&lt;&lt;
 
@@ -54,4 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+=-=-=-=
+Visit AboutUs.org for more information about pocketempiresonline.com
+&lt;a href=&quot;http://www.aboutus.org/pocketempiresonline.com&quot;&gt;AboutUs: pocketempiresonline.com&lt;/a&gt;
+
+
+Domain name: pocketempiresonline.com
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O pocketempiresonline.com
+   Bellevue, WA 98007
+   US
+
+Administrative Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (bmrjvmbpff@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O pocketempiresonline.com
+   Bellevue, WA 98007
+   US
+
+Technical Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (bmrjvmbpff@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O pocketempiresonline.com
+   Bellevue, WA 98007
+   US
+
+Status: Active
+
+Name Servers:
+   ns1.pipedns.com
+   ns2.pipedns.com
+
+Creation date: 08 Apr 2010 18:05:00
+Expiration date: 08 Apr 2012 13:05:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
