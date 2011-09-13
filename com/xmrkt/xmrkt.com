@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMEZONE.COM
+   Domain Name: XMRKT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.DOMAINCONTROL.COM
-   Name Server: NS18.DOMAINCONTROL.COM
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-oct-1994
-   Expiration Date: 30-oct-2019
+   Updated Date: 11-jun-2009
+   Creation Date: 11-jun-2009
+   Expiration Date: 11-jun-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:25 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Intergi, inc.
+   Robert Sterling
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMEZONE.COM
+   Domain Name: XMRKT.COM
 
    Domain servers in listed order:
-      NS17.DOMAINCONTROL.COM
-      NS18.DOMAINCONTROL.COM
+      NS1.EAPPS.COM
+      NS2.EAPPS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMEZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=XMRKT.COM

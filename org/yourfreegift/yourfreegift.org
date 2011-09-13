@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108097422-LROR
+Domain Name:YOURFREEGIFT.ORG
+Created On:03-Nov-2005 03:32:57 UTC
+Last Updated On:14-Oct-2010 11:26:47 UTC
+Expiration Date:03-Nov-2011 03:32:57 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:8895A82FB5E97269
+Registrant Name:Paul Diemer
+Registrant Organization:Bit Wise Publishing, LLC
+Registrant Street1:PO Box 50
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cumming
+Registrant State/Province:GA
+Registrant Postal Code:30028
+Registrant Country:US
+Registrant Phone:+1.6785130170
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@bitwisepublishing.com
+Admin ID:ec3dc646124
+Admin Name:Diemer
+Admin Organization:Bit Wise Publishing, LLC
+Admin Street1:PO Box 50
+Admin Street2:
+Admin Street3:
+Admin City:Cumming
+Admin State/Province:P
+Admin Postal Code:30028
+Admin Country:US
+Admin Phone:+1.6785130170
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@bitwisepublishing.com
+Tech ID:8895A82FB5E97269
+Tech Name:Paul Diemer
+Tech Organization:Bit Wise Publishing, LLC
+Tech Street1:PO Box 50
+Tech Street2:
+Tech Street3:
+Tech City:Cumming
+Tech State/Province:GA
+Tech Postal Code:30028
+Tech Country:US
+Tech Phone:+1.6785130170
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@bitwisepublishing.com
+Name Server:NS1.SOFTLAYER.COM
+Name Server:NS2.SOFTLAYER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

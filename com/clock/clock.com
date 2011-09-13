@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMEZONE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.DOMAINCONTROL.COM
-   Name Server: NS18.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-oct-1994
-   Expiration Date: 30-oct-2019
+   Domain Name: CLOCK.COM
+   Registrar: NAMEVIEW, INC.
+   Whois Server: whois.nameview.com
+   Referral URL: http://www.nameview.com
+   Name Server: NS1.HITFARM.COM
+   Name Server: NS2.HITFARM.COM
+   Status: ok
+   Updated Date: 07-sep-2011
+   Creation Date: 13-may-1997
+   Expiration Date: 14-may-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Access to the WHOIS database of Nameview, Inc. is for informational purposes
+only.  This information is made available &quot;as is,&quot; and its accuracy is not
+guaranteed.  The compilation, repackaging, dissemination or other use of
+Nameview, Inc.'s WHOIS information in its entirety, or a substantial portion
+thereof, is expressly prohibited without the prior written consent of Nameview,
+Inc.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+By accessing and using our WHOIS information, you agree to these terms.
 
+Domain:  CLOCK.COM
 
-Registrant:
-   Intergi, inc.
+Created: 1997-05-12
+Updated: 2011-09-06
+Expires: 2018-05-13
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMEZONE.COM
+    Registrant
+       Administrator, Domain
+       Vertical Axis Inc.
+       P.O. Box 186W
+       Worthing
+       Christ Church
+       BB   BB11114
 
-   Domain servers in listed order:
-      NS17.DOMAINCONTROL.COM
-      NS18.DOMAINCONTROL.COM
+    Administrative Contact
+       Administrator, Domain
+       Vertical Axis Inc.
+       P.O. Box 186W
+       Worthing
+       Christ Church
+       BB   BB11114
+       E-mail: mail1@verticalaxis.com
+       Phone:  2464350522
+       Fax:    2464350525
 
+    Technical Contact
+       Administrator, Domain
+       Vertical Axis Inc.
+       P.O. Box 186W
+       Worthing
+       Christ Church
+       BB   BB11114
+       E-mail: mail1@verticalaxis.com
+       Phone:  2464350522
+       Fax:    2464350525
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMEZONE.COM
+    Name servers for this domain:
+
+        NS1.HITFARM.COM  72.51.27.54
+        NS2.HITFARM.COM  208.87.33.160
+
+The use of any automated Whois harvesting tool is a violation of our terms
+of service and may result in permanent firewall entries for your IP space.
+We do not give warnings or notifications.
+

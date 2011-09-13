@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMEZONE.COM
+   Domain Name: WENDYNICHOLNYC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.DOMAINCONTROL.COM
-   Name Server: NS18.DOMAINCONTROL.COM
+   Name Server: NS03.DOMAINCONTROL.COM
+   Name Server: NS04.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-oct-1994
-   Expiration Date: 30-oct-2019
+   Updated Date: 07-feb-2011
+   Creation Date: 11-apr-2006
+   Expiration Date: 11-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:25 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Intergi, inc.
+   Wendy Nichol LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMEZONE.COM
+   Domain Name: WENDYNICHOLNYC.COM
 
    Domain servers in listed order:
-      NS17.DOMAINCONTROL.COM
-      NS18.DOMAINCONTROL.COM
+      NS03.DOMAINCONTROL.COM
+      NS04.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMEZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WENDYNICHOLNYC.COM

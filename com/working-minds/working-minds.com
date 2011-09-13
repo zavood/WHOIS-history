@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMEZONE.COM
+   Domain Name: WORKING-MINDS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.DOMAINCONTROL.COM
-   Name Server: NS18.DOMAINCONTROL.COM
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-oct-1994
-   Expiration Date: 30-oct-2019
+   Updated Date: 28-jul-2009
+   Creation Date: 05-jul-2000
+   Expiration Date: 25-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Intergi, inc.
+   G.E. Nordell
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMEZONE.COM
+   Domain Name: WORKING-MINDS.COM
 
    Domain servers in listed order:
-      NS17.DOMAINCONTROL.COM
-      NS18.DOMAINCONTROL.COM
+      NS1.NETFIRMS.COM
+      NS2.NETFIRMS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMEZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WORKING-MINDS.COM

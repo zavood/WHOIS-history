@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMEZONE.COM
+   Domain Name: EARNZ.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.DOMAINCONTROL.COM
-   Name Server: NS18.DOMAINCONTROL.COM
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-oct-1994
-   Expiration Date: 30-oct-2019
+   Updated Date: 28-jun-2011
+   Creation Date: 07-aug-2008
+   Expiration Date: 07-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:51:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:52:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Intergi, inc.
+   Sjur Reinsnos
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMEZONE.COM
+   Domain Name: EARNZ.COM
 
    Domain servers in listed order:
-      NS17.DOMAINCONTROL.COM
-      NS18.DOMAINCONTROL.COM
+      NS1.PIPEDNS.COM
+      NS2.PIPEDNS.COM
+      NS3.PIPEDNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMEZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EARNZ.COM

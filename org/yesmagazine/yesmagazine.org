@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6878590-LROR
+Domain Name:YESMAGAZINE.ORG
+Created On:28-May-1999 19:00:33 UTC
+Last Updated On:13-Jan-2010 07:07:03 UTC
+Expiration Date:28-May-2019 19:01:09 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26931055-NSI
+Registrant Name:Positive Futures Network
+Registrant Organization:Positive Futures Network
+Registrant Street1:P.O. Box 10818
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bainbridge Island
+Registrant State/Province:WA
+Registrant Postal Code:98110
+Registrant Country:US
+Registrant Phone:+1.20684202
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:audrey@GALISTEO.COM
+Admin ID:26931056-NSI
+Admin Name:PFN
+Admin Organization:PFN
+Admin Street1:P.O. Box 10818
+Admin Street2:
+Admin Street3:
+Admin City:Bainbridge Island
+Admin State/Province:WA
+Admin Postal Code:98110
+Admin Country:US
+Admin Phone:+1.206842021
+Admin Phone Ext.:
+Admin FAX:+1.999999999
+Admin FAX Ext.:
+Admin Email:audrey@GALISTEO.COM
+Tech ID:37333667-NSI
+Tech Name:Glenn Morrissey
+Tech Street1:PO Box 10518
+Tech Street2:
+Tech Street3:
+Tech City:Bainbridge Island
+Tech State/Province:WA
+Tech Postal Code:98110
+Tech Country:US
+Tech Phone:+1.2063101066
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:glenn@morrissey.com
+Name Server:NS45.WORLDNIC.COM
+Name Server:NS46.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
