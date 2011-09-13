@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152941300-LROR
+Domain Name:AGENCIAORBITA.ORG
+Created On:09-Jun-2008 19:47:21 UTC
+Last Updated On:26-Jul-2011 07:25:32 UTC
+Expiration Date:09-Jun-2012 19:47:21 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C00002B032
+Registrant Name:Walter Cortez
+Registrant Organization:AgenciaOrbita
+Registrant Street1:Av. El Buen Retiro 100
+Registrant Street2:Monterrico
+Registrant Street3:
+Registrant City:Surco
+Registrant State/Province:Lima
+Registrant Postal Code:511
+Registrant Country:PE
+Registrant Phone:+51.7951880
+Registrant Phone Ext.:
+Registrant FAX:+51.7951880
+Registrant FAX Ext.:
+Registrant Email:271b024c9055a0c9e3e8e94ca65f93aecac9db09@whois.gkg.net
+Admin ID:GKG-C00002B032
+Admin Name:Walter Cortez
+Admin Organization:AgenciaOrbita
+Admin Street1:Av. El Buen Retiro 100
+Admin Street2:Monterrico
+Admin Street3:
+Admin City:Surco
+Admin State/Province:Lima
+Admin Postal Code:511
+Admin Country:PE
+Admin Phone:+51.7951880
+Admin Phone Ext.:
+Admin FAX:+51.7951880
+Admin FAX Ext.:
+Admin Email:271b024c9055a0c9e3e8e94ca65f93aecac9db09@whois.gkg.net
+Tech ID:GKG-C00002B032
+Tech Name:Walter Cortez
+Tech Organization:AgenciaOrbita
+Tech Street1:Av. El Buen Retiro 100
+Tech Street2:Monterrico
+Tech Street3:
+Tech City:Surco
+Tech State/Province:Lima
+Tech Postal Code:511
+Tech Country:PE
+Tech Phone:+51.7951880
+Tech Phone Ext.:
+Tech FAX:+51.7951880
+Tech FAX Ext.:
+Tech Email:271b024c9055a0c9e3e8e94ca65f93aecac9db09@whois.gkg.net
+Name Server:NS23.SUPERDNSSITE.COM
+Name Server:NS24.SUPERDNSSITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

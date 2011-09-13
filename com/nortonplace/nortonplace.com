@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;BORGG.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:07:22 UTC &lt;&lt;&lt;
+   Domain Name: NORTONPLACE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS15A.BOCA15-VERIO.COM
+   Name Server: NS15B.BOCA15-VERIO.COM
+   Status: ok
+   Updated Date: 24-oct-2010
+   Creation Date: 24-oct-2000
+   Expiration Date: 24-oct-2011
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:05:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... nortonplace.com
+  Creation Date........ 2000-10-25
+  Registration Date.... 2000-10-25
+  Expiry Date.......... 2011-10-25
+  Organisation Name.... Norton
+  Organisation Address. 15243 NE 71st Ct.
+  Organisation Address.
+  Organisation Address. Redmond
+  Organisation Address. 98052
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Fred Norton
+  Admin Address........ 15243 NE 71st Ct.
+  Admin Address........
+  Admin Address........ Redmond
+  Admin Address........ 98052
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... fredn@microsoft.com
+  Admin Phone.......... (425)376-2599
+  Admin Fax............
+
+Tech Name............ Verio Hostmaster
+  Tech Address......... 5050 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax.............
+  Name Server.......... ns15a.boca15-verio.com
+  Name Server.......... ns15b.boca15-verio.com
+
+

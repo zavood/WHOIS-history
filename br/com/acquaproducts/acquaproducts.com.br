@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:07:22 (BRT -03:00)
+
+domain:      acquaproducts.com.br
+owner:       Acqua Products S/A
+ownerid:     004.069.988/0001-04
+responsible: Luiz Felipe Taunay
+country:     BR
+owner-c:     FET72
+admin-c:     FET72
+tech-c:      WLT19
+billing-c:   FET72
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20020502 #824202
+expires:     20120502
+changed:     20110516
+status:      published
+
+nic-hdl-br:  FET72
+person:      Felipe Taunay
+e-mail:      felipetaunay@hotmail.com
+created:     20020405
+changed:     20051025
+
+nic-hdl-br:  WLT19
+person:      Walter Lomanto Sampaio Tavares
+e-mail:      walterlomanto@gmail.com
+created:     20030122
+changed:     20070913
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

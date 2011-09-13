@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;BORGG.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:07:22 UTC &lt;&lt;&lt;
+   Domain Name: FITYOUNGMEN.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NATIONALNET.COM
+   Name Server: NS2.NATIONALNET.COM
+   Status: ok
+   Updated Date: 01-aug-2011
+   Creation Date: 08-oct-2009
+   Expiration Date: 08-oct-2013
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:06:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Nick Baker (NICKB93633)
+  11 Shillingford Street
+
+  London, , N1 2DP
+  GB
+
+  Domain name: fityoungmen.com
+
+Technical contact:
+  Limited, Easily (EL3708)
+  Easily Limited
+  3rd Floor, Prospero House
+  241 Borough High Street
+  London, SE1 1GA
+  GB
+  domain-admin@easily.co.uk
+  +44.8704589450 Fax: +44.8704589458
+
+Administrative contact:
+  Limited, Easily (EL72963)
+  Easily Limited
+  3rd Floor, Prospero House
+  241 Borough High Street
+  London, SE1 1GA
+  GB
+  domain-admin@easily.co.uk
+  +44.8704589450 Fax: +44.8704589458
+
+Record created:           2011-02-14 08:44:10
+Record last updated:      2011-08-02 16:21:41
+Record expires:           2013-10-08 15:38:00
+
+Domain servers in listed order:
+  ns1.nationalnet.com (NS1NA24061)
+  ns2.nationalnet.com (NS2NA24061)

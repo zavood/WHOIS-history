@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;BORGG.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:07:22 UTC &lt;&lt;&lt;
+   Domain Name: HOTSPOTSYSTEM.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.INTERPEST.NET
+   Name Server: NS2.INTERPEST.NET
+   Status: ok
+   Updated Date: 23-apr-2011
+   Creation Date: 24-apr-2006
+   Expiration Date: 24-apr-2012
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:06:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... hotspotsystem.com
+  Creation Date........ 2006-04-25
+  Registration Date.... 2006-04-25
+  Expiry Date.......... 2012-04-25
+  Organisation Name.... InterPest Kft.
+  Organisation Address. Andrassy 76.
+  Organisation Address.
+  Organisation Address. Budapest
+  Organisation Address. H-1062
+  Organisation Address. N/A
+  Organisation Address. HUNGARY
+
+Admin Name........... Oliver Faludi
+  Admin Address........ Andrassy 76.
+  Admin Address........
+  Admin Address........ Budapest
+  Admin Address........ H-1062
+  Admin Address........ N/A
+  Admin Address........ HUNGARY
+  Admin Email.......... customer2@interpest.com
+  Admin Phone.......... 3010816
+  Admin Fax............ 2694952
+
+Tech Name............ Oliver Faludi
+  Tech Address......... Andrassy ut 76.
+  Tech Address.........
+  Tech Address......... Budapest
+  Tech Address......... 1062
+  Tech Address......... n/a
+  Tech Address......... HUNGARY
+  Tech Email........... hostmaster@INTERPEST.COM
+  Tech Phone........... +36-1-3010816
+  Tech Fax............. +36-1-2694962
+  Name Server.......... ns.interpest.net
+  Name Server.......... ns2.interpest.net
+
+
