@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMAGINIS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Updated Date: 09-apr-2010
-   Creation Date: 10-feb-1997
-   Expiration Date: 15-nov-2012
+   Domain Name: HT-COM-HRVATSKE.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: PNS.DTAG.DE
+   Name Server: SECONDARY006.DTAG.NET
+   Name Server: SUPPORT.MESCH.DTAG.DE
+   Status: ok
+   Updated Date: 28-jan-2011
+   Creation Date: 27-jan-2004
+   Expiration Date: 27-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:11:31 UTC &lt;&lt;&lt;
 
@@ -52,23 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: imaginis.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:01:19 EDT 2011
-Reason Code: IE
+domain: ht-com-hrvatske.com
+registrant-hdl: RDT-DTA404
+admin-c: RDT-MS4582
+tech-c: RDT-WL534
+zone-c: RDT-WL534
+nserver: support.mesch.dtag.de
+nserver: pns.dtag.de
+nserver: secondary006.dtag.net
+status: connected
+changed: 2007-08-27
+created: 2004-01-27
+expires: 2012-01-27
+source: DEUTSCHE TELEKOM AG

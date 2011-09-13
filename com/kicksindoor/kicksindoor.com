@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMAGINIS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Updated Date: 09-apr-2010
-   Creation Date: 10-feb-1997
-   Expiration Date: 15-nov-2012
+   Domain Name: KICKSINDOOR.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.LUNARPAGES.COM
+   Name Server: NS2.LUNARPAGES.COM
+   Status: ok
+   Updated Date: 06-jan-2011
+   Creation Date: 04-jan-2004
+   Expiration Date: 04-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:11:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:12:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Whois Output for: kicksindoor.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name Owner:
+  Kicks Indoor Soccer, Inc.
+  4217 Villanova
+  Houston, TX 77005
+  US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+  Young, Timothy
+  Kicks Indoor Soccer, Inc.
+  4217 Villanova
+  Houston, TX 77005, US
+  Phone: +1.7137585134
+  Fax:   +1.7135920868
+  Email: tyoung@houston.rr.com
 
-Whois Query: imaginis.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:01:19 EDT 2011
-Reason Code: IE
+Technical Contact:
+  Young, Timothy
+  Kicks Indoor Soccer, Inc.
+  4217 Villanova
+  Houston, TX 77005, US
+  Phone: +1.7137585134
+  Fax:   +1.7135920868
+  Email: tyoung@houston.rr.com
+
+Billing Contact:
+  Young, Timothy
+  Kicks Indoor Soccer, Inc.
+  4217 Villanova
+  Houston, TX 77005, US
+  Phone: +1.7137585134
+  Fax:   +1.7135920868
+  Email: tyoung@houston.rr.com
+
+Record Information:
+  Domain Record Created: January 04, 2004
+  Domain Record Updated: January 06, 2011
+  Domain Record Expires: January 04, 2013
+
+DNS Information:
+  Name Server: ns2.lunarpages.com
+  Name Server: ns1.lunarpages.com
+

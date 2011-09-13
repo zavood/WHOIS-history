@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMAGINIS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Updated Date: 09-apr-2010
-   Creation Date: 10-feb-1997
-   Expiration Date: 15-nov-2012
+   Domain Name: JINITI.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   Status: ok
+   Updated Date: 29-may-2011
+   Creation Date: 03-may-2005
+   Expiration Date: 03-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:11:31 UTC &lt;&lt;&lt;
 
@@ -52,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Niklas Tornqvist (606009)
+  Sofielundsvagen 23a
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Malmo, , 21425
+  SE
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: jiniti.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-Whois Query: imaginis.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:01:19 EDT 2011
-Reason Code: IE
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
+
+Administrative contact:
+  Funktionen, Hostmaster (HF2170)
+  One.com A/S
+  Kalvebod Brygge 45
+
+  Copenhagen V, 1560
+  DK
+  hostmaster@b-one.nu
+  +45.46907100 Fax: +45.70205872
+
+Record created:           2010-01-06 13:27:27
+Record last updated:      2011-05-29 06:53:57
+Record expires:           2012-05-03 00:00:00
+
+Domain servers in listed order:
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)

@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'itvision.ir'
+
+
+domain:		itvision.ir
+ascii:		itvision.ir
+remarks:	(Domain Holder) Seyyed Hossein Rishehri
+remarks:	(Domain Holder Address) No. 167, Valfajr St., Shiraz, Fars, IR
+holder-c:	sr435-irnic
+admin-c:	sr435-irnic
+tech-c:		sr435-irnic
+bill-c:		pe134-irnic
+nserver:	dns5.webdataco.com
+nserver:	dns6.webdataco.com
+last-updated:	2011-08-28
+source:		IRNIC # Filtered
+
+nic-hdl:	sr435-irnic
+person:		Seyyed Hossein Rishehri
+e-mail:		rishehry@gmail.com
+address:	No. 167, Valfajr St., Shiraz, Fars, IR
+phone:		+989171021622
+source:		IRNIC # Filtered
+
+nic-hdl:	pe134-irnic
+org:		Persian High Tech Co.
+e-mail:		mrabbasb@yahoo.com
+source:		IRNIC # Filtered
+

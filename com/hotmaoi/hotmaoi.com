@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMAGINIS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
+   Domain Name: HOTMAOI.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.MSFT.NET
+   Name Server: NS2.MSFT.NET
+   Name Server: NS3.MSFT.NET
+   Name Server: NS4.MSFT.NET
+   Name Server: NS5.MSFT.NET
    Status: clientTransferProhibited
-   Updated Date: 09-apr-2010
-   Creation Date: 10-feb-1997
-   Expiration Date: 15-nov-2012
+   Updated Date: 28-apr-2010
+   Creation Date: 02-jan-2007
+   Expiration Date: 02-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:11:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:12:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +54,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... hotmaoi.com
+  Creation Date........ 2007-01-03
+  Registration Date.... 2010-04-29
+  Expiry Date.......... 2013-01-04
+  Organisation Name.... Microsoft Corporation
+  Organisation Address. 1 Microsoft Way
+  Organisation Address.
+  Organisation Address. Redmond
+  Organisation Address. 98052
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Administrator .
+  Admin Address........ One Microsoft Way
+  Admin Address........
+  Admin Address........ Redmond
+  Admin Address........ 98052
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... DOMAINS@MICROSOFT.COM
+  Admin Phone.......... +1.4258828080
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Hostmaster .
+  Tech Address......... One Microsoft Way
+  Tech Address.........
+  Tech Address......... Redmond
+  Tech Address......... 98052
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... msnhst@microsoft.com
+  Tech Phone........... +1.4258828080
+  Tech Fax.............
+  Name Server.......... NS2.MSFT.NET
+  Name Server.......... NS4.MSFT.NET
+  Name Server.......... NS1.MSFT.NET
+  Name Server.......... NS5.MSFT.NET
+  Name Server.......... NS3.MSFT.NET
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: imaginis.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:01:19 EDT 2011
-Reason Code: IE

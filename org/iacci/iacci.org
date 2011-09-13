@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74841542-LROR
+Domain Name:IACCI.ORG
+Created On:10-Jul-2001 06:13:56 UTC
+Last Updated On:05-Jul-2007 13:31:52 UTC
+Expiration Date:10-Jul-2012 06:13:56 UTC
+Sponsoring Registrar:Answerable.com (I) Pvt. Ltd. (R1305-LROR)
+Status:OK
+Registrant ID:DI_37152
+Registrant Name:Sunanda Rajendran
+Registrant Organization:Indo Arab Chamber of Commerce and Industries
+Registrant Street1:16, Maker Arcade
+Registrant Street2:Cuffe Parade
+Registrant Street3:
+Registrant City:Mumbai
+Registrant State/Province:Maharashtra
+Registrant Postal Code:400005
+Registrant Country:IN
+Registrant Phone:+91.222183889
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:srajendran@iacci.org
+Admin ID:DI_37152
+Admin Name:Sunanda Rajendran
+Admin Organization:Indo Arab Chamber of Commerce and Industries
+Admin Street1:16, Maker Arcade
+Admin Street2:Cuffe Parade
+Admin Street3:
+Admin City:Mumbai
+Admin State/Province:Maharashtra
+Admin Postal Code:400005
+Admin Country:IN
+Admin Phone:+91.222183889
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:srajendran@iacci.org
+Tech ID:DI_37152
+Tech Name:Sunanda Rajendran
+Tech Organization:Indo Arab Chamber of Commerce and Industries
+Tech Street1:16, Maker Arcade
+Tech Street2:Cuffe Parade
+Tech Street3:
+Tech City:Mumbai
+Tech State/Province:Maharashtra
+Tech Postal Code:400005
+Tech Country:IN
+Tech Phone:+91.222183889
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:srajendran@iacci.org
+Name Server:NS2.ORIENSOFT.COM
+Name Server:NS1.ORIENSOFT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
