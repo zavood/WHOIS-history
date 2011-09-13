@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DOM11033D-NORID
+Domain Name................: domenia.no
+Domain Holder Handle.......: DNA347O-NORID
+Registrar Handle...........: REG209-NORID
+Legal-c Handle.............: RS3555P-NORID
+Tech-c Handle..............: DO4R-NORID
+Name Server Handle.........: DNSD86H-NORID
+Name Server Handle.........: DNSD92H-NORID
+Name Server Handle.........: DNSD98H-NORID
+
+Additional information:
+Created:         2002-03-07
+Last updated:    2011-03-09
+
+NORID Handle...............: DNA347O-NORID
+Type.......................: organization
+Name.......................: DOMENIA NORGE AS
+Id Type....................: organization_number
+Id Number..................: 845290202
+Registrar Handle...........: REG209-NORID
+Post Address...............: R&aring;dhusgaten 20
+Postal Code................: NO-0151
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.21932300
+Fax Number.................: +47.21932301
+Email Address..............: hostmaster@domenia.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

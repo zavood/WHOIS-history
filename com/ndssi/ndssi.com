@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLAYDOTA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: NDSSI.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS5.SECURESERVER.NET
+   Name Server: NS6.SECURESERVER.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-jun-2009
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2012
+   Updated Date: 09-jan-2009
+   Creation Date: 09-jan-2007
+   Expiration Date: 09-jan-2017
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:19:19 UTC &lt;&lt;&lt;
 
@@ -56,42 +53,86 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: NDSSI.COM
+Registrar: MONIKER
+
+Registrant [684753]:
+        Rajesh Bhakta rbhakta@ndssi.com
+        NDS Surgial Imaging
+        5750 Hellyer Avenue
+        San Jose
+        CA
+        95138
+        US
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PLAYDOTA.COM
-
-   Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+Administrative Contact [684753]:
+        Rajesh Bhakta rbhakta@ndssi.com
+        NDS Surgial Imaging
+        5750 Hellyer Avenue
+        San Jose
+        CA
+        95138
+        US
+        Phone: +1.4087760085
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=PLAYDOTA.COM
+Billing Contact [684753]:
+        Rajesh Bhakta rbhakta@ndssi.com
+        NDS Surgial Imaging
+        5750 Hellyer Avenue
+        San Jose
+        CA
+        95138
+        US
+        Phone: +1.4087760085
+
+
+Technical Contact [684753]:
+        Rajesh Bhakta rbhakta@ndssi.com
+        NDS Surgial Imaging
+        5750 Hellyer Avenue
+        San Jose
+        CA
+        95138
+        US
+        Phone: +1.4087760085
+
+
+Domain servers in listed order:
+
+        NS5.SECURESERVER.NET
+        NS6.SECURESERVER.NET
+
+        Record created on:        2007-01-09 19:56:05.0
+        Database last updated on: 2009-01-09 14:04:01.45
+        Domain Expires on:        2017-01-09 19:56:07.0
+
+
+
