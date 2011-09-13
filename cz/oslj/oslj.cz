@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 21:09:17 2011
+
+domain:       oslj.cz
+registrant:   SB:LAZARUSCZ
+admin-c:      EBAKSTEIN
+nsset:        NSS:MYSH
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   11.06.2004 14:35:00
+changed:      05.02.2009 14:24:21
+expire:       11.06.2012
+
+contact:      SB:LAZARUSCZ
+org:          OSLJ-B, n.g.o.
+name:         OSLJ-B, n.g.o.
+address:      Karlova 28
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       petr.rehor@email.cz
+registrar:    REG-GENREG
+created:      29.01.2004 19:35:00
+changed:      03.02.2009 17:36:02
+
+contact:      EBAKSTEIN
+name:         Eduard Bak&Aring;&iexcl;tein
+address:      V Z&Atilde;&iexcl;horsk&Atilde;&copy;m 305
+address:      Praha
+address:      19012
+address:      CZ
+registrar:    REG-GENREG
+created:      25.01.2009 17:42:01
+
+nsset:        NSS:MYSH
+nserver:      ns.mysh.cz
+nserver:      ns2.mysh.cz
+tech-c:       UAM-VM
+tech-c:       EBAKSTEIN
+registrar:    REG-GENREG
+created:      05.02.2009 13:57:06
+changed:      27.04.2010 21:48:08
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;™ilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+
