@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 01-oct-1996
    Expiration Date: 30-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:18:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:14:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -116,11 +116,11 @@ Registrant:
 
     Domain servers in listed order:
 
-    dns6.rr.com
-    dns3.rr.com
     dns2.rr.com
-    dns1.rr.com
+    dns6.rr.com
     dns5.rr.com
+    dns1.rr.com
+    dns3.rr.com
 
 
 

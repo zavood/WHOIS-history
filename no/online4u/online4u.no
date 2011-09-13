@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ONL842D-NORID
+Domain Name................: online4u.no
+Domain Holder Handle.......: OA986O-NORID
+Registrar Handle...........: REG553-NORID
+Legal-c Handle.............: JLV8P-NORID
+Tech-c Handle..............: HO16R-NORID
+Name Server Handle.........: NSON26H-NORID
+Name Server Handle.........: NSON29H-NORID
+
+Additional information:
+Created:         2002-10-07
+Last updated:    2010-10-02
+
+NORID Handle...............: OA986O-NORID
+Type.......................: organization
+Name.......................: Online4u AS
+Id Type....................: organization_number
+Id Number..................: 985139822
+Registrar Handle...........: REG553-NORID
+Post Address...............: &Oslash;stre Kuller&oslash;d 5
+Postal Code................: NO-3241
+Postal Area................: Sandefjord
+Country....................: NO
+Phone Number...............: +47.33293260
+Fax Number.................: +47.33429002
+Email Address..............: salg@online4u.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
