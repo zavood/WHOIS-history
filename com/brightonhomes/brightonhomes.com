@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHOPATRON.COM
+   Domain Name: BRIGHTONHOMES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SPTRON.COM
-   Name Server: NS2.SPTRON.COM
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 16-jun-2008
-   Creation Date: 26-mar-1999
-   Expiration Date: 16-jun-2018
+   Updated Date: 03-aug-2009
+   Creation Date: 27-aug-1996
+   Expiration Date: 26-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:24:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:24:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about SHOPATRON.COM
-&lt;a href=&quot;http://www.aboutus.org/SHOPATRON.COM&quot;&gt;AboutUs: SHOPATRON.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BRIGHTONHOMES.COM
+&lt;a href=&quot;http://www.aboutus.org/BRIGHTONHOMES.COM&quot;&gt;AboutUs: BRIGHTONHOMES.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Shopatron, Inc.
-   825 Buckley Rd
-   93401, CA 93401
+K. Hovnanian Companies, LLC
+   110 West Front Street
+   RED BANK, NJ 07701
    US
 
-   Domain Name: SHOPATRON.COM
+   Domain Name: BRIGHTONHOMES.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +95,20 @@ Shopatron, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Shopatron, Inc.		noc@shopatron.com
-      825 Buckley Rd
-      93401, CA 93401
+      K. Hovnanian Companies, LLC		hovdnsmgrs@khov.com
+      110 West Front Street
+      RED BANK, NJ 07701
       US
-      805-547-8368
+      732 747 7800 fax: 123 123 1234
 
 
-   Record expires on 16-Jun-2018.
-   Record created on 16-Jun-2008.
-   Database last updated on 13-Sep-2011 12:20:36 EDT.
+   Record expires on 26-Aug-2012.
+   Record created on 27-Aug-1996.
+   Database last updated on 13-Sep-2011 12:14:29 EDT.
 
    Domain servers in listed order:
 
-   NS1.SPTRON.COM               206.190.65.134
-   NS2.SPTRON.COM               204.238.213.19
+   CBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.105
+   CMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.69
 
 
