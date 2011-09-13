@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLASSIFIEDSADS7.COM
+   Domain Name: LETSLEARNSTUDIO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BIDSMOB.COM
-   Name Server: NS2.BIDSMOB.COM
+   Name Server: NS1.LETSLEARNSTUDIO.COM
+   Name Server: NS2.LETSLEARNSTUDIO.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jul-2011
-   Creation Date: 30-dec-2010
-   Expiration Date: 30-dec-2011
+   Updated Date: 30-may-2011
+   Creation Date: 30-jul-2003
+   Expiration Date: 30-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:32:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:33:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Ann Marcos
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CLASSIFIEDSADS7.COM
+   Domain Name: LETSLEARNSTUDIO.COM
 
    Domain servers in listed order:
-      NS1.BIDSMOB.COM
-      NS2.BIDSMOB.COM
+      NS1.LETSLEARNSTUDIO.COM
+      NS2.LETSLEARNSTUDIO.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CLASSIFIEDSADS7.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LETSLEARNSTUDIO.COM

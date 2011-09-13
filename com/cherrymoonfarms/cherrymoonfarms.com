@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLASSIFIEDSADS7.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BIDSMOB.COM
-   Name Server: NS2.BIDSMOB.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CHERRYMOONFARMS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-jul-2011
-   Creation Date: 30-dec-2010
-   Expiration Date: 30-dec-2011
+   Updated Date: 04-jul-2011
+   Creation Date: 06-aug-2003
+   Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:32:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:32:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... cherrymoonfarms.com
+  Creation Date........ 2003-08-07
+  Registration Date.... 2009-07-06
+  Expiry Date.......... 2012-08-07
+  Organisation Name.... Provide Commerce, Inc.
+  Organisation Address. 4840 Eastgate Mall
+  Organisation Address.
+  Organisation Address. San Diego
+  Organisation Address. 92121
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Provide Commerce
+  Admin Address........ 4840 Eastgate
+  Admin Address........
+  Admin Address........ San Diego
+  Admin Address........ 92121
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +1.8587292800
+  Admin Fax............
+
+Tech Name............ Provide Commerce
+  Tech Address......... 4840 Eastgate
+  Tech Address.........
+  Tech Address......... San Diego
+  Tech Address......... 92121
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... admin@melbourneitdbs.com
+  Tech Phone........... +1.8587292800
+  Tech Fax.............
+  Name Server.......... pdns1.ultradns.net
+  Name Server.......... pdns2.ultradns.net
+  Name Server.......... pdns3.ultradns.org
+  Name Server.......... pdns4.ultradns.org
+  Name Server.......... pdns5.ultradns.info
+  Name Server.......... pdns6.ultradns.co.uk
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CLASSIFIEDSADS7.COM
-
-   Domain servers in listed order:
-      NS1.BIDSMOB.COM
-      NS2.BIDSMOB.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CLASSIFIEDSADS7.COM

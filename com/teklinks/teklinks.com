@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETDNA-CDN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NETDNA-CDN.COM
-   Name Server: NS2.NETDNA-CDN.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: TEKLINKS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS3.TEKLINKS.COM
+   Name Server: NS4.TEKLINKS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 15-jun-2009
-   Expiration Date: 15-jun-2013
+   Updated Date: 12-mar-2011
+   Creation Date: 11-mar-2000
+   Expiration Date: 11-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:32:39 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   Chris Ueland
+   Registrant:
+      TekLinks, Inc.
+      Stuart Raburn
+      TekLinks, Inc. 201 Summit Parkway
+      Birmingham, AL 35209
+      US
+      Phone: +1.2053146600
+      Email: dns@teklinks.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NETDNA-CDN.COM
-
-   Domain servers in listed order:
-      NS1.NETDNA-CDN.COM
-      NS2.NETDNA-CDN.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NETDNA-CDN.COM
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: teklinks.com
+      Created on..............: 2000-03-11
+      Expires on..............: 2012-03-11
+
+   Administrative Contact:
+      TekLinks, Inc.
+      Stuart Raburn
+      TekLinks, Inc. 201 Summit Parkway
+      Birmingham, AL 35209
+      US
+      Phone: +1.2053146600
+      Email: dns@teklinks.com
+
+
+   Technical  Contact:
+      TekLinks High Speed Solutions
+      Whois Agent
+      201 Summit Parkway
+      Homewood, AL 35209
+      US
+      Phone: +1.2053146600
+      Email: billing@highspd.net
+
+
+   DNS Servers:
+      ns4.teklinks.com
+      ns3.teklinks.com
+
+
+
+Visit AboutUs.org for more information about teklinks.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/teklinks.com&quot;&gt;AboutUs: teklinks.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+
