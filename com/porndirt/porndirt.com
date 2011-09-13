@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORSTTECH.COM
+   Domain Name: PORNDIRT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1443.WEBSITEWELCOME.COM
-   Name Server: NS1444.WEBSITEWELCOME.COM
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 19-jan-2010
-   Expiration Date: 19-jan-2012
+   Updated Date: 01-jul-2011
+   Creation Date: 20-aug-2007
+   Expiration Date: 20-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:37:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:38:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   adil abbas
+   Adworld Media Corp
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WORSTTECH.COM
+   Domain Name: PORNDIRT.COM
 
    Domain servers in listed order:
-      NS1443.WEBSITEWELCOME.COM
-      NS1444.WEBSITEWELCOME.COM
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WORSTTECH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PORNDIRT.COM

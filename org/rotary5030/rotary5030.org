@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1865547-LROR
+Domain Name:ROTARY5030.ORG
+Created On:28-Feb-1997 05:00:00 UTC
+Last Updated On:02-Dec-2010 19:11:40 UTC
+Expiration Date:01-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33545591
+Registrant Name:District Administration
+Registrant Organization:Rotary District 5030
+Registrant Street1:PO Box 40418
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bellevue
+Registrant State/Province:Washington
+Registrant Postal Code:98015-4418
+Registrant Country:US
+Registrant Phone:+1.2062023910
+Registrant Phone Ext.:
+Registrant FAX:+1.2062023910
+Registrant FAX Ext.:
+Registrant Email:rotary5030@gmail.com
+Admin ID:CR33545593
+Admin Name:District Administration
+Admin Organization:Rotary District 5030
+Admin Street1:PO Box 40418
+Admin Street2:
+Admin Street3:
+Admin City:Bellevue
+Admin State/Province:Washington
+Admin Postal Code:98015-4418
+Admin Country:US
+Admin Phone:+1.2062023910
+Admin Phone Ext.:
+Admin FAX:+1.2062023910
+Admin FAX Ext.:
+Admin Email:rotary5030@gmail.com
+Tech ID:CR33545592
+Tech Name:District Administration
+Tech Organization:Rotary District 5030
+Tech Street1:PO Box 40418
+Tech Street2:
+Tech Street3:
+Tech City:Bellevue
+Tech State/Province:Washington
+Tech Postal Code:98015-4418
+Tech Country:US
+Tech Phone:+1.2062023910
+Tech Phone Ext.:
+Tech FAX:+1.2062023910
+Tech FAX Ext.:
+Tech Email:rotary5030@gmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

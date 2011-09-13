@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORSTTECH.COM
+   Domain Name: POWER92CHICAGO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1443.WEBSITEWELCOME.COM
-   Name Server: NS1444.WEBSITEWELCOME.COM
+   Name Server: DNS1.YOCITIES.COM
+   Name Server: DNS2.YOCITIES.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 19-jan-2010
-   Expiration Date: 19-jan-2012
+   Updated Date: 15-apr-2011
+   Creation Date: 20-dec-2001
+   Expiration Date: 20-dec-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:37:51 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   adil abbas
+   Dontron Inc Dontron Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WORSTTECH.COM
+   Domain Name: POWER92CHICAGO.COM
 
    Domain servers in listed order:
-      NS1443.WEBSITEWELCOME.COM
-      NS1444.WEBSITEWELCOME.COM
+      DNS2.YOCITIES.COM
+      DNS1.YOCITIES.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WORSTTECH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=POWER92CHICAGO.COM

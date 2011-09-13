@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101897009-LROR
+Domain Name:INDYFILMFEST.ORG
+Created On:27-Oct-2003 14:32:50 UTC
+Last Updated On:27-Oct-2009 13:04:18 UTC
+Expiration Date:27-Oct-2012 14:32:50 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuva9rZ4cA9XViMy
+Registrant Name:Michael Dettner
+Registrant Organization:ME Dettner LLC
+Registrant Street1:1431 N. Delaware
+Registrant Street2:
+Registrant Street3:
+Registrant City:Indianapolis
+Registrant State/Province:IN
+Registrant Postal Code:46202
+Registrant Country:US
+Registrant Phone:+1.3179640809
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mdettner@earthlink.net
+Admin ID:tunKcTdrWYkhaEhE
+Admin Name:Michael Tressler
+Admin Organization:Michael Tressler
+Admin Street1:464 W. 91st Street
+Admin Street2:
+Admin Street3:
+Admin City:Indianapolis
+Admin State/Province:IN
+Admin Postal Code:46260
+Admin Country:US
+Admin Phone:+1.3175671185
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:flinchbot@gmail.com
+Tech ID:tuSIresN6xg59Z8a
+Tech Name:hostmaster hostmaster
+Tech Organization:Atlantic.Net Internet Services
+Tech Street1:2815 NW 13th Street
+Tech Street2:Suite #201
+Tech Street3:
+Tech City:Gainesville
+Tech State/Province:Florida
+Tech Postal Code:32609
+Tech Country:US
+Tech Phone:+1.3523752912
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@atlantic.net
+Name Server:NS61.ROCHENHOST.COM
+Name Server:NS62.ROCHENHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
