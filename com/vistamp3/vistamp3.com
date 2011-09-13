@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PNAP.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
+   Domain Name: VISTAMP3.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS35.DOMAINCONTROL.COM
+   Name Server: NS36.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-may-2007
-   Creation Date: 20-jun-1996
-   Expiration Date: 19-jun-2012
+   Status: clientUpdateProhibited
+   Updated Date: 15-aug-2011
+   Creation Date: 13-nov-2010
+   Expiration Date: 13-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:53:04 UTC &lt;&lt;&lt;
 
@@ -53,23 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+No match for &quot;vistamp3.com&quot; in the registrar database.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: pnap.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 23:42:52 EDT 2011
-Reason Code: IE
