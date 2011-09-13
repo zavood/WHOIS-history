@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-CNET.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-CNET.COM
+   Domain Name: HMM-262COMBATVETS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS2017.HOSTGATOR.COM
+   Name Server: NS2018.HOSTGATOR.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-jun-2011
+   Creation Date: 09-jun-2009
+   Expiration Date: 09-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:13:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:12:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+
+
+Domain name: hmm-262combatvets.com
+
+Registrant Contact:
+   HMM-262Association
+   Bill Bourgeois ()
+
+   Fax:
+   3817 North 112th Avenue
+   Omaha, NE 68164
+   US
+
+Administrative Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Technical Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Status: Locked
+
+Name Servers:
+   ns2017.hostgator.com
+   ns2018.hostgator.com
+
+Creation date: 09 Jun 2009 22:52:52
+Expiration date: 09 Jun 2012 22:52:52
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAEDALUSAUDIO.COM
+   Domain Name: MYHALLIBURTON.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: LIGHT.LIGHTLINK.COM
-   Name Server: MAJESTY.LIGHTLINK.COM
-   Name Server: SDN.IECC.COM
+   Name Server: NS51.WORLDNIC.COM
+   Name Server: NS52.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 13-nov-2008
-   Creation Date: 11-dec-2003
-   Expiration Date: 11-dec-2011
+   Updated Date: 27-jun-2011
+   Creation Date: 16-jan-2000
+   Expiration Date: 16-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:11:36 UTC &lt;&lt;&lt;
 
@@ -75,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about DAEDALUSAUDIO.COM
-&lt;a href=&quot;http://www.aboutus.org/DAEDALUSAUDIO.COM&quot;&gt;AboutUs: DAEDALUSAUDIO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MYHALLIBURTON.COM
+&lt;a href=&quot;http://www.aboutus.org/MYHALLIBURTON.COM&quot;&gt;AboutUs: MYHALLIBURTON.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-hinkley, lou
-   7060 Portal Way #120
-   Ferndale, WA 98428
+Halliburton Energy Services, Inc.
+   3000 N. Sam Houston Pkwy E.
+   Houston, TX 77032
    US
 
-   Domain Name: DAEDALUSAUDIO.COM
+   Domain Name: MYHALLIBURTON.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,28 +95,30 @@ hinkley, lou
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      hinkley, lou		lou@daedalusmusic.com
-      7060 Portal Way #120
-      Ferndale, WA 98428
+      Bentivegna, James		webdomains@halliburton.com
+      Halliburton
+      10200 Bellaire Blvd
+      1SE16B
+      Houston, TX 77072
       US
-      360 366 9944 fax: 360 366 9944
+      281-871-2699
 
    Technical Contact:
-      Network Solutions, LLC.		customerservice@networksolutions.com
-      13861 Sunrise Valley Drive
-      Herndon, VA 20171
+      DNS, Admin		dnsadmin@halliburton.com
+      Halliburton
+      3000 N. Sam Houston Pkwy E.
+      Houston, TX 77032
       US
-      1-888-642-9675 fax: 571-434-4620
+      281-871-2699
 
 
-   Record expires on 11-Dec-2011.
-   Record created on 11-Dec-2003.
-   Database last updated on 13-Sep-2011 14:02:24 EDT.
+   Record expires on 22-Jun-2012.
+   Record created on 16-Jan-2000.
+   Database last updated on 13-Sep-2011 14:01:34 EDT.
 
    Domain servers in listed order:
 
-   LIGHT.LIGHTLINK.COM          64.57.176.2
-   SDN.IECC.COM
-   MAJESTY.LIGHTLINK.COM        64.57.176.3
+   NS51.WORLDNIC.COM            205.178.190.26
+   NS52.WORLDNIC.COM            206.188.198.26
 
 
