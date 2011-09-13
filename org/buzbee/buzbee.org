@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D15523671-LROR
+Domain Name:BUZBEE.ORG
+Created On:18-Dec-1999 00:46:05 UTC
+Last Updated On:19-Nov-2010 17:11:04 UTC
+Expiration Date:18-Dec-2011 00:46:05 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D85B977ECDF95BD9
+Registrant Name:William Buzbee
+Registrant Organization:William Buzbee
+Registrant Street1:404 Casa Del Mar Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Half Moon Bay
+Registrant State/Province:CA
+Registrant Postal Code:94019-1414
+Registrant Country:US
+Registrant Phone:+1.6507265141
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bill@buzbee.net
+Admin ID:D85B977ECDF95BD9
+Admin Name:William Buzbee
+Admin Organization:William Buzbee
+Admin Street1:404 Casa Del Mar Drive
+Admin Street2:
+Admin Street3:
+Admin City:Half Moon Bay
+Admin State/Province:CA
+Admin Postal Code:94019-1414
+Admin Country:US
+Admin Phone:+1.6507265141
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bill@buzbee.net
+Tech ID:D85B977ECDF95BD9
+Tech Name:William Buzbee
+Tech Organization:William Buzbee
+Tech Street1:404 Casa Del Mar Drive
+Tech Street2:
+Tech Street3:
+Tech City:Half Moon Bay
+Tech State/Province:CA
+Tech Postal Code:94019-1414
+Tech Country:US
+Tech Phone:+1.6507265141
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bill@buzbee.net
+Name Server:NS2.DYNAMICNAME.COM
+Name Server:NS1.DYNAMICNAME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
