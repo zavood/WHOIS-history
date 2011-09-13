@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAMESERVICEGUIDE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NAMESERVICEGUIDE.NET
-   Name Server: NS2.NAMESERVICEGUIDE.NET
-   Name Server: NS3.NAMESERVICEGUIDE.NET
+   Domain Name: PANINIMAKERSTORE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS753.WEBSITEWELCOME.COM
+   Name Server: NS754.WEBSITEWELCOME.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-aug-2011
-   Creation Date: 03-oct-2008
-   Expiration Date: 03-oct-2012
+   Updated Date: 08-dec-2010
+   Creation Date: 29-dec-2009
+   Expiration Date: 29-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:43:21 UTC &lt;&lt;&lt;
 
@@ -53,5 +51,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about paninimakerstore.com
+&lt;a href=&quot;http://www.aboutus.org/paninimakerstore.com&quot;&gt;AboutUs: paninimakerstore.com&lt;/a&gt;
+
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: paninimakerstore.com
+
+Registrant Contact:
+   Infomedia LLC
+   Infomedia LLC ()
+
+   Fax:
+   265 N. Main St
+   Ste D-186
+   Kaysville, State 84037
+   US
+
+Administrative Contact:
+   Infomedia LLC
+   Infomedia LLC (infomediallc@gmail.com)
+   +1.8608037123
+   Fax: +1.5555555555
+   265 N. Main St
+   Ste D-186
+   Kaysville, State 84037
+   US
+
+Technical Contact:
+   Infomedia LLC
+   Infomedia LLC (infomediallc@gmail.com)
+   +1.8608037123
+   Fax: +1.5555555555
+   265 N. Main St
+   Ste D-186
+   Kaysville, State 84037
+   US
+
+Status: Locked
+
+Name Servers:
+   ns753.websitewelcome.com
+   ns754.websitewelcome.com
+
+Creation date: 29 Dec 2009 18:55:01
+Expiration date: 29 Dec 2011 18:55:01
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

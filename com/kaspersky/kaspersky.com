@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 09-oct-1997
    Expiration Date: 08-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:40:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:44:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -116,11 +116,11 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns2.macomnet.ru
-    ns.macomnet.ru
-    ns1.kasperskylabs.net
     ns2.kasperskylabs.net
+    ns1.kasperskylabs.net
+    ns2.macomnet.ru
     ns3.kasperskylabs.net
+    ns.macomnet.ru
 
 
 
@@ -135,4 +135,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

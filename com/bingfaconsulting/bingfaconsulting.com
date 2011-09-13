@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAMESERVICEGUIDE.NET
+   Domain Name: BINGFACONSULTING.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NAMESERVICEGUIDE.NET
-   Name Server: NS2.NAMESERVICEGUIDE.NET
-   Name Server: NS3.NAMESERVICEGUIDE.NET
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-aug-2011
-   Creation Date: 03-oct-2008
-   Expiration Date: 03-oct-2012
+   Updated Date: 05-aug-2011
+   Creation Date: 20-aug-2004
+   Expiration Date: 20-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:43:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:42:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
