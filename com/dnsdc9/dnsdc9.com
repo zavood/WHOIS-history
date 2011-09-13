@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIGASSPIC.COM
+   Domain Name: DNSDC9.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Name Server: DNS1.FATNETWORK.COM
+   Name Server: DNS2.FATNETWORK.COM
    Status: clientTransferProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 21-feb-2008
-   Expiration Date: 21-feb-2012
+   Updated Date: 10-jul-2010
+   Creation Date: 09-aug-2006
+   Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:37:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:38:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about bigasspic.com
-&lt;a href=&quot;http://www.aboutus.org/bigasspic.com&quot;&gt;AboutUs: bigasspic.com&lt;/a&gt;
+Visit AboutUs.org for more information about dnsdc9.com
+&lt;a href=&quot;http://www.aboutus.org/dnsdc9.com&quot;&gt;AboutUs: dnsdc9.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: bigasspic.com
-
-Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (wrtrchddr@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O bigasspic.com
-   Bellevue, WA 98007
-   US
-
-Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (wrtrchddr@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O bigasspic.com
-   Bellevue, WA 98007
-   US
+Domain name: dnsdc9.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   Fat Network Inc.
+   Domain Administrator ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O bigasspic.com
-   Bellevue, WA 98007
-   US
+   232-1027 Davie St
+   Vancouver, STATE V6E4L2
+   CA
+
+Administrative Contact:
+   Fat Network Inc.
+   Domain Administrator (abuse@fatnetwork.net)
+   +1.8666094678
+   Fax: +1.8666094678
+   232-1027 Davie St
+   Vancouver, STATE V6E4L2
+   CA
+
+Technical Contact:
+   Fat Network Inc.
+   Domain Administrator (abuse@fatnetwork.net)
+   +1.8666094678
+   Fax: +1.8666094678
+   232-1027 Davie St
+   Vancouver, STATE V6E4L2
+   CA
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   dns1.fatnetwork.com
+   dns2.fatnetwork.com
 
-Creation date: 21 Feb 2008 15:10:23
-Expiration date: 21 Feb 2012 15:10:23
+Creation date: 09 Aug 2006 17:13:48
+Expiration date: 09 Aug 2012 17:13:00
 
 
 
