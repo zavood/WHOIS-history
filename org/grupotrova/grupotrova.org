@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152029588-LROR
+Domain Name:GRUPOTROVA.ORG
+Created On:17-Mar-2008 00:11:58 UTC
+Last Updated On:03-Feb-2011 03:14:57 UTC
+Expiration Date:17-Mar-2012 00:11:58 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35294233
+Registrant Name:Jaime Ascencio
+Registrant Organization:mobilitika.com
+Registrant Street1:4a calle poniente #36
+Registrant Street2:
+Registrant Street3:
+Registrant City:Apopa
+Registrant State/Province:San Salvador
+Registrant Postal Code:12345
+Registrant Country:SV
+Registrant Phone:+503.22162962
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jeascencio@mobilitika.com
+Admin ID:CR35294235
+Admin Name:Jaime Ascencio
+Admin Organization:mobilitika.com
+Admin Street1:4a calle poniente #36
+Admin Street2:
+Admin Street3:
+Admin City:Apopa
+Admin State/Province:San Salvador
+Admin Postal Code:12345
+Admin Country:SV
+Admin Phone:+503.22162962
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jeascencio@mobilitika.com
+Tech ID:CR35294234
+Tech Name:Jaime Ascencio
+Tech Organization:mobilitika.com
+Tech Street1:4a calle poniente #36
+Tech Street2:
+Tech Street3:
+Tech City:Apopa
+Tech State/Province:San Salvador
+Tech Postal Code:12345
+Tech Country:SV
+Tech Phone:+503.22162962
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jeascencio@mobilitika.com
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

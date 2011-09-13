@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JEUNEART.COM
+   Domain Name: VODSITES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-apr-2011
-   Creation Date: 28-apr-2005
-   Expiration Date: 28-apr-2012
+   Updated Date: 15-sep-2010
+   Creation Date: 26-feb-2004
+   Expiration Date: 26-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:58:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:59:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   East Media Group, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: JEUNEART.COM
+   Domain Name: VODSITES.COM
 
    Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
+      NS0.DNSMADEEASY.COM
+      NS1.DNSMADEEASY.COM
+      NS2.DNSMADEEASY.COM
+      NS3.DNSMADEEASY.COM
+      NS4.DNSMADEEASY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JEUNEART.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=VODSITES.COM
