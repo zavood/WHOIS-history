@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         rxhealthmeds.at
+registrant:     VG7905021-NICAT
+admin-c:        VG7905022-NICAT
+tech-c:         VG7905022-NICAT
+nserver:        ns1.rxhealthmeds.at
+remarks:        219.139.76.173
+nserver:        ns2.rxhealthmeds.at
+remarks:        202.100.91.132
+changed:        20110318 22:44:23
+source:         AT-DOM
+
+personname:     Vladislav Grenich
+organization:
+street address: ul.Nezhinskaya d.22 kv.91
+postal code:    173000
+city:           Novgorod
+country:        Russian Federation
+phone:          +78314340277
+fax-no:         +78314340277
+e-mail:         add@bz3.ru
+nic-hdl:        VG7905021-NICAT
+changed:        20110314 17:59:19
+source:         AT-DOM
+
+personname:     Vladislav Grenich
+organization:
+street address: ul.Nezhinskaya d.22 kv.91
+postal code:    173000
+city:           Novgorod
+country:        Russian Federation
+phone:          +78314340277
+fax-no:         +78314340277
+e-mail:         add@bz3.ru
+nic-hdl:        VG7905022-NICAT
+changed:        20110314 17:59:20
+source:         AT-DOM
+
