@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THAILANDUNIVERSITY.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2443.HOSTGATOR.COM
-   Name Server: NS2444.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 24-aug-2010
-   Expiration Date: 24-aug-2012
+   Domain Name: REYNOLDSFAMILYCIRCLE.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS000.NS0.COM
+   Name Server: NS6.PAIR.COM
+   Status: ok
+   Updated Date: 06-feb-2011
+   Creation Date: 24-feb-2001
+   Expiration Date: 24-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:23 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Domains by Proxy, Inc.
+  NEW AGE Resources
+  3052 South Nucla Street
+  Aurora, Colorado 80013-1933
+  US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THAILANDUNIVERSITY.NET
+  Joe.Reynolds@larryjoereynolds.com
+   +1.7203930344
 
-   Domain servers in listed order:
-      NS2443.HOSTGATOR.COM
-      NS2444.HOSTGATOR.COM
+Domain Name: REYNOLDSFAMILYCIRCLE.COM
 
+Administrative &amp; Technical Contact:
+  Joe Reynolds
+  NEW AGE Resources
+  312 Quitman Street
+  Pittsburg, Texas 75686-1030
+  US
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THAILANDUNIVERSITY.NET
+  Joe.Reynolds@larryjoereynolds.com
+   +1.9038565186
+
+Domain Name Servers:
+  NS000.NS0.COM
+  NS6.PAIR.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     February 24, 2001
+Modified:     February  6, 2011
+ Expires:     February 24, 2012
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THAILANDUNIVERSITY.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2443.HOSTGATOR.COM
-   Name Server: NS2444.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 24-aug-2010
-   Expiration Date: 24-aug-2012
+   Domain Name: WOONHUISBEVEILIGING.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS3.FIRSTFIND.NL
+   Name Server: NS4.FIRSTFIND.NL
+   Status: ok
+   Updated Date: 23-jul-2011
+   Creation Date: 23-jul-2009
+   Expiration Date: 23-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THAILANDUNIVERSITY.NET
-
-   Domain servers in listed order:
-      NS2443.HOSTGATOR.COM
-      NS2444.HOSTGATOR.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THAILANDUNIVERSITY.NET
+Domain Name:woonhuisbeveiliging.com
+Name Server:ns3.firstfind.nl
+Name Server:ns4.firstfind.nl
+Created On:2009-07-23
+Last Updated On:2011-07-24
+Expiration Date:2012-07-23
+Dealer:yourhosting
+Registrant ID:mbogmans@roundsecurity.com
+Registrant Name:M. Bogmans
+Registrant Organization:
+Registrant Street1:Alsacelaan 44
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eindhoven
+Registrant State/Province:
+Registrant Postal Code:5627 CC
+Registrant Country:NL
+Registrant Phone:+31.657547177
+Registrant Fax:
+Registrant Email:mbogmans@roundsecurity.com
+Admin ID:admin@yourhosting.nl
+Admin Name:Valentijn Borstlap
+Admin Organization:YourHosting BV
+Admin Street1:Schrevenweg 5
+Admin Street2:
+Admin Street3:
+Admin City:Zwolle
+Admin State/Province:Overijssel
+Admin Postal Code:8024 HB
+Admin Country:NL
+Admin Phone:+31.384530752
+Admin Fax:+31.384524734
+Admin Email:admin@yourhosting.nl
+Billing ID:billing@yourhosting.nl
+Billing Name:Valentijn Borstlap
+Billing Organization:YourHosting BV
+Billing Street1:Schrevenweg 5
+Billing Street2:
+Billing Street3:
+Billing City:Zwolle
+Billing State/Province:Overijssel
+Billing Postal Code:8024 HB
+Billing Country:NL
+Billing Phone:+31.384530752
+Billing Fax:+31.384524734
+Billing Email:billing@yourhosting.nl
+Tech ID:tech@yourhosting.nl
+Tech Name:Valentijn Borstlap
+Tech Organization:YourHosting BV
+Tech Street1:Schrevenweg 5
+Tech Street2:
+Tech Street3:
+Tech City:Zwolle
+Tech State/Province:Overijssel
+Tech Postal Code:8024 HB
+Tech Country:NL
+Tech Phone:+31.384530752
+Tech Fax:+31.384524734
+Tech Email:tech@yourhosting.nl

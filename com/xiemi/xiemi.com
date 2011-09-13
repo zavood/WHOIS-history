@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THAILANDUNIVERSITY.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2443.HOSTGATOR.COM
-   Name Server: NS2444.HOSTGATOR.COM
+   Domain Name: XIEMI.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: FREEDNS1.REGISTRAR-SERVERS.COM
+   Name Server: FREEDNS2.REGISTRAR-SERVERS.COM
+   Name Server: FREEDNS3.REGISTRAR-SERVERS.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 24-aug-2010
-   Expiration Date: 24-aug-2012
+   Updated Date: 23-may-2011
+   Creation Date: 05-mar-2008
+   Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:32:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain Name : xiemi.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Registrant Contact Information :
+wenzhongwang
+murong noble family
+wenzhongwang@live.com
+shanghai, 200072
+tel: 86 2151873200
+fax: 86 2151873200
 
+Administrative Contact Information :
+wenzhongwang
+murong noble family
+wenzhongwang@live.com
+shanghai, 200072
+tel: 86 2151873200
+fax: 86 2151873200
 
-Registrant:
-   Domains by Proxy, Inc.
+Technical Contact Information :
+wenzhongwang
+murong noble family
+wenzhongwang@live.com
+shanghai, 200072
+tel: 86 2151873200
+fax: 86 2151873200
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THAILANDUNIVERSITY.NET
+Billing Contact Information :
+wenzhongwang
+murong noble family
+wenzhongwang@live.com
+shanghai, 200072
+tel: 86 2151873200
+fax: 86 2151873200
 
-   Domain servers in listed order:
-      NS2443.HOSTGATOR.COM
-      NS2444.HOSTGATOR.COM
+Status :
+clientTransferProhibited
+clientDeleteProhibited
 
+Domain Name Server :
+freedns1.registrar-servers.com
+freedns2.registrar-servers.com
+freedns3.registrar-servers.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THAILANDUNIVERSITY.NET
+Registration Date :2008-3-5
+Expiration Date : 2012-3-5
+
+For more information, please go to http://whois.ename.com.
+

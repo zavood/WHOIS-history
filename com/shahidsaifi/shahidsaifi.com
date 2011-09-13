@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THAILANDUNIVERSITY.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2443.HOSTGATOR.COM
-   Name Server: NS2444.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 24-aug-2010
-   Expiration Date: 24-aug-2012
+   Domain Name: SHAHIDSAIFI.COM
+   Registrar: NET 4 INDIA LIMITED
+   Whois Server: whois.net4domains.com
+   Referral URL: http://www.net4.in
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 07-aug-2011
+   Creation Date: 21-aug-2008
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:30:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+  Registrant :
+
+  Domain : shahidsaifi.com
+
+  Administrative Contact :
+
+  Technical Contact :
+
+   Created on.......: 2008-08-21
+   Expired on.......: 2011-08-21
+   Last updated on..: 2010-08-07
+
+  Domain servers :
+
+	Name Server: ns01.domaincontrol.com
+	Name Server: ns02.domaincontrol.com
 
 
-Registrant:
-   Domains by Proxy, Inc.
+ The Data in the NET4INDIA LIMITED Registrar WHOIS database is provided to you by NET4INDIA LIMITED
+ for information purposes only, and may be used to assist you in obtaining
+ information about or related to a domain name's registration record.
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THAILANDUNIVERSITY.NET
+ NET4INDIA LIMITED makes this information available &quot;as is,&quot; and does not guarantee its
+ accuracy.
 
-   Domain servers in listed order:
-      NS2443.HOSTGATOR.COM
-      NS2444.HOSTGATOR.COM
+ By submitting a WHOIS query, you agree that you will use this data only for
+ lawful purposes and that, under no circumstances will you use this data to:
+ a) allow, enable, or otherwise support the transmission by e-mail,
+ telephone, or facsimile of mass, unsolicited, commercial advertising or
+ solicitations to entities other than the data recipient's own existing
+ customers; or (b) enable high volume, automated, electronic processes that
+ send queries or data to the systems of any Registry Operator or
+ ICANN-Accredited registrar, except as reasonably necessary to register
+ domain names or modify existing registrations.
+
+ NET4INDIA LIMITED reserves the right to terminate your access to the NET4INDIA LIMITED WHOIS
+ database in its sole discretion, including without limitation, for excessive
+ querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+ NET4INDIA LIMITED reserves the right to modify these terms at any time.
+
+ By submitting this query, you agree to abide by these terms.
+
+ NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+ RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THAILANDUNIVERSITY.NET

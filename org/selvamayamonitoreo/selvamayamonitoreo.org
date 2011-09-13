@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155341539-LROR
+Domain Name:SELVAMAYAMONITOREO.ORG
+Created On:11-Feb-2009 21:58:51 UTC
+Last Updated On:16-Feb-2011 21:47:14 UTC
+Expiration Date:11-Feb-2012 21:58:51 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0f4bc09778ca53f4
+Registrant Name:Juan Arturo  Perez
+Registrant Street1:Guatemala
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guatemala
+Registrant State/Province:Guatemala
+Registrant Postal Code:01001
+Registrant Country:GT
+Registrant Phone:+502.50222381742
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:venta@computodoshop.com
+Admin ID:0f4bc09778ca53f4
+Admin Name:Juan Arturo  Perez
+Admin Street1:Guatemala
+Admin Street2:
+Admin Street3:
+Admin City:Guatemala
+Admin State/Province:Guatemala
+Admin Postal Code:01001
+Admin Country:GT
+Admin Phone:+502.50222381742
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:venta@computodoshop.com
+Tech ID:0f4bc09778ca53f4
+Tech Name:Juan Arturo  Perez
+Tech Street1:Guatemala
+Tech Street2:
+Tech Street3:
+Tech City:Guatemala
+Tech State/Province:Guatemala
+Tech Postal Code:01001
+Tech Country:GT
+Tech Phone:+502.50222381742
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:venta@computodoshop.com
+Name Server:DNS1.RUMBOE.COM
+Name Server:DNS2.RUMBOE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

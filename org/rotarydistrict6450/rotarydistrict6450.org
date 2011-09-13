@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159591373-LROR
+Domain Name:ROTARYDISTRICT6450.ORG
+Created On:07-Jul-2010 00:24:39 UTC
+Last Updated On:03-Jun-2011 22:51:53 UTC
+Expiration Date:07-Jul-2012 00:24:39 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR51503307
+Registrant Name:David Phelps
+Registrant Organization:effectus LLC
+Registrant Street1:600 N Ridgeland Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oak Park
+Registrant State/Province:Illinois
+Registrant Postal Code:60302
+Registrant Country:US
+Registrant Phone:+1.3124059622
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:David.Phelps@effectusLLC.com
+Admin ID:CR51503309
+Admin Name:David Phelps
+Admin Organization:effectus LLC
+Admin Street1:600 N Ridgeland Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Oak Park
+Admin State/Province:Illinois
+Admin Postal Code:60302
+Admin Country:US
+Admin Phone:+1.3124059622
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:David.Phelps@effectusLLC.com
+Tech ID:CR51503308
+Tech Name:David Phelps
+Tech Organization:effectus LLC
+Tech Street1:600 N Ridgeland Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Oak Park
+Tech State/Province:Illinois
+Tech Postal Code:60302
+Tech Country:US
+Tech Phone:+1.3124059622
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:David.Phelps@effectusLLC.com
+Name Server:A.DNS.CLUBEXPRESS.COM
+Name Server:B.DNS.CLUBEXPRESS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

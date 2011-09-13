@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THAILANDUNIVERSITY.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2443.HOSTGATOR.COM
-   Name Server: NS2444.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ZEUSCOLTD.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NIS.DACOM.CO.KR
+   Name Server: NS2.DACOM.CO.KR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 24-aug-2010
-   Expiration Date: 24-aug-2012
+   Updated Date: 16-may-2008
+   Creation Date: 24-feb-2000
+   Expiration Date: 24-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:31:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:32:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name : zeuscoltd.com
+
+::Registrant::
+Name : ZEUS CO., LTD.
+Email : zeus@zeuscoltd.com
+Address : ZEUS BLDG., 3-16 YANGJAE-DONG, SEOCHO-KU SEOUL
+Zipcode : 137-130
+Nation : KR
+Tel : 82-31-377-9500
+Fax : 82-31-377-3305
+
+::Administrative Contact::
+Name : KIM, YOUNGSEOK
+Email : zeus@zeuscoltd.com
+Address : 164-1, BUSAN-DONG, OSAN-SI KYUNGGI-DO
+Zipcode : 447-050
+Nation : KR
+Tel : 82-31-377-9500
+Fax : 82-31-377-3305
+
+::Technical Contact::
+Name : whois co.,ltd
+Email : whois@whois.co.kr
+Address : 2Fl, Seobuk BD, 740-3 Yeoksam-dong, Gangnam-gu, Seoul, KOREA
+Zipcode : 135-080
+Nation : KR
+Tel : +82-2-557-4259
+Fax : +82-2-325-2259
+
+::Name Servers::
+NIS.DACOM.CO.KR
+NS2.DACOM.CO.KR
+
+::Dates &amp; Status::
+Created Date : 2000/02/24 00:53:18 EST
+Updated Date : 2006/06/25 04:23:09 EST
+Valid Date : 2012/02/24 00:53:18 EST
+Status TRANSFER-LOCK
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THAILANDUNIVERSITY.NET
-
-   Domain servers in listed order:
-      NS2443.HOSTGATOR.COM
-      NS2444.HOSTGATOR.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THAILANDUNIVERSITY.NET
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
