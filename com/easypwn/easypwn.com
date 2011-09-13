@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORECURVES.COM
+   Domain Name: EASYPWN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-mar-2011
-   Creation Date: 11-mar-2011
-   Expiration Date: 11-mar-2013
+   Updated Date: 02-jul-2011
+   Creation Date: 14-dec-2005
+   Expiration Date: 14-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MORECURVES.COM
+   Domain Name: EASYPWN.COM
 
    Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
+      BUY.INTERNETTRAFFIC.COM
+      SELL.INTERNETTRAFFIC.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MORECURVES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EASYPWN.COM

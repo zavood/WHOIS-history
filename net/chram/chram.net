@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORECURVES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CHRAM.NET
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.PIPNI.CZ
+   Name Server: NS2.PIPNI.CZ
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-mar-2011
-   Creation Date: 11-mar-2011
-   Expiration Date: 11-mar-2013
+   Updated Date: 10-dec-2010
+   Creation Date: 10-jan-2003
+   Expiration Date: 10-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       chram.net
+owner:        Vit Stepanov
+email:        tl0fd@centrum.cz
+address:      Ke Dzbanu 19
+city:         Praha 6
+postal-code:  16100
+country:      CZ
+phone:        +420.220199201
+admin-c:      CNET-43471 domeny@xnet.cz
+tech-c:       CNET-43471 domeny@xnet.cz
+billing-c:    CNET-43471 domeny@xnet.cz
+reseller:     Registrovano prostrednictvim
+reseller:     spolecnosti KRAXNET s.r.o.
+reseller:     Veskere zmeny v domene provadejte
+reseller:     pouze na http://www.xnet.cz
+nserver:      ns.pipni.cz
+nserver:      ns2.pipni.cz
+status:       lock
+created:      2003-01-10 11:10:09 UTC
+modified:     2010-12-10 11:06:20 UTC
+expires:      2012-01-10 10:09:50 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CNET-43471
+person:       - -
+organization: KRAXNET s.r.o.
+email:        domeny@xnet.cz
+address:      Kamenicka 26
+city:         Praha 7
+postal-code:  170 00
+country:      CZ
+phone:        +420.220199201
 
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MORECURVES.COM
-
-   Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MORECURVES.COM
+source:       joker.com live whois service
+query-time:   0.029652
+db-updated:   2011-09-13 00:41:04
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EGOZDQ.COM
+   Domain Name: MAXIMUSDYNASTY.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Name Server: DNS1.50WEBS.COM
+   Name Server: DNS2.50WEBS.COM
    Status: clientTransferProhibited
-   Updated Date: 22-oct-2010
-   Creation Date: 21-oct-2007
-   Expiration Date: 21-oct-2011
+   Updated Date: 04-apr-2011
+   Creation Date: 01-apr-2008
+   Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about egozdq.com
-&lt;a href=&quot;http://www.aboutus.org/egozdq.com&quot;&gt;AboutUs: egozdq.com&lt;/a&gt;
+Visit AboutUs.org for more information about maximusdynasty.com
+&lt;a href=&quot;http://www.aboutus.org/maximusdynasty.com&quot;&gt;AboutUs: maximusdynasty.com&lt;/a&gt;
 
 
-Domain name: egozdq.com
-
-Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
-
-Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+Domain name: maximusdynasty.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+
+   martin riady ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+   eboni2/44
+   tangerang, banten 15710
+   ID
+
+Administrative Contact:
+   7 Flow
+   7 Flow (hostmaster@7flow.com)
+   +1.2132173697
+   Fax: +1.2170993653
+   Jl. Dharma Graha Blok E1/28
+   Jakarta, DKI JAYA 10000
+   ID
+
+Technical Contact:
+   7 Flow
+   7 Flow (hostmaster@7flow.com)
+   +1.2132173697
+   Fax: +1.2170993653
+   Jl. Dharma Graha Blok E1/28
+   Jakarta, DKI JAYA 10000
+   ID
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   DNS1.50WEBS.COM
+   DNS2.50WEBS.COM
 
-Creation date: 22 Oct 2007 03:17:09
-Expiration date: 22 Oct 2011 03:17:09
+Creation date: 02 Apr 2008 01:04:00
+Expiration date: 02 Apr 2012 01:04:00
 
 
 

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EGOZDQ.COM
+   Domain Name: SNKPROMO.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientTransferProhibited
-   Updated Date: 22-oct-2010
-   Creation Date: 21-oct-2007
-   Expiration Date: 21-oct-2011
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 09-mar-2011
+   Creation Date: 09-mar-2011
+   Expiration Date: 09-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about egozdq.com
-&lt;a href=&quot;http://www.aboutus.org/egozdq.com&quot;&gt;AboutUs: egozdq.com&lt;/a&gt;
+Visit AboutUs.org for more information about snkpromo.com
+&lt;a href=&quot;http://www.aboutus.org/snkpromo.com&quot;&gt;AboutUs: snkpromo.com&lt;/a&gt;
 
 
-Domain name: egozdq.com
-
-Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
-
-Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+Domain name: snkpromo.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   Simon Nake
+   Simon Nake ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
+   12 Frederick Street
+   Sunderland, Tyne and Wear SR1 1NA
+   GB
+
+Administrative Contact:
+   Simon Nake
+   Simon Nake (dishmachine888@hotmail.com)
+   n/a
+   Fax:
+   12 Frederick Street
+   Sunderland, Tyne and Wear SR1 1NA
+   GB
+
+Technical Contact:
+   Just Host
+   Domain Manager (domainmanager@justhostinc.com)
+   +1.8887557585
+   Fax:
+   919 East Jefferson Blvd.
+   Phoenix, AZ 85034
    US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   ns1.pipedns.com
+   ns2.pipedns.com
 
-Creation date: 22 Oct 2007 03:17:09
-Expiration date: 22 Oct 2011 03:17:09
+Creation date: 09 Mar 2011 15:09:00
+Expiration date: 09 Mar 2012 10:09:00
 
 
 

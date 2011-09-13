@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 5558X7.COM
-   Registrar: LAKEODOMAINS.COM LLC
-   Whois Server: whois.lakeodomains.com
-   Referral URL: http://manage.snapnames.com/customer
+   Domain Name: SMOKINGHARMS.COM
+   Registrar: DOMAINCAPITAN.COM LLC
+   Whois Server: whois.domaincapitan.com
+   Referral URL: http://www.domaincapitan.com
    Name Server: NS1.DSREDIRECTION.COM
    Name Server: NS2.DSREDIRECTION.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-oct-2010
-   Creation Date: 04-oct-2010
-   Expiration Date: 04-oct-2011
+   Updated Date: 27-jul-2011
+   Creation Date: 27-jul-2011
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:40:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,8 +79,8 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: 5558X7.COM
-Registrar: LAKEODOMAINS
+Domain Name: SMOKINGHARMS.COM
+Registrar: DOMAINCAPITAN
 
 Registrant [1300164]:
         Admin - admin@overseedomainmanagement.com
@@ -134,9 +134,9 @@ Domain servers in listed order:
         NS1.DSREDIRECTION.COM
         NS2.DSREDIRECTION.COM
 
-        Record created on:        2010-10-04 15:40:10.0
-        Database last updated on: 2010-10-04 19:16:23.71
-        Domain Expires on:        2011-10-04 15:40:10.0
+        Record created on:        2011-07-27 14:26:57.0
+        Database last updated on: 2011-07-27 18:25:53.66
+        Domain Expires on:        2012-07-27 14:26:57.0
 
 
 

@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EGOZDQ.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Domain Name: SQZH.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: DNS1.ZGSJ.COM
+   Name Server: DNS2.ZGSJ.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 22-oct-2010
-   Creation Date: 21-oct-2007
-   Expiration Date: 21-oct-2011
+   Updated Date: 01-sep-2011
+   Creation Date: 19-mar-2005
+   Expiration Date: 19-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:25 UTC &lt;&lt;&lt;
 
@@ -54,59 +52,7 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about egozdq.com
-&lt;a href=&quot;http://www.aboutus.org/egozdq.com&quot;&gt;AboutUs: egozdq.com&lt;/a&gt;
 
-
-Domain name: egozdq.com
-
-Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
-
-Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
-
-Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
-
-   Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
-
-Status: Locked
-
-Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
-
-Creation date: 22 Oct 2007 03:17:09
-Expiration date: 22 Oct 2011 03:17:09
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -117,10 +63,48 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
+mail, or by telephone.  The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain name: sqzh.com
+
+Registrant Contact:
+   top ten
+   bo huang 513726772@qq.com
+   05274358651 fax: 05274358651
+   suqiannews
+   suqian Jiangsu 223800
+   cn
+
+Administrative Contact:
+   bo huang sossosc@163.com
+   05274358651 fax: 05274358651
+   suqiannews
+   suqian Jiangsu 223800
+   cn
+
+Technical Contact:
+   bo huang sossosc@163.com
+   05274358651 fax: 05274358651
+   suqiannews
+   suqian Jiangsu 223800
+   cn
+
+Billing Contact:
+   bo huang sossosc@163.com
+   05274358651 fax: 05274358651
+   suqiannews
+   suqian Jiangsu 223800
+   cn
+
+DNS:
+dns1.zgsj.com
+dns2.zgsj.com
+
+Created: 2005-03-19
+Expires: 2012-03-19

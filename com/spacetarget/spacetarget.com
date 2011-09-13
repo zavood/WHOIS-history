@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORECURVES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
+   Domain Name: SPACETARGET.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS0.TRANSIP.NET
+   Name Server: NS1.TRANSIP.NET
+   Name Server: NS2.TRANSIP.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-mar-2011
-   Creation Date: 11-mar-2011
-   Expiration Date: 11-mar-2013
+   Updated Date: 01-sep-2011
+   Creation Date: 31-aug-2000
+   Expiration Date: 31-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:10 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by Transip BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Transip BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: SPACETARGET.COM
 
+RSP: Transip BV
+URL: http://www.transip.nl/
 
-Registrant:
-   Domains by Proxy, Inc.
+owner-contact: P-GFP84
+owner-organization: Bucina Corporation N.V.
+owner-fname: G
+owner-lname: Praag
+owner-street: van Engelenweg 23
+owner-city: Willemstad - Curacao
+owner-country: AN
+owner-phone: +59997371677
+owner-fax: +59997371785
+owner-email: webmaster@bucinacorp.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MORECURVES.COM
+admin-contact: P-GFP84
+admin-organization: Bucina Corporation N.V.
+admin-fname: G
+admin-lname: Praag
+admin-street: van Engelenweg 23
+admin-city: Willemstad - Curacao
+admin-country: AN
+admin-phone: +59997371677
+admin-fax: +59997371785
+admin-email: webmaster@bucinacorp.com
 
-   Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
+tech-contact: P-GFP84
+tech-organization: Bucina Corporation N.V.
+tech-fname: G
+tech-lname: Praag
+tech-street: van Engelenweg 23
+tech-city: Willemstad - Curacao
+tech-country: AN
+tech-phone: +59997371677
+tech-fax: +59997371785
+tech-email: webmaster@bucinacorp.com
 
+billing-contact: P-GFP84
+billing-organization: Bucina Corporation N.V.
+billing-fname: G
+billing-lname: Praag
+billing-street: van Engelenweg 23
+billing-city: Willemstad - Curacao
+billing-country: AN
+billing-phone: +59997371677
+billing-fax: +59997371785
+billing-email: webmaster@bucinacorp.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MORECURVES.COM
+nameserver: ns0.transip.net
+nameserver: ns1.transip.net
+nameserver: ns2.transip.net
+
+; Transip BV
+; Real-time domeinregistratie en -beheer vanaf 5.99 Euro!
+; http://www.transip.nl/products/domain/
+

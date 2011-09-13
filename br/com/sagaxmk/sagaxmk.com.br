@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 21:39:26 (BRT -03:00)
+
+domain:      sagaxmk.com.br
+owner:       sergio peres
+ownerid:     106.127.968-50
+country:     BR
+owner-c:     SEPER13
+admin-c:     SEPER13
+tech-c:      SEPER13
+billing-c:   SEPER13
+nserver:     ns1.locaweb.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.locaweb.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns3.locaweb.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20080704 #4648501
+expires:     20120704
+changed:     20110714
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  SEPER13
+person:      sergio peres
+e-mail:      sergio@planetaesportemkt.com.br
+created:     20080704
+changed:     20091013
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

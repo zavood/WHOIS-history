@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EGOZDQ.COM
+   Domain Name: ZHENGHETAI.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
@@ -15,11 +15,11 @@ for detailed information.
    Name Server: DNS4.NAME-SERVICES.COM
    Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 22-oct-2010
-   Creation Date: 21-oct-2007
+   Updated Date: 21-oct-2010
+   Creation Date: 21-oct-2010
    Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,41 +55,38 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about egozdq.com
-&lt;a href=&quot;http://www.aboutus.org/egozdq.com&quot;&gt;AboutUs: egozdq.com&lt;/a&gt;
+Visit AboutUs.org for more information about zhenghetai.com
+&lt;a href=&quot;http://www.aboutus.org/zhenghetai.com&quot;&gt;AboutUs: zhenghetai.com&lt;/a&gt;
 
 
-Domain name: egozdq.com
+Domain name: zhenghetai.com
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+
+   lanfeng kuang (fd43rfas@gmail.com)
+   +86.1089898457
+   Fax:
+   renmingdadao bei256
+   beijing, BEIJING 100250
+   CN
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (yfjmhwxxlw@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+
+   lanfeng kuang (fd43rfas@gmail.com)
+   +86.1089898457
+   Fax:
+   renmingdadao bei256
+   beijing, BEIJING 100250
+   CN
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+
+   lanfeng kuang ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O egozdq.com
-   Bellevue, WA 98007
-   US
+   renmingdadao bei256
+   beijing, BEIJING 100250
+   CN
 
 Status: Locked
 
@@ -100,8 +97,8 @@ Name Servers:
    dns4.name-services.com
    dns5.name-services.com
 
-Creation date: 22 Oct 2007 03:17:09
-Expiration date: 22 Oct 2011 03:17:09
+Creation date: 21 Oct 2010 11:08:34
+Expiration date: 21 Oct 2011 11:08:00
 
 
 
