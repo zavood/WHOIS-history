@@ -18,7 +18,7 @@ Go to http://registrar.verisign-grs.com/whois/ for detailed information.
    Expiration Date: 26-mar-2013
 
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:23:05 EDT &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:23:06 EDT &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,47 +83,43 @@ of Moniker.
 Domain Name: CZ.CC
 Registrar: MONIKER
 
-Registrant [2586053]:
-        Dominique Alexander Piatti domi@cz.cc
-        dotFree Group s.r.o.
-        Prazska 636
-        Dolni Brezany
-        Praha-Zapad
-        25241
-        CZ
+Registrant [1905360]:
+        Dominique Piatti dominique_piatti@hotmail.com
+        Postfach 127
+        Guemligen
+        Bern
+        3073
+        CH
 
 
-Administrative Contact [2586053]:
-        Dominique Alexander Piatti domi@cz.cc
-        dotFree Group s.r.o.
-        Prazska 636
-        Dolni Brezany
-        Praha-Zapad
-        25241
-        CZ
-        Phone: +420.241400644
+Administrative Contact [1905360]:
+        Dominique Piatti dominique_piatti@hotmail.com
+        Postfach 127
+        Guemligen
+        Bern
+        3073
+        CH
+        Phone: +420.733183199
 
 
-Billing Contact [2586053]:
-        Dominique Alexander Piatti domi@cz.cc
-        dotFree Group s.r.o.
-        Prazska 636
-        Dolni Brezany
-        Praha-Zapad
-        25241
-        CZ
-        Phone: +420.241400644
+Billing Contact [1905360]:
+        Dominique Piatti dominique_piatti@hotmail.com
+        Postfach 127
+        Guemligen
+        Bern
+        3073
+        CH
+        Phone: +420.733183199
 
 
-Technical Contact [2586053]:
-        Dominique Alexander Piatti domi@cz.cc
-        dotFree Group s.r.o.
-        Prazska 636
-        Dolni Brezany
-        Praha-Zapad
-        25241
-        CZ
-        Phone: +420.241400644
+Technical Contact [1905360]:
+        Dominique Piatti dominique_piatti@hotmail.com
+        Postfach 127
+        Guemligen
+        Bern
+        3073
+        CH
+        Phone: +420.733183199
 
 
 Domain servers in listed order:
@@ -132,7 +128,7 @@ Domain servers in listed order:
         NS2.CZ.CC         178.238.36.64
 
         Record created on:        1997-10-13 00:00:00.0
-        Database last updated on: 2011-07-16 20:45:20.217
+        Database last updated on: 2011-09-12 10:46:34.913
         Domain Expires on:        2013-03-26 00:00:00.0
 
 
