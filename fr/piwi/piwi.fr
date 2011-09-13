@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; piwi.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      piwi.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MT2489-FRNIC
+admin-c:     CF1130-FRNIC
+tech-c:      IDN79-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL28024-FRNIC
+registrar:   INDOM
+anniversary: 17/03
+created:     07/12/2000
+last-update: 17/03/2010
+source:      FRNIC
+
+ns-list:     NSL28024-FRNIC
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     MT2489-FRNIC
+type:        ORGANIZATION
+contact:     Multi Thematiques
+address:     1, place du Spectacle
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 71 35 35 35
+fax-no:      +33 1 71 35 13 63
+e-mail:      admind@canal-plus.com
+changed:     30/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CF1130-FRNIC
+type:        ORGANIZATION
+contact:     Canal+ France
+address:     1, place du Spectacle
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 71 35 35 35
+fax-no:      +33 1 71 35 13 63
+e-mail:      admind@canal-plus.com
+changed:     05/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IDN79-FRNIC
+type:        ORGANIZATION
+contact:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 71 35 13 63
+e-mail:      indom@indom.com
+changed:     16/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
