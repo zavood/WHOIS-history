@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:54:39 (BRT -03:00)
+
+domain:      acheimidia.com.br
+owner:       COMERCIAL GUIA FONE LTDA - ME
+ownerid:     008.976.374/0001-59
+responsible: Allan junior ian
+country:     BR
+owner-c:     ALJ352
+admin-c:     ALJ352
+tech-c:      ALJ352
+billing-c:   ALJ352
+nserver:     ns1.acheimidia.com.br 69.175.54.250
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns2.acheimidia.com.br 69.175.54.251
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     20070815 #3829674
+expires:     20120815
+changed:     20110726
+status:      published
+
+nic-hdl-br:  ALJ352
+person:      allan jr
+e-mail:      acheimidia@gmail.com
+created:     20051006
+changed:     20110912
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

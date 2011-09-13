@@ -1,0 +1,68 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         oeh-wu.at
+registrant:     HADW7085531-NICAT
+admin-c:        HADW7085530-NICAT
+tech-c:         HADW3348434-NICAT
+nserver:        ns1.oeh-wu.at
+remarks:        137.208.79.10
+nserver:        ns2.oeh-wu.at
+remarks:        137.208.79.9
+nserver:        ns3.oeh-wu.at
+remarks:        46.4.28.252
+nserver:        ns4.oeh-wu.at
+remarks:        80.64.132.152
+changed:        20110704 17:07:15
+source:         AT-DOM
+
+personname:     Stefan Kilga
+organization:   Hochschuelerschaft an der Wirtschaftsuniversitaet Wien
+street address: Augasse 2-6
+postal code:    1090
+city:           Wien
+country:        Austria
+nic-hdl:        HADW7085531-NICAT
+changed:        20100407 14:49:42
+source:         AT-DOM
+
+personname:     Thomas Rieschl
+organization:   Hochschuelerschaft an der Wirtschaftsuniversitaet Wien
+street address: Augasse 2-6
+postal code:    1090
+city:           Wien
+country:        Austria
+nic-hdl:        HADW7085530-NICAT
+changed:        20100407 14:47:19
+source:         AT-DOM
+
+personname:     Thomas Rieschl
+organization:   Hochschuelerschaft an der Wirtschaftsuniversitaet Wien
+street address: Augasse 2-6
+postal code:    A-1090
+city:           Wien
+country:        Austria
+nic-hdl:        HADW3348434-NICAT
+changed:        20080401 17:53:06
+source:         AT-DOM
+

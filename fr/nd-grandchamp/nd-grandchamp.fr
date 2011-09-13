@@ -1,0 +1,78 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; nd-grandchamp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nd-grandchamp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ONDD10-FRNIC
+admin-c:     G710-FRNIC
+tech-c:      G710-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5684-FRNIC
+registrar:   ONLINE SAS
+anniversary: 12/02
+created:     19/01/2000
+last-update: 12/05/2010
+source:      FRNIC
+
+ns-list:     NSL5684-FRNIC
+nserver:     ns0.galacsys.net
+nserver:     ns1.galacsys.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     ONDD10-FRNIC
+type:        ORGANIZATION
+contact:     OGEC NOTRE DAME DU GRANDCHAMP
+address:     97, rue Royale
+address:     78000 Versailles
+country:     FR
+phone:       +33 1 39 24 89 40
+e-mail:      h.rousselin@nd-grandchamp.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     G710-FRNIC
+type:        ORGANIZATION
+contact:     GalacSYS
+address:     19, rue de rambouillet
+address:     78720 Dampierre en Yvelines
+country:     FR
+phone:       +33 1 77 69 59 68
+fax-no:      +33 1 77 62 48 24
+e-mail:      galacsys.126327@spamfree.bookmyname.com
+changed:     30/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
