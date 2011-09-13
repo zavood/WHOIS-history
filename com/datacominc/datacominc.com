@@ -5,54 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GOOGLE.COM.ZZZZZZZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-GOOGLE.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-GOOGLE.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-GOOGLE.COM.ZNAET.PRODOMEN.COM
-GOOGLE.COM.YUCEKIRBAC.COM
-GOOGLE.COM.YUCEHOCA.COM
-GOOGLE.COM.WORDT.DOOR.VEEL.WHTERS.GEBRUIKT.SERVERTJE.NET
-GOOGLE.COM.VN
-GOOGLE.COM.VABDAYOFF.COM
-GOOGLE.COM.UY
-GOOGLE.COM.UA
-GOOGLE.COM.TW
-GOOGLE.COM.TR
-GOOGLE.COM.SUCKS.FIND.CRACKZ.WITH.SEARCH.GULLI.COM
-GOOGLE.COM.SPROSIUYANDEKSA.RU
-GOOGLE.COM.SOUTHBEACHNEEDLEARTISTRY.COM
-GOOGLE.COM.SHQIPERIA.COM
-GOOGLE.COM.SERVES.PR0N.FOR.ALLIYAH.NET
-GOOGLE.COM.SAYS.IWANNATSAHEYLUWITHNINAT.COM
-GOOGLE.COM.SA
-GOOGLE.COM.REJSCRAP.COM
-GOOGLE.COM.PE
-GOOGLE.COM.PAVLINOFF-55-11-44.COM
-GOOGLE.COM.MX
-GOOGLE.COM.LASERPIPE.COM
-GOOGLE.COM.IS.NOT.HOSTED.BY.ACTIVEDOMAINDNS.NET
-GOOGLE.COM.IS.HOSTED.ON.PROFITHOSTING.NET
-GOOGLE.COM.IS.APPROVED.BY.NUMEA.COM
-GOOGLE.COM.HK
-GOOGLE.COM.HICHINA.COM
-GOOGLE.COM.HAS.LESS.FREE.PORN.IN.ITS.SEARCH.ENGINE.THAN.SECZY.COM
-GOOGLE.COM.ESJUEGOS.NET
-GOOGLE.COM.DO
-GOOGLE.COM.CO
-GOOGLE.COM.CN
-GOOGLE.COM.BR
-GOOGLE.COM.BITERMANSOLUTIONS.COM
-GOOGLE.COM.BEYONDWHOIS.COM
-GOOGLE.COM.AU
-GOOGLE.COM.AR
-GOOGLE.COM.AFRICANBATS.ORG
-GOOGLE.COM
+   Domain Name: DATACOMINC.COM
+   Registrar: 000DOMAINS LLC
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
+   Status: ok
+   Updated Date: 20-jul-2011
+   Creation Date: 15-jul-2002
+   Expiration Date: 15-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:24:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:25:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,3 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+   Domain Services Provided By:
+      000domains, support@000domains.com
+      http://www.000domains.com
+
+Registrant:
+   Data-Com, Inc
+   18452 East 111th
+   Broken Arrow, OK  74011
+   US
+
+   Registrar: 000DOM
+   Domain Name: DATACOMINC.COM
+      Created on: 15-JUL-02
+      Expires on: 16-JUL-12
+      Last Updated on: 20-JUL-11
+
+   Administrative, Technical Contact:
+      Crum, Joe  joecrum@data-com.net
+      Data-Com, Inc
+      18452 East 111th
+      Broken Arrow, OK  74011
+      US
+      1.5012588154
+      1.5012588154
+
+
+   Domain servers in listed order:
+      NS51.1AND1.COM
+      NS52.1AND1.COM
+
+End of Whois Information
