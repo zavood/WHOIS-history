@@ -5,14 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-NAVER.COM.SANGUINE.PE.KR
-NAVER.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-NAVER.COM.ELIMMUSIC.NET
-NAVER.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: SIAMPHONE2HAND.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.IGETWEB.NET
+   Name Server: NS2.IGETWEB.NET
+   Name Server: NS3.IGETWEB.NET
+   Status: clientTransferProhibited
+   Updated Date: 29-apr-2011
+   Creation Date: 27-may-2010
+   Expiration Date: 27-may-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:30 UTC &lt;&lt;&lt;
 
@@ -49,3 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 supakrit heijang@hotmail.com +66.81191919
+	 supakrit
+	 Wait for Domain owner detail
+	 Wait for Domain owner detail,Wait for Domain owner detail,TH 00000
+
+
+Domain Name:siamphone2hand.com
+Record last updated at 2011-04-29 04:18:50
+Record created on 2010/5/27
+Record expired on 2014/5/27
+
+
+Domain servers in listed order:
+	 ns1.igetweb.net 	 ns2.igetweb.net
+
+Administrator:
+	 6/49 Soi Suanchitchom Pachanivate1 rd. Ladyound
+	 Bangkok
+Jatujak,
+TH
+ 10900
+
+	 name:(E-Commerce Solution E-Commerce Solution Co., Ltd.)
+mail:(info@igetweb.com) +66.855050555
+	 E-Commerce Solution Co., Ltd.
+Technical Contactor:
+	 6/49 Soi Suanchitchom Pachanivate1 rd. Ladyound
+	 Bangkok
+Jatujak,
+TH
+ 10900
+
+	 name:(E-Commerce Solution E-Commerce Solution Co., Ltd.)
+mail:(info@igetweb.com) +66.855050555
+	 E-Commerce Solution Co., Ltd.
+Billing Contactor:
+	 6/49 Soi Suanchitchom Pachanivate1 rd. Ladyound
+	 Bangkok
+Jatujak,
+TH
+ 10900
+
+	 name:(E-Commerce Solution E-Commerce Solution Co., Ltd.)
+mail:(info@igetweb.com) +66.855050555
+	 E-Commerce Solution Co., Ltd.
+
+Registration Service Provider:
+	name: E-Commerce Solution Co., Ltd.
+	tel: +66.29544566
+ 	fax: +66.29544660
+ 	web:http://www.igetweb.com

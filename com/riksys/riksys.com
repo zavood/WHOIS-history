@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-NAVER.COM.SANGUINE.PE.KR
-NAVER.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-NAVER.COM.ELIMMUSIC.NET
-NAVER.COM
+   Domain Name: RIKSYS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS01.YAHOODOMAINS.JP
+   Name Server: NS02.YAHOODOMAINS.JP
+   Status: ok
+   Updated Date: 05-apr-2011
+   Creation Date: 08-apr-2008
+   Expiration Date: 08-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... riksys.com
+  Creation Date........ 2008-04-09
+  Registration Date.... 2008-04-09
+  Expiry Date.......... 2012-04-09
+  Organisation Name.... Kuroda Kouta
+  Organisation Address. 9-7-1, Akasaka
+  Organisation Address. Midtown Tower
+  Organisation Address. Minato-ku
+  Organisation Address. 107-6211
+  Organisation Address. Tokyo
+  Organisation Address. JAPAN
+
+Admin Name........... Kouta Kuroda
+  Admin Address........ 9-7-1, Akasaka
+  Admin Address........ Midtown Tower
+  Admin Address........ Minato-ku
+  Admin Address........ 107-6211
+  Admin Address........ Tokyo
+  Admin Address........ JAPAN
+  Admin Email.......... riko@ttv.ne.jp
+  Admin Phone.......... +81.0364404979
+  Admin Fax............
+
+Tech Name............ YahooJAPANDomains TechContact
+  Tech Address......... 9-7-1, Akasaka
+  Tech Address......... Midtown Tower
+  Tech Address......... Minato-ku
+  Tech Address......... 107-6211
+  Tech Address......... Tokyo
+  Tech Address......... JAPAN
+  Tech Email........... domains-info@mail.yahoo.co.jp
+  Tech Phone........... +81.0364404979
+  Tech Fax.............
+  Name Server.......... ns01.yahoodomains.jp
+  Name Server.......... ns02.yahoodomains.jp
+
+

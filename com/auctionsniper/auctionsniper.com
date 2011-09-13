@@ -5,16 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-NAVER.COM.SANGUINE.PE.KR
-NAVER.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-NAVER.COM.ELIMMUSIC.NET
-NAVER.COM
+   Domain Name: AUCTIONSNIPER.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS-1180.AWSDNS-19.ORG
+   Name Server: NS-1946.AWSDNS-51.CO.UK
+   Name Server: NS-258.AWSDNS-32.COM
+   Name Server: NS-585.AWSDNS-09.NET
+   Status: clientTransferProhibited
+   Updated Date: 08-sep-2011
+   Creation Date: 21-apr-1999
+   Expiration Date: 02-sep-2020
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:18:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +53,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   AuctionSniper.com
+   PO Box 575
+   Paradise, CA 95967-0575
+   US
+
+   Domain Name: AUCTIONSNIPER.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      AuctionSniper.com
+      Hostmaster
+      PO Box 575
+      Paradise, CA 95967-0575
+      US
+      530-892-9494
+      hostmaster@auctionsniper.com
+
+   Domain created on 21-Apr-1999
+   Domain expires on 02-Sep-2020
+   Last updated on 08-Sep-2011
+
+   Domain servers in listed order:
+
+      NS-1180.AWSDNS-19.ORG
+      NS-1946.AWSDNS-51.CO.UK
+      NS-258.AWSDNS-32.COM
+      NS-585.AWSDNS-09.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

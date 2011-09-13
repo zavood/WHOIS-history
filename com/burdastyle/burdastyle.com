@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-NAVER.COM.SANGUINE.PE.KR
-NAVER.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-NAVER.COM.ELIMMUSIC.NET
-NAVER.COM
+   Domain Name: BURDASTYLE.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.ASCIO.COM
+   Name Server: NS2.ASCIO.COM
+   Status: ok
+   Updated Date: 03-mar-2011
+   Creation Date: 09-nov-2006
+   Expiration Date: 09-nov-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:19:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Verlag Aenne Burda GmbH &amp; Co.KG (VERLAGAE1146)
+  Arabellastrasse 23
+
+  Muenchen, DE, 81925
+  DE
+
+  Domain name: burdastyle.com
+
+Technical contact:
+  Bartlitz, Andreas (AB36851)
+  Burda Digital Systems GmbH
+  Hubert-Burda-Platz 2
+
+  Offenburg, 77652
+  DE
+  domain@burda.com
+  +49.781842407 Fax: +49.781843629
+
+Administrative contact:
+  Klaeden, Joerg (JK9423)
+  Burda Digital Systems GmbH
+  Hubert-Burda-Platz 2
+
+  Offenburg, BW, 77652
+  DE
+  domain@burdadigital.de
+  +49.781843070 Fax: +49.781843625
+
+Record created:           2011-03-03 15:11:00
+Record last updated:      2011-03-03 15:35:42
+Record expires:           2012-11-09 09:10:00
+
+Domain servers in listed order:
+  ns1.ascio.com (ASCIODNS1)
+  ns2.ascio.com (ASCIODNS2)
