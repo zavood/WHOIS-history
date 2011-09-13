@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUTUREMOTGER.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.FUTUREMOTGER.COM
-   Name Server: DNS2.FUTUREMOTGER.COM
-   Status: clientTransferProhibited
-   Updated Date: 17-may-2011
-   Creation Date: 04-may-2011
-   Expiration Date: 04-may-2012
+   Domain Name: 1STRATEAUTOREPAIR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: CNS1.IDIG.NET
+   Name Server: CNS2.IDIG.NET
+   Status: ok
+   Updated Date: 04-sep-2011
+   Creation Date: 14-sep-2010
+   Expiration Date: 14-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:06:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,42 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+=-=-=-=
+Visit AboutUs.org for more information about 1strateautorepair.com
+&lt;a href=&quot;http://www.aboutus.org/1strateautorepair.com&quot;&gt;AboutUs: 1strateautorepair.com&lt;/a&gt;
 
-Domain name:             FUTUREMOTGER.COM
-Name Server:             dns1.futuremotger.com 66.199.251.242
-Name Server:             dns2.futuremotger.com 66.199.251.242
-Creation Date:           2011.05.04
-Updated Date:            2011.05.17
-Expiration Date:         2012.05.04
 
-Status:                  DELEGATED
+Domain name: 1strateautorepair.com
 
-Registrant ID:           IOJXEVQ-RU
-Registrant Name:         Nikolay Laptev
-Registrant Organization: Nikolay Laptev
-Registrant Street1:      Laptev Nikolay
-Registrant Street1:      Saratov, Koneva 11, vk.9
-Registrant City:         Saratov
-Registrant Postal Code:  123098
-Registrant Country:      RU
+Administrative Contact:
 
-Administrative, Technical Contact
-Contact ID:              IOJXEVQ-RU
-Contact Name:            Nikolay Laptev
-Contact Organization:    Nikolay Laptev
-Contact Street1:         Laptev Nikolay
-Contact Street1:         Saratov, Koneva 11, vk.9
-Contact City:            Saratov
-Contact Postal Code:     123098
-Contact Country:         RU
-Contact Phone:           +7 495 881830
-Contact E-mail:          lkolyan@yahoo.com
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+Technical Contact:
 
-Last updated on 2011.09.13 22:08:02 MSK/MSD
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
 
+Registrant Contact:
+
+   Creed Don Burleson Jr. ()
+
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Status: Active
+
+Name Servers:
+   CNS1.IDIG.NET
+   CNS2.IDIG.NET
+
+Creation date: 14 Sep 2010 15:01:02
+Expiration date: 14 Sep 2016 15:01:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

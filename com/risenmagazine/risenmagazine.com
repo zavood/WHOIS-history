@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUTUREMOTGER.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.FUTUREMOTGER.COM
-   Name Server: DNS2.FUTUREMOTGER.COM
+   Domain Name: RISENMAGAZINE.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.NETHOSTING.COM
+   Name Server: NS2.NETHOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 17-may-2011
-   Creation Date: 04-may-2011
-   Expiration Date: 04-may-2012
+   Status: clientUpdateProhibited
+   Updated Date: 27-may-2010
+   Creation Date: 16-jan-2002
+   Expiration Date: 16-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:06:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,42 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain name:             FUTUREMOTGER.COM
-Name Server:             dns1.futuremotger.com 66.199.251.242
-Name Server:             dns2.futuremotger.com 66.199.251.242
-Creation Date:           2011.05.04
-Updated Date:            2011.05.17
-Expiration Date:         2012.05.04
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Status:                  DELEGATED
 
-Registrant ID:           IOJXEVQ-RU
-Registrant Name:         Nikolay Laptev
-Registrant Organization: Nikolay Laptev
-Registrant Street1:      Laptev Nikolay
-Registrant Street1:      Saratov, Koneva 11, vk.9
-Registrant City:         Saratov
-Registrant Postal Code:  123098
-Registrant Country:      RU
+Registrant:
+   Aileen Catapusan
 
-Administrative, Technical Contact
-Contact ID:              IOJXEVQ-RU
-Contact Name:            Nikolay Laptev
-Contact Organization:    Nikolay Laptev
-Contact Street1:         Laptev Nikolay
-Contact Street1:         Saratov, Koneva 11, vk.9
-Contact City:            Saratov
-Contact Postal Code:     123098
-Contact Country:         RU
-Contact Phone:           +7 495 881830
-Contact E-mail:          lkolyan@yahoo.com
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: RISENMAGAZINE.COM
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+   Domain servers in listed order:
+      NS1.NETHOSTING.COM
+      NS2.NETHOSTING.COM
 
-Last updated on 2011.09.13 22:08:02 MSK/MSD
 
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=RISENMAGAZINE.COM

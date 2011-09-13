@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUTUREMOTGER.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.FUTUREMOTGER.COM
-   Name Server: DNS2.FUTUREMOTGER.COM
+   Domain Name: RETINAHELPDESK.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.WATCHLIVEPRO.COM
+   Name Server: NS2.WATCHLIVEPRO.COM
    Status: clientTransferProhibited
-   Updated Date: 17-may-2011
-   Creation Date: 04-may-2011
-   Expiration Date: 04-may-2012
+   Updated Date: 03-dec-2010
+   Creation Date: 03-dec-2008
+   Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:06:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,42 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
 
-Domain name:             FUTUREMOTGER.COM
-Name Server:             dns1.futuremotger.com 66.199.251.242
-Name Server:             dns2.futuremotger.com 66.199.251.242
-Creation Date:           2011.05.04
-Updated Date:            2011.05.17
-Expiration Date:         2012.05.04
+Domain Name.......... retinahelpdesk.com
+  Creation Date........ 2008-12-03
+  Registration Date.... 2008-12-03
+  Expiry Date.......... 2011-12-03
+  Organisation Name.... Retina Software Private Limited
+  Organisation Address. 8/266, Malaviya Nagar
+  Organisation Address.
+  Organisation Address. Jaipur
+  Organisation Address. 302017
+  Organisation Address. Rajasthan
+  Organisation Address. INDIA
 
-Status:                  DELEGATED
+Admin Name........... Zeeshan Alam
+  Admin Address........ 8/266, Malaviya Nagar
+  Admin Address........
+  Admin Address........ Jaipur
+  Admin Address........ 302017
+  Admin Address........ Rajasthan
+  Admin Address........ INDIA
+  Admin Email.......... zeeshan@sniperspy.com
+  Admin Phone.......... +91.1414011370
+  Admin Fax............
 
-Registrant ID:           IOJXEVQ-RU
-Registrant Name:         Nikolay Laptev
-Registrant Organization: Nikolay Laptev
-Registrant Street1:      Laptev Nikolay
-Registrant Street1:      Saratov, Koneva 11, vk.9
-Registrant City:         Saratov
-Registrant Postal Code:  123098
-Registrant Country:      RU
+Tech Name............ Zeeshan Alam
+  Tech Address......... 8/266, Malaviya Nagar
+  Tech Address.........
+  Tech Address......... Jaipur
+  Tech Address......... 302017
+  Tech Address......... Rajasthan
+  Tech Address......... INDIA
+  Tech Email........... zeeshan@sniperspy.com
+  Tech Phone........... +91.1414011370
+  Tech Fax.............
+  Name Server.......... ns1.watchlivepro.com
+  Name Server.......... ns2.watchlivepro.com
 
-Administrative, Technical Contact
-Contact ID:              IOJXEVQ-RU
-Contact Name:            Nikolay Laptev
-Contact Organization:    Nikolay Laptev
-Contact Street1:         Laptev Nikolay
-Contact Street1:         Saratov, Koneva 11, vk.9
-Contact City:            Saratov
-Contact Postal Code:     123098
-Contact Country:         RU
-Contact Phone:           +7 495 881830
-Contact E-mail:          lkolyan@yahoo.com
-
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.13 22:08:02 MSK/MSD
 

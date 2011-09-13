@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94486130-LROR
+Domain Name:HEIMDALL-BY-CANOE.ORG
+Created On:14-Feb-2003 20:48:39 UTC
+Last Updated On:23-Jan-2008 21:03:31 UTC
+Expiration Date:14-Feb-2013 20:48:39 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29000932-NSI
+Registrant Name:ChamplainCenterfor Natural Healing
+Registrant Organization:ChamplainCenterfor Natural Healing
+Registrant Street1:33 Harbor Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shelburne
+Registrant State/Province:VT
+Registrant Postal Code:05482
+Registrant Country:US
+Registrant Phone:+1.80298582
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ccnm@VTNATURALMED.COM
+Admin ID:29000932-NSI
+Admin Name:ChamplainCenterfor Natural Healing
+Admin Organization:ChamplainCenterfor Natural Healing
+Admin Street1:33 Harbor Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Shelburne
+Admin State/Province:VT
+Admin Postal Code:05482
+Admin Country:US
+Admin Phone:+1.80298582
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ccnm@VTNATURALMED.COM
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS1.Z33.COM
+Name Server:NS2.Z33.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

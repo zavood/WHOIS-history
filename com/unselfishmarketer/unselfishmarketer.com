@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUTUREMOTGER.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.FUTUREMOTGER.COM
-   Name Server: DNS2.FUTUREMOTGER.COM
+   Domain Name: UNSELFISHMARKETER.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.UNSELFISHMARKETERS.COM
+   Name Server: NS2.UNSELFISHMARKETERS.COM
    Status: clientTransferProhibited
-   Updated Date: 17-may-2011
-   Creation Date: 04-may-2011
-   Expiration Date: 04-may-2012
+   Updated Date: 06-oct-2010
+   Creation Date: 18-may-2006
+   Expiration Date: 18-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,42 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain name:             FUTUREMOTGER.COM
-Name Server:             dns1.futuremotger.com 66.199.251.242
-Name Server:             dns2.futuremotger.com 66.199.251.242
-Creation Date:           2011.05.04
-Updated Date:            2011.05.17
-Expiration Date:         2012.05.04
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Status:                  DELEGATED
 
-Registrant ID:           IOJXEVQ-RU
-Registrant Name:         Nikolay Laptev
-Registrant Organization: Nikolay Laptev
-Registrant Street1:      Laptev Nikolay
-Registrant Street1:      Saratov, Koneva 11, vk.9
-Registrant City:         Saratov
-Registrant Postal Code:  123098
-Registrant Country:      RU
+Registrant:
+	 JayKay Bak jaykay@unselfishmarketers.com +45.40860860
+	 Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,-,DK 4100
 
-Administrative, Technical Contact
-Contact ID:              IOJXEVQ-RU
-Contact Name:            Nikolay Laptev
-Contact Organization:    Nikolay Laptev
-Contact Street1:         Laptev Nikolay
-Contact Street1:         Saratov, Koneva 11, vk.9
-Contact City:            Saratov
-Contact Postal Code:     123098
-Contact Country:         RU
-Contact Phone:           +7 495 881830
-Contact E-mail:          lkolyan@yahoo.com
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+Domain Name:unselfishmarketer.com
+Record last updated at 2010-10-06 00:11:55
+Record created on 2006/5/18
+Record expired on 2016/5/18
 
-Last updated on 2011.09.13 22:08:02 MSK/MSD
 
+Domain servers in listed order:
+	 ns1.unselfishmarketers.com 	 ns2.unselfishmarketers.com
+
+Administrator:
+	 Name-- JayKay Bak
+ EMail-: (ceo@unselfishmarketers.com)
+ tel --: +45.40860860
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,-,DK 4100
+
+Technical Contactor:
+	 Name-- JayKay Bak
+ EMail-: (webmaster-division@unselfishmarketers.com)
+ tel --: +45.40860860
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,-,DK 4100
+
+Billing Contactor:
+	 Name-- JayKay Bak
+ EMail-: (billing@unselfishmarketers.com)
+ tel --: +45.40860860
+	 org: Unselfish Marketers Co. Ltd.
+	 Moellevej 4i
+	 Ringsted,-,DK 4100
+
+
+Registration Service Provider:
+	name: Unselfish Marketers Co. Ltd.
+	tel: +45.60882802
+ 	fax: +45.60882802
+ 	web:http://unselfishmarketers.com
