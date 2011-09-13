@@ -5,24 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HP.NET
+   Domain Name: FPDOGS.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS1.HP.NET
-   Name Server: NS2.HP.NET
-   Name Server: NS3.HP.NET
-   Name Server: NS4.HP.NET
-   Name Server: NS5.HP.NET
-   Name Server: NS6.HP.NET
+   Name Server: NS1.MATTELPARTNERS.COM
+   Name Server: NS2.MATTELPARTNERS.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-nov-2010
-   Creation Date: 06-may-1996
-   Expiration Date: 27-dec-2011
+   Updated Date: 16-apr-2011
+   Creation Date: 18-may-2010
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:53:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:53:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,13 +80,13 @@ By submitting this query, you agree to abide by this policy.
 
 Registrant:
         Domain Administrator
-        Hewlett-Packard Company
-        3000 Hanover St.
-         Palo Alto CA 94304
+        Mattel, Inc.
+        333 Continental Blvd.
+         El Segundo CA 90245
         US
-        hp.domains@hp.com +1.8005247638 Fax: +1.6508522936
+        proxyadm@mattel.com +1.3102524220 Fax: +1.3102523861
 
-    Domain Name: hp.net
+    Domain Name: fpdogs.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
@@ -98,31 +94,27 @@ Registrant:
 
     Administrative Contact:
         Domain Administrator
-        Hewlett-Packard Company
-        3000 Hanover St.
-         Palo Alto CA 94304
+        Mattel, Inc.
+        333 Continental Blvd.
+         El Segundo CA 90245
         US
-        hp.domains@hp.com +1.8005247638 Fax: +1.6508522936
+        proxyadm@mattel.com +1.3102524220 Fax: +1.3102523861
     Technical Contact, Zone Contact:
-        HP Hostmaster
-        Hewlett-Packard Company
-        1000 NE Circle Blvd MS 413A
-         Corvallis OR 97330
+        Domain Administrator
+        Mattel, Inc.
+        333 Continental Blvd.
+         El Segundo CA 90245
         US
-        hostmaster@hp.com +1.8005247638 Fax: +1.5417156789
+        proxyadm@mattel.com +1.3102524220 Fax: +1.3102523861
 
-    Created on..............: 1996-05-06.
-    Expires on..............: 2011-12-27.
-    Record last updated on..: 2011-04-18.
+    Created on..............: 2010-05-18.
+    Expires on..............: 2012-05-18.
+    Record last updated on..: 2011-06-06.
 
     Domain servers in listed order:
 
-    ns1.hp.net
-    ns2.hp.net
-    ns6.hp.net
-    ns3.hp.net
-    ns4.hp.net
-    ns5.hp.net
+    ns1.mattelpartners.com
+    ns2.mattelpartners.com
 
 
 

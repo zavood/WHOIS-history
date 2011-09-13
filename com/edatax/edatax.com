@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;51PERL.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:54:31 UTC &lt;&lt;&lt;
+   Domain Name: EDATAX.COM
+   Registrar: NAMESCOUT CORP
+   Whois Server: whois.namescout.com
+   Referral URL: http://www.namescout.com
+   Name Server: NS207.CANADIANWEBHOSTING.COM
+   Name Server: NS208.CANADIANWEBHOSTING.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 09-feb-2011
+   Creation Date: 08-feb-2003
+   Expiration Date: 08-feb-2012
+
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:52:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,24 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+We are unable to process your request at this time.
+The whois information is unavailable for this domain for one of the following reasons:
+
+(1) Too many simulataneous connections from your host;
+(2) The domain you requested is not with this Registrar;
+(3) You have exceeded your query limit;
+(4) Your IP address has been restricted;
+(5) Whois data is not available for this domain - check back in 48 hours when our server is updated;
+(6) Access has been restricted to ensure operational stability;
+(7) A system error has occurred;
+(8) The time limit for your request has expired;
+(9) The IP address provided is not valid or the host specified by the IP address does not exist;
+(10) There is an error in what you have inputed or requested;
+(11) An unknown error has occurred;
+(12) The domain is not currently registered;
+(13) The domain you requested contains invalid characters;
+(14) The domain you requested is too long;
+(15) The domain you requested begins or ends with a dash;
+(16) The domain you requested is a third or fourth level domain;
+(17) You did not specify a domain name.
+
