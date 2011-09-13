@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:08:36 (BRT -03:00)
+
+domain:      scritainformatica.com.br
+owner:       Scrita Informatica Com, M&aacute;q, Esc, LTDA
+ownerid:     038.910.030/0001-08
+responsible: Leandro Garcia Maia
+country:     BR
+owner-c:     LGM192
+admin-c:     LGM192
+tech-c:      LGM192
+billing-c:   LGM192
+nserver:     ns1.hostgold.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.hostgold.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20050714 #2250562
+expires:     20140714
+changed:     20110706
+status:      published
+
+nic-hdl-br:  LGM192
+person:      Leandro Garcia Maia
+e-mail:      legamaia@hotmail.com
+created:     20050714
+changed:     20060817
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

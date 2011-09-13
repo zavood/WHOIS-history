@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         ronnie.sk
+Admin-id            PONI-0002
+Admin-name          Pro on Software
+Admin-legal-form    zivnost
+Admin-org.-ID       40433315
+Admin-address       Pazite 35, Zilina 01009
+Admin-telephone     0904421925
+Admin-email         peter.ondras@pse.sk
+Tech-id             ZONE-0002
+Tech-name           Zoner, s.r.o.
+Tech-org.-ID        35770929
+Tech-address        Kopcianska 94, Bratislava 85101
+Tech-telephone      +421-2-63815272, +421-2-68265986
+dns_name            ns1.regzone.cz
+dns_name            ns1.regzone.info
+Last-update         2010-12-28
+Valid-date          2012-01-14
+Domain-status       DOM_OK
+
