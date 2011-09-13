@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREKFUN.COM
+   Domain Name: JTANDCO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jul-2010
-   Creation Date: 01-sep-2002
-   Expiration Date: 27-jul-2012
+   Updated Date: 26-jul-2010
+   Creation Date: 25-jul-2003
+   Expiration Date: 25-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:33:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:32:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PREKFUN.COM
+   Domain Name: JTANDCO.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PREKFUN.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=JTANDCO.COM
