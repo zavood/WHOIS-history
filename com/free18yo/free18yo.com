@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOUBLEPIMP.COM
+   Domain Name: FREE18YO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.PKDOMAINS.NET
-   Name Server: NS2.PKDOMAINS.NET
-   Name Server: NS3.PKDOMAINS.NET
+   Name Server: NS.ISPRIME.COM
+   Name Server: NS2.ISPRIME.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-sep-2010
-   Creation Date: 03-jun-2007
-   Expiration Date: 03-jun-2012
+   Updated Date: 03-apr-2011
+   Creation Date: 02-apr-2007
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:15:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:14:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domain Administrator
+   SSC Group, LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DOUBLEPIMP.COM
+   Domain Name: FREE18YO.COM
 
    Domain servers in listed order:
-      NS1.PKDOMAINS.NET
-      NS2.PKDOMAINS.NET
-      NS3.PKDOMAINS.NET
+      NS.ISPRIME.COM
+      NS2.ISPRIME.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DOUBLEPIMP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FREE18YO.COM
