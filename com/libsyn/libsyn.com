@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: I2BNETWORKS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.DNS.I2BNETWORKS.COM
-   Name Server: NS2.DNS.I2BNETWORKS.COM
-   Name Server: NS3.DNS.I2BNETWORKS.COM
+   Domain Name: LIBSYN.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.LIBSYN.COM
+   Name Server: NS2.LIBSYN.COM
+   Name Server: NS3.LIBSYN.COM
+   Name Server: NS4.LIBSYN.COM
+   Name Server: NS5.LIBSYN.COM
+   Name Server: NS6.LIBSYN.COM
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2008
-   Creation Date: 07-nov-2001
-   Expiration Date: 07-nov-2013
+   Updated Date: 03-aug-2011
+   Creation Date: 25-oct-2004
+   Expiration Date: 25-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:38:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:39:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,56 +55,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-i2bnetworks.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Registrant:
-         I2B Admin  (hostmaster@i2bnetworks.com)
-        I2B Networks, Inc.
-        8971 Complex Dr.
-        San Diego, CA  92123
-        US
-        858-715-8500
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Domain Name: i2bnetworks.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Administrative, Billing Contact:
-         I2B Admin  (hostmaster@i2bnetworks.com)
-        I2B Networks
-        8971 Complex Dr.
-        San Diego, CA  92123
-        US
-        858-715-8500
-
-
-Billing Contact:
-         Timothy Sears  (tim@i2bnetworks.com)
-
-        8971 Complex Dr
-        San Diego, CA  92123
-        US
-        8587158500
-
-
-
-
-
-   Record created on Nov 7 2001.
-   Record expires on Nov 7 2013.
-Domain servers:
-        ns1.dns.i2bnetworks.com
-        ns2.dns.i2bnetworks.com
-        ns3.dns.i2bnetworks.com
-
-
-
-Domain Service Provider:
-   I2B Networks, Inc
-   8587158500
-   support@i2bnetworks.com
-   www.i2bnetworks.com
-
-
+Whois Query: libsyn.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 19:30:06 EDT 2011
+Reason Code: IE

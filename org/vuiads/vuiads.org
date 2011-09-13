@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162784282-LROR
+Domain Name:VUIADS.ORG
+Created On:14-Jul-2011 15:53:25 UTC
+Last Updated On:13-Sep-2011 03:50:54 UTC
+Expiration Date:14-Jul-2012 15:53:25 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:OK
+Registrant ID:PHM1165464034
+Registrant Name:Pablos Miamo
+Registrant Street1:et voulas straas no 4
+Registrant Street2:
+Registrant Street3:
+Registrant City:Victoria
+Registrant State/Province:Seychelles
+Registrant Postal Code:45120
+Registrant Country:SC
+Registrant Phone:+248.452951235752
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:contact@vuiads.com
+Admin ID:PHM1165464034
+Admin Name:Pablos Miamo
+Admin Street1:et voulas straas no 4
+Admin Street2:
+Admin Street3:
+Admin City:Victoria
+Admin State/Province:Seychelles
+Admin Postal Code:45120
+Admin Country:SC
+Admin Phone:+248.452951235752
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contact@vuiads.com
+Tech ID:PHM1165464034
+Tech Name:Pablos Miamo
+Tech Street1:et voulas straas no 4
+Tech Street2:
+Tech Street3:
+Tech City:Victoria
+Tech State/Province:Seychelles
+Tech Postal Code:45120
+Tech Country:SC
+Tech Phone:+248.452951235752
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contact@vuiads.com
+Name Server:NS1.DOMAINDISCOUNT24.NET
+Name Server:NS3.DOMAINDISCOUNT24.NET
+Name Server:NS2.DOMAINDISCOUNT24.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: I2BNETWORKS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.DNS.I2BNETWORKS.COM
-   Name Server: NS2.DNS.I2BNETWORKS.COM
-   Name Server: NS3.DNS.I2BNETWORKS.COM
+   Domain Name: SHOEMETRO-EMAIL.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.EXACTTARGET.COM
+   Name Server: NS2.EXACTTARGET.COM
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2008
-   Creation Date: 07-nov-2001
-   Expiration Date: 07-nov-2013
+   Status: clientUpdateProhibited
+   Updated Date: 14-dec-2010
+   Creation Date: 13-mar-2010
+   Expiration Date: 13-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:38:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:39:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,56 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-i2bnetworks.com
-
-Registrant:
-         I2B Admin  (hostmaster@i2bnetworks.com)
-        I2B Networks, Inc.
-        8971 Complex Dr.
-        San Diego, CA  92123
-        US
-        858-715-8500
-
-
-Domain Name: i2bnetworks.com
-
-
-
-
-Administrative, Billing Contact:
-         I2B Admin  (hostmaster@i2bnetworks.com)
-        I2B Networks
-        8971 Complex Dr.
-        San Diego, CA  92123
-        US
-        858-715-8500
-
-
-Billing Contact:
-         Timothy Sears  (tim@i2bnetworks.com)
-
-        8971 Complex Dr
-        San Diego, CA  92123
-        US
-        8587158500
-
-
-
-
-
-   Record created on Nov 7 2001.
-   Record expires on Nov 7 2013.
-Domain servers:
-        ns1.dns.i2bnetworks.com
-        ns2.dns.i2bnetworks.com
-        ns3.dns.i2bnetworks.com
-
-
-
-Domain Service Provider:
-   I2B Networks, Inc
-   8587158500
-   support@i2bnetworks.com
-   www.i2bnetworks.com
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
