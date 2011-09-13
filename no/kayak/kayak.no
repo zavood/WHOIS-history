@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: KAY53D-NORID
+Domain Name................: kayak.no
+Domain Holder Handle.......: TL282O-NORID
+Registrar Handle...........: REG545-NORID
+Legal-c Handle.............: AP931P-NORID
+Tech-c Handle..............: PMK1774P-NORID
+Name Server Handle.........: NSDO15H-NORID
+Name Server Handle.........: NSDO18H-NORID
+
+Additional information:
+Created:         2003-04-07
+Last updated:    2011-04-09
+
+NORID Handle...............: TL282O-NORID
+Type.......................: organization
+Name.......................: TRONDM LTD
+Id Type....................: organization_number
+Id Number..................: 991473416
+Registrar Handle...........: REG545-NORID
+Post Address...............: M&oslash;llefaret 72 C
+Postal Code................: NO-0750
+Postal Area................: OSLO
+Country....................: NO
+Mobile Phone Number........: +47.45281239
+Email Address..............: hostmaster@web-solutions.dk
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
