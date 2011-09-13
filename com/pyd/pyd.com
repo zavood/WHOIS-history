@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RANAFURNITURE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Domain Name: PYD.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DOPA.COM
+   Name Server: NS2.DOPA.COM
    Status: ok
-   Updated Date: 22-jun-2011
-   Creation Date: 19-feb-2003
-   Expiration Date: 19-feb-2012
+   Updated Date: 30-jun-2010
+   Creation Date: 23-nov-2002
+   Expiration Date: 23-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:48:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... ranafurniture.com
-  Creation Date........ 2003-02-20
-  Registration Date.... 2003-02-20
-  Expiry Date.......... 2012-02-20
-  Organisation Name.... Maximiliano Rodriguez
-  Organisation Address. 875 W 18th St
-  Organisation Address.
-  Organisation Address. Hialeah
-  Organisation Address. 33010
-  Organisation Address. FL
-  Organisation Address. UNITED STATES
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Admin Name........... Maximiliano Rodriguez
-  Admin Address........ 875 W 18th St
-  Admin Address........
-  Admin Address........ Hialeah
-  Admin Address........ 33010
-  Admin Address........ FL
-  Admin Address........ UNITED STATES
-  Admin Email.......... maxirn@hotmail.com
-  Admin Phone.......... +1.3055139458
-  Admin Fax............
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@yahoo-inc.com
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+Registrant:
+	 Wu DanHong yqwdh@hotmail.com +86.13738199365
+	 .
+	 RM 101 West,Block 10,District II,Dongpu
+	 YueQing,ZheJiang,CN 325600
 
+
+Domain Name:pyd.com
+Record last updated at 2010-06-30 08:48:14
+Record created on 2002/11/23
+Record expired on 2011/11/23
+
+
+Domain servers in listed order:
+	 ns1.dopa.com 	 ns2.dopa.com
+
+Administrator:
+	 Name-- Wu DanHong
+ EMail-: (yqwdh@hotmail.com)
+ tel --: +86.13738199365
+	 org: .
+	 RM 101 West,Block 10,District II,Dongpu
+	 YueQing,ZheJiang,CN 325600
+
+Technical Contactor:
+	 Name-- Wu DanHong
+ EMail-: (yqwdh@hotmail.com)
+ tel --: +86.13738199365
+	 org: .
+	 RM 101 West,Block 10,District II,Dongpu
+	 YueQing,ZheJiang,CN 325600
+
+Billing Contactor:
+	 Name-- Wu DanHong
+ EMail-: (yqwdh@hotmail.com)
+ tel --: +86.13738199365
+	 org: .
+	 RM 101 West,Block 10,District II,Dongpu
+	 YueQing,ZheJiang,CN 325600
 

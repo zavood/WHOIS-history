@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RANAFURNITURE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
-   Status: ok
-   Updated Date: 22-jun-2011
-   Creation Date: 19-feb-2003
-   Expiration Date: 19-feb-2012
+   Domain Name: EASTCOASTCYCLE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.BINC.NET
+   Name Server: NS2.BINC.NET
+   Status: clientTransferProhibited
+   Updated Date: 11-jan-2008
+   Creation Date: 12-apr-2002
+   Expiration Date: 12-apr-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:03 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... ranafurniture.com
-  Creation Date........ 2003-02-20
-  Registration Date.... 2003-02-20
-  Expiry Date.......... 2012-02-20
-  Organisation Name.... Maximiliano Rodriguez
-  Organisation Address. 875 W 18th St
-  Organisation Address.
-  Organisation Address. Hialeah
-  Organisation Address. 33010
-  Organisation Address. FL
-  Organisation Address. UNITED STATES
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Maximiliano Rodriguez
-  Admin Address........ 875 W 18th St
-  Admin Address........
-  Admin Address........ Hialeah
-  Admin Address........ 33010
-  Admin Address........ FL
-  Admin Address........ UNITED STATES
-  Admin Email.......... maxirn@hotmail.com
-  Admin Phone.......... +1.3055139458
-  Admin Fax............
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@yahoo-inc.com
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... yns1.yahoo.com
-  Name Server.......... yns2.yahoo.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: eastcoastcycle.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 15:40:11 EDT 2011
+Reason Code: IE
