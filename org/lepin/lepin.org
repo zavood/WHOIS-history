@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162376616-LROR
+Domain Name:LEPIN.ORG
+Created On:27-May-2011 05:58:33 UTC
+Last Updated On:27-Jul-2011 03:50:33 UTC
+Expiration Date:27-May-2012 05:58:33 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:OK
+Registrant ID:o656t2786169m8
+Registrant Name:huangbin
+Registrant Organization:huangbin
+Registrant Street1:LengShuitanQuShuangzhouLu216Hao
+Registrant Street2:
+Registrant Street3:
+Registrant City:Yongzhoushi
+Registrant State/Province:Hunan
+Registrant Postal Code:425000
+Registrant Country:CN
+Registrant Phone:+86.7468338110
+Registrant Phone Ext.:
+Registrant FAX:+86.7468338110
+Registrant FAX Ext.:
+Registrant Email:myhb56@qq.com
+Admin ID:o656t2786169m8a
+Admin Name:huangbin
+Admin Organization:huangbin
+Admin Street1:LengShuitanQuShuangzhouLu216Hao
+Admin Street2:
+Admin Street3:
+Admin City:Yongzhoushi
+Admin State/Province:Hunan
+Admin Postal Code:425000
+Admin Country:CN
+Admin Phone:+86.7468338110
+Admin Phone Ext.:
+Admin FAX:+86.7468338110
+Admin FAX Ext.:
+Admin Email:myhb56@qq.com
+Tech ID:o656t2786169m8a
+Tech Name:huangbin
+Tech Organization:huangbin
+Tech Street1:LengShuitanQuShuangzhouLu216Hao
+Tech Street2:
+Tech Street3:
+Tech City:Yongzhoushi
+Tech State/Province:Hunan
+Tech Postal Code:425000
+Tech Country:CN
+Tech Phone:+86.7468338110
+Tech Phone Ext.:
+Tech FAX:+86.7468338110
+Tech FAX Ext.:
+Tech Email:myhb56@qq.com
+Name Server:NS.DNSFAMILY.COM
+Name Server:NS.CDNHOST.CN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
