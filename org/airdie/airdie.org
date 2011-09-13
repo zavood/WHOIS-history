@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104042236-LROR
+Domain Name:AIRDIE.ORG
+Created On:01-Mar-2004 07:50:43 UTC
+Last Updated On:28-Feb-2011 10:49:10 UTC
+Expiration Date:01-Mar-2012 07:50:43 UTC
+Sponsoring Registrar:Dotregistrar, LLC (R114-LROR)
+Status:OK
+Registrant ID:DOT-TOY9FU9EDG11
+Registrant Name:AIRDIE Frederic Lanet
+Registrant Street1:1 Rue Cite Benoit
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montpellier
+Registrant State/Province:
+Registrant Postal Code:34000
+Registrant Country:FR
+Registrant Phone:+33.0467150010
+Registrant Phone Ext.:
+Registrant FAX:+33.0467221815
+Registrant FAX Ext.:
+Registrant Email:airdiedfp@yahoo.fr
+Admin ID:DOT-4YC8PHSX3XE1
+Admin Name:AIRDIE Frederic Lanet
+Admin Street1:1 Rue Cite Benoit
+Admin Street2:
+Admin Street3:
+Admin City:Montpellier
+Admin State/Province:
+Admin Postal Code:34000
+Admin Country:FR
+Admin Phone:+33.0467150010
+Admin Phone Ext.:
+Admin FAX:+33.0467221815
+Admin FAX Ext.:
+Admin Email:airdiedfp@yahoo.fr
+Tech ID:DOT-8DVTEL42XEVM
+Tech Name:AIRDIE Frederic Lanet
+Tech Street1:1 Rue Cite Benoit
+Tech Street2:
+Tech Street3:
+Tech City:Montpellier
+Tech State/Province:
+Tech Postal Code:34000
+Tech Country:FR
+Tech Phone:+33.0467150010
+Tech Phone Ext.:
+Tech FAX:+33.0467221815
+Tech FAX Ext.:
+Tech Email:airdiedfp@yahoo.fr
+Name Server:NS.DDN.FR
+Name Server:NS2.DDN.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
