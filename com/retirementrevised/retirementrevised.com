@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUDEFILMS.NET
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.JASMINE.ARVIXE.COM
-   Name Server: NS2.JASMINE.ARVIXE.COM
+   Domain Name: RETIREMENTREVISED.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS151.PAIR.COM
+   Name Server: NS5.NS0.COM
    Status: ok
-   Updated Date: 27-jan-2011
-   Creation Date: 27-jan-2011
-   Expiration Date: 27-jan-2012
+   Updated Date: 21-aug-2011
+   Creation Date: 19-nov-2007
+   Expiration Date: 19-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:29:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:30:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,48 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
 Registrant:
-   Eric Bana
-   tainan HaoRen No.2748
-   Taibei, CT  666444
-   TW
+  50+Digital LLC
+  2601 Simpson
+  Evanston, IL 60201
+  US
 
-   Registrar: NAMESDIRECT
-   Domain Name: DUDEFILMS.NET
-      Created on: 27-JAN-11
-      Expires on: 27-JAN-12
-      Last Updated on: 27-JAN-11
+  3y0m922787@nojunkemailaddress.com
+   +1.8472241001
+   +1.8475566170
 
-   Administrative, Technical Contact:
-      Bana, Eric  fans@giantweb.info
-      tainan HaoRen No.2748
-      Taibei, CT  666444
-      TW
-      866-3-27455
+Domain Name: RETIREMENTREVISED.COM
 
+Administrative &amp; Technical Contact:
+  Mark J. Miller
+  50+Digital LLC
+  2601 Simpson
+  Evanston, IL 60201
+  US
 
-   Domain servers in listed order:
-      NS1.JASMINE.ARVIXE.COM
-      NS2.JASMINE.ARVIXE.COM
+  3y0m922787@nojunkemailaddress.com
+   +1.8472241001
+   +1.8475566170
 
-End of Whois Information
+Domain Name Servers:
+  NS5.NS0.COM
+  NS151.PAIR.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     November 19, 2007
+Modified:     August 21, 2011
+ Expires:     November 19, 2014
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

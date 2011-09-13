@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVIS-RHINO.COM
+   Domain Name: MILLER-MCCUNE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS1.SAVVIS.NET
+   Name Server: NS2.SAVVIS.NET
+   Name Server: NS3.SAVVIS.NET
+   Name Server: NS4.SAVVIS.NET
+   Name Server: NS5.SAVVIS.NET
+   Name Server: SAGESAVDNS01.SAGEPUB.COM
+   Name Server: SAGESAVDNS02.SAGEPUB.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 07-jan-1997
-   Expiration Date: 06-jan-2020
+   Updated Date: 02-dec-2008
+   Creation Date: 05-sep-2007
+   Expiration Date: 05-sep-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:30:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:28:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +79,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about SERVIS-RHINO.COM
-&lt;a href=&quot;http://www.aboutus.org/SERVIS-RHINO.COM&quot;&gt;AboutUs: SERVIS-RHINO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MILLER-MCCUNE.COM
+&lt;a href=&quot;http://www.aboutus.org/MILLER-MCCUNE.COM&quot;&gt;AboutUs: MILLER-MCCUNE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Alamo Group (USA) Inc.
-   1502 East Walnut
-   Seguin, TX 78156
-   US
+Sage Publications, Inc
+   ATTN MILLER-MCCUNE.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: SERVIS-RHINO.COM
+
+   Domain Name: MILLER-MCCUNE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -94,29 +101,34 @@ Alamo Group (USA) Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Jimenez, Frank		frank@ALAMO-GROUP.COM
-      Alamo Group
-      1502 E. Walnut
-      Seguin, TX 78155
+   Administrative Contact, Technical Contact:
+      Sage Publications, Inc		a969a93x85c@networksolutionsprivateregistration.com
+      ATTN MILLER-MCCUNE.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      830-372-9630 fax: 830-372-9677
-
-   Technical Contact:
-      GNMC		rm-hostmaster@ems.att.com
-      424 S. Woodsmill Rd
-      Chesterfield, MO 63037
-      US
-      800-325-1898 fax: 281-664-9975
+      570-708-8780
 
 
-   Record expires on 06-Jan-2020.
-   Record created on 07-Jan-1997.
-   Database last updated on 13-Sep-2011 13:26:27 EDT.
+   Record expires on 05-Sep-2017.
+   Record created on 05-Sep-2007.
+   Database last updated on 13-Sep-2011 13:18:41 EDT.
 
    Domain servers in listed order:
 
-   DBRU.BR.NS.ELS-GMS.ATT.NET   199.191.128.106
-   DMTU.MT.NS.ELS-GMS.ATT.NET   12.127.16.70
+   SAGESAVDNS01.SAGEPUB.COM     208.88.132.76
+   SAGESAVDNS02.SAGEPUB.COM     208.88.132.77
+   NS1.SAVVIS.NET
+   NS2.SAVVIS.NET
+   NS3.SAVVIS.NET
+   NS4.SAVVIS.NET
+   NS5.SAVVIS.NET
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

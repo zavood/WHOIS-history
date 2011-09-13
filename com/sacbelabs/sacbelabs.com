@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUDEFILMS.NET
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.JASMINE.ARVIXE.COM
-   Name Server: NS2.JASMINE.ARVIXE.COM
-   Status: ok
-   Updated Date: 27-jan-2011
-   Creation Date: 27-jan-2011
-   Expiration Date: 27-jan-2012
+   Domain Name: SACBELABS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.GREENGEEKS.COM
+   Name Server: NS2.GREENGEEKS.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-mar-2011
+   Creation Date: 29-jul-2008
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:29:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:30:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,48 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   Eric Bana
-   tainan HaoRen No.2748
-   Taibei, CT  666444
-   TW
-
-   Registrar: NAMESDIRECT
-   Domain Name: DUDEFILMS.NET
-      Created on: 27-JAN-11
-      Expires on: 27-JAN-12
-      Last Updated on: 27-JAN-11
-
-   Administrative, Technical Contact:
-      Bana, Eric  fans@giantweb.info
-      tainan HaoRen No.2748
-      Taibei, CT  666444
-      TW
-      866-3-27455
+=-=-=-=
+Visit AboutUs.org for more information about sacbelabs.com
+&lt;a href=&quot;http://www.aboutus.org/sacbelabs.com&quot;&gt;AboutUs: sacbelabs.com&lt;/a&gt;
 
 
-   Domain servers in listed order:
-      NS1.JASMINE.ARVIXE.COM
-      NS2.JASMINE.ARVIXE.COM
+Domain name: sacbelabs.com
 
-End of Whois Information
+Administrative Contact:
+   Green Geeks LLC
+   Joseph Gardner (domains@greengeeks.com)
+   +1.18773267483
+   Fax:
+   1158 26th St #446
+   Santa Monica, CA 90403
+   US
+
+Technical Contact:
+   Green Geeks LLC
+   Joseph Gardner (domains@greengeeks.com)
+   +1.18773267483
+   Fax:
+   1158 26th St #446
+   Santa Monica, CA 90403
+   US
+
+Registrant Contact:
+   Green Geeks LLC
+   Joseph Gardner ()
+
+   Fax:
+   1158 26th St #446
+   Santa Monica, CA 90403
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.GREENGEEKS.COM
+   NS2.GREENGEEKS.COM
+
+Creation date: 29 Jul 2008 21:21:00
+Expiration date: 29 Jul 2012 21:21:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

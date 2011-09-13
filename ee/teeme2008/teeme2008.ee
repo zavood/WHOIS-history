@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       teeme2008.ee
+registrant:   CID:EENET:DFE0
+admin-c:      CID:EENET:486F
+nsset:        NSSID:EENET:84A6
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 03:59:04
+changed:      17.12.2010 13:15:45
+expire:       17.12.2011
+
+contact:      CID:EENET:DFE0
+name:         SA Eestimaa Looduse Fond
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      17.12.2010 12:47:54
+
+contact:      CID:EENET:486F
+name:         J&Atilde;&frac14;ri-Ott salm
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      17.12.2010 12:47:53
+
+nsset:        NSSID:EENET:84A6
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+tech-c:       CID:EENET:BB3A
+registrar:    eenet
+created:      17.12.2010 13:15:34
+
+contact:      CID:EENET:BB3A
+name:         Ivar Tamm
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      17.12.2010 13:15:33
+
+
