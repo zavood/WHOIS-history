@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NHGUYS.COM
+   Domain Name: STEALINGANGELS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-mar-2011
-   Creation Date: 14-mar-2011
-   Expiration Date: 14-mar-2012
+   Updated Date: 23-may-2011
+   Creation Date: 25-aug-2009
+   Expiration Date: 25-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:55:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:53:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Missing Ink Creative Services
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NHGUYS.COM
+   Domain Name: STEALINGANGELS.COM
 
    Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NHGUYS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STEALINGANGELS.COM
