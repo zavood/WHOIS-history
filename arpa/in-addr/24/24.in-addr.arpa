@@ -2,9 +2,9 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       130.in-addr.arpa
+domain:       24.in-addr.arpa
 
-organisation: Administered by ARIN
+organisation: ARIN
 
 nserver:      DILL.ARIN.NET.
 nserver:      T.ARIN.NET.
@@ -14,11 +14,11 @@ nserver:      W.ARIN.NET.
 nserver:      X.ARIN.NET.
 nserver:      Y.ARIN.NET.
 nserver:      Z.ARIN.NET.
-ds-rdata:     22794 5 1 A8F6CD5A570993125F227CD49C8390B9D1B79D1F
+ds-rdata:     36510 5 1 1C610579EF3F7024AE1D769CC0D4A15CBE1B4DD0
 
 whois:        whois.arin.net
 
-changed:      1993-05
+changed:      2001-05
 changed:      2011-04-27
 source:       IANA
 

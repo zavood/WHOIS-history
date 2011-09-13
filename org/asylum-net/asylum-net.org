@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157941890-LROR
+Domain Name:ASYLUM-NET.ORG
+Created On:30-Dec-2009 03:44:44 UTC
+Last Updated On:22-Nov-2010 02:19:30 UTC
+Expiration Date:30-Dec-2011 03:44:44 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:d1b1384a018
+Registrant Name:Naoki  Kobayashi
+Registrant Organization:BET,Inc.
+Registrant Street1:267 Makieyacho Karasumadori
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kyoto
+Registrant State/Province:Kyoto
+Registrant Postal Code:6040857
+Registrant Country:JP
+Registrant Phone:+81.2752121326
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@bet.co.jp
+Admin ID:56084746a678095b
+Admin Name:Naoki  Kobayashi
+Admin Organization:BET Inc.
+Admin Street1:Karasuma-Nishiiru, Mikuracho
+Admin Street2:
+Admin Street3:
+Admin City:Kyoto
+Admin State/Province:KYOTO
+Admin Postal Code:6048166
+Admin Country:JP
+Admin Phone:+81.752121326
+Admin Phone Ext.:
+Admin FAX:+81.752121490
+Admin FAX Ext.:
+Admin Email:info@bet.co.jp
+Tech ID:56084746a678095b
+Tech Name:Naoki  Kobayashi
+Tech Organization:BET Inc.
+Tech Street1:Karasuma-Nishiiru, Mikuracho
+Tech Street2:
+Tech Street3:
+Tech City:Kyoto
+Tech State/Province:KYOTO
+Tech Postal Code:6048166
+Tech Country:JP
+Tech Phone:+81.752121326
+Tech Phone Ext.:
+Tech FAX:+81.752121490
+Tech FAX Ext.:
+Tech Email:info@bet.co.jp
+Name Server:NS1.XSERVER.JP
+Name Server:NS2.XSERVER.JP
+Name Server:NS3.XSERVER.JP
+Name Server:NS4.XSERVER.JP
+Name Server:NS5.XSERVER.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
