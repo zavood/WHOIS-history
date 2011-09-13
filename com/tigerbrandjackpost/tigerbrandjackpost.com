@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUSINESSWIRE.COM
+   Domain Name: TIGERBRANDJACKPOST.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS11.BUSINESSWIRE.COM
-   Name Server: NS22.BUSINESSWIRE.COM
+   Name Server: NS1.LOOSEFOOT.COM
+   Name Server: NS2.LOOSEFOOT.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 04-feb-1996
-   Expiration Date: 05-feb-2012
+   Updated Date: 22-jul-2008
+   Creation Date: 10-jul-2002
+   Expiration Date: 10-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:12:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about BUSINESSWIRE.COM
-&lt;a href=&quot;http://www.aboutus.org/BUSINESSWIRE.COM&quot;&gt;AboutUs: BUSINESSWIRE.COM &lt;/a&gt;
+Visit AboutUs.org for more information about TIGERBRANDJACKPOST.COM
+&lt;a href=&quot;http://www.aboutus.org/TIGERBRANDJACKPOST.COM&quot;&gt;AboutUs: TIGERBRANDJACKPOST.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Business Wire
-   44 Montgomery Street
-   39th Floor
-   San Francisco, CA 94104
-   US
+The Akron Products Company
+   ATTN TIGERBRANDJACKPOST.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: BUSINESSWIRE.COM
+
+   Domain Name: TIGERBRANDJACKPOST.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,31 +97,38 @@ Business Wire
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Roomian, Chris		hostadmin@businesswire.com
-      Business Wire
-      44 MONTGOMERY ST
-      39th Floor
-      SAN FRANCISCO, CA 94104-4602
+      The Akron Products Company		wx8qh9kj8eh@networksolutionsprivateregistration.com
+      ATTN TIGERBRANDJACKPOST.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      415-986-4422
+      570-708-8780
 
    Technical Contact:
-      Dylina, Gary		Hostmaster@BusinessWire.com
-      Business Wire
-      44 Montgomery St
-      39th Floor
-      San Francisco, CA 94104-4602
+      Schrader, David		cu8gc34e4h8@networksolutionsprivateregistration.com
+      TAPCO Companies
+      ATTN TIGERBRANDJACKPOST.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      415-986-4422 fax: 415-956-2609
+      570-708-8780
 
 
-   Record expires on 05-Feb-2012.
-   Record created on 04-Feb-1996.
-   Database last updated on 13-Sep-2011 12:08:33 EDT.
+   Record expires on 10-Jul-2013.
+   Record created on 10-Jul-2002.
+   Database last updated on 13-Sep-2011 12:02:05 EDT.
 
    Domain servers in listed order:
 
-   NS11.BUSINESSWIRE.COM        208.1.114.4
-   NS22.BUSINESSWIRE.COM        208.28.117.69
+   NS2.LOOSEFOOT.COM            208.53.158.141
+   NS1.LOOSEFOOT.COM            208.68.106.2
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

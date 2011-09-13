@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Domain Name: NICHOLSONFUN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.VISI.COM
+   Name Server: NS2.VISI.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 08-sep-2011
+   Creation Date: 25-sep-1998
+   Expiration Date: 24-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:12:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about nicholsonfun.com
+&lt;a href=&quot;http://www.aboutus.org/nicholsonfun.com&quot;&gt;AboutUs: nicholsonfun.com&lt;/a&gt;
+
+
+Domain name: nicholsonfun.com
+
+Registrant Contact:
+   Bill McCloud
+   NULL NULL ()
+
+   Fax:
+   4405 Jackson Rd
+   Ann Arbor, MI 481036
+   US
+
+Administrative Contact:
+   Nicholson Enterprises
+   Bill McCloud (don@nicholsonfun.com)
+   +1.7347699815
+   Fax:
+   4405 Jackson Rd
+   Ann Arbor, MI 48103
+   US
+
+Technical Contact:
+   PowerSports Network
+   Technical Contact (hostmaster@powersportsnetwork.com)
+   +1.2622467900
+   Fax: 262-246-7930
+   N56 W24660 North Corporate Circle
+   Sussex, WI 53089
+   US
+
+Status: Locked
+
+Name Servers:
+   ns.visi.com
+   ns2.visi.com
+
+Creation date: 25 Sep 1998 00:00:00
+Expiration date: 24 Sep 2012 04:00:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

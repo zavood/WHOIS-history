@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Domain Name: MAYFASHION.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: DNS1.IASL.COM
+   Name Server: DNS2.IASL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 31-may-2011
+   Creation Date: 29-may-2003
+   Expiration Date: 29-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registration Service Provided By: Domain Registry of Canada
+Contact: support@droc.ca
+Web:http://www.droc.ca
+
+
+Domain name: mayfashion.com
+
+Registrant Contact:
+      Dong    Li
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      20c4d4350375cf1f@private-contact.com
+
+Administrative Contact:
+      Dong    Li
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      e1sidrdcq0acy4n6@private-contact.com
+
+Technical Contact:
+      Dong    Li
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      iwnt2jl8smpiftvk@private-contact.com
+
+Update date: 2011-05-31
+Expiration date: 2021-05-29
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

@@ -5,27 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAIEDGE.NET
+   Domain Name: PARASUN.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA1.AKAMAIEDGE.NET
-   Name Server: LA11.AKAMAIEDGE.NET
-   Name Server: LA3.AKAMAIEDGE.NET
-   Name Server: LA6.AKAMAIEDGE.NET
-   Name Server: LA7.AKAMAIEDGE.NET
-   Name Server: LAC1.AKAMAIEDGE.NET
-   Name Server: LAC2.AKAMAIEDGE.NET
-   Name Server: LAR2.AKAMAIEDGE.NET
-   Name Server: LAR6.AKAMAIEDGE.NET
-   Name Server: LAR7.AKAMAIEDGE.NET
+   Name Server: DEEP.MINDLINK.NET
+   Name Server: GIANT.MINDLINK.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 03-oct-2001
-   Expiration Date: 03-oct-2017
+   Updated Date: 12-sep-2011
+   Creation Date: 12-oct-1996
+   Expiration Date: 11-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:12:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
+   Domain Name: KIPARACING.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
+   Name Server: DNS1.KINGHOST.COM.BR
+   Name Server: DNS2.KINGHOST.COM.BR
    Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Updated Date: 18-nov-2010
+   Creation Date: 18-nov-2010
+   Expiration Date: 18-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:12:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:11:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+Visit AboutUs.org for more information about kiparacing.com
+&lt;a href=&quot;http://www.aboutus.org/kiparacing.com&quot;&gt;AboutUs: kiparacing.com&lt;/a&gt;
 
 
-Domain name: arvixe.com
-
-Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
+Domain name: kiparacing.com
 
 Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
+   Cesar Gustavo da Silva Godinho
+   Cesar Gustavo da Silva Godinho ()
 
    Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
+   Avenida Mitsuke 560
+   Jd. Cruzeiro
+   Mairinque, SP 18120-000
+   BR
+
+Administrative Contact:
+   Cesar Gustavo da Silva Godinho
+   Cesar Gustavo da Silva Godinho (kiparacing.com@kinghost.net)
+   47181035
+   Fax: 47181035
+   Avenida Mitsuke 560
+   Jd. Cruzeiro
+   Mairinque, SP 18120-000
+   BR
+
+Technical Contact:
+   Cesar Gustavo da Silva Godinho
+   Cesar Gustavo da Silva Godinho (kiparacing.com@kinghost.net)
+   47181035
+   Fax: 47181035
+   Avenida Mitsuke 560
+   Jd. Cruzeiro
+   Mairinque, SP 18120-000
+   BR
 
 Status: Active
 
 Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
+   dns1.kinghost.com.br
+   dns2.kinghost.com.br
 
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Creation date: 18 Nov 2010 17:45:00
+Expiration date: 18 Nov 2011 12:45:00
 
 
 

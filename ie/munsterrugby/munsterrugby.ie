@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      munsterrugby.ie
+descr:       Munster Branch IRFU
+descr:       UNINCORPORATED ASSOCIATION
+descr:       Unincorporated Association Name
+admin-c:     CC241-IEDR
+tech-c:      PC461-IEDR
+renewal:     30-September-2011
+status:      Active
+nserver:     NS1.ZONEEDIT.COM
+nserver:     NS12.ZONEEDIT.COM
+source:      IEDR
+
+person:      Catherine Carroll
+nic-hdl:     CC241-IEDR
+source:      IEDR
+
+person:      Paul Carroll
+nic-hdl:     PC461-IEDR
+source:      IEDR
+
