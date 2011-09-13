@@ -1,0 +1,134 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ens-lyon.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ens-lyon.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ENSD21-FRNIC
+admin-c:     JS2808-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      SM5647-FRNIC
+tech-c:      HB190-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL12184-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 09/11/2009
+source:      FRNIC
+
+ns-list:     NSL12184-FRNIC
+nserver:     cri.ens-lyon.fr [140.77.1.32]
+nserver:     guifette.ens-lyon.fr [140.77.48.2]
+nserver:     imag.imag.fr [129.88.30.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ENSD21-FRNIC
+type:        ORGANIZATION
+contact:     Ecole Normale Superieure de Lyon, ENS
+address:     46, allee d'Italie
+address:     69364 Lyon
+country:     FR
+changed:     13/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JS2808-FRNIC
+type:        PERSON
+contact:     Jacques Samarut
+address:     ENS DE LYON
+address:     46, allee d'Italie
+address:     69364 Lyon
+country:     FR
+phone:       +33 4 72 72 80 36
+e-mail:      directeur@ens-lyon.fr
+changed:     09/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SM5647-FRNIC
+type:        PERSON
+contact:     Sebastien Mei
+address:     ENS LYON
+address:     46, allee ditalie
+address:     69364 Lyon
+country:     FR
+phone:       +33 4 72 72 89 41
+e-mail:      psi.sei@ens-lyon.fr
+changed:     09/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HB190-FRNIC
+type:        PERSON
+contact:     Heve Brunet
+address:     ENS LYON
+address:     46, allee d'Italie
+address:     69364 Lyon
+country:     FR
+phone:       +33 4 72 72 84 12
+e-mail:      psi.sei@ens-lyon.fr
+changed:     09/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

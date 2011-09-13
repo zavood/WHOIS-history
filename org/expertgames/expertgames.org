@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161170507-LROR
+Domain Name:EXPERTGAMES.ORG
+Created On:11-Jan-2011 11:50:29 UTC
+Last Updated On:30-Aug-2011 20:29:03 UTC
+Expiration Date:11-Jan-2012 11:50:29 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_13890117
+Registrant Name:Renan Jeronymo
+Registrant Organization:Expert Games
+Registrant Street1:R Beija Flor, SN,
+Registrant Street2:Jardim Valeria
+Registrant Street3:
+Registrant City:Guarulhos
+Registrant State/Province:SP
+Registrant Postal Code:07124640
+Registrant Country:BR
+Registrant Phone:+55.1434132673
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:atendimento@vmlink.com.br
+Admin ID:DI_13890117
+Admin Name:Renan Jeronymo
+Admin Organization:Expert Games
+Admin Street1:R Beija Flor, SN,
+Admin Street2:Jardim Valeria
+Admin Street3:
+Admin City:Guarulhos
+Admin State/Province:SP
+Admin Postal Code:07124640
+Admin Country:BR
+Admin Phone:+55.1434132673
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:atendimento@vmlink.com.br
+Tech ID:DI_13890117
+Tech Name:Renan Jeronymo
+Tech Organization:Expert Games
+Tech Street1:R Beija Flor, SN,
+Tech Street2:Jardim Valeria
+Tech Street3:
+Tech City:Guarulhos
+Tech State/Province:SP
+Tech Postal Code:07124640
+Tech Country:BR
+Tech Phone:+55.1434132673
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:atendimento@vmlink.com.br
+Name Server:NS1.XLHOSTING.COM.BR
+Name Server:NS2.XLHOSTING.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
