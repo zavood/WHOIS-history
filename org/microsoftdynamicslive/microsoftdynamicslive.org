@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127239828-LROR
+Domain Name:MICROSOFTDYNAMICSLIVE.ORG
+Created On:14-Aug-2006 19:13:20 UTC
+Last Updated On:10-Aug-2010 04:08:45 UTC
+Expiration Date:14-Aug-2012 19:13:20 UTC
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29361914f8bc6285
+Registrant Name:Domain Administrator
+Registrant Organization:Microsoft Corporation
+Registrant Street1:One Microsoft Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:WA
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.4258828080
+Registrant Phone Ext.:
+Registrant FAX:+1.4259367329
+Registrant FAX Ext.:
+Registrant Email:domains@microsoft.com
+Admin ID:29361914f8bc6285
+Admin Name:Domain Administrator
+Admin Organization:Microsoft Corporation
+Admin Street1:One Microsoft Way
+Admin Street2:
+Admin Street3:
+Admin City:Redmond
+Admin State/Province:WA
+Admin Postal Code:98052
+Admin Country:US
+Admin Phone:+1.4258828080
+Admin Phone Ext.:
+Admin FAX:+1.4259367329
+Admin FAX Ext.:
+Admin Email:domains@microsoft.com
+Tech ID:03192894f8ed2114
+Tech Name:MSN Hostmaster
+Tech Organization:Microsoft Corporation
+Tech Street1:One Microsoft Way
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:WA
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.4258828080
+Tech Phone Ext.:
+Tech FAX:+1.4259367329
+Tech FAX Ext.:
+Tech Email:msnhst@microsoft.com
+Name Server:NS1.MSFT.NET
+Name Server:NS5.MSFT.NET
+Name Server:NS2.MSFT.NET
+Name Server:NS3.MSFT.NET
+Name Server:NS4.MSFT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
