@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158840605-LROR
+Domain Name:JNWEB.ORG
+Created On:11-Apr-2010 18:01:52 UTC
+Last Updated On:10-Apr-2011 02:43:30 UTC
+Expiration Date:11-Apr-2012 18:01:52 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc329489169-cn
+Registrant Name:ouyang zhiwen
+Registrant Organization:ouyang zhiwen
+Registrant Street1:anyuanxian xinshanzhen
+Registrant Street2:
+Registrant Street3:
+Registrant City:ganzhou
+Registrant State/Province:JX
+Registrant Postal Code:342100
+Registrant Country:CN
+Registrant Phone:+86.07973738790
+Registrant Phone Ext.:
+Registrant FAX:+86.07973738790
+Registrant FAX Ext.:
+Registrant Email:oyzw123@163.com
+Admin ID:hc329489169-cn
+Admin Name:ouyang zhiwen
+Admin Organization:ouyang zhiwen
+Admin Street1:anyuanxian xinshanzhen
+Admin Street2:
+Admin Street3:
+Admin City:ganzhou
+Admin State/Province:JX
+Admin Postal Code:342100
+Admin Country:CN
+Admin Phone:+86.07973738790
+Admin Phone Ext.:
+Admin FAX:+86.07973738790
+Admin FAX Ext.:
+Admin Email:oyzw123@163.com
+Tech ID:hc329489169-cn
+Tech Name:ouyang zhiwen
+Tech Organization:ouyang zhiwen
+Tech Street1:anyuanxian xinshanzhen
+Tech Street2:
+Tech Street3:
+Tech City:ganzhou
+Tech State/Province:JX
+Tech Postal Code:342100
+Tech Country:CN
+Tech Phone:+86.07973738790
+Tech Phone Ext.:
+Tech FAX:+86.07973738790
+Tech FAX Ext.:
+Tech Email:oyzw123@163.com
+Name Server:DNS15.HICHINA.COM
+Name Server:DNS16.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
