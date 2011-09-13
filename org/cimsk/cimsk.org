@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D119138462-LROR
+Domain Name:CIMSK.ORG
+Created On:25-Mar-2006 06:05:31 UTC
+Last Updated On:04-Apr-2011 01:50:12 UTC
+Expiration Date:25-Mar-2012 06:05:31 UTC
+Sponsoring Registrar:Gabia Inc. (R84-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:RESEL0612132187
+Registrant Name:cho, e-pal
+Registrant Organization:cho, e-pal
+Registrant Street1:Chungjeongno 2-ga Seodaemun-gu
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seoul
+Registrant State/Province:
+Registrant Postal Code:12001
+Registrant Country:KR
+Registrant Phone:+82.023128111
+Registrant Phone Ext.:
+Registrant FAX:+82.0231220261
+Registrant FAX Ext.:
+Registrant Email:ogi2000@naver.com
+Admin ID:SX44812d89e23e1
+Admin Name:cho, e-pal
+Admin Organization:cho, e-pal
+Admin Street1:Chungjeongno 2-ga Seodaemun-gu
+Admin Street2:
+Admin Street3:
+Admin City:Seoul
+Admin State/Province:
+Admin Postal Code:12001
+Admin Country:KR
+Admin Phone:+82.023128111
+Admin Phone Ext.:
+Admin FAX:+82.0231220261
+Admin FAX Ext.:
+Admin Email:ogi2000@naver.com
+Tech ID:simplexi
+Tech Name:cafe24 hosting
+Tech Organization:simplex internet
+Tech Street1:Korea Contractor Center Sindaebang 2-dong Dongjak-gu
+Tech Street2:
+Tech Street3:
+Tech City:SEOUL
+Tech State/Province:
+Tech Postal Code:156714
+Tech Country:KR
+Tech Phone:+82.232840309
+Tech Phone Ext.:
+Tech FAX:+82.232840331
+Tech FAX Ext.:
+Tech Email:hosting@simplexi.com
+Name Server:NS2.CAFE24.COM
+Name Server:NS1.CAFE24.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

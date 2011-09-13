@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ILIVEONAFARM.COM
+   Domain Name: JOOMLAPLUG.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS1.JOOMLAPLUG.COM
+   Name Server: NS2.JOOMLAPLUG.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-sep-2011
-   Creation Date: 02-sep-2006
-   Expiration Date: 02-sep-2012
+   Updated Date: 11-jan-2010
+   Creation Date: 11-apr-2006
+   Expiration Date: 11-apr-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:27:42 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Rovisoft LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ILIVEONAFARM.COM
+   Domain Name: JOOMLAPLUG.COM
 
    Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
+      NS1.JOOMLAPLUG.COM
+      NS2.JOOMLAPLUG.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ILIVEONAFARM.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=JOOMLAPLUG.COM

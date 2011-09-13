@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104046607-LROR
+Domain Name:IRLANDESES.ORG
+Created On:02-Mar-2004 10:07:44 UTC
+Last Updated On:12-Apr-2011 23:06:11 UTC
+Expiration Date:02-Mar-2021 10:07:44 UTC
+Sponsoring Registrar:Instra Corporation Pty Ltd. (R1729-LROR)
+Status:OK
+Registrant ID:P-3364339
+Registrant Name:Edmundo Murray
+Registrant Street1:Maison Rouge
+Registrant Street2:
+Registrant Street3:
+Registrant City:Burtigny
+Registrant State/Province:
+Registrant Postal Code:1261
+Registrant Country:CH
+Registrant Phone:+41.227395049
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:edmundo.murray@wto.org
+Admin ID:P-LEF36-4984981
+Admin Name:Lycos France
+Admin Street1:79 rue de Monceau
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75008
+Admin Country:FR
+Admin Phone:+33.156594545
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@hebergement.lycos.fr
+Tech ID:P-LAE29-4984982
+Tech Name:Lycos Europe
+Tech Street1:79 rue de Monceau
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75008
+Tech Country:FR
+Tech Phone:+33.156594508
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@hebergement.lycos.fr
+Name Server:NS2.INFOMANIAK.CH
+Name Server:NS1.INFOMANIAK.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
