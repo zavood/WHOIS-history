@@ -2,7 +2,7 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       113.in-addr.arpa
+domain:       49.in-addr.arpa
 
 organisation: APNIC
 
@@ -13,12 +13,12 @@ nserver:      ns3.apnic.net.
 nserver:      ns4.apnic.net.
 nserver:      sec1.authdns.ripe.net.
 nserver:      tinnie.arin.net.
-ds-rdata:     9004 5 1 4778c80222317516e419988de595c36e8c4b3898
-ds-rdata:     9004 5 2 8349f419f45f0faff7967a9f51564388d9ca0d8d92df7e949d2a210ee3778caa
+ds-rdata:     49643 5 1 b2be904dc517fb31490d8ae09c5d6dad0f4f80e8
+ds-rdata:     49643 5 2 e9b6137f24af1ea4199f182d02ae7661e7e162697443a49c2877853e6a917f9f
 
 whois:        whois.apnic.net
 
-changed:      2008-05
+changed:      2010-08
 changed:      2011-05-03
 source:       IANA
 

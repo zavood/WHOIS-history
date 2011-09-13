@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; bonspneus.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      bonspneus.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DA1473-FRNIC
+admin-c:     T4244-FRNIC
+tech-c:      SP3894-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL41570-FRNIC
+registrar:   InterNetX GmbH
+anniversary: 25/03
+created:     25/03/2010
+last-update: 02/05/2011
+source:      FRNIC
+
+ns-list:     NSL41570-FRNIC
+nserver:     b.ns14.net
+nserver:     c.ns14.net
+nserver:     d.ns14.net
+nserver:     ns.cola.e-7.com
+source:      FRNIC
+
+registrar:   InterNetX GmbH
+type:        Isp Option 1
+address:     Maximilianstrasse 6
+address:     93047 REGENSBURG
+country:     DE
+phone:       +49 941 595 59 0
+fax-no:      +49 941 595 59 54
+e-mail:      nic-fr@domains.internetx.de
+website:     http://www.internetx.de
+anonymous:   NO
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     DA1473-FRNIC
+type:        ORGANIZATION
+contact:     DREYFUS &amp; ASSOCIES
+address:     78, avenue Raymond Poincare
+address:     75116 Paris
+country:     FR
+phone:       +33 1 44 70 07 04
+fax-no:      +33 1 40 06 99 64
+e-mail:      contact@dreyfus.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     T4244-FRNIC
+type:        ORGANIZATION
+contact:     TheFlyingMedia
+address:     TheFlyingMedia
+address:     81, rue Reaumur
+address:     75002 Paris
+country:     FR
+phone:       +33 1 83 62 30 29
+e-mail:      contact@theflyingmedia.com
+changed:     02/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SP3894-FRNIC
+type:        PERSON
+contact:     Sascha Petranka
+address:     Elephant Seven Net Technologies GmbH
+address:     Gerhofstrasse 1-3
+address:     20354 Hamburg
+country:     DE
+phone:       +49-40-34101124
+e-mail:      sascha.petranka@e-7.com
+changed:     09/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
