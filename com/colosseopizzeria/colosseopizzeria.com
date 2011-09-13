@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICLENS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2010
-   Creation Date: 11-aug-2006
-   Expiration Date: 11-aug-2012
+   Domain Name: COLOSSEOPIZZERIA.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: CNS1.IDIG.NET
+   Name Server: CNS2.IDIG.NET
+   Status: ok
+   Updated Date: 14-oct-2010
+   Creation Date: 14-oct-2010
+   Expiration Date: 14-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:43:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about colosseopizzeria.com
+&lt;a href=&quot;http://www.aboutus.org/colosseopizzeria.com&quot;&gt;AboutUs: colosseopizzeria.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: colosseopizzeria.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICLENS.COM
+Administrative Contact:
 
-   Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Technical Contact:
+
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Registrant Contact:
+
+   Creed Don Burleson Jr. ()
+
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Status: Active
+
+Name Servers:
+   CNS1.IDIG.NET
+   CNS2.IDIG.NET
+
+Creation date: 14 Oct 2010 04:33:24
+Expiration date: 14 Oct 2011 04:33:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICLENS.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

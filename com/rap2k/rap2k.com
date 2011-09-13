@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICLENS.COM
+   Domain Name: RAP2K.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
+   Name Server: DG1.ECRITEL.FR
+   Name Server: PCW.ECRITEL.FR
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-aug-2010
-   Creation Date: 11-aug-2006
-   Expiration Date: 11-aug-2012
+   Updated Date: 16-mar-2010
+   Creation Date: 15-mar-2001
+   Expiration Date: 15-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:42:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Thomas Aina
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICLENS.COM
+   Domain Name: RAP2K.COM
 
    Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
+      PCW.ECRITEL.FR
+      DG1.ECRITEL.FR
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICLENS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=RAP2K.COM

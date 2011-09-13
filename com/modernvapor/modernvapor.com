@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICLENS.COM
+   Domain Name: MODERNVAPOR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
+   Name Server: NS3.VOLUSION.COM
+   Name Server: NS4.VOLUSION.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-aug-2010
-   Creation Date: 11-aug-2006
-   Expiration Date: 11-aug-2012
+   Updated Date: 27-feb-2011
+   Creation Date: 27-may-2009
+   Expiration Date: 27-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:43:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICLENS.COM
+   Domain Name: MODERNVAPOR.COM
 
    Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
+      NS3.VOLUSION.COM
+      NS4.VOLUSION.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICLENS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MODERNVAPOR.COM
