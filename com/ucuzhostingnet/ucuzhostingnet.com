@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EMBEDDEDINSTRUCTION.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
+   Domain Name: UCUZHOSTINGNET.COM
+   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
+   Whois Server: Whois.theplanet.com
+   Referral URL: http://www.theplanet.com
+   Name Server: UNS1.UCUZHOSTINGNET.COM
+   Name Server: UNS2.UCUZHOSTINGNET.COM
    Status: ok
-   Updated Date: 26-mar-2011
-   Creation Date: 10-apr-2008
-   Expiration Date: 10-apr-2012
+   Updated Date: 24-feb-2011
+   Creation Date: 20-feb-2009
+   Expiration Date: 20-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:31:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:31:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QBONLINE.COM
+   Domain Name: NETEASE.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: DNS1.QUICKEN.COM
-   Name Server: DNS2.QUICKEN.COM
-   Name Server: DNS3.QUICKEN.COM
-   Name Server: DNS4.QUICKEN.COM
+   Name Server: NS2.NEASE.NET
+   Name Server: NS3.NEASE.NET
+   Name Server: NS4.NEASE.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-nov-2009
-   Creation Date: 12-dec-2001
-   Expiration Date: 12-dec-2011
+   Updated Date: 03-sep-2011
+   Creation Date: 09-apr-1998
+   Expiration Date: 08-apr-2019
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:30:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:31:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,13 +81,13 @@ By submitting this query, you agree to abide by this policy.
 
 Registrant:
         Domain Administrator
-        Intuit Inc.
-        7535 Torrey Santa Fe Road
-         San Diego CA 92129
-        US
-        nadmin@intuit.com +1.8582158000 Fax:
+        Netease.com, Inc
+        No.16, Ke Yun Rd Tianhe District
+         GuangZhou GuangDong 510665
+        CN
+        nsadmin@corp.netease.com +86.2085106370 Fax: +86.2085106370
 
-    Domain Name: qbonline.com
+    Domain Name: netease.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
@@ -96,29 +95,28 @@ Registrant:
 
     Administrative Contact:
         Domain Administrator
-        Intuit Inc.
-        7535 Torrey Santa Fe Road
-         San Diego CA 92129
-        US
-        nadmin@intuit.com +1.8582158000 Fax:
+        Netease.com, Inc
+        No.16, Ke Yun Rd Tianhe District
+         GuangZhou GuangDong 510665
+        CN
+        nsadmin@corp.netease.com +86.2085106370 Fax: +86.2085106370
     Technical Contact, Zone Contact:
         Domain Administrator
-        Intuit Inc.
-        7535 Torrey Santa Fe Road
-         San Diego CA 92129
-        US
-        nadmin@intuit.com +1.8582158000 Fax:
+        Netease.com, Inc
+        No.16, Ke Yun Rd Tianhe District
+         GuangZhou GuangDong 510665
+        CN
+        nsadmin@corp.netease.com +86.2085106370 Fax: +86.2085106370
 
-    Created on..............: 2001-12-12.
-    Expires on..............: 2011-12-12.
-    Record last updated on..: 2011-05-05.
+    Created on..............: 1998-04-08.
+    Expires on..............: 2019-04-07.
+    Record last updated on..: 2011-09-02.
 
     Domain servers in listed order:
 
-    dns4.quicken.com
-    dns3.quicken.com
-    dns2.quicken.com
-    dns1.quicken.com
+    ns4.nease.net
+    ns3.nease.net
+    ns2.nease.net
 
 
 
@@ -133,4 +131,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--
