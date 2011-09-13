@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGECASTCDN.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
-   Status: ok
-   Updated Date: 12-feb-2010
-   Creation Date: 30-nov-2006
-   Expiration Date: 30-nov-2012
+   Domain Name: INVESTOR-TRADOR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.LWSDNS.COM
+   Name Server: NS2.LWSDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-nov-2010
+   Creation Date: 10-dec-2008
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:27:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:28:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about investor-trador.com
+&lt;a href=&quot;http://www.aboutus.org/investor-trador.com&quot;&gt;AboutUs: investor-trador.com&lt;/a&gt;
+
+
+Domain name: investor-trador.com
+
+Registrant Contact:
+
+   Jorge Philippe ()
+
+   Fax:
+   41 Rue Guiglionda de st agathe
+   NICE,  06300
+   FR
+
+Administrative Contact:
+   LWS
+   Lws Lws (domaine@lws.fr)
+   +33.892700479
+   Fax:
+   4 rue galvani
+   Paris,  75017
+   FR
+
+Technical Contact:
+   LWS
+   Lws Lws (domaine@lws.fr)
+   +33.892700479
+   Fax:
+   4 rue galvani
+   Paris,  75017
+   FR
+
+Status: Locked
+
+Name Servers:
+   ns1.lwsdns.com
+   ns2.lwsdns.com
+
+Creation date: 10 Dec 2008 18:02:17
+Expiration date: 10 Dec 2011 18:02:17
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

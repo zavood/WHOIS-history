@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGECASTCDN.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
-   Status: ok
-   Updated Date: 12-feb-2010
-   Creation Date: 30-nov-2006
-   Expiration Date: 30-nov-2012
+   Domain Name: ESCUELADEFUTBOLACADEMIAPAISA.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.NO-IP.COM
+   Name Server: NS2.NO-IP.COM
+   Name Server: NS3.NO-IP.COM
+   Name Server: NS4.NO-IP.COM
+   Name Server: NS5.NO-IP.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-jan-2011
+   Creation Date: 19-jan-2011
+   Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:27:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:28:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +54,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+escueladefutbolacademiapaisa.com
+
+Registrant:
+         Admin Contact  (dnsadmin@publicar.com)
+        Publicar S.A
+        Av 68 75a-50
+        Bogota,  000001
+        CO
+        57-1-6465555
+
+
+Domain Name: escueladefutbolacademiapaisa.com
+
+
+
+Admin Contact:
+         Admin Contact  (dnsadmin@publicar.com)
+        Publicar de Colombia
+        Av 68 75a-50
+        Bogota, NONE  000001
+        CO
+        57-1-6465555
+
+
+Technical Contact:
+         Technical Contact  (dnstecnico@publicar.com)
+        Publicar de Colombia
+        Av 68 75a - 50 Piso 2
+        Bogota, NONE  00001
+        CO
+        57-16465555
+
+
+Billing Contact:
+         Billing Contact  (dnspago@publicar.com)
+        Publicar de Colombia
+        Av 68 75A - 50 Piso 2
+        Bogota, NONE  00001
+        CO
+        57-16465555
+
+
+
+
+   Record created on Jan 19 2011.
+   Record expires on Jan 19 2012.
+Domain servers:
+        ns1.no-ip.com
+        ns2.no-ip.com
+        ns3.no-ip.com
+        ns4.no-ip.com
+        ns5.no-ip.com
+
+
+
+Domain Service Provider:
+   Publicar de Colombia
+
+

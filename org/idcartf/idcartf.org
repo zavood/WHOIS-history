@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146741494-LROR
+Domain Name:IDCARTF.ORG
+Created On:21-May-2007 17:17:54 UTC
+Last Updated On:08-Dec-2009 10:15:23 UTC
+Expiration Date:21-May-2012 17:17:54 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33345342
+Registrant Name:Jerrilea Archer
+Registrant Organization:The Governor's Task Force on Children at Risk
+Registrant Street1:2602 E. PIccadilly Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eagle
+Registrant State/Province:Idaho
+Registrant Postal Code:83616
+Registrant Country:US
+Registrant Phone:+1.2088414798
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cartf@cableone.net
+Admin ID:CR33345344
+Admin Name:Jerrilea Archer
+Admin Organization:The Governor's Task Force on Children at Risk
+Admin Street1:2602 E. PIccadilly Lane
+Admin Street2:
+Admin Street3:
+Admin City:Eagle
+Admin State/Province:Idaho
+Admin Postal Code:83616
+Admin Country:US
+Admin Phone:+1.2088414798
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cartf@cableone.net
+Tech ID:CR33345343
+Tech Name:Jerrilea Archer
+Tech Organization:The Governor's Task Force on Children at Risk
+Tech Street1:2602 E. PIccadilly Lane
+Tech Street2:
+Tech Street3:
+Tech City:Eagle
+Tech State/Province:Idaho
+Tech Postal Code:83616
+Tech Country:US
+Tech Phone:+1.2088414798
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cartf@cableone.net
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

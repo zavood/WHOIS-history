@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3660264-LROR
+Domain Name:HOLYSMOKE.ORG
+Created On:14-Jun-1998 04:00:00 UTC
+Last Updated On:12-May-2011 13:00:51 UTC
+Expiration Date:13-Jun-2012 04:00:00 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C0000244CF
+Registrant Name:David Rice
+Registrant Organization:Desertphile Publications
+Registrant Street1:723 Callia Casita
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Clemente
+Registrant State/Province:California
+Registrant Postal Code:92673
+Registrant Country:US
+Registrant Phone:+1.9492483438
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:2656abb92dcabcc1b32354c33d0e8a309aeb1219@whois.gkg.net
+Admin ID:GKG-C0000244CF
+Admin Name:David Rice
+Admin Organization:Desertphile Publications
+Admin Street1:723 Callia Casita
+Admin Street2:
+Admin Street3:
+Admin City:San Clemente
+Admin State/Province:California
+Admin Postal Code:92673
+Admin Country:US
+Admin Phone:+1.9492483438
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:2656abb92dcabcc1b32354c33d0e8a309aeb1219@whois.gkg.net
+Tech ID:GKG-C000005B21
+Tech Name:Zenon Panoussis
+Tech Organization:Net Theatre
+Tech Street1:Skeppargrand 3
+Tech Street2:
+Tech Street3:
+Tech City:116 36 Stockholm
+Tech State/Province:.
+Tech Postal Code:.
+Tech Country:SE
+Tech Phone:+46.86437656
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fad20e21745583a56d5e90326e7e5dc89b64f598@whois.gkg.net
+Name Server:NS1.NETTHEATRE.ORG
+Name Server:NS2.NETTHEATRE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
