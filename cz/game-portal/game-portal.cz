@@ -1,0 +1,64 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 04:33:03 2011
+
+domain:       game-portal.cz
+registrant:   GR-LUKASDEDIC-3B3BF
+admin-c:      GR-LUKASDEDIC-3B3BF
+nsset:        WEDOS
+registrar:    REG-WEDOS
+status:       paid and in zone
+registered:   03.06.2010 16:15:36
+changed:      18.01.2011 14:21:07
+expire:       03.06.2012
+
+contact:      GR-LUKASDEDIC-3B3BF
+name:         Luk&Atilde;&iexcl;&Aring;&iexcl; D&Auml;õdi&Auml;ç
+address:      Hlavat&Atilde;&copy;ho 663/15
+address:      Praha
+address:      14900
+address:      CZ
+phone:        +420.608832524
+e-mail:       d1ck@d1ck.cz
+registrar:    REG-GRANSY
+created:      07.01.2011 14:43:45
+
+nsset:        WEDOS
+nserver:      ns.wedos.net
+nserver:      ns.wedos.eu
+nserver:      ns.wedos.com
+nserver:      ns.wedos.cz (46.28.104.67, 2a02:2b88:1:1::2)
+tech-c:       WEDOS-INTERNET
+registrar:    REG-WEDOS
+created:      01.03.2010 15:38:08
+changed:      14.12.2010 20:23:49
+
+contact:      WEDOS-INTERNET
+org:          WEDOS Internet, a.s.
+name:         Petr &Aring;&nbsp;&Aring;&yen;astn&Atilde;&frac12;
+address:      Masarykova 1230
+address:      Hlubok&Atilde;&iexcl; nad Vltavou
+address:      37341
+address:      CZ
+e-mail:       domains@wedos.com
+registrar:    REG-WEDOS
+created:      01.03.2010 15:34:12
+changed:      14.06.2011 16:15:53
+
+
