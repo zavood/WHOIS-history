@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: WHORESGANG.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.JASMINE.ARVIXE.COM
+   Name Server: NS2.JASMINE.ARVIXE.COM
+   Status: ok
+   Updated Date: 27-jan-2011
+   Creation Date: 27-jan-2011
+   Expiration Date: 27-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:36:27 UTC &lt;&lt;&lt;
 
@@ -48,3 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Eric Bana
+   tainan HaoRen No.2748
+   Taibei, CT  666444
+   TW
+
+   Registrar: NAMESDIRECT
+   Domain Name: WHORESGANG.COM
+      Created on: 27-JAN-11
+      Expires on: 27-JAN-12
+      Last Updated on: 27-JAN-11
+
+   Administrative, Technical Contact:
+      Bana, Eric  fans@giantweb.info
+      tainan HaoRen No.2748
+      Taibei, CT  666444
+      TW
+      866-3-27455
+
+
+   Domain servers in listed order:
+      NS1.JASMINE.ARVIXE.COM
+      NS2.JASMINE.ARVIXE.COM
+
+End of Whois Information

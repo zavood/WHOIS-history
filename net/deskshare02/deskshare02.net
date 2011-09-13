@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
+   Domain Name: DESKSHARE02.NET
+   Registrar: VARIOMEDIA AG DBA PUREDOMAIN.COM
+   Whois Server: whois.puredomain.com
+   Referral URL: http://www.puredomain.com
+   Name Server: NS1.VARIOMEDIA.DE
+   Name Server: NS2.VARIOMEDIA.DE
+   Status: ok
+   Updated Date: 03-jun-2011
+   Creation Date: 08-feb-2004
+   Expiration Date: 08-feb-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:36:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:35:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain:       deskshare02.net
+
+Created:      2011-06-03
+Last updated: 2011-06-03
+Expires:
+
+[Registrant]
+Organization: Linkware GmbH
+First name:   Mathias
+Last name:    Kuhr
+Street1:      Denisstrasse 3
+Street2:
+City:         Kaiserslautern
+State:        n/a
+Postal code:  67663
+Country:      DE
+Phone:        +49-1802-670500
+Fax:          +49-1802-670599
+Email:        domains@linkware.com
+
+[Admin]
+Organization: Linkware GmbH
+First name:   Mathias
+Last name:    Kuhr
+Street1:      Denisstrasse 3
+Street2:
+City:         Kaiserslautern
+State:        n/a
+Postal code:  67663
+Country:      DE
+Phone:        +49-1802-670500
+Fax:          +49-1802-670599
+Email:        domains@linkware.com
+
+[Tech]
+Organization: Variomedia AG
+First name:   Marten
+Last name:    Lehmann
+Street1:      August-Bebel-Stra&Atilde;Ÿe 68
+Street2:
+City:         Potsdam
+State:        n/a
+Postal code:  14482
+Country:      DE
+Phone:        +49-331-23789-0
+Fax:          +49-331-23789-59
+Email:        lehmann@variomedia.de
+
+[Nameservers]
+ns1.variomedia.de
+ns2.variomedia.de
+
+
+Query 3 of 100 allowed queries per hour.
