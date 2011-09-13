@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROXYITALIA.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS1.CLOUDNS.NET
-   Name Server: NS2.CLOUDNS.NET
-   Name Server: NS3.CLOUDNS.NET
-   Name Server: NS4.CLOUDNS.NET
-   Status: clientTransferProhibited
-   Updated Date: 13-jul-2011
-   Creation Date: 22-apr-2011
-   Expiration Date: 22-apr-2012
+   Domain Name: PALANEX.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.LOCAWEB.COM.BR
+   Name Server: NS2.LOCAWEB.COM.BR
+   Name Server: NS3.LOCAWEB.COM.BR
+   Status: ok
+   Updated Date: 29-mar-2010
+   Creation Date: 10-apr-2000
+   Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:56:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:54:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,46 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain proxyitalia.com
 
-Date Registered: 2011-4-22
-Date Modified: 2011-7-13
-Expiry Date: 2012-4-23
+Domain Name.......... palanex.com
+  Creation Date........ 2000-04-11
+  Registration Date.... 2000-04-11
+  Expiry Date.......... 2012-04-11
+  Organisation Name.... Sandro Roque Pasa
+  Organisation Address. Rua Florianopolis, 87
+  Organisation Address. Bairro Botafogo
+  Organisation Address. Bento Goncalves - RS
+  Organisation Address. 95.700-000
+  Organisation Address. n/a
+  Organisation Address. BRAZIL
 
-DNS1: ns3.cloudns.net
-DNS2: ns4.cloudns.net
-DNS3: ns2.cloudns.net
-DNS4: ns1.cloudns.net
+Admin Name........... PASA SANDRO ROQUE
+  Admin Address........ PANTYREWIG
+  Admin Address........ FELINGWM UCHAF
+  Admin Address........ CARMARTHEN
+  Admin Address........ SA32 7PG
+  Admin Address........ WALES
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... veronadesign@excite.co.uk
+  Admin Phone.......... 01554 891678
+  Admin Fax............ 01554 891511
 
-Registrant
-    Private Whois proxyitalia.com
-    Private Whois proxyitalia.com  ah8p41y4db23ec73ccf9@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o proxyitalia.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
+Tech Name............ PASA SANDRO ROQUE
+  Tech Address......... PANTYREWIG
+  Tech Address......... FELINGWM UCHAF
+  Tech Address......... CARMARTHEN
+  Tech Address......... SA32 7PG
+  Tech Address......... WALES
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... veronadesign@excite.co.uk
+  Tech Phone........... 01554 891678
+  Tech Fax............. 01554 891511
+  Name Server.......... ns1.locaweb.com.br
+  Name Server.......... ns2.locaweb.com.br
+  Name Server.......... ns3.locaweb.com.br
 
-Administrative Contact
-    Private Whois proxyitalia.com
-    Private Whois proxyitalia.com  j8x04dh4db23ec73fbad@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o proxyitalia.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
 
-Technical Contact
-    Private Whois proxyitalia.com
-    Private Whois proxyitalia.com  zy5zebp4db23ec73ec0c@oqjij874d9300d54bd95.privatewhois.net
-    *******PLEASE DO NOT SEND LETTERS******
-    ****Contact the owner by email only****
-    c/o proxyitalia.com
-    N4892 Nassau
-    Bahamas
-    Tel: +852.81720004
-
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
