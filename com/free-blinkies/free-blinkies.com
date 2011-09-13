@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 02-jun-2006
    Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 03:25:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:55:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,8 +63,8 @@ cheap, easy website creation.
 ******************************************************************
 
 Domain Name: 		FREE-BLINKIES.COM
-Created Date:		02-Jun-2006
-Expiry Date:		02-Jun-2012
+Date Created:		Fri 02-June-2006
+Date Expires:		Sat 02-June-2012
 Nameserver:		ns.123-reg.co.uk
 Nameserver:		ns2.123-reg.co.uk
 Registrant Name:	Rob Welsby
@@ -85,7 +85,7 @@ Technical Address:	Uxbridge
 Technical Address:	Middlesex
 Technical Address:	UB11 1FF
 Technical Address:	United Kingdom
-Technical Email:	services@123-reg.co.uk
+Technical E-Mail:	services@123-reg.co.uk
 Technical Tel:		+44.8712309525
 Technical Fax:		+44.8701650437
 Administrative Name:	Rob Welsby
@@ -97,7 +97,7 @@ Administrative Address:	Norwich
 Administrative Address:	Norfolk
 Administrative Address:	NR7 9UG
 Administrative Address:	United Kingdom
-Administrative Email:	rob@taulath.co.uk
+Administrative E-Mail:	rob@taulath.co.uk
 Administrative Tel:	01603708077
 Administrative Fax:
 

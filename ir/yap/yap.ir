@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'yap.ir'
+
+
+domain:		yap.ir
+ascii:		yap.ir
+remarks:	(Domain Holder) Amir Hosein Khoda Bakhshi Javinani
+remarks:	(Domain Holder Address) No. 250, Nosarat St., Jamal Zadeh,, Tehran, Tehran, IR
+holder-c:	ak573-irnic
+admin-c:	ak573-irnic
+tech-c:		ak573-irnic
+bill-c:		to52-irnic
+nserver:	ns1.hostmonster.com
+nserver:	ns2.hostmonster.com
+last-updated:	2011-08-28
+source:		IRNIC # Filtered
+
+nic-hdl:	ak573-irnic
+person:		Amir Hosein Khoda Bakhshi Javinani
+e-mail:		trafixfx@gmail.com
+address:	No. 250, Nosarat St., Jamal Zadeh,, Tehran, Tehran, IR
+phone:		66921027
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+source:		IRNIC # Filtered
+

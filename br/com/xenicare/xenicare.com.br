@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:56:04 (BRT -03:00)
+
+domain:      xenicare.com.br
+owner:       Produtos Roche Quimicos e Farmaceuticos S/A
+ownerid:     033.009.945/0001-23
+responsible: eMarketing Brasil
+country:     BR
+owner-c:     RVM56
+admin-c:     RVM56
+tech-c:      SAI10
+billing-c:   LUPON4
+nserver:     ns1.roche.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     hlrns1.roche.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20010619 #587608
+expires:     20120619
+changed:     20110707
+status:      published
+
+nic-hdl-br:  LUPON4
+person:      Lucas Ponciano
+e-mail:      hostmaster@safenames-agent.com.br
+created:     20090308
+changed:     20100523
+
+nic-hdl-br:  RVM56
+person:      Ron&iacute;zia Vieira Moura
+e-mail:      ronizia.moura@roche.com
+created:     20030328
+changed:     20090708
+
+nic-hdl-br:  SAI10
+person:      Safenames LTD
+e-mail:      hostmaster@safenames.net
+created:     20000613
+changed:     20011101
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

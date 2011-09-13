@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146407922-LROR
+Domain Name:WIKIGW.ORG
+Created On:20-May-2007 07:47:12 UTC
+Last Updated On:21-May-2011 01:23:13 UTC
+Expiration Date:20-May-2012 07:47:12 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-37332638
+Registrant Name:Austin Wheeler
+Registrant Organization:Timeless Domain
+Registrant Street1:P.O. Box 156
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fairport
+Registrant State/Province:NY
+Registrant Postal Code:14450-9995
+Registrant Country:US
+Registrant Phone:+58.57373718
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@timelessdomain.com
+Admin ID:SPAG-37332638
+Admin Name:Austin Wheeler
+Admin Organization:Timeless Domain
+Admin Street1:P.O. Box 156
+Admin Street2:
+Admin Street3:
+Admin City:Fairport
+Admin State/Province:NY
+Admin Postal Code:14450-9995
+Admin Country:US
+Admin Phone:+58.57373718
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@timelessdomain.com
+Tech ID:SPAG-37332638
+Tech Name:Austin Wheeler
+Tech Organization:Timeless Domain
+Tech Street1:P.O. Box 156
+Tech Street2:
+Tech Street3:
+Tech City:Fairport
+Tech State/Province:NY
+Tech Postal Code:14450-9995
+Tech Country:US
+Tech Phone:+58.57373718
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@timelessdomain.com
+Name Server:NS1.NETFIRMS.COM
+Name Server:NS2.NETFIRMS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
