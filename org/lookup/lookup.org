@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D962771-LROR
+Domain Name:LOOKUP.ORG
+Created On:11-Feb-1998 05:00:00 UTC
+Last Updated On:17-Mar-2008 02:48:15 UTC
+Expiration Date:10-Feb-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30091833-NSI
+Registrant Name:Sheila Sternberg
+Registrant Organization:Sheila Sternberg
+Registrant Street1:5420 Griggs court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buford
+Registrant State/Province:GA
+Registrant Postal Code:30518
+Registrant Country:US
+Registrant Phone:+1.678482682
+Registrant Phone Ext.:
+Registrant FAX:+1.225534778
+Registrant FAX Ext.:
+Registrant Email:sheilab@MINDSPRING.COM
+Admin ID:30091836-NSI
+Admin Name:Success Communications, Inc.
+Admin Organization:Success Communications, Inc.
+Admin Street1:3608 Main Station Drive
+Admin Street2:
+Admin Street3:
+Admin City:Marietta,
+Admin State/Province:GA
+Admin Postal Code:30008
+Admin Country:US
+Admin Phone:+1.77033304
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sheilab@MINDSPRING.COM
+Tech ID:16816963-NSI
+Tech Name:Domain Admin Telecom. Inc Hosting.com
+Tech Organization:Hosting.com
+Tech Street1:PO Box 22789
+Tech Street2:contact abuse@hosting.com
+Tech Street3:
+Tech City:Louisville
+Tech State/Province:KY
+Tech Postal Code:40252
+Tech Country:US
+Tech Phone:+1.8004551795
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainsupport@wsmdomains.com
+Name Server:NS2.ADGRAFIX.COM
+Name Server:NS1.ADGRAFIX.COM
+Name Server:NS3.ADGRAFIX.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
