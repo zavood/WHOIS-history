@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 15-apr-2000
    Expiration Date: 15-apr-2021
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 03:59:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:12:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,7 +109,7 @@ Beapro Sports L.L.C.
 
    Record expires on 15-Apr-2021.
    Record created on 15-Apr-2000.
-   Database last updated on 10-Sep-2011 23:50:16 EDT.
+   Database last updated on 13-Sep-2011 01:08:08 EDT.
 
    Domain servers in listed order:
 
