@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
+   Domain Name: MASAWI.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 01-jul-2011
+   Creation Date: 23-oct-2005
+   Expiration Date: 23-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:40:38 UTC &lt;&lt;&lt;
 
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Limelight Networks Inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
+   Domain Name: MASAWI.COM
 
    Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
+      BUY.INTERNETTRAFFIC.COM
+      SELL.INTERNETTRAFFIC.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=MASAWI.COM

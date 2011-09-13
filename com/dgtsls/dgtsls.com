@@ -5,23 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
+   Domain Name: DGTSLS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
+   Name Server: NS.DNSTRAC1.INFO
+   Name Server: NS.DNSTRAC2.INFO
+   Name Server: NS.DNSTRAC3.INFO
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 01-mar-2011
+   Creation Date: 13-mar-2009
+   Expiration Date: 13-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:40:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:40:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Limelight Networks Inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
+   Domain Name: DGTSLS.COM
 
    Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
+      NS.DNSTRAC1.INFO
+      NS.DNSTRAC2.INFO
+      NS.DNSTRAC3.INFO
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=DGTSLS.COM
