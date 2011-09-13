@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WEBSITEWELCOME.COM.TRUETECHLTDA.COM
-WEBSITEWELCOME.COM.ENVIROKLEEN.COM
-WEBSITEWELCOME.COM.3LAKIFK.COM
-WEBSITEWELCOME.COM
+   Domain Name: RAVAGERACING.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS3.JOOMBYTE.COM
+   Name Server: NS4.JOOMBYTE.COM
+   Status: ok
+   Updated Date: 13-apr-2011
+   Creation Date: 16-oct-2010
+   Expiration Date: 16-oct-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:06:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:06:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about ravageracing.com
+&lt;a href=&quot;http://www.aboutus.org/ravageracing.com&quot;&gt;AboutUs: ravageracing.com&lt;/a&gt;
+
+
+Domain name: ravageracing.com
+
+Registrant Contact:
+   Ravage Racing
+   Craig Robinson ()
+
+   Fax:
+   48 Milnthorpe St.
+   Salford,, Manchester m66bf
+   GB
+
+Administrative Contact:
+   Ravage Racing
+   Craig Robinson (craigrobbo@msn.com)
+   +44.5826489534
+   Fax: +44.5826489534
+   48 Milnthorpe St.
+   Salford,, Manchester m66bf
+   GB
+
+Technical Contact:
+   Ravage Racing
+   Craig Robinson (craigrobbo@msn.com)
+   +44.5826489534
+   Fax: +44.5826489534
+   48 Milnthorpe St.
+   Salford, Manchester m66bf
+   GB
+
+Status: Active
+
+Name Servers:
+   ns3.joombyte.com
+   ns4.joombyte.com
+
+Creation date: 17 Oct 2010 02:47:02
+Expiration date: 17 Oct 2011 02:47:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
