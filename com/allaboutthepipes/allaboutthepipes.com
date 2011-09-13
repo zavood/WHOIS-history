@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 03-jun-2008
    Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:32:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:26:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Michelle Vigna
-   1736 Shagbark Lane Charlotte
-   ,  28226
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ALLABOUTTHEPIPES.COM
-      Created on: 03-Jun-08
-      Expires on: 03-Jun-12
-      Last Updated on: 04-Jun-11
-
-   Administrative Contact:
-      Vigna, Michelle  mzvigna26@yahoo.com
-      1736 Shagbark Lane Charlotte
-      ,  28226
-      United States
-      +1.0000000000
-
-   Technical Contact:
-      Vigna, Michelle  mzvigna26@yahoo.com
-      1736 Shagbark Lane Charlotte
-      ,  28226
-      United States
-      +1.0000000000
 
    Domain servers in listed order:
       NS61.DOMAINCONTROL.COM
       NS62.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ALLABOUTTHEPIPES.COM
