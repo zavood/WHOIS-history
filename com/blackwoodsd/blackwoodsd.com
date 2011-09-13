@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: BLACKWOODSD.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS0.ZEN.CO.UK
+   Name Server: NS1.ZEN.CO.UK
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 03-apr-2008
-   Expiration Date: 03-apr-2012
+   Updated Date: 21-oct-2010
+   Creation Date: 27-oct-1999
+   Expiration Date: 27-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:22:17 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... blackwoodsd.com
+  Creation Date........ 1999-10-27
+  Registration Date.... 2004-10-05
+  Expiry Date.......... 2011-10-27
+  Organisation Name.... Blackwood Structural Design
+  Organisation Address. 14 Kennedy Street
+  Organisation Address.
+  Organisation Address. Manchester
+  Organisation Address. M2 4BY
+  Organisation Address. Lancs
+  Organisation Address. GREAT BRITAIN (UK)
+
+Admin Name........... DNS Master
+  Admin Address........ Sandbrook Park
+  Admin Address........ Sandbrook Way
+  Admin Address........ Rochdale
+  Admin Address........ OL11 1RY
+  Admin Address........ Lancashire
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... dnsmaster@zen.co.uk
+  Admin Phone.......... +44.8450589000
+  Admin Fax............ +44.8450589005
+
+Tech Name............ DNS Master
+  Tech Address......... Sandbrook Park
+  Tech Address......... Sandbrook Way
+  Tech Address......... Rochdale
+  Tech Address......... OL11 1RY
+  Tech Address......... Lancashire
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... dnsmaster@zen.co.uk
+  Tech Phone........... +44.8450589000
+  Tech Fax............. +44.8450589005
+  Name Server.......... NS0.ZEN.CO.UK
+  Name Server.......... NS1.ZEN.CO.UK
 
 
-Registrant:
-   Gray Television, Inc
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
-
-   Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WTVYHOMETOWNCLASSIFIEDS.COM

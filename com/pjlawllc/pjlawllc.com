@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
+   Domain Name: PJLAWLLC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Name Server: NS1.THEGOODGEEKS.COM
+   Name Server: NS2.THEGOODGEEKS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 03-apr-2008
-   Expiration Date: 03-apr-2012
+   Updated Date: 07-feb-2011
+   Creation Date: 06-feb-2005
+   Expiration Date: 06-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:22:17 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Gray Television, Inc
+   The Good Geeks
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
+   Domain Name: PJLAWLLC.COM
 
    Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
+      NS1.THEGOODGEEKS.COM
+      NS2.THEGOODGEEKS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WTVYHOMETOWNCLASSIFIEDS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PJLAWLLC.COM

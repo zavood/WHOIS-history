@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 03-apr-2008
-   Expiration Date: 03-apr-2012
+   Domain Name: 45966.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: ok
+   Updated Date: 30-dec-2010
+   Creation Date: 29-jan-2010
+   Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:22:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:22:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about 45966.com
+&lt;a href=&quot;http://www.aboutus.org/45966.com&quot;&gt;AboutUs: 45966.com&lt;/a&gt;
 
 
-Registrant:
-   Gray Television, Inc
+Domain name: 45966.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
+   mg mg ()
+
+   Fax:
+   mg
+   mg,  mg
+   CN
+
+Administrative Contact:
+
+   mg mg (515234463@qq.com)
+   +1.3233735888
+   Fax:
+   mg
+   mg,  mg
+   CN
+
+Technical Contact:
+
+   mg mg (515234463@qq.com)
+   +1.3233735888
+   Fax:
+   mg
+   mg,  mg
+   CN
+
+Status: Active
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 29 Jan 2010 08:00:04
+Expiration date: 29 Jan 2012 08:00:04
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WTVYHOMETOWNCLASSIFIEDS.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

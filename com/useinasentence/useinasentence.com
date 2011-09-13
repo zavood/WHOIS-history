@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
+   Domain Name: USEINASENTENCE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Name Server: DNS.SITE5.COM
+   Name Server: DNS2.SITE5.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 03-apr-2008
-   Expiration Date: 03-apr-2012
+   Updated Date: 15-jun-2011
+   Creation Date: 15-jan-2010
+   Expiration Date: 15-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:22:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:20:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Gray Television, Inc
+   Ajeet Khurana
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WTVYHOMETOWNCLASSIFIEDS.COM
+   Domain Name: USEINASENTENCE.COM
 
    Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
+      DNS.SITE5.COM
+      DNS2.SITE5.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WTVYHOMETOWNCLASSIFIEDS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=USEINASENTENCE.COM
