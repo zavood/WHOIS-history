@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARVICLUB.COM
-   Registrar: UK2 GROUP LTD.
-   Whois Server: whois.hostingservicesinc.net
-   Referral URL: http://www.resell.biz
-   Name Server: NS1.ADK-MEDIA.COM
-   Name Server: NS2.ADK-MEDIA.COM
-   Status: ok
-   Updated Date: 14-oct-2010
-   Creation Date: 14-oct-2009
-   Expiration Date: 14-oct-2011
+   Domain Name: THECUSTOMIZEWINDOWS.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: DNS1.NAMECHEAPHOSTING.COM
+   Name Server: DNS2.NAMECHEAPHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-aug-2011
+   Creation Date: 12-oct-2010
+   Expiration Date: 12-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:35:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:37:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: HEDOMA GROUPE
-Contact: +212.0534111581
+Registration Service Provided By: HOSTIN SERVICES PRIVATE LIMITED
+Contact: +91.2025520101
+Website: http://www.hostindia.net
 
-Domain Name: MARVICLUB.COM
+Domain Name: THECUSTOMIZEWINDOWS.COM
 
 Registrant:
-    www.hedoma.com
-    Hedoma hosting        (contact@hedoma.com)
-    Av Patrice Lumumba Imp Boujaad
-    Imm 13b Appt 2
-    Rabbat
-    Not Applicable,10000
-    MA
-    Tel. +212.640329187
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Creation Date: 14-Oct-2009
-Expiration Date: 14-Oct-2011
+Creation Date: 12-Oct-2010
+Expiration Date: 12-Oct-2013
 
 Domain servers in listed order:
-    ns1.adk-media.com
-    ns2.adk-media.com
+    dns1.namecheaphosting.com
+    dns2.namecheaphosting.com
 
 
 Administrative Contact:
-    www.hedoma.com
-    Hedoma hosting        (contact@hedoma.com)
-    Av Patrice Lumumba Imp Boujaad
-    Imm 13b Appt 2
-    Rabbat
-    Not Applicable,10000
-    MA
-    Tel. +212.640329187
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Technical Contact:
-    www.hedoma.com
-    Hedoma hosting        (contact@hedoma.com)
-    Av Patrice Lumumba Imp Boujaad
-    Imm 13b Appt 2
-    Rabbat
-    Not Applicable,10000
-    MA
-    Tel. +212.640329187
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Billing Contact:
-    www.hedoma.com
-    Hedoma hosting        (contact@hedoma.com)
-    Av Patrice Lumumba Imp Boujaad
-    Imm 13b Appt 2
-    Rabbat
-    Not Applicable,10000
-    MA
-    Tel. +212.640329187
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+
+PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
+protect the owner from spam and phishing attacks. PrivacyProtect.org is not
+responsible for any of the activities associated with this domain name. If you wish
+to report any abuse concerning the usage of this domain name, you may do so at
+http://privacyprotect.org/contact. We have a stringent abuse policy and any
+complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -116,7 +128,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is UK2 Group Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
