@@ -36,29 +36,5 @@
 %- protect the privacy of its registrants or the integrity of the database.
 %-
 % WHOIS kopjeskrant
-Domain:      kopjeskrant
-Status:      REGISTERED
-Registered:  Wed Aug  4 2010
-
-Licensee:
-   Not shown, please visit www.dns.be for webbased whois.
-
-Agent Technical Contacts:
-   Last Name:     Christian Sieberer
-   Company Name:  Christian Sieberer EDV
-   Language:      en
-   Street:        Barakgasse 1-3/19/4
-   Location:      1230 Vienna
-   Country:       AT
-   Phone:         +43.69910476660
-   Fax:           +43.125303330021
-   Email:         chris@sispace.at
-
-Agent:
-   Name:      Christian Sieberer EDV
-   Website:   www.sispace.at
-
-Nameservers:
-   ns1.phreneticus.at
-   ns2.phreneticus.at
+% Excessive querying, grace period of 2 seconds
 

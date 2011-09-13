@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11490251-LROR
+Domain Name:NAHHH.ORG
+Created On:19-Oct-1999 21:33:29 UTC
+Last Updated On:19-Jan-2006 16:28:02 UTC
+Expiration Date:19-Oct-2012 21:33:29 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24544811-NSI
+Registrant Name:NAHHH, Inc.
+Registrant Organization:NAHHH, Inc.
+Registrant Street1:P.O. Box 18087
+Registrant Street2:
+Registrant Street3:
+Registrant City:Asheville
+Registrant State/Province:NC
+Registrant Postal Code:18087
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:awdk@AOL.COM
+Admin ID:29079501-NSI
+Admin Name:NAHHH Inc.
+Admin Organization:National Association of Hospital Hospitality Houses
+Admin Street1:2882 SE Morlan Place
+Admin Street2:
+Admin Street3:
+Admin City:Gresham
+Admin State/Province:OR
+Admin Postal Code:97080
+Admin Country:US
+Admin Phone:+1.5035682370
+Admin Phone Ext.:
+Admin FAX:+1.8282538082
+Admin FAX Ext.:
+Admin Email:director@nahhh.org
+Tech ID:29079501-NSI
+Tech Name:NAHHH Inc.
+Tech Organization:National Association of Hospital Hospitality Houses
+Tech Street1:2882 SE Morlan Place
+Tech Street2:
+Tech Street3:
+Tech City:Gresham
+Tech State/Province:OR
+Tech Postal Code:97080
+Tech Country:US
+Tech Phone:+1.5035682370
+Tech Phone Ext.:
+Tech FAX:+1.8282538082
+Tech FAX Ext.:
+Tech Email:director@nahhh.org
+Name Server:NS76.WEBMASTERS.COM
+Name Server:NS81.WEBMASTERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
