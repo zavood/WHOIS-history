@@ -10,23 +10,23 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [174.142.225.246 REQUEST] &gt;&gt; ddn.fr
+%% [174.142.225.246 REQUEST] &gt;&gt; ltf.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
 
-domain:      ddn.fr
+domain:      ltf.fr
 status:      ACTIVE
 hold:        NO
-holder-c:    DDN23-FRNIC
-admin-c:     RP67-FRNIC
+holder-c:    LTEF2-FRNIC
+admin-c:     ACLT112-FRNIC
 tech-c:      AG409-FRNIC
 zone-c:      NFC1-FRNIC
 nsl-id:      NSL5368-FRNIC
 registrar:   ACTION GIRATOIRE
-anniversary: 10/04
-created:     10/04/2003
-last-update: 27/03/2009
+anniversary: 17/10
+created:     17/05/2002
+last-update: 17/10/2007
 source:      FRNIC
 
 ns-list:     NSL5368-FRNIC
@@ -47,17 +47,29 @@ anonymous:   NO
 registered:  15/01/2003
 source:      FRNIC
 
-nic-hdl:     RP67-FRNIC
-type:        PERSON
-contact:     Roland Piette
-address:     Domaine des Noms
-address:     quartier les Gatiers
-address:     83170 Tourves
+nic-hdl:     LTEF2-FRNIC
+type:        ORGANIZATION
+contact:     Landes Thermique et Froid
+address:     21bis, avenue Francis Plante
+address:     40100 Dax
 country:     FR
-phone:       +33 4 98 05 03 83
-fax-no:      +33 4 94 78 89 22
-e-mail:      admin@domainedesnoms.com
-changed:     19/05/2006 admin@domainedesnoms.com
+phone:       +33 5 59 42 52 52
+e-mail:      a.chatain@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACLT112-FRNIC
+type:        PERSON
+contact:     admin-c Landes Thermique et Froid
+address:     21bis, avenue Francis Plante
+address:     40100 Dax
+country:     FR
+phone:       +33 5 59 42 52 52
+e-mail:      a.chatain@wanadoo.fr
+changed:     17/10/2007 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
 source:      FRNIC
@@ -76,17 +88,5 @@ tech-c:      RP847-FRNIC
 changed:     19/05/2006 support@domainedesnoms.com
 anonymous:   NO
 obsoleted:   NO
-source:      FRNIC
-
-nic-hdl:     DDN23-FRNIC
-type:        ORGANIZATION
-contact:     Domaine des Noms
-address:     quartier les Gatiers
-address:     83170 Tourves
-country:     FR
-changed:     27/03/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    delayed
 source:      FRNIC
 
