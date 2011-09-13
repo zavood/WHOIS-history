@@ -5,24 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVEPERSON.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ASIA1.AKAM.NET
-   Name Server: ASIA2.AKAM.NET
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
-   Name Server: EUR3.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW1.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Domain Name: ATYPICSTORE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 24-aug-1998
-   Expiration Date: 23-aug-2012
+   Updated Date: 01-feb-2011
+   Creation Date: 25-mar-2010
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:48:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,23 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... atypicstore.com
+  Creation Date........ 2010-03-26
+  Registration Date.... 2010-03-26
+  Expiry Date.......... 2012-03-26
+  Organisation Name.... LASER LOYALTY SAS
+  Organisation Address. 18 rue de Londres
+  Organisation Address.
+  Organisation Address. PARIS
+  Organisation Address. 75009
+  Organisation Address. -
+  Organisation Address. FRANCE
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Patrick Chabrerie
+  Admin Address........ LASER COFINOGA SA
+  Admin Address........ 106 108 avenue JF Kennedy
+  Admin Address........ MERIGNAC CEDEX
+  Admin Address........ 33696
+  Admin Address........ -
+  Admin Address........ FRANCE
+  Admin Email.......... contactadmin@cofinoga.fr
+  Admin Phone.......... +33.556552546
+  Admin Fax............ +33.556555608
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Melbourne IT DBS
+  Tech Address......... 487 E. Middlefield Rd.
+  Tech Address.........
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... tech@melbourneitdbs.com
+  Tech Phone........... +1.8669073267
+  Tech Fax............. +1.6502378883
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... l4.nstld.com
+  Name Server.......... k4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: liveperson.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:39:12 EDT 2011
-Reason Code: IE

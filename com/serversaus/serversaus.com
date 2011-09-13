@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVEPERSON.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ASIA1.AKAM.NET
-   Name Server: ASIA2.AKAM.NET
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
-   Name Server: EUR3.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW1.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Domain Name: SERVERSAUS.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.SERVERSAUS.COM
+   Name Server: NS2.SERVERSAUS.COM
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 24-aug-1998
-   Expiration Date: 23-aug-2012
+   Updated Date: 09-dec-2010
+   Creation Date: 07-dec-2006
+   Expiration Date: 07-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:48:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:47:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,23 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name: serversaus.com
+Registered at http://www.dynadot.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+Cameron McGuffie
+P.O. Box 1061 Thuringowa central
+Thuringowa, QLD 4815
+Australia
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+Cameron McGuffie
+P.O. Box 1061 Thuringowa central
+Thuringowa, QLD 4815
+Australia
+camac90@austarnet.com.au
++61 414786204
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+Cameron McGuffie
+P.O. Box 1061 Thuringowa central
+Thuringowa, QLD 4815
+Australia
+camac90@austarnet.com.au
++61 414786204
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record expires on 2011/12/08 UTC
+Record created on 2006/12/08 UTC
 
-Whois Query: liveperson.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:39:12 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+ns1.serversaus.com
+ns2.serversaus.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/12 18:45:51 PST &lt;&lt;&lt;
+

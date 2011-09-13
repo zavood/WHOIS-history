@@ -5,24 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVEPERSON.COM
+   Domain Name: DIRECTTRACK.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ASIA1.AKAM.NET
-   Name Server: ASIA2.AKAM.NET
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
-   Name Server: EUR3.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW1.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 24-aug-1998
-   Expiration Date: 23-aug-2012
+   Updated Date: 15-dec-2008
+   Creation Date: 29-jun-2000
+   Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:48:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +71,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: liveperson.com
+Whois Query: directtrack.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:39:12 EDT 2011
+Date and Time of Query: Mon Sep 12 21:39:15 EDT 2011
 Reason Code: IE
