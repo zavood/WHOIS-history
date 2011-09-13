@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOTTOMLINESECRETS.COM
+   Domain Name: BUDZAR.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS21.WORLDNIC.COM
+   Name Server: NS22.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 19-jun-2011
-   Creation Date: 18-aug-1999
-   Expiration Date: 18-aug-2013
+   Updated Date: 20-apr-2011
+   Creation Date: 30-aug-1997
+   Expiration Date: 29-aug-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:25:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,20 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about BOTTOMLINESECRETS.COM
-&lt;a href=&quot;http://www.aboutus.org/BOTTOMLINESECRETS.COM&quot;&gt;AboutUs: BOTTOMLINESECRETS.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BUDZAR.COM
+&lt;a href=&quot;http://www.aboutus.org/BUDZAR.COM&quot;&gt;AboutUs: BUDZAR.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Boardroom Inc.
-   Attn- Len  Bibbo, Controller
-   281 Tresser Boulevard 8th Floor
-   Stamford, CT 06901-3246
-   US
+Budzar Industries Inc..
+   ATTN BUDZAR.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: BOTTOMLINESECRETS.COM
+
+   Domain Name: BUDZAR.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -98,25 +96,37 @@ Boardroom Inc.
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Hiner, Ron		rhiner@softstone.com
-      Softstone Technology, Inc.
-      299 Riverside Ave.
-      Westport, CT 06880
+   Administrative Contact:
+      Wall, Robert		bp5bm6ex9yu@networksolutionsprivateregistration.com
+      Budzar Industries Inc..
+      ATTN BUDZAR.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      203 557-4772 fax: 203 286 2770
+      570-708-8780
+
+   Technical Contact:
+      Network Solutions, LLC.		customerservice@networksolutions.com
+      13861 Sunrise Valley Drive
+      Herndon, VA 20171
+      US
+      1-888-642-9675 fax: 571-434-4620
 
 
-   Record expires on 18-Aug-2013.
-   Record created on 18-Aug-1999.
-   Database last updated on 13-Sep-2011 13:15:51 EDT.
+   Record expires on 29-Aug-2016.
+   Record created on 30-Aug-1997.
+   Database last updated on 13-Sep-2011 13:15:47 EDT.
 
    Domain servers in listed order:
 
-   NS1.EASYDNS.COM
-   NS2.EASYDNS.COM
-   REMOTE1.EASYDNS.COM
-   REMOTE2.EASYDNS.COM
-   REMOTE3.EASYDNS.COM
+   NS21.WORLDNIC.COM            205.178.190.11
+   NS22.WORLDNIC.COM            206.188.198.11
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOTTOMLINESECRETS.COM
+   Domain Name: DOKEO-REALITEAUGMENTEE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS0.FR.CLARADNS.NET
+   Name Server: NS1.FR.CLARADNS.NET
+   Name Server: NS2.FR.CLARADNS.NET
    Status: clientTransferProhibited
-   Updated Date: 19-jun-2011
-   Creation Date: 18-aug-1999
-   Expiration Date: 18-aug-2013
+   Updated Date: 19-jan-2011
+   Creation Date: 25-feb-2010
+   Expiration Date: 25-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:25:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,20 +75,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about BOTTOMLINESECRETS.COM
-&lt;a href=&quot;http://www.aboutus.org/BOTTOMLINESECRETS.COM&quot;&gt;AboutUs: BOTTOMLINESECRETS.COM &lt;/a&gt;
+Visit AboutUs.org for more information about DOKEO-REALITEAUGMENTEE.COM
+&lt;a href=&quot;http://www.aboutus.org/DOKEO-REALITEAUGMENTEE.COM&quot;&gt;AboutUs: DOKEO-REALITEAUGMENTEE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Boardroom Inc.
-   Attn- Len  Bibbo, Controller
-   281 Tresser Boulevard 8th Floor
-   Stamford, CT 06901-3246
-   US
+sejer
+   30 place d'italie
+   Paris cedex 13 75702
+   FR
 
-   Domain Name: BOTTOMLINESECRETS.COM
+   Domain Name: DOKEO-REALITEAUGMENTEE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -99,24 +96,21 @@ Boardroom Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Hiner, Ron		rhiner@softstone.com
-      Softstone Technology, Inc.
-      299 Riverside Ave.
-      Westport, CT 06880
-      US
-      203 557-4772 fax: 203 286 2770
+      Claranet FR		hostmaster@fr.clara.net
+      68, rue du faubourg Saint Honore
+      Paris, Paris 75008
+      FR
+      +33 17011680
 
 
-   Record expires on 18-Aug-2013.
-   Record created on 18-Aug-1999.
-   Database last updated on 13-Sep-2011 13:15:51 EDT.
+   Record expires on 25-Feb-2012.
+   Record created on 25-Feb-2010.
+   Database last updated on 13-Sep-2011 13:20:36 EDT.
 
    Domain servers in listed order:
 
-   NS1.EASYDNS.COM
-   NS2.EASYDNS.COM
-   REMOTE1.EASYDNS.COM
-   REMOTE2.EASYDNS.COM
-   REMOTE3.EASYDNS.COM
+   NS0.FR.CLARADNS.NET          195.245.201.53
+   NS1.FR.CLARADNS.NET          194.112.32.53
+   NS2.FR.CLARADNS.NET          195.8.69.53
 
 
