@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FREESERVERS.COM.SHAWMARKCARDS.COM
-FREESERVERS.COM
+   Domain Name: SELLYOURCARFREE.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: NS1.RENEWYOURNAME.APLUS.NET
+   Name Server: NS2.RENEWYOURNAME.APLUS.NET
+   Status: redemptionPeriod
+   Updated Date: 14-aug-2011
+   Creation Date: 01-jul-2006
+   Expiration Date: 01-jul-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:56:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:55:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+No match for &quot;sellyourcarfree.com&quot;

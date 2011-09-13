@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FREESERVERS.COM.SHAWMARKCARDS.COM
-FREESERVERS.COM
+   Domain Name: HEALTHMARKETING.COM
+   Registrar: KOREA INFORMATION CERTIFICATE AUTHORITY INC DBA DOMAINCA.COM
+   Whois Server: whois.domainca.com
+   Referral URL: http://www.domainca.com
+   Name Server: NS1.PARKED.COM
+   Name Server: NS2.PARKED.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 03-oct-2010
+   Creation Date: 25-jun-1997
+   Expiration Date: 24-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:56:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:55:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to KICA, Inc. dba DomainCA.COM's WHOIS Service
+(Acceptable use policy for WHOIS service of DomainCA.com)
+
+WHOIS information of DomainCA.com is provided by the database of DomainCA.com.
+We do not guarantee the accuracy about the purpose of providing information,
+the purpose of obtaining identity information, and the records of the domain registration.
+
+The requested WHOIS information is used only as a legitimate purpose,
+is not used for any other purpose such as the following.
+1) Commercial advertisement or solicitation mail/spam mail without the consent
+2) Automation of mass information process by applying DomainCA.com or DomainCA service system
+
+DomainCA reserves the right to add,
+delete or modify any provision of this policy at any time without notice.
+You have accepted and agreed to this policy by providing this information.
+
+Domain Name: healthmarketing.com
+Domain Status: REGISTRAR LOCK
+Registrar: Korea Information Certificate Authority, Inc. dba DomainCA.com
+Referral URL: http://www.DomainCA.com
+
+Registrant:
+    jeongyong cho
+    13- 226  industrial commercial center
+     948  Maewol-dong Seo-gu Gwangju-si S.KOREA
+    Seoul,  502795
+    KR
+
+Administrative, Technical, Billing Contact:
+    jeongyong cho   gregorycho@dreamwiz.com
+    13- 226  industrial commercial center
+     948  Maewol-dong Seo-gu Gwangju-si S.KOREA
+    Seoul,   502795
+    KR
+    (TEL) +82.626034966, (FAX)
+
+Domain Registration Date....: 1997-06-25 GMT.
+Domain Expiration Date......: 2012-06-24 GMT.
+Domain Last Updated Date....: 2010-10-03 11:23:27 GMT.
+
+Domain Name Servers in listed order:
+   ns1.parked.com
+   ns2.parked.com
+
+If a customer is not using our name server, the IP address of
+the customer's name server will not be displayed.
+
+Please register domain name at www.DomainCA.com.
