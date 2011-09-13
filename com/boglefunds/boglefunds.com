@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINCHIRO.COM
+   Domain Name: BOGLEFUNDS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.REGISTER.COM
-   Name Server: DNS12.REGISTER.COM
+   Name Server: NS1.EZECASTLE.COM
+   Name Server: NS2.EZECASTLE.COM
    Status: clientTransferProhibited
-   Updated Date: 05-mar-2008
-   Creation Date: 21-apr-1999
-   Expiration Date: 21-apr-2013
+   Updated Date: 13-mar-2008
+   Creation Date: 04-apr-1999
+   Expiration Date: 04-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:23:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:23:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about WINCHIRO.COM
-&lt;a href=&quot;http://www.aboutus.org/WINCHIRO.COM&quot;&gt;AboutUs: WINCHIRO.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BOGLEFUNDS.COM
+&lt;a href=&quot;http://www.aboutus.org/BOGLEFUNDS.COM&quot;&gt;AboutUs: BOGLEFUNDS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Winchester Chiropractic Offices
-   1270 S. Winchester Blvd. Suite 102
-   San Jose, CA 95128-3911
+john c. bogle, jr.
+   36 carisbrooke road
+   wellesley, MA 02481
    US
 
-   Domain Name: WINCHIRO.COM
+   Domain Name: BOGLEFUNDS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,12 +95,12 @@ Winchester Chiropractic Offices
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Williams, D.C. Larry		drlarrydc@earthlink.net
-      Winchester Chiropractic Offices
-      1270 S WINCHESTER BLVD STE 102
-      SAN JOSE, CA 95128-3911
+      bogle, john		jbogle@MEDIAONE.NET
+      john c. bogle, jr.
+      36 CARISBROOKE RD
+      WELLESLEY, MA 02481-1418
       US
-      (408) 296-4222 fax: (408) 296-4279
+      (781) 239-3549 fax: (781) 239-0716
 
    Technical Contact:
       Register.com		domain-registrar@REGISTER.COM
@@ -111,13 +111,13 @@ Winchester Chiropractic Offices
       212-798-9200 fax: 212-629-9305
 
 
-   Record expires on 21-Apr-2013.
-   Record created on 21-Apr-1999.
-   Database last updated on 13-Sep-2011 13:13:51 EDT.
+   Record expires on 04-Apr-2017.
+   Record created on 04-Apr-1999.
+   Database last updated on 13-Sep-2011 13:19:03 EDT.
 
    Domain servers in listed order:
 
-   DNS11.REGISTER.COM
-   DNS12.REGISTER.COM
+   NS1.EZECASTLE.COM
+   NS2.EZECASTLE.COM
 
 

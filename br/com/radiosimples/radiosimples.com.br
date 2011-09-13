@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 14:24:05 (BRT -03:00)
+
+domain:      radiosimples.com.br
+owner:       Incremental Business Propaganda e Publicidade
+ownerid:     009.005.478/0001-89
+responsible: Alphagraf Corporation
+country:     BR
+owner-c:     EDAMO9
+admin-c:     EDAMO9
+tech-c:      EDAMO9
+billing-c:   EDAMO9
+nserver:     dns1.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns2.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns3.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns4.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20100125 #6469464
+expires:     20140125
+changed:     20110331
+status:      published
+
+nic-hdl-br:  EDAMO9
+person:      Eduardo Augusto Molina
+e-mail:      emolina@bol.com.br
+created:     20070615
+changed:     20100324
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
