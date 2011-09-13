@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FRENCHGFS.COM
+   Domain Name: DIRTYDEMOCRATS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBDNSPROVIDER.COM
-   Name Server: NS2.WEBDNSPROVIDER.COM
-   Name Server: NS3.WEBDNSPROVIDER.COM
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 05-jul-2010
-   Expiration Date: 05-jul-2012
+   Updated Date: 18-aug-2011
+   Creation Date: 17-aug-2008
+   Expiration Date: 17-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:51:58 UTC &lt;&lt;&lt;
 
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   CRAKMEDIA LTD
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FRENCHGFS.COM
+   Domain Name: DIRTYDEMOCRATS.COM
 
    Domain servers in listed order:
-      NS1.WEBDNSPROVIDER.COM
-      NS2.WEBDNSPROVIDER.COM
-      NS3.WEBDNSPROVIDER.COM
+      NS25.DOMAINCONTROL.COM
+      NS26.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FRENCHGFS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DIRTYDEMOCRATS.COM
