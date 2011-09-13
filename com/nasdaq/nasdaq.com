@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: NASDAQ.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.NASDAQ.COM
+   Name Server: NS2.NASDAQ.COM
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 19-aug-2011
+   Creation Date: 16-dec-1993
+   Expiration Date: 15-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... nasdaq.com
+  Creation Date........ 1993-12-16
+  Registration Date.... 2010-10-16
+  Expiry Date.......... 2011-12-16
+  Organisation Name.... NASDAQ OMX GROUP INC
+  Organisation Address. 9513 Key West Avenue
+  Organisation Address. 9513 Keywest Ave
+  Organisation Address. Rockville
+  Organisation Address. 20850
+  Organisation Address. MD
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... DNS Admin
+  Admin Address........ 9513 Key West Avenue
+  Admin Address........
+  Admin Address........ Rockville
+  Admin Address........ 20850
+  Admin Address........ MD
+  Admin Address........ UNITED STATES
+  Admin Email.......... nasdaqadmin@nasdaq.com
+  Admin Phone.......... +1.3019788720
+  Admin Fax............ +1.3019782450
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ DNS Admin
+  Tech Address......... 9513 Key West Avenue
+  Tech Address.........
+  Tech Address......... Rockville
+  Tech Address......... 20850
+  Tech Address......... MD
+  Tech Address......... UNITED STATES
+  Tech Email........... nasdaqadmin@nasdaq.com
+  Tech Phone........... +1.3019788720
+  Tech Fax............. +1.3019782450
+  Name Server.......... NS2.NASDAQ.COM
+  Name Server.......... NS1.NASDAQ.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE

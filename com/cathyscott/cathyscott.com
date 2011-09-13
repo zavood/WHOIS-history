@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: CATHYSCOTT.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HAGENHOSTING.COM
+   Name Server: NS2.HAGENHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 06-oct-2010
+   Creation Date: 04-nov-1999
+   Expiration Date: 04-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: cathyscott.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   GripSomeWeb.com
+   Raymond Somers ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   PO Box 912345
+   Chula Vista, CA 91914
+   US
 
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   GripSomeWeb.com
+   Raymond Somers (raymond at gripsomeweb.com)
+   (000) 000-0000
+   Fax:
+   PO Box 912345
+   Chula Vista, CA 91914
+   US
+
+Technical Contact:
+   GripSomeWeb.com
+   Raymond Raymond (raymond at gripsomeweb.com)
+   (000) 000-0000
+   Fax:
+   PO Box 912345
+   Chula Vista, CA 91914
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.HAGENHOSTING.COM
+   NS2.HAGENHOSTING.COM
+
+Creation date: 04 Nov 1999 17:45:18
+Expiration date: 04 Nov 2011 16:45:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

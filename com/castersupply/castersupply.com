@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
+   Domain Name: CASTERSUPPLY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS69.DOMAINCONTROL.COM
+   Name Server: NS70.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 18-apr-2011
+   Creation Date: 10-feb-1999
+   Expiration Date: 10-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:17:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: californiasteel.com
+Whois Query: castersupply.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
+Date and Time of Query: Mon Sep 12 22:07:44 EDT 2011
 Reason Code: IE

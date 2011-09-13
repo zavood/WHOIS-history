@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:17:18 (BRT -03:00)
+
+domain:      casasfernandes.com.br
+owner:       Casa Fortaleza Comercio de Tecidos Ltda
+ownerid:     061.277.489/0001-38
+responsible: Fabiano Al Makul
+country:     BR
+owner-c:     FAAMA10
+admin-c:     FAAMA10
+tech-c:      FAAMA10
+billing-c:   FAAMA10
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     19980827 #113653
+expires:     20140827
+changed:     20110908
+status:      published
+
+nic-hdl-br:  FAAMA10
+person:      Fabiano Al Makul
+e-mail:      cavalaro@casafortaleza.com.br
+created:     20070903
+changed:     20090305
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

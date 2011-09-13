@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: CHEMINDECOMPOSTELLE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.UNIMEDIA.FR
+   Name Server: NS2.UNIMEDIA.FR
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Status: clientUpdateProhibited
+   Updated Date: 16-may-2011
+   Creation Date: 22-may-2001
+   Expiration Date: 22-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: ATWOLA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS-01.NS.AOL.COM
+   Name Server: DNS-02.NS.AOL.COM
+   Name Server: DNS-06.NS.AOL.COM
+   Name Server: DNS-07.NS.AOL.COM
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 02-sep-2011
+   Creation Date: 29-oct-2001
+   Expiration Date: 29-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... atwola.com
+  Creation Date........ 2001-10-30
+  Registration Date.... 2009-10-03
+  Expiry Date.......... 2012-10-30
+  Organisation Name.... AOL Inc.
+  Organisation Address. 22000 AOL Way
+  Organisation Address.
+  Organisation Address. Dulles
+  Organisation Address. 20166
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Domain Admin
+  Admin Address........ AOL Inc.
+  Admin Address........ 22000 AOL Way
+  Admin Address........ Dulles
+  Admin Address........ 20166
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain-adm@corp.aol.com
+  Admin Phone.......... +1.7032654670
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Domain Admin
+  Tech Address......... AOL Inc.
+  Tech Address......... 22000 AOL Way
+  Tech Address......... Dulles
+  Tech Address......... 20166
+  Tech Address......... VA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain-adm@corp.aol.com
+  Tech Phone........... +1.7032654670
+  Tech Fax.............
+  Name Server.......... DNS-02.NS.AOL.COM
+  Name Server.......... DNS-01.NS.AOL.COM
+  Name Server.......... DNS-07.NS.AOL.COM
+  Name Server.......... DNS-06.NS.AOL.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE

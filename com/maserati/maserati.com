@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: MASERATI.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS3.BARBERO.CO.UK
+   Name Server: NS4.BARBERO.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 11-jul-2011
+   Creation Date: 03-jun-1997
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Maserati S.p.A. (MASERATI278)
+  Viale Menotti 322
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Modena, MO, 41121
+  IT
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: maserati.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  BARBERO &amp;, Associates Ltd (AB5278)
+  BARBERO &amp; Associates Ltd
+  18 Cornwall Gardens Apt 5
 
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE
+  London, SW7 4AW
+  GB
+  domains@barbero.co.uk
+  +44.7803050843 Fax: +44.7803053768
+
+Administrative contact:
+  Giraldi, Luca (LG3089)
+  Maserati S.p.A.
+  Viale Menotti 322
+
+  Modena, MO, 41121
+  IT
+  admin-c@maserati.it
+  +39.059590688 Fax: +39.0598663823
+
+Record created:           2011-02-23 12:22:19
+Record last updated:      2011-07-11 13:57:40
+Record expires:           2012-06-02 00:00:00
+
+Domain servers in listed order:
+  ns3.barbero.co.uk (NSBARBER715)
+  ns4.barbero.co.uk (NSBARBER716)

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CALIFORNIASTEEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: CHABADMED.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS1.CHABADONLINE.COM
+   Name Server: NS2.CHABADONLINE.COM
    Status: clientTransferProhibited
-   Updated Date: 05-apr-2011
-   Creation Date: 26-feb-1997
-   Expiration Date: 27-feb-2017
+   Updated Date: 10-jan-2011
+   Creation Date: 18-jan-2006
+   Expiration Date: 18-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:16:41 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+    Chabad of the Medical Community
+    Shneur Zalman Teitelbaum
+    1195 Van Nest Avenue
+    Bronx, NY 10461
+    US
+    +1.7188870770
+    e5de1771ec0fb5c7fcf9bd7ece3687c08bc5aff7@whois.gkg.net
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+    Chabad Lubavitch Media Center
+    Moshe Berghoff
+    770 Eastern Parkway
+    Brooklyn, NY 11213
+    US
+    +1.7187352000 (FAX) +1.7189535591
+    77da56938074f596243f8238e259b49b04f21606@whois.gkg.net
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+    Chabad Lubavitch Media Center
+    Moshe Berghoff
+    770 Eastern Parkway
+    Brooklyn, NY 11213
+    US
+    +1.7187352000 (FAX) +1.7189535591
+    77da56938074f596243f8238e259b49b04f21606@whois.gkg.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Contact
+    Chabad Lubavitch Media Center
+    Moshe Berghoff
+    770 Eastern Parkway
+    Brooklyn, NY 11213
+    US
+    +1.7187352000 (FAX) +1.7189535591
+    77da56938074f596243f8238e259b49b04f21606@whois.gkg.net
 
-Whois Query: californiasteel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:07:32 EDT 2011
-Reason Code: IE
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: CHABADMED.COM
+	Created on..............: 18-JAN-2006
+	Expires on..............: 18-JAN-2012
+	Record last updated on..: 10-JAN-2011
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS1.CHABADONLINE.COM
+    NS2.CHABADONLINE.COM
