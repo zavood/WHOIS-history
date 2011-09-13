@@ -5,38 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YAHOO.COM.ZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YAHOO.COM.ZZZZZZ.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YAHOO.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-YAHOO.COM.VN
-YAHOO.COM.VIRGINCHASSIS.COM
-YAHOO.COM.TWIXTEARS.COM
-YAHOO.COM.TW
-YAHOO.COM.SINGERPAT.COM
-YAHOO.COM.SG
-YAHOO.COM.MX
-YAHOO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.JTNELECTRIC.COM
-YAHOO.COM.IS.N0T.AS.1337.AS.SEARCH.GULLI.COM
-YAHOO.COM.HK
-YAHOO.COM.ELPOV.COM
-YAHOO.COM.EATINGFORJOY.NET
-YAHOO.COM.DUVALMANIA.COM
-YAHOO.COM.DALLARIVA.COM
-YAHOO.COM.CN
-YAHOO.COM.CHRISIMAMURAPHOTOWORKS.COM
-YAHOO.COM.BR
-YAHOO.COM.BGPETERSON.COM
-YAHOO.COM.AU
-YAHOO.COM.ACCUTAXSERVICES.COM
-YAHOO.COM
+   Domain Name: KITCHENSIMPLICITY.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: LUCY.NS.CLOUDFLARE.COM
+   Name Server: RAY.NS.CLOUDFLARE.COM
+   Status: ok
+   Updated Date: 21-aug-2011
+   Creation Date: 23-aug-2009
+   Expiration Date: 23-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:14:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:13:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

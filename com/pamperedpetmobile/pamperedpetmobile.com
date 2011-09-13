@@ -5,36 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YAHOO.COM.ZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YAHOO.COM.ZZZZZZ.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YAHOO.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-YAHOO.COM.VN
-YAHOO.COM.VIRGINCHASSIS.COM
-YAHOO.COM.TWIXTEARS.COM
-YAHOO.COM.TW
-YAHOO.COM.SINGERPAT.COM
-YAHOO.COM.SG
-YAHOO.COM.MX
-YAHOO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.JTNELECTRIC.COM
-YAHOO.COM.IS.N0T.AS.1337.AS.SEARCH.GULLI.COM
-YAHOO.COM.HK
-YAHOO.COM.ELPOV.COM
-YAHOO.COM.EATINGFORJOY.NET
-YAHOO.COM.DUVALMANIA.COM
-YAHOO.COM.DALLARIVA.COM
-YAHOO.COM.CN
-YAHOO.COM.CHRISIMAMURAPHOTOWORKS.COM
-YAHOO.COM.BR
-YAHOO.COM.BGPETERSON.COM
-YAHOO.COM.AU
-YAHOO.COM.ACCUTAXSERVICES.COM
-YAHOO.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: PAMPEREDPETMOBILE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.URBANVERVE.COM
+   Name Server: NS2.URBANVERVE.COM
+   Status: ok
+   Updated Date: 21-dec-2010
+   Creation Date: 10-jan-2008
+   Expiration Date: 10-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:14:39 UTC &lt;&lt;&lt;
 
@@ -71,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... pamperedpetmobile.com
+  Creation Date........ 2008-01-11
+  Registration Date.... 2008-01-11
+  Expiry Date.......... 2012-01-11
+  Organisation Name.... harold davenport
+  Organisation Address. 18255 Colgate St.
+  Organisation Address.
+  Organisation Address. Dearborn Heights
+  Organisation Address. 48125
+  Organisation Address. MI
+  Organisation Address. UNITED STATES
+
+Admin Name........... harold davenport
+  Admin Address........ 18255 Colgate St.
+  Admin Address........
+  Admin Address........ Dearborn Heights
+  Admin Address........ 48125
+  Admin Address........ MI
+  Admin Address........ UNITED STATES
+  Admin Email.......... akita7334@yahoo.com
+  Admin Phone.......... +1.8665859471
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns1.urbanverve.com
+  Name Server.......... ns2.urbanverve.com
+
+

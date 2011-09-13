@@ -5,38 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YAHOO.COM.ZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YAHOO.COM.ZZZZZZ.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YAHOO.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-YAHOO.COM.VN
-YAHOO.COM.VIRGINCHASSIS.COM
-YAHOO.COM.TWIXTEARS.COM
-YAHOO.COM.TW
-YAHOO.COM.SINGERPAT.COM
-YAHOO.COM.SG
-YAHOO.COM.MX
-YAHOO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.JTNELECTRIC.COM
-YAHOO.COM.IS.N0T.AS.1337.AS.SEARCH.GULLI.COM
-YAHOO.COM.HK
-YAHOO.COM.ELPOV.COM
-YAHOO.COM.EATINGFORJOY.NET
-YAHOO.COM.DUVALMANIA.COM
-YAHOO.COM.DALLARIVA.COM
-YAHOO.COM.CN
-YAHOO.COM.CHRISIMAMURAPHOTOWORKS.COM
-YAHOO.COM.BR
-YAHOO.COM.BGPETERSON.COM
-YAHOO.COM.AU
-YAHOO.COM.ACCUTAXSERVICES.COM
-YAHOO.COM
+   Domain Name: MARINERHOSTING.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.MARINERHOSTING.COM
+   Name Server: NS2.MARINERHOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 11-jan-2011
+   Creation Date: 17-jan-2003
+   Expiration Date: 17-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:14:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:15:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,3 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Sandy Hellard shellard@eastlink.ca 902-634-3379
+	 Gallagher-Hellard
+	 Box 1322
+	 Lunenburg,NS,CA B0J 2C0
+
+
+Domain Name:marinerhosting.com
+Record last updated at 2011-01-11 16:10:32
+Record created on 2003/1/18
+Record expired on 2012/1/18
+
+
+Domain servers in listed order:
+	 ns1.marinerhosting.com 	 ns2.marinerhosting.com
+
+Administrator:
+	 Name-- Sandy Hellard
+ EMail-: (shellard@eastlink.ca)
+ tel --: 902-634-3379
+	 org: Gallagher-Hellard
+	 Box 1322
+	 Lunenburg,NS,CANADA B0J 2C0
+
+Technical Contactor:
+	 Name-- Sandy Hellard
+ EMail-: (shellard@eastlink.ca)
+ tel --: 902-634-3379
+	 org: Gallagher-Hellard
+	 Box 1322
+	 Lunenburg,NS,CANADA B0J 2C0
+
+Billing Contactor:
+	 Name-- Sandy Hellard
+ EMail-: (shellard@eastlink.ca)
+ tel --: 902-634-3379
+	 org: Gallagher-Hellard
+	 Box 1322
+	 Lunenburg,NS,CANADA B0J 2C0
+
+
+Registration Service Provider:
+	name: Telligent Corporation
+	tel: +1.4033132032
+ 	fax: +1.4034511509
+ 	web:http://www.geohost.ca

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 20-jun-2006
    Expiration Date: 20-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 12:38:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:15:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    racksys
-   1227 w. 9th st
-   tempe, Arizona 85281
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SNXD.COM
-      Created on: 20-Jun-06
-      Expires on: 20-Jun-19
-      Last Updated on: 07-Apr-10
-
-   Administrative Contact:
-      Buonincontri, Rick  domains@racksys.com
-      racksys
-      1227 w. 9th st
-      tempe, Arizona 85281
-      United States
-      (602) 850-3268      Fax -- (480) 377-1460
-
-   Technical Contact:
-      Buonincontri, Rick  domains@racksys.com
-      racksys
-      1227 w. 9th st
-      tempe, Arizona 85281
-      United States
-      (602) 850-3268      Fax -- (480) 377-1460
 
    Domain servers in listed order:
       NS1.SNXD.COM
       NS2.SNXD.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SNXD.COM
