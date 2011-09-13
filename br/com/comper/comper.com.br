@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 14:07:15 (BRT -03:00)
+
+domain:      comper.com.br
+owner:       COMERCIAL PEREIRA DE ALIMENTOS LTDA
+ownerid:     033.084.526/0008-22
+responsible: Alfredo Garcia Lopes
+country:     BR
+owner-c:     RAA111
+admin-c:     RAA111
+tech-c:      RAA111
+billing-c:   RAA111
+nserver:     aquila.bateforte.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     moroni.bateforte.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19970501 #38296
+expires:     20130501
+changed:     20101004
+status:      published
+
+nic-hdl-br:  RAA111
+person:      Alfredo Garcia Lopes
+e-mail:      alfredo@bateforte.com.br
+created:     20000821
+changed:     20070528
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
