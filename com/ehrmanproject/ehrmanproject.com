@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEHOUSEOFAURA.COM
+   Domain Name: EHRMANPROJECT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS53.DOMAINCONTROL.COM
-   Name Server: NS54.DOMAINCONTROL.COM
+   Name Server: NS01.BUSINESSCATALYST.COM
+   Name Server: NS02.BUSINESSCATALYST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-feb-2011
-   Creation Date: 18-apr-2009
-   Expiration Date: 18-apr-2012
+   Updated Date: 06-mar-2011
+   Creation Date: 05-mar-2009
+   Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:27:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:28:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   DOMINIQ GUARDIAN FIRM LLC
+   The Media District
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEHOUSEOFAURA.COM
+   Domain Name: EHRMANPROJECT.COM
 
    Domain servers in listed order:
-      NS53.DOMAINCONTROL.COM
-      NS54.DOMAINCONTROL.COM
+      NS01.BUSINESSCATALYST.COM
+      NS02.BUSINESSCATALYST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEHOUSEOFAURA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EHRMANPROJECT.COM
