@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:22:19 (BRT -03:00)
+
+domain:      zevallos.com.br
+owner:       S&amp;M Consultoria em Informatica Ltda
+ownerid:     026.691.683/0001-64
+responsible: Fl&aacute;vio de Sousa
+country:     BR
+owner-c:     FLS4
+admin-c:     RZJ
+tech-c:      RZJ
+billing-c:   RZJ
+nserver:     ns1-auth.rollernet.us
+nsstat:      20110908 AA
+nslastaa:    20110908
+nserver:     ns2-auth.rollernet.us
+nsstat:      20110908 AA
+nslastaa:    20110908
+created:     19960823 #14714
+expires:     20120823
+changed:     20110510
+status:      published
+
+nic-hdl-br:  FLS4
+person:      Flavio de Sousa
+e-mail:      flaviodesousa@pobox.com
+created:     19971221
+changed:     20090620
+
+nic-hdl-br:  RZJ
+person:      Ruben Zevallos Lascano Jr.
+e-mail:      zevallos@zevallos.com.br
+created:     19971221
+changed:     20110809
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

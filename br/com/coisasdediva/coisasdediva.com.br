@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:21:59 (BRT -03:00)
+
+domain:      coisasdediva.com.br
+owner:       Sabrina Olivetti
+ownerid:     021.972.229-37
+country:     BR
+owner-c:     SAO50
+admin-c:     SAO50
+tech-c:      SAO50
+billing-c:   SAO50
+nserver:     ns1.portofacil.net
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.portofacil.net
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20090909 #5978716
+expires:     20160909
+changed:     20110811
+status:      published
+
+nic-hdl-br:  SAO50
+person:      Sabrina Olivetti
+e-mail:      saolivetti@gmail.com
+created:     20030225
+changed:     20101107
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D56981-LROR
+Domain Name:USENIX.ORG
+Created On:14-Jul-1987 04:00:00 UTC
+Last Updated On:02-Jul-2009 18:30:14 UTC
+Expiration Date:13-Jul-2014 04:00:00 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-37550
+Registrant Name:NA
+Registrant Organization:Usenix Association
+Registrant Street1:2590 Ninth Street #215
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berkeley
+Registrant State/Province:
+Registrant Postal Code:CA 94710
+Registrant Country:US
+Registrant Phone:+49.1234578
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@usenix.org
+Admin ID:CORG-93389
+Admin Name:Tony Del Porto
+Admin Organization:USENIX Association
+Admin Street1:2560 9th Street Suite 215
+Admin Street2:
+Admin Street3:
+Admin City:Berkeley
+Admin State/Province:--
+Admin Postal Code:94710
+Admin Country:US
+Admin Phone:+1.5105288649
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@usenix.org
+Tech ID:CORG-93389
+Tech Name:Tony Del Porto
+Tech Organization:USENIX Association
+Tech Street1:2560 9th Street Suite 215
+Tech Street2:
+Tech Street3:
+Tech City:Berkeley
+Tech State/Province:--
+Tech Postal Code:94710
+Tech Country:US
+Tech Phone:+1.5105288649
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@usenix.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:NS.USENIX.ORG
+Name Server:NS2.USENIX.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

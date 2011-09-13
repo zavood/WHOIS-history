@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150521452-LROR
+Domain Name:JFUSION.ORG
+Created On:01-Jan-2008 19:46:49 UTC
+Last Updated On:02-Oct-2009 03:05:00 UTC
+Expiration Date:01-Jan-2012 19:46:49 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:dd5f327c16afe963
+Registrant Name:Marius  Van Rijnsoever
+Registrant Organization:JFusion
+Registrant Street1:38 Henry St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fremantle
+Registrant State/Province:WA
+Registrant Postal Code:6160
+Registrant Country:AU
+Registrant Phone:+1.0421179858
+Registrant Phone Ext.:
+Registrant FAX:+1.0421179858
+Registrant FAX Ext.:
+Registrant Email:webmaster@jfusion.org
+Admin ID:dd5f327c16afe963
+Admin Name:Marius  Van Rijnsoever
+Admin Organization:JFusion
+Admin Street1:38 Henry St
+Admin Street2:
+Admin Street3:
+Admin City:Fremantle
+Admin State/Province:WA
+Admin Postal Code:6160
+Admin Country:AU
+Admin Phone:+1.0421179858
+Admin Phone Ext.:
+Admin FAX:+1.0421179858
+Admin FAX Ext.:
+Admin Email:webmaster@jfusion.org
+Tech ID:dd5f327c16afe963
+Tech Name:Marius  Van Rijnsoever
+Tech Organization:JFusion
+Tech Street1:38 Henry St
+Tech Street2:
+Tech Street3:
+Tech City:Fremantle
+Tech State/Province:WA
+Tech Postal Code:6160
+Tech Country:AU
+Tech Phone:+1.0421179858
+Tech Phone Ext.:
+Tech FAX:+1.0421179858
+Tech FAX Ext.:
+Tech Email:webmaster@jfusion.org
+Name Server:NS1.SLICEHOST.NET
+Name Server:NS2.SLICEHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
