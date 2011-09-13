@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.CLOUDFLARE.COM
-   Name Server: DNS3.CLOUDFLARE.COM
+   Domain Name: SAFARILIVING.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: BNE001N.SERVER-DNS.COM
+   Name Server: SJC001N.SERVER-DNS-US.COM
+   Name Server: WIC001N.SERVER-DNS.COM.AU
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2015
+   Updated Date: 08-sep-2010
+   Creation Date: 27-nov-2001
+   Expiration Date: 27-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:44:05 UTC &lt;&lt;&lt;
 
@@ -51,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... safariliving.com
+  Creation Date........ 2001-11-28
+  Registration Date.... 2001-11-28
+  Expiry Date.......... 2011-11-28
+  Organisation Name.... Rulikoski Pty. Ltd.
+  Organisation Address. 579 High Street
+  Organisation Address.
+  Organisation Address. Prahran East
+  Organisation Address. 3181
+  Organisation Address. Victoria
+  Organisation Address. AUSTRALIA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Felicity Rulikowski
+  Admin Address........ 579
+  Admin Address........ High Street
+  Admin Address........ Prahran East
+  Admin Address........ 3181
+  Admin Address........ Victoria
+  Admin Address........ AUSTRALIA
+  Admin Email.......... flickr@ozemail.com.au
+  Admin Phone.......... +613.95104500
+  Admin Fax............ +613.9510 0527
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Domain Administration
+  Tech Address......... PO Box 930
+  Tech Address.........
+  Tech Address......... Fortitude Valley
+  Tech Address......... 4006
+  Tech Address......... QLD
+  Tech Address......... AUSTRALIA
+  Tech Email........... domainadmin@server-dns.com
+  Tech Phone........... +617.32492500
+  Tech Fax............. +617.32492533
+  Name Server.......... bne001n.server-dns.com
+  Name Server.......... wic001n.server-dns.com.au
+  Name Server.......... sjc001n.server-dns-us.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cloudflare.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:34:15 EDT 2011
-Reason Code: IE

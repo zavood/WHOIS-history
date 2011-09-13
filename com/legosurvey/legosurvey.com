@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.CLOUDFLARE.COM
-   Name Server: DNS3.CLOUDFLARE.COM
-   Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2015
+   Domain Name: LEGOSURVEY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.DOMAINNETWORK.SE
+   Name Server: NS2.DOMAINNETWORK.SE
+   Name Server: NS3.DOMAINNETWORK.COM
+   Status: ok
+   Updated Date: 04-nov-2010
+   Creation Date: 08-dec-2009
+   Expiration Date: 08-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:44:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:45:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... legosurvey.com
+  Creation Date........ 2009-12-08
+  Registration Date.... 2009-12-08
+  Expiry Date.......... 2011-12-08
+  Organisation Name.... LEGO Juris A/S
+  Organisation Address. Koldingvej 2
+  Organisation Address.
+  Organisation Address. Billund
+  Organisation Address. DK-7190
+  Organisation Address. -
+  Organisation Address. DENMARK
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Domain Administrator
+  Admin Address........ Koldingvej 2
+  Admin Address........
+  Admin Address........ Billund
+  Admin Address........ DK-7190
+  Admin Address........ -
+  Admin Address........ DENMARK
+  Admin Email.......... domain.admin@lego.com
+  Admin Phone.......... 45.79506070
+  Admin Fax............ 45.75338853
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ CBS Registry
+  Tech Address......... Box 3396
+  Tech Address.........
+  Tech Address......... Stockholm
+  Tech Address......... SE-103 68
+  Tech Address......... -
+  Tech Address......... SWEDEN
+  Tech Email........... registry@melbourneitcbs.com
+  Tech Phone........... 46.855340200
+  Tech Fax............. 46.855340201
+  Name Server.......... ns.domainnetwork.se
+  Name Server.......... ns2.domainnetwork.se
+  Name Server.......... ns3.domainnetwork.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cloudflare.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:34:15 EDT 2011
-Reason Code: IE

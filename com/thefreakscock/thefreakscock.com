@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.CLOUDFLARE.COM
-   Name Server: DNS3.CLOUDFLARE.COM
+   Domain Name: THEFREAKSCOCK.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.ISPRIME.COM
+   Name Server: NS2.ISPRIME.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2015
+   Updated Date: 08-mar-2011
+   Creation Date: 10-mar-2008
+   Expiration Date: 10-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:44:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:43:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about thefreakscock.com
+&lt;a href=&quot;http://www.aboutus.org/thefreakscock.com&quot;&gt;AboutUs: thefreakscock.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: thefreakscock.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   none
+   Adrian Danila ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   Principala,89
+   Feldru, BI 427080
+   RO
 
-Whois Query: cloudflare.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 21:34:15 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   none
+   Adrian Danila (dreams3dfx@yahoo.com)
+   +40.723024141
+   Fax: +40.723024141
+   Principala,89
+   Feldru, BI 427080
+   RO
+
+Technical Contact:
+   none
+   Adrian Danila (dreams3dfx@yahoo.com)
+   +40.723024141
+   Fax: +40.723024141
+   Principala,89
+   Feldru, BI 427080
+   RO
+
+Status: Locked
+
+Name Servers:
+   ns.isprime.com
+   ns2.isprime.com
+
+Creation date: 10 Mar 2008 19:37:31
+Expiration date: 10 Mar 2012 20:37:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
