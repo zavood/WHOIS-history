@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149164056-LROR
+Domain Name:AMICSDELMNAC.ORG
+Created On:18-Sep-2007 12:34:47 UTC
+Last Updated On:06-Sep-2011 16:57:31 UTC
+Expiration Date:18-Sep-2011 12:34:47 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1190118140656
+Registrant Name:Fundacio Privada Amics del MNAC
+Registrant Organization:NULL
+Registrant Street1:Palau Nacional - Parc de Montjuic
+Registrant Street2:
+Registrant Street3:
+Registrant City:Barcelona
+Registrant State/Province:Barcelona
+Registrant Postal Code:08038
+Registrant Country:ES
+Registrant Phone:+34.936220360
+Registrant Phone Ext.:
+Registrant FAX:+34.934235922
+Registrant FAX Ext.:
+Registrant Email:amics@mnac.cat
+Admin ID:ARS1190118873984
+Admin Name:Fundacio Privada Amics del MNAC
+Admin Organization:NULL
+Admin Street1:Palau Nacional - Parc de Montjuic
+Admin Street2:
+Admin Street3:
+Admin City:Barcelona
+Admin State/Province:Barcelona
+Admin Postal Code:08038
+Admin Country:ES
+Admin Phone:+34.936220360
+Admin Phone Ext.:
+Admin FAX:+34.934235922
+Admin FAX Ext.:
+Admin Email:amics@mnac.cat
+Tech ID:ARS1190118144359
+Tech Name:Fundacio Privada Amics del MNAC
+Tech Organization:NULL
+Tech Street1:Palau Nacional - Parc de Montjuic
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08038
+Tech Country:ES
+Tech Phone:+34.936220360
+Tech Phone Ext.:
+Tech FAX:+34.934235922
+Tech FAX Ext.:
+Tech Email:amics@mnac.cat
+Name Server:NS1.DREAMHOST.COM
+Name Server:NS2.DREAMHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

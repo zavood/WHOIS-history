@@ -1,0 +1,29 @@
+Nome de dom&iacute;nio / Domain Name: dre.pt
+Data de registo / Creation Date (dd/mm/yyyy): 12/07/2002
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 02/11/2014
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Imprensa Nacional - Casa da Moeda S.A.
+   Avenida Ant&oacute;nio Jos&eacute; de Almeida
+   Lisboa
+   1000-042 Lisboa
+   Email: dns@incm.pt
+
+Entidade Gestora / Billing Contact
+   Imprensa Nacional - Casa da Moeda S.A.
+   Email: dns@incm.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   Imprensa Nacional - Casa da Moeda S.A.
+   Email: dns@incm.pt
+
+Nameserver Information
+   Nameserver: dre.pt	NS	b.ns.dre.pt.
+   Nameserver: dre.pt	NS	d.ns.dre.pt.
+   Nameserver: dre.pt	NS	a.ns.dre.pt.
+   Nameserver: dre.pt	NS	c.ns.dre.pt.
+   Nameserver: b.ns.dre.pt.	A	193.17.0.11
+   Nameserver: d.ns.dre.pt.	A	194.65.3.21
+   Nameserver: a.ns.dre.pt.	A	193.17.0.10
+   Nameserver: c.ns.dre.pt.	A	212.74.78.40

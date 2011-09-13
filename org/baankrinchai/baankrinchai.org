@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156859261-LROR
+Domain Name:BAANKRINCHAI.ORG
+Created On:12-Aug-2009 08:38:38 UTC
+Last Updated On:15-Jul-2011 05:48:20 UTC
+Expiration Date:12-Aug-2012 08:38:38 UTC
+Sponsoring Registrar:DotArai Co., Ltd. (R1703-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-dotarai_2557
+Registrant Name:Pattamawadee Phuaphromyod
+Registrant Organization:Do ideal Co., Ltd.
+Registrant Street1:385/222
+Registrant Street2:Tachavanich Road
+Registrant Street3:
+Registrant City:Bangsue
+Registrant State/Province:Bangkok
+Registrant Postal Code:10800
+Registrant Country:TH
+Registrant Phone:+66.29105790
+Registrant Phone Ext.:
+Registrant FAX:+66.29105790
+Registrant FAX Ext.:
+Registrant Email:pattamawadee@yahoo.com
+Admin ID:O-dotarai_2558
+Admin Name:Pattamawadee Phuaphromyod
+Admin Organization:Do ideal Co., Ltd.
+Admin Street1:385/222
+Admin Street2:Tachavanich Road
+Admin Street3:
+Admin City:Bangsue
+Admin State/Province:Bangkok
+Admin Postal Code:10800
+Admin Country:TH
+Admin Phone:+66.29105790
+Admin Phone Ext.:
+Admin FAX:+66.29105790
+Admin FAX Ext.:
+Admin Email:pattamawadee@yahoo.com
+Tech ID:O-dotarai_2559
+Tech Name:Pattamawadee Phuaphromyod
+Tech Organization:Do ideal Co., Ltd.
+Tech Street1:385/222
+Tech Street2:Tachavanich Road
+Tech Street3:
+Tech City:Bangsue
+Tech State/Province:Bangkok
+Tech Postal Code:10800
+Tech Country:TH
+Tech Phone:+66.29105790
+Tech Phone Ext.:
+Tech FAX:+66.29105790
+Tech FAX Ext.:
+Tech Email:pattamawadee@yahoo.com
+Name Server:NS1.DOTARAI.COM
+Name Server:NS2.DOTARAI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

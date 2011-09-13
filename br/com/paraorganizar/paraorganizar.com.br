@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:10:50 (BRT -03:00)
+
+domain:      paraorganizar.com.br
+owner:       Allan Albuquerque
+ownerid:     284.341.698-19
+country:     BR
+owner-c:     ALABA2
+admin-c:     ALABA2
+tech-c:      ALABA2
+billing-c:   ALABA2
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+saci:        yes
+created:     20110518 #8302456
+expires:     20120518
+changed:     20110526
+status:      published
+
+nic-hdl-br:  ALABA2
+person:      Allan de Albuquerque Basso
+e-mail:      allbuquerque@gmail.com
+created:     20060707
+changed:     20100612
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

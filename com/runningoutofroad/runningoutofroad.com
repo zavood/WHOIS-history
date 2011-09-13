@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BETFAIR.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2011
-   Creation Date: 15-mar-2000
-   Expiration Date: 15-mar-2014
+   Domain Name: RUNNINGOUTOFROAD.COM
+   Registrar: NETTUNER CORP. DBA WEBMASTERS.COM
+   Whois Server: whois.webmasters.com
+   Referral URL: http://www.webmasters.com
+   Name Server: NS100.WEBMASTERS.COM
+   Name Server: NS103.WEBMASTERS.COM
+   Status: ok
+   Updated Date: 20-jun-2011
+   Creation Date: 19-jun-2006
+   Expiration Date: 19-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:10:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:10:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,57 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+NOTICE AND TERMS OF USE: The data in WEBMASTERS.COM's WHOIS database is provided for
+information purposes only, and its accuracy is not guaranteed. By submitting a WHOIS
+query, you agree to abide by the following terms of use: You agree that you may use this
+Data only for lawful purposes and that under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail, telephone, or fax; or (2) enable high volume,
+automated, electronic processes for the purpose of re-transmitting the WHOIS data.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-  Betfair Ltd (BETFA43417)
-  Waterfront, Hammersmith Embankment
-  Winslow Road
-  London, London, W6 9HP
-  GB
+   Glass Eye Pix
+   172 E 4th St  5F
+   New York, NY 10009
+   US
 
-  Domain name: betfair.com
+   Domain Name: RUNNINGOUTOFROAD.COM
 
-Technical contact:
-  Administrator, Domain (DA011971)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
+   Administrative Contact:
+      James McKenney   glasseyepix@yahoo.com
+      Glass Eye Pix
+      172 E 4th St  5F
+      New York, NY 10009
+      US
+      +1.2122535733 (FAX)
 
-Administrative contact:
-  Administrator, Domain (DA2275775)
-  Betfair Ltd
-  Waterfront, Hammersmith Embankment
-  Winslow Road
-  London, London, W6 9HP
-  GB
-  domainadmin@betfair.com
-  +44.2088348422 Fax:
+   Technical Contact:
+      James McKenney   glasseyepix@yahoo.com
+      Glass Eye Pix
+      172 E 4th St  5F
+      New York, NY 10009
+      US
+      +1.2122535733 (FAX)
 
-Record created:           2011-02-13 13:39:44
-Record last updated:      2011-09-04 21:42:41
-Record expires:           2014-03-15 00:00:00
+   Billing Contact:
+      James McKenney   glasseyepix@yahoo.com
+      Glass Eye Pix
+      172 E 4th St  5F
+      New York, NY 10009
+      US
+      +1.2122535733 (FAX)
 
-Domain servers in listed order:
-  udns1.ultradns.net (UDNSULTR969)
-  udns2.ultradns.net (UDNSULTR569)
+   Record created on 19-Jun-2006
+   Record expires on 19-Jun-2011
+   Record updated on 19-Jun-2006 00:00:00 EST
+   Database last updated on 12-Sep-2011 22:11:08 EST
+
+   Domain servers in listed order:
+
+   ns103.webmasters.com     208.64.136.71
+   ns100.webmasters.com     208.64.136.51
+
+-----------------------------------------------------------------------------
+Get a free domain name with hosting at WEBMASTERS.COM for only $9.95 a month!
+-----------------------------------------------------------------------------

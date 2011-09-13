@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BETFAIR.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-sep-2011
-   Creation Date: 15-mar-2000
-   Expiration Date: 15-mar-2014
+   Domain Name: BANZHENG0541.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.GOMYDNS.COM
+   Name Server: NS2.GOMYDNS.COM
+   Status: ok
+   Updated Date: 12-dec-2010
+   Creation Date: 12-dec-2010
+   Expiration Date: 12-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:10:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:11:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,57 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+Registrar: JOZ.CN,INC.
+Registrar's Website : http://www.joz.cn/
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Betfair Ltd (BETFA43417)
-  Waterfront, Hammersmith Embankment
-  Winslow Road
-  London, London, W6 9HP
-  GB
+Domain banzheng0541.com
 
-  Domain name: betfair.com
+Date Registered: 2010-12-12
+Date Modified: 2010-12-12
+Expiry Date: 2011-12-13
 
-Technical contact:
-  Administrator, Domain (DA011971)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
+DNS1: ns1.gomydns.com
+DNS2: ns2.gomydns.com
 
-Administrative contact:
-  Administrator, Domain (DA2275775)
-  Betfair Ltd
-  Waterfront, Hammersmith Embankment
-  Winslow Road
-  London, London, W6 9HP
-  GB
-  domainadmin@betfair.com
-  +44.2088348422 Fax:
+Registrant
+    guo hua
+    guo hua  45061843 (at) qq dot com
+    Pulandian city. 4-3-36 son 505
+    116200 pu lan dian
+    China
+    Tel: +86.41181721738
 
-Record created:           2011-02-13 13:39:44
-Record last updated:      2011-09-04 21:42:41
-Record expires:           2014-03-15 00:00:00
+Administrative Contact
+    guo hua
+    guo hua  45061843 (at) qq dot com
+    Pulandian city. 4-3-36 son 505
+    116200 pu lan dian
+    China
+    Tel: +86.41181721738
 
-Domain servers in listed order:
-  udns1.ultradns.net (UDNSULTR969)
-  udns2.ultradns.net (UDNSULTR569)
+Technical Contact
+    guo hua
+    guo hua  45061843 (at) qq dot com
+    Pulandian city. 4-3-36 son 505
+    116200 pu lan dian
+    China
+    Tel: +86.41181721738
+
+Registration Service Provider:
+    JOZ.CN,INC., kf@joz.cn
+    +86(755) 8399-6001
+    +86(755) 8399-6385 (fax)
+    http://www.joz.cn
+    Please visit http://www.Joz.cn for support with domain name logins and passwords,
+    DNS and Name Server changes,renewals and general inquiries.
