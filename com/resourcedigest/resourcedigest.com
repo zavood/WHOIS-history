@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SYSTEMINPLACE.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.SYSTEMINPLACE.NET
-   Name Server: DNS2.SYSTEMINPLACE.NET
-   Name Server: DNS3.SYSTEMINPLACE.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: RESOURCEDIGEST.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS.VISI.COM
+   Name Server: NS2.VISI.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-jan-2011
-   Creation Date: 10-mar-2004
-   Expiration Date: 10-mar-2012
+   Updated Date: 26-jul-2011
+   Creation Date: 23-aug-2006
+   Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-   SystemInPlace
+http://www.networksolutions.com/whois/index.jhtml
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SYSTEMINPLACE.NET
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Domain servers in listed order:
-      DNS1.SYSTEMINPLACE.NET
-      DNS2.SYSTEMINPLACE.NET
-      DNS3.SYSTEMINPLACE.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SYSTEMINPLACE.NET
+Whois Query: resourcedigest.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 14:12:55 EDT 2011
+Reason Code: IE

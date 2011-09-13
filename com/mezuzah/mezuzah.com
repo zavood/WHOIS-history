@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOWCOST-BACKUP.COM
+   Domain Name: MEZUZAH.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LOWCOST-WEBSPACE.COM
-   Name Server: NS2.LOWCOST-WEBSPACE.COM
+   Name Server: NS1.ZEROLAG.COM
+   Name Server: NS2.ZEROLAG.COM
    Status: clientTransferProhibited
-   Updated Date: 13-jul-2010
-   Creation Date: 26-jul-2009
-   Expiration Date: 26-jul-2015
+   Updated Date: 11-apr-2011
+   Creation Date: 09-may-1997
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:23:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lowcost-backup.com
-&lt;a href=&quot;http://www.aboutus.org/lowcost-backup.com&quot;&gt;AboutUs: lowcost-backup.com&lt;/a&gt;
+Visit AboutUs.org for more information about mezuzah.com
+&lt;a href=&quot;http://www.aboutus.org/mezuzah.com&quot;&gt;AboutUs: mezuzah.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lowcost-backup.com
+Domain name: mezuzah.com
 
 Registrant Contact:
-   LCW
-   Bill Brown ()
+   mezuzah.com
+   David Shemula ()
 
    Fax:
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   4456 Haskell Ave
+   Encino, CA 91436
+   US
 
 Administrative Contact:
-   LCW
-    Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   mezuzah.com
+   David Shemula (shemula@gmail.com)
+   +1.18185713900
+   Fax: +1.3103058061
+   4456 Haskell Ave
+   Encino, CA 91436
+   US
 
 Technical Contact:
-   LCW
-   Bill Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   mezuzah.com
+   David Shemula (shemula@gmail.com)
+   +1.18185713900
+   Fax: +1.3103058061
+   4456 Haskell Ave
+   Encino, CA 91436
+   US
 
 Status: Locked
 
 Name Servers:
-   NS1.LOWCOST-WEBSPACE.COM
-   NS2.LOWCOST-WEBSPACE.COM
+   NS1.ZEROLAG.COM
+   NS2.ZEROLAG.COM
 
-Creation date: 26 Jul 2009 14:46:52
-Expiration date: 26 Jul 2015 14:46:52
+Creation date: 09 May 1997 04:00:00
+Expiration date: 10 May 2012 04:00:00
 
 
 

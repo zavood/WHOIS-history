@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOWCOST-BACKUP.COM
+   Domain Name: SUPPORTERARENA.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LOWCOST-WEBSPACE.COM
-   Name Server: NS2.LOWCOST-WEBSPACE.COM
+   Name Server: NS1.BINERO.SE
+   Name Server: NS2.BINERO.SE
    Status: clientTransferProhibited
-   Updated Date: 13-jul-2010
-   Creation Date: 26-jul-2009
-   Expiration Date: 26-jul-2015
+   Updated Date: 09-oct-2010
+   Creation Date: 19-oct-2009
+   Expiration Date: 19-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:23:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lowcost-backup.com
-&lt;a href=&quot;http://www.aboutus.org/lowcost-backup.com&quot;&gt;AboutUs: lowcost-backup.com&lt;/a&gt;
+Visit AboutUs.org for more information about supporterarena.com
+&lt;a href=&quot;http://www.aboutus.org/supporterarena.com&quot;&gt;AboutUs: supporterarena.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lowcost-backup.com
+Domain name: supporterarena.com
 
 Registrant Contact:
-   LCW
-   Bill Brown ()
+   Wallmander o CO
+   Jesper Wallmander ()
 
    Fax:
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Smedjegatan 5 uppg 6
+   GOTEBORG,  41113
+   SE
 
 Administrative Contact:
-   LCW
-    Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Binero AB
+   Binero Registry (registry@binero.se)
+   +46.86240800
+   Fax:
+   Finlandsgatan 12
+   Kista,  164 74
+   SE
 
 Technical Contact:
-   LCW
-   Bill Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Binero AB
+   Binero Registry (registry@binero.se)
+   +46.86240800
+   Fax:
+   Finlandsgatan 12
+   Kista,  164 74
+   SE
 
 Status: Locked
 
 Name Servers:
-   NS1.LOWCOST-WEBSPACE.COM
-   NS2.LOWCOST-WEBSPACE.COM
+   ns1.binero.se
+   ns2.binero.se
 
-Creation date: 26 Jul 2009 14:46:52
-Expiration date: 26 Jul 2015 14:46:52
+Creation date: 19 Oct 2009 18:22:13
+Expiration date: 19 Oct 2011 18:22:13
 
 
 

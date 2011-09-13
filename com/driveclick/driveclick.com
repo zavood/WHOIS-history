@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOWCOST-BACKUP.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LOWCOST-WEBSPACE.COM
-   Name Server: NS2.LOWCOST-WEBSPACE.COM
+   Domain Name: DRIVECLICK.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.DRIVECLICK.COM
+   Name Server: NS2.DRIVECLICK.COM
    Status: clientTransferProhibited
-   Updated Date: 13-jul-2010
-   Creation Date: 26-jul-2009
-   Expiration Date: 26-jul-2015
+   Updated Date: 26-mar-2011
+   Creation Date: 17-mar-2003
+   Expiration Date: 17-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:23:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about lowcost-backup.com
-&lt;a href=&quot;http://www.aboutus.org/lowcost-backup.com&quot;&gt;AboutUs: lowcost-backup.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-Domain name: lowcost-backup.com
+Whois Output for: driveclick.com
 
-Registrant Contact:
-   LCW
-   Bill Brown ()
-
-   Fax:
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+Domain Name Owner:
+  Gear Synch, Inc.
+  6601 Center Drive WestSuite 512
+  Los Angeles, CA 90045
+  US
 
 Administrative Contact:
-   LCW
-    Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+  Ogden, William
+  Gear Synch, Inc.
+  6601 Center Drive West  Suite 512
+  Los Angeles, CA 90045, US
+  Phone: +1.3108446610
+  Email: bogden@gearsynch.com
 
 Technical Contact:
-   LCW
-   Bill Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+  Ogden, William
+  Gear Synch, Inc.
+  6601 Center Drive West  Suite 512
+  Los Angeles, CA 90045, US
+  Phone: +1.3108446610
+  Email: bogden@gearsynch.com
 
-Status: Locked
+Billing Contact:
+  Ogden, William
+  Gear Synch, Inc.
+  6601 Center Drive West  Suite 512
+  Los Angeles, CA 90045, US
+  Phone: +1.3108446610
+  Email: bogden@gearsynch.com
 
-Name Servers:
-   NS1.LOWCOST-WEBSPACE.COM
-   NS2.LOWCOST-WEBSPACE.COM
+Record Information:
+  Domain Record Created: March 17, 2003
+  Domain Record Updated: December 18, 2009
+  Domain Record Expires: March 17, 2012
 
-Creation date: 26 Jul 2009 14:46:52
-Expiration date: 26 Jul 2015 14:46:52
+DNS Information:
+  Name Server: ns1.driveclick.com
+  Name Server: ns2.driveclick.com
 
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

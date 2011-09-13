@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOWCOST-BACKUP.COM
+   Domain Name: HELPLEARNTHEGUITAR.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LOWCOST-WEBSPACE.COM
-   Name Server: NS2.LOWCOST-WEBSPACE.COM
+   Name Server: NS1.PLRPRO.COM
+   Name Server: NS2.PLRPRO.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 13-jul-2010
-   Creation Date: 26-jul-2009
-   Expiration Date: 26-jul-2015
+   Updated Date: 14-mar-2011
+   Creation Date: 03-apr-2006
+   Expiration Date: 03-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lowcost-backup.com
-&lt;a href=&quot;http://www.aboutus.org/lowcost-backup.com&quot;&gt;AboutUs: lowcost-backup.com&lt;/a&gt;
+Visit AboutUs.org for more information about helplearntheguitar.com
+&lt;a href=&quot;http://www.aboutus.org/helplearntheguitar.com&quot;&gt;AboutUs: helplearntheguitar.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: lowcost-backup.com
+Domain name: helplearntheguitar.com
 
 Registrant Contact:
-   LCW
-   Bill Brown ()
+   GenieCentre
+   Daniel Turner ()
 
    Fax:
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   19a Pearce St
+   Baulkham Hills, NS 2153
+   AU
 
 Administrative Contact:
-   LCW
-    Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   GenieCentre
+   Daniel Turner (entrepreneur@iinet.net.au)
+   +61.416511125
+   Fax: +1.5555555555
+   19a Pearce St
+   Baulkham Hills, NS 2153
+   AU
 
 Technical Contact:
-   LCW
-   Bill Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   GenieCentre
+   Daniel Turner (entrepreneur@iinet.net.au)
+   +61.416511125
+   Fax: +1.5555555555
+   19a Pearce St
+   Baulkham Hills, NS 2153
+   AU
 
 Status: Locked
 
 Name Servers:
-   NS1.LOWCOST-WEBSPACE.COM
-   NS2.LOWCOST-WEBSPACE.COM
+   ns1.plrpro.com
+   ns2.plrpro.com
 
-Creation date: 26 Jul 2009 14:46:52
-Expiration date: 26 Jul 2015 14:46:52
+Creation date: 03 Apr 2006 23:40:27
+Expiration date: 03 Apr 2012 23:40:27
 
 
 

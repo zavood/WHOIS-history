@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOWCOST-BACKUP.COM
+   Domain Name: BALI-EXPORT-IMPORT.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.LOWCOST-WEBSPACE.COM
-   Name Server: NS2.LOWCOST-WEBSPACE.COM
+   Name Server: NS.JAGUARPC.NET
+   Name Server: NS2.JAGUARPC.NET
    Status: clientTransferProhibited
-   Updated Date: 13-jul-2010
-   Creation Date: 26-jul-2009
-   Expiration Date: 26-jul-2015
+   Updated Date: 16-apr-2010
+   Creation Date: 04-may-2003
+   Expiration Date: 04-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:22:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:23:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lowcost-backup.com
-&lt;a href=&quot;http://www.aboutus.org/lowcost-backup.com&quot;&gt;AboutUs: lowcost-backup.com&lt;/a&gt;
+Visit AboutUs.org for more information about bali-export-import.com
+&lt;a href=&quot;http://www.aboutus.org/bali-export-import.com&quot;&gt;AboutUs: bali-export-import.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lowcost-backup.com
+Domain name: bali-export-import.com
 
 Registrant Contact:
-   LCW
-   Bill Brown ()
+   Bali Export-Import
+   Narendra Ngurah ()
 
    Fax:
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Jalan Raya Kuta No. 88R
+   Kuta, Bali,  80361
+   ID
 
 Administrative Contact:
-   LCW
-    Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Bali Export-Import
+   Matthew Bloomfield (boomsymatic@yahoo.com)
+   +86.13817899178
+   Fax:
+   No. 200 YueYang Rd. #4-202
+   PuXi
+   Shanghai, CN 200031
+   CN
 
 Technical Contact:
-   LCW
-   Bill Brown (lcw-domains@lowcost-webspace.com)
-   +32.496088838
-   Fax: +32.12751012
-   De Locht 30 Bus 2
-   Tongeren, State 3700
-   BE
+   Bali Export-Import
+   Matthew Bloomfield (boomsymatic@yahoo.com)
+   +86.13817899178
+   Fax:
+   No. 200 YueYang Rd. #4-202
+   PuXi
+   Shanghai, CN 200031
+   CN
 
 Status: Locked
 
 Name Servers:
-   NS1.LOWCOST-WEBSPACE.COM
-   NS2.LOWCOST-WEBSPACE.COM
+   ns.jaguarpc.net
+   ns2.jaguarpc.net
 
-Creation date: 26 Jul 2009 14:46:52
-Expiration date: 26 Jul 2015 14:46:52
+Creation date: 04 May 2003 12:04:22
+Expiration date: 04 May 2013 12:04:00
 
 
 
