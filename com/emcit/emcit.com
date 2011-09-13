@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RLCDN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 19-oct-2009
-   Expiration Date: 25-nov-2012
+   Domain Name: EMCIT.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS000.NS0.COM
+   Name Server: NS212.PAIR.COM
+   Status: ok
+   Updated Date: 12-oct-2008
+   Creation Date: 08-jan-1997
+   Expiration Date: 07-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:02:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:01:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Rapleaf
+  Cheryl Morgan
+  36992 Meadowbrook Common, Apt. 103
+  Fremont, CA 94536
+  US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: RLCDN.COM
+  cheryl@cheryl-morgan.com
+   +1.6507221413
 
-   Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+Domain Name: EMCIT.COM
 
+Administrative &amp; Technical Contact:
+  Cheryl Morgan
+  PO Box 64128
+  Sunnyvale, CA 94088-4128
+  US
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=RLCDN.COM
+  cheryl@cheryl-morgan.com
+   +1.6507221413
+
+Domain Name Servers:
+  NS212.PAIR.COM
+  NS000.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     January  8, 1997
+Modified:     October 12, 2008
+ Expires:     January  6, 2014
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

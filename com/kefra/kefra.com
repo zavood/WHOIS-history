@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RLCDN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
+   Domain Name: KEFRA.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SERVER306.COM
+   Name Server: NS2.SERVER306.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 19-oct-2009
-   Expiration Date: 25-nov-2012
+   Updated Date: 07-aug-2011
+   Creation Date: 07-sep-2004
+   Expiration Date: 07-sep-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:02:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:03:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about kefra.com
+&lt;a href=&quot;http://www.aboutus.org/kefra.com&quot;&gt;AboutUs: kefra.com&lt;/a&gt;
 
 
-Registrant:
-   Rapleaf
+Domain name: kefra.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: RLCDN.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+   Anthony Sun ()
+
+   Fax:
+   Excel Business Solutions
+   na
+   Flushing, NY 11358
+   US
+
+Administrative Contact:
+
+   Anthony Sun (anthonysun@yahoo.com, anthonysun1@yahoo.com)
+   +1.2537934454
+   Fax: +1.
+   Excel Business Solutions
+   na
+   Flushing, NY 11358
+   US
+
+Technical Contact:
+
+   Anthony Sun (anthonysun@yahoo.com, anthonysun1@yahoo.com)
+   +1.2537934454
+   Fax: +1.
+   Excel Business Solutions
+   na
+   Flushing, NY 11358
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.server306.com
+   ns2.server306.com
+
+Creation date: 07 Sep 2004 16:11:06
+Expiration date: 07 Sep 2018 16:11:06
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=RLCDN.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
