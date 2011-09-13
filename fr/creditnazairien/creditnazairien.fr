@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; creditnazairien.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      creditnazairien.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CN572-FRNIC
+admin-c:     ACCN209-FRNIC
+tech-c:      HS456-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13876-FRNIC
+registrar:   CRONON AG
+anniversary: 18/03
+created:     02/03/2006
+last-update: 22/03/2009
+source:      FRNIC
+
+ns-list:     NSL13876-FRNIC
+nserver:     docks14.rzone.de
+nserver:     shades01.rzone.de
+source:      FRNIC
+
+registrar:   CRONON AG
+type:        Isp Option 2
+address:     Oberm&uuml;ndsterstrasse 9
+address:     DE-93047 REGENSBURG
+country:     DE
+phone:       +49 941 5999 560
+fax-no:      +49 941 5998 978
+e-mail:      tld-hostmaster@cronon.org
+website:     http://www.nicdirect.de
+anonymous:   NO
+registered:  19/01/2006
+source:      FRNIC
+
+nic-hdl:     CN572-FRNIC
+type:        ORGANIZATION
+contact:     CREDIT NAZAIRIEN
+address:     46, rue du General de Gaulle
+address:     44600 Saint-Nazaire
+country:     FR
+phone:       +33 2 40 11 39 10
+e-mail:      jycunuder@inandfi.fr
+changed:     22/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACCN209-FRNIC
+type:        PERSON
+contact:     admin-c CREDIT NAZAIRIEN
+address:     46, rue du General de Gaulle
+address:     44600 Saint-Nazaire
+country:     FR
+phone:       +33 2 40 11 39 10
+e-mail:      jycunuder@inandfi.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HS456-FRNIC
+type:        ROLE
+contact:     Hostmaster Strato
+address:     Cronon AG
+address:     Emmy-Noether-Str. 10
+address:     76131 Karlsruhe
+address:     DE
+e-mail:      harry@cronon.org
+admin-c:     HU14-FRNIC
+tech-c:      HU14-FRNIC
+changed:     20/06/2006 harry@cronon.org
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

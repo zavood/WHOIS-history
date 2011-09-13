@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-1AND1.COM.VBCDISH.COM
-1AND1.COM.PAGANBROADCASTING.COM
-1AND1.COM.NAILSPRINTING.COM
-1AND1.COM.MOIMOIDESIGN.COM
-1AND1.COM.HALO-NETWORKING.COM
-1AND1.COM.BURLEYLTD.COM
-1AND1.COM.BEASHOWHOSTTIPS.COM
-1AND1.COM
-1AND1.COM
+   Domain Name: CHINAOILPAINTING.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DNS-DIY.COM
+   Name Server: NS2.DNS-DIY.COM
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: ok
+   Updated Date: 22-feb-2011
+   Creation Date: 14-may-2001
+   Expiration Date: 14-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:16:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:15:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,3 +53,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 CHEN JINSONG easy2china@hotmail.com +86.5925660578
+	 chen jinsong
+	 Fuhao Garden D3, No.89 Xinglong rd
+	 Xiamen,Fujian,CN 361012
+
+
+Domain Name:chinaoilpainting.com
+Record last updated at 2011-06-26 05:02:49
+Record created on 2001/5/14
+Record expired on 2012/5/14
+
+
+Domain servers in listed order:
+	 ns1.dns-diy.com 	 ns2.dns-diy.com
+
+Administrator:
+	 name:(jinsong chen)
+	Email:(easy2china@hotmail.com) tel-- +86.5925660578
+	 chen jinsong
+	 Fuhao Garden D3, No.89 Xinglong rd
+\r
+t Xiamen
+Fujian,
+CN
+
+ zipcode:361012
+
+Technical Contactor:
+	 name:(jinsong chen)
+	Email:(easy2china@hotmail.com) tel-- +86.5925660578
+	 chen jinsong
+	 Fuhao Garden D3, No.89 Xinglong rd
+\r
+t Xiamen
+Fujian,
+CN
+
+ zipcode:361012
+
+Billing Contactor:
+	 name:(jinsong chen)
+	Email:(easy2china@hotmail.com) tel-- +86.5925660578
+	 chen jinsong
+	 Fuhao Garden D3, No.89 Xinglong rd
+\r
+t Xiamen
+Fujian,
+CN
+
+ zipcode:361012
+

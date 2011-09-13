@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 09-mar-2010
    Expiration Date: 09-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 15:56:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:14:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    COJINES BOOF
-   CRA 44 A # 31 A SUR 18
-   CL 31 A SUR # 43 A 24
-   MEDELLIN, ENVIGADO 0000
-   Colombia
 
    Registered through: imagen factory
    Domain Name: COJINESBOOF.COM
-      Created on: 09-Mar-10
-      Expires on: 09-Mar-13
-      Last Updated on: 09-Mar-10
-
-   Administrative Contact:
-      RUIZ RESTREPO, FELIPE  info@imagenfactory.com
-      COJINES BOOF
-      CRA 44 A # 31 A SUR 18
-      CL 31 A SUR # 43 A 24
-      MEDELLIN, ENVIGADO 0000
-      Colombia
-      +57.43330875      Fax -- +57.42767929
-
-   Technical Contact:
-      RUIZ RESTREPO, FELIPE  info@imagenfactory.com
-      COJINES BOOF
-      CRA 44 A # 31 A SUR 18
-      CL 31 A SUR # 43 A 24
-      MEDELLIN, ENVIGADO 0000
-      Colombia
-      +57.43330875      Fax -- +57.42767929
 
    Domain servers in listed order:
       NS17.DOMAINCONTROL.COM
       NS18.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=COJINESBOOF.COM&amp;prog_id=433508

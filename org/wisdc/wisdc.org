@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3739537-LROR
+Domain Name:WISDC.ORG
+Created On:26-Aug-1997 04:00:00 UTC
+Last Updated On:15-Jun-2009 20:18:17 UTC
+Expiration Date:25-Aug-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25729264-NSI
+Registrant Name:Wisconsin Democracy Campaign
+Registrant Organization:Wisconsin Democracy Campaign
+Registrant Street1:210 N Bassett St Ste 215
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madison
+Registrant State/Province:WI
+Registrant Postal Code:53703
+Registrant Country:US
+Registrant Phone:+1.6082554260
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wdc@WISDC.ORG
+Admin ID:25729265-NSI
+Admin Name:Michael McCabe
+Admin Organization:Wisconsin Democracy Campaign
+Admin Street1:210 N. Bassett St. #215
+Admin Street2:
+Admin Street3:
+Admin City:MADISON
+Admin State/Province:WI
+Admin Postal Code:53703
+Admin Country:US
+Admin Phone:+1.6082554260
+Admin Phone Ext.:
+Admin FAX:+1.6082554359
+Admin FAX Ext.:
+Admin Email:wisdc@wisdc.org
+Tech ID:15540917-NSI
+Tech Name:Clarity Technology Group, LLC
+Tech Organization:Clarity Technology Group, LLC
+Tech Street1:210 N BASSETT ST
+Tech Street2:
+Tech Street3:
+Tech City:MADISON
+Tech State/Province:WI
+Tech Postal Code:53703-5016
+Tech Country:US
+Tech Phone:+1.6082584500
+Tech Phone Ext.:
+Tech FAX:+1.231231234
+Tech FAX Ext.:
+Tech Email:webmaster@CLARITYTECH.COM
+Name Server:NS1.CLARITYTECH.COM
+Name Server:NS2.CLARITYTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

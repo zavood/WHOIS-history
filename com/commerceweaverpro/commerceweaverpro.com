@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XLOGZ.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVERGOD.COM
-   Name Server: NS2.SERVERGOD.COM
-   Name Server: NS3.SERVERGOD.COM
+   Domain Name: COMMERCEWEAVERPRO.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1839.HOSTGATOR.COM
+   Name Server: NS1840.HOSTGATOR.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-mar-2011
-   Creation Date: 02-mar-2006
-   Expiration Date: 02-mar-2012
+   Updated Date: 18-jul-2011
+   Creation Date: 29-may-2010
+   Expiration Date: 29-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:14:17 UTC &lt;&lt;&lt;
 
@@ -55,38 +53,82 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: COMMERCEWEAVERPRO.COM
+Registrar: MONIKER
+
+Registrant [3208429]:
+        Radius dasilva radius_fc@yahoo.com
+        Muara karang Blok A 5 Utara No 29
+        jakarta
+        jakarta utara
+        14450
+        ID
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: XLOGZ.COM
-
-   Domain servers in listed order:
-      NS1.SERVERGOD.COM
-      NS2.SERVERGOD.COM
-      NS3.SERVERGOD.COM
+Administrative Contact [3208429]:
+        Radius dasilva radius_fc@yahoo.com
+        Muara karang Blok A 5 Utara No 29
+        jakarta
+        jakarta utara
+        14450
+        ID
+        Phone: +62.02195632993
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=XLOGZ.COM
+Billing Contact [3208429]:
+        Radius dasilva radius_fc@yahoo.com
+        Muara karang Blok A 5 Utara No 29
+        jakarta
+        jakarta utara
+        14450
+        ID
+        Phone: +62.02195632993
+
+
+Technical Contact [3208429]:
+        Radius dasilva radius_fc@yahoo.com
+        Muara karang Blok A 5 Utara No 29
+        jakarta
+        jakarta utara
+        14450
+        ID
+        Phone: +62.02195632993
+
+
+Domain servers in listed order:
+
+        NS1839.HOSTGATOR.COM
+        NS1840.HOSTGATOR.COM
+
+        Record created on:        2010-05-29 14:13:16.0
+        Database last updated on: 2011-07-18 13:31:01.31
+        Domain Expires on:        2012-05-29 14:13:16.0
+
+
+
