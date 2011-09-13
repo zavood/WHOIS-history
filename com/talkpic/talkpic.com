@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRANNYCUMSHERE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.CANDIDHOSTING.COM
-   Name Server: NS2.CANDIDHOSTING.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: TALKPIC.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS31.DNSEVER.COM
+   Name Server: NS56.DNSEVER.COM
+   Name Server: NS63.DNSEVER.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-apr-2011
-   Creation Date: 14-apr-2003
-   Expiration Date: 14-apr-2012
+   Updated Date: 06-dec-2010
+   Creation Date: 27-aug-2004
+   Expiration Date: 27-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:31:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:30:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name           : talkpic.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   self
+	company       :TalkPIC
+	name          :gnic Bae
+	e-mail        :baelamb@hotmail.com
+	address1      :Seongbok-dong Yongin Si
+	address2      :397
+	city          :GYEONGGI-DO
+	zipcode       :449-140
+	country       :
+	phone         :016-487-0814
+	fax           :
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GRANNYCUMSHERE.COM
+Administrative Contact:
+	name          :gnic Bae
+	e-mail        :baelamb@hotmail.com
+	address1      :Seongbok-dong Yongin Si
+	address2      :397
+	city          :GYEONGGI-DO
+	zipcode       :449-140
+	country       :
+	phone         :016-487-0814
+	fax           :
 
-   Domain servers in listed order:
-      NS1.CANDIDHOSTING.COM
-      NS2.CANDIDHOSTING.COM
+Technical Contact:
+	name          :gnic Bae
+	e-mail        :baelamb@hotmail.com
+	address1      :Seongbok-dong Yongin Si
+	address2      :397
+	city          :GYEONGGI-DO
+	zipcode       :449-140
+	country       :
+	phone         :016-487-0814
+	fax           :
+
+Domain servers in listed order:
+		ns31.dnsever.com  [121.254.154.161]
+		ns56.dnsever.com  [121.254.154.186]
+		ns63.dnsever.com  [121.254.154.193]
+		ns231.dnsever.com  [125.141.231.179]
+		ns259.dnsever.com  [211.233.59.20]
+
+Created on 2004-08-27
+Updated on 2010-12-06
+Expires on 2012-08-27&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GRANNYCUMSHERE.COM

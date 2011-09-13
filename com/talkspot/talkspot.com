@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-jan-1999
    Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:06:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:30:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: talkspot.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 08:56:32 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Mon Sep 12 21:20:12 EDT 2011
 Reason Code: IE

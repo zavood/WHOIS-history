@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SECRETSCREEN.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.HOSTLANE.NET
-   Name Server: NS2.HOSTLANE.NET
-   Name Server: NS3.HOSTLANE.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-jun-2011
-   Creation Date: 03-jun-2000
-   Expiration Date: 03-jun-2012
+   Domain Name: KABE-KARIMAN.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.YEKTAWEB.COM
+   Name Server: NS150.KARAHOST.COM
+   Name Server: NS2.YEKTAWEB.COM
+   Status: ok
+   Updated Date: 25-apr-2010
+   Creation Date: 13-jun-2009
+   Expiration Date: 13-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:29:53 UTC &lt;&lt;&lt;
 
@@ -54,50 +52,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: FARAKARANET IT GROUP
+Contact: +98.22650240
+Website: http://www.karait.com
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name: KABE-KARIMAN.COM
 
 Registrant:
-   Vandale Consulting, Inc.
-   3419 Via Lido #315
-   Newport Beach, CA  92663
-   US
+    None
+    babak sahafian        (breceivemail@yahoo.com)
+    tehran
+    tehran
+    tehran,1659744653
+    IR
+    Tel. +98.09128172910
 
-   Registrar: DOTSTER
-   Domain Name: SECRETSCREEN.COM
-      Created on: 03-JUN-00
-      Expires on: 04-JUN-12
-      Last Updated on: 15-MAY-11
+Creation Date: 13-Jun-2009
+Expiration Date: 13-Jun-2012
 
-   Administrative, Technical Contact:
-      Vandale, Brett  bvandale@secretscreen.com
-      Vandale Consulting, Inc.
-      105 Via Koron
-      Newport Beach, CA  92663
-      US
-      9495009245
+Domain servers in listed order:
+    ns150.karahost.com
+    ns1.yektaweb.com
+    ns2.yektaweb.com
 
 
-   Domain servers in listed order:
-      NS3.HOSTLANE.NET
-      NS2.HOSTLANE.NET
-      NS1.HOSTLANE.NET
+Administrative Contact:
+    None
+    babak sahafian        (breceivemail@yahoo.com)
+    tehran
+    tehran
+    tehran,1659744653
+    IR
+    Tel. +98.09128172910
 
-End of Whois Information
+Technical Contact:
+    None
+    babak sahafian        (breceivemail@yahoo.com)
+    tehran
+    tehran
+    tehran,1659744653
+    IR
+    Tel. +98.09128172910
+
+Billing Contact:
+    None
+    babak sahafian        (breceivemail@yahoo.com)
+    tehran
+    tehran
+    tehran,1659744653
+    IR
+    Tel. +98.09128172910
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

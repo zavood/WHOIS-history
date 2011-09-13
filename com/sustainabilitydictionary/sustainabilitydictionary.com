@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRANNYCUMSHERE.COM
+   Domain Name: SUSTAINABILITYDICTIONARY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.CANDIDHOSTING.COM
-   Name Server: NS2.CANDIDHOSTING.COM
+   Name Server: NS380.PAIR.COM
+   Name Server: NS5.NS0.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-apr-2011
-   Creation Date: 14-apr-2003
-   Expiration Date: 14-apr-2012
+   Updated Date: 11-apr-2011
+   Creation Date: 05-aug-2005
+   Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:31:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:30:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   self
+   Presidio Graduate School
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GRANNYCUMSHERE.COM
+   Domain Name: SUSTAINABILITYDICTIONARY.COM
 
    Domain servers in listed order:
-      NS1.CANDIDHOSTING.COM
-      NS2.CANDIDHOSTING.COM
+      NS5.NS0.COM
+      NS380.PAIR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GRANNYCUMSHERE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SUSTAINABILITYDICTIONARY.COM
