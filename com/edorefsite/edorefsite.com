@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRIDSERVER.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MEDIATEMPLE.NET
-   Name Server: NS2.MEDIATEMPLE.NET
-   Name Server: NS3.MEDIATEMPLE.NET
-   Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Domain Name: EDOREFSITE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
+   Status: clientTransferProhibited
+   Updated Date: 26-nov-2010
+   Creation Date: 19-nov-2004
+   Expiration Date: 19-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:45 UTC &lt;&lt;&lt;
 
@@ -52,5 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about edorefsite.com
+&lt;a href=&quot;http://www.aboutus.org/edorefsite.com&quot;&gt;AboutUs: edorefsite.com&lt;/a&gt;
+
+
+Domain name: edorefsite.com
+
+Registrant Contact:
+
+   Belamdini khalid ()
+
+   Fax:
+   N? 1 bloc 5 derb marrakeche el alia
+   Mohammedia,  20800
+   MA
+
+Administrative Contact:
+
+   Belamdini khalid (ayoor_refer@yahoo.fr)
+   +21264382273
+   Fax:
+   N? 1 bloc 5 derb marrakeche el alia
+   Mohammedia,  20800
+   MA
+
+Technical Contact:
+
+   Belamdini khalid (ayoor_refer@yahoo.fr)
+   +21264382273
+   Fax:
+   N? 1 bloc 5 derb marrakeche el alia
+   Mohammedia,  20800
+   MA
+
+Status: Locked
+
+Name Servers:
+   ns0.dnsmadeeasy.com
+   ns1.dnsmadeeasy.com
+   ns2.dnsmadeeasy.com
+   ns3.dnsmadeeasy.com
+   ns4.dnsmadeeasy.com
+
+Creation date: 19 Nov 2004 14:07:25
+Expiration date: 19 Nov 2011 14:07:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

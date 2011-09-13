@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRIDSERVER.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MEDIATEMPLE.NET
-   Name Server: NS2.MEDIATEMPLE.NET
-   Name Server: NS3.MEDIATEMPLE.NET
+   Domain Name: CREATIVEECONCEPTS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
    Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Updated Date: 03-may-2011
+   Creation Date: 15-jun-2005
+   Expiration Date: 15-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... creativeeconcepts.com
+  Creation Date........ 2005-06-16
+  Registration Date.... 2005-06-16
+  Expiry Date.......... 2012-06-16
+  Organisation Name.... Stephanie Smith
+  Organisation Address. 573 Massachusetts Ave
+  Organisation Address.
+  Organisation Address. North Andover
+  Organisation Address. 01845
+  Organisation Address. MA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Stephanie Baldwin
+  Admin Address........ 573 Massachusetts Avenue
+  Admin Address........
+  Admin Address........ North Andover
+  Admin Address........ 01845
+  Admin Address........ MA
+  Admin Address........ UNITED STATES
+  Admin Email.......... stephanieabaldwin@yahoo.com
+  Admin Phone.......... +1.9782736848
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
+
+

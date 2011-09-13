@@ -5,25 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BAZAARVOICE.COM
+   Domain Name: OFFSHORE-EXPERIENCES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: NS1.GIPPY.NET
+   Name Server: NS2.GIPPY.NET
+   Name Server: NS3.GIPPY.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-mar-2007
-   Creation Date: 20-apr-2005
-   Expiration Date: 20-apr-2015
+   Updated Date: 03-feb-2011
+   Creation Date: 29-jan-2009
+   Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:19:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   IT Department
+   Offshore Experiences Fishing
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BAZAARVOICE.COM
+   Domain Name: OFFSHORE-EXPERIENCES.COM
 
    Domain servers in listed order:
-      PDNS1.ULTRADNS.NET
-      PDNS2.ULTRADNS.NET
-      PDNS3.ULTRADNS.ORG
-      PDNS4.ULTRADNS.ORG
-      PDNS5.ULTRADNS.INFO
-      PDNS6.ULTRADNS.CO.UK
+      NS1.GIPPY.NET
+      NS2.GIPPY.NET
+      NS3.GIPPY.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BAZAARVOICE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=OFFSHORE-EXPERIENCES.COM

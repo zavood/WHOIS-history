@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRIDSERVER.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MEDIATEMPLE.NET
-   Name Server: NS2.MEDIATEMPLE.NET
-   Name Server: NS3.MEDIATEMPLE.NET
+   Domain Name: WELCOMESEARCHERS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.180SERVERS.COM
+   Name Server: NS2.180SERVERS.COM
    Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Updated Date: 06-apr-2011
+   Creation Date: 18-oct-2005
+   Expiration Date: 18-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about welcomesearchers.com
+&lt;a href=&quot;http://www.aboutus.org/welcomesearchers.com&quot;&gt;AboutUs: welcomesearchers.com&lt;/a&gt;
+
+
+Domain name: welcomesearchers.com
+
+Registrant Contact:
+   WelcomeSearchers.com
+   Scott Jones ()
+
+   Fax:
+   P.O. Box 102
+   Medford, WI 54451
+   US
+
+Administrative Contact:
+   WelcomeSearchers.com
+   Scott Jones (domains@welcomesearchers.com)
+   +1.8883751050
+   Fax: +1.8883751050
+   P.O. Box 102
+   Medford, WI 54451
+   US
+
+Technical Contact:
+   WelcomeSearchers.com
+   Scott Jones (domains@welcomesearchers.com)
+   +1.8883751050
+   Fax: +1.8883751050
+   P.O. Box 102
+   Medford, WI 54451
+   US
+
+Status: Active
+
+Name Servers:
+   ns1.180servers.com
+   ns2.180servers.com
+
+Creation date: 19 Oct 2005 00:39:38
+Expiration date: 19 Oct 2011 00:39:38
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
