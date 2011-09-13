@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOYDECHILE.COM
+   Domain Name: TFCABLE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Name Server: DNS.JKNET.COM
+   Name Server: DNS2.JKNET.COM
    Status: clientTransferProhibited
-   Updated Date: 17-mar-2011
-   Creation Date: 29-oct-2010
-   Expiration Date: 29-oct-2011
+   Updated Date: 25-jun-2010
+   Creation Date: 20-jul-2005
+   Expiration Date: 20-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:40:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:41:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about soydechile.com
-&lt;a href=&quot;http://www.aboutus.org/soydechile.com&quot;&gt;AboutUs: soydechile.com&lt;/a&gt;
 
 
-Domain name: soydechile.com
+Domain name: tfcable.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   Tele-Fonika Cable Americas
+   Michael Scheppach ()
 
    Fax:
-   8939 S. Sepulveda Blvd
-   Suite 110-708
-   Westchester, CA 90045
+   1160 Pierson Dr. - Suite 102
+   Batavia, IL 60510
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (8g6da42a7k.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   8939 S. Sepulveda Blvd
-   Suite 110-708
-   Westchester, CA 90045
+   MCC Technology
+   John Kunzer (jkunzer@mcctech.com)
+   +1.6305849505
+   Fax: +1.6305846750
+   720 N. 17th Street - Ste 4
+   St. Charles, IL 60174
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (8g6da42a7k.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   8939 S. Sepulveda Blvd
-   Suite 110-708
-   Westchester, CA 90045
+   MCC Technology
+   John Kunzer (jkunzer@mcctech.com)
+   +1.6305849505
+   Fax: +1.6305846750
+   720 N. 17th Street - Ste 4
+   St. Charles, IL 60174
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   dns.jknet.com
+   dns2.jknet.com
 
-Creation date: 29 Oct 2010 21:29:00
-Expiration date: 29 Oct 2011 16:29:00
+Creation date: 20 Jul 2005 22:11:00
+Expiration date: 20 Jul 2014 22:11:00
 
 
 
