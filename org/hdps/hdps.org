@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101884773-LROR
+Domain Name:HDPS.ORG
+Created On:23-Oct-2003 14:25:09 UTC
+Last Updated On:15-Mar-2011 15:21:08 UTC
+Expiration Date:23-Oct-2011 14:25:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-49470
+Registrant Name:Eduardo Montagna
+Registrant Organization:Homeland Defense and Police Su
+Registrant Street1:6907 Southern Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Palm Beach
+Registrant State/Province:FL
+Registrant Postal Code:33413
+Registrant Country:US
+Registrant Phone:+1.1561723685
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:defensearms@aol.com
+Admin ID:NF-ADMIN-49470
+Admin Name:Eduardo Montagna
+Admin Organization:Homeland Defense and Police Su
+Admin Street1:6907 Southern Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:West Palm Beach
+Admin State/Province:FL
+Admin Postal Code:33413
+Admin Country:US
+Admin Phone:+1.1561723685
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:defensearms@aol.com
+Tech ID:NF-TECH-49470
+Tech Name:Domains Manager
+Tech Organization:Netfirms, Inc.
+Tech Street1:5255 Yonge St
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M2N6P4
+Tech Country:CA
+Tech Phone:+1.1416661210
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@netfirms.com
+Name Server:NS1.NETFIRMS.COM
+Name Server:NS2.NETFIRMS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

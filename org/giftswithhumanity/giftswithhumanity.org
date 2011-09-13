@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135413857-LROR
+Domain Name:GIFTSWITHHUMANITY.ORG
+Created On:20-Dec-2006 01:36:56 UTC
+Last Updated On:06-Dec-2009 03:00:09 UTC
+Expiration Date:20-Dec-2016 01:36:56 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32679384
+Registrant Name:Kevin Ward
+Registrant Street1:2808 Hibiscus Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edgewater
+Registrant State/Province:Florida
+Registrant Postal Code:32141
+Registrant Country:US
+Registrant Phone:+1.3864241662
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:office@globalcrafts.org
+Admin ID:CR32679386
+Admin Name:Kevin Ward
+Admin Street1:2808 Hibiscus Drive
+Admin Street2:
+Admin Street3:
+Admin City:Edgewater
+Admin State/Province:Florida
+Admin Postal Code:32141
+Admin Country:US
+Admin Phone:+1.3864241662
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:office@globalcrafts.org
+Tech ID:CR32679385
+Tech Name:Kevin Ward
+Tech Street1:2808 Hibiscus Drive
+Tech Street2:
+Tech Street3:
+Tech City:Edgewater
+Tech State/Province:Florida
+Tech Postal Code:32141
+Tech Country:US
+Tech Phone:+1.3864241662
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:office@globalcrafts.org
+Name Server:NS2.HOSTING4LESS.COM
+Name Server:COMET.HOSTING4LESS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
