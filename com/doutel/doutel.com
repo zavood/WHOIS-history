@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTOCCS.COM
+   Domain Name: DOUTEL.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: A.NS.RACKSPOT.COM
-   Name Server: B.NS.RACKSPOT.COM
+   Name Server: NS1.LEAF.ARVIXE.COM
+   Name Server: NS2.LEAF.ARVIXE.COM
    Status: clientTransferProhibited
-   Updated Date: 08-may-2011
-   Creation Date: 06-jun-2006
-   Expiration Date: 06-jun-2012
+   Updated Date: 23-jul-2009
+   Creation Date: 01-nov-2001
+   Expiration Date: 01-nov-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about motoccs.com
-&lt;a href=&quot;http://www.aboutus.org/motoccs.com&quot;&gt;AboutUs: motoccs.com&lt;/a&gt;
+Visit AboutUs.org for more information about doutel.com
+&lt;a href=&quot;http://www.aboutus.org/doutel.com&quot;&gt;AboutUs: doutel.com&lt;/a&gt;
 
 
-Domain name: motoccs.com
-
-Administrative Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
-
-Technical Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+Domain name: doutel.com
 
 Registrant Contact:
-   1-Hostingservice.com
-   Miguel Goncalves ()
+   By Arvixe
+   Private Registration ()
 
    Fax:
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Administrative Contact:
+   By Arvixe
+   Private Registration (doutel.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Technical Contact:
+   By Arvixe
+   Private Registration (doutel.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
 
 Status: Locked
 
 Name Servers:
-   a.ns.rackspot.com
-   b.ns.rackspot.com
+   ns1.leaf.arvixe.com
+   ns2.leaf.arvixe.com
 
-Creation date: 06 Jun 2006 14:38:03
-Expiration date: 06 Jun 2012 14:38:00
+Creation date: 02 Nov 2001 03:04:00
+Expiration date: 02 Nov 2018 02:04:00
 
 
 

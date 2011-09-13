@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2185293-LROR
+Domain Name:SVAROG.ORG
+Created On:14-Oct-1998 04:00:00 UTC
+Last Updated On:06-Sep-2010 09:14:16 UTC
+Expiration Date:13-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32273134
+Registrant Name:Dejan Kastelic
+Registrant Organization:Svarog - Izobrazevalni zavod
+Registrant Street1:Ulica Planincevih 24
+Registrant Street2:
+Registrant Street3:
+Registrant City:Maribor
+Registrant State/Province:
+Registrant Postal Code:2204
+Registrant Country:SI
+Registrant Phone:+386.26291165
+Registrant Phone Ext.:
+Registrant FAX:+386.26295156
+Registrant FAX Ext.:
+Registrant Email:hostmaster@svarog.org
+Admin ID:CR32273136
+Admin Name:Dejan Kastelic
+Admin Organization:Svarog - Izobrazevalni zavod
+Admin Street1:Ulica Planincevih 24
+Admin Street2:
+Admin Street3:
+Admin City:Maribor
+Admin State/Province:
+Admin Postal Code:2204
+Admin Country:SI
+Admin Phone:+386.26291165
+Admin Phone Ext.:
+Admin FAX:+386.26295156
+Admin FAX Ext.:
+Admin Email:hostmaster@svarog.org
+Tech ID:CR32273135
+Tech Name:Svarog Hostmaster
+Tech Organization:.
+Tech Street1:Ulica Planincevih 24
+Tech Street2:
+Tech Street3:
+Tech City:Maribor
+Tech State/Province:
+Tech Postal Code:2000
+Tech Country:SI
+Tech Phone:+386.26291165
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@svarog.org
+Name Server:NS1.GMIZO.COM
+Name Server:NS2.GMIZO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

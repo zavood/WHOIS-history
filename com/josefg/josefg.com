@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTOCCS.COM
+   Domain Name: JOSEFG.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: A.NS.RACKSPOT.COM
-   Name Server: B.NS.RACKSPOT.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 08-may-2011
-   Creation Date: 06-jun-2006
-   Expiration Date: 06-jun-2012
+   Updated Date: 16-aug-2010
+   Creation Date: 15-oct-2004
+   Expiration Date: 15-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +56,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about motoccs.com
-&lt;a href=&quot;http://www.aboutus.org/motoccs.com&quot;&gt;AboutUs: motoccs.com&lt;/a&gt;
+Visit AboutUs.org for more information about josefg.com
+&lt;a href=&quot;http://www.aboutus.org/josefg.com&quot;&gt;AboutUs: josefg.com&lt;/a&gt;
 
 
-Domain name: motoccs.com
-
-Administrative Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
-
-Technical Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+Domain name: josefg.com
 
 Registrant Contact:
-   1-Hostingservice.com
-   Miguel Goncalves ()
+
+   Josef Goergen ()
 
    Fax:
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+   14 A Bellows Lane
+   Towaco, NJ 07082
+   US
+
+Administrative Contact:
+
+   Josef Goergen (Josef.Goergen@gmail.com)
+   +1.9735419232
+   Fax:
+   14 A Bellows Lane
+   Towaco, NJ 07082
+   US
+
+Technical Contact:
+
+   Josef Goergen (Josef.Goergen@gmail.com)
+   +1.9735419232
+   Fax:
+   14 A Bellows Lane
+   Towaco, NJ 07082
+   US
 
 Status: Locked
 
 Name Servers:
-   a.ns.rackspot.com
-   b.ns.rackspot.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 06 Jun 2006 14:38:03
-Expiration date: 06 Jun 2012 14:38:00
+Creation date: 15 Oct 2004 15:58:19
+Expiration date: 15 Oct 2015 15:58:19
 
 
 

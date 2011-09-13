@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTOCCS.COM
+   Domain Name: HOST99.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: A.NS.RACKSPOT.COM
-   Name Server: B.NS.RACKSPOT.COM
+   Name Server: NS.SUPPORT-CENTRAL.NET
+   Name Server: NS2.SUPPORT-CENTRAL.NET
    Status: clientTransferProhibited
-   Updated Date: 08-may-2011
-   Creation Date: 06-jun-2006
-   Expiration Date: 06-jun-2012
+   Updated Date: 22-mar-2010
+   Creation Date: 14-oct-1998
+   Expiration Date: 13-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:17 UTC &lt;&lt;&lt;
 
@@ -52,47 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about motoccs.com
-&lt;a href=&quot;http://www.aboutus.org/motoccs.com&quot;&gt;AboutUs: motoccs.com&lt;/a&gt;
+Visit AboutUs.org for more information about host99.com
+&lt;a href=&quot;http://www.aboutus.org/host99.com&quot;&gt;AboutUs: host99.com&lt;/a&gt;
 
 
-Domain name: motoccs.com
-
-Administrative Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
-
-Technical Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+Domain name: host99.com
 
 Registrant Contact:
-   1-Hostingservice.com
-   Miguel Goncalves ()
+   NA
+   (** Domain for Sale ** ) Momentum Tech Corporation ()
 
    Fax:
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+   3406 Shauna Oaks Dr
+   Jacksonville, FL 32277
+   US
+
+Administrative Contact:
+   NA
+   Paul Barbell (webmaster@host99.com)
+   +1.8773762106
+   Fax: 1-877-376-2106
+   3406 Shauna Oaks Dr
+   jacksonville, FL 32277
+   US
+
+Technical Contact:
+   NA
+   Paul Barbell (webmaster@host99.com)
+   +1.8773762106
+   Fax: 1-877-376-2106
+   3406 Shauna Oaks Dr
+   jacksonville, FL 32277
+   US
 
 Status: Locked
 
 Name Servers:
-   a.ns.rackspot.com
-   b.ns.rackspot.com
+   NS.SUPPORT-CENTRAL.NET
+   NS2.SUPPORT-CENTRAL.NET
 
-Creation date: 06 Jun 2006 14:38:03
-Expiration date: 06 Jun 2012 14:38:00
+Creation date: 14 Oct 1998 04:00:00
+Expiration date: 13 Oct 2012 04:00:00
 
 
 

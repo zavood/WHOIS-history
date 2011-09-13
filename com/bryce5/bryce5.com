@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTOCCS.COM
+   Domain Name: BRYCE5.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: A.NS.RACKSPOT.COM
-   Name Server: B.NS.RACKSPOT.COM
-   Status: clientTransferProhibited
-   Updated Date: 08-may-2011
-   Creation Date: 06-jun-2006
-   Expiration Date: 06-jun-2012
+   Name Server: NS1.MIDPHASE.COM
+   Name Server: NS2.MIDPHASE.COM
+   Status: ok
+   Updated Date: 18-dec-2010
+   Creation Date: 17-jan-2002
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:57:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about motoccs.com
-&lt;a href=&quot;http://www.aboutus.org/motoccs.com&quot;&gt;AboutUs: motoccs.com&lt;/a&gt;
+Visit AboutUs.org for more information about bryce5.com
+&lt;a href=&quot;http://www.aboutus.org/bryce5.com&quot;&gt;AboutUs: bryce5.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: motoccs.com
-
-Administrative Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
-
-Technical Contact:
-   1-Hostingservice.com
-   Miguel Goncalves (domains@1-hostingservice.com)
-   +351.229363772
-   Fax: +351.229363774
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+Domain name: bryce5.com
 
 Registrant Contact:
-   1-Hostingservice.com
-   Miguel Goncalves ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   Rua Sousa Aroso, 528
-   Matosinhos, PT 4450-007
-   PT
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
-Status: Locked
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (02a232f3d4794432962f489921744d63.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (02a232f3d4794432962f489921744d63.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Active
 
 Name Servers:
-   a.ns.rackspot.com
-   b.ns.rackspot.com
+   NS1.midphase.com
+   NS2.midphase.com
 
-Creation date: 06 Jun 2006 14:38:03
-Expiration date: 06 Jun 2012 14:38:00
+Creation date: 17 Jan 2002 23:03:43
+Expiration date: 17 Jan 2012 23:03:43
 
 
 
