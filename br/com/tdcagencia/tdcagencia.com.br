@@ -5,13 +5,33 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 23:59:07 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-13 15:11:45 (BRT -03:00)
 
 domain:      tdcagencia.com.br
-owner:       Adriano Edson Trevisan Delazeri (298859)
+owner:       Adriano Edson Trevisan Delazeri
+ownerid:     094.641.826/0001-83
+responsible: Adriano Edson Trevisan Delazeri
+country:     BR
+owner-c:     AED16
+admin-c:     AED16
+tech-c:      AED16
+billing-c:   AED16
+nserver:     ns1.tdcagencia.com.br 174.133.81.250
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.tdcagencia.com.br 174.133.81.251
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20090203 #5206736
+expires:     20140203
+changed:     20110127
+status:      published
+
+nic-hdl-br:  AED16
+person:      Adriano Edson Trevisan Delazeri
+e-mail:      graficafuture@terra.com.br
+created:     20011204
+changed:     20070730
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

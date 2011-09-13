@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARIASHARAPOVAHOT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CIDYBOOK.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.NUXIT.NET
+   Name Server: NS2.NUXIT.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-apr-2011
-   Creation Date: 06-sep-2009
-   Expiration Date: 06-sep-2012
+   Updated Date: 05-jun-2011
+   Creation Date: 06-jun-2006
+   Expiration Date: 06-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:10:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:10:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MARIASHARAPOVAHOT.COM
-
-   Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MARIASHARAPOVAHOT.COM
+Domain Name : CIDYBOOK.COM
+Created On : 2006-06-06
+Expiration Date : 2012-06-06
+Status : PROTECTED
+Registrant Name : laurette maillet
+Registrant Street1 : 90 rue saumuroise
+Registrant Street2 : residence la madeleine B1
+Registrant City : angers
+Registrant State/Province  :
+Registrant Postal Code : 49000
+Registrant Country : FR
+Admin Name : NUXIT
+Admin Street1 : 400 avenue Roumanille BP 60177
+Admin City : Sophia Antipolis Cedex
+Admin State/Province : FR
+Admin Postal Code : 06903
+Admin Country : FR
+Admin Phone : +33.899563600
+Admin Email : domains@nuxit.net
+Tech Name : NUXIT
+Tech Street1 : 400 avenue Roumanille BP 60177
+Tech City : Sophia Antipolis Cedex
+Tech State/Province : FR
+Tech Postal Code : 06903
+Tech Country : FR
+Tech Phone : +33.899563600
+Tech Email : domains@nuxit.net
+Billing Name : NUXIT
+Billing Street1 : 400 avenue Roumanille BP 60177
+Billing City : Sophia Antipolis Cedex
+Billing State/Province : FR
+Billing Postal Code : 06903
+Billing Country : FR
+Billing Phone : +33.899563600
+Billing Email : domains@nuxit.net
+Name Server : NS1.NUXIT.NET
+Name Server : NS2.NUXIT.NET
+Registrar Name : Namebay
