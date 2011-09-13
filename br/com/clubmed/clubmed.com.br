@@ -1,0 +1,67 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:23:10 (BRT -03:00)
+
+domain:      clubmed.com.br
+owner:       Club Med Brasil S/A
+ownerid:     003.010.384/0001-11
+responsible: Depto.de Informatica
+country:     BR
+owner-c:     FEROM14
+admin-c:     FRH36
+tech-c:      MEITE
+billing-c:   NSB4
+nserver:     a4.nstld.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     f4.nstld.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     g4.nstld.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     l4.nstld.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     19960625 #10251
+expires:     20120625
+changed:     20110603
+status:      published
+
+nic-hdl-br:  FEROM14
+person:      Fernanda Romano
+e-mail:      fernanda.romano@clubmed.com
+created:     20110415
+changed:     20110415
+
+nic-hdl-br:  FRH36
+person:      Frederic Herlory
+e-mail:      alcides.pires@clubmed.com
+created:     20030123
+changed:     20030123
+
+nic-hdl-br:  MEITE
+person:      Melbourne IT Tech
+e-mail:      Tech@melbourneitdbs.com
+created:     20080620
+changed:     20080620
+
+nic-hdl-br:  NSB4
+person:      Network Solutions - Brazil
+e-mail:      dominios@opelnet.com.br
+created:     19990403
+changed:     20090625
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
