@@ -1,0 +1,73 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         gruen3.at
+registrant:     GG7996045-NICAT
+admin-c:        GG7996046-NICAT
+tech-c:         EBIS7996047-NICAT
+nserver:        ns1.austroplace.at
+remarks:        193.254.185.254
+nserver:        ns2.austroplace.at
+remarks:        193.254.187.110
+changed:        20110505 04:01:16
+source:         AT-DOM
+
+personname:     Oliver Heberling
+organization:   Gruen3 GmbH
+street address: Kerschham 52
+postal code:    5221
+city:           Lochen
+country:        Austria
+phone:          +43774720002
+fax-no:         +43774720003
+e-mail:         tb.heberling@utanet.at
+nic-hdl:        GG7996045-NICAT
+changed:        20110505 04:01:16
+source:         AT-DOM
+
+personname:     Oliver Heberling
+organization:   Gruen3 GmbH
+street address: Kerschham 52
+postal code:    5221
+city:           Lochen
+country:        Austria
+phone:          +43774720002
+fax-no:         +43774720003
+e-mail:         tb.heberling@utanet.at
+nic-hdl:        GG7996046-NICAT
+changed:        20110505 04:01:16
+source:         AT-DOM
+
+personname:     Ernst Brandauer
+organization:   Ernst Brandauer IT-Services
+street address: Prof.-Schlosser-Str. 2
+postal code:    6330
+city:           Kufstein
+country:        Austria
+phone:          +436604040401
+fax-no:         +43180480532542
+e-mail:         domainverwaltung@brandauer.net
+nic-hdl:        EBIS7996047-NICAT
+changed:        20110505 04:01:16
+source:         AT-DOM
+

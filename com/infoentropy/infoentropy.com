@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V5CDN.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-oct-2010
-   Creation Date: 18-oct-2010
-   Expiration Date: 18-oct-2012
+   Domain Name: INFOENTROPY.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: DNS1.MIDPHASE.COM
+   Name Server: DNS2.MIDPHASE.COM
+   Status: ok
+   Updated Date: 05-apr-2011
+   Creation Date: 05-apr-2005
+   Expiration Date: 05-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:20:12 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Aplus.net makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Aplus.net (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   EdgeCast Networks Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V5CDN.NET
-
-   Domain servers in listed order:
-      NS1.EDGECASTCDN.NET
-      NS2.EDGECASTCDN.NET
+   Registrant:
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: infoentropy.com@domainlistingagent.com
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V5CDN.NET
+   Registrar Name....: Aplus.net
+   Registrar Homepage: www.aplus.net
+
+   Domain Name: infoentropy.com
+      Created on..............: 2005-04-05
+      Expires on..............: 2012-04-05
+
+   Administrative Contact:
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: infoentropy.com@domainlistingagent.com
+
+
+   Technical  Contact:
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: infoentropy.com@domainlistingagent.com
+
+
+   DNS Servers:
+      dns2.midphase.com
+      dns1.midphase.com
+

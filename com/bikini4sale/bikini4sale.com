@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V5CDN.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
+   Domain Name: BIKINI4SALE.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.WHYPARK.COM
+   Name Server: NS2.WHYPARK.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-oct-2010
-   Creation Date: 18-oct-2010
-   Expiration Date: 18-oct-2012
+   Updated Date: 04-aug-2011
+   Creation Date: 03-aug-2004
+   Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:20:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:20:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+bikini4sale.com is FOR SALE for US$499.00
+Please visit www.fabdom.com/bikini4sale.com now to purchase
+this domain name.
 
+Domain bikini4sale.com:
+  Protopixel Pty Ltd
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
 
-Registrant:
-   EdgeCast Networks Inc.
+Administrative contact:
+Technical contact:
+Billing contact:
+  Protopixel Pty Ltd
+  Domain Hostmaster
+  domain_hostmaster@protopixel.com
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+  Phone: +61.73007005
+  Fax: +61.73007001
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V5CDN.NET
+Record dates:
+  Record created on: 2004-08-03 09:36:23 UTC
+  Record modified on: 2011-08-04 07:11:15 UTC
+  Record expires on: 2012-08-03 UTC
 
-   Domain servers in listed order:
-      NS1.EDGECASTCDN.NET
-      NS2.EDGECASTCDN.NET
+Nameservers:
+  ns1.whypark.com:
+    66.197.94.155
+  ns2.whypark.com:
+    66.197.68.184
 
+Note: Automated collection of data from this database is strictly prohibited.
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V5CDN.NET

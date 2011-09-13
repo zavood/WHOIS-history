@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V5CDN.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
+   Domain Name: YOUBE.COM
+   Registrar: KOREA INFORMATION CERTIFICATE AUTHORITY INC DBA DOMAINCA.COM
+   Whois Server: whois.domainca.com
+   Referral URL: http://www.domainca.com
+   Name Server: DNS1.STARGATEINC.NET
+   Name Server: DNS2.STARGATEINC.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-oct-2010
-   Creation Date: 18-oct-2010
-   Expiration Date: 18-oct-2012
+   Updated Date: 31-dec-2010
+   Creation Date: 29-apr-2002
+   Expiration Date: 29-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:20:12 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to KICA, Inc. dba DomainCA.COM's WHOIS Service
+(Acceptable use policy for WHOIS service of DomainCA.com)
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+WHOIS information of DomainCA.com is provided by the database of DomainCA.com.
+We do not guarantee the accuracy about the purpose of providing information,
+the purpose of obtaining identity information, and the records of the domain registration.
 
+The requested WHOIS information is used only as a legitimate purpose,
+is not used for any other purpose such as the following.
+1) Commercial advertisement or solicitation mail/spam mail without the consent
+2) Automation of mass information process by applying DomainCA.com or DomainCA service system
+
+DomainCA reserves the right to add,
+delete or modify any provision of this policy at any time without notice.
+You have accepted and agreed to this policy by providing this information.
+
+Domain Name: YOUBE.COM
+Domain Status: REGISTRAR LOCK
+Registrar: Korea Information Certificate Authority, Inc. dba DomainCA.com
+Referral URL: http://www.DomainCA.com
 
 Registrant:
-   EdgeCast Networks Inc.
+    Dongjin Kim
+    Bupyeong Gu
+    3-204 Daedong APT, Bugae 3 Dong
+    Incheon,  403103
+    KR
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V5CDN.NET
+Administrative, Technical, Billing Contact:
+    Dongjin Kim   dko@dreamwiz.com
+    Bupyeong Gu
+    3-204 Daedong APT, Bugae 3 Dong
+    Incheon,   403103
+    KR
+    (TEL) +82.325031867, (FAX)
 
-   Domain servers in listed order:
-      NS1.EDGECASTCDN.NET
-      NS2.EDGECASTCDN.NET
+Domain Registration Date....: 2002-04-29 GMT.
+Domain Expiration Date......: 2012-04-29 GMT.
+Domain Last Updated Date....: 2010-12-31 11:11:02 GMT.
 
+Domain Name Servers in listed order:
+   DNS2.STARGATEINC.NET
+   DNS1.STARGATEINC.NET
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V5CDN.NET
+If a customer is not using our name server, the IP address of
+the customer's name server will not be displayed.
+
+Please register domain name at www.DomainCA.com.
