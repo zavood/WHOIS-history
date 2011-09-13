@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROR.NET
+   Domain Name: ROCKWELLSITE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.CONTEGIX.COM
-   Name Server: NS2.CONTEGIX.COM
+   Name Server: WEB.WEBSTREAM.NET
+   Name Server: WW2.WEBSTREAM.NET
    Status: clientTransferProhibited
-   Updated Date: 09-mar-2011
-   Creation Date: 26-jan-1998
-   Expiration Date: 25-jan-2014
+   Updated Date: 12-jul-2011
+   Creation Date: 13-aug-1997
+   Expiration Date: 12-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:35:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:36:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ror.net
+Whois Query: rockwellsite.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:26:09 EDT 2011
+Date and Time of Query: Mon Sep 12 20:26:17 EDT 2011
 Reason Code: IE

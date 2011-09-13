@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D82539367-LROR
+Domain Name:RVMT.ORG
+Created On:15-Jan-2002 18:16:18 UTC
+Last Updated On:09-Dec-2010 18:19:55 UTC
+Expiration Date:15-Jan-2013 18:16:18 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32848266
+Registrant Name:Adam Douglas
+Registrant Organization:Rivermont Collegiate
+Registrant Street1:1821 Sunset Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bettendorf
+Registrant State/Province:Iowa
+Registrant Postal Code:52722
+Registrant Country:US
+Registrant Phone:+1.5633591366
+Registrant Phone Ext.:
+Registrant FAX:+1.5633597576
+Registrant FAX Ext.:
+Registrant Email:douglas@rvmt.org
+Admin ID:CR32848268
+Admin Name:Adam Douglas
+Admin Organization:Rivermont Collegiate
+Admin Street1:1821 Sunset Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Bettendorf
+Admin State/Province:Iowa
+Admin Postal Code:52722
+Admin Country:US
+Admin Phone:+1.5633591366
+Admin Phone Ext.:
+Admin FAX:+1.5633597576
+Admin FAX Ext.:
+Admin Email:douglas@rvmt.org
+Tech ID:CR32848267
+Tech Name:Adam Douglas
+Tech Organization:Rivermont Collegiate
+Tech Street1:1821 Sunset Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Bettendorf
+Tech State/Province:Iowa
+Tech Postal Code:52722
+Tech Country:US
+Tech Phone:+1.5633591366
+Tech Phone Ext.:
+Tech FAX:+1.5633597576
+Tech FAX Ext.:
+Tech Email:douglas@rvmt.org
+Name Server:NS1.NETINS.NET
+Name Server:NS2.NETINS.NET
+Name Server:NS1-PUB.AEA9.K12.IA.US
+Name Server:NS2-PUB.AEA9.K12.IA.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
