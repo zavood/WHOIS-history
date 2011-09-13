@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRAZZERSMODELS.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Domain Name: CERTIFYDUMPS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.DISCOUNTASP.NET
+   Name Server: NS2.DISCOUNTASP.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 27-apr-2011
-   Creation Date: 02-oct-2008
-   Expiration Date: 02-oct-2012
+   Updated Date: 30-jul-2011
+   Creation Date: 27-jul-2006
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:11:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:10:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by the above policy.
-
-Whois History: 46 records have been archived since 2008-10-04
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=brazzersmodels.com
-
-Domain: brazzersmodels.com
-Registrar: Eurodns S.A.
 
 Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+	 Atif Hameed support@etechsol.com +92.425203501
+	 eTechsol.com
+	 104 N Model Town Ext.
+	 Lahore,Punjab,PK 54000
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+Domain Name:certifydumps.com
+Record last updated at 2011-07-30 02:58:23
+Record created on 2006/7/27
+Record expired on 2012/7/27
 
-Original Creation Date: 2008-10-02
-Expiration Date: 2012-10-01
 
-Status:
-clientTransferProhibited
+Domain servers in listed order:
+	 ns1.discountasp.net 	 ns2.discountasp.net
 
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
+Administrator:
+	 Name-- Atif Hameed
+ EMail-: (support@etechsol.com)
+ tel --: +92.425203501
+	 org: eTechsol.com
+	 104 N Model Town Ext.
+	 Lahore,Punjab,PK 54000
+
+Technical Contactor:
+	 Name-- Atif Hameed
+ EMail-: (support@etechsol.com)
+ tel --: +92.425203501
+	 org: eTechsol.com
+	 104 N Model Town Ext.
+	 Lahore,Punjab,PK 54000
+
+Billing Contactor:
+	 Name-- Atif Hameed
+ EMail-: (support@etechsol.com)
+ tel --: +92.425203501
+	 org: eTechsol.com
+	 104 N Model Town Ext.
+	 Lahore,Punjab,PK 54000
 
