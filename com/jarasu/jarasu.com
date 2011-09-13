@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.NET
+   Domain Name: JARASU.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
-   Status: clientDeleteProhibited
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 16-nov-1998
+   Updated Date: 25-oct-2010
+   Creation Date: 15-nov-2007
    Expiration Date: 15-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:53:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:53:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,47 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about cineca.net
-&lt;a href=&quot;http://www.aboutus.org/cineca.net&quot;&gt;AboutUs: cineca.net&lt;/a&gt;
+Visit AboutUs.org for more information about jarasu.com
+&lt;a href=&quot;http://www.aboutus.org/jarasu.com&quot;&gt;AboutUs: jarasu.com&lt;/a&gt;
 
 
-Domain name: cineca.net
+Domain name: jarasu.com
 
 Registrant Contact:
-   CINECA
-   Mario Lanzarini ()
+   DIGIROCK, INC.
+   VALUE DOMAIN ()
 
    Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Honmachi TS Building 6F Bakurou-cho 4-7-5,Chuo-ku
+   Osaka-shi, OSAKA-FU 541-0059
+   JP
 
 Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   DIGIROCK, INC.
+   VALUE DOMAIN (domain-contact@digi-rock.com)
+   +81.662416585
+   Fax: +81.662416586
+   Honmachi TS Building 6F Bakurou-cho 4-7-5,Chuo-ku
+   Osaka-shi, OSAKA-FU 541-0059
+   JP
 
 Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   DIGIROCK, INC.
+   VALUE DOMAIN (domain-contact@digi-rock.com)
+   +81.662416585
+   Fax: +81.662416586
+   Honmachi TS Building 6F Bakurou-cho 4-7-5,Chuo-ku
+   Osaka-shi, OSAKA-FU 541-0059
+   JP
 
 Status: Locked
 
 Name Servers:
-   dns.cineca.com
-   dns.cineca.it
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 16 Nov 1998 05:00:00
-Expiration date: 15 Nov 2011 05:00:00
+Creation date: 15 Nov 2007 14:40:32
+Expiration date: 15 Nov 2011 14:40:32
 
 
 

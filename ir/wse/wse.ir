@@ -1,0 +1,40 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'wse.ir'
+
+
+domain:		wse.ir
+ascii:		wse.ir
+remarks:	(Domain Holder) AliAkbar Majidi Kouhbanani
+remarks:	(Domain Holder Address) No. 9, Ghaem Blvd., Emam Reza Highway,, Kerman, Kerman, IR
+holder-c:	am981-irnic
+admin-c:	mi200-irnic
+tech-c:		mi200-irnic
+nserver:	ns1.sitelutions.com
+nserver:	ns2.sitelutions.com
+nserver:	ns3.sitelutions.com
+nserver:	ns4.sitelutions.com
+last-updated:	2011-09-03
+source:		IRNIC # Filtered
+
+nic-hdl:	am981-irnic
+person:		AliAkbar Majidi Kouhbanani
+e-mail:		aa.m.sky@gmail.com
+address:	No. 9, Ghaem Blvd., Emam Reza Highway,, Kerman, Kerman, IR
+phone:		+989132426494
+fax-no:		+989132426494
+source:		IRNIC # Filtered
+
+nic-hdl:	mi200-irnic
+org:		MIZBAN24 IT SOLUTIONS
+e-mail:		support@mizban24.com
+address:	No. 9, Ghaem Blvd, Emam Reza Highway, Kerman, Kerman, IR
+phone:		+98 913 242 6494
+source:		IRNIC # Filtered
+

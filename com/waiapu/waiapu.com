@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
-   Status: clientDeleteProhibited
+   Domain Name: WAIAPU.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.MAXNET.NET.NZ
+   Name Server: NS2.MAXNET.NET.NZ
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 16-nov-1998
-   Expiration Date: 15-nov-2011
+   Updated Date: 08-jul-2010
+   Creation Date: 19-apr-2007
+   Expiration Date: 19-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:53:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:53:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,67 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about cineca.net
-&lt;a href=&quot;http://www.aboutus.org/cineca.net&quot;&gt;AboutUs: cineca.net&lt;/a&gt;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
-Domain name: cineca.net
+Registrant:
+	  domains@neocom.co.nz +64.68355534
+	 Neocom Ltd
+	 PO Box 822
+	 Napier,Napier,NZ 4110
 
-Registrant Contact:
-   CINECA
-   Mario Lanzarini ()
 
-   Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Domain Name:waiapu.com
+Record last updated at
+Record created on 2007/4/19
+Record expired on 2013/4/19
 
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
 
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+Domain servers in listed order:
+	 ns1.maxnet.net.nz 	 ns2.maxnet.net.nz
 
-Status: Locked
+Administrator:
+	 Raffles Street cliff@hb.ang.org.nz +64.68355534
+	 Houston, Cliff  cliff@hb.ang.org.nz
+	 Napier,  4110
+	 NZ,Auckland,NZ 1035
 
-Name Servers:
-   dns.cineca.com
-   dns.cineca.it
+Technical Contactor:
+	 Derek Gaeth webmaster@maxnet.co.nz +64.93007555
+	 Maxnet Ltd
+	 P.O. Box 8006
+	 Auckland,Auckland,NZ 1035
 
-Creation date: 16 Nov 1998 05:00:00
-Expiration date: 15 Nov 2011 05:00:00
+Billing Contactor:
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+	 ,,
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+
+Registration Service Provider:
+	name: Maximum Internet Limited
+	tel: +64.93007222
+ 	fax: +64.93007227
+ 	web:http://www.maxnet.co.nz

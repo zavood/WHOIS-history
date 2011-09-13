@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CINECA.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS.CINECA.COM
-   Name Server: DNS.CINECA.IT
-   Status: clientDeleteProhibited
+   Domain Name: HOWMET.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: DMZADC-DNS1.WAN.ALCOA.COM
+   Name Server: DMZADC-DNS2.WAN.ALCOA.COM
+   Name Server: DMZTDC-DNS3.WAN.ALCOA.COM
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 16-nov-1998
-   Expiration Date: 15-nov-2011
+   Updated Date: 18-aug-2011
+   Creation Date: 18-aug-1994
+   Expiration Date: 17-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:53:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:54:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,67 +52,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about cineca.net
-&lt;a href=&quot;http://www.aboutus.org/cineca.net&quot;&gt;AboutUs: cineca.net&lt;/a&gt;
 
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Domain name: cineca.net
+Registrant:
+   Alcoa Inc.
+   100 Technical Drive
+   Alcoa Center, PA 15069
+   US
 
-Registrant Contact:
-   CINECA
-   Mario Lanzarini ()
+   Domain Name: HOWMET.COM
 
-   Fax:
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Administrative Contact:
+      Alcoa Inc.
+      Domain Manager
+      100 Technical Drive
+      Alcoa Center, PA 15069
+      US
+      (724)337-4986
+      (724)337-5959 [fax]
+      chidomainmanagement@gtlaw.com
 
-Administrative Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Technical Contact, Zone Contact:
+      Alcoa Inc.
+      Domain Manager
+      100 Technical Drive
+      Alcoa Center, PA 15069
+      US
+      (724)337-4986
+      (724)337-5959 [fax]
+      domain.names@alcoa.com
 
-Technical Contact:
-   CINECA
-   Hostmaster Cineca (hostmaster@cineca.it)
-   +39.0516171411
-   Fax: +39.0512130211
-   Via Magnanelli 6/3
-   Casalecchio di Reno, BO 40033
-   IT
+   Domain created on 18-Aug-1994
+   Domain expires on 16-Aug-2012
+   Last updated on 01-Jun-2011
 
-Status: Locked
+   Domain servers in listed order:
 
-Name Servers:
-   dns.cineca.com
-   dns.cineca.it
+      DMZADC-DNS1.WAN.ALCOA.COM
+      DMZADC-DNS2.WAN.ALCOA.COM
+      DMZTDC-DNS3.WAN.ALCOA.COM
 
-Creation date: 16 Nov 1998 05:00:00
-Expiration date: 15 Nov 2011 05:00:00
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
