@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OFFICIALSHORTSALESECRETS.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: NHEOS.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS1.NHEOS.COM
+   Name Server: NS2.NHEOS.COM
+   Name Server: NS3.NHEOS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 28-sep-2007
-   Expiration Date: 28-sep-2011
+   Updated Date: 08-nov-2010
+   Creation Date: 05-nov-2010
+   Expiration Date: 05-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:18:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:17:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+Welcome to GABIA.COM's WHOIS data service.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
+Registrant : NHN Corp.
+	NHN Green Factory.,178-1, Jeongja-dong, Bundang-gu, Seongnam-si
+	(463867)
 
-Registrant:
-   Joseph Bridges
+	Domain Name:  NHEOS.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-   Registered through: TopAgentDomains.com
-   Domain Name: OFFICIALSHORTSALESECRETS.COM
+	Administrative, Technical, Billing Contact:
+		NHN Corp.
+		NHN Green Factory.,178-1, Jeongja-dong, Bundang-gu, Seongnam-si
+		(Tel) 031-784-3740	(fax) 031-784-1000
 
-   Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+	Record created on 	NOVEMBER  05, 2010
+	Record expires on 	NOVEMBER  05, 2012
+	Record last updated on 	NOVEMBER  09, 2010
 
+	Domain servers in listed order:
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=OFFICIALSHORTSALESECRETS.COM&amp;prog_id=421774
+	ns1.nheos.com
+	ns2.nheos.com
+	ns3.nheos.com
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

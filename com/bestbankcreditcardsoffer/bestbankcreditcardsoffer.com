@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OFFICIALSHORTSALESECRETS.COM
+   Domain Name: BESTBANKCREDITCARDSOFFER.COM
    Registrar: WILD WEST DOMAINS, INC.
    Whois Server: whois.wildwestdomains.com
    Referral URL: http://www.wildwestdomains.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
+   Name Server: NS753.WEBSITEWELCOME.COM
+   Name Server: NS754.WEBSITEWELCOME.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 28-sep-2007
-   Expiration Date: 28-sep-2011
+   Updated Date: 04-jan-2011
+   Creation Date: 07-feb-2009
+   Expiration Date: 07-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:18:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:17:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 
 Registrant:
-   Joseph Bridges
+   Gabe Hefnaoui
 
-   Registered through: TopAgentDomains.com
-   Domain Name: OFFICIALSHORTSALESECRETS.COM
+   Registered through: Aitco Best Domains
+   Domain Name: BESTBANKCREDITCARDSOFFER.COM
 
    Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+      NS753.WEBSITEWELCOME.COM
+      NS754.WEBSITEWELCOME.COM
 
 
    For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=OFFICIALSHORTSALESECRETS.COM&amp;prog_id=421774
+   http://who.securepaynet.net/whoischeck.aspx?Domain=BESTBANKCREDITCARDSOFFER.COM&amp;prog_id=443276

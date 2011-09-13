@@ -1,0 +1,85 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 21:18:30 2011
+
+domain:       farnost.cz
+registrant:   SB:IK788-RIPE_XX
+admin-c:      HEJTI
+admin-c:      IK788-RIPE
+nsset:        NSSID:IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   13.01.2000 14:12:00
+changed:      01.09.2008 22:54:10
+expire:       17.01.2012
+
+contact:      SB:IK788-RIPE_XX
+org:          Ivo Kylar
+name:         Ivo Kylar
+address:      Fricova 1240
+address:      Dobris
+address:      263 01
+address:      CZ
+e-mail:       ivo.kylar@gmail.com
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      02.04.2005 16:25:00
+
+contact:      HEJTI
+name:         Jan &Aring;&nbsp;edo
+address:      &Auml;Œs. arm&Atilde;&iexcl;dy 492
+address:      Luka nad Jihlavou
+address:      58822
+address:      CZ
+phone:        +420.777129639
+e-mail:       sedo@tvorime.net
+registrar:    REG-IGNUM
+created:      16.03.2006 23:15:00
+
+contact:      IK788-RIPE
+name:         Ivo Kylar
+address:      Fricova 1240
+address:      Dobris
+address:      26301
+address:      CZ
+phone:        +420.608072357
+e-mail:       ivo.kylar@gmail.com
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      02.04.2005 16:05:00
+
+nsset:        NSSID:IGNUM
+nserver:      ns2.ignum.cz
+nserver:      ns1.ignum.com
+tech-c:       CID:IGN-C117990-YN5
+registrar:    REG-IGNUM
+created:      20.09.2006 09:55:39
+changed:      12.09.2007 11:26:06
+
+contact:      CID:IGN-C117990-YN5
+org:          Ignum, s.r.o.
+name:         Marek Erneker
+address:      Th&Atilde;&iexcl;mova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+registrar:    REG-IGNUM
+created:      11.09.2007 15:28:03
+
+
