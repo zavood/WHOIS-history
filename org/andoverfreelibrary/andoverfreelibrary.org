@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106118255-LROR
+Domain Name:ANDOVERFREELIBRARY.ORG
+Created On:19-Apr-2005 17:36:11 UTC
+Last Updated On:19-Apr-2011 18:19:44 UTC
+Expiration Date:19-Apr-2013 17:36:11 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:F756436462577004
+Registrant Name:Evelyn Smith
+Registrant Organization:Andover Free Library
+Registrant Street1:PO Box 751
+Registrant Street2:
+Registrant Street3:
+Registrant City:Andover
+Registrant State/Province:NY
+Registrant Postal Code:14806
+Registrant Country:US
+Registrant Phone:+1.6074788442
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:smithe@stls.org
+Admin ID:B62F710932037A13
+Admin Name:Evelyn Smith
+Admin Organization:Andover Free Library
+Admin Street1:PO Box 751
+Admin Street2:
+Admin Street3:
+Admin City:Andover
+Admin State/Province:NY
+Admin Postal Code:14806
+Admin Country:US
+Admin Phone:+1.6074788442
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:smithe@stls.org
+Tech ID:D8D6DC8E7F02625A
+Tech Name:Hostmaster Role Account
+Tech Organization:Globat, LLC.
+Tech Street1:11288 Ventura Blvd. #443b
+Tech Street2:
+Tech Street3:
+Tech City:Studio City
+Tech State/Province:CA
+Tech Postal Code:91604
+Tech Country:US
+Tech Phone:+1.3234175167
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@globat.com
+Name Server:NS1.DNSJUNCTION.COM
+Name Server:NS2.DNSJUNCTION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
