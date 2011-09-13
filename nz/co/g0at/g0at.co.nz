@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T10:13:07+12:00
+domain_name: g0at.co.nz
+query_status: 200 Active
+domain_dateregistered: 2006-08-15T09:59:40+12:00
+domain_datebilleduntil: 2012-09-15T09:59:40+12:00
+domain_datelastmodified: 2011-08-16T11:41:49+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domain Agent
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 0055
+registrar_fax: +64 9 475 5976
+registrar_email: dns@domainagent.co.nz
+%
+registrant_contact_name: Cameron Reed
+registrant_contact_address1: 3 Francis Curtis Ave
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 0600
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 6271057
+registrant_contact_email: cameronr@newerait.co.nz
+%
+admin_contact_name: Mr. Cameron Reed
+admin_contact_address1: 3 Francis Curtis Ave
+admin_contact_city: Auckland
+admin_contact_postalcode: 0600
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 6271057
+admin_contact_email: cameronr@newerait.co.nz
+%
+technical_contact_name: Webbase Domains
+technical_contact_address1: PO Box 302829
+technical_contact_city: North Shore City
+technical_contact_province: Auckland
+technical_contact_postalcode: 0632
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 800 932227
+technical_contact_email: support@webbase.co.nz
+%
+ns_name_01: ns1.webbase.net.nz
+ns_name_02: ns2.webbase.net.nz
+ns_name_03: ns3.webbase.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

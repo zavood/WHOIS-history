@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105944004-LROR
+Domain Name:NJGSBC.ORG
+Created On:22-Mar-2005 23:03:25 UTC
+Last Updated On:28-Feb-2011 16:46:56 UTC
+Expiration Date:22-Mar-2012 23:03:25 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11222429
+Registrant Name:Afina Broekman
+Registrant Organization:Genealogical Society of Bergen County
+Registrant Street1:P. O. Box 432
+Registrant Street2:
+Registrant Street3:
+Registrant City:Midland Park
+Registrant State/Province:New Jersey
+Registrant Postal Code:07432
+Registrant Country:US
+Registrant Phone:+201.7038699
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:njgsbc@gmail.com
+Admin ID:DI_11222429
+Admin Name:Afina Broekman
+Admin Organization:Genealogical Society of Bergen County
+Admin Street1:P. O. Box 432
+Admin Street2:
+Admin Street3:
+Admin City:Midland Park
+Admin State/Province:New Jersey
+Admin Postal Code:07432
+Admin Country:US
+Admin Phone:+201.7038699
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:njgsbc@gmail.com
+Tech ID:DI_11222429
+Tech Name:Afina Broekman
+Tech Organization:Genealogical Society of Bergen County
+Tech Street1:P. O. Box 432
+Tech Street2:
+Tech Street3:
+Tech City:Midland Park
+Tech State/Province:New Jersey
+Tech Postal Code:07432
+Tech Country:US
+Tech Phone:+201.7038699
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:njgsbc@gmail.com
+Name Server:NS1.GOSSIMER.COM
+Name Server:NS2.GOSSIMER.COM
+Name Server:NS3.GOSSIMER.COM
+Name Server:NS4.GOSSIMER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
