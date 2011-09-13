@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MCCLUREOILCORP.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 10-jun-2003
-   Expiration Date: 10-jun-2014
+   Domain Name: MCGUIRE-NICHOLAS.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.CHRL.TWTELECOM.NET
+   Name Server: NS1.SNAN.TWTELECOM.NET
+   Status: ok
+   Updated Date: 31-may-2011
+   Creation Date: 30-may-2002
+   Expiration Date: 30-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:50:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:50:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
-   McClure Oil Corporation
+   PRO PRINTS
+   4788 South Lincoln Blvd
+   Marion, IN 46953
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MCCLUREOILCORP.COM
+   Domain Name: MCGUIRE-NICHOLAS.COM
+
+   Administrative Contact:
+      Rooster Products International
+      Jose Luis Gonzalez
+      17280 N. Green Mountain Rd.
+      San Antonio, Texas 78247
+      US
+      +210.6515288
+      +1.0 [fax]
+      jgonzalez@roostergroup.com
+
+   Technical Contact, Zone Contact:
+      PRO PRINTS
+      Ross Hoffman
+      4788 South Lincoln Blvd
+      Marion, IN 46953
+      US
+      (765)674-8627
+      (765)674-8760 [fax]
+      discard@tierra.net
+
+   Domain created on 30-May-2002
+   Domain expires on 30-May-2015
+   Last updated on 01-Jun-2010
 
    Domain servers in listed order:
-      CBRU.BR.NS.ELS-GMS.ATT.NET
-      CMTU.MT.NS.ELS-GMS.ATT.NET
+
+      NS1.SNAN.TWTELECOM.NET
+      NS1.CHRL.TWTELECOM.NET
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MCCLUREOILCORP.COM
+
