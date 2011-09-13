@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAILBLAZERS.COM
+   Domain Name: BLUECOAT.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
-   Name Server: NS40.NBA.COM
-   Name Server: NS50.NBA.COM
+   Name Server: EPONYM.BLUECOAT.COM
+   Name Server: PLSV2-F5NGTM-02-DNS.BLUECOAT.COM
+   Name Server: PLSVL-F5NGTM-01-DNS.BLUECOAT.COM
+   Name Server: SYNONYM.BLUECOAT.COM
    Status: clientTransferProhibited
-   Updated Date: 04-sep-2010
-   Creation Date: 09-sep-1996
-   Expiration Date: 08-sep-2012
+   Updated Date: 21-mar-2011
+   Creation Date: 06-mar-2002
+   Expiration Date: 06-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:03:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:01:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,45 +61,38 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      NBA Media Ventures, LLC , c/o Television and New Media Ventures
-      Internic Administrator
-      645 5th Ave., 10th Floor .
-      New York, NY 10022
+      Blue Coat Systems
+      Bluecoat Hostmaster
+      420 N Mary Ave
+      Sunnyvale, CA 94085
       US
-      Email: internicadmin@nba.com
+      Email: hostmaster@bluecoat.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: trailblazers.com
+   Domain Name: bluecoat.com
 
-      Created on..............: Mon, Sep 09, 1996
-      Expires on..............: Sat, Sep 08, 2012
-      Record last updated on..: Sat, Sep 04, 2010
+      Created on..............: Wed, Mar 06, 2002
+      Expires on..............: Tue, Mar 06, 2012
+      Record last updated on..: Mon, Mar 21, 2011
 
-   Administrative Contact:
-      NBA Properties
-      Information Technology
-      100 Plaza Drive 3rd Fl .
-      Secaucus, NJ 07094
+   Administrative,Technical Contact:
+      Blue Coat Systems
+      Bluecoat Hostmaster
+      420 N Mary Ave
+      Sunnyvale, CA 94085
       US
-      Phone: 001-201-9746996
-      Email: internicadmin@nba.com
-
-   Technical Contact:
-      NBA
-      DNS Team
-      100 Plaza Drive .
-      Secaucus, NJ 07094
-      US
-      Phone: 001-201-9746169
-      Email: internicadmin@NBA.COM
+      Phone: +1.4082202200
+      Email: hostmaster@bluecoat.com
 
    DNS Servers:
 
-   ns40.nba.com
-   ns50.nba.com
+   plsvl-f5ngtm-01-dns.bluecoat.com
+   plsv2-f5ngtm-02-dns.bluecoat.com
+   eponym.bluecoat.com
+   synonym.bluecoat.com
 
 
 Register your domain name at http://www.cscglobal.com
