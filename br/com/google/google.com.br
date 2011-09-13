@@ -5,13 +5,45 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 05:36:21 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-12 23:30:58 (BRT -03:00)
 
 domain:      google.com.br
-owner:       Google Inc (813425)
+owner:       Google Inc
+ownerid:     006.947.284/0001-04
+responsible: Contato Administrativo Google Inc
+country:     BR
+owner-c:     COAGO
+admin-c:     COAGO
+tech-c:      NAB51
+billing-c:   NAB51
+nserver:     ns1.google.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.google.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.google.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns4.google.com
+nsstat:      20110910 NOT SYNC ZONE
+nslastaa:    20110910
+created:     19990518 #162310
+expires:     20120518
+changed:     20110429
+status:      published
+
+nic-hdl-br:  COAGO
+person:      Contato Administrativo Google
+e-mail:      contatoregistrobr@gmail.com
+created:     20060704
+changed:     20060704
+
+nic-hdl-br:  NAB51
+person:      NameAction do Brasil
+e-mail:      vtapia@nameaction.com
+created:     20020619
+changed:     20090504
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

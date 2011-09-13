@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:29:23 (BRT -03:00)
+
+domain:      flaroots.com.br
+owner:       Leonardo Jos&eacute; Gon&ccedil;alves Novais
+ownerid:     090.586.837-45
+country:     BR
+owner-c:     ROPAN15
+admin-c:     ROPAN15
+tech-c:      ROPAN15
+billing-c:   ROPAN15
+nserver:     dns53.serversp.net
+nsstat:      20110911 UDN
+nslastaa:    20110710
+nserver:     dns54.serversp.net
+nsstat:      20110911 UDN
+nslastaa:    20110710
+created:     20090713 #5777193
+expires:     20110713
+changed:     20110727
+status:      on-hold
+
+nic-hdl-br:  ROPAN15
+person:      Rodrigo P de Andrade
+e-mail:      shopinhome@shopinhome.com.br
+created:     20080503
+changed:     20100731
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
