@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HIDIS.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.NAMERESOLVE.COM
-   Name Server: NS2.NAMERESOLVE.COM
-   Name Server: NS3.NAMERESOLVE.COM
-   Name Server: NS4.NAMERESOLVE.COM
-   Status: clientDeleteProhibited
+   Domain Name: SUROVELL.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.DELTAGROUP.COM
+   Name Server: NS2.DELTAGROUP.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 06-aug-2004
-   Expiration Date: 06-aug-2012
+   Updated Date: 12-jun-2008
+   Creation Date: 14-sep-1995
+   Expiration Date: 13-sep-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:45:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:45:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,51 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Registrant:
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-   Registrar: DOTREGISTRAR
-   Domain Name: HIDIS.NET
-      Created on: 06-AUG-04
-      Expires on: 06-AUG-11
-      Last Updated on: 07-AUG-11
+http://www.networksolutions.com/whois/index.jhtml
 
-   Administrative, Technical Contact:
-   pending-delete@registerapi.com
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
-   +1.360-449-5933
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-   Domain servers in listed order:
-      NS1.NAMERESOLVE.COM
-      NS2.NAMERESOLVE.COM
-      NS3.NAMERESOLVE.COM
-      NS4.NAMERESOLVE.COM
-
-End of Whois Information
+Whois Query: surovell.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 16:34:47 EDT 2011
+Reason Code: IE

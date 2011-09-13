@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106898517-LROR
+Domain Name:TSUTTONMINISTRIES.ORG
+Created On:13-Jul-2005 18:38:08 UTC
+Last Updated On:14-Jul-2011 01:26:01 UTC
+Expiration Date:13-Jul-2012 18:38:08 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-Z06DOWX70CSA
+Registrant Name:Tim Sutton
+Registrant Organization:Tim Sutton Ministries
+Registrant Street1:PO Box 32
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lewisville
+Registrant State/Province:NC
+Registrant Postal Code:27023
+Registrant Country:US
+Registrant Phone:+1.3369453652
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tsuttonministries@windstream.net
+Admin ID:DOT-0MYQJF1AG1P7
+Admin Name:Tim Sutton
+Admin Organization:Tim Sutton Ministries
+Admin Street1:PO Box 32
+Admin Street2:
+Admin Street3:
+Admin City:Lewisville
+Admin State/Province:NC
+Admin Postal Code:27023
+Admin Country:US
+Admin Phone:+1.3369453652
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tsuttonministries@windstream.net
+Tech ID:DOT-0IRSK894SBGF
+Tech Name:Tim Sutton
+Tech Organization:Tim Sutton Ministries
+Tech Street1:PO Box 32
+Tech Street2:
+Tech Street3:
+Tech City:Lewisville
+Tech State/Province:NC
+Tech Postal Code:27023
+Tech Country:US
+Tech Phone:+1.3369453652
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tsuttonministries@windstream.net
+Name Server:DNS.BIZSITESERVICE.COM
+Name Server:DNS2.BIZSITESERVICE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

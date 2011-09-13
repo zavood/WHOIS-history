@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HIDIS.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.NAMERESOLVE.COM
-   Name Server: NS2.NAMERESOLVE.COM
-   Name Server: NS3.NAMERESOLVE.COM
-   Name Server: NS4.NAMERESOLVE.COM
+   Domain Name: TIMBERRIDGERESORT.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.REDANVIL.NET
+   Name Server: NS2.REDANVIL.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 06-aug-2004
-   Expiration Date: 06-aug-2012
+   Updated Date: 20-jan-2010
+   Creation Date: 20-nov-2000
+   Expiration Date: 20-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:45:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:47:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,30 +74,38 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
+   Marcus Corporation
+   100 E. Wisconsin Ave
+   Milwaukee, WI  53202
    US
 
-   Registrar: DOTREGISTRAR
-   Domain Name: HIDIS.NET
-      Created on: 06-AUG-04
-      Expires on: 06-AUG-11
-      Last Updated on: 07-AUG-11
+   Registrar: DOTSTER
+   Domain Name: TIMBERRIDGERESORT.COM
+      Created on: 20-NOV-00
+      Expires on: 20-NOV-11
+      Last Updated on: 20-MAY-10
 
-   Administrative, Technical Contact:
-   pending-delete@registerapi.com
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
-   +1.360-449-5933
+   Administrative Contact:
+      Steeves, Pamela  pamsteeves@marcuscorp.com
+      The Marcus Corporation
+      100 E Wisconsin Avenue
+      Milwaukee, Wisconsin  53202
+      US
+      414-905-1000
+      414-905-1687
+
+   Technical Contact:
+      Burton, Michelle  michelleburton@marcuscorp.com
+      The Marcus Corporation
+      100 E Wisconsin Avenue
+      Milwaukee, Wisconsin  53202
+      US
+      414-905-1000
+      414-905-1687
 
 
    Domain servers in listed order:
-      NS1.NAMERESOLVE.COM
-      NS2.NAMERESOLVE.COM
-      NS3.NAMERESOLVE.COM
-      NS4.NAMERESOLVE.COM
+      NS1.REDANVIL.NET
+      NS2.REDANVIL.NET
 
 End of Whois Information

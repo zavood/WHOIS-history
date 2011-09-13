@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HIDIS.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.NAMERESOLVE.COM
-   Name Server: NS2.NAMERESOLVE.COM
-   Name Server: NS3.NAMERESOLVE.COM
-   Name Server: NS4.NAMERESOLVE.COM
-   Status: clientDeleteProhibited
+   Domain Name: TRANSACTIONDALGERIE.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS.DNSPROTECT.COM
+   Name Server: NS2.DNSPROTECT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 06-aug-2004
-   Expiration Date: 06-aug-2012
+   Updated Date: 04-mar-2011
+   Creation Date: 03-mar-2008
+   Expiration Date: 03-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:45:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:46:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,51 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
 
 Registrant:
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
-
-   Registrar: DOTREGISTRAR
-   Domain Name: HIDIS.NET
-      Created on: 06-AUG-04
-      Expires on: 06-AUG-11
-      Last Updated on: 07-AUG-11
-
-   Administrative, Technical Contact:
-   pending-delete@registerapi.com
-   Pending Deletion
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
-   +1.360-449-5933
+	 ihaddadene  ahcene info@adnconcept.net +213.70926870
+	 ADN CONCEPT
+	 557, CITE EPLF BEJAIA BLOC 36
+	 Alger,BAB EZZOUAR,DZ 16000
 
 
-   Domain servers in listed order:
-      NS1.NAMERESOLVE.COM
-      NS2.NAMERESOLVE.COM
-      NS3.NAMERESOLVE.COM
-      NS4.NAMERESOLVE.COM
+Domain Name:transactiondalgerie.com
+Record last updated at 2011-03-06 03:46:05
+Record created on 2008/3/3
+Record expired on 2012/3/3
 
-End of Whois Information
+
+Domain servers in listed order:
+	 ns.dnsprotect.com 	 ns2.dnsprotect.com
+
+Administrator:
+	 name:(ihaddadene  ahcene)
+	Email:(info@adnconcept.net) tel-- +213.70926870
+	 ADN CONCEPT
+	 557, CITE EPLF BEJAIA BLOC 36
+\r
+t Alger
+BAB EZZOUAR,
+DZ
+
+ zipcode:16000
+
+Technical Contactor:
+	 name:(ihaddadene  ahcene)
+	Email:(info@adnconcept.net) tel-- +213.70926870
+	 ADN CONCEPT
+	 557, CITE EPLF BEJAIA BLOC 36
+\r
+t Alger
+BAB EZZOUAR,
+DZ
+
+ zipcode:16000
+
+Billing Contactor:
+	 name:(ihaddadene  ahcene)
+	Email:(info@adnconcept.net) tel-- +213.70926870
+	 ADN CONCEPT
+	 557, CITE EPLF BEJAIA BLOC 36
+\r
+t Alger
+BAB EZZOUAR,
+DZ
+
+ zipcode:16000
+
+
+Registration Service Provider:
+	name: ADN CONCEPT
+	tel: +213.70926870
+ 	fax: +213.70926870
+ 	web:http://www.adnconcept.net

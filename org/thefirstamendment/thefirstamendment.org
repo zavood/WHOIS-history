@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2283017-LROR
+Domain Name:THEFIRSTAMENDMENT.ORG
+Created On:27-Oct-1998 05:00:00 UTC
+Last Updated On:04-Apr-2006 20:12:58 UTC
+Expiration Date:26-Oct-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38087640-NSI
+Registrant Name:First Amendment Project
+Registrant Organization:First Amendment Project
+Registrant Street1:1736 Franklin Street
+Registrant Street2:9th floor
+Registrant Street3:
+Registrant City:Oakland
+Registrant State/Province:CA
+Registrant Postal Code:94612
+Registrant Country:US
+Registrant Phone:+1.5102084555
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38087640-NSI
+Admin Name:First Amendment Project
+Admin Organization:First Amendment Project
+Admin Street1:1736 Franklin Street
+Admin Street2:9th floor
+Admin Street3:
+Admin City:Oakland
+Admin State/Province:CA
+Admin Postal Code:94612
+Admin Country:US
+Admin Phone:+1.5102084555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:38087640-NSI
+Tech Name:First Amendment Project
+Tech Organization:First Amendment Project
+Tech Street1:1736 Franklin Street
+Tech Street2:9th floor
+Tech Street3:
+Tech City:Oakland
+Tech State/Province:CA
+Tech Postal Code:94612
+Tech Country:US
+Tech Phone:+1.5102084555
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS1.LAUGHINGSQUID.NET
+Name Server:NS2.LAUGHINGSQUID.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
