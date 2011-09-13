@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JUEGOSHACKEADOS.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS57.DOMAINCONTROL.COM
-   Name Server: NS58.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DAILYKAWISH.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.OURHOSTINGSERVERS.COM
+   Name Server: NS2.OURHOSTINGSERVERS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-nov-2010
-   Creation Date: 20-nov-2010
-   Expiration Date: 20-nov-2011
+   Updated Date: 02-sep-2011
+   Creation Date: 13-sep-2002
+   Expiration Date: 13-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:36:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:34:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
-
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about dailykawish.com
+&lt;a href=&quot;http://www.aboutus.org/dailykawish.com&quot;&gt;AboutUs: dailykawish.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: dailykawish.com
 
-   Registered through: Fire Domains
-   Domain Name: JUEGOSHACKEADOS.COM
+Registrant Contact:
+   Soomrosons International
+   Lateef Soomro ()
 
-   Domain servers in listed order:
-      NS57.DOMAINCONTROL.COM
-      NS58.DOMAINCONTROL.COM
+   Fax:
+   Jacobabad
+   -
+   Jacobabad, SINDH 54321
+   PK
+
+Administrative Contact:
+   Soomrosons International
+   Lateef Soomro (info@soomrosons.com.pk)
+   +92.987654321
+   Fax: +92.987654321
+   Jacobabad
+   -
+   Jacobabad, SINDH 54321
+   PK
+
+Technical Contact:
+   Soomrosons International
+   Lateef Soomro (info@soomrosons.com.pk)
+   +92.987654321
+   Fax: +92.987654321
+   Jacobabad
+   -
+   Jacobabad, SINDH 54321
+   PK
+
+Status: Locked
+
+Name Servers:
+   ns1.ourhostingservers.com
+   ns2.ourhostingservers.com
+
+Creation date: 13 Sep 2002 09:03:18
+Expiration date: 13 Sep 2012 09:04:00
 
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=JUEGOSHACKEADOS.COM&amp;prog_id=psyon
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
