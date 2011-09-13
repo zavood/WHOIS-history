@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162263696-LROR
+Domain Name:OPPCC.ORG
+Created On:13-May-2011 14:31:39 UTC
+Last Updated On:13-Jul-2011 03:51:10 UTC
+Expiration Date:13-May-2012 14:31:39 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:OK
+Registrant ID:nec06bgro5zif48s
+Registrant Name:aswindha yudha paksi
+Registrant Organization:aswindha yudha paksi
+Registrant Street1:jl. karang taruna 1 48 B
+Registrant Street2:dinoyo
+Registrant Street3:
+Registrant City:malang
+Registrant State/Province:jawa timur
+Registrant Postal Code:65144
+Registrant Country:ID
+Registrant Phone:+62.0856456342
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mansur.caem@gmail.com
+Admin ID:nec06bgro5zif48s
+Admin Name:aswindha yudha paksi
+Admin Organization:aswindha yudha paksi
+Admin Street1:jl. karang taruna 1 48 B
+Admin Street2:dinoyo
+Admin Street3:
+Admin City:malang
+Admin State/Province:jawa timur
+Admin Postal Code:65144
+Admin Country:ID
+Admin Phone:+62.0856456342
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mansur.caem@gmail.com
+Tech ID:nec06bgro5zif48s
+Tech Name:aswindha yudha paksi
+Tech Organization:aswindha yudha paksi
+Tech Street1:jl. karang taruna 1 48 B
+Tech Street2:dinoyo
+Tech Street3:
+Tech City:malang
+Tech State/Province:jawa timur
+Tech Postal Code:65144
+Tech Country:ID
+Tech Phone:+62.0856456342
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mansur.caem@gmail.com
+Name Server:NS2563.HOSTGATOR.COM
+Name Server:NS2564.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
