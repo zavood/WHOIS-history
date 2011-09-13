@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: 141XM.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.OGILVYEUROPE.COM
+   Name Server: NS111.OGILVY.COM
+   Name Server: NS2.OGILVYEUROPE.COM
+   Name Server: NS4.OGILVY.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Updated Date: 25-jan-2010
+   Creation Date: 26-jun-2002
+   Expiration Date: 26-jun-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
 
@@ -53,43 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: 141xm.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 16:08:55 EDT 2011
+Reason Code: IE

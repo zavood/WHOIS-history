@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: CLUBLEGENDES.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.YELLIS.NET
+   Name Server: NS2.YELLIS.NET
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Updated Date: 03-dec-2009
+   Creation Date: 18-dec-2002
+   Expiration Date: 18-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       clublegendes.com
+owner:        A TRANCHANT
+email:        tranchant@laposte.net
+address:      138 AVENUE GENERAL LECLERC
+city:         NANCY
+postal-code:  54000
+country:      FR
+phone:        +338.3535049
+admin-c:      CCOM-87656 pub.tranchant@free.fr
+tech-c:       CCOM-87656 pub.tranchant@free.fr
+billing-c:    CCOM-87656 pub.tranchant@free.fr
+nserver:      ns1.yellis.net
+nserver:      ns2.yellis.net
+status:       lock
+created:      2002-12-18 14:23:48 UTC
+modified:     2009-12-03 12:02:44 UTC
+expires:      2014-12-18 19:23:48 UTC
+query-source: 174.142.225.246
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
+contact-hdl:  CCOM-87656
+person:       ALEXANDRE TRANCHANT
+email:        pub.tranchant@free.fr
+address:      138 AVENUE GENERAL LECLERC
+city:         NANCY
+postal-code:  54000
+country:      FR
+phone:        +33.383535049
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
-
-
+source:       joker.com live whois service
+query-time:   0.016781
+db-updated:   2011-09-13 20:14:28
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

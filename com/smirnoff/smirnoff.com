@@ -5,20 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
+   Domain Name: SMIRNOFF.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Updated Date: 01-sep-2010
+   Creation Date: 27-jul-1995
+   Expiration Date: 26-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +57,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
+Domain Name.......... smirnoff.com
+  Creation Date........ 1995-07-27
+  Registration Date.... 2007-01-26
+  Expiry Date.......... 2016-07-26
+  Organisation Name.... Diageo North America, Inc
+  Organisation Address. 801 Main Avenue,
   Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
+  Organisation Address. Norwalk, Connecticut
+  Organisation Address. 6851
+  Organisation Address. -
   Organisation Address. UNITED STATES
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
+Admin Name........... Domain Registrar
+  Admin Address........ Lakeside Drive, Park Royal
   Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+  Admin Address........ London
+  Admin Address........ NW10 7HQ
+  Admin Address........ London
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... domain.registrar@diageo.com
+  Admin Phone.......... +44.2089786000
+  Admin Fax............ +44.2089788502
 
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
+Tech Name............ Melbourne IT Tech
+  Tech Address......... 636 Ellis Street
+  Tech Address.........
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
   Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+  Tech Email........... tech@melbourneitdbs.com
+  Tech Phone........... +1.8669073267
+  Tech Fax............. +1.6509633266
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... k4.nstld.com
+  Name Server.......... l4.nstld.com
 
 

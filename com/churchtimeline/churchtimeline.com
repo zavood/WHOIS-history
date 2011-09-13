@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: CHURCHTIMELINE.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS1.WEBHOST4LIFE.COM
+   Name Server: NS2.WEBHOST4LIFE.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 27-sep-2010
+   Creation Date: 11-oct-1999
+   Expiration Date: 11-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
 
@@ -53,43 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
-
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
+Registrant:
+   BANG! Web Development
+
+   Registered through: Webhost4life
+   Domain Name: CHURCHTIMELINE.COM
+
+   Domain servers in listed order:
+      NS1.WEBHOST4LIFE.COM
+      NS2.WEBHOST4LIFE.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=CHURCHTIMELINE.COM&amp;prog_id=260579

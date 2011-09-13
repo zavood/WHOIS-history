@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Domain Name: DNFXJ.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: NS1.4CUN.COM
+   Name Server: NS2.4CUN.COM
+   Status: ok
+   Updated Date: 23-jun-2011
+   Creation Date: 27-sep-2010
+   Expiration Date: 27-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
 
@@ -54,42 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us. We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+Domain Name: dnfxj.com
 
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+Registrant Contact:
+   FengKuang
+   Kuang Feng 172626510@qq.com
+   +86.02588889999  fax: +86.02588889999
+   Xicheng
+   XiCheng BeiJing 100000
+   CN
 
+Administrative Contact:
+   FengKuang
+   Kuang Feng 172626510@qq.com
+   +86.02588889999  fax: +86.02588889999
+   Xicheng
+   XiCheng BeiJing 100000
+   CN
 
+Technical Contact:
+   FengKuang
+   Kuang Feng 172626510@qq.com
+   +86.02588889999  fax: +86.02588889999
+   Xicheng
+   XiCheng BeiJing 100000
+   CN
+
+Billing Contact:
+   FengKuang
+   Kuang Feng 172626510@qq.com
+   +86.02588889999  fax: +86.02588889999
+   Xicheng
+   XiCheng BeiJing 100000
+   CN

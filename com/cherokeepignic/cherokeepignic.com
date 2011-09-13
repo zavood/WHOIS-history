@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Domain Name: CHEROKEEPIGNIC.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   Status: ok
+   Updated Date: 24-aug-2011
+   Creation Date: 19-oct-2006
+   Expiration Date: 19-oct-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +52,63 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+Domain Name:	cherokeepignic.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
+
+Registrant Contact
+
+Name:		Pam    Carnes
+Address:	3605 Marietta Highway
+		Canton, GA  30114
+		US
+
+Email Address:	paula@cherokeechamber.com
+Phone Number:	(770)345-0400
+
+
+Administrative Contact
+
+Name:		Pam    Carnes
+Address:	3605 Marietta Highway
+		Canton, GA  30114
+		US
+
+Email Address:	paula@cherokeechamber.com
+Phone Number:	(770)345-0400
+
+
+Technical Contact
+
+Name:		Sylvia    Rankin
+Address:	3871 Northpoint Dr
+		Marietta, GA  30062
+		US
+
+Email Address:	sylvia@studiosr.com
+Phone Number:	(770)971-1082
+
+
+Record Created on........ 2006-10-19 09:08:20.474
+Record last updated on... 2011-08-24 14:54:28.983
+Expire on................ 2016-10-19 14:54:28.617
+
+Domain Nameservers in listed order:
+
+	dns1.stabletransit.com
+ 	dns2.stabletransit.com
 

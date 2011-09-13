@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOINDMC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: CLUBZONABMW.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.REDCORUNA.COM
+   Name Server: NS2.REDCORUNA.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 25-feb-2010
-   Expiration Date: 25-feb-2012
+   Updated Date: 13-jan-2011
+   Creation Date: 16-nov-2010
+   Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:13:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... joindmc.com
-  Creation Date........ 2010-02-26
-  Registration Date.... 2010-02-26
-  Expiry Date.......... 2012-02-26
-  Organisation Name.... Disney Enterprises
-  Organisation Address. 500 S. buena vista st
-  Organisation Address.
-  Organisation Address. burbank
-  Organisation Address. 91521
-  Organisation Address. ca
-  Organisation Address. UNITED STATES
-
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ DNS Ops
-  Tech Address......... 506 2nd Ave.
-  Tech Address......... Suite 2100
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... sens01.dig.com
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... orns02.dig.com
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 David Gago Sanchez clubzonabmw@gmail.com +34.685362994
+	 -
+	 Av, de La Coruna  42.44   2
+	 Coruna, A,Coruna, A,ES 15185
+
+
+Domain Name:clubzonabmw.com
+Record last updated at
+Record created on 2010/11/16
+Record expired on 2011/11/16
+
+
+Domain servers in listed order:
+	 ns1.redcoruna.com 	 ns2.redcoruna.com
+
+Administrator:
+	 Name-- David Gago Sanchez
+ EMail-: (clubzonabmw@gmail.com)
+ tel --: +34.685362994
+	 org: -
+	 Av, de La Coruna  42.44   2
+	 Coruna, A,Coruna, A,ES 15185
+
+Technical Contactor:
+	 Name-- David Gago Sanchez
+ EMail-: (clubzonabmw@gmail.com)
+ tel --: +34.685362994
+	 org: -
+	 Av, de La Coruna  42.44   2
+	 Coruna, A,Coruna, A,ES 15185
+
+Billing Contactor:
+	 Name-- David Gago Sanchez
+ EMail-: (clubzonabmw@gmail.com)
+ tel --: +34.685362994
+	 org: -
+	 Av, de La Coruna  42.44   2
+	 Coruna, A,Coruna, A,ES 15185
+
+
+Registration Service Provider:
+	name: REDCORUNA S.L.
+	tel: +34.902998153
+ 	fax: +34.901021799
+ 	web:www.redcoruna.com

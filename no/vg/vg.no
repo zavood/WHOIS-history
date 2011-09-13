@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: VG33D-NORID
+Domain Name................: vg.no
+Domain Holder Handle.......: VGA154O-NORID
+Registrar Handle...........: REG271-NORID
+Legal-c Handle.............: AY148P-NORID
+Tech-c Handle..............: AY148P-NORID
+Name Server Handle.........: NSBA39H-NORID
+Name Server Handle.........: NSFO4H-NORID
+Name Server Handle.........: NSZO39H-NORID
+
+Additional information:
+Created:         2011-06-10
+Last updated:    2011-06-10
+
+NORID Handle...............: VGA154O-NORID
+Type.......................: organization
+Name.......................: VERDENS GANG AS
+Id Type....................: organization_number
+Id Number..................: 950588063
+Registrar Handle...........: REG271-NORID
+Post Address...............: Postboks 1185 Sentrum
+Postal Code................: NO-0107
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22000000
+Fax Number.................: +47.22000305
+Email Address..............: vg@vg.no
+
+Additional information:
+Created:         2011-06-10
+Last updated:    2011-06-10
+
