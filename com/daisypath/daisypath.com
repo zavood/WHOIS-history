@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SENIORSIZZLE.COM
+   Domain Name: DAISYPATH.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS7.FRIENDFINDERINC.COM
-   Name Server: DNS8.FRIENDFINDERINC.COM
+   Name Server: NS1.LILYPIE.COM
+   Name Server: NS2.LILYPIE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 14-sep-2004
-   Expiration Date: 14-sep-2019
+   Updated Date: 31-jan-2011
+   Creation Date: 20-jun-2004
+   Expiration Date: 20-jun-2020
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:26:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:26:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Various, Inc.
+   Amanda Crichton
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SENIORSIZZLE.COM
+   Domain Name: DAISYPATH.COM
 
    Domain servers in listed order:
-      DNS8.FRIENDFINDERINC.COM
-      DNS7.FRIENDFINDERINC.COM
+      NS1.LILYPIE.COM
+      NS2.LILYPIE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SENIORSIZZLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DAISYPATH.COM

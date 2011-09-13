@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SENIORSIZZLE.COM
+   Domain Name: COOPERVAULT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS7.FRIENDFINDERINC.COM
-   Name Server: DNS8.FRIENDFINDERINC.COM
+   Name Server: NS19.DOMAINCONTROL.COM
+   Name Server: NS20.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 14-sep-2004
-   Expiration Date: 14-sep-2019
+   Updated Date: 24-feb-2009
+   Creation Date: 24-feb-2009
+   Expiration Date: 24-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:26:14 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Various, Inc.
+   Cooper Wilbert Vault
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SENIORSIZZLE.COM
+   Domain Name: COOPERVAULT.COM
 
    Domain servers in listed order:
-      DNS8.FRIENDFINDERINC.COM
-      DNS7.FRIENDFINDERINC.COM
+      NS19.DOMAINCONTROL.COM
+      NS20.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SENIORSIZZLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=COOPERVAULT.COM

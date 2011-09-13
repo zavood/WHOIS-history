@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SENIORSIZZLE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS7.FRIENDFINDERINC.COM
-   Name Server: DNS8.FRIENDFINDERINC.COM
+   Domain Name: CPAPXCHANGE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HOSTASAURUS.COM
+   Name Server: NS2.HOSTASAURUS.COM
+   Name Server: NS3.HOSTASAURUS.COM
+   Name Server: NS4.HOSTASAURUS.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 14-sep-2004
-   Expiration Date: 14-sep-2019
+   Updated Date: 27-feb-2007
+   Creation Date: 13-mar-2004
+   Expiration Date: 13-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:26:14 UTC &lt;&lt;&lt;
 
@@ -54,37 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about cpapxchange.com
+&lt;a href=&quot;http://www.aboutus.org/cpapxchange.com&quot;&gt;AboutUs: cpapxchange.com&lt;/a&gt;
 
 
-Registrant:
-   Various, Inc.
+Domain name: cpapxchange.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SENIORSIZZLE.COM
+Registrant Contact:
+   CpapXchange.com
+   Nat Adams ()
 
-   Domain servers in listed order:
-      DNS8.FRIENDFINDERINC.COM
-      DNS7.FRIENDFINDERINC.COM
+   Fax:
+   20A Northwest Blvd, Suite 238
+   Nashua, NH 03862
+   US
+
+Administrative Contact:
+   CpapXchange.com
+   Nat Adams (service@cpapxchange.com)
+   +1.6039414894
+   Fax:
+   20A Northwest Blvd, Suite 238
+   Nashua, NH 03862
+   US
+
+Technical Contact:
+   NA
+   DNS Administrator (dnsadmin@mediatemple.net)
+   +1.8005784000
+   Fax: +1.8183012774
+   4640 Lankershim Blvd.
+   4th Floor - Suite (mt)
+   N. Hollywood, CA 91602
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.HOSTASAURUS.COM
+   NS2.HOSTASAURUS.COM
+   NS3.HOSTASAURUS.COM
+   NS4.HOSTASAURUS.COM
+
+Creation date: 14 Mar 2004 02:10:21
+Expiration date: 14 Mar 2012 01:10:21
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SENIORSIZZLE.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
