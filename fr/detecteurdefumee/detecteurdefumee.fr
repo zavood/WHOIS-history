@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; detecteurdefumee.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      detecteurdefumee.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C3890-FRNIC
+admin-c:     LAEJ3-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6286-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 04/11
+created:     04/11/2004
+last-update: 03/04/2009
+source:      FRNIC
+
+ns-list:     NSL6286-FRNIC
+nserver:     ns1.amen.fr [62.193.206.141]
+nserver:     ns2.amen.fr [62.193.201.13]
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     C3890-FRNIC
+type:        ORGANIZATION
+contact:     COMODO
+address:     7125, route de Laveyron
+address:     82000 Montauban
+country:     FR
+phone:       +33 5 63 31 30 40
+fax-no:      +33 5 63 31 85 22
+e-mail:      comodo@free.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LAEJ3-FRNIC
+type:        PERSON
+contact:     Legry Alain Et Jacqueline
+address:     Comodo
+address:     7125, route de Laveyron
+address:     82000 Montauban
+country:     FR
+phone:       +33 5 63 31 30 40
+fax-no:      +33 5 63 31 85 22
+e-mail:      nic@icodia.com
+changed:     03/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

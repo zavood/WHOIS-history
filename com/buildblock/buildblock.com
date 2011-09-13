@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 31-dec-2003
    Expiration Date: 31-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:59:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    BuildBlock Building Systems, LLC
-   9701 N. Broadway Extension
-   Oklahoma City, Oklahoma 73114
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BUILDBLOCK.COM
-      Created on: 31-Dec-03
-      Expires on: 31-Dec-13
-      Last Updated on: 01-Jan-11
-
-   Administrative Contact:
-      Master, Web  webmaster@buildblock.com
-      BuildBlock Building Systems, LLC
-      9701 N. Broadway Extension
-      Oklahoma City, Oklahoma 73114
-      United States
-      014058403386      Fax --
-
-   Technical Contact:
-      Master, Web  webmaster@buildblock.com
-      BuildBlock Building Systems, LLC
-      9701 N. Broadway Extension
-      Oklahoma City, Oklahoma 73114
-      United States
-      014058403386      Fax --
 
    Domain servers in listed order:
       NS43.DOMAINCONTROL.COM
       NS44.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BUILDBLOCK.COM

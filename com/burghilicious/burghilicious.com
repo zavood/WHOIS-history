@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-mar-2007
    Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Lauren Bracey
-   1017 Coast Ave
-   Pittsburgh, PA 15216
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BURGHILICIOUS.COM
-      Created on: 05-Mar-07
-      Expires on: 05-Mar-12
-      Last Updated on: 22-Dec-10
-
-   Administrative Contact:
-      Bracey, Lauren  laurenbpgh@gmail.com
-      1017 Coast Ave
-      Pittsburgh, PA 15216
-      United States
-      14127592926      Fax --
-
-   Technical Contact:
-      Bracey, Lauren  laurenbpgh@gmail.com
-      1017 Coast Ave
-      Pittsburgh, PA 15216
-      United States
-      14127592926      Fax --
 
    Domain servers in listed order:
       NS1.MEDIATEMPLE.NET
       NS2.MEDIATEMPLE.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BURGHILICIOUS.COM

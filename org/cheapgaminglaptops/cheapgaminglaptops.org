@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156258430-LROR
+Domain Name:CHEAPGAMINGLAPTOPS.ORG
+Created On:29-May-2009 15:34:10 UTC
+Last Updated On:24-May-2011 15:45:20 UTC
+Expiration Date:29-May-2012 15:34:10 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR3499547
+Registrant Name:Stanisaw Bogacki
+Registrant Street1:Drzewieckiego 65
+Registrant Street2:
+Registrant Street3:
+Registrant City:Poznan
+Registrant State/Province:Greater Poland
+Registrant Postal Code:60-408
+Registrant Country:PL
+Registrant Phone:+48.695595061
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stachbogacki@wp.pl
+Admin ID:CR3499559
+Admin Name:Stanisaw Bogacki
+Admin Street1:Drzewieckiego 65
+Admin Street2:
+Admin Street3:
+Admin City:Poznan
+Admin State/Province:Greater Poland
+Admin Postal Code:60-408
+Admin Country:PL
+Admin Phone:+48.695595061
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stachbogacki@wp.pl
+Tech ID:CR3499552
+Tech Name:Stanisaw Bogacki
+Tech Street1:Drzewieckiego 65
+Tech Street2:
+Tech Street3:
+Tech City:Poznan
+Tech State/Province:Greater Poland
+Tech Postal Code:60-408
+Tech Country:PL
+Tech Phone:+48.695595061
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stachbogacki@wp.pl
+Name Server:NS1333.HOSTGATOR.COM
+Name Server:NS1334.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

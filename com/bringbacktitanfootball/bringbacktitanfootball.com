@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 30-nov-2007
    Expiration Date: 30-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:59:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    David Lamm
-   5847 E Valencia Dr
-   Orange, California 92869
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BRINGBACKTITANFOOTBALL.COM
-      Created on: 30-Nov-07
-      Expires on: 30-Nov-13
-      Last Updated on: 30-Aug-11
-
-   Administrative Contact:
-      Lamm, David  Davelamm@gmail.com
-      5847 E Valencia Dr
-      Orange, California 92869
-      United States
-      +1.9496970577      Fax --
-
-   Technical Contact:
-      Lamm, David  Davelamm@gmail.com
-      5847 E Valencia Dr
-      Orange, California 92869
-      United States
-      +1.9496970577      Fax --
 
    Domain servers in listed order:
       NS1.TAILGATINGIDEAS.COM
       NS2.TAILGATINGIDEAS.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BRINGBACKTITANFOOTBALL.COM

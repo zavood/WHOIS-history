@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-aug-1999
    Expiration Date: 24-aug-2020
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Brewer Machine &amp; Gear Co.
-   2820 Clark
-   St. Louis, Missouri 63103-2506
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BREWERTENSIONER.COM
-      Created on: 24-Aug-99
-      Expires on: 24-Aug-20
-      Last Updated on: 28-Jul-11
-
-   Administrative Contact:
-      ,   briank@brewertensioner.com
-      Brewer Machine &amp; Gear Co.
-      2820 Clark
-      St. Louis, Missouri 63103-2506
-      United States
-      314-534-4021
-
-   Technical Contact:
-      ,   briank@brewertensioner.com
-      Brewer Machine &amp; Gear Co.
-      2820 Clark
-      St. Louis, Missouri 63103-2506
-      United States
-      314-534-4021
 
    Domain servers in listed order:
       NS2.RACKMY.COM
       NS1.RACKMY.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BREWERTENSIONER.COM

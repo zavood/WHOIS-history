@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-mar-2010
    Expiration Date: 11-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Brendan McGinley
-   92-29 Queens Blvd.
-   Apt. 6H
-   Rego Park, New York 11374
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BRENDANMCGINLEY.COM
-      Created on: 11-Mar-10
-      Expires on: 11-Mar-12
-      Last Updated on: 12-Mar-11
-
-   Administrative Contact:
-      McGinley, Brendan  bankshot@gmail.com
-      92-29 Queens Blvd.
-      Apt. 6H
-      Rego Park, New York 11374
-      United States
-      +1.6463034820      Fax --
-
-   Technical Contact:
-      McGinley, Brendan  bankshot@gmail.com
-      92-29 Queens Blvd.
-      Apt. 6H
-      Rego Park, New York 11374
-      United States
-      +1.6463034820      Fax --
 
    Domain servers in listed order:
       NS17.DOMAINCONTROL.COM
       NS18.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BRENDANMCGINLEY.COM

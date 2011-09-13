@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2444379-LROR
+Domain Name:CDHA.ORG
+Created On:19-Nov-1996 05:00:00 UTC
+Last Updated On:17-May-2010 21:14:30 UTC
+Expiration Date:18-Nov-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30705208-NSI
+Registrant Name:California Dental Hygienist Assoc.
+Registrant Organization:California Dental Hygienist Assoc.
+Registrant Street1:130 N. brand blvd. Suite 301
+Registrant Street2:
+Registrant Street3:
+Registrant City:Glendale
+Registrant State/Province:CA
+Registrant Postal Code:91203
+Registrant Country:US
+Registrant Phone:+1.8185008217
+Registrant Phone Ext.:
+Registrant FAX:+1.8182472348
+Registrant FAX Ext.:
+Registrant Email:admin@cdha.org
+Admin ID:30705210-NSI
+Admin Name:CaliforniaDentalHygienist Assoc.
+Admin Organization:CaliforniaDentalHygienist Assoc.
+Admin Street1:660 J Street Suite 480
+Admin Street2:
+Admin Street3:
+Admin City:Sacramento
+Admin State/Province:CA
+Admin Postal Code:95814
+Admin Country:US
+Admin Phone:+1.91692728
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cdha@CWO.COM
+Tech ID:5396569-NSI
+Tech Name:Administrator Systems
+Tech Street1:1415 L Street, Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:SACRAMENTO
+Tech State/Province:CA
+Tech Postal Code:95814-2823
+Tech Country:US
+Tech Phone:+1.9162311680
+Tech Phone Ext.:
+Tech FAX:+1.9163691913
+Tech FAX Ext.:
+Tech Email:domains@cwo.com
+Name Server:NS2.CWO.COM
+Name Server:NS1.CWO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

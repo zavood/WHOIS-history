@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 16-jun-2008
    Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 13:58:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:59:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Bryce Eddings
-   1101 N Fountain St.
-   Cape Girardeau, Missouri 63701
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BRYCEEDDINGS.COM
-      Created on: 16-Jun-08
-      Expires on: 16-Jun-12
-      Last Updated on: 17-Jun-10
-
-   Administrative Contact:
-      Eddings, Bryce  breddings@yahoo.com
-      1101 N Fountain St.
-      Cape Girardeau, Missouri 63701
-      United States
-      (573) 335-1420
-
-   Technical Contact:
-      Eddings, Bryce  breddings@yahoo.com
-      1101 N Fountain St.
-      Cape Girardeau, Missouri 63701
-      United States
-      (573) 335-1420
 
    Domain servers in listed order:
       NS09.DOMAINCONTROL.COM
       NS10.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=BRYCEEDDINGS.COM
