@@ -1,0 +1,70 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 02:56:27 2011
+
+domain:       blueboard.cz
+registrant:   BLUEBOARD
+nsset:        BLUEBOARD.CZ
+registrar:    REG-IGNUM
+status:       Update prohibited
+status:       Sponsoring registrar change prohibited
+registered:   12.10.2001 12:21:00
+changed:      15.08.2011 10:30:20
+expire:       13.10.2014
+
+contact:      BLUEBOARD
+org:          Blueboard.cz s.r.o.
+name:         Ji&Aring;ô&Atilde;&shy; Zral&Atilde;&frac12;
+address:      Na V&Auml;õne&Auml;çku 2905/17
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      15.08.2011 10:14:06
+changed:      16.08.2011 10:13:02
+
+nsset:        BLUEBOARD.CZ
+nserver:      shinzon.blueboard.cz (217.11.249.137)
+nserver:      ns2.ignum.cz
+nserver:      ns2.blueboard.cz (217.11.239.234)
+tech-c:       TR01102007-CONTC
+registrar:    REG-IGNUM
+created:      25.03.2009 09:44:18
+
+contact:      TR01102007-CONTC
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Randa
+address:      Na H&Aring;ôebenk&Atilde;&iexcl;ch 1902/43
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      01.10.2007 14:31:05
+changed:      03.06.2010 17:05:04
+
+contact:      BLUEBOARD.CZ
+org:          Blueboard.cz s. r. o.
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Randa
+address:      Na V&Auml;õne&Auml;çku 2905/17
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      21.09.2010 11:16:22
+
+
