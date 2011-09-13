@@ -1,0 +1,53 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         austria-triathlon.at
+registrant:     ATVP8158560-NICAT
+admin-c:        ATVP8158560-NICAT
+tech-c:         WI2478044-NICAT
+nserver:        ns1.dnsserver.at
+nserver:        ns2.dnsserver.at
+changed:        20110802 13:10:34
+source:         AT-DOM
+
+personname:
+organization:   Austrian Triathlon Verein Podersdorf
+street address: Frauenkirchner Strasse 9
+postal code:    7141
+city:           Podersdorf
+country:        Austria
+nic-hdl:        ATVP8158560-NICAT
+changed:        20110802 13:09:18
+source:         AT-DOM
+
+personname:
+organization:   Webhost IT
+street address: Siedlungsstrasse 4
+postal code:    A-5113
+city:           St. Georgen
+country:        Austria
+e-mail:         support@webhost.at
+nic-hdl:        WI2478044-NICAT
+changed:        20061005 14:51:02
+source:         AT-DOM
+

@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LUNARPAGES.COM.XN--NGBDPJ.COM
-LUNARPAGES.COM.HDABOB.COM
-LUNARPAGES.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: CN-VT.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: CN1.ONLINENIC.NET
+   Name Server: CN2.ONLINENIC.NET
+   Status: pendingDelete
+   Updated Date: 11-sep-2011
+   Creation Date: 03-jul-2007
+   Expiration Date: 03-jul-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:18:55 UTC &lt;&lt;&lt;
 

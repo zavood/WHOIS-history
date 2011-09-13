@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98224001-LROR
+Domain Name:CAREI.ORG
+Created On:03-Jun-2003 23:07:20 UTC
+Last Updated On:22-Dec-2010 18:09:25 UTC
+Expiration Date:03-Jun-2012 23:07:20 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR12650071
+Registrant Name:William Bronchick
+Registrant Organization:Legalwiz Publications
+Registrant Street1:2821 S.Parker Road #405
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aurora
+Registrant State/Province:CO
+Registrant Postal Code:80014
+Registrant Country:US
+Registrant Phone:+1.3033987032
+Registrant Phone Ext.:
+Registrant FAX:+1.3036710516
+Registrant FAX Ext.:
+Registrant Email:bronchick@legalwiz.com
+Admin ID:CR12650073
+Admin Name:William Bronchick
+Admin Organization:Legalwiz Publications
+Admin Street1:2821 S.Parker Road #405
+Admin Street2:
+Admin Street3:
+Admin City:Aurora
+Admin State/Province:CO
+Admin Postal Code:80014
+Admin Country:US
+Admin Phone:+1.3033987032
+Admin Phone Ext.:
+Admin FAX:+1.3036710516
+Admin FAX Ext.:
+Admin Email:bronchick@legalwiz.com
+Tech ID:CR12650072
+Tech Name:William Bronchick
+Tech Organization:Legalwiz Publications
+Tech Street1:2821 S.Parker Road #405
+Tech Street2:
+Tech Street3:
+Tech City:Aurora
+Tech State/Province:CO
+Tech Postal Code:80014
+Tech Country:US
+Tech Phone:+1.3033987032
+Tech Phone Ext.:
+Tech FAX:+1.3036710516
+Tech FAX Ext.:
+Tech Email:bronchick@legalwiz.com
+Name Server:NS05.DOMAINCONTROL.COM
+Name Server:NS06.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
