@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LELANDMANAGEMENT.COM
+   Domain Name: SUBHUB.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.IHSCNET.NET
-   Name Server: NS2.IHSCNET.NET
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2008
-   Creation Date: 07-sep-2003
-   Expiration Date: 07-sep-2013
+   Updated Date: 09-may-2007
+   Creation Date: 22-jul-1999
+   Expiration Date: 22-jul-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:49:43 UTC &lt;&lt;&lt;
 
@@ -67,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: lelandmanagement.com
+Whois Query: subhub.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:45:17 EDT 2011
+Date and Time of Query: Tue Sep 13 17:39:25 EDT 2011
 Reason Code: IE
