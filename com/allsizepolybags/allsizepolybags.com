@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 191DAPPLEGRAY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2010
-   Expiration Date: 12-aug-2012
+   Domain Name: ALLSIZEPOLYBAGS.COM
+   Registrar: DOMAIN REGISTRATION SERVICES INC. DBA DOTEARTH.COM
+   Whois Server: whois.dotearth.com
+   Referral URL: http://www.dotearth.com
+   Name Server: NS1.MYDNSSERVER.COM
+   Name Server: NS2.MYDNSSERVER.COM
+   Status: ok
+   Updated Date: 22-feb-2007
+   Creation Date: 06-mar-1998
+   Expiration Date: 05-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in the Domain Registration Services WHOIS database is
+provided for informational purposes only.  We do not guarantee its
+completeness or accuracy.  By submitting a WHOIS query, you
+agree that this data will be used only for lawful purposes, and
+that under no circumstances will you use this data
+to: (a) allow, enable or support the creation and transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam), or (b) to enable high volume, automated,
+electronic processes that apply to Domain Registration Services
+or its systems. We reserve the right to revise these terms
+at any time without prior notice.  By submitting this query
+you agree to abide by this policy.
 
+Whois Server Version 0.93
 
-Registrant:
-   Jeffrey Ong
+Registrar WHOIS: Domain Registration Services
+Domain Name: ALLSIZEPOLYBAGS.COM
+Registrant:   (289584-DRSS)
+ALL SIZE POLY BAGS
+   PO BOX 836
+   NEW BRUNSWICK, NJ 08903
+   US
+   Administrative Contact:  SS10564   (289585-DRSS)
+     Shah, Sudhir     srshah@rksplastics.com
+     PO Box 836
+     New Brunswick, NJ 08903 US
+     732-828-3400
+   Technical Contact:  SS10564   (289586-DRSS)
+     Valiveti, Rama     valiveti_r@yahoo.com
+     115-7A Windingwood Dr
+     Sayreville NJ 08872 US
+     732-238-8938
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 191DAPPLEGRAY.COM
+   Record last updated on:  2011-09-12 01:02:55.0 UTC
+   Record created on:       1998-03-06 05:00:00.0 UTC
+   Record expires on:       2016-03-05 05:00:00.0 UTC
 
-   Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+   NS1.MYDNSSERVER.COM   NS2.MYDNSSERVER.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=191DAPPLEGRAY.COM
+Register your next domain at http://www.dotEarth.com
+Data format subject to change without prior notice.

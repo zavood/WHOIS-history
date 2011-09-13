@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       globe.ee
+registrant:   CID:EENET:C54A
+admin-c:      CID:EENET:F3E6
+nsset:        NSSID:EENET:F6F6
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 06:37:27
+changed:      15.12.2010 10:14:49
+expire:       15.12.2011
+
+contact:      CID:EENET:C54A
+name:         Mittetulundus&Atilde;&frac14;hing GLOBE Eesti
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      15.12.2010 10:14:45
+
+contact:      CID:EENET:F3E6
+name:         Kaido Reivelt
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      15.12.2010 10:14:46
+
+nsset:        NSSID:EENET:F6F6
+nserver:      ns2.ut.ee (193.40.5.76)
+nserver:      ns.fi.tartu.ee (193.40.2.1)
+tech-c:       CID:EENET:ECD4
+registrar:    eenet
+created:      15.12.2010 10:14:44
+
+contact:      CID:EENET:ECD4
+name:         Robert Tiismus
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      06.12.2010 11:16:22
+
+

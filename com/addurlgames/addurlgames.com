@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ADDURLGAMES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
+   Name Server: NS47.DOMAINCONTROL.COM
+   Name Server: NS48.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2010
-   Expiration Date: 12-aug-2012
+   Updated Date: 01-sep-2011
+   Creation Date: 28-sep-2010
+   Expiration Date: 28-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:04:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Jeffrey Ong
+   Domain Administrator
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ADDURLGAMES.COM
 
    Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+      NS47.DOMAINCONTROL.COM
+      NS48.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=191DAPPLEGRAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ADDURLGAMES.COM

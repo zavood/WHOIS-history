@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 191DAPPLEGRAY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2010
-   Expiration Date: 12-aug-2012
+   Domain Name: TIMA.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.EGIX.NET
+   Name Server: DNS2.EGIX.NET
+   Status: ok
+   Updated Date: 13-apr-2011
+   Creation Date: 19-sep-1995
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+tima.com
 
 Registrant:
-   Jeffrey Ong
+         Kiva Networking  (hostmaster@kiva.net)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 191DAPPLEGRAY.COM
-
-   Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+        205 N. College 4th Floor
+        Bloomington, IN  47404
+        US
+        +1.8123375070
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=191DAPPLEGRAY.COM
+Domain Name: tima.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Fuse Hostmaster  (hostmaster@fuse.net)
+        Fuse Internet Access
+        Cincinnati Bell Telephone 209 W. Seventh St., 121-550
+        Cincinnati, OH  45202
+        US
+        800-387-3638
+
+
+
+
+
+   Record created on Sep 19 1995.
+   Record expires on Sep 18 2012.
+Domain servers:
+        dns1.egix.net
+        dns2.egix.net
+
+
+
+Domain Service Provider:
+   Cincinnati Bell
+
+

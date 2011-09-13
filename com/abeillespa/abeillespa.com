@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ABEILLESPA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
+   Name Server: NS55.DOMAINCONTROL.COM
+   Name Server: NS56.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2010
-   Expiration Date: 12-aug-2012
+   Updated Date: 22-jun-2011
+   Creation Date: 14-jun-2007
+   Expiration Date: 14-jun-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Jeffrey Ong
+   Anew Spa and Salon
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ABEILLESPA.COM
 
    Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+      NS55.DOMAINCONTROL.COM
+      NS56.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=191DAPPLEGRAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ABEILLESPA.COM

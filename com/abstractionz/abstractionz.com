@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ABSTRACTIONZ.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2010
-   Expiration Date: 12-aug-2012
+   Updated Date: 21-may-2011
+   Creation Date: 18-sep-2003
+   Expiration Date: 18-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Jeffrey Ong
+   Amanda Laws
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 191DAPPLEGRAY.COM
+   Domain Name: ABSTRACTIONZ.COM
 
    Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=191DAPPLEGRAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ABSTRACTIONZ.COM
