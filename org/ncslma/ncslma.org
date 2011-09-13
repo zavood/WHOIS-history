@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D52186093-LROR
+Domain Name:NCSLMA.ORG
+Created On:16-Jan-2001 20:20:07 UTC
+Last Updated On:13-Oct-2010 00:24:05 UTC
+Expiration Date:16-Jan-2014 20:20:07 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR57014999
+Registrant Name:North Carolina School Library Media Assoc.
+Registrant Organization:North Carolina School Library Media Assoc.
+Registrant Street1:842 Christian Creek Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Swannanoa
+Registrant State/Province:North Carolina
+Registrant Postal Code:28778
+Registrant Country:US
+Registrant Phone:+1.9193292802
+Registrant Phone Ext.:
+Registrant FAX:+1.9193292802
+Registrant FAX Ext.:
+Registrant Email:debjcnc@earthlink.net
+Admin ID:CR57015001
+Admin Name:North Carolina School Library Media Assoc.
+Admin Organization:North Carolina School Library Media Assoc.
+Admin Street1:842 Christian Creek Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Swannanoa
+Admin State/Province:North Carolina
+Admin Postal Code:28778
+Admin Country:US
+Admin Phone:+1.9193292802
+Admin Phone Ext.:
+Admin FAX:+1.9193292802
+Admin FAX Ext.:
+Admin Email:debjcnc@earthlink.net
+Tech ID:CR57015000
+Tech Name:Gary Aslanyan
+Tech Organization:Servers and Domains
+Tech Street1:541 W. Colorado St. #333
+Tech Street2:
+Tech Street3:
+Tech City:Glendale
+Tech State/Province:California
+Tech Postal Code:91204
+Tech Country:US
+Tech Phone:+1.8775921394
+Tech Phone Ext.:
+Tech FAX:+1.8775921394
+Tech FAX Ext.:
+Tech Email:domains@serversanddomains.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

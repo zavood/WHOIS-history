@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7262970-LROR
+Domain Name:STOPTB.ORG
+Created On:15-Jun-1999 18:48:35 UTC
+Last Updated On:26-Jan-2011 13:33:13 UTC
+Expiration Date:15-Jun-2015 18:49:13 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28436821-NSI
+Registrant Name:IT Officer
+Registrant Organization:Stop TB Partnership Secretariat
+Registrant Street1:HQ/HTM/STB/TBP
+Registrant Street2:20, Avenue Appia
+Registrant Street3:
+Registrant City:Geneva
+Registrant State/Province:27
+Registrant Postal Code:1211
+Registrant Country:CH
+Registrant Phone:+1.41227912048
+Registrant Phone Ext.:
+Registrant FAX:+1.41227914886
+Registrant FAX Ext.:
+Registrant Email:itofficer@stoptb.org
+Admin ID:24814977-NSI
+Admin Name:Biswamber Gurubacharya
+Admin Organization:World Health Organization
+Admin Street1:Avenue Appia 20
+Admin Street2:CH-1211 Geneva 27
+Admin Street3:
+Admin City:Geneva
+Admin State/Province:Switzerland
+Admin Postal Code:1211
+Admin Country:CH
+Admin Phone:+41.227912111
+Admin Phone Ext.:
+Admin FAX:+41.227914779
+Admin FAX Ext.:
+Admin Email:hostmaster@who.int
+Tech ID:24814977-NSI
+Tech Name:Biswamber Gurubacharya
+Tech Organization:World Health Organization
+Tech Street1:Avenue Appia 20
+Tech Street2:CH-1211 Geneva 27
+Tech Street3:
+Tech City:Geneva
+Tech State/Province:Switzerland
+Tech Postal Code:1211
+Tech Country:CH
+Tech Phone:+41.227912111
+Tech Phone Ext.:
+Tech FAX:+41.227914779
+Tech FAX Ext.:
+Tech Email:hostmaster@who.int
+Name Server:WHQDNS2.WHO.INT
+Name Server:WHQDNS1.WHO.INT
+Name Server:WHQDNS3.WHO.INT
+Name Server:EXT-DNS-2.CERN.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
