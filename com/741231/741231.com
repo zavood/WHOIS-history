@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ANIMATEDENGINES.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS1.WEBFACTION.COM
-   Name Server: NS2.WEBFACTION.COM
-   Name Server: NS3.WEBFACTION.COM
-   Name Server: NS4.WEBFACTION.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-sep-2010
-   Creation Date: 27-sep-2002
-   Expiration Date: 27-sep-2011
+   Domain Name: 741231.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   Status: ok
+   Updated Date: 26-may-2011
+   Creation Date: 24-nov-2006
+   Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:52:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:51:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   Matt Keveney
+  Timothy Eichmann (520320)
+  Kennedygatan 9b
 
-   Registered through: Cheap-DomainRegistration.com
-   Domain Name: ANIMATEDENGINES.COM
+  Goteborg, , 41473
+  SE
 
-   Domain servers in listed order:
-      NS1.WEBFACTION.COM
-      NS2.WEBFACTION.COM
-      NS3.WEBFACTION.COM
-      NS4.WEBFACTION.COM
+  Domain name: 741231.com
 
+Administrative and Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=ANIMATEDENGINES.COM&amp;prog_id=domains
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
+
+Record created:           2008-10-27 12:29:19
+Record last updated:      2011-05-26 10:50:50
+Record expires:           2011-11-24 00:00:00
+
+Domain servers in listed order:
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)

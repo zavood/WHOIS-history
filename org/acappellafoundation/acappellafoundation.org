@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7429171-LROR
+Domain Name:ACAPPELLAFOUNDATION.ORG
+Created On:23-Jun-1999 00:12:02 UTC
+Last Updated On:16-Apr-2010 06:26:59 UTC
+Expiration Date:23-Jun-2013 00:12:41 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19839101-NSI
+Registrant Name:United Singers International
+Registrant Organization:United Singers International
+Registrant Street1:PO Box D
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Anselmo
+Registrant State/Province:CA
+Registrant Postal Code:94979
+Registrant Country:US
+Registrant Phone:+1.4154558602
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:harmony@singers.com
+Admin ID:19839100-NSI
+Admin Name:John Neal
+Admin Street1:PO Box D
+Admin Street2:
+Admin Street3:
+Admin City:San Anselmo
+Admin State/Province:CA
+Admin Postal Code:94979
+Admin Country:US
+Admin Phone:+1.4154558602
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:producerguy101@yahoo.com
+Tech ID:5381856-NSI
+Tech Name:LineX Communications
+Tech Organization:LineX Communications
+Tech Street1:PO BOX 150029
+Tech Street2:
+Tech Street3:
+Tech City:SAN RAFAEL
+Tech State/Province:CA
+Tech Postal Code:94915-0029
+Tech Country:US
+Tech Phone:+1.4154551650
+Tech Phone Ext.:
+Tech FAX:+1.231231234
+Tech FAX Ext.:
+Tech Email:dns@LINEX.COM
+Name Server:NS2.TDL.COM
+Name Server:NS.SINGERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

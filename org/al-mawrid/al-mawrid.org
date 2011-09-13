@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94725888-LROR
+Domain Name:AL-MAWRID.ORG
+Created On:02-Mar-2003 07:54:40 UTC
+Last Updated On:12-Feb-2010 11:28:18 UTC
+Expiration Date:02-Mar-2015 07:54:40 UTC
+Sponsoring Registrar:Advanced Internet Technologies, Inc. (AIT) (R232-LROR)
+Status:OK
+Registrant ID:AITorgORG6798
+Registrant Name:Azeem   . Ayub
+Registrant Organization:Al-Mawrid
+Registrant Street1:51-K Model Town
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lahore
+Registrant State/Province:PK
+Registrant Postal Code:54700
+Registrant Country:PK
+Registrant Phone:+1.0425834306
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:almawrid@brain.net.pk
+Admin ID:AITorgADM6798
+Admin Name:Azeem   . Ayub
+Admin Organization:Al-Mawrid
+Admin Street1:51-K Model Town
+Admin Street2:
+Admin Street3:
+Admin City:Lahore
+Admin State/Province:PK
+Admin Postal Code:54700
+Admin Country:PK
+Admin Phone:+1.0425834306
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:almawrid@brain.net.pk
+Tech ID:AITorgTEC6798
+Tech Name:Azeem   . Ayub
+Tech Organization:Al-Mawrid
+Tech Street1:51-K Model Town
+Tech Street2:
+Tech Street3:
+Tech City:Lahore
+Tech State/Province:PK
+Tech Postal Code:54700
+Tech Country:PK
+Tech Phone:+1.0425834306
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:almawrid@brain.net.pk
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
