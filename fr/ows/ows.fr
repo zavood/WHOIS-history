@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ows.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ows.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    OWS1-FRNIC
+admin-c:     CP6886-FRNIC
+tech-c:      PC8417-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5437-FRNIC
+registrar:   OPEN WEB NETWORK SOLUTIONS
+anniversary: 20/09
+created:     20/09/2001
+last-update: 11/02/2011
+source:      FRNIC
+
+ns-list:     NSL5437-FRNIC
+nserver:     ns.ows.fr [194.116.202.43]
+nserver:     ns2.ows.fr [212.37.219.30]
+source:      FRNIC
+
+registrar:   OPEN WEB NETWORK SOLUTIONS
+type:        Isp Option 2
+address:     23 rue du dessous des berges
+address:     PARIS
+country:     FR
+phone:       +33 1 42 46 40 25
+fax-no:      +33 9 55 29 17 34
+e-mail:      contact@ows.fr
+website:     http://www.owns.fr
+anonymous:   NO
+registered:  11/02/2011
+source:      FRNIC
+
+nic-hdl:     OWS1-FRNIC
+type:        ORGANIZATION
+contact:     Open Web solutions
+address:     Open Web Solutions
+address:     26, rue du faubourg saint antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+e-mail:      contact@ows.fr
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CP6886-FRNIC
+type:        PERSON
+contact:     Cedric Perronnet
+address:     Open Web Solutions
+address:     26, rue du faubourg Saint Antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+fax-no:      +33 1 42 46 26 84
+e-mail:      contact@ows.fr
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PC8417-FRNIC
+type:        ROLE
+contact:     Perronnet Cedric
+address:     Open Web Solutions
+address:     26, rue du faubourg Saint Antoine
+address:     75012 Paris
+country:     FR
+phone:       +33 1 42 46 26 82
+e-mail:      contact@ows.fr
+admin-c:     CP404-FRNIC
+tech-c:      CP404-FRNIC
+changed:     11/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

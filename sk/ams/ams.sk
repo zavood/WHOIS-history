@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         ams.sk
+Admin-id            AMSC-0002
+Admin-name          AMS Com s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       31365141
+Admin-address       Janka Alexyho 11, Bratislava 841 01
+Admin-telephone     02 50205511
+Admin-email         asistent@ams.sk;ams@ams.sk
+Tech-id             SWAN-0002
+Tech-name           SWAN, a.s.
+Tech-org.-ID        35680202
+Tech-address        Borska 6, Bratislava 84104
+Tech-telephone      +421 2 35000516, +421 2 35000516
+Tech-email          domeny@swan.sk
+dns_name            ns1.swan.sk
+dns_name            ns2.swan.sk
+dns_name            ns3.swan.sk
+Last-update         2011-05-10
+Valid-date          2012-06-05
+Domain-status       DOM_OK
+
