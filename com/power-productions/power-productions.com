@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMPUTINGHOST.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: OM1.COMPUTINGHOST.COM
-   Name Server: OM2.COMPUTINGHOST.COM
-   Name Server: OM3.COMPUTINGHOST.COM
-   Name Server: OM4.COMPUTINGHOST.COM
-   Status: ok
-   Updated Date: 12-nov-2010
-   Creation Date: 13-dec-2004
-   Expiration Date: 13-dec-2011
+   Domain Name: POWER-PRODUCTIONS.COM
+   Registrar: MARCARIA.COM, INTERNATIONAL, INC.
+   Whois Server: whois-generic.marcaria.com
+   Referral URL: http://www.marcaria.com
+   Name Server: NS01.TRADEMARKAREA.COM
+   Name Server: NS02.TRADEMARKAREA.COM
+   Name Server: NS03.TRADEMARKAREA.COM
+   Status: clientTransferProhibited
+   Updated Date: 23-mar-2010
+   Creation Date: 23-mar-2010
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,67 +52,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: XISTO CORPORATION
-Contact: +091.02265162261
-Website: http://www.xisto.com
+Marcaria.com Network
 
-Domain Name: COMPUTINGHOST.COM
+Provider of International Domain Registration and International Trademark Registration Services
+Visit us at www.marcaria.com
+
+The Data in Marcaria.com's WHOIS database is provided by Marcaria.com for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.
+
+Marcaria.com does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Marcaria.com (or its systems).
+Marcaria.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Registration Service Provided By: MARCARIA.COM
+Contact: +1.3058538434
+
+Domain Name: POWER-PRODUCTIONS.COM
 
 Registrant:
-    Xisto Corporation
-    S. M. Pare.        (shree@xisto.com)
-    #218, Plot 72, Shiv-Center
-    Sec-17, Vashi
-    Mumbai
-    Maharashtra,400703
-    IN
-    Tel. +91.02227890777
-    Fax. +91.02227804786
+    Wilber
+    Wilber        (wilber@miamitrievents.com)
+    3653 SW 156 CT
+    Miami
+    Florida,33185
+    US
+    Tel. +305.5545576
 
-Creation Date: 13-Dec-2004
-Expiration Date: 13-Dec-2011
+Creation Date: 23-Mar-2010
+Expiration Date: 23-Mar-2012
 
 Domain servers in listed order:
-    om1.computinghost.com
-    om2.computinghost.com
-    om3.computinghost.com
-    om4.computinghost.com
+    ns01.trademarkarea.com
+    ns02.trademarkarea.com
+    ns03.trademarkarea.com
 
 
 Administrative Contact:
-    Xisto Corporation
-    S. M. Pare.        (shree@xisto.com)
-    #218, Plot 72, Shiv-Center
-    Sec-17, Vashi
-    Mumbai
-    Maharashtra,400703
-    IN
-    Tel. +91.02227890777
-    Fax. +91.02227804786
+    Wilber
+    Wilber        (wilber@miamitrievents.com)
+    3653 SW 156 CT
+    Miami
+    Florida,33185
+    US
+    Tel. +305.5545576
 
 Technical Contact:
-    Xisto Corporation
-    S. M. Pare.        (shree@xisto.com)
-    #218, Plot 72, Shiv-Center
-    Sec-17, Vashi
-    Mumbai
-    Maharashtra,400703
-    IN
-    Tel. +91.02227890777
-    Fax. +91.02227804786
+    MARCARIA.COM CORP
+    MARCARIA.COM CORP        (domains@marcaria.com)
+    # 1000177
+    222 Grace Church St. Suite 302
+    Port Chester
+    New York,10573
+    US
+    Tel. +1.3054348621
 
 Billing Contact:
-    Xisto Corporation
-    S. M. Pare.        (shree@xisto.com)
-    #218, Plot 72, Shiv-Center
-    Sec-17, Vashi
-    Mumbai
-    Maharashtra,400703
-    IN
-    Tel. +91.02227890777
-    Fax. +91.02227804786
+    Wilber
+    Wilber        (wilber@miamitrievents.com)
+    3653 SW 156 CT
+    Miami
+    Florida,33185
+    US
+    Tel. +305.5545576
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -125,7 +130,8 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is Marcaria.com International, Inc..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
+
 

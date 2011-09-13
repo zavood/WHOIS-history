@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITEGROUND165.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SITEGROUND165.COM
-   Name Server: NS2.SITEGROUND165.COM
+   Domain Name: SKYVIEWPLAZAHOTEL.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: CNS1.IDIG.NET
+   Name Server: CNS2.IDIG.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 08-feb-2007
-   Expiration Date: 08-feb-2012
+   Updated Date: 10-may-2011
+   Creation Date: 09-may-2010
+   Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:08:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about skyviewplazahotel.com
+&lt;a href=&quot;http://www.aboutus.org/skyviewplazahotel.com&quot;&gt;AboutUs: skyviewplazahotel.com&lt;/a&gt;
+
+
+Domain name: skyviewplazahotel.com
+
+Administrative Contact:
+
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Technical Contact:
+
+   Creed Don Burleson Jr. (info@south-philly.com)
+   +1.2672316165
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Registrant Contact:
+
+   Creed Don Burleson Jr. ()
+
+   Fax:
+   1939 S. Warnock St.
+   Philadelphia, PA 19148
+   US
+
+Status: Locked
+
+Name Servers:
+   CNS1.IDIG.NET
+   CNS2.IDIG.NET
+
+Creation date: 09 May 2010 20:39:47
+Expiration date: 09 May 2012 20:39:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITEGROUND165.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SITEGROUND165.COM
-   Name Server: NS2.SITEGROUND165.COM
+   Domain Name: THEPROVINCE.COM
+   Registrar: WEBNAMES.CA INC.
+   Whois Server: whois.webnames.ca
+   Referral URL: http://www.webnames.ca
+   Name Server: NS1.POSTMEDIADNS.COM
+   Name Server: NS2.POSTMEDIADNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 08-feb-2007
-   Expiration Date: 08-feb-2012
+   Updated Date: 04-mar-2011
+   Creation Date: 25-apr-1995
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:09:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrar Name....: WEBNAMES.CA INC
+Registrar Whois...: whois.webnames.ca
+Registrar Homepage: http://www.webnames.ca
+
+Domain Name: theprovince.com
+
+     Created on..............: 4/25/1995 4:00:00 AM UTC
+     Expires on..............: 25 Apr 2012
+
+Registrant Name: Postmedia Network Inc.
+Organization Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Admin Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Technical Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Billing Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Domain servers in listed order:
+
+     ns1.postmediadns.com
+     ns2.postmediadns.com
+
+Register your domain name at http://www.webnames.ca
+
+END OF WHOIS

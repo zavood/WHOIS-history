@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148256081-LROR
+Domain Name:ICAREABOUTORPHANS.ORG
+Created On:27-Jun-2007 12:26:42 UTC
+Last Updated On:19-May-2010 21:41:17 UTC
+Expiration Date:27-Jun-2012 12:26:42 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5486087-NSI
+Registrant Name:Focus on the Family
+Registrant Organization:Focus on the Family
+Registrant Street1:Legal Affairs
+Registrant Street2:8605 Explorer Drive
+Registrant Street3:
+Registrant City:Colorado Springs
+Registrant State/Province:CO
+Registrant Postal Code:80920
+Registrant Country:US
+Registrant Phone:+1.7195313458
+Registrant Phone Ext.:
+Registrant FAX:+1.7195313391
+Registrant FAX Ext.:
+Registrant Email:domainnames@FOTF.ORG
+Admin ID:5486087-NSI
+Admin Name:Focus on the Family
+Admin Organization:Focus on the Family
+Admin Street1:Legal Affairs
+Admin Street2:8605 Explorer Drive
+Admin Street3:
+Admin City:Colorado Springs
+Admin State/Province:CO
+Admin Postal Code:80920
+Admin Country:US
+Admin Phone:+1.7195313458
+Admin Phone Ext.:
+Admin FAX:+1.7195313391
+Admin FAX Ext.:
+Admin Email:domainnames@FOTF.ORG
+Tech ID:5486087-NSI
+Tech Name:Focus on the Family
+Tech Organization:Focus on the Family
+Tech Street1:Legal Affairs
+Tech Street2:8605 Explorer Drive
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:CO
+Tech Postal Code:80920
+Tech Country:US
+Tech Phone:+1.7195313458
+Tech Phone Ext.:
+Tech FAX:+1.7195313391
+Tech FAX Ext.:
+Tech Email:domainnames@FOTF.ORG
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

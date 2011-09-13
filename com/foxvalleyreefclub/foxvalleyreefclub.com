@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITEGROUND165.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SITEGROUND165.COM
-   Name Server: NS2.SITEGROUND165.COM
+   Domain Name: FOXVALLEYREEFCLUB.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS.SITE5.COM
+   Name Server: DNS2.SITE5.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 08-feb-2007
-   Expiration Date: 08-feb-2012
+   Updated Date: 12-mar-2011
+   Creation Date: 04-mar-2010
+   Expiration Date: 04-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:07:48 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about foxvalleyreefclub.com
+&lt;a href=&quot;http://www.aboutus.org/foxvalleyreefclub.com&quot;&gt;AboutUs: foxvalleyreefclub.com&lt;/a&gt;
+
+
+Domain name: foxvalleyreefclub.com
+
+Registrant Contact:
+   FVRC
+   dave vissers ()
+
+   Fax:
+   919 wilson st
+   kaukauna, wi 54130
+   US
+
+Administrative Contact:
+   FVRC
+   dave vissers (thecoralnut@yahoo.com)
+   +1.9209154975
+   Fax:
+   919 wilson st
+   kaukauna, wi 54130
+   US
+
+Technical Contact:
+   FVRC
+   dave vissers (thecoralnut@yahoo.com)
+   +1.9209154975
+   Fax:
+   919 wilson st
+   kaukauna, wi 54130
+   US
+
+Status: Locked
+
+Name Servers:
+   dns.site5.com
+   dns2.site5.com
+
+Creation date: 04 Mar 2010 05:46:28
+Expiration date: 04 Mar 2012 05:46:28
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
