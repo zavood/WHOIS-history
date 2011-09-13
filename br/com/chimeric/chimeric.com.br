@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 14:59:35 (BRT -03:00)
+
+domain:      chimeric.com.br
+owner:       HAVEN - COSMETICOS LTDA - ME
+ownerid:     007.731.994/0001-65
+responsible: Jos&eacute; Ign&aacute;cio Espin&oacute;s Guerra
+country:     BR
+owner-c:     MAGFI30
+admin-c:     JLDSA7
+tech-c:      JLDSA7
+billing-c:   JLDSA7
+nserver:     ns1.chimeric.com.br 69.175.54.250
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.chimeric.com.br 69.175.54.251
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20061127 #3225093
+expires:     20141127
+changed:     20101117
+status:      published
+
+nic-hdl-br:  JLDSA7
+person:      Jess&eacute; leal dos Santos
+e-mail:      jesse@chimeric.com.br
+created:     20061005
+changed:     20091022
+
+nic-hdl-br:  MAGFI30
+person:      MARIA GRACIA FIORILLO
+e-mail:      graciafiori@yahoo.com.br
+created:     20100406
+changed:     20100406
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

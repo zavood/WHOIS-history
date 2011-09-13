@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRIANLIVINGSTON.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 23-feb-2011
-   Creation Date: 22-feb-1999
-   Expiration Date: 22-feb-2012
+   Domain Name: ATPFLIGHTSCHOOL.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS0000.NS0.COM
+   Name Server: NS55.PAIR.COM
+   Status: ok
+   Updated Date: 18-nov-2008
+   Creation Date: 10-jul-2004
+   Expiration Date: 10-jul-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:57:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:58:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
 Registrant:
-   Livingston, Brian
-   300 Queen Anne Ave No 456
-   Seattle, WA 98109
-   US
+  ATP Holdings, Inc.
+  PO Box 1784
+  Ponte Vedra Beach, FL 32004
+  US
 
-   Domain Name: BRIANLIVINGSTON.COM
+  justind@allatps.com
+   +1.9042733018
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Livingston, Brian
-      300 Queen Anne Ave No 456
-      Seattle, WA 98109
-      US
-      (206)282-1069
-      (206)282-4750 [fax]
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+Domain Name: ATPFLIGHTSCHOOL.COM
 
-   Domain created on 22-Feb-1999
-   Domain expires on 22-Feb-2015
-   Last updated on 16-Feb-2010
+Administrative &amp; Technical Contact:
+  Justin Dennis
+  ATP Holdings, Inc.
+  PO Box 1784
+  Ponte Vedra Beach, FL 32004
+  US
 
-   Domain servers in listed order:
+  justind@allatps.com
+   +1.9042733018
 
-      REMOTE2.EASYDNS.COM
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      NS6.EASYDNS.NET
-      NS3.EASYDNS.ORG
-      REMOTE1.EASYDNS.COM
+Domain Name Servers:
+  NS55.PAIR.COM
+  NS0000.NS0.COM
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
+Transfer-Lock Status: ENABLED
 
+ Created:     July 10, 2004
+Modified:     November 18, 2008
+ Expires:     July 10, 2018
 
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
 

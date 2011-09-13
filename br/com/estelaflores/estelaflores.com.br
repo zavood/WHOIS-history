@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 14:59:52 (BRT -03:00)
+
+domain:      estelaflores.com.br
+owner:       Melo Mioto Decoracoes Ltda
+ownerid:     028.376.234/0001-57
+responsible: Olavo Mioto
+country:     BR
+owner-c:     OLM
+admin-c:     OLM
+tech-c:      OLM
+billing-c:   OLM
+nserver:     ns1677.hostgator.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns1678.hostgator.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20000928 #437429
+expires:     20110928
+changed:     20101124
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  OLM
+person:      Olavo Mioto
+e-mail:      sac@floresnet.com.br
+created:     19980306
+changed:     20090303
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

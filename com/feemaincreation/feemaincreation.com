@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRIANLIVINGSTON.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: FEEMAINCREATION.COM
+   Registrar: ONLINE SAS
+   Whois Server: whois.bookmyname.com
+   Referral URL: http://www.bookmyname.com
+   Name Server: NS1.O2SWITCH.NET
+   Name Server: NS2.O2SWITCH.NET
    Status: clientTransferProhibited
-   Updated Date: 23-feb-2011
-   Creation Date: 22-feb-1999
-   Expiration Date: 22-feb-2012
+   Updated Date: 11-jul-2011
+   Creation Date: 22-jul-2009
+   Expiration Date: 22-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:57:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:58:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,49 +52,25 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
-Registrant:
-   Livingston, Brian
-   300 Queen Anne Ave No 456
-   Seattle, WA 98109
-   US
-
-   Domain Name: BRIANLIVINGSTON.COM
-
-   Administrative Contact, Technical Contact, Zone Contact:
-      Livingston, Brian
-      300 Queen Anne Ave No 456
-      Seattle, WA 98109
-      US
-      (206)282-1069
-      (206)282-4750 [fax]
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
-
-   Domain created on 22-Feb-1999
-   Domain expires on 22-Feb-2015
-   Last updated on 16-Feb-2010
-
-   Domain servers in listed order:
-
-      REMOTE2.EASYDNS.COM
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      NS6.EASYDNS.NET
-      NS3.EASYDNS.ORG
-      REMOTE1.EASYDNS.COM
-
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
+%% Whois
+%%
+%% NOTICE: Access to this information is provided to assist persons
+%% in determining the contents of a domain name registration record in
+%% our database. The data in this record is provided for informational
+%% purposes only.
+%% You agree that you will use this data only for lawful purposes and
+%% that, under no circumstances will you use this data to: (a) allow,
+%% enable, or otherwise support the transmission by e-mail, telephone, or
+%% facsimile of mass unsolicited, commercial advertising or solicitations
+%% to entities other than the data recipient's own existing customers;
+%% or (b) enable high volume, automated, electronic processes that
+%% send queries or data to the systems of Registry Operator or any
+%% ICANN-Accredited Registrar, except as reasonably necessary to register
+%% domain names or modify existing registrations.
+%% All rights reserved. These terms can be modify at any time.
+%% By submitting this query, you agree to abide by this policy.
+%
+% Date: 2011/09/13 19:59:01
 
 
-
+unknown host rejected 174.142.225.246
