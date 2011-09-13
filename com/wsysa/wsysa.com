@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOTKI.COM
+   Domain Name: WSYSA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS.FOTKI.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
+   Name Server: DNS1.SEANET.COM
+   Name Server: DNS2.SEANET.COM
    Status: clientTransferProhibited
-   Updated Date: 11-nov-2010
-   Creation Date: 28-sep-1998
-   Expiration Date: 27-sep-2014
+   Updated Date: 11-jun-2008
+   Creation Date: 29-mar-1996
+   Expiration Date: 30-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:26:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:24:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: fotki.com
+Whois Query: wsysa.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:16:03 EDT 2011
+Date and Time of Query: Tue Sep 13 16:14:54 EDT 2011
 Reason Code: IE

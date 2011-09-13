@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84074279-LROR
+Domain Name:LCOSJ.ORG
+Created On:28-Feb-2002 22:11:38 UTC
+Last Updated On:30-Nov-2009 20:05:40 UTC
+Expiration Date:28-Feb-2012 22:11:38 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30366566
+Registrant Name:Greg Scott
+Registrant Organization:Lutheran Church of St. John
+Registrant Street1:3340 State Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Quincy
+Registrant State/Province:Illinois
+Registrant Postal Code:62301
+Registrant Country:US
+Registrant Phone:+1.2172228579
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gscott@adams.net
+Admin ID:CR30366568
+Admin Name:Greg Scott
+Admin Organization:Lutheran Church of St. John
+Admin Street1:3340 State Street
+Admin Street2:
+Admin Street3:
+Admin City:Quincy
+Admin State/Province:Illinois
+Admin Postal Code:62301
+Admin Country:US
+Admin Phone:+1.2172228579
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gscott@adams.net
+Tech ID:CR30366567
+Tech Name:Nic Handle
+Tech Organization:Adams NetWorks, Inc
+Tech Street1:PO Box 247
+Tech Street2:
+Tech Street3:
+Tech City:Golden
+Tech State/Province:Illinois
+Tech Postal Code:62339
+Tech Country:US
+Tech Phone:+1.2176964411
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nic@adams.net
+Name Server:LX.ADAMS.NET
+Name Server:NS.ADAMS.NET
+Name Server:NS3.ADAMS.NET
+Name Server:NS2.ADAMS.NET
+Name Server:NS4.ADAMS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

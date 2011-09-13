@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 17:25:41 (BRT -03:00)
+
+domain:      spaceminas.com.br
+owner:       Space Minas Distribuidora de Produtos Alimenticios
+ownerid:     008.899.849/0001-50
+responsible: Alexandre Andrade
+country:     BR
+owner-c:     SPMIN
+admin-c:     SPMIN
+tech-c:      SPMIN
+billing-c:   SPMIN
+nserver:     ns2.pleskwin66.hospedagemdesites.ws
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     pleskwin66.hospedagemdesites.ws
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20070905 #3886974
+expires:     20110905
+changed:     20101005
+status:      published
+
+nic-hdl-br:  SPMIN
+person:      SPACE MINAS
+e-mail:      renato@spaceminas.com.br
+created:     20100526
+changed:     20100630
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

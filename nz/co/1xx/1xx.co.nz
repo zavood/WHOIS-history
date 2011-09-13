@@ -1,0 +1,63 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T08:26:11+12:00
+domain_name: 1xx.co.nz
+query_status: 200 Active
+domain_dateregistered: 1999-03-03T00:00:00+13:00
+domain_datebilleduntil: 2012-08-03T00:00:00+12:00
+domain_datelastmodified: 2011-07-05T10:09:25+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: NetSmart Ltd
+registrar_address1: PO Box 15020
+registrar_city: Tauranga
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 7 571 1367
+registrar_fax: +64 7 571 1372
+registrar_email: dns@netsmart.co.nz
+%
+registrant_contact_name: Radio Bay of Plenty
+registrant_contact_address1: PO Box 383
+registrant_contact_city: Whakatane
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 7 308 6239
+registrant_contact_fax: +64 7 307 1242
+registrant_contact_email: 1xx@1xx.co.nz
+%
+admin_contact_name: Glenn Smith
+admin_contact_address1: PO Box 383
+admin_contact_city: Whakatane
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 7 308 6239
+admin_contact_fax: +64 7 307 1242
+admin_contact_email: 1xx@1xx.co.nz
+%
+technical_contact_name: NetSmart Limited
+technical_contact_address1: PO Box 15020
+technical_contact_city: Tauranga
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 7 5711367
+technical_contact_fax: +64 7 5711372
+technical_contact_email: soa@netsmart.co.nz
+%
+ns_name_01: ns1.netsmart.co.nz
+ns_name_02: ns2.netsmart.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

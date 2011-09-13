@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOTKI.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.FOTKI.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Status: clientTransferProhibited
-   Updated Date: 11-nov-2010
-   Creation Date: 28-sep-1998
-   Expiration Date: 27-sep-2014
+   Domain Name: HOLLANDPROFIL.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NSAUTH01.SOLCON.NL
+   Name Server: NSAUTH02.SOLCON.NL
+   Name Server: NSAUTH03.SOLCON.NL
+   Status: ok
+   Updated Date: 20-jun-2011
+   Creation Date: 09-may-2001
+   Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:26:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:24:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +52,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  NordProfil (NORDPROF315)
+  Dr. Guepinlaan 11
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  OMMEREN, , 4032 NH
+  nl
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: hollandprofil.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  van der Vlies, Peter (PV5543)
+  Solcon Holding B.V.
+  Het Zwarte Water 9
 
-Whois Query: fotki.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:16:03 EDT 2011
-Reason Code: IE
+  Dronten, 8253PD
+  NL
+  peterv@solcon.nl
+  +31.880032222 Fax: +31.880032222
+
+Administrative contact:
+  van der Vlies, P. (SD816)
+
+  Het Spaarne 11
+
+  Dronten, 8253PE
+  NL
+  domainregistry@solcon.nl
+  +31.880032222 Fax: +31.880032223
+
+Record created:           2010-05-04 10:45:19
+Record last updated:      2011-06-20 09:03:06
+Record expires:           2012-05-09 00:00:00
+
+Domain servers in listed order:
+  nsauth01.solcon.nl (NSAUTHSO112)
+  nsauth02.solcon.nl (NSAUTHSO706)
+  nsauth03.solcon.nl (NSAUTHSO70)

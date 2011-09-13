@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOTKI.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.FOTKI.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
+   Domain Name: HNJIANREN.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.4EVERDNS.COM
+   Name Server: NS2.4EVERDNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 11-nov-2010
-   Creation Date: 28-sep-1998
-   Expiration Date: 27-sep-2014
+   Updated Date: 23-may-2011
+   Creation Date: 23-may-2009
+   Expiration Date: 23-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:26:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:25:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: hnjianren.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   hunan changdeshishimenxianmengquanhugongyekaifaqu
+   uangzheng yongg regEmail@noEmail.txt
+    fax:
+   shimenmengquanhugongyekaifaqu
+   cd hn 415000
+   cn
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+   guangzheng yong 4742579@qq.com
+   86-736-5363888 fax: 86-736-5362888
+   shimenmengquanhugongyekaifaqu
+   cd hn 415000
+   cd
 
-Whois Query: fotki.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:16:03 EDT 2011
-Reason Code: IE
+Technical Contact:
+   guangzheng yong 4742579@qq.com
+   86-736-5363888 fax: 86-736-5362888
+   shimenmengquanhugongyekaifaqu
+   cd hn 415000
+   cd
+
+Billing Contact:
+   guangzheng yong 4742579@qq.com
+   86-736-5363888 fax: 86-736-5362888
+   shimenmengquanhugongyekaifaqu
+   cd hn 415000
+   cd
+
+DNS:
+ns1.4everdns.com
+ns2.4everdns.com
+
+Created: 2009-05-23
+Expires: 2012-05-23

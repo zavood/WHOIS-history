@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOTKI.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.FOTKI.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
+   Domain Name: HOUSINGLOANSG.COM
+   Registrar: IP MIRROR PTE LTD. DBA IP MIRROR
+   Whois Server: whois.ipmirror.com
+   Referral URL: http://www.ipmirror.com
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
    Status: clientTransferProhibited
-   Updated Date: 11-nov-2010
-   Creation Date: 28-sep-1998
-   Expiration Date: 27-sep-2014
+   Updated Date: 15-aug-2011
+   Creation Date: 30-mar-2005
+   Expiration Date: 30-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:26:10 UTC &lt;&lt;&lt;
 
@@ -53,23 +54,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Service Provided By: AXAC SOLUTIONS PTE. LTD.
+Website:
+Domain Name: housingloansg.com
+Domain nameservers listed in order:
+ns0.dnsmadeeasy.com
+ns1.dnsmadeeasy.com
+ns2.dnsmadeeasy.com
+ns3.dnsmadeeasy.com
+ns4.dnsmadeeasy.com
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registration Date: 2005-03-31
+Expiration Date: 2013-03-30
+Domain last updated on: 2011-02-28
 
-Whois Query: fotki.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:16:03 EDT 2011
-Reason Code: IE
+Registrant Contact:
+Organization:
+Name: Kah Wan Ng
+Street 1: 632 Veerasamy Road
+Street 2: #24-106
+City: Singapore
+Postal Code: 200632
+Country: Singapore
+Email Address: dennis@housingloansg.com
+Tel: 65.98520663
+Fax: 65.63399021
+
+Administrator Contact:
+Organization: FORT DIGITAL PTE. LTD.
+Name: Teddy Jandiono
+Street 1: 305C Anchorvale Link
+Street 2: #13-43
+City: Singapore
+Postal Code: 543305
+Country: Singapore
+Email Address: teddy@jandiono.com
+Tel: 65.93365219
+Fax: 65.
+
+Technical Contact:
+Organization: AXAC SOLUTIONS PTE. LTD.
+Name: DNS Administrator
+Street 1: 50 Bukit Batok Street 23
+Street 2: #03-16 Midview Building
+City: Singapore
+Postal Code: 659578
+Country: Singapore
+Email Address: dns@axac.com
+Tel 1: 65.68962180
+Fax: 65.68962184
+
+
+Billing Contact:
+Organization: AXAC SOLUTIONS PTE. LTD.
+Name: DNS Administrator
+Street 1: 50 Bukit Batok Street 23
+Street 2: #03-16 Midview Building
+City: Singapore
+Postal Code: 659578
+Country: Singapore
+Email Address: dns@axac.com
+Tel 1: 65.68962180
+Fax: 65.68962184
+
+
+
+
