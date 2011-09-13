@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       raplakrk.ee
+registrant:   CID:ELION:129423955656
+admin-c:      CID:ELION:129423955557
+nsset:        NSSID:ELION:ID001
+registrar:    elion
+status:       paid and in zone
+registered:   04.07.2010 05:01:00
+changed:      05.01.2011 16:59:34
+expire:       05.01.2012
+
+contact:      CID:ELION:129423955656
+name:         RAPLA KESKRAAMATUKOGU
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      05.01.2011 16:59:16
+
+contact:      CID:ELION:129423955557
+name:         &Atilde;•IE PAASLEPP
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      05.01.2011 16:59:15
+
+nsset:        NSSID:ELION:ID001
+nserver:      ns.elion.ee (213.168.18.146)
+nserver:      ns2.elion.ee (195.50.193.163)
+tech-c:       CID:ELION:ID001
+registrar:    elion
+created:      06.07.2010 17:14:36
+
+contact:      CID:ELION:ID001
+org:          Elion Ettev&Atilde;&micro;tted AS
+name:         Elion Ettev&Atilde;&micro;tted AS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      06.07.2010 17:12:53
+
+
