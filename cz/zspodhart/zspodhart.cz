@@ -1,0 +1,86 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 03:43:53 2011
+
+domain:       zspodhart.cz
+registrant:   SB:PODHART
+admin-c:      HARTMAN
+nsset:        NSS:PODHART_SUB:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   09.06.2000 16:21:00
+changed:      27.08.2004 11:15:00
+expire:       09.06.2012
+
+contact:      SB:PODHART
+org:          Zakladni skola Podhart
+name:         Zakladni skola Podhart
+address:      Machova 884
+address:      Dvur Kralove nad Labem
+address:      544 01
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      06.04.2011 14:47:02
+
+contact:      HARTMAN
+name:         Milan Hartman
+address:      Klicperova 2491
+address:      Dvur Kralove nad Labem
+address:      54401
+address:      CZ
+e-mail:       hartman@webtech.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.11.2007 20:00:03
+
+nsset:        NSS:PODHART_SUB:1
+nserver:      ns.ces.net
+nserver:      ns.hknet.cz
+tech-c:       JANA_IROVSKA
+tech-c:       SB:PODHART_SUB
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      23.03.2011 20:48:05
+
+contact:      JANA_IROVSKA
+name:         Jana Irovsk&Atilde;&iexcl;
+address:      Tolsteho 517
+address:      Trebic
+address:      674 01
+address:      CZ
+phone:        +420.604342693
+e-mail:       irovska@eye-t.cz
+registrar:    REG-IGNUM
+created:      23.06.2004 18:45:00
+changed:      06.04.2011 18:19:08
+
+contact:      SB:PODHART_SUB
+org:          Zakladni skola Podhart
+name:         Zakladni skola Podhart
+address:      Machova 884
+address:      Dvur Kralove nad Labem
+address:      544 01
+address:      CZ
+e-mail:       skola@zspodhart.cz
+registrar:    REG-IGNUM
+created:      01.08.2004 21:15:00
+
+

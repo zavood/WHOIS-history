@@ -9,14 +9,14 @@ for detailed information.
    Registrar: HEBEI GUOJI MAOYI (SHANGHAI) LTD DBA HEBEIDOMAINS.COM
    Whois Server: whois.hebeidomains.com
    Referral URL: http://www.hebeidomains.com
-   Name Server: NS1.MFK1.COM
-   Name Server: NS2.MFK1.COM
+   Name Server: NS1.NEXT.ORG
+   Name Server: NS2.NEXT.ORG
    Status: ok
-   Updated Date: 20-jun-2011
+   Updated Date: 12-sep-2011
    Creation Date: 04-jan-2011
    Expiration Date: 04-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 12:16:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:42:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,6 +115,6 @@ at any time. By submitting this query, you agree to abide by these terms.
 
 
 
-Request number 2 from 5 daily allowed from your IP address.
+Request number 5 from 5 daily allowed from your IP address.
 Email to trick bots (does not work)  XN--OYUNYNETICISI-MMB.COM@hotmail.com
 
