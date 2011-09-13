@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:14:55 (BRT -03:00)
+
+domain:      vigorengenharia.com.br
+owner:       Glauber Alves de Moura
+ownerid:     009.419.721/0001-05
+responsible: Glauber Alves de Moura
+country:     BR
+owner-c:     GLAMO3
+admin-c:     GLAMO3
+tech-c:      GLAMO3
+billing-c:   GLAMO3
+nserver:     ns1.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns3.locaweb.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20080627 #4613465
+expires:     20110627
+changed:     20110711
+provider:    LOCAWEB (2)
+status:      on-hold
+
+nic-hdl-br:  GLAMO3
+person:      Glauber Alves de Moura
+e-mail:      gamoura@gmail.com
+created:     20080627
+changed:     20110331
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
