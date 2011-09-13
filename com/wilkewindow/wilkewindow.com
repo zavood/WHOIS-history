@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRICERUNNER.COM
+   Domain Name: WILKEWINDOW.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.MEDIAPLEX.COM
-   Name Server: NS2.MEDIAPLEX.COM
-   Name Server: NS3.MEDIAPLEX.COM
+   Name Server: NS35.WORLDNIC.COM
+   Name Server: NS36.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 19-may-1999
-   Expiration Date: 19-may-2015
+   Updated Date: 24-dec-2009
+   Creation Date: 13-aug-1999
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:00:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:59:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PRICERUNNER.COM
-&lt;a href=&quot;http://www.aboutus.org/PRICERUNNER.COM&quot;&gt;AboutUs: PRICERUNNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about WILKEWINDOW.COM
+&lt;a href=&quot;http://www.aboutus.org/WILKEWINDOW.COM&quot;&gt;AboutUs: WILKEWINDOW.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-ValueClick
-   30699 Russell Ranch Rd
-   Westlake Village, CA 91361
+Wilke Window &amp; Door Company
+   3500 Lebanon Ave.
+   Belleville, IL 62221
    US
 
-   Domain Name: PRICERUNNER.COM
+   Domain Name: WILKEWINDOW.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +94,30 @@ ValueClick
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      ValueClick		domainadmin@valueclick.com
-      30699 Russell Ranch Rd
-      Westlake Village, CA 91361
+   Administrative Contact:
+      KALICKI, KARI		kari.kalicki@wilkewindow.com
+      Wilke Window &amp; Door Company
+      3500 LEBANON AVE
+      BELLEVILLE, IL 62221-4483
       US
-      818-532-3580
+      618 624-5400 ext. 1141 fax: 618 624 2038
+
+   Technical Contact:
+      Ong, Ronny		metron@wilkewindow.com
+      Metron Group Inc
+      PO Box 260512
+      Plano, TX 75026-0512
+      US
+      972-673-1299 fax: 214-550-6900
 
 
-   Record expires on 19-May-2015.
-   Record created on 11-Jan-2010.
-   Database last updated on 13-Sep-2011 13:51:26 EDT.
+   Record expires on 13-Aug-2012.
+   Record created on 13-Aug-1999.
+   Database last updated on 13-Sep-2011 13:49:54 EDT.
 
    Domain servers in listed order:
 
-   NS3.MEDIAPLEX.COM            64.158.223.65
-   NS1.MEDIAPLEX.COM            64.158.223.64
-   NS2.MEDIAPLEX.COM            64.70.10.79
+   NS35.WORLDNIC.COM            205.178.190.18
+   NS36.WORLDNIC.COM            206.188.198.18
 
 

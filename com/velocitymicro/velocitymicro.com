@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRICERUNNER.COM
+   Domain Name: VELOCITYMICRO.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.MEDIAPLEX.COM
-   Name Server: NS2.MEDIAPLEX.COM
-   Name Server: NS3.MEDIAPLEX.COM
+   Name Server: NS5.WORLDNIC.COM
+   Name Server: NS6.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 19-may-1999
-   Expiration Date: 19-may-2015
+   Updated Date: 02-oct-2006
+   Creation Date: 16-may-1999
+   Expiration Date: 16-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:00:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:00:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PRICERUNNER.COM
-&lt;a href=&quot;http://www.aboutus.org/PRICERUNNER.COM&quot;&gt;AboutUs: PRICERUNNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about VELOCITYMICRO.COM
+&lt;a href=&quot;http://www.aboutus.org/VELOCITYMICRO.COM&quot;&gt;AboutUs: VELOCITYMICRO.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-ValueClick
-   30699 Russell Ranch Rd
-   Westlake Village, CA 91361
+Velocity Micro, Inc.
+   467 Southlake Bl
+   RICHMOND, VA 23236
    US
 
-   Domain Name: PRICERUNNER.COM
+   Domain Name: VELOCITYMICRO.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +95,20 @@ ValueClick
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      ValueClick		domainadmin@valueclick.com
-      30699 Russell Ranch Rd
-      Westlake Village, CA 91361
+      COPELAND, RANDY		RandyC@VelocityMicro.com
+      2621 Robys Way
+      Midlothian, VA 23113
       US
-      818-532-3580
+      804 897 6166 fax: 123 123 1234
 
 
-   Record expires on 19-May-2015.
-   Record created on 11-Jan-2010.
-   Database last updated on 13-Sep-2011 13:51:26 EDT.
+   Record expires on 16-May-2014.
+   Record created on 16-May-1999.
+   Database last updated on 13-Sep-2011 13:50:23 EDT.
 
    Domain servers in listed order:
 
-   NS3.MEDIAPLEX.COM            64.158.223.65
-   NS1.MEDIAPLEX.COM            64.158.223.64
-   NS2.MEDIAPLEX.COM            64.70.10.79
+   NS5.WORLDNIC.COM             205.178.190.3
+   NS6.WORLDNIC.COM             206.188.198.3
 
 

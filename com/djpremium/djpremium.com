@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRICERUNNER.COM
+   Domain Name: DJPREMIUM.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.MEDIAPLEX.COM
-   Name Server: NS2.MEDIAPLEX.COM
-   Name Server: NS3.MEDIAPLEX.COM
+   Name Server: NS1.DJNETWORKS.NET
+   Name Server: NS2.DJNETWORKS.NET
    Status: clientTransferProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 19-may-1999
-   Expiration Date: 19-may-2015
+   Updated Date: 01-feb-2011
+   Creation Date: 15-feb-2006
+   Expiration Date: 15-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:00:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:59:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PRICERUNNER.COM
-&lt;a href=&quot;http://www.aboutus.org/PRICERUNNER.COM&quot;&gt;AboutUs: PRICERUNNER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about DJPREMIUM.COM
+&lt;a href=&quot;http://www.aboutus.org/DJPREMIUM.COM&quot;&gt;AboutUs: DJPREMIUM.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-ValueClick
-   30699 Russell Ranch Rd
-   Westlake Village, CA 91361
-   US
+DrJays.com, Inc.
+   ATTN DJPREMIUM.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: PRICERUNNER.COM
+
+   Domain Name: DJPREMIUM.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +97,29 @@ ValueClick
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      ValueClick		domainadmin@valueclick.com
-      30699 Russell Ranch Rd
-      Westlake Village, CA 91361
+      Moses, Samuel		s47z38kf8k2@networksolutionsprivateregistration.com
+      DrJays.com, Inc.
+      ATTN DJPREMIUM.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      818-532-3580
+      570-708-8780
 
 
-   Record expires on 19-May-2015.
-   Record created on 11-Jan-2010.
-   Database last updated on 13-Sep-2011 13:51:26 EDT.
+   Record expires on 15-Feb-2016.
+   Record created on 15-Feb-2006.
+   Database last updated on 13-Sep-2011 13:54:59 EDT.
 
    Domain servers in listed order:
 
-   NS3.MEDIAPLEX.COM            64.158.223.65
-   NS1.MEDIAPLEX.COM            64.158.223.64
-   NS2.MEDIAPLEX.COM            64.70.10.79
+   NS1.DJNETWORKS.NET
+   NS2.DJNETWORKS.NET
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 
