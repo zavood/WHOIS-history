@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ASK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-ASK.COM
+   Domain Name: QPUSSY.COM
+   Registrar: EVOPLUS LTD
+   Whois Server: whois.evonames.com
+   Referral URL: http://www.evonames.com
+   Name Server: NS1.QPUSSY.COM
+   Name Server: NS2.QPUSSY.COM
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 23-mar-2011
+   Expiration Date: 23-mar-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:22:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:23:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name: QPUSSY.COM
+
+Abuse email: abuse@whoisprotectservice.net
+
+This domain is not owned by WhoisProtectService.
+WhoisProtectService only provides a proxy service for our customers personal contact information.
+For any complaints concerning this domain please visit http://whoisprotectservice.net
+
+Registrant:
+    Proxy Private Registration         qpussy.com@whoisprotectservice.net
+    WhoisProtectService.net
+    ATTN: Private Registrations
+    27 Old Gloucester street
+    London WC1N 3AX
+    United Kingdom
+    +44.02074195061
+
+Registered Through:
+    AdvancedHosters.com (http://www.AdvancedHosters.com)
+
+Administrative Contact:
+    Proxy Private Registration         qpussy.com@whoisprotectservice.net
+    WhoisProtectService.net
+    ATTN: Private Registrations
+    27 Old Gloucester street
+    London WC1N 3AX
+    United Kingdom
+    +44.02074195061
+
+Technical Contact:
+    Proxy Private Registration         qpussy.com@whoisprotectservice.net
+    WhoisProtectService.net
+    ATTN: Private Registrations
+    27 Old Gloucester street
+    London WC1N 3AX
+    United Kingdom
+    +44.02074195061
+
+Billing Contact:
+    Proxy Private Registration         qpussy.com@whoisprotectservice.net
+    WhoisProtectService.net
+    ATTN: Private Registrations
+    27 Old Gloucester street
+    London WC1N 3AX
+    United Kingdom
+    +44.02074195061
+
+Name Server: NS1.QPUSSY.COM
+Name Server: NS2.QPUSSY.COM
+
