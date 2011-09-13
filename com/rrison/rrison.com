@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FACEBOOK.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-FACEBOOK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-FACEBOOK.COM.LOVED.BY.WWW.SHQIPHOST.COM
-FACEBOOK.COM.KNOWS.THAT.THE.BEST.WEB.HOSTING.IS.NASHHOST.NET
-FACEBOOK.COM.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-FACEBOOK.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: RRISON.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.WORLDWIDE4.CO.UK
+   Name Server: NS2.WORLDWIDE4.CO.UK
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 12-nov-2010
+   Creation Date: 11-dec-1999
+   Expiration Date: 11-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:16:45 UTC &lt;&lt;&lt;
 
@@ -51,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

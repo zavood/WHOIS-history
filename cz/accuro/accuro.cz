@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 05:16:20 2011
+
+domain:       accuro.cz
+registrant:   SB:25623681
+admin-c:      DAGMARNOVOTNAACCURO
+nsset:        NSS:25623681:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   21.10.2002 18:31:00
+changed:      03.06.2004 18:05:00
+expire:       21.10.2011
+
+contact:      SB:25623681
+org:          Accuro, Brandschutzanlagen spol. s.r.o.
+name:         Accuro, Brandschutzanlagen spol. s.r.o.
+address:      Cernokosteleck&Atilde;&iexcl; 7
+address:      Praha 10
+address:      100 00
+address:      CZ
+e-mail:       os@holdingservice.cz
+registrar:    REG-ACTIVE24
+created:      21.10.2002 18:26:00
+
+contact:      DAGMARNOVOTNAACCURO
+name:         Dagmar Novotna
+address:      Cernokosteleck&Atilde;&iexcl; 7
+address:      Praha 10
+address:      100 00
+address:      CZ
+phone:        2 74 78 11 27
+fax-no:       2 74 77 05 39
+e-mail:       os@holdingservice.cz
+registrar:    REG-ACTIVE24
+created:      21.10.2002 18:21:00
+
+nsset:        NSS:25623681:1
+nserver:      ns2.pipni.cz
+nserver:      ns.pipni.cz
+tech-c:       SB:25623681
+tech-c:       DAGMARNOVOTNAACCURO
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+
+

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FACEBOOK.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-FACEBOOK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-FACEBOOK.COM.LOVED.BY.WWW.SHQIPHOST.COM
-FACEBOOK.COM.KNOWS.THAT.THE.BEST.WEB.HOSTING.IS.NASHHOST.NET
-FACEBOOK.COM.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-FACEBOOK.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: A4JOOMLA.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS.MW2.HU
+   Name Server: NS3.MICROWARE.HU
+   Status: clientTransferProhibited
+   Updated Date: 02-aug-2011
+   Creation Date: 31-aug-2009
+   Expiration Date: 31-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:16:45 UTC &lt;&lt;&lt;
 
@@ -51,3 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Szabo Tamas tomisza@gmail.com +36.706290501
+	 Szabo Tamas
+	 Taviro u. 21. 3.lh. I.em. 4.
+	 Budapest,PEST,HU 1098
+
+
+Domain Name:a4joomla.com
+Record last updated at 2011-08-02 03:51:04
+Record created on 2009/8/31
+Record expired on 2012/8/31
+
+
+Domain servers in listed order:
+	 ns3.microware.hu 	 ns.mw2.hu
+
+Administrator:
+	 Taviro u. 21. 3.lh. I.em. 4.
+	 Budapest
+PEST,
+HU
+ 1098
+
+	 name:(Szabo Tamas)
+mail:(tomisza@gmail.com) +36.706290501
+	 Szabo Tamas
+Technical Contactor:
+	 Taviro u. 21. 3.lh. I.em. 4.
+	 Budapest
+PEST,
+HU
+ 1098
+
+	 name:(Szabo Tamas)
+mail:(tomisza@gmail.com) +36.706290501
+	 Szabo Tamas
+Billing Contactor:
+	 Pf. 96.
+	 Miskolc
+BAZ,
+HU
+ 3504
+
+	 name:(Microware Hungary Kft. (HOTLINE 30/6 1 6 1 6 1 6))
+mail:(info@microware.hu) +36.306161616
+	 Microware Hungary Kft. (HOTLINE 30/6 1 6 1 6 1 6)
+
+Registration Service Provider:
+	name: Microware Hungary Kft. (HOTLINE 30/6 1 6 1 6 1 6)
+	tel: +36.30
+ 	fax: +36.30
+ 	web:http://
