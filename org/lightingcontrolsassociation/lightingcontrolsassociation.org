@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160328871-LROR
+Domain Name:LIGHTINGCONTROLSASSOCIATION.ORG
+Created On:05-Oct-2010 19:04:33 UTC
+Last Updated On:05-Dec-2010 03:50:37 UTC
+Expiration Date:05-Oct-2015 19:04:33 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR64006570
+Registrant Name:Craig DiLouie
+Registrant Organization:ZING Communications, Inc.
+Registrant Street1:632 - 54 Ave SW
+Registrant Street2:
+Registrant Street3:
+Registrant City:Calgary
+Registrant State/Province:Alberta
+Registrant Postal Code:T2V0C8
+Registrant Country:CA
+Registrant Phone:+1.4038021809
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cdilouie@zinginc.com
+Admin ID:CR64006572
+Admin Name:Craig DiLouie
+Admin Organization:ZING Communications, Inc.
+Admin Street1:632 - 54 Ave SW
+Admin Street2:
+Admin Street3:
+Admin City:Calgary
+Admin State/Province:Alberta
+Admin Postal Code:T2V0C8
+Admin Country:CA
+Admin Phone:+1.4038021809
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cdilouie@zinginc.com
+Tech ID:CR64006571
+Tech Name:Craig DiLouie
+Tech Organization:ZING Communications, Inc.
+Tech Street1:632 - 54 Ave SW
+Tech Street2:
+Tech Street3:
+Tech City:Calgary
+Tech State/Province:Alberta
+Tech Postal Code:T2V0C8
+Tech Country:CA
+Tech Phone:+1.4038021809
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cdilouie@zinginc.com
+Name Server:NS.VERVEHOSTING.COM
+Name Server:NS2.VERVEHOSTING.COM
+Name Server:NS3.VERVEHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

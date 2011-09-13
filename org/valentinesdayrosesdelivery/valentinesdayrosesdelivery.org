@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158059026-LROR
+Domain Name:VALENTINESDAYROSESDELIVERY.ORG
+Created On:14-Jan-2010 23:49:42 UTC
+Last Updated On:14-Jan-2011 17:25:56 UTC
+Expiration Date:14-Jan-2012 23:49:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40385959
+Registrant Name:oge nwaozuzu
+Registrant Street1:41 shalden house
+Registrant Street2:tunworth crescent
+Registrant Street3:
+Registrant City:london
+Registrant State/Province:wandsworth
+Registrant Postal Code:sw15 4ea
+Registrant Country:GB
+Registrant Phone:+44.07817221831
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ogenwaozuzu@hotmail.com
+Admin ID:CR40385985
+Admin Name:oge nwaozuzu
+Admin Street1:41 shalden house
+Admin Street2:tunworth crescent
+Admin Street3:
+Admin City:london
+Admin State/Province:wandsworth
+Admin Postal Code:sw15 4ea
+Admin Country:GB
+Admin Phone:+44.07817221831
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ogenwaozuzu@hotmail.com
+Tech ID:CR40385972
+Tech Name:oge nwaozuzu
+Tech Street1:41 shalden house
+Tech Street2:tunworth crescent
+Tech Street3:
+Tech City:london
+Tech State/Province:wandsworth
+Tech Postal Code:sw15 4ea
+Tech Country:GB
+Tech Phone:+44.07817221831
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ogenwaozuzu@hotmail.com
+Name Server:NS1813.HOSTGATOR.COM
+Name Server:NS1814.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

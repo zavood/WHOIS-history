@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THIS-DOMAIN-IS-4-SALE.COM
-   Registrar: HOMESTEAD LIMITED DBA NAMEVAULT.COM
-   Whois Server: whois.namevault.com
-   Referral URL: http://www.namevault.com
-   Name Server: BUY.INTERNETTRAFFIC.COM
-   Name Server: SELL.INTERNETTRAFFIC.COM
-   Status: ok
-   Updated Date: 08-sep-2011
-   Creation Date: 01-aug-2001
-   Expiration Date: 01-aug-2019
+   Domain Name: OIWEOWPDJSAKCNDSJKCBDSKJCBDSECJDS.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.SUSPENDED-DOMIAN.COM
+   Name Server: NS2.SUSPENDED-DOMIAN.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-jun-2011
+   Creation Date: 21-apr-2011
+   Expiration Date: 21-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:20:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:22:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: NAMEVAULT.COM PAYMENT PROCESSING
-Contact: +800.8829010
+Registration Service Provided By: DOMAIN NAMES REGISTRAR REG.RU LTD.
+Contact: +7.4955801111
 
-Domain Name: THIS-DOMAIN-IS-4-SALE.COM
+Domain Name: OIWEOWPDJSAKCNDSJKCBDSKJCBDSECJDS.COM
 
 Registrant:
-    Worldwide Media, Inc
-    Domain Administrator        (info@mostwanteddomains.com)
-    Po Box 129
-    Highlands
-    North Carolina,28741
-    US
-    Tel. +001.8132675600
-    Fax. +001.9543370351
+    Not app
+    Artemev Igor        (Crochu052963Alex@aol.com)
+    3-i proezd stroitelei stroenie 7 korpus 3 kv 332
+    Moskva
+    Moscow,119332
+    RU
+    Tel. +7.4952748654
+    Fax. +7.4952748655
 
-Creation Date: 01-Aug-2001
-Expiration Date: 01-Aug-2019
+Creation Date: 21-Apr-2011
+Expiration Date: 21-Apr-2012
 
 Domain servers in listed order:
-    buy.internettraffic.com
-    sell.internettraffic.com
+    ns1.suspended-domian.com
+    ns2.suspended-domian.com
 
 
 Administrative Contact:
-    Worldwide Media, Inc
-    Domain Administrator        (info@mostwanteddomains.com)
-    Po Box 129
-    Highlands
-    North Carolina,28741
-    US
-    Tel. +001.8132675600
-    Fax. +001.9543370351
+    Not app
+    Artemev Igor        (Crochu052963Alex@aol.com)
+    3-i proezd stroitelei stroenie 7 korpus 3 kv 332
+    Moskva
+    Moscow,119332
+    RU
+    Tel. +7.4952748654
+    Fax. +7.4952748655
 
 Technical Contact:
-    Worldwide Media, Inc
-    Domain Administrator        (info@mostwanteddomains.com)
-    Po Box 129
-    Highlands
-    North Carolina,28741
-    US
-    Tel. +001.8132675600
-    Fax. +001.9543370351
+    Not app
+    Artemev Igor        (Crochu052963Alex@aol.com)
+    3-i proezd stroitelei stroenie 7 korpus 3 kv 332
+    Moskva
+    Moscow,119332
+    RU
+    Tel. +7.4952748654
+    Fax. +7.4952748655
 
 Billing Contact:
-    Worldwide Media, Inc
-    Domain Administrator        (info@mostwanteddomains.com)
-    Po Box 129
-    Highlands
-    North Carolina,28741
-    US
-    Tel. +001.8132675600
-    Fax. +001.9543370351
+    Not app
+    Artemev Igor        (Crochu052963Alex@aol.com)
+    3-i proezd stroitelei stroenie 7 korpus 3 kv 332
+    Moskva
+    Moscow,119332
+    RU
+    Tel. +7.4952748654
+    Fax. +7.4952748655
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -116,7 +120,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Homestead Limited dba Namevault.com.
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
