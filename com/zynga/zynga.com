@@ -25,7 +25,7 @@ for detailed information.
    Creation Date: 02-nov-2007
    Expiration Date: 02-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 11:47:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:46:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -120,12 +120,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    pdns3.ultradns.org
-    pdns1.ultradns.net
     pdns5.ultradns.info
+    pdns1.ultradns.net
     pdns2.ultradns.net
-    pdns6.ultradns.co.uk
     pdns4.ultradns.org
+    pdns6.ultradns.co.uk
+    pdns3.ultradns.org
 
 
 

@@ -1,0 +1,72 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T05:46:12+12:00
+domain_name: sitehost.co.nz
+query_status: 200 Active
+domain_dateregistered: 2004-03-13T21:04:17+13:00
+domain_datebilleduntil: 2011-12-13T21:04:17+13:00
+domain_datelastmodified: 2011-08-15T00:06:53+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: SiteName
+registrar_address1: P O Box 11859
+registrar_address2: Ellerslie
+registrar_city: Auckland
+registrar_postalcode: 1542
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 28 25501787
+registrar_fax: +64 28 25501788
+registrar_email: domains@sitename.co.nz
+%
+registrant_contact_name: SiteTech Solutions Ltd
+registrant_contact_address1: P.O. Box 11859
+registrant_contact_address2: Ellerslie
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 1542
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 9742182
+registrant_contact_email: soa@sitehost.co.nz
+%
+admin_contact_name: Sitehost Domains
+admin_contact_address1: P.O. Box 11859
+admin_contact_address2: Ellerslie
+admin_contact_city: Auckland
+admin_contact_postalcode: 1542
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 9742182
+admin_contact_email: dns-admin@sitehost.co.nz
+%
+technical_contact_name: Sitehost Domains
+technical_contact_address1: P.O. Box 11859
+technical_contact_address2: Ellerslie
+technical_contact_city: Auckland
+technical_contact_postalcode: 1542
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 9742182
+technical_contact_email: dns-admin@sitehost.co.nz
+%
+ns_ip4_01: 210.48.72.68
+ns_name_01: ns1.sitehost.co.nz
+ns_ip4_02: 120.138.23.25
+ns_name_02: ns2.sitehost.co.nz
+ns_ip4_03: 78.46.212.29
+ns_name_03: ns3.sitehost.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
