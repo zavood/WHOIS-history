@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107761415-LROR
+Domain Name:PDF24.ORG
+Created On:10-Oct-2005 13:34:48 UTC
+Last Updated On:11-Oct-2010 01:23:00 UTC
+Expiration Date:10-Oct-2011 13:34:48 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10964165
+Registrant Name:admin of the day
+Registrant Street1:Friedrichstr. 171
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:Berlin
+Registrant Postal Code:10117
+Registrant Country:DE
+Registrant Phone:+49.442077706322
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pdf24@office24.co.uk
+Admin ID:ABM-10964165
+Admin Name:admin of the day
+Admin Street1:Friedrichstr. 171
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:Berlin
+Admin Postal Code:10117
+Admin Country:DE
+Admin Phone:+49.442077706322
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pdf24@office24.co.uk
+Tech ID:ABM-260448
+Tech Name:Hostmaster intergenia AG
+Tech Organization:intergenia AG
+Tech Street1:Daimlerstrasse 9-11
+Tech Street2:
+Tech Street3:
+Tech City:Huerth
+Tech State/Province:NRW
+Tech Postal Code:50354
+Tech Country:DE
+Tech Phone:+49.22336120
+Tech Phone Ext.:
+Tech FAX:+49.22336125146
+Tech FAX Ext.:
+Tech Email:domains@domains.intergenia.de
+Name Server:NS5.NAMESERVERSERVICE.DE
+Name Server:NS6.NAMESERVERSERVICE.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
