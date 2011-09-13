@@ -5,17 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: 101GREATGOALS.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: BETH.NS.CLOUDFLARE.COM
+   Name Server: MAX.NS.CLOUDFLARE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 07-sep-2011
+   Creation Date: 18-sep-2006
+   Expiration Date: 18-sep-2016
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:28:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +53,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: 101GREATGOALS.COM
+     Created on: 2009-08-21
+     Updated on: 2011-09-07
+     Expires on: 2016-09-18
+     Registrant Name: GLOBAL DOMAIN PRIVACY
+     Contact: GLOBAL DOMAIN PRIVACY
+     Registrant Address: 33 Cavendish Square
+     Registrant City: London
+     Registrant Postal Code: W1G 0PW
+     Registrant Country: GB
+     Administrative Contact Organization: GLOBAL DOMAIN PRIVACY
+     Administrative Contact Name: Global Domain Privacy
+     Administrative Contact Address: 33 Cavendish Square
+     Administrative Contact City: London
+     Administrative Contact Postal Code: W1G 0PW
+     Administrative Contact Country: GB
+     Administrative Contact Email: 4a8efeecad0f8@globaldomainprivacy.net
+     Administrative Contact Tel: +44 207 1383172
+     Administrative Contact Fax: +44 207 1383172
+     Technical Contact Organization: GLOBAL DOMAIN PRIVACY
+     Technical Contact Name:
+     Technical Contact Address: 33 Cavendish Square
+     Technical Contact City: London
+     Technical Contact Postal Code: W1G 0PW
+     Technical Contact Country: GB
+     Technical Contact Email: 4a8efeecad0f8@globaldomainprivacy.net
+     Technical Contact Phone: +44 207 1383172
+     Technical Contact Fax: +44 207 1383172
+     Primary Name Server Hostname: BETH.NS.CLOUDFLARE.COM
+     Secondary Name Server Hostname: MAX.NS.CLOUDFLARE.COM
+
+
+&gt;&gt;&gt; Last update of whois database: Tue Sep 13 00:59:26 2011 &lt;&lt;&lt;
+

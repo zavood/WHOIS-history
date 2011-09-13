@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: PEUGEOT-TH.COM
+   Registrar: DOTARAI CO,. LTD.
+   Whois Server: whois.dotarai.com
+   Referral URL: http://www.dotarai.co.th
+   Name Server: NS1.DOTARAI.COM
+   Name Server: NS2.DOTARAI.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 28-nov-2009
+   Creation Date: 14-feb-1997
+   Expiration Date: 15-feb-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:28:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +52,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% whois.dotarai.com
+
+
+% Whois Server Version 1.0.0
+
+   Domain: PEUGEOT-TH.COM
+   Registrar: DotArai Co., Ltd.
+   Status: ACTIVE
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated date: 28-Nov-2009
+   Creation date: 14-Feb-1997
+   Expiration date: 15-Feb-2013
+   Name Server: NS1.DOTARAI.COM
+   Name Server: NS2.DOTARAI.COM
+
+   Registrant ID: 34051
+      Jakgrarath Leenutaphong
+      Address:
+         113/28 Thonglor Soi 5
+         Wattana, Bangkok 10110
+         Thailand
+
+   Administrative Contact ID: 34052
+      Jakgrarath Leenutaphong
+      Address:
+         113/28 Thonglor Soi 5
+         Wattana, Bangkok 10110
+         Thailand
+      Phone: +66831389981         Fax: ---
+      Email: bank147@yahoo.com
+
+   Technical Contact ID: 34053
+      Jakgrarath Leenutaphong
+      Address:
+         113/28 Thonglor Soi 5
+         Wattana, Bangkok 10110
+         Thailand
+      Phone: +66831389981         Fax: ---
+      Email: bank147@yahoo.com
+
+
+&gt;&gt;&gt; Last update of whois data: Tue, 13 Sep 2011 07:29:05 UTC+7 &lt;&lt;&lt;

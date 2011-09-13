@@ -5,15 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: GETTYIMAGES.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS01.GETTYIMAGES.COM
+   Name Server: DNS02.GETTYIMAGES.COM
+   Name Server: DNS03.GETTYIMAGES.COM
+   Status: clientTransferProhibited
+   Updated Date: 30-aug-2011
+   Creation Date: 05-jan-1999
+   Expiration Date: 05-jan-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
 
@@ -50,3 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... gettyimages.com
+  Creation Date........ 1999-01-05
+  Registration Date.... 2011-08-31
+  Expiry Date.......... 2015-01-06
+  Organisation Name.... Getty Images, Inc.
+  Organisation Address. 601 N. 34th St. Suite 400
+  Organisation Address. 601 N 34th Street
+  Organisation Address. Seattle
+  Organisation Address. 98103
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
+
+Admin Name........... DNS Administrator -
+  Admin Address........ 601 N 34th Street
+  Admin Address........
+  Admin Address........ Seattle
+  Admin Address........ 98103
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsadmin@gettyimages.com
+  Admin Phone.......... +1.2069255000
+  Admin Fax............ +1.2069255001
+
+Tech Name............ DNS Technical -
+  Tech Address......... 601 N 34th Street
+  Tech Address.........
+  Tech Address......... Seattle
+  Tech Address......... 98103
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... dnstech@gettyimages.com
+  Tech Phone........... +1.2069255000
+  Tech Fax............. +1.2069255001
+  Name Server.......... DNS02.GETTYIMAGES.COM
+  Name Server.......... DNS03.GETTYIMAGES.COM
+  Name Server.......... DNS01.GETTYIMAGES.COM
+
+

@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: PASSATNFS.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.PIPNI.CZ
+   Name Server: NS2.PIPNI.CZ
+   Status: clientTransferProhibited
+   Updated Date: 16-may-2011
+   Creation Date: 04-jun-2003
+   Expiration Date: 04-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       passatnfs.com
+owner:        Ladislav Malik
+email:        maliklada@tiscali.cz
+address:      Havlickova 2
+city:         Hodonin
+postal-code:  69501
+country:      CZ
+phone:        +420.2
+admin-c:      CCOM-71715 maliklada@tiscali.cz
+tech-c:       CCOM-19878 dom-reg-joker@ignum.cz
+billing-c:    CCOM-19878 dom-reg-joker@ignum.cz
+reseller:     Domena byla registrovana na www.domena.cz.
+reseller:     Domain registered at www.domena.cz.
+reseller:     (c) IGNUM, s.r.o.
+nserver:      ns.pipni.cz
+nserver:      ns2.pipni.cz
+status:       lock
+created:      2003-06-04 18:02:39 UTC
+modified:     2011-05-17 01:55:23 UTC
+expires:      2012-06-04 16:02:23 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-71715
+person:       Ladislav Malik
+email:        maliklada@tiscali.cz
+address:      Havlickova 2
+city:         Hodonin
+postal-code:  69501
+country:      CZ
+phone:        +420.2
+
+contact-hdl:  CCOM-19878
+person:       Robert Prokes
+organization: IGNUM, s.r.o.
+email:        dom-reg-joker@ignum.cz
+address:      Vinohradska 190
+city:         Praha 3
+postal-code:  130 61
+country:      CZ
+phone:        +420.296332211
+
+source:       joker.com live whois service
+query-time:   0.017273
+db-updated:   2011-09-13 00:30:08
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

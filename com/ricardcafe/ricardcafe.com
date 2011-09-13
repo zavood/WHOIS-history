@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: RICARDCAFE.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS1.PIENSASOLUTIONS.COM
+   Name Server: NS2.PIENSASOLUTIONS.COM
+   Status: ok
+   Updated Date: 17-jan-2011
+   Creation Date: 16-jan-2002
+   Expiration Date: 16-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
+
+
+Distribuidor Autorizado:
+Piensa Solutions
+info@piensasolutions.com
+http://www.piensasolutions.com
+
+
+Domain name: ricardcafe.com
+
+Registrant:
+      RICARDO PARDO ARDAVIN  (SROW-325731)
+
+   ricardcafe@lycos.es
+   PASEO DELICIAS
+   MADRID   MADRID
+   28045   ES
+   +34 0000000
+
+
+Administrative contact:
+   RICARDO PARDO ARDAVIN   (SRCO-520609)
+   ricardcafe@lycos.es
+   PASEO DELICIAS
+   MADRID   MADRID
+   28045   ES
+   +34 0000000
+
+
+Technical contact:
+   RICARDO PARDO ARDAVIN   (SRCO-520610)
+   ricardcafe@lycos.es
+   PASEO DELICIAS
+   MADRID   MADRID
+   28045   ES
+   +34 0000000
+
+
+Domain servers in listed order:
+   ns1.piensasolutions.com  217.76.150.137
+   ns2.piensasolutions.com  217.76.156.137
+
+
+Created:       16 Jan 2002 14:53:14:000   UTC
+Expires:       16 Jan 2012 19:53:14:000   UTC
+Last updated:  17 Jan 2011 15:50:22:973   UTC
+
+
+

@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: PC-FREE-GAMES.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS7.PADHOST.NET
+   Name Server: NS8.PADHOST.NET
+   Status: ok
+   Updated Date: 29-jan-2010
+   Creation Date: 23-mar-2008
+   Expiration Date: 23-mar-2016
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:30:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 hyf gamewww@gmail.com +86.13910726489
+	 beijing
+	 &frac12;&Ccedil;&Atilde;&Aring;
+	 &plusmn;&plusmn;&frac34;&copy;,&plusmn;&plusmn;&frac34;&copy;,CHINA 100068
+
+
+Domain Name:pc-free-games.com
+Record last updated at 2010-01-29 14:36:04
+Record created on 2008/3/23
+Record expired on 2016/3/23
+
+
+Domain servers in listed order:
+	 ns7.padhost.net 	 ns8.padhost.net
+
+Administrator:
+	 hyf gamewww@gmail.com +86.13910726489
+	 beijing
+	 &frac12;&Ccedil;&Atilde;&Aring;
+	 &plusmn;&plusmn;&frac34;&copy;,&plusmn;&plusmn;&frac34;&copy;,CHINA 100068
+
+Technical Contactor:
+	 hyf gamewww@gmail.com +86.13910726489
+	 beijing
+	 &frac12;&Ccedil;&Atilde;&Aring;
+	 &plusmn;&plusmn;&frac34;&copy;,&plusmn;&plusmn;&frac34;&copy;,CHINA 100068
+
+Billing Contactor:
+	 hyf gamewww@gmail.com +86.13910726489
+	 beijing
+	 &frac12;&Ccedil;&Atilde;&Aring;
+	 &plusmn;&plusmn;&frac34;&copy;,&plusmn;&plusmn;&frac34;&copy;,CHINA 100068
+

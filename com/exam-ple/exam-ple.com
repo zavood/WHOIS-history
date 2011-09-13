@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-LIVE.COM.ZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-LIVE.COM.ITS-NOT-ROCKET-SCIENCE-MR-RIKY-BLAIKIE.BURTYB.COM
-LIVE.COM.IS.N0T.AS.1337.AS.GULLI.COM
-LIVE.COM.IS.0WN3D.BY.GULLI.COM
-LIVE.COM
+   Domain Name: EXAM-PLE.COM
+   Registrar: NAUGUS LIMITED, LLC.
+   Whois Server: whois.naugus.com
+   Referral URL: http://www.naugus.com
+   Name Server: A.EXAM-PLE.COM
+   Name Server: B.EXAM-PLE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 31-oct-2010
+   Creation Date: 30-oct-2007
+   Expiration Date: 30-oct-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:28:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +52,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain: EXAM-PLE.COM
+
+Registrant:
+	Abadaba S.A.
+	Administrador de dominios
+	P.O. Box 0819-09689
+	Panama,  6 PA
+	Tel: +1.2063090626
+	Fax: +1.2063090626
+	abadaba@eml.cc
+
+Admin Contact:
+Billing Contact:
+Tech Contact:
+	Abadaba S.A.
+	Administrador de dominios
+	P.O. Box 0819-09689
+	Panama,  6 PA
+	Tel: +1.2063090626
+	Fax: +1.2063090626
+	abadaba@eml.cc
+
+Nameservers:
+	A.EXAM-PLE.COM
+	B.EXAM-PLE.COM
+
+Created: 2007-10-30
+Updated: 2007-10-30
+Expires: 2011-10-30
+
+--
+
+Automated collection of data from this database is strictly prohibited.
+We make this information available as-is and do not guarantee its accuracy.
+By submitting a query to us you agree to all of the following terms of use:
+ - You will use this data only for lawful purposes
+ - You will not enable high-volume or other automated processes to query this database
+ - You will not use this data to support the transmission of unsolicited commercial
+   email or other solicitations via direct mail, email or telephone
+ - The compilation, repackaging, redistribution, or other use of this data without
+   our prior written consent is expressly prohibited
+ - The party identified in the registrant field is responsible for all matters
+   regarding this domain; you must contact them not us in the event of a problem
+We reserve the right to modify these terms at any time and may block access to
+anyone we believe to have violated these terms.
+For abuse, spam, UDRP, and DMCA contacts please visit http://www.naugus.com/legal
+
