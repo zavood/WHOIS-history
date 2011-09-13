@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VILLAH.NET
-   Registrar: KEY-SYSTEMS GMBH
-   Whois Server: whois.rrpproxy.net
-   Referral URL: http://www.key-systems.net
-   Name Server: NS01.VILLAH.NET
-   Name Server: NS02.VILLAH.NET
-   Name Server: NS03.VILLAH.NET
-   Status: clientTransferProhibited
-   Updated Date: 04-apr-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Domain Name: X-LAND.NET
+   Registrar: 1 API GMBH
+   Whois Server: whois.1api.net
+   Referral URL: http://www.1api.net
+   Name Server: NS1.X-LAND.NET
+   Name Server: NS2.X-LAND.NET
+   Status: ok
+   Updated Date: 28-dec-2010
+   Creation Date: 03-nov-1998
+   Expiration Date: 02-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:57:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:58:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,10 +51,10 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by Villa Hosting
+; This data is provided by 1api GmbH
 ; for information purposes, and to assist persons obtaining information
 ; about or related to domain name registration records.
-; Villa Hosting does not guarantee its accuracy.
+; 1api GmbH does not guarantee its accuracy.
 ; By submitting a WHOIS query, you agree that you will use this data
 ; only for lawful purposes and that, under no circumstances, you will
 ; use this data to
@@ -67,67 +66,62 @@ Registrars.
 ; These terms may be changed without prior notice.
 ; By submitting this query, you agree to abide by this policy.
 
-DOMAIN: VILLAH.NET
 
-RSP: Villa Hosting
-URL: http://www.villah.com
 
-owner-contact: P-DAA118
-owner-organization: Villa Hosting B.V.
-owner-fname: Domain
-owner-lname: Administrator
-owner-street: P.O. Box 1471
-owner-city: Amsterdam
-owner-state: NH
-owner-zip: 1000 BL
-owner-country: NL
-owner-phone: +31205206109
-owner-fax: +31207176223
-owner-email: domains@villah.com
+DOMAIN: X-LAND.NET
 
-admin-contact: P-DAA118
-admin-organization: Villa Hosting B.V.
-admin-fname: Domain
-admin-lname: Administrator
-admin-street: P.O. Box 1471
-admin-city: Amsterdam
-admin-state: NH
-admin-zip: 1000 BL
-admin-country: NL
-admin-phone: +31205206109
-admin-fax: +31207176223
-admin-email: domains@villah.com
+RSP: 1api GmbH
+URL: http://www.1api.net/
 
-tech-contact: P-DAA118
-tech-organization: Villa Hosting B.V.
-tech-fname: Domain
-tech-lname: Administrator
-tech-street: P.O. Box 1471
-tech-city: Amsterdam
-tech-state: NH
-tech-zip: 1000 BL
-tech-country: NL
-tech-phone: +31205206109
-tech-fax: +31207176223
-tech-email: domains@villah.com
+created-date: 1998-11-03 12:00:00
+updated-date: 2010-12-28 18:32:36
+registration-expiration-date: 2011-11-02 04:00:00
 
-billing-contact: P-DAA118
-billing-organization: Villa Hosting B.V.
-billing-fname: Domain
-billing-lname: Administrator
-billing-street: P.O. Box 1471
-billing-city: Amsterdam
-billing-state: NH
-billing-zip: 1000 BL
-billing-country: NL
-billing-phone: +31205206109
-billing-fax: +31207176223
-billing-email: domains@villah.com
+owner-organization: Antide Srl
+owner-name: Mr. Enrico Cuman
+owner-street: Via Schiavonetti 24
+owner-city: Bassano del Grappa
+owner-state: VI
+owner-zip: 36061
+owner-country: IT
+owner-phone: +39.042437195
+owner-fax: +39.0424391021
+owner-email: hostmaster@antide.com
 
-nameserver: ns01.villah.net 193.104.187.102
-nameserver: ns02.villah.net 91.208.62.102
-nameserver: ns03.villah.net 195.88.161.102
+admin-organization: Antide Srl
+admin-name: Mr. Enrico Cuman
+admin-street: Via Schiavonetti 24
+admin-city: Bassano del Grappa
+admin-state: VI
+admin-zip: 36061
+admin-country: IT
+admin-phone: +39.042437195
+admin-fax: +39.0424391021
+admin-email: hostmaster@antide.com
 
-; Please register your domains at
-; http://www.villah.com
+tech-organization: Antide Srl
+tech-name: Mr. Enrico Cuman
+tech-street: Via Schiavonetti 24
+tech-city: Bassano del Grappa
+tech-state: VI
+tech-zip: 36061
+tech-country: IT
+tech-phone: +39.042437195
+tech-fax: +39.0424391021
+tech-email: hostmaster@antide.com
+
+billing-organization: Antide Srl
+billing-name: Mr. Enrico Cuman
+billing-street: Via Schiavonetti 24
+billing-city: Bassano del Grappa
+billing-state: VI
+billing-zip: 36061
+billing-country: IT
+billing-phone: +39.042437195
+billing-fax: +39.0424391021
+billing-email: hostmaster@antide.com
+
+nameserver: ns1.x-land.net 82.193.20.130
+nameserver: ns2.x-land.net 88.86.183.22
+
 
