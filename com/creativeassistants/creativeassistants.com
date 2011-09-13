@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARAGONCORPORATION.COM
+   Domain Name: CREATIVEASSISTANTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.PARAGONCORPORATION.COM
-   Name Server: NS2.PARAGONCORPORATION.COM
+   Name Server: NS1813.HOSTGATOR.COM
+   Name Server: NS1814.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-feb-2011
-   Creation Date: 14-apr-1997
-   Expiration Date: 15-apr-2012
+   Updated Date: 07-sep-2011
+   Creation Date: 09-sep-2003
+   Expiration Date: 09-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:21:00 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Paragon Corporation
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PARAGONCORPORATION.COM
+   Domain Name: CREATIVEASSISTANTS.COM
 
    Domain servers in listed order:
-      NS1.PARAGONCORPORATION.COM
-      NS2.PARAGONCORPORATION.COM
+      NS1814.HOSTGATOR.COM
+      NS1813.HOSTGATOR.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PARAGONCORPORATION.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=CREATIVEASSISTANTS.COM
