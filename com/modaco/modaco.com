@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SISDNS.NET
-   Registrar: TOTAL WEB SOLUTIONS LIMITED TRADING AS TOTALREGISTRATIONS
-   Whois Server: whois.totalregistrations.com
-   Referral URL: http://www.totalregistrations.com
-   Name Server: NS1.SISDNS.NET
-   Name Server: NS2.GEODNS.NET
-   Name Server: NS2.SISDNS.NET
+   Domain Name: MODACO.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: IGOR.NS.CLOUDFLARE.COM
+   Name Server: SUE.NS.CLOUDFLARE.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-may-2011
-   Creation Date: 14-jun-2003
-   Expiration Date: 14-jun-2013
+   Updated Date: 25-aug-2011
+   Creation Date: 03-jul-2000
+   Expiration Date: 03-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:00:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:00:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,71 +53,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in TotalRegistrations' WHOIS database is provided by
-TotalRegistrations for information purposes and to assist persons
-in obtaining information about or related to a domain name
-registration record. TotalRegistrations does not guarantee its
-accuracy. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no
-circumstances will you use this Data to: (1) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or  (2)
-enable high volume, automated, electronic processes that apply to
-TotalRegistrations (or its systems).  TotalRegistrations reserves
-the right to modify these terms at any time.  By submitting this
-query, you agree to abide by this policy
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Seem Internet Solutions Ltd
-   Freepost ANG9038
-   St Albans
-   Herts
-   AL1 5BR
-   GB
+   c/o MODACO.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
-   Domain Name: sisdns.net
+   Registrar: NAMESDIRECT
+   Domain Name: MODACO.COM
+      Created on: 03-JUL-00
+      Expires on: 03-JUL-12
+      Last Updated on: 08-JUN-11
 
    Administrative Contact:
-      Domains Dept (IR00001-TR)
-      Seem Internet Solutions Ltd
-      PO Box 336
-      Stevenage
-      Herts
-      Visit http://www.seem.co.uk - bargain domains
-      SG1 4WY
-      GB
-      phone: +44.07092843329
-      fax: +44.07092843329
-      domains@seem.co.uk
+      SNIopW@PRIVACYPOST.COM
+      c/o MODACO.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
    Technical Contact:
-      Domains Dept (IR00001-TR)
-      Seem Internet Solutions Ltd
-      PO Box 336
-      Stevenage
-      Herts
-      Visit http://www.seem.co.uk - bargain domains
-      SG1 4WY
-      GB
-      phone: +44.07092843329
-      fax: +44.07092843329
-      domains@seem.co.uk
+      RrMAab@PRIVACYPOST.COM
+      c/o MODACO.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
-   Record updated on 10-May-2011
-   Record expires on 14-Jun-2013
-   Record created on 14-Jun-2003
 
    Domain servers in listed order:
-      ns1.sisdns.net        66.135.33.85
-      ns2.sisdns.net        64.34.178.156
-      ns2.geodns.net        72.51.32.75
+      IGOR.NS.CLOUDFLARE.COM
+      SUE.NS.CLOUDFLARE.COM
 
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
-   Registration Service Provider:
-    Seem Internet Solutions Ltd, ian@seem.co.uk
-    Phone: +44.441111111
-    http://www.seem.co.uk
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions
-
-
+End of Whois Information
