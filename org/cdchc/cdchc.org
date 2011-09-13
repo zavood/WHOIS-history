@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D47615654-LROR
+Domain Name:CDCHC.ORG
+Created On:12-Dec-2000 23:46:38 UTC
+Last Updated On:31-May-2011 20:28:15 UTC
+Expiration Date:12-Dec-2015 23:46:38 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6342975587249571
+Registrant Name:Gary Fadling
+Registrant Organization:Country Doctor Community Health Centers
+Registrant Street1:500 19th Ave E
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98112
+Registrant Country:US
+Registrant Phone:+1.2062991940
+Registrant Phone Ext.:
+Registrant FAX:+1.2062991920
+Registrant FAX Ext.:
+Registrant Email:cdchcadmin@cdchc.org
+Admin ID:2653710d85a4e647
+Admin Name:Justin Pat
+Admin Organization:Country Doctor Community Health Centers
+Admin Street1:2101 E Yesler Way
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98122
+Admin Country:US
+Admin Phone:+1.2062991917
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jtpat@cdchc.org
+Tech ID:0916163be0644194
+Tech Name:Justin Pat
+Tech Organization:CDCHC
+Tech Street1:2101 E Yesler
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98122
+Tech Country:US
+Tech Phone:+1.2062991917
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jtpat@cdchc.org
+Name Server:DNS153.A.REGISTER.COM
+Name Server:DNS213.B.REGISTER.COM
+Name Server:DNS202.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
