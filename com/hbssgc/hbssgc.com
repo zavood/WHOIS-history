@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HFMX.COM
+   Domain Name: HBSSGC.COM
    Registrar: XIN NET TECHNOLOGY CORPORATION
    Whois Server: whois.paycenter.com.cn
    Referral URL: http://www.xinnet.com
-   Name Server: NS1.NAMEDAN.ORG
-   Name Server: NS2.NAMEDAN.ORG
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 21-feb-2011
-   Creation Date: 27-feb-2003
-   Expiration Date: 27-feb-2012
+   Updated Date: 22-dec-2010
+   Creation Date: 21-dec-2004
+   Expiration Date: 21-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:07:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:08:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,54 +66,54 @@ apply to Paycenter or its systems.
 Paycenter reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : hfmx.com
-PunnyCode        : hfmx.com
-Creation Date    : 2003-02-28 00:00:00
-Updated Date     : 2011-02-21 13:42:11
-Expiration Date  : 2012-02-28 00:00:00
+Domain Name      : hbssgc.com
+PunnyCode        : hbssgc.com
+Creation Date    : 2004-12-22 00:00:00
+Updated Date     : 2010-12-22 15:56:22
+Expiration Date  : 2011-12-22 00:00:00
 
 
 Registrant:
-  Organization   : Hefei Maixun Information Technology Ltd,Co.
-  Name           : qiantingzhu
-  Address        : Hua Di Building B306 Tun Xi road He fei
-  City           : hefeishi
-  Province/State : anhuisheng
-  Country        : china
-  Postal Code    : 230022
+  Organization   : zao qiang xian xin yu shu song ji xie you xian gong si
+  Name           :
+  Address        : hebei
+  City           : hebei
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 053100
 
 Administrative Contact:
-  Name           : tingzhu qian
-  Organization   : Hefei Maixun Information Technology Ltd,Co.
-  Address        : Hua Di Building B306 Tun Xi road He fei
-  City           : hefeishi
-  Province/State : anhuisheng
-  Country        : china
-  Postal Code    : 230022
-  Phone Number   : 86-0551-3623429-810
-  Fax            : 86-551-3623429
-  Email          : QIANTZ@HFMX.COM
+  Name           : feng xinxing
+  Organization   : zao qiang xian xin yu shu song ji xie you xian gong si
+  Address        : hebei
+  City           : hebei
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 053100
+  Phone Number   : 86-0318-8438266
+  Fax            : 86-0318-8433936
+  Email          : lt111@218ts.com
 
 Technical Contact:
-  Name           : qi zeng
-  Organization   : XIAMEN D-JET.COM CO.,LTD.
-  Address        : 388# yongtongchang building,jiahe road,
-  City           : XIAMEN
-  Province/State : Fujian
+  Name           : lu tao
+  Organization   : tianjin tongshang kejikaifa co.,ltd
+  Address        : tianjinshih anshanxidao shidaiguangchangAzuo901-902
+  City           : tianjin
+  Province/State : Tianjin
   Country        : China
-  Postal Code    : 361006
-  Phone Number   : 86-592-5567025
-  Fax            : 86-592-5567020
-  Email          : linlin@intra.com.cn
+  Postal Code    : 300192
+  Phone Number   : 86-022-27420083
+  Fax            : 86-022-27419862
+  Email          : lt111@218ts.com
 
 Billing Contact:
-  Name           : qi zeng
-  Organization   : XIAMEN D-JET.COM CO.,LTD.
-  Address        : 388# yongtongchang building,jiahe road,
-  City           : XIAMEN
-  Province/State : Fujian
+  Name           : lu tao
+  Organization   : tianjin tongshang kejikaifa co.,ltd
+  Address        : tianjinshih anshanxidao shidaiguangchangAzuo901-902
+  City           : tianjin
+  Province/State : Tianjin
   Country        : China
-  Postal Code    : 361006
-  Phone Number   : 86-592-5567025
-  Fax            : 86-592-5567020
-  Email          : linlin@intra.com.cn
+  Postal Code    : 300192
+  Phone Number   : 86-022-27420083
+  Fax            : 86-022-27419862
+  Email          : lt111@218ts.com

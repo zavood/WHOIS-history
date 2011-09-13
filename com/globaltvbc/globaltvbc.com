@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAM.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-1.AKAM.NET
-   Name Server: USC2.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Domain Name: GLOBALTVBC.COM
+   Registrar: WEBNAMES.CA INC.
+   Whois Server: whois.webnames.ca
+   Referral URL: http://www.webnames.ca
+   Name Server: NS7.NO.CG.SHAWCABLE.NET
+   Name Server: NS8.SO.CG.SHAWCABLE.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 15-mar-1999
-   Expiration Date: 15-mar-2017
+   Updated Date: 12-jul-2011
+   Creation Date: 25-nov-2005
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:06:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:07:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,5 +52,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrar Name....: WEBNAMES.CA INC
+Registrar Whois...: whois.webnames.ca
+Registrar Homepage: http://www.webnames.ca
+
+Domain Name: globaltvbc.com
+
+     Created on..............: 11/25/2005 10:08:42 PM UTC
+     Expires on..............: 25 Nov 2011
+
+Registrant Name: Shaw Television Limited Partnership
+Organization Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Admin Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Technical Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Billing Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Domain servers in listed order:
+
+     ns7.no.cg.shawcable.net
+     ns8.so.cg.shawcable.net
+
+Register your domain name at http://www.webnames.ca
+
+END OF WHOIS
