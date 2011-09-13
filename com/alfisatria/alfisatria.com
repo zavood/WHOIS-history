@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ZXQ.NET
+   Domain Name: ALFISATRIA.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.ZXQ.NET
-   Name Server: NS2.ZXQ.NET
+   Name Server: DNS1.MASTERWEBNET.COM
+   Name Server: DNS2.MASTERWEBNET.COM
+   Name Server: DNS3.MASTERWEBNET.COM
+   Name Server: DNS4.MASTERWEBNET.COM
    Status: clientTransferProhibited
-   Updated Date: 02-nov-2009
-   Creation Date: 12-jul-2001
-   Expiration Date: 12-jul-2014
+   Updated Date: 03-oct-2010
+   Creation Date: 04-oct-2007
+   Expiration Date: 04-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +54,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about zxq.net
-&lt;a href=&quot;http://www.aboutus.org/zxq.net&quot;&gt;AboutUs: zxq.net&lt;/a&gt;
+Visit AboutUs.org for more information about alfisatria.com
+&lt;a href=&quot;http://www.aboutus.org/alfisatria.com&quot;&gt;AboutUs: alfisatria.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: zxq.net
-
-Registrant Contact:
-   Netco Solutions
-   DNS Admin ()
-
-   Fax:
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
+Domain name: alfisatria.com
 
 Administrative Contact:
-   Netco Solutions
-   DNS Admin (report@abuse.zymic.com)
-   +1.07766503245
-   Fax: +1.
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
+   PT. Master Web Network
+   Domain Administrator (hostmaster@masterwebnet.com)
+   +62.5269312
+   Fax: +62.5269311
+   Cyber Building 9th Floor
+   Jl. Kuningan Barat No.8
+   Jakarta, ID 12710
+   ID
 
 Technical Contact:
-   Netco Solutions
-   DNS Admin (report@abuse.zymic.com)
-   +1.07766503245
-   Fax: +1.
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
+   PT. Master Web Network
+   Domain Administrator (hostmaster@masterwebnet.com)
+   +62.5269312
+   Fax: +62.5269311
+   Cyber Building 9th Floor
+   Jl. Kuningan Barat No.8
+   Jakarta, ID 12710
+   ID
+
+Registrant Contact:
+   PT. Master Web Network
+   Domain Administrator ()
+
+   Fax:
+   Cyber Building 9th Floor
+   Jl. Kuningan Barat No.8
+   Jakarta, ID 12710
+   ID
 
 Status: Locked
 
 Name Servers:
-   ns1.zxq.net
-   ns2.zxq.net
+   dns1.masterwebnet.com
+   dns2.masterwebnet.com
+   dns3.masterwebnet.com
+   dns4.masterwebnet.com
 
-Creation date: 13 Jul 2001 03:00:50
-Expiration date: 13 Jul 2014 03:00:48
+Creation date: 04 Oct 2007 08:19:23
+Expiration date: 04 Oct 2012 08:19:23
 
 
 

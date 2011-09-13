@@ -5,24 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOOTPRINT.NET
+   Domain Name: MACCENTRAL.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS93.FOOTPRINT.NET
-   Name Server: NS94.FOOTPRINT.NET
-   Name Server: NS95.FOOTPRINT.NET
-   Name Server: NS96.FOOTPRINT.NET
-   Name Server: NS97.FOOTPRINT.NET
-   Name Server: NS98.FOOTPRINT.NET
+   Name Server: NS-A.PNAP.NET
+   Name Server: NS-B.PNAP.NET
+   Name Server: NS-C.PNAP.NET
+   Name Server: NS-D.PNAP.NET
+   Name Server: NS.PCWORLD.COM
+   Name Server: NS1.TWTELECOM.NET
+   Name Server: NS2.TWTELECOM.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-jun-2011
-   Creation Date: 08-jul-1998
-   Expiration Date: 07-jul-2012
+   Updated Date: 10-jan-2011
+   Creation Date: 10-feb-1996
+   Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:51:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,46 +84,47 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Level 3  Communications, LLC
-        Level 3 Communications, LLC
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        PC World  Communications, Inc.
+        PC World Communications, Inc.
+        501 Second Street
+         San Francisco CA 94107
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: +1.7208885619
+        nic-contact@macworld.com +1.4159783111 Fax:
 
-    Domain Name: footprint.net
+    Domain Name: maccentral.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Level Three Communications, Inc
-        Level 3 Communications, Inc
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        International Data Group, Inc.
+        International Data Group, Inc.
+        5 Speen Street
+         Framingham MA 01701
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: -
+        legal@idg.com +1.5089354686 Fax: +1.5084244807
     Technical Contact, Zone Contact:
-        Level Three Communications, Inc
-        Level 3 Communications, Inc
-        1025 El Dorado Blvd.
-         Broomfield CO 80021
+        PC World  Communications, Inc.
+        PC World Communications, Inc.
+        501 Second Street
+         San Francisco CA 94107
         US
-        DomainRegistar@level3.com +1.7208881000 Fax: -
+        nic-contact@macworld.com +1.4159783111 Fax:
 
-    Created on..............: 1998-07-08.
-    Expires on..............: 2012-07-06.
-    Record last updated on..: 2011-06-05.
+    Created on..............: 1996-02-10.
+    Expires on..............: 2012-02-10.
+    Record last updated on..: 2011-08-31.
 
     Domain servers in listed order:
 
-    ns93.footprint.net
-    ns98.footprint.net
-    ns97.footprint.net
-    ns96.footprint.net
-    ns94.footprint.net
-    ns95.footprint.net
+    ns1.twtelecom.net
+    ns2.twtelecom.net
+    ns-d.pnap.net
+    ns-a.pnap.net
+    ns.pcworld.com
+    ns-b.pnap.net
+    ns-c.pnap.net
 
 
 

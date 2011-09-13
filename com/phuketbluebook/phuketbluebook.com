@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAI.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 03-mar-1999
-   Expiration Date: 03-mar-2012
+   Domain Name: PHUKETBLUEBOOK.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS0000.NS0.COM
+   Name Server: NS55.PAIR.COM
+   Status: ok
+   Updated Date: 19-feb-2008
+   Creation Date: 20-jul-2003
+   Expiration Date: 20-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,5 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+  Phuket LandSearch Ltd
+  247 Phrabaramee Rd
+  Patong
+  Kathu, Phuket 83150
+  TH
+
+  william@phuketland.com
+   +66.76340348
+   +66.76340692
+
+Domain Name: PHUKETBLUEBOOK.COM
+
+Administrative &amp; Technical Contact:
+  William Pinsent
+  Phuket LandSearch Ltd
+  247 Phrabaramee Rd
+  Patong
+  Kathu, Phuket 83150
+  TH
+
+  william@phuketland.com
+   +66.76340348
+   +66.76340692
+
+Domain Name Servers:
+  NS55.PAIR.COM
+  NS0000.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     July 20, 2003
+Modified:     February 19, 2008
+ Expires:     July 20, 2013
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

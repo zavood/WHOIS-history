@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ZXQ.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.ZXQ.NET
-   Name Server: NS2.ZXQ.NET
-   Status: clientTransferProhibited
-   Updated Date: 02-nov-2009
-   Creation Date: 12-jul-2001
-   Expiration Date: 12-jul-2014
+   Domain Name: KRAUSEMONUMENT.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.YNC.NET
+   Name Server: NS3.YNC.NET
+   Status: ok
+   Updated Date: 02-jun-2010
+   Creation Date: 22-jul-2004
+   Expiration Date: 22-jul-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:50:21 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about zxq.net
-&lt;a href=&quot;http://www.aboutus.org/zxq.net&quot;&gt;AboutUs: zxq.net&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Domain name: zxq.net
 
-Registrant Contact:
-   Netco Solutions
-   DNS Admin ()
-
-   Fax:
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
-
-Administrative Contact:
-   Netco Solutions
-   DNS Admin (report@abuse.zymic.com)
-   +1.07766503245
-   Fax: +1.
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
-
-Technical Contact:
-   Netco Solutions
-   DNS Admin (report@abuse.zymic.com)
-   +1.07766503245
-   Fax: +1.
-   BCM Netco Solutions
-   London, London WC1N3XX
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns1.zxq.net
-   ns2.zxq.net
-
-Creation date: 13 Jul 2001 03:00:50
-Expiration date: 13 Jul 2014 03:00:48
+   Registrant:
+      Peter Troost Monument
+      lisa kloet
+      4300 Roosevelt Rd
+      Hillside, IL 60162
+      US
+      Phone: +1.7085440916
+      Email: lisa.troost@troost.com
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   Domain Name: krausemonument.com
+      Created on..............: 2004-07-22
+      Expires on..............: 2015-07-22
+
+   Administrative Contact:
+      Peter Troost Monument
+      lisa kloet
+      4300 Roosevelt Rd
+      Hillside, IL 60162
+      US
+      Phone: +1.7085440916
+      Email: lisa.troost@troost.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      ns3.ync.net
+      ns1.ync.net
+
+
+
+Visit AboutUs.org for more information about krausemonument.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/krausemonument.com&quot;&gt;AboutUs: krausemonument.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+
