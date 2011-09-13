@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; unicil.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      unicil.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GU7-FRNIC
+admin-c:     FP3299-FRNIC
+tech-c:      CS50-FRNIC
+tech-c:      NOC46-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1156-FRNIC
+registrar:   COMPLETEL SAS FRANCE
+anniversary: 18/07
+created:     17/11/1999
+last-update: 04/04/2009
+source:      FRNIC
+
+ns-list:     NSL1156-FRNIC
+nserver:     ns1.completel.fr [213.244.0.2]
+nserver:     ns2.completel.fr [213.244.0.3]
+source:      FRNIC
+
+registrar:   COMPLETEL SAS FRANCE
+type:        Isp Option 1
+address:     5 Place de la Pyramide
+address:     Tour Ariane
+address:     LA DEFENSE CEDEX
+country:     FR
+phone:       +33 1 72 92 20 00
+fax-no:      +33 1 72 92 20 01
+e-mail:      hostmaster@completel.fr
+website:     http://www.completel.fr
+anonymous:   NO
+registered:  01/07/1999
+source:      FRNIC
+
+nic-hdl:     GU7-FRNIC
+type:        ORGANIZATION
+contact:     Gie Unicil
+address:     11, rue Armeny
+address:     13006 Marseille
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CS50-FRNIC
+type:        ROLE
+contact:     Completel SAS
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      nic-admin@completel.fr
+admin-c:     NIC6-FRNIC
+tech-c:      SOC1-FRNIC
+tech-c:      XP4-FRNIC
+notify:      nic-admin@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FP3299-FRNIC
+type:        PERSON
+contact:     Francis Perdiolat
+address:     Gie Unicil
+address:     11, rue Armeny
+address:     13006 Marseille
+country:     FR
+phone:       +33 4 91 13 91 91
+fax-no:      +33 4 91 13 91 94
+changed:     04/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NOC46-FRNIC
+type:        ROLE
+contact:     Network Operating Center
+address:     Acces et Solution Internet
+address:     29-31, rue Edouard Aynard
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 26 68 23 00
+fax-no:      +33 4 26 68 23 99
+e-mail:      noc@asi.fr
+admin-c:     CG4643-FRNIC
+tech-c:      MC31-FRNIC
+tech-c:      CG4643-FRNIC
+notify:      noc@asi.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
