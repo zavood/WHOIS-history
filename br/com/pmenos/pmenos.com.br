@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 13:08:35 (BRT -03:00)
+
+domain:      pmenos.com.br
+owner:       EMPREENDIMENTOS PAGUE MENOS SA
+ownerid:     006.626.253/0124-00
+responsible: DEUSMAR QUEIROS
+country:     BR
+owner-c:     AJV9
+admin-c:     AJV9
+tech-c:      AJV9
+billing-c:   AJV9
+nserver:     ns.pmenos.com.br 200.253.192.2
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.pmenos.com.br 200.253.192.10
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19990514 #161344
+expires:     20120514
+changed:     20110530
+status:      published
+
+nic-hdl-br:  AJV9
+person:      Afro Jose Campos de Vasconcelos
+e-mail:      afro@pmenos.com.br
+created:     19990430
+changed:     20030828
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

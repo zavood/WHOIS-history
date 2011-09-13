@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMMOBILIERAVOSCOTES.COM
+   Domain Name: GUSBAZAR.COM
    Registrar: GANDI SAS
    Whois Server: whois.gandi.net
    Referral URL: http://www.gandi.net
-   Name Server: NS0.INFOCLIP.FR
-   Name Server: NS1.INFOCLIP.FR
+   Name Server: A.DNS.GANDI.NET
+   Name Server: B.DNS.GANDI.NET
+   Name Server: C.DNS.GANDI.NET
    Status: clientTransferProhibited
-   Updated Date: 12-may-2011
-   Creation Date: 09-jul-2010
-   Expiration Date: 09-jul-2012
+   Updated Date: 20-jan-2011
+   Creation Date: 21-jan-2009
+   Expiration Date: 21-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:08:23 UTC &lt;&lt;&lt;
 
@@ -77,63 +78,64 @@ Registrars.
 #
 # 2011-09-13 18:09:30 CEST
 
-domain: immobilieravoscotes.com
-reg_created: 2010-07-09 08:42:38
-expires: 2012-07-09 08:42:38
-created: 2010-07-09 10:35:57
-changed: 2011-05-12 10:50:40
+domain: gusbazar.com
+reg_created: 2009-01-21 11:51:46
+expires: 2012-01-21 11:51:46
+created: 2009-01-21 12:51:48
+changed: 2011-01-20 09:02:57
 transfer-prohibited: yes
-ns0: NS0.INFOCLIP.FR
-ns1: NS1.INFOCLIP.FR
+ns0: a.dns.gandi.net
+ns1: b.dns.gandi.net
+ns2: c.dns.gandi.net
 owner-c:
-  nic-hdl: JS5069-GANDI
-  owner-name: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  organisation: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  person: jean saris
-  address: 10 Cours Sextius
-  zipcode: 13100
-  city: Aix en provence
+  nic-hdl: AD3654-GANDI
+  owner-name: ZEVENDS
+  organisation: ZEVENDS
+  person: Augustin ORY
+  address: 36 rue de Verdun
+  zipcode: 92150
+  city: Suresnes
   country: France
-  phone: +33.0442915820
-  fax: +33.0442915823
-  email: b78486f7332fcd8816bc218c32b2f772-1144926@contact.gandi.net
-  lastupdated: 2010-04-01 22:39:24
+  phone: +33.141860770
+  fax: +33.155198889
+  email: 9e222614a2714ad5cabe94b28f76def8-869303@contact.gandi.net
+  lastupdated: 2011-08-25 11:57:05
 admin-c:
-  nic-hdl: JS5069-GANDI
-  owner-name: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  organisation: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  person: jean saris
-  address: 10 Cours Sextius
-  zipcode: 13100
-  city: Aix en provence
+  nic-hdl: AD3654-GANDI
+  owner-name: ZEVENDS
+  organisation: ZEVENDS
+  person: Augustin ORY
+  address: 36 rue de Verdun
+  zipcode: 92150
+  city: Suresnes
   country: France
-  phone: +33.0442915820
-  fax: +33.0442915823
-  email: b78486f7332fcd8816bc218c32b2f772-1144926@contact.gandi.net
-  lastupdated: 2010-04-01 22:39:24
+  phone: +33.141860770
+  fax: +33.155198889
+  email: 9e222614a2714ad5cabe94b28f76def8-869303@contact.gandi.net
+  lastupdated: 2011-08-25 11:57:05
 tech-c:
-  nic-hdl: JS5069-GANDI
-  owner-name: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  organisation: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  person: jean saris
-  address: 10 Cours Sextius
-  zipcode: 13100
-  city: Aix en provence
+  nic-hdl: AD3654-GANDI
+  owner-name: ZEVENDS
+  organisation: ZEVENDS
+  person: Augustin ORY
+  address: 36 rue de Verdun
+  zipcode: 92150
+  city: Suresnes
   country: France
-  phone: +33.0442915820
-  fax: +33.0442915823
-  email: b78486f7332fcd8816bc218c32b2f772-1144926@contact.gandi.net
-  lastupdated: 2010-04-01 22:39:24
+  phone: +33.141860770
+  fax: +33.155198889
+  email: 9e222614a2714ad5cabe94b28f76def8-869303@contact.gandi.net
+  lastupdated: 2011-08-25 11:57:05
 bill-c:
-  nic-hdl: JS5069-GANDI
-  owner-name: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  organisation: Immobili&Atilde;&uml;re d'&Atilde;&nbsp; c&Atilde;&acute;t&Atilde;&copy;
-  person: jean saris
-  address: 10 Cours Sextius
-  zipcode: 13100
-  city: Aix en provence
+  nic-hdl: AD3654-GANDI
+  owner-name: ZEVENDS
+  organisation: ZEVENDS
+  person: Augustin ORY
+  address: 36 rue de Verdun
+  zipcode: 92150
+  city: Suresnes
   country: France
-  phone: +33.0442915820
-  fax: +33.0442915823
-  email: b78486f7332fcd8816bc218c32b2f772-1144926@contact.gandi.net
-  lastupdated: 2010-04-01 22:39:24
+  phone: +33.141860770
+  fax: +33.155198889
+  email: 9e222614a2714ad5cabe94b28f76def8-869303@contact.gandi.net
+  lastupdated: 2011-08-25 11:57:05
