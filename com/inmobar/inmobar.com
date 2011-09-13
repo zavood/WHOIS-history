@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPB.COM
-   Registrar: SIGNATURE DOMAINS, LLC
-   Whois Server: whois.signaturedomains.com
-   Referral URL: http://www.signaturedomains.com
-   Name Server: ADNS.AUS.SITEPROTECT.COM
-   Name Server: BDNS.AUS.SITEPROTECT.COM
-   Status: clientDeleteProhibited
+   Domain Name: INMOBAR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.CROMATIC.COM
+   Name Server: DNS2.CROMATIC.COM
+   Name Server: DNS3.CROMATIC.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 24-jun-2001
-   Expiration Date: 24-jun-2013
+   Updated Date: 20-jan-2011
+   Creation Date: 24-jan-2007
+   Expiration Date: 24-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:43:03 UTC &lt;&lt;&lt;
 
@@ -53,53 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-   Domain Services Provided By:
-      Signature Domains, support@signaturedomains.com
-       http://www.signaturedomains.com
-
-Registrant:
-   SPB Software Inc.
-   14 Washington Place
-   Hackensack, NJ  07601
-   KY
-
-   Registrar: SIGNATURE
-   Domain Name: SPB.COM
-      Created on: 24-JUN-01
-      Expires on: 24-JUN-13
-      Last Updated on: 01-JUN-11
-
-   Administrative, Technical Contact:
-      Goncharov, Yaroslav  ygoncharov@softspb.com
-      SPB Software Inc.
-      14 Washington Place
-      Hackensack, NJ  07601
-      KY
-      +78123356993
+=-=-=-=
+Visit AboutUs.org for more information about inmobar.com
+&lt;a href=&quot;http://www.aboutus.org/inmobar.com&quot;&gt;AboutUs: inmobar.com&lt;/a&gt;
 
 
-   Domain servers in listed order:
-      ADNS.AUS.SITEPROTECT.COM
-      BDNS.AUS.SITEPROTECT.COM
+Domain name: inmobar.com
 
-End of Whois Information
+Registrant Contact:
+   Jose Antonio Moreno Tirado
+   Jose Antonio Moreno Tirado ()
+
+   Fax:
+   Canonigo Tarongi, 7 bajos
+   Palma de Mallorca,  07007
+   ES
+
+Administrative Contact:
+   ilimit Comunicacions S.L.
+   Domain Dept (dominis@ilimit.es)
+   +34.937333375
+   Fax: +34.937333243
+   C/ Volta 1A, pis 5
+   Terrassa, ES 08224
+   ES
+
+Technical Contact:
+   ilimit Comunicacions S.L.
+   Domain Dept (dominis@ilimit.es)
+   +34.937333375
+   Fax: +34.937333243
+   C/ Volta 1A, pis 5
+   Terrassa, ES 08224
+   ES
+
+Status: Locked
+
+Name Servers:
+   dns1.cromatic.com
+   dns2.cromatic.com
+   dns3.cromatic.com
+
+Creation date: 24 Jan 2007 16:50:07
+Expiration date: 24 Jan 2012 16:50:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

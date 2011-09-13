@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPB.COM
-   Registrar: SIGNATURE DOMAINS, LLC
-   Whois Server: whois.signaturedomains.com
-   Referral URL: http://www.signaturedomains.com
-   Name Server: ADNS.AUS.SITEPROTECT.COM
-   Name Server: BDNS.AUS.SITEPROTECT.COM
+   Domain Name: XNMSN.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 24-jun-2001
-   Expiration Date: 24-jun-2013
+   Updated Date: 02-jun-2011
+   Creation Date: 21-aug-2008
+   Expiration Date: 21-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:43:03 UTC &lt;&lt;&lt;
 
@@ -53,53 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : xnmsn.com
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Registrant Contact Information :
+ename
+ename
+wuyl@ename.com
+ruanjianyuan huaxunlou c 2f-a2, 361002
+tel: +86 05922669759
+fax: +86 05922669760
 
-   Domain Services Provided By:
-      Signature Domains, support@signaturedomains.com
-       http://www.signaturedomains.com
+Administrative Contact Information :
+ename
+ename
+wuyl@ename.com
+ruanjianyuan huaxunlou c 2f-a2, 361002
+tel: +86 05922669759
+fax: +86 05922669760
 
-Registrant:
-   SPB Software Inc.
-   14 Washington Place
-   Hackensack, NJ  07601
-   KY
+Technical Contact Information :
+ename
+ename
+wuyl@ename.com
+ruanjianyuan huaxunlou c 2f-a2, 361002
+tel: +86 05922669759
+fax: +86 05922669760
 
-   Registrar: SIGNATURE
-   Domain Name: SPB.COM
-      Created on: 24-JUN-01
-      Expires on: 24-JUN-13
-      Last Updated on: 01-JUN-11
+Billing Contact Information :
+ename
+ename
+wuyl@ename.com
+ruanjianyuan huaxunlou c 2f-a2, 361002
+tel: +86 05922669759
+fax: +86 05922669760
 
-   Administrative, Technical Contact:
-      Goncharov, Yaroslav  ygoncharov@softspb.com
-      SPB Software Inc.
-      14 Washington Place
-      Hackensack, NJ  07601
-      KY
-      +78123356993
+Status :
+clientTransferProhibited
+clientDeleteProhibited
 
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
 
-   Domain servers in listed order:
-      ADNS.AUS.SITEPROTECT.COM
-      BDNS.AUS.SITEPROTECT.COM
+Registration Date :2008-8-21
+Expiration Date : 2012-8-21
 
-End of Whois Information
+For more information, please go to http://whois.ename.com.
+
