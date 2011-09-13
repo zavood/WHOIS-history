@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 01ISP.COM
-   Registrar: TODAYNIC.COM, INC.
-   Whois Server: whois.todaynic.com
-   Referral URL: http://www.NOW.CN
-   Name Server: NS5000.01ISP.COM
-   Name Server: NS5001.01ISP.CN
-   Name Server: NS5002.01ISP.NET
-   Status: clientDeleteProhibited
+   Domain Name: PATRIOTSDAILY.COM
+   Registrar: ACTIVE REGISTRAR, INC.
+   Whois Server: whois.activeregistrar.com
+   Referral URL: http://www.activeregistrar.com
+   Name Server: DANA.NS.CLOUDFLARE.COM
+   Name Server: RAY.NS.CLOUDFLARE.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2009
-   Creation Date: 12-may-2002
-   Expiration Date: 12-may-2019
+   Updated Date: 06-jun-2011
+   Creation Date: 17-jun-2007
+   Expiration Date: 17-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:18:33 UTC &lt;&lt;&lt;
 
@@ -53,63 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Dear Valued Customer,
+Registration Service Provided By: Active-Domain LLC
+Contact:  http://www.active-domain.com
 
-This message is a reminder to help you keep the contact data associated with your domain
-registration up-to-date. Our records include the following information:
+Domain Name: patriotsdaily.com
+Expiry Date: 17-Jun-2012
 
+Name servers:
+dana.ns.cloudflare.com
+ray.ns.cloudflare.com
 
-Domain name: 01isp.com
-Status: Active
+Registrant Name: Bruce Allen
+Registrant Company: Bruce Allen Media LLC
+Registrant Email Address: bruce@bostonsportsmedia.com
+Registrant Address: PO Box 183
+Registrant City: Bruce
+Registrant State/Region/Province: NH
+Registrant Postal Code: 03042
+Registrant Country: US
+Registrant Tel No: +1.6033435262
+Registrant Fax No: +1.8153520830
 
-Protection Status: public
-( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+Admin Name: Bruce Allen
+Admin Company: Bruce Allen Media LLC
+Admin Email Address: bruce@bostonsportsmedia.com
+Admin Address: PO Box 183
+Admin City: Bruce
+Admin State/Region/Province: NH
+Admin Postal Code: 03042
+Admin Country: US
+Admin Tel No: +1.6033435262
+Admin Fax No: +1.8153520830
 
-Registrant:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Email: sanry@now.net.cn
-
-Administrative Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Phone: +86.7563810523
-Fax: +86.7562282526
-Email: sanry@now.net.cn
-
-Technical Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-
-
-Nameserver Information:
-    ns5000.01isp.com
-    ns5001.01isp.cn
-    ns5002.01isp.net
-
-Create: 2002-05-12 15:42:14
-Update: 2009-07-29
-Expired: 2019-05-12
-QueryTimes: 6216
+Tech Name: Bruce Allen
+Tech Company: Bruce Allen Media LLC
+Tech Email Address: bruce@bostonsportsmedia.com
+Tech Address: PO Box 183
+Tech City: Bruce
+Tech State/Region/Province: NH
+Tech Postal Code: 03042
+Tech Country: US
+Tech Tel No: +1.6033435262
+Tech Fax No: +1.8153520830
 
 
-If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
-(If your review indicates that all of the information above is accurate, you do not need to take any action.)
-Please remember that under the terms of your registration agreement, the provision of false Whois information
-can be grounds for cancellation of your domain name registration.
-Todaynic.com,Inc. reserves the right to modify these terms at any time.
+The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The registrar of record is Active Registrar, Inc. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.

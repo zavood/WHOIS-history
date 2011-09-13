@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 01ISP.COM
-   Registrar: TODAYNIC.COM, INC.
-   Whois Server: whois.todaynic.com
-   Referral URL: http://www.NOW.CN
-   Name Server: NS5000.01ISP.COM
-   Name Server: NS5001.01ISP.CN
-   Name Server: NS5002.01ISP.NET
-   Status: clientDeleteProhibited
+   Domain Name: THEINNATOLEMISS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.OLEMISS.EDU
+   Name Server: NS2.OLEMISS.EDU
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2009
-   Creation Date: 12-may-2002
-   Expiration Date: 12-may-2019
+   Updated Date: 07-oct-2010
+   Creation Date: 14-jan-2004
+   Expiration Date: 14-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:18:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:18:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,63 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Dear Valued Customer,
 
-This message is a reminder to help you keep the contact data associated with your domain
-registration up-to-date. Our records include the following information:
+Domain Name.......... theinnatolemiss.com
+  Creation Date........ 2004-01-15
+  Registration Date.... 2004-01-15
+  Expiry Date.......... 2014-01-15
+  Organisation Name.... RustyWoods
+  Organisation Address. Alumni Drive
+  Organisation Address.
+  Organisation Address. University
+  Organisation Address. 38677
+  Organisation Address. Mississippi
+  Organisation Address. UNITED STATES
 
+Admin Name........... Rusty Woods
+  Admin Address........ 172 Triplett Alumni Center
+  Admin Address........
+  Admin Address........ University
+  Admin Address........ 38677
+  Admin Address........ Mississippi
+  Admin Address........ UNITED STATES
+  Admin Email.......... rusty@olemiss.edu
+  Admin Phone.......... 662-915-7375
+  Admin Fax............
 
-Domain name: 01isp.com
-Status: Active
-
-Protection Status: public
-( make contact info private at http://www.now.cn/domain/domainPrivate.php )
-
-Registrant:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Email: sanry@now.net.cn
-
-Administrative Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Phone: +86.7563810523
-Fax: +86.7562282526
-Email: sanry@now.net.cn
-
-Technical Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
+Tech Name............ Support RegisterNames.com
+  Tech Address......... 11807 NE 99th St., Suite 1100
+  Tech Address.........
+  Tech Address......... Vancouver
+  Tech Address......... 98682
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... support@registernames.com
+  Tech Phone........... +1.3602532210
+  Tech Fax............. +1.3602534234
+  Name Server.......... NS1.OLEMISS.EDU
+  Name Server.......... NS2.OLEMISS.EDU
 
 
-Nameserver Information:
-    ns5000.01isp.com
-    ns5001.01isp.cn
-    ns5002.01isp.net
-
-Create: 2002-05-12 15:42:14
-Update: 2009-07-29
-Expired: 2019-05-12
-QueryTimes: 6216
-
-
-If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
-(If your review indicates that all of the information above is accurate, you do not need to take any action.)
-Please remember that under the terms of your registration agreement, the provision of false Whois information
-can be grounds for cancellation of your domain name registration.
-Todaynic.com,Inc. reserves the right to modify these terms at any time.

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 01ISP.COM
-   Registrar: TODAYNIC.COM, INC.
-   Whois Server: whois.todaynic.com
-   Referral URL: http://www.NOW.CN
-   Name Server: NS5000.01ISP.COM
-   Name Server: NS5001.01ISP.CN
-   Name Server: NS5002.01ISP.NET
-   Status: clientDeleteProhibited
+   Domain Name: CPSPRINGFIELD.COM
+   Registrar: REGISTRATION TECHNOLOGIES, INC.
+   Whois Server: whois.registrationtek.com
+   Referral URL: http://www.registrationtek.com
+   Name Server: NS1.AXSNEHOSTING.COM
+   Name Server: NS2.AXSNEHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2009
-   Creation Date: 12-may-2002
-   Expiration Date: 12-may-2019
+   Updated Date: 13-apr-2011
+   Creation Date: 14-may-2008
+   Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:18:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:19:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,63 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Dear Valued Customer,
+WHOIS data are furnished to you under license by Registration Technologies,
+Inc., the terms of which are available from http://www.registrationtek.com.
+You may not query using automated scripts, nor use WHOIS data to facilitate
+unsolicited bulk mailing (postal or electronic) or other prohibited purpose.
 
-This message is a reminder to help you keep the contact data associated with your domain
-registration up-to-date. Our records include the following information:
+Please note that WHOIS data may take up to five business days to be
+updated to reflect changes in relevant information.  WHOIS data may
+contain typographical or other errors.  WHOIS data should not be treated
+as authoritative in the absence of other corroborating information.
 
+Domain Name: CPSPRINGFIELD.COM
 
-Domain name: 01isp.com
-Status: Active
+Created: 2008-05-14
+Expires: 2012-05-14
 
-Protection Status: public
-( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+Nameservers:
+
+	NS1.AXSNEHOSTING.COM
+	NS2.AXSNEHOSTING.COM
 
 Registrant:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Email: sanry@now.net.cn
+
+
+	RegTek Whois Envoy
+	PMB: 26765
+	400 Putnam Pike, STE D514
+	Smithfield, RI
+	02917-2442
+	US
+
+
 
 Administrative Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
-Phone: +86.7563810523
-Fax: +86.7562282526
-Email: sanry@now.net.cn
+
+
+	RegTek Whois Envoy
+	PMB: 26765
+	400 Putnam Pike, STE D514
+	Smithfield, RI
+	02917-2442
+	US
+
+	Email: NOSPAM-26765@RTWhoisEnvoy.net
+	Voice: +1 401 648 0147 Ext: 26765
+
 
 Technical Contact:
-Name: Ma songxin
-Organization: Todays Network www.now.net.cn
-Address: BuildingNo5,floor,NingxiRoad,XiangzhouDistrict,ZhuhaiCity
-City: Zhuhai
-Province/state: GD
-Country: CN
-Postal Code: 519000
 
 
-Nameserver Information:
-    ns5000.01isp.com
-    ns5001.01isp.cn
-    ns5002.01isp.net
+	RegTek Whois Envoy
+	PMB: 26765
+	400 Putnam Pike, STE D514
+	Smithfield, RI
+	02917-2442
+	US
 
-Create: 2002-05-12 15:42:14
-Update: 2009-07-29
-Expired: 2019-05-12
-QueryTimes: 6216
+	Email: NOSPAM-26765@RTWhoisEnvoy.net
+	Voice: +1 401 648 0147 Ext: 26765
 
 
-If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
-(If your review indicates that all of the information above is accurate, you do not need to take any action.)
-Please remember that under the terms of your registration agreement, the provision of false Whois information
-can be grounds for cancellation of your domain name registration.
-Todaynic.com,Inc. reserves the right to modify these terms at any time.
+Billing Contact:
+
+
+	RegTek Whois Envoy
+	PMB: 26765
+	400 Putnam Pike, STE D514
+	Smithfield, RI
+	02917-2442
+	US
+
+	Email: NOSPAM-26765@RTWhoisEnvoy.net
+	Voice: +1 401 648 0147 Ext: 26765
+
+
+
