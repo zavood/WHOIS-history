@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: RICKMILLERFITNESS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS31.DOMAINCONTROL.COM
+   Name Server: NS32.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-may-2011
-   Creation Date: 22-jun-2005
-   Expiration Date: 22-jun-2012
+   Updated Date: 31-jan-2011
+   Creation Date: 18-sep-2006
+   Expiration Date: 18-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:40:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:39:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Conduit Ltd.
+   Rick Miller
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: RICKMILLERFITNESS.COM
 
    Domain servers in listed order:
-      DNS11.COTDNS.NET
-      DNS12.COTDNS.NET
+      NS31.DOMAINCONTROL.COM
+      NS32.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OURTOOLBAR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=RICKMILLERFITNESS.COM

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D112823150-LROR
+Domain Name:SHAMROCKGEAR.ORG
+Created On:22-Jan-2006 22:39:15 UTC
+Last Updated On:23-Jan-2010 10:48:19 UTC
+Expiration Date:22-Jan-2012 22:39:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34466798
+Registrant Name:Robert Leahy
+Registrant Organization:Robert Leahy
+Registrant Street1:9930 Cleveland Ave. SE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Magnolia
+Registrant State/Province:Wyoming
+Registrant Postal Code:44643
+Registrant Country:US
+Registrant Phone:+330.8665228
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bleahy67@neo.rr.com
+Admin ID:CR34466800
+Admin Name:Robert Leahy
+Admin Organization:Robert Leahy
+Admin Street1:9930 Cleveland Ave. SE
+Admin Street2:
+Admin Street3:
+Admin City:Magnolia
+Admin State/Province:Wyoming
+Admin Postal Code:44643
+Admin Country:US
+Admin Phone:+330.8665228
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shamrockgear@sbcglobal.net
+Tech ID:CR34466799
+Tech Name:Robert Leahy
+Tech Organization:Robert Leahy
+Tech Street1:9930 Cleveland Ave. SE
+Tech Street2:
+Tech Street3:
+Tech City:Magnolia
+Tech State/Province:Wyoming
+Tech Postal Code:44643
+Tech Country:US
+Tech Phone:+330.8665228
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bleahy67@neo.rr.com
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

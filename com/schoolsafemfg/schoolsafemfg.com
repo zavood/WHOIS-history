@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: SCHOOLSAFEMFG.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-may-2011
-   Creation Date: 22-jun-2005
-   Expiration Date: 22-jun-2012
+   Updated Date: 18-oct-2010
+   Creation Date: 22-oct-2009
+   Expiration Date: 22-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:40:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:39:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Conduit Ltd.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: SCHOOLSAFEMFG.COM
 
    Domain servers in listed order:
-      DNS11.COTDNS.NET
-      DNS12.COTDNS.NET
+      NS39.DOMAINCONTROL.COM
+      NS40.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OURTOOLBAR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SCHOOLSAFEMFG.COM

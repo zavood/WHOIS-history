@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107224665-LROR
+Domain Name:REZEPTEWIKI.ORG
+Created On:20-Aug-2005 11:58:25 UTC
+Last Updated On:21-Aug-2011 01:22:52 UTC
+Expiration Date:20-Aug-2012 11:58:25 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:ABM-9772096
+Registrant Name:Daniel Beyer
+Registrant Organization:Daniel Beyer
+Registrant Street1:Krohnestrasse 3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ilmenau
+Registrant State/Province:Thuringia
+Registrant Postal Code:98693
+Registrant Country:DE
+Registrant Phone:+49.3677843173
+Registrant Phone Ext.:
+Registrant FAX:+49.3677843175
+Registrant FAX Ext.:
+Registrant Email:kontakt@wikiserver.de
+Admin ID:ABM-9772096
+Admin Name:Daniel Beyer
+Admin Organization:Daniel Beyer
+Admin Street1:Krohnestrasse 3
+Admin Street2:
+Admin Street3:
+Admin City:Ilmenau
+Admin State/Province:Thuringia
+Admin Postal Code:98693
+Admin Country:DE
+Admin Phone:+49.3677843173
+Admin Phone Ext.:
+Admin FAX:+49.3677843175
+Admin FAX Ext.:
+Admin Email:kontakt@wikiserver.de
+Tech ID:ABM-9772096
+Tech Name:Daniel Beyer
+Tech Organization:Daniel Beyer
+Tech Street1:Krohnestrasse 3
+Tech Street2:
+Tech Street3:
+Tech City:Ilmenau
+Tech State/Province:Thuringia
+Tech Postal Code:98693
+Tech Country:DE
+Tech Phone:+49.3677843173
+Tech Phone Ext.:
+Tech FAX:+49.3677843175
+Tech FAX Ext.:
+Tech Email:kontakt@wikiserver.de
+Name Server:NS1.HANS.HOSTEUROPE.DE
+Name Server:NS2.HANS.HOSTEUROPE.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

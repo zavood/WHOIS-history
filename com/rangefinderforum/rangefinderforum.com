@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: RANGEFINDERFORUM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS7.FASTSERVERS.NET
+   Name Server: NS8.FASTSERVERS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-may-2011
-   Creation Date: 22-jun-2005
-   Expiration Date: 22-jun-2012
+   Updated Date: 09-may-2010
+   Creation Date: 28-jul-2003
+   Expiration Date: 28-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:40:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:39:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Conduit Ltd.
+   na
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OURTOOLBAR.COM
+   Domain Name: RANGEFINDERFORUM.COM
 
    Domain servers in listed order:
-      DNS11.COTDNS.NET
-      DNS12.COTDNS.NET
+      NS7.FASTSERVERS.NET
+      NS8.FASTSERVERS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OURTOOLBAR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=RANGEFINDERFORUM.COM

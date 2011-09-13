@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OURTOOLBAR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Domain Name: SEVENPLANET.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS16.ZONEEDIT.COM
+   Name Server: NS8.ZONEEDIT.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-may-2011
-   Creation Date: 22-jun-2005
-   Expiration Date: 22-jun-2012
+   Updated Date: 19-aug-2009
+   Creation Date: 17-aug-2007
+   Expiration Date: 17-aug-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:40:34 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Conduit Ltd.
+   seven planet
+   505 NW Couch, Suite 300
+   Portland, OR  97209
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OURTOOLBAR.COM
+   Registrar: NAMESDIRECT
+   Domain Name: SEVENPLANET.COM
+      Created on: 16-AUG-07
+      Expires on: 17-AUG-14
+      Last Updated on: 19-AUG-09
+
+   Administrative, Technical Contact:
+      planet, seven  2@sevenbrandcompany.com
+      seven planet
+      505 NW Couch, Suite 300
+      Portland, OR  97209
+      US
+      503-701-1956
+
 
    Domain servers in listed order:
-      DNS11.COTDNS.NET
-      DNS12.COTDNS.NET
+      NS16.ZONEEDIT.COM
+      NS8.ZONEEDIT.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OURTOOLBAR.COM
+End of Whois Information
