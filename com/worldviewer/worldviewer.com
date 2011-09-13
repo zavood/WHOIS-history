@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BJBRK.COM
-   Registrar: HANG ZHOU E-BUSINESS SERVICES CO.LTD.
-   Whois Server: whois.eb.com.cn
-   Referral URL: http://www.eb.com.cn
-   Name Server: NS1.NDNS.CN
-   Name Server: NS2.NDNS.CN
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 03-aug-2011
-   Expiration Date: 03-aug-2012
+   Domain Name: WORLDVIEWER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WORLDVIEWER.COM
+   Name Server: NS2.WORLDVIEWER.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-jul-2011
+   Creation Date: 08-feb-1999
+   Expiration Date: 08-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:00:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:59:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
 
 
-Domain name: bjbrk.com
+Domain name: worldviewer.com
 
 Registrant Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
+   Worldviewer.com,Inc.
+   Thomas Vellaringattu ()
+
+   Fax:
+   20573RodriguesAve
+   Cupertino, CA 95014
+   US
 
 Administrative Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
+   Worldviewer.com, Inc.
+   Thomas Vellaringattu (domains@worldviewer.com)
+   +1.5166554317
+   Fax: +1.5169083846
+   1575 Ballantree Way
+   San Jose, CA 95118
+   US
 
 Technical Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
+   Worldviewer.com, Inc.
+   Thomas Vellaringattu (domains@worldviewer.com)
+   +1.5166554317
+   Fax: +1.5169083846
+   1575 Ballantree Way
+   San Jose, CA 95118
+   US
 
-Billing Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
+Status: Locked
+
+Name Servers:
+   ns1.worldviewer.com
+   ns2.worldviewer.com
+
+Creation date: 08 Feb 1999 05:00:00
+Expiration date: 08 Feb 2012 05:00:00
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

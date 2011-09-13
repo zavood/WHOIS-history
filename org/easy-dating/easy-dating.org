@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120454648-LROR
+Domain Name:EASY-DATING.ORG
+Created On:14-Apr-2006 09:12:45 UTC
+Last Updated On:16-Jun-2011 14:42:16 UTC
+Expiration Date:14-Apr-2013 09:12:45 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-983985-GANDI
+Registrant Name:2 L Multimedia
+Registrant Organization:Lavanchy Julien
+Registrant Street1:3 pre felin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Annecy Le vieux
+Registrant State/Province:
+Registrant Postal Code:74940
+Registrant Country:FR
+Registrant Phone:+33.450098553
+Registrant Phone Ext.:
+Registrant FAX:+33.450098553
+Registrant FAX Ext.:
+Registrant Email:parten@easyrencontre.com
+Admin ID:LJ65-GANDI
+Admin Name:Lavanchy Julien
+Admin Organization:2L Multimedia
+Admin Street1:2L Multimedia SAS
+Admin Street2:Park Nord
+Admin Street3:Les PlAiades 33
+Admin City:Metz-Tessy
+Admin State/Province:
+Admin Postal Code:74370
+Admin Country:FR
+Admin Phone:+33.450098553
+Admin Phone Ext.:
+Admin FAX:+33.450452260
+Admin FAX Ext.:
+Admin Email:f94581b320767375344185822482784a-31421@contact.gandi.net
+Tech ID:LJ65-GANDI
+Tech Name:Lavanchy Julien
+Tech Organization:2L Multimedia
+Tech Street1:2L Multimedia SAS
+Tech Street2:Park Nord
+Tech Street3:Les PlAiades 33
+Tech City:Metz-Tessy
+Tech State/Province:
+Tech Postal Code:74370
+Tech Country:FR
+Tech Phone:+33.450098553
+Tech Phone Ext.:
+Tech FAX:+33.450452260
+Tech FAX Ext.:
+Tech Email:f94581b320767375344185822482784a-31421@contact.gandi.net
+Name Server:PYTHON-06.EASYRENCONTRE.COM
+Name Server:VIPER-02.EASYRENCONTRE.COM
+Name Server:EPOC-02.EASYRENCONTRE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

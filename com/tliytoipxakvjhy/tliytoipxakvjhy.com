@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BJBRK.COM
-   Registrar: HANG ZHOU E-BUSINESS SERVICES CO.LTD.
-   Whois Server: whois.eb.com.cn
-   Referral URL: http://www.eb.com.cn
-   Name Server: NS1.NDNS.CN
-   Name Server: NS2.NDNS.CN
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 03-aug-2011
-   Expiration Date: 03-aug-2012
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:00:44 UTC &lt;&lt;&lt;
+No match for &quot;TLIYTOIPXAKVJHY.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:01:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-
-Domain name: bjbrk.com
-
-Registrant Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
-
-Administrative Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
-
-Technical Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
-
-Billing Contact:
-  zhu guo wei
-  wei zhu guo
-  42546666@qq.com
-  tel: +86.015593112315
-  fax: +86.015593112315
-  lanzhou qingyuanglu 235
-  CN
-
-
