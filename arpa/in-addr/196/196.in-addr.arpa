@@ -2,22 +2,21 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       187.in-addr.arpa
+domain:       196.in-addr.arpa
 
-organisation: LACNIC
+organisation: Administered by AfriNIC
 
-nserver:      NS-LACNIC.NIC.MX.
-nserver:      NS.LACNIC.NET.
-nserver:      NS2.DNS.BR.
+nserver:      NS1.AFRINIC.NET.
+nserver:      NS2.AFRINIC.NET.
 nserver:      NS2.LACNIC.NET.
-nserver:      NS3.AFRINIC.NET.
+nserver:      SEC1.APNIC.NET.
 nserver:      SEC1.AUTHDNS.RIPE.NET.
 nserver:      SEC3.APNIC.NET.
 nserver:      TINNIE.ARIN.NET.
 
-whois:        whois.lacnic.net
+whois:        whois.afrinic.net
 
-changed:      2007-09
+changed:      1993-05
 changed:      2011-01-08
 source:       IANA
 

@@ -2,7 +2,7 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
 
-domain:       184.in-addr.arpa
+domain:       71.in-addr.arpa
 
 organisation: ARIN
 
@@ -14,11 +14,11 @@ nserver:      W.ARIN.NET.
 nserver:      X.ARIN.NET.
 nserver:      Y.ARIN.NET.
 nserver:      Z.ARIN.NET.
-ds-rdata:     30933 5 1 ADAAC42CE43E1F54D639B476AD4F0D27D8F9B8C5
+ds-rdata:     29340 5 1 1028027788B932D8A9C5D4205D1636172324EA7C
 
 whois:        whois.arin.net
 
-changed:      2008-12
+changed:      2004-08
 changed:      2011-04-27
 source:       IANA
 
