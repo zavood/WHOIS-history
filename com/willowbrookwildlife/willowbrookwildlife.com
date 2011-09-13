@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SURESERVER.COM.NEMADJS.COM
-SURESERVER.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: WILLOWBROOKWILDLIFE.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.JASMINE.ARVIXE.COM
+   Name Server: NS2.JASMINE.ARVIXE.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-jan-2011
+   Creation Date: 16-feb-2000
+   Expiration Date: 16-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:39:33 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
+
+
+Domain name: willowbrookwildlife.com
+
+Registrant Contact:
+      Chuck    Henning
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      3aa1f330414fc8f6@private-contact.com
+
+Administrative Contact:
+      Chuck    Henning
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      n0mf9hywlpnuvfzd@private-contact.com
+
+Technical Contact:
+      Chuck    Henning
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      dnp1zr7fe8xds8jy@private-contact.com
+
+Update date: 2011-01-03
+Expiration date: 2012-02-16
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

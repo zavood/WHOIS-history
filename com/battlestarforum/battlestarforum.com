@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLACKMONSTERTERROR.COM
+   Domain Name: BATTLESTARFORUM.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.REALITYCHECKNETWORK.COM
-   Name Server: NS2.REALITYCHECKNETWORK.COM
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
    Status: clientTransferProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 14-jul-2006
-   Expiration Date: 14-jul-2012
+   Updated Date: 11-sep-2011
+   Creation Date: 10-oct-2006
+   Expiration Date: 10-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:39:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:39:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about blackmonsterterror.com
-&lt;a href=&quot;http://www.aboutus.org/blackmonsterterror.com&quot;&gt;AboutUs: blackmonsterterror.com&lt;/a&gt;
+Visit AboutUs.org for more information about battlestarforum.com
+&lt;a href=&quot;http://www.aboutus.org/battlestarforum.com&quot;&gt;AboutUs: battlestarforum.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: blackmonsterterror.com
+Domain name: battlestarforum.com
 
 Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O blackmonsterterror.com
-   Bellevue, WA 98007
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (dnmdsdvcf@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O blackmonsterterror.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (83e34db973144c3cb312a8b35105a79d.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (dnmdsdvcf@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O blackmonsterterror.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (83e34db973144c3cb312a8b35105a79d.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Status: Locked
 
 Name Servers:
-   NS1.REALITYCHECKNETWORK.COM
-   NS2.REALITYCHECKNETWORK.COM
+   NS1.MEDIATEMPLE.NET
+   NS2.MEDIATEMPLE.NET
 
-Creation date: 14 Jul 2006 05:58:21
-Expiration date: 14 Jul 2012 05:58:00
+Creation date: 10 Oct 2006 13:45:56
+Expiration date: 10 Oct 2012 13:45:56
 
 
 

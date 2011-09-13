@@ -5,12 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SURESERVER.COM.NEMADJS.COM
-SURESERVER.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: TECH-METROCOUNT.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS3.JODOSHARED.COM
+   Name Server: NS4.JODOSHARED.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 01-apr-2009
+   Creation Date: 05-may-2004
+   Expiration Date: 05-may-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:39:33 UTC &lt;&lt;&lt;
 
@@ -47,3 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
+
+   Domain Name: TECH-METROCOUNT.COM
+      Reseller..............: PlanetDomain Ltd Pty
+      Created on............: 5 May 2004 21:50:22 EST
+      Expires on............: 6 May 2014 11:50:22 EST
+      Record last updated on: 5 May 2004 21:50:22 EST
+      Status................: ACTIVE
+
+
+   Owner:
+      Mike Kenny
+       (192574)
+      P.O. Box 1182
+      FREMANTLE, Western Australia 6959
+      Australia
+      Phone: +61.894306164
+      Email: it@metrocount.com
+   Administrative Contact, Billing Contact:
+       (192575)
+      P.O. Box 1182
+      FREMANTLE, Western Australia 6959
+      Australia
+      Phone: +61.894306164
+      Email: it@metrocount.com
+   Technical Contact:
+       (192576)
+      P.O. Box 1182
+      FREMANTLE, Western Australia 6959
+      Australia
+      Phone: +61.894306164
+      Email: it@metrocount.com
+
+
+   Domain servers in listed order:
+
+      NS3.JODOSHARED.COM
+      NS4.JODOSHARED.COM

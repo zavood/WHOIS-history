@@ -5,12 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SURESERVER.COM.NEMADJS.COM
-SURESERVER.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: NETWORKSHOSTING.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.NETWORKSHOSTING.COM
+   Name Server: NS2.NETWORKSHOSTING.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-jun-2011
+   Creation Date: 12-jul-1999
+   Expiration Date: 12-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:39:33 UTC &lt;&lt;&lt;
 
@@ -47,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
