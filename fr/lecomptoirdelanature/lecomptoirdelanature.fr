@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lecomptoirdelanature.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lecomptoirdelanature.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A5185-FRNIC
+admin-c:     A5185-FRNIC
+tech-c:      DN498-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL43443-FRNIC
+registrar:   LIGNE WEB SERVICES - LWS
+anniversary: 29/08
+created:     29/08/2009
+last-update: 25/11/2010
+source:      FRNIC
+
+ns-list:     NSL43443-FRNIC
+nserver:     ns.dedi9.clicboutic.com
+nserver:     backup2.clicboutic.com
+source:      FRNIC
+
+registrar:   LIGNE WEB SERVICES - LWS
+type:        Isp Option 1
+address:     4 Rue Galvani
+address:     PARIS
+country:     FR
+phone:       0 826 102 413
+fax-no:      +33 3 29 38 47 07
+e-mail:      afnic@lws.fr
+website:     http://www.lws.fr
+anonymous:   NO
+registered:  02/01/2007
+source:      FRNIC
+
+nic-hdl:     A5185-FRNIC
+type:        ORGANIZATION
+contact:     TIFFENEAU DAVID ERIC
+address:     Autoentreprise
+address:     le Comptoir de la Nature
+address:     68, rue du moulin a vent
+address:     49260 Montreuil-Bellay
+country:     FR
+phone:       +33 8 92 70 04 79
+e-mail:      tiffeneau.david@hotmail.fr
+changed:     23/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DN498-FRNIC
+type:        ROLE
+contact:     Soci&eacute;t&eacute; LWS
+address:     LWS
+address:     4, rue Galvani
+address:     75017 Paris
+country:     FR
+phone:       +33 8 92 70 04 79
+e-mail:      afnic@lws.fr
+admin-c:     LL1496-FRNIC
+tech-c:      LL1496-FRNIC
+changed:     20/06/2008 afnic@lws.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

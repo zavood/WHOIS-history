@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KINKMASSAGE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: LAKEPFLUGERVILLETRI.COM
+   Registrar: DOMAIN-IT, INC.
+   Whois Server: whois.domainit.com
+   Referral URL: http://www.domainit.com
+   Name Server: NS1.HOSTMONSTER.COM
+   Name Server: NS2.HOSTMONSTER.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-apr-2010
-   Creation Date: 20-sep-2004
-   Expiration Date: 20-sep-2012
+   Updated Date: 31-may-2011
+   Creation Date: 30-may-2007
+   Expiration Date: 30-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:16:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:15:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain Name: lakepflugervilletri.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+	Created on..............: 2007-05-30
+	Expires on..............: 2012-05-30
+
+	Registrar Name..........: Domain-it!
+	Registrar Whois.........: whois.domainit.com
+	Registrar Homepage......: http://www.domainit.com
+
+Registrant
+
+	Kerri C Veuleman
+	20317 Farm Pond Lane
+	Pflugerville, TX 78660
+	US
+	Phone: 512-970-2836
+	Fax..:
+	Email: kveuleman@hotmail.com
+
+Administrative Contact
+
+	Kerri C Veuleman
+	20317 Farm Pond Lane
+	Pflugerville, TX 78660
+	US
+	Phone: 512-970-2836
+	Fax..:
+	Email: kveuleman@hotmail.com
+
+Technical Contact
+	Domain-it!, Inc.
+	Domain-it  Hostmaster
+	9891 Montgomery Road, #225
+	Cincinnati, OH 45242
+	US
+	Phone: 513-351-4222
+	Fax..: 513-351-8222
+	Email: hostmaster@domainit.com
+
+Domain name servers listed in order:
+	ns1.hostmonster.com
+	ns2.hostmonster.com
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Accesses today: 1 / 20
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KINKMASSAGE.COM
+The data in Domainit.com's WHOIS database is provided to you by
+Domainit.com for information purposes only, namely to assist you in
+obtaining information about or related to a domain name registration
+record.  Domainit.com makes this information available as is, and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Domainit.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Domainit.com.
+Domainit.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-   Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KINKMASSAGE.COM
+Register your domain at &lt;a href=&quot;http://www.domainit.com&quot;&gt;www.domainit.com&lt;/a&gt;

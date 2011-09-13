@@ -1,0 +1,78 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lessablesdolonne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lessablesdolonne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDSD23-FRNIC
+admin-c:     OT615-FRNIC
+tech-c:      OT615-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27975-FRNIC
+registrar:   INDOM
+anniversary: 03/06
+created:     22/02/2002
+last-update: 03/06/2009
+source:      FRNIC
+
+ns-list:     NSL27975-FRNIC
+nserver:     ns3.pulsation.fr
+nserver:     ns1.pulsation.fr [80.74.64.1]
+nserver:     ns2.pulsation.fr [80.74.64.2]
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     MDSD23-FRNIC
+type:        ORGANIZATION
+contact:     MAIRIE DES SABLES D'OLONNE
+address:     6, rue hotel de ville
+address:     B.P. 386
+address:     85100 Les Sables-d'Olonne
+country:     FR
+changed:     03/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OT615-FRNIC
+type:        ORGANIZATION
+contact:     Oceanet Technology
+address:     OCEANET TECHNOLOGY
+address:     34, boulevard du Marechal Juin
+address:     44100 Nantes
+country:     FR
+phone:       +33 2 28 03 78 78
+fax-no:      +33 2 28 03 78 79
+e-mail:      domaine@oceanet-technology.com
+changed:     16/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

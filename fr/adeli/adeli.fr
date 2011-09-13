@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; adeli.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      adeli.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A13493-FRNIC
+admin-c:     A13493-FRNIC
+tech-c:      AN67-FRNIC
+tech-c:      LD269-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3862-FRNIC
+registrar:   ADELI
+anniversary: 01/06
+created:     24/07/1996
+last-update: 01/06/2010
+source:      FRNIC
+
+ns-list:     NSL3862-FRNIC
+nserver:     s4.adeli.fr [91.194.96.4]
+nserver:     s5.adeli.fr [91.194.96.5]
+source:      FRNIC
+
+registrar:   ADELI
+type:        Isp Option 2
+address:     618 Avenue du G&eacute;n&eacute;ral de Gaulle
+address:     LIMONEST
+country:     FR
+phone:       +33 4 78 66 11 85
+fax-no:      +33 4 26 68 77 00
+e-mail:      adeli@adeli.fr
+website:     http://www.adeli.fr
+anonymous:   NO
+registered:  01/07/2002
+source:      FRNIC
+
+nic-hdl:     A13493-FRNIC
+type:        ORGANIZATION
+contact:     ADELI
+address:     618, avenue g&eacute;n&eacute;ral de Gaulle
+address:     69760 Limonest
+country:     FR
+phone:       +33 4 78 66 11 85
+e-mail:      ndd@adeli.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AN67-FRNIC
+type:        ROLE
+contact:     ADELI NDD
+address:     ADELI
+address:     618, avenue du General de Gaulle
+address:     69760 Limonest
+country:     FR
+phone:       +33 4 78 66 11 85
+fax-no:      +33 4 78 66 04 33
+e-mail:      ndd@adeli.fr
+trouble:     Informations: http://www.adeli.fr
+admin-c:     LD269-FRNIC
+tech-c:      LD269-FRNIC
+notify:      ndd@adeli.fr
+changed:     30/07/2002 ndd@adeli.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LD269-FRNIC
+type:        PERSON
+contact:     Lionel Drevon
+address:     ADELI
+address:     618, avenue du General de Gaulle
+address:     69760 Limonest
+country:     FR
+phone:       +33 4 78 66 11 85
+changed:     29/07/2002 adminsite@adeli.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

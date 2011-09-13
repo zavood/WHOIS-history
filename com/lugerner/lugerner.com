@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KINKMASSAGE.COM
+   Domain Name: LUGERNER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-apr-2010
-   Creation Date: 20-sep-2004
-   Expiration Date: 20-sep-2012
+   Updated Date: 04-jan-2011
+   Creation Date: 19-jan-2002
+   Expiration Date: 19-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:16:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:17:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,7 +79,7 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KINKMASSAGE.COM
+   Domain Name: LUGERNER.COM
 
    Domain servers in listed order:
       NS01.DOMAINCONTROL.COM
@@ -87,4 +87,4 @@ Registrant:
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KINKMASSAGE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LUGERNER.COM
