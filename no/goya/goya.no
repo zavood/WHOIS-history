@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: GOY25D-NORID
+Domain Name................: goya.no
+Domain Holder Handle.......: GA2407O-NORID
+Registrar Handle...........: REG553-NORID
+Legal-c Handle.............: WS397P-NORID
+Tech-c Handle..............: HO16R-NORID
+Name Server Handle.........: NSON26H-NORID
+Name Server Handle.........: NSON29H-NORID
+
+Additional information:
+Created:         2002-01-15
+Last updated:    2011-01-17
+
+NORID Handle...............: GA2407O-NORID
+Type.......................: organization
+Name.......................: GOYA AS
+Id Type....................: organization_number
+Id Number..................: 981533038
+Registrar Handle...........: REG553-NORID
+Post Address...............: Baneviksgata 7
+Postal Code................: NO-4014
+Postal Area................: Stavanger
+Country....................: NO
+Phone Number...............: +47.51892710
+Fax Number.................: +47.51892711
+Email Address..............: paal@goya.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

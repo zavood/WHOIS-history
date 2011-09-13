@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:34:23 (BRT -03:00)
+
+domain:      girottobuffet.com.br
+owner:       anderson silva girotto -ME
+ownerid:     007.357.128/0001-56
+responsible: Allan jr
+country:     BR
+owner-c:     ALJ352
+admin-c:     ALJ352
+tech-c:      ALJ352
+billing-c:   ALJ352
+nserver:     ns1.acheimidia.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.acheimidia.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20080728 #4712917
+expires:     20120728
+changed:     20110825
+status:      published
+
+nic-hdl-br:  ALJ352
+person:      allan jr
+e-mail:      acheimidia@gmail.com
+created:     20051006
+changed:     20110912
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

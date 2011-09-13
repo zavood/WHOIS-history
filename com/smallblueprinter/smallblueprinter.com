@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMESH.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.NETVISION.NET.IL
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-jan-2010
-   Creation Date: 31-jan-1999
-   Expiration Date: 31-jan-2013
+   Domain Name: SMALLBLUEPRINTER.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.CHARIOT.NET.AU
+   Name Server: DNS2.CHARIOT.NET.AU
+   Name Server: DNS3.CHARIOT.NET.AU
+   Name Server: DNS4.CHARIOT.NET.AU
+   Status: ok
+   Updated Date: 22-feb-2011
+   Creation Date: 10-may-2001
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:33:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:34:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... smallblueprinter.com
+  Creation Date........ 2001-05-10
+  Registration Date.... 2005-07-04
+  Expiry Date.......... 2012-05-10
+  Organisation Name.... ARTIFACT INTERACTIVE
+  Organisation Address. 6 Stralia Avenue
+  Organisation Address.
+  Organisation Address. HECTORVILLE
+  Organisation Address. AUSTRALIA
+  Organisation Address. SOUTH
+  Organisation Address. AUSTRALIA
+
+Admin Name........... ARTIFACT INTERACTIVE
+  Admin Address........ 6 Stralia Avenue
+  Admin Address........
+  Admin Address........ HECTORVILLE
+  Admin Address........ AUSTRALIA
+  Admin Address........ SOUTH
+  Admin Address........ AUSTRALIA
+  Admin Email.......... ddoull@internode.on.net
+  Admin Phone.......... +61.883651424
+  Admin Fax............
+
+Tech Name............ Host Master
+  Tech Address......... PO Box 1046
+  Tech Address.........
+  Tech Address......... Unley
+  Tech Address......... 5061
+  Tech Address......... SA
+  Tech Address......... AUSTRALIA
+  Tech Email........... hostmaster@chariot.net.au
+  Tech Phone........... +61.882918888
+  Tech Fax............. +61.882918811
+  Name Server.......... dns1.chariot.net.au
+  Name Server.......... dns2.chariot.net.au
+  Name Server.......... dns3.chariot.net.au
+  Name Server.......... dns4.chariot.net.au
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMESH.COM
-
-   Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.NETVISION.NET.IL
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMESH.COM

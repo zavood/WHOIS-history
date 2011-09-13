@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMESH.COM
+   Domain Name: TEDGREENE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.NETVISION.NET.IL
-   Name Server: NYPOP.NETVISION.NET.IL
+   Name Server: NS41.DOMAINCONTROL.COM
+   Name Server: NS42.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 26-jan-2010
-   Creation Date: 31-jan-1999
-   Expiration Date: 31-jan-2013
+   Updated Date: 14-nov-2010
+   Creation Date: 25-nov-2004
+   Expiration Date: 25-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:33:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:34:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMESH.COM
+   Domain Name: TEDGREENE.COM
 
    Domain servers in listed order:
-      DNS.NETVISION.NET.IL
-      NYPOP.NETVISION.NET.IL
+      NS41.DOMAINCONTROL.COM
+      NS42.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMESH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TEDGREENE.COM
