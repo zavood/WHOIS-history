@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
-   Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Domain Name: DEPPR.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NS1.VALUE-DOMAIN.COM
+   Name Server: NS2.VALUE-DOMAIN.COM
+   Name Server: NS3.VALUE-DOMAIN.COM
+   Status: ok
+   Updated Date: 14-nov-2010
+   Creation Date: 05-nov-2010
+   Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+GMO Internet, Inc. whois server 2.0
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Handle: None
+Domain Name: deppr.com
+Created On: 2010-11-06 02:50:08.0
+Last Updated On: 2010-11-15 12:20:34.0
+Expiration Date: 2011-11-06 02:50:08.0
+Status: ACTIVE
+Registrant Name: Whois Protect Service
+Registrant Organization: GMO Internet Inc.
+Registrant Street1: 26-1 Sakuragaoka-cho
+Registrant Street2: Cerulean Tower 11F
+Registrant City: Shibuya-ku
+Registrant State: Tokyo
+Registrant Postal Code: 150-8512
+Registrant Country: JP
+Registrant Phone: 03-0364-8727
+Registrant Fax:
+Registrant Email: admin@onamae.com
+Admin Name: Whois Protect Service
+Admin Organization: GMO Internet Inc.
+Admin Street1: 26-1 Sakuragaoka-cho
+Admin Street2: Cerulean Tower 11F
+Admin City: Shibuya-ku
+Admin State: Tokyo
+Admin Postal Code: 150-8512
+Admin Country: JP
+Admin Phone: 03-0364-8727
+Admin Fax:
+Admin Email: admin@onamae.com
+Billing Name: Whois Protect Service
+Billing Organization: GMO Internet Inc.
+Billing Street1: 26-1 Sakuragaoka-cho
+Billing Street2: Cerulean Tower 11F
+Billing City: Shibuya-ku
+Billing State: Tokyo
+Billing Postal Code: 150-8512
+Billing Country: JP
+Billing Phone: 03-0364-8727
+Billing Fax:
+Billing Email: admin@onamae.com
+Tech Name: Whois Protect Service
+Tech Organization: GMO Internet Inc.
+Tech Street1: 26-1 Sakuragaoka-cho
+Tech Street2: Cerulean Tower 11F
+Tech City: Shibuya-ku
+Tech State: Tokyo
+Tech Postal Code: 150-8512
+Tech Country: JP
+Tech Phone: 03-0364-8727
+Tech Fax:
+Tech Email: admin@onamae.com
+Name Server: ns1.value-domain.com
+Name Server: ns2.value-domain.com
+Name Server: ns3.value-domain.com
 
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: ARENANETWORKS.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NCUSDNS01.NCWEST.COM
+   Name Server: NCUSDNS02.NCWEST.COM
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 02-sep-2010
+   Creation Date: 10-jul-2001
+   Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+domain:       arenanetworks.com
+owner:        Mike O'Brien
+organization: Arena.net, Inc.
+email:        arenanetadmin@gmail.com
+address:      3180 139th Ave SE
+city:         Bellevue
+state:        WA
+postal-code:  98005
+country:      US
+phone:        +425.4629444
+fax:          +425.6710589
+admin-c:      CCOM-354982 arenanetadmin@gmail.com
+tech-c:       CCOM-354982 arenanetadmin@gmail.com
+billing-c:    CCOM-354982 arenanetadmin@gmail.com
+nserver:      ncusdns01.ncwest.com
+nserver:      ncusdns02.ncwest.com
+status:       lock
+created:      2001-07-10 15:54:01 UTC
+modified:     2011-06-09 18:06:57 UTC
+expires:      2012-07-10 19:54:01 UTC
+query-source: 174.142.225.246
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+contact-hdl:  CCOM-354982
+person:       Mike OBrien
+organization: Arena.net, Inc.
+email:        arenanetadmin@gmail.com
+address:      3180 139th Ave SE
+city:         Bellevue
+state:        WA
+postal-code:  98005
+country:      US
+phone:        +425.4629444
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+source:       joker.com live whois service
+query-time:   0.086939
+db-updated:   2011-09-13 20:54:43
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

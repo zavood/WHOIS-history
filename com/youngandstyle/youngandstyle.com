@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
-   Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Domain Name: YOUNGANDSTYLE.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.DF-WEBHOSTING.DE
+   Name Server: NS2.DF-WEBHOSTING.DE
+   Name Server: NS3.DF-WEBHOSTING.DE
+   Status: ok
+   Updated Date: 18-jun-2011
+   Creation Date: 20-jun-2003
+   Expiration Date: 20-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
 
@@ -53,23 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Marko Mehnert
+   xtex24
+   Hauptstrasse 44
+   Heidenau, 01809, DE
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  youngandstyle.com
+   Unicode Name:   youngandstyle.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Marko Mehnert
+      xtex24
+      info@marko-mehnert.com
+      Hauptstrasse 44
+      Heidenau, 01809, DE
+      phone: +49.3529518373
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+   Technical Contact
+      DF Hostmaster -
+      DF ISP Ltd. Co. KG
+      info@df-webhosting.de
+      Schlo&Atilde;Ÿstr. 40
+      M&Atilde;&frac14;hlhausen-Ehingen, 78259, DE
+      phone: +49.77335050273
+
+   Zone Contact
+      DF Hostmaster -
+      DF ISP Ltd. Co. KG
+      info@df-webhosting.de
+      Schlo&Atilde;Ÿstr. 40
+      M&Atilde;&frac14;hlhausen-Ehingen, 78259, DE
+      phone: +49.77335050273
+
+   Record expires on: 2012-06-20 00:00:00
+
+   Domain servers in listed order:
+
+      ns3.df-webhosting.de 83.133.190.21
+      ns2.df-webhosting.de 213.160.65.164
+      ns1.df-webhosting.de 213.160.64.164
+
+
+

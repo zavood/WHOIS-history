@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
-   Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Domain Name: 21CN.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: CDNNS2.21CN.COM
+   Name Server: CDNNS4.21CN.COM
+   Status: ok
+   Updated Date: 28-dec-2010
+   Creation Date: 08-feb-1999
+   Expiration Date: 08-feb-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 21cn corporation limited domainmanage@21cn.com +86.2085264358
+	 21CN Corporation Limited
+	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 Guangzhou,Guangdong,CN 510620
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Domain Name:21cn.com
+Record last updated at 2009-07-23 00:09:05
+Record created on 1999/2/8
+Record expired on 2017/2/8
+
+
+Domain servers in listed order:
+	 cdnns4.21cn.com 	 cdnns2.21cn.com
+
+Administrator:
+	 Name-- liuchang
+ EMail-: (domainmanage@21cn.com)
+ tel --: +86.2085264358
+	 org: 21CN Corporation Limited
+	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 Guangzhou,Guangdong,CN 510620
+
+Technical Contactor:
+	 Name-- 21CN Corporation Limited
+ EMail-: (domainmanage@21cn.com)
+ tel --: +86.2085264358
+	 org: 21CN Corporation Limited
+	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 Guangzhou,Guangdong,CN 510620
+
+Billing Contactor:
+	 Name-- liuchang
+ EMail-: (domainmanage@21cn.com)
+ tel --: +86.2085264358
+	 org: 21CN Corporation Limited
+	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 Guangzhou,Guangdong,CN 510620
+

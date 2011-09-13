@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: XM.COM
+   Registrar: EPAG DOMAINSERVICES GMBH
+   Whois Server: whois.enterprice.net
+   Referral URL: http://www.enterprice.net
+   Name Server: DNS1.EPAG.NET
+   Name Server: DNS2.EPAG.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 27-feb-2010
+   Creation Date: 21-sep-1994
+   Expiration Date: 20-sep-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
 
@@ -53,23 +52,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+% EPAG Whois-Server Version 3.1.1 (28-07-2009)
+% The Data in this WHOIS database is provided by EPAG Domainservices GmbH
+% (EPAG) for information purposes, and to assist persons in obtaining
+% information about or related to a domain name registration record.
+% EPAG does not guarantee its accuracy. By submitting a WHOIS query,
+% you agree that you will use this Data only for lawful purposes and that,
+% under no circumstances will you use this Data to:
+% (1) allow, enable, or otherwise support the transmission of mass
+% unsolicited, commercial advertising or solicitations via e-mail (spam);
+% (2) enable high volume, automated, electronic processes that apply to
+% EPAG (or its systems).
+% EPAG reserves the right to modify these terms at any time. By submitting
+% this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name:xm.com
+Created On:1994-09-21 04:00:00
+Last Updated On:2010-02-27 09:51:52
+Expiration Date:2014-09-20 04:00:00
+Status:clientTransferProhibited,clientDeleteProhibited
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant-ID:AS5996-EPNIC
+Registrant-Name:Azim SARI
+Registrant-Street:Fener Sancaklar Yokusu No 14 BALAT
+Registrant-City:Istanbul
+Registrant-State/Province:Istanbul
+Registrant-Postal-Code:34010
+Registrant-Country:TR
+Registrant-Phone:+90.5324226697
+Registrant-Email:contact@xm.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Admin-ID:AS5996-EPNIC
+Admin-Name:Azim SARI
+Admin-Street:Fener Sancaklar Yokusu No 14 BALAT
+Admin-City:Istanbul
+Admin-State/Province:Istanbul
+Admin-Postal-Code:34010
+Admin-Country:TR
+Admin-Phone:+90.5324226697
+Admin-Email:contact@xm.com
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Billing-ID:AS5996-EPNIC
+Billing-Name:Azim SARI
+Billing-Street:Fener Sancaklar Yokusu No 14 BALAT
+Billing-City:Istanbul
+Billing-State/Province:Istanbul
+Billing-Postal-Code:34010
+Billing-Country:TR
+Billing-Phone:+90.5324226697
+Billing-Email:contact@xm.com
+
+Tech-ID:AS5996-EPNIC
+Tech-Name:Azim SARI
+Tech-Street:Fener Sancaklar Yokusu No 14 BALAT
+Tech-City:Istanbul
+Tech-State/Province:Istanbul
+Tech-Postal-Code:34010
+Tech-Country:TR
+Tech-Phone:+90.5324226697
+Tech-Email:contact@xm.com
+
+Nameserver: dns2.epag.net
+Nameserver: dns1.epag.net

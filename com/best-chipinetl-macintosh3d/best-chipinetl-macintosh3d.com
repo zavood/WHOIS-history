@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: BEST-CHIPINETL-MACINTOSH3D.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.ARDISSWEBSITE.NET
+   Name Server: NS2.ARDISSWEBSITE.NET
+   Status: clientDeleteProhibited
+   Status: clientHold
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 21-apr-2011
+   Creation Date: 30-mar-2011
+   Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +53,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: best-chipinetl-macintosh3d.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   SDF inc.
+   Barbara Hopkins h.barbara@gmail.com
+   +13345345234 fax: +13345345234
+   9641 Sunset Boulevard
+   LA NA 345435
+   us
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+   Barbara Hopkins h.barbara@gmail.com
+   +13345345234 fax: +13345345234
+   9641 Sunset Boulevard
+   LA NA 345435
+   us
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Technical Contact:
+   Barbara Hopkins h.barbara@gmail.com
+   +13345345234 fax: +13345345234
+   9641 Sunset Boulevard
+   LA NA 345435
+   us
+
+Billing Contact:
+   Barbara Hopkins h.barbara@gmail.com
+   +13345345234 fax: +13345345234
+   9641 Sunset Boulevard
+   LA NA 345435
+   us
+
+Registration Service Provider:
+name: DomainCompany
+
+DNS:
+ns1.ardisswebsite.net
+ns2.ardisswebsite.net
+
+Created: 2011-03-30
+Expires: 2012-03-30

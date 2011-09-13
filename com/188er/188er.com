@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: 188ER.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 25-jul-2011
+   Creation Date: 04-aug-2010
+   Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... 188er.com
+  Creation Date........ 2010-08-04
+  Registration Date.... 2010-08-04
+  Expiry Date.......... 2012-08-04
+  Organisation Name.... Zhou BiXian
+  Organisation Address. jiefang Road,jiefang builing
+  Organisation Address.
+  Organisation Address. zhengzhou
+  Organisation Address. 525400
+  Organisation Address. guagndong
+  Organisation Address. CHINA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Zhou BiXian
+  Admin Address........ jiefang Road,jiefang builing
+  Admin Address........
+  Admin Address........ zhengzhou
+  Admin Address........ 525400
+  Admin Address........ guagndong
+  Admin Address........ CHINA
+  Admin Email.......... heyongjun10840@yahoo.cn
+  Admin Phone.......... +86.13333333
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE

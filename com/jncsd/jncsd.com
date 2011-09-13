@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: JNCSD.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS1.CNOLNIC.COM
+   Name Server: NS2.CNOLNIC.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Status: clientUpdateProhibited
+   Updated Date: 17-feb-2011
+   Creation Date: 11-mar-2005
+   Expiration Date: 11-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-http://www.networksolutions.com/whois/index.jhtml
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Domain: jncsd.com
+Status: Protected
+
+DNS:
+	NS2.CNOLNIC.COM
+	NS1.CNOLNIC.COM
+
+Created: 2005-03-11 00:00:00
+Expires: 2014-03-11 05:59:34
+Last Modified: 2011-02-17 11:08:30
+
+Registrant Contact:
+	Changshengda
+	Changshengda Changshengda (jnhjrq@163.com)
+	jinan
+	jinan, Shandong, cn 250022
+	P: +86.5315954463 F: +86.5315954483
+
+Administrative Contact:
+	Changshengda
+	Changshengda Changshengda (jnhjrq@163.com)
+	jinan
+	jinan, Shandong, cn 250022
+	P: +86.5315954463 F: +86.5315954483
+
+Technical Contact:
+	Changshengda
+	Changshengda Changshengda (jnhjrq@163.com)
+	jinan
+	jinan, Shandong, cn 250022
+	P: +86.5315954463 F: +86.5315954483
+
+Billing Contact:
+	Changshengda
+	Changshengda Changshengda (jnhjrq@163.com)
+	jinan
+	jinan, Shandong, cn 250031
+	P: +86.5315954463 F: +86.5315954483
+

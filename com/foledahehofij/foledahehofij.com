@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: FOLEDAHEHOFIJ.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.FOLEDAHEHOFIJ.COM
+   Name Server: NS2.FOLEDAHEHOFIJ.COM
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 12-apr-2011
+   Creation Date: 06-apr-2011
+   Expiration Date: 06-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name:foledahehofij.com
+Record created:2011/4/6
+Record expired:2012/4/6
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain servers in listed order:
+	 ns1.foledahehofij.com 	 ns2.foledahehofij.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrat:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- fo4371222836101@domainidshield.com
+Technical Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- fo4371222261302@domainidshield.com
+Billing Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- fo4371222130203@domainidshield.com
+Registrant Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- fo4371222910304@domainidshield.com
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
-   Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Domain Name: AG008.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.8GDNS.COM
+   Name Server: NS2.8GDNS.COM
+   Name Server: NS3.8GDNS.COM
+   Name Server: NS4.8GDNS.COM
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 23-dec-2010
+   Expiration Date: 23-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
 
@@ -53,23 +53,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about ag008.com
+&lt;a href=&quot;http://www.aboutus.org/ag008.com&quot;&gt;AboutUs: ag008.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: ag008.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative Contact:
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   feihu huang (jdc7thdg4@gmail.com)
+   +86.7972522123
+   Fax:
+   bayibeidadao589 hao
+   ruijing, JIANGXI 342500
+   CN
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Technical Contact:
+
+   feihu huang (jdc7thdg4@gmail.com)
+   +86.7972522123
+   Fax:
+   bayibeidadao589 hao
+   ruijing, JIANGXI 342500
+   CN
+
+Registrant Contact:
+
+   feihu huang ()
+
+   Fax:
+   bayibeidadao589 hao
+   ruijing, JIANGXI 342500
+   CN
+
+Status: Active
+
+Name Servers:
+   ns1.8gdns.com
+   ns2.8gdns.com
+   ns3.8gdns.com
+   ns4.8gdns.com
+
+Creation date: 23 Dec 2010 07:38:03
+Expiration date: 23 Dec 2011 07:38:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

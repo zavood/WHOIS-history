@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: YOUNGPADAWAN.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Status: clientUpdateProhibited
+   Updated Date: 13-sep-2011
+   Creation Date: 12-sep-2005
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +53,82 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Moniker Whois Server Version 2.0
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-http://www.networksolutions.com/whois/index.jhtml
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Domain Name: YOUNGPADAWAN.COM
+Registrar: MONIKER
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Registrant [359000]:
+        Amos Bannister amosba@gmail.com
+        3 Amaroo Drive
+        Churchill
+        Victoria
+        3842
+        AU
+
+
+Administrative Contact [359000]:
+        Amos Bannister amosba@gmail.com
+        3 Amaroo Drive
+        Churchill
+        Victoria
+        3842
+        AU
+        Phone: +61.0432344420
+
+
+Billing Contact [359000]:
+        Amos Bannister amosba@gmail.com
+        3 Amaroo Drive
+        Churchill
+        Victoria
+        3842
+        AU
+        Phone: +61.0432344420
+
+
+Technical Contact [359000]:
+        Amos Bannister amosba@gmail.com
+        3 Amaroo Drive
+        Churchill
+        Victoria
+        3842
+        AU
+        Phone: +61.0432344420
+
+
+Domain servers in listed order:
+
+        NS1.BODIS.COM
+        NS2.BODIS.COM
+
+        Record created on:        2005-09-12 13:17:25.0
+        Database last updated on: 2010-09-24 16:25:32.9
+        Domain Expires on:        2011-09-12 13:17:25.0
+
+
+

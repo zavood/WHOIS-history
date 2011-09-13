@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
+   Domain Name: DYZAFUNAX.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS21545.DYZAFUNAX.COM
+   Name Server: NS56772.DYZAFUNAX.COM
    Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Updated Date: 24-apr-2011
+   Creation Date: 22-apr-2011
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 Malena Bosgraaf lays@fxmail.net +32.92337056
+	 Malena Bosgraaf
+	 Onderstraat 23
+	 Ghent,Oost-Vlaanderen,BE 9000
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+Domain Name:dyzafunax.com
+Record last updated at
+Record created on 2011/4/22
+Record expired on 2012/4/22
+
+
+Domain servers in listed order:
+	 ns21545.dyzafunax.com 	 ns56772.dyzafunax.com
+
+Administrator:
+	 Onderstraat 23
+	 Ghent
+Oost-Vlaanderen,
+BE
+ 9000
+
+	 name:(Malena Bosgraaf)
+mail:(lays@fxmail.net) +32.92337056
+	 Malena Bosgraaf
+Technical Contactor:
+	 Onderstraat 23
+	 Ghent
+Oost-Vlaanderen,
+BE
+ 9000
+
+	 name:(Malena Bosgraaf)
+mail:(lays@fxmail.net) +32.92337056
+	 Malena Bosgraaf
+Billing Contactor:
+	 Onderstraat 23
+	 Ghent
+Oost-Vlaanderen,
+BE
+ 9000
+
+	 name:(Malena Bosgraaf)
+mail:(lays@fxmail.net) +32.92337056
+	 Malena Bosgraaf

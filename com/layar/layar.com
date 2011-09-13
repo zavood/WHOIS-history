@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCIAM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
-   Name Server: NS3.DATAPIPE.NET
-   Name Server: NS4.DATAPIPE.NET
-   Status: clientTransferProhibited
-   Updated Date: 05-feb-2009
-   Creation Date: 26-jun-1992
-   Expiration Date: 25-jun-2013
+   Domain Name: LAYAR.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS-1010.AWSDNS-62.NET
+   Name Server: NS-1148.AWSDNS-15.ORG
+   Name Server: NS-219.AWSDNS-27.COM
+   Status: ok
+   Updated Date: 19-may-2011
+   Creation Date: 18-may-2003
+   Expiration Date: 18-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
 
@@ -53,23 +52,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+; This data is provided by TransIP BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; TransIP BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+DOMAIN: LAYAR.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+RSP: TransIP BV
+URL: http://www.transip.nl
 
-http://www.networksolutions.com/whois/index.jhtml
+owner-contact: P-MAL942
+owner-organization: Layar
+owner-fname: M
+owner-lname: Lens-FitzGerald
+owner-street: Rietlandpark 301
+owner-city: Amsterdam
+owner-zip: 1019 DW
+owner-country: NL
+owner-phone: +31 203019709
+owner-email: maarten@layar.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+admin-contact: P-MHL946
+admin-fname: M
+admin-lname: Lens-FitzGerald
+admin-street: Rietlandpark 301
+admin-city: Amsterdam
+admin-zip: 1019 DW
+admin-country: NL
+admin-phone: +31 203019709
+admin-email: maarten@layar.com
 
-Whois Query: sciam.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:49:22 EDT 2011
-Reason Code: IE
+tech-contact: P-DBG730
+tech-fname: Dirk
+tech-lname: Groten
+tech-street: Rietlandpark 301
+tech-city: Amsterdam
+tech-zip: 1019 DW
+tech-country: NL
+tech-phone: +31 623080177
+tech-email: dirk@layar.com
+
+billing-contact: P-MHL946
+billing-fname: M
+billing-lname: Lens-FitzGerald
+billing-street: Rietlandpark 301
+billing-city: Amsterdam
+billing-zip: 1019 DW
+billing-country: NL
+billing-phone: +31 203019709
+billing-email: maarten@layar.com
+
+nameserver: ns-1010.awsdns-62.net
+nameserver: ns-1148.awsdns-15.org
+nameserver: ns-219.awsdns-27.com
+
+; TransIP BV
+; Real-time domeinregistratie en -beheer vanaf 4.99 Euro!
+; http://www.transip.nl/products/domain/
+
