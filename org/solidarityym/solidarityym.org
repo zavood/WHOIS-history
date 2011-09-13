@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D144478967-LROR
+Domain Name:SOLIDARITYYM.ORG
+Created On:25-Apr-2007 10:20:38 UTC
+Last Updated On:25-Apr-2011 10:52:58 UTC
+Expiration Date:25-Apr-2012 10:20:38 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_6219512
+Registrant Name:K.A.Naser
+Registrant Organization:K.A.Naser
+Registrant Street1:Silver Hills.PO
+Registrant Street2:Calicut
+Registrant Street3:Calicut
+Registrant City:Calicut
+Registrant State/Province:Kerala
+Registrant Postal Code:673012
+Registrant Country:IN
+Registrant Phone:+091.9447740139
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kanvr2@gmail.com
+Admin ID:DI_6219512
+Admin Name:K.A.Naser
+Admin Organization:K.A.Naser
+Admin Street1:Silver Hills.PO
+Admin Street2:Calicut
+Admin Street3:Calicut
+Admin City:Calicut
+Admin State/Province:Kerala
+Admin Postal Code:673012
+Admin Country:IN
+Admin Phone:+091.9447740139
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kanvr2@gmail.com
+Tech ID:DI_6219512
+Tech Name:K.A.Naser
+Tech Organization:K.A.Naser
+Tech Street1:Silver Hills.PO
+Tech Street2:Calicut
+Tech Street3:Calicut
+Tech City:Calicut
+Tech State/Province:Kerala
+Tech Postal Code:673012
+Tech Country:IN
+Tech Phone:+091.9447740139
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kanvr2@gmail.com
+Name Server:NS1.SUPERNETSOL.NET
+Name Server:NS2.SUPERNETSOL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
