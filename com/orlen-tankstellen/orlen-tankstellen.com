@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 12-may-2003
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:33:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:58:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain orlen-tankstellen.com
-% Timestamp: 2011-09-12 08:33:49
+% Timestamp: 2011-09-13 08:59:14
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
