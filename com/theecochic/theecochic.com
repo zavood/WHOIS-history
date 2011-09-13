@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URUTINKUY.COM
+   Domain Name: THEECOCHIC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.TAWATEAM.COM
-   Name Server: NS2.TAWATEAM.COM
+   Name Server: NS57.DOMAINCONTROL.COM
+   Name Server: NS58.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-dec-2010
-   Creation Date: 10-dec-2008
-   Expiration Date: 10-dec-2011
+   Updated Date: 26-jun-2011
+   Creation Date: 04-sep-2007
+   Expiration Date: 04-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:33:42 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   URU TINKUY
+   TheEcoChic
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: URUTINKUY.COM
+   Domain Name: THEECOCHIC.COM
 
    Domain servers in listed order:
-      NS1.TAWATEAM.COM
-      NS2.TAWATEAM.COM
+      NS57.DOMAINCONTROL.COM
+      NS58.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=URUTINKUY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THEECOCHIC.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIBEROGIC.COM
+   Domain Name: HOMEDRIVEWAY.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.XSERVER.JP
-   Name Server: NS2.XSERVER.JP
-   Name Server: NS3.XSERVER.JP
-   Name Server: NS4.XSERVER.JP
-   Name Server: NS5.XSERVER.JP
+   Name Server: NS1.WEBNETHOST.NET
+   Name Server: NS2.WEBNETHOST.NET
    Status: clientTransferProhibited
-   Updated Date: 16-may-2009
-   Creation Date: 01-dec-2008
-   Expiration Date: 01-dec-2011
+   Updated Date: 21-jul-2011
+   Creation Date: 25-jul-2000
+   Expiration Date: 25-jul-2020
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:34:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:33:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,52 +52,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about liberogic.com
-&lt;a href=&quot;http://www.aboutus.org/liberogic.com&quot;&gt;AboutUs: liberogic.com&lt;/a&gt;
+Visit AboutUs.org for more information about homedriveway.com
+&lt;a href=&quot;http://www.aboutus.org/homedriveway.com&quot;&gt;AboutUs: homedriveway.com&lt;/a&gt;
 
 
-Domain name: liberogic.com
+Domain name: homedriveway.com
 
 Registrant Contact:
-
-   Naoki Kobayashi ()
+   SEALMASTER
+   SEALMASTER  ()
 
    Fax:
-   267 Makieyacho Karasumadori
-   Kyoto,  6040857
-   JP
+   PO BOX 2218
+   SANDUSKY, OH 44871-2218
+   US
 
 Administrative Contact:
-   BET Inc.
-   Naoki Kobayashi (info@bet.co.jp)
-   +81.752121326
-   Fax: +81.752121490
-   Karasuma-Nishiiru, Mikuracho
-   Karasuma-Building6F
-   Kyoto,  6048166
-   JP
+   SEALMASTER
+   SEALMASTER  (info@sealmaster.net)
+   +1.4196264375
+   Fax: : 419 626 5477
+   PO BOX 2218
+   SANDUSKY, OH 44871-2218
+   US
 
 Technical Contact:
-   BET Inc.
-   Naoki Kobayashi (info@bet.co.jp)
-   +81.752121326
-   Fax: +81.752121490
-   Karasuma-Nishiiru, Mikuracho
-   Karasuma-Building6F
-   Kyoto,  6048166
-   JP
+   WebNetHostingLLC
+   WebNet Hosting (sales@webnethosting.net)
+   +1.3012510137
+   Fax: +1.8778936890
+   11710OldgeorgetownRd
+   Suite1122
+   N.Bethesda, MD 20852
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.xserver.jp
-   ns2.xserver.jp
-   ns3.xserver.jp
-   ns4.xserver.jp
-   ns5.xserver.jp
+   ns1.webnethost.net
+   ns2.webnethost.net
 
-Creation date: 01 Dec 2008 10:10:12
-Expiration date: 01 Dec 2011 10:10:12
+Creation date: 26 Jul 2000 02:03:31
+Expiration date: 26 Jul 2020 02:03:00
 
 
 

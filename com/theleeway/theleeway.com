@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URUTINKUY.COM
+   Domain Name: THELEEWAY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.TAWATEAM.COM
-   Name Server: NS2.TAWATEAM.COM
+   Name Server: NS09.DOMAINCONTROL.COM
+   Name Server: NS10.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-dec-2010
-   Creation Date: 10-dec-2008
-   Expiration Date: 10-dec-2011
+   Updated Date: 07-may-2010
+   Creation Date: 28-aug-2009
+   Expiration Date: 07-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:33:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:33:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   URU TINKUY
+   Jeffrey Lee
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: URUTINKUY.COM
+   Domain Name: THELEEWAY.COM
 
    Domain servers in listed order:
-      NS1.TAWATEAM.COM
-      NS2.TAWATEAM.COM
+      NS09.DOMAINCONTROL.COM
+      NS10.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=URUTINKUY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THELEEWAY.COM

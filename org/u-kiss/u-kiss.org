@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155838042-LROR
+Domain Name:U-KISS.ORG
+Created On:09-Apr-2009 16:36:00 UTC
+Last Updated On:06-Apr-2011 06:40:00 UTC
+Expiration Date:09-Apr-2012 16:36:00 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:OK
+Registrant ID:64cof01493w0w0
+Registrant Name:CUIMINGMIN
+Registrant Organization:CUI MINGMIN
+Registrant Street1:SHANGHAI CITY.CHINA
+Registrant Street2:
+Registrant Street3:
+Registrant City:SHANGHAI
+Registrant State/Province:Shanghai
+Registrant Postal Code:200129
+Registrant Country:CN
+Registrant Phone:+86.2168719934
+Registrant Phone Ext.:
+Registrant FAX:+86.2168719934
+Registrant FAX Ext.:
+Registrant Email:mina_cui@hotmail.com
+Admin ID:4bm401h2448834
+Admin Name:CUIMINGMIN
+Admin Organization:CUIMINGMIN
+Admin Street1:SHANGHAI CITY.CHINA
+Admin Street2:
+Admin Street3:
+Admin City:SHANGHAI
+Admin State/Province:Shanghai
+Admin Postal Code:200129
+Admin Country:CN
+Admin Phone:+86.2168719934
+Admin Phone Ext.:
+Admin FAX:+86.2168719934
+Admin FAX Ext.:
+Admin Email:mina_cui@hotmail.com
+Tech ID:4bm401h2448834
+Tech Name:CUIMINGMIN
+Tech Organization:CUIMINGMIN
+Tech Street1:SHANGHAI CITY.CHINA
+Tech Street2:
+Tech Street3:
+Tech City:SHANGHAI
+Tech State/Province:Shanghai
+Tech Postal Code:200129
+Tech Country:CN
+Tech Phone:+86.2168719934
+Tech Phone Ext.:
+Tech FAX:+86.2168719934
+Tech FAX Ext.:
+Tech Email:mina_cui@hotmail.com
+Name Server:NS.XINNETDNS.COM
+Name Server:NS.XINNET.CN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

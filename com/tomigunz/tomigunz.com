@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIBEROGIC.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.XSERVER.JP
-   Name Server: NS2.XSERVER.JP
-   Name Server: NS3.XSERVER.JP
-   Name Server: NS4.XSERVER.JP
-   Name Server: NS5.XSERVER.JP
+   Domain Name: TOMIGUNZ.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.LIVEDNS.CO.UK
+   Name Server: NS2.LIVEDNS.CO.UK
+   Name Server: NS3.LIVEDNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 16-may-2009
-   Creation Date: 01-dec-2008
-   Expiration Date: 01-dec-2011
+   Status: clientUpdateProhibited
+   Updated Date: 25-nov-2009
+   Creation Date: 25-nov-2009
+   Expiration Date: 25-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:34:42 UTC &lt;&lt;&lt;
 
@@ -54,72 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about liberogic.com
-&lt;a href=&quot;http://www.aboutus.org/liberogic.com&quot;&gt;AboutUs: liberogic.com&lt;/a&gt;
-
-
-Domain name: liberogic.com
-
-Registrant Contact:
-
-   Naoki Kobayashi ()
-
-   Fax:
-   267 Makieyacho Karasumadori
-   Kyoto,  6040857
-   JP
-
-Administrative Contact:
-   BET Inc.
-   Naoki Kobayashi (info@bet.co.jp)
-   +81.752121326
-   Fax: +81.752121490
-   Karasuma-Nishiiru, Mikuracho
-   Karasuma-Building6F
-   Kyoto,  6048166
-   JP
-
-Technical Contact:
-   BET Inc.
-   Naoki Kobayashi (info@bet.co.jp)
-   +81.752121326
-   Fax: +81.752121490
-   Karasuma-Nishiiru, Mikuracho
-   Karasuma-Building6F
-   Kyoto,  6048166
-   JP
-
-Status: Locked
-
-Name Servers:
-   ns1.xserver.jp
-   ns2.xserver.jp
-   ns3.xserver.jp
-   ns4.xserver.jp
-   ns5.xserver.jp
-
-Creation date: 01 Dec 2008 10:10:12
-Expiration date: 01 Dec 2011 10:10:12
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
