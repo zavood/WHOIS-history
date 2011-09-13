@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8157700-LROR
+Domain Name:WATERONE.ORG
+Created On:19-Jul-1999 17:49:12 UTC
+Last Updated On:20-Jul-2011 03:50:14 UTC
+Expiration Date:19-Jul-2021 17:49:12 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25297127-NSI
+Registrant Name:WaterDistrictNo. 1 of Johnson County
+Registrant Organization:WaterDistrictNo. 1 of Johnson County
+Registrant Street1:10747 Renner Boulevard
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lenexa
+Registrant State/Province:KS
+Registrant Postal Code:66219
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lbowie@WATERONE.ORG
+Admin ID:25297128-NSI
+Admin Name:Water District No. 1 of Johnson County
+Admin Organization:Water District No. 1 of Johnson County
+Admin Street1:10747 Renner Boulevard
+Admin Street2:
+Admin Street3:
+Admin City:Lenexa
+Admin State/Province:KS
+Admin Postal Code:66219
+Admin Country:US
+Admin Phone:+1.913895558
+Admin Phone Ext.:
+Admin FAX:+1.913895182
+Admin FAX Ext.:
+Admin Email:lharris@WATERONE.ORG
+Tech ID:33779770-NSI
+Tech Name:Jason Lee
+Tech Street1:10747 Renner Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Lenexa
+Tech State/Province:KS
+Tech Postal Code:66219
+Tech Country:US
+Tech Phone:+1.9138955583
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jlee@waterone.org
+Name Server:NS26A.SBC-WEBHOSTING.COM
+Name Server:NS26B.SBC-WEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
