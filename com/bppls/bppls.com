@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 16-jun-2004
    Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:41:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:09:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,8 +63,8 @@ cheap, easy website creation.
 ******************************************************************
 
 Domain Name: 		BPPLS.COM
-Date Created:		Wed 16-June-2004
-Date Expires:		Sat 16-June-2012
+Created Date:		16-Jun-2004
+Expiry Date:		16-Jun-2012
 Nameserver:		ns.123-reg.co.uk
 Nameserver:		ns2.123-reg.co.uk
 Registrant Name:	Mamun Ahmed
@@ -85,7 +85,7 @@ Technical Address:	Uxbridge
 Technical Address:	Middlesex
 Technical Address:	UB11 1FF
 Technical Address:	United Kingdom
-Technical E-Mail:	services@123-reg.co.uk
+Technical Email:	services@123-reg.co.uk
 Technical Tel:		+44.8712309525
 Technical Fax:		+44.8701650437
 Administrative Name:	Mamun Ahmed
@@ -97,7 +97,7 @@ Administrative Address:	London
 Administrative Address:	London
 Administrative Address:	W12 8AA
 Administrative Address:	United Kingdom
-Administrative E-Mail:	sbit-domains@bpp.com
+Administrative Email:	sbit-domains@bpp.com
 Administrative Tel:	+44(0)2087402222
 Administrative Fax:
 

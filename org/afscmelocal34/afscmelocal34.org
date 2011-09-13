@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83681415-LROR
+Domain Name:AFSCMELOCAL34.ORG
+Created On:15-Feb-2002 20:02:41 UTC
+Last Updated On:19-Nov-2010 07:15:46 UTC
+Expiration Date:15-Feb-2012 20:02:41 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-27885
+Registrant Name:Derrik Dyka
+Registrant Organization:UltraGalaxy
+Registrant Street1:7128 Lyndale Ave S
+Registrant Street2:
+Registrant Street3:
+Registrant City:Richfield
+Registrant State/Province:MN
+Registrant Postal Code:55423
+Registrant Country:US
+Registrant Phone:+612.8402500
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:derrik@derrikdyka.com
+Admin ID:CORG-143653
+Admin Name:Carol Thomalla
+Admin Organization:tcalmc.org
+Admin Street1:2829 University Avenue SE, Suite 100
+Admin Street2:
+Admin Street3:
+Admin City:Minneapolis
+Admin State/Province:MN
+Admin Postal Code:55414
+Admin Country:US
+Admin Phone:+612.6763725
+Admin Phone Ext.:
+Admin FAX:+612.3791456
+Admin FAX Ext.:
+Admin Email:todd@plainsmediagroup.com
+Tech ID:CORG-143653
+Tech Name:Carol Thomalla
+Tech Organization:tcalmc.org
+Tech Street1:2829 University Avenue SE, Suite 100
+Tech Street2:
+Tech Street3:
+Tech City:Minneapolis
+Tech State/Province:MN
+Tech Postal Code:55414
+Tech Country:US
+Tech Phone:+612.6763725
+Tech Phone Ext.:
+Tech FAX:+612.3791456
+Tech FAX Ext.:
+Tech Email:todd@plainsmediagroup.com
+Name Server:NS1.PLAINSMEDIA.COM
+Name Server:NS2.PLAINSMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

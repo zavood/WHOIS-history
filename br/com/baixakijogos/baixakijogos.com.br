@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-12 23:10:01 (BRT -03:00)
+
+domain:      baixakijogos.com.br
+owner:       No Zebra Network LTDA
+ownerid:     004.883.570/0001-28
+responsible: Guilherme Barthel
+country:     BR
+owner-c:     GUB18
+admin-c:     GUB18
+tech-c:      GUB18
+billing-c:   GUB18
+nserver:     ns1.terra.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.terra.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20060220 #2604573
+expires:     20190220
+changed:     20091214
+status:      published
+
+nic-hdl-br:  GUB18
+person:      Guilherme Barthel
+e-mail:      barthel@baixaki.com.br
+created:     19990307
+changed:     20091015
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

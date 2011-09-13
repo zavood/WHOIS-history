@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IKU4.COM
-   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
-   Whois Server: whois.discount-domain.com
-   Referral URL: http://www.onamae.com
-   Name Server: VDNS.SHINOBI.JP
+   Domain Name: NOBANET.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: NOBA-NS2.NOBANET.COM
+   Name Server: PNS.DTAG.DE
+   Name Server: SECONDARY004.DTAG.NET
    Status: ok
-   Updated Date: 07-jun-2011
-   Creation Date: 14-jul-2009
-   Expiration Date: 14-jul-2012
+   Updated Date: 16-aug-2011
+   Creation Date: 15-aug-2002
+   Expiration Date: 15-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:08:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:08:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,60 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-GMO Internet, Inc. whois server 2.0
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
 
-This server only serves information on GMO Internet,Inc.-maintained domain names
-For more information, please contact hostmaster@gmo.jp.
-
-Domain Handle: None
-Domain Name: iku4.com
-Created On: 2009-07-14 07:54:21.0
-Last Updated On: 2011-06-08 12:26:52.0
-Expiration Date: 2012-07-14 07:54:21.0
-Status: ACTIVE
-Registrant Name: Junichi Ryusekido
-Registrant Organization: Samurai Factory Inc.
-Registrant Street1: 16-28 Nanpeidai-cho
-Registrant Street2: Glass City Shibuya 5F
-Registrant City: Shibuya-ku
-Registrant State: Tokyo
-Registrant Postal Code: 150-0036
-Registrant Country: JP
-Registrant Phone: 0362775281
-Registrant Fax:
-Registrant Email: domainregist@ml.ninja.co.jp
-Admin Name: Junichi Ryusekido
-Admin Organization: Samurai Factory Inc.
-Admin Street1: Nanpeidai-cho 16-28
-Admin Street2:
-Admin City: Shibuya-ku
-Admin State: Tokyo-to
-Admin Postal Code: 150-0036
-Admin Country: JP
-Admin Phone: 0362775281
-Admin Fax: 0362775283
-Admin Email: domainregist@ml.ninja.co.jp
-Billing Name: Junichi Ryusekido
-Billing Organization: Samurai Factory Inc.
-Billing Street1: Nanpeidai-cho 16-28
-Billing Street2:
-Billing City: Shibuya-ku
-Billing State: Tokyo-to
-Billing Postal Code: 150-0036
-Billing Country: JP
-Billing Phone: 0362775281
-Billing Fax: 0362775283
-Billing Email: domainregist@ml.ninja.co.jp
-Tech Name: Junichi Ryusekido
-Tech Organization: Samurai Factory Inc.
-Tech Street1: Nanpeidai-cho 16-28
-Tech Street2:
-Tech City: Shibuya-ku
-Tech State: Tokyo-to
-Tech Postal Code: 150-0036
-Tech Country: JP
-Tech Phone: 0362775281
-Tech Fax: 0362775283
-Tech Email: domainregist@ml.ninja.co.jp
-Name Server: vdns.shinobi.jp
-
+domain: nobanet.com
+registrant-hdl: RDT-BS254
+admin-c: RDT-BS254
+tech-c: RDT-BS254
+zone-c: RDT-BS254
+nserver: noba-ns2.nobanet.com
+nserver: pns.dtag.de
+nserver: secondary004.dtag.net
+status: connected
+changed: 2008-05-16
+created: 2002-08-15
+expires: 2012-08-15
+source: DEUTSCHE TELEKOM AG
