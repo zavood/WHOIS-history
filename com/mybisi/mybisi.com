@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENTURECAPITALPROPERTIES.COM
+   Domain Name: MYBISI.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2008
-   Creation Date: 08-feb-2005
-   Expiration Date: 08-feb-2012
+   Updated Date: 16-aug-2009
+   Creation Date: 26-oct-2007
+   Expiration Date: 26-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:24:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:22:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +79,21 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Venture Capital Properties LLC.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENTURECAPITALPROPERTIES.COM
+   Domain Name: MYBISI.COM
 
    Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+      NS1.MYDYNDNS.ORG
+      NS2.MYDYNDNS.ORG
+      NS3.MYDYNDNS.ORG
+      NS4.MYDYNDNS.ORG
+      NS5.MYDYNDNS.ORG
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENTURECAPITALPROPERTIES.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=MYBISI.COM

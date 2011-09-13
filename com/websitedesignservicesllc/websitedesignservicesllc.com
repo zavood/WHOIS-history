@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUMMERLANDMINORBASEBALL.COM
-   Registrar: DOMAINPEOPLE, INC.
-   Whois Server: whois.domainpeople.com
-   Referral URL: http://www.domainpeople.com
-   Name Server: NS1.DOMAINPEOPLE.COM
-   Name Server: NS2.DOMAINPEOPLE.COM
+   Domain Name: WEBSITEDESIGNSERVICESLLC.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WEBSITEDESIGNSERVICESLLC.COM
+   Name Server: NS2.WEBSITEDESIGNSERVICESLLC.COM
    Status: clientTransferProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 29-mar-2008
-   Expiration Date: 29-mar-2012
+   Updated Date: 28-oct-2010
+   Creation Date: 06-nov-2009
+   Expiration Date: 06-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:23:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:24:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,57 +52,66 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
+Visit AboutUs.org for more information about websitedesignservicesllc.com
+&lt;a href=&quot;http://www.aboutus.org/websitedesignservicesllc.com&quot;&gt;AboutUs: websitedesignservicesllc.com&lt;/a&gt;
 
 
-Domain name: summerlandminorbaseball.com
+Domain name: websitedesignservicesllc.com
 
 Registrant Contact:
-   BallCharts.com
-   Adam DeBray ()
+   Website Design Services LLC.
+   Adrian Cano ()
 
    Fax:
-   #9 - 6300 London Rd.
-   Richmond, BC V7E6V6
-   CA
+   WebsiteDesignServicesLLC.com
+   Las Vegas, NV 89122
+   US
 
 Administrative Contact:
-   BallCharts.com
-   Adam DeBray (domains@ballcharts.com)
-   +1.6048083548
-   Fax:
-   #9 - 6300 London Rd.
-   Richmond, BC V7E6V6
-   CA
+   Website Design Services LLC.
+   Adrian Cano (adrian@kanoskreations.com)
+   +1.7025187932
+   Fax: +1.7173268276
+   WebsiteDesignServicesLLC.com
+   Las Vegas, NV 89122
+   US
 
 Technical Contact:
-   BallCharts.com
-   Adam DeBray (domains@ballcharts.com)
-   +1.6048083548
-   Fax:
-   #9 - 6300 London Rd.
-   Richmond, BC V7E6V6
-   CA
+   Website Design Services LLC.
+   Adrian Cano (adrian@kanoskreations.com)
+   +1.7025187932
+   Fax: +1.7173268276
+   WebsiteDesignServicesLLC.com
+   Las Vegas, NV 89122
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.domainpeople.com
-   ns2.domainpeople.com
+   ns1.websitedesignservicesllc.com
+   ns2.websitedesignservicesllc.com
 
-Creation date: 29 Mar 2008 00:00:00
-Expiration date: 29 Mar 2012 01:12:57
-
-
+Creation date: 06 Nov 2009 23:29:31
+Expiration date: 06 Nov 2011 22:29:00
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
 =-=-=-=
-You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes.  The data in DomainPeople, Inc.'s WHOIS database (&quot;Data&quot;) is provided by DomainPeople, Inc. for information purposes only.  DomainPeople, Inc.
-does not guarantee the accuracy of this Data and it is provided &quot;as- is&quot;.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via mail, email (spam), telephone or facsimile, or solicitations to entities other than the data recipients own, existing customers; or (2) enable high-volume, automated, electronic processes that apply to DomainPeople, Inc. (or its systems).  The compilation, repackaging, dissemination, distribution or other use of this Data is expressly prohibited without the prior written consent of DomainPeople, Inc.
-
-You agree not to use high-volume, automated, electronic processes to access or query the WHOIS database.  DomainPeople, Inc. reserves the right to terminate your access to the DomainPeople, Inc. WHOIS database in its sole discretion, including without limitation, for excessive querying of the WHOIS database or for failure to otherwise abide by this policy.
-
-DomainPeople, Inc. reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by the terms of this policy.
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

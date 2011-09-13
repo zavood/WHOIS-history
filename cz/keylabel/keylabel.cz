@@ -1,0 +1,96 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 21:24:42 2011
+
+domain:       keylabel.cz
+registrant:   SB:DS-DAF-924S
+admin-c:      DS-DAF-924
+temp-c:       DSHOST
+nsset:        NSS:DS:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   15.02.2006 16:35:00
+changed:      01.03.2007 21:05:00
+expire:       15.02.2012
+
+contact:      SB:DS-DAF-924S
+name:         David Ferfeck&Atilde;&frac12;
+address:      Ra&Aring;&iexcl;kovice 525
+address:      Pra&Aring;&frac34;mo
+address:      739
+address:      CZ
+e-mail:       ferfi@mortalcombat.cz
+registrar:    REG-GENREG
+created:      15.02.2006 15:25:00
+
+contact:      DS-DAF-924
+name:         David Ferfeck&Atilde;&frac12;
+address:      Ra&Aring;&iexcl;kovice 525
+address:      Pra&Aring;&frac34;mo
+address:      739 04
+address:      CZ
+e-mail:       ferfi@mortalcombat.cz
+registrar:    REG-GENREG
+created:      15.02.2006 15:15:00
+
+contact:      DSHOST
+name:         DS HOSTMASTER
+address:      Vlkova 22
+address:      Praha 3
+address:      13000
+address:      CZ
+e-mail:       domeny@dobraspolecnost.cz
+registrar:    REG-GENREG
+created:      08.04.2005 12:55:00
+changed:      08.11.2005 00:25:00
+
+nsset:        NSS:DS:1
+nserver:      ns.clevernet.cz
+nserver:      ns.dobraspolecnost.cz (89.185.236.201)
+tech-c:       DSJV
+tech-c:       SB:DS
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+changed:      30.05.2008 15:45:06
+
+contact:      DSJV
+name:         Jan Vondr&Atilde;&iexcl;k
+address:      Vlkova 587/22
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.732136868
+e-mail:       domeny@dobraspolecnost.cz
+registrar:    REG-GENREG
+created:      07.11.2006 14:45:00
+changed:      06.04.2008 09:54:01
+
+contact:      SB:DS
+org:          DOBR&Atilde;Å SPOLE&Auml;åNOST, s.r.o.
+name:         Jan Vondr&Atilde;&iexcl;k
+address:      Vlkova 587/22
+address:      Praha 3
+address:      13000
+address:      CZ
+e-mail:       domeny@dobraspolecnost.cz
+registrar:    REG-GENREG
+created:      10.02.2005 13:55:00
+changed:      01.10.2007 19:30:00
+
+

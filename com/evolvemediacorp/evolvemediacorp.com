@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENTURECAPITALPROPERTIES.COM
+   Domain Name: EVOLVEMEDIACORP.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
+   Name Server: NS3.GORILLANATION.COM
+   Name Server: NS4.GORILLANATION.COM
+   Name Server: NS5.GORILLANATION.COM
+   Name Server: NS6.GORILLANATION.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2008
-   Creation Date: 08-feb-2005
-   Expiration Date: 08-feb-2012
+   Updated Date: 06-jun-2011
+   Creation Date: 04-sep-2009
+   Expiration Date: 04-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:24:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:23:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Venture Capital Properties LLC.
+   Gorilla Nation Media IT
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENTURECAPITALPROPERTIES.COM
+   Domain Name: EVOLVEMEDIACORP.COM
 
    Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+      NS3.GORILLANATION.COM
+      NS4.GORILLANATION.COM
+      NS5.GORILLANATION.COM
+      NS6.GORILLANATION.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENTURECAPITALPROPERTIES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EVOLVEMEDIACORP.COM

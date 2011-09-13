@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VENTURECAPITALPROPERTIES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-feb-2008
-   Creation Date: 08-feb-2005
-   Expiration Date: 08-feb-2012
+   Domain Name: WHOLESALEAUDIOACCESSORIES.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS3.LASERVERS.COM
+   Name Server: NS4.LASERVERS.COM
+   Status: ok
+   Updated Date: 08-jun-2009
+   Creation Date: 17-jun-2004
+   Expiration Date: 17-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:24:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:24:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... wholesaleaudioaccessories.com
+  Creation Date........ 2004-06-18
+  Registration Date.... 2004-06-18
+  Expiry Date.......... 2013-06-18
+  Organisation Name.... Roseland Productions
+  Organisation Address. 404 Raymond St
+  Organisation Address.
+  Organisation Address. Clermont
+  Organisation Address. 34711
+  Organisation Address. FL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Henry Kones
+  Admin Address........ 404 Raymond St
+  Admin Address........
+  Admin Address........ Clermont
+  Admin Address........ 34711
+  Admin Address........ FL
+  Admin Address........ UNITED STATES
+  Admin Email.......... mrhankinc@aol.com
+  Admin Phone.......... +1.3522421353
+  Admin Fax............
+
+Tech Name............ Henry Kones
+  Tech Address......... 404 Raymond St
+  Tech Address.........
+  Tech Address......... Clermont
+  Tech Address......... 34711
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... mrhankinc@aol.com
+  Tech Phone........... +1.3522421353
+  Tech Fax.............
+  Name Server.......... ns3.laservers.com
+  Name Server.......... ns4.laservers.com
 
 
-Registrant:
-   Venture Capital Properties LLC.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: VENTURECAPITALPROPERTIES.COM
-
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=VENTURECAPITALPROPERTIES.COM
