@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D52328-LROR
+Domain Name:UNAIDS.ORG
+Created On:03-Jul-1996 04:00:00 UTC
+Last Updated On:03-Jul-2011 01:08:51 UTC
+Expiration Date:02-Jul-2021 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22112805-NSI
+Registrant Name:UNAIDS
+Registrant Organization:UNAIDS
+Registrant Street1:20, Avenue Appia
+Registrant Street2:
+Registrant Street3:
+Registrant City:Geneva
+Registrant State/Province:CH
+Registrant Postal Code:1211
+Registrant Country:CH
+Registrant Phone:+1.41227914737
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kromodimedjoj@unaids.org
+Admin ID:41308228-NSI
+Admin Name:Senait Sebhatu
+Admin Organization:UNAIDS
+Admin Street1:20 Avenue Appia
+Admin Street2:
+Admin Street3:
+Admin City:Geneva 27
+Admin State/Province:Geneva
+Admin Postal Code:1211
+Admin Country:CH
+Admin Phone:+1.41227914800
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainadmin@unaids.org
+Tech ID:41308228-NSI
+Tech Name:Senait Sebhatu
+Tech Organization:UNAIDS
+Tech Street1:20 Avenue Appia
+Tech Street2:
+Tech Street3:
+Tech City:Geneva 27
+Tech State/Province:Geneva
+Tech Postal Code:1211
+Tech Country:CH
+Tech Phone:+1.41227914800
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainadmin@unaids.org
+Name Server:NS1.UNAIDS.ORG
+Name Server:EXT-DNS-2.CERN.CH
+Name Server:NS2.UNAIDS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

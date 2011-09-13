@@ -5,24 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEGA64.COM
+   Domain Name: NEATCO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.PENNY-ARCADE.COM
-   Name Server: NS2.PENNY-ARCADE.COM
-   Name Server: NS3.PENNY-ARCADE.COM
-   Name Server: NS4.PENNY-ARCADE.COM
-   Name Server: NS5.PENNY-ARCADE.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-sep-2010
-   Creation Date: 16-apr-2003
-   Expiration Date: 16-apr-2016
+   Updated Date: 31-oct-2009
+   Creation Date: 10-jan-2001
+   Expiration Date: 10-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:08:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:07:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,18 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Something Awful Inc.
+   The Neat Company
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MEGA64.COM
+   Domain Name: NEATCO.COM
 
    Domain servers in listed order:
-      NS4.PENNY-ARCADE.COM
-      NS3.PENNY-ARCADE.COM
-      NS1.PENNY-ARCADE.COM
-      NS2.PENNY-ARCADE.COM
-      NS5.PENNY-ARCADE.COM
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MEGA64.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEATCO.COM
