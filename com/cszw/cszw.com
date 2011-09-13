@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOGBUS.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
-   Status: ok
-   Updated Date: 14-apr-2011
-   Creation Date: 06-dec-2002
-   Expiration Date: 06-dec-2012
+   Domain Name: CSZW.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.DOPA.COM
+   Name Server: NS2.DOPA.COM
+   Name Server: NS3.DOPA.COM
+   Name Server: NS4.DOPA.COM
+   Name Server: NS5.DOPA.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 06-apr-2011
+   Creation Date: 05-mar-2006
+   Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:51:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +56,33 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... blogbus.com
-  Creation Date........ 2002-12-06 01:55:05
-  Registration Date.... 2002-12-06 01:55:05
-  Expiry Date.......... 2012-12-06 01:55:05
-  Organisation Name.... shanghai boshi culture &amp; communication co.,ltd.
-  Organisation Address. Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 200050
-  Organisation Address. SH
-  Organisation Address. CN
+Domain cszw.com:
+  DXCD Consulting
+  10 Anson Road, #15-14 International Plaza
+  Singapore,  079903 SG
 
-Admin Name........... dou yi
-  Admin Address........ Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 200050
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... agent4890@agent.dns.com.cn
-  Admin Phone.......... +86.2162188569
-  Admin Fax............ +86.2162188488
+Administrative contact:
+Technical contact:
+Billing contact:
+  DXCD Consulting
+  Domain Administrator
+  inquiry@namegroup.com
+  10 Anson Road, #15-14 International Plaza
+  Singapore,  079903 SG
+  Phone: +65.98592855
+  Fax:
 
-Tech Name............ dou yi
-  Tech Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 200050
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... agent4890@agent.dns.com.cn
-  Tech Phone........... +86.2162188569
-  Tech Fax............. +86.2162188488
+Record dates:
+  Record created on: 2006-03-05 19:16:34 UTC
+  Record modified on: 2011-04-06 17:49:42 UTC
+  Record expires on: 2012-03-05 UTC
 
-Bill Name............ dou yi
-  Bill Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 200050
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... agent4890@agent.dns.com.cn
-  Bill Phone........... +86.2162188569
-  Bill Fax............. +86.2162188488
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+Nameservers:
+  ns2.dopa.com:
+  ns4.dopa.com:
+  ns5.dopa.com:
+  ns3.dopa.com:
+  ns1.dopa.com:
+
+Note: Automated collection of data from this database is strictly prohibited.
+

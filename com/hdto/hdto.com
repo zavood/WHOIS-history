@@ -5,12 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-THEPLANET.COM.CTRTEAM.COM
-THEPLANET.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: HDTO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: ok
+   Updated Date: 13-jun-2011
+   Creation Date: 16-jan-2001
+   Expiration Date: 16-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:49 UTC &lt;&lt;&lt;
 
@@ -47,3 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about hdto.com
+&lt;a href=&quot;http://www.aboutus.org/hdto.com&quot;&gt;AboutUs: hdto.com&lt;/a&gt;
+
+
+Domain name: hdto.com
+
+Registrant Contact:
+   Harley Davidson of Toronto
+   Shahram Seradj ()
+
+   Fax:
+   1325 Lawrence Avenue East
+   Toronto, ON M3A 1C6
+   CA
+
+Administrative Contact:
+   NA
+   Shahram Seradj (shahram@hdto.com)
+   +1.4164454647
+   Fax:
+   1325 Lawrence Avenue East
+   Toronto, ON M3A 1C6
+   CA
+
+Technical Contact:
+   NA
+   Sarvy Emo (webmaster@registerit.ca)
+   +1.9052578698
+   Fax:
+   1534 Oxford Avenue
+   Oakville, ON L6H 1T9
+   CA
+
+Status: Active
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 16 Jan 2001 07:10:57
+Expiration date: 16 Jan 2016 07:10:57
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

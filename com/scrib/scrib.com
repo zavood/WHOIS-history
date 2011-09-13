@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOGBUS.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
-   Status: ok
-   Updated Date: 14-apr-2011
-   Creation Date: 06-dec-2002
-   Expiration Date: 06-dec-2012
+   Domain Name: SCRIB.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.YOHO.COM
+   Name Server: DNS2.YOHO.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-oct-2010
+   Creation Date: 17-nov-2001
+   Expiration Date: 17-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:50:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about scrib.com
+&lt;a href=&quot;http://www.aboutus.org/scrib.com&quot;&gt;AboutUs: scrib.com&lt;/a&gt;
 
-Domain Name.......... blogbus.com
-  Creation Date........ 2002-12-06 01:55:05
-  Registration Date.... 2002-12-06 01:55:05
-  Expiry Date.......... 2012-12-06 01:55:05
-  Organisation Name.... shanghai boshi culture &amp; communication co.,ltd.
-  Organisation Address. Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 200050
-  Organisation Address. SH
-  Organisation Address. CN
 
-Admin Name........... dou yi
-  Admin Address........ Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 200050
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... agent4890@agent.dns.com.cn
-  Admin Phone.......... +86.2162188569
-  Admin Fax............ +86.2162188488
+Domain name: scrib.com
 
-Tech Name............ dou yi
-  Tech Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 200050
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... agent4890@agent.dns.com.cn
-  Tech Phone........... +86.2162188569
-  Tech Fax............. +86.2162188488
+Administrative Contact:
+   Lee Yi
+   Yi Lee (kevin.kern@msa.hinet.net)
+   +886.2917557860
+   Fax: +886.289237418
+   4F, No. 12 Lane 16, Shuang Ho St.
+   Yung Ho,  234
+   TW
 
-Bill Name............ dou yi
-  Bill Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 200050
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... agent4890@agent.dns.com.cn
-  Bill Phone........... +86.2162188569
-  Bill Fax............. +86.2162188488
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+Technical Contact:
+   Lee Yi
+   Yi Lee (kevin.kern@msa.hinet.net)
+   +886.2917557860
+   Fax: +886.289237418
+   4F, No. 12 Lane 16, Shuang Ho St.
+   Yung Ho,  234
+   TW
+
+Registrant Contact:
+   Lee Yi
+   Yi Lee ()
+
+   Fax:
+   4F, No. 12 Lane 16, Shuang Ho St.
+   Yung Ho,  234
+   TW
+
+Status: Locked
+
+Name Servers:
+   dns1.yoho.com
+   dns2.yoho.com
+
+Creation date: 17 Nov 2001 21:33:20
+Expiration date: 17 Nov 2011 21:33:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

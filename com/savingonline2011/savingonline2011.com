@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHANGO.COM
-   Registrar: EASYDNS TECHNOLOGIES, INC.
-   Whois Server: whois.easydns.com
-   Referral URL: http://www.easydns.com
-   Name Server: EUR2.AKAM.NET
-   Name Server: NS1-105.AKAM.NET
-   Name Server: NS1-222.AKAM.NET
-   Name Server: USC5.AKAM.NET
-   Name Server: USE2.AKAM.NET
-   Name Server: USE5.AKAM.NET
+   Domain Name: SAVINGONLINE2011.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Name Server: NS3.MONIKERDNS.NET
+   Name Server: NS4.MONIKERDNS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-may-2011
-   Creation Date: 27-feb-2000
-   Expiration Date: 27-feb-2013
+   Updated Date: 07-apr-2011
+   Creation Date: 06-jan-2011
+   Expiration Date: 06-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:50:02 UTC &lt;&lt;&lt;
 
@@ -56,58 +55,84 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Chango, Inc.
- 488 Wellington St. West Suite 300
- Toronto, Ontario M5V 1E3
- ca
 
- Domain name: CHANGO.COM
+Moniker Whois Server Version 2.0
 
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
- Administrative Contact:
-    El-Daly, Ahmed  ahmed@chango.com
-    488 Wellington St. West Suite 300
-    Toronto, Ontario M5V 1E3
-    ca
-    +14164790778
- Technical Contact:
-    Hostmaster, easyDNS  hostmaster@easydns.com
-    304A-219 Dufferin Street
-    Toronto, Ontario M6K 3E3
-    CA
-    +1.4165358672
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
 
+Domain Name: SAVINGONLINE2011.COM
+Registrar: MONIKER
 
- Registrar of Record: easyDNS Technologies, Inc.
- Record last updated on 06-Sep-2011.
- Record expires on 27-Feb-2013.
- Record created on 27-Feb-2000.
-
- Domain servers in listed order:
-    NS1-105.AKAM.NET
-    USE2.AKAM.NET
-    USE5.AKAM.NET
-    NS1-222.AKAM.NET
-    USC5.AKAM.NET
-    EUR2.AKAM.NET
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-This domain is being managed via EASYDNS
-
-The DNS Hosting specialists since 1998
-
-DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
-
-Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
-
-System Status Updates: http://easyurl.net/easystatus
-
-( Follow us on Twitter http://twitter.com/easydns
-  or Identi.ca http://identi.ca/easyDNS )
+Registrant [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
+        US
 
 
-You have 1 lookups left today
+Administrative Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
+        US
+        Phone: +1.9548855033
+
+
+Billing Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
+        US
+        Phone: +1.9548855033
+
+
+Technical Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
+        US
+        Phone: +1.9548855033
+
+
+Domain servers in listed order:
+
+        NS1.MONIKERDNS.NET         208.73.210.41
+        NS2.MONIKERDNS.NET         208.73.211.42
+        NS3.MONIKERDNS.NET         208.73.210.43
+        NS4.MONIKERDNS.NET         208.73.211.44
+
+        Record created on:        2011-01-06 07:36:57.0
+        Database last updated on: 2011-04-07 17:29:28.937
+        Domain Expires on:        2012-01-06 07:36:58.0
+
+
+

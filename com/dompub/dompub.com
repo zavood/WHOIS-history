@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOGBUS.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
-   Status: ok
-   Updated Date: 14-apr-2011
-   Creation Date: 06-dec-2002
-   Expiration Date: 06-dec-2012
+   Domain Name: DOMPUB.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.DOMPUB.COM
+   Name Server: NS2.DOMPUB.COM
+   Name Server: NS3.DOMPUB.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 16-aug-2011
+   Creation Date: 15-sep-1998
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... blogbus.com
-  Creation Date........ 2002-12-06 01:55:05
-  Registration Date.... 2002-12-06 01:55:05
-  Expiry Date.......... 2012-12-06 01:55:05
-  Organisation Name.... shanghai boshi culture &amp; communication co.,ltd.
-  Organisation Address. Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 200050
-  Organisation Address. SH
-  Organisation Address. CN
-
-Admin Name........... dou yi
-  Admin Address........ Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 200050
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... agent4890@agent.dns.com.cn
-  Admin Phone.......... +86.2162188569
-  Admin Fax............ +86.2162188488
-
-Tech Name............ dou yi
-  Tech Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 200050
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... agent4890@agent.dns.com.cn
-  Tech Phone........... +86.2162188569
-  Tech Fax............. +86.2162188488
-
-Bill Name............ dou yi
-  Bill Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 200050
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... agent4890@agent.dns.com.cn
-  Bill Phone........... +86.2162188569
-  Bill Fax............. +86.2162188488
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

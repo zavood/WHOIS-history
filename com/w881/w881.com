@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOGBUS.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNS.COM.CN
-   Name Server: NS2.DNS.COM.CN
-   Status: ok
-   Updated Date: 14-apr-2011
-   Creation Date: 06-dec-2002
-   Expiration Date: 06-dec-2012
+   Domain Name: W881.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.YMC.NE.JP
+   Name Server: DNS2.YMC.NE.JP
+   Status: clientTransferProhibited
+   Updated Date: 20-aug-2011
+   Creation Date: 25-aug-2006
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:49:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:50:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+w881.com
 
-Domain Name.......... blogbus.com
-  Creation Date........ 2002-12-06 01:55:05
-  Registration Date.... 2002-12-06 01:55:05
-  Expiry Date.......... 2012-12-06 01:55:05
-  Organisation Name.... shanghai boshi culture &amp; communication co.,ltd.
-  Organisation Address. Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 200050
-  Organisation Address. SH
-  Organisation Address. CN
+Registrant:
+         STYLE COMPANY HIROSHIMA INC.  (style@hawaiistyle.co.jp)
+        1-2-22,Kamiya-cho HIRODEN Bldg 5F
+        Naka-ku,Hiroshima-shi, HIROSHIMA  730-0031
+        JP
+        082-504-3200
 
-Admin Name........... dou yi
-  Admin Address........ Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 200050
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... agent4890@agent.dns.com.cn
-  Admin Phone.......... +86.2162188569
-  Admin Fax............ +86.2162188488
 
-Tech Name............ dou yi
-  Tech Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 200050
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... agent4890@agent.dns.com.cn
-  Tech Phone........... +86.2162188569
-  Tech Fax............. +86.2162188488
+Domain Name: w881.com
 
-Bill Name............ dou yi
-  Bill Address......... Room 1003,ZhaoFeng Plaza,No.1027,ChangNing Road
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 200050
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... agent4890@agent.dns.com.cn
-  Bill Phone........... +86.2162188569
-  Bill Fax............. +86.2162188488
-  Name Server.......... ns2.dns.com.cn
-  Name Server.......... ns1.dns.com.cn
+
+
+Administrative, Billing Contact:
+         STYLE COMPANY HIROSHIMA INC.  (style@hawaiistyle.co.jp)
+        1-2-22,Kamiya-cho HIRODEN Bldg 5F
+        Naka-ku,Hiroshima-shi, HIROSHIMA  730-0031
+        JP
+        082-504-3200
+
+
+Technical Contact:
+         Kazuhiko IWAMA  (nic@ymc.ne.jp)
+        AT-YMC Corporation
+        3-1-28 Hosoe-cho
+        Shimonoseki-shi, YAMAGUCHI  750-0016
+        JP
+
+
+
+
+
+   Record created on Aug 25 2006.
+   Record expires on Aug 25 2012.
+Domain servers:
+        dns1.ymc.ne.jp
+        dns2.ymc.ne.jp
+
+
+
+Domain Service Provider:
+   AT-YMC Corporation
+
+
