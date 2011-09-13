@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LYNNWOODLIGHTNING.COM
+   Domain Name: FAMILYKOSKER.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Name Server: NS65.1UND1.DE
+   Name Server: NS66.1UND1.DE
    Status: ok
-   Updated Date: 19-oct-2010
-   Creation Date: 19-oct-2010
-   Expiration Date: 19-oct-2011
+   Updated Date: 28-jul-2011
+   Creation Date: 27-jul-2009
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:39:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:38:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,61 +69,55 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          lynnwoodlightning.com
-created:                         19-Oct-2010
-last-changed:                    23-Oct-2010
-registration-expiration:         19-Oct-2011
+domain:                          familykosker.com
+created:                         27-Jul-2009
+last-changed:                    27-Jul-2011
+registration-expiration:         27-Jul-2012
 
-nserver:                         ns51.1and1.com 74.208.2.8
-nserver:                         ns52.1and1.com 74.208.3.7
+nserver:                         ns65.1und1.de
+nserver:                         ns66.1und1.de
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-firstname:            Mike
-registrant-lastname:             Strock
-registrant-street1:              6507 191st St SW
-registrant-pcode:                98036
-registrant-state:                WA
-registrant-city:                 Lynnwood
-registrant-ccode:                US
-registrant-phone:                +1.4257767039
-registrant-email:                mike@myhomeoffice.org
+registrant-firstname:            Ibrahim Can
+registrant-lastname:             Koeskeroglu
+registrant-street1:              Bahnweg 6
+registrant-pcode:                76297
+registrant-city:                 Stutensee
+registrant-ccode:                DE
+registrant-phone:                +49.17696997705
+registrant-email:                belgther@gmail.com
 
-admin-c-firstname:               Mike
-admin-c-lastname:                Strock
-admin-c-street1:                 6507 191st St SW
-admin-c-pcode:                   98036
-admin-c-state:                   WA
-admin-c-city:                    Lynnwood
-admin-c-ccode:                   US
-admin-c-phone:                   +1.4257767039
-admin-c-email:                   mike@myhomeoffice.org
+admin-c-firstname:               Ibrahim Can
+admin-c-lastname:                Koeskeroglu
+admin-c-street1:                 Bahnweg 6
+admin-c-pcode:                   76297
+admin-c-city:                    Stutensee
+admin-c-ccode:                   DE
+admin-c-phone:                   +49.17696997705
+admin-c-email:                   belgther@gmail.com
 
 tech-c-firstname:                Hostmaster
-tech-c-lastname:                 ONEANDONE
-tech-c-organization:             1&amp;1 Internet Inc.
-tech-c-street1:                  701 Lee Rd.
-tech-c-street2:                  Suite 300
-tech-c-pcode:                    19087
-tech-c-state:                    PA
-tech-c-city:                     Chesterbrook
-tech-c-ccode:                    US
-tech-c-phone:                    +1.8774612631
-tech-c-fax:                      +1.6105601501
-tech-c-email:                    hostmaster@1and1.com
+tech-c-lastname:                 EINSUNDEINS
+tech-c-organization:             1&amp;1 Internet AG
+tech-c-street1:                  Brauerstr. 48
+tech-c-pcode:                    76135
+tech-c-city:                     Karlsruhe
+tech-c-ccode:                    DE
+tech-c-phone:                    +49.721913747660
+tech-c-fax:                      +49.72191374246
+tech-c-email:                    hostmaster@1und1.de
 
 bill-c-firstname:                Hostmaster
-bill-c-lastname:                 ONEANDONE
-bill-c-organization:             1&amp;1 Internet Inc.
-bill-c-street1:                  701 Lee Rd.
-bill-c-street2:                  Suite 300
-bill-c-pcode:                    19087
-bill-c-state:                    PA
-bill-c-city:                     Chesterbrook
-bill-c-ccode:                    US
-bill-c-phone:                    +1.8774612631
-bill-c-fax:                      +1.6105601501
-bill-c-email:                    hostmaster@1and1.com
+bill-c-lastname:                 EINSUNDEINS
+bill-c-organization:             1&amp;1 Internet AG
+bill-c-street1:                  Brauerstr. 48
+bill-c-pcode:                    76135
+bill-c-city:                     Karlsruhe
+bill-c-ccode:                    DE
+bill-c-phone:                    +49.721913747660
+bill-c-fax:                      +49.72191374246
+bill-c-email:                    hostmaster@1und1.de
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 
