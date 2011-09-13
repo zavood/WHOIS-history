@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:20:52 (BRT -03:00)
+
+domain:      potenciarb.com.br
+owner:       Potencia Construcoes Eletricas Ltda
+ownerid:     001.091.559/0001-37
+responsible: Potencia Construcoes Eletricas Ltda
+country:     BR
+owner-c:     PCELT21
+admin-c:     PCELT21
+tech-c:      PCELT21
+billing-c:   PCELT21
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20090516 #5567561
+expires:     20120516
+changed:     20110602
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  PCELT21
+person:      Potencia Construcoes Eletricas Ltda
+e-mail:      potenciarb@uol.com.br
+created:     20090516
+changed:     20090516
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
