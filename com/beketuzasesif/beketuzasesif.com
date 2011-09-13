@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ITWRESINTECH.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.ITWHOSTING.COM
-   Name Server: NS2.ITWHOSTING.NET
-   Name Server: NS3.ITWHOSTING.COM
-   Status: ok
-   Updated Date: 18-aug-2011
-   Creation Date: 18-jun-2001
-   Expiration Date: 18-jun-2015
+   Domain Name: BEKETUZASESIF.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.BEKETUZASESIF.COM
+   Name Server: NS2.BEKETUZASESIF.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-jun-2011
+   Creation Date: 21-jun-2011
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:02:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:01:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Brian Lindell snipe@mailae.com +1.6132383842
+	 Brian Lindell
+	 180 Cooper Street
+	 Ottawa,ON,CA K2P 2L5
+
+
+Domain Name:beketuzasesif.com
+Record last updated at
+Record created on 2011/6/21
+Record expired on 2012/6/21
+
+
+Domain servers in listed order:
+	 ns1.beketuzasesif.com 	 ns2.beketuzasesif.com
+
+Administrator:
+	 name:(Brian Lindell)
+	Email:(snipe@mailae.com) tel-- +1.6132383842
+	 Brian Lindell
+	 180 Cooper Street
+\r
+t Ottawa
+ON,
+CA
+
+ zipcode:K2P 2L5
+
+Technical Contactor:
+	 name:(Brian Lindell)
+	Email:(snipe@mailae.com) tel-- +1.6132383842
+	 Brian Lindell
+	 180 Cooper Street
+\r
+t Ottawa
+ON,
+CA
+
+ zipcode:K2P 2L5
+
+Billing Contactor:
+	 name:(Brian Lindell)
+	Email:(snipe@mailae.com) tel-- +1.6132383842
+	 Brian Lindell
+	 180 Cooper Street
+\r
+t Ottawa
+ON,
+CA
+
+ zipcode:K2P 2L5
+

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ITWRESINTECH.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
+   Domain Name: ITW.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
    Name Server: NS1.ITWHOSTING.COM
-   Name Server: NS2.ITWHOSTING.NET
+   Name Server: NS2.ITWHOSTING.COM
    Name Server: NS3.ITWHOSTING.COM
    Status: ok
-   Updated Date: 18-aug-2011
-   Creation Date: 18-jun-2001
-   Expiration Date: 18-jun-2015
+   Updated Date: 01-mar-2011
+   Creation Date: 06-apr-1995
+   Expiration Date: 12-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:02:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:01:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... itw.com
+  Creation Date........ 1995-04-06
+  Registration Date.... 2010-01-13
+  Expiry Date.......... 2012-01-13
+  Organisation Name.... Illinois Tool Works, Inc.
+  Organisation Address. 3600 West Lake Ave.
+  Organisation Address.
+  Organisation Address. Glenview
+  Organisation Address. 60025
+  Organisation Address. IL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Service Desk
+  Admin Address........ 3600 West Lake Ave
+  Admin Address........
+  Admin Address........ Glenview
+  Admin Address........ 60026
+  Admin Address........ IL
+  Admin Address........ UNITED STATES
+  Admin Email.......... servicedesk@itw.com
+  Admin Phone.......... +1.8476574349
+  Admin Fax............ +1.8476575336
+
+Tech Name............ Service Desk
+  Tech Address......... 3600 West Lake Ave
+  Tech Address.........
+  Tech Address......... Glenview
+  Tech Address......... 60026
+  Tech Address......... IL
+  Tech Address......... UNITED STATES
+  Tech Email........... servicedesk@itw.com
+  Tech Phone........... +1.8476574349
+  Tech Fax............. +1.8476575336
+  Name Server.......... NS1.ITWHOSTING.COM
+  Name Server.......... NS3.ITWHOSTING.COM
+  Name Server.......... NS2.ITWHOSTING.COM
+
+
