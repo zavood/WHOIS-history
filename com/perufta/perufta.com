@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEMEMBERSONLY.COM
+   Domain Name: PERUFTA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.PETERSKOT.COM
-   Name Server: NS2.PETERSKOT.COM
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS55.DOMAINCONTROL.COM
+   Name Server: NS56.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-mar-2011
-   Creation Date: 30-apr-2009
-   Expiration Date: 30-apr-2012
+   Updated Date: 27-aug-2011
+   Creation Date: 21-aug-2011
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:15:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:13:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Peter Skotnicky
+   Sanshao Tang
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEMEMBERSONLY.COM
+   Domain Name: PERUFTA.COM
 
    Domain servers in listed order:
-      NS1.PETERSKOT.COM
-      NS2.PETERSKOT.COM
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
+      NS55.DOMAINCONTROL.COM
+      NS56.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEMEMBERSONLY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PERUFTA.COM

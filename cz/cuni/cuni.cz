@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 13 09:13:41 2011
+
+domain:       cuni.cz
+registrant:   SB:CUNI
+admin-c:      VH14
+nsset:        NSS:CUNI:2
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   10.03.1996 01:00:00
+changed:      27.12.2006 12:45:00
+expire:       10.10.2011
+
+contact:      SB:CUNI
+org:          Univerzita Karlova v Praze
+name:         Vladim&Atilde;&shy;r Hor&Atilde;&iexcl;k
+address:      Ovocn&Atilde;&frac12; trh 5
+address:      Praha 1
+address:      116 36
+address:      CZ
+phone:        +420.224491235
+fax-no:       +420.224491588
+e-mail:       hostmaster@cuni.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      11.07.2009 16:39:01
+
+contact:      VH14
+name:         Vladimir Horak
+address:      CZ
+phone:        +420 224491235
+fax-no:       +420 224213392
+e-mail:       vhor@cuni.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      21.12.2003 20:20:00
+
+nsset:        NSS:CUNI:2
+nserver:      ns.ces.net
+nserver:      golias.ruk.cuni.cz (195.113.0.2)
+tech-c:       SB:CUNI
+tech-c:       VH14
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+
