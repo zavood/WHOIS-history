@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; duffauparo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      duffauparo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      CS4719-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL9660-FRNIC
+registrar:   InterNetX GmbH
+anniversary: 30/09
+created:     30/09/2009
+last-update: 30/09/2009
+source:      FRNIC
+
+ns-list:     NSL9660-FRNIC
+nserver:     ns1.jimdo.com
+nserver:     ns2.jimdo.com
+source:      FRNIC
+
+registrar:   InterNetX GmbH
+type:        Isp Option 1
+address:     Maximilianstrasse 6
+address:     93047 REGENSBURG
+country:     DE
+phone:       +49 941 595 59 0
+fax-no:      +49 941 595 59 54
+e-mail:      nic-fr@domains.internetx.de
+website:     http://www.internetx.de
+anonymous:   NO
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     30/09/2009 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CS4719-FRNIC
+type:        ROLE
+contact:     Christian Springub
+address:     Jimdo GmbH
+address:     Gasstrasse 10
+address:     22761 Hamburg
+address:     DE
+e-mail:      support@jimdo.com
+admin-c:     CS4718-FRNIC
+tech-c:      CS4718-FRNIC
+changed:     11/11/2008 nic-fr@domains.internetx.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
