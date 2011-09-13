@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIX.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.MICHIX.NET
-   Name Server: NS2.MICHIX.NET
+   Domain Name: SF8123.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: NS1.4CUN.COM
+   Name Server: NS2.4CUN.COM
    Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 12-feb-1999
-   Expiration Date: 12-feb-2012
+   Updated Date: 28-mar-2011
+   Creation Date: 14-apr-2010
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:44:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us. We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Registrant:
-   CMS Internet LLC
-   131 S. Main St.
-   Mount Pleasant, MI  48858
-   US
+Domain Name: sf8123.com
 
-   Registrar: DOTSTER
-   Domain Name: MICHIX.NET
-      Created on: 12-FEB-99
-      Expires on: 12-FEB-12
-      Last Updated on: 28-FEB-10
+Registrant Contact:
+   lihao
+   hao li 583357789@qq.com
+   +86.02827243475  fax: +86.02827243475
+   hejingxinchengAqu
+   jianyang sichuan 641400
+   CN
 
-   Administrative, Technical Contact:
-      Admin, Domain  domains@cmsinter.net
-      CMS Internet LLC
-      131 S. Main St.
-      Mount Pleasant, MI  48858
-      US
-      989-779-1900
-      989-779-2300
+Administrative Contact:
+   lihao
+   hao li 583357789@qq.com
+   +86.02827243475  fax: +86.02827243475
+   hejingxinchengAqu
+   jianyang sichuan 641400
+   CN
 
+Technical Contact:
+   lihao
+   hao li 583357789@qq.com
+   +86.02827243475  fax: +86.02827243475
+   hejingxinchengAqu
+   jianyang sichuan 641400
+   CN
 
-   Domain servers in listed order:
-      NS1.MICHIX.NET
-      NS2.MICHIX.NET
-
-End of Whois Information
+Billing Contact:
+   lihao
+   hao li 583357789@qq.com
+   +86.02827243475  fax: +86.02827243475
+   hejingxinchengAqu
+   jianyang sichuan 641400
+   CN

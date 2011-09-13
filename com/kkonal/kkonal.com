@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIX.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.MICHIX.NET
-   Name Server: NS2.MICHIX.NET
-   Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 12-feb-1999
-   Expiration Date: 12-feb-2012
+   Domain Name: KKONAL.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS41.DNSEVER.COM
+   Name Server: NS85.DNSEVER.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 11-apr-2011
+   Creation Date: 15-apr-2006
+   Expiration Date: 15-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:44:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-Registrant:
-   CMS Internet LLC
-   131 S. Main St.
-   Mount Pleasant, MI  48858
-   US
+Registrant : Lee Mee Na
+	Sadang 1(il)-dong, Dongjak-gu, Seoul
+	(156091)
 
-   Registrar: DOTSTER
-   Domain Name: MICHIX.NET
-      Created on: 12-FEB-99
-      Expires on: 12-FEB-12
-      Last Updated on: 28-FEB-10
+	Domain Name:  KKONAL.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-   Administrative, Technical Contact:
-      Admin, Domain  domains@cmsinter.net
-      CMS Internet LLC
-      131 S. Main St.
-      Mount Pleasant, MI  48858
-      US
-      989-779-1900
-      989-779-2300
+	Administrative, Technical, Billing Contact:
+		Lee Mee Na	kkonal@gmail.com
+		202, 316-124  Sadang1(il)-dong, Dongjak-gu, Seoul
+		(Tel) 02-587-9471	(fax)
 
+	Record created on 	april     15, 2006
+	Record expires on 	2014-04-15
+	Record last updated on 	2011-04-11
 
-   Domain servers in listed order:
-      NS1.MICHIX.NET
-      NS2.MICHIX.NET
+	Domain servers in listed order:
 
-End of Whois Information
+	ns19.dnsever.com
+	ns41.dnsever.com
+	ns85.dnsever.com
+	ns231.dnsever.com
+	ns259.dnsever.com
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

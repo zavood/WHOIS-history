@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIX.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.MICHIX.NET
-   Name Server: NS2.MICHIX.NET
+   Domain Name: HAIKUA.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DOPA.COM
+   Name Server: NS3.DOPA.COM
    Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 12-feb-1999
-   Expiration Date: 12-feb-2012
+   Updated Date: 08-sep-2011
+   Creation Date: 17-may-2011
+   Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
 
 Registrant:
-   CMS Internet LLC
-   131 S. Main St.
-   Mount Pleasant, MI  48858
-   US
-
-   Registrar: DOTSTER
-   Domain Name: MICHIX.NET
-      Created on: 12-FEB-99
-      Expires on: 12-FEB-12
-      Last Updated on: 28-FEB-10
-
-   Administrative, Technical Contact:
-      Admin, Domain  domains@cmsinter.net
-      CMS Internet LLC
-      131 S. Main St.
-      Mount Pleasant, MI  48858
-      US
-      989-779-1900
-      989-779-2300
+	 Wei Bo haotaocom@gmail.com +86.1083040777
+	 HaoTao.net
+	 To buy this domain,Please email me!!
+	 QQ:1-4-9-9-0-5,Beijing,CN 150000
 
 
-   Domain servers in listed order:
-      NS1.MICHIX.NET
-      NS2.MICHIX.NET
+Domain Name:haikua.com
+Record last updated at 2011-05-17 13:39:43
+Record created on 2011/5/17
+Record expired on 2012/5/17
 
-End of Whois Information
+
+Domain servers in listed order:
+	 ns1.dopa.com 	 ns3.dopa.com
+
+Administrator:
+	 name: Wei Bo
+ mail: haotaocom@gmail.com tel: +86.1083040777
+	 org: HaoTao.net
+
+address: To buy this domain,Please email me!!
+	 city: QQ:1-4-9-9-0-5
+,province: Beijing
+,country: CN
+ postcode: 150000
+
+Technical Contactor:
+	 name: Wei Bo
+ mail: haotaocom@gmail.com tel: +86.1083040777
+	 org: HaoTao.net
+
+address: To buy this domain,Please email me!!
+	 city: QQ:1-4-9-9-0-5
+,province: Beijing
+,country: CN
+ postcode: 150000
+
+Billing Contactor:
+	 name: Wei Bo
+ mail: haotaocom@gmail.com tel: +86.1083040777
+	 org: HaoTao.net
+
+address: To buy this domain,Please email me!!
+	 city: QQ:1-4-9-9-0-5
+,province: Beijing
+,country: CN
+ postcode: 150000
+

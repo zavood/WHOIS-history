@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIX.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.MICHIX.NET
-   Name Server: NS2.MICHIX.NET
-   Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 12-feb-1999
-   Expiration Date: 12-feb-2012
+   Domain Name: SOTOWN.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.YMC.NE.JP
+   Name Server: DNS2.YMC.NE.JP
+   Status: clientTransferProhibited
+   Updated Date: 26-may-2011
+   Creation Date: 30-may-2001
+   Expiration Date: 30-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+sotown.com
 
 Registrant:
-   CMS Internet LLC
-   131 S. Main St.
-   Mount Pleasant, MI  48858
-   US
-
-   Registrar: DOTSTER
-   Domain Name: MICHIX.NET
-      Created on: 12-FEB-99
-      Expires on: 12-FEB-12
-      Last Updated on: 28-FEB-10
-
-   Administrative, Technical Contact:
-      Admin, Domain  domains@cmsinter.net
-      CMS Internet LLC
-      131 S. Main St.
-      Mount Pleasant, MI  48858
-      US
-      989-779-1900
-      989-779-2300
+         Junichi Shirai  (shirai@sotown.com)
+        SHIRAI OFFICE
+        2-37-1,Umezono-cho
+        Shuunan-shi, YAMAGUCHI  745-0076
+        JP
+        0834214752
 
 
-   Domain servers in listed order:
-      NS1.MICHIX.NET
-      NS2.MICHIX.NET
+Domain Name: sotown.com
 
-End of Whois Information
+
+
+Administrative, Billing Contact:
+         Junichi Shirai  (shirai@sotown.com)
+        SHIRAI OFFICE
+        2-37-1,Umezono-cho
+        Shuunan-shi, YAMAGUCHI  745-0076
+        JP
+        0834214752
+
+
+Technical Contact:
+         Kazuhiko IWAMA  (nic@ymc.ne.jp)
+        AT-YMC Corporation
+        3-1-28 Hosoe-cho
+        Shimonoseki-shi, YAMAGUCHI  750-0016
+        JP
+        0832-28-1193
+
+
+
+
+   Record created on May 30 2001.
+   Record expires on May 30 2012.
+Domain servers:
+        dns1.ymc.ne.jp
+        dns2.ymc.ne.jp
+
+
+
+Domain Service Provider:
+   AT-YMC Corporation
+
+

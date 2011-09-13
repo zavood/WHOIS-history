@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MICHIX.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.MICHIX.NET
-   Name Server: NS2.MICHIX.NET
+   Domain Name: PMCLAN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
    Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 12-feb-1999
-   Expiration Date: 12-feb-2012
+   Updated Date: 24-jan-2011
+   Creation Date: 24-jan-2011
+   Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:45:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:44:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about pmclan.com
+&lt;a href=&quot;http://www.aboutus.org/pmclan.com&quot;&gt;AboutUs: pmclan.com&lt;/a&gt;
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
 
-Registrant:
-   CMS Internet LLC
-   131 S. Main St.
-   Mount Pleasant, MI  48858
+Domain name: pmclan.com
+
+Registrant Contact:
+   Domain Privacy
+   Domain Privacy ()
+
+   Fax:
+   A2 Segensworth Business Centre
+   Segensworth Road
+   Fareham, Hampshire PO15 5RQ
+   GB
+
+Administrative Contact:
+   Glass Studios
+   Anthony Glass (glass_aa@comcast.net)
+   +1.3057532022
+   Fax: +1.3057532022
+   8466 Sw 114 Pl
+   Miami, Fl 33173
    US
 
-   Registrar: DOTSTER
-   Domain Name: MICHIX.NET
-      Created on: 12-FEB-99
-      Expires on: 12-FEB-12
-      Last Updated on: 28-FEB-10
+Technical Contact:
+   Just Host
+   Domain Manager (domainmanager@justhostinc.com)
+   +1.8887557585
+   Fax:
+   919 East Jefferson Blvd.
+   Phoenix, AZ 85034
+   US
 
-   Administrative, Technical Contact:
-      Admin, Domain  domains@cmsinter.net
-      CMS Internet LLC
-      131 S. Main St.
-      Mount Pleasant, MI  48858
-      US
-      989-779-1900
-      989-779-2300
+Status: Active
+
+Name Servers:
+   ns1.pipedns.com
+   ns2.pipedns.com
+
+Creation date: 25 Jan 2011 00:21:00
+Expiration date: 24 Jan 2012 19:21:00
 
 
-   Domain servers in listed order:
-      NS1.MICHIX.NET
-      NS2.MICHIX.NET
 
-End of Whois Information
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
