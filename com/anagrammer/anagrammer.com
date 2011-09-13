@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KENWILES.NET
+   Domain Name: ANAGRAMMER.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.KENWILES.NET
-   Name Server: NS2.KENWILES.NET
+   Name Server: IVY.NS.CLOUDFLARE.COM
+   Name Server: RAY.NS.CLOUDFLARE.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2004
-   Expiration Date: 14-nov-2011
+   Updated Date: 19-jun-2011
+   Creation Date: 09-mar-2003
+   Expiration Date: 09-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:41:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:40:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,47 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about kenwiles.net
-&lt;a href=&quot;http://www.aboutus.org/kenwiles.net&quot;&gt;AboutUs: kenwiles.net&lt;/a&gt;
+Visit AboutUs.org for more information about anagrammer.com
+&lt;a href=&quot;http://www.aboutus.org/anagrammer.com&quot;&gt;AboutUs: anagrammer.com&lt;/a&gt;
 
 
-Domain name: kenwiles.net
+Domain name: anagrammer.com
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O anagrammer.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles (domainspammers@yahoo.com)
-   +1.7404272456
-   Fax: 11
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (cgtstjdk@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O anagrammer.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles (domainspammers@yahoo.com)
-   +1.7404272456
-   Fax: 11
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
-   US
-
-Registrant Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles ()
-
-   Fax:
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (cgtstjdk@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O anagrammer.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   NS1.KENWILES.NET
-   NS2.KENWILES.NET
+   ivy.ns.cloudflare.com
+   ray.ns.cloudflare.com
 
-Creation date: 14 Nov 2004 21:04:18
-Expiration date: 14 Nov 2011 21:04:00
+Creation date: 09 Mar 2003 21:16:02
+Expiration date: 09 Mar 2014 21:16:00
 
 
 

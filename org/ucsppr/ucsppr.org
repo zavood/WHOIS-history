@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148183988-LROR
+Domain Name:UCSPPR.ORG
+Created On:20-Jun-2007 20:00:08 UTC
+Last Updated On:21-Jun-2011 01:23:01 UTC
+Expiration Date:20-Jun-2012 20:00:08 UTC
+Sponsoring Registrar:New Dream Network, LLC dba DreamHost Web Hosting (R173-LROR)
+Status:OK
+Registrant ID:ndn-596254
+Registrant Name:Internet Domain Manager
+Registrant Organization:Diocese of Colorado Springs
+Registrant Street1:228 N. Cascade Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colorado Springs
+Registrant State/Province:CO
+Registrant Postal Code:80903
+Registrant Country:US
+Registrant Phone:+1.7196362345
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainmanager@diocs.org
+Admin ID:ndn-596254
+Admin Name:Internet Domain Manager
+Admin Organization:Diocese of Colorado Springs
+Admin Street1:228 N. Cascade Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Colorado Springs
+Admin State/Province:CO
+Admin Postal Code:80903
+Admin Country:US
+Admin Phone:+1.7196362345
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainmanager@diocs.org
+Tech ID:ndn-596254
+Tech Name:Internet Domain Manager
+Tech Organization:Diocese of Colorado Springs
+Tech Street1:228 N. Cascade Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:CO
+Tech Postal Code:80903
+Tech Country:US
+Tech Phone:+1.7196362345
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainmanager@diocs.org
+Name Server:NS1.DREAMHOST.COM
+Name Server:NS2.DREAMHOST.COM
+Name Server:NS3.DREAMHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
