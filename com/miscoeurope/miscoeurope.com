@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETIM.NET
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: B.NS.NETIM.NET
-   Name Server: NS9.NETIM.NET
+   Domain Name: MISCOEUROPE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.MISCOEUROPE.COM
+   Name Server: NS.SYSTEMAXDEV.COM
    Status: ok
-   Updated Date: 26-may-2011
-   Creation Date: 17-mar-2005
-   Expiration Date: 17-mar-2012
+   Updated Date: 25-aug-2011
+   Creation Date: 08-jun-2005
+   Expiration Date: 08-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:05:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:04:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       netim.net
-owner:        - -
-organization: NetIM
-email:        admin@netim.eu
-address:      108 bis avenue du peuple belge
-city:         Lille
-state:        Lille
-postal-code:  59000
-country:      FR
-phone:        +49.1234578
-admin-c:      CNET-169164 robot-joker@securenetim.net
-tech-c:       CNET-169164 robot-joker@securenetim.net
-billing-c:    CNET-169164 robot-joker@securenetim.net
-reseller:     NETIM
-reseller:     Web: www.netim.com
-reseller:     Sales: sales@netim.com
-nserver:      b.ns.netim.net 212.51.188.167
-nserver:      ns9.netim.net 188.165.203.173
-status:       production,transfer-autoack
-created:      2005-03-17 19:17:27 UTC
-modified:     2011-06-02 15:16:31 UTC
-expires:      2012-03-17 18:17:27 UTC
-query-source: 174.142.225.246
-
-contact-hdl:  CNET-169164
-person:       Bruno VINCENT
-organization: NETIM
-email:        robot-joker@securenetim.net
-address:      165 avenue de bretagne
-address:      Euratechnologies
-city:         LILLE
-postal-code:  59000
-country:      FR
-phone:        +33.359350374
-
-source:       joker.com live whois service
-query-time:   0.013727
-db-updated:   2011-09-13 06:06:04
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
