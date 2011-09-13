@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 10-dec-2008
    Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 03:52:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:07:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain jetlev-flyer.com
-% Timestamp: 2011-09-11 05:53:14
+% Timestamp: 2011-09-13 07:08:05
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

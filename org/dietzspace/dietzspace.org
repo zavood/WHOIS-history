@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127242515-LROR
+Domain Name:DIETZSPACE.ORG
+Created On:15-Aug-2006 02:05:13 UTC
+Last Updated On:16-Aug-2011 09:35:00 UTC
+Expiration Date:15-Aug-2012 02:05:13 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR32310718
+Registrant Name:karin Luner
+Registrant Organization:Dietzspace
+Registrant Street1:105 Duane St # 14A
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10007
+Registrant Country:US
+Registrant Phone:+1.2125663426
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luner@vzavenue.net
+Admin ID:CR32310720
+Admin Name:karin Luner
+Admin Organization:Dietzspace
+Admin Street1:105 Duane St # 14A
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10007
+Admin Country:US
+Admin Phone:+1.2125663426
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:luner@vzavenue.net
+Tech ID:CR32310719
+Tech Name:karin Luner
+Tech Organization:Dietzspace
+Tech Street1:105 Duane St # 14A
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10007
+Tech Country:US
+Tech Phone:+1.2125663426
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:luner@vzavenue.net
+Name Server:PARK1.SITETOAD.COM
+Name Server:PARK2.SITETOAD.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
