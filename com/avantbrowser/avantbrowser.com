@@ -5,63 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-Aborting search 50 records found .....
-HOSTGATOR.COM.MOZAIKEVENTS.COM
-HOSTGATOR.COM.MAJARADOVANLIJA.COM
-HOSTGATOR.COM.LORETTADJOHNSON.COM
-HOSTGATOR.COM.KINGTUTSHUT.COM
-HOSTGATOR.COM.KEITHHOPPE.COM
-HOSTGATOR.COM.JOEMCGREW.COM
-HOSTGATOR.COM.JASONLOYA.COM
-HOSTGATOR.COM.INNA2ND.COM
-HOSTGATOR.COM.IAMTIMCLARK.COM
-HOSTGATOR.COM.GO-DIVING-THAILAND.COM
-HOSTGATOR.COM.GAMENINJAX.COM
-HOSTGATOR.COM.GAMECOMPUTERGAME.COM
-HOSTGATOR.COM.FFVINEYARDS.COM
-HOSTGATOR.COM.FAHRMEIERFAMILYVINEYARDS.COM
-HOSTGATOR.COM.ENCIENTEGYPTIAN.COM
-HOSTGATOR.COM.EMERALDISLECLASSICS.COM
-HOSTGATOR.COM.ECOMPAREHOLIDAYS.COM
-HOSTGATOR.COM.EBIZCASHBLOG.COM
-HOSTGATOR.COM.DSUNRISEMORTGAGE.COM
-HOSTGATOR.COM.DINGLEBAYUSA.COM
-HOSTGATOR.COM.DIGITALTHERMOMETERREVIEWS.COM
-HOSTGATOR.COM.CRAIGSTECHWORLD.COM
-HOSTGATOR.COM.COOKERSANDHOKE.COM
-HOSTGATOR.COM.CHEAPVACATIONSPACKAGECLUB.COM
-HOSTGATOR.COM.CAROLYNWALKERMORTGAGEGROUP.COM
-HOSTGATOR.COM.BUZZSTARMEDIA.COM
-HOSTGATOR.COM.BUGABOOPOLITICS.COM
-HOSTGATOR.COM.BUDGETTRAVEL2.COM
-HOSTGATOR.COM.BLUEFENGSHUIVARIETY.COM
-HOSTGATOR.COM.BESTREFURBISHEDDESKTOPCOMPUTERS.COM
-HOSTGATOR.COM.BESTEBOOKGALLERY.COM
-HOSTGATOR.COM.BEONEBETTER.COM
-HOSTGATOR.COM.B1BETTER.COM
-HOSTGATOR.COM.ATRIUMCHURCH.COM
-HOSTGATOR.COM.ARTISTBD.COM
-HOSTGATOR.COM.ARTIFACTSNACCENTS.COM
-HOSTGATOR.COM.ARTICLEBUD.COM
-HOSTGATOR.COM.ARIZONAFHAVAMORTGAGE.COM
-HOSTGATOR.COM.ARANISLANDSIMPORTS.COM
-HOSTGATOR.COM.ARANISLANDIMPORTS.COM
-HOSTGATOR.COM.ARANIMPORTS.COM
-HOSTGATOR.COM.ANNEAGAR.COM
-HOSTGATOR.COM.AL3P.NET
-HOSTGATOR.COM.AGIRLFRIENDSGUIDE.COM
-HOSTGATOR.COM.ACTIONSTOCKTRADER.COM
-HOSTGATOR.COM.ACAIBERRYWEIGHTLOSSEDGE.COM
-HOSTGATOR.COM.A-51GANDM.COM
-HOSTGATOR.COM.872CATSMEOW.COM
-HOSTGATOR.COM.13AUTOPARTS.COM
-HOSTGATOR.COM
+   Domain Name: AVANTBROWSER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-jan-2010
+   Creation Date: 01-oct-2002
+   Expiration Date: 01-oct-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:32:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:33:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -96,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+
+
+Domain name: avantbrowser.com
+
+Registrant Contact:
+   Avant Force
+   Avant Browser ()
+
+   Fax:
+   Haidian District
+   Beijing,  100000
+   CN
+
+Administrative Contact:
+   Avant Force
+   Avant Browser (author@avantbrowser.com)
+   +86.1082931604
+   Fax:
+   Haidian District
+   Beijing,  100000
+   CN
+
+Technical Contact:
+   Avant Force
+   Avant Browser (author@avantbrowser.com)
+   +86.1082931604
+   Fax:
+   Haidian District
+   Beijing,  100000
+   CN
+
+Status: Locked
+
+Name Servers:
+   YNS1.YAHOO.COM
+   YNS2.YAHOO.COM
+
+Creation date: 01 Oct 2002 15:46:29
+Expiration date: 01 Oct 2012 15:46:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

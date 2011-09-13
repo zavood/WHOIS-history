@@ -5,63 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-Aborting search 50 records found .....
-HOSTGATOR.COM.MOZAIKEVENTS.COM
-HOSTGATOR.COM.MAJARADOVANLIJA.COM
-HOSTGATOR.COM.LORETTADJOHNSON.COM
-HOSTGATOR.COM.KINGTUTSHUT.COM
-HOSTGATOR.COM.KEITHHOPPE.COM
-HOSTGATOR.COM.JOEMCGREW.COM
-HOSTGATOR.COM.JASONLOYA.COM
-HOSTGATOR.COM.INNA2ND.COM
-HOSTGATOR.COM.IAMTIMCLARK.COM
-HOSTGATOR.COM.GO-DIVING-THAILAND.COM
-HOSTGATOR.COM.GAMENINJAX.COM
-HOSTGATOR.COM.GAMECOMPUTERGAME.COM
-HOSTGATOR.COM.FFVINEYARDS.COM
-HOSTGATOR.COM.FAHRMEIERFAMILYVINEYARDS.COM
-HOSTGATOR.COM.ENCIENTEGYPTIAN.COM
-HOSTGATOR.COM.EMERALDISLECLASSICS.COM
-HOSTGATOR.COM.ECOMPAREHOLIDAYS.COM
-HOSTGATOR.COM.EBIZCASHBLOG.COM
-HOSTGATOR.COM.DSUNRISEMORTGAGE.COM
-HOSTGATOR.COM.DINGLEBAYUSA.COM
-HOSTGATOR.COM.DIGITALTHERMOMETERREVIEWS.COM
-HOSTGATOR.COM.CRAIGSTECHWORLD.COM
-HOSTGATOR.COM.COOKERSANDHOKE.COM
-HOSTGATOR.COM.CHEAPVACATIONSPACKAGECLUB.COM
-HOSTGATOR.COM.CAROLYNWALKERMORTGAGEGROUP.COM
-HOSTGATOR.COM.BUZZSTARMEDIA.COM
-HOSTGATOR.COM.BUGABOOPOLITICS.COM
-HOSTGATOR.COM.BUDGETTRAVEL2.COM
-HOSTGATOR.COM.BLUEFENGSHUIVARIETY.COM
-HOSTGATOR.COM.BESTREFURBISHEDDESKTOPCOMPUTERS.COM
-HOSTGATOR.COM.BESTEBOOKGALLERY.COM
-HOSTGATOR.COM.BEONEBETTER.COM
-HOSTGATOR.COM.B1BETTER.COM
-HOSTGATOR.COM.ATRIUMCHURCH.COM
-HOSTGATOR.COM.ARTISTBD.COM
-HOSTGATOR.COM.ARTIFACTSNACCENTS.COM
-HOSTGATOR.COM.ARTICLEBUD.COM
-HOSTGATOR.COM.ARIZONAFHAVAMORTGAGE.COM
-HOSTGATOR.COM.ARANISLANDSIMPORTS.COM
-HOSTGATOR.COM.ARANISLANDIMPORTS.COM
-HOSTGATOR.COM.ARANIMPORTS.COM
-HOSTGATOR.COM.ANNEAGAR.COM
-HOSTGATOR.COM.AL3P.NET
-HOSTGATOR.COM.AGIRLFRIENDSGUIDE.COM
-HOSTGATOR.COM.ACTIONSTOCKTRADER.COM
-HOSTGATOR.COM.ACAIBERRYWEIGHTLOSSEDGE.COM
-HOSTGATOR.COM.A-51GANDM.COM
-HOSTGATOR.COM.872CATSMEOW.COM
-HOSTGATOR.COM.13AUTOPARTS.COM
-HOSTGATOR.COM
+   Domain Name: DONOVAN-ENT.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS2.IPOWER.COM
+   Status: clientTransferProhibited
+   Updated Date: 22-feb-2011
+   Creation Date: 15-feb-1996
+   Expiration Date: 16-feb-2016
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:32:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:32:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -96,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: donovan-ent.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 17:22:19 EDT 2011
+Reason Code: IE
