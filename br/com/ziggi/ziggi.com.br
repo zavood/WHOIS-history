@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-13 00:56:57 (BRT -03:00)
+
+domain:      ziggi.com.br
+owner:       A. Alencar ME
+ownerid:     004.983.906/0001-24
+responsible: Andr&eacute; Alencar
+country:     BR
+owner-c:     ANA333
+admin-c:     ANA333
+tech-c:      ANA333
+billing-c:   ANA333
+nserver:     ns1.linode.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.linode.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns3.linode.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20040810 #1769096
+expires:     20120810
+changed:     20110421
+status:      published
+
+nic-hdl-br:  ANA333
+person:      Andr&eacute; Alencar
+e-mail:      andre@aalencar.com.br
+created:     20030317
+changed:     20091221
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
