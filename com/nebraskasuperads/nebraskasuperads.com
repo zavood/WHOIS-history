@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: FRED.NS.CLOUDFLARE.COM
-   Name Server: JEAN.NS.CLOUDFLARE.COM
+   Domain Name: NEBRASKASUPERADS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.DATAPIPE.NET
+   Name Server: NS2.DATAPIPE.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 21-jul-2010
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 05-nov-2010
+   Creation Date: 27-nov-2004
+   Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:34:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:33:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+   Domain Condom
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: NEBRASKASUPERADS.COM
 
-Whois Query: cloudflare.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:24:23 EDT 2011
-Reason Code: IE
+   Domain servers in listed order:
+      NS1.DATAPIPE.NET
+      NS2.DATAPIPE.NET
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEBRASKASUPERADS.COM

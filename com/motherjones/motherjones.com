@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.NET
+   Domain Name: MOTHERJONES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: FRED.NS.CLOUDFLARE.COM
-   Name Server: JEAN.NS.CLOUDFLARE.COM
+   Name Server: DNS1.NETTICA.COM
+   Name Server: DNS2.NETTICA.COM
+   Name Server: DNS3.NETTICA.COM
+   Name Server: DNS4.NETTICA.COM
+   Name Server: DNS5.NETTICA.COM
    Status: clientTransferProhibited
-   Updated Date: 21-jul-2010
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2012
+   Updated Date: 03-may-2011
+   Creation Date: 19-jun-1995
+   Expiration Date: 18-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:34:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:33:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cloudflare.net
+Whois Query: motherjones.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:24:23 EDT 2011
+Date and Time of Query: Tue Sep 13 16:23:53 EDT 2011
 Reason Code: IE

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDFLARE.NET
+   Domain Name: PEEGS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: FRED.NS.CLOUDFLARE.COM
-   Name Server: JEAN.NS.CLOUDFLARE.COM
+   Name Server: NS1.ALSW.COM
+   Name Server: NS2.ALSW.COM
    Status: clientTransferProhibited
-   Updated Date: 21-jul-2010
-   Creation Date: 17-feb-2009
-   Expiration Date: 17-feb-2012
+   Updated Date: 02-jul-2011
+   Creation Date: 02-sep-1998
+   Expiration Date: 01-sep-2020
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:34:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:32:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cloudflare.net
+Whois Query: peegs.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:24:23 EDT 2011
+Date and Time of Query: Tue Sep 13 16:22:36 EDT 2011
 Reason Code: IE
