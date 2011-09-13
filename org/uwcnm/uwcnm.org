@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2179966-LROR
+Domain Name:UWCNM.ORG
+Created On:20-Mar-1997 05:00:00 UTC
+Last Updated On:01-Mar-2008 23:28:19 UTC
+Expiration Date:21-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuh7X08mcjACIppx
+Registrant Name:Terri Scruggs
+Registrant Organization:United Way of Central NM
+Registrant Street1:2340 Alamo Ave SE
+Registrant Street2:2nd Floor
+Registrant Street3:
+Registrant City:Albuquerque
+Registrant State/Province:NM
+Registrant Postal Code:87106
+Registrant Country:US
+Registrant Phone:+1.5052473671
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:terri@uwcnm.org
+Admin ID:tuUf9viZY0d6I4Gu
+Admin Name:Terri Scruggs
+Admin Organization:United Way of Central NM
+Admin Street1:2340 Alamo Ave SE
+Admin Street2:2nd Floor
+Admin Street3:
+Admin City:Albuquerque
+Admin State/Province:NM
+Admin Postal Code:87106
+Admin Country:US
+Admin Phone:+1.5052473671
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:terri@uwcnm.org
+Tech ID:tuwRcfFXvmdcOlkB
+Tech Name:Terri Scruggs
+Tech Organization:United Way of Central NM
+Tech Street1:2340 Alamo Ave SE
+Tech Street2:2nd Floor
+Tech Street3:
+Tech City:Albuquerque
+Tech State/Province:NM
+Tech Postal Code:87106
+Tech Country:US
+Tech Phone:+1.5052473671
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:terri@uwcnm.org
+Name Server:NS2.ONEWORLDHOSTING.COM
+Name Server:NS.ONEWORLDHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

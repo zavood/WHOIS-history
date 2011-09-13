@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: SESCOOPS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HOSTING.XLHOST.COM
-   Name Server: NS2.HOSTING.XLHOST.COM
+   Name Server: ELLE.NS.CLOUDFLARE.COM
+   Name Server: RAY.NS.CLOUDFLARE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-jan-2011
-   Creation Date: 23-jan-2011
-   Expiration Date: 23-jan-2012
+   Updated Date: 04-may-2011
+   Creation Date: 08-mar-2004
+   Expiration Date: 08-mar-2014
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:50:34 UTC &lt;&lt;&lt;
 
@@ -79,15 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THETRAFFICSTAT.NET
+   Domain Name: SESCOOPS.COM
 
    Domain servers in listed order:
-      NS1.HOSTING.XLHOST.COM
-      NS2.HOSTING.XLHOST.COM
+      ELLE.NS.CLOUDFLARE.COM
+      RAY.NS.CLOUDFLARE.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=THETRAFFICSTAT.NET
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SESCOOPS.COM
