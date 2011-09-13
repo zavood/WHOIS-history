@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFRANCE.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.IFRANCE.COM
-   Name Server: DNS2.IFRANCE.COM
+   Domain Name: SYFUROJOXEREKU.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.SYFUROJOXEREKU.COM
+   Name Server: NS2.SYFUROJOXEREKU.COM
    Status: clientTransferProhibited
-   Updated Date: 09-oct-2006
-   Creation Date: 14-jan-1998
-   Expiration Date: 13-jan-2015
+   Updated Date: 21-may-2011
+   Creation Date: 18-may-2011
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:47:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:48:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,47 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
 Registrant:
-  IEUROP SAS (IEUROPSA839)
-  BP 40130
+	 Lowell Arsenault rt@fxmail.net +33.493887373
+	 Lowell Arsenault
+	 18 Avenue de Suede
+	 Nice,Alpes-Maritimes,FR 06000
 
-  PARIS CEDEX 09, , 75422
-  FR
 
-  Domain name: ifrance.com
+Domain Name:syfurojoxereku.com
+Record last updated at
+Record created on 2011/5/18
+Record expired on 2012/5/18
 
-Administrative and Technical contact:
-  Barat, Patrick (IS916)
-  IEUROP SAS
-  8 rue Jean Elysee Dupuy
-
-  Champagne au mont d'or, 69410
-  FR
-  dns@corp.ifrance.com
-  +33.179970700 Fax: +33.179970750
-
-Record created:           2005-02-10 09:34:29
-Record last updated:      2010-04-20 15:25:14
-Record expires:           2015-01-13 00:00:00
 
 Domain servers in listed order:
-  dns1.ifrance.com (DNSIFRAN464)
-  dns2.ifrance.com (DNSIFRAN219)
+	 ns1.syfurojoxereku.com 	 ns2.syfurojoxereku.com
+
+Administrator:
+	 name: Lowell Arsenault
+ mail: rt@fxmail.net tel: +33.493887373
+	 org: Lowell Arsenault
+
+address: 18 Avenue de Suede
+	 city: Nice
+,province: Alpes-Maritimes
+,country: FR
+ postcode: 06000
+
+Technical Contactor:
+	 name: Lowell Arsenault
+ mail: rt@fxmail.net tel: +33.493887373
+	 org: Lowell Arsenault
+
+address: 18 Avenue de Suede
+	 city: Nice
+,province: Alpes-Maritimes
+,country: FR
+ postcode: 06000
+
+Billing Contactor:
+	 name: Lowell Arsenault
+ mail: rt@fxmail.net tel: +33.493887373
+	 org: Lowell Arsenault
+
+address: 18 Avenue de Suede
+	 city: Nice
+,province: Alpes-Maritimes
+,country: FR
+ postcode: 06000
+
