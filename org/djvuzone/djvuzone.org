@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D28722177-LROR
+Domain Name:DJVUZONE.ORG
+Created On:07-Jun-2000 03:32:55 UTC
+Last Updated On:08-Jun-2011 01:23:56 UTC
+Expiration Date:07-Jun-2012 03:32:55 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:8093529a7b4ae793
+Registrant Name:Yann LeCun
+Registrant Organization:LeCun
+Registrant Street1:12 Howard Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lincroft
+Registrant State/Province:NJ
+Registrant Postal Code:07738
+Registrant Country:US
+Registrant Phone:+1.7322199360
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:yann@lecun.org
+Admin ID:C5507595-RCOM
+Admin Name:Yann LeCun
+Admin Organization:LeCun
+Admin Street1:12 Howard Court
+Admin Street2:
+Admin Street3:
+Admin City:Lincroft
+Admin State/Province:NJ
+Admin Postal Code:07738
+Admin Country:US
+Admin Phone:+1.7322199360
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lecun@home.com
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS136.A.REGISTER.COM
+Name Server:DNS202.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

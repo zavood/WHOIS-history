@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2805480-LROR
+Domain Name:CALRURALWATER.ORG
+Created On:29-Apr-1997 04:00:00 UTC
+Last Updated On:06-May-2008 18:44:14 UTC
+Expiration Date:30-Apr-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20645688-NSI
+Registrant Name:NO FIRST NAME NO LAST NAME
+Registrant Organization:California Rural Water Association
+Registrant Street1:4125 Northgate Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sacramento
+Registrant State/Province:CA
+Registrant Postal Code:95834
+Registrant Country:US
+Registrant Phone:+1.916553490
+Registrant Phone Ext.:
+Registrant FAX:+1.916553490
+Registrant FAX Ext.:
+Registrant Email:tmw@CSDA.NET
+Admin ID:42771012-NSI
+Admin Name:Michelle MacLellan
+Admin Organization:California Rural Water Association
+Admin Street1:4125 Northgate Boulevard
+Admin Street2:
+Admin Street3:
+Admin City:Sacramento
+Admin State/Province:CA
+Admin Postal Code:95834
+Admin Country:US
+Admin Phone:+1.9165534900
+Admin Phone Ext.:
+Admin FAX:+1.9165534904
+Admin FAX Ext.:
+Admin Email:mmaclellan@calruralwater.org
+Tech ID:42771012-NSI
+Tech Name:Michelle MacLellan
+Tech Organization:California Rural Water Association
+Tech Street1:4125 Northgate Boulevard
+Tech Street2:
+Tech Street3:
+Tech City:Sacramento
+Tech State/Province:CA
+Tech Postal Code:95834
+Tech Country:US
+Tech Phone:+1.9165534900
+Tech Phone Ext.:
+Tech FAX:+1.9165534904
+Tech FAX Ext.:
+Tech Email:mmaclellan@calruralwater.org
+Name Server:NS2.CWO.COM
+Name Server:NS1.CWO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
