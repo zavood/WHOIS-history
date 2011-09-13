@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOTFILE.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Status: clientDeleteProhibited
+   Domain Name: JHALLPR.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.MAINNAMESERVER.COM
+   Name Server: NS2.MAINNAMESERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 15-sep-2009
-   Creation Date: 22-dec-1997
-   Expiration Date: 21-dec-2012
+   Status: clientUpdateProhibited
+   Updated Date: 25-may-2011
+   Creation Date: 13-jan-2000
+   Expiration Date: 13-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:43:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 14:45:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,33 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain hotfile.com:
-  Hotfile corp.
-  Hotfile Corp Azuero Business Center, Suite 379
-  Panama City, APD 0601-00395 PA
-
-Administrative contact:
-Technical contact:
-Billing contact:
-  Hotfile corp.
-  Hotfile corp.
-  support@hotfile.com
-  Hotfile Corp Azuero Business Center, Suite 379
-  Panama City, APD 0601-00395 PA
-  Phone: +507.8385001
-  Fax: +507.9100324
-
-Record dates:
-  Record created on: 1997-12-22 05:00:00 UTC
-  Record modified on: 2009-09-15 08:24:09 UTC
-  Record expires on: 2012-12-21 UTC
-
-Nameservers:
-  ns2.easydns.com:
-    209.200.151.4
-  ns1.easydns.com:
-    216.220.40.243
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
