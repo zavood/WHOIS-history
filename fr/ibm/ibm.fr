@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ibm.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ibm.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    I5375-FRNIC
+admin-c:     SM2615-FRNIC
+tech-c:      IDT21-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3807-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 10/09
+created:     20/09/1996
+last-update: 27/05/2009
+source:      FRNIC
+
+ns-list:     NSL3807-FRNIC
+nserver:     ns.watson.ibm.com
+nserver:     ns.almaden.ibm.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     SM2615-FRNIC
+type:        PERSON
+contact:     Sylvie Martin
+address:     IBM France
+address:     le Plan du Bois
+address:     06610 La Gaude
+country:     FR
+phone:       +33 4 92 11 59 03
+fax-no:      +33 4 93 24 75 11
+e-mail:      dnsadm@us.ibm.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IDT21-FRNIC
+type:        ROLE
+contact:     IBM DNS Technical
+address:     IBM Corporation attn Nicholas R Trio
+address:     PO Box 704
+address:     10598 Yorktown Heights, Ny
+country:     US
+phone:       +1 9149451850
+e-mail:      dnstech@us.ibm.com
+admin-c:     SM161-FRNIC
+tech-c:      DM4875-FRNIC
+notify:      dnstech@us.ibm.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     I5375-FRNIC
+type:        ORGANIZATION
+contact:     I.B.M
+address:     le Plan du Bois
+address:     B.P. 37
+address:     06610 La Gaude
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
