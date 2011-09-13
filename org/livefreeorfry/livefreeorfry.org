@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160571820-LROR
+Domain Name:LIVEFREEORFRY.ORG
+Created On:03-Nov-2010 01:47:55 UTC
+Last Updated On:02-Jan-2011 03:48:05 UTC
+Expiration Date:03-Nov-2011 01:47:55 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-40170661
+Registrant Name:Richard Johnsen
+Registrant Organization:Power Line Education Fund
+Registrant Street1:438 Fish Pond Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colebrook
+Registrant State/Province:NH
+Registrant Postal Code:03576
+Registrant Country:US
+Registrant Phone:+1.6032375771
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:johnsen@ncia.net
+Admin ID:SPAG-40170661
+Admin Name:Richard Johnsen
+Admin Organization:Power Line Education Fund
+Admin Street1:438 Fish Pond Rd
+Admin Street2:
+Admin Street3:
+Admin City:Colebrook
+Admin State/Province:NH
+Admin Postal Code:03576
+Admin Country:US
+Admin Phone:+1.6032375771
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:johnsen@ncia.net
+Tech ID:SPAG-32126886
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Inc.
+Tech Street1:701 Lee Rd.
+Tech Street2:Suite 300
+Tech Street3:
+Tech City:Chesterbrook
+Tech State/Province:PA
+Tech Postal Code:19087
+Tech Country:US
+Tech Phone:+1.8774612631
+Tech Phone Ext.:
+Tech FAX:+1.6105601501
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.com
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
