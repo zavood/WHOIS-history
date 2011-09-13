@@ -5,25 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOOGLESYNDICATION.COM
+   Domain Name: CRAIGLIST.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS1.GOOGLE.COM
-   Name Server: NS2.GOOGLE.COM
-   Name Server: NS3.GOOGLE.COM
-   Name Server: NS4.GOOGLE.COM
+   Name Server: NS1F.CRAIGSLIST.ORG
+   Name Server: NS1P.CRAIGSLIST.ORG
+   Name Server: NS2F.CRAIGSLIST.ORG
+   Name Server: NS2P.CRAIGSLIST.ORG
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 20-dec-2010
-   Creation Date: 21-jan-2003
-   Expiration Date: 21-jan-2012
+   Updated Date: 18-feb-2011
+   Creation Date: 21-mar-2000
+   Expiration Date: 21-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,44 +81,44 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Craigslist Hostmaster
+        craigslist, Inc.
+        1381 9th Ave
+         San Francisco CA 94122
         US
-        dns-admin@google.com +1.6506234000 Fax: +1.6506188571
+        Hostmaster@craigslist.org +1.4155666394 Fax: +1.4155046394
 
-    Domain Name: googlesyndication.com
+    Domain Name: craiglist.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Craigslist Hostmaster
+        craigslist, Inc.
+        1381 9th Ave
+         San Francisco CA 94122
         US
-        dns-admin@google.com +1.6506234000 Fax: +1.6506188571
+        Hostmaster@craigslist.org +1.4155666394 Fax: +1.4155046394
     Technical Contact, Zone Contact:
-        DNS Admin
-        Google Inc.
-        1600 Amphitheatre Parkway
-         Mountain View CA 94043
+        Craigslist Hostmaster
+        craigslist, Inc.
+        1381 9th Ave
+         San Francisco CA 94122
         US
-        dns-admin@google.com +1.6506234000 Fax: +1.6506188571
+        Hostmaster@craigslist.org +1.4155666394 Fax: +1.4155046394
 
-    Created on..............: 2003-01-21.
-    Expires on..............: 2012-01-20.
-    Record last updated on..: 2011-01-25.
+    Created on..............: 2000-03-21.
+    Expires on..............: 2013-03-21.
+    Record last updated on..: 2011-03-23.
 
     Domain servers in listed order:
 
-    ns2.google.com
-    ns4.google.com
-    ns3.google.com
-    ns1.google.com
+    ns1p.craigslist.org
+    ns2p.craigslist.org
+    ns1f.craigslist.org
+    ns2f.craigslist.org
 
 
 

@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IBM.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-IBM.COM.CN
-IBM.COM
+   Domain Name: CWLDEXCHANGE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.ALMADEN.IBM.COM
+   Name Server: NS.WATSON.IBM.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-mar-2011
+   Creation Date: 06-apr-2000
+   Expiration Date: 06-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:26:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... cwldexchange.com
+  Creation Date........ 2000-04-07
+  Registration Date.... 2010-02-25
+  Expiry Date.......... 2012-04-07
+  Organisation Name.... International Business Machines Corporation
+  Organisation Address. New Orchard Road
+  Organisation Address. attn Grace Micewicz
+  Organisation Address. Armonk
+  Organisation Address. 10504
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... DNS Admin
+  Admin Address........ New Orchard Road
+  Admin Address........
+  Admin Address........ Armonk
+  Admin Address........ 10504
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsadm@us.ibm.com
+  Admin Phone.......... +1.9147654227
+  Admin Fax............ +1.9147654370
+
+Tech Name............ DNS Technical
+  Tech Address......... New Orchard Road
+  Tech Address.........
+  Tech Address......... Armonk
+  Tech Address......... 10504
+  Tech Address......... NY
+  Tech Address......... UNITED STATES
+  Tech Email........... ipreg@us.ibm.com
+  Tech Phone........... +1.9192544441
+  Tech Fax............. +1.9147654370
+  Name Server.......... NS.WATSON.IBM.COM
+  Name Server.......... NS.ALMADEN.IBM.COM
+
+

@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IBM.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-IBM.COM.CN
-IBM.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: LCREAD.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: DNS1.LC1001.COM
+   Name Server: DNS2.LC1001.COM
+   Status: clientTransferProhibited
+   Updated Date: 27-nov-2010
+   Creation Date: 14-dec-2006
+   Expiration Date: 14-dec-2015
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
 
@@ -48,3 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... lcread.com
+  Creation Date........ 2006-12-14 17:31:07
+  Registration Date.... 2006-12-14 17:31:07
+  Expiry Date.......... 2015-12-14 17:31:07
+  Organisation Name.... YIJIE advertising co.Ltd.of NanJing
+  Organisation Address. shuiximendajiazuolingfengdu1dong2003
+  Organisation Address.
+  Organisation Address. NanJing
+  Organisation Address. 210000
+  Organisation Address. JS
+  Organisation Address. CN
+
+Admin Name........... chen bo
+  Admin Address........ shuiximendajiazuolingfengdu1dong2003
+  Admin Address........
+  Admin Address........ NanJing
+  Admin Address........ 210000
+  Admin Address........ JS
+  Admin Address........ CN
+  Admin Email.......... ys5013@126.com
+  Admin Phone.......... +86.2586500023
+  Admin Fax............ +86.2586500023
+
+Tech Name............ liu dong
+  Tech Address......... xi an road
+  Tech Address.........
+  Tech Address......... Chengdu
+  Tech Address......... 610072
+  Tech Address......... SC
+  Tech Address......... CN
+  Tech Email........... liudong@35inter.com
+  Tech Phone........... +86.2886086035-830
+  Tech Fax............. +86.2887787735
+
+Bill Name............ liu dong
+  Bill Address......... xi an road
+  Bill Address.........
+  Bill Address......... Chengdu
+  Bill Address......... 610072
+  Bill Address......... SC
+  Bill Address......... CN
+  Bill Email........... liudong@35inter.com
+  Bill Phone........... +86.2886086035-830
+  Bill Fax............. +86.2887787735
+  Name Server.......... dns1.lc1001.com
+  Name Server.......... dns2.lc1001.com

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IPCHEKER.COM
+   Domain Name: DOMICS.COM
    Registrar: NAME.COM LLC
    Whois Server: whois.name.com
    Referral URL: http://www.name.com
-   Name Server: NS1.MYDYNDNS.ORG
-   Name Server: NS2.MYDYNDNS.ORG
-   Name Server: NS3.MYDYNDNS.ORG
-   Name Server: NS4.MYDYNDNS.ORG
-   Name Server: NS5.MYDYNDNS.ORG
-   Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 22-oct-2010
-   Expiration Date: 22-oct-2014
+   Name Server: NS1.CYON.CH
+   Name Server: NS2.CYON.CH
+   Status: ok
+   Updated Date: 20-jun-2010
+   Creation Date: 16-apr-2004
+   Expiration Date: 16-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:26:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,65 +63,62 @@ __   _                             ____
 Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
 
-Domain Name:     ipcheker.com
+Domain Name:     domics.com
 Registrar:       Name.com LLC
 
-Protected Domain Services Customer ID: NCR-2875768
-
-Expiration Date: 2014-10-22 19:33:50
-Creation Date:   2010-10-22 19:33:50
+Expiration Date: 2012-04-16 08:23:21
+Creation Date:   2004-04-16 08:23:21
 
 Name Servers:
-	ns1.mydyndns.org
-	ns2.mydyndns.org
-	ns3.mydyndns.org
-	ns4.mydyndns.org
-	ns5.mydyndns.org
-
-Domain privacy provided by Protected Domain Services. For more information see www.protecteddomainservices.com
+	ns1.cyon.ch
+	ns2.cyon.ch
 
 REGISTRANT CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
-US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Xodoa
+Nicolas Ruflin
+Breisacherstrasse 26
+Basel
+Basel Stadt
+4057
+CH
+Phone:         +41.764355867
+Email Address: ruflin@xodoa.com
 
 ADMINISTRATIVE CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
-US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Xodoa
+Nicolas Ruflin
+Breisacherstrasse 26
+Basel
+Basel Stadt
+4057
+CH
+Phone:         +41.764355867
+Email Address: ruflin@xodoa.com
 
 TECHNICAL CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
-US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Xodoa
+Nicolas Ruflin
+Breisacherstrasse 26
+Basel
+Basel Stadt
+4057
+CH
+Phone:         +41.764355867
+Email Address: ruflin@xodoa.com
 
 BILLING CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
-US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Xodoa
+Nicolas Ruflin
+Breisacherstrasse 26
+Basel
+Basel Stadt
+4057
+CH
+Phone:         +41.764355867
+Email Address: ruflin@xodoa.com
 
-Timestamp: 1315941974.3106
+Timestamp: 1315942038.2618
 
 The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-13T13:26:14-06:00
+Cached on: 2011-09-13T13:27:18-06:00

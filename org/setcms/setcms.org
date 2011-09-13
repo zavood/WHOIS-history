@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109708221-LROR
+Domain Name:SETCMS.ORG
+Created On:19-Dec-2005 14:01:37 UTC
+Last Updated On:30-Apr-2011 22:22:30 UTC
+Expiration Date:19-Dec-2011 14:01:37 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1201521058194
+Registrant Name:Ivan Levchenko
+Registrant Organization:NULL
+Registrant Street1:Kubievicha 33 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lvov
+Registrant State/Province:none
+Registrant Postal Code:79011
+Registrant Country:UA
+Registrant Phone:+38.0506624020
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:boss@proweb.com.ua
+Admin ID:ARS1297782064636
+Admin Name:Ivan V Levchenko
+Admin Organization:TM ProWeb
+Admin Street1:Kubievicha 33 8
+Admin Street2:
+Admin Street3:
+Admin City:Lvov
+Admin State/Province:none
+Admin Postal Code:79011
+Admin Country:UA
+Admin Phone:+38.0685750575
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:boss@proweb.com.ua
+Tech ID:ARS1192294552300
+Tech Name:Vyacheslav Cherkashyn
+Tech Organization:First Ukrainian Internet-Registrar LLC
+Tech Street1:134-4-100 Nab Pobeda
+Tech Street2:
+Tech Street3:
+Tech City:Dnepropetrovsk
+Tech State/Province:none
+Tech Postal Code:49106
+Tech Country:UA
+Tech Phone:+380.563705242
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@forward.com.ua
+Name Server:NS1.PROWEB.UA
+Name Server:NS2.PROWEB.UA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IBM.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-IBM.COM.CN
-IBM.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: FILENET.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.ALMADEN.IBM.COM
+   Name Server: NS.WATSON.IBM.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-oct-2010
+   Creation Date: 29-nov-1991
+   Expiration Date: 28-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
 
@@ -48,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... filenet.com
+  Creation Date........ 1991-11-29
+  Registration Date.... 2009-09-27
+  Expiry Date.......... 2011-11-29
+  Organisation Name.... International Business Machines Corporation
+  Organisation Address. New Orchard Road
+  Organisation Address.
+  Organisation Address. Armonk
+  Organisation Address. 10504
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... IBM DNS Admin
+  Admin Address........ New Orchard Road
+  Admin Address........
+  Admin Address........ Armonk
+  Admin Address........ 10504
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsadm@us.ibm.com
+  Admin Phone.......... +1.9147654227
+  Admin Fax............ +1.9147654370
+
+Tech Name............ IBM DNS Technical
+  Tech Address......... New Orchard Road
+  Tech Address.........
+  Tech Address......... Armonk
+  Tech Address......... 10504
+  Tech Address......... NY
+  Tech Address......... UNITED STATES
+  Tech Email........... ipreg@us.ibm.com
+  Tech Phone........... +1.9192544441
+  Tech Fax............. +1.9147654370
+  Name Server.......... NS.WATSON.IBM.COM
+  Name Server.......... NS.ALMADEN.IBM.COM
+
+

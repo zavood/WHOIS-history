@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IPCHEKER.COM
+   Domain Name: BESTCOFFEEWEBSITE.COM
    Registrar: NAME.COM LLC
    Whois Server: whois.name.com
    Referral URL: http://www.name.com
-   Name Server: NS1.MYDYNDNS.ORG
-   Name Server: NS2.MYDYNDNS.ORG
-   Name Server: NS3.MYDYNDNS.ORG
-   Name Server: NS4.MYDYNDNS.ORG
-   Name Server: NS5.MYDYNDNS.ORG
+   Name Server: NS1.E-PROHOSTED.NET
+   Name Server: NS2.E-PROHOSTED.NET
    Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 22-oct-2010
-   Expiration Date: 22-oct-2014
+   Updated Date: 25-nov-2010
+   Creation Date: 25-nov-2010
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:27:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,65 +63,62 @@ __   _                             ____
 Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
 
-Domain Name:     ipcheker.com
+Domain Name:     bestcoffeewebsite.com
 Registrar:       Name.com LLC
 
-Protected Domain Services Customer ID: NCR-2875768
-
-Expiration Date: 2014-10-22 19:33:50
-Creation Date:   2010-10-22 19:33:50
+Expiration Date: 2011-11-26 04:16:01
+Creation Date:   2010-11-26 04:16:01
 
 Name Servers:
-	ns1.mydyndns.org
-	ns2.mydyndns.org
-	ns3.mydyndns.org
-	ns4.mydyndns.org
-	ns5.mydyndns.org
-
-Domain privacy provided by Protected Domain Services. For more information see www.protecteddomainservices.com
+	ns1.e-prohosted.net
+	ns2.e-prohosted.net
 
 REGISTRANT CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
+davesmithonline
+Dave Smith
+8459 Berthusen rd
+Lynden
+WA
+98264
 US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Phone:         +1.3603545860
+Email Address: dave@davesmithonline.com
 
 ADMINISTRATIVE CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
+davesmithonline
+Dave Smith
+8459 Berthusen rd
+Lynden
+WA
+98264
 US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Phone:         +1.3603545860
+Email Address: dave@davesmithonline.com
 
 TECHNICAL CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
+davesmithonline
+Dave Smith
+8459 Berthusen rd
+Lynden
+WA
+98264
 US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Phone:         +1.3603545860
+Email Address: dave@davesmithonline.com
 
 BILLING CONTACT INFO
-Protected Domain Services - Customer ID: NCR-2875768
-P.O. Box 6197
-Denver
-CO
-80206
+davesmithonline
+Dave Smith
+8459 Berthusen rd
+Lynden
+WA
+98264
 US
-Phone:         +1.7202492374
-Email Address: ipcheker.com@protecteddomainservices.com
+Phone:         +1.3603545860
+Email Address: dave@davesmithonline.com
 
-Timestamp: 1315941974.3106
+Timestamp: 1315942058.979
 
 The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-13T13:26:14-06:00
+Cached on: 2011-09-13T13:27:38-06:00
