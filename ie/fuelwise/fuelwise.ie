@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      fuelwise.ie
+descr:        Fuelwise Network Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AB284-IEDR
+tech-c:      DAD1-IEDR
+renewal:     18-September-2011
+status:      Active
+nserver:     dns0.mtgsy.com
+nserver:     dns1.name-s.net
+nserver:     dns2.name-s.net
+nserver:     dns3.mtgsy.com
+source:      IEDR
+
+person:      Andrew  Brunton
+nic-hdl:     AB284-IEDR
+source:      IEDR
+
+person:      Digiweb Hosting
+nic-hdl:     DAD1-IEDR
+source:      IEDR
+

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93629680-LROR
+Domain Name:GLENWOODCEMETERY.ORG
+Created On:03-Jan-2003 16:55:23 UTC
+Last Updated On:11-Jan-2010 23:01:00 UTC
+Expiration Date:03-Jan-2019 16:55:23 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15669546-NSI
+Registrant Name:Genesis Domain
+Registrant Street1:5959 West loop south
+Registrant Street2:Suite
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77041
+Registrant Country:US
+Registrant Phone:+1.7138389292
+Registrant Phone Ext.:
+Registrant FAX:+1.7134329337
+Registrant FAX Ext.:
+Registrant Email:pam@gbmsystems.com
+Admin ID:15669546-NSI
+Admin Name:Genesis Domain
+Admin Street1:5959 West loop south
+Admin Street2:Suite
+Admin Street3:
+Admin City:Houston
+Admin State/Province:TX
+Admin Postal Code:77041
+Admin Country:US
+Admin Phone:+1.7138389292
+Admin Phone Ext.:
+Admin FAX:+1.7134329337
+Admin FAX Ext.:
+Admin Email:pam@gbmsystems.com
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS53.WORLDNIC.COM
+Name Server:NS54.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
