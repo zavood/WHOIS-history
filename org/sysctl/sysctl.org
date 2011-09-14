@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77549754-LROR
+Domain Name:SYSCTL.ORG
+Created On:20-Sep-2001 13:14:29 UTC
+Last Updated On:01-Sep-2009 08:52:15 UTC
+Expiration Date:20-Sep-2014 13:14:29 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-441637-Gandi
+Registrant Name:Philippe Bourcier
+Registrant Organization:Philippe Bourcier
+Registrant Street1:53 Rue Truffaut
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75017
+Registrant Country:FR
+Registrant Phone:+33.663853232
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:5d0f9960c5d862f56cbbe9f4973f006e-443426@owner.gandi.net
+Admin ID:PB78-GANDI
+Admin Name:Philippe Bourcier
+Admin Organization:Philippe Bourcier
+Admin Street1:53 Rue Truffaut
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75017
+Admin Country:FR
+Admin Phone:+33.663853232
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:78849bee07e885b501b50bbeb22b575b-14418@contact.gandi.net
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:LEELOO.SUPRACRAWLER.COM
+Name Server:MERCURY.ECP-NET.COM
+Name Server:NS2.SAITIS.NET
+Name Server:NS1.SAITIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

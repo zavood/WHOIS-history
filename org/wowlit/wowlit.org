@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135548223-LROR
+Domain Name:WOWLIT.ORG
+Created On:21-Dec-2006 21:56:05 UTC
+Last Updated On:06-Dec-2009 03:26:55 UTC
+Expiration Date:21-Dec-2011 21:56:05 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32687083
+Registrant Name:Kathy Short
+Registrant Organization:International Collection of Children's and Adolescent Literature
+Registrant Street1:104 College of Education
+Registrant Street2:1430 E. 2nd St.
+Registrant Street3:
+Registrant City:Tucson
+Registrant State/Province:Arizona
+Registrant Postal Code:85721
+Registrant Country:US
+Registrant Phone:+1.5206211311
+Registrant Phone Ext.:
+Registrant FAX:+1.5206211853
+Registrant FAX Ext.:
+Registrant Email:shortk@u.arizona.edu
+Admin ID:CR32687085
+Admin Name:Kathy Short
+Admin Organization:International Collection of Children's and Adolescent Literature
+Admin Street1:104 College of Education
+Admin Street2:1430 E. 2nd St.
+Admin Street3:
+Admin City:Tucson
+Admin State/Province:Arizona
+Admin Postal Code:85721
+Admin Country:US
+Admin Phone:+1.5206211311
+Admin Phone Ext.:
+Admin FAX:+1.5206211853
+Admin FAX Ext.:
+Admin Email:shortk@u.arizona.edu
+Tech ID:CR32687084
+Tech Name:Dennis Whiteman
+Tech Organization:FastPipe Media, Inc.
+Tech Street1:223 S. Jardot Road
+Tech Street2:
+Tech Street3:
+Tech City:Stillwater
+Tech State/Province:Oklahoma
+Tech Postal Code:74074-6216
+Tech Country:US
+Tech Phone:+1.4053727308
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:noc@fastpipe.com
+Name Server:ARIZONA.EDU
+Name Server:NS-REMOTE.ARIZONA.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

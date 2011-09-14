@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75205279-LROR
+Domain Name:TRIEBE.ORG
+Created On:20-Jul-2001 13:14:22 UTC
+Last Updated On:19-Jul-2011 00:48:07 UTC
+Expiration Date:20-Jul-2012 13:14:16 UTC
+Sponsoring Registrar:1st Antagus Internet GmbH (R1782-LROR)
+Status:TRANSFER PROHIBITED
+Registrant ID:TRBIC0001-ANT
+Registrant Name:Triebe Birgit
+Registrant Organization:web-relations GmbH
+Registrant Street1:Wiesengrund 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Techau
+Registrant State/Province:
+Registrant Postal Code:23689
+Registrant Country:DE
+Registrant Phone:+49.45047149483
+Registrant Phone Ext.:
+Registrant FAX:+49.4504708995
+Registrant FAX Ext.:
+Registrant Email:thotri@freenet.de
+Admin ID:TRTHC0007-ANT
+Admin Name:Triebe Thomas
+Admin Organization:web-relations GmbH
+Admin Street1:Wiesengrund 6
+Admin Street2:
+Admin Street3:
+Admin City:Techau
+Admin State/Province:
+Admin Postal Code:23689
+Admin Country:DE
+Admin Phone:+49.4504205080
+Admin Phone Ext.:
+Admin FAX:+49.4504707456
+Admin FAX Ext.:
+Admin Email:thotri@gmail.com
+Tech ID:WEHOC0009-ANT
+Tech Name:webrel Hostmaster
+Tech Organization:web-relations GmbH
+Tech Street1:Wiesengrund 6
+Tech Street2:
+Tech Street3:
+Tech City:Techau
+Tech State/Province:
+Tech Postal Code:23689
+Tech Country:DE
+Tech Phone:+49.4504707455
+Tech Phone Ext.:
+Tech FAX:+49.4504707456
+Tech FAX Ext.:
+Tech Email:info@webrel.de
+Name Server:NS3.WEBREL.DE
+Name Server:NS4.WEBREL.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
