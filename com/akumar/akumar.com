@@ -5,27 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOTOMI.COM
+   Domain Name: AKUMAR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: ASIA3.AKAM.NET
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR6.AKAM.NET
-   Name Server: NS1-19.AKAM.NET
-   Name Server: NS1-80.AKAM.NET
-   Name Server: USE1.AKAM.NET
-   Name Server: USE3.AKAM.NET
-   Name Server: USW4.AKAM.NET
+   Name Server: NS1.INSTASPACE.NET
+   Name Server: NS2.INSTASPACE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-may-2010
-   Creation Date: 07-aug-2000
-   Expiration Date: 07-aug-2013
+   Updated Date: 11-jan-2011
+   Creation Date: 07-feb-2000
+   Expiration Date: 07-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:25:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:26:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,21 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Dotomi Inc
+   Abhishek Kumar
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DOTOMI.COM
+   Domain Name: AKUMAR.COM
 
    Domain servers in listed order:
-      USE1.AKAM.NET
-      USE3.AKAM.NET
-      USW4.AKAM.NET
-      ASIA3.AKAM.NET
-      AUS1.AKAM.NET
-      EUR6.AKAM.NET
-      NS1-19.AKAM.NET
-      NS1-80.AKAM.NET
+      NS1.INSTASPACE.NET
+      NS2.INSTASPACE.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DOTOMI.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AKUMAR.COM

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1448658-LROR
+Domain Name:EU.ORG
+Created On:09-Aug-1995 04:00:00 UTC
+Last Updated On:11-Jul-2010 11:13:56 UTC
+Expiration Date:08-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:PB5523-GANDI
+Registrant Name:Pierre Beyssac
+Registrant Street1:Whois Protege / Obfuscated whois
+Registrant Street2:Gandi, 15 place de la Nation
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75011
+Registrant Country:FR
+Registrant Phone:+33.170377666
+Registrant Phone Ext.:
+Registrant FAX:+33.143730576
+Registrant FAX Ext.:
+Registrant Email:41f3a5c836fc692a3245105e45a993d1-1003646@contact.gandi.net
+Admin ID:PB6147-GANDI
+Admin Name:Pierre Beyssac
+Admin Street1:28, rue Boussingault
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:F-75013
+Admin Country:FR
+Admin Phone:+33.153802803
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:617d2db98cc863f68eb8eee99e79e027-1155781@contact.gandi.net
+Tech ID:PB6147-GANDI
+Tech Name:Pierre Beyssac
+Tech Street1:28, rue Boussingault
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:F-75013
+Tech Country:FR
+Tech Phone:+33.153802803
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:617d2db98cc863f68eb8eee99e79e027-1155781@contact.gandi.net
+Name Server:NS0.PASTEUR.FR
+Name Server:NS1.PASTEUR.FR
+Name Server:AUTH1.DNS.ELM.NET
+Name Server:DNS3.GANDI.NET
+Name Server:NS-SLAVE.FREE.ORG
+Name Server:NS-V6.EU.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

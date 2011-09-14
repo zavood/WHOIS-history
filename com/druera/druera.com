@@ -5,25 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOTOMI.COM
+   Domain Name: DRUERA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: ASIA3.AKAM.NET
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR6.AKAM.NET
-   Name Server: NS1-19.AKAM.NET
-   Name Server: NS1-80.AKAM.NET
-   Name Server: USE1.AKAM.NET
-   Name Server: USE3.AKAM.NET
-   Name Server: USW4.AKAM.NET
+   Name Server: NS1.ORBITSL.NET
+   Name Server: NS5.ORBITNET.ORG
+   Name Server: NS6.ORBITNET.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-may-2010
-   Creation Date: 07-aug-2000
-   Expiration Date: 07-aug-2013
+   Updated Date: 07-may-2010
+   Creation Date: 09-mar-2005
+   Expiration Date: 09-mar-2017
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:25:02 UTC &lt;&lt;&lt;
 
@@ -82,21 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Dotomi Inc
+   Angelina de Zoysa
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DOTOMI.COM
+   Domain Name: DRUERA.COM
 
    Domain servers in listed order:
-      USE1.AKAM.NET
-      USE3.AKAM.NET
-      USW4.AKAM.NET
-      ASIA3.AKAM.NET
-      AUS1.AKAM.NET
-      EUR6.AKAM.NET
-      NS1-19.AKAM.NET
-      NS1-80.AKAM.NET
+      NS5.ORBITNET.ORG
+      NS6.ORBITNET.ORG
+      NS1.ORBITSL.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DOTOMI.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DRUERA.COM

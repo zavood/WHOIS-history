@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19913567-LROR
+Domain Name:PALLAB.ORG
+Created On:15-Feb-2000 20:24:12 UTC
+Last Updated On:18-Aug-2011 18:08:20 UTC
+Expiration Date:15-Feb-2012 20:24:12 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:21723143-NSI
+Registrant Name:Physicians Automated Lab
+Registrant Organization:Physicians Automated Lab
+Registrant Street1:2801 H Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bakersfield
+Registrant State/Province:CA
+Registrant Postal Code:93301
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:mlucas@pallab.org
+Admin ID:21723143-NSI
+Admin Name:Physicians Automated Lab
+Admin Organization:Physicians Automated Lab
+Admin Street1:2801 H Street
+Admin Street2:
+Admin Street3:
+Admin City:Bakersfield
+Admin State/Province:CA
+Admin Postal Code:93301
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:mlucas@pallab.org
+Tech ID:21723143-NSI
+Tech Name:Physicians Automated Lab
+Tech Organization:Physicians Automated Lab
+Tech Street1:2801 H Street
+Tech Street2:
+Tech Street3:
+Tech City:Bakersfield
+Tech State/Province:CA
+Tech Postal Code:93301
+Tech Country:US
+Tech Phone:+1.9999999999
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:mlucas@pallab.org
+Name Server:NS1.ARRIVAL.NET
+Name Server:NS2.ARRIVAL.NET
+Name Server:NS3.ARRIVAL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
