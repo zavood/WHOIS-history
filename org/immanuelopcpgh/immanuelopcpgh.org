@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83872464-LROR
+Domain Name:IMMANUELOPCPGH.ORG
+Created On:22-Feb-2002 04:01:16 UTC
+Last Updated On:15-Mar-2011 15:18:07 UTC
+Expiration Date:22-Feb-2012 04:01:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-8956
+Registrant Name:Philip Gomez
+Registrant Organization:immanuelopcpgh.org
+Registrant Street1:503 Overhead Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moon Township
+Registrant State/Province:PA
+Registrant Postal Code:15108
+Registrant Country:US
+Registrant Phone:+1.4122999150
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pgomez@nauticom.net
+Admin ID:NF-ADMIN-8956
+Admin Name:Philip Gomez
+Admin Organization:immanuelopcpgh.org
+Admin Street1:503 Overhead Drive
+Admin Street2:
+Admin Street3:
+Admin City:Moon Township
+Admin State/Province:PA
+Admin Postal Code:15108
+Admin Country:US
+Admin Phone:+1.4122999150
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pgomez@nauticom.net
+Tech ID:NF-TECH-8956
+Tech Name:Domain Admin
+Tech Organization:Datarealm Internet Services
+Tech Street1:117 South 17th Street
+Tech Street2:Suite 707
+Tech Street3:
+Tech City:Philadelphia
+Tech State/Province:PA
+Tech Postal Code:19103
+Tech Country:US
+Tech Phone:+1.2156360620
+Tech Phone Ext.:
+Tech FAX:+1.2156360858
+Tech FAX Ext.:
+Tech Email:opensrs@serve.com
+Name Server:NS1.NETFIRMS.COM
+Name Server:NS2.NETFIRMS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
