@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154040853-LROR
+Domain Name:NEWWESTINGHOUSE.ORG
+Created On:10-Sep-2008 16:35:40 UTC
+Last Updated On:20-Jul-2011 19:14:11 UTC
+Expiration Date:10-Sep-2012 16:35:40 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36805459
+Registrant Name:Asim Alp
+Registrant Organization:Educational Networks
+Registrant Street1:111 John Street, Suite 515
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10038
+Registrant Country:US
+Registrant Phone:+1.2122690200
+Registrant Phone Ext.:
+Registrant FAX:+1.2122691446
+Registrant FAX Ext.:
+Registrant Email:domains@educationalnetworks.net
+Admin ID:CR36805461
+Admin Name:Asim Alp
+Admin Organization:Educational Networks
+Admin Street1:111 John Street, Suite 515
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10038
+Admin Country:US
+Admin Phone:+1.2122690200
+Admin Phone Ext.:
+Admin FAX:+1.2122691446
+Admin FAX Ext.:
+Admin Email:domains@educationalnetworks.net
+Tech ID:CR36805460
+Tech Name:Asim Alp
+Tech Organization:Educational Networks
+Tech Street1:111 John Street, Suite 515
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10038
+Tech Country:US
+Tech Phone:+1.2122690200
+Tech Phone Ext.:
+Tech FAX:+1.2122691446
+Tech FAX Ext.:
+Tech Email:domains@educationalnetworks.net
+Name Server:NS1.EDUCATIONALNETWORKS.ORG
+Name Server:NS2.EDUCATIONALNETWORKS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
