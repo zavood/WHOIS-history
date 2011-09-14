@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5514164-LROR
+Domain Name:AFPE.ORG
+Created On:22-Apr-1999 04:00:00 UTC
+Last Updated On:04-Sep-2010 00:24:16 UTC
+Expiration Date:22-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:Namebay (R54-LROR)
+Status:OK
+Registrant ID:AS14048-NBAY
+Registrant Name:Monsieur SAILLOUR _
+Registrant Organization:ASSOCIATION AFPE
+Registrant Street1:ROUTE DE CALLAC
+Registrant Street2:
+Registrant Street3:
+Registrant City:MORLAIX
+Registrant State/Province:
+Registrant Postal Code:29201
+Registrant Country:FR
+Registrant Phone:+33.298623535
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domaine@9tel.net
+Admin ID:TE95815-NBAY
+Admin Name:Serge RIBEIRO
+Admin Organization:9 TELECOM
+Admin Street1:38, quai du point du jour
+Admin Street2:
+Admin Street3:
+Admin City:BOULOGNE BILLANCOURT
+Admin State/Province:
+Admin Postal Code:92659
+Admin Country:FR
+Admin Phone:+33.170186414
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domaine@9tel.net
+Tech ID:TE95815-NBAY
+Tech Name:Serge RIBEIRO
+Tech Organization:9 TELECOM
+Tech Street1:38, quai du point du jour
+Tech Street2:
+Tech Street3:
+Tech City:BOULOGNE BILLANCOURT
+Tech State/Province:
+Tech Postal Code:92659
+Tech Country:FR
+Tech Phone:+33.170186414
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domaine@9tel.net
+Name Server:NS1.9SERVICES.COM
+Name Server:NS2.9SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIMEPATH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LIMEPATH.COM
-   Name Server: NS2.LIMEPATH.COM
-   Name Server: NS3.LIMEPATH.COM
-   Name Server: NS4.LIMEPATH.COM
+   Domain Name: GTBANKLR.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS53.DOMAINCONTROL.COM
+   Name Server: NS54.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2010
-   Creation Date: 14-jul-2007
-   Expiration Date: 14-jul-2013
+   Status: clientUpdateProhibited
+   Updated Date: 06-may-2010
+   Creation Date: 01-may-2009
+   Expiration Date: 01-may-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:42:31 UTC &lt;&lt;&lt;
 
@@ -53,72 +54,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about limepath.com
-&lt;a href=&quot;http://www.aboutus.org/limepath.com&quot;&gt;AboutUs: limepath.com&lt;/a&gt;
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
+
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
-Domain name: limepath.com
+Registrant:
+   Domains by Proxy, Inc.
 
-Registrant Contact:
-   Limepath ltd
-   NA NA ()
+   Registered through: WebGyro.COM
+   Domain Name: GTBANKLR.COM
 
-   Fax:
-   63 Scotby Road
-   Scotby
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Administrative Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Technical Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns1.limepath.com
-   ns2.limepath.com
-   ns3.limepath.com
-   ns4.limepath.com
-
-Creation date: 15 Jul 2007 00:00:00
-Expiration date: 15 Jul 2013 00:00:00
+   Domain servers in listed order:
+      NS54.DOMAINCONTROL.COM
+      NS53.DOMAINCONTROL.COM
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.securepaynet.net/whoischeck.aspx?domain=GTBANKLR.COM&amp;prog_id=445928

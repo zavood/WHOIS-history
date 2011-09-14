@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIMEPATH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LIMEPATH.COM
-   Name Server: NS2.LIMEPATH.COM
-   Name Server: NS3.LIMEPATH.COM
-   Name Server: NS4.LIMEPATH.COM
+   Domain Name: PARTSEEK.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS10.PARTSLINK.COM
+   Name Server: NS11.PARTSLINK.COM
+   Name Server: NS12.PARTSLINK.COM
+   Name Server: NS13.PARTSLINK.COM
+   Name Server: NS14.PARTSLINK.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2010
-   Creation Date: 14-jul-2007
-   Expiration Date: 14-jul-2013
+   Status: clientUpdateProhibited
+   Updated Date: 14-oct-2010
+   Creation Date: 12-nov-1996
+   Expiration Date: 11-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:42:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:43:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,72 +55,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about limepath.com
-&lt;a href=&quot;http://www.aboutus.org/limepath.com&quot;&gt;AboutUs: limepath.com&lt;/a&gt;
-
-
-Domain name: limepath.com
-
-Registrant Contact:
-   Limepath ltd
-   NA NA ()
-
-   Fax:
-   63 Scotby Road
-   Scotby
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Administrative Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Technical Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns1.limepath.com
-   ns2.limepath.com
-   ns3.limepath.com
-   ns4.limepath.com
-
-Creation date: 15 Jul 2007 00:00:00
-Expiration date: 15 Jul 2013 00:00:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

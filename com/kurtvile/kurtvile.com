@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIMEPATH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.LIMEPATH.COM
-   Name Server: NS2.LIMEPATH.COM
-   Name Server: NS3.LIMEPATH.COM
-   Name Server: NS4.LIMEPATH.COM
+   Domain Name: KURTVILE.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS586.DIZINC.COM
+   Name Server: NS587.DIZINC.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2010
-   Creation Date: 14-jul-2007
-   Expiration Date: 14-jul-2013
+   Updated Date: 20-dec-2010
+   Creation Date: 11-jan-2003
+   Expiration Date: 11-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:42:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:42:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,72 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about limepath.com
-&lt;a href=&quot;http://www.aboutus.org/limepath.com&quot;&gt;AboutUs: limepath.com&lt;/a&gt;
 
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Domain name: limepath.com
+Registrant:
+   Superiorhosting
+   1015 Green Lane
+   Secane, PA 19018
+   US
 
-Registrant Contact:
-   Limepath ltd
-   NA NA ()
+   Domain Name: KURTVILE.COM
 
-   Fax:
-   63 Scotby Road
-   Scotby
-   Carlisle, CUMBRIA CA48BG
-   GB
+   Administrative Contact, Technical Contact, Zone Contact:
+      Superiorhosting
+      Park, David
+      1015 Green Lane
+      Secane, PA 19018
+      US
+      (484)620-2642
+      dpark316@yahoo.com
 
-Administrative Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
+   Domain created on 11-Jan-2003
+   Domain expires on 11-Jan-2012
+   Last updated on 20-Dec-2010
 
-Technical Contact:
-   NA
-   Martin Alderson (support@limepath.com)
-   01228513718
-   Fax:
-   Limepath ltd
-   63 Scotby Road
-   Carlisle, CUMBRIA CA48BG
-   GB
+   Domain servers in listed order:
 
-Status: Locked
+      NS586.DIZINC.COM
+      NS587.DIZINC.COM
 
-Name Servers:
-   ns1.limepath.com
-   ns2.limepath.com
-   ns3.limepath.com
-   ns4.limepath.com
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
-Creation date: 15 Jul 2007 00:00:00
-Expiration date: 15 Jul 2013 00:00:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
