@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98192383-LROR
+Domain Name:PNSN.ORG
+Created On:23-May-2003 23:30:29 UTC
+Last Updated On:07-May-2007 23:26:38 UTC
+Expiration Date:23-May-2016 23:30:29 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687385017830
+Registrant Name:Pacific Northwest Seismograph Network
+Registrant Organization:Pacific Northwest Seismograph Network
+Registrant Street1:63 Johnson Hall
+Registrant Street2:Earth and Space Sciences University
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98195-1650
+Registrant Country:US
+Registrant Phone:+1.2066858180
+Registrant Phone Ext.:
+Registrant FAX:+1.8886636648
+Registrant FAX Ext.:
+Registrant Email:bill@ess.washington.edu
+Admin ID:10687385021240
+Admin Name:Bill Steele
+Admin Street1:63 Johnson Hall
+Admin Street2:Earth and Space Sciences University
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98195-1650
+Admin Country:US
+Admin Phone:+1.2066858180
+Admin Phone Ext.:
+Admin FAX:+1.2065430489
+Admin FAX Ext.:
+Admin Email:bill@ess.washington.edu
+Tech ID:10687385028350
+Tech Name:University of Washington UW Network Operations Center
+Tech Street1:Networks and Distributed Computing
+Tech Street2:4545 15th Avenue NE, 354841
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98195
+Tech Country:US
+Tech Phone:+1.2065435128
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:uw-noc@cac.washington.edu
+Name Server:MARGE.CAC.WASHINGTON.EDU
+Name Server:HANNA.CAC.WASHINGTON.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
