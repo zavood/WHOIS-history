@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BISSETTE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MANJAIBU.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS101.MSCHOSTING.COM
+   Name Server: NS102.MSCHOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 24-mar-2011
-   Creation Date: 13-apr-2000
-   Expiration Date: 17-jul-2013
+   Updated Date: 18-mar-2011
+   Creation Date: 18-mar-2009
+   Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:52:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:51:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
-
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about manjaibu.com
+&lt;a href=&quot;http://www.aboutus.org/manjaibu.com&quot;&gt;AboutUs: manjaibu.com&lt;/a&gt;
 
 
-Registrant:
-   Bissette Construction Corporation
+Domain name: manjaibu.com
 
-   Registered through: 3 Waves Media, LLC
-   Domain Name: BISSETTE.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
+   Puan Hanim ()
+
+   Fax:
+   B-15-01, DAHLIA APT,
+   JALAN 1-27
+   TAMAN SETAPAK JSSA BARU, KUALA LUMPUR 53300
+   MY
+
+Administrative Contact:
+
+   Puan Hanim (hanim406@yahoo.com.my)
+   0192304406
+   Fax:
+   B-15-01, DAHLIA APT,
+   JALAN 1-27
+   TAMAN SETAPAK JSSA BARU, KUALA LUMPUR 53300
+   MY
+
+Technical Contact:
+
+   Puan Hanim (hanim406@yahoo.com.my)
+   0192304406
+   Fax:
+   B-15-01, DAHLIA APT,
+   JALAN 1-27
+   TAMAN SETAPAK JSSA BARU, KUALA LUMPUR 53300
+   MY
+
+Status: Locked
+
+Name Servers:
+   ns101.mschosting.com
+   ns102.mschosting.com
+
+Creation date: 18 Mar 2009 04:59:56
+Expiration date: 18 Mar 2012 04:59:00
 
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=BISSETTE.COM&amp;prog_id=337778
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

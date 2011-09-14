@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAPIHOST.COM
+   Domain Name: ALBUMZIK.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.PAPIHOST.COM
-   Name Server: NS2.PAPIHOST.COM
-   Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 03-jul-2004
-   Expiration Date: 03-jul-2012
+   Name Server: DNS1.NAMECHEAPHOSTING.COM
+   Name Server: DNS2.NAMECHEAPHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-jan-2011
+   Creation Date: 11-jan-2011
+   Expiration Date: 11-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:52:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:53:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about papihost.com
-&lt;a href=&quot;http://www.aboutus.org/papihost.com&quot;&gt;AboutUs: papihost.com&lt;/a&gt;
+Visit AboutUs.org for more information about albumzik.com
+&lt;a href=&quot;http://www.aboutus.org/albumzik.com&quot;&gt;AboutUs: albumzik.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: papihost.com
+Domain name: albumzik.com
 
 Registrant Contact:
-   Parts PC Services, Corp
-   Francoise Blanco ()
+
+   jebali mounir ()
 
    Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
+   el mey
+   bp 125
+   djerba, medinine 4175
+   TN
 
 Administrative Contact:
-   Parts PC Services, Corp
-   Francoise Blanco (info@partspcservices.com)
-   +1.7867871265
-   Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
+
+   jebali mounir (jebali2008@gmail.com)
+   +216.22413045
+   Fax: +1.5555555555
+   el mey
+   bp 125
+   djerba, medinine 4175
+   TN
 
 Technical Contact:
-   Parts PC Services, Corp
-   Francoise Blanco (info@partspcservices.com)
-   +1.7867871265
-   Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
+
+   jebali mounir (jebali2008@gmail.com)
+   +216.22413045
+   Fax: +1.5555555555
+   el mey
+   bp 125
+   djerba, medinine 4175
+   TN
 
 Status: Locked
 
 Name Servers:
-   ns1.papihost.com
-   ns2.papihost.com
+   dns1.namecheaphosting.com
+   dns2.namecheaphosting.com
 
-Creation date: 03 Jul 2004 04:56:25
-Expiration date: 03 Jul 2012 04:56:00
+Creation date: 11 Jan 2011 13:41:00
+Expiration date: 11 Jan 2012 08:41:00
 
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131174145-LROR
+Domain Name:LEGENDLS.ORG
+Created On:21-Oct-2006 04:57:10 UTC
+Last Updated On:06-Oct-2010 07:18:23 UTC
+Expiration Date:21-Oct-2011 04:57:10 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tufXphlxc1EaghAc
+Registrant Name:Sara Heedy
+Registrant Organization:Sara Heedy
+Registrant Street1:33 Shadow Mountain Dri
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buellton
+Registrant State/Province:CA
+Registrant Postal Code:93427
+Registrant Country:US
+Registrant Phone:+1.8056882546
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pheedy@santaynezchumash.org
+Admin ID:tufXphlxc1EaghAc
+Admin Name:Sara Heedy
+Admin Organization:Sara Heedy
+Admin Street1:33 Shadow Mountain Dri
+Admin Street2:
+Admin Street3:
+Admin City:Buellton
+Admin State/Province:CA
+Admin Postal Code:93427
+Admin Country:US
+Admin Phone:+1.8056882546
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pheedy@santaynezchumash.org
+Tech ID:tuREpvZz5GFBwYOi
+Tech Name:System Administrator
+Tech Organization:Lunarpages
+Tech Street1:100 E. La Habra
+Tech Street2:
+Tech Street3:
+Tech City:La Habra
+Tech State/Province:California
+Tech Postal Code:90631
+Tech Country:US
+Tech Phone:+1.7145218150
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@lunarpages.com
+Name Server:NS6.LUNARPAGES.COM
+Name Server:NS7.LUNARPAGES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

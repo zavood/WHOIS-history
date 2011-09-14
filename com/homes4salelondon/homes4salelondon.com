@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAPIHOST.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.PAPIHOST.COM
-   Name Server: NS2.PAPIHOST.COM
-   Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 03-jul-2004
-   Expiration Date: 03-jul-2012
+   Domain Name: HOMES4SALELONDON.COM
+   Registrar: REGISTER.CA INC.
+   Whois Server: whois.register.ca
+   Referral URL: http://www.register.ca
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-oct-2010
+   Creation Date: 06-oct-2010
+   Expiration Date: 06-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:52:57 UTC &lt;&lt;&lt;
 
@@ -51,67 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about papihost.com
-&lt;a href=&quot;http://www.aboutus.org/papihost.com&quot;&gt;AboutUs: papihost.com&lt;/a&gt;
+Registrant:
+ SafeWhois.ca Whois Privacy Service
+ 5863 Leslie St. Suite 307
+ Toronto, Ontario M2H1J8
+ CA
+
+ Domain name: HOMES4SALELONDON.COM
 
 
-Domain name: papihost.com
-
-Registrant Contact:
-   Parts PC Services, Corp
-   Francoise Blanco ()
-
-   Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
-
-Administrative Contact:
-   Parts PC Services, Corp
-   Francoise Blanco (info@partspcservices.com)
-   +1.7867871265
-   Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
-
-Technical Contact:
-   Parts PC Services, Corp
-   Francoise Blanco (info@partspcservices.com)
-   +1.7867871265
-   Fax:
-   P.O Box  942281
-   Miami, FL 33194
-   US
-
-Status: Locked
-
-Name Servers:
-   ns1.papihost.com
-   ns2.papihost.com
-
-Creation date: 03 Jul 2004 04:56:25
-Expiration date: 03 Jul 2012 04:56:00
+ Administrative Contact:
+    Privacy Officer,   homes4salelondon.com@safewhois.ca
+    5863 Leslie St. Suite 307
+    Toronto, Ontario M2H1J8
+    CA
+    +1.4163857765
+ Technical Contact:
+    Privacy Officer,   homes4salelondon.com@safewhois.ca
+    5863 Leslie St. Suite 307
+    Toronto, Ontario M2H1J8
+    CA
+    +1.4163857765
 
 
+ Registration Service Provider:
+    10 Dollar Domain Names Inc., support@10dollar.ca
+    +1.647.2580610
+    http://www.10dollar.ca
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
+
+ Registrar of Record: Register.ca Inc
+ Record last updated on 06-Oct-2010.
+ Record expires on 06-Oct-2012.
+ Record created on 06-Oct-2010.
+
+ Registrar Domain Name Help Center:
+    http://register.ca
+
+ Domain servers in listed order:
+    NS1.MYDOMAIN.COM
+    NS2.MYDOMAIN.COM
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+
+This domain's privacy is protected by safewhois.ca. To reach the domain contacts, please go to http://www.safewhois.ca and follow the instructions.
+
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful purposes and
+that, under no circumstances will you use this data to:
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+(1) enable high volume, automated, electronic processes that stress or
+load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail,
+or by telephone. The compilation, repackaging, dissemination or other use
+of this data is expressly prohibited without prior written consent from us.
+The Registrar of record is Register.ca Inc.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+

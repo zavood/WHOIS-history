@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BISSETTE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 24-mar-2011
-   Creation Date: 13-apr-2000
-   Expiration Date: 17-jul-2013
+   Domain Name: WILDPARK.NET
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: DDNS.WILDPARK.NET
+   Name Server: NS2.WILDPARK.NET
+   Status: ok
+   Updated Date: 24-jul-2009
+   Creation Date: 24-aug-1999
+   Expiration Date: 24-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:52:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:53:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
+
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name:	wildpark.net
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Registrant:
-   Bissette Construction Corporation
+Registrant Contact
 
-   Registered through: 3 Waves Media, LLC
-   Domain Name: BISSETTE.COM
+Name:		Alexander    Lapidus
+Address:	Lenina av. 52
+		Nikolaev, UA  54021
+		UA
 
-   Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
+Email Address:	alex@wildpark.net
+Phone Number:	(+38)051-2470555
 
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=BISSETTE.COM&amp;prog_id=337778
+Administrative Contact
+
+Name:		Alexander    Lapidus
+Address:	Lenina av. 52
+		Nikolaev, UA  54021
+		UA
+
+Email Address:	alex@wildpark.net
+Phone Number:	(+38)051-2470555
+
+
+Technical Contact
+
+Name:		Oleg    Chernov
+Address:	Lenina av. 52
+		Nikolaev, UA  54021
+		UA
+
+Email Address:	olegch@wildpark.net
+Phone Number:	(+38)051-2470555
+
+
+Record Created on........ 1999-08-24 08:42:46.000
+Record last updated on... 2009-07-24 04:06:11.455
+Expire on................ 2014-08-24 04:06:10.650
+
+Domain Nameservers in listed order:
+
+	dns.wildpark.net
+ 	ns2.wildpark.net
+
