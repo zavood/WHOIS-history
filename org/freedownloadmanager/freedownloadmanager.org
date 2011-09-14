@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104249226-LROR
+Domain Name:FREEDOWNLOADMANAGER.ORG
+Created On:20-Apr-2004 08:17:41 UTC
+Last Updated On:06-Apr-2011 08:06:56 UTC
+Expiration Date:20-Apr-2012 08:17:41 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-760802
+Registrant Name:Marsfeld Trading Ltd.
+Registrant Organization:Marsfeld Trading, Ltd.
+Registrant Street1:Moscow
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:Moscow
+Registrant Postal Code:121108
+Registrant Country:RU
+Registrant Phone:+7.7531212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@marsfeld.com
+Admin ID:ODN-760802
+Admin Name:Marsfeld Trading Ltd.
+Admin Organization:Marsfeld Trading, Ltd.
+Admin Street1:Moscow
+Admin Street2:
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:Moscow
+Admin Postal Code:121108
+Admin Country:RU
+Admin Phone:+7.7531212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@marsfeld.com
+Tech ID:ODN-760802
+Tech Name:Marsfeld Trading Ltd.
+Tech Organization:Marsfeld Trading, Ltd.
+Tech Street1:Moscow
+Tech Street2:
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:Moscow
+Tech Postal Code:121108
+Tech Country:RU
+Tech Phone:+7.7531212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain@marsfeld.com
+Name Server:NS1.SOFTDELUXE.COM
+Name Server:NS2.SOFTDELUXE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

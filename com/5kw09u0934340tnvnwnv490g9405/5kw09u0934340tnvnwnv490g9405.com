@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FRAGMENTIZED.COM
-   Registrar: DYNADOT, LLC
-   Whois Server: whois.dynadot.com
-   Referral URL: http://www.dynadot.com
-   Name Server: NS1.LINODE.COM
-   Name Server: NS2.LINODE.COM
-   Status: clientTransferProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 02-may-2000
-   Expiration Date: 02-may-2016
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:17:39 UTC &lt;&lt;&lt;
+No match for &quot;5KW09U0934340TNVNWNV490G9405.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:17:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,38 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: fragmentized.com
-Registered at http://www.dynadot.com
-
-Registrant:
-Stanislav Antov
-13141 S Foxridge Dr
-Olathe, KS 66062
-United States
-
-Administrative Contact:
-Stanislav Antov
-13141 S Foxridge Dr
-Olathe, KS 66062
-United States
-daemon@fragmentized.com
-+1 9139569667
-
-Technical Contact:
-Stanislav Antov
-13141 S Foxridge Dr
-Olathe, KS 66062
-United States
-daemon@fragmentized.com
-+1 9139569667
-
-Record expires on 2016/05/02 UTC
-Record created on 2000/05/02 UTC
-
-Domain servers in listed order:
-ns1.linode.com
-ns2.linode.com
-
-
-&gt;&gt;&gt; Last update of whois database: 2011/09/14 01:15:54 PST &lt;&lt;&lt;
-
