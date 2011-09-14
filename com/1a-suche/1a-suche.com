@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MONSTERSOFJIZZ.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Domain Name: 1A-SUCHE.COM
+   Registrar: UNITED-DOMAINS AG
+   Whois Server: whois.udag.net
+   Referral URL: http://www.united-domains.de
+   Name Server: NS1.IPHOME.DE
+   Name Server: NS2.IPHOME.DE
    Status: clientTransferProhibited
-   Updated Date: 12-dec-2010
-   Creation Date: 10-dec-2009
-   Expiration Date: 10-dec-2012
+   Updated Date: 30-jun-2011
+   Creation Date: 08-jun-2005
+   Expiration Date: 08-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:49:26 UTC &lt;&lt;&lt;
 
@@ -52,71 +52,78 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+# Whois Server Version 1.30
+#
+# Terms and conditions:
+#
+# This data is provided by artergo.net
+# for information purposes, and to assist persons obtaining information
+# about or related to domain name registration records.
+# artergo.net does not guarantee its accuracy.
+# By submitting a WHOIS query, you agree that you will use this data
+# only for lawful purposes and that, under no circumstances, you will
+# use this data to
+# 1) allow, enable, or otherwise support the transmission of mass
+# unsolicited, commercial advertising or solicitations via E-mail
+# (spam); or
+# 2) enable high volume, automated, electronic processes that apply
+# to this WHOIS server.
+# These terms may be changed without prior notice.
+# By submitting this query, you agree to abide by this policy.
 
+request for: 1a-suche.com
 
-   Registrant:
-      Triple J Marketing LLC
-      Stephen Harper
-      4020 E. 12th St.
-      Tampa, FL 33605
-      US
-      Phone: +1.8139289688
-      Email: videoimagepro@gmail.com
+rsp: artergo.net
+url: http://www.artergo.net
 
+nameserver1: ns1.iphome.de
+nameserver2: ns2.iphome.de
 
+owner-name: Iris Klauenberg
+owner-company: NORR Media Verlagsgesellschaft UG (haftungsbeschraenkt)
+owner-address: Franz-Volk-Strasse 66
+owner-city: Offenburg
+owner-state:
+owner-country: DE
+owner-postcode: 77652
+owner-telephone: +49.78191971270
+owner-fax: +49.78191971271
+owner-email: info@norr-media.de
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
+admin-name: Iris Klauenberg
+admin-company: NORR Media Verlagsgesellschaft UG (haftungsbeschraenkt)
+admin-address: Franz-Volk-Strasse 66
+admin-city: Offenburg
+admin-state:
+admin-country: DE
+admin-postcode: 77652
+admin-telephone: +49.78191971270
+admin-fax: +49.78191971271
+admin-email: info@norr-media.de
 
-   Domain Name: monstersofjizz.com
-      Created on..............: 2009-12-10
-      Expires on..............: 2012-12-10
+tech-name: Iris Klauenberg
+tech-company: NORR Media Verlagsgesellschaft UG (haftungsbeschraenkt)
+tech-address: Franz-Volk-Strasse 66
+tech-city: Offenburg
+tech-state:
+tech-country: DE
+tech-postcode: 77652
+tech-telephone: +49.78191971270
+tech-fax: +49.78191971271
+tech-email: info@norr-media.de
 
-   Administrative Contact:
-      Triple J Marketing LLC
-      Stephen Harper
-      4020 E. 12th St.
-      Tampa, FL 33605
-      US
-      Phone: +1.8139289688
-      Email: videoimagepro@gmail.com
+billing-name: Iris Klauenberg
+billing-company: NORR Media Verlagsgesellschaft UG (haftungsbeschraenkt)
+billing-address: Franz-Volk-Strasse 66
+billing-city: Offenburg
+billing-state:
+billing-country: DE
+billing-postcode: 77652
+billing-telephone: +49.78191971270
+billing-fax: +49.78191971271
+billing-email: info@norr-media.de
 
-
-   Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
-
-
-   DNS Servers:
-      ns1.nationalnet.com
-      ns2.nationalnet.com
-
-
-
-Visit AboutUs.org for more information about monstersofjizz.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/monstersofjizz.com&quot;&gt;AboutUs: monstersofjizz.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
+# n/a
+# http://www.artergo.net
+# n/a
 

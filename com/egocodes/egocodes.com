@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WMXJ.COM
+   Domain Name: EGOCODES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS1133.HOSTGATOR.COM
+   Name Server: NS1134.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-apr-2011
-   Creation Date: 23-jul-1995
-   Expiration Date: 22-jul-2012
+   Updated Date: 29-jul-2011
+   Creation Date: 09-sep-2007
+   Expiration Date: 09-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:50:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:49:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Lincoln Financial Media
+   John Terpening
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WMXJ.COM
+   Domain Name: EGOCODES.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      NS1133.HOSTGATOR.COM
+      NS1134.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WMXJ.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EGOCODES.COM
