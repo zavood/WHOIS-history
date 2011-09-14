@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZEBAMANIA.COM
+   Domain Name: PHDONATION.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.ADMINFACIL.NET
-   Name Server: NS2.ADMINFACIL.NET
+   Name Server: NS1.WEBSITEHOSTSERVER.NET
+   Name Server: NS2.WEBSITEHOSTSERVER.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-may-2011
-   Creation Date: 16-may-2009
-   Expiration Date: 16-may-2012
+   Updated Date: 08-apr-2011
+   Creation Date: 07-apr-2010
+   Expiration Date: 07-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:20:50 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   hostmaster adminfacil.net
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TZEBAMANIA.COM
+   Domain Name: PHDONATION.COM
 
    Domain servers in listed order:
-      NS1.ADMINFACIL.NET
-      NS2.ADMINFACIL.NET
+      NS1.WEBSITEHOSTSERVER.NET
+      NS2.WEBSITEHOSTSERVER.NET
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TZEBAMANIA.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=PHDONATION.COM

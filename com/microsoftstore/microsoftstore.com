@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZEBAMANIA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.ADMINFACIL.NET
-   Name Server: NS2.ADMINFACIL.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MICROSOFTSTORE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-may-2011
-   Creation Date: 16-may-2009
-   Expiration Date: 16-may-2012
+   Updated Date: 24-feb-2011
+   Creation Date: 18-nov-2002
+   Expiration Date: 18-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:20:50 UTC &lt;&lt;&lt;
 
@@ -54,37 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... microsoftstore.com
+  Creation Date........ 2002-11-19
+  Registration Date.... 2010-04-29
+  Expiry Date.......... 2011-11-19
+  Organisation Name.... Microsoft Corporation
+  Organisation Address. 1 Microsoft Way
+  Organisation Address.
+  Organisation Address. Redmond
+  Organisation Address. 98052
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Administrator .
+  Admin Address........ One Microsoft Way
+  Admin Address........
+  Admin Address........ Redmond
+  Admin Address........ 98052
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... DOMAINS@MICROSOFT.COM
+  Admin Phone.......... +1.4258828080
+  Admin Fax............
+
+Tech Name............ Hostmaster .
+  Tech Address......... One Microsoft Way
+  Tech Address.........
+  Tech Address......... Redmond
+  Tech Address......... 98052
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... msnhst@microsoft.com
+  Tech Phone........... +1.4258828080
+  Tech Fax.............
+  Name Server.......... pdns6.ultradns.co.uk
+  Name Server.......... pdns4.ultradns.org
+  Name Server.......... pdns5.ultradns.info
+  Name Server.......... pdns1.ultradns.net
+  Name Server.......... pdns2.ultradns.net
+  Name Server.......... pdns3.ultradns.org
 
 
-Registrant:
-   hostmaster adminfacil.net
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TZEBAMANIA.COM
-
-   Domain servers in listed order:
-      NS1.ADMINFACIL.NET
-      NS2.ADMINFACIL.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TZEBAMANIA.COM
