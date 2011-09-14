@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D72009760-LROR
+Domain Name:MOPED2.ORG
+Created On:06-Jun-2001 19:34:17 UTC
+Last Updated On:07-Jun-2011 01:25:40 UTC
+Expiration Date:06-Jun-2012 19:34:17 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:14000434e6193652
+Registrant Name:Andrei Zaitsev
+Registrant Organization:Andrei Zaitsev
+Registrant Street1:751 Aramis
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. Louis
+Registrant State/Province:MO
+Registrant Postal Code:63141
+Registrant Country:US
+Registrant Phone:+1.3144345687
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:andy@daugava.com
+Admin ID:52931148895d5555
+Admin Name:Andrei Zaitsev
+Admin Organization:Andrei Zaitsev
+Admin Street1:751 Aramis
+Admin Street2:
+Admin Street3:
+Admin City:St. Louis
+Admin State/Province:MO
+Admin Postal Code:63141
+Admin Country:US
+Admin Phone:+1.3144345687
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:andy@daugava.com
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS122.A.REGISTER.COM
+Name Server:DNS230.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

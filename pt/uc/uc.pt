@@ -1,0 +1,26 @@
+Nome de dom&iacute;nio / Domain Name: uc.pt
+Data de registo / Creation Date (dd/mm/yyyy): 03/01/1992
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 31/12/2011
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Universidade de Coimbra
+   Centro de Inform&aacute;tica
+   R. Arco da Traicao, Ap. 3080
+   3001-401 Coimbra
+   Email: helpdesk@ci.uc.pt; mjb@ci.uc.pt;cef@ci.uc.pt
+
+Entidade Gestora / Billing Contact
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Email: secretaria@fccn.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   Mario Bernardes
+   Email: mjb@uc.pt
+
+Nameserver Information
+   Nameserver: uc.pt	NS	ns-1.uc.pt.
+   Nameserver: uc.pt	NS	ns-2.uc.pt.
+   Nameserver: ns-1.uc.pt.	A	193.137.200.1
+   Nameserver: ns-2.uc.pt.	A	193.136.200.114
+   Nameserver: ns-1.uc.pt.	AAAA	2001:690:2180:3::1
