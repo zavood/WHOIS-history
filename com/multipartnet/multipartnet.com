@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVINT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.SERVINT.COM
-   Name Server: NS2.SERVINT.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 24-feb-1995
-   Expiration Date: 25-feb-2013
+   Domain Name: MULTIPARTNET.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.MULTIPARTNET.COM
+   Name Server: NS2.MULTIPARTNET.COM
+   Status: ok
+   Updated Date: 03-aug-2011
+   Creation Date: 05-aug-2003
+   Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:59:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:00:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Udo Schneider
 
-http://www.networksolutions.com/whois/index.jhtml
+   Buehlacker 30
+   Winterthur, 8405, CH
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Punycode Name:  multipartnet.com
+   Unicode Name:   multipartnet.com
 
-Whois Query: servint.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:50:07 EDT 2011
-Reason Code: IE
+   Admin Contact
+      Udo Schneider
+
+      wdj@multipartnet.com
+      Buehlacker 30
+      Winterthur, 8405, CH
+      phone: +49 9003118830300
+
+   Technical Contact
+      Udo Schneider
+
+      wdj@multipartnet.com
+      Buehlacker 30
+      Winterthur, 8405, CH
+      phone: +49 9003118830300
+
+   Zone Contact
+      Udo Schneider
+
+      wdj@multipartnet.com
+      Buehlacker 30
+      Winterthur, 8405, CH
+      phone: +49 9003118830300
+
+   Record expires on: 2012-08-05 21:16:30
+
+   Domain servers in listed order:
+
+      ns2.multipartnet.com 193.254.185.231
+      ns1.multipartnet.com 193.254.184.231
+
+
+

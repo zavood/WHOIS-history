@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVINT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.SERVINT.COM
-   Name Server: NS2.SERVINT.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 24-feb-1995
-   Expiration Date: 25-feb-2013
+   Domain Name: GOODSERVERS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.GOODSERVERS.COM
+   Name Server: NS2.GOODSERVERS.COM
+   Status: ok
+   Updated Date: 05-jul-2011
+   Creation Date: 27-jul-2002
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:59:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:59:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 ariapake company a.m.vagheei@gmail.com +98.9151131379
+	 Good Servers Company
+	 Dedicated Servers Company
+	 Dedicated Servers Company,Dedicated Servers Company,IR 17642
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: servint.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:50:07 EDT 2011
-Reason Code: IE
+Domain Name:goodservers.com
+Record last updated at 2011-07-05 00:37:30
+Record created on 2002/7/27
+Record expired on 2012/7/27
+
+
+Domain servers in listed order:
+	 ns1.goodservers.com 	 ns2.goodservers.com
+
+Administrator:
+	 Dedicated Servers Company
+	 Dedicated Servers Company
+Dedicated Servers Company,
+IR
+ 17642
+
+	 name:(ariapake company)
+mail:(a.m.vagheei@gmail.com) +98.9151131379
+	 Good Servers Company
+Technical Contactor:
+	 Dedicated Servers Company
+	 Dedicated Servers Company
+Dedicated Servers Company,
+IR
+ 17642
+
+	 name:(ariapake company)
+mail:(a.m.vagheei@gmail.com) +98.9151131379
+	 Good Servers Company
+Billing Contactor:
+	 Dedicated Servers Company
+	 Dedicated Servers Company
+Dedicated Servers Company,
+IR
+ 17642
+
+	 name:(ariapake company)
+mail:(a.m.vagheei@gmail.com) +98.9151131379
+	 Good Servers Company
+
+Registration Service Provider:
+	name: ariapake co
+	tel: +98.9151131379
+ 	fax: +98.5117619364
+ 	web:http://ariapake.com

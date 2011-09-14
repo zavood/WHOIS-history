@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVINT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.SERVINT.COM
-   Name Server: NS2.SERVINT.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 24-feb-1995
-   Expiration Date: 25-feb-2013
+   Domain Name: 8TRACKS.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Status: ok
+   Updated Date: 09-jun-2010
+   Creation Date: 23-apr-2000
+   Expiration Date: 23-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:59:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:00:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registrant:
+  8tracks, Inc.
+  192 Orchard Street
+  7B
+  New York, NY 10002
+  US
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+  davidporter@gmail.com
+   +1.4159484216
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: 8TRACKS.COM
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative &amp; Technical Contact:
+  8tracks, Inc.
+  820 Jones Street
+  San Francisco, CA 94109
+  US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+  davidporter@gmail.com
+   +1.4159484216
 
-Whois Query: servint.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:50:07 EDT 2011
-Reason Code: IE
+Domain Name Servers:
+  NS1.MYDYNDNS.ORG
+  NS4.MYDYNDNS.ORG
+  NS3.MYDYNDNS.ORG
+  NS2.MYDYNDNS.ORG
+
+Transfer-Lock Status: ENABLED
+
+ Created:     April 23, 2000
+Modified:     June  9, 2010
+ Expires:     April 22, 2016
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

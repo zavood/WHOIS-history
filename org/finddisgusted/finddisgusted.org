@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162537270-LROR
+Domain Name:FINDDISGUSTED.ORG
+Created On:16-Jun-2011 11:46:08 UTC
+Last Updated On:16-Aug-2011 03:49:26 UTC
+Expiration Date:16-Jun-2012 11:46:08 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgas08224765857
+Registrant Name:Aggie Smile
+Registrant Organization:AggieSmile
+Registrant Street1:5857 Lakeshore Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newaygo
+Registrant State/Province:MI
+Registrant Postal Code:49335
+Registrant Country:US
+Registrant Phone:+1.2316529209
+Registrant Phone Ext.:
+Registrant FAX:+1.2316529209
+Registrant FAX Ext.:
+Registrant Email:AggieSmile@hotmailbox.com
+Admin ID:orgas08224766050
+Admin Name:Aggie Smile
+Admin Organization:AggieSmile
+Admin Street1:5857 Lakeshore Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Newaygo
+Admin State/Province:MI
+Admin Postal Code:49335
+Admin Country:US
+Admin Phone:+1.2316529209
+Admin Phone Ext.:
+Admin FAX:+1.2316529209
+Admin FAX Ext.:
+Admin Email:AggieSmile@hotmailbox.com
+Tech ID:orgas08224766300
+Tech Name:Aggie Smile
+Tech Organization:AggieSmile
+Tech Street1:5857 Lakeshore Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Newaygo
+Tech State/Province:MI
+Tech Postal Code:49335
+Tech Country:US
+Tech Phone:+1.2316529209
+Tech Phone Ext.:
+Tech FAX:+1.2316529209
+Tech FAX Ext.:
+Tech Email:AggieSmile@hotmailbox.com
+Name Server:NS1.FINDDISGUSTED.ORG
+Name Server:NS2.FINDDISGUSTED.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

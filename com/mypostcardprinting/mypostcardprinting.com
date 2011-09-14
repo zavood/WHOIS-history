@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVINT.COM
+   Domain Name: MYPOSTCARDPRINTING.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS.SERVINT.COM
-   Name Server: NS2.SERVINT.COM
+   Name Server: NS1.MYPOSTCARDPRINTING.COM
+   Name Server: NS2.MYPOSTCARDPRINTING.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2006
-   Creation Date: 24-feb-1995
-   Expiration Date: 25-feb-2013
+   Updated Date: 22-nov-2010
+   Creation Date: 21-jan-2003
+   Expiration Date: 21-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:59:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:00:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: servint.com
+Whois Query: mypostcardprinting.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:50:07 EDT 2011
+Date and Time of Query: Wed Sep 14 10:50:42 EDT 2011
 Reason Code: IE
