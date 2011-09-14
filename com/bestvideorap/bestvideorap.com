@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CRAZYLEAFDESIGN.COM
+   Domain Name: BESTVIDEORAP.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.WIREDTREE.COM
-   Name Server: NS2.WIREDTREE.COM
-   Status: clientTransferProhibited
-   Updated Date: 08-oct-2010
-   Creation Date: 25-oct-2006
-   Expiration Date: 25-oct-2011
+   Name Server: NS1.BESTVIDEORAP.COM
+   Name Server: NS2.BESTVIDEORAP.COM
+   Status: ok
+   Updated Date: 24-feb-2011
+   Creation Date: 13-nov-2009
+   Expiration Date: 13-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:18:07 UTC &lt;&lt;&lt;
 
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about crazyleafdesign.com
-&lt;a href=&quot;http://www.aboutus.org/crazyleafdesign.com&quot;&gt;AboutUs: crazyleafdesign.com&lt;/a&gt;
+Visit AboutUs.org for more information about bestvideorap.com
+&lt;a href=&quot;http://www.aboutus.org/bestvideorap.com&quot;&gt;AboutUs: bestvideorap.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: crazyleafdesign.com
+Domain name: bestvideorap.com
 
 Registrant Contact:
-   NA
-   Bogdan Dascal ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Administrative Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   WhoisGuard
+   WhoisGuard Protected (25dbbdeead604907b1bad18717c3079e.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Technical Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   WhoisGuard
+   WhoisGuard Protected (25dbbdeead604907b1bad18717c3079e.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   ns1.wiredtree.com
-   ns2.wiredtree.com
+   ns1.bestvideorap.com
+   ns2.bestvideorap.com
 
-Creation date: 25 Oct 2006 11:58:00
-Expiration date: 25 Oct 2011 11:58:00
+Creation date: 13 Nov 2009 21:08:00
+Expiration date: 13 Nov 2012 21:08:00
 
 
 

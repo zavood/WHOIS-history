@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CRAZYLEAFDESIGN.COM
+   Domain Name: WORLD4CHRIST.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.WIREDTREE.COM
-   Name Server: NS2.WIREDTREE.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 08-oct-2010
-   Creation Date: 25-oct-2006
-   Expiration Date: 25-oct-2011
+   Updated Date: 03-dec-2010
+   Creation Date: 03-dec-2010
+   Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:18:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:18:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about crazyleafdesign.com
-&lt;a href=&quot;http://www.aboutus.org/crazyleafdesign.com&quot;&gt;AboutUs: crazyleafdesign.com&lt;/a&gt;
+Visit AboutUs.org for more information about world4christ.com
+&lt;a href=&quot;http://www.aboutus.org/world4christ.com&quot;&gt;AboutUs: world4christ.com&lt;/a&gt;
 
 
-Domain name: crazyleafdesign.com
-
-Registrant Contact:
-   NA
-   Bogdan Dascal ()
-
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+Domain name: world4christ.com
 
 Administrative Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
+   Witness Today, Inc.
+   Paul Hester (hostmaster@witnesstoday.org)
+   +1.9995551212
    Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   PO Box 19806
+   Charlotte, NC 28219-9806
+   US
 
 Technical Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
+   Witness Today, Inc.
+   Paul Hester (hostmaster@witnesstoday.org)
+   +1.9995551212
    Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   PO Box 19806
+   Charlotte, NC 28219-9806
+   US
+
+Registrant Contact:
+   Witness Today, Inc.
+   Paul Hester ()
+
+   Fax:
+   PO Box 19806
+   Charlotte, NC 28219-9806
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.wiredtree.com
-   ns2.wiredtree.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 25 Oct 2006 11:58:00
-Expiration date: 25 Oct 2011 11:58:00
+Creation date: 03 Dec 2010 21:31:32
+Expiration date: 03 Dec 2011 21:31:00
 
 
 

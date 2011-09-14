@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CRAZYLEAFDESIGN.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.WIREDTREE.COM
-   Name Server: NS2.WIREDTREE.COM
+   Domain Name: RUBIDANYXORUN.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.RUBIDANYXORUN.COM
+   Name Server: NS2.RUBIDANYXORUN.COM
    Status: clientTransferProhibited
-   Updated Date: 08-oct-2010
-   Creation Date: 25-oct-2006
-   Expiration Date: 25-oct-2011
+   Updated Date: 26-apr-2011
+   Creation Date: 22-apr-2011
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:18:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:19:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about crazyleafdesign.com
-&lt;a href=&quot;http://www.aboutus.org/crazyleafdesign.com&quot;&gt;AboutUs: crazyleafdesign.com&lt;/a&gt;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
-Domain name: crazyleafdesign.com
-
-Registrant Contact:
-   NA
-   Bogdan Dascal ()
-
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
-
-Administrative Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
-
-Technical Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
-
-Status: Locked
-
-Name Servers:
-   ns1.wiredtree.com
-   ns2.wiredtree.com
-
-Creation date: 25 Oct 2006 11:58:00
-Expiration date: 25 Oct 2011 11:58:00
+Registrant:
+	 Tanja Strauss arm@fxmail.net +43.12168461
+	 Tanja Strauss
+	 Grosse Stadtgutgasse 19
+	 Wien,Wien,AT 1020
 
 
+Domain Name:rubidanyxorun.com
+Record last updated at
+Record created on 2011/4/22
+Record expired on 2012/4/22
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain servers in listed order:
+	 ns1.rubidanyxorun.com 	 ns2.rubidanyxorun.com
+
+Administrator:
+	 name:(Tanja Strauss)
+	Email:(arm@fxmail.net) tel-- +43.12168461
+	 Tanja Strauss
+	 Grosse Stadtgutgasse 19
+\r
+t Wien
+Wien,
+AT
+
+ zipcode:1020
+
+Technical Contactor:
+	 name:(Tanja Strauss)
+	Email:(arm@fxmail.net) tel-- +43.12168461
+	 Tanja Strauss
+	 Grosse Stadtgutgasse 19
+\r
+t Wien
+Wien,
+AT
+
+ zipcode:1020
+
+Billing Contactor:
+	 name:(Tanja Strauss)
+	Email:(arm@fxmail.net) tel-- +43.12168461
+	 Tanja Strauss
+	 Grosse Stadtgutgasse 19
+\r
+t Wien
+Wien,
+AT
+
+ zipcode:1020
+

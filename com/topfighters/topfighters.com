@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CRAZYLEAFDESIGN.COM
+   Domain Name: TOPFIGHTERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.WIREDTREE.COM
-   Name Server: NS2.WIREDTREE.COM
+   Name Server: NS1.PRIORWEB.BE
+   Name Server: NS2.PRIORWEB.BE
+   Name Server: NS3.PRIORWEB.BE
    Status: clientTransferProhibited
-   Updated Date: 08-oct-2010
-   Creation Date: 25-oct-2006
-   Expiration Date: 25-oct-2011
+   Updated Date: 22-oct-2010
+   Creation Date: 20-nov-2002
+   Expiration Date: 20-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:18:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:19:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about crazyleafdesign.com
-&lt;a href=&quot;http://www.aboutus.org/crazyleafdesign.com&quot;&gt;AboutUs: crazyleafdesign.com&lt;/a&gt;
+Visit AboutUs.org for more information about topfighters.com
+&lt;a href=&quot;http://www.aboutus.org/topfighters.com&quot;&gt;AboutUs: topfighters.com&lt;/a&gt;
 
 
-Domain name: crazyleafdesign.com
+Domain name: topfighters.com
 
 Registrant Contact:
-   NA
-   Bogdan Dascal ()
+
+   Pieter-Jan Verschaeve ()
 
    Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   Stationslaan 6
+   Brugge,  B-8200
+   BE
 
 Administrative Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   PriorWeb BVBA
+   Domain Administration (support@priorweb.be)
+   +32.32954117
+   Fax: +32.32954217
+   Cockerillkaai 12
+   Antwerpen, BE B-2000
+   BE
 
 Technical Contact:
-   NA
-   Bogdan Dascal (bogdan_d31@yahoo.com)
-   NA
-   Fax:
-   Torontalului nr.7
-   bl.44 sc.A ap.31
-   Timisoara, TIMIS 300628
-   RO
+   PriorWeb BVBA
+   Domain Administration (support@priorweb.be)
+   +32.32954117
+   Fax: +32.32954217
+   Cockerillkaai 12
+   Antwerpen, BE B-2000
+   BE
 
 Status: Locked
 
 Name Servers:
-   ns1.wiredtree.com
-   ns2.wiredtree.com
+   NS1.PRIORWEB.BE
+   NS2.PRIORWEB.BE
+   NS3.PRIORWEB.BE
 
-Creation date: 25 Oct 2006 11:58:00
-Expiration date: 25 Oct 2011 11:58:00
+Creation date: 20 Nov 2002 15:02:31
+Expiration date: 20 Nov 2011 15:02:00
 
 
 
