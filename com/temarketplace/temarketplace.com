@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CIVING.COM
+   Domain Name: TEMARKETPLACE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.ACTIONHOSTING.CA
-   Name Server: NS1.WSIACTIONHOSTING.COM
+   Name Server: NS1.REDDEVILWEBHOSTING.COM
+   Name Server: NS2.REDDEVILWEBHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 24-mar-2011
-   Creation Date: 26-mar-2003
-   Expiration Date: 26-mar-2012
+   Updated Date: 03-dec-2010
+   Creation Date: 03-dec-2010
+   Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:01:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:01:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about civing.com
-&lt;a href=&quot;http://www.aboutus.org/civing.com&quot;&gt;AboutUs: civing.com&lt;/a&gt;
+Visit AboutUs.org for more information about temarketplace.com
+&lt;a href=&quot;http://www.aboutus.org/temarketplace.com&quot;&gt;AboutUs: temarketplace.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: civing.com
-
-Administrative Contact:
-   Web Marketing Central America
-   Carolina Miranda (cmiranda@webmarketingca.com)
-   +503.78871283
-   Fax: +503.22754575
-   Centro Oficinas La Sultana
-   san salvador, SV 504
-   SV
-
-Technical Contact:
-   Web Marketing Central America
-   Carolina Miranda (cmiranda@webmarketingca.com)
-   +503.78871283
-   Fax: +503.22754575
-   Centro Oficinas La Sultana
-   san salvador, SV 504
-   SV
+Domain name: temarketplace.com
 
 Registrant Contact:
-   Web Marketing Central America
-   Carolina Miranda ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   Centro Oficinas La Sultana
-   san salvador, SV 504
-   SV
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (c18238208f5c41ddad2a3ec1fadcab3b.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (c18238208f5c41ddad2a3ec1fadcab3b.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.actionhosting.ca
-   ns1.wsiactionhosting.com
+   ns1.reddevilwebhosting.com
+   ns2.reddevilwebhosting.com
 
-Creation date: 26 Mar 2003 08:26:00
-Expiration date: 26 Mar 2012 07:26:00
+Creation date: 04 Dec 2010 01:16:00
+Expiration date: 03 Dec 2011 20:16:00
 
 
 

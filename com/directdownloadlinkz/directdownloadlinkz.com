@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IP-ASIA.COM
-IP-ASIA.COM
+   Domain Name: DIRECTDOWNLOADLINKZ.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: ELLE.NS.CLOUDFLARE.COM
+   Name Server: ERIC.NS.CLOUDFLARE.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-sep-2011
+   Creation Date: 01-sep-2010
+   Expiration Date: 01-sep-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:02:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:00:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain directdownloadlinkz.com
+
+Date Registered: 2010-9-1
+Date Modified: 2011-9-3
+Expiry Date: 2012-9-2
+
+DNS1: elle.ns.cloudflare.com
+DNS2: eric.ns.cloudflare.com
+
+Registrant
+    directdownloadlinkz.com
+    Private Registration  directdownloadlinkz dot com (at) domainsproxy dot net
+    Rm.804, Sino Centre., Nathan Road
+    582-592 Kln Hong Kong
+    Hong Kong
+    Tel: +852.23840332
+
+Administrative Contact
+    directdownloadlinkz.com
+    Private Registration  directdownloadlinkz dot com (at) domainsproxy dot net
+    Rm.804, Sino Centre., Nathan Road
+    582-592 Kln Hong Kong
+    Hong Kong
+    Tel: +852.23840332
+
+Technical Contact
+    directdownloadlinkz.com
+    Private Registration  directdownloadlinkz dot com (at) domainsproxy dot net
+    Rm.804, Sino Centre., Nathan Road
+    582-592 Kln Hong Kong
+    Hong Kong
+    Tel: +852.23840332
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IP-ASIA.COM
-IP-ASIA.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: QYSUDIPIBOZA.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.QYSUDIPIBOZA.COM
+   Name Server: NS2.QYSUDIPIBOZA.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-jun-2011
+   Creation Date: 07-jun-2011
+   Expiration Date: 07-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:02:18 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Jessie Bucklin oars@fxmail.net +1.6135494766
+	 Jessie Bucklin
+	 225 King Street East
+	 Kingston,ON,CA K7L 3A7
+
+
+Domain Name:qysudipiboza.com
+Record last updated at
+Record created on 2011/6/7
+Record expired on 2012/6/7
+
+
+Domain servers in listed order:
+	 ns1.qysudipiboza.com 	 ns2.qysudipiboza.com
+
+Administrator:
+	 Name-- Jessie Bucklin
+ EMail-: (oars@fxmail.net)
+ tel --: +1.6135494766
+	 org: Jessie Bucklin
+	 225 King Street East
+	 Kingston,ON,CA K7L 3A7
+
+Technical Contactor:
+	 Name-- Jessie Bucklin
+ EMail-: (oars@fxmail.net)
+ tel --: +1.6135494766
+	 org: Jessie Bucklin
+	 225 King Street East
+	 Kingston,ON,CA K7L 3A7
+
+Billing Contactor:
+	 Name-- Jessie Bucklin
+ EMail-: (oars@fxmail.net)
+ tel --: +1.6135494766
+	 org: Jessie Bucklin
+	 225 King Street East
+	 Kingston,ON,CA K7L 3A7
+

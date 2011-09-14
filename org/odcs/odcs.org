@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7284499-LROR
+Domain Name:ODCS.ORG
+Created On:16-Jun-1999 16:01:56 UTC
+Last Updated On:23-May-2011 15:41:14 UTC
+Expiration Date:16-Jun-2012 16:02:35 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuhgmM5ffYp8fwsQ
+Registrant Name:Open Door Christian School
+Registrant Organization:Open Door Christian School
+Registrant Street1:8287 W. Ridge Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Elyria
+Registrant State/Province:OH
+Registrant Postal Code:44035
+Registrant Country:US
+Registrant Phone:+1.4403226386
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rwatson@odcs.org
+Admin ID:tut4WIVqdO7OK7q3
+Admin Name:Open Door Christian School
+Admin Organization:Open Door Christian School
+Admin Street1:8287 W. Ridge Rd
+Admin Street2:
+Admin Street3:
+Admin City:Elyria
+Admin State/Province:OH
+Admin Postal Code:44035
+Admin Country:US
+Admin Phone:+1.4403226386
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rwatson@odcs.org
+Tech ID:tu9aPKFLhpgr9YER
+Tech Name:Frank McCourry
+Tech Organization:Holland Computers, Inc.
+Tech Street1:483 N. Abbe Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Elyria
+Tech State/Province:OH
+Tech Postal Code:44035
+Tech Country:US
+Tech Phone:+1.4403659906
+Tech Phone Ext.:180
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fmccourry@hollandcomputers.com
+Name Server:NS1.HOLLANDCOMPUTERS.COM
+Name Server:NS2.HOLLANDCOMPUTERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,24 @@
+[Domain]
+Domain: harizma.lv
+Status: active
+Changed: 2009-12-02T14:49:48+02:00
+
+[Holder]
+Type: Legal person
+Name: SIA HARIZMA
+Email: novikov@harizma.lv
+Phone: +371 29368624
+Address: Sampetera iela 3a-1, Riga, LV-1046
+RegNr: 40003652870
+
+[Tech]
+Type: Natural person
+Email: novikov@harizma.lv
+Phone: +371 29368624
+
+[Nservers]
+Nserver: ns.harizma.lv
+Nserver: ns2.harizma.lv
+
+[Whois]
+Updated: 2011-09-14T11:12:26.241630+00:00

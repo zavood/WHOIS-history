@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D134828000-LROR
+Domain Name:ALANAID.ORG
+Created On:11-Dec-2006 16:29:13 UTC
+Last Updated On:26-Jul-2007 16:54:04 UTC
+Expiration Date:11-Dec-2011 16:29:13 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D11658540071407
+Registrant Name:Council of Supply Chain Management Professionals
+Registrant Organization:Council of Supply Chain Management Professionals
+Registrant Street1:333 East Butterfield Road
+Registrant Street2:Suite 140
+Registrant Street3:
+Registrant City:Lombard
+Registrant State/Province:IL
+Registrant Postal Code:60148
+Registrant Country:US
+Registrant Phone:+1.6306453456
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jschulze@clm1.org
+Admin ID:D11658540071404
+Admin Name:James Schulze
+Admin Organization:Council of Supply Chain Management Professionals
+Admin Street1:333 East Butterfield Road
+Admin Street2:Suite 140
+Admin Street3:
+Admin City:Lombard
+Admin State/Province:IL
+Admin Postal Code:60148
+Admin Country:US
+Admin Phone:+1.6306453456
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jschulze@cscmp.org
+Tech ID:D11658540071406
+Tech Name:James Schulze
+Tech Organization:Council of Supply Chain Management Professionals
+Tech Street1:333 East Butterfield Road
+Tech Street2:Suite 140
+Tech Street3:
+Tech City:Lombard
+Tech State/Province:IL
+Tech Postal Code:60148
+Tech Country:US
+Tech Phone:+1.6306453456
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jschulze@cscmp.org
+Name Server:NS2.MYDYNDNS.ORG
+Name Server:NS1.MYDYNDNS.ORG
+Name Server:NS3.MYDYNDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

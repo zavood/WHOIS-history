@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IP-ASIA.COM
-IP-ASIA.COM
+   Domain Name: YAKIMA-HERALD.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: AUTHNS1.QWEST.NET
+   Name Server: AUTHNS2.QWEST.NET
+   Name Server: ISERV1.SEATIMES.COM
+   Name Server: ISERV2.SEATIMES.COM
+   Status: ok
+   Updated Date: 11-jul-2011
+   Creation Date: 23-jul-1996
+   Expiration Date: 22-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:02:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:01:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+yakima-herald.com
+
+Registrant:
+         Online Director  (webmaster@yakimaherald.com)
+        Yakima Herald-Republic
+        114 North 4th Street PO Box 9668
+        Yakima, WA  98909
+        US
+        (509) 577-7734
+
+
+Domain Name: yakima-herald.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Online Director  (webmaster@yakimaherald.com)
+        Yakima Herald-Republic
+        114 North 4th Street PO Box 9668
+        Yakima, WA  98909
+        US
+        (509) 577-7734
+
+
+
+
+
+   Record created on Jul 23 1996.
+   Record expires on Jul 22 2012.
+Domain servers:
+        iserv1.seatimes.com
+        iserv2.seatimes.com
+        authns1.qwest.net
+        authns2.qwest.net
+
+
+
+Domain Service Provider:
+   Yakima Herald-Republic
+   (509) 577-7706
+   Webmaster@yakimaherald.com
+   www.yakimaherald.com
+
+

@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-IP-ASIA.COM
-IP-ASIA.COM
+   Domain Name: GRAYWIZARDIANSE.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.GRAYWIZARDIANSE.COM
+   Name Server: NS2.GRAYWIZARDIANSE.COM
+   Status: ok
+   Updated Date: 26-may-2011
+   Creation Date: 28-apr-2011
+   Expiration Date: 28-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:02:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:01:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
+
+   Domain Name: GRAYWIZARDIANSE.COM
+      Reseller..............: DNMaster LLC
+      Created on............: 29 Apr 2011 02:50:59 EST
+      Expires on............: 29 Apr 2012 02:50:59 EST
+      Record last updated on: 29 Apr 2011 02:50:59 EST
+      Status................: ACTIVE
+
+
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      Annie Robitaille (ID00464584)
+      9 Rue De Constantinople
+      Paris, Paris 75008
+      FR
+      Phone: +33.140080144
+      Email: froth@cutemail.org
+
+
+   Domain servers in listed order:
+
+      NS2.GRAYWIZARDIANSE.COM
+      NS1.GRAYWIZARDIANSE.COM
+

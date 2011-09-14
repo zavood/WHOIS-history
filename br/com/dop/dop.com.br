@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 12:01:20 (BRT -03:00)
+
+domain:      dop.com.br
+owner:       Aisle Webmakers Inform&aacute;tica LTDA.
+ownerid:     003.981.139/0001-51
+responsible: Rafael Fragoso Esberard
+country:     BR
+owner-c:     AWL10
+admin-c:     AWL10
+tech-c:      AWL10
+billing-c:   AWL10
+nserver:     dns1.stabletransit.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns2.stabletransit.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20050210 #2004949
+expires:     20150210
+changed:     20100819
+status:      published
+
+nic-hdl-br:  AWL10
+person:      AISLE WEBMAKERS INFORM&Aacute;TICA LTDA.
+e-mail:      joaopaulo@awm.com.br
+created:     20000901
+changed:     20110713
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
