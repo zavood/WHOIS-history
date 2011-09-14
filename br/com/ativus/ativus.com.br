@@ -5,13 +5,36 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 22:40:54 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-14 13:08:25 (BRT -03:00)
 
 domain:      ativus.com.br
-owner:       ATIVUS FARMACEUTICA LTDA (10640)
+owner:       ATIVUS FARMACEUTICA LTDA
+ownerid:     064.088.172/0001-41
+responsible: Jander Mascarenhas Marques
+country:     BR
+owner-c:     AFL65
+admin-c:     AFL65
+tech-c:      AFL65
+billing-c:   AFL65
+nserver:     ns1.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19970224 #31092
+expires:     20120224
+changed:     20110203
+status:      published
+
+nic-hdl-br:  AFL65
+person:      ATIVUS FARMACEUTICA LTDA
+e-mail:      rodrigo.polpeta@myralis.com.br
+created:     20001013
+changed:     20101021
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

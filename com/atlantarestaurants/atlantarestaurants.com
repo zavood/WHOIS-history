@@ -5,23 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDLSY.COM
+   Domain Name: ATLANTARESTAURANTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.FREEDNS.WS
-   Name Server: NS2.FREEDNS.WS
-   Name Server: NS3.FREEDNS.WS
-   Name Server: NS4.FREEDNS.WS
+   Name Server: DNS2.NETTICA.COM
+   Name Server: DNS4.NETTICA.COM
+   Name Server: NS1.ARGENTINAONLINE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 03-jul-2011
-   Expiration Date: 03-jul-2012
+   Updated Date: 09-may-2011
+   Creation Date: 07-aug-1998
+   Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:08:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:07:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   zhang zi
+   cch domains
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CDLSY.COM
+   Domain Name: ATLANTARESTAURANTS.COM
 
    Domain servers in listed order:
-      NS1.FREEDNS.WS
-      NS2.FREEDNS.WS
-      NS3.FREEDNS.WS
-      NS4.FREEDNS.WS
+      NS1.ARGENTINAONLINE.NET
+      DNS2.NETTICA.COM
+      DNS4.NETTICA.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CDLSY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ATLANTARESTAURANTS.COM

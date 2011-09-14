@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 13:08:25 (BRT -03:00)
+
+domain:      magc.com.br
+owner:       Minist&eacute;rio Apost&oacute;lico Grande Colheita
+ownerid:     042.319.608/0001-23
+responsible: Marco Ant&ocirc;nio Da Silva Costa
+country:     BR
+owner-c:     MASCO4
+admin-c:     MASCO4
+tech-c:      WST29
+billing-c:   MASCO4
+nserver:     ns1.gospelprovider.net
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.gospelprovider.net
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20060705 #2914814
+expires:     20120705
+changed:     20110721
+status:      published
+
+nic-hdl-br:  MASCO4
+person:      Marco Ant&ocirc;nio Da Silva Costa
+e-mail:      magc@gospelprovider.com.br
+created:     20060705
+changed:     20060705
+
+nic-hdl-br:  WST29
+person:      WWW Studio (T&eacute;cnico)
+e-mail:      tecnico@3wstudio.com.br
+created:     20050712
+changed:     20100728
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

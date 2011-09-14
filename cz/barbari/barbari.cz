@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:08:10 2011
+
+domain:       barbari.cz
+registrant:   SB:FORPSI-SPG-S109826
+admin-c:      FORPSI-SPG-C109826
+nsset:        NSS:PIPNI:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   17.01.2005 13:25:00
+expire:       17.01.2012
+
+contact:      SB:FORPSI-SPG-S109826
+org:          Skupina p&Aring;ô&Atilde;&iexcl;tel historie a &Aring;&iexcl;ermu BARBA&Aring;òI
+name:         Patrik Ham&Atilde;&iexcl;&Auml;çek
+address:      B&Aring;ôezinova 7
+address:      &Aring;&nbsp;umperk
+address:      787 01
+address:      CZ
+e-mail:       patron@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      14.01.2005 08:45:00
+changed:      01.02.2010 14:42:20
+
+contact:      FORPSI-SPG-C109826
+name:         Patrik Ham&Atilde;&iexcl;&Auml;çek
+address:      B&Aring;ôezinova 7
+address:      &Aring;&nbsp;umperk
+address:      787 01
+address:      CZ
+phone:        +420.602521652
+e-mail:       patron@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      14.01.2005 08:45:00
+changed:      01.02.2010 14:36:19
+
+nsset:        NSS:PIPNI:1
+nserver:      ns.pipni.cz
+nserver:      ns2.pipni.cz
+nserver:      ns3.pipni.cz
+tech-c:       PIPNI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      28.05.2010 13:58:55
+
+contact:      PIPNI
+name:         Petr Simonek
+address:      Karlovo n&Atilde;&iexcl;m&Auml;õst&Atilde;&shy; 290/16
+address:      Praha 2
+address:      120 00
+address:      CZ
+registrar:    REG-PIPNI
+created:      14.02.2003 01:56:00
+changed:      23.01.2009 00:55:36
+
+

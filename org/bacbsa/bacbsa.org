@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3802131-LROR
+Domain Name:BACBSA.ORG
+Created On:02-Feb-1998 05:00:00 UTC
+Last Updated On:18-Jan-2011 17:17:56 UTC
+Expiration Date:01-Feb-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28323004-NSI
+Registrant Name:Bay Area Council BSA
+Registrant Organization:Bay Area Council BSA
+Registrant Street1:3020 53rd Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Galveston
+Registrant State/Province:TX
+Registrant Postal Code:77551
+Registrant Country:US
+Registrant Phone:+1.40974452
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rbasha@MASTNET.NET
+Admin ID:43229210-NSI
+Admin Name:Bay Area Council, BSA
+Admin Street1:3020 53rd Street
+Admin Street2:
+Admin Street3:
+Admin City:Galveston
+Admin State/Province:TX
+Admin Postal Code:77551
+Admin Country:US
+Admin Phone:+1.4097445206
+Admin Phone Ext.:
+Admin FAX:+1.4077447850
+Admin FAX Ext.:
+Admin Email:tina.brendle@scouting.org
+Tech ID:5408012-NSI
+Tech Name:TANGASAMY TAMIZHARASU,
+Tech Street1:5433 Westheimer Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:TX
+Tech Postal Code:77056
+Tech Country:US
+Tech Phone:+1.7139650485
+Tech Phone Ext.:
+Tech FAX:+1.7139650076
+Tech FAX Ext.:
+Tech Email:teksoft07@yahoo.com
+Name Server:NS45.WORLDNIC.COM
+Name Server:NS46.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
