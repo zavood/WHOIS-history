@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T00:17:54+12:00
+domain_name: bridge-christchurch.org.nz
+query_status: 200 Active
+domain_dateregistered: 1999-03-12T00:00:00+13:00
+domain_datebilleduntil: 2012-09-12T00:00:00+12:00
+domain_datelastmodified: 2011-09-11T16:47:04+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: treshna Enterprises Ltd
+registrant_contact_address1: 267 Madras Street
+registrant_contact_city: Christchurch
+registrant_contact_province: Canterbury
+registrant_contact_postalcode: 8001
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 3663649
+registrant_contact_email: ns@treshna.com
+%
+admin_contact_name: Jira Communications Ltd
+admin_contact_address1: PO Box 38
+admin_contact_city: Waimate
+admin_contact_province: South Canterbury
+admin_contact_postalcode: 7960
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 6891374
+admin_contact_fax: +64 3 6891375
+admin_contact_email: service@jira.co.nz
+%
+technical_contact_name: treshna Enterprises Ltd
+technical_contact_address1: P.O. Box 13-522
+technical_contact_address2: 267 Madras Street
+technical_contact_city: Christchurch
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 3 3663649
+technical_contact_email: ns@treshna.com
+%
+ns_name_01: ns1.1stdomains.net.nz
+ns_name_02: ns2.1stdomains.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
