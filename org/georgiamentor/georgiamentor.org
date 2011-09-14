@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8279579-LROR
+Domain Name:GEORGIAMENTOR.ORG
+Created On:22-Jul-1999 01:12:10 UTC
+Last Updated On:10-Jun-2010 06:50:53 UTC
+Expiration Date:22-Jul-2012 01:12:10 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6252299-NSI
+Registrant Name:Xap Corporation
+Registrant Organization:Xap Corporation
+Registrant Street1:3534 HAYDEN AVE
+Registrant Street2:
+Registrant Street3:
+Registrant City:CULVER CITY
+Registrant State/Province:CA
+Registrant Postal Code:90232-2413
+Registrant Country:US
+Registrant Phone:+1.3108429800
+Registrant Phone Ext.:
+Registrant FAX:+1.3108429898
+Registrant FAX Ext.:
+Registrant Email:payables@xap.com
+Admin ID:29607495-NSI
+Admin Name:Domain Contact
+Admin Organization:Contact, Domain Admin
+Admin Street1:Xap Corporation
+Admin Street2:3534 Hayden Ave
+Admin Street3:
+Admin City:Culver City
+Admin State/Province:CA
+Admin Postal Code:90232
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:dadmin@XAP.COM
+Tech ID:21425647-NSI
+Tech Name:Xap Corporation
+Tech Organization:Xap Corporation
+Tech Street1:3534 Hayden Ave
+Tech Street2:
+Tech Street3:
+Tech City:Culver City
+Tech State/Province:CA
+Tech Postal Code:90232
+Tech Country:US
+Tech Phone:+1.3108429800
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dtech@XAP.COM
+Name Server:NS2.XAP.COM
+Name Server:NS1.XAP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

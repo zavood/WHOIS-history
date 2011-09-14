@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148236318-LROR
+Domain Name:CCBLOGS.ORG
+Created On:25-Jun-2007 19:07:00 UTC
+Last Updated On:15-Sep-2010 19:41:16 UTC
+Expiration Date:25-Jun-2013 19:07:00 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C000027B2A
+Registrant Name:Maureen Gavin
+Registrant Organization:Christian Century
+Registrant Street1:104 S. Michigan Avenue
+Registrant Street2:Suite 700
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60603
+Registrant Country:US
+Registrant Phone:+1.3122637510
+Registrant Phone Ext.:226
+Registrant FAX:+1.3122637540
+Registrant FAX Ext.:
+Registrant Email:9f978fe5762dd441e67de0d36069c1b572787adc@whois.gkg.net
+Admin ID:GKG-C000027B2A
+Admin Name:Maureen Gavin
+Admin Organization:Christian Century
+Admin Street1:104 S. Michigan Avenue
+Admin Street2:Suite 700
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60603
+Admin Country:US
+Admin Phone:+1.3122637510
+Admin Phone Ext.:226
+Admin FAX:+1.3122637540
+Admin FAX Ext.:
+Admin Email:9f978fe5762dd441e67de0d36069c1b572787adc@whois.gkg.net
+Tech ID:GKG-C000027B2A
+Tech Name:Maureen Gavin
+Tech Organization:Christian Century
+Tech Street1:104 S. Michigan Avenue
+Tech Street2:Suite 700
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60603
+Tech Country:US
+Tech Phone:+1.3122637510
+Tech Phone Ext.:226
+Tech FAX:+1.3122637540
+Tech FAX Ext.:
+Tech Email:9f978fe5762dd441e67de0d36069c1b572787adc@whois.gkg.net
+Name Server:NS3.GKG.NET
+Name Server:NS4.GKG.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

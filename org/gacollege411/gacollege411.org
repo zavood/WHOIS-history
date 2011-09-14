@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105003604-LROR
+Domain Name:GACOLLEGE411.ORG
+Created On:15-Oct-2004 18:08:05 UTC
+Last Updated On:27-Jan-2005 18:34:46 UTC
+Expiration Date:15-Oct-2014 18:08:05 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38549407-NSI
+Registrant Name:GeorgiaStudentFinance Commission
+Registrant Organization:GeorgiaStudentFinance Commission
+Registrant Street1:2082 East Exchange Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tucker
+Registrant State/Province:GA
+Registrant Postal Code:30084
+Registrant Country:US
+Registrant Phone:+1.7707249305
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38549407-NSI
+Admin Name:GeorgiaStudentFinance Commission
+Admin Organization:GeorgiaStudentFinance Commission
+Admin Street1:2082 East Exchange Place
+Admin Street2:
+Admin Street3:
+Admin City:Tucker
+Admin State/Province:GA
+Admin Postal Code:30084
+Admin Country:US
+Admin Phone:+1.7707249305
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:38549407-NSI
+Tech Name:GeorgiaStudentFinance Commission
+Tech Organization:GeorgiaStudentFinance Commission
+Tech Street1:2082 East Exchange Place
+Tech Street2:
+Tech Street3:
+Tech City:Tucker
+Tech State/Province:GA
+Tech Postal Code:30084
+Tech Country:US
+Tech Phone:+1.7707249305
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS2.XAP.COM
+Name Server:NS1.XAP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,25 @@
+[Domain]
+Domain: eurolines.lv
+Status: active
+Changed: 2007-03-19T15:07:21+02:00
+
+[Holder]
+Type: Legal person
+Name: SIA &quot;Baltijas autobusu linijas&quot;
+Email: None
+Phone: None
+Address: Pragas iela 1, Riga, LV-1050, Latvia
+RegNr: 40003192262
+
+[Tech]
+Type: Natural person
+Email: ansis@hostnet.lv
+Phone: +371 29477855
+
+[Nservers]
+Nserver: ns3.hostnet.lv
+Nserver: ns.hostnet.lv
+Nserver: ns2.hostnet.lv
+
+[Whois]
+Updated: 2011-09-14T17:12:25.249591+00:00
