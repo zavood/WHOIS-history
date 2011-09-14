@@ -1,0 +1,17 @@
+
+domain:   kuluttajavirasto.fi
+descr:    Kuluttajavirasto
+descr:    02446786
+address:  Hannu Alhonen
+address:  Haapaniemenkatu 4
+address:  00530
+address:  HELSINKI
+phone:    09 77261
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2013
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

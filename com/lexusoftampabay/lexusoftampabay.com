@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
+   Domain Name: LEXUSOFTAMPABAY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.AUTONATION.COM
+   Name Server: DNS2.AUTONATION.COM
+   Name Server: DNS201.REPIND.COM
+   Name Server: DNS202.REPIND.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Updated Date: 17-aug-2011
+   Creation Date: 31-jul-1998
+   Expiration Date: 30-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:46:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... lexusoftampabay.com
+  Creation Date........ 1998-07-31
+  Registration Date.... 2009-07-06
+  Expiry Date.......... 2012-07-31
+  Organisation Name.... AutoNation Holding Corp
+  Organisation Address. 110 SE Sixth Street
+  Organisation Address.
+  Organisation Address. Ft. Lauderdale
+  Organisation Address. 33301
+  Organisation Address. FL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Admin Internic Registrations
+  Admin Address........ 110 SE 6th Street
+  Admin Address........
+  Admin Address........ Fort Lauderdale
+  Admin Address........ 33301
+  Admin Address........ FL
+  Admin Address........ UNITED STATES
+  Admin Email.......... admininternic@autonation.com
+  Admin Phone.......... +1.9547697000
+  Admin Fax............ +1.9547696464
+
+Tech Name............ It InterNic Registrations
+  Tech Address......... 110 SE Sixth Street
+  Tech Address.........
+  Tech Address......... Ft. Lauderdale
+  Tech Address......... 33301
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... itinternic@autonation.com
+  Tech Phone........... +1.9547697000
+  Tech Fax............. +1.9547696464
+  Name Server.......... DNS202.REPIND.COM
+  Name Server.......... DNS1.AUTONATION.COM
+  Name Server.......... DNS2.AUTONATION.COM
+  Name Server.......... DNS201.REPIND.COM
+
+

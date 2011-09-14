@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
+   Domain Name: MASTHEADMEMORIES.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.PREVARIOHOST.COM
+   Name Server: NS2.PREVARIOHOST.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Updated Date: 20-jan-2011
+   Creation Date: 19-jan-2007
+   Expiration Date: 19-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
 
@@ -55,5 +53,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Incentive Media, Inc.
+   747 Mildred Street
+   Suite 300
+   Teaneck, NJ  07666
+   US
+
+   Registrar: DOTSTER
+   Domain Name: MASTHEADMEMORIES.COM
+      Created on: 19-JAN-07
+      Expires on: 19-JAN-12
+      Last Updated on: 30-DEC-10
+
+   Administrative, Technical Contact:
+      Rappoport, Daniel  drappoport@aol.com
+      Incentive Media, Inc.
+      747 Mildred Street
+      Suite 300
+      Teaneck, NJ  07666
+      US
+      201-692-1995
+      201-692-9535
+
+
+   Domain servers in listed order:
+      NS1.PREVARIOHOST.COM
+      NS2.PREVARIOHOST.COM
+
+End of Whois Information

@@ -1,0 +1,18 @@
+
+domain:   lpt.fi
+descr:    P&auml;ij&auml;t-H&auml;meen koulutuskonserni-kuntayhtym&auml;
+descr:    09936446
+address:  Tietohallintopalvelut
+address:  Teinintie 4
+address:  15200
+address:  Lahti
+phone:    050 526 5827
+status:   Granted
+created:  1.1.1991
+expires:  7.5.2013
+nserver: amoeboid.lpt.fi [OK] 193.166.79.4
+nserver: ns-secondary.funet.fi [OK]
+nserver: ukko.phkk.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

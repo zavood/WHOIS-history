@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAVELGENIO.COM
+   Domain Name: LXPRESSCLEANING.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS33.1AND1.CO.UK
+   Name Server: NS34.1AND1.CO.UK
    Status: ok
-   Updated Date: 05-aug-2011
-   Creation Date: 04-aug-2009
-   Expiration Date: 04-aug-2012
+   Updated Date: 27-may-2011
+   Creation Date: 26-may-2004
+   Expiration Date: 26-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:46:39 UTC &lt;&lt;&lt;
 
@@ -71,65 +69,65 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          travelgenio.com
-created:                         04-Aug-2009
-last-changed:                    15-Aug-2011
-registration-expiration:         04-Aug-2012
+domain:                          lxpresscleaning.com
+created:                         27-May-2004
+last-changed:                    27-May-2011
+registration-expiration:         26-May-2012
 
-nserver:                         ns10.dnsmadeeasy.com 208.94.148.4
-nserver:                         ns11.dnsmadeeasy.com 208.80.124.4
-nserver:                         ns12.dnsmadeeasy.com 208.80.126.4
-nserver:                         ns13.dnsmadeeasy.com 208.80.125.4
+nserver:                         ns33.1and1.co.uk
+nserver:                         ns34.1and1.co.uk
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-organization:         Travelgenio SL
-registrant-street1:              Miguel Yuste, 29, B24
-registrant-pcode:                28037
-registrant-state:                M
-registrant-city:                 Madrid
-registrant-ccode:                ES
-registrant-phone:                +34.911160765
-registrant-fax:                  +34.913750128
-registrant-email:                itsupport@travelgenio.com
+registrant-firstname:            Ramesh
+registrant-lastname:             Sharma
+registrant-organization:         The Publishing Group Ltd
+registrant-street1:              124-128 City Road
+registrant-street2:              Fergusson House, First Floor
+registrant-pcode:                EC1V 2NJ
+registrant-city:                 London
+registrant-ccode:                GB
+registrant-phone:                +44.2074900179
+registrant-fax:                  +44.2078270567
+registrant-email:                ramesh@thepublishinggroup.co.uk
 
-admin-c-firstname:               Mariano
-admin-c-lastname:                Pelizzari
-admin-c-street1:                 Calle Miguel Yuste 29
-admin-c-street2:                 B24
-admin-c-pcode:                   28037
-admin-c-state:                   M
-admin-c-city:                    Madrid
-admin-c-ccode:                   ES
-admin-c-phone:                   +34.911160765
-admin-c-fax:                     +34.913750128
-admin-c-email:                   domains@travelgenio.com
+admin-c-firstname:               Ramesh
+admin-c-lastname:                Sharma
+admin-c-organization:            The Publishing Group Ltd
+admin-c-street1:                 124-128 City Road
+admin-c-street2:                 Fergusson House, First Floor
+admin-c-pcode:                   EC1V 2NJ
+admin-c-city:                    London
+admin-c-ccode:                   GB
+admin-c-phone:                   +44.2074900179
+admin-c-fax:                     +44.2078270567
+admin-c-email:                   ramesh@thepublishinggroup.co.uk
 
 tech-c-firstname:                Hostmaster
 tech-c-lastname:                 ONEANDONE
-tech-c-organization:             1&amp;1 Internet Espana S.L.U.
-tech-c-street1:                  Calle Narciso Serra 14
-tech-c-street2:                  NULL
-tech-c-pcode:                    28007
-tech-c-state:                    M
-tech-c-city:                     Madrid
-tech-c-ccode:                    ES
-tech-c-phone:                    +34.902585111
-tech-c-fax:                      +34.902023296
-tech-c-email:                    hostmaster@1and1.es
+tech-c-organization:             1&amp;1 Internet Ltd.
+tech-c-street1:                  10-14 Bath Road
+tech-c-street2:                  Aquasulis House
+tech-c-pcode:                    SL1 3SA
+tech-c-state:                    BRK
+tech-c-city:                     Slough
+tech-c-ccode:                    GB
+tech-c-phone:                    +44.8716412121
+tech-c-fax:                      +49.72191374215
+tech-c-email:                    hostmaster@1and1.co.uk
 
 bill-c-firstname:                Hostmaster
 bill-c-lastname:                 ONEANDONE
-bill-c-organization:             1&amp;1 Internet Espana S.L.U.
-bill-c-street1:                  Calle Narciso Serra 14
-bill-c-street2:                  NULL
-bill-c-pcode:                    28007
-bill-c-state:                    M
-bill-c-city:                     Madrid
-bill-c-ccode:                    ES
-bill-c-phone:                    +34.902585111
-bill-c-fax:                      +34.902023296
-bill-c-email:                    hostmaster@1and1.es
+bill-c-organization:             1&amp;1 Internet Ltd.
+bill-c-street1:                  10-14 Bath Road
+bill-c-street2:                  Aquasulis House
+bill-c-pcode:                    SL1 3SA
+bill-c-state:                    BRK
+bill-c-city:                     Slough
+bill-c-ccode:                    GB
+bill-c-phone:                    +44.8716412121
+bill-c-fax:                      +49.72191374215
+bill-c-email:                    hostmaster@1and1.co.uk
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 

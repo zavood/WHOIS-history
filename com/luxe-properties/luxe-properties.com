@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
+   Domain Name: LUXE-PROPERTIES.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 08-apr-2011
+   Creation Date: 14-apr-2010
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

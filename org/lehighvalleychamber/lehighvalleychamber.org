@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D36686293-LROR
+Domain Name:LEHIGHVALLEYCHAMBER.ORG
+Created On:28-Sep-2000 15:33:15 UTC
+Last Updated On:02-Dec-2010 15:42:14 UTC
+Expiration Date:28-Sep-2018 15:33:15 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-0VFMU3VREMIF
+Registrant Name:Michael Miller
+Registrant Organization:Partners in Technological Excellence LLC
+Registrant Street1:2280 Tonto Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Auburn
+Registrant State/Province:PA
+Registrant Postal Code:17922
+Registrant Country:US
+Registrant Phone:+1.4843573830
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:michael@techexcellence.biz
+Admin ID:DOT-9W445DKLKCTN
+Admin Name:Michael Miller
+Admin Organization:Partners in Technological Excellence LLC
+Admin Street1:2280 Tonto Drive
+Admin Street2:
+Admin Street3:
+Admin City:Auburn
+Admin State/Province:PA
+Admin Postal Code:17922
+Admin Country:US
+Admin Phone:+1.4843573830
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:michael@techexcellence.biz
+Tech ID:DOT-Y1W5GN5TA435
+Tech Name:Michael Miller
+Tech Organization:Partners in Technological Excellence LLC
+Tech Street1:2280 Tonto Drive
+Tech Street2:
+Tech Street3:
+Tech City:Auburn
+Tech State/Province:PA
+Tech Postal Code:17922
+Tech Country:US
+Tech Phone:+1.4843573830
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:michael@techexcellence.biz
+Name Server:DNS1.WEBLINKCONNECT.COM
+Name Server:DNS2.WEBLINKCONNECT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,18 @@
+
+domain:   lohja.fi
+descr:    Lohjan kaupunki
+descr:    10683220
+address:  Tietohallinto
+address:  Ojamonkatu 36
+address:  08100
+address:  Lohja
+phone:    +358193690
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns-fi.elisa.net [OK]
+nserver: nslohja.lohja.fi [OK] 194.241.59.201
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

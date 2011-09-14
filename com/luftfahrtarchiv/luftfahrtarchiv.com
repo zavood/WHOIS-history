@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Domain Name: LUFTFAHRTARCHIV.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: NS1.WEBPAGE.T-COM.DE
+   Name Server: NS2.WEBPAGE.T-COM.DE
+   Status: ok
+   Updated Date: 07-jun-2011
+   Creation Date: 06-jun-2000
+   Expiration Date: 06-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:46:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
+
+domain: luftfahrtarchiv.com
+registrant-hdl: RDT-MW1286
+admin-c: RDT-MW1286
+tech-c: RDT-KO214
+zone-c: RDT-KO214
+nserver: ns1.webpage.t-com.de
+nserver: ns2.webpage.t-com.de
+status: connected
+changed: 2006-09-01
+created: 2005-06-30
+expires: 2012-06-30
+source: DEUTSCHE TELEKOM AG

@@ -1,0 +1,18 @@
+
+domain:   lnet.fi
+descr:    Lappeenrannan seudun opiskelija-asuntos&auml;&auml;ti&ouml;
+descr:    02068252
+address:  Timo Nurmi
+address:  Leirikatu 2 F
+address:  53900
+address:  Lappeenranta
+phone:    05 668 2800
+status:   Granted
+created:  4.7.2006
+expires:  4.7.2012
+nserver: ns1.lnet.fi [OK] 86.50.48.2
+nserver: ns2.lnet.fi [OK] 86.50.48.12
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

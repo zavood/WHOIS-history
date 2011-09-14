@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TZO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.TZO.COM
-   Name Server: NS2.TZO.COM
-   Name Server: NS3.TZO.COM
-   Name Server: NS4.TZO.COM
-   Name Server: NS5.TZO.COM
+   Domain Name: LEEHUB.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS-CANADA.TOPDNS.COM
+   Name Server: NS-UK.TOPDNS.COM
+   Name Server: NS-USA.TOPDNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 25-nov-1997
-   Expiration Date: 24-nov-2011
+   Updated Date: 06-dec-2010
+   Creation Date: 06-dec-2010
+   Expiration Date: 06-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:46:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +52,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain leehub.com
+
+Date Registered: 2010-12-6
+Date Modified: 2010-12-6
+Expiry Date: 2011-12-6
+
+DNS1: ns-canada.topdns.com
+DNS2: ns-uk.topdns.com
+DNS3: ns-usa.topdns.com
+
+Registrant
+    Private Whois leehub.com
+    Private Whois leehub.com  o3q72a64d95af8b93e3f@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o leehub.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois leehub.com
+    Private Whois leehub.com  rydd40v4d95af8ba129a@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o leehub.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois leehub.com
+    Private Whois leehub.com  ru3ogpr4d95af8b99976@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o leehub.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
