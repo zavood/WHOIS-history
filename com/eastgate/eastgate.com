@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 7SPRINGS.COM
+   Domain Name: EASTGATE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: FERRARI.FORTWAYNE.COM
-   Name Server: JORDAN.FORTWAYNE.COM
-   Name Server: NS.WVWEB.NET
-   Name Server: QUATRO.OWEB.COM
+   Name Server: NS0000.NS0.COM
+   Name Server: NS111.PAIR.COM
    Status: clientTransferProhibited
-   Updated Date: 13-aug-2009
-   Creation Date: 08-dec-1995
-   Expiration Date: 07-dec-2011
+   Updated Date: 07-apr-2009
+   Creation Date: 11-jan-1995
+   Expiration Date: 10-jan-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:43:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:42:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: 7springs.com
+Whois Query: eastgate.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 03:39:39 EDT 2011
+Date and Time of Query: Wed Sep 14 03:32:54 EDT 2011
 Reason Code: IE

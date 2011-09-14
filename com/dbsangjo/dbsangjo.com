@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 7SPRINGS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: FERRARI.FORTWAYNE.COM
-   Name Server: JORDAN.FORTWAYNE.COM
-   Name Server: NS.WVWEB.NET
-   Name Server: QUATRO.OWEB.COM
-   Status: clientTransferProhibited
-   Updated Date: 13-aug-2009
-   Creation Date: 08-dec-1995
-   Expiration Date: 07-dec-2011
+   Domain Name: DBSANGJO.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.NCOMSERVICE.CO.KR
+   Name Server: NS2.NCOMSERVICE.CO.KR
+   Status: ok
+   Updated Date: 02-sep-2011
+   Creation Date: 18-jan-2004
+   Expiration Date: 18-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:43:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:44:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: 7springs.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 03:39:39 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
