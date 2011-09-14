@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BESTMETROATLANTAHOMESEARCH.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Domain Name: BESTFIBERGLASSPOOLS.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.WEBLINKSTUDIO.COM
+   Name Server: NS2.WEBLINKSTUDIO.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-aug-2011
-   Creation Date: 26-aug-2009
-   Expiration Date: 26-aug-2012
+   Updated Date: 30-nov-2010
+   Creation Date: 29-nov-2005
+   Expiration Date: 29-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:27:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:27:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
+   Domain Services Provided By:
+      WebLink Studio, Inc., support@weblinkstudio.com
+      weblinkstudio.com
 
 Registrant:
-   the zac team
+   Joe Ordini
+   801 Rt413
+   Bristol, PA  19007
+   US
 
-   Registered through: Real Pro Domains
-   Domain Name: BESTMETROATLANTAHOMESEARCH.COM
+   Registrar: DOTSTER
+   Domain Name: BESTFIBERGLASSPOOLS.COM
+      Created on: 29-NOV-05
+      Expires on: 29-NOV-11
+      Last Updated on: 09-NOV-10
+
+   Administrative, Technical Contact:
+      Frank, Gudrun  gudrun@weblinkstudio.com
+      Weblink Studio, Inc.
+      223 North Sycamore St
+      Newtown, PA  18940
+      US
+      267-364-0300
+
 
    Domain servers in listed order:
-      NS.RACKSPACE.COM
-      NS2.RACKSPACE.COM
+      NS1.WEBLINKSTUDIO.COM
+      NS2.WEBLINKSTUDIO.COM
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=BESTMETROATLANTAHOMESEARCH.COM&amp;prog_id=RealPro
+End of Whois Information

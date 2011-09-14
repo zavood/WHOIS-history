@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D59051310-LROR
+Domain Name:BERRYPETROLEUM.ORG
+Created On:08-Feb-2001 18:06:23 UTC
+Last Updated On:29-Dec-2009 17:14:45 UTC
+Expiration Date:08-Feb-2015 18:06:23 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5715245-NSI
+Registrant Name:Berry Petroleum Company
+Registrant Organization:Berry Petroleum Company
+Registrant Street1:5201 Truxtun Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bakersfield
+Registrant State/Province:CA
+Registrant Postal Code:93309
+Registrant Country:US
+Registrant Phone:+1.6616163875
+Registrant Phone Ext.:
+Registrant FAX:+1.6616163889
+Registrant FAX Ext.:
+Registrant Email:ggw@bry.com
+Admin ID:19548581-NSI
+Admin Name:BERRY PETROLEUM
+Admin Organization:BERRY PETROLEUM
+Admin Street1:5201 Truxtun Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Bakersfield
+Admin State/Province:CA
+Admin Postal Code:93309
+Admin Country:US
+Admin Phone:+1.6616163875
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ggw@BRY.COM
+Tech ID:35750961-NSI
+Tech Name:Chris Bryant
+Tech Organization:Berry Petroleum Company
+Tech Street1:5201 Truxtun Ave.
+Tech Street2:Suite 300
+Tech Street3:
+Tech City:Bakersfield
+Tech State/Province:CA
+Tech Postal Code:93309
+Tech Country:US
+Tech Phone:+1.661616387
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:crb@bry.com
+Name Server:NS1.PTLD.TWTELECOM.NET
+Name Server:NS1.ORNG.TWTELECOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

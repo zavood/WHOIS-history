@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SECURESITEX2.COM
+   Domain Name: AMATEUR-BOOTS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.SECURESITEX2.COM
-   Name Server: NS2.SECURESITEX2.COM
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
+   Name Server: DNS4.REGISTRAR-SERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 10-jun-2011
-   Creation Date: 16-jun-2004
-   Expiration Date: 16-jun-2012
+   Updated Date: 21-sep-2010
+   Creation Date: 21-sep-2010
+   Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:27:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:27:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +54,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about securesitex2.com
-&lt;a href=&quot;http://www.aboutus.org/securesitex2.com&quot;&gt;AboutUs: securesitex2.com&lt;/a&gt;
+Visit AboutUs.org for more information about amateur-boots.com
+&lt;a href=&quot;http://www.aboutus.org/amateur-boots.com&quot;&gt;AboutUs: amateur-boots.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: securesitex2.com
+Domain name: amateur-boots.com
 
 Registrant Contact:
-   InnovaTech Media Ltd.
-   Keiron Skillett ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   PO Box 3618
-   Swindon, Wiltshire SN2 9GA
-   GB
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Administrative Contact:
-   InnovaTech Media Ltd.
-   Keiron Skillett (admin@innovatech-media.com)
-   +44.8432899199
-   Fax: +44.
-   PO Box 3618
-   Swindon, Wiltshire SN2 9GA
-   GB
+   WhoisGuard
+   WhoisGuard Protected (fc866fe75e6c4477be1ce8a1b62eec04.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Technical Contact:
-   InnovaTech Media Ltd.
-   Keiron Skillett (admin@innovatech-media.com)
-   +44.8432899199
-   Fax: +44.
-   PO Box 3618
-   Swindon, Wiltshire SN2 9GA
-   GB
+   WhoisGuard
+   WhoisGuard Protected (fc866fe75e6c4477be1ce8a1b62eec04.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Status: Locked
 
 Name Servers:
-   NS1.SECURESITEX2.COM
-   NS2.SECURESITEX2.COM
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
+   dns4.registrar-servers.com
 
-Creation date: 16 Jun 2004 11:34:20
-Expiration date: 16 Jun 2012 11:34:20
+Creation date: 21 Sep 2010 10:30:00
+Expiration date: 21 Sep 2011 05:30:00
 
 
 

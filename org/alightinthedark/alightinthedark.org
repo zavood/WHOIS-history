@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104580158-LROR
+Domain Name:ALIGHTINTHEDARK.ORG
+Created On:29-Jun-2004 17:25:25 UTC
+Last Updated On:16-Jun-2010 00:28:13 UTC
+Expiration Date:29-Jun-2012 17:25:25 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BB6510533A6334E2
+Registrant Name:J.G. Kramer
+Registrant Organization:A Light In The Darkness
+Registrant Street1:4865 Rainbow Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rainbow City
+Registrant State/Province:AL
+Registrant Postal Code:3906
+Registrant Country:US
+Registrant Phone:+1.2564429359
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jgkramer@maxhub.com
+Admin ID:BB6510533A6334E2
+Admin Name:J.G. Kramer
+Admin Organization:A Light In The Darkness
+Admin Street1:4865 Rainbow Drive
+Admin Street2:
+Admin Street3:
+Admin City:Rainbow City
+Admin State/Province:AL
+Admin Postal Code:3906
+Admin Country:US
+Admin Phone:+1.2564429359
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jgkramer@maxhub.com
+Tech ID:BB6510533A6334E2
+Tech Name:J.G. Kramer
+Tech Organization:A Light In The Darkness
+Tech Street1:4865 Rainbow Drive
+Tech Street2:
+Tech Street3:
+Tech City:Rainbow City
+Tech State/Province:AL
+Tech Postal Code:3906
+Tech Country:US
+Tech Phone:+1.2564429359
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jgkramer@maxhub.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

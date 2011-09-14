@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lequipetv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lequipetv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LET4-FRNIC
+admin-c:     MG13820-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ATOS WORLDLINE
+anniversary: 03/08
+created:     24/04/1998
+last-update: 20/11/2008
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ATOS WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     LET4-FRNIC
+type:        ORGANIZATION
+contact:     L'equipe TV
+address:     2, rue Rouget de l'Isle
+address:     92130 Issy-les-Moulineaux
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MG13820-FRNIC
+type:        PERSON
+contact:     Marie-Claude Gachet
+address:     L'equipe TV
+address:     2, rue Rouget de l'Isle
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 40 10 31 90
+fax-no:      +33 1 40 10 35 94
+e-mail:      mcgachet@ed-amaury.fr
+notify:      mcgachet@ed-amaury.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
