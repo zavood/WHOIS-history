@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLNURSES.COM
+   Domain Name: MYHELPFULNERD.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2008
-   Creation Date: 14-mar-1999
-   Expiration Date: 15-jun-2017
+   Updated Date: 11-jun-2011
+   Creation Date: 11-jun-2008
+   Expiration Date: 11-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   allnurses.com
+   Ken Cation
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ALLNURSES.COM
+   Domain Name: MYHELPFULNERD.COM
 
    Domain servers in listed order:
-      NS2.NATIONALNET.COM
-      NS1.NATIONALNET.COM
+      NS1.BLUEHOST.COM
+      NS2.BLUEHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ALLNURSES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MYHELPFULNERD.COM

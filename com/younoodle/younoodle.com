@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLNURSES.COM
+   Domain Name: YOUNOODLE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Name Server: NS-1318.AWSDNS-36.ORG
+   Name Server: NS-1783.AWSDNS-30.CO.UK
+   Name Server: NS-6.AWSDNS-00.COM
+   Name Server: NS-983.AWSDNS-58.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2008
-   Creation Date: 14-mar-1999
-   Expiration Date: 15-jun-2017
+   Updated Date: 19-feb-2011
+   Creation Date: 05-jul-2006
+   Expiration Date: 05-jul-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   allnurses.com
+   YouNoodle, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ALLNURSES.COM
+   Domain Name: YOUNOODLE.COM
 
    Domain servers in listed order:
-      NS2.NATIONALNET.COM
-      NS1.NATIONALNET.COM
+      NS-6.AWSDNS-00.COM
+      NS-1783.AWSDNS-30.CO.UK
+      NS-983.AWSDNS-58.NET
+      NS-1318.AWSDNS-36.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ALLNURSES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=YOUNOODLE.COM

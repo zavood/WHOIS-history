@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLNURSES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ECLIENT12.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.EMAILDIRECT.COM
+   Name Server: NS2.EMAILDIRECT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-aug-2008
-   Creation Date: 14-mar-1999
-   Expiration Date: 15-jun-2017
+   Updated Date: 26-apr-2011
+   Creation Date: 18-jun-2009
+   Expiration Date: 18-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
-   allnurses.com
+   EmailDirect, Inc.
+   2995 Prospect Park
+   #100
+   Rancho Cordova, CA 95670
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ALLNURSES.COM
+   Domain Name: ECLIENT12.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      EmailDirect, Inc.
+      Host Master
+      2995 Prospect Park
+      #100
+      Rancho Cordova, CA 95670
+      US
+      (916)417-8179
+      noc@emaildirect.com
+
+   Domain created on 18-Jun-2009
+   Domain expires on 18-Jun-2012
+   Last updated on 26-Apr-2011
 
    Domain servers in listed order:
-      NS2.NATIONALNET.COM
-      NS1.NATIONALNET.COM
 
+      NS1.EMAILDIRECT.COM
+      NS2.EMAILDIRECT.COM
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ALLNURSES.COM
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

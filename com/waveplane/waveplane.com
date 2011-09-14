@@ -5,20 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCHOOLLOOP.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: 3.NS.SCHOOLLOOP.COM
-   Name Server: 4.NS.SCHOOLLOOP.COM
-   Name Server: 99.NS.SCHOOLLOOP.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-jul-2011
-   Creation Date: 11-apr-2004
-   Expiration Date: 11-apr-2017
+   Domain Name: WAVEPLANE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SURF-TOWN.NET
+   Name Server: NS2.SURF-TOWN.NET
+   Name Server: NS3.SURF-TOWN.NET
+   Status: ok
+   Updated Date: 03-nov-2010
+   Creation Date: 12-jun-1998
+   Expiration Date: 11-jun-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:02 UTC &lt;&lt;&lt;
 
@@ -55,38 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about waveplane.com
+&lt;a href=&quot;http://www.aboutus.org/waveplane.com&quot;&gt;AboutUs: waveplane.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: waveplane.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SCHOOLLOOP.COM
+Administrative Contact:
+   Surftown Domains
+   Surftown Domain (dns@surf-town.net)
+   +45.70702474
+   Fax:
+   Lauptrupsgade 9, 1
+   Copenhagen OE, DK 2100
+   DK
 
-   Domain servers in listed order:
-      3.NS.SCHOOLLOOP.COM
-      4.NS.SCHOOLLOOP.COM
-      99.NS.SCHOOLLOOP.COM
+Technical Contact:
+   Surftown AS
+   DNS Administrator (dns@surf-townnet)
+   +45.70200776
+   Fax: +45.70200776
+   Lautrupsgade 9 1
+   Koebenhavn OE,  2100
+   DK
+
+Registrant Contact:
+   Surftown Domains
+   Surftown Domain ()
+
+   Fax:
+   Lauptrupsgade 9, 1
+   Copenhagen OE, DK 2100
+   DK
+
+Status: Active
+
+Name Servers:
+   ns1.surf-town.net
+   ns2.surf-town.net
+   ns3.surf-town.net
+
+Creation date: 12 Jun 1998 04:00:00
+Expiration date: 11 Jun 2013 04:00:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SCHOOLLOOP.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

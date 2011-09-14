@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLNURSES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Domain Name: ORGNUMERI.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2008
-   Creation Date: 14-mar-1999
-   Expiration Date: 15-jun-2017
+   Updated Date: 14-apr-2011
+   Creation Date: 20-mar-2006
+   Expiration Date: 20-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: ORGNUMERI.COM
+     Created on: 2006-03-20
+     Updated on: 2011-04-14
+     Expires on: 2012-03-20
+     Registrant Name: ORG_NUMERI SRL
+     Contact: Org_numeri Srl
+     Registrant Address: Via Duca D?Aosta, 16
+     Registrant City: Silea
+     Registrant Postal Code: 31057
+     Registrant Country: IT
+     Administrative Contact Organization: Enzo Stefani
+     Administrative Contact Name: Enzo Stefani
+     Administrative Contact Address: Via Duca D?Aosta, 16
+     Administrative Contact City: Silea
+     Administrative Contact Postal Code: 31057
+     Administrative Contact Country: IT
+     Administrative Contact Email: domini@webcola.info
+     Administrative Contact Tel: +39 042 2841469
+     Administrative Contact Fax: +39 042 2683199
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
-Registrant:
-   allnurses.com
+&gt;&gt;&gt; Last update of whois database: Wed Sep 14 22:04:04 2011 &lt;&lt;&lt;
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ALLNURSES.COM
-
-   Domain servers in listed order:
-      NS2.NATIONALNET.COM
-      NS1.NATIONALNET.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ALLNURSES.COM

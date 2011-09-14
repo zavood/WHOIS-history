@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLNURSES.COM
+   Domain Name: THECABLESHOW.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Name Server: NS1.DNSIMPLE.COM
+   Name Server: NS2.DNSIMPLE.COM
+   Name Server: NS3.DNSIMPLE.COM
+   Name Server: NS4.DNSIMPLE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2008
-   Creation Date: 14-mar-1999
-   Expiration Date: 15-jun-2017
+   Updated Date: 31-mar-2011
+   Creation Date: 27-apr-2006
+   Expiration Date: 27-apr-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:46:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:44:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   allnurses.com
+   National Cable &amp; Telecommunications Association
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ALLNURSES.COM
+   Domain Name: THECABLESHOW.COM
 
    Domain servers in listed order:
-      NS2.NATIONALNET.COM
-      NS1.NATIONALNET.COM
+      NS1.DNSIMPLE.COM
+      NS2.DNSIMPLE.COM
+      NS3.DNSIMPLE.COM
+      NS4.DNSIMPLE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ALLNURSES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THECABLESHOW.COM
