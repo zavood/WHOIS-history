@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135117802-LROR
+Domain Name:FREEBRE.ORG
+Created On:15-Dec-2006 13:50:19 UTC
+Last Updated On:11-Jul-2009 20:59:16 UTC
+Expiration Date:15-Dec-2014 13:50:19 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-154237
+Registrant Name:OL LA
+Registrant Organization:1et0
+Registrant Street1:55, avenue Simon Bolivar
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:France
+Registrant Postal Code:75010
+Registrant Country:FR
+Registrant Phone:+33.0664441005
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@toonux.com
+Admin ID:ODN-154237
+Admin Name:OL LA
+Admin Organization:1et0
+Admin Street1:55, avenue Simon Bolivar
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:France
+Admin Postal Code:75010
+Admin Country:FR
+Admin Phone:+33.0664441005
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@toonux.com
+Tech ID:ODN-154237
+Tech Name:OL LA
+Tech Organization:1et0
+Tech Street1:55, avenue Simon Bolivar
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:France
+Tech Postal Code:75010
+Tech Country:FR
+Tech Phone:+33.0664441005
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@toonux.com
+Name Server:NS3.ZONEEDIT.COM
+Name Server:NS18.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SSDATTA.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS11.NETWAYWEB.NET
-   Name Server: NS12.NETWAYWEB.NET
-   Status: ok
-   Updated Date: 12-may-2011
-   Creation Date: 22-may-2007
-   Expiration Date: 22-may-2012
+   Domain Name: JOSTENS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS.JOSTENS.COM
+   Name Server: NS1.HICKORYTECH.NET
+   Name Server: NS2.JOSTENS.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-jan-2009
+   Creation Date: 25-jun-1994
+   Expiration Date: 24-jun-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:57:40 UTC &lt;&lt;&lt;
 
@@ -51,68 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: ADION SOLUTIONS
-Contact: +91.3332610453
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name: SSDATTA.COM
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Registrant:
-    n/a
-    S.S.Datta        (ssdatta_associates@yahoo.co.in)
-    192b,Haris Mukherjee Road
-    Kolkata
-    West Bengal,700026
-    IN
-    Tel. +91.9331263156
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Creation Date: 22-May-2007
-Expiration Date: 22-May-2012
+http://www.networksolutions.com/whois/index.jhtml
 
-Domain servers in listed order:
-    ns11.netwayweb.net
-    ns12.netwayweb.net
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-Administrative Contact:
-    n/a
-    S.S.Datta        (ssdatta_associates@yahoo.co.in)
-    192b,Haris Mukherjee Road
-    Kolkata
-    West Bengal,700026
-    IN
-    Tel. +91.9331263156
-
-Technical Contact:
-    n/a
-    S.S.Datta        (ssdatta_associates@yahoo.co.in)
-    192b,Haris Mukherjee Road
-    Kolkata
-    West Bengal,700026
-    IN
-    Tel. +91.9331263156
-
-Billing Contact:
-    n/a
-    S.S.Datta        (ssdatta_associates@yahoo.co.in)
-    192b,Haris Mukherjee Road
-    Kolkata
-    West Bengal,700026
-    IN
-    Tel. +91.9331263156
-
-Status:ACTIVE
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
+Whois Query: jostens.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 22:53:04 EDT 2011
+Reason Code: IE
