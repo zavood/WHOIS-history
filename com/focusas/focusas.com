@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.COM
+   Domain Name: FOCUSAS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Name Server: NS1057.HOSTGATOR.COM
+   Name Server: NS1058.HOSTGATOR.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-feb-2010
+   Creation Date: 04-sep-1999
+   Expiration Date: 04-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:24:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:23:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: nstld.com
+Whois Query: focusas.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 16:14:14 EDT 2011
+Date and Time of Query: Wed Sep 14 16:14:19 EDT 2011
 Reason Code: IE

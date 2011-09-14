@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.COM
+   Domain Name: LLBEAN.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Name Server: DCA-ANS-01.INET.QWEST.NET
+   Name Server: DNS1.LLBEAN.COM
+   Name Server: SVL-ANS-01.INET.QWEST.NET
+   Status: clientTransferProhibited
+   Updated Date: 25-apr-2011
+   Creation Date: 03-jan-1995
+   Expiration Date: 02-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:24:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:22:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: nstld.com
+Whois Query: llbean.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 16:14:14 EDT 2011
+Date and Time of Query: Wed Sep 14 16:13:17 EDT 2011
 Reason Code: IE

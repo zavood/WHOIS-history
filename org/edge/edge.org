@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2097473-LROR
+Domain Name:EDGE.ORG
+Created On:06-May-1994 04:00:00 UTC
+Last Updated On:14-Mar-2008 14:03:41 UTC
+Expiration Date:07-May-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31037969-NSI
+Registrant Name:Edge Foundation, Inc.
+Registrant Organization:Edge Foundation, Inc.
+Registrant Street1:5 East 59th Street
+Registrant Street2:Penthouse
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10022
+Registrant Country:US
+Registrant Phone:+1.21293589
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:john@BROCKMAN.COM
+Admin ID:31037970-NSI
+Admin Name:John Brockman
+Admin Organization:Brockman, Inc.
+Admin Street1:5 E 59TH ST
+Admin Street2:BROCKMAN, INC.
+Admin Street3:
+Admin City:NEW YORK
+Admin State/Province:NY
+Admin Postal Code:10022-1027
+Admin Country:US
+Admin Phone:+1.2129358900
+Admin Phone Ext.:
+Admin FAX:+1.2129355535
+Admin FAX Ext.:
+Admin Email:editor@edge.org
+Tech ID:31037970-NSI
+Tech Name:John Brockman
+Tech Organization:Brockman, Inc.
+Tech Street1:5 E 59TH ST
+Tech Street2:BROCKMAN, INC.
+Tech Street3:
+Tech City:NEW YORK
+Tech State/Province:NY
+Tech Postal Code:10022-1027
+Tech Country:US
+Tech Phone:+1.2129358900
+Tech Phone Ext.:
+Tech FAX:+1.2129355535
+Tech FAX Ext.:
+Tech Email:editor@edge.org
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

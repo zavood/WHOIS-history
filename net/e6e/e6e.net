@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Domain Name: E6E.NET
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS.DNS.NET.CN
+   Name Server: NS7.DNS.NET.CN
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 24-apr-2011
+   Creation Date: 20-may-2003
+   Expiration Date: 20-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:24:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:23:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,23 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 gao zhifeng e6eyou@yahoo.com.cn +86.9132080992
+	 gao zhifeng
+	 weinan
+	 weinan,shanxi,CN 714000
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: nstld.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 16:14:14 EDT 2011
-Reason Code: IE
+Domain Name:e6e.net
+Record last updated at 2011-04-24 20:37:43
+Record created on 2003/5/20
+Record expired on 2013/5/20
+
+
+Domain servers in listed order:
+	 ns.dns.net.cn 	 ns7.dns.net.cn
+
+Administrator:
+	 name:(gao zhifeng)
+	Email:(e6eyou@yahoo.com.cn) tel-- +86.9132080992
+	 gao zhifeng
+	 weinan
+\r
+t weinan
+shanxi,
+CN
+
+ zipcode:714000
+
+Technical Contactor:
+	 name:(wu ji)
+	Email:(domain@nihao.net) tel-- +86.1062118246
+	 vitech networks technology(beijing) co.ltd
+	 402,xinsanyuan service center,xueyuan southroad,haidian district
+\r
+t Beijing
+Beijing,
+CN
+
+ zipcode:100081
+
+Billing Contactor:
+	 name:(wu ji)
+	Email:(e6eyou@yahoo.com.cn) tel-- +86.9132080992
+	 gao zhifeng
+	 weinan
+\r
+t weinan
+shanxi,
+CN
+
+ zipcode:714000
+

@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Domain Name: HEIMDALL-VISION.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.UKSERVERS.NET
+   Name Server: NS1.UKSERVERS.NET
+   Name Server: NS3.UKSERVERS.NET
+   Status: ok
+   Updated Date: 26-aug-2010
+   Creation Date: 13-aug-2001
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:24:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:24:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... heimdall-vision.com
+  Creation Date........ 2001-08-14
+  Registration Date.... 2005-08-29
+  Expiry Date.......... 2012-08-14
+  Organisation Name.... Arthur Pece
+  Organisation Address. Universitetsparken 1
+  Organisation Address.
+  Organisation Address. Copenhagen
+  Organisation Address. 2100
+  Organisation Address. Kobenhavn
+  Organisation Address. DENMARK
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Arturo Pece
+  Admin Address........ Datalogisk Institut
+  Admin Address........ Universitetsparken 1
+  Admin Address........ Copenhagen
+  Admin Address........ 2100
+  Admin Address........ K?benhavn
+  Admin Address........ DENMARK
+  Admin Email.......... aecp@diku.dk
+  Admin Phone.......... (+45) 35 32 14 00
+  Admin Fax............ (+45) 35 32 14 01
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ UKServers Hostmaster
+  Tech Address......... PO Box 34
+  Tech Address.........
+  Tech Address......... Merriott
+  Tech Address......... TA16 5YZ
+  Tech Address......... Somerset
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... hostmaster@ukservers.net
+  Tech Phone........... +44.8701651416
+  Tech Fax............. +44.8700940342
+  Name Server.......... NS.UKSERVERS.NET
+  Name Server.......... NS1.UKSERVERS.NET
+  Name Server.......... NS3.UKSERVERS.NET
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: nstld.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 16:14:14 EDT 2011
-Reason Code: IE
