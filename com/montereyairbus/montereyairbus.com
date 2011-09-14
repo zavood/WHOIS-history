@@ -5,25 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOUBLEVERIFY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: ASIA9.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: NS1-161.AKAM.NET
-   Name Server: NS1-207.AKAM.NET
-   Name Server: USC5.AKAM.NET
-   Name Server: USE1.AKAM.NET
-   Name Server: USW2.AKAM.NET
-   Name Server: USW7.AKAM.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MONTEREYAIRBUS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-dec-2010
-   Creation Date: 18-aug-2007
-   Expiration Date: 18-aug-2012
+   Updated Date: 07-oct-2007
+   Creation Date: 15-dec-1999
+   Expiration Date: 15-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:26:15 UTC &lt;&lt;&lt;
 
@@ -60,43 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-   Domains by Proxy, Inc.
+http://www.networksolutions.com/whois/index.jhtml
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DOUBLEVERIFY.COM
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Domain servers in listed order:
-      ASIA9.AKAM.NET
-      EUR5.AKAM.NET
-      NS1-161.AKAM.NET
-      NS1-207.AKAM.NET
-      USC5.AKAM.NET
-      USE1.AKAM.NET
-      USW2.AKAM.NET
-      USW7.AKAM.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DOUBLEVERIFY.COM
+Whois Query: montereyairbus.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 19:16:45 EDT 2011
+Reason Code: IE
