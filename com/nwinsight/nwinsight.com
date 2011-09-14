@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELECTRIC.NET
+   Domain Name: NWINSIGHT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ELECTRIC.NET
-   Name Server: NS2.ELECTRIC.NET
-   Name Server: NS3.ELECTRIC.NET
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Updated Date: 02-jun-2010
-   Creation Date: 26-aug-1994
-   Expiration Date: 25-aug-2015
+   Updated Date: 02-nov-2009
+   Creation Date: 19-aug-2003
+   Expiration Date: 19-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:57:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:55:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: electric.net
+Whois Query: nwinsight.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:47:23 EDT 2011
+Date and Time of Query: Wed Sep 14 12:46:21 EDT 2011
 Reason Code: IE
