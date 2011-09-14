@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 17-aug-2005
    Expiration Date: 15-jan-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:55:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:11:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    pdns3.ultradns.org
-    pdns4.ultradns.org
-    pdns5.ultradns.info
-    pdns1.ultradns.net
     pdns2.ultradns.net
+    pdns3.ultradns.org
     pdns6.ultradns.co.uk
+    pdns4.ultradns.org
+    pdns1.ultradns.net
+    pdns5.ultradns.info
 
 
 
@@ -137,4 +137,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--
