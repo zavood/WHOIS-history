@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JAMESBROWNPHAC.COM
+   Domain Name: PREMIERSHIPTALK.COM
    Registrar: TIGER TECHNOLOGIES LLC
    Whois Server: whois.tigertech.net
    Referral URL: http://www.tigertech.net
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Name Server: NS1.TIGERTECH.NET
+   Name Server: NS2.TIGERTECH.BIZ
+   Name Server: NS3.TIGERTECH.ORG
    Status: clientTransferProhibited
-   Updated Date: 17-feb-2011
-   Creation Date: 19-mar-2006
-   Expiration Date: 19-mar-2016
+   Updated Date: 09-jun-2011
+   Creation Date: 08-jun-2008
+   Expiration Date: 08-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:59:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:59:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +70,7 @@ solicitations, and &quot;spam&quot;.
 If you want to contact the administrator of this domain name about
 a routine issue, send an e-mail message to:
 
-jamesbrownphac.com-admin-201109-75a84d@whois.tigertech.net
+premiershiptalk.com-admin-201109-5becc8@whois.tigertech.net
 
 It will be forwarded to the address on file.
 
@@ -77,39 +78,40 @@ If you have a legal issue regarding this domain name, be sure to
 send registered mail. Non-registered mail may be discarded.
 --------------------------------------------------------------------
 
-Domain Name: jamesbrownphac.com
-Created On: 2006-03-19T17:40:36Z
-Last Transferred: 2007-03-05T15:12:31Z
-Expiration Date: 2016-03-19T16:40:36Z
-Registrant Name: James Brown Plumbing, Heating, &amp; Air Conditioning
+Domain Name: premiershiptalk.com
+Created On: 2008-06-08T05:07:12Z
+Last Transferred: 2009-09-29T04:24:43Z
+Expiration Date: 2012-06-08T05:07:12Z
+Registrant Name: Premiership Talk
 Address Note: See notice above before sending legal documents
 Registrant Street1: c/o Tiger Technologies LLC
-Registrant Street2: PO Box 7596, Dept W16328
+Registrant Street2: PO Box 7596, Dept W24070
 Registrant Street3:
 Registrant City: Berkeley
 Registrant State/Province: CA
 Registrant Postal Code: 94707-0596
 Registrant Country: US
-Admin Name: James Brown Plumbing, Heating, &amp; Air Conditioning
+Admin Name: Premiership Talk
 Address Note: See notice above before sending legal documents
 Admin Street1: c/o Tiger Technologies LLC
-Admin Street2: PO Box 7596, Dept W16328
+Admin Street2: PO Box 7596, Dept W24070
 Admin Street3:
 Admin City: Berkeley
 Admin State/Province: CA
 Admin Postal Code: 94707-0596
 Admin Country: US
 Admin Phone: +1.5105273131
-Admin Email: jamesbrownphac.com-admin-201109-75a84d@whois.tigertech.net
+Admin Email: premiershiptalk.com-admin-201109-5becc8@whois.tigertech.net
 Tech Name: Tiger Technologies LLC
 Tech Street1: c/o Tiger Technologies LLC
-Tech Street2: PO Box 7596, Dept W16328
+Tech Street2: PO Box 7596, Dept W24070
 Tech Street3:
 Tech City: Berkeley
 Tech State/Province: CA
 Tech Postal Code: 94707-0596
 Tech Country: US
 Tech Phone: +1.5105273131
-Tech Email: jamesbrownphac.com-tech-201109-7b735d@whois.tigertech.net
-Name Server: NS51.1AND1.COM
-Name Server: NS52.1AND1.COM
+Tech Email: premiershiptalk.com-tech-201109-223b70@whois.tigertech.net
+Name Server: NS1.TIGERTECH.NET
+Name Server: NS2.TIGERTECH.BIZ
+Name Server: NS3.TIGERTECH.ORG

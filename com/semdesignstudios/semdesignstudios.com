@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COOLGAYMOVIES.COM
+   Domain Name: SEMDESIGNSTUDIOS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.CHOOPADNS.COM
-   Name Server: NS2.CHOOPADNS.COM
+   Name Server: NS01.000WEBHOST.COM
+   Name Server: NS02.000WEBHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 21-jun-2004
-   Expiration Date: 21-jun-2012
+   Updated Date: 19-jul-2011
+   Creation Date: 08-oct-2008
+   Expiration Date: 08-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:59:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:59:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   SEM Design Studios
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: COOLGAYMOVIES.COM
+   Domain Name: SEMDESIGNSTUDIOS.COM
 
    Domain servers in listed order:
-      NS1.CHOOPADNS.COM
-      NS2.CHOOPADNS.COM
+      NS01.000WEBHOST.COM
+      NS02.000WEBHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=COOLGAYMOVIES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SEMDESIGNSTUDIOS.COM

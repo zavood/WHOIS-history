@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T05:59:08+12:00
+domain_name: newcops.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-07-27T00:00:00+12:00
+domain_datebilleduntil: 2013-09-27T00:00:00+12:00
+domain_datelastmodified: 2011-08-18T15:48:52+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: iSERVE
+registrar_address1: P O Box 47-020
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 939-8502
+registrar_fax: +64 4 939-8501
+registrar_email: soa@iserve.co.nz
+%
+registrant_contact_name: Office of the Commissioner of Police
+registrant_contact_address1: PO Box 3017
+registrant_contact_city: Wellington
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 4707265
+registrant_contact_fax: +64 4 4707111
+registrant_contact_email: webteam@police.govt.nz
+%
+admin_contact_name: Hamish Denston
+admin_contact_address1: 180 Molesworth Street
+admin_contact_city: Wellington
+admin_contact_postalcode: 6015
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 4749592
+admin_contact_fax: +64 4 4732699
+admin_contact_email: webteam@police.govt.nz
+%
+technical_contact_name: Mike Stent
+technical_contact_address1: 180 Molesworth Street
+technical_contact_city: Wellington
+technical_contact_postalcode: 6015
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 4707265
+technical_contact_fax: +64 4 4732699
+technical_contact_email: webteam@police.govt.nz
+%
+ns_name_01: ns1.police.govt.nz
+ns_name_02: ns2.police.govt.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
