@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-sep-2010
    Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:44:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:54:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,40 +84,37 @@ Domain servers in listed order:
 	 ns1.jino.ru 	 ns2.jino.ru
 
 Administrator:
-	 name:(Andrey Bobrov)
-	Email:(andreybbrv@gmail.com) tel-- +7.8315635315
-	 Andrey Bobrov
-	 Scherbinki-1, 28, 85
-\r
-t Nizhny Novgorod
-RU,
-RU
+	 name: Andrey Bobrov
+ mail: andreybbrv@gmail.com tel: +7.8315635315
+	 org: Andrey Bobrov
 
- zipcode:603107
+address: Scherbinki-1, 28, 85
+	 city: Nizhny Novgorod
+,province: RU
+,country: RU
+ postcode: 603107
 
 Technical Contactor:
-	 name:(Andrey Bobrov)
-	Email:(andreybbrv@gmail.com) tel-- +7.8315635315
-	 Andrey Bobrov
-	 Scherbinki-1, 28, 85
-\r
-t Nizhny Novgorod
-RU,
-RU
+	 name: Andrey Bobrov
+ mail: andreybbrv@gmail.com tel: +7.8315635315
+	 org: Andrey Bobrov
 
- zipcode:603107
+address: Scherbinki-1, 28, 85
+	 city: Nizhny Novgorod
+,province: RU
+,country: RU
+ postcode: 603107
 
 Billing Contactor:
-	 name:(Andrey Bobrov)
-	Email:(andreybbrv@gmail.com) tel-- +7.8315635315
-	 Andrey Bobrov
-	 Scherbinki-1, 28, 85
-\r
-t Nizhny Novgorod
-RU,
-RU
+	 name: Andrey Bobrov
+ mail: andreybbrv@gmail.com tel: +7.8315635315
+	 org: Andrey Bobrov
 
- zipcode:603107
+address: Scherbinki-1, 28, 85
+	 city: Nizhny Novgorod
+,province: RU
+,country: RU
+ postcode: 603107
 
 
 Registration Service Provider:

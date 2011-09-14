@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOPH-DATACENTER.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jun-2010
-   Expiration Date: 30-jun-2011
+   Domain Name: ZEROSALE.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-aug-2011
+   Creation Date: 07-aug-2011
+   Expiration Date: 07-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:54:58 UTC &lt;&lt;&lt;
 
@@ -51,4 +51,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;NOPH-DATACENTER.COM&quot;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Lee jaewan tojongkr@naver.com +82.1084799800
+	 Jaewan Lee
+	 106-1002 KumHo PungAm-Dong
+	 Gwangju,Seo-Gu,KR 502-776
+
+
+Domain Name:zerosale.com
+Record last updated at 2011-08-07 18:50:50
+Record created on 2011/8/7
+Record expired on 2012/8/7
+
+
+Domain servers in listed order:
+	 buy.internettraffic.com 	 sell.internettraffic.com
+
+Administrator:
+	 name: Lee jaewan
+ mail: tojongkr@naver.com tel: +82.1084799800
+	 org: Jaewan Lee
+
+address: 106-1002 KumHo PungAm-Dong
+	 city: Gwangju
+,province: Seo-Gu
+,country: KR
+ postcode: 502-776
+
+Technical Contactor:
+	 name: Lee jaewan
+ mail: tojongkr@naver.com tel: +82.1084799800
+	 org: Jaewan Lee
+
+address: 106-1002 KumHo PungAm-Dong
+	 city: Gwangju
+,province: Seo-Gu
+,country: KR
+ postcode: 502-776
+
+Billing Contactor:
+	 name: Lee jaewan
+ mail: tojongkr@naver.com tel: +82.1084799800
+	 org: Jaewan Lee
+
+address: 106-1002 KumHo PungAm-Dong
+	 city: Gwangju
+,province: Seo-Gu
+,country: KR
+ postcode: 502-776
+
+
+Registration Service Provider:
+	name: Jaewan Lee
+	tel: +82.1084799800
+ 	fax: +82.626032468
+ 	web:http://

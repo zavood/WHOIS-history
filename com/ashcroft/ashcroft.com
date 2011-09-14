@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOPH-DATACENTER.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jun-2010
-   Expiration Date: 30-jun-2011
+   Domain Name: ASHCROFT.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS1.EQUANT.NET
+   Name Server: DNS2.EQUANT.NET
+   Name Server: DNS3.EQUANT.NET
+   Status: clientTransferProhibited
+   Updated Date: 14-dec-2010
+   Creation Date: 25-nov-1995
+   Expiration Date: 24-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:54:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:55:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;NOPH-DATACENTER.COM&quot;
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: ashcroft.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 04:45:27 EDT 2011
+Reason Code: IE

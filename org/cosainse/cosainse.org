@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157215250-LROR
+Domain Name:COSAINSE.ORG
+Created On:28-Sep-2009 17:21:21 UTC
+Last Updated On:22-Aug-2011 17:49:40 UTC
+Expiration Date:28-Sep-2013 17:21:21 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:df9c409e4e66d6ce
+Registrant Name:colin  phane
+Registrant Organization:-
+Registrant Street1:74, rue de la Chapelle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Namur
+Registrant State/Province:NAMUR
+Registrant Postal Code:5000
+Registrant Country:BE
+Registrant Phone:+32.682948828
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bormorler@gmail.com
+Admin ID:df9c409e4e66d6ce
+Admin Name:colin  phane
+Admin Organization:-
+Admin Street1:74, rue de la Chapelle
+Admin Street2:
+Admin Street3:
+Admin City:Namur
+Admin State/Province:NAMUR
+Admin Postal Code:5000
+Admin Country:BE
+Admin Phone:+32.682948828
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bormorler@gmail.com
+Tech ID:df9c409e4e66d6ce
+Tech Name:colin  phane
+Tech Organization:-
+Tech Street1:74, rue de la Chapelle
+Tech Street2:
+Tech Street3:
+Tech City:Namur
+Tech State/Province:NAMUR
+Tech Postal Code:5000
+Tech Country:BE
+Tech Phone:+32.682948828
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bormorler@gmail.com
+Name Server:NS.HOSTLAND.RU
+Name Server:NS3.HOSTLAND.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

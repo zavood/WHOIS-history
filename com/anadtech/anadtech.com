@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOPH-DATACENTER.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jun-2010
-   Expiration Date: 30-jun-2011
+   Domain Name: ANADTECH.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.EBIBLEONLINE.COM
+   Name Server: NS5.DNSMADEEASY.COM
+   Name Server: NS6.DNSMADEEASY.COM
+   Name Server: NS7.DNSMADEEASY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-oct-2009
+   Creation Date: 26-apr-2000
+   Expiration Date: 26-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:54:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:54:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +55,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;NOPH-DATACENTER.COM&quot;
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Doug Powell (DME) use this one
+   PO Box 10142
+   St Petersburg, FL  33733
+   US
+
+   Registrar: DOTREGISTRAR
+   Domain Name: ANADTECH.COM
+      Created on: 26-APR-00
+      Expires on: 26-APR-14
+      Last Updated on: 19-OCT-09
+
+   Administrative, Technical Contact:
+      Powell (DME) use this one, Doug  amazingbible@verizon.net
+      PO Box 10142
+      St Petersburg, FL  33733
+      US
+      +1.7275428374
+
+
+   Domain servers in listed order:
+      NS1.EBIBLEONLINE.COM
+      NS5.DNSMADEEASY.COM
+      NS6.DNSMADEEASY.COM
+      NS7.DNSMADEEASY.COM
+
+End of Whois Information
