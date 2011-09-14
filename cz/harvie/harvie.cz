@@ -1,0 +1,70 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:26:10 2011
+
+domain:       harvie.cz
+registrant:   FORPSI-NDY-S278415
+nsset:        TELE3
+keyset:       TELE3
+registrar:    REG-TELE3
+status:       paid and in zone
+registered:   07.05.2008 14:51:12
+changed:      11.05.2011 22:50:48
+expire:       07.05.2012
+
+contact:      FORPSI-NDY-S278415
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Mudru&Aring;ˆka
+address:      Dominova 2330
+address:      Praha 5
+address:      15800
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      07.05.2008 14:51:12
+
+nsset:        TELE3
+nserver:      ns1.tele3.cz (81.0.217.111, 2001:1528:123::d01)
+nserver:      ns2.tele3.cz (89.187.135.111, 2a01:5f0:100c::d02)
+nserver:      ns3.tele3.cz (88.146.242.181, 2a01:5e0:26::d03)
+nserver:      ns4.tele3.us
+tech-c:       TELE3
+registrar:    REG-TELE3
+created:      06.04.2008 13:49:05
+changed:      12.05.2011 23:40:54
+
+contact:      TELE3
+org:          TELE3 s.r.o.
+name:         Todor Dimitrov
+address:      Vinohradska 184
+address:      Praha 3
+address:      13052
+address:      CZ
+phone:        +420.777111158
+e-mail:       info@tele3.cz
+registrar:    REG-TELE3
+created:      27.03.2008 10:10:05
+changed:      04.01.2011 09:36:54
+
+keyset:       TELE3
+dnskey:       257 3 5 BQEAAAABDA0iKXTlcleLr0X84YBEaxUoRnD+ROk9vPaedzzpG/vHV/cXK8NADp0C+4WqvyMvn91TBz5/x81vC2z++l9B8RcpUfJQXKh6deoTHI3Jd7xk9YpwaroOG8831dwXMDLLXmLqC72ohRFoKoUplBVCvg+6ddGltAMB5+hBGWFbSEMdMlcpxaVfQVQXdG5tfHbhnG7NAK/MVv1yp5qOEuso5kOnJQ==
+tech-c:       TELE3
+registrar:    REG-TELE3
+created:      07.02.2010 22:07:00
+changed:      07.09.2010 11:27:25
+
+
