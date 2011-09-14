@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YAHT.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.YAHT.NET
-   Name Server: NS2.YAHT.NET
-   Name Server: NS3.YAHT.NET
-   Name Server: NS4.YAHT.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-may-2011
-   Creation Date: 31-may-2005
-   Expiration Date: 31-may-2013
+   Domain Name: PKEFFECT.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS1.BLUESPHEREWEB.COM
+   Name Server: NS2.BLUESPHEREWEB.COM
+   Status: ok
+   Updated Date: 10-dec-2010
+   Creation Date: 10-dec-2006
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:37:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:37:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
+
+Registrant:
+    Bluesphereweb Inc.
+    Joseph DeArmond
+    1207 13th Ave West
+    Bradenton, FL 34205
+    US
+    +1.9418969052
+    f6901f9ce32205922b7bdb0dada6f06665ba05af@whois.gkg.net
+
+Administrative Contact:
+    Bluesphereweb Inc.
+    Joseph DeArmond
+    1207 13th Ave West
+    Bradenton, FL 34205
+    US
+    +1.9418969052
+    f6901f9ce32205922b7bdb0dada6f06665ba05af@whois.gkg.net
+
+Technical Contact:
+    Bluesphereweb Inc.
+    Joseph DeArmond
+    1207 13th Ave West
+    Bradenton, FL 34205
+    US
+    +1.9418969052
+    f6901f9ce32205922b7bdb0dada6f06665ba05af@whois.gkg.net
+
+Billing Contact
+    Bluesphereweb Inc.
+    Joseph DeArmond
+    1207 13th Ave West
+    Bradenton, FL 34205
+    US
+    +1.9418969052
+    f6901f9ce32205922b7bdb0dada6f06665ba05af@whois.gkg.net
+
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: PKEFFECT.COM
+	Created on..............: 11-DEC-2006
+	Expires on..............: 11-DEC-2011
+	Record last updated on..: 11-DEC-2010
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS1.BLUESPHEREWEB.COM
+    NS2.BLUESPHEREWEB.COM

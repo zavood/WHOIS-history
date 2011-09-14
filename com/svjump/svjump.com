@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YAHT.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.YAHT.NET
-   Name Server: NS2.YAHT.NET
-   Name Server: NS3.YAHT.NET
-   Name Server: NS4.YAHT.NET
+   Domain Name: SVJUMP.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS.ISPRIME.COM
+   Name Server: NS2.ISPRIME.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-may-2011
-   Creation Date: 31-may-2005
-   Expiration Date: 31-may-2013
+   Updated Date: 26-jul-2011
+   Creation Date: 27-aug-2009
+   Expiration Date: 27-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:37:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:37:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+
+Domain svjump.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 39322722434826
+  39322722434826-1793a7@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 39322722434826
+  39322722434826-1793a7@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
+
+Record dates:
+  Record created on: 2009-08-27 21:33:44 UTC
+  Record modified on: 2011-07-26 14:29:56 UTC
+  Record expires on: 2012-08-27 UTC
+
+Nameservers:
+  ns2.isprime.com:
+    66.230.160.1
+  ns.isprime.com:
+    66.230.128.15
+
+Note: Automated collection of data from this database is strictly prohibited.
+

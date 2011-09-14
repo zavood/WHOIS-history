@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELEMACH.COM
+   Domain Name: 93FG.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.TELEMACH.COM
-   Name Server: NS2.TELEMACH.COM
-   Name Server: SAT2.TELEMACH.COM
-   Name Server: TERRA.TELEMACH.COM
-   Name Server: URANUS.TELEMACH.COM
+   Name Server: NS19.WORLDNIC.COM
+   Name Server: NS20.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 20-jan-2011
-   Creation Date: 14-aug-1997
-   Expiration Date: 13-aug-2016
+   Updated Date: 20-jun-2009
+   Creation Date: 20-jun-2003
+   Expiration Date: 20-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:38:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:37:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TELEMACH.COM
-&lt;a href=&quot;http://www.aboutus.org/TELEMACH.COM&quot;&gt;AboutUs: TELEMACH.COM &lt;/a&gt;
+Visit AboutUs.org for more information about 93FG.COM
+&lt;a href=&quot;http://www.aboutus.org/93FG.COM&quot;&gt;AboutUs: 93FG.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Telemach SRL
-   str. Ion Negulici 32A
-   Bucuresti, sector 1 712892
-   RO
+93 Financial Group
+   ATTN 93FG.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: TELEMACH.COM
+
+   Domain Name: 93FG.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -98,23 +97,28 @@ Telemach SRL
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Telemach SRL		gabriel.neagu@telemach.com
-      str. Ion Negulici 32A
-      Bucuresti, sector 1 712892
-      RO
-      +40212314490 fax: +40212314494
+      93 Financial Group		v523x7bs33u@networksolutionsprivateregistration.com
+      ATTN 93FG.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
+      US
+      570-708-8780
 
 
-   Record expires on 13-Aug-2016.
-   Record created on 14-Aug-1997.
-   Database last updated on 14-Sep-2011 01:34:22 EDT.
+   Record expires on 20-Jun-2019.
+   Record created on 10-Oct-2005.
+   Database last updated on 14-Sep-2011 01:27:10 EDT.
 
    Domain servers in listed order:
 
-   TERRA.TELEMACH.COM           62.231.109.1
-   SAT2.TELEMACH.COM            83.166.206.187
-   URANUS.TELEMACH.COM          62.231.109.99
-   NS1.TELEMACH.COM             89.36.26.142
-   NS2.TELEMACH.COM             62.231.109.1
+   NS19.WORLDNIC.COM            205.178.190.10
+   NS20.WORLDNIC.COM            206.188.198.10
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

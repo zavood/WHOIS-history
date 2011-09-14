@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELEMACH.COM
+   Domain Name: WCMH.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.TELEMACH.COM
-   Name Server: NS2.TELEMACH.COM
-   Name Server: SAT2.TELEMACH.COM
-   Name Server: TERRA.TELEMACH.COM
-   Name Server: URANUS.TELEMACH.COM
+   Name Server: NS1.MEDIAGENERAL.NET
+   Name Server: NS2.MEDIAGENERAL.NET
    Status: clientTransferProhibited
-   Updated Date: 20-jan-2011
-   Creation Date: 14-aug-1997
-   Expiration Date: 13-aug-2016
+   Updated Date: 03-dec-2010
+   Creation Date: 18-dec-2003
+   Expiration Date: 18-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:38:41 UTC &lt;&lt;&lt;
 
@@ -77,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about TELEMACH.COM
-&lt;a href=&quot;http://www.aboutus.org/TELEMACH.COM&quot;&gt;AboutUs: TELEMACH.COM &lt;/a&gt;
+Visit AboutUs.org for more information about WCMH.COM
+&lt;a href=&quot;http://www.aboutus.org/WCMH.COM&quot;&gt;AboutUs: WCMH.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Telemach SRL
-   str. Ion Negulici 32A
-   Bucuresti, sector 1 712892
-   RO
+Media General Communications, Inc.
+   333 East Franklin Street
+   Richmond, VA 23219
+   US
 
-   Domain Name: TELEMACH.COM
+   Domain Name: WCMH.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -98,23 +95,20 @@ Telemach SRL
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Telemach SRL		gabriel.neagu@telemach.com
-      str. Ion Negulici 32A
-      Bucuresti, sector 1 712892
-      RO
-      +40212314490 fax: +40212314494
+      Media General Communications, Inc.		domainregs@mediageneral.com
+      333 East Franklin Street
+      Richmond, VA 23219
+      US
+      804-649-6000
 
 
-   Record expires on 13-Aug-2016.
-   Record created on 14-Aug-1997.
-   Database last updated on 14-Sep-2011 01:34:22 EDT.
+   Record expires on 18-Dec-2011.
+   Record created on 18-Oct-2006.
+   Database last updated on 14-Sep-2011 01:29:13 EDT.
 
    Domain servers in listed order:
 
-   TERRA.TELEMACH.COM           62.231.109.1
-   SAT2.TELEMACH.COM            83.166.206.187
-   URANUS.TELEMACH.COM          62.231.109.99
-   NS1.TELEMACH.COM             89.36.26.142
-   NS2.TELEMACH.COM             62.231.109.1
+   NS1.MEDIAGENERAL.NET         199.193.10.41
+   NS2.MEDIAGENERAL.NET         199.193.13.41
 
 
