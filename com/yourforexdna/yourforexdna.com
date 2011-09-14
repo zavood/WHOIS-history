@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HORIZON-HOST.COM
+   Domain Name: YOURFOREXDNA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HORIZON-HOST.COM
-   Name Server: NS2.HORIZON-HOST.COM
+   Name Server: NS2547.HOSTGATOR.COM
+   Name Server: NS2548.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 05-jun-2011
-   Expiration Date: 05-jun-2012
+   Updated Date: 22-dec-2010
+   Creation Date: 22-may-2008
+   Expiration Date: 22-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:46:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Samuel B
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HORIZON-HOST.COM
+   Domain Name: YOURFOREXDNA.COM
 
    Domain servers in listed order:
-      NS1.HORIZON-HOST.COM
-      NS2.HORIZON-HOST.COM
+      NS2547.HOSTGATOR.COM
+      NS2548.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HORIZON-HOST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=YOURFOREXDNA.COM

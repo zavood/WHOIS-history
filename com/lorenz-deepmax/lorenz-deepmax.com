@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HORIZON-HOST.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HORIZON-HOST.COM
-   Name Server: NS2.HORIZON-HOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 05-jun-2011
-   Expiration Date: 05-jun-2012
+   Domain Name: LORENZ-DEEPMAX.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS18.RZONE.DE
+   Name Server: SHADES12.RZONE.DE
+   Status: ok
+   Updated Date: 21-sep-2010
+   Creation Date: 20-sep-2001
+   Expiration Date: 20-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:44:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
+Owner Contact:
+   Lorenz Roatzsch
+   Lorenz Detecting Systems GmbH
+   Roepkestrasse 12
+   Hannover, 30173, DE
 
-Registrant:
-   Samuel B
+   Punycode Name:  lorenz-deepmax.com
+   Unicode Name:   lorenz-deepmax.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HORIZON-HOST.COM
+   Admin Contact
+      Lorenz Roatzsch
+      Lorenz Detecting Systems GmbH
+      Lorenz@metaldetectors.de
+      Roepkestrasse 12
+      Hannover, 30173, DE
+      phone: +49 5115510670
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2011-09-20 23:48:36
 
    Domain servers in listed order:
-      NS1.HORIZON-HOST.COM
-      NS2.HORIZON-HOST.COM
+
+      shades12.rzone.de
+      docks18.rzone.de
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HORIZON-HOST.COM
+

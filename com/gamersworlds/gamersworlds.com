@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOUBLEDREAMS.COM
+   Domain Name: GAMERSWORLDS.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS2547.HOSTGATOR.COM
-   Name Server: NS2548.HOSTGATOR.COM
+   Name Server: NS1.CITYRESELLER.COM
+   Name Server: NS4.CITYRESELLER.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 31-jan-2011
-   Expiration Date: 31-jan-2012
+   Updated Date: 09-feb-2011
+   Creation Date: 11-mar-2007
+   Expiration Date: 11-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:46:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:45:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,62 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: MWN
-Contact: +62.215269311
-Website: http://www.masterweb.net
+Registration Service Provided By: DOMAINREGISTRATIONINDIA.COM
+Contact: +91.9891228221
+Website: http://www.domainregistrationindia.com
 
-* No. 1 Leading Hosting in Indonesia
-* The Trust For Your Online Business
-
-Domain Name: DOUBLEDREAMS.COM
+Domain Name: GAMERSWORLDS.COM
 
 Registrant:
-    None
-    iska saja        (karso789@gmail.com)
-    banjar
-    banjar
-    banjar
-    jawa barat,53266
-    ID
-    Tel. +62.123456
+    N/A
+    Subodh Gaikwad        (subodhdg@yahoo.com)
+    3, dhanvantarinagar
+    Nagpur
+    Maharashtra,440009
+    IN
+    Tel. +91.9431501861
+    Fax. +91.9890306520
 
-Creation Date: 01-Feb-2011
-Expiration Date: 01-Feb-2012
+Creation Date: 11-Mar-2007
+Expiration Date: 11-Mar-2012
 
 Domain servers in listed order:
-    ns2547.hostgator.com
-    ns2548.hostgator.com
+    ns1.cityreseller.com
+    ns4.cityreseller.com
 
 
 Administrative Contact:
-    None
-    iska saja        (karso789@gmail.com)
-    banjar
-    banjar
-    banjar
-    jawa barat,53266
-    ID
-    Tel. +62.123456
+    N/A
+    Subodh Gaikwad        (subodhdg@yahoo.com)
+    3, dhanvantarinagar
+    Nagpur
+    Maharashtra,440009
+    IN
+    Tel. +91.9431501861
+    Fax. +91.9890306520
 
 Technical Contact:
-    None
-    iska saja        (karso789@gmail.com)
-    banjar
-    banjar
-    banjar
-    jawa barat,53266
-    ID
-    Tel. +62.123456
+    N/A
+    Subodh Gaikwad        (subodhdg@yahoo.com)
+    3, dhanvantarinagar
+    Nagpur
+    Maharashtra,440009
+    IN
+    Tel. +91.9431501861
+    Fax. +91.9890306520
 
 Billing Contact:
-    None
-    iska saja        (karso789@gmail.com)
-    banjar
-    banjar
-    banjar
-    jawa barat,53266
-    ID
-    Tel. +62.123456
+    N/A
+    Subodh Gaikwad        (subodhdg@yahoo.com)
+    3, dhanvantarinagar
+    Nagpur
+    Maharashtra,440009
+    IN
+    Tel. +91.9431501861
+    Fax. +91.9890306520
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
@@ -127,8 +124,4 @@ The compilation, repackaging, dissemination or other use of this data is express
 prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
-
-
-
 

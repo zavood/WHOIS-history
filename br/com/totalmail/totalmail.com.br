@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:47:25 (BRT -03:00)
+
+domain:      totalmail.com.br
+owner:       ConceitoWEB Ltda.
+ownerid:     004.515.887/0001-01
+responsible: Jan Bocian
+country:     BR
+owner-c:     JBJ25
+admin-c:     JBJ25
+tech-c:      JBJ25
+billing-c:   JBJ25
+nserver:     ns1.uni5.net
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.uni5.net
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20080731 #4733357
+expires:     20110731
+changed:     20110822
+status:      on-hold
+
+nic-hdl-br:  JBJ25
+person:      Jan Bocian Jr.
+e-mail:      janbo@conceitoweb.com.br
+created:     19990526
+changed:     20020925
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
