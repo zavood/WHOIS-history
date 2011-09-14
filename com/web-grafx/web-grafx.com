@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
+   Domain Name: WEB-GRAFX.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: DNS1.MAVEN2-10.COM
+   Name Server: DNS2.MAVEN2-10.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Updated Date: 27-jan-2011
+   Creation Date: 02-feb-2009
+   Expiration Date: 02-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain web-grafx.com
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Date Registered: 2009-2-2
+Date Modified: 2011-1-27
+Expiry Date: 2013-2-2
 
-Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
+DNS1: dns1.maven2-10.com
+DNS2: dns2.maven2-10.com
 
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
+Registrant
+    Web-Grafx.Com
+    Jerome Oberson  contact (at) web-grafx dot com
+    18 rue jean jacques rousseau
+    Le jappe renard D
+    26000 valence
+    France
+    Tel: +33.613400934
 
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
+Administrative Contact
+    Web-Grafx.Com
+    Jerome Oberson  contact (at) web-grafx dot com
+    18 rue jean jacques rousseau
+    Le jappe renard D
+    26000 valence
+    France
+    Tel: +33.613400934
 
+Technical Contact
+    Web-Grafx.Com
+    Jerome Oberson  contact (at) web-grafx dot com
+    18 rue jean jacques rousseau
+    Le jappe renard D
+    26000 valence
+    France
+    Tel: +33.613400934
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
-
-End of Whois Information
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

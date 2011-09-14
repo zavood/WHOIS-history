@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Domain Name: DORSTENER-DRAHTWERKE.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: BALU.SECTOR27.DE
+   Name Server: PNS.DTAG.DE
+   Name Server: SECONDARY006.DTAG.NET
+   Status: ok
+   Updated Date: 08-jan-2011
+   Creation Date: 07-jan-2000
+   Expiration Date: 07-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:38:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
-
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
-
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
-
-
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
-
-End of Whois Information
+domain: dorstener-drahtwerke.com
+registrant-hdl: RDT-DDH11
+admin-c: RDT-RT530
+tech-c: RDT-HK1568
+zone-c: RDT-HK1568
+nserver: balu.sector27.de
+nserver: pns.dtag.de
+nserver: secondary006.dtag.net
+status: connected
+changed: 2006-07-27
+created: 2000-01-07
+expires: 2012-01-07
+source: DEUTSCHE TELEKOM AG

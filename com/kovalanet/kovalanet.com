@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Domain Name: KOVALANET.COM
+   Registrar: REG2C.COM, INC.
+   Whois Server: whois.reg2c.com
+   Referral URL: http://www.reg2c.com
+   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
+   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
+   Status: redemptionPeriod
+   Updated Date: 05-sep-2011
+   Creation Date: 22-aug-2010
+   Expiration Date: 22-aug-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
 
@@ -55,50 +51,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: REG2C
+Contact: +90.2242248640
+Website: http://www.reg2c.com
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name: KOVALANET.COM
 
 Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
+    adil
+    adil -(50621)        (adil@karaburga.com)
+    mamak
+    ankara
+    ,06502
+    TR
+    Tel. +312.3651767
+    Fax. +312.3651767
 
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
+Creation Date: 22-Aug-2010
+Expiration Date: 22-Aug-2011
 
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
+Domain servers in listed order:
+    ns1.turkticaret.net
+    ns2.turkticaret.net
+    ns3.turkticaret.net
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
+Administrative Contact:
+    adil
+    adil -(50621)        (adil@karaburga.com)
+    mamak
+    ankara
+    ,06502
+    TR
+    Tel. +312.3651767
+    Fax. +312.3651767
 
-End of Whois Information
+Technical Contact:
+    adil
+    adil -(50621)        (adil@karaburga.com)
+    mamak
+    ankara
+    ,06502
+    TR
+    Tel. +312.3651767
+    Fax. +312.3651767
+
+Billing Contact:
+    adil
+    adil -(50621)        (adil@karaburga.com)
+    mamak
+    ankara
+    ,06502
+    TR
+    Tel. +312.3651767
+    Fax. +312.3651767
+
+Status:REDEMPTIONPERIOD
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Reg2C.com Inc..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

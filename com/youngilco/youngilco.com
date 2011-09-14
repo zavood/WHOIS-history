@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
+   Domain Name: YOUNGILCO.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS1.SELFDNS.NET
+   Name Server: NS11.WHOIS.CO.KR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Updated Date: 15-feb-2009
+   Creation Date: 11-mar-2002
+   Expiration Date: 11-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name : youngilco.com
 
-Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
+::Registrant::
+Name : Young IL Co.
+Email : roka@youngilco.com
+Address : 1085-2 Jangnim-dong Saha-gu Busan
+Zipcode : 604040
+Nation : KR
+Tel : 051-266-0101
+Fax : 051-266-0124
 
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
+::Administrative Contact::
+Name : Young IL Co.
+Email : roka@youngilco.com
+Address : 1085-2 Jangnim-dong Saha-gu Busan
+Zipcode : 604040
+Nation : KR
+Tel : 051-266-0101
+Fax : 051-266-0124
 
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
+::Technical Contact::
+Name : Young IL Co.
+Email : roka@youngilco.com
+Address : 1085-2 Jangnim-dong Saha-gu Busan
+Zipcode : 604040
+Nation : KR
+Tel : 051-266-0101
+Fax : 051-266-0124
+
+::Name Servers::
+ns11.whois.co.kr
+ns1.selfdns.net
+
+::Dates &amp; Status::
+Created Date : 2002/03/11 03:57:33 EST
+Updated Date : 2010/01/05 08:09:49 EST
+Valid Date : 2012/03/11 02:57:33 EST
+Status ACTIVE
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
-
-End of Whois Information
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

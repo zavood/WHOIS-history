@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Domain Name: HOSTYERSITE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: DNS1.HOSTYERSITE.COM
+   Name Server: NS3.HYSMA.COM
+   Status: ok
+   Updated Date: 17-oct-2010
+   Creation Date: 14-nov-1999
+   Expiration Date: 14-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
 
@@ -55,50 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
-
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
-
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
-
-
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
-
-End of Whois Information
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

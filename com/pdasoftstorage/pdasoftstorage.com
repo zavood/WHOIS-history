@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRAINEAR.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
+   Domain Name: PDASOFTSTORAGE.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: DNS1.PDASOFTSTORAGE.COM
+   Name Server: DNS2.PDASOFTSTORAGE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-aug-2011
-   Creation Date: 05-aug-2008
-   Expiration Date: 05-aug-2012
+   Updated Date: 28-feb-2011
+   Creation Date: 27-feb-2011
+   Expiration Date: 27-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:39:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:38:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain name:             PDASOFTSTORAGE.COM
+Name Server:             dns1.pdasoftstorage.com 66.199.251.242
+Name Server:             dns2.pdasoftstorage.com 66.199.251.242
+Creation Date:           2011.02.27
+Updated Date:            2011.02.28
+Expiration Date:         2012.02.27
 
-Registrant:
-   James Ruska
-   na
-   North Richland Hills, TX  na
-   US
+Status:                  DELEGATED
 
-   Registrar: NAMESDIRECT
-   Domain Name: TRAINEAR.COM
-      Created on: 05-AUG-08
-      Expires on: 05-AUG-12
-      Last Updated on: 16-JUL-11
+Registrant ID:           WXBY1YY-RU
+Registrant Name:         Rodonov Denis
+Registrant Organization: Rodonov Denis
+Registrant Street1:      Smolensk L.Svobody 23-11
+Registrant City:         Smolensk
+Registrant Postal Code:  831254
+Registrant Country:      RU
 
-   Administrative, Technical Contact:
-      Ruska, James  JimmyRuska@gmail.com
-      na
-      North Richland Hills, TX  na
-      US
-      817-788-0704
+Administrative, Technical Contact
+Contact ID:              WXBY1YY-RU
+Contact Name:            Rodonov Denis
+Contact Organization:    Rodonov Denis
+Contact Street1:         Smolensk L.Svobody 23-11
+Contact City:            Smolensk
+Contact Postal Code:     831254
+Contact Country:         RU
+Contact Phone:           +7 914 3517390
+Contact E-mail:          denis.rodman90@yahoo.com
 
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
+Last updated on 2011.09.15 02:39:11 MSK/MSD
 
-End of Whois Information
