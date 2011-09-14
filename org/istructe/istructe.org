@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D29764363-LROR
+Domain Name:ISTRUCTE.ORG
+Created On:22-Jun-2000 16:27:05 UTC
+Last Updated On:16-Jun-2011 10:31:49 UTC
+Expiration Date:22-Jun-2012 16:27:05 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D115514195650643
+Registrant Name:The Institution of Structural Engineers
+Registrant Street1:11 Upper Belgrave Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belgravia
+Registrant State/Province:London
+Registrant Postal Code:SW1X 8BH
+Registrant Country:GB
+Registrant Phone:+44.2072019135
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sykes@istructe.org.uk
+Admin ID:D115514195650644
+Admin Name:Peter Sykes
+Admin Street1:11 Upper Belgrave Street
+Admin Street2:
+Admin Street3:
+Admin City:Belgravia
+Admin State/Province:London
+Admin Postal Code:SW1X 8BH
+Admin Country:GB
+Admin Phone:+44.2072019135
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sykes@istructe.org.uk
+Tech ID:A115496394770849
+Tech Name:The Hostmaster
+Tech Organization:Netscalibur Ltd
+Tech Street1:Claranet Group Ltd
+Tech Street2:21 Southampton Row
+Tech Street3:
+Tech City:Holborn
+Tech State/Province:London
+Tech Postal Code:WC1B 5HA
+Tech Country:GB
+Tech Phone:+44.8453552020
+Tech Phone Ext.:
+Tech FAX:+44.8708878858
+Tech FAX Ext.:
+Tech Email:hostmaster@uk.clara.net
+Name Server:NS1.DIRCON.CO.UK
+Name Server:NS0.DIRCON.CO.UK
+Name Server:NS2.DIRCON.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

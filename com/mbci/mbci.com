@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-jul-1997
    Expiration Date: 15-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:47:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:03:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,7 +113,7 @@ NCI Group, Inc.
 
    Record expires on 15-Jul-2015.
    Record created on 16-Jul-1997.
-   Database last updated on 12-Sep-2011 17:42:54 EDT.
+   Database last updated on 14-Sep-2011 00:59:29 EDT.
 
    Domain servers in listed order:
 
