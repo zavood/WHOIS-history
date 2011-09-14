@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MATH.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.EASYDNS.COM
-   Name Server: DNS2.EASYDNS.NET
-   Name Server: DNS3.EASYDNS.ORG
-   Name Server: DNS4.EASYDNS.INFO
+   Domain Name: VIBEPLUS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WEBBASE.NET.NZ
+   Name Server: NS2.WEBBASE.NET.NZ
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 18-jul-2011
-   Creation Date: 10-sep-1998
-   Expiration Date: 11-nov-2020
+   Updated Date: 05-jul-2011
+   Creation Date: 05-jul-2008
+   Expiration Date: 05-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:58:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:58:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about vibeplus.com
+&lt;a href=&quot;http://www.aboutus.org/vibeplus.com&quot;&gt;AboutUs: vibeplus.com&lt;/a&gt;
+
+
+Domain name: vibeplus.com
+
+Registrant Contact:
+
+   Diane Heap ()
+
+   Fax:
+   Unit 2 - 57A Hepburn St
+   Auckland,  1011
+   NZ
+
+Administrative Contact:
+
+   Diane Heap (giveitheaps@orcon.net.nz)
+   +64.211589458
+   Fax:
+   Unit 2 - 57A Hepburn St
+   Auckland,  1011
+   NZ
+
+Technical Contact:
+   Webbase Domains
+   Webbase Support (support@webbase.co.nz)
+   +64.0800932227
+   Fax:
+   PO Box 302829
+   North Shore City,  0632
+   NZ
+
+Status: Locked
+
+Name Servers:
+   ns1.webbase.net.nz
+   ns2.webbase.net.nz
+
+Creation date: 05 Jul 2008 19:45:42
+Expiration date: 05 Jul 2012 19:45:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
