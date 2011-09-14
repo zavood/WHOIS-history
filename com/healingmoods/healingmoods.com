@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XJAPANESEPUSSY.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.XJAPANESEPUSSY.COM
-   Name Server: NS2.XJAPANESEPUSSY.COM
+   Domain Name: HEALINGMOODS.COM
+   Registrar: CRYSTAL COAL, INC
+   Whois Server: whois.intrustdomains.com
+   Referral URL: http://www.intrustdomains.com
+   Name Server: NS1.INTRUSTDOMAINS.NET
+   Name Server: NS2.INTRUSTDOMAINS.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jan-2011
-   Creation Date: 22-jan-2011
-   Expiration Date: 22-jan-2012
+   Updated Date: 01-sep-2011
+   Creation Date: 20-sep-2009
+   Expiration Date: 20-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:18:31 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about xjapanesepussy.com
-&lt;a href=&quot;http://www.aboutus.org/xjapanesepussy.com&quot;&gt;AboutUs: xjapanesepussy.com&lt;/a&gt;
+All registrar data, including registrant WHOIS data, is provided for public, non-commerical use only.  Any information made available by InTrust Domains and its affiliate registrars shall not be collected, distributed or used for any commercial activity.  Third parties to agree not to use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts.
+Domain Name: HEALINGMOODS.COM
+Created On: 20-SEP-2009
+Last Updated On: 01-SEP-2011
+Expiration Date: 20-SEP-2012
+Sponsoring Registrar: CRYSTAL COAL, INC
+Status: clientTransferProhibited
+Registrant Name: Javed  Azhar
+Registrant Organization:
+Registrant Street1: 2627 S cooper st.
+Registrant Street2:
+Registrant Street3:
+Registrant City: Arlington
+Registrant State/Province: TX
+Registrant Postal Code: 76015
+Registrant Country: US
+Registrant Phone: ()
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email: healingmoods@gmail.com
+Admin Name: Javed  Azhar
+Admin Organization:
+Admin Street1: 2627 S cooper st.
+Admin Street2:
+Admin Street3:
+Admin City: Arlington
+Admin State/Province: TX
+Admin Postal Code: 76015
+Admin Country: US
+Admin Phone: ()
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email: healingmoods@gmail.com
+Billing Name: Javed  Azhar
+Billing Organization:
+Billing Street1: 2627 S cooper st.
+Billing Street2:
+Billing Street3:
+Billing City: Arlington
+Billing State/Province: TX
+Billing Postal Code: 76015
+Billing Country: US
+Billing Phone: ()
+Billing Phone Ext.:
+Billing FAX:
+Billing FAX Ext.:
+Billing Email: healingmoods@gmail.com
+Tech Name: Javed  Azhar
+Tech Organization:
+Tech Street1: 2627 S cooper st.
+Tech Street2:
+Tech Street3:
+Tech City: Arlington
+Tech State/Province: TX
+Tech Postal Code: 76015
+Tech Country: US
+Tech Phone: ()
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email: healingmoods@gmail.com
+Name Server: NS1.INTRUSTDOMAINS.NET
+Name Server: NS2.INTRUSTDOMAINS.NET
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
-
-Domain name: xjapanesepussy.com
-
-Registrant Contact:
-   n/a
-   Aleksey Elin ()
-
-   Fax:
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
-
-Administrative Contact:
-   n/a
-   Aleksey Elin (furiyoki@gmail.com)
-   +7.4162372196
-   Fax: +1.5555555555
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
-
-Technical Contact:
-   n/a
-   Aleksey Elin (furiyoki@gmail.com)
-   +7.4162372196
-   Fax: +1.5555555555
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
-
-Status: Locked
-
-Name Servers:
-   ns1.xjapanesepussy.com
-   ns2.xjapanesepussy.com
-
-Creation date: 22 Jan 2011 17:44:00
-Expiration date: 22 Jan 2012 12:44:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
