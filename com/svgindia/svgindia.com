@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;NKUMAR.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:20:24 UTC &lt;&lt;&lt;
+   Domain Name: SVGINDIA.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.DOTSINDIA.COM
+   Name Server: NS2.DOTSINDIA.COM
+   Status: clientTransferProhibited
+   Updated Date: 27-dec-2010
+   Creation Date: 26-dec-2006
+   Expiration Date: 26-dec-2011
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Jigs Shah info@dotsindia.com +91.2228067809
+	 Dots Software Solutions India Limited
+	 Shop No-4, Gyan Darshan, SVP Road, Kandivali(W),
+	 Mumbai,Maharashtra,IN 400067
+
+
+Domain Name:svgindia.com
+Record last updated at 2010-12-15 03:02:55
+Record created on 2006/12/26
+Record expired on 2011/12/26
+
+
+Domain servers in listed order:
+	 ns1.dotsindia.com 	 ns2.dotsindia.com
+
+Administrator:
+	 name:(Jigs Shah)
+	Email:(info@dotsindia.com) tel-- +91.2228067809
+	 Dots Software Solutions India Limited
+	 Shop No-4, Gyan Darshan, SVP Road, Kandivali(W),
+\r
+t Mumbai
+Maharashtra,
+IN
+
+ zipcode:400067
+
+	 Technical Contactor:N/A
+Billing Contactor:
+	 name:(Jigs Shah)
+	Email:(info@dotsindia.com) tel-- +91.2228067809
+	 Dots Software Solutions India Limited
+	 Shop No-4, Gyan Darshan, SVP Road, Kandivali(W),
+\r
+t Mumbai
+Maharashtra,
+IN
+
+ zipcode:400067
+
+
+Registration Service Provider:
+	name: Dots Info Systesm (I) Pvt. Ltd.
+	tel: +91.2242212222
+ 	fax: +91.2242212209
+ 	web:http://www.dotsindia.com
