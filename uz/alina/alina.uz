@@ -1,0 +1,15 @@
+PHP Notice:  Undefined variable: cash_info in /ns/web/html/whois/whois.php on line 24
+PHP Notice:  Constant dcTPL_STATYEAR1 already defined in /ns/web/xhp/config.xhp on line 128
+PHP Notice:  Undefined index: REQUEST_URI in /ns/web/xhp/functions.xhp on line 83
+
+% UzWhois Server Version 1.0
+
+% Domain names in the .uz domain can now be registered
+% with many different competing registrars. Go to http://www.cctld.uz/
+% for detailed information.
+
+Sorry, but domain: &quot;alina.uz&quot;, not found in database
+
+%  The Whois Server (ver. 1.0) of ccTLD.UZ
+%  (c) 2005, Center UZINFOCOM
+

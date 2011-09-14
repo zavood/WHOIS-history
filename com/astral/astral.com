@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETLOG.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Domain Name: ASTRAL.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: ALEXIS.GLOBETROTTER.NET
+   Name Server: TROTTEUR.GLOBETROTTER.QC.CA
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2011
-   Creation Date: 19-dec-1996
-   Expiration Date: 18-dec-2011
+   Updated Date: 17-may-2011
+   Creation Date: 05-jun-1994
+   Expiration Date: 04-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:25:51 UTC &lt;&lt;&lt;
 
@@ -51,47 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  MASSIVE MEDIA NV (MASSIVEM323)
-  Emile Braunplein 18
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-  Gent, , 9000
-  BE
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-  Domain name: netlog.com
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative and Technical contact:
-  Support, Customer (AS688)
-  Register SA/NV
-  Verdunstraat 742
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-  Brussels, Brussels, 1130
-  BE
-  info@register.be
-  +32.22473700 Fax: +32.22473701
-
-Record created:           2008-02-04 09:04:59
-Record last updated:      2011-04-05 17:02:25
-Record expires:           2011-12-18 00:00:00
-
-Domain servers in listed order:
-  dns11.cotdns.net (DNSCOTDN585)
-  dns12.cotdns.net (DNSCOTDN586)
+Whois Query: astral.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 18:15:53 EDT 2011
+Reason Code: IE

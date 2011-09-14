@@ -1,42 +1,39 @@
 
     Domain name:
-        arboris.co.uk
+        awsdns-07.co.uk
 
     Registrant:
-        Arboris Limited
+        Amazon Technologies, Inc.
 
     Registrant type:
-        UK Limited Company, (Company number: 3563041)
+        Other UK Entity (e.g. clubs, associations, many universities)
 
     Registrant's address:
-        Close House, The Green
-        Pitton
-        Salisbury
-        Wiltshire
-        SP5 1DZ
-        United Kingdom
+        P.O. Box 8102
+        Reno
+        NV
+        89507
+        United States
 
     Registrar:
-        Arboris Limited [Tag = ARBORIS]
-        URL: http://arboris.co.uk
+        Markmonitor Inc. t/a Markmonitor [Tag = MARKMONITOR]
+        URL: http://www.markmonitor.com
 
     Relevant dates:
-        Registered on: 12-May-1998
-        Renewal date:  12-May-2012
-        Last updated:  02-Jan-2010
+        Registered on: 21-Oct-2010
+        Renewal date:  21-Oct-2012
+        Last updated:  02-Nov-2010
 
     Registration status:
         Registered until renewal date.
 
     Name servers:
-        eiger.arboris.co.uk       94.23.152.40  2001:41d0:2:7b1a::1:1
-        matterhorn.arboris.co.uk  94.23.158.23  2001:41d0:1:d45d::a:1
-        montblanc.arboris.co.uk   69.64.37.141  2001:4978:f:e8::2
+        g-ns-1482.awsdns-07.co.uk  205.251.197.202
+        g-ns-1803.awsdns-07.co.uk  205.251.199.11
+        g-ns-327.awsdns-07.co.uk  205.251.193.71
+        g-ns-903.awsdns-07.co.uk  205.251.195.135
 
-    DNSSEC:
-        Signed
-
-    WHOIS lookup made at 23:26:57 14-Sep-2011
+    WHOIS lookup made at 23:27:21 14-Sep-2011
 
 --
 This WHOIS information is provided for free by Nominet UK the central registry
