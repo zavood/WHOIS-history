@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMARTCODE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SMARTCODE.COM
-   Name Server: NS2.SMARTCODE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 25-feb-1995
-   Expiration Date: 26-feb-2015
+   Domain Name: LAYERSHIFT.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.TRANSNEXIS.NET
+   Name Server: DNS2.TRANSNEXIS.NET
+   Name Server: DNS3.TRANSNEXIS.NET
+   Status: ok
+   Updated Date: 11-mar-2011
+   Creation Date: 11-dec-2006
+   Expiration Date: 11-dec-2020
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:04:52 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about layershift.com
+&lt;a href=&quot;http://www.aboutus.org/layershift.com&quot;&gt;AboutUs: layershift.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: layershift.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SMARTCODE.COM
+Registrant Contact:
+   Layershift Limited
+   Andrew Cranson ()
 
-   Domain servers in listed order:
-      NS1.SMARTCODE.COM
-      NS2.SMARTCODE.COM
+   Fax:
+   Delta House, Wavell Road
+   Manchester, Greater Manchester M22 5QZ
+   GB
+
+Administrative Contact:
+   Layershift Limited
+   Andrew Cranson (domains@layershift.com)
+   +44.1616608750
+   Fax:
+   Delta House, Wavell Road
+   Manchester, Greater Manchester M22 5QZ
+   GB
+
+Technical Contact:
+   Layershift Limited
+   Andrew Cranson (domains@layershift.com)
+   +44.1616608750
+   Fax:
+   Delta House, Wavell Road
+   Manchester, Greater Manchester M22 5QZ
+   GB
+
+Status: Locked
+
+Name Servers:
+   dns1.transnexis.net
+   dns2.transnexis.net
+   dns3.transnexis.net
+
+Creation date: 12 Dec 2006 00:02:55
+Expiration date: 12 Dec 2020 00:02:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTCODE.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

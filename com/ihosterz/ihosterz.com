@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TWITTER.COM.PAVLINOFF-55-11-44.COM
-TWITTER.COM.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-TWITTER.COM
+   Domain Name: IHOSTERZ.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.SOLUSIDNS.COM
+   Name Server: NS2.SOLUSIDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 17-mar-2011
+   Creation Date: 10-jul-2010
+   Expiration Date: 10-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:04:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:03:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain ihosterz.com
+
+Date Registered: 2010-7-10
+Date Modified: 2011-3-17
+Expiry Date: 2012-7-10
+
+DNS1: ns1.solusidns.com
+DNS2: ns2.solusidns.com
+
+Registrant
+    Private Whois ihosterz.com
+    Private Whois ihosterz.com  z6lck7p4d9572acf40d5@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ihosterz.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois ihosterz.com
+    Private Whois ihosterz.com  nh5ojyh4d9572ad0d66f@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ihosterz.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois ihosterz.com
+    Private Whois ihosterz.com  rmkgdqv4d9572ad0796a@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o ihosterz.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

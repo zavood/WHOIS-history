@@ -1,0 +1,21 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     INTELBACKUPSRV.SU
+descr:      Registered and Operated by eNom, Inc.
+nserver:    ns1.enomdomains.su.
+nserver:    ns2.enomdomains.su.
+nserver:    ns3.enomdomains.su.
+nserver:    ns4.enomdomains.su.
+state:      REGISTERED, DELEGATED
+person:     Private Person
+e-mail:     tydac@whoisprivacyprotect.com
+registrar:  RUCENTER-REG-FID
+created:    2011.04.21
+paid-till:  2012.04.21
+source:     TCI
+
+Last updated on 2011.09.14 23:58:42 MSK/MSD
+

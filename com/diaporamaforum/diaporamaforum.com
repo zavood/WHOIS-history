@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-TWITTER.COM.PAVLINOFF-55-11-44.COM
-TWITTER.COM.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-TWITTER.COM
+   Domain Name: DIAPORAMAFORUM.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
+   Status: clientTransferProhibited
+   Updated Date: 23-nov-2010
+   Creation Date: 07-dec-2005
+   Expiration Date: 07-dec-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:04:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:04:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name : DIAPORAMAFORUM.COM
+Created On : 2005-12-07
+Expiration Date : 2011-12-07
+Status : PROTECTED
+Registrant Name : Gerard Desroches
+Registrant Street1 : 121 val des Bons Malades
+Registrant City : Luxembourg
+Registrant State/Province  :
+Registrant Postal Code : L-2121
+Registrant Country : LU
+Admin Name : Gerard Desroches
+Admin Street1 : 121 val des Bons Malades
+Admin City : Luxembourg
+Admin State/Province : LU
+Admin Postal Code : L-2121
+Admin Country : LU
+Admin Phone : +352.420725
+Admin Email : diaporamaforum@gmail.com
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

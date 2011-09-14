@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPGLOSS.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
+   Domain Name: ADAVIUSWEB.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.ADAVIUSWEB.COM
+   Name Server: NS2.ADAVIUSWEB.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-feb-2011
-   Creation Date: 23-feb-2006
-   Expiration Date: 23-feb-2012
+   Updated Date: 21-jun-2011
+   Creation Date: 21-jul-2009
+   Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:03:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:04:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about adaviusweb.com
+&lt;a href=&quot;http://www.aboutus.org/adaviusweb.com&quot;&gt;AboutUs: adaviusweb.com&lt;/a&gt;
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
 
-Registrant:
-   David Galbraith
-   995 Steiner st.
-   San Francisco, CA  94117
+Domain name: adaviusweb.com
+
+Registrant Contact:
+   By Arvixe
+   Private Registration ()
+
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
    US
 
-   Registrar: NAMESDIRECT
-   Domain Name: POPGLOSS.COM
-      Created on: 23-FEB-06
-      Expires on: 23-FEB-12
-      Last Updated on: 13-FEB-11
+Administrative Contact:
+   By Arvixe
+   Private Registration (adaviusweb.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
 
-   Administrative, Technical Contact:
-      Galbraith, David  david@davidgalbraith.org
-      995 Steiner st.
-      San Francisco, CA  94117
-      US
-      415-577-8828
+Technical Contact:
+   By Arvixe
+   Private Registration (adaviusweb.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.adaviusweb.com
+   ns2.adaviusweb.com
+
+Creation date: 21 Jul 2009 23:21:26
+Expiration date: 21 Jul 2012 23:21:26
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
 
-End of Whois Information
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

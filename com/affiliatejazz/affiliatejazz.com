@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPGLOSS.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
+   Domain Name: AFFILIATEJAZZ.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SAFFELL.US
+   Name Server: NS2.SAFFELL.US
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-feb-2011
-   Creation Date: 23-feb-2006
-   Expiration Date: 23-feb-2012
+   Updated Date: 20-oct-2010
+   Creation Date: 29-nov-2009
+   Expiration Date: 29-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:03:36 UTC &lt;&lt;&lt;
 
@@ -55,50 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about affiliatejazz.com
+&lt;a href=&quot;http://www.aboutus.org/affiliatejazz.com&quot;&gt;AboutUs: affiliatejazz.com&lt;/a&gt;
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Registrant:
-   David Galbraith
-   995 Steiner st.
-   San Francisco, CA  94117
+Domain name: affiliatejazz.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
-   Registrar: NAMESDIRECT
-   Domain Name: POPGLOSS.COM
-      Created on: 23-FEB-06
-      Expires on: 23-FEB-12
-      Last Updated on: 13-FEB-11
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (48fbdc95572d4495a5df6abccf791fc4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
-   Administrative, Technical Contact:
-      Galbraith, David  david@davidgalbraith.org
-      995 Steiner st.
-      San Francisco, CA  94117
-      US
-      415-577-8828
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (48fbdc95572d4495a5df6abccf791fc4.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.SAFFELL.US
+   NS2.SAFFELL.US
+
+Creation date: 30 Nov 2009 04:59:00
+Expiration date: 30 Nov 2011 04:59:00
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
 
-End of Whois Information
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

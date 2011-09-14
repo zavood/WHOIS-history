@@ -1,0 +1,71 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T08:04:23+12:00
+domain_name: citylink.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-12-24T10:25:40+13:00
+domain_datebilleduntil: 2012-04-24T10:25:40+12:00
+domain_datelastmodified: 2011-06-13T16:27:43+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: OneSquared
+registrar_address1: PO Box 9879
+registrar_city: Wellington
+registrar_postalcode: 6030
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 577 2034
+registrar_fax: +64 4 803 3526
+registrar_email: dns@onesquared.net
+%
+registrant_contact_name: Citylink Ltd
+registrant_contact_address1: Accounts Dept PO Box 9328
+registrant_contact_address2: PO Box 9328
+registrant_contact_city: Wellington
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 385 9004
+registrant_contact_fax: +64 4 385 9004
+registrant_contact_email: accounts@citylink.co.nz
+%
+admin_contact_name: Jeremy Marshall
+admin_contact_address1: PO BOX 9328
+admin_contact_address2: PO Box 9328
+admin_contact_city: Wellington
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 385 9004
+admin_contact_fax: +64 4 385 9004
+admin_contact_email: accounts@citylink.co.nz
+%
+technical_contact_name: Citylink NOC
+technical_contact_address1: PO Box 9328
+technical_contact_address2: Wellington
+technical_contact_city: Wellington
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 491 070200
+technical_contact_fax: +66 63 000000
+technical_contact_email: noc@citylink.co.nz
+%
+ns_ip4_01: 202.8.44.226
+ns_name_01: ns1.citylink.co.nz
+ns_name_02: anyns.pch.net
+ns_name_03: ns1.pch.net
+ns_ip4_04: 202.8.47.10
+ns_name_04: ns3.citylink.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
