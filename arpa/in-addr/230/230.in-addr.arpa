@@ -1,0 +1,20 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       230.in-addr.arpa
+
+organisation: Multicast
+
+nserver:      a.iana-servers.net.
+nserver:      b.iana-servers.net.
+nserver:      c.iana-servers.net.
+nserver:      d.iana-servers.net.
+nserver:      ns.icann.org.
+ds-rdata:     40600 8 1 8930691a12d2da9ec4694393c88ea751a56d85c6
+ds-rdata:     40600 8 2 6af260d363a81087ce74764a8c76f1d676fb95f5e61f7eecd04a30b8ff9f8f63
+
+changed:      1981-09
+changed:      2011-06-29
+source:       IANA
+
