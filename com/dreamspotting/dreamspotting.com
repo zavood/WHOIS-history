@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 31-may-2005
    Expiration Date: 31-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:11:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:58:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain dreamspotting.com
-% Timestamp: 2011-09-13 05:11:45
+% Timestamp: 2011-09-14 08:59:07
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
