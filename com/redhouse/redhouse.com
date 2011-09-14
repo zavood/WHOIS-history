@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THHEXPRESS.COM
+   Domain Name: REDHOUSE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 19-feb-2007
-   Expiration Date: 19-feb-2019
+   Updated Date: 29-apr-2010
+   Creation Date: 26-jul-1995
+   Expiration Date: 25-jul-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:07:38 UTC &lt;&lt;&lt;
 
@@ -76,15 +80,19 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   pongkran Thowthong
+   SanMar Corp
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THHEXPRESS.COM
+   Domain Name: REDHOUSE.COM
 
    Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
+      NS10.DNSMADEEASY.COM
+      NS11.DNSMADEEASY.COM
+      NS12.DNSMADEEASY.COM
+      NS13.DNSMADEEASY.COM
+      NS14.DNSMADEEASY.COM
+      NS15.DNSMADEEASY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THHEXPRESS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=REDHOUSE.COM

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THHEXPRESS.COM
+   Domain Name: PAX-HOST.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
+   Name Server: NS1-CR3-DALLAS.WEBSERVERSYSTEMS.COM
+   Name Server: NS2-CR3-DALLAS.WEBSERVERSYSTEMS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-dec-2010
-   Creation Date: 19-feb-2007
-   Expiration Date: 19-feb-2019
+   Updated Date: 12-sep-2011
+   Creation Date: 12-aug-2010
+   Expiration Date: 12-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:07:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:07:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   pongkran Thowthong
+   Pax
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THHEXPRESS.COM
+   Domain Name: PAX-HOST.COM
 
    Domain servers in listed order:
-      NS01.DOMAINCONTROL.COM
-      NS02.DOMAINCONTROL.COM
+      NS1-CR3-DALLAS.WEBSERVERSYSTEMS.COM
+      NS2-CR3-DALLAS.WEBSERVERSYSTEMS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THHEXPRESS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PAX-HOST.COM

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104231847-LROR
+Domain Name:DUTCHBAY.ORG
+Created On:15-Apr-2004 15:06:46 UTC
+Last Updated On:15-Apr-2011 23:25:50 UTC
+Expiration Date:15-Apr-2012 15:06:46 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:R23-20562888-PIR
+Registrant Name:Michael Prinz
+Registrant Organization:Mobile Solutions und Consulting
+Registrant Street1:Bussardweg 21
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aichtal
+Registrant State/Province:
+Registrant Postal Code:72631
+Registrant Country:DE
+Registrant Phone:+49.7127960570
+Registrant Phone Ext.:
+Registrant FAX:+49.7127954800
+Registrant FAX Ext.:
+Registrant Email:Prinz.Michael@web.de
+Admin ID:R23-20562888-PIR
+Admin Name:Michael Prinz
+Admin Organization:Mobile Solutions und Consulting
+Admin Street1:Bussardweg 21
+Admin Street2:
+Admin Street3:
+Admin City:Aichtal
+Admin State/Province:
+Admin Postal Code:72631
+Admin Country:DE
+Admin Phone:+49.7127960570
+Admin Phone Ext.:
+Admin FAX:+49.7127954800
+Admin FAX Ext.:
+Admin Email:Prinz.Michael@web.de
+Tech ID:R23-20560263-PIR
+Tech Name:Gaby Hack
+Tech Organization:Global Air Net AG
+Tech Street1:Leuchtenbergring 3
+Tech Street2:
+Tech Street3:
+Tech City:Muenchen
+Tech State/Province:
+Tech Postal Code:81677
+Tech Country:DE
+Tech Phone:+49.8941942215
+Tech Phone Ext.:
+Tech FAX:+49.8941942240
+Tech FAX Ext.:
+Tech Email:hack@ceplus.de
+Name Server:SIF.KOMTEL.NET
+Name Server:NS.FRANKFURT.KOMTEL.NET
+Name Server:NS.GANAG.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
