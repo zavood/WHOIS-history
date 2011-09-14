@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATWOLA.COM
+   Domain Name: NS-GAMERS.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
-   Status: clientTransferProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 29-oct-2001
-   Expiration Date: 29-oct-2012
+   Name Server: DNS1.MIDPHASE.COM
+   Name Server: DNS2.MIDPHASE.COM
+   Status: ok
+   Updated Date: 14-jul-2011
+   Creation Date: 06-aug-2009
+   Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:11:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:10:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... atwola.com
-  Creation Date........ 2001-10-30
-  Registration Date.... 2009-10-03
-  Expiry Date.......... 2012-10-30
-  Organisation Name.... AOL Inc.
-  Organisation Address. 22000 AOL Way
+Domain Name.......... ns-gamers.com
+  Creation Date........ 2009-08-06
+  Registration Date.... 2009-08-06
+  Expiry Date.......... 2012-08-06
+  Organisation Name.... Bryan Moore
+  Organisation Address. 9000 Crow Canyon Rd
   Organisation Address.
-  Organisation Address. Dulles
-  Organisation Address. 20166
-  Organisation Address. VA
+  Organisation Address. Danville
+  Organisation Address. 94506
+  Organisation Address. CA
   Organisation Address. UNITED STATES
 
-Admin Name........... Domain Admin
-  Admin Address........ AOL Inc.
-  Admin Address........ 22000 AOL Way
-  Admin Address........ Dulles
-  Admin Address........ 20166
-  Admin Address........ VA
+Admin Name........... Bryan Moore
+  Admin Address........ 9000 Crow Canyon Rd
+  Admin Address........
+  Admin Address........ Danville
+  Admin Address........ 94506
+  Admin Address........ CA
   Admin Address........ UNITED STATES
-  Admin Email.......... domain-adm@corp.aol.com
-  Admin Phone.......... +1.7032654670
+  Admin Email.......... nsgamer20@yahoo.com
+  Admin Phone.......... +1.9252151117
   Admin Fax............
 
-Tech Name............ Domain Admin
-  Tech Address......... AOL Inc.
-  Tech Address......... 22000 AOL Way
-  Tech Address......... Dulles
-  Tech Address......... 20166
-  Tech Address......... VA
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
   Tech Address......... UNITED STATES
-  Tech Email........... domain-adm@corp.aol.com
-  Tech Phone........... +1.7032654670
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
   Tech Fax.............
-  Name Server.......... DNS-02.NS.AOL.COM
-  Name Server.......... DNS-01.NS.AOL.COM
-  Name Server.......... DNS-07.NS.AOL.COM
-  Name Server.......... DNS-06.NS.AOL.COM
+  Name Server.......... dns1.midphase.com
+  Name Server.......... dns2.midphase.com
 
 

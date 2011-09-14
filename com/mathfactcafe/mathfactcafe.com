@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATWOLA.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
-   Status: clientTransferProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 29-oct-2001
-   Expiration Date: 29-oct-2012
+   Domain Name: MATHFACTCAFE.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   Status: ok
+   Updated Date: 04-oct-2010
+   Creation Date: 22-oct-2000
+   Expiration Date: 22-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:11:25 UTC &lt;&lt;&lt;
 
@@ -54,42 +54,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... atwola.com
-  Creation Date........ 2001-10-30
-  Registration Date.... 2009-10-03
-  Expiry Date.......... 2012-10-30
-  Organisation Name.... AOL Inc.
-  Organisation Address. 22000 AOL Way
-  Organisation Address.
-  Organisation Address. Dulles
-  Organisation Address. 20166
-  Organisation Address. VA
-  Organisation Address. UNITED STATES
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Admin Name........... Domain Admin
-  Admin Address........ AOL Inc.
-  Admin Address........ 22000 AOL Way
-  Admin Address........ Dulles
-  Admin Address........ 20166
-  Admin Address........ VA
-  Admin Address........ UNITED STATES
-  Admin Email.......... domain-adm@corp.aol.com
-  Admin Phone.......... +1.7032654670
-  Admin Fax............
+Registrant:
+   IT
+   PO Box 504
+   Star, ID  83669
+   US
 
-Tech Name............ Domain Admin
-  Tech Address......... AOL Inc.
-  Tech Address......... 22000 AOL Way
-  Tech Address......... Dulles
-  Tech Address......... 20166
-  Tech Address......... VA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain-adm@corp.aol.com
-  Tech Phone........... +1.7032654670
-  Tech Fax.............
-  Name Server.......... DNS-02.NS.AOL.COM
-  Name Server.......... DNS-01.NS.AOL.COM
-  Name Server.......... DNS-07.NS.AOL.COM
-  Name Server.......... DNS-06.NS.AOL.COM
+   Registrar: NAMESDIRECT
+   Domain Name: MATHFACTCAFE.COM
+      Created on: 22-OCT-00
+      Expires on: 22-OCT-11
+      Last Updated on: 04-OCT-10
+
+   Administrative, Technical Contact:
+      Carver, Paul  pcarver@yahoo.com
+      IT
+      PO Box 504
+      Star, ID  83669
+      US
+      208-286-0271
+      208-286-0271
 
 
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
+
+End of Whois Information

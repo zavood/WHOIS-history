@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATWOLA.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
+   Domain Name: MAGNESIUMMEDIA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 29-oct-2001
-   Expiration Date: 29-oct-2012
+   Status: clientUpdateProhibited
+   Updated Date: 05-sep-2011
+   Creation Date: 22-aug-2005
+   Expiration Date: 22-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:11:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:10:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... atwola.com
-  Creation Date........ 2001-10-30
-  Registration Date.... 2009-10-03
-  Expiry Date.......... 2012-10-30
-  Organisation Name.... AOL Inc.
-  Organisation Address. 22000 AOL Way
-  Organisation Address.
-  Organisation Address. Dulles
-  Organisation Address. 20166
-  Organisation Address. VA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Domain Admin
-  Admin Address........ AOL Inc.
-  Admin Address........ 22000 AOL Way
-  Admin Address........ Dulles
-  Admin Address........ 20166
-  Admin Address........ VA
-  Admin Address........ UNITED STATES
-  Admin Email.......... domain-adm@corp.aol.com
-  Admin Phone.......... +1.7032654670
-  Admin Fax............
-
-Tech Name............ Domain Admin
-  Tech Address......... AOL Inc.
-  Tech Address......... 22000 AOL Way
-  Tech Address......... Dulles
-  Tech Address......... 20166
-  Tech Address......... VA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain-adm@corp.aol.com
-  Tech Phone........... +1.7032654670
-  Tech Fax.............
-  Name Server.......... DNS-02.NS.AOL.COM
-  Name Server.......... DNS-01.NS.AOL.COM
-  Name Server.......... DNS-07.NS.AOL.COM
-  Name Server.......... DNS-06.NS.AOL.COM
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

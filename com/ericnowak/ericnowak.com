@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATWOLA.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
+   Domain Name: ERICNOWAK.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS35.DOMAINCONTROL.COM
+   Name Server: NS36.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 29-oct-2001
-   Expiration Date: 29-oct-2012
+   Status: clientUpdateProhibited
+   Updated Date: 14-feb-2010
+   Creation Date: 15-may-2009
+   Expiration Date: 15-may-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:11:25 UTC &lt;&lt;&lt;
 
@@ -53,43 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Domain Name.......... atwola.com
-  Creation Date........ 2001-10-30
-  Registration Date.... 2009-10-03
-  Expiry Date.......... 2012-10-30
-  Organisation Name.... AOL Inc.
-  Organisation Address. 22000 AOL Way
-  Organisation Address.
-  Organisation Address. Dulles
-  Organisation Address. 20166
-  Organisation Address. VA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Domain Admin
-  Admin Address........ AOL Inc.
-  Admin Address........ 22000 AOL Way
-  Admin Address........ Dulles
-  Admin Address........ 20166
-  Admin Address........ VA
-  Admin Address........ UNITED STATES
-  Admin Email.......... domain-adm@corp.aol.com
-  Admin Phone.......... +1.7032654670
-  Admin Fax............
-
-Tech Name............ Domain Admin
-  Tech Address......... AOL Inc.
-  Tech Address......... 22000 AOL Way
-  Tech Address......... Dulles
-  Tech Address......... 20166
-  Tech Address......... VA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain-adm@corp.aol.com
-  Tech Phone........... +1.7032654670
-  Tech Fax.............
-  Name Server.......... DNS-02.NS.AOL.COM
-  Name Server.......... DNS-01.NS.AOL.COM
-  Name Server.......... DNS-07.NS.AOL.COM
-  Name Server.......... DNS-06.NS.AOL.COM
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
+Registrant:
+   Eric Nowak Photography
+
+   Registered through: SmugMug domains by GoDaddy
+   Domain Name: ERICNOWAK.COM
+
+   Domain servers in listed order:
+      NS35.DOMAINCONTROL.COM
+      NS36.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=ERICNOWAK.COM&amp;prog_id=427342
