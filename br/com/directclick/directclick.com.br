@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 12:27:29 (BRT -03:00)
+
+domain:      directclick.com.br
+owner:       LayerDev Sistemas e Consultoria em TI
+ownerid:     007.011.608/0001-60
+responsible: Dept. de Infra-estrutura
+country:     BR
+owner-c:     LSCLT
+admin-c:     LSCLT
+tech-c:      LSCLT
+billing-c:   LSCLT
+nserver:     sp.directclick.com.br 67.228.254.4
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     rj.directclick.com.br 67.228.255.5
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20090731 #5833439
+expires:     20120731
+changed:     20100211
+status:      published
+
+nic-hdl-br:  LSCLT
+person:      LAYERDEV SISTEMAS E CONSULTORIA LTDA.
+e-mail:      tecnico@grupold.com.br
+created:     20060630
+changed:     20100210
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

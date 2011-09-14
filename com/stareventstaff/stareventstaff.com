@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THESOUTHMISSION.COM
+   Domain Name: STAREVENTSTAFF.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS39.DOMAINCONTROL.COM
-   Name Server: NS40.DOMAINCONTROL.COM
+   Name Server: NS45.DOMAINCONTROL.COM
+   Name Server: NS46.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 20-nov-2008
-   Expiration Date: 20-nov-2013
+   Updated Date: 17-jun-2010
+   Creation Date: 17-jul-2009
+   Expiration Date: 17-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:28:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:26:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   South Mission Online LLC
+   Star Event Staff
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THESOUTHMISSION.COM
+   Domain Name: STAREVENTSTAFF.COM
 
    Domain servers in listed order:
-      NS39.DOMAINCONTROL.COM
-      NS40.DOMAINCONTROL.COM
+      NS45.DOMAINCONTROL.COM
+      NS46.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THESOUTHMISSION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STAREVENTSTAFF.COM
