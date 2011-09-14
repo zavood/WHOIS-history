@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAMBORGHINIFRAGRANZA.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: NS1.REGISTER.IT
-   Name Server: NS2.REGISTER.IT
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2012
+   Domain Name: LOCALIZATION-GERMANY.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.NAMESPACE4YOU.COM
+   Name Server: NS2.NAMESPACE4YOU.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-may-2011
+   Creation Date: 26-may-2004
+   Expiration Date: 26-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:48:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-REGISTER.IT SPA - Whois Server Version 1.4
-
-The Registry database contains ONLY .COM, .NET and .ORG domains.
-
-     Domain name: LAMBORGHINIFRAGRANZA.COM
-     Created on: 2009-06-29
-     Updated on: 2011-07-24
-     Expires on: 2012-06-29
-     Registrant Name: TONINO LAMBORGHINI SRL
-     Contact: Tonino Lamborghini SRL
-     Registrant Address: Via Funo 41
-     Registrant City: Bologna
-     Registrant Postal Code: 40050
-     Registrant Country: IT
-     Administrative Contact Organization: Tonino Lamborghini
-     Administrative Contact Name: Tonino Lamborghini
-     Administrative Contact Address: Via Funo 41
-     Administrative Contact City: Bologna
-     Administrative Contact Postal Code: 40050
-     Administrative Contact Country: IT
-     Administrative Contact Email: calesella@lamborghini.it
-     Administrative Contact Tel: +39 051 862628
-     Technical Contact Organization: Register.it S.p.A.
-     Technical Contact Name:
-     Technical Contact Address: Via Montessori s/n
-     Technical Contact City: Bergamo
-     Technical Contact Postal Code: 24126
-     Technical Contact Country: IT
-     Technical Contact Email: support@register.it
-     Technical Contact Phone: +39 035 3230400
-     Technical Contact Fax: +39 035 3230312
-     Primary Name Server Hostname: NS1.REGISTER.IT
-     Secondary Name Server Hostname: NS2.REGISTER.IT
-
-
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

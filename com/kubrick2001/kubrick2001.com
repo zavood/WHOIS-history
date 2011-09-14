@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAMBORGHINIFRAGRANZA.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: NS1.REGISTER.IT
-   Name Server: NS2.REGISTER.IT
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2012
+   Domain Name: KUBRICK2001.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: JER.MIA.NET
+   Name Server: NS2.MIA.NET
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2010
+   Creation Date: 05-nov-1999
+   Expiration Date: 05-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-REGISTER.IT SPA - Whois Server Version 1.4
 
-The Registry database contains ONLY .COM, .NET and .ORG domains.
-
-     Domain name: LAMBORGHINIFRAGRANZA.COM
-     Created on: 2009-06-29
-     Updated on: 2011-07-24
-     Expires on: 2012-06-29
-     Registrant Name: TONINO LAMBORGHINI SRL
-     Contact: Tonino Lamborghini SRL
-     Registrant Address: Via Funo 41
-     Registrant City: Bologna
-     Registrant Postal Code: 40050
-     Registrant Country: IT
-     Administrative Contact Organization: Tonino Lamborghini
-     Administrative Contact Name: Tonino Lamborghini
-     Administrative Contact Address: Via Funo 41
-     Administrative Contact City: Bologna
-     Administrative Contact Postal Code: 40050
-     Administrative Contact Country: IT
-     Administrative Contact Email: calesella@lamborghini.it
-     Administrative Contact Tel: +39 051 862628
-     Technical Contact Organization: Register.it S.p.A.
-     Technical Contact Name:
-     Technical Contact Address: Via Montessori s/n
-     Technical Contact City: Bergamo
-     Technical Contact Postal Code: 24126
-     Technical Contact Country: IT
-     Technical Contact Email: support@register.it
-     Technical Contact Phone: +39 035 3230400
-     Technical Contact Fax: +39 035 3230312
-     Primary Name Server Hostname: NS1.REGISTER.IT
-     Secondary Name Server Hostname: NS2.REGISTER.IT
+Registrant:
+THOMAS, GRAEME
+   ATTN:
+   P.O. Box 430 c/o NameSecure
+   Herndon, VA.  US  20171-430
 
 
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
+   Domain Name: KUBRICK2001.COM
+
+   Administrative Contact:
+      THOMAS, GRAEME		jf3rp5vv5rq@nameprivacy.com
+      GRAEME THOMAS
+      ATTN:
+      P.O. Box 430 c/o NameSecure
+      Herndon, VA 20171-430
+      US
+      570-708-8782
+
+   Technical Contact:
+      Kinsey (JK3769), Jeremy		ub4xk2fx9tu@nameprivacy.com
+      Bella Mia, Inc.
+      ATTN:
+      P.O. Box 430 c/o NameSecure
+      Herndon, VA 20171-430
+      US
+      570-708-8782
+
+
+   Record expires on 05-Nov-2012.
+   Record created on 05-Nov-1999.
+   Database last updated on 14-Sep-2011 12:37:31 EDT.
+
+   Domain servers in listed order:
+
+   JER.MIA.NET                  206.190.23.194
+   NS2.MIA.NET                  209.100.29.228
+
+This listing is a NameSecure Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 

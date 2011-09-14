@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96777909-LROR
+Domain Name:LEXINGTONHOUSINGAUTHORITY.ORG
+Created On:01-May-2003 14:17:53 UTC
+Last Updated On:16-May-2007 16:06:17 UTC
+Expiration Date:01-May-2012 14:17:53 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686416814550
+Registrant Name:Lexington Housing Authority
+Registrant Street1:1 Countryside Village
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lexington
+Registrant State/Province:MA
+Registrant Postal Code:02420
+Registrant Country:US
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:awlha@rcn.com
+Admin ID:10686416818750
+Admin Name:Ann Whitney
+Admin Street1:1 Countryside Village
+Admin Street2:
+Admin Street3:
+Admin City:Lexington
+Admin State/Province:MA
+Admin Postal Code:02420
+Admin Country:US
+Admin Phone:+1.7818610900
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:awlha@rcn.com
+Tech ID:10686416826210
+Tech Name:Tech Support
+Tech Street1:101 Marietta Street
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30303
+Tech Country:US
+Tech Phone:+1.8005895060
+Tech Phone Ext.:
+Tech FAX:+1.4045860001
+Tech FAX Ext.:
+Tech Email:mittransfers@interland.com
+Name Server:AUTH3.DNS.RCN.NET
+Name Server:AUTH1.DNS.RCN.NET
+Name Server:AUTH2.DNS.RCN.NET
+Name Server:AUTH4.DNS.RCN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

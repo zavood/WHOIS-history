@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAMBORGHINIFRAGRANZA.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: NS1.REGISTER.IT
-   Name Server: NS2.REGISTER.IT
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2012
+   Domain Name: UPTICKADS.COM
+   Registrar: SPOT DOMAIN LLC DBA DOMAINSITE.COM
+   Whois Server: whois.domainsite.com
+   Referral URL: http://www.domainsite.com
+   Name Server: NS1.DOMAINSITE.COM
+   Name Server: NS2.DOMAINSITE.COM
+   Name Server: NS3.DOMAINSITE.COM
+   Name Server: NS4.DOMAINSITE.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-aug-2011
+   Creation Date: 03-sep-2008
+   Expiration Date: 03-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:48:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +53,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name:     uptickads.com
+Registrar:       Spot Domain LLC
 
-REGISTER.IT SPA - Whois Server Version 1.4
+Expiration Date: 2012-09-03 05:55:53
+Creation Date:   2008-09-02 23:55:53
 
-The Registry database contains ONLY .COM, .NET and .ORG domains.
+Name Servers:
+	ns1.domainsite.com
+	ns2.domainsite.com
+	ns3.domainsite.com
+	ns4.domainsite.com
 
-     Domain name: LAMBORGHINIFRAGRANZA.COM
-     Created on: 2009-06-29
-     Updated on: 2011-07-24
-     Expires on: 2012-06-29
-     Registrant Name: TONINO LAMBORGHINI SRL
-     Contact: Tonino Lamborghini SRL
-     Registrant Address: Via Funo 41
-     Registrant City: Bologna
-     Registrant Postal Code: 40050
-     Registrant Country: IT
-     Administrative Contact Organization: Tonino Lamborghini
-     Administrative Contact Name: Tonino Lamborghini
-     Administrative Contact Address: Via Funo 41
-     Administrative Contact City: Bologna
-     Administrative Contact Postal Code: 40050
-     Administrative Contact Country: IT
-     Administrative Contact Email: calesella@lamborghini.it
-     Administrative Contact Tel: +39 051 862628
-     Technical Contact Organization: Register.it S.p.A.
-     Technical Contact Name:
-     Technical Contact Address: Via Montessori s/n
-     Technical Contact City: Bergamo
-     Technical Contact Postal Code: 24126
-     Technical Contact Country: IT
-     Technical Contact Email: support@register.it
-     Technical Contact Phone: +39 035 3230400
-     Technical Contact Fax: +39 035 3230312
-     Primary Name Server Hostname: NS1.REGISTER.IT
-     Secondary Name Server Hostname: NS2.REGISTER.IT
+REGISTRANT CONTACT INFO
+UpTickAds LLC
+Web Master
+260 Madison Avenue
+8th Floor
+New York
+NY
+10016
+US
+Phone:         +1.6462162004
+Email Address: webmaster@uptickads.com
 
+ADMINISTRATIVE CONTACT INFO
+UpTickAds LLC
+Web Master
+260 Madison Avenue
+8th Floor
+New York
+NY
+10016
+US
+Phone:         +1.6462162004
+Email Address: webmaster@uptickads.com
 
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
+TECHNICAL CONTACT INFO
+UpTickAds LLC
+Web Master
+260 Madison Avenue
+8th Floor
+New York
+NY
+10016
+US
+Phone:         +1.6462162004
+Email Address: webmaster@uptickads.com
 
+BILLING CONTACT INFO
+UpTickAds LLC
+Web Master
+260 Madison Avenue
+8th Floor
+New York
+NY
+10016
+US
+Phone:         +1.6462162004
+Email Address: webmaster@uptickads.com
+
+Timestamp: 1316018955.4291
+
+The Data in the Spot Domain LLC WHOIS database is provided by Spot Domain LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Spot Domain LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Spot Domain LLC (or its systems). Spot Domain LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-14T10:49:15-06:00

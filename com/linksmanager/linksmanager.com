@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAMBORGHINIFRAGRANZA.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: NS1.REGISTER.IT
-   Name Server: NS2.REGISTER.IT
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2012
+   Domain Name: LINKSMANAGER.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-sep-2010
+   Creation Date: 27-sep-1998
+   Expiration Date: 26-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:48:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +54,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-REGISTER.IT SPA - Whois Server Version 1.4
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-The Registry database contains ONLY .COM, .NET and .ORG domains.
+Registrant:
+   CNVI
+   11585 Jones Bridge Road
+   Suite 420, #104
+   Johns Creek, Georgia  30022
+   US
 
-     Domain name: LAMBORGHINIFRAGRANZA.COM
-     Created on: 2009-06-29
-     Updated on: 2011-07-24
-     Expires on: 2012-06-29
-     Registrant Name: TONINO LAMBORGHINI SRL
-     Contact: Tonino Lamborghini SRL
-     Registrant Address: Via Funo 41
-     Registrant City: Bologna
-     Registrant Postal Code: 40050
-     Registrant Country: IT
-     Administrative Contact Organization: Tonino Lamborghini
-     Administrative Contact Name: Tonino Lamborghini
-     Administrative Contact Address: Via Funo 41
-     Administrative Contact City: Bologna
-     Administrative Contact Postal Code: 40050
-     Administrative Contact Country: IT
-     Administrative Contact Email: calesella@lamborghini.it
-     Administrative Contact Tel: +39 051 862628
-     Technical Contact Organization: Register.it S.p.A.
-     Technical Contact Name:
-     Technical Contact Address: Via Montessori s/n
-     Technical Contact City: Bergamo
-     Technical Contact Postal Code: 24126
-     Technical Contact Country: IT
-     Technical Contact Email: support@register.it
-     Technical Contact Phone: +39 035 3230400
-     Technical Contact Fax: +39 035 3230312
-     Primary Name Server Hostname: NS1.REGISTER.IT
-     Secondary Name Server Hostname: NS2.REGISTER.IT
+   Registrar: DOTSTER
+   Domain Name: LINKSMANAGER.COM
+      Created on: 27-SEP-98
+      Expires on: 26-SEP-11
+      Last Updated on: 09-MAY-11
+
+   Administrative, Technical Contact:
+      Lesser, Joel  webmaster@cnvi.com
+      CNVI
+      11585 Jones Bridge Road
+      Suite 420, #104
+      Johns Creek, Georgia  30022
+      US
+      770 664 2272
+      770 664 8090
 
 
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
+   Domain servers in listed order:
+      NS1.THEPLANET.COM
+      NS2.THEPLANET.COM
 
+End of Whois Information

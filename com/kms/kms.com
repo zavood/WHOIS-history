@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAMBORGHINIFRAGRANZA.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: NS1.REGISTER.IT
-   Name Server: NS2.REGISTER.IT
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-2009
-   Expiration Date: 29-jun-2012
+   Domain Name: KMS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.SEMAPHORE.NET
+   Name Server: NS2.SEMAPHORE.NET
+   Status: clientTransferProhibited
+   Updated Date: 30-may-2008
+   Creation Date: 09-feb-1993
+   Expiration Date: 10-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-REGISTER.IT SPA - Whois Server Version 1.4
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-The Registry database contains ONLY .COM, .NET and .ORG domains.
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-     Domain name: LAMBORGHINIFRAGRANZA.COM
-     Created on: 2009-06-29
-     Updated on: 2011-07-24
-     Expires on: 2012-06-29
-     Registrant Name: TONINO LAMBORGHINI SRL
-     Contact: Tonino Lamborghini SRL
-     Registrant Address: Via Funo 41
-     Registrant City: Bologna
-     Registrant Postal Code: 40050
-     Registrant Country: IT
-     Administrative Contact Organization: Tonino Lamborghini
-     Administrative Contact Name: Tonino Lamborghini
-     Administrative Contact Address: Via Funo 41
-     Administrative Contact City: Bologna
-     Administrative Contact Postal Code: 40050
-     Administrative Contact Country: IT
-     Administrative Contact Email: calesella@lamborghini.it
-     Administrative Contact Tel: +39 051 862628
-     Technical Contact Organization: Register.it S.p.A.
-     Technical Contact Name:
-     Technical Contact Address: Via Montessori s/n
-     Technical Contact City: Bergamo
-     Technical Contact Postal Code: 24126
-     Technical Contact Country: IT
-     Technical Contact Email: support@register.it
-     Technical Contact Phone: +39 035 3230400
-     Technical Contact Fax: +39 035 3230312
-     Primary Name Server Hostname: NS1.REGISTER.IT
-     Secondary Name Server Hostname: NS2.REGISTER.IT
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
-
+Whois Query: kms.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 12:38:25 EDT 2011
+Reason Code: IE
