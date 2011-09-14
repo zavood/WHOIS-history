@@ -5,23 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNW.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.IAD.LLNS.NET
-   Name Server: DNS.LAX.LLNS.NET
-   Name Server: DNS.LGA.LLNS.NET
-   Name Server: DNS.SJC.LLNS.NET
+   Domain Name: ANIMENEWSNETWORK.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 23-jun-2001
-   Expiration Date: 23-jun-2020
+   Updated Date: 17-aug-2011
+   Creation Date: 21-aug-1998
+   Expiration Date: 20-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:10:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:10:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +56,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Limelight Networks Inc.
+ Macdonald, Christopher  tempest@anim8info.com
+ Anime News Network
+ 4410 Cote des Neiges
+ #402
+ Wesmount, Quebec H3V1E6
+ CA
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNW.NET
-
-   Domain servers in listed order:
-      DNS.LAX.LLNS.NET
-      DNS.SJC.LLNS.NET
-      DNS.LGA.LLNS.NET
-      DNS.IAD.LLNS.NET
+ Domain name: ANIMENEWSNETWORK.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNW.NET
+ Administrative Contact, Technical Contact:
+    Macdonald, Christopher  tempest@anim8info.com
+    Anime News Network
+    4410 Cote des Neiges
+    #402
+    Wesmount, Quebec H3V1E6
+    CA
+    +1.5145708880
+
+
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
+
+
+ Record last updated on 17-Aug-2011 06:05:00 UTC.
+ Record expires on 20-Aug-2013.
+ Record created on 21-Aug-1998.
+
+
+ This domain is delegated to DynDNS.com Custom DNS:
+    NS1.MYDYNDNS.ORG
+    NS5.MYDYNDNS.ORG
+    NS4.MYDYNDNS.ORG
+    NS2.MYDYNDNS.ORG
+    NS3.MYDYNDNS.ORG
+ 100% uptime since 2001! ** Learn more here: http://www.dyn.com/ **
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+

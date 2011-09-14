@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D122141106-LROR
+Domain Name:SOPHIESMINDE.ORG
+Created On:10-May-2006 06:42:26 UTC
+Last Updated On:31-Mar-2011 16:49:25 UTC
+Expiration Date:10-May-2012 06:42:26 UTC
+Sponsoring Registrar:Misk.com, Inc. (R119-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:NIT0605100422M4
+Registrant Name:Ina Haavi Hoiberget
+Registrant Organization:Sophies Minde Ortopedi AS
+Registrant Street1:Trondheimsveien 235, Bygg 79
+Registrant Street2:Postboks 493 Okern
+Registrant Street3:
+Registrant City:Oslo
+Registrant State/Province:N
+Registrant Postal Code:0512
+Registrant Country:NO
+Registrant Phone:+47.22045360
+Registrant Phone Ext.:
+Registrant FAX:+47.22045365
+Registrant FAX Ext.:
+Registrant Email:post@sophiesminde.no
+Admin ID:NIT0605100422G4
+Admin Name:Ina Haavi Hoiberget
+Admin Organization:Sophies Minde Ortopedi AS
+Admin Street1:Trondheimsveien 235, Bygg 79
+Admin Street2:Postboks 493 Okern
+Admin Street3:
+Admin City:Oslo
+Admin State/Province:N
+Admin Postal Code:0512
+Admin Country:NO
+Admin Phone:+47.22045363
+Admin Phone Ext.:
+Admin FAX:+47.22045365
+Admin FAX Ext.:
+Admin Email:ina.haavi.hoiberget@rikshospitalet.no
+Tech ID:NIT0605100426SK
+Tech Name:Ole Robin Paulsen
+Tech Organization:Axesspartner AS
+Tech Street1:Naerum
+Tech Street2:
+Tech Street3:
+Tech City:Rygge
+Tech State/Province:N
+Tech Postal Code:1580
+Tech Country:NO
+Tech Phone:+47.69013100
+Tech Phone Ext.:
+Tech FAX:+47.69013099
+Tech FAX Ext.:
+Tech Email:hostmaster@axesspartner.no
+Name Server:RYGNS01.AXPA.NO
+Name Server:OSLNS01.AXPA.NO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

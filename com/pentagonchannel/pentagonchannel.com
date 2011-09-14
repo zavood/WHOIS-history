@@ -5,23 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNW.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS.IAD.LLNS.NET
-   Name Server: DNS.LAX.LLNS.NET
-   Name Server: DNS.LGA.LLNS.NET
-   Name Server: DNS.SJC.LLNS.NET
+   Domain Name: PENTAGONCHANNEL.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: STORM.AFIS.OSD.MIL
+   Name Server: THUNDER.AFIS.OSD.MIL
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 23-jun-2001
-   Expiration Date: 23-jun-2020
+   Updated Date: 11-apr-2011
+   Creation Date: 25-mar-2004
+   Expiration Date: 25-mar-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:10:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +53,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Limelight Networks Inc.
+   Defense Media Activity
+   601 North Fairfax ST
+   Alexandria, Va  22314
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNW.NET
+   Registrar: DOTSTER
+   Domain Name: PENTAGONCHANNEL.COM
+      Created on: 25-MAR-04
+      Expires on: 25-MAR-21
+      Last Updated on: 11-APR-11
+
+   Administrative Contact:
+      McDowney, Angeleque  angeleque.mcdowny@dma.mil
+      Defense Media Activity
+      601 North Fairfax ST
+      Alexandria, Va  22314
+      US
+      703-428-0240
+      703-428-0930
+
+   Technical Contact:
+      Walker, Leaudry  lee.walker@dma.mil
+      Defense Media Activity
+      601 North Fairfax ST
+      Alexandria, Va  22314
+      US
+      703-428-0743
+      703-428-0930
+
 
    Domain servers in listed order:
-      DNS.LAX.LLNS.NET
-      DNS.SJC.LLNS.NET
-      DNS.LGA.LLNS.NET
-      DNS.IAD.LLNS.NET
+      THUNDER.AFIS.OSD.MIL
+      STORM.AFIS.OSD.MIL
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNW.NET
+End of Whois Information
