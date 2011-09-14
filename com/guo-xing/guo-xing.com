@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIDCITYCDC.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS01.GPN.REGISTER.COM
-   Name Server: DNS02.GPN.REGISTER.COM
-   Name Server: DNS03.GPN.REGISTER.COM
-   Name Server: DNS04.GPN.REGISTER.COM
-   Name Server: DNS05.GPN.REGISTER.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 27-jun-2008
-   Expiration Date: 27-jun-2011
+   Domain Name: GUO-XING.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: ok
+   Updated Date: 06-aug-2011
+   Creation Date: 20-sep-2001
+   Expiration Date: 20-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:40:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:41:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;kidcitycdc.com&quot;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Puning shi guoxing fengren shibei maoyi gongshi tykj_jyb@21cn.net +86.6632244578
+
+	 12-14F qiaobei road,liushan calm
+	 PuNing,Guangdong,CN 515300
+
+
+Domain Name:guo-xing.com
+Record last updated at 2011-08-05 23:50:54
+Record created on 2001/9/20
+Record expired on 2013/9/20
+
+
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
+
+Administrator:
+	 name:(Li xiaoning)
+	Email:(tykj_jyb@21cn.net) tel-- +86.6632244578
+
+	 12-14F qiaobei road,liushan calm
+\r
+t PuNing
+Guangdong,
+CN
+
+ zipcode:515300
+
+Technical Contactor:
+	 name:(Li xiaoning)
+	Email:(tykj_jyb@21cn.net) tel-- +86.6632244578
+
+	 12-14F qiaobei road,liushan calm
+\r
+t PuNing
+Guangdong,
+CN
+
+ zipcode:515300
+
+Billing Contactor:
+	 name:(Li xiaoning)
+	Email:(tykj_jyb@21cn.net) tel-- +86.6632244578
+
+	 12-14F qiaobei road,liushan calm
+\r
+t PuNing
+Guangdong,
+CN
+
+ zipcode:515300
+

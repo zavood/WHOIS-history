@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIDCITYCDC.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS01.GPN.REGISTER.COM
-   Name Server: DNS02.GPN.REGISTER.COM
-   Name Server: DNS03.GPN.REGISTER.COM
-   Name Server: DNS04.GPN.REGISTER.COM
-   Name Server: DNS05.GPN.REGISTER.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 27-jun-2008
-   Expiration Date: 27-jun-2011
+   Domain Name: CRT118.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.PARKINGHELP.NET
+   Name Server: NS2.PARKINGHELP.NET
+   Status: ok
+   Updated Date: 10-aug-2011
+   Creation Date: 07-aug-2006
+   Expiration Date: 07-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:40:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:39:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;kidcitycdc.com&quot;
+
+Domain Name.......... crt118.com
+  Creation Date........ 2006-08-07 16:19:41
+  Registration Date.... 2006-08-07 16:19:41
+  Expiry Date.......... 2011-08-07 16:19:41
+  Organisation Name.... fu  yanshuang
+  Organisation Address. kunming
+  Organisation Address.
+  Organisation Address. kunming
+  Organisation Address. 650021
+  Organisation Address. YN
+  Organisation Address. CN
+
+Admin Name........... fu  yanshuang
+  Admin Address........ kunming
+  Admin Address........
+  Admin Address........ kunming
+  Admin Address........ 650021
+  Admin Address........ YN
+  Admin Address........ CN
+  Admin Email.......... fbf8865@126.com
+  Admin Phone.......... +86.13064266075
+  Admin Fax............ +86.8713620297
+
+Tech Name............ youzhao yang
+  Tech Address......... xia men
+  Tech Address.........
+  Tech Address......... xia men
+  Tech Address......... 361009
+  Tech Address......... FJ
+  Tech Address......... CN
+  Tech Email........... 1688@idc2008.com
+  Tech Phone........... +86.5583516
+  Tech Fax............. +86.5925583510
+
+Bill Name............ youzhao yang
+  Bill Address......... xia men
+  Bill Address.........
+  Bill Address......... xia men
+  Bill Address......... 361009
+  Bill Address......... FJ
+  Bill Address......... CN
+  Bill Email........... fbf8865@126.com
+  Bill Phone........... +86.5925583516
+  Bill Fax............. +86.5925583510
+  Name Server.......... ns14.dns.com.cn
+  Name Server.......... ns13.dns.com.cn

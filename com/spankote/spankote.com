@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIDCITYCDC.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS01.GPN.REGISTER.COM
-   Name Server: DNS02.GPN.REGISTER.COM
-   Name Server: DNS03.GPN.REGISTER.COM
-   Name Server: DNS04.GPN.REGISTER.COM
-   Name Server: DNS05.GPN.REGISTER.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 27-jun-2008
-   Expiration Date: 27-jun-2011
+   Domain Name: SPANKOTE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.PRO.NET
+   Name Server: NS2.PRO.NET
+   Status: ok
+   Updated Date: 01-mar-2007
+   Creation Date: 03-mar-2001
+   Expiration Date: 03-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:40:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:41:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;kidcitycdc.com&quot;
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
