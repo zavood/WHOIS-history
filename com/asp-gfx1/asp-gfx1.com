@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UFCSTORE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS.DELIVERYAGENT.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2012
+   Domain Name: ASP-GFX1.COM
+   Registrar: CENTER OF UKRAINIAN INTERNET NAMES
+   Whois Server: whois.ukrnames.com
+   Referral URL: http://www.ukrnames.com
+   Name Server: NS1.UKRNAMES.COM
+   Name Server: NS2.UKRNAMES.COM
+   Name Server: NS3.UKRNAMES.COM
+   Status: ok
+   Updated Date: 19-jun-2011
+   Creation Date: 19-jun-2011
+   Expiration Date: 19-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:24:31 UTC &lt;&lt;&lt;
 
@@ -52,23 +52,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Service Provided By: Center of Ukrainian Internet Names
+Website: http://www.ukrnames.com
+Contact: +380.577626123
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name: ASP-GFX1.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Creation Date: 19-Jun-2011
+Modification Date: 19-Jun-2011
+Expiration Date: 19-Jun-2012
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain servers in listed order:
+ns1.ukrnames.com
+ns2.ukrnames.com
+ns3.ukrnames.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registrant:
+Svetlana Vasileva svasileva3@gmail.com
+123060, Moskva, Narodnogo Opolcheniya, 11, 47
+Moskva, 123060
+RUSSIAN FEDERATION
++7.9118546587
 
-Whois Query: ufcstore.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 04:14:49 EDT 2011
-Reason Code: IE
+
+Billing Contact:
+Svetlana Vasileva svasileva3@gmail.com
+123060, Moskva, Narodnogo Opolcheniya, 11, 47
+Moskva, 123060
+RUSSIAN FEDERATION
++7.9118546587
+
+
+Administrative Contact:
+Svetlana Vasileva svasileva3@gmail.com
+123060, Moskva, Narodnogo Opolcheniya, 11, 47
+Moskva, 123060
+RUSSIAN FEDERATION
++7.9118546587
+
+
+Technical Contact:
+Svetlana Vasileva svasileva3@gmail.com
+123060, Moskva, Narodnogo Opolcheniya, 11, 47
+Moskva, 123060
+RUSSIAN FEDERATION
++7.9118546587
+
+
+Status: ok
+
