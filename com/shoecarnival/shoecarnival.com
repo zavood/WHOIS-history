@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-mar-1998
    Expiration Date: 01-mar-2017
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:15:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:36:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: shoecarnival.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 21:05:44 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 09:26:18 EDT 2011
 Reason Code: IE

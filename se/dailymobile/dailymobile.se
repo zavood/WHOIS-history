@@ -1,0 +1,37 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           dailymobile.se
+holder:           PhD1107-13153136
+admin-c:          PhD1107-13153136
+tech-c:           PhD1107-13153136
+billing-c:        PhD1107-13153136
+created:          2007-09-14
+modified:         2011-08-30
+expires:          2012-09-14
+transferred:      2011-06-30
+nserver:          ns2.monikerdns.net
+nserver:          ns3.monikerdns.net
+nserver:          ns4.monikerdns.net
+nserver:          ns1.monikerdns.net
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Key-Systems Gmbh

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D126404160-LROR
+Domain Name:FEDSPENDING.ORG
+Created On:26-Jul-2006 21:52:47 UTC
+Last Updated On:05-May-2010 18:33:36 UTC
+Expiration Date:26-Jul-2015 21:52:47 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15792361-NSI
+Registrant Name:OMB Watch
+Registrant Organization:OMB Watch
+Registrant Street1:1742 CONNECTICUT AVE NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:WASHINGTON
+Registrant State/Province:DC
+Registrant Postal Code:20009-1103
+Registrant Country:US
+Registrant Phone:+1.2022348494
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:techcoordinator@ombwatch.org
+Admin ID:15792361-NSI
+Admin Name:OMB Watch
+Admin Organization:OMB Watch
+Admin Street1:1742 CONNECTICUT AVE NW
+Admin Street2:
+Admin Street3:
+Admin City:WASHINGTON
+Admin State/Province:DC
+Admin Postal Code:20009-1103
+Admin Country:US
+Admin Phone:+1.2022348494
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:techcoordinator@ombwatch.org
+Tech ID:15792361-NSI
+Tech Name:OMB Watch
+Tech Organization:OMB Watch
+Tech Street1:1742 CONNECTICUT AVE NW
+Tech Street2:
+Tech Street3:
+Tech City:WASHINGTON
+Tech State/Province:DC
+Tech Postal Code:20009-1103
+Tech Country:US
+Tech Phone:+1.2022348494
+Tech Phone Ext.:
+Tech FAX:+1.231231234
+Tech FAX Ext.:
+Tech Email:techcoordinator@ombwatch.org
+Name Server:NS63.WORLDNIC.COM
+Name Server:NS64.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

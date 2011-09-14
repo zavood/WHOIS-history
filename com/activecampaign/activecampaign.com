@@ -5,22 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDMARK.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
-   Name Server: NS3.CLOUDMARK.COM
-   Name Server: NS4.CLOUDMARK.COM
+   Domain Name: ACTIVECAMPAIGN.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
    Status: clientTransferProhibited
-   Updated Date: 30-dec-2010
-   Creation Date: 29-dec-1999
-   Expiration Date: 29-dec-2011
+   Updated Date: 27-sep-2010
+   Creation Date: 10-jan-2003
+   Expiration Date: 10-jan-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:37:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:36:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,48 +55,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Registrant:
-   Cloudmark, Inc.
-   128 King St Fl 2
-   San Francisco, CA 94107-1905
-   US
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-   Domain Name: CLOUDMARK.COM
+http://www.networksolutions.com/whois/index.jhtml
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Cloudmark, Inc.
-      Cloudmark Hostmaster
-      128 King St Fl 2
-      San Francisco, CA 94107-1905
-      US
-      (415)946-3800
-      (415)543-1233 [fax]
-      hostmaster@cloudmark.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Domain created on 29-Dec-1999
-   Domain expires on 29-Dec-2014
-   Last updated on 17-Nov-2010
-
-   Domain servers in listed order:
-
-      NS-A.PNAP.NET
-      NS-B.PNAP.NET
-      NS-C.PNAP.NET
-      NS-D.PNAP.NET
-      NS3.CLOUDMARK.COM
-      NS4.CLOUDMARK.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+Whois Query: activecampaign.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 09:27:01 EDT 2011
+Reason Code: IE

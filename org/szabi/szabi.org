@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155546371-LROR
+Domain Name:SZABI.ORG
+Created On:06-Mar-2009 08:30:13 UTC
+Last Updated On:10-Feb-2011 22:34:48 UTC
+Expiration Date:06-Mar-2012 08:30:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38551656
+Registrant Name:Michal Truban
+Registrant Organization:Websupport, s.r.o.
+Registrant Street1:Kysucky Lieskovec 457
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bratislava
+Registrant State/Province:Bratislava
+Registrant Postal Code:02334
+Registrant Country:SK
+Registrant Phone:+421.0904306081
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@websupport.sk
+Admin ID:CR38551658
+Admin Name:Michal Truban
+Admin Organization:Websupport, s.r.o.
+Admin Street1:Kysucky Lieskovec 457
+Admin Street2:
+Admin Street3:
+Admin City:Bratislava
+Admin State/Province:Bratislava
+Admin Postal Code:02334
+Admin Country:SK
+Admin Phone:+421.0904306081
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@websupport.sk
+Tech ID:CR38551657
+Tech Name:Michal Truban
+Tech Organization:Websupport, s.r.o.
+Tech Street1:Kysucky Lieskovec 457
+Tech Street2:
+Tech Street3:
+Tech City:Bratislava
+Tech State/Province:Bratislava
+Tech Postal Code:02334
+Tech Country:SK
+Tech Phone:+421.0904306081
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@websupport.sk
+Name Server:NS2.WEBSUPPORT.SK
+Name Server:NS1.WEBSUPPORT.SK
+Name Server:NS3.WEBSUPPORT.SK
+Name Server:NS4.SZABI.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

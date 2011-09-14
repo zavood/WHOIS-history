@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDMARK.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
-   Name Server: NS3.CLOUDMARK.COM
-   Name Server: NS4.CLOUDMARK.COM
+   Domain Name: MGOON.COM
+   Registrar: INAMES CO., LTD.
+   Whois Server: whois.inames.co.kr
+   Referral URL: http://www.inames.co.kr
+   Name Server: NS.EXMEDIA.CO.KR
+   Name Server: NS2.EXMEDIA.CO.KR
    Status: clientTransferProhibited
-   Updated Date: 30-dec-2010
-   Creation Date: 29-dec-1999
-   Expiration Date: 29-dec-2011
+   Updated Date: 24-oct-2010
+   Creation Date: 01-nov-2004
+   Expiration Date: 01-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:37:21 UTC &lt;&lt;&lt;
 
@@ -56,47 +52,39 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
+
+Domain Name: MGOON.COM
+Domain Status: ACTIVE
+Registrar: Inames Co., Ltd. dba inames.co.kr
+Referral URL: http://www.inames.co.kr
+
+Domain Registration Date....: 2004-11-01 GMT.
+Domain Expiration Date......: 2011-11-01 GMT.
+Domain Last Updated Date....: 2010-11-23 08:31:54 GMT.
 
 Registrant:
-   Cloudmark, Inc.
-   128 King St Fl 2
-   San Francisco, CA 94107-1905
-   US
+    Mgoon Media Co., LTD.
+    #1106, Ace Techno Tower VIII, 191-7, Guro-dong Guro-gu
+    Seoul,  152050
+    Korea
 
-   Domain Name: CLOUDMARK.COM
+Administrative Contact:
+    Son chang wook    songoon@mgoonmedia.com
+    #1106, Ace Techno Tower Vill., 191-7, Guro-dong Guro-gu
+    Seoul,  152050
+    Korea
+    (PHONE) +82-2-3420-1635    (FAX) +82-2-3453-9928
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Cloudmark, Inc.
-      Cloudmark Hostmaster
-      128 King St Fl 2
-      San Francisco, CA 94107-1905
-      US
-      (415)946-3800
-      (415)543-1233 [fax]
-      hostmaster@cloudmark.com
+Technical, Billing Contact:
+    Son chang wook    songoon@mgoonmedia.com
+    #1106, Ace Techno Tower Vill., 191-7, Guro-dong Guro-gu
+    Seoul,  152050
+    Korea
+    (PHONE) +82-2-3420-1635    (FAX) +82-2-3453-9928
 
-   Domain created on 29-Dec-1999
-   Domain expires on 29-Dec-2014
-   Last updated on 17-Nov-2010
 
-   Domain servers in listed order:
-
-      NS-A.PNAP.NET
-      NS-B.PNAP.NET
-      NS-C.PNAP.NET
-      NS-D.PNAP.NET
-      NS3.CLOUDMARK.COM
-      NS4.CLOUDMARK.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+Domain Name Servers in listed order:
+    NS.EXMEDIA.CO.KR		121.254.164.131
+    NS2.EXMEDIA.CO.KR		123.111.231.131
 

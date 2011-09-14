@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLOUDMARK.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
-   Name Server: NS3.CLOUDMARK.COM
-   Name Server: NS4.CLOUDMARK.COM
+   Domain Name: WIKIS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS13.ZONEEDIT.COM
+   Name Server: NS8.ZONEEDIT.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 30-dec-2010
-   Creation Date: 29-dec-1999
-   Expiration Date: 29-dec-2011
+   Status: clientUpdateProhibited
+   Updated Date: 18-dec-2007
+   Creation Date: 12-jul-1999
+   Expiration Date: 12-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:37:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:36:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,48 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
-Registrant:
-   Cloudmark, Inc.
-   128 King St Fl 2
-   San Francisco, CA 94107-1905
-   US
-
-   Domain Name: CLOUDMARK.COM
-
-   Administrative Contact, Technical Contact, Zone Contact:
-      Cloudmark, Inc.
-      Cloudmark Hostmaster
-      128 King St Fl 2
-      San Francisco, CA 94107-1905
-      US
-      (415)946-3800
-      (415)543-1233 [fax]
-      hostmaster@cloudmark.com
-
-   Domain created on 29-Dec-1999
-   Domain expires on 29-Dec-2014
-   Last updated on 17-Nov-2010
-
-   Domain servers in listed order:
-
-      NS-A.PNAP.NET
-      NS-B.PNAP.NET
-      NS-C.PNAP.NET
-      NS-D.PNAP.NET
-      NS3.CLOUDMARK.COM
-      NS4.CLOUDMARK.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
