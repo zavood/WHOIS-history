@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BROKERSASSISTANCE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS0.WARP8.COM
-   Name Server: NS1.ROCKYNET.COM
-   Name Server: NS2.ROCKYNET.COM
-   Status: clientDeleteProhibited
+   Domain Name: DOVKY.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.EHOST.CZ
+   Name Server: NS2.EHOST.CZ
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 10-sep-1999
-   Expiration Date: 10-sep-2012
+   Updated Date: 26-nov-2010
+   Creation Date: 26-nov-2010
+   Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:21:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+domain:       dovky.com
+owner:        Lukas Blecha
+email:        blechaluk@seznam.cz
+address:      Slatina 14
+city:         Kralovice
+postal-code:  33141
+country:      CZ
+phone:        +60.3463523
+admin-c:      CCOM-53891 blechaluk@seznam.cz
+tech-c:       CCOM-53891 blechaluk@seznam.cz
+billing-c:    CCOM-106933 dom-reg-joker@ignum.cz
+reseller:     Domena byla registrovana na www.domena.cz.
+reseller:     Domain registered at www.domena.cz.
+reseller:     (c) IGNUM, s.r.o.
+nserver:      ns.ehost.cz
+nserver:      ns2.ehost.cz
+status:       lock
+created:      2010-11-26 12:56:12 UTC
+modified:     2010-11-26 12:56:12 UTC
+expires:      2011-11-26 12:56:12 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-53891
+person:       Lukas Blecha
+email:        blechaluk@seznam.cz
+address:      Slatina 14
+city:         Kralovice
+postal-code:  33141
+country:      CZ
+phone:        +603.463523
+
+contact-hdl:  CCOM-106933
+person:       Robert Prokes
+organization: IGNUM, s.r.o.
+email:        dom-reg-joker@ignum.cz
+address:      Vinohradska 190
+city:         Praha 3
+postal-code:  130 61
+country:      CZ
+phone:        +420.296332211
+
+source:       joker.com live whois service
+query-time:   0.025762
+db-updated:   2011-09-14 17:22:49
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

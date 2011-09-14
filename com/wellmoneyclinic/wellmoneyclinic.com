@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BROKERSASSISTANCE.COM
+   Domain Name: WELLMONEYCLINIC.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS0.WARP8.COM
-   Name Server: NS1.ROCKYNET.COM
-   Name Server: NS2.ROCKYNET.COM
-   Status: clientDeleteProhibited
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 10-sep-1999
-   Expiration Date: 10-sep-2012
+   Updated Date: 07-jun-2010
+   Creation Date: 24-jun-2008
+   Expiration Date: 24-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:22:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

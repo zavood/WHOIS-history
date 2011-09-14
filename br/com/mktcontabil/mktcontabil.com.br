@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 14:23:38 (BRT -03:00)
+
+domain:      mktcontabil.com.br
+owner:       Tactus Servi&ccedil;os Empresariais S/S Ltda.
+ownerid:     004.083.767/0001-82
+responsible: Anderson Hernandes Batista
+country:     BR
+owner-c:     ANHBA
+admin-c:     ANHBA
+tech-c:      ANHBA
+billing-c:   ANHBA
+nserver:     nsb1.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     nsb2.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     nsb3.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     nsb4.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     nsb5.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     nsb6.k8.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20100127 #6481720
+expires:     20130127
+changed:     20110128
+status:      published
+
+nic-hdl-br:  ANHBA
+person:      Anderson Hernandes Batista
+e-mail:      anderson@hernandes.com.br
+created:     20060704
+changed:     20060704
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

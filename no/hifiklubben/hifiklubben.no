@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HIF97D-NORID
+Domain Name................: hifiklubben.no
+Domain Holder Handle.......: HFKA7O-NORID
+Registrar Handle...........: REG766-NORID
+Legal-c Handle.............: KW980P-NORID
+Tech-c Handle..............: TH61R-NORID
+Name Server Handle.........: NSNE56H-NORID
+Name Server Handle.........: NSNE78H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: HFKA7O-NORID
+Type.......................: organization
+Name.......................: Hi Fi Klubben AS
+Id Type....................: organization_number
+Id Number..................: 928379442
+Registrar Handle...........: REG766-NORID
+Post Address...............: Postboks 1889 Nordnes
+Postal Code................: NO-5817
+Postal Area................: Bergen
+Country....................: NO
+Phone Number...............: +47.55236267
+Fax Number.................: +47.55236263
+Email Address..............: bjarte.husebo@hifiklubben.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THYLACINECYCLES.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.GDWEBHOSTING.NET.AU
-   Name Server: NS2.GDWEBHOSTING.NET.AU
-   Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 24-aug-2003
-   Expiration Date: 24-aug-2013
+   Domain Name: IWMEX.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   Status: ok
+   Updated Date: 15-jun-2011
+   Creation Date: 04-feb-2011
+   Expiration Date: 04-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:22:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,52 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
 =-=-=-=
-Visit AboutUs.org for more information about thylacinecycles.com
-&lt;a href=&quot;http://www.aboutus.org/thylacinecycles.com&quot;&gt;AboutUs: thylacinecycles.com&lt;/a&gt;
 
 
-Domain name: thylacinecycles.com
+Domain name: iwmex.com
 
 Registrant Contact:
-
-   Warwick Gresswell ()
+   -
+   Intelweb Mexico ()
 
    Fax:
-   19 Station Ave
-   Ascot Vale, VICTORIA 3032
-   AU
+   Privada Ambert #7
+   Hermosillo,  83280
+   MX
 
 Administrative Contact:
-   nominatedsolutions
-   Nicholas Richardson (digitalhost@bigpond.com)
-   +61.61409262123
+   -
+   Intelweb Mexico (contacto@iwmex.com)
+   +52.6622206410
    Fax:
-   PO Box 823
-   Woolgoolga, AU 2456
-   AU
+   Privada Ambert #7
+   Hermosillo,  83280
+   MX
 
 Technical Contact:
-   nominatedsolutions
-   Nicholas Richardson (digitalhost@bigpond.com)
-   +61.61409262123
+   -
+   Intelweb Mexico (contacto@iwmex.com)
+   +52.6622206410
    Fax:
-   PO Box 823
-   Woolgoolga, AU 2456
-   AU
+   Privada Ambert #7
+   Hermosillo,  83280
+   MX
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   ns1.gdwebhosting.net.au
-   ns2.gdwebhosting.net.au
+   ns1.bluehost.com
+   ns2.bluehost.com
 
-Creation date: 25 Aug 2003 01:03:00
-Expiration date: 25 Aug 2013 01:03:00
+Creation date: 05 Feb 2011 00:10:02
+Expiration date: 05 Feb 2012 00:10:00
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+
 =-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
@@ -115,3 +131,10 @@ consent from us.
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
 Version 6.3 4/3/2002
+
+
+Visit AboutUs.org for more information about iwmex.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/iwmex.com&quot;&gt;AboutUs: iwmex.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com

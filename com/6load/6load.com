@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THYLACINECYCLES.COM
+   Domain Name: 6LOAD.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.GDWEBHOSTING.NET.AU
-   Name Server: NS2.GDWEBHOSTING.NET.AU
+   Name Server: NS1.6LOAD.COM
+   Name Server: NS2.6LOAD.COM
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 24-aug-2003
-   Expiration Date: 24-aug-2013
+   Updated Date: 03-apr-2010
+   Creation Date: 17-jan-2010
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:22:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thylacinecycles.com
-&lt;a href=&quot;http://www.aboutus.org/thylacinecycles.com&quot;&gt;AboutUs: thylacinecycles.com&lt;/a&gt;
+Visit AboutUs.org for more information about 6load.com
+&lt;a href=&quot;http://www.aboutus.org/6load.com&quot;&gt;AboutUs: 6load.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: thylacinecycles.com
+Domain name: 6load.com
 
 Registrant Contact:
-
-   Warwick Gresswell ()
+   PROeSOLUTIONS Sdn. Bhd.
+   Ben Richter ()
 
    Fax:
-   19 Station Ave
-   Ascot Vale, VICTORIA 3032
-   AU
+   PETRONAS Twin Towers
+   Level 40, Tower 2
+   Kuala Lumpur City Center, KL 50088
+   MY
 
 Administrative Contact:
-   nominatedsolutions
-   Nicholas Richardson (digitalhost@bigpond.com)
-   +61.61409262123
-   Fax:
-   PO Box 823
-   Woolgoolga, AU 2456
-   AU
+   PROeSOLUTIONS Sdn. Bhd.
+   Ben Richter (support@6load.com)
+   +60.321684442
+   Fax: +60.321784736
+   PETRONAS Twin Towers
+   Level 40, Tower 2
+   Kuala Lumpur City Center, KL 50088
+   MY
 
 Technical Contact:
-   nominatedsolutions
-   Nicholas Richardson (digitalhost@bigpond.com)
-   +61.61409262123
-   Fax:
-   PO Box 823
-   Woolgoolga, AU 2456
-   AU
+   PROeSOLUTIONS Sdn. Bhd.
+   Ben Richter (support@6load.com)
+   +60.321684442
+   Fax: +60.321784736
+   PETRONAS Twin Towers
+   Level 40, Tower 2
+   Kuala Lumpur City Center, KL 50088
+   MY
 
 Status: Locked
 
 Name Servers:
-   ns1.gdwebhosting.net.au
-   ns2.gdwebhosting.net.au
+   NS1.6LOAD.COM
+   NS2.6LOAD.COM
 
-Creation date: 25 Aug 2003 01:03:00
-Expiration date: 25 Aug 2013 01:03:00
+Creation date: 17 Jan 2010 16:37:00
+Expiration date: 17 Jan 2012 16:37:00
 
 
 

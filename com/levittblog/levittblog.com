@@ -9,19 +9,17 @@ for detailed information.
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
+   Name Server: NS49.DOMAINCONTROL.COM
+   Name Server: NS50.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2010
+   Updated Date: 13-sep-2011
    Creation Date: 12-sep-2010
-   Expiration Date: 12-sep-2011
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,10 +82,8 @@ Registrant:
    Domain Name: LEVITTBLOG.COM
 
    Domain servers in listed order:
-      NS1.BYET.ORG
-      NS2.BYET.ORG
-      NS3.BYET.ORG
-      NS4.BYET.ORG
+      NS49.DOMAINCONTROL.COM
+      NS50.DOMAINCONTROL.COM
 
 
    For complete domain details go to:

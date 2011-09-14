@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 14:23:57 (BRT -03:00)
+
+domain:      milassentos.com.br
+owner:       Asthi Comercial Ltda
+ownerid:     058.840.380/0001-52
+responsible: Bruno Corsi Rodrigues
+country:     BR
+owner-c:     BCR63
+admin-c:     BCR63
+tech-c:      SCL1153
+billing-c:   BCR63
+nserver:     dns1.atmacomercial.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     dns2.atmacomercial.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20040913 #1810641
+expires:     20130913
+changed:     20110617
+status:      published
+
+nic-hdl-br:  BCR63
+person:      Bruno Corsi Rodrigues
+e-mail:      aasti@uol.com.br
+created:     20060425
+changed:     20110629
+
+nic-hdl-br:  SCL1153
+person:      SUPERMICRO COMERCIAL LTDA.
+e-mail:      gilsonatma@hotmail.com
+created:     20060220
+changed:     20100909
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

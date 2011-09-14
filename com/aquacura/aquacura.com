@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 23-dec-2003
    Expiration Date: 23-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 14:02:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:21:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: aquacura.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 09:58:11 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 13:12:22 EDT 2011
 Reason Code: IE
