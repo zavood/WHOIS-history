@@ -5,24 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEWEBHOSTSERVER.COM
+   Domain Name: BUYHTTP.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.THEWEBHOSTSERVER.COM
-   Name Server: NS2.THEWEBHOSTSERVER.COM
-   Name Server: NS3.THEWEBHOSTSERVER.COM
-   Name Server: NS4.THEWEBHOSTSERVER.COM
-   Name Server: NS5.THEWEBHOSTSERVER.COM
-   Name Server: NS6.THEWEBHOSTSERVER.COM
-   Name Server: NS7.THEWEBHOSTSERVER.COM
-   Name Server: NS8.THEWEBHOSTSERVER.COM
+   Name Server: NS1.BUYHTTP.COM
+   Name Server: NS2.BUYHTTP.COM
+   Name Server: NS3.BUYHTTP.COM
+   Name Server: NS4.BUYHTTP.COM
+   Name Server: NS5.BUYHTTP.COM
+   Name Server: NS6.BUYHTTP.COM
    Status: clientTransferProhibited
-   Updated Date: 12-mar-2011
-   Creation Date: 10-apr-2008
-   Expiration Date: 10-apr-2012
+   Updated Date: 01-dec-2010
+   Creation Date: 29-dec-2003
+   Expiration Date: 29-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:40:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:40:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,56 +56,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thewebhostserver.com
-&lt;a href=&quot;http://www.aboutus.org/thewebhostserver.com&quot;&gt;AboutUs: thewebhostserver.com&lt;/a&gt;
+Visit AboutUs.org for more information about buyhttp.com
+&lt;a href=&quot;http://www.aboutus.org/buyhttp.com&quot;&gt;AboutUs: buyhttp.com&lt;/a&gt;
 
 
-Domain name: thewebhostserver.com
+Domain name: buyhttp.com
+
+Registrant Contact:
+   BuyHTTP
+   Michael Morris ()
+
+   Fax:
+   150 Maple Ave #212
+   South Plainfield, NJ 07080
+   US
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (xtdtxwcl@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
+   Buyhttp, LLC
+   Technical Support Department (admin@buyhttp.com)
+   +1.8772894887
+   Fax:
+   150 Maple Ave #212
+   South Plainfield, NJ 07080
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (xtdtxwcl@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
-   US
-
-Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
-
+   Buyhttp, LLC
+   Technical Support Department (admin@buyhttp.com)
+   +1.8772894887
    Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
+   150 Maple Ave
+   #212
+   South Plainfield, NJ 07080
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.thewebhostserver.com
-   ns2.thewebhostserver.com
-   ns3.thewebhostserver.com
-   ns4.thewebhostserver.com
-   ns5.thewebhostserver.com
-   ns6.thewebhostserver.com
-   ns7.thewebhostserver.com
-   ns8.thewebhostserver.com
+   ns1.buyhttp.com
+   ns2.buyhttp.com
+   ns3.buyhttp.com
+   ns4.buyhttp.com
+   ns5.buyhttp.com
+   ns6.buyhttp.com
 
-Creation date: 10 Apr 2008 12:49:50
-Expiration date: 10 Apr 2012 12:49:00
+Creation date: 30 Dec 2003 02:13:08
+Expiration date: 30 Dec 2011 02:13:00
 
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155629074-LROR
+Domain Name:RHYTHMDISCOVERYCENTER.ORG
+Created On:16-Mar-2009 16:20:49 UTC
+Last Updated On:14-Feb-2011 16:14:42 UTC
+Expiration Date:16-Mar-2013 16:20:49 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:b9f4b5a338081fa7
+Registrant Name:Michael  Kenyon
+Registrant Organization:Percussive Arts Society
+Registrant Street1:32 E Washington St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Indianapolis
+Registrant State/Province:State
+Registrant Postal Code:46204
+Registrant Country:US
+Registrant Phone:+1.3179744488
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mkenyon@pas.org
+Admin ID:125918e1e5e7a1a3
+Admin Name:Moreno
+Admin Organization:Percussive Arts Society
+Admin Street1:32 E Washington St
+Admin Street2:
+Admin Street3:
+Admin City:Indianapolis
+Admin State/Province:State
+Admin Postal Code:46204
+Admin Country:US
+Admin Phone:+1.3179744488
+Admin Phone Ext.:
+Admin FAX:+1.3179744488
+Admin FAX Ext.:
+Admin Email:mmoreno@pas.org
+Tech ID:320382581be50428
+Tech Name:Marianella  Moreno
+Tech Organization:Percussive Arts Society
+Tech Street1:32 E Washington St
+Tech Street2:
+Tech Street3:
+Tech City:Indianapolis
+Tech State/Province:State
+Tech Postal Code:46204
+Tech Country:US
+Tech Phone:+1.3179744488
+Tech Phone Ext.:
+Tech FAX:+1.3179744488
+Tech FAX Ext.:
+Tech Email:mmoreno@pas.org
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

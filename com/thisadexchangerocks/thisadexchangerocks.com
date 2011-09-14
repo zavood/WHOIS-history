@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEWEBHOSTSERVER.COM
+   Domain Name: THISADEXCHANGEROCKS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.THEWEBHOSTSERVER.COM
-   Name Server: NS2.THEWEBHOSTSERVER.COM
-   Name Server: NS3.THEWEBHOSTSERVER.COM
-   Name Server: NS4.THEWEBHOSTSERVER.COM
-   Name Server: NS5.THEWEBHOSTSERVER.COM
-   Name Server: NS6.THEWEBHOSTSERVER.COM
-   Name Server: NS7.THEWEBHOSTSERVER.COM
-   Name Server: NS8.THEWEBHOSTSERVER.COM
+   Name Server: NS1.SAFFELL.US
+   Name Server: NS2.SAFFELL.US
    Status: clientTransferProhibited
-   Updated Date: 12-mar-2011
-   Creation Date: 10-apr-2008
-   Expiration Date: 10-apr-2012
+   Updated Date: 05-aug-2011
+   Creation Date: 04-sep-2010
+   Expiration Date: 04-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:40:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:40:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,56 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thewebhostserver.com
-&lt;a href=&quot;http://www.aboutus.org/thewebhostserver.com&quot;&gt;AboutUs: thewebhostserver.com&lt;/a&gt;
+Visit AboutUs.org for more information about thisadexchangerocks.com
+&lt;a href=&quot;http://www.aboutus.org/thisadexchangerocks.com&quot;&gt;AboutUs: thisadexchangerocks.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: thewebhostserver.com
+Domain name: thisadexchangerocks.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (xtdtxwcl@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (d313538e10694644bb4d454b690f22e5.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (xtdtxwcl@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
-   US
-
-Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
-
-   Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O thewebhostserver.com
-   Bellevue, WA 98007
+   WhoisGuard
+   WhoisGuard Protected (d313538e10694644bb4d454b690f22e5.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.thewebhostserver.com
-   ns2.thewebhostserver.com
-   ns3.thewebhostserver.com
-   ns4.thewebhostserver.com
-   ns5.thewebhostserver.com
-   ns6.thewebhostserver.com
-   ns7.thewebhostserver.com
-   ns8.thewebhostserver.com
+   NS1.SAFFELL.US
+   NS2.SAFFELL.US
 
-Creation date: 10 Apr 2008 12:49:50
-Expiration date: 10 Apr 2012 12:49:00
+Creation date: 04 Sep 2010 07:13:00
+Expiration date: 04 Sep 2012 02:13:00
 
 
 

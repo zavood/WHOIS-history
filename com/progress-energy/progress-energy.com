@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNGC.NET
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
-   Status: ok
-   Updated Date: 29-nov-2010
-   Creation Date: 19-mar-2009
-   Expiration Date: 19-mar-2012
+   Domain Name: PROGRESS-ENERGY.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.PROGRESS-ENERGY.COM
+   Name Server: NS3.PROGRESS-ENERGY.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-jan-2010
+   Creation Date: 20-mar-2000
+   Expiration Date: 20-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:40:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:39:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name           : cdngc.net
-Registrar             : Dotname Korea Corp.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Registrant:
-	company       :CDNetworks.,Co.Ltd
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+http://www.networksolutions.com/whois/index.jhtml
 
-Technical Contact:
-	name          :Byung-Ryong Cho
-	e-mail        :domain@queue.cdnetworks.com
-	address1      :Yeoksam 2(il)-dong Gangnam-gu
-	address2      :Handong Bldg., 2F
-	city          :Seoul
-	zipcode       :135-935
-	country       :
-	phone         :02-3441-0444
-	fax           :02-569-9632
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain servers in listed order:
-		NS1.PANTHERCDN.COM  [205.252.255.11]
-		NS2.PANTHERCDN.COM  [67.72.21.11]
-
-Created on 2009-03-19
-Updated on 2010-11-29
-Expires on 2012-03-19&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
-
-
+Whois Query: progress-energy.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 17:29:42 EDT 2011
+Reason Code: IE
