@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17981160-LROR
+Domain Name:DIRECT-MS.ORG
+Created On:18-Jan-2000 17:54:22 UTC
+Last Updated On:29-Dec-2006 17:09:02 UTC
+Expiration Date:18-Jan-2012 17:54:22 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30465070-NSI
+Registrant Name:DIRECT-MS
+Registrant Organization:DIRECT-MS
+Registrant Street1:5119 Brockington Rd N.W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Calgary
+Registrant State/Province:AB
+Registrant Postal Code:T2L1R7
+Registrant Country:CA
+Registrant Phone:+1.403282932
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:embrya@CADVISION.COM
+Admin ID:17852854-NSI
+Admin Name:DIRECT-MS
+Admin Organization:DIRECT-MS
+Admin Street1:5119 Brockington Rd N.W.
+Admin Street2:
+Admin Street3:
+Admin City:Calgary, AB T2L1R7
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:CA
+Admin Phone:+1.403282932
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:embrya@CADVISION.COM
+Tech ID:5450964-NSI
+Tech Name:CADVision / PSINet Canada
+Tech Organization:CADVision / PSINet Canada
+Tech Street1:Suite 1810, 300 - 5 Avenue SW
+Tech Street2:**
+Tech Street3:
+Tech City:Calgary
+Tech State/Province:AB T2P
+Tech Postal Code:3C4
+Tech Country:CA
+Tech Phone:+1.4037771300
+Tech Phone Ext.:
+Tech FAX:+1.4037771319
+Tech FAX Ext.:
+Tech Email:domreg@CADVISION.COM
+Name Server:ATLANTIS1.CHINOOKCOMPUTERS.NET
+Name Server:NS1.CHINOOKCOMPUTERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

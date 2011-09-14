@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDNIGHTLOUNGE.COM
+   Domain Name: PNTRA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS-1.DISHNETWORK.COM
-   Name Server: NS-2.DISHNETWORK.COM
+   Name Server: NS45.DOMAINCONTROL.COM
+   Name Server: NS46.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-mar-2011
-   Creation Date: 02-mar-2002
-   Expiration Date: 02-mar-2013
+   Updated Date: 18-apr-2011
+   Creation Date: 17-apr-2007
+   Expiration Date: 17-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:07:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:07:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   DISH Network
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MIDNIGHTLOUNGE.COM
+   Domain Name: PNTRA.COM
 
    Domain servers in listed order:
-      NS-1.DISHNETWORK.COM
-      NS-2.DISHNETWORK.COM
+      NS45.DOMAINCONTROL.COM
+      NS46.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MIDNIGHTLOUNGE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=PNTRA.COM

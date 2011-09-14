@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATDNS.NET
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS1.IRIDES.COM
-   Name Server: DNS2.IRIDES.COM
-   Status: ok
-   Updated Date: 20-apr-2011
-   Creation Date: 18-may-2000
-   Expiration Date: 18-may-2012
+   Domain Name: TURBOTIMS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.GPPNETWORK.COM
+   Name Server: NS2.GPPNETWORK.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-jul-2010
+   Creation Date: 14-jul-2009
+   Expiration Date: 14-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:08:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:07:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,71 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-
 =-=-=-=
+Visit AboutUs.org for more information about turbotims.com
+&lt;a href=&quot;http://www.aboutus.org/turbotims.com&quot;&gt;AboutUs: turbotims.com&lt;/a&gt;
 
 
-Domain name: atdns.net
+Domain name: turbotims.com
 
 Registrant Contact:
-   Irides, LLC
-   DNS Manager ()
+   TurboTims Anything Automotive
+   NA NA ()
 
    Fax:
-   1000 Wilson Blvd
-   Suite 2707
-   Arlington, VA 22209
+   2929 University Ave SE
+   Minneapolis, MN 55414
    US
 
 Administrative Contact:
-   Irides, LLC
-   DNS Manager (support@irides.com)
-   +1.7032367900
-   Fax: +1.7032367901
-   1000 Wilson Blvd
-   Suite 2707
-   Arlington, VA 22209
+   NA
+   Tim Suggs (TurboTimsAnythingAutomotive@gmail.com)
+   (651) 788-3230
+   Fax: (866) 484-8171
+   TurboTims Anything Automotive
+   2929 University Ave SE
+   Minneapolis, MN 55414
    US
 
 Technical Contact:
-   Irides, LLC
-   DNS Manager (support@irides.com)
-   +1.7032367900
-   Fax: +1.7032367901
-   1000 Wilson Blvd
-   Suite 2707
-   Arlington, VA 22209
+   NA
+   Tim Suggs (TurboTimsAnythingAutomotive@gmail.com)
+   (651) 788-3230
+   Fax: (866) 484-8171
+   TurboTims Anything Automotive
+   2929 University Ave SE
+   Minneapolis, MN 55414
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.irides.com
-   dns2.irides.com
+   ns1.gppnetwork.com
+   ns2.gppnetwork.com
 
-Creation date: 19 May 2000 02:11:52
-Expiration date: 19 May 2012 02:11:00
-
-
+Creation date: 15 Jul 2009 00:10:00
+Expiration date: 15 Jul 2012 00:10:00
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
 =-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
@@ -134,10 +117,3 @@ consent from us.
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
 Version 6.3 4/3/2002
-
-
-Visit AboutUs.org for more information about atdns.net
-
-&lt;A HREF=&quot;http://www.aboutus.org/atdns.net&quot;&gt;AboutUs: atdns.net&lt;/A&gt;
-
-Register your domain name at http://www.register.com
