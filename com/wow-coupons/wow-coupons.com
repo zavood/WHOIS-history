@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-nov-2003
    Expiration Date: 26-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:38:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:51:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ Potoupa, Elena
 
    Record expires on 26-Nov-2012.
    Record created on 26-Nov-2003.
-   Database last updated on 12-Sep-2011 20:28:11 EDT.
+   Database last updated on 14-Sep-2011 18:41:48 EDT.
 
    Domain servers in listed order:
 

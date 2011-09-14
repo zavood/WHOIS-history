@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: WEB2904D-NORID
+Domain Name................: webconsulting.no
+Domain Holder Handle.......: WCA88O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: RA3679P-NORID
+Tech-c Handle..............: RA3679P-NORID
+Name Server Handle.........: DNSM59H-NORID
+Name Server Handle.........: DNSM61H-NORID
+Name Server Handle.........: DNSM63H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2011-08-16
+
+NORID Handle...............: WCA88O-NORID
+Type.......................: organization
+Name.......................: WEB CONSULTING Andersen
+Id Type....................: organization_number
+Id Number..................: 879867762
+Registrar Handle...........: REG42-NORID
+Post Address...............: Gr&oslash;nlundveien 1b
+Postal Code................: NO-1400
+Postal Area................: Ski
+Country....................: NO
+Phone Number...............: +47.93229331
+Email Address..............: hm8m4fkct4uq@emailprotection.domainnameshop.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-08-16
+

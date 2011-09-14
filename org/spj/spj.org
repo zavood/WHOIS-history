@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D113147-LROR
+Domain Name:SPJ.ORG
+Created On:04-Sep-1996 04:00:00 UTC
+Last Updated On:25-Aug-2011 15:14:37 UTC
+Expiration Date:03-Sep-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22153040-NSI
+Registrant Name:SocietyofProfessional Journalists
+Registrant Organization:SocietyofProfessional Journalists
+Registrant Street1:3909 N. Meridian St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Indianapolis
+Registrant State/Province:IN
+Registrant Postal Code:46208
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@SPJ.ORG
+Admin ID:21144089-NSI
+Admin Name:SocietyofProfessional Journalists
+Admin Organization:SocietyofProfessional Journalists
+Admin Street1:3909 N. Meridian St.
+Admin Street2:
+Admin Street3:
+Admin City:Indianapolis
+Admin State/Province:IN
+Admin Postal Code:46208
+Admin Country:US
+Admin Phone:+1.3179278000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@SPJ.ORG
+Tech ID:6231223-NSI
+Tech Name:Inetsolution, Inc.
+Tech Organization:Inetsolution, Inc.
+Tech Street1:P.O. Box 656
+Tech Street2:
+Tech Street3:
+Tech City:Almont
+Tech State/Province:MI
+Tech Postal Code:48003
+Tech Country:US
+Tech Phone:+1.5867269493
+Tech Phone Ext.:
+Tech FAX:+1.231231234
+Tech FAX Ext.:
+Tech Email:dnsadmin@INETSOLUTION.COM
+Name Server:NS1.INETSOLUTION.NET
+Name Server:NS5.INETSOLUTION.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

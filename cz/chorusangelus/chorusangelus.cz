@@ -1,0 +1,80 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 00:52:51 2011
+
+domain:       chorusangelus.cz
+registrant:   SB:IGNUM-S31811-QU5
+admin-c:      IGNUM-C48147-R9E
+nsset:        NSS:UAM:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   22.06.2006 03:05:00
+expire:       22.06.2012
+
+contact:      SB:IGNUM-S31811-QU5
+name:         Jakub &Aring;&nbsp;iler
+address:      Mladenovova 3230
+address:      Praha 4 - Mod&Aring;ôany
+address:      143 00
+address:      CZ
+e-mail:       jakubsiler@seznam.cz
+registrar:    REG-IGNUM
+created:      21.05.2006 20:05:00
+
+contact:      IGNUM-C48147-R9E
+name:         Jakub &Aring;&nbsp;iler
+address:      Mladenovova 3230
+address:      Praha 4 - Mod&Aring;ôany
+address:      143 00
+address:      CZ
+e-mail:       jakubsiler@seznam.cz
+registrar:    REG-IGNUM
+created:      21.05.2006 19:55:00
+
+nsset:        NSS:UAM:1
+nserver:      ns.mysh.cz
+nserver:      ns2.mysh.cz
+tech-c:       UAM99CJK
+tech-c:       UAM-VM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      26.04.2010 22:25:02
+
+contact:      UAM99CJK
+name:         Jan Ku&Auml;çera
+address:      Po&Auml;çernick&Atilde;&iexcl; 467/44
+address:      Praha 10
+address:      108 00
+address:      CZ
+e-mail:       uam@centrum.cz
+registrar:    REG-IGNUM
+created:      06.11.2005 19:35:00
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;ôilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+
