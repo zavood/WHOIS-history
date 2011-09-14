@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAFMS.NET
+   Domain Name: HOFWEB.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: LA11.AKAFMS.NET
-   Name Server: LA3.AKAFMS.NET
-   Name Server: LA6.AKAFMS.NET
-   Name Server: LAR4.AKAFMS.NET
-   Name Server: LAR6.AKAFMS.NET
-   Name Server: LAR7.AKAFMS.NET
-   Name Server: LAR8.AKAFMS.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 21-jun-2006
-   Expiration Date: 21-jun-2017
+   Name Server: NS1.HOFWEB.COM
+   Name Server: NS2.HOFWEB.COM
+   Status: ok
+   Updated Date: 01-jun-2011
+   Creation Date: 20-apr-1998
+   Expiration Date: 19-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:38:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:38:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
