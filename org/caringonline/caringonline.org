@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19537417-LROR
+Domain Name:CARINGONLINE.ORG
+Created On:10-Feb-2000 01:24:41 UTC
+Last Updated On:02-Nov-2010 01:29:36 UTC
+Expiration Date:10-Feb-2020 01:24:41 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1983875-NSI
+Registrant Name:CARING
+Registrant Organization:CARING
+Registrant Street1:710 Lancaster Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bel Air
+Registrant State/Province:MD
+Registrant Postal Code:21014
+Registrant Country:US
+Registrant Phone:+1.8665526404
+Registrant Phone Ext.:
+Registrant FAX:+1.8665526404
+Registrant FAX Ext.:
+Registrant Email:sprou001@umaryland.edu
+Admin ID:1983876-NSI
+Admin Name:Stephen Prouse
+Admin Organization:CARING
+Admin Street1:710 Lancaster Dr
+Admin Street2:
+Admin Street3:
+Admin City:Bel Air
+Admin State/Province:MD
+Admin Postal Code:21014
+Admin Country:US
+Admin Phone:+1.8665526404
+Admin Phone Ext.:
+Admin FAX:+1.8665526404
+Admin FAX Ext.:
+Admin Email:prouse@yahoo.com
+Tech ID:1983876-NSI
+Tech Name:Stephen Prouse
+Tech Organization:CARING
+Tech Street1:710 Lancaster Dr
+Tech Street2:
+Tech Street3:
+Tech City:Bel Air
+Tech State/Province:MD
+Tech Postal Code:21014
+Tech Country:US
+Tech Phone:+1.8665526404
+Tech Phone Ext.:
+Tech FAX:+1.8665526404
+Tech FAX Ext.:
+Tech Email:prouse@yahoo.com
+Name Server:NS1.MEMBERCLICKS.COM
+Name Server:NS2.MEMBERCLICKS.COM
+Name Server:NS3.MEMBERCLICKS.COM
+Name Server:NS4.MEMBERCLICKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

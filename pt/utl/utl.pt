@@ -1,0 +1,33 @@
+Nome de dom&iacute;nio / Domain Name: utl.pt
+Data de registo / Creation Date (dd/mm/yyyy): 19/02/1993
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 31/12/2011
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Universidade Tecnica de Lisboa I.S.T. - Instituto Superior Tecnico Universidade Tecnica de Lisboa
+   IST, Alameda de StoAnt&oacute;nio dos Capuchos,1
+   Lisboa
+   1169-047 Lisboa
+   Email: rutl@reitoria.utl.pt
+
+Entidade Gestora / Billing Contact
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Email: secretaria@fccn.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   Jos&eacute; Manuel Sousa Pereira
+   Email: redes@ciist.ist.utl.pt
+
+Nameserver Information
+   Nameserver: utl.pt	NS	ns.utl.pt.
+   Nameserver: utl.pt	NS	ns2.utl.pt.
+   Nameserver: utl.pt	NS	ns1.ist.utl.pt.
+   Nameserver: utl.pt	NS	ns2.ist.utl.pt.
+   Nameserver: ns.utl.pt.	A	193.136.102.161
+   Nameserver: ns2.utl.pt.	A	193.136.102.162
+   Nameserver: ns1.ist.utl.pt.	A	193.136.128.1
+   Nameserver: ns2.ist.utl.pt.	A	193.136.128.2
+   Nameserver: ns.utl.pt.	AAAA	2001:690:2100:fffe::1
+   Nameserver: ns2.utl.pt.	AAAA	2001:690:2100:fffe::2
+   Nameserver: ns1.ist.utl.pt.	AAAA	2001:690:2100:1::53:1
+   Nameserver: ns2.ist.utl.pt.	AAAA	2001:690:2100:1::2

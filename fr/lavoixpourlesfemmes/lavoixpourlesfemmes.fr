@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lavoixpourlesfemmes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lavoixpourlesfemmes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LVDN42-FRNIC
+admin-c:     T5438-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL25054-FRNIC
+registrar:   GANDI
+anniversary: 26/04
+created:     26/04/2011
+last-update: 26/04/2011
+source:      FRNIC
+
+ns-list:     NSL25054-FRNIC
+nserver:     nsa.audaxis.com
+nserver:     nsb.audaxis.com
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     LVDN42-FRNIC
+type:        ORGANIZATION
+contact:     La Voix du Nord
+address:     La Voix du Nord
+address:     8, place du g&eacute;n&eacute;ral de Gaulle
+address:     59023 Lille
+country:     FR
+phone:       +33 3 20 78 40 40
+e-mail:      24079f59b9103775627e6e48ce7a0f44-1007602@contact.gandi.net
+changed:     11/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     T5438-FRNIC
+type:        ORGANIZATION
+contact:     TELMEDIA
+address:     TELMEDIA
+address:     14, rue du Sec Arembault - B.P. 201
+address:     59002 Lille
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      ca1d2b639b49d8dcaca66550d35a0f25-50691@contact.gandi.net
+changed:     26/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
