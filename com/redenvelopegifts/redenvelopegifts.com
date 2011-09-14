@@ -5,8 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;WINTERWEBDEV.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
+   Domain Name: REDENVELOPEGIFTS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: ok
+   Updated Date: 10-may-2011
+   Creation Date: 25-jun-1999
+   Expiration Date: 25-jun-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:30:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +55,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

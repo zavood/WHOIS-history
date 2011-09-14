@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;WINTERWEBDEV.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
+   Domain Name: HOST-TELECOM.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: ALPHA.HOST-TELECOM.COM
+   Name Server: BETA.HOST-TELECOM.COM
+   Name Server: GAMMA.HOST-TELECOM.COM
+   Status: ok
+   Updated Date: 05-oct-2010
+   Creation Date: 25-oct-2002
+   Expiration Date: 25-oct-2015
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

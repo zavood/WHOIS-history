@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;WINTERWEBDEV.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:30:43 UTC &lt;&lt;&lt;
+   Domain Name: MAPQJUEST.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS-03.NS.AOL.COM
+   Name Server: DNS-04.NS.AOL.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-aug-2011
+   Creation Date: 20-sep-2003
+   Expiration Date: 20-sep-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:30:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... mapqjuest.com
+  Creation Date........ 2003-09-21
+  Registration Date.... 2009-07-08
+  Expiry Date.......... 2012-09-21
+  Organisation Name.... AOL Inc.
+  Organisation Address. 22000 AOL Way
+  Organisation Address.
+  Organisation Address. Dulles
+  Organisation Address. 20166
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ AOL Inc.
+  Admin Address........ 22000 AOL Way
+  Admin Address........ Dulles
+  Admin Address........ 20166
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain-adm@corp.aol.com
+  Admin Phone.......... +1.7032654670
+  Admin Fax............
+
+Tech Name............ Domain Admin
+  Tech Address......... AOL Inc.
+  Tech Address......... 22000 AOL Way
+  Tech Address......... Dulles
+  Tech Address......... 20166
+  Tech Address......... VA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain-adm@corp.aol.com
+  Tech Phone........... +1.7032654670
+  Tech Fax.............
+  Name Server.......... DNS-04.NS.AOL.COM
+  Name Server.......... DNS-03.NS.AOL.COM
+
+
