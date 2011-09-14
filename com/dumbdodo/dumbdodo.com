@@ -5,20 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FINLEYSINC.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: ok
-   Updated Date: 30-mar-2011
-   Creation Date: 29-mar-2000
-   Expiration Date: 29-mar-2012
+   Domain Name: DUMBDODO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS7.INTERADVANTAGE.COM
+   Name Server: NS8.INTERADVANTAGE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 01-oct-2010
+   Creation Date: 01-oct-2004
+   Expiration Date: 01-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:31:45 UTC &lt;&lt;&lt;
 
@@ -55,5 +52,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about dumbdodo.com
+&lt;a href=&quot;http://www.aboutus.org/dumbdodo.com&quot;&gt;AboutUs: dumbdodo.com&lt;/a&gt;
+
+
+Domain name: dumbdodo.com
+
+Registrant Contact:
+
+   Donald Orlowski ()
+
+   Fax:
+   180 Clinton Road
+   Jordan, NY 13080
+   US
+
+Administrative Contact:
+
+   Donald Orlowski (don@medent.com)
+   +1.3159524086
+   Fax:
+   180 Clinton Road
+   Jordan, NY 13080
+   US
+
+Technical Contact:
+
+   Donald Orlowski (don@medent.com)
+   +1.3159524086
+   Fax:
+   180 Clinton Road
+   Jordan, NY 13080
+   US
+
+Status: Locked
+
+Name Servers:
+   ns7.interadvantage.com
+   ns8.interadvantage.com
+
+Creation date: 01 Oct 2004 15:28:40
+Expiration date: 01 Oct 2011 15:28:40
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

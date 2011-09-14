@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RDX9.COM
+   Domain Name: LKHP.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.SAMYDOMAIN.COM
-   Name Server: NS2.SAMYDOMAIN.COM
-   Name Server: NS3.SAMYDOMAIN.COM
-   Name Server: NS4.SAMYDOMAIN.COM
-   Status: clientTransferProhibited
-   Updated Date: 23-jun-2011
-   Creation Date: 15-jul-2010
-   Expiration Date: 15-jul-2012
+   Name Server: NS1.LKHP.COM
+   Name Server: NS2.LKHP.COM
+   Status: ok
+   Updated Date: 24-jan-2011
+   Creation Date: 23-feb-2006
+   Expiration Date: 23-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:32:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:32:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,62 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: SAMY
-Contact: +91.9876243067
+Registration Service Provided By: CONNECT.COM.MY (NETALLIANZ TECHNOLOGY)
+Contact: +603.80603060
 
-Domain Name: RDX9.COM
+Domain Name: LKHP.COM
 
 Registrant:
-    themusicfun
-    deepak        (deepaksinglalove3666@gmail.com)
-    dghthyjy
-    malerkotla
-    Punjab,148023
-    IN
-    Tel. +91.9041767325
+    Netallianz Corporation Sdn Bhd
+    Larry Lam        (info@netallianz.com)
+    30-2 Jalan Puteri 7/11
+    Bandar Puteri
+    Puchong
+    Selangor,47100
+    MY
+    Tel. +603.80603060
 
-Creation Date: 15-Jul-2010
-Expiration Date: 15-Jul-2012
+Creation Date: 23-Feb-2006
+Expiration Date: 23-Feb-2012
 
 Domain servers in listed order:
-    ns1.samydomain.com
-    ns2.samydomain.com
-    ns3.samydomain.com
-    ns4.samydomain.com
+    ns1.lkhp.com
+    ns2.lkhp.com
 
 
 Administrative Contact:
-    themusicfun
-    deepak        (deepaksinglalove3666@gmail.com)
-    dghthyjy
-    malerkotla
-    Punjab,148023
-    IN
-    Tel. +91.9041767325
+    Netallianz Corporation Sdn Bhd
+    Larry Lam        (info@netallianz.com)
+    30-2 Jalan Puteri 7/11
+    Bandar Puteri
+    Puchong
+    Selangor,47100
+    MY
+    Tel. +603.80603060
 
 Technical Contact:
-    themusicfun
-    deepak        (deepaksinglalove3666@gmail.com)
-    dghthyjy
-    malerkotla
-    Punjab,148023
-    IN
-    Tel. +91.9041767325
+    Netallianz Corporation Sdn Bhd
+    Larry Lam        (info@netallianz.com)
+    30-2 Jalan Puteri 7/11
+    Bandar Puteri
+    Puchong
+    Selangor,47100
+    MY
+    Tel. +603.80603060
 
 Billing Contact:
-    themusicfun
-    deepak        (deepaksinglalove3666@gmail.com)
-    dghthyjy
-    malerkotla
-    Punjab,148023
-    IN
-    Tel. +91.9041767325
+    Netallianz Corporation Sdn Bhd
+    Larry Lam        (info@netallianz.com)
+    30-2 Jalan Puteri 7/11
+    Bandar Puteri
+    Puchong
+    Selangor,47100
+    MY
+    Tel. +603.80603060
 
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related

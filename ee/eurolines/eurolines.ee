@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       eurolines.ee
+registrant:   CID:ZONE:120404
+admin-c:      CID:ZONE:120405
+nsset:        NSSID:ZONE:22638
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 03:38:06
+changed:      03.12.2010 12:55:05
+expire:       03.12.2011
+
+contact:      CID:ZONE:120404
+org:          Mootorreisi LTD
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.12.2010 12:55:02
+
+contact:      CID:ZONE:120405
+name:         Liina P&Atilde;&curren;rlin
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.12.2010 12:55:02
+
+nsset:        NSSID:ZONE:22638
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:120406
+registrar:    zone
+created:      03.12.2010 12:55:03
+
+contact:      CID:ZONE:120406
+name:         Liina P&Atilde;&curren;rlin
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.12.2010 12:55:02
+
+
