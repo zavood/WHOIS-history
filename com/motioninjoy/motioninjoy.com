@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOCIALKNOWLEDGE.COM
+   Domain Name: MOTIONINJOY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2010
-   Creation Date: 21-sep-1999
-   Expiration Date: 31-dec-2015
+   Updated Date: 07-mar-2011
+   Creation Date: 15-apr-2009
+   Expiration Date: 15-apr-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:08:14 UTC &lt;&lt;&lt;
 
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Social Knowledge, LLC
+   xie mingchun
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SOCIALKNOWLEDGE.COM
+   Domain Name: MOTIONINJOY.COM
 
    Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
-      NS3.EASYDNS.ORG
-      NS6.EASYDNS.NET
+      NS05.DOMAINCONTROL.COM
+      NS06.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SOCIALKNOWLEDGE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MOTIONINJOY.COM

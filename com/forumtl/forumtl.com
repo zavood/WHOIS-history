@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOCIALKNOWLEDGE.COM
+   Domain Name: FORUMTL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS1.DNSPRO.ORG
+   Name Server: NS2.DNSPRO.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2010
-   Creation Date: 21-sep-1999
-   Expiration Date: 31-dec-2015
+   Updated Date: 21-apr-2011
+   Creation Date: 09-feb-2009
+   Expiration Date: 09-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:08:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:07:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Social Knowledge, LLC
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SOCIALKNOWLEDGE.COM
+   Domain Name: FORUMTL.COM
 
    Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
-      NS3.EASYDNS.ORG
-      NS6.EASYDNS.NET
+      NS1.DNSPRO.ORG
+      NS2.DNSPRO.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SOCIALKNOWLEDGE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMTL.COM
