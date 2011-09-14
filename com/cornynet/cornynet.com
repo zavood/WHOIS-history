@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JANO.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.JANO.NET
-   Name Server: NS2.JANO.NET
-   Name Server: NS3.JANO.NET
+   Domain Name: CORNYNET.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: DNS.E-RICE.NET
+   Name Server: NS1.E-RICE.NET
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-sep-2010
-   Creation Date: 19-jan-1998
-   Expiration Date: 18-jan-2012
+   Updated Date: 26-apr-2011
+   Creation Date: 25-apr-2002
+   Expiration Date: 25-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:53:20 UTC &lt;&lt;&lt;
 
@@ -54,58 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-   Jano.net
-   2201-113 Brentwood Rd
-   Raleigh, NC  27604
-   US
+   Chad Price
 
-   Registrar: DOTSTER
-   Domain Name: JANO.NET
-      Created on: 19-JAN-98
-      Expires on: 18-JAN-12
-      Last Updated on: 21-SEP-10
-
-   Administrative Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
-
-   Technical Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
-
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CORNYNET.COM
 
    Domain servers in listed order:
-      NS1.JANO.NET
-      NS2.JANO.NET
-      NS3.JANO.NET
+      DNS.E-RICE.NET
+      NS1.E-RICE.NET
 
-End of Whois Information
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CORNYNET.COM

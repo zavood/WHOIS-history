@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'koole.ir'
+
+
+domain:		koole.ir
+ascii:		koole.ir
+remarks:	(Domain Holder) Reza RostamZad
+remarks:	(Domain Holder Address) End Of Padegan St., Hamyari Bldg., No. 10,Qazvin, IR3413998945, IR
+holder-c:	---
+admin-c:	ca51-irnic
+tech-c:		rr138-irnic
+nserver:	dena1.irandns.com
+nserver:	dena2.irandns.com
+last-updated:	2011-08-07
+source:		IRNIC # Filtered
+
+nic-hdl:	ca51-irnic
+org:		Caspian ITC
+e-mail:		info@qazvin.net
+address:	End Of Padegan St. Hamyari Building - No 10, Qazvin, Qazvin, IR
+phone:		+98 281 3341676
+fax-no:		+98 281 3341676
+source:		IRNIC # Filtered
+
+nic-hdl:	rr138-irnic
+person:		Reza Rostamzad
+e-mail:		nightskiniran@gmail.com
+source:		IRNIC # Filtered
+

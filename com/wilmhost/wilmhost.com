@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VIRALMARKETINGGIVEAWAY7.COM
+   Domain Name: WILMHOST.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientTransferProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2007
-   Expiration Date: 12-aug-2012
+   Name Server: BLOCKEDDUETOSPAM.PLEASECONTACTSUPPORT.COM
+   Name Server: DUMMYSECONDARY.PLEASECONTACTSUPPORT.COM
+   Status: clientHold
+   Updated Date: 21-mar-2011
+   Creation Date: 21-feb-2011
+   Expiration Date: 21-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:53:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:54:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about viralmarketinggiveaway7.com
-&lt;a href=&quot;http://www.aboutus.org/viralmarketinggiveaway7.com&quot;&gt;AboutUs: viralmarketinggiveaway7.com&lt;/a&gt;
+Visit AboutUs.org for more information about wilmhost.com
+&lt;a href=&quot;http://www.aboutus.org/wilmhost.com&quot;&gt;AboutUs: wilmhost.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: viralmarketinggiveaway7.com
-
-Administrative Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
-
-Technical Contact:
-
-   Reactivation Period (Reactivation-Pending@enom.com)
-   +1.4252744500
-   Fax: +1.4259744791
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+Domain name: wilmhost.com
 
 Registrant Contact:
-
-   Reactivation Period ()
+   Gorev Sergey
+   Sergey Gorev ()
 
    Fax:
-   15801 NE 24th Street
-   Bellevue, WA 98004
-   US
+   pr. Pirova str. 56-A
+   Pavlodar, Pavlodar 393487
+   RU
+
+Administrative Contact:
+   Gorev Sergey
+   Sergey Gorev (gorev.sergey7@gmail.com)
+   +7.7182459513
+   Fax:
+   pr. Pirova str. 56-A
+   Pavlodar, Pavlodar 393487
+   RU
+
+Technical Contact:
+   Gorev Sergey
+   Sergey Gorev (gorev.sergey7@gmail.com)
+   +7.7182459513
+   Fax:
+   pr. Pirova str. 56-A
+   Pavlodar, Pavlodar 393487
+   RU
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   blockedduetospam.pleasecontactsupport.com
+   dummysecondary.pleasecontactsupport.com
 
-Creation date: 12 Aug 2007 06:09:00
-Expiration date: 12 Aug 2011 06:09:00
+Creation date: 21 Feb 2011 10:57:00
+Expiration date: 21 Feb 2012 05:57:00
 
 
 

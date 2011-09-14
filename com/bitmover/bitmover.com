@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JANO.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.JANO.NET
-   Name Server: NS2.JANO.NET
-   Name Server: NS3.JANO.NET
-   Status: clientDeleteProhibited
+   Domain Name: BITMOVER.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: DNS.BITMOVER.COM
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: REMOTE1.EASYDNS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-sep-2010
-   Creation Date: 19-jan-1998
-   Expiration Date: 18-jan-2012
+   Updated Date: 11-mar-2009
+   Creation Date: 10-apr-1998
+   Expiration Date: 09-apr-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:53:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:53:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,58 +54,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
 Registrant:
-   Jano.net
-   2201-113 Brentwood Rd
-   Raleigh, NC  27604
-   US
+ BitMover, Inc.
+ 550 Valley St.
+ San Francisco, California 94131
+ US
 
-   Registrar: DOTSTER
-   Domain Name: JANO.NET
-      Created on: 19-JAN-98
-      Expires on: 18-JAN-12
-      Last Updated on: 21-SEP-10
-
-   Administrative Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
-
-   Technical Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
+ Domain name: BITMOVER.COM
 
 
-   Domain servers in listed order:
-      NS1.JANO.NET
-      NS2.JANO.NET
-      NS3.JANO.NET
+ Administrative Contact:
+    McVoy, Larry  lm@mcvoy.com
+    550 Valley St.
+    San Francisco, California 94131
+    US
+    415-401-8808 x101
+ Technical Contact:
+    Hostmaster, easyDNS  hostmaster@easydns.com
+    304A-219 Dufferin Street
+    Toronto, Ontario M6K 3E3
+    CA
+    416 535 8672    Fax: 416 535 0237
 
-End of Whois Information
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 11-Mar-2009.
+ Record expires on 09-Apr-2018.
+ Record created on 10-Apr-1998.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+    DNS.BITMOVER.COM   192.132.92.2
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 3 lookups left today

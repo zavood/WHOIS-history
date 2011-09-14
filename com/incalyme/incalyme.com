@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JANO.NET
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.JANO.NET
-   Name Server: NS2.JANO.NET
-   Name Server: NS3.JANO.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-sep-2010
-   Creation Date: 19-jan-1998
-   Expiration Date: 18-jan-2012
+   Domain Name: INCALYME.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS3.SERVIDORESDNS.NET
+   Name Server: DNS4.SERVIDORESDNS.NET
+   Status: ok
+   Updated Date: 17-may-2011
+   Creation Date: 16-may-2002
+   Expiration Date: 16-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:53:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:54:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,58 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Arsys Internet's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Arsys Internet does not guarantee the accuracy of the information
+contained in the WHOIS. Arsys Internet allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+
+
+Domain name: incalyme.com
 
 Registrant:
-   Jano.net
-   2201-113 Brentwood Rd
-   Raleigh, NC  27604
-   US
+      INCALYME II, S.L.  (SROW-349153)
 
-   Registrar: DOTSTER
-   Domain Name: JANO.NET
-      Created on: 19-JAN-98
-      Expires on: 18-JAN-12
-      Last Updated on: 21-SEP-10
-
-   Administrative Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
-
-   Technical Contact:
-      Registration, Domain  domainreg@jano.net
-      Jano.Net
-      2201-113 Brentwood Rd
-      Raleigh, NC  27604
-      US
-      9198763222
+   incalyme@incalyme.com
+   Pol. Ind. Guarnizo, 21
+   GUARNIZO   Cantabria
+   39611   ES
+   +34 942558505
 
 
-   Domain servers in listed order:
-      NS1.JANO.NET
-      NS2.JANO.NET
-      NS3.JANO.NET
+Administrative contact:
+   INCALYME II, S.L.   (SRCO-554068)
+   incalyme@incalyme.com
+   Pol. Ind. Guarnizo, 21
+   GUARNIZO   Cantabria
+   39611   ES
+   +34 942558505   fax: +34 942558505
 
-End of Whois Information
+
+Technical contact:
+   INCALYME II, S.L.   (SRCO-554069)
+   incalyme@incalyme.com
+   Pol. Ind. Guarnizo, 21
+   GUARNIZO   Cantabria
+   39611   ES
+   +34 942558505   fax:+34 942558505
+
+
+Domain servers in listed order:
+   dns3.servidoresdns.net  217.76.128.129
+   dns4.servidoresdns.net  217.76.129.129
+
+
+Created:       16 May 2002 12:05:18:000   UTC
+Expires:       16 May 2012 16:05:18:000   UTC
+Last updated:  17 May 2011 12:21:01:553   UTC
+
+
+
