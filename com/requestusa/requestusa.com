@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BEPRESS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: BACKUPDNS.BEPRESS.COM
-   Name Server: NS-1126.AWSDNS-12.ORG
-   Name Server: NS-1881.AWSDNS-43.CO.UK
-   Name Server: NS-433.AWSDNS-54.COM
-   Name Server: NS-739.AWSDNS-28.NET
-   Name Server: NS2.MYDYNDNS.ORG
-   Status: clientTransferProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 30-aug-1999
-   Expiration Date: 30-aug-2021
+   Domain Name: REQUESTUSA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: A.NS.INTERLAND.NET
+   Name Server: B.NS.INTERLAND.NET
+   Status: ok
+   Updated Date: 19-aug-2011
+   Creation Date: 26-jul-2000
+   Expiration Date: 26-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:21:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:21:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: bepress.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:11:41 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

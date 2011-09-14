@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BEPRESS.COM
+   Domain Name: ROTOSUBARU.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: BACKUPDNS.BEPRESS.COM
-   Name Server: NS-1126.AWSDNS-12.ORG
-   Name Server: NS-1881.AWSDNS-43.CO.UK
-   Name Server: NS-433.AWSDNS-54.COM
-   Name Server: NS-739.AWSDNS-28.NET
-   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS1.DEALER.COM
+   Name Server: NS2.DEALER.COM
    Status: clientTransferProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 30-aug-1999
-   Expiration Date: 30-aug-2021
+   Updated Date: 06-jul-2011
+   Creation Date: 21-jul-1999
+   Expiration Date: 21-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:21:32 UTC &lt;&lt;&lt;
 
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: bepress.com
+Whois Query: rotosubaru.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:11:41 EDT 2011
+Date and Time of Query: Wed Sep 14 11:17:14 EDT 2011
 Reason Code: IE

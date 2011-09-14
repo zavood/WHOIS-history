@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BEPRESS.COM
+   Domain Name: RITTERFOODS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: BACKUPDNS.BEPRESS.COM
-   Name Server: NS-1126.AWSDNS-12.ORG
-   Name Server: NS-1881.AWSDNS-43.CO.UK
-   Name Server: NS-433.AWSDNS-54.COM
-   Name Server: NS-739.AWSDNS-28.NET
-   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS1.HAMMER.NET
+   Name Server: NS2.HAMMER.NET
    Status: clientTransferProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 30-aug-1999
-   Expiration Date: 30-aug-2021
+   Updated Date: 04-oct-2006
+   Creation Date: 22-sep-1999
+   Expiration Date: 22-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:21:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:21:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: bepress.com
+Whois Query: ritterfoods.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:11:41 EDT 2011
+Date and Time of Query: Wed Sep 14 11:11:45 EDT 2011
 Reason Code: IE
