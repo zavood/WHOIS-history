@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149261623-LROR
+Domain Name:STLRHERC.ORG
+Created On:28-Sep-2007 16:09:05 UTC
+Last Updated On:17-Dec-2009 21:18:48 UTC
+Expiration Date:28-Sep-2012 16:09:05 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17029069-NSI
+Registrant Name:Services ContactMiddleName Network Technology
+Registrant Organization:Washington University
+Registrant Street1:1 BROOKINGS DR
+Registrant Street2:
+Registrant Street3:
+Registrant City:SAINT LOUIS
+Registrant State/Province:MO
+Registrant Postal Code:63130-4862
+Registrant Country:US
+Registrant Phone:+1.3149357048
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nts-admin@wustl.edu
+Admin ID:17029069-NSI
+Admin Name:Services ContactMiddleName Network Technology
+Admin Organization:Washington University
+Admin Street1:1 BROOKINGS DR
+Admin Street2:
+Admin Street3:
+Admin City:SAINT LOUIS
+Admin State/Province:MO
+Admin Postal Code:63130-4862
+Admin Country:US
+Admin Phone:+1.3149357048
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nts-admin@wustl.edu
+Tech ID:17029069-NSI
+Tech Name:Services ContactMiddleName Network Technology
+Tech Organization:Washington University
+Tech Street1:1 BROOKINGS DR
+Tech Street2:
+Tech Street3:
+Tech City:SAINT LOUIS
+Tech State/Province:MO
+Tech Postal Code:63130-4862
+Tech Country:US
+Tech Phone:+1.3149357048
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nts-admin@wustl.edu
+Name Server:NS00.IP.WUSTL.EDU
+Name Server:NS01.IP.WUSTL.EDU
+Name Server:NS02.IP.WUSTL.EDU
+Name Server:NS03.IP.WUSTL.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

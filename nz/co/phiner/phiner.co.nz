@@ -1,0 +1,67 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T20:30:25+12:00
+domain_name: phiner.co.nz
+query_status: 200 Active
+domain_dateregistered: 2003-03-05T10:36:05+13:00
+domain_datebilleduntil: 2012-03-05T10:36:05+13:00
+domain_datelastmodified: 2011-02-17T07:51:06+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domain Agent
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 0055
+registrar_fax: +64 9 475 5976
+registrar_email: dns@domainagent.co.nz
+%
+registrant_contact_name: Nikolai Blackie
+registrant_contact_address1: 51 Matipo Road
+registrant_contact_address2: Te Atatu Penninsular
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 21 666746
+registrant_contact_fax: +64 9 3770603
+registrant_contact_email: nikolai@phiner.co.nz
+%
+admin_contact_name: Nikolai Blackie
+admin_contact_address1: 51 Matipo Road
+admin_contact_address2: Te Atatu Penninsular
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 21 666746
+admin_contact_fax: +64 9 5284230
+admin_contact_email: nikolai@phiner.co.nz
+%
+technical_contact_name: Nikolai Blackie
+technical_contact_address1: 51 Matipo Road
+technical_contact_address2: Te Atatu Penninsular
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 21 666746
+technical_contact_fax: +64 9 5797372
+technical_contact_email: nikolai@phiner.co.nz
+%
+ns_name_01: ns1.techservers.net
+ns_name_02: ns2.techservers.net
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
