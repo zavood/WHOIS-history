@@ -5,22 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEINRESCUE.COM
+   Domain Name: KISSMETRICS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 12-jan-2005
-   Expiration Date: 12-jan-2015
+   Updated Date: 28-jul-2011
+   Creation Date: 28-sep-2007
+   Expiration Date: 28-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:12:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:12:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +80,19 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   LogMeIn, Inc
+   KISSmetrics
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LOGMEINRESCUE.COM
+   Domain Name: KISSMETRICS.COM
 
    Domain servers in listed order:
-      NS1.3AMLABS.COM
-      NS3.3AMLABS.COM
-      NS2.3AMLABS.COM
+      NS10.DNSMADEEASY.COM
+      NS11.DNSMADEEASY.COM
+      NS12.DNSMADEEASY.COM
+      NS13.DNSMADEEASY.COM
+      NS14.DNSMADEEASY.COM
+      NS15.DNSMADEEASY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LOGMEINRESCUE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=KISSMETRICS.COM

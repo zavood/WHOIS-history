@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DISTRALYTICS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Domain Name: MIDTENNTURF.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.WEB-DEPT.NET
+   Name Server: NS2.WEB-DEPT.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 16-oct-2007
-   Expiration Date: 16-oct-2011
+   Updated Date: 19-apr-2011
+   Creation Date: 28-feb-2000
+   Expiration Date: 28-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:12:44 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
+   Registrant:
+      Mid Tenn Turf, Inc
+      Mid Tenn Turf
+      4698 New Bushy Branch Road
+      Manchester, tn 37355
+      US
+      Phone: +1.9317280583
+      Email: dperry@midtennturf.com
+
+
+
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: midtennturf.com
+      Created on..............: 2000-02-28
+      Expires on..............: 2013-02-28
+
+   Administrative Contact:
+      Mid Tenn Turf, Inc
+      Mid Tenn Turf
+      4698 New Bushy Branch Road
+      Manchester, tn 37355
+      US
+      Phone: +1.9317280583
+      Email: dperry@midtennturf.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      ns1.web-dept.net
+      ns2.web-dept.net
+
+
+
+Visit AboutUs.org for more information about midtennturf.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/midtennturf.com&quot;&gt;AboutUs: midtennturf.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

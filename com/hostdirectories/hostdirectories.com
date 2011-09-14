@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEINRESCUE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Domain Name: HOSTDIRECTORIES.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS1.PREBUILT.COM
+   Name Server: NS2.PREBUILT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 12-jan-2005
-   Expiration Date: 12-jan-2015
+   Updated Date: 11-jan-2011
+   Creation Date: 10-jan-2004
+   Expiration Date: 10-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:12:14 UTC &lt;&lt;&lt;
 
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   LogMeIn, Inc
+   iEstates.com, LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LOGMEINRESCUE.COM
+   Domain Name: HOSTDIRECTORIES.COM
 
    Domain servers in listed order:
-      NS1.3AMLABS.COM
-      NS3.3AMLABS.COM
-      NS2.3AMLABS.COM
+      NS1.PREBUILT.COM
+      NS2.PREBUILT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LOGMEINRESCUE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HOSTDIRECTORIES.COM

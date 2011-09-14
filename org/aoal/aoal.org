@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98268163-LROR
+Domain Name:AOAL.ORG
+Created On:18-Jun-2003 17:39:56 UTC
+Last Updated On:08-Jun-2011 23:10:17 UTC
+Expiration Date:18-Jun-2012 17:39:56 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu0lMoP0mBGmiEWZ
+Registrant Name:Gary Martin
+Registrant Organization:Academy of Ancient Languages
+Registrant Street1:22225 86th Pl. W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edmonds
+Registrant State/Province:WA
+Registrant Postal Code:98026
+Registrant Country:US
+Registrant Phone:+1.4254785355
+Registrant Phone Ext.:
+Registrant FAX:+1.4254785355
+Registrant FAX Ext.:
+Registrant Email:garmar@comcast.net
+Admin ID:tu0lMoP0mBGmiEWZ
+Admin Name:Gary Martin
+Admin Organization:Academy of Ancient Languages
+Admin Street1:22225 86th Pl. W.
+Admin Street2:
+Admin Street3:
+Admin City:Edmonds
+Admin State/Province:WA
+Admin Postal Code:98026
+Admin Country:US
+Admin Phone:+1.4254785355
+Admin Phone Ext.:
+Admin FAX:+1.4254785355
+Admin FAX Ext.:
+Admin Email:garmar@comcast.net
+Tech ID:tu0lMoP0mBGmiEWZ
+Tech Name:Gary Martin
+Tech Organization:Academy of Ancient Languages
+Tech Street1:22225 86th Pl. W.
+Tech Street2:
+Tech Street3:
+Tech City:Edmonds
+Tech State/Province:WA
+Tech Postal Code:98026
+Tech Country:US
+Tech Phone:+1.4254785355
+Tech Phone Ext.:
+Tech FAX:+1.4254785355
+Tech FAX Ext.:
+Tech Email:garmar@comcast.net
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

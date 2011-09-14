@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150731040-LROR
+Domain Name:AHEU.ORG
+Created On:24-Jan-2008 03:55:22 UTC
+Last Updated On:07-Dec-2009 05:57:53 UTC
+Expiration Date:24-Jan-2012 03:55:22 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_7641088
+Registrant Name:Dong-hui Bak
+Registrant Organization:bakdonghui
+Registrant Street1:Jeonhadong, Donggu, Uls
+Registrant Street2:Hyeonda apt
+Registrant Street3:
+Registrant City:Ulsan
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:682060
+Registrant Country:KR
+Registrant Phone:+82.0522356327
+Registrant Phone Ext.:
+Registrant FAX:+82.01046665502
+Registrant FAX Ext.:
+Registrant Email:domain-admin@dotname.co.kr
+Admin ID:DI_7641089
+Admin Name:Dong-hui Bak
+Admin Organization:bakdonghui
+Admin Street1:Jeonhadong, Donggu, Uls
+Admin Street2:Hyeonda apt
+Admin Street3:
+Admin City:Ulsan
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:682060
+Admin Country:KR
+Admin Phone:+82.0522356327
+Admin Phone Ext.:
+Admin FAX:+82.01046665502
+Admin FAX Ext.:
+Admin Email:domain-admin@dotname.co.kr
+Tech ID:DI_7641090
+Tech Name:Dong-hui Bak
+Tech Organization:bakdonghui
+Tech Street1:Jeonhadong, Donggu, Uls
+Tech Street2:Hyeonda apt
+Tech Street3:
+Tech City:Ulsan
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:682060
+Tech Country:KR
+Tech Phone:+82.0522356327
+Tech Phone Ext.:
+Tech FAX:+82.01046665502
+Tech FAX Ext.:
+Tech Email:domain-admin@dotname.co.kr
+Name Server:NS1.MIREENE.COM
+Name Server:NS2.MIREENE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
