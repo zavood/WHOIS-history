@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Domain Name: STOCKMARKETDIGITAL.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: ok
+   Updated Date: 20-dec-2010
+   Creation Date: 30-may-2008
+   Expiration Date: 30-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:24 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
-
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
-
-Domain name: spartanbloks.com
-
-Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
-
-   Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
-
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

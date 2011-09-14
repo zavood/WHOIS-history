@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D116656494-LROR
+Domain Name:HARPERWOODSCITY.ORG
+Created On:15-Feb-2006 21:38:36 UTC
+Last Updated On:16-Jan-2011 00:45:12 UTC
+Expiration Date:15-Feb-2012 21:38:36 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:6E369282B4D6956D
+Registrant Name:Website Dynamics
+Registrant Organization:WebsiteDynamics
+Registrant Street1:1605-555 W. Hastings St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:BC
+Registrant Postal Code:V6B 4N4
+Registrant Country:CA
+Registrant Phone:+1.6044304588
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@websitedynamics.com
+Admin ID:6E369282B4D6956D
+Admin Name:Website Dynamics
+Admin Organization:WebsiteDynamics
+Admin Street1:1605-555 W. Hastings St.
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:BC
+Admin Postal Code:V6B 4N4
+Admin Country:CA
+Admin Phone:+1.6044304588
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@websitedynamics.com
+Tech ID:6E369282B4D6956D
+Tech Name:Website Dynamics
+Tech Organization:WebsiteDynamics
+Tech Street1:1605-555 W. Hastings St.
+Tech Street2:
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:BC
+Tech Postal Code:V6B 4N4
+Tech Country:CA
+Tech Phone:+1.6044304588
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@websitedynamics.com
+Name Server:NS1.DOMAINCITYSERVERS.COM
+Name Server:NS2.DOMAINCITYSERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

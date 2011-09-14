@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVIDORESDNS.NET
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: ATLANTE.SERVIDORESDNS.NET
-   Name Server: MENECIO.SERVIDORESDNS.NET
-   Name Server: PROMETEO.SERVIDORESDNS.NET
+   Domain Name: GAMEPLANCONSULTANTS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.JUMBA.NET.AU
+   Name Server: NS2.JUMBA.NET.AU
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2010
-   Creation Date: 13-sep-1999
-   Expiration Date: 13-sep-2016
+   Updated Date: 23-jan-2011
+   Creation Date: 17-mar-2007
+   Expiration Date: 17-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,4 +52,31 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Acceso restringido
+
+Domain gameplanconsultants.com:
+  GamePlan Consultants
+  11 Gilgandra Close
+  Reedy Creek, Qld 4227 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  GamePlan Consultants
+  Sudhir Kale
+  skale@bond.edu.au
+  11 Gilgandra Close
+  Reedy Creek, Qld 4227 AU
+  Phone: +61.755220467
+  Fax:
+
+Record dates:
+  Record created on: 2007-03-17 11:46:23 UTC
+  Record modified on: 2011-01-24 04:03:51 UTC
+  Record expires on: 2012-03-17 UTC
+
+Nameservers:
+  ns2.jumba.net.au:
+  ns1.jumba.net.au:
+
+Note: Automated collection of data from this database is strictly prohibited.
+

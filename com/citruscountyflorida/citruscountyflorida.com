@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVIDORESDNS.NET
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: ATLANTE.SERVIDORESDNS.NET
-   Name Server: MENECIO.SERVIDORESDNS.NET
-   Name Server: PROMETEO.SERVIDORESDNS.NET
+   Domain Name: CITRUSCOUNTYFLORIDA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.3KSERVER2.COM
+   Name Server: NS2.3KSERVER2.COM
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2010
-   Creation Date: 13-sep-1999
-   Expiration Date: 13-sep-2016
+   Status: clientUpdateProhibited
+   Updated Date: 14-mar-2011
+   Creation Date: 02-may-1998
+   Expiration Date: 01-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,4 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Acceso restringido
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

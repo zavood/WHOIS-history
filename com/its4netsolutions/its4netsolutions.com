@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
+   Domain Name: ITS4NETSOLUTIONS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
+   Name Server: NS.ITS4NETSOLUTIONS.COM
+   Name Server: NS2.ITS4NETSOLUTIONS.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Updated Date: 06-apr-2011
+   Creation Date: 06-may-2009
+   Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:39:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
+Visit AboutUs.org for more information about its4netsolutions.com
+&lt;a href=&quot;http://www.aboutus.org/its4netsolutions.com&quot;&gt;AboutUs: its4netsolutions.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: spartanbloks.com
+Domain name: its4netsolutions.com
 
 Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
+   Internet and Technology Solutions
+   Kristopher Scheppe ()
 
    Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   3444 Marinatown Ln. Ste. 24
+   North Fort Myers, FL 33903
+   US
 
 Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   Internet and Technology Solutions
+   Kristopher Scheppe (kris@its4netsolutions.com)
+   +1.2399972400
+   Fax:
+   3444 Marinatown Ln. Ste. 24
+   North Fort Myers, FL 33903
+   US
 
 Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   Internet and Technology Solutions
+   Kristopher Scheppe (kris@its4netsolutions.com)
+   +1.2399972400
+   Fax:
+   3444 Marinatown Ln. Ste. 24
+   North Fort Myers, FL 33903
+   US
 
 Status: Locked
 
 Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
+   NS.ITS4NETSOLUTIONS.COM
+   NS2.ITS4NETSOLUTIONS.COM
 
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
+Creation date: 06 May 2009 20:10:00
+Expiration date: 06 May 2012 20:10:00
 
 
 

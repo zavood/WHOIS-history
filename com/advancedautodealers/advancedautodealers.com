@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
+   Domain Name: ADVANCEDAUTODEALERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
+   Name Server: NS5.EAPPS.COM
+   Name Server: NS6.EAPPS.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Updated Date: 23-dec-2010
+   Creation Date: 27-dec-2007
+   Expiration Date: 27-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +54,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
+Visit AboutUs.org for more information about advancedautodealers.com
+&lt;a href=&quot;http://www.aboutus.org/advancedautodealers.com&quot;&gt;AboutUs: advancedautodealers.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: spartanbloks.com
+Domain name: advancedautodealers.com
 
 Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
+
+   Jeremy Vontz ()
 
    Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   420 South 5th St
+   Beatrice, NE 68310
+   US
 
 Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+
+   Jeremy Vontz (jvontz@gmail.com)
+   +1.7144653366
+   Fax:
+   420 South 5th St
+   Beatrice, NE 68310
+   US
 
 Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+
+   Jeremy Vontz (jvontz@gmail.com)
+   +1.7144653366
+   Fax:
+   420 South 5th St
+   Beatrice, NE 68310
+   US
 
 Status: Locked
 
 Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
+   ns1.eapps.com
+   ns2.eapps.com
+   ns5.eapps.com
+   ns6.eapps.com
 
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
+Creation date: 27 Dec 2007 10:37:52
+Expiration date: 27 Dec 2011 10:37:52
 
 
 

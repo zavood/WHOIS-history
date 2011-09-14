@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
+   Domain Name: ADDLESLAWCENTER.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.ADDLESLAWCENTER.COM
+   Name Server: NS2.ADDLESLAWCENTER.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Updated Date: 19-jul-2011
+   Creation Date: 14-feb-2011
+   Expiration Date: 14-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,56 +52,7 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
-
-Domain name: spartanbloks.com
-
-Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
-
-   Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
-
-Status: Locked
-
-Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
-
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -111,10 +63,48 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
+mail, or by telephone.  The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain name: addleslawcenter.com
+
+Registrant Contact:
+   Whois Privacy Protection Service
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
+
+Administrative Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
+
+Technical Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
+
+Billing Contact:
+   Whois Agent gmvjcxkxhs@whoisservices.cn
+   +86.05922577888 fax: +86.05922577111
+   No. 61 Wanghai Road, Xiamen Software Park
+   xiamen fujian 361008
+   cn
+
+DNS:
+ns1.addleslawcenter.com
+ns2.addleslawcenter.com
+
+Created: 2011-02-14
+Expires: 2012-02-14

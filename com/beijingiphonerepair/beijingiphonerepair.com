@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SPARTANBLOKS.COM
+   Domain Name: BEIJINGIPHONEREPAIR.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS5.HOSTINGSHOCK.COM
-   Name Server: NS6.HOSTINGSHOCK.COM
+   Name Server: NS101.MSCHOSTING.COM
+   Name Server: NS102.MSCHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 12-jul-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Updated Date: 18-jul-2011
+   Creation Date: 26-jul-2010
+   Expiration Date: 26-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:37:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:38:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about spartanbloks.com
-&lt;a href=&quot;http://www.aboutus.org/spartanbloks.com&quot;&gt;AboutUs: spartanbloks.com&lt;/a&gt;
+Visit AboutUs.org for more information about beijingiphonerepair.com
+&lt;a href=&quot;http://www.aboutus.org/beijingiphonerepair.com&quot;&gt;AboutUs: beijingiphonerepair.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: spartanbloks.com
+Domain name: beijingiphonerepair.com
 
 Registrant Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani ()
+   infotechdesk.com
+   Richard Ker ()
 
    Fax:
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   No 10 An Hua Street
+   Shunyi District
+   Beijing, Beijing 101318
+   CN
 
 Administrative Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   infotechdesk.com
+   Richard Ker (richard.ker@gmail.com)
+   +86.13581688463
+   Fax:
+   No 10 An Hua Street
+   Shunyi District
+   Beijing, Beijing 101318
+   CN
 
 Technical Contact:
-   Extreme Gadgets Ltd
-   Zeeshawn Durrani (sales@deliveryshock.com)
-   +44.1582808133
-   Fax: +1.5555555555
-   36 Ringwood Road
-   Luton, BE LU2 7BG
-   GB
+   infotechdesk.com
+   Richard Ker (richard.ker@gmail.com)
+   +86.13581688463
+   Fax:
+   No 10 An Hua Street
+   Shunyi District
+   Beijing, Beijing 101318
+   CN
 
 Status: Locked
 
 Name Servers:
-   ns5.hostingshock.com
-   ns6.hostingshock.com
+   ns101.mschosting.com
+   ns102.mschosting.com
 
-Creation date: 17 Dec 2010 21:38:00
-Expiration date: 17 Dec 2011 16:38:00
+Creation date: 26 Jul 2010 05:14:00
+Expiration date: 26 Jul 2012 00:14:00
 
 
 
