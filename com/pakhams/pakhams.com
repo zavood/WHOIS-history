@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FIREDEN.NET
+   Domain Name: PAKHAMS.COM
    Registrar: ONLINENIC, INC.
    Whois Server: whois.onlinenic.com
    Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
+   Name Server: NS1.FUTURESOULS.COM
+   Name Server: STATIC.FUTURESOULS.COM
    Status: clientTransferProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 19-nov-2010
-   Expiration Date: 19-nov-2011
+   Updated Date: 14-jul-2011
+   Creation Date: 10-jul-2007
+   Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,57 +68,60 @@ The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
 
 
 Registrant:
-	 John Morton student@1e400.net +1.4157073737
-	 None
-	 611 S Fort Harrison
-	 Clearwater,FL,US 33755
+	 Muhammad Khalid Shoaib register@mail.comsats.net.pk +92.519208794
+	 Muhammad Khalid Shoaib
+	 9 COMSATS Headquarter 1st Floor Shahrah e Jamhuriyat  G 5 2
+	 Islamabad,Capital,PK 44000
 
 
-Domain Name:fireden.net
-Record last updated at
-Record created on 2010/11/19
-Record expired on 2011/11/19
+Domain Name:pakhams.com
+Record last updated at 2011-07-14 01:01:15
+Record created on 2007/7/10
+Record expired on 2012/7/10
 
 
 Domain servers in listed order:
-	 ns2.he.net 	 ns3.he.net
+	 static.futuresouls.com 	 ns1.futuresouls.com
 
 Administrator:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
+	 name:(Muhammad Khalid Shoaib)
+	Email:(register@mail.comsats.net.pk) tel-- +92.519208794
+	 Muhammad Khalid Shoaib
+	 9 COMSATS Headquarter 1st Floor Shahrah e Jamhuriyat  G 5 2
+\r
+t Islamabad
+Capital,
+PK
 
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
+ zipcode:44000
 
 Technical Contactor:
-	 name: John Morton
- mail: student@1e400.net tel: +1.4157073737
-	 org: None
+	 name:(COMSATS Internet Services)
+	Email:(register@mail.comsats.net.pk) tel-- +92.519208794
+	 COMSATS Internet Services
+	 9 COMSATS Headquarter 1st Floor Shahrah e Jamhuriyat  G 5 2
+\r
+t Islamabad
+Capital,
+PK
 
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
+ zipcode:44000
 
 Billing Contactor:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
+	 name:(COMSATS Internet Services)
+	Email:(khalid.shoaib@gmail.com) tel-- +92.519208794
+	 COMSATS Internet Services
+	 9 COMSATS Headquarter 1st Floor Shahrah e Jamhuriyat  G 5 2
+\r
+t Islamabad
+Capital,
+PK
 
-address: 33 N Garden Ave
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
+ zipcode:44000
 
 
 Registration Service Provider:
-	name: HostingInside
-	tel: +62.85761378770
- 	fax: +62.62225537
- 	web:http://www.hostinginside.com
+	name: COMSATS Internet Services
+	tel: +92.519208794
+ 	fax: +92.519208770
+ 	web:http://www.comsats.net.pk

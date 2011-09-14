@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130186899-LROR
+Domain Name:AL-KANZ.ORG
+Created On:06-Oct-2006 22:35:20 UTC
+Last Updated On:08-Jun-2010 10:50:11 UTC
+Expiration Date:06-Oct-2013 22:35:20 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:OK
+Registrant ID:ovh4c0e2061wlws
+Registrant Name:F Kimouche
+Registrant Street1:al-kanz.org, office #1511675
+Registrant Street2:c/o OwO, BP80157
+Registrant Street3:
+Registrant City:Roubaix Cedex 1
+Registrant State/Province:
+Registrant Postal Code:59053
+Registrant Country:FR
+Registrant Phone:+33.899701761
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sfn2rno2m185nyc2pisi@n.o-w-o.info
+Admin ID:ovh4c0e2061etrr
+Admin Name:F. K.
+Admin Organization:Hidaya Group
+Admin Street1:85 Bis route de Grigny
+Admin Street2:
+Admin Street3:
+Admin City:Ris-Orangis
+Admin State/Province:
+Admin Postal Code:91130
+Admin Country:FR
+Admin Phone:+33.634473110
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:j9c5wsqlwjxx4opbt3tn@t.o-w-o.info
+Tech ID:ovh4c0e2061etrr
+Tech Name:F. K.
+Tech Organization:Hidaya Group
+Tech Street1:85 Bis route de Grigny
+Tech Street2:
+Tech Street3:
+Tech City:Ris-Orangis
+Tech State/Province:
+Tech Postal Code:91130
+Tech Country:FR
+Tech Phone:+33.634473110
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:j9c5wsqlwjxx4opbt3tn@t.o-w-o.info
+Name Server:NS.KIMSUFI.COM
+Name Server:KS305417.KIMSUFI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FIREDEN.NET
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
-   Status: clientTransferProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 19-nov-2010
-   Expiration Date: 19-nov-2011
+   Domain Name: JURITEL.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS61.1AND1.FR
+   Name Server: NS62.1AND1.FR
+   Status: ok
+   Updated Date: 11-apr-2011
+   Creation Date: 03-jun-1997
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
-Registrant:
-	 John Morton student@1e400.net +1.4157073737
-	 None
-	 611 S Fort Harrison
-	 Clearwater,FL,US 33755
-
-
-Domain Name:fireden.net
-Record last updated at
-Record created on 2010/11/19
-Record expired on 2011/11/19
-
-
-Domain servers in listed order:
-	 ns2.he.net 	 ns3.he.net
-
-Administrator:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Technical Contactor:
-	 name: John Morton
- mail: student@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Billing Contactor:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 33 N Garden Ave
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-
-Registration Service Provider:
-	name: HostingInside
-	tel: +62.85761378770
- 	fax: +62.62225537
- 	web:http://www.hostinginside.com
+Domain Name : JURITEL.COM
+Created On : 1997-06-03
+Expiration Date : 2012-06-02
+Status : ACTIVE
+Registrant Name : JURITEL
+Registrant Street1 : Place du Mar?chal Juin - 24 Grande rue
+Registrant City : SAVIGNY SUR ORGE
+Registrant State/Province  : FR
+Registrant Postal Code : 91600
+Registrant Country : FR
+Admin Name : JURITEL
+Admin Street1 : Place du Mar?chal Juin - 24 Grande rue
+Admin City : SAVIGNY SUR ORGE
+Admin State/Province : FR
+Admin Postal Code : 91600
+Admin Country : FR
+Admin Phone : +33.169058025
+Admin Email : patin@juritel.com
+Tech Name : JURITEL
+Tech Street1 : Place du Mar?chal Juin - 24 Grande rue
+Tech City : SAVIGNY SUR ORGE
+Tech State/Province : FR
+Tech Postal Code : 91600
+Tech Country : FR
+Tech Phone : +33.169058025
+Tech Email : patin@juritel.com
+Billing Name : JURITEL
+Billing Street1 : Place du Mar?chal Juin - 24 Grande rue
+Billing City : SAVIGNY SUR ORGE
+Billing State/Province : FR
+Billing Postal Code : 91600
+Billing Country : FR
+Billing Phone : +33.169058025
+Billing Email : patin@juritel.com
+Name Server : NS61.1AND1.FR
+Name Server : NS62.1AND1.FR
+Registrar Name : Namebay

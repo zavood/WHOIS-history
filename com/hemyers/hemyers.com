@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FIREDEN.NET
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
+   Domain Name: HEMYERS.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.CVTECH.COM
+   Name Server: NS2.CVTECH.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 19-nov-2010
-   Expiration Date: 19-nov-2011
+   Updated Date: 02-mar-2009
+   Creation Date: 15-apr-1999
+   Expiration Date: 15-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +52,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-Registrant:
-	 John Morton student@1e400.net +1.4157073737
-	 None
-	 611 S Fort Harrison
-	 Clearwater,FL,US 33755
+Domain name: hemyers.com
+
+Registrant Contact:
+      H.E. Myers    &amp; Associates
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      7ec96eef70984add@private-contact.com
+
+Administrative Contact:
+      H.E. Myers    &amp; Associates
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      5l6sh1v8ldekpave@private-contact.com
+
+Technical Contact:
+      H.E. Myers    &amp; Associates
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      fkv3lswdslizmnby@private-contact.com
+
+Update date: 2009-03-02
+Expiration date: 2014-04-15
 
 
-Domain Name:fireden.net
-Record last updated at
-Record created on 2010/11/19
-Record expired on 2011/11/19
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-
-Domain servers in listed order:
-	 ns2.he.net 	 ns3.he.net
-
-Administrator:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Technical Contactor:
-	 name: John Morton
- mail: student@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Billing Contactor:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 33 N Garden Ave
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-
-Registration Service Provider:
-	name: HostingInside
-	tel: +62.85761378770
- 	fax: +62.62225537
- 	web:http://www.hostinginside.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

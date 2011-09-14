@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FIREDEN.NET
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
-   Status: clientTransferProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 19-nov-2010
-   Expiration Date: 19-nov-2011
+   Domain Name: ILAYENA.COM
+   Registrar: PT ARDH GLOBAL INDONESIA
+   Whois Server: whois.resellerid.com
+   Referral URL: http://www.resellerid.com
+   Name Server: US1.ARDHOSTING.COM
+   Name Server: US2.ARDHOSTING.COM
+   Name Server: US3.ARDHOSTING.COM
+   Status: ok
+   Updated Date: 13-sep-2011
+   Creation Date: 02-oct-2010
+   Expiration Date: 02-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:34:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +52,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+Registration Service Provided By: ARDHOSTING.COM
+Contact: +62.2153164806
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+Domain Name: ILAYENA.COM
 
 Registrant:
-	 John Morton student@1e400.net +1.4157073737
-	 None
-	 611 S Fort Harrison
-	 Clearwater,FL,US 33755
+    None
+    them trends        (ilayena.com@gmail.com)
+    None
+    None
+    Yogyakarta,None
+    ID
+    Tel. +62.88012011
 
-
-Domain Name:fireden.net
-Record last updated at
-Record created on 2010/11/19
-Record expired on 2011/11/19
-
+Creation Date: 03-Oct-2010
+Expiration Date: 03-Oct-2011
 
 Domain servers in listed order:
-	 ns2.he.net 	 ns3.he.net
-
-Administrator:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Technical Contactor:
-	 name: John Morton
- mail: student@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 611 S Fort Harrison
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
-
-Billing Contactor:
-	 name: John Morton
- mail: lupin@1e400.net tel: +1.4157073737
-	 org: None
-
-address: 33 N Garden Ave
-	 city: Clearwater
-,province: FL
-,country: US
- postcode: 33755
+    us1.ardhosting.com
+    us2.ardhosting.com
+    us3.ardhosting.com
 
 
-Registration Service Provider:
-	name: HostingInside
-	tel: +62.85761378770
- 	fax: +62.62225537
- 	web:http://www.hostinginside.com
+Administrative Contact:
+    None
+    them trends        (ilayena.com@gmail.com)
+    None
+    None
+    Yogyakarta,None
+    ID
+    Tel. +62.88012011
+
+Technical Contact:
+    None
+    them trends        (ilayena.com@gmail.com)
+    None
+    None
+    Yogyakarta,None
+    ID
+    Tel. +62.88012011
+
+Billing Contact:
+    None
+    them trends        (ilayena.com@gmail.com)
+    None
+    None
+    Yogyakarta,None
+    ID
+    Tel. +62.88012011
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is PT Ardh Global Indonesia.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
