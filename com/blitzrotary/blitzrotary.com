@@ -5,14 +5,15 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FREEHOSTIA.COM.RHGROUPBD.NET
-FREEHOSTIA.COM.OBAMAUNLEASHED.COM
-FREEHOSTIA.COM.DND-GAMING.NET
-FREEHOSTIA.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: BLITZROTARY.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS3.CDMMWEB.COM
+   Name Server: NS4.CDMMWEB.COM
+   Status: ok
+   Updated Date: 28-jun-2011
+   Creation Date: 30-jun-2003
+   Expiration Date: 30-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:09:52 UTC &lt;&lt;&lt;
 
@@ -49,3 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   BlitzRotary GmbH
+   -
+   H&Atilde;&frac14;fingerstrasse 55
+   Br&Atilde;&curren;unlingen, 78199, DE
+
+   Punycode Name:  blitzrotary.com
+   Unicode Name:   blitzrotary.com
+
+   Admin Contact
+      Wolf-Erik Schmitt
+      BlitzRotary GmbH
+      wschmitt@rotarylift.com
+      H&Atilde;&frac14;fingerstrasse 55
+      Br&Atilde;&curren;unlingen, 78199, DE
+      phone: +49.77192330
+
+   Technical Contact
+      Falk Buchmann
+      cdmm marketing &amp; consulting e.K. - GB cdmmweb.de
+      info@cdmmweb.de
+      Weimarische Str. 15
+      Jena-Isserstedt, 07551, DE
+      phone: +49.36425200530
+
+   Zone Contact
+      Falk Buchmann
+      cdmm marketing &amp; consulting e.K. - GB cdmmweb.de
+      info@cdmmweb.de
+      Weimarische Str. 15
+      Jena-Isserstedt, 07551, DE
+      phone: +49.36425200530
+
+   Record expires on: 2012-06-30 00:00:00
+
+   Domain servers in listed order:
+
+      ns4.cdmmweb.com 89.200.169.10
+      ns3.cdmmweb.com 89.200.168.66
+
+
+
