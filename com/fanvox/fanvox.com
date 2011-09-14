@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PHNCDN.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: FANVOX.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-apr-2011
-   Creation Date: 11-dec-2009
-   Expiration Date: 11-dec-2012
+   Status: clientUpdateProhibited
+   Updated Date: 20-may-2011
+   Creation Date: 19-may-2005
+   Expiration Date: 19-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:04:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:05:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,63 +56,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
-
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by the above policy.
-
-Whois History: 123 records have been archived since 2009-12-11
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=phncdn.com
-
-Domain: phncdn.com
-Registrar: Eurodns S.A.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+   FanVox LLC
+   P.O. Box 1354
+   Middletown, CT  06457
+   US
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   Registrar: NAMESDIRECT
+   Domain Name: FANVOX.COM
+      Created on: 19-MAY-05
+      Expires on: 19-MAY-12
+      Last Updated on: 29-APR-11
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   Administrative, Technical Contact:
+      Admin, Network  admin@fanvox.com
+      FanVox LLC
+      P.O. Box 1354
+      Middletown, CT  06457
+      US
+      860-759-2926
 
-Original Creation Date: 2009-12-11
-Expiration Date: 2012-12-10
 
-Status:
-clientTransferProhibited
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
 
-Nameserver Information:
-Nameserver: ns0.reflected.net
-Nameserver: ns1.reflected.net
-
+End of Whois Information

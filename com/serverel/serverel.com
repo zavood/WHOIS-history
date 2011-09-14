@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PHNCDN.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: SERVEREL.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.SERVEREL.NET
+   Name Server: NS2.SERVEREL.NET
    Status: clientTransferProhibited
-   Updated Date: 23-apr-2011
-   Creation Date: 11-dec-2009
-   Expiration Date: 11-dec-2012
+   Updated Date: 03-jan-2011
+   Creation Date: 01-jun-2009
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:04:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:03:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by the above policy.
-
-Whois History: 123 records have been archived since 2009-12-11
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=phncdn.com
-
-Domain: phncdn.com
-Registrar: Eurodns S.A.
 
 Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+	 Iurii  Salmanov domains@serverel.com +1.8772467863
+	 Serverel Corporation
+	 14525 SW Millikan Way # 33735
+	 Beaverton,Oregon,US 97005-2343
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+Domain Name:serverel.com
+Record last updated at 2011-01-05 07:52:23
+Record created on 2009/6/1
+Record expired on 2012/6/1
 
-Original Creation Date: 2009-12-11
-Expiration Date: 2012-12-10
 
-Status:
-clientTransferProhibited
+Domain servers in listed order:
+	 ns2.serverel.net 	 ns1.serverel.net
 
-Nameserver Information:
-Nameserver: ns0.reflected.net
-Nameserver: ns1.reflected.net
+Administrator:
+	 name:(Iurii  Salmanov)
+	Email:(domains@serverel.com) tel-- +1.8772467863
+	 Serverel Corporation
+	 14525 SW Millikan Way # 33735
+\r
+t Beaverton
+Oregon,
+US
 
+ zipcode:97005-2343
+
+Technical Contactor:
+	 name:(Iurii  Salmanov)
+	Email:(domains@serverel.com) tel-- +1.8772467863
+	 Serverel Corporation
+	 14525 SW Millikan Way # 33735
+\r
+t Beaverton
+Oregon,
+US
+
+ zipcode:97005-2343
+
+Billing Contactor:
+	 name:(Iurii  Salmanov)
+	Email:(domains@serverel.com) tel-- +1.8772467863
+	 Serverel Corporation
+	 14525 SW Millikan Way # 33735
+\r
+t Beaverton
+Oregon,
+US
+
+ zipcode:97005-2343
+
+
+Registration Service Provider:
+	name: Serverel Corporation
+	tel: +1.8772467863
+ 	fax: +1.8772467863
+ 	web:http://serverel.com
