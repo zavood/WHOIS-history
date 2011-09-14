@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LINKEDIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Domain Name: SCAN-THAI.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.TALKACTIVE.NET
+   Name Server: NS2.TALKACTIVE.NET
+   Name Server: NS3.TALKACTIVE.NET
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2009
-   Creation Date: 02-nov-2002
-   Expiration Date: 02-nov-2018
+   Updated Date: 09-oct-2010
+   Creation Date: 16-nov-2004
+   Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:12:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:12:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+domain:       scan-thai.com
+owner:        Ole Morten Karlsen
+email:        ole@hillbygg.no
+address:      Soerveien 23
+city:         Sommaroey
+postal-code:  9110
+country:      NO
+phone:        +47.92885540
+admin-c:      CCOM-77974 robot@jth.net
+tech-c:       CCOM-77974 robot@jth.net
+billing-c:    CCOM-77974 robot@jth.net
+reseller:     http://domregistry.eu/domchange
+reseller:     Geografisk adskilte navneservere
+reseller:     Vi saelger ogsaa SMS og postbackup
+nserver:      ns.talkactive.net
+nserver:      ns2.talkactive.net
+nserver:      ns3.talkactive.net
+status:       lock
+created:      2004-11-16 21:00:45 UTC
+modified:     2010-10-09 08:50:38 UTC
+expires:      2011-11-16 21:00:43 UTC
+query-source: 174.142.225.246
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+contact-hdl:  CCOM-77974
+person:       Domain Dept
+organization: Domregistry ApS
+email:        robot@jth.net
+address:      Kirsebaerhaven 14
+address:      Himmelev
+city:         Roskilde
+state:        --
+postal-code:  DK-4000
+country:      DK
+phone:        +45.42420960
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: linkedin.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:02:57 EDT 2011
-Reason Code: IE
+source:       joker.com live whois service
+query-time:   0.025999
+db-updated:   2011-09-14 18:13:30
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

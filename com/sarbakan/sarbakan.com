@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LINKEDIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Domain Name: SARBAKAN.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: MY.PRIVATEDNS.COM
+   Name Server: YOUR.PRIVATEDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2009
-   Creation Date: 02-nov-2002
-   Expiration Date: 02-nov-2018
+   Updated Date: 02-jun-2011
+   Creation Date: 24-apr-1998
+   Expiration Date: 23-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:12:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:13:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... sarbakan.com
+  Creation Date........ 1998-04-24
+  Registration Date.... 2007-02-18
+  Expiry Date.......... 2016-04-23
+  Organisation Name.... Sarbakan Inc
+  Organisation Address. 410, Boul. Charest Est
+  Organisation Address. Suite 250
+  Organisation Address. Quebec
+  Organisation Address. G1K8G3
+  Organisation Address. Quebec
+  Organisation Address. CANADA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Cote Simon
+  Admin Address........ Sarbakan Inc.
+  Admin Address........ 410, Boul. Charest Est
+  Admin Address........ Quebec
+  Admin Address........ Quebec
+  Admin Address........ Quebec
+  Admin Address........ CANADA
+  Admin Email.......... support@sarbakan.com
+  Admin Phone.......... +1.4186820601
+  Admin Fax............ +1.4186822832
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Le Groupe iWEB Technologies inc
+  Tech Address......... 3185 Hochelaga
+  Tech Address.........
+  Tech Address......... Montreal
+  Tech Address......... QC
+  Tech Address......... QC
+  Tech Address......... CANADA
+  Tech Email........... reservation@iweb.ca
+  Tech Phone........... +1.5142864242
+  Tech Fax............. +1.5142861292
+  Name Server.......... my.privatedns.com
+  Name Server.......... your.privatedns.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: linkedin.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:02:57 EDT 2011
-Reason Code: IE
