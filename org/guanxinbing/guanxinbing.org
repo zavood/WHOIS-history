@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98257597-LROR
+Domain Name:GUANXINBING.ORG
+Created On:15-Jun-2003 08:17:19 UTC
+Last Updated On:25-Jun-2011 09:47:52 UTC
+Expiration Date:15-Jun-2012 08:17:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35431358-NSI
+Registrant Name:Jia Jiangjun
+Registrant Street1:Huaibeilu Jiandongli 4-4-301
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shijiazhuang
+Registrant State/Province:Hebei
+Registrant Postal Code:050021
+Registrant Country:CN
+Registrant Phone:+1.03116020102
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:master@sjzinfo.com
+Admin ID:35431358-NSI
+Admin Name:Jia Jiangjun
+Admin Street1:Huaibeilu Jiandongli 4-4-301
+Admin Street2:
+Admin Street3:
+Admin City:Shijiazhuang
+Admin State/Province:Hebei
+Admin Postal Code:050021
+Admin Country:CN
+Admin Phone:+1.03116020102
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:master@sjzinfo.com
+Tech ID:35431358-NSI
+Tech Name:Jia Jiangjun
+Tech Street1:Huaibeilu Jiandongli 4-4-301
+Tech Street2:
+Tech Street3:
+Tech City:Shijiazhuang
+Tech State/Province:Hebei
+Tech Postal Code:050021
+Tech Country:CN
+Tech Phone:+1.03116020102
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:master@sjzinfo.com
+Name Server:NS1.CNOLNIC.COM
+Name Server:NS2.CNOLNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
