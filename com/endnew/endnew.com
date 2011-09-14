@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGESUITE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ADNS1.AKAM.NET
-   Name Server: ADNS2.AKAM.NET
-   Name Server: ADNS3.AKAM.NET
-   Name Server: ADNS4.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW6.AKAM.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 02-apr-2001
-   Expiration Date: 02-apr-2017
+   Domain Name: ENDNEW.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS1.NZELL.NET
+   Name Server: NS2.NZELL.NET
+   Status: ok
+   Updated Date: 21-mar-2011
+   Creation Date: 02-apr-2007
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:40:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:40:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,5 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name           : endnew.com
+Registrar             : Dotname Korea Corp.
+
+Registrant:
+	company       :
+	name          :Chul-Ho Kim
+	e-mail        :cfhoya@gmail.com
+	address1      :Yeoksam-dong Gangnam-gu
+	address2      :664-15 401ho
+	city          :SEOUL
+	zipcode       :135-080
+	country       :KR
+	phone         :02-6207-0069
+	fax           :
+
+Administrative Contact:
+	name          :Chul-Ho Kim
+	e-mail        :cfhoya@gmail.com
+	address1      :Yeoksam-dong Gangnam-gu
+	address2      :664-15 401ho
+	city          :SEOUL
+	zipcode       :135-080
+	country       :KR
+	phone         :02-6207-0069
+	fax           :
+
+Technical Contact:
+	name          :Chul-Ho Kim
+	e-mail        :cfhoya@gmail.com
+	address1      :Yeoksam-dong Gangnam-gu
+	address2      :664-15 401ho
+	city          :SEOUL
+	zipcode       :135-080
+	country       :KR
+	phone         :02-6207-0069
+	fax           :
+
+Domain servers in listed order:
+		ns1.nzell.net  [222.239.255.55]
+		ns2.nzell.net  [222.239.255.56]
+
+Created on 2007-04-02
+Updated on 2011-03-22
+Expires on 2012-04-02&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+
+

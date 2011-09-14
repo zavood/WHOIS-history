@@ -5,23 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGESUITE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ADNS1.AKAM.NET
-   Name Server: ADNS2.AKAM.NET
-   Name Server: ADNS3.AKAM.NET
-   Name Server: ADNS4.AKAM.NET
-   Name Server: NS1-137.AKAM.NET
-   Name Server: NS1-2.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW6.AKAM.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 02-apr-2001
-   Expiration Date: 02-apr-2017
+   Domain Name: THE-COLOR-BLACK.NET
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.CYON.CH
+   Name Server: NS2.CYON.CH
+   Status: ok
+   Updated Date: 25-dec-2010
+   Creation Date: 24-dec-2007
+   Expiration Date: 24-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:40:13 UTC &lt;&lt;&lt;
 
@@ -58,5 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+; This data is provided by cyon GmbH
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; cyon GmbH does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: THE-COLOR-BLACK.NET
+
+RSP: cyon GmbH
+URL: http://www.cyon.ch
+
+owner-contact: P-GLR160
+owner-fname: Gerhard
+owner-lname: R&ouml;thlin
+owner-street: Oberr&uuml;tistrasse 2
+owner-city: Horw
+owner-zip: 6048
+owner-country: CH
+owner-phone: +41.413402370
+owner-email: cbreak@gmx.ch
+
+admin-contact: P-DAB107
+admin-organization: cyon GmbH
+admin-fname: David
+admin-lname: Burkardt
+admin-street: Gerbergasse 14
+admin-city: Basel
+admin-state: BS
+admin-zip: 4001
+admin-country: CH
+admin-phone: +41 61 271 99 74
+admin-fax: +41 61 271 99 75
+admin-email: info@cyon.ch
+
+tech-contact: P-DAB107
+tech-organization: cyon GmbH
+tech-fname: David
+tech-lname: Burkardt
+tech-street: Gerbergasse 14
+tech-city: Basel
+tech-state: BS
+tech-zip: 4001
+tech-country: CH
+tech-phone: +41 61 271 99 74
+tech-fax: +41 61 271 99 75
+tech-email: info@cyon.ch
+
+billing-contact: P-DAB107
+billing-organization: cyon GmbH
+billing-fname: David
+billing-lname: Burkardt
+billing-street: Gerbergasse 14
+billing-city: Basel
+billing-state: BS
+billing-zip: 4001
+billing-country: CH
+billing-phone: +41 61 271 99 74
+billing-fax: +41 61 271 99 75
+billing-email: info@cyon.ch
+
+nameserver: ns1.cyon.ch
+nameserver: ns2.cyon.ch
+
+; Please register your domains at
+; http://www.cyon.ch
+
