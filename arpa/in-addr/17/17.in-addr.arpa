@@ -1,0 +1,17 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       17.in-addr.arpa
+
+organisation: Apple Computer Inc.
+
+nserver:      NSERVER.APPLE.COM.
+nserver:      NSERVER.ASIA.APPLE.COM.
+nserver:      NSERVER.EURO.APPLE.COM.
+nserver:      NSERVER2.APPLE.COM.
+
+changed:      1992-07
+changed:      2011-01-08
+source:       IANA
+
