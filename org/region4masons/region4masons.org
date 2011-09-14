@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149000945-LROR
+Domain Name:REGION4MASONS.ORG
+Created On:30-Aug-2007 10:14:59 UTC
+Last Updated On:07-Jul-2011 01:26:49 UTC
+Expiration Date:30-Aug-2012 10:14:59 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-2847736-4
+Registrant Name:Flexihostings DNS Admin
+Registrant Organization:Flexihostings.net | FlexiReseller.com | httpServers.net
+Registrant Street1:P.O. Box 8044
+Registrant Street2:P.O. Box 8044
+Registrant Street3:
+Registrant City:Camberwell North
+Registrant State/Province:Victoria
+Registrant Postal Code:3124
+Registrant Country:AU
+Registrant Phone:+6.1390140718
+Registrant Phone Ext.:1111
+Registrant FAX:+6.1386400532
+Registrant FAX Ext.:
+Registrant Email:hostmaster@flexihostings.net
+Admin ID:ONLC-2847736-1
+Admin Name:Flexihostings DNS Admin
+Admin Organization:Flexihostings.net | FlexiReseller.com | httpServers.net
+Admin Street1:P.O. Box 8044
+Admin Street2:P.O. Box 8044
+Admin Street3:
+Admin City:Camberwell North
+Admin State/Province:Victoria
+Admin Postal Code:3124
+Admin Country:AU
+Admin Phone:+6.1390140718
+Admin Phone Ext.:1111
+Admin FAX:+6.1386400532
+Admin FAX Ext.:
+Admin Email:hostmaster@flexihostings.net
+Tech ID:ONLC-2847736-2
+Tech Name:Flexihostings DNS Admin
+Tech Organization:Flexihostings.net | FlexiReseller.com | httpServers.net
+Tech Street1:P.O. Box 8044
+Tech Street2:P.O. Box 8044
+Tech Street3:
+Tech City:Camberwell North
+Tech State/Province:Victoria
+Tech Postal Code:3124
+Tech Country:AU
+Tech Phone:+6.1390140718
+Tech Phone Ext.:1111
+Tech FAX:+6.1386400532
+Tech FAX Ext.:
+Tech Email:hostmaster@flexihostings.net
+Name Server:DNS1.FLEXIHOSTINGS.NET
+Name Server:DNS2.FLEXIHOSTINGS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31111389-LROR
+Domain Name:KINTERA.ORG
+Created On:10-Jul-2000 06:37:57 UTC
+Last Updated On:07-Jul-2011 05:02:15 UTC
+Expiration Date:10-Jul-2012 06:37:57 UTC
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5618839e13c92631
+Registrant Name:Harry Gruber
+Registrant Organization:Kintera, Inc.
+Registrant Street1:9605 Scranton Road, Suite 240
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Diego
+Registrant State/Province:CA
+Registrant Postal Code:92121
+Registrant Country:US
+Registrant Phone:+1.8587953000
+Registrant Phone Ext.:
+Registrant FAX:+1.8587953010
+Registrant FAX Ext.:
+Registrant Email:hostmaster@kintera.com
+Admin ID:5618839e13c92631
+Admin Name:Harry Gruber
+Admin Organization:Kintera, Inc.
+Admin Street1:9605 Scranton Road, Suite 240
+Admin Street2:
+Admin Street3:
+Admin City:San Diego
+Admin State/Province:CA
+Admin Postal Code:92121
+Admin Country:US
+Admin Phone:+1.8587953000
+Admin Phone Ext.:
+Admin FAX:+1.8587953010
+Admin FAX Ext.:
+Admin Email:hostmaster@kintera.com
+Tech ID:2026444e14153840
+Tech Name:Harry Gruber,
+Tech Organization:Kintera, Inc.
+Tech Street1:9605 Scranton Road, Suite 240
+Tech Street2:
+Tech Street3:
+Tech City:San Diego
+Tech State/Province:CA
+Tech Postal Code:92121
+Tech Country:US
+Tech Phone:+1.8587953000
+Tech Phone Ext.:
+Tech FAX:+1.8587953010
+Tech FAX Ext.:
+Tech Email:hostmaster@kintera.com
+Name Server:NS1.KINTERA.COM
+Name Server:NS011.KINTERA.COM
+Name Server:NS012.KINTERA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
