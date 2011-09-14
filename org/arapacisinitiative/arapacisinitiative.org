@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152501386-LROR
+Domain Name:ARAPACISINITIATIVE.ORG
+Created On:22-Apr-2008 12:46:23 UTC
+Last Updated On:26-Sep-2010 00:24:09 UTC
+Expiration Date:22-Apr-2012 12:46:23 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR53186716
+Registrant Name:Maria Nicoletta Gaida
+Registrant Organization:Iniziativa Ara Pacis
+Registrant Street1:Via dei Coronari 44
+Registrant Street2:
+Registrant Street3:
+Registrant City:Roma
+Registrant State/Province:Rome
+Registrant Postal Code:00186
+Registrant Country:IT
+Registrant Phone:+39.0668892252
+Registrant Phone Ext.:
+Registrant FAX:+39.0668585827
+Registrant FAX Ext.:
+Registrant Email:megan@arapacis.org
+Admin ID:CR53186734
+Admin Name:Maria Nicoletta Gaida
+Admin Organization:Iniziativa Ara Pacis
+Admin Street1:Via dei Coronari 44
+Admin Street2:
+Admin Street3:
+Admin City:Roma
+Admin State/Province:Rome
+Admin Postal Code:00186
+Admin Country:IT
+Admin Phone:+39.0668892252
+Admin Phone Ext.:
+Admin FAX:+39.0668585827
+Admin FAX Ext.:
+Admin Email:megan@arapacis.org
+Tech ID:CR53186725
+Tech Name:Massimo Gregori
+Tech Organization:BI@Work S.r.l.
+Tech Street1:Via del Follatoio, 12
+Tech Street2:
+Tech Street3:
+Tech City:Trieste
+Tech State/Province:Florence
+Tech Postal Code:34148
+Tech Country:IT
+Tech Phone:+39.0409896513
+Tech Phone Ext.:
+Tech FAX:+39.04046069261
+Tech FAX Ext.:
+Tech Email:technical@biatwork.com
+Name Server:NS11.BIATWORK.COM
+Name Server:NS12.BIATWORK.COM
+Name Server:NS13.BIATWORK.COM
+Name Server:NS14.BIATWORK.COM
+Name Server:NS15.BIATWORK.COM
+Name Server:NS16.BIATWORK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

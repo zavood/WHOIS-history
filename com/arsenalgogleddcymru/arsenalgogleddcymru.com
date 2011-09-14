@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 7120.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
+   Domain Name: ARSENALGOGLEDDCYMRU.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS0.SERVE.CO.UK
+   Name Server: NS0.SERVE.NET.UK
    Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 26-jun-2004
-   Expiration Date: 26-jun-2012
+   Updated Date: 30-jul-2010
+   Creation Date: 01-aug-2008
+   Expiration Date: 01-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:55:31 UTC &lt;&lt;&lt;
 
@@ -51,69 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-Domain Name      : 7120.com
-PunnyCode        : 7120.com
-Creation Date    : 2004-06-26 00:00:00
-Updated Date     : 2011-08-04 11:19:27
-Expiration Date  : 2012-06-26 00:00:00
-
-
-Registrant:
-  Organization   : Ren HangZhou
-  Name           : Ren HangZhou
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-
-Administrative Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
-
-Technical Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
-
-Billing Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

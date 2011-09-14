@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 7120.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
-   Status: ok
-   Updated Date: 03-aug-2011
-   Creation Date: 26-jun-2004
-   Expiration Date: 26-jun-2012
+   Domain Name: BEDBATHSTORE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: clientTransferProhibited
+   Updated Date: 15-mar-2011
+   Creation Date: 15-mar-2000
+   Expiration Date: 15-mar-2021
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:55:31 UTC &lt;&lt;&lt;
 
@@ -51,69 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name      : 7120.com
-PunnyCode        : 7120.com
-Creation Date    : 2004-06-26 00:00:00
-Updated Date     : 2011-08-04 11:19:27
-Expiration Date  : 2012-06-26 00:00:00
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-  Organization   : Ren HangZhou
-  Name           : Ren HangZhou
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Technical Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
-
-Billing Contact:
-  Name           : Ren HangZhou
-  Organization   : HU YI
-  Address        : chaoyang
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100025
-  Phone Number   : 86-010-51386600
-  Fax            : 86-010-51388866
-  Email          : yiyi@27.cn
+Whois Query: bedbathstore.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 07:51:16 EDT 2011
+Reason Code: IE

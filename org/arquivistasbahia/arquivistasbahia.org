@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107260220-LROR
+Domain Name:ARQUIVISTASBAHIA.ORG
+Created On:23-Aug-2005 12:42:54 UTC
+Last Updated On:29-Jul-2011 02:12:05 UTC
+Expiration Date:23-Aug-2012 12:42:54 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31441427
+Registrant Name:R A
+Registrant Street1:Av. Leovigildo
+Registrant Street2:Garcia
+Registrant Street3:
+Registrant City:Salvador
+Registrant State/Province:Bahia
+Registrant Postal Code:40100-000
+Registrant Country:BR
+Registrant Phone:+55.713000000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ricardo@feudo.org
+Admin ID:CR31441429
+Admin Name:R A
+Admin Street1:Av. Leovigildo
+Admin Street2:Garcia
+Admin Street3:
+Admin City:Salvador
+Admin State/Province:Bahia
+Admin Postal Code:40100-000
+Admin Country:BR
+Admin Phone:+55.713000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ricardo@feudo.org
+Tech ID:CR31441428
+Tech Name:R A
+Tech Street1:Av. Leovigildo
+Tech Street2:Garcia
+Tech Street3:
+Tech City:Salvador
+Tech State/Province:Bahia
+Tech Postal Code:40100-000
+Tech Country:BR
+Tech Phone:+55.713000000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ricardo@feudo.org
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

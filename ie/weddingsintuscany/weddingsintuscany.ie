@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      weddingsintuscany.ie
+descr:       Aine McPeake
+descr:       Sole Trader
+descr:       Discretionary Name
+admin-c:     AAM530-IEDR
+tech-c:      TDI2-IEDR
+renewal:     17-October-2011
+status:      Active
+nserver:     ns1.blacknight.com
+nserver:     ns2.blacknight.com
+source:      IEDR
+
+person:      Aine McPeake
+nic-hdl:     AAM530-IEDR
+source:      IEDR
+
+person:      Technical Department Irish Domains
+nic-hdl:     TDI2-IEDR
+source:      IEDR
+
