@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URBANOUTFITTERS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Status: clientTransferProhibited
-   Updated Date: 19-may-2007
-   Creation Date: 01-may-1996
-   Expiration Date: 02-may-2012
+   Domain Name: REORGANIZESYSTEMSERVICE.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.GOOGLE.COM
+   Name Server: NS2.GOOGLE.COM
+   Status: ok
+   Updated Date: 02-jul-2011
+   Creation Date: 19-jun-2011
+   Expiration Date: 19-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:34:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:33:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+   Domain Name: REORGANIZESYSTEMSERVICE.COM
+      Reseller..............: DNMaster LLC
+      Created on............: 20 Jun 2011 06:58:37 EST
+      Expires on............: 20 Jun 2012 06:58:37 EST
+      Record last updated on: 20 Jun 2011 06:58:37 EST
+      Status................: ACTIVE
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      Thomas Heckart (ID00467208)
+      135 Southland Drive SE
+      Calgary, AB T2J 5X5
+      CA
+      Phone: +1.4032785834
+      Email: pigs@mailae.com
 
-Whois Query: urbanoutfitters.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 21:30:16 EDT 2011
-Reason Code: IE
+
+   Domain servers in listed order:
+
+      NS1.GOOGLE.COM
+      NS2.GOOGLE.COM
+
