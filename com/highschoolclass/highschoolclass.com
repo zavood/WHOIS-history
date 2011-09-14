@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWSENEWB.COM
-   Registrar: BARGIN REGISTER, INC.
-   Whois Server: whois.barginregister.com
-   Referral URL: http://www.barginregister.com
-   Name Server: NS1.DNSBINDING.NET
-   Name Server: NS2.DNSBINDING.NET
+   Domain Name: HIGHSCHOOLCLASS.COM
+   Registrar: HOMESTEAD LIMITED DBA NAMEVAULT.COM
+   Whois Server: whois.namevault.com
+   Referral URL: http://www.namevault.com
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
    Status: ok
-   Updated Date: 15-aug-2011
-   Creation Date: 01-oct-2007
-   Expiration Date: 01-oct-2012
+   Updated Date: 08-sep-2011
+   Creation Date: 19-jul-2001
+   Expiration Date: 19-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: BARGIN REGISTER INC
-Contact: +001.3459276387
-Website: http://www.barginregister.com
+Registration Service Provided By: NAMEVAULT.COM PAYMENT PROCESSING
+Contact: +800.8829010
 
-Domain Name: WWWSENEWB.COM
+Domain Name: HIGHSCHOOLCLASS.COM
 
 Registrant:
-    Private Registration - bmon
-    Private Registration - bmon        (private-bmon@barginregister.net)
-    P.O. Box 12086 APO
-    Note - All Registered Mail &amp; Couriers Not Accepted.
-    GRAND CAYMAN
-    Not Applicable,KY1-1010
-    KY
-    Tel. +001.3459276387
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
 
-Creation Date: 01-Oct-2007
-Expiration Date: 01-Oct-2012
+Creation Date: 19-Jul-2001
+Expiration Date: 19-Jul-2012
 
 Domain servers in listed order:
-    ns1.dnsbinding.net
-    ns2.dnsbinding.net
+    buy.internettraffic.com
+    sell.internettraffic.com
 
 
 Administrative Contact:
-    Private Registration - bmon
-    Private Registration - bmon        (private-bmon@barginregister.net)
-    P.O. Box 12086 APO
-    Note - All Registered Mail &amp; Couriers Not Accepted.
-    GRAND CAYMAN
-    Not Applicable,KY1-1010
-    KY
-    Tel. +001.3459276387
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
 
 Technical Contact:
-    Private Registration - bmon
-    Private Registration - bmon        (private-bmon@barginregister.net)
-    P.O. Box 12086 APO
-    Note - All Registered Mail &amp; Couriers Not Accepted.
-    GRAND CAYMAN
-    Not Applicable,KY1-1010
-    KY
-    Tel. +001.3459276387
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
 
 Billing Contact:
-    Private Registration - bmon
-    Private Registration - bmon        (private-bmon@barginregister.net)
-    P.O. Box 12086 APO
-    Note - All Registered Mail &amp; Couriers Not Accepted.
-    GRAND CAYMAN
-    Not Applicable,KY1-1010
-    KY
-    Tel. +001.3459276387
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
 
 Status:ACTIVE
 
@@ -117,7 +116,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Bargin Register, Inc..
+prior written consent from us. The Registrar of record is Homestead Limited dba Namevault.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

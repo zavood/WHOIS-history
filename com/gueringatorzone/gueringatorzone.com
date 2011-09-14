@@ -5,28 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SQUARESPACE.COM.ZACCOLEMAN.COM
-SQUARESPACE.COM.WILLIECBBQ.COM
-SQUARESPACE.COM.WILDHORSECREEKPRESS.COM
-SQUARESPACE.COM.VALLEYCABLETV.COM
-SQUARESPACE.COM.THEWOMENSCOLONY.COM
-SQUARESPACE.COM.SAGESTUDIOSONLINE.COM
-SQUARESPACE.COM.PRINCESSTEQUILA.COM
-SQUARESPACE.COM.LJVANVUUREN.COM
-SQUARESPACE.COM.JDAVIDMCKENNEY.COM
-SQUARESPACE.COM.ISDESIGNZ.COM
-SQUARESPACE.COM.HEATHERGATTUCCIO.COM
-SQUARESPACE.COM.GAMER-INDEPTH.COM
-SQUARESPACE.COM.DERFWADMANOR.COM
-SQUARESPACE.COM.CANDICEJANEEN.COM
-SQUARESPACE.COM.BOBSTRAINZ.COM
-SQUARESPACE.COM.AU
-SQUARESPACE.COM.AMERICANPOLITICALREFORMATION.COM
-SQUARESPACE.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: GUERINGATORZONE.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS3.A2HOSTING.COM
+   Name Server: NS4.A2HOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 24-jun-2011
+   Creation Date: 23-jun-2008
+   Expiration Date: 23-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
 
@@ -63,3 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
+
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
+
+
+Registrant:
+   Tom Tortorich
+
+   Registered through: ttdesigns
+   Domain Name: GUERINGATORZONE.COM
+
+   Domain servers in listed order:
+      NS3.A2HOSTING.COM
+      NS4.A2HOSTING.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=GUERINGATORZONE.COM&amp;prog_id=434063

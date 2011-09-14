@@ -1,0 +1,18 @@
+
+domain:   hamk.fi
+descr:    H&auml;meen ammatillisen korkeakoulutuksen kuntayhtym&auml;
+descr:    09961676
+address:  Kari Helenius
+address:  PL 230
+address:  13101
+address:  H&auml;meenlinna
+phone:    (03) 6464228
+status:   Granted
+created:  30.5.2000
+expires:  31.8.2012
+nserver: ns1.hamk.fi [OK] 195.148.152.2
+nserver: ns2.hamk.fi [OK] 195.148.152.4
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

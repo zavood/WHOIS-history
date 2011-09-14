@@ -5,30 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SQUARESPACE.COM.ZACCOLEMAN.COM
-SQUARESPACE.COM.WILLIECBBQ.COM
-SQUARESPACE.COM.WILDHORSECREEKPRESS.COM
-SQUARESPACE.COM.VALLEYCABLETV.COM
-SQUARESPACE.COM.THEWOMENSCOLONY.COM
-SQUARESPACE.COM.SAGESTUDIOSONLINE.COM
-SQUARESPACE.COM.PRINCESSTEQUILA.COM
-SQUARESPACE.COM.LJVANVUUREN.COM
-SQUARESPACE.COM.JDAVIDMCKENNEY.COM
-SQUARESPACE.COM.ISDESIGNZ.COM
-SQUARESPACE.COM.HEATHERGATTUCCIO.COM
-SQUARESPACE.COM.GAMER-INDEPTH.COM
-SQUARESPACE.COM.DERFWADMANOR.COM
-SQUARESPACE.COM.CANDICEJANEEN.COM
-SQUARESPACE.COM.BOBSTRAINZ.COM
-SQUARESPACE.COM.AU
-SQUARESPACE.COM.AMERICANPOLITICALREFORMATION.COM
-SQUARESPACE.COM
+   Domain Name: HB-YUDONG.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.PENDING-RENEWAL-DOMAIN.COM
+   Name Server: NS2.PENDING-RENEWAL-DOMAIN.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 15-aug-2011
+   Creation Date: 13-aug-2003
+   Expiration Date: 13-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:39:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,3 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
+
+Domain name: hb-yudong.com
+
+Registrant Contact:
+   jiubao
+   baoqing lv jiubao@jiubaosw.com
+   0317--2298989 fax: 0317--2651289
+   hebei renqiu
+   renqiu hebei 062550
+   cn
+
+Administrative Contact:
+   baoqing lv jiubao@jiubaosw.com
+   0317--2298989 fax: 0317--2651289
+   hebei renqiu
+   renqiu hebei 062550
+   cn
+
+Technical Contact:
+   baoqing lv jiubao@jiubaosw.com
+   0317--2298989 fax: 0317--2651289
+   hebei renqiu
+   renqiu hebei 062550
+   cn
+
+Billing Contact:
+   baoqing lv jiubao@jiubaosw.com
+   0317--2298989 fax: 0317--2651289
+   hebei renqiu
+   renqiu hebei 062550
+   cn
+
+DNS:
+ns1.4everdns.com
+ns2.4everdns.com
+
+Created: 2003-08-14
+Expires: 2011-08-14

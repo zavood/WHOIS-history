@@ -5,30 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SQUARESPACE.COM.ZACCOLEMAN.COM
-SQUARESPACE.COM.WILLIECBBQ.COM
-SQUARESPACE.COM.WILDHORSECREEKPRESS.COM
-SQUARESPACE.COM.VALLEYCABLETV.COM
-SQUARESPACE.COM.THEWOMENSCOLONY.COM
-SQUARESPACE.COM.SAGESTUDIOSONLINE.COM
-SQUARESPACE.COM.PRINCESSTEQUILA.COM
-SQUARESPACE.COM.LJVANVUUREN.COM
-SQUARESPACE.COM.JDAVIDMCKENNEY.COM
-SQUARESPACE.COM.ISDESIGNZ.COM
-SQUARESPACE.COM.HEATHERGATTUCCIO.COM
-SQUARESPACE.COM.GAMER-INDEPTH.COM
-SQUARESPACE.COM.DERFWADMANOR.COM
-SQUARESPACE.COM.CANDICEJANEEN.COM
-SQUARESPACE.COM.BOBSTRAINZ.COM
-SQUARESPACE.COM.AU
-SQUARESPACE.COM.AMERICANPOLITICALREFORMATION.COM
-SQUARESPACE.COM
+   Domain Name: HAMBRECANINA.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS15.SERVIDORESDNS.NET
+   Name Server: DNS16.SERVIDORESDNS.NET
+   Status: ok
+   Updated Date: 18-oct-2010
+   Creation Date: 29-sep-2003
+   Expiration Date: 29-sep-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:39:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,3 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Acceso restringido

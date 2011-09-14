@@ -1,0 +1,19 @@
+
+domain:   jkl.fi
+descr:    Jyv&auml;skyl&auml;n kaupunki
+descr:    01746664
+address:  Tietohallinto
+address:  Vapaudenkatu 28/PL 193
+address:  40101
+address:  JYV&Auml;SKYL&Auml;
+phone:    014-604396
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: nipa.jkl.fi [OK] 193.110.111.24
+nserver: ns1.jkl.fi [OK] 193.110.111.23
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

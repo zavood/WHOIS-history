@@ -5,30 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SQUARESPACE.COM.ZACCOLEMAN.COM
-SQUARESPACE.COM.WILLIECBBQ.COM
-SQUARESPACE.COM.WILDHORSECREEKPRESS.COM
-SQUARESPACE.COM.VALLEYCABLETV.COM
-SQUARESPACE.COM.THEWOMENSCOLONY.COM
-SQUARESPACE.COM.SAGESTUDIOSONLINE.COM
-SQUARESPACE.COM.PRINCESSTEQUILA.COM
-SQUARESPACE.COM.LJVANVUUREN.COM
-SQUARESPACE.COM.JDAVIDMCKENNEY.COM
-SQUARESPACE.COM.ISDESIGNZ.COM
-SQUARESPACE.COM.HEATHERGATTUCCIO.COM
-SQUARESPACE.COM.GAMER-INDEPTH.COM
-SQUARESPACE.COM.DERFWADMANOR.COM
-SQUARESPACE.COM.CANDICEJANEEN.COM
-SQUARESPACE.COM.BOBSTRAINZ.COM
-SQUARESPACE.COM.AU
-SQUARESPACE.COM.AMERICANPOLITICALREFORMATION.COM
-SQUARESPACE.COM
+   Domain Name: HDVSEATEK.COM
+   Registrar: NETREGISTRY PTY. LTD.
+   Whois Server: whois.netregistry.net
+   Referral URL: http://www.netregistry.com.au
+   Name Server: NS1.GDWEBHOSTING.NET.AU
+   Name Server: NS2.GDWEBHOSTING.NET.AU
+   Status: ok
+   Updated Date: 23-dec-2010
+   Creation Date: 22-dec-2006
+   Expiration Date: 22-dec-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

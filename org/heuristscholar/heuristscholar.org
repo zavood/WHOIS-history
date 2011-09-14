@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D126524963-LROR
+Domain Name:HEURISTSCHOLAR.ORG
+Created On:29-Jul-2006 06:19:43 UTC
+Last Updated On:11-Jun-2009 00:23:56 UTC
+Expiration Date:29-Jul-2014 06:19:43 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35639399af953982
+Registrant Name:Kim Jackson
+Registrant Organization:University of Sydney
+Registrant Street1:Archaeological Computing Laboratory
+Registrant Street2:Madsen Building F09
+Registrant Street3:
+Registrant City:University of Sydney
+Registrant State/Province:NSW
+Registrant Postal Code:2006
+Registrant Country:AU
+Registrant Phone:+1.61293517667
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kjackson@acl.arts.usyd.edu.au
+Admin ID:09659099afa25575
+Admin Name:Kim Jackson
+Admin Organization:University of Sydney
+Admin Street1:Archaeological Computing Laboratory
+Admin Street2:Madsen Building F09
+Admin Street3:
+Admin City:University of Sydney
+Admin State/Province:NSW
+Admin Postal Code:2006
+Admin Country:AU
+Admin Phone:+1.61293517667
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kjackson@acl.arts.usyd.edu.au
+Tech ID:34228999afc73938
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS164.A.REGISTER.COM
+Name Server:DNS094.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
