@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-nov-2010
    Expiration Date: 10-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:46:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:08:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 19:47:30 CEST
-# gmt time      : Monday, 12-Sep-2011 17:47:30 GMT
+# local time    : Wednesday, 14-Sep-2011 05:08:48 CEST
+# gmt time      : Wednesday, 14-Sep-2011 03:08:48 GMT
 # last modify   : Saturday, 27-Aug-2011 14:19:17 CEST
-# request from  : 192.168.248.3:11589
+# request from  : 192.168.248.1:2705
 
 Domain name: boblike.com
 
