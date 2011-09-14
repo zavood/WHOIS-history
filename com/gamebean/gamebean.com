@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JIMIAN.COM
+   Domain Name: GAMEBEAN.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS1.HICHINA.COM
-   Name Server: DNS2.HICHINA.COM
-   Name Server: DNS3.HICHINA.COM
+   Name Server: DNS7.HICHINA.COM
+   Name Server: DNS8.HICHINA.COM
    Status: ok
-   Updated Date: 15-apr-2011
-   Creation Date: 19-nov-2000
-   Expiration Date: 19-nov-2011
+   Updated Date: 27-jun-2011
+   Creation Date: 23-jul-2004
+   Expiration Date: 23-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:26:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:26:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,20 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... jimian.com
-Name Server ..................... dns1.hichina.com
-                                  dns2.hichina.com
-                                  dns3.hichina.com
-Registrant ID ................... hc097732784-cn
-Registrant Name ................. HiChina DomainAdmi
-Registrant Organization ......... Hebei cotton institute
-Registrant Address .............. Hepingxilu Road No. 598
-                                  Shijiazhuang city, Hebei 050051
-                                  CN
-Registrant City ................. Shijiazhuang
-Registrant Province/State ....... Hebei
-Registrant Postal Code .......... 050051
+Domain Name ..................... gamebean.com
+Name Server ..................... dns7.hichina.com
+                                  dns8.hichina.com
+Registrant ID ................... hc084689125-cn
+Registrant Name ................. Huimin Qi
+Registrant Organization ......... Ourpalm Co.,Ltd
+Registrant Address .............. A19,Baifu International Mansion, No.20 Gongtidonglu Str.
+Registrant City ................. &plusmn;&plusmn;&frac34;&copy;
+Registrant Province/State ....... &plusmn;&plusmn;&frac34;&copy;
+Registrant Postal Code .......... 100020
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.01064242299 -
-Registrant Fax .................. +86.01064254247 -
-Registrant Email ................ domainadmin@hichina.com
+Registrant Phone Number ......... +86.01065546196 -
+Registrant Fax .................. +86.01065546196 -
+Registrant Email ................ santiagochina@gmail.com
 Technical ID .................... tech
 Technical Name .................. tech
 Technical Organization .......... HiChina Web Solutions (Hong Kong) Limited
@@ -108,4 +104,4 @@ Billing Country Code ............ CN
 Billing Phone Number ............ +86.01064242299 -
 Billing Fax ..................... +86.01064254247 -
 Billing Email ................... domainadm@hichina.com
-Expiration Date ................. 2011-11-19 20:05:10
+Expiration Date ................. 2014-07-23 09:59:41
