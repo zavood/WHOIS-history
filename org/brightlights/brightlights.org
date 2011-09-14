@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2138640-LROR
+Domain Name:BRIGHTLIGHTS.ORG
+Created On:05-Nov-1997 05:00:00 UTC
+Last Updated On:12-Oct-2010 18:40:44 UTC
+Expiration Date:04-Nov-2011 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38643664-NSI
+Registrant Name:Bright Lights
+Registrant Organization:Bright Lights
+Registrant Street1:5561 S. 48th Street
+Registrant Street2:Suite 230
+Registrant Street3:
+Registrant City:Lincoln
+Registrant State/Province:NE
+Registrant Postal Code:68516
+Registrant Country:US
+Registrant Phone:+1.4024201115
+Registrant Phone Ext.:
+Registrant FAX:+1.4024205954
+Registrant FAX Ext.:
+Registrant Email:info@brightlights.org
+Admin ID:38643664-NSI
+Admin Name:Bright Lights
+Admin Organization:Bright Lights
+Admin Street1:5561 S. 48th Street
+Admin Street2:Suite 230
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:NE
+Admin Postal Code:68516
+Admin Country:US
+Admin Phone:+1.4024201115
+Admin Phone Ext.:
+Admin FAX:+1.4024205954
+Admin FAX Ext.:
+Admin Email:info@brightlights.org
+Tech ID:19864797-NSI
+Tech Name:Digital Ims, Inc.
+Tech Organization:Digital Ims, Inc.
+Tech Street1:1200 N St.
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Lincoln
+Tech State/Province:NE
+Tech Postal Code:68508
+Tech Country:US
+Tech Phone:+1.402437010
+Tech Phone Ext.:
+Tech FAX:+1.402437010
+Tech FAX Ext.:
+Tech Email:hostmaster@firespring.com
+Name Server:NS2.DIGITALIMS.NET
+Name Server:NS1.DIGITALIMS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

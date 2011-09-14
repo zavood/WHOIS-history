@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QWEST.NET.STIRLINGSHINE.COM
-QWEST.NET
+   Domain Name: WATERWARNING.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.NEOSPIRE.NET
+   Name Server: NS2.NEOSPIRE.NET
+   Status: clientTransferProhibited
+   Updated Date: 03-feb-2011
+   Creation Date: 02-feb-2000
+   Expiration Date: 02-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:13:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:14:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   Sun Water Systems, Inc.
+   6310 Midway Rd
+   Haltom City, TX 76117
+   US
+
+   Domain Name: WATERWARNING.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      Sun Water Systems, Inc.
+      CEO
+      6310 Midway Rd
+      Haltom City, TX 76117
+      US
+      (817)536-5250
+      (817)536-5286 [fax]
+      sales@aquasana.com
+
+   Domain created on 02-Feb-2000
+   Domain expires on 02-Feb-2020
+   Last updated on 17-Mar-2010
+
+   Domain servers in listed order:
+
+      NS1.NEOSPIRE.NET
+      NS2.NEOSPIRE.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IP-SOFT.NET
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS3.IP-SOFT.NET
-   Name Server: DNS4.IP-SOFT.NET
+   Domain Name: WANAKAVILLAS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.TECNO-SERVER.COM
+   Name Server: NS2.TECNO-SERVER.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 23-nov-1998
-   Expiration Date: 22-nov-2016
+   Status: clientUpdateProhibited
+   Updated Date: 11-may-2011
+   Creation Date: 27-apr-2010
+   Expiration Date: 27-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:14:20 UTC &lt;&lt;&lt;
 
@@ -51,72 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-
-   Registrant:
-      IPsoft Inc.
-      Mike Ghicas
-      17 State Street 14th Floor
-      New York, NY 10004
-      US
-      Phone: +1.8884776388
-      Email: hostmaster@ip-soft.net
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   Wanaka Villas Ltd
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: WANAKAVILLAS.COM
 
-   Domain Name: ip-soft.net
-      Created on..............: 2006-10-02
-      Expires on..............: 2016-11-22
-
-   Administrative Contact:
-      IPsoft Inc.
-      Mike Ghicas
-      17 State Street
-      New York, NY 10004
-      US
-      Phone: 212-440-5500
-      Email: hostmaster@ip-soft.net
+   Domain servers in listed order:
+      NS1.TECNO-SERVER.COM
+      NS2.TECNO-SERVER.COM
 
 
-   Technical  Contact:
-      Register.Com
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: 902-749-2701
-      Email: domain-registrar@register.com
-
-
-   DNS Servers:
-      dns4.ip-soft.net
-      dns3.ip-soft.net
-
-
-
-Visit AboutUs.org for more information about ip-soft.net
-
-&lt;A HREF=&quot;http://www.aboutus.org/ip-soft.net&quot;&gt;AboutUs: ip-soft.net&lt;/A&gt;
-
-Register your domain name at http://www.register.com
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WANAKAVILLAS.COM

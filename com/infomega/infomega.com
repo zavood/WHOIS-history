@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IP-SOFT.NET
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS3.IP-SOFT.NET
-   Name Server: DNS4.IP-SOFT.NET
+   Domain Name: INFOMEGA.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.INFOMEGA.COM
+   Name Server: NS2.INFOMEGA.COM
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 23-nov-1998
-   Expiration Date: 22-nov-2016
+   Updated Date: 14-feb-2008
+   Creation Date: 09-aug-1996
+   Expiration Date: 08-aug-2017
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:14:20 UTC &lt;&lt;&lt;
 
@@ -51,72 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-   Registrant:
-      IPsoft Inc.
-      Mike Ghicas
-      17 State Street 14th Floor
-      New York, NY 10004
-      US
-      Phone: +1.8884776388
-      Email: hostmaster@ip-soft.net
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: ip-soft.net
-      Created on..............: 2006-10-02
-      Expires on..............: 2016-11-22
-
-   Administrative Contact:
-      IPsoft Inc.
-      Mike Ghicas
-      17 State Street
-      New York, NY 10004
-      US
-      Phone: 212-440-5500
-      Email: hostmaster@ip-soft.net
-
-
-   Technical  Contact:
-      Register.Com
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: 902-749-2701
-      Email: domain-registrar@register.com
-
-
-   DNS Servers:
-      dns4.ip-soft.net
-      dns3.ip-soft.net
-
-
-
-Visit AboutUs.org for more information about ip-soft.net
-
-&lt;A HREF=&quot;http://www.aboutus.org/ip-soft.net&quot;&gt;AboutUs: ip-soft.net&lt;/A&gt;
-
-Register your domain name at http://www.register.com
-
+Whois Query: infomega.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 15:04:44 EDT 2011
+Reason Code: IE

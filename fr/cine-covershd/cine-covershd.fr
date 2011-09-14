@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cine-covershd.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cine-covershd.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ME607-FRNIC
+tech-c:      EM1358-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2890-FRNIC
+registrar:   VIADUC
+anniversary: 03/09
+created:     03/09/2010
+last-update: 03/09/2010
+source:      FRNIC
+
+ns-list:     NSL2890-FRNIC
+nserver:     ns1.infomaniak.ch
+nserver:     ns2.infomaniak.ch
+source:      FRNIC
+
+registrar:   VIADUC
+type:        Isp Option 1
+address:     14 Rue Mickael Faraday
+address:     BEAUCOUZE
+country:     FR
+phone:       +33 2 41 39 51 98
+fax-no:      +33 2 41 22 04 82
+e-mail:      info@viaduc.fr
+website:     http://www.nom-domaine.fr
+anonymous:   NO
+registered:  22/11/2006
+source:      FRNIC
+
+nic-hdl:     ME607-FRNIC
+type:        PERSON
+contact:     Mickael Esnault
+address:     Viaduc
+address:     14, rue Mickael Faraday
+address:     49070 Beaucouz&iquest;
+country:     FR
+phone:       +33 2 41 39 51 98
+e-mail:      info@viaduc.fr
+changed:     28/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EM1358-FRNIC
+type:        ROLE
+contact:     ESNAULT Mickael
+address:     VIADUC
+address:     48, rue Henri Hamelin
+address:     49000 Angers
+country:     FR
+e-mail:      info@viaduc.fr
+admin-c:     ME607-FRNIC
+tech-c:      ME607-FRNIC
+changed:     08/01/2008 info@viaduc.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     03/09/2010 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
