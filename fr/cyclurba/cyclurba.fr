@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cyclurba.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cyclurba.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     MJC139-FRNIC
+tech-c:      MJC139-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23184-FRNIC
+registrar:   ONLINE SAS
+anniversary: 09/06
+created:     17/10/2006
+last-update: 09/06/2011
+source:      FRNIC
+
+ns-list:     NSL23184-FRNIC
+nserver:     ns1.o2switch.net
+nserver:     ns2.o2switch.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     26/07/2011 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MJC139-FRNIC
+type:        ORGANIZATION
+contact:     Metivier Jean-Christophe
+address:     22, rue du roncelay
+address:     35510 Cesson Sevigne
+country:     FR
+phone:       +33 2 99 83 06 25
+e-mail:      metivier.235600@spamfree.bookmyname.com
+changed:     26/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

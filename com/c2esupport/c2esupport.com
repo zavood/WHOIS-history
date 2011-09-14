@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-may-2008
    Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:07:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:44:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,7 +52,36 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Error: Domain not found
+Domain: C2ESUPPORT.COM
+
+Registrant:
+	Exam-ple.com
+	Domain Admin
+	GPO Box 732
+	Hong Kong, HK 9 HK
+	Tel: +89.29292929
+	Fax:
+	admin@exam-ple.com
+
+Admin Contact:
+Billing Contact:
+Tech Contact:
+	Exam-ple.com
+	Domain Admin
+	GPO Box 732
+	Hong Kong, HK 9 HK
+	Tel: +89.29292929
+	Fax:
+	admin@exam-ple.com
+
+Nameservers:
+	A.EXAM-PLE.COM
+	B.EXAM-PLE.COM
+
+Created: 2008-05-28
+Updated: 2010-06-28
+Expires: 2012-05-28
+
 --
 
 Automated collection of data from this database is strictly prohibited.
