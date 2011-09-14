@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107223505-LROR
+Domain Name:SIGHTLINE.ORG
+Created On:20-Aug-2005 00:20:15 UTC
+Last Updated On:04-Dec-2009 07:07:36 UTC
+Expiration Date:20-Aug-2015 00:20:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31814612
+Registrant Name:Alan Durning
+Registrant Organization:Sightline Institute
+Registrant Street1:1402 Third Ave, Suite 500
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:Washington
+Registrant Postal Code:98101
+Registrant Country:US
+Registrant Phone:+1.2064471880
+Registrant Phone Ext.:
+Registrant FAX:+1.2064472270
+Registrant FAX Ext.:
+Registrant Email:alan@sightline.org
+Admin ID:CR31814614
+Admin Name:Christine Winckler
+Admin Organization:Sightline Institute
+Admin Street1:1402 3rd Ave Suite 500
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:Washington
+Admin Postal Code:98101
+Admin Country:US
+Admin Phone:+1.2064471880
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sightlinetest@gmail.com
+Tech ID:CR31814613
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS41.DOMAINCONTROL.COM
+Name Server:NS42.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
