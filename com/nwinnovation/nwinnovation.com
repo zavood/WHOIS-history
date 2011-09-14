@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETDNA-CDN.COM
+   Domain Name: NWINNOVATION.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NETDNA-CDN.COM
-   Name Server: NS2.NETDNA-CDN.COM
+   Name Server: NS09.DOMAINCONTROL.COM
+   Name Server: NS10.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 15-jun-2009
-   Expiration Date: 15-jun-2013
+   Updated Date: 30-jun-2010
+   Creation Date: 06-dec-2005
+   Expiration Date: 06-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:53:58 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Chris Ueland
+   SOCALTECH LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NETDNA-CDN.COM
+   Domain Name: NWINNOVATION.COM
 
    Domain servers in listed order:
-      NS1.NETDNA-CDN.COM
-      NS2.NETDNA-CDN.COM
+      NS09.DOMAINCONTROL.COM
+      NS10.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NETDNA-CDN.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NWINNOVATION.COM

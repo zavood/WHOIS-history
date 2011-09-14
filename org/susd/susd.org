@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11204762-LROR
+Domain Name:SUSD.ORG
+Created On:11-Oct-1999 22:56:08 UTC
+Last Updated On:23-Apr-2007 20:11:56 UTC
+Expiration Date:11-Oct-2012 22:56:07 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25691024-NSI
+Registrant Name:ScottsdaleUnifiedSchool District
+Registrant Organization:ScottsdaleUnifiedSchool District
+Registrant Street1:3811 N. 44th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Phoenix
+Registrant State/Province:AZ
+Registrant Postal Code:85018-5420
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jerry.mcdonald@SUSD.ORG
+Admin ID:38441309-NSI
+Admin Name:Elden Cozort
+Admin Organization:Scottsdale Unified School District
+Admin Street1:3811 N. 44th Street
+Admin Street2:
+Admin Street3:
+Admin City:Phoenix
+Admin State/Province:AZ
+Admin Postal Code:85018
+Admin Country:US
+Admin Phone:+1.480484627
+Admin Phone Ext.:
+Admin FAX:+1.480484629
+Admin FAX Ext.:
+Admin Email:ecozort@susd.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:SVL-ANS-01.INET.QWEST.NET
+Name Server:DCA-ANS-01.INET.QWEST.NET
+Name Server:NS1.SUSD.ORG
+Name Server:NS2.SUSD.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

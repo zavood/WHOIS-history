@@ -1,0 +1,31 @@
+Nome de dom&iacute;nio / Domain Name: uevora.pt
+Data de registo / Creation Date (dd/mm/yyyy): 25/03/1993
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 31/12/2011
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Universidade de Evora Portugal
+   Largo Colegiais Evora
+   Evora
+   7000-803 Evora
+   Email: si@uevora.pt
+
+Entidade Gestora / Billing Contact
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Email: secretaria@fccn.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   M&aacute;rio Jorge Nunes Filipe
+   Email: mario.filipe@gmail.com
+
+Nameserver Information
+   Nameserver: uevora.pt	NS	ns.uevora.pt.
+   Nameserver: uevora.pt	NS	ns2.uevora.pt.
+   Nameserver: uevora.pt	NS	ns02.fccn.pt.
+   Nameserver: ns.uevora.pt.	A	193.136.216.18
+   Nameserver: ns2.uevora.pt.	A	193.136.216.19
+   Nameserver: ns02.fccn.pt.	A	193.136.2.228
+   Nameserver: ns.uevora.pt.	AAAA	2001:690:2006:200::18
+   Nameserver: ns2.uevora.pt.	AAAA	2001:690:2006:200::19
+   Nameserver: ns02.fccn.pt.	AAAA	2001:690:a80:4001::200
+   Nameserver: uevora.pt DS 14DA39EC09E74EC450D7A7CB8D161F9DE2035E70 RSA/SHA-1 SHA-1 52276

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105871383-LROR
+Domain Name:123NEWS.ORG
+Created On:12-Mar-2005 02:13:07 UTC
+Last Updated On:06-Aug-2011 13:57:28 UTC
+Expiration Date:12-Mar-2012 02:13:07 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AMB56-GANDI
+Registrant Name:Arnaud Maurice Ben Attar
+Registrant Organization:AMBA
+Registrant Street1:107 boulevard National
+Registrant Street2:
+Registrant Street3:
+Registrant City:Marseille
+Registrant State/Province:
+Registrant Postal Code:13003
+Registrant Country:FR
+Registrant Phone:+33.951733885
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:8051010bad36c54441d6fca2b511289e-690423@contact.gandi.net
+Admin ID:AMB56-GANDI
+Admin Name:Arnaud Maurice Ben Attar
+Admin Organization:AMBA
+Admin Street1:107 boulevard National
+Admin Street2:
+Admin Street3:
+Admin City:Marseille
+Admin State/Province:
+Admin Postal Code:13003
+Admin Country:FR
+Admin Phone:+33.951733885
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:8051010bad36c54441d6fca2b511289e-690423@contact.gandi.net
+Tech ID:AMB56-GANDI
+Tech Name:Arnaud Maurice Ben Attar
+Tech Organization:AMBA
+Tech Street1:107 boulevard National
+Tech Street2:
+Tech Street3:
+Tech City:Marseille
+Tech State/Province:
+Tech Postal Code:13003
+Tech Country:FR
+Tech Phone:+33.951733885
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:8051010bad36c54441d6fca2b511289e-690423@contact.gandi.net
+Name Server:NS2.EVOLIX.NET
+Name Server:NS4.EVOLIX.NET
+Name Server:UFO.MASSALIEN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D35003390-LROR
+Domain Name:MIHS.ORG
+Created On:19-Sep-2000 17:03:19 UTC
+Last Updated On:20-Sep-2010 01:02:28 UTC
+Expiration Date:19-Sep-2020 17:03:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2805669-NSI
+Registrant Name:Patrick Bentley
+Registrant Organization:Maricopa Special Healthcare District
+Registrant Street1:2619 E Pierce St
+Registrant Street2:Attn -  IT Department
+Registrant Street3:
+Registrant City:PHOENIX
+Registrant State/Province:AZ
+Registrant Postal Code:85008
+Registrant Country:US
+Registrant Phone:+1.6023448888
+Registrant Phone Ext.:
+Registrant FAX:+1.6023448569
+Registrant FAX Ext.:
+Registrant Email:hostmaster@mihs.org
+Admin ID:2805670-NSI
+Admin Name:MIHS Hostmaster
+Admin Organization:Maricopa Special Healthcare District
+Admin Street1:2619 E Pierce St
+Admin Street2:Attn - IT Department
+Admin Street3:
+Admin City:PHOENIX
+Admin State/Province:AZ
+Admin Postal Code:85008
+Admin Country:US
+Admin Phone:+1.6023448888
+Admin Phone Ext.:
+Admin FAX:+1.6023448569
+Admin FAX Ext.:
+Admin Email:hostmaster@mihs.org
+Tech ID:2805670-NSI
+Tech Name:MIHS Hostmaster
+Tech Organization:Maricopa Special Healthcare District
+Tech Street1:2619 E Pierce St
+Tech Street2:Attn - IT Department
+Tech Street3:
+Tech City:PHOENIX
+Tech State/Province:AZ
+Tech Postal Code:85008
+Tech Country:US
+Tech Phone:+1.6023448888
+Tech Phone Ext.:
+Tech FAX:+1.6023448569
+Tech FAX Ext.:
+Tech Email:hostmaster@mihs.org
+Name Server:NS1.MIHS.ORG
+Name Server:NS2.MIHS.ORG
+Name Server:NS3.MIHS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
