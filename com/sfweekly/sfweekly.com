@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOOP.COM
+   Domain Name: SFWEEKLY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.NEWTIMES.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-feb-1996
-   Expiration Date: 03-feb-2013
+   Updated Date: 01-feb-2010
+   Creation Date: 09-mar-1995
+   Expiration Date: 10-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:34:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:33:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Village Voice Media Holdings, LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOOP.COM
+   Domain Name: SFWEEKLY.COM
 
    Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+      NS0.DNSMADEEASY.COM
+      NS1.NEWTIMES.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOOP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SFWEEKLY.COM
