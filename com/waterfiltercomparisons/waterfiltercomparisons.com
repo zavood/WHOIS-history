@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EIGBOX.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: CLICKME.CLICK2SITE.COM
-   Name Server: CLICKME2.CLICK2SITE.COM
+   Domain Name: WATERFILTERCOMPARISONS.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.NEOSPIRE.NET
+   Name Server: NS2.NEOSPIRE.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-oct-2010
-   Creation Date: 07-nov-2006
-   Expiration Date: 07-nov-2011
+   Updated Date: 07-dec-2010
+   Creation Date: 06-dec-2002
+   Expiration Date: 06-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   Sun Water Systems, Inc.
+   6310 Midway Rd
+   Haltom City, TX 76117
+   US
+
+   Domain Name: WATERFILTERCOMPARISONS.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      Sun Water Systems, Inc.
+      CEO
+      6310 Midway Rd
+      Haltom City, TX 76117
+      US
+      (817)536-5250
+      (817)536-5286 [fax]
+      sales@aquasana.com
+
+   Domain created on 06-Dec-2002
+   Domain expires on 06-Dec-2018
+   Last updated on 17-Mar-2010
+
+   Domain servers in listed order:
+
+      NS1.NEOSPIRE.NET
+      NS2.NEOSPIRE.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EIGBOX.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: CLICKME.CLICK2SITE.COM
-   Name Server: CLICKME2.CLICK2SITE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-oct-2010
-   Creation Date: 07-nov-2006
-   Expiration Date: 07-nov-2011
+   Domain Name: WORK2EXCITE.COM
+   Registrar: ENETICA PTY LTD
+   Whois Server: whois.enetica.com.au
+   Referral URL: http://www.enetica.com.au
+   Name Server: NS1.WEBCITY.COM.AU
+   Name Server: NS2.WEBCITY.COM.AU
+   Name Server: NS3.WEBCITY.COM.AU
+   Status: ok
+   Updated Date: 14-feb-2010
+   Creation Date: 25-feb-2008
+   Expiration Date: 25-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registrant Details:
+  Backpacking Around
+  PO Box 777
+  Willetton, WA 6955
+  AU
+
+  Domain Name: WORK2EXCITE.COM
+
+  Administrative Contact:
+    Wai, Jeffrey  webmaster@backpackingaround.com
+    PO Box 777
+    Willetton, WA 6955
+    AU
+    +61.414754193
+
+  Technical Contact:
+    Wai, Jeffrey  webmaster@backpackingaround.com
+    PO Box 777
+    Willetton, WA 6955
+    AU
+    +61.414754193
+
+  Name Server:  ns1.webcity.com.au
+  Name Server:  ns2.webcity.com.au
+  Name Server:  ns3.webcity.com.au
+
+  Registrar of Record: Enetica Pty Ltd
+  Record last updated on 2010-02-14
+  Record created on 2008-02-25
+  Record expires on 2012-02-26
+
+The information contained in this WHOIS database is provided by Enetica
+for information purposes only.  Enetica makes this information available
+on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
+accuracy.  In particular, please note that the WHOIS database is a
+contact database only - and lack of a whois record does not necessarily
+mean that the domain is available for registration.
+
+By submitting a WHOIS query, you agree to abide by our terms of use,
+and that you will use this data only for lawful purposes.  Our full
+terms and conditions can be accessed via the Enetica website at:
+http://www.enetica.com.au/whois/usage.html
+

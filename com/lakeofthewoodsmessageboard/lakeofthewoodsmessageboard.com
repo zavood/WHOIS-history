@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EIGBOX.NET
+   Domain Name: LAKEOFTHEWOODSMESSAGEBOARD.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: CLICKME.CLICK2SITE.COM
-   Name Server: CLICKME2.CLICK2SITE.COM
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-oct-2010
-   Creation Date: 07-nov-2006
-   Expiration Date: 07-nov-2011
+   Updated Date: 29-jun-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:51:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,19 +5,14 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EIGBOX.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: CLICKME.CLICK2SITE.COM
-   Name Server: CLICKME2.CLICK2SITE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-oct-2010
-   Creation Date: 07-nov-2006
-   Expiration Date: 07-nov-2011
+NS-NOT-IN-SERVICE.COM
+NS-NOT-IN-SERVICE.COM
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:47 UTC &lt;&lt;&lt;
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:51:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +47,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.

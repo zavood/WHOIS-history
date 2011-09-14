@@ -1,0 +1,128 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; marieclaire.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      marieclaire.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MCA71-FRNIC
+admin-c:     GR1812-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+tech-c:      IC445-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6267-FRNIC
+registrar:   INDOM
+anniversary: 10/03
+created:     11/09/1998
+last-update: 18/05/2009
+source:      FRNIC
+
+ns-list:     NSL6267-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     MCA71-FRNIC
+type:        ORGANIZATION
+contact:     MARIE CLAIRE ALBUM
+address:     10, boulevard des Freres Voisin
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 41 46 80 66
+fax-no:      +33 1 41 46 89 81
+e-mail:      graffini@gmc.tm.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1812-FRNIC
+type:        PERSON
+contact:     Genevieve Raffini
+address:     MARIE CLAIRE ALBUM
+address:     10, boulevard des Freres Voisin
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 41 46 88 88
+fax-no:      +33 1 41 46 89 81
+e-mail:      admin_dns@gmc.tm.fr
+changed:     29/01/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC445-FRNIC
+type:        PERSON
+contact:     Indomco Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     25/01/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

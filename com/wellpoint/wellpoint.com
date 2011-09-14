@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EIGBOX.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: CLICKME.CLICK2SITE.COM
-   Name Server: CLICKME2.CLICK2SITE.COM
+   Domain Name: WELLPOINT.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: MOSTL-CHE-IPNA-04.WELLPOINT.COM
+   Name Server: VARIC-DCS-IPNA-04.WELLPOINT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-oct-2010
-   Creation Date: 07-nov-2006
-   Expiration Date: 07-nov-2011
+   Updated Date: 05-apr-2011
+   Creation Date: 25-may-1996
+   Expiration Date: 24-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:47 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... wellpoint.com
+  Creation Date........ 1996-05-25
+  Registration Date.... 2011-04-06
+  Expiry Date.......... 2012-05-25
+  Organisation Name.... WellPoint, Inc.
+  Organisation Address. 120 Monument Circle
+  Organisation Address.
+  Organisation Address. Indianapolis
+  Organisation Address. 46204
+  Organisation Address. IN
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Administrator
+  Admin Address........ 120 Monument Circle
+  Admin Address........
+  Admin Address........ Indianapolis
+  Admin Address........ 46204
+  Admin Address........ IN
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain.administrator@wellpoint.com
+  Admin Phone.......... +1.6144338476
+  Admin Fax............
+
+Tech Name............ Domain Administrator
+  Tech Address......... 120 Monument Circle
+  Tech Address.........
+  Tech Address......... Indianapolis
+  Tech Address......... 46204
+  Tech Address......... IN
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.administrator@wellpoint.com
+  Tech Phone........... +1.6144338476
+  Tech Fax.............
+  Name Server.......... MOSTL-CHE-IPNA-04.WELLPOINT.COM
+  Name Server.......... VARIC-DCS-IPNA-04.WELLPOINT.COM
+
+
