@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107217867-LROR
+Domain Name:AEM2.ORG
+Created On:19-Aug-2005 10:56:51 UTC
+Last Updated On:28-Aug-2011 00:26:23 UTC
+Expiration Date:19-Aug-2012 10:56:51 UTC
+Sponsoring Registrar:Namebay (R54-LROR)
+Status:OK
+Registrant ID:AE65897-NBAY
+Registrant Name:Florent ROCHE
+Registrant Organization:AEM2
+Registrant Street1:27 boulevard Jean moulin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Marseille
+Registrant State/Province:
+Registrant Postal Code:13005
+Registrant Country:FR
+Registrant Phone:+33.491324543
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:roche.florent@sfr.fr
+Admin ID:AE65897-NBAY
+Admin Name:Florent ROCHE
+Admin Organization:AEM2
+Admin Street1:27 boulevard Jean moulin
+Admin Street2:
+Admin Street3:
+Admin City:Marseille
+Admin State/Province:
+Admin Postal Code:13005
+Admin Country:FR
+Admin Phone:+33.491324543
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:roche.florent@sfr.fr
+Tech ID:AE65897-NBAY
+Tech Name:Florent ROCHE
+Tech Organization:AEM2
+Tech Street1:27 boulevard Jean moulin
+Tech Street2:
+Tech Street3:
+Tech City:Marseille
+Tech State/Province:
+Tech Postal Code:13005
+Tech Country:FR
+Tech Phone:+33.491324543
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:roche.florent@sfr.fr
+Name Server:NS2.INFOMANIAK.CH
+Name Server:NS1.INFOMANIAK.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
