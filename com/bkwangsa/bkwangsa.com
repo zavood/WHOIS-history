@@ -5,28 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKADNS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA9.AKADNS.NET
-   Name Server: EUR1.AKADNS.NET
-   Name Server: USE3.AKADNS.NET
-   Name Server: USE4.AKADNS.NET
-   Name Server: USW2.AKADNS.NET
-   Name Server: ZA.AKADNS.ORG
-   Name Server: ZB.AKADNS.ORG
-   Name Server: ZC.AKADNS.ORG
-   Name Server: ZD.AKADNS.ORG
-   Name Server: ZE.AKADNS.NET
-   Name Server: ZF.AKADNS.NET
+   Domain Name: BKWANGSA.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS.CAFE24.COM
+   Name Server: NS2.CAFE24.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 12-may-1999
-   Expiration Date: 12-may-2017
+   Updated Date: 27-dec-2010
+   Creation Date: 15-jan-2003
+   Expiration Date: 15-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:38:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:37:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,5 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Welcome to GABIA.COM's WHOIS data service.
+
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Reseller : Simplex Internet Inc.
+
+Registrant : yung sook do
+	26-7 Banggi-ri Samnam-myeon Ulju-gun ULSAN
+	(689813)
+
+	Domain Name:  BKWANGSA.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
+
+	Administrative, Technical, Billing Contact:
+		yung sook do	botaam@hanmail.net
+		26-7 Banggi-ri Samnam-myeon Ulju-gun ULSAN
+		(Tel) 055-372-7087	(fax)
+
+	Record created on 	JANUARY   15, 2003
+	Record expires on 	JANUARY   15, 2012
+	Record last updated on 	DECEMBER  28, 2010
+
+	Domain servers in listed order:
+
+	ns.cafe24.com
+	ns2.cafe24.com
+
+Register a domain name at www.gabia.com
