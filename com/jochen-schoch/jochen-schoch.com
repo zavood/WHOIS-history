@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOSHCOOK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS41.DOMAINCONTROL.COM
-   Name Server: NS42.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: JOCHEN-SCHOCH.COM
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS5.KASSERVER.COM
+   Name Server: NS6.KASSERVER.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-aug-2011
-   Creation Date: 19-apr-2000
-   Expiration Date: 13-aug-2012
+   Updated Date: 01-may-2011
+   Creation Date: 30-apr-2006
+   Expiration Date: 30-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:14:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:13:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
+domain:          jochen-schoch.com
+nserver:         ns5.kasserver.com
+nserver:         ns6.kasserver.com
+created:         2006-04-30
+updated:         2008-05-04
 
-Registrant:
-   JOSH FRANK WM. COOK
+owner-id:        JS313450
+owner-org:
+owner-name:      Jochen Schoch
+owner-address:   Hauffstrasse 12/1
+owner-pcode:     88400
+owner-city:      Biberach
+owner-country:   DE
+owner-phone:     +49 735 128981
+owner-email:     jochen@schochs.de
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: JOSHCOOK.COM
+admin-id:        JS313450
+admin-org:
+admin-name:      Jochen Schoch
+admin-address:   Hauffstrasse 12/1
+admin-pcode:     88400
+admin-city:      Biberach
+admin-country:   DE
+admin-phone:     +49 735 128981
+admin-email:     jochen@schochs.de
 
-   Domain servers in listed order:
-      NS41.DOMAINCONTROL.COM
-      NS42.DOMAINCONTROL.COM
+tech-id:         WK1126
+tech-org:        Neue Medien Muennich GmbH
+tech-name:       Werner Kaltofen
+tech-address:    Hauptstr. 68
+tech-pcode:      02742
+tech-city:       Friedersdorf
+tech-country:    DE
+tech-phone:      +49 35872 35310
+tech-fax:        +49 35872 35330
+tech-email:      hostmaster@all-inkl.com
 
+billing-id:      WK1126
+billing-org:     Neue Medien Muennich GmbH
+billing-name:    Werner Kaltofen
+billing-address: Hauptstr. 68
+billing-pcode:   02742
+billing-city:    Friedersdorf
+billing-country: DE
+billing-phone:   +49 35872 35310
+billing-fax:     +49 35872 35330
+billing-email:   hostmaster@all-inkl.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JOSHCOOK.COM
