@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NFRANCE.COM
+   Domain Name: DIINTERNET.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SLCONSEIL.COM
-   Name Server: NS2.SLCONSEIL.COM
-   Name Server: NS3.SLCONSEIL.COM
-   Status: ok
-   Updated Date: 04-nov-2010
-   Creation Date: 04-dec-1997
-   Expiration Date: 03-dec-2011
+   Name Server: NS1.DIINTERNET.COM
+   Name Server: NS2.DIINTERNET.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-mar-2011
+   Creation Date: 26-apr-2007
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:06:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,61 +53,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- NFrance Conseil
- 4 rue Kennedy
- Toulouse, FR 31000
- FR
+ Bedman Forever
+ Setiabudi
+ Jakarta
+ Jakarta, DKI Jakarta 16514
+ ID
 
- Domain name: NFRANCE.COM
+ Domain name: DIINTERNET.COM
 
 
  Administrative Contact:
-    Pierre, Sintes  root@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Forever, Bedman  arief.r@indosiar.com
+    Setiabudi
+    Jakarta
+    Jakarta, DKI Jakarta 16514
+    ID
+    5705851
  Technical Contact:
-    Vellin, Philippe  dns@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Forever, Bedman  arief.r@indosiar.com
+    Setiabudi
+    Jakarta
+    Jakarta, DKI Jakarta 16514
+    ID
+    5705851
 
 
  Registration Service Provider:
-    NFrance Conseil
-    +33.534-455-500
-    http://www.nfrance.com
-    _________________________________________
-
-    Hebergeur Internet professionnel sur mesure
-    Serveurs dedies opensource
-    entierement infogeres
-    _________________________________________
-
-    Professional internet custom hosting provider
-    Fully managed opensource dedicated servers
-    _________________________________________
+    NamaDomain.com, info@namadomain.com
+    +62-21-666 747 33
+    +62-21-666 747 29 (fax)
+    http://www.namadomain.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 04-Nov-2010.
- Record expires on 03-Dec-2011.
- Record created on 04-Dec-1997.
+ Record last updated on 01-Jul-2011.
+ Record expires on 26-Apr-2012.
+ Record created on 26-Apr-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SLCONSEIL.COM
-    NS3.SLCONSEIL.COM
-    NS2.SLCONSEIL.COM
+    NS2.DIINTERNET.COM   202.158.14.133
+    NS1.DIINTERNET.COM   202.158.49.133
 
 
- Domain status: ok
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

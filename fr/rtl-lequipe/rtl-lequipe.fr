@@ -1,0 +1,126 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; rtl-lequipe.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      rtl-lequipe.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LRDS9-FRNIC
+admin-c:     JLB562-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+tech-c:      IC366-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6057-FRNIC
+registrar:   INDOM
+anniversary: 23/06
+created:     23/06/2008
+last-update: 18/05/2009
+source:      FRNIC
+
+ns-list:     NSL6057-FRNIC
+nserver:     ns1.bce.lu
+nserver:     ns2.bce-lu.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     LRDS9-FRNIC
+type:        ORGANIZATION
+contact:     La radio du sport et de l information
+address:     22, rue Bayard
+address:     75008 Paris
+country:     FR
+phone:       +33 1 40 70 40 70
+e-mail:      fabrice.nozieres@rtl.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JLB562-FRNIC
+type:        PERSON
+contact:     Jean-Luc Blosse
+address:     SNC L EQUIPE
+address:     4, rue Rouget de Lisle
+address:     92137 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 40 10 31 83
+fax-no:      +33 1 40 10 35 15
+e-mail:      resocipa@ed-amaury.fr
+changed:     24/08/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC366-FRNIC
+type:        PERSON
+contact:     Indomco Contact
+address:     Indomco.com Domain Names
+address:     44, rue Nd des Victoires
+address:     75002 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     11/07/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107192384-LROR
+Domain Name:POUYASAZAN.ORG
+Created On:15-Aug-2005 20:54:51 UTC
+Last Updated On:05-Aug-2011 20:36:35 UTC
+Expiration Date:15-Aug-2012 20:54:51 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:d10d5958343f8185
+Registrant Name:Seyed Ali  Khadem Khorasani
+Registrant Organization:Pouyasazan IT Solutions - Services
+Registrant Street1:No 24, First Floor, Sangtarashha Complex
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dubai
+Registrant State/Province:DUBAI
+Registrant Postal Code:62585
+Registrant Country:AE
+Registrant Phone:+971.557100633
+Registrant Phone Ext.:
+Registrant FAX:+971.557100633
+Registrant FAX Ext.:
+Registrant Email:pouyasazan@gmail.com
+Admin ID:d10d5958343f8185
+Admin Name:Seyed Ali  Khadem Khorasani
+Admin Organization:Pouyasazan IT Solutions - Services
+Admin Street1:No 24, First Floor, Sangtarashha Complex
+Admin Street2:
+Admin Street3:
+Admin City:Dubai
+Admin State/Province:DUBAI
+Admin Postal Code:62585
+Admin Country:AE
+Admin Phone:+971.557100633
+Admin Phone Ext.:
+Admin FAX:+971.557100633
+Admin FAX Ext.:
+Admin Email:pouyasazan@gmail.com
+Tech ID:d10d5958343f8185
+Tech Name:Seyed Ali  Khadem Khorasani
+Tech Organization:Pouyasazan IT Solutions - Services
+Tech Street1:No 24, First Floor, Sangtarashha Complex
+Tech Street2:
+Tech Street3:
+Tech City:Dubai
+Tech State/Province:DUBAI
+Tech Postal Code:62585
+Tech Country:AE
+Tech Phone:+971.557100633
+Tech Phone Ext.:
+Tech FAX:+971.557100633
+Tech FAX Ext.:
+Tech Email:pouyasazan@gmail.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

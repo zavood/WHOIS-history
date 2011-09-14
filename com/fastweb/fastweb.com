@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITESTABLE.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS309.WEBSITEWELCOME.COM
-   Name Server: NS310.WEBSITEWELCOME.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: FASTWEB.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.TMPW.NET
+   Name Server: NS2.TMPW.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 06-aug-2002
-   Expiration Date: 06-aug-2012
+   Updated Date: 31-jan-2011
+   Creation Date: 27-apr-1995
+   Expiration Date: 28-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:06:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... fastweb.com
+  Creation Date........ 1995-04-27
+  Registration Date.... 2011-02-01
+  Expiry Date.......... 2012-04-29
+  Organisation Name.... FastWeb, Inc.
+  Organisation Address. 444 North Michigan Avenue
+  Organisation Address. Suite 3100
+  Organisation Address. Chicago
+  Organisation Address. 60611
+  Organisation Address. IL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Monster Worldwide, Inc.
+  Admin Address........ 5 Clock Tower Place, Suite 500
+  Admin Address........
+  Admin Address........ Maynard
+  Admin Address........ 01754
+  Admin Address........ MA
+  Admin Address........ UNITED STATES
+  Admin Email.......... hostmaster-admin@tmpw.net
+  Admin Phone.......... +1.9784618000
+  Admin Fax............ +1.9784618100
+
+Tech Name............ Monster Worldwide, Inc.
+  Tech Address......... 5 Clock Tower Place, Suite 500
+  Tech Address.........
+  Tech Address......... Maynard
+  Tech Address......... 01754
+  Tech Address......... MA
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@tmpw.net
+  Tech Phone........... +1.9784618000
+  Tech Fax............. +1.9784618100
+  Name Server.......... NS1.TMPW.NET
+  Name Server.......... NS2.TMPW.NET
 
 
-Registrant:
-   Site Stable Solutions
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SITESTABLE.NET
-
-   Domain servers in listed order:
-      NS309.WEBSITEWELCOME.COM
-      NS310.WEBSITEWELCOME.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SITESTABLE.NET

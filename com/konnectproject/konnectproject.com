@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NFRANCE.COM
+   Domain Name: KONNECTPROJECT.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SLCONSEIL.COM
-   Name Server: NS2.SLCONSEIL.COM
-   Name Server: NS3.SLCONSEIL.COM
-   Status: ok
-   Updated Date: 04-nov-2010
-   Creation Date: 04-dec-1997
-   Expiration Date: 03-dec-2011
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 29-aug-2011
+   Creation Date: 10-sep-2009
+   Expiration Date: 10-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:06:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,61 +54,56 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- NFrance Conseil
- 4 rue Kennedy
- Toulouse, FR 31000
- FR
+ Contact Privacy Inc. Customer 0126801970
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: NFRANCE.COM
+ Domain name: KONNECTPROJECT.COM
 
 
  Administrative Contact:
-    Pierre, Sintes  root@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Contact Privacy Inc. Customer 0126801970,   konnectproject.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Vellin, Philippe  dns@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Contact Privacy Inc. Customer 0126801970,   konnectproject.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    NFrance Conseil
-    +33.534-455-500
-    http://www.nfrance.com
-    _________________________________________
-
-    Hebergeur Internet professionnel sur mesure
-    Serveurs dedies opensource
-    entierement infogeres
-    _________________________________________
-
-    Professional internet custom hosting provider
-    Fully managed opensource dedicated servers
-    _________________________________________
+    Netfirms, Inc., support@netfirms.com
+    +1.8663174678
+    +1.7812722915 (fax)
+    http://netfirms.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 04-Nov-2010.
- Record expires on 03-Dec-2011.
- Record created on 04-Dec-1997.
+ Record last updated on 29-Aug-2011.
+ Record expires on 11-Sep-2012.
+ Record created on 11-Sep-2009.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SLCONSEIL.COM
-    NS3.SLCONSEIL.COM
-    NS2.SLCONSEIL.COM
+    NS1.NETFIRMS.COM
+    NS2.NETFIRMS.COM
 
 
- Domain status: ok
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; nom-domaine.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nom-domaine.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ER500-FRNIC
+admin-c:     ME155-FRNIC
+tech-c:      EM1358-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2171-FRNIC
+registrar:   VIADUC
+anniversary: 20/05
+created:     19/04/2005
+last-update: 02/04/2011
+source:      FRNIC
+
+ns-list:     NSL2171-FRNIC
+nserver:     ns1.nom-domaine.fr [46.105.50.13]
+nserver:     ns2.nom-domaine.fr [88.190.231.25]
+source:      FRNIC
+
+registrar:   VIADUC
+type:        Isp Option 1
+address:     14 Rue Mickael Faraday
+address:     BEAUCOUZE
+country:     FR
+phone:       +33 2 41 39 51 98
+fax-no:      +33 2 41 22 04 82
+e-mail:      info@viaduc.fr
+website:     http://www.nom-domaine.fr
+anonymous:   NO
+registered:  22/11/2006
+source:      FRNIC
+
+nic-hdl:     ME155-FRNIC
+type:        PERSON
+contact:     Mickael Esnault
+address:     EUROPE RESEAUX
+address:     4, rue de la Chambre aux Deniers
+address:     49000 Angers
+country:     FR
+phone:       +33 2 41 22 04 80
+e-mail:      info@europe-reseaux.com
+changed:     14/05/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ER500-FRNIC
+type:        ORGANIZATION
+contact:     Europe Reseaux
+address:     4, rue de la Chambre aux Denier
+address:     49000 Angers
+country:     FR
+phone:       +33 2 41 22 04 80
+e-mail:      info@europe-reseaux.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     EM1358-FRNIC
+type:        ROLE
+contact:     ESNAULT Mickael
+address:     VIADUC
+address:     48, rue Henri Hamelin
+address:     49000 Angers
+country:     FR
+e-mail:      info@viaduc.fr
+admin-c:     ME607-FRNIC
+tech-c:      ME607-FRNIC
+changed:     08/01/2008 info@viaduc.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

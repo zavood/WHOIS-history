@@ -1,0 +1,23 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       141.in-addr.arpa
+
+organisation: Administered by RIPE NCC
+
+nserver:      ns3.nic.fr.
+nserver:      pri.authdns.ripe.net.
+nserver:      sec1.apnic.net.
+nserver:      sec3.apnic.net.
+nserver:      sns-pb.isc.org.
+nserver:      tinnie.arin.net.
+ds-rdata:     26219 5 1 5a776a5ec6a081564187af7fbb742d8deb030b41
+ds-rdata:     26219 5 2 9717dbf969a8c675a897c08d90b4ee95381777c89e707de310e6589f213b92fa
+
+whois:        whois.ripe.net
+
+changed:      1993-05
+changed:      2011-04-13
+source:       IANA
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROPANEGASALERT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jan-2011
-   Creation Date: 17-dec-2010
-   Expiration Date: 17-dec-2011
+   Domain Name: GIGA-PULSA.COM
+   Registrar: CV. JOGJACAMP
+   Whois Server: whois.resellercamp.com
+   Referral URL: http://www.resellercamp.com
+   Name Server: DNS1.MASTERWEBNET.COM
+   Name Server: DNS2.MASTERWEBNET.COM
+   Name Server: DNS3.MASTERWEB.NET
+   Name Server: DNS4.MASTERWEB.NET
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 02-apr-2009
+   Expiration Date: 02-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:07:25 UTC &lt;&lt;&lt;
 
@@ -54,40 +53,79 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+IDwebhost.com
+Best Service at Affordable Cost
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name: GIGA-PULSA.COM
 
 Registrant:
-   Domains by Proxy, Inc.
+    Giga Computer
+    Maliki        (hardi_giga@yahoo.co.id)
+    Jl. Patimura 52 Tuban
+    Tuban
+    Jawa Timur,62391
+    ID
+    Tel. +62.3567056711
+    Fax. +62.620000000
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PROPANEGASALERT.COM
+Creation Date: 03-Apr-2009
+Expiration Date: 03-Apr-2012
 
-   Domain servers in listed order:
-      NS51.1AND1.COM
-      NS52.1AND1.COM
+Domain servers in listed order:
+    dns1.masterwebnet.com
+    dns2.masterwebnet.com
+    dns3.masterweb.net
+    dns4.masterweb.net
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=PROPANEGASALERT.COM
+Administrative Contact:
+    Giga Computer
+    Maliki        (hardi_giga@yahoo.co.id)
+    Jl. Patimura 52 Tuban
+    Tuban
+    Jawa Timur,62391
+    ID
+    Tel. +62.3567056711
+    Fax. +62.620000000
+
+Technical Contact:
+    Giga Computer
+    Maliki        (hardi_giga@yahoo.co.id)
+    Jl. Patimura 52 Tuban
+    Tuban
+    Jawa Timur,62391
+    ID
+    Tel. +62.3567056711
+    Fax. +62.620000000
+
+Billing Contact:
+    Giga Computer
+    Maliki        (hardi_giga@yahoo.co.id)
+    Jl. Patimura 52 Tuban
+    Tuban
+    Jawa Timur,62391
+    ID
+    Tel. +62.3567056711
+    Fax. +62.620000000
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is CV. Jogjacamp.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
+
+
+
+

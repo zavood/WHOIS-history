@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NFRANCE.COM
+   Domain Name: BATTLECOMP.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SLCONSEIL.COM
-   Name Server: NS2.SLCONSEIL.COM
-   Name Server: NS3.SLCONSEIL.COM
+   Name Server: NS1.HOSTICA.COM
+   Name Server: NS2.HOSTICA.COM
+   Name Server: NS3.HOSTICA.COM
    Status: ok
-   Updated Date: 04-nov-2010
-   Creation Date: 04-dec-1997
-   Expiration Date: 03-dec-2011
+   Updated Date: 25-may-2011
+   Creation Date: 26-apr-2010
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:07:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,58 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- NFrance Conseil
- 4 rue Kennedy
- Toulouse, FR 31000
- FR
+ Tarra Designs Group
+ 2746 Pleasant Ave. S
+ Minneapolis, MN 55408
+ US
 
- Domain name: NFRANCE.COM
+ Domain name: BATTLECOMP.COM
 
 
  Administrative Contact:
-    Pierre, Sintes  root@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Mehrkens, Tarra  tarra@tarradesigns.com
+    2746 Pleasant Ave. S
+    Minneapolis, MN 55408
+    US
+    +1.9529945230
  Technical Contact:
-    Vellin, Philippe  dns@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
+    Hostica, Hostica  billing@hostica.com
+    21143 Hawthorne Blvd. #442
+    Torrance, CA 90503-4615
+    US
+    +1.3102120190    Fax: +1.8667684101
 
 
 
  Registration Service Provider:
-    NFrance Conseil
-    +33.534-455-500
-    http://www.nfrance.com
-    _________________________________________
-
-    Hebergeur Internet professionnel sur mesure
-    Serveurs dedies opensource
-    entierement infogeres
-    _________________________________________
-
-    Professional internet custom hosting provider
-    Fully managed opensource dedicated servers
-    _________________________________________
+    Hostica.Com, support@hostica.com
+    +1.3102120190
+    +1.8667684101 (fax)
+    http://www.hostica.com
+    Please contact support@hostica.com for help regarding your Domain
+    Registration.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 04-Nov-2010.
- Record expires on 03-Dec-2011.
- Record created on 04-Dec-1997.
+ Record last updated on 25-May-2011.
+ Record expires on 26-Apr-2012.
+ Record created on 26-Apr-2010.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SLCONSEIL.COM
-    NS3.SLCONSEIL.COM
-    NS2.SLCONSEIL.COM
+    NS1.HOSTICA.COM
+    NS3.HOSTICA.COM
+    NS2.HOSTICA.COM
 
 
  Domain status: ok

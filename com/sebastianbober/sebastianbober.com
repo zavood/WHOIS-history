@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITESTABLE.NET
+   Domain Name: SEBASTIANBOBER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS309.WEBSITEWELCOME.COM
-   Name Server: NS310.WEBSITEWELCOME.COM
+   Name Server: FNS1.42.PL
+   Name Server: FNS2.42.PL
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 06-aug-2002
-   Expiration Date: 06-aug-2012
+   Updated Date: 13-apr-2011
+   Creation Date: 08-jul-2008
+   Expiration Date: 08-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:06:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Site Stable Solutions
+   Sebastian Bober Photography
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SITESTABLE.NET
+   Domain Name: SEBASTIANBOBER.COM
 
    Domain servers in listed order:
-      NS309.WEBSITEWELCOME.COM
-      NS310.WEBSITEWELCOME.COM
+      FNS1.42.PL
+      FNS2.42.PL
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SITESTABLE.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=SEBASTIANBOBER.COM

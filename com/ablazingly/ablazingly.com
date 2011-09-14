@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NFRANCE.COM
+   Domain Name: ABLAZINGLY.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SLCONSEIL.COM
-   Name Server: NS2.SLCONSEIL.COM
-   Name Server: NS3.SLCONSEIL.COM
+   Name Server: NS1.SERVAGE.NET
+   Name Server: NS2.SERVAGE.NET
+   Name Server: NS3.SERVAGE.NET
+   Name Server: NS4.SERVAGE.NET
    Status: ok
-   Updated Date: 04-nov-2010
-   Creation Date: 04-dec-1997
-   Expiration Date: 03-dec-2011
+   Updated Date: 26-feb-2011
+   Creation Date: 25-feb-2004
+   Expiration Date: 25-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:07:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,61 +54,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- NFrance Conseil
- 4 rue Kennedy
- Toulouse, FR 31000
- FR
+ Contact Privacy Inc. Customer 0116699930
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: NFRANCE.COM
+ Domain name: ABLAZINGLY.COM
 
 
  Administrative Contact:
-    Pierre, Sintes  root@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Contact Privacy Inc. Customer 0116699930,   ablazingly.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Vellin, Philippe  dns@nfrance.com
-    4 rue Kennedy
-    Toulouse, FR 31000
-    FR
-    +33 534455500    Fax: +33 534455507
-
+    Contact Privacy Inc. Customer 0116699930,   ablazingly.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    NFrance Conseil
-    +33.534-455-500
-    http://www.nfrance.com
-    _________________________________________
-
-    Hebergeur Internet professionnel sur mesure
-    Serveurs dedies opensource
-    entierement infogeres
-    _________________________________________
-
-    Professional internet custom hosting provider
-    Fully managed opensource dedicated servers
-    _________________________________________
+    Servage.net Hosting, support@servage.net
+    +49 46116098359 (fax)
+    http://www.servage.net/
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 04-Nov-2010.
- Record expires on 03-Dec-2011.
- Record created on 04-Dec-1997.
+ Record last updated on 26-Feb-2011.
+ Record expires on 25-Feb-2012.
+ Record created on 25-Feb-2004.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.SLCONSEIL.COM
-    NS3.SLCONSEIL.COM
-    NS2.SLCONSEIL.COM
+    NS2.SERVAGE.NET
+    NS3.SERVAGE.NET
+    NS1.SERVAGE.NET
+    NS4.SERVAGE.NET
 
 
  Domain status: ok
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining
