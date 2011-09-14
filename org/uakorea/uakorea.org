@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90742127-LROR
+Domain Name:UAKOREA.ORG
+Created On:29-Sep-2002 22:46:30 UTC
+Last Updated On:22-Sep-2010 14:25:53 UTC
+Expiration Date:29-Sep-2011 22:46:30 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:NN-1190122152473
+Registrant Name:Korean Graduate
+Registrant Organization:Graduate, Korean
+Registrant Street1:2nd fl.
+Registrant Street2:
+Registrant Street3:
+Registrant City:ALBANY
+Registrant State/Province:NY
+Registrant Postal Code:12206
+Registrant Country:US
+Registrant Phone:+1.5184892157
+Registrant Phone Ext.:
+Registrant FAX:+1.5184892157
+Registrant FAX Ext.:
+Registrant Email:mjkim_eony@hotmail.com
+Admin ID:NN-1190122156686
+Admin Name:Korean Graduate
+Admin Organization:Graduate, Korean
+Admin Street1:2nd fl.
+Admin Street2:
+Admin Street3:
+Admin City:ALBANY
+Admin State/Province:NY
+Admin Postal Code:12206
+Admin Country:US
+Admin Phone:+1.5184892157
+Admin Phone Ext.:
+Admin FAX:+1.5184892157
+Admin FAX Ext.:
+Admin Email:mjkim_eony@hotmail.com
+Tech ID:NN-1190122160322
+Tech Name:Domain Tech
+Tech Organization:ValueWeb
+Tech Street1:3250 W. Commercial Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Ft. Lauderdale
+Tech State/Province:FL
+Tech Postal Code:33309
+Tech Country:US
+Tech Phone:+1.9543348000
+Tech Phone Ext.:
+Tech FAX:+1.9543348000
+Tech FAX Ext.:
+Tech Email:domaintech@valueweb.net
+Name Server:NS.VALUEWEB.NET
+Name Server:NS2.VALUEWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
