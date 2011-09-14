@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MANBUTTERED.COM
+   Domain Name: HAIRCAREKNOWLEDGE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
-   Status: clientTransferProhibited
-   Updated Date: 24-jun-2011
-   Creation Date: 22-jul-2009
-   Expiration Date: 22-jul-2012
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 11-aug-2011
+   Creation Date: 23-aug-2008
+   Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about manbuttered.com
-&lt;a href=&quot;http://www.aboutus.org/manbuttered.com&quot;&gt;AboutUs: manbuttered.com&lt;/a&gt;
+Visit AboutUs.org for more information about haircareknowledge.com
+&lt;a href=&quot;http://www.aboutus.org/haircareknowledge.com&quot;&gt;AboutUs: haircareknowledge.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: manbuttered.com
+Domain name: haircareknowledge.com
 
 Registrant Contact:
-   ATM Group Enterprise
-   Domain Manager ()
+
+   bing lin ()
 
    Fax:
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
-   US
+   2384 BROCKBERRY CRES
+   OAKVILLE, ONT L6M 4T2
+   CA
 
 Administrative Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
-   US
+
+   bing lin (support@haircareknowledge.com)
+   +1.9058453326
+   Fax:
+   2384 BROCKBERRY CRES
+   OAKVILLE, ONT L6M 4T2
+   CA
 
 Technical Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
-   US
 
-Status: Locked
+   bing lin (support@haircareknowledge.com)
+   +1.9058453326
+   Fax:
+   2384 BROCKBERRY CRES
+   OAKVILLE, ONT L6M 4T2
+   CA
+
+Status: Active
 
 Name Servers:
-   ns1.nationalnet.com
-   ns2.nationalnet.com
+   NS25.DOMAINCONTROL.COM
+   NS26.DOMAINCONTROL.COM
 
-Creation date: 22 Jul 2009 20:43:44
-Expiration date: 22 Jul 2012 20:43:44
+Creation date: 23 Aug 2008 16:42:45
+Expiration date: 23 Aug 2012 16:42:45
 
 
 

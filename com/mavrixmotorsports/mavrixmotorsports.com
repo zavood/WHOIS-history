@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MANBUTTERED.COM
+   Domain Name: MAVRIXMOTORSPORTS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
-   Status: clientTransferProhibited
-   Updated Date: 24-jun-2011
-   Creation Date: 22-jul-2009
-   Expiration Date: 22-jul-2012
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: ok
+   Updated Date: 16-jul-2009
+   Creation Date: 09-jul-2009
+   Expiration Date: 09-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +56,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about manbuttered.com
-&lt;a href=&quot;http://www.aboutus.org/manbuttered.com&quot;&gt;AboutUs: manbuttered.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: manbuttered.com
+Domain name: mavrixmotorsports.com
 
 Registrant Contact:
-   ATM Group Enterprise
-   Domain Manager ()
+   Mavrix Motorsports
+   Ray Malley ()
 
    Fax:
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   21 Dunning Rd.
+   Middletown, NY 10940
    US
 
 Administrative Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   Mavrix Motorsports
+   Ray Malley (info@mavrixmotorsports.com)
+   +1.8453442479
+   Fax:
+   21 Dunning Rd.
+   Middletown, NY 10940
    US
 
 Technical Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   PowerSports Network
+   Host Master (hostmaster@powersportsnetwork.com)
+   +1.8005560314
+   Fax: +1.2622467930
+   N56 W24660 North Corporate Circle
+   Sussex,  53089
    US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   ns1.nationalnet.com
-   ns2.nationalnet.com
+   PDNS1.ULTRADNS.NET
+   PDNS2.ULTRADNS.NET
+   PDNS3.ULTRADNS.ORG
+   PDNS4.ULTRADNS.ORG
+   PDNS5.ULTRADNS.INFO
+   PDNS6.ULTRADNS.CO.UK
 
-Creation date: 22 Jul 2009 20:43:44
-Expiration date: 22 Jul 2012 20:43:44
+Creation date: 09 Jul 2009 19:59:10
+Expiration date: 09 Jul 2012 19:59:00
 
 
 

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GREATNORTHERNPOPCORN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.DOMAINCONTROL.COM
-   Name Server: NS36.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-jan-2011
-   Creation Date: 26-may-2009
-   Expiration Date: 26-may-2016
+   Domain Name: FILESLINK.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS23.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS55.DNSEVER.COM
+   Status: ok
+   Updated Date: 13-jun-2011
+   Creation Date: 16-jun-2007
+   Expiration Date: 16-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:44:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name           : fileslink.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   Domains by Proxy, Inc.
+	company       :fileslink
+	name          :waitfor mr
+	e-mail        :linn2000@gmail.com
+	address1      :korea
+	address2      :korea
+	city          :GYEONGGI-DO
+	zipcode       :472-846
+	country       :KR
+	phone         :--
+	fax           :--
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GREATNORTHERNPOPCORN.COM
+Administrative Contact:
+	name          :waitfor mr
+	e-mail        :linn2000@gmail.com
+	address1      :korea
+	address2      :korea
+	city          :GYEONGGI-DO
+	zipcode       :472-846
+	country       :KR
+	phone         :--
+	fax           :--
 
-   Domain servers in listed order:
-      NS35.DOMAINCONTROL.COM
-      NS36.DOMAINCONTROL.COM
+Technical Contact:
+	name          :waitfor mr
+	e-mail        :linn2000@gmail.com
+	address1      :korea
+	address2      :
+	city          :GYEONGGI-DO
+	zipcode       :472-846
+	country       :KR
+	phone         :--
+	fax           :--
+
+Domain servers in listed order:
+		ns19.dnsever.com  [121.254.154.149]
+		ns23.dnsever.com  [121.254.154.153]
+		ns55.dnsever.com  [121.254.154.185]
+		ns231.dnsever.com  [125.141.231.179]
+		ns259.dnsever.com  [211.233.59.20]
+
+Created on 2007-06-16
+Updated on 2011-06-13
+Expires on 2013-06-16&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GREATNORTHERNPOPCORN.COM

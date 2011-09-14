@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GREATNORTHERNPOPCORN.COM
+   Domain Name: CCMGRENTALS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.DOMAINCONTROL.COM
-   Name Server: NS36.DOMAINCONTROL.COM
+   Name Server: NS17.DOMAINCONTROL.COM
+   Name Server: NS18.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-jan-2011
-   Creation Date: 26-may-2009
-   Expiration Date: 26-may-2016
+   Updated Date: 25-jun-2011
+   Creation Date: 02-mar-2010
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,15 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GREATNORTHERNPOPCORN.COM
+   Domain Name: CCMGRENTALS.COM
 
    Domain servers in listed order:
-      NS35.DOMAINCONTROL.COM
-      NS36.DOMAINCONTROL.COM
+      NS17.DOMAINCONTROL.COM
+      NS18.DOMAINCONTROL.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GREATNORTHERNPOPCORN.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=CCMGRENTALS.COM

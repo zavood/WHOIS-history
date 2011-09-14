@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MANBUTTERED.COM
+   Domain Name: MOHOST.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Name Server: NS.MOHOST.COM
+   Name Server: NS2.MOHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 24-jun-2011
-   Creation Date: 22-jul-2009
-   Expiration Date: 22-jul-2012
+   Updated Date: 08-apr-2011
+   Creation Date: 10-apr-2000
+   Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:43:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about manbuttered.com
-&lt;a href=&quot;http://www.aboutus.org/manbuttered.com&quot;&gt;AboutUs: manbuttered.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: manbuttered.com
+Domain name: mohost.com
 
 Registrant Contact:
-   ATM Group Enterprise
-   Domain Manager ()
+   CGI Productions
+   Andrew Deal ()
 
    Fax:
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   2461 Santa Monica Bl 400
+   Santa Monica, CA 90404
    US
 
 Administrative Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   CGI Productions
+   Andrew Deal (andrew@cgipro.com)
+   +1.3608591174
+   Fax: +1.3603977863
+   16420 McGillivray Bl. Ste 103-556
+   K44
+   Vancouver, WA 98683-3461
    US
 
 Technical Contact:
-   ATM Group Enterprise
-   Domain Manager (webmaster@atmgroupent.com)
-   +1.7028510458
-   Fax: +1.7028510458
-   2756 North  Green valley parkway
-   # 403
-   Henderson, NV 89014
+   CGI Productions
+   Andrew Deal (andrew@cgipro.com)
+   +1.3608591174
+   Fax: +1.3603977863
+   16420 McGillivray Bl. Ste 103-556
+   K44
+   Vancouver, WA 98683-3461
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.nationalnet.com
-   ns2.nationalnet.com
+   ns.mohost.com
+   ns2.mohost.com
 
-Creation date: 22 Jul 2009 20:43:44
-Expiration date: 22 Jul 2012 20:43:44
+Creation date: 10 Apr 2000 05:15:41
+Expiration date: 10 Apr 2012 05:15:00
 
 
 
