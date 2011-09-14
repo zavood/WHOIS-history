@@ -5,34 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BLUEHOST.COM.VIVIANWEAVER.COM
-BLUEHOST.COM.VIVAVENEZIA.COM
-BLUEHOST.COM.THEVELVETBAGLADY.COM
-BLUEHOST.COM.TECHLIFEWORLD.COM
-BLUEHOST.COM.SEAEXPLORERSSCUBA.COM
-BLUEHOST.COM.SCUBANICA.COM
-BLUEHOST.COM.SABANOVIC.COM
-BLUEHOST.COM.RYANESTESPHOTOS.COM
-BLUEHOST.COM.REDZENDEN.COM
-BLUEHOST.COM.MOBILE-PHONES-SHOP.NET
-BLUEHOST.COM.MOBILE-PHONES-SHOP.COM
-BLUEHOST.COM.KEITHTHURMAN.COM
-BLUEHOST.COM.HIGHLANDCREEKSHELTIES.COM
-BLUEHOST.COM.HEARTSOFTHAILAND.COM
-BLUEHOST.COM.DGENERATION.NET
-BLUEHOST.COM.DESIGNTECHTONICS.NET
-BLUEHOST.COM.BROWNROOFSYSTEM.COM
-BLUEHOST.COM.BELLOBABYROOMS.COM
-BLUEHOST.COM.ALAZAMAH.COM
-BLUEHOST.COM.5DOLLARSTOCKPHOTO.COM
-BLUEHOST.COM
-BLUEHOST.COM
+   Domain Name: CBBANK.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.ORNG.TWTELECOM.NET
+   Name Server: NS1.PTLD.TWTELECOM.NET
+   Status: clientTransferProhibited
+   Updated Date: 02-nov-2010
+   Creation Date: 06-dec-1996
+   Expiration Date: 05-dec-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: cbbank.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 15:21:09 EDT 2011
+Reason Code: IE

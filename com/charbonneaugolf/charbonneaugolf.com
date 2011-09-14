@@ -5,34 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BLUEHOST.COM.VIVIANWEAVER.COM
-BLUEHOST.COM.VIVAVENEZIA.COM
-BLUEHOST.COM.THEVELVETBAGLADY.COM
-BLUEHOST.COM.TECHLIFEWORLD.COM
-BLUEHOST.COM.SEAEXPLORERSSCUBA.COM
-BLUEHOST.COM.SCUBANICA.COM
-BLUEHOST.COM.SABANOVIC.COM
-BLUEHOST.COM.RYANESTESPHOTOS.COM
-BLUEHOST.COM.REDZENDEN.COM
-BLUEHOST.COM.MOBILE-PHONES-SHOP.NET
-BLUEHOST.COM.MOBILE-PHONES-SHOP.COM
-BLUEHOST.COM.KEITHTHURMAN.COM
-BLUEHOST.COM.HIGHLANDCREEKSHELTIES.COM
-BLUEHOST.COM.HEARTSOFTHAILAND.COM
-BLUEHOST.COM.DGENERATION.NET
-BLUEHOST.COM.DESIGNTECHTONICS.NET
-BLUEHOST.COM.BROWNROOFSYSTEM.COM
-BLUEHOST.COM.BELLOBABYROOMS.COM
-BLUEHOST.COM.ALAZAMAH.COM
-BLUEHOST.COM.5DOLLARSTOCKPHOTO.COM
-BLUEHOST.COM
-BLUEHOST.COM
+   Domain Name: CHARBONNEAUGOLF.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: MNS01.DOMAINCONTROL.COM
+   Name Server: MNS02.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 20-may-2008
+   Creation Date: 07-oct-1999
+   Expiration Date: 07-oct-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,3 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
+
+
+Domain name: charbonneaugolf.com
+
+Registrant Contact:
+      Chris    Siders
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      3e8e819e182fdc2f@private-contact.com
+
+Administrative Contact:
+      Chris    Siders
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      el6cg0wjzpqsixs4@private-contact.com
+
+Technical Contact:
+      Chris    Siders
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      imxenz1eijjq8o3w@private-contact.com
+
+Update date: 2008-05-20
+Expiration date: 2011-10-07
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

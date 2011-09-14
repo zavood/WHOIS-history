@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11602517-LROR
+Domain Name:BRONSONLIBRARY.ORG
+Created On:22-Oct-1999 20:10:28 UTC
+Last Updated On:26-Oct-2009 17:39:41 UTC
+Expiration Date:22-Oct-2012 20:10:28 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20018007-NSI
+Registrant Name:Silas Bronson Library
+Registrant Organization:Silas Bronson Library
+Registrant Street1:267 Grand Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Waterbury
+Registrant State/Province:CT
+Registrant Postal Code:06702
+Registrant Country:US
+Registrant Phone:+1.2035748222
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:emcsweeney@BRONSONLIBRARY.ORG
+Admin ID:21091080-NSI
+Admin Name:Silas Bronson Library
+Admin Organization:Silas Bronson Library
+Admin Street1:267 Grand Street
+Admin Street2:
+Admin Street3:
+Admin City:Waterbury
+Admin State/Province:CT
+Admin Postal Code:06702
+Admin Country:US
+Admin Phone:+1.2035748222
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:emcsweeney@BRONSONLIBRARY.ORG
+Tech ID:21091080-NSI
+Tech Name:Silas Bronson Library
+Tech Organization:Silas Bronson Library
+Tech Street1:267 Grand Street
+Tech Street2:
+Tech Street3:
+Tech City:Waterbury
+Tech State/Province:CT
+Tech Postal Code:06702
+Tech Country:US
+Tech Phone:+1.2035748222
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:emcsweeney@BRONSONLIBRARY.ORG
+Name Server:NS2.WSPI2.COM
+Name Server:NS1.QSCEND.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

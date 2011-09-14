@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69746256-LROR
+Domain Name:CONSUMERREVIEW.ORG
+Created On:21-Apr-2001 00:23:25 UTC
+Last Updated On:26-Oct-2009 21:51:27 UTC
+Expiration Date:21-Apr-2014 00:23:25 UTC
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:8591646c7cced743
+Registrant Name:Domain Administrator
+Registrant Organization:ConsumerREVIEW.com, a Division of E-centives, Inc.
+Registrant Street1:2121 S. El Camino Real
+Registrant Street2:Ste. 400
+Registrant Street3:
+Registrant City:San Mateo
+Registrant State/Province:CA
+Registrant Postal Code:94403-1832
+Registrant Country:US
+Registrant Phone:+650.2128600
+Registrant Phone Ext.:
+Registrant FAX:+650.3416013
+Registrant FAX Ext.:
+Registrant Email:admin@e-centives.com
+Admin ID:1229171c7ce14226
+Admin Name:John Hoffman
+Admin Organization:ConsumerREVIEW.com, a Division of E-centives, Inc.
+Admin Street1:6901 Rockledge Dr.
+Admin Street2:6th Floor
+Admin Street3:
+Admin City:Bethesda
+Admin State/Province:MD
+Admin Postal Code:20817
+Admin Country:US
+Admin Phone:+240.3336100
+Admin Phone Ext.:
+Admin FAX:+240.3336250
+Admin FAX Ext.:
+Admin Email:admin@e-centives.com
+Tech ID:0067665c7cfae600
+Tech Name:John Hoffman
+Tech Organization:ConsumerREVIEW.com, a Division of E-centives, Inc.
+Tech Street1:6901 Rockledge Dr.
+Tech Street2:6th Floor
+Tech Street3:
+Tech City:Bethesda
+Tech State/Province:MD
+Tech Postal Code:20817
+Tech Country:US
+Tech Phone:+240.3336100
+Tech Phone Ext.:
+Tech FAX:+240.3336250
+Tech FAX Ext.:
+Tech Email:tech@e-centives.com
+Name Server:NS1.SAVVIS.NET
+Name Server:NS3.SAVVIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

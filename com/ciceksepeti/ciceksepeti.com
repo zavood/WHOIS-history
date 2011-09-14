@@ -5,34 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BLUEHOST.COM.VIVIANWEAVER.COM
-BLUEHOST.COM.VIVAVENEZIA.COM
-BLUEHOST.COM.THEVELVETBAGLADY.COM
-BLUEHOST.COM.TECHLIFEWORLD.COM
-BLUEHOST.COM.SEAEXPLORERSSCUBA.COM
-BLUEHOST.COM.SCUBANICA.COM
-BLUEHOST.COM.SABANOVIC.COM
-BLUEHOST.COM.RYANESTESPHOTOS.COM
-BLUEHOST.COM.REDZENDEN.COM
-BLUEHOST.COM.MOBILE-PHONES-SHOP.NET
-BLUEHOST.COM.MOBILE-PHONES-SHOP.COM
-BLUEHOST.COM.KEITHTHURMAN.COM
-BLUEHOST.COM.HIGHLANDCREEKSHELTIES.COM
-BLUEHOST.COM.HEARTSOFTHAILAND.COM
-BLUEHOST.COM.DGENERATION.NET
-BLUEHOST.COM.DESIGNTECHTONICS.NET
-BLUEHOST.COM.BROWNROOFSYSTEM.COM
-BLUEHOST.COM.BELLOBABYROOMS.COM
-BLUEHOST.COM.ALAZAMAH.COM
-BLUEHOST.COM.5DOLLARSTOCKPHOTO.COM
-BLUEHOST.COM
-BLUEHOST.COM
+   Domain Name: CICEKSEPETI.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 26-aug-2011
+   Creation Date: 04-dec-2002
+   Expiration Date: 04-dec-2017
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:31:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,3 +57,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
+
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Ciceksepeti internet hizmetleri anonim sirketi
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CICEKSEPETI.COM
+
+   Domain servers in listed order:
+      NS1.MYDYNDNS.ORG
+      NS2.MYDYNDNS.ORG
+      NS3.MYDYNDNS.ORG
+      NS4.MYDYNDNS.ORG
+      NS5.MYDYNDNS.ORG
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CICEKSEPETI.COM

@@ -5,32 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BLUEHOST.COM.VIVIANWEAVER.COM
-BLUEHOST.COM.VIVAVENEZIA.COM
-BLUEHOST.COM.THEVELVETBAGLADY.COM
-BLUEHOST.COM.TECHLIFEWORLD.COM
-BLUEHOST.COM.SEAEXPLORERSSCUBA.COM
-BLUEHOST.COM.SCUBANICA.COM
-BLUEHOST.COM.SABANOVIC.COM
-BLUEHOST.COM.RYANESTESPHOTOS.COM
-BLUEHOST.COM.REDZENDEN.COM
-BLUEHOST.COM.MOBILE-PHONES-SHOP.NET
-BLUEHOST.COM.MOBILE-PHONES-SHOP.COM
-BLUEHOST.COM.KEITHTHURMAN.COM
-BLUEHOST.COM.HIGHLANDCREEKSHELTIES.COM
-BLUEHOST.COM.HEARTSOFTHAILAND.COM
-BLUEHOST.COM.DGENERATION.NET
-BLUEHOST.COM.DESIGNTECHTONICS.NET
-BLUEHOST.COM.BROWNROOFSYSTEM.COM
-BLUEHOST.COM.BELLOBABYROOMS.COM
-BLUEHOST.COM.ALAZAMAH.COM
-BLUEHOST.COM.5DOLLARSTOCKPHOTO.COM
-BLUEHOST.COM
-BLUEHOST.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: TELEWEBLS.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 22-sep-2008
+   Creation Date: 30-nov-2006
+   Expiration Date: 30-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:30:29 UTC &lt;&lt;&lt;
 
@@ -67,3 +56,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Too many lookups from this IP today. See you tomorrow.
