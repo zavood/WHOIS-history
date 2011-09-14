@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 3WARE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: SHERWOODPARKCHAMBER.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS71.DOMAINCONTROL.COM
+   Name Server: NS72.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 04-sep-1996
-   Expiration Date: 30-aug-2021
+   Status: clientUpdateProhibited
+   Updated Date: 02-may-2011
+   Creation Date: 11-mar-2002
+   Expiration Date: 11-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:35:55 UTC &lt;&lt;&lt;
 
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... 3ware.com
-  Creation Date........ 1996-09-04
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2021-08-31
-  Organisation Name.... LSI Corporation
-  Organisation Address. 1621 Barber Lane
-  Organisation Address.
-  Organisation Address. Milpitas
-  Organisation Address. 95035
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Domain Name Manager
-  Admin Address........ LSI Corporation
-  Admin Address........ 1621 Barber Lane
-  Admin Address........ Milpitas
-  Admin Address........ 95035
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... gns-domain@lsi.com
-  Admin Phone.......... +408.4334357
-  Admin Fax............
-
-Tech Name............ Domain Name Manager
-  Tech Address......... LSI Corporation
-  Tech Address......... 1621 Barber Lane
-  Tech Address......... Milpitas
-  Tech Address......... 95035
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... gns-domain@lsi.com
-  Tech Phone........... +408.4334357
-  Tech Fax.............
-  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   Sherwood Park Chamber of Commerce
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: SHERWOODPARKCHAMBER.COM
+
+   Domain servers in listed order:
+      NS71.DOMAINCONTROL.COM
+      NS72.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SHERWOODPARKCHAMBER.COM

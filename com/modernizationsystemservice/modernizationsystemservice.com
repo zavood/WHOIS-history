@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 3WARE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 04-sep-1996
-   Expiration Date: 30-aug-2021
+   Domain Name: MODERNIZATIONSYSTEMSERVICE.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.GOOGLE.COM
+   Name Server: NS2.GOOGLE.COM
+   Status: ok
+   Updated Date: 02-jul-2011
+   Creation Date: 19-jun-2011
+   Expiration Date: 19-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:35:55 UTC &lt;&lt;&lt;
 
@@ -52,40 +52,44 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... 3ware.com
-  Creation Date........ 1996-09-04
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2021-08-31
-  Organisation Name.... LSI Corporation
-  Organisation Address. 1621 Barber Lane
-  Organisation Address.
-  Organisation Address. Milpitas
-  Organisation Address. 95035
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
 
-Admin Name........... Domain Name Manager
-  Admin Address........ LSI Corporation
-  Admin Address........ 1621 Barber Lane
-  Admin Address........ Milpitas
-  Admin Address........ 95035
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... gns-domain@lsi.com
-  Admin Phone.......... +408.4334357
-  Admin Fax............
+   Domain Name: MODERNIZATIONSYSTEMSERVICE.COM
+      Reseller..............: DNMaster LLC
+      Created on............: 20 Jun 2011 06:58:13 EST
+      Expires on............: 20 Jun 2012 06:58:13 EST
+      Record last updated on: 20 Jun 2011 06:58:13 EST
+      Status................: ACTIVE
 
-Tech Name............ Domain Name Manager
-  Tech Address......... LSI Corporation
-  Tech Address......... 1621 Barber Lane
-  Tech Address......... Milpitas
-  Tech Address......... 95035
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... gns-domain@lsi.com
-  Tech Phone........... +408.4334357
-  Tech Fax.............
-  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
 
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      Florence Leclair (ID00467207)
+      Schouwvegersstraat 26
+      Brugge, West Flanders 8000
+      BE
+      Phone: +32.477906878
+      Email: grasp@mail13.com
+
+
+   Domain servers in listed order:
+
+      NS1.GOOGLE.COM
+      NS2.GOOGLE.COM
 
