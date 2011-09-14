@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPULARMEDIA.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-aug-2011
-   Creation Date: 19-aug-2005
-   Expiration Date: 19-aug-2012
+   Domain Name: E7942.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS.BITNPIXEL.CO.KR
+   Name Server: NS7863410012.EXPIRE10111212084478636.KR
+   Status: ok
+   Updated Date: 01-jul-2010
+   Creation Date: 25-jun-2004
+   Expiration Date: 25-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:54:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:55:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name           : e7942.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   Aaron Ferguson
+	company       :hey-jin yang
+	name          :heyjin yang
+	e-mail        :hjyangg@hanmail.net
+	address1      :Gwonseon-dong Suwon Si Gwonseon-gu
+	address2      :1067-1
+	city          :GYEONGGI-DO
+	zipcode       :441-825
+	country       :
+	phone         :010-9595-7642
+	fax           :
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: POPULARMEDIA.NET
+Administrative Contact:
+	name          :heyjin yang
+	e-mail        :hjyangg@hanmail.net
+	address1      :Gwonseon-dong Suwon Si Gwonseon-gu
+	address2      :1067-1
+	city          :GYEONGGI-DO
+	zipcode       :441-825
+	country       :
+	phone         :010-9595-7642
+	fax           :
 
-   Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
+Technical Contact:
+	name          :heyjin yang
+	e-mail        :hjyangg@hanmail.net
+	address1      :Gwonseon-dong Suwon Si Gwonseon-gu
+	address2      :1067-1
+	city          :GYEONGGI-DO
+	zipcode       :441-825
+	country       :
+	phone         :010-9595-7642
+	fax           :
+
+Domain servers in listed order:
+		ns.bitnpixel.co.kr  [210.127.253.76]
+		ns.newssl.com  [210.127.253.75]
+
+Created on 2004-06-25
+Updated on 2010-07-01
+Expires on 2015-06-25&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=POPULARMEDIA.NET

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83351025-LROR
+Domain Name:NO-LOG.ORG
+Created On:05-Feb-2002 13:06:34 UTC
+Last Updated On:22-Jan-2011 09:08:14 UTC
+Expiration Date:05-Feb-2012 13:06:34 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GN1-GANDI
+Registrant Name:GlobeNet NOC
+Registrant Organization:Association GlobeNet
+Registrant Street1:21ter, rue Voltaire
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75011
+Registrant Country:FR
+Registrant Phone:+33.143703051
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:b04be1161d6b19798df6f65619021460-gn1@contact.gandi.net
+Admin ID:GN1-GANDI
+Admin Name:GlobeNet NOC
+Admin Organization:Association GlobeNet
+Admin Street1:21ter, rue Voltaire
+Admin Street2:
+Admin Street3:
+Admin City:PARIS
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.143703051
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:b04be1161d6b19798df6f65619021460-gn1@contact.gandi.net
+Tech ID:GN1-GANDI
+Tech Name:GlobeNet NOC
+Tech Organization:Association GlobeNet
+Tech Street1:21ter, rue Voltaire
+Tech Street2:
+Tech Street3:
+Tech City:PARIS
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.143703051
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:b04be1161d6b19798df6f65619021460-gn1@contact.gandi.net
+Name Server:KARL.GLOBENET.ORG
+Name Server:NS3.GLOBENET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-may-1999
    Expiration Date: 19-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:14:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:54:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about NAVIGANTCONSULTING.COM
-&lt;a href=&quot;http://www.aboutus.org/NAVIGANTCONSULTING.COM&quot;&gt;AboutUs: NAVIGANTCONSULTING.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-Navigant Consulting, Inc.
-   30 S. Wacker Dr.
-   Suite 3400
-   Chicago, IL 60606
-   US
-
-   Domain Name: NAVIGANTCONSULTING.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact:
-      Navigant Consulting, Inc.		hostmaster@navigantconsulting.com
-      30 S. Wacker Dr.
-      Suite 3400
-      Chicago, IL 60606
-      US
-      312-583-5700 fax: 312-583-5701
-
-   Technical Contact:
-      Network Solutions, LLC.		customerservice@networksolutions.com
-      13861 Sunrise Valley Drive
-      Herndon, VA 20171
-      US
-      1-888-642-9675 fax: 571-434-4620
-
-
-   Record expires on 19-May-2013.
-   Record created on 19-May-1999.
-   Database last updated on 10-Sep-2011 20:04:56 EDT.
-
-   Domain servers in listed order:
-
-   NS-01.NAVIGANTCONSULTING.COM 206.41.50.10
-   NS-02.NAVIGANTCONSULTING.COM 206.41.51.10
-
-
+Whois Query: navigantconsulting.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 18:44:15 EDT 2011
+Reason Code: IE

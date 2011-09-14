@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152854494-LROR
+Domain Name:NACBURO.ORG
+Created On:30-May-2008 10:30:46 UTC
+Last Updated On:17-Apr-2011 15:44:58 UTC
+Expiration Date:30-May-2018 10:30:46 UTC
+Sponsoring Registrar:Dynadot, LLC (R1266-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C-57077
+Registrant Name:Nacburo
+Registrant Organization:Nacional Bureau of Investigation of Ukraine
+Registrant Street1:Kiev, Kreshyatik 26
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kiev
+Registrant State/Province:
+Registrant Postal Code:04001
+Registrant Country:UA
+Registrant Phone:+1.0637382375
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nacburo2@ukr.net
+Admin ID:C-57077
+Admin Name:Nacburo
+Admin Organization:Nacional Bureau of Investigation of Ukraine
+Admin Street1:Kiev, Kreshyatik 26
+Admin Street2:
+Admin Street3:
+Admin City:Kiev
+Admin State/Province:
+Admin Postal Code:04001
+Admin Country:UA
+Admin Phone:+1.0637382375
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nacburo2@ukr.net
+Tech ID:C-57077
+Tech Name:Nacburo
+Tech Organization:Nacional Bureau of Investigation of Ukraine
+Tech Street1:Kiev, Kreshyatik 26
+Tech Street2:
+Tech Street3:
+Tech City:Kiev
+Tech State/Province:
+Tech Postal Code:04001
+Tech Country:UA
+Tech Phone:+1.0637382375
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nacburo2@ukr.net
+Name Server:NS1.DYNADOT.COM
+Name Server:NS2.DYNADOT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
