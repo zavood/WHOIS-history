@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWNASCAR.COM
+   Domain Name: ZUMBANIZE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BLUEGRAVITY.COM
-   Name Server: NS2.BLUEGRAVITY.COM
+   Name Server: NS1.AWARDSPACE.COM
+   Name Server: NS2.AWARDSPACE.COM
+   Name Server: NS3.AWARDSPACE.COM
+   Name Server: NS4.AWARDSPACE.COM
    Status: clientTransferProhibited
-   Updated Date: 28-dec-2010
-   Creation Date: 17-jan-2001
-   Expiration Date: 17-jan-2012
+   Updated Date: 17-oct-2010
+   Creation Date: 06-oct-2009
+   Expiration Date: 06-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:49:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +54,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wwwnascar.com
-&lt;a href=&quot;http://www.aboutus.org/wwwnascar.com&quot;&gt;AboutUs: wwwnascar.com&lt;/a&gt;
+Visit AboutUs.org for more information about zumbanize.com
+&lt;a href=&quot;http://www.aboutus.org/zumbanize.com&quot;&gt;AboutUs: zumbanize.com&lt;/a&gt;
 
 
-Domain name: wwwnascar.com
+Domain name: zumbanize.com
 
 Registrant Contact:
 
-   David Webb ()
+   Sarah Rydbom ()
 
    Fax:
-   P.O. Box 2923
-   Wylie, TX 75098
+   2701 Rossiter lane
+   Vancouver, wa 98661
    US
 
 Administrative Contact:
 
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Sarah Rydbom (srydbom@comcast.net)
+   +1.3605976902
+   Fax:
+   2701 Rossiter lane
+   Vancouver, wa 98661
    US
 
 Technical Contact:
 
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Sarah Rydbom (srydbom@comcast.net)
+   +1.3605976902
+   Fax:
+   2701 Rossiter lane
+   Vancouver, wa 98661
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.bluegravity.com
-   ns2.bluegravity.com
+   ns1.awardspace.com
+   ns2.awardspace.com
+   ns3.awardspace.com
+   ns4.awardspace.com
 
-Creation date: 17 Jan 2001 11:44:09
-Expiration date: 17 Jan 2012 11:44:00
+Creation date: 06 Oct 2009 21:50:27
+Expiration date: 06 Oct 2011 21:50:27
 
 
 

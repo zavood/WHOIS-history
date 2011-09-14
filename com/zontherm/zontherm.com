@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WORDPRESS.COM.RASTABIZ.COM
-WORDPRESS.COM.JUSTLOVEANYWAY.COM
-WORDPRESS.COM.INVESTCHICAGONORTHSHORE.COM
-WORDPRESS.COM.BRANNYBOILSOVER.COM
-WORDPRESS.COM
+   Domain Name: ZONTHERM.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.ALPSHOST.COM
+   Name Server: NS2.ALPSHOST.COM
+   Status: clientTransferProhibited
+   Updated Date: 11-jul-2011
+   Creation Date: 12-aug-2008
+   Expiration Date: 12-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:49:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... zontherm.com
+  Creation Date........ 2008-08-12
+  Registration Date.... 2008-08-12
+  Expiry Date.......... 2012-08-12
+  Organisation Name.... VIDAM LDA
+  Organisation Address. Lugar da Fonte
+  Organisation Address.
+  Organisation Address. Vila Verde
+  Organisation Address. 4730-570
+  Organisation Address. VV
+  Organisation Address. PORTUGAL
+
+Admin Name........... VIDAM LDA
+  Admin Address........ Lugar da Fonte
+  Admin Address........
+  Admin Address........ Vila Verde
+  Admin Address........ 4730-570
+  Admin Address........ VV
+  Admin Address........ PORTUGAL
+  Admin Email.......... ruimendes@vidam.com
+  Admin Phone.......... +1.253967600851
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns1.alpshost.com
+  Name Server.......... ns2.alpshost.com
+
+

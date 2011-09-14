@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WORDPRESS.COM.RASTABIZ.COM
-WORDPRESS.COM.JUSTLOVEANYWAY.COM
-WORDPRESS.COM.INVESTCHICAGONORTHSHORE.COM
-WORDPRESS.COM.BRANNYBOILSOVER.COM
-WORDPRESS.COM
+   Domain Name: WORLD-WIDEPRODUCTS.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.SPEEDYDNS.NET
+   Name Server: NS2.SPEEDYDNS.NET
+   Name Server: NS3.SPEEDYDNS.NET
+   Status: clientTransferProhibited
+   Updated Date: 05-aug-2011
+   Creation Date: 04-aug-2010
+   Expiration Date: 04-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:49:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +52,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+world-wideproducts.com
+
+Registrant:
+         Steve Reyes  (registracionprivada@yahoo.com)
+
+        4419 Firestone Blvd
+        South Gate, CA  90280
+        US
+        323123-4567
+
+
+Domain Name: world-wideproducts.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Registracion Privada  (registracionprivada@yahoo.com)
+
+        123 Anytown
+        AnyCity, CA  90000
+        US
+        1234567890
+
+
+
+
+
+   Record created on Aug 4 2010.
+   Record expires on Aug 4 2012.
+Domain servers:
+        ns1.speedydns.net
+        ns2.speedydns.net
+        ns3.speedydns.net
+
+
+
+Domain Service Provider:
+   Hi-Tech Computer Solutions, Inc
+
+

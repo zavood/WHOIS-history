@@ -5,15 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WORDPRESS.COM.RASTABIZ.COM
-WORDPRESS.COM.JUSTLOVEANYWAY.COM
-WORDPRESS.COM.INVESTCHICAGONORTHSHORE.COM
-WORDPRESS.COM.BRANNYBOILSOVER.COM
-WORDPRESS.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: ZIGM.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS.GABIA.CO.KR
+   Name Server: NS.GABIA.NET
+   Name Server: NS1.GABIA.CO.KR
+   Status: ok
+   Updated Date: 17-jul-2011
+   Creation Date: 31-aug-1999
+   Expiration Date: 31-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
 
@@ -50,3 +52,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
+
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Registrant : GhangHyun, Ahn
+	Shinchun, Songpa, Seoul, Korea
+	(138794)
+
+	Domain Name:  ZIGM.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
+
+	Administrative, Technical, Billing Contact:
+		GhangHyun, Ahn	twiland@empal.com
+		Shinchun, Songpa, Seoul, Korea
+		(Tel) 02-0000-0000	(fax)
+
+	Record created on 	august    31, 1999
+	Record expires on 	2012-08-31
+	Record last updated on 	2011-07-17
+
+	Domain servers in listed order:
+
+	ns.gabia.co.kr
+	ns1.gabia.co.kr
+	ns.gabia.net
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

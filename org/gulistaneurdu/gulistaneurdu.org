@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155965541-LROR
+Domain Name:GULISTANEURDU.ORG
+Created On:25-Apr-2009 18:48:13 UTC
+Last Updated On:23-Jun-2011 00:26:31 UTC
+Expiration Date:25-Apr-2013 18:48:13 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_10881047
+Registrant Name:Sohail
+Registrant Organization:Sohail
+Registrant Street1:Suit # 11, 2nd floor al-babar Center F-8 markaz Islamabad
+Registrant Street2:
+Registrant Street3:
+Registrant City:Islamabad
+Registrant State/Province:Islamabad
+Registrant Postal Code:44000
+Registrant Country:PK
+Registrant Phone:+092.512850339
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:naamsohail@msn.com
+Admin ID:DI_10881047
+Admin Name:Sohail
+Admin Organization:Sohail
+Admin Street1:Suit # 11, 2nd floor al-babar Center F-8 markaz Islamabad
+Admin Street2:
+Admin Street3:
+Admin City:Islamabad
+Admin State/Province:Islamabad
+Admin Postal Code:44000
+Admin Country:PK
+Admin Phone:+092.512850339
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:naamsohail@msn.com
+Tech ID:DI_10881047
+Tech Name:Sohail
+Tech Organization:Sohail
+Tech Street1:Suit # 11, 2nd floor al-babar Center F-8 markaz Islamabad
+Tech Street2:
+Tech Street3:
+Tech City:Islamabad
+Tech State/Province:Islamabad
+Tech Postal Code:44000
+Tech Country:PK
+Tech Phone:+092.512850339
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:naamsohail@msn.com
+Name Server:NS1.ISLAMABADWEBHOST.COM
+Name Server:NS2.ISLAMABADWEBHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WORDPRESS.COM.RASTABIZ.COM
-WORDPRESS.COM.JUSTLOVEANYWAY.COM
-WORDPRESS.COM.INVESTCHICAGONORTHSHORE.COM
-WORDPRESS.COM.BRANNYBOILSOVER.COM
-WORDPRESS.COM
+   Domain Name: TROLLCALIBUR.COM
+   Registrar: ONLINE SAS
+   Whois Server: whois.bookmyname.com
+   Referral URL: http://www.bookmyname.com
+   Name Server: NS3.INFOMANIAK.CH
+   Name Server: NS4.INFOMANIAK.CH
+   Status: clientTransferProhibited
+   Updated Date: 30-jan-2010
+   Creation Date: 02-feb-2003
+   Expiration Date: 02-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,26 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+%% Whois
+%%
+%% NOTICE: Access to this information is provided to assist persons
+%% in determining the contents of a domain name registration record in
+%% our database. The data in this record is provided for informational
+%% purposes only.
+%% You agree that you will use this data only for lawful purposes and
+%% that, under no circumstances will you use this data to: (a) allow,
+%% enable, or otherwise support the transmission by e-mail, telephone, or
+%% facsimile of mass unsolicited, commercial advertising or solicitations
+%% to entities other than the data recipient's own existing customers;
+%% or (b) enable high volume, automated, electronic processes that
+%% send queries or data to the systems of Registry Operator or any
+%% ICANN-Accredited Registrar, except as reasonably necessary to register
+%% domain names or modify existing registrations.
+%% All rights reserved. These terms can be modify at any time.
+%% By submitting this query, you agree to abide by this policy.
+%
+% Date: 2011/09/14 19:49:39
+
+
+unknown host rejected 174.142.225.246

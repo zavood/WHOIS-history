@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWNASCAR.COM
+   Domain Name: XPMAGMAG.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BLUEGRAVITY.COM
-   Name Server: NS2.BLUEGRAVITY.COM
+   Name Server: NS1.DNSSRVS.COM
+   Name Server: NS2.DNSSRVS.COM
    Status: clientTransferProhibited
-   Updated Date: 28-dec-2010
-   Creation Date: 17-jan-2001
-   Expiration Date: 17-jan-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 21-jul-2011
+   Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:49:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wwwnascar.com
-&lt;a href=&quot;http://www.aboutus.org/wwwnascar.com&quot;&gt;AboutUs: wwwnascar.com&lt;/a&gt;
+Visit AboutUs.org for more information about xpmagmag.com
+&lt;a href=&quot;http://www.aboutus.org/xpmagmag.com&quot;&gt;AboutUs: xpmagmag.com&lt;/a&gt;
 
 
-Domain name: wwwnascar.com
+Domain name: xpmagmag.com
 
 Registrant Contact:
-
-   David Webb ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   P.O. Box 2923
-   Wylie, TX 75098
+   PMB 368, 14150 NE 20th St - F1
+   C/O xpmagmag.com
+   Bellevue, WA 98007
    US
 
 Administrative Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (bfshqdnkrp@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O xpmagmag.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (bfshqdnkrp@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O xpmagmag.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.bluegravity.com
-   ns2.bluegravity.com
+   ns1.dnssrvs.com
+   ns2.dnssrvs.com
 
-Creation date: 17 Jan 2001 11:44:09
-Expiration date: 17 Jan 2012 11:44:00
+Creation date: 22 Jul 2011 01:41:05
+Expiration date: 22 Jul 2012 01:41:00
 
 
 

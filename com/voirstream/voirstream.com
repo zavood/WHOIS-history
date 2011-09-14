@@ -5,15 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WORDPRESS.COM.RASTABIZ.COM
-WORDPRESS.COM.JUSTLOVEANYWAY.COM
-WORDPRESS.COM.INVESTCHICAGONORTHSHORE.COM
-WORDPRESS.COM.BRANNYBOILSOVER.COM
-WORDPRESS.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: VOIRSTREAM.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.BEASTSERV.INFO
+   Name Server: NS2.BEASTSERV.INFO
+   Status: clientTransferProhibited
+   Updated Date: 31-jul-2011
+   Creation Date: 09-mar-2011
+   Expiration Date: 09-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
 
@@ -50,3 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+You have exceeded your access quota. Please try again later.

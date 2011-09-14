@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWNASCAR.COM
+   Domain Name: SEIRRUF.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BLUEGRAVITY.COM
-   Name Server: NS2.BLUEGRAVITY.COM
-   Status: clientTransferProhibited
-   Updated Date: 28-dec-2010
-   Creation Date: 17-jan-2001
-   Expiration Date: 17-jan-2012
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Status: ok
+   Updated Date: 10-dec-2010
+   Creation Date: 11-dec-2009
+   Expiration Date: 11-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:47:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wwwnascar.com
-&lt;a href=&quot;http://www.aboutus.org/wwwnascar.com&quot;&gt;AboutUs: wwwnascar.com&lt;/a&gt;
+Visit AboutUs.org for more information about seirruf.com
+&lt;a href=&quot;http://www.aboutus.org/seirruf.com&quot;&gt;AboutUs: seirruf.com&lt;/a&gt;
 
 
-Domain name: wwwnascar.com
+Domain name: seirruf.com
 
 Registrant Contact:
-
-   David Webb ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   P.O. Box 2923
-   Wylie, TX 75098
+   PMB 368, 14150 NE 20th St - F1
+   C/O seirruf.com
+   Bellevue, WA 98007
    US
 
 Administrative Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (mmwvwycyn@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O seirruf.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (mmwvwycyn@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O seirruf.com
+   Bellevue, WA 98007
    US
 
-Status: Locked
+Status: Active
 
 Name Servers:
-   ns1.bluegravity.com
-   ns2.bluegravity.com
+   ns1.pipedns.com
+   ns2.pipedns.com
 
-Creation date: 17 Jan 2001 11:44:09
-Expiration date: 17 Jan 2012 11:44:00
+Creation date: 11 Dec 2009 21:59:26
+Expiration date: 11 Dec 2011 21:59:26
 
 
 

@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WWWNASCAR.COM
+   Domain Name: USEDTOOLSAMERICA.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BLUEGRAVITY.COM
-   Name Server: NS2.BLUEGRAVITY.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 28-dec-2010
-   Creation Date: 17-jan-2001
-   Expiration Date: 17-jan-2012
+   Updated Date: 15-aug-2011
+   Creation Date: 14-sep-2006
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:48:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +56,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wwwnascar.com
-&lt;a href=&quot;http://www.aboutus.org/wwwnascar.com&quot;&gt;AboutUs: wwwnascar.com&lt;/a&gt;
+Visit AboutUs.org for more information about usedtoolsamerica.com
+&lt;a href=&quot;http://www.aboutus.org/usedtoolsamerica.com&quot;&gt;AboutUs: usedtoolsamerica.com&lt;/a&gt;
 
 
-Domain name: wwwnascar.com
+Domain name: usedtoolsamerica.com
 
 Registrant Contact:
-
-   David Webb ()
+   Used Tools America
+   James Bohannon ()
 
    Fax:
-   P.O. Box 2923
-   Wylie, TX 75098
+   300 N Osage
+   none
+   Dewey, OK 74029
    US
 
 Administrative Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Used Tools America
+   James Bohannon (trader@greencountry.org)
+   0
+   Fax:
+   300 N Osage
+   none
+   Dewey, OK 74029
    US
 
 Technical Contact:
-
-   David Webb (nationalflags@yahoo.com)
-   +1.9724291673
-   Fax: +1.9724291673
-   P.O. Box 2923
-   Wylie, TX 75098
+   Used Tools America
+   James Bohannon (trader@greencountry.org)
+   0
+   Fax:
+   300 N Osage
+   none
+   Dewey, OK 74029
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.bluegravity.com
-   ns2.bluegravity.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 17 Jan 2001 11:44:09
-Expiration date: 17 Jan 2012 11:44:00
+Creation date: 15 Sep 2006 02:13:08
+Expiration date: 15 Sep 2012 02:13:00
 
 
 
