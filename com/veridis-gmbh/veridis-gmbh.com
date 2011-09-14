@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTOIP3.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.MYHOSTADMIN.NET
-   Name Server: NS2.MYHOSTADMIN.NET
-   Name Server: NS3.MYHOSTADMIN.NET
-   Name Server: NS4.MYHOSTADMIN.NET
-   Name Server: NS5.MYHOSTADMIN.NET
-   Name Server: NS6.MYHOSTADMIN.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2014
+   Domain Name: VERIDIS-GMBH.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.ARCOR-IP.DE
+   Name Server: NS2.ARCOR-IP.DE
+   Name Server: NS3.ARCOR-IP.DE
+   Status: ok
+   Updated Date: 16-may-2011
+   Creation Date: 15-may-2001
+   Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:18:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +52,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   he xiaojiang
+  Veridis GmbH (VERIDISG550)
+  Meisenstrasse 96
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOTOIP3.COM
+  Bielefeld, , 33607
+  DE
 
-   Domain servers in listed order:
-      NS6.MYHOSTADMIN.NET
-      NS5.MYHOSTADMIN.NET
-      NS1.MYHOSTADMIN.NET
-      NS2.MYHOSTADMIN.NET
-      NS3.MYHOSTADMIN.NET
-      NS4.MYHOSTADMIN.NET
+  Domain name: veridis-gmbh.com
 
+Technical contact:
+  Domain Registry, Arcor (DD467)
+  Arcor AG u. Co. KG
+  Otto-Volger-Str. 19
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOTOIP3.COM
+  Sulzbach, NRW, 65843
+  DE
+  ip-registry@arcor.net
+  +49.2118527278 Fax: +49.2118527270
+
+Administrative contact:
+  Ditschun, Claus (CD1359)
+  Veridis GmbH
+  Meisenstr. 96
+
+  Bielefeld, 33607
+  DE
+  rk@veridis.de
+  +49.521928800 Fax: +49.5219288011
+
+Record created:           2004-10-11 13:16:57
+Record last updated:      2004-10-18 10:34:13
+Record expires:           2012-05-15 00:00:00
+
+Domain servers in listed order:
+  ns1.arcor-ip.de (NSARCORI406)
+  ns2.arcor-ip.de (NSARCORI425)
+  ns3.arcor-ip.de (NSARCORI41)

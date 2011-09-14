@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTOIP3.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.MYHOSTADMIN.NET
-   Name Server: NS2.MYHOSTADMIN.NET
-   Name Server: NS3.MYHOSTADMIN.NET
-   Name Server: NS4.MYHOSTADMIN.NET
-   Name Server: NS5.MYHOSTADMIN.NET
-   Name Server: NS6.MYHOSTADMIN.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2014
+   Domain Name: EXCHANGETRAP.COM
+   Registrar: NET-CHINESE CO., LTD.
+   Whois Server: whois.net-chinese.com.tw
+   Referral URL: http://www.net-chinese.com.tw
+   Name Server: NS1.EXCHANGETRAP.COM
+   Name Server: NS2.EXCHANGETRAP.COM
+   Status: ok
+   Updated Date: 25-aug-2011
+   Creation Date: 03-may-2011
+   Expiration Date: 03-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain Name :  exchangetrap.com
+	Mutual jurisdiction :  Taipei, Taiwan &lt;Note 1&gt;
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+	Registrant :
+		GALINA_OBOROC
+		Miron_Costin_str._19-4_apt._99
+		Chisinau
+		MD
 
+	Administrative Contact :
+		 		designshadows@yahoo.com
+		GALINA_OBOROC
+		Miron_Costin_str._19-4_apt._99
+		Chisinau 2068
+		MD
+		373.78260780  fax : 373.78260780
 
-Registrant:
-   he xiaojiang
+	Technical Contact :
+		Net-Chinese Co., Ltd.		hostmaster@net-chinese.com.tw
+		12F., No.46, Sec. 2, Jhongshan N. Rd., Jhongshan District
+		Taipei 10448
+		Taiwan
+		886-2-25319696  fax : 886-2-25319522
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOTOIP3.COM
+	Status : ok
+	Record expires on 3-May-2012.
+	Record created on 3-May-2011.
+	Database last updated on 26-Aug-2011 05:03:24 GMT+8.
 
-   Domain servers in listed order:
-      NS6.MYHOSTADMIN.NET
-      NS5.MYHOSTADMIN.NET
-      NS1.MYHOSTADMIN.NET
-      NS2.MYHOSTADMIN.NET
-      NS3.MYHOSTADMIN.NET
-      NS4.MYHOSTADMIN.NET
+	Registrar :  Net-Chinese Co., Ltd &lt;Tel :  +886-2-25319696&gt;
+	Referral URL :  http://www.net-chinese.com.tw
 
+	Domain servers in listed order :
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOTOIP3.COM
+	ns2.exchangetrap.com		83.69.233.124
+	ns1.exchangetrap.com		195.64.154.85
+
+	&lt;Note 1&gt; Seeing the detail information on &quot;Registration Agreement&quot; :
+		 http://www.net-chinese.com.tw/script/dn_agree.html
+
+	The Data in Net-Chinese Co., Ltd.'s WHOIS database is provided
+	Net-Chinese Co., Ltd.
+	for information purposes, and to assist persons in obtaining
+	information about or related to a domain name registration record.
+	Net-Chinese Co., Ltd. does not guarantee its accuracy.
+	By submitting a WHOIS query, you agree that you will use this Data
+	only for lawful purposes and that, under no circumstances will you use
+	this Data to:
+	(1) allow, enable, or otherwise support the transmission of mass
+	unsolicited, commercial advertising or solicitations via e-mail
+	(spam); or
+	(2) enable high volume, automated, electronic processes that apply to
+	Net-Chinese Co., Ltd. (or its systems).
+	Net-Chinese Co., Ltd. reserves the right to modify these terms at any
+	time. By submitting this query, you agree to abide by this policy.

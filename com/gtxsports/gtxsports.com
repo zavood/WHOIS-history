@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTOIP3.COM
+   Domain Name: GTXSPORTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.MYHOSTADMIN.NET
-   Name Server: NS2.MYHOSTADMIN.NET
-   Name Server: NS3.MYHOSTADMIN.NET
-   Name Server: NS4.MYHOSTADMIN.NET
-   Name Server: NS5.MYHOSTADMIN.NET
-   Name Server: NS6.MYHOSTADMIN.NET
+   Name Server: NS19.DOMAINCONTROL.COM
+   Name Server: NS20.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2014
+   Updated Date: 17-feb-2011
+   Creation Date: 16-feb-2009
+   Expiration Date: 16-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:18:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   he xiaojiang
+   Dream Maker Productions
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOTOIP3.COM
+   Domain Name: GTXSPORTS.COM
 
    Domain servers in listed order:
-      NS6.MYHOSTADMIN.NET
-      NS5.MYHOSTADMIN.NET
-      NS1.MYHOSTADMIN.NET
-      NS2.MYHOSTADMIN.NET
-      NS3.MYHOSTADMIN.NET
-      NS4.MYHOSTADMIN.NET
+      NS19.DOMAINCONTROL.COM
+      NS20.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOTOIP3.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GTXSPORTS.COM

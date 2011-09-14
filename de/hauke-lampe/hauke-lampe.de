@@ -1,0 +1,68 @@
+% Copyright (c) 2010 by DENIC
+% Version: 2.0
+%
+% Restricted rights.
+%
+% Terms and Conditions of Use
+%
+% The data in this record is provided by DENIC for informational purposes only.
+% DENIC does not guarantee its accuracy and cannot, under any circumstances,
+% be held liable in case the stored information would prove to be wrong,
+% incomplete or not accurate in any sense.
+%
+% All the domain data that is visible in the whois service is protected by law.
+% It is not permitted to use it for any purpose other than technical or
+% administrative requirements associated with the operation of the Internet.
+% It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+% form and by any means (electronically or not) the whole or a quantitatively
+% or qualitatively substantial part of the contents of the whois database
+% without prior and explicit written permission by DENIC.
+% It is prohibited, in particular, to use it for transmission of unsolicited
+% and/or commercial and/or advertising by phone, fax, e-mail or for any similar
+% purposes.
+%
+% By maintaining the connection you assure that you have a legitimate interest
+% in the data and that you will only use it for the stated purposes. You are
+% aware that DENIC maintains the right to initiate legal proceedings against
+% you in the event of any breach of this assurance and to bar you from using
+% its whois service.
+%
+% The DENIC whois service on port 43 never discloses any information concerning
+% the domain holder/administrative contact. Information concerning the domain
+% holder/administrative contact can be obtained through use of our web-based
+% whois service available at the DENIC website:
+% http://www.denic.de/en/background/whois-service/webwhois.html
+%
+
+Domain: hauke-lampe.de
+Nserver: ns11.hauke-lampe.de 182.18.147.13
+Nserver: ns2.hauke-lampe.de 2a01:4f8:141:282:0:0:4:1 85.10.240.254
+Nserver: ns7.hauke-lampe.de 2a02:21a8:2:8:0:201:5099:11 46.37.189.137
+Nserver: ns8.hauke-lampe.de 205.185.123.248 2607:f358:1:fed5:22:0:87cb:745f
+Dnskey: 257 3 5 AwEAAQbUEfZtX/OHN0zCzoPrRmw9TcASJHUzoJPplik0JYk9vt8LKHY6P8NQRSfaogk8WHv/XEvt3BnNEyiW/dHz3z84d/JMyV7BxuRWcQQQWN9JuUJ6WWdjivYi86Zp/SoYTADMfmczD2qtOOo8iVq5UuWfy3QonAlR79SXginQGRxJqTs2jJdrOzyNBnIxWKqNwZKgaJutLLawEIS0AsvhHvT++xEa42GChUKGnB6t0wyQ7mbVa/Tad17w+2juytPbLpqJLsVPbov0SQk/9l7fG3xllwSL45dk7StUHo5+s9H6kkegxBJBdaAarU2NBXQFyaaot5I8762Ew08sUuvOmqeGS5f7Q/hTDrR83BSTy4uVL6Do0Eg/ebysZESJJCx3opIHPNgQolbGwg5+LOFqVdByk2yl+/FboNCwTn4tfWaCYL0G1hZjLw2F7ABDwNFQAKpjUvngkSHQeax4pcc0zsiOR/Oyr3DCZ2Xp2xksbEFTE8qLfYNUqz8UAkphCKxGdBu1rJRR+vb6sklCKVE5c+FWtE0QkiaLgoKl3pKoSDeM8sm2w35nZMa+tPfc5GtnZS7el5i7TbYVXbnkuNtq4KsqE93r40gvGSBQ696FzxpDo/VncNHELR0cVd0YpF0kzLEwI4dcc0QoijRya8wEat7cwuMYBd0lFxWgYQxu5MU=
+Status: connect
+Changed: 2011-09-06T01:45:58+02:00
+
+[Tech-C]
+Type: PERSON
+Name: Hauke Lampe
+Address: Tweestuecken 3
+PostalCode: 22297
+City: Hamburg
+CountryCode: DE
+Phone: +49.4041165291
+Fax: +49.4040180157
+Email: packbart@tiuval.de
+Changed: 2007-05-14T23:11:42+02:00
+
+[Zone-C]
+Type: PERSON
+Name: Hauke Lampe
+Address: Tweestuecken 3
+PostalCode: 22297
+City: Hamburg
+CountryCode: DE
+Phone: +49.4041165291
+Fax: +49.4040180157
+Email: packbart@tiuval.de
+Changed: 2007-05-14T23:11:42+02:00

@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTOIP3.COM
+   Domain Name: NORTHCOUNTRYHVAC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.MYHOSTADMIN.NET
-   Name Server: NS2.MYHOSTADMIN.NET
-   Name Server: NS3.MYHOSTADMIN.NET
-   Name Server: NS4.MYHOSTADMIN.NET
-   Name Server: NS5.MYHOSTADMIN.NET
-   Name Server: NS6.MYHOSTADMIN.NET
+   Name Server: JUPITER.SCACD.COM
+   Name Server: SATURN.SCACD.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2014
+   Updated Date: 08-aug-2011
+   Creation Date: 24-sep-2008
+   Expiration Date: 24-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:17:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   he xiaojiang
+   HVACWebsite.com
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GOTOIP3.COM
+   Domain Name: NORTHCOUNTRYHVAC.COM
 
    Domain servers in listed order:
-      NS6.MYHOSTADMIN.NET
-      NS5.MYHOSTADMIN.NET
-      NS1.MYHOSTADMIN.NET
-      NS2.MYHOSTADMIN.NET
-      NS3.MYHOSTADMIN.NET
-      NS4.MYHOSTADMIN.NET
+      JUPITER.SCACD.COM
+      SATURN.SCACD.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GOTOIP3.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NORTHCOUNTRYHVAC.COM
