@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83484451-LROR
+Domain Name:CHRISTCHURCHES.ORG
+Created On:09-Feb-2002 02:00:20 UTC
+Last Updated On:08-Feb-2011 19:33:52 UTC
+Expiration Date:09-Feb-2012 02:00:20 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:GODA-05316361
+Registrant Name:BishopJ.L. Payne
+Registrant Organization:Bishop J. L.Payne
+Registrant Street1:426 W. Silas Brown Street
+Registrant Street2:NA
+Registrant Street3:
+Registrant City:Jackson
+Registrant State/Province:
+Registrant Postal Code:39204
+Registrant Country:US
+Registrant Phone:+1.6019691461
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:presidingbishop@juno.com
+Admin ID:GODA-25316361
+Admin Name:Bishop J. L. Payne, Chief Apostle
+Admin Organization:Bishop J. L.Payne
+Admin Street1:426 W. Silas Brown Street
+Admin Street2:NA
+Admin Street3:
+Admin City:Jackson
+Admin State/Province:
+Admin Postal Code:39204
+Admin Country:US
+Admin Phone:+1.6019691461
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:presidingapostle@netzero.com
+Tech ID:GODA-15316361
+Tech Name:Bishop J. L. Payne, Chief Apostle
+Tech Organization:Bishop J. L.Payne
+Tech Street1:426 W. Silas Brown Street
+Tech Street2:NA
+Tech Street3:
+Tech City:Jackson
+Tech State/Province:
+Tech Postal Code:39204
+Tech Country:US
+Tech Phone:+1.6019691461
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:presidingapostle@netzero.com
+Name Server:DNS1.SUPREMECENTER45.COM
+Name Server:DNS2.SUPREMECENTER45.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

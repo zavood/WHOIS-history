@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157796675-LROR
+Domain Name:OBVIOUSMAG.ORG
+Created On:12-Dec-2009 01:12:13 UTC
+Last Updated On:10-Feb-2010 03:52:24 UTC
+Expiration Date:12-Dec-2012 01:12:13 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34987313
+Registrant Name:obvious magazine
+Registrant Organization:obvious
+Registrant Street1:Av.Paulista 45
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sao Paulo
+Registrant State/Province:Sao Paulo
+Registrant Postal Code:04067-090
+Registrant Country:BR
+Registrant Phone:+55.1127564537
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@obviousmag.org
+Admin ID:CR34987317
+Admin Name:obvious magazine
+Admin Organization:obvious
+Admin Street1:Av.Paulista 45
+Admin Street2:
+Admin Street3:
+Admin City:Sao Paulo
+Admin State/Province:Sao Paulo
+Admin Postal Code:04067-090
+Admin Country:BR
+Admin Phone:+55.1127564537
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:geral@obviousmag.org
+Tech ID:CR34987316
+Tech Name:obvious magazine
+Tech Organization:obvious
+Tech Street1:Av.Paulista 45
+Tech Street2:
+Tech Street3:
+Tech City:Sao Paulo
+Tech State/Province:Sao Paulo
+Tech Postal Code:04067-090
+Tech Country:BR
+Tech Phone:+55.1127564537
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:geral@obviousmag.org
+Name Server:NS61.DOMAINCONTROL.COM
+Name Server:NS62.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; radiofrance.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      radiofrance.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SNDR24-FRNIC
+admin-c:     DVE1-FRNIC
+tech-c:      DT1958-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2951-FRNIC
+registrar:   NAMESHIELD
+anniversary: 26/10
+created:     08/10/1999
+last-update: 16/06/2009
+source:      FRNIC
+
+ns-list:     NSL2951-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     SNDR24-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE NATIONALE DE RADIODIFFUSION RADIO FRANCE
+address:     116, avenue du President Kennedy
+address:     75016 Paris
+country:     FR
+phone:       +33 1 56 40 22 22
+e-mail:      eric.duval-valachs@radiofrance.com
+changed:     12/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DVE1-FRNIC
+type:        PERSON
+contact:     Duval Valachs Eric
+address:     RADIO FRANCE
+address:     116, avenue du President Kennedy
+address:     75016 Paris
+country:     FR
+phone:       +33 1 56 40 22 22
+e-mail:      eric.duval-valachs@radiofrance.com
+changed:     07/10/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1958-FRNIC
+type:        PERSON
+contact:     Department Technical
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      technical@nameshield.net
+changed:     12/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
