@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PICCLICK.COM
+   Domain Name: THEWFASH.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Name Server: NS1.THEWFASH.COM
+   Name Server: NS2.THEWFASH.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 26-sep-2003
-   Expiration Date: 26-sep-2018
+   Updated Date: 30-jun-2011
+   Creation Date: 11-feb-2010
+   Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:53:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:52:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   PicClick LLC
+   NIMS
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PICCLICK.COM
+   Domain Name: THEWFASH.COM
 
    Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+      NS1.THEWFASH.COM
+      NS2.THEWFASH.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PICCLICK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THEWFASH.COM
