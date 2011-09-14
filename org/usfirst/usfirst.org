@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D359929-LROR
+Domain Name:USFIRST.ORG
+Created On:07-Aug-1995 04:00:00 UTC
+Last Updated On:01-Jun-2011 21:16:40 UTC
+Expiration Date:06-Aug-2018 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26227498-NSI
+Registrant Name:U.S. Fndn for Insp &amp; Recog of Sci &amp; Tech
+Registrant Organization:U.S. Fndn for Insp &amp; Recog of Sci &amp; Tech
+Registrant Street1:200 Bedford Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Manchester
+Registrant State/Province:NH
+Registrant Postal Code:03101-1132
+Registrant Country:US
+Registrant Phone:+1.603666390
+Registrant Phone Ext.:
+Registrant FAX:+1.603666390
+Registrant FAX Ext.:
+Registrant Email:ear@USFIRST.ORG
+Admin ID:51591625-NSI
+Admin Name:FIRST
+Admin Street1:200 Bedford St.
+Admin Street2:
+Admin Street3:
+Admin City:Manchester
+Admin State/Province:NH
+Admin Postal Code:03101
+Admin Country:US
+Admin Phone:+1.6036663906
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:softwareregistration@usfirst.org
+Tech ID:5451511-NSI
+Tech Name:MV Communications
+Tech Organization:MV Communications
+Tech Street1:PO BOX 4963
+Tech Street2:
+Tech Street3:
+Tech City:MANCHESTER
+Tech State/Province:NH
+Tech Postal Code:03108-4963
+Tech Country:US
+Tech Phone:+1.6036290000
+Tech Phone Ext.:
+Tech FAX:+1.6036290049
+Tech FAX Ext.:
+Tech Email:mv-ns@MV.MV.COM
+Name Server:NS1.MV.NET
+Name Server:NS1.DNSIST.NET
+Name Server:NS2.DNSIST.NET
+Name Server:NS3.DNSIST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

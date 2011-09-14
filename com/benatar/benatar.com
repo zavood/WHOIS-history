@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WICCART.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS01.ONE.COM
-   Name Server: NS02.ONE.COM
+   Domain Name: BENATAR.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.LAEG.NET
+   Name Server: NS2.LAEG.NET
    Status: ok
-   Updated Date: 31-may-2011
-   Creation Date: 26-apr-2005
-   Expiration Date: 26-apr-2012
+   Updated Date: 09-may-2011
+   Creation Date: 08-may-1996
+   Expiration Date: 09-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:25:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:25:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  De Leeuw (592496)
-  schouwstede 22
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-  IJsselstein, , 3431JB
-  NL
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-  Domain name: wiccart.com
+http://www.networksolutions.com/whois/index.jhtml
 
-Technical contact:
-  Master, Host (HM6761)
-  One.com
-  Kalvebod Brygge 45
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-  Copenhagen V, 1560
-  DK
-  hostmaster@one.com
-  +45.46907100 Fax: +45.70205872
-
-Administrative contact:
-  Funktionen, Hostmaster (HF2582)
-  One.com A/S
-  Kalvebod Brygge 45
-
-  Copenhagen V, 1560
-  DK
-  hostmaster@b-one.nu
-  +45.46907100 Fax: +45.70205872
-
-Record created:           2010-01-06 11:27:48
-Record last updated:      2011-05-31 07:19:44
-Record expires:           2012-04-26 00:00:00
-
-Domain servers in listed order:
-  ns01.one.com (NSONECOM535)
-  ns02.one.com (NSONECOM617)
+Whois Query: benatar.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 23:16:15 EDT 2011
+Reason Code: IE

@@ -1,0 +1,74 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             nic.it
+Status:             ACTIVE
+Created:            1997-08-27 00:00:00
+Last Update:        2008-07-09 14:27:42
+Expire Date:        2013-12-31
+
+Registrant
+  Name:             ccTLD '.it' Registry - IIT/CNR
+  ContactID:        CCTL1-ITNIC
+  Address:          Via Giuseppe Moruzzi 1
+                    Pisa
+                    56124
+                    PI
+                    IT
+  Created:          2007-03-01 10:26:04
+  Last Update:      2008-04-01 16:52:03
+
+Admin Contact
+  Name:             Domenico Laforenza
+  Organization:     Istituto di Informatica e Telematica del CNR - ccTLD &quot;.it&quot; Registry
+  ContactID:        DL1-ITNIC
+  Address:          Via Giuseppe Moruzzi, 1
+                    Pisa
+                    56124
+                    PI
+                    IT
+  Created:          2008-07-11 11:23:04
+  Last Update:      2011-05-24 09:55:26
+
+Technical Contacts
+  Name:             Daniele Vannozzi
+  Organization:     Istituto di Informatica e Telematica del CNR - ccTLD &quot;.it&quot; Registry
+  ContactID:        DV73-ITNIC
+  Address:          Via Giuseppe Moruzzi, 1
+                    Pisa
+                    56124
+                    PI
+                    IT
+  Created:          2002-02-20 00:00:00
+  Last Update:      2007-12-18 12:45:15
+
+  Name:             Maurizio Martinelli
+  Organization:     Istituto di Informatica e Telematica del CNR - ccTLD &quot;.it&quot; Registry
+  ContactID:        MM13-ITNIC
+  Address:          Via Giuseppe Moruzzi, 1
+                    Pisa
+                    56124
+                    PI
+                    IT
+  Created:          1998-04-14 00:00:00
+  Last Update:      2011-02-02 13:24:30
+
+Registrar
+  Organization:     ccTLD 'it' Registry
+  Name:             REGISTRY-MNT
+  Web:              http://www.nic.it
+
+Nameservers
+  dns.nic.it
+  nameserver.cnr.it
+  m.dns.it
+  ns2.nic.it
+  r.dns.it
+  c.dns.it
+
