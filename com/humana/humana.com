@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOBFOX.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: HUMANA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-feb-2008
-   Creation Date: 26-dec-2002
-   Expiration Date: 26-dec-2017
+   Updated Date: 26-sep-2009
+   Creation Date: 30-nov-1995
+   Expiration Date: 25-sep-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:43:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:44:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... humana.com
+  Creation Date........ 1995-11-30
+  Registration Date.... 2009-09-27
+  Expiry Date.......... 2019-09-26
+  Organisation Name.... Humana Inc.
+  Organisation Address. 500 West Main St.
+  Organisation Address.
+  Organisation Address. Louisville
+  Organisation Address. 40202
+  Organisation Address. KY
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ 500 West Main Street
+  Admin Address........
+  Admin Address........ Louisville
+  Admin Address........ 40202
+  Admin Address........ KY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domainadmin@humana.com
+  Admin Phone.......... +1.5025801000
+  Admin Fax............
+
+Tech Name............ Domain Admin
+  Tech Address......... 500 West Main Street
+  Tech Address.........
+  Tech Address......... Louisville
+  Tech Address......... 40202
+  Tech Address......... KY
+  Tech Address......... UNITED STATES
+  Tech Email........... domainadmin@humana.com
+  Tech Phone........... +1.5025801000
+  Tech Fax.............
+  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
+  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
 
 
-Registrant:
-   Jobfox, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: JOBFOX.COM
-
-   Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JOBFOX.COM

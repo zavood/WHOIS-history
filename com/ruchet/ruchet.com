@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOBFOX.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: RUCHET.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-feb-2008
-   Creation Date: 26-dec-2002
-   Expiration Date: 26-dec-2017
+   Updated Date: 03-apr-2008
+   Creation Date: 08-sep-2003
+   Expiration Date: 08-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:43:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:45:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+&lt;a href='http://www.namebay.com'&gt;NAMEBAY&lt;/a&gt;
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Jobfox, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: JOBFOX.COM
-
-   Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JOBFOX.COM
+Domain Name : RUCHET.COM
+Created On : 2003-09-08
+Expiration Date : 2015-09-08
+Status : PROTECTED
+Registrant Name : Claude Ruchet
+Registrant Street1 : Rue Soubeyran 2
+Registrant City : Geneve
+Registrant State/Province  :
+Registrant Postal Code : CH-1203
+Registrant Country : CH
+Admin Name : Claude Ruchet
+Admin Street1 : Rue Soubeyran 2
+Admin City : Geneve
+Admin State/Province : CH
+Admin Postal Code : CH-1203
+Admin Country : CH
+Admin Phone : +41.796313590
+Admin Email : clauderuchet@hotmail.com
+Tech Name : Claude Ruchet
+Tech Street1 : Rue Soubeyran 2
+Tech City : Geneve
+Tech State/Province : CH
+Tech Postal Code : CH-1203
+Tech Country : CH
+Tech Phone : +41.796313590
+Tech Email : clauderuchet@hotmail.com
+Billing Name : Claude Ruchet
+Billing Street1 : Rue Soubeyran 2
+Billing City : Geneve
+Billing State/Province : CH
+Billing Postal Code : CH-1203
+Billing Country : CH
+Billing Phone : +41.796313590
+Billing Email : clauderuchet@hotmail.com
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

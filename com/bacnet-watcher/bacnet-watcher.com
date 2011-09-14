@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOBFOX.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-feb-2008
-   Creation Date: 26-dec-2002
-   Expiration Date: 26-dec-2017
+   Domain Name: BACNET-WATCHER.COM
+   Registrar: VARIOMEDIA AG DBA PUREDOMAIN.COM
+   Whois Server: whois.puredomain.com
+   Referral URL: http://www.puredomain.com
+   Name Server: NS1.VARIOMEDIA.DE
+   Name Server: NS2.VARIOMEDIA.DE
+   Status: ok
+   Updated Date: 15-dec-2010
+   Creation Date: 14-dec-2007
+   Expiration Date: 14-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:43:53 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain:       bacnet-watcher.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Created:      2007-12-14
+Last updated: 2007-12-14
+Expires:      2008-12-14
+
+[Registrant]
+Organization: Ing.-Gesellschaft N. Hartleb GmbH
+First name:   Norbert
+Last name:    Hartleb
+Street1:      Am Tannenstumpf 17
+Street2:
+City:         Dreieich
+State:        n/a
+Postal code:  63303
+Country:      DE
+Phone:        +49-6074-5242
+Fax:          +49-6074-5291
+Email:        nhartleb@hho-inh.de
+
+[Admin]
+Organization: Ing.-Gesellschaft N. Hartleb GmbH
+First name:   Norbert
+Last name:    Hartleb
+Street1:      Am Tannenstumpf 17
+Street2:
+City:         Dreieich
+State:        n/a
+Postal code:  63303
+Country:      DE
+Phone:        +49-6074-5242
+Fax:          +49-6074-5291
+Email:        nhartleb@hho-inh.de
+
+[Tech]
+Organization: Variomedia AG
+First name:   Marten
+Last name:    Lehmann
+Street1:      August-Bebel-Stra&Atilde;Ÿe 68
+Street2:
+City:         Potsdam
+State:        n/a
+Postal code:  14482
+Country:      DE
+Phone:        +49-331-23789-0
+Fax:          +49-331-23789-59
+Email:        lehmann@variomedia.de
+
+[Nameservers]
+ns1.variomedia.de
+ns2.variomedia.de
 
 
-Registrant:
-   Jobfox, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: JOBFOX.COM
-
-   Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JOBFOX.COM
+Query 1 of 100 allowed queries per hour.
