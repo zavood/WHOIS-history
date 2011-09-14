@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PHOTOSTOCKPLUS.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS1.PAIRNIC.COM
-   Name Server: NS2.PAIRNIC.COM
-   Status: ok
-   Updated Date: 08-mar-2011
-   Creation Date: 21-apr-2004
-   Expiration Date: 21-apr-2012
+   Domain Name: PLANPRESCRIBER.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 27-oct-2010
+   Creation Date: 11-sep-2006
+   Expiration Date: 11-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:48:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,61 +55,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+
 Registrant:
-  6733069 Canada Inc
-  378 st Paul W
-  montreal, PQ h2Y2A6
-  CA
+Provencal, Bernie
+   Experion Systems, Inc.
+   8 Clock Tower Place, Ste 400
+   Maynard, MA 01754
+   US
 
-  thomas@photostockplus.com
-   +1.5143135959
+   Domain Name: PLANPRESCRIBER.COM
 
-Domain Name: PHOTOSTOCKPLUS.COM
+   Administrative Contact:
+      Provencal, Bernie		bprovencal@experionsystems.com
+      Experion Systems, Inc.
+      8 Clock Tower Place, Ste 400
+      Maynard, MA 01754
+      US
+      978-450-4228
 
-Administrative Contact:
-  Ilan Artzy
-  6733069 Canada Inc
-  378 st Paul W
-  Montreal, PQ H2Y 2A6
-  CA
 
-  admin@photostockplus.com
-   +1.5143135959
+   Record expires on 11-Sep-2012.
+   Record created on 11-Sep-2006.
+   Database last updated on 14-Sep-2011 18:38:40 EDT.
 
-Technical Contact:
-  Ilan Artzy
-  6733069 Canada Inc
-  378 st Paul W
-  montreal, PQ H2Y 2A6
-  CA
+   Domain servers in listed order:
 
-  admin@photostockplus.com
-   +1.5143135959
+   PDNS1.ULTRADNS.NET           204.74.108.1
+   PDNS2.ULTRADNS.NET           204.74.109.1
+   PDNS3.ULTRADNS.ORG           199.7.68.1
+   PDNS4.ULTRADNS.ORG           199.7.69.1
+   PDNS5.ULTRADNS.INFO          204.74.114.1
+   PDNS6.ULTRADNS.CO.UK         204.74.115.1
 
-Domain Name Servers:
-  NS1.PAIRNIC.COM
-  NS2.PAIRNIC.COM
-
-Transfer-Lock Status: ENABLED
-
- Created:     April 21, 2004
-Modified:     March  8, 2011
- Expires:     April 21, 2012
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 

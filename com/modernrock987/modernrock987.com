@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PHOTOSTOCKPLUS.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS1.PAIRNIC.COM
-   Name Server: NS2.PAIRNIC.COM
-   Status: ok
-   Updated Date: 08-mar-2011
-   Creation Date: 21-apr-2004
-   Expiration Date: 21-apr-2012
+   Domain Name: MODERNROCK987.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.CBC-RALEIGH.COM
+   Name Server: NS1.IPLT.TWTELECOM.NET
+   Status: clientTransferProhibited
+   Updated Date: 21-dec-2010
+   Creation Date: 14-oct-2010
+   Expiration Date: 14-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:47:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,61 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
 Registrant:
-  6733069 Canada Inc
-  378 st Paul W
-  montreal, PQ h2Y2A6
-  CA
+   modernrock987.com
+   c/o Whois Privacy Service
+   PO BOX 501610
+   San Diego, CA 92150-1610
+   US
 
-  thomas@photostockplus.com
-   +1.5143135959
+   Domain Name: MODERNROCK987.COM
 
-Domain Name: PHOTOSTOCKPLUS.COM
+   Administrative Contact, Technical Contact, Zone Contact:
+      modernrock987.com
+      c/o Whois Privacy Service
+      PO BOX 501610
+      San Diego, CA 92150-1610
+      US
+      (619) 393-2111
+      whois@emailaddressprotection.com
 
-Administrative Contact:
-  Ilan Artzy
-  6733069 Canada Inc
-  378 st Paul W
-  Montreal, PQ H2Y 2A6
-  CA
 
-  admin@photostockplus.com
-   +1.5143135959
+   Domain created on 14-Oct-2010
+   Domain expires on 14-Oct-2011
+   Last updated on 21-Dec-2010
 
-Technical Contact:
-  Ilan Artzy
-  6733069 Canada Inc
-  378 st Paul W
-  montreal, PQ H2Y 2A6
-  CA
+   Domain servers in listed order:
 
-  admin@photostockplus.com
-   +1.5143135959
+      NS1.CBC-RALEIGH.COM
+      NS1.IPLT.TWTELECOM.NET
 
-Domain Name Servers:
-  NS1.PAIRNIC.COM
-  NS2.PAIRNIC.COM
-
-Transfer-Lock Status: ENABLED
-
- Created:     April 21, 2004
-Modified:     March  8, 2011
- Expires:     April 21, 2012
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 

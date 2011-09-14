@@ -1,0 +1,59 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 00:49:21 2011
+
+domain:       kr-kralovehradecky.cz
+registrant:   SB:KRU-HK-SU1
+admin-c:      KRU-HK-OS1
+nsset:        NSS:KRU-HK-SU1:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   05.01.2001 00:21:00
+changed:      25.06.2007 11:26:00
+expire:       09.01.2012
+
+contact:      SB:KRU-HK-SU1
+org:          Kralovehradecky kraj
+name:         Kralovehradecky kraj
+address:      Wonkova 1142
+address:      Hradec Kralove
+address:      500 02
+address:      CZ
+e-mail:       jsoucek@kr-kralovehradecky.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      21.01.2003 14:44:00
+
+contact:      KRU-HK-OS1
+name:         Jaroslav Soucek
+address:      CZ
+e-mail:       jsoucek@kr-kralovehradecky.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:KRU-HK-SU1:1
+nserver:      nse.kr-kralovehradecky.cz (195.113.185.210)
+nserver:      ns.hknet.cz (195.113.115.171)
+tech-c:       SB:KRU-HK-SU1
+tech-c:       KRU-HK-OS1
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      18.06.2009 15:05:23
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157399457-LROR
+Domain Name:JOHNDEERESNOWBLOWERS.ORG
+Created On:21-Oct-2009 02:34:34 UTC
+Last Updated On:20-Oct-2010 03:41:50 UTC
+Expiration Date:21-Oct-2011 02:34:34 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR20527336
+Registrant Name:Shawn Parker
+Registrant Street1:8829 Lobelia  Ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:Reynoldsburg
+Registrant State/Province:Ohio
+Registrant Postal Code:43068
+Registrant Country:US
+Registrant Phone:+1.6143533434
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shawnparkerinc@hotmail.com
+Admin ID:CR20527340
+Admin Name:shawn parker
+Admin Street1:8016 national rd sw
+Admin Street2:
+Admin Street3:
+Admin City:patalaska
+Admin State/Province:Ohio
+Admin Postal Code:43062
+Admin Country:US
+Admin Phone:+1.6143533434
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shawnparkerinc@hotmail.com
+Tech ID:CR20527338
+Tech Name:shawn parker
+Tech Street1:8016 national rd sw
+Tech Street2:
+Tech Street3:
+Tech City:patalaska
+Tech State/Province:Ohio
+Tech Postal Code:43062
+Tech Country:US
+Tech Phone:+1.6143533434
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:shawnparkerinc@hotmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
