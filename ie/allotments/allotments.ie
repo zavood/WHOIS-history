@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      allotments.ie
+descr:       JAMES KILKELLY
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     AHL747-IEDR
+tech-c:      AAM456-IEDR
+renewal:     05-August-2012
+status:      Active
+nserver:     ns1.eapps.com
+nserver:     ns2.eapps.com
+source:      IEDR
+
+person:      James Kilkelly
+nic-hdl:     AHL747-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

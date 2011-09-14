@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ANDRESKABEL.COM
-   Registrar: NETREGISTRY PTY. LTD.
-   Whois Server: whois.netregistry.net
-   Referral URL: http://www.netregistry.com.au
-   Name Server: NS1.JUMBA.NET.AU
-   Name Server: NS2.JUMBA.NET.AU
-   Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 31-mar-2008
-   Expiration Date: 31-mar-2012
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:52:58 UTC &lt;&lt;&lt;
+No match for &quot;AMERTABALI.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:53:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

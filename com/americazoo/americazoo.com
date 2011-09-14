@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ANDRESKABEL.COM
-   Registrar: NETREGISTRY PTY. LTD.
-   Whois Server: whois.netregistry.net
-   Referral URL: http://www.netregistry.com.au
-   Name Server: NS1.JUMBA.NET.AU
-   Name Server: NS2.JUMBA.NET.AU
-   Status: ok
-   Updated Date: 01-mar-2010
-   Creation Date: 31-mar-2008
-   Expiration Date: 31-mar-2012
+   Domain Name: AMERICAZOO.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 01-jun-2011
+   Creation Date: 17-dec-1999
+   Expiration Date: 17-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:52:58 UTC &lt;&lt;&lt;
 
@@ -51,3 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
