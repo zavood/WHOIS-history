@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       trip.ee
+registrant:   CID:ZONE:115391
+admin-c:      CID:ZONE:115392
+nsset:        NSSID:ZONE:17585
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:41:50
+changed:      15.11.2010 08:55:04
+expire:       15.11.2012
+
+contact:      CID:ZONE:115391
+org:          i-S&Atilde;&frac14;steemid O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      15.11.2010 08:55:02
+
+contact:      CID:ZONE:115392
+name:         Toomas Toots
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      15.11.2010 08:55:02
+
+nsset:        NSSID:ZONE:17585
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:115393
+registrar:    zone
+created:      15.11.2010 08:55:03
+
+contact:      CID:ZONE:115393
+name:         Toomas Toots
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      15.11.2010 08:55:02
+
+
