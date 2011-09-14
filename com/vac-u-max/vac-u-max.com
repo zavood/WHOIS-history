@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DRAGONEXP.COM
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: NS.HOSTPIA.NET
-   Name Server: NS18.DNSEVER.COM
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS72.DNSEVER.COM
+   Domain Name: VAC-U-MAX.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS4.INTERNETWEBHOSTING.NET
+   Name Server: NS5.INTERNETWEBHOSTING.NET
    Status: ok
-   Updated Date: 15-nov-2010
-   Creation Date: 15-nov-2010
-   Expiration Date: 15-nov-2011
+   Updated Date: 05-apr-2011
+   Creation Date: 13-apr-1996
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:17:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:18:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,52 +52,63 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name           : dragonexp.com
-Registrar             : Dotname Korea Corp.
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
-Registrant:
-	company       :DRAGONEXP
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Administrative Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+Domain Name:	vac-u-max.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
-Technical Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
 
-Domain servers in listed order:
-		ns.hostpia.net  [222.122.45.188]
-		ns18.dnsever.com  [121.254.154.148]
-		ns72.dnsever.com  [121.254.154.202]
-		ns231.dnsever.com  [125.141.231.179]
-		ns259.dnsever.com  [112.222.217.122]
+Registrant Contact
 
-Created on 2010-11-15
-Updated on 2010-11-15
-Expires on 2011-11-15&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+Name:		Doan    Pendleton
+Address:	37 Rutgers Street
+		Belleville, NJ  07109
+		US
 
+Email Address:	domains@ads-llc.com
+Phone Number:	(973)759-4400
+
+
+Administrative Contact
+
+Name:		ADS    Applied Dynamic Solutions
+Address:	165 Washington Valley Road
+		Warren, nj  07059
+		US
+
+Email Address:	info@ads-llc.com
+Phone Number:	(732)764-88444
+
+
+Technical Contact
+
+Name:		ADS    Applied Dynamic Solutions
+Address:	165 Washington Valley Road
+		Warren, nj  07059
+		US
+
+Email Address:	info@ads-llc.com
+Phone Number:	(732)764-88444
+
+
+Record Created on........ 1996-04-13 00:00:00.000
+Record last updated on... 2011-04-05 10:15:23.857
+Expire on................ 2012-04-14 10:15:23.413
+
+Domain Nameservers in listed order:
+
+	ns4.internetwebhosting.net
+ 	ns5.internetwebhosting.net
 

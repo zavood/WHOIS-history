@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DRAGONEXP.COM
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: NS.HOSTPIA.NET
-   Name Server: NS18.DNSEVER.COM
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS72.DNSEVER.COM
-   Status: ok
-   Updated Date: 15-nov-2010
-   Creation Date: 15-nov-2010
-   Expiration Date: 15-nov-2011
+   Domain Name: MESAGRILL.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS63.DOMAINCONTROL.COM
+   Name Server: NS64.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-dec-2010
+   Creation Date: 27-oct-1998
+   Expiration Date: 26-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:17:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:17:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,53 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name           : dragonexp.com
-Registrar             : Dotname Korea Corp.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-	company       :DRAGONEXP
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+   Bold Food
 
-Administrative Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: MESAGRILL.COM
 
-Technical Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
-
-Domain servers in listed order:
-		ns.hostpia.net  [222.122.45.188]
-		ns18.dnsever.com  [121.254.154.148]
-		ns72.dnsever.com  [121.254.154.202]
-		ns231.dnsever.com  [125.141.231.179]
-		ns259.dnsever.com  [112.222.217.122]
-
-Created on 2010-11-15
-Updated on 2010-11-15
-Expires on 2011-11-15&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+   Domain servers in listed order:
+      NS63.DOMAINCONTROL.COM
+      NS64.DOMAINCONTROL.COM
 
 
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MESAGRILL.COM

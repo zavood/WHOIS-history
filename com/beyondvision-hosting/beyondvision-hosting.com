@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DRAGONEXP.COM
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: NS.HOSTPIA.NET
-   Name Server: NS18.DNSEVER.COM
-   Name Server: NS231.DNSEVER.COM
-   Name Server: NS259.DNSEVER.COM
-   Name Server: NS72.DNSEVER.COM
-   Status: ok
-   Updated Date: 15-nov-2010
-   Creation Date: 15-nov-2010
-   Expiration Date: 15-nov-2011
+   Domain Name: BEYONDVISION-HOSTING.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.BEYONDVISION-HOSTING.COM
+   Name Server: NS2.BEYONDVISION-HOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-feb-2011
+   Creation Date: 12-feb-2002
+   Expiration Date: 12-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:17:12 UTC &lt;&lt;&lt;
 
@@ -54,53 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about beyondvision-hosting.com
+&lt;a href=&quot;http://www.aboutus.org/beyondvision-hosting.com&quot;&gt;AboutUs: beyondvision-hosting.com&lt;/a&gt;
 
-Domain Name           : dragonexp.com
-Registrar             : Dotname Korea Corp.
 
-Registrant:
-	company       :DRAGONEXP
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+Domain name: beyondvision-hosting.com
 
 Administrative Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+   Beyond Vision
+   Mustafa Hamza (mustafa@beyondvision.net)
+   4523265
+   Fax: 4523264
+   26-A, NKCHS, Manzar-e-Alam Road
+   Off Tariq Road
+   Karachi, Sindh 75400
+   PK
 
 Technical Contact:
-	name          :KWANGWON YUN
-	e-mail        :tech@busytech.co.kr
-	address1      :Hyundai Bldg. Mapo-dong
-	address2      :RM. 616
-	city          :SEOUL
-	zipcode       :121-737
-	country       :
-	phone         :02-3272-3992
-	fax           :
+   Beyond Vision
+   Mustafa Hamza (mustafa@beyondvision.net)
+   4523265
+   Fax: 4523264
+   26-A, NKCHS, Manzar-e-Alam Road
+   Off Tariq Road
+   Karachi, Sindh 75400
+   PK
 
-Domain servers in listed order:
-		ns.hostpia.net  [222.122.45.188]
-		ns18.dnsever.com  [121.254.154.148]
-		ns72.dnsever.com  [121.254.154.202]
-		ns231.dnsever.com  [125.141.231.179]
-		ns259.dnsever.com  [112.222.217.122]
+Registrant Contact:
+   Beyond Vision
+   Mustafa Hamza ()
 
-Created on 2010-11-15
-Updated on 2010-11-15
-Expires on 2011-11-15&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+   Fax:
+   26-A, NKCHS, Manzar-e-Alam Road
+   Off Tariq Road
+   Karachi, Sindh 75400
+   PK
+
+Status: Locked
+
+Name Servers:
+   ns.beyondvision-hosting.com
+   ns2.beyondvision-hosting.com
+
+Creation date: 12 Feb 2002 09:10:47
+Expiration date: 12 Feb 2012 09:10:00
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
