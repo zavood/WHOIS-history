@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TARPONPESCA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.UNI5.NET
-   Name Server: DNS2.UNI5.NET
+   Domain Name: BRAVURAAUTO.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS10.DYNAMIT-DNS.COM
+   Name Server: NS11.DYNAMIT-DNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-jan-2011
-   Creation Date: 17-mar-2009
-   Expiration Date: 17-mar-2012
+   Updated Date: 18-jun-2010
+   Creation Date: 05-nov-2007
+   Expiration Date: 05-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:43:50 UTC &lt;&lt;&lt;
 
@@ -54,37 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
 Registrant:
-   Gustavo Hipolito
+   dynamIt Technologies
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TARPONPESCA.COM
+   Registered through: SSLcatacombNetworking.com
+   Domain Name: BRAVURAAUTO.COM
 
    Domain servers in listed order:
-      DNS1.UNI5.NET
-      DNS2.UNI5.NET
+      NS10.DYNAMIT-DNS.COM
+      NS11.DYNAMIT-DNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TARPONPESCA.COM
+   http://who.securepaynet.net/whoischeck.aspx?Domain=BRAVURAAUTO.COM&amp;prog_id=sslcatacomb

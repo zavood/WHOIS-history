@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TARPONPESCA.COM
+   Domain Name: ANGELABANKS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.UNI5.NET
-   Name Server: DNS2.UNI5.NET
+   Name Server: NS1057.HOSTGATOR.COM
+   Name Server: NS1058.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-jan-2011
-   Creation Date: 17-mar-2009
-   Expiration Date: 17-mar-2012
+   Updated Date: 29-dec-2008
+   Creation Date: 15-nov-2005
+   Expiration Date: 15-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:43:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:44:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Gustavo Hipolito
+   Golden-Banks Publishing
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TARPONPESCA.COM
+   Domain Name: ANGELABANKS.COM
 
    Domain servers in listed order:
-      DNS1.UNI5.NET
-      DNS2.UNI5.NET
+      NS1057.HOSTGATOR.COM
+      NS1058.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TARPONPESCA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ANGELABANKS.COM

@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; neuf.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      neuf.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SFDR13-FRNIC
+admin-c:     FR1697-FRNIC
+tech-c:      NC2771-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6239-FRNIC
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+anniversary: 10/07
+created:     24/10/2003
+last-update: 02/08/2010
+source:      FRNIC
+
+ns-list:     NSL6239-FRNIC
+nserver:     nanni.hittite.isp.9tel.net
+nserver:     hazzi.hittite.isp.9tel.net
+nserver:     dns2.gaoland.net
+nserver:     ns01.sitadelle.com
+nserver:     ns1.9services.com
+nserver:     ns2.9services.com
+source:      FRNIC
+
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+type:        Isp Option 1
+address:     42 Avenue de Friedland
+address:     PARIS
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      serge.ribeiro@sfr.com
+website:     http://www.sfrbusinessteam.fr
+anonymous:   NO
+registered:  02/08/2010
+source:      FRNIC
+
+nic-hdl:     NC2771-FRNIC
+type:        ORGANIZATION
+contact:     NEUF CEGETEL
+address:     NEUF CEGETEL
+address:     40, quai du Point du Jour
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      noc@9tel.net
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     SFDR13-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR
+address:     42, avenue de Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      domaine@9tel.net
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     FR1697-FRNIC
+type:        PERSON
+contact:     Franck Rohard
+address:     SOCIETE FRANCAISE DU RADIOTELEPHONE SFR
+address:     42, rue Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 71 71 10 00
+fax-no:      +33 1 71 71 10 01
+e-mail:      domains@sfr.com
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

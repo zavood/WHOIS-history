@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TARPONPESCA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.UNI5.NET
-   Name Server: DNS2.UNI5.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-jan-2011
-   Creation Date: 17-mar-2009
-   Expiration Date: 17-mar-2012
+   Domain Name: MEGASLODGE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS2731.HOSTGATOR.COM
+   Name Server: NS2732.HOSTGATOR.COM
+   Status: ok
+   Updated Date: 08-sep-2011
+   Creation Date: 12-nov-2010
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:43:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:43:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
 
 
-Registrant:
-   Gustavo Hipolito
+Domain name: megaslodge.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TARPONPESCA.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      DNS1.UNI5.NET
-      DNS2.UNI5.NET
+   Frank Uche ()
+
+   Fax:
+   818 South Perry Street Suite 1
+   Montgomery,  36104
+   US
+
+Administrative Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Technical Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Status: Active
+
+Name Servers:
+   ns2731.hostgator.com
+   ns2732.hostgator.com
+
+Creation date: 12 Nov 2010 15:40:00
+Expiration date: 12 Nov 2011 10:40:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TARPONPESCA.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
