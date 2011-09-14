@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABLEWISE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
+   Domain Name: MOVIEPPL.COM
+   Registrar: ONLINE SAS
+   Whois Server: whois.bookmyname.com
+   Referral URL: http://www.bookmyname.com
+   Name Server: NS1.O2SWITCH.NET
+   Name Server: NS2.O2SWITCH.NET
    Status: clientTransferProhibited
-   Updated Date: 13-sep-2011
-   Creation Date: 12-sep-1999
-   Expiration Date: 12-sep-2012
+   Updated Date: 22-mar-2011
+   Creation Date: 15-jan-2011
+   Expiration Date: 15-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:23:03 UTC &lt;&lt;&lt;
 
@@ -52,71 +52,25 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+%% Whois
+%%
+%% NOTICE: Access to this information is provided to assist persons
+%% in determining the contents of a domain name registration record in
+%% our database. The data in this record is provided for informational
+%% purposes only.
+%% You agree that you will use this data only for lawful purposes and
+%% that, under no circumstances will you use this data to: (a) allow,
+%% enable, or otherwise support the transmission by e-mail, telephone, or
+%% facsimile of mass unsolicited, commercial advertising or solicitations
+%% to entities other than the data recipient's own existing customers;
+%% or (b) enable high volume, automated, electronic processes that
+%% send queries or data to the systems of Registry Operator or any
+%% ICANN-Accredited Registrar, except as reasonably necessary to register
+%% domain names or modify existing registrations.
+%% All rights reserved. These terms can be modify at any time.
+%% By submitting this query, you agree to abide by this policy.
+%
+% Date: 2011/09/14 09:23:36
 
 
-   Registrant:
-      AbleWise, Inc
-      William Ling
-      8 Jalan Riang
-      Singapore,   358971
-      SG
-      Phone: +65.6598349890
-      Email: support@ablewise.com
-
-
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: ablewise.com
-      Created on..............: 1999-09-12
-      Expires on..............: 2011-09-12
-
-   Administrative Contact:
-      AbleWise, Inc
-      William Ling
-      Block 801 French Road #02-37
-      Singapore,   200801
-      SG
-      Phone: +1.98349890
-      Email: support@ablewise.com
-
-
-   Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
-
-
-   DNS Servers:
-      ns1.geodns.net
-      ns2.geodns.net
-
-
-
-Visit AboutUs.org for more information about ablewise.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/ablewise.com&quot;&gt;AboutUs: ablewise.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
-
+unknown host rejected 174.142.225.246

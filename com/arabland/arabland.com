@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABLEWISE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
+   Domain Name: ARABLAND.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS1.ABCNETWORKS.COM
+   Name Server: NS2.ABCNETWORKS.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 13-sep-2011
-   Creation Date: 12-sep-1999
-   Expiration Date: 12-sep-2012
+   Status: clientUpdateProhibited
+   Updated Date: 13-jun-2010
+   Creation Date: 25-nov-1999
+   Expiration Date: 25-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:23:03 UTC &lt;&lt;&lt;
 
@@ -51,72 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-
-   Registrant:
-      AbleWise, Inc
-      William Ling
-      8 Jalan Riang
-      Singapore,   358971
-      SG
-      Phone: +65.6598349890
-      Email: support@ablewise.com
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
+Registrant:
+   Private Registration
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
+   Registered through: BeautifulDomains
+   Domain Name: ARABLAND.COM
 
-   Domain Name: ablewise.com
-      Created on..............: 1999-09-12
-      Expires on..............: 2011-09-12
-
-   Administrative Contact:
-      AbleWise, Inc
-      William Ling
-      Block 801 French Road #02-37
-      Singapore,   200801
-      SG
-      Phone: +1.98349890
-      Email: support@ablewise.com
+   Domain servers in listed order:
+      NS1.ABCNETWORKS.COM
+      NS2.ABCNETWORKS.COM
 
 
-   Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
-
-
-   DNS Servers:
-      ns1.geodns.net
-      ns2.geodns.net
-
-
-
-Visit AboutUs.org for more information about ablewise.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/ablewise.com&quot;&gt;AboutUs: ablewise.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
-
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=ARABLAND.COM&amp;prog_id=abcnet
