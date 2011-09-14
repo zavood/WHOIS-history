@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; skitour.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      skitour.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      WH3803-FRNIC
+tech-c:      SP643-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2890-FRNIC
+registrar:   FRONTIER SOFTWARE
+anniversary: 09/02
+created:     09/02/2007
+last-update: 09/02/2007
+source:      FRNIC
+
+ns-list:     NSL2890-FRNIC
+nserver:     ns1.infomaniak.ch
+nserver:     ns2.infomaniak.ch
+source:      FRNIC
+
+registrar:   FRONTIER SOFTWARE
+type:        Isp Option 1
+address:     36 Rue Charles Fourrier
+address:     EVRY CEDEX
+country:     FR
+phone:       +33 1 74 85 65 00
+fax-no:      +33 1 74 85 65 85
+e-mail:      info@frontier.fr
+website:     http://www.frontier.fr/
+anonymous:   NO
+registered:  24/04/1998
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     09/02/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WH3803-FRNIC
+type:        ROLE
+contact:     WebNext Hostmaster
+address:     36, rue Charles Fourier
+address:     91030 Evry Cedex
+country:     FR
+phone:       +33 1 64 97 22 00
+fax-no:      +33 1 64 97 37 97
+e-mail:      hostmaster@webnext.com
+trouble:     Information : http://support.webnext.com
+trouble:     Questions : mailto:hostmaster@webnext.com
+trouble:     Spam : mailto:abuse@webnext.com
+admin-c:     SP643-FRNIC
+tech-c:      AP952-FRNIC
+notify:      hostmaster@webnext.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SP643-FRNIC
+type:        PERSON
+contact:     Serge Pignard
+address:     Frontier Software
+address:     36, rue Charles Fourrier
+address:     91030 Evry Cedex
+country:     FR
+phone:       +33 1 64 97 35 06
+fax-no:      +33 1 64 97 34 97
+e-mail:      spignard@webnext.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

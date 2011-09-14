@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MPDGROUP.COM
+   Domain Name: MYKIDSCOTV.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS0.SERVE.CO.UK
+   Name Server: NS0.SERVE.NET.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-feb-2010
-   Creation Date: 14-feb-2002
-   Expiration Date: 14-feb-2012
+   Updated Date: 29-jul-2010
+   Creation Date: 17-may-2010
+   Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:50:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:51:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

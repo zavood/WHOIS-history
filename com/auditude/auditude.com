@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MPDGROUP.COM
+   Domain Name: AUDITUDE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-feb-2010
-   Creation Date: 14-feb-2002
-   Expiration Date: 14-feb-2012
+   Updated Date: 31-mar-2010
+   Creation Date: 01-jul-2000
+   Expiration Date: 01-jul-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:50:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:51:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

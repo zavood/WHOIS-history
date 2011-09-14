@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MPDGROUP.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Domain Name: CINEPLEX.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-feb-2010
-   Creation Date: 14-feb-2002
-   Expiration Date: 14-feb-2012
+   Updated Date: 16-jun-2009
+   Creation Date: 06-jun-1997
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:50:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:51:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +56,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Too many lookups from this IP today. See you tomorrow.
