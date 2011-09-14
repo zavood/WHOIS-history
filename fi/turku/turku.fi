@@ -1,0 +1,18 @@
+
+domain:   turku.fi
+descr:    Turun kaupunki
+descr:    02048198
+address:  keskushallinto, IT-toiminta
+address:  Lemmink&auml;isenkatu 14-18 A
+address:  20520
+address:  Turku
+phone:    02-2627265
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns1.turku.fi [OK] 192.103.92.8
+nserver: ns3.turku.fi [OK] 194.111.68.1
+nserver: ns4.turku.fi [OK] 194.79.19.31
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

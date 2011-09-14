@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:36:35 (BRT -03:00)
+
+domain:      getsmart.com.br
+owner:       Network Explorer Ltda. M.E.
+ownerid:     002.785.974/0001-53
+responsible: Francisco Andr&eacute; Barbosa Neto
+country:     BR
+owner-c:     FAN23
+admin-c:     FAN23
+tech-c:      FAN23
+billing-c:   FAN23
+nserver:     ns1.getsmart.com.br 200.155.15.9
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.getsmart.com.br 200.155.15.8
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20000323 #295199
+expires:     20120323
+changed:     20110331
+status:      published
+
+nic-hdl-br:  FAN23
+person:      Francisco Andr&eacute; Barbosa Neto
+e-mail:      fneto@networkexplorer.com.br
+created:     19981112
+changed:     20050125
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

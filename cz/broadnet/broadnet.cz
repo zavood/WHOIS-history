@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:36:35 2011
+
+domain:       broadnet.cz
+registrant:   SB:CESKYMOBIL
+admin-c:      SB:IWS-BROADNET
+nsset:        IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   12.10.1999 20:51:00
+changed:      26.10.2010 00:33:14
+expire:       11.10.2012
+
+contact:      SB:CESKYMOBIL
+org:          Vodafone Czech Republic a.s.
+name:         ----- -----
+address:      Vinohradska 167
+address:      Praha 10
+address:      11000
+address:      CZ
+e-mail:       ns-admin@vodafone.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.08.2007 16:55:00
+
+contact:      SB:IWS-BROADNET
+org:          BroadNet Czech, a.s.
+name:         BroadNet Czech, a.s.
+address:      Vinohradska 167
+address:      Praha
+address:      10000
+address:      CZ
+e-mail:       domeny@broadnet.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      02.11.2009 15:28:59
+
+nsset:        IGNUM
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (213.235.133.138)
+tech-c:       IGNUM
+registrar:    REG-IGNUM
+created:      04.10.2007 15:19:01
+changed:      02.04.2008 18:37:05
+
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Robert Proke&Aring;&iexcl;
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       info@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+
+

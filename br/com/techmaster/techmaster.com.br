@@ -1,0 +1,67 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:35:17 (BRT -03:00)
+
+domain:      techmaster.com.br
+owner:       TECHMASTER SERVICOS EM INFORMATICA LTDA
+ownerid:     032.209.207/0001-67
+responsible: Joseph Ryther Morgan Junior
+country:     BR
+owner-c:     LRC2
+admin-c:     LRC2
+tech-c:      OIS6
+billing-c:   JRJ4
+nserver:     ns.techmaster.com.br 200.196.55.250
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns5.no-ip.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.no-ip.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns3.no-ip.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns4.no-ip.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns1.no-ip.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     19970722 #48341
+expires:     20130722
+changed:     20110822
+status:      published
+
+nic-hdl-br:  JRJ4
+person:      Joseph Ryther Morgan Junior
+e-mail:      joseph@techmaster.com.br
+created:     19980110
+changed:     20091002
+
+nic-hdl-br:  LRC2
+person:      Luiz R. G. de Carvalho
+e-mail:      luizrogeriocarvalho@gmail.com
+created:     19980110
+changed:     20110725
+
+nic-hdl-br:  OIS6
+person:      Open I T Suporte
+e-mail:      oit@openit.com.br
+created:     20030804
+changed:     20090819
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
