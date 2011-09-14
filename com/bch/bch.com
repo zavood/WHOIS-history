@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 5SQC.COM
+   Domain Name: BCH.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS.BLUEGRASS.NET
+   Name Server: NS1.BLUEGRASS.NET
    Status: clientTransferProhibited
-   Updated Date: 14-apr-2009
-   Creation Date: 19-may-2000
-   Expiration Date: 19-may-2014
+   Updated Date: 07-may-2009
+   Creation Date: 04-jun-1995
+   Expiration Date: 03-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:57:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:56:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: 5sqc.com
+Whois Query: bch.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 21:53:28 EDT 2011
+Date and Time of Query: Tue Sep 13 21:47:06 EDT 2011
 Reason Code: IE
