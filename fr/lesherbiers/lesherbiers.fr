@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lesherbiers.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lesherbiers.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    M2304-FRNIC
+admin-c:     KD88-FRNIC
+tech-c:      GG487-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL46660-FRNIC
+registrar:   ATLANTIC SYSTEMES
+anniversary: 04/11
+created:     19/01/2004
+last-update: 26/02/2011
+source:      FRNIC
+
+ns-list:     NSL46660-FRNIC
+nserver:     ns-1164.awsdns-17.org
+nserver:     ns-15.awsdns-01.com
+nserver:     ns-1939.awsdns-50.co.uk
+nserver:     ns-776.awsdns-33.net
+source:      FRNIC
+
+registrar:   ATLANTIC SYSTEMES
+type:        Isp Option 2
+address:     111C Rue du G&eacute;n&eacute;ral Buat
+address:     NANTES
+country:     FR
+phone:       0 820 44 47 06
+fax-no:      +33 2 72 68 58 58
+e-mail:      info@atlantic6.com
+website:     http://www.atlantic6.com
+anonymous:   NO
+registered:  11/05/2004
+source:      FRNIC
+
+nic-hdl:     KD88-FRNIC
+type:        PERSON
+contact:     Karl Drouet
+address:     MAIRIE
+address:     6, rue du Tourniquet
+address:     85500 Les Herbiers
+country:     FR
+phone:       +33 2 51 91 07 67
+e-mail:      kdrouet@villedesherbiers.com
+changed:     04/11/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     M2304-FRNIC
+type:        ORGANIZATION
+contact:     MAIRIE
+address:     6, rue du Tourniquet
+address:     85500 Les Herbiers
+country:     FR
+phone:       +33 2 51 91 07 67
+e-mail:      kdrouet@villedesherbiers.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GG487-FRNIC
+type:        ROLE
+contact:     GAEL GIRAUD
+address:     Atlantic Systemes
+address:     111c, rue du General Buat
+address:     44000 Nantes
+country:     FR
+e-mail:      gael.giraud@atlantic-systemes.com
+admin-c:     GG485-FRNIC
+tech-c:      GG485-FRNIC
+changed:     01/06/2004 gael.giraud@atlantic-systemes.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

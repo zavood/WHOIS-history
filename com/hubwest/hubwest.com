@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEARNHOWTOSTOPSMOKING.NET
+   Domain Name: HUBWEST.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
+   Name Server: NS.HUBWEST.COM
+   Name Server: NS2.HUBWEST.COM
    Status: clientTransferProhibited
-   Updated Date: 23-may-2011
-   Creation Date: 18-may-2010
-   Expiration Date: 18-may-2012
+   Updated Date: 06-aug-2010
+   Creation Date: 17-oct-1997
+   Expiration Date: 16-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:31:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:30:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about learnhowtostopsmoking.net
-&lt;a href=&quot;http://www.aboutus.org/learnhowtostopsmoking.net&quot;&gt;AboutUs: learnhowtostopsmoking.net&lt;/a&gt;
+Visit AboutUs.org for more information about hubwest.com
+&lt;a href=&quot;http://www.aboutus.org/hubwest.com&quot;&gt;AboutUs: hubwest.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: learnhowtostopsmoking.net
-
-Registrant Contact:
-
-   Betty Hansen ()
-
-   Fax:
-   130 W. Gilman St.
-   Banning, CA 92220
-   US
+Domain name: hubwest.com
 
 Administrative Contact:
-
-   Betty Hansen (reeves_chris@ymail.com)
-   +1.9519228227
-   Fax: +1.5555555555
-   130 W. Gilman St.
-   Banning, CA 92220
+   Southwest Cyberport
+   Host Master (hostmaster@swcp.com)
+   +1.5052327992
+   Fax: +1.5052715955
+   5021 Indian School Rd. NE
+   STE 600
+   Albuquerque, NM 87110
    US
 
 Technical Contact:
+   Southwest Cyberport
+   Host Master (hostmaster@swcp.com)
+   +1.5052327992
+   Fax: +1.5052715955
+   5021 Indian School Rd. NE
+   STE 600
+   Albuquerque, NM 87110
+   US
 
-   Betty Hansen (reeves_chris@ymail.com)
-   +1.9519228227
-   Fax: +1.5555555555
-   130 W. Gilman St.
-   Banning, CA 92220
+Registrant Contact:
+   Southwest Cyberport
+   Host Master ()
+
+   Fax:
+   5021 Indian School Rd. NE
+   STE 600
+   Albuquerque, NM 87110
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.speedydns.net
-   ns2.speedydns.net
+   NS.HUBWEST.COM
+   NS2.HUBWEST.COM
 
-Creation date: 18 May 2010 09:05:00
-Expiration date: 18 May 2012 04:05:00
+Creation date: 17 Oct 1997 00:00:00
+Expiration date: 16 Oct 2011 00:00:00
 
 
 

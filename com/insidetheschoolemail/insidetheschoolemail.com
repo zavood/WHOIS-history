@@ -5,22 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CREATESEND.COM
+   Domain Name: INSIDETHESCHOOLEMAIL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: A.NS.INSIDETHESCHOOLEMAIL.COM
+   Name Server: B.NS.INSIDETHESCHOOLEMAIL.COM
+   Name Server: C.NS.INSIDETHESCHOOLEMAIL.COM
+   Name Server: D.NS.INSIDETHESCHOOLEMAIL.COM
+   Name Server: E.NS.INSIDETHESCHOOLEMAIL.COM
+   Name Server: F.NS.INSIDETHESCHOOLEMAIL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-mar-2007
-   Creation Date: 23-jun-2005
-   Expiration Date: 23-jun-2016
+   Updated Date: 23-feb-2011
+   Creation Date: 19-jan-2011
+   Expiration Date: 19-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:30:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:32:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +80,19 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Scott Randall
+   Magna Publications
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CREATESEND.COM
+   Domain Name: INSIDETHESCHOOLEMAIL.COM
 
    Domain servers in listed order:
-      NS0.DNSMADEEASY.COM
-      NS1.DNSMADEEASY.COM
-      NS2.DNSMADEEASY.COM
+      A.NS.INSIDETHESCHOOLEMAIL.COM
+      B.NS.INSIDETHESCHOOLEMAIL.COM
+      C.NS.INSIDETHESCHOOLEMAIL.COM
+      D.NS.INSIDETHESCHOOLEMAIL.COM
+      E.NS.INSIDETHESCHOOLEMAIL.COM
+      F.NS.INSIDETHESCHOOLEMAIL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CREATESEND.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=INSIDETHESCHOOLEMAIL.COM

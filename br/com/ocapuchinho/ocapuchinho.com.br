@@ -5,13 +5,42 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 03:49:02 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-14 15:32:46 (BRT -03:00)
 
 domain:      ocapuchinho.com.br
-owner:       PAROQUIA DAS MERC&Ecirc;S (716840)
+owner:       PAROQUIA DAS MERC&Ecirc;S
+ownerid:     076.648.500/0033-83
+responsible: marco Ant&ocirc;nio
+country:     BR
+owner-c:     MAB2496
+admin-c:     MAB2496
+tech-c:      ANO8
+billing-c:   MAB2496
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20051009 #2396224
+expires:     20111009
+changed:     20101103
+status:      published
+
+nic-hdl-br:  ANO8
+person:      Andr&eacute; Ott
+e-mail:      andre@ott.com.br
+created:     19990125
+changed:     20110809
+
+nic-hdl-br:  MAB2496
+person:      MARCO ANTONIO DI BENEDETTO
+e-mail:      marco@mlesquadrias.com.br
+created:     20050930
+changed:     20050930
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-jan-2007
    Expiration Date: 29-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:51:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:32:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Kenshoo TLD
-   35 Jabotinsky St.
-   Ramat-Gan, Ramat-Gan 52511
-   Israel
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: XG4KEN.COM
-      Created on: 29-Jan-07
-      Expires on: 29-Jan-13
-      Last Updated on: 23-Jun-11
-
-   Administrative Contact:
-      Hadary, Ran  domain@kenshoo.com
-      Kenshoo TLD
-      6 Habarzel St
-      Tel-Aviv,  69710
-      Israel
-      37466500      Fax -- 37466510
-
-   Technical Contact:
-      Hadary, Ran  domain@kenshoo.com
-      Kenshoo TLD
-      6 Habarzel St
-      Tel-Aviv,  69710
-      Israel
-      37466500      Fax -- 37466510
 
    Domain servers in listed order:
       DNS11.COTDNS.NET
       DNS12.COTDNS.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=XG4KEN.COM

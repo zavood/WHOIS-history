@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEARNHOWTOSTOPSMOKING.NET
+   Domain Name: CSPEIRS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
+   Name Server: NS778.DIZINC.COM
+   Name Server: NS779.DIZINC.COM
    Status: clientTransferProhibited
-   Updated Date: 23-may-2011
-   Creation Date: 18-may-2010
-   Expiration Date: 18-may-2012
+   Updated Date: 22-aug-2011
+   Creation Date: 20-aug-2003
+   Expiration Date: 20-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:31:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:30:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about learnhowtostopsmoking.net
-&lt;a href=&quot;http://www.aboutus.org/learnhowtostopsmoking.net&quot;&gt;AboutUs: learnhowtostopsmoking.net&lt;/a&gt;
+Visit AboutUs.org for more information about cspeirs.com
+&lt;a href=&quot;http://www.aboutus.org/cspeirs.com&quot;&gt;AboutUs: cspeirs.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: learnhowtostopsmoking.net
+Domain name: cspeirs.com
 
 Registrant Contact:
 
-   Betty Hansen ()
+   Craig Speirs ()
 
    Fax:
-   130 W. Gilman St.
-   Banning, CA 92220
+   P.O. Box 806
+   Medical Lake, WA 99022
    US
 
 Administrative Contact:
 
-   Betty Hansen (reeves_chris@ymail.com)
-   +1.9519228227
-   Fax: +1.5555555555
-   130 W. Gilman St.
-   Banning, CA 92220
+   Kirby Monahan (kmonahan@gmail.com)
+   +1.7202213284
+   Fax:
+   2105 E Carlson Ct
+   Spokane, WA 99208
    US
 
 Technical Contact:
 
-   Betty Hansen (reeves_chris@ymail.com)
-   +1.9519228227
-   Fax: +1.5555555555
-   130 W. Gilman St.
-   Banning, CA 92220
+   Kirby Monahan (kmonahan@gmail.com)
+   +1.7202213284
+   Fax:
+   2105 E Carlson Ct
+   Spokane, WA 99208
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.speedydns.net
-   ns2.speedydns.net
+   ns778.dizinc.com
+   ns779.dizinc.com
 
-Creation date: 18 May 2010 09:05:00
-Expiration date: 18 May 2012 04:05:00
+Creation date: 20 Aug 2003 19:04:33
+Expiration date: 20 Aug 2012 19:04:00
 
 
 
