@@ -1,0 +1,71 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:27:54 2011
+
+domain:       efconsulting.cz
+registrant:   SB:FORPSI-IDD-S134389
+admin-c:      FORPSI-IDD-C134389
+nsset:        NSSID:IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   03.07.2005 23:05:00
+changed:      03.09.2008 13:18:13
+expire:       03.07.2012
+
+contact:      SB:FORPSI-IDD-S134389
+org:          E&amp;F Consulting, spol. s r.o.
+name:         Ta&Aring;&yen;&Atilde;&iexcl;na Veli&Auml;çkov&Atilde;&iexcl;
+address:      Mez&Atilde;&shy;rka 9
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       tatana.velickova@spd.cz
+registrar:    REG-INTERNET-CZ
+created:      30.06.2005 10:35:00
+
+contact:      FORPSI-IDD-C134389
+name:         Ta&Aring;&yen;&Atilde;&iexcl;na Veli&Auml;çkov&Atilde;&iexcl;
+address:      Mez&Atilde;&shy;rka 9
+address:      Brno
+address:      602 00
+address:      CZ
+phone:        +420.776274894
+e-mail:       tatana.velickova@spd.cz
+registrar:    REG-INTERNET-CZ
+created:      30.06.2005 10:35:00
+
+nsset:        NSSID:IGNUM
+nserver:      ns2.ignum.cz
+nserver:      ns1.ignum.com
+tech-c:       CID:IGN-C117990-YN5
+registrar:    REG-IGNUM
+created:      20.09.2006 09:55:39
+changed:      12.09.2007 11:26:06
+
+contact:      CID:IGN-C117990-YN5
+org:          Ignum, s.r.o.
+name:         Marek Erneker
+address:      Th&Atilde;&iexcl;mova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+registrar:    REG-IGNUM
+created:      11.09.2007 15:28:03
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D354515-LROR
+Domain Name:USNI.ORG
+Created On:31-May-1996 04:00:00 UTC
+Last Updated On:15-Aug-2011 20:24:21 UTC
+Expiration Date:30-May-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37375904
+Registrant Name:Rick Woodcock
+Registrant Organization:United States Naval Institute
+Registrant Street1:291 WOOD RD
+Registrant Street2:
+Registrant Street3:
+Registrant City:Annapolis
+Registrant State/Province:Maryland
+Registrant Postal Code:21402
+Registrant Country:US
+Registrant Phone:+1.4102951088
+Registrant Phone Ext.:
+Registrant FAX:+1.4102951091
+Registrant FAX Ext.:
+Registrant Email:rwoodcock@usni.org
+Admin ID:CR37375906
+Admin Name:Rick Woodcock
+Admin Organization:United States Naval Institute
+Admin Street1:291 WOOD RD
+Admin Street2:
+Admin Street3:
+Admin City:Annapolis
+Admin State/Province:Maryland
+Admin Postal Code:21402
+Admin Country:US
+Admin Phone:+1.4102951088
+Admin Phone Ext.:
+Admin FAX:+1.4102951091
+Admin FAX Ext.:
+Admin Email:rwoodcock@usni.org
+Tech ID:CR37375905
+Tech Name:Rick Woodcock
+Tech Organization:United States Naval Institute
+Tech Street1:291 WOOD RD
+Tech Street2:
+Tech Street3:
+Tech City:Annapolis
+Tech State/Province:Maryland
+Tech Postal Code:21402
+Tech Country:US
+Tech Phone:+1.4102951088
+Tech Phone Ext.:
+Tech FAX:+1.4102951091
+Tech FAX Ext.:
+Tech Email:rwoodcock@usni.org
+Name Server:LARA.NS.CLOUDFLARE.COM
+Name Server:TIM.NS.CLOUDFLARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

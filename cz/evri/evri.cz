@@ -1,0 +1,61 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:29:05 2011
+
+domain:       evri.cz
+registrant:   SB:EVAKANOVA
+admin-c:      MARGALAS
+nsset:        NSS:ARGALAS.NET:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   13.04.2006 14:05:00
+changed:      27.10.2010 09:23:22
+expire:       13.04.2012
+
+contact:      SB:EVAKANOVA
+name:         Eva Kanova
+address:      Su&Aring;&iexcl;ilova 3
+address:      Brno
+address:      602 00
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      13.04.2006 13:55:00
+changed:      27.10.2010 09:19:37
+
+contact:      MARGALAS
+org:          Ing. Martin Argal&Atilde;&iexcl;&Aring;&iexcl;
+name:         Martin Argal&Atilde;&iexcl;&Aring;&iexcl;
+address:      Valcha&Aring;™sk&Atilde;&iexcl; 10a
+address:      Brno
+address:      61400
+address:      CZ
+phone:        +420.603294974
+e-mail:       martin@argalas.net
+registrar:    REG-ACTIVE24
+created:      25.01.2008 11:05:42
+changed:      26.02.2008 13:44:56
+
+nsset:        NSS:ARGALAS.NET:1
+nserver:      irian.argalas.net
+nserver:      liza.argalas.net
+tech-c:       MARGALAS
+registrar:    REG-ACTIVE24
+created:      01.09.2010 15:41:09
+
+
