@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: WXSHC.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS1.CNOLNIC.COM
+   Name Server: NS2.CNOLNIC.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Status: clientUpdateProhibited
+   Updated Date: 15-jun-2011
+   Creation Date: 20-jun-2004
+   Expiration Date: 20-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
 
@@ -53,36 +54,62 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+Domain: wxshc.com
+Status: Protected
 
-Note: Automated collection of data from this database is strictly prohibited.
+DNS:
+	NS2.CNOLNIC.COM
+	NS1.CNOLNIC.COM
+
+Created: 2004-06-20 00:00:00
+Expires: 2012-06-20 21:23:49
+Last Modified: 2008-06-26 08:04:37
+
+Registrant Contact:
+	dajun
+	dajun dajun (ydj@hdnew.com)
+	wx
+	wx, Jiangsu, cn 214125
+	P: +86.05105188039 F: +86.05105189265
+
+Administrative Contact:
+	dajun
+	dajun dajun (ydj@hdnew.com)
+	wx
+	wx, Jiangsu, cn 214125
+	P: +86.05105188039 F: +86.05105189265
+
+Technical Contact:
+	dajun
+	dajun dajun (ydj@hdnew.com)
+	wx
+	wx, Jiangsu, cn 214125
+	P: +86.05105188039 F: +86.05105189265
+
+Billing Contact:
+	dajun
+	dajun dajun (ydj@hdnew.com)
+	wx
+	wx, Jiangsu, cn 214125
+	P: +86.05105188039 F: +86.05105189265
 

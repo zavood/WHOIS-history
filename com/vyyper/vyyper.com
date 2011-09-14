@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: VYYPER.COM
+   Registrar: LIQUIDNET LTD.
+   Whois Server: whois.liquidnetlimited.com
+   Referral URL: http://www.liquidnetlimited.com
+   Name Server: DNS1.SUPREMEDNS.COM
+   Name Server: DNS2.SUPREMEDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Updated Date: 07-jan-2011
+   Creation Date: 02-jan-2009
+   Expiration Date: 02-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,77 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Registration Service Provided By: VyyperHost
+Contact: support@propersupport.com
+Visit: http://vyyperhost.com/
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Domain Name: vyyper.com
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
+Registrant:
+    N/A
+    Lorin Dunford (lorindunford@yahoo.com)
+    125 Garland Cr.
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+    Sherwood Park, AB T8A 2R1
+    CA
+    Tel: +1.7809941554
+    Fax:
 
-Note: Automated collection of data from this database is strictly prohibited.
 
+Creation Date: 2009-01-02 15:10:00
+Expiration Date: 2012-01-02 15:10:00
+
+Domain servers in listed order:
+    dns1.supremedns.com
+    dns2.supremedns.com
+
+
+Administrative Contact:
+    N/A
+    Lorin Dunford (lorindunford@yahoo.com)
+    125 Garland Cr.
+
+    Sherwood Park, AB T8A 2R1
+    CA
+    Tel: +1.7809941554
+    Fax:
+
+
+Technical Contact:
+    N/A
+    Lorin Dunford (lorindunford@yahoo.com)
+    125 Garland Cr.
+
+    Sherwood Park, AB T8A 2R1
+    CA
+    Tel: +1.7809941554
+    Fax:
+
+
+Billing Contact:
+    N/A
+    Lorin Dunford (lorindunford@yahoo.com)
+    125 Garland Cr.
+
+    Sherwood Park, AB T8A 2R1
+    CA
+    Tel: +1.7809941554
+    Fax:
+
+
+Status: Unlocked
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is LiquidNet Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Domain Name: NATIVOSDEMINAS.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
+   Status: redemptionPeriod
+   Updated Date: 09-sep-2011
+   Creation Date: 30-jul-2009
+   Expiration Date: 30-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
-
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
-
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
-
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+You have exceeded your access quota. Please try again later.

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: PORTSTLUCIERVRESORT.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS5.APTHOST.COM
+   Name Server: NS6.APTHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 13-may-2011
+   Creation Date: 25-jul-2001
+   Expiration Date: 25-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,56 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
-
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Domain name: portstluciervresort.com
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+      Michael    Keeler
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      1ac6c24e38b9b71d@private-contact.com
 
-   Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Administrative Contact:
+      Michael    Keeler
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      m2m18rbz5qg9yefe@private-contact.com
 
-Status: Locked
+Technical Contact:
+      Michael    Keeler
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      molgbtv2dh7sq0q9@private-contact.com
 
-Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
-
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Update date: 2011-05-13
+Expiration date: 2013-07-25
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -117,4 +108,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

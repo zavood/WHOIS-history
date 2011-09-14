@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: HOST-VISION.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: DNS1.HOST-VISION.COM
+   Name Server: DNS2.HOST-VISION.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 07-may-2011
+   Creation Date: 21-apr-2004
+   Expiration Date: 21-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
 
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about host-vision.com
+&lt;a href=&quot;http://www.aboutus.org/host-vision.com&quot;&gt;AboutUs: host-vision.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
-
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Domain name: host-vision.com
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+   HostVision Srl
+   GHITULESCU FLAVIU ()
 
    Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+   str. Tebei nr.21, corp C, etaj 3
+   Cluj-Napoca, Cluj 400305
+   RO
+
+Administrative Contact:
+   HostVision Srl
+   GHITULESCU FLAVIU (domains@hostvision.ro)
+   40.0743331791
+   Fax: 40.0264532152
+   str. Tebei nr.21, corp C, etaj 3
+   Cluj-Napoca, Cluj 400305
+   RO
+
+Technical Contact:
+   HostVision Srl
+   GHITULESCU FLAVIU (domains@hostvision.ro)
+   40.0743331791
+   Fax: 40.0264532152
+   str. Tebei nr.21, corp C, etaj 3
+   Cluj-Napoca, Cluj 400305
+   RO
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   dns1.host-vision.com
+   dns2.host-vision.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 21 Apr 2004 18:54:00
+Expiration date: 21 Apr 2012 18:54:00
 
 
 

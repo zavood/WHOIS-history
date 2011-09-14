@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: WOLFMINIMAZE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS5.WORLDNIC.COM
+   Name Server: NS6.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 07-jan-2010
+   Creation Date: 12-jan-2004
+   Expiration Date: 12-jan-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain name: lesbodesire.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+http://www.networksolutions.com/whois/index.jhtml
 
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
-
-   Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Status: Locked
-
-Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
-
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Whois Query: wolfminimaze.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 16:57:55 EDT 2011
+Reason Code: IE

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: WACOPROSPECTOR.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Updated Date: 27-dec-2010
+   Creation Date: 09-jan-2007
+   Expiration Date: 09-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
 
@@ -53,36 +52,71 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+   Registrant:
+      GisPlanning, Inc
+      Pablo Monzon
+      14 Mint Plaza 4th Floor
+      San Francisco, CA 94103
+      US
+      Phone: +1.4152944782
+      Email: rayotte@gisplanning.com
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: wacoprospector.com
+      Created on..............: 2007-01-09
+      Expires on..............: 2016-01-09
+
+   Administrative Contact:
+      GIS Planning
+      Kevin Knapp
+      333 Bryant St Ste 340
+      San Francisco, CA 94107
+      US
+      Phone: +1.4152944780
+      Email: kknapp@gisplanning.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      udns2.ultradns.net
+      udns1.ultradns.net
+
+
+
+Visit AboutUs.org for more information about wacoprospector.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/wacoprospector.com&quot;&gt;AboutUs: wacoprospector.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

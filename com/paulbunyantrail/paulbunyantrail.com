@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Domain Name: PAULBUNYANTRAIL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.MINNESOTA27.COM
+   Name Server: NS2.MINNESOTA27.COM
+   Status: ok
+   Updated Date: 15-aug-2011
+   Creation Date: 29-oct-1997
+   Expiration Date: 28-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+Domain Name.......... paulbunyantrail.com
+  Creation Date........ 1997-10-29
+  Registration Date.... 2001-08-28
+  Expiry Date.......... 2011-10-28
+  Organisation Name.... Midwest Captions (PAULBUNYANTRAIL-DOM)
+  Organisation Address. 150 Birchridge Street
+  Organisation Address. _
+  Organisation Address. Brainerd
+  Organisation Address. 56401
+  Organisation Address. MN
+  Organisation Address. UNITED STATES
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Admin Name........... Ann Sherman
+  Admin Address........ 150 Birchridge Street
+  Admin Address........ _
+  Admin Address........ Brainerd
+  Admin Address........ 56401
+  Admin Address........ MN
+  Admin Address........ UNITED STATES
+  Admin Email.......... bob@BRAINERD.COM
+  Admin Phone.......... (218) 825-8112
+  Admin Fax............ _
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Tech Name............ Domain Administrator
+  Tech Address......... PO Box 3895
+  Tech Address......... _
+  Tech Address......... Englewood
+  Tech Address......... 80155
+  Tech Address......... CO
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@securesites.com
+  Tech Phone........... 1 801 437 0220
+  Tech Fax............. _
+  Name Server.......... ns1.minnesota27.com
+  Name Server.......... ns2.minnesota27.com
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
-
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
-
-Note: Automated collection of data from this database is strictly prohibited.
 

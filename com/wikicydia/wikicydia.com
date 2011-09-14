@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: WIKICYDIA.COM
+   Registrar: NAME.COM LLC
+   Whois Server: whois.name.com
+   Referral URL: http://www.name.com
+   Name Server: NS1959.HOSTGATOR.COM
+   Name Server: NS1960.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 28-dec-2010
+   Creation Date: 03-jan-2010
+   Expiration Date: 03-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+__   _                             ____
+| \ | | __ _ _ __ ___   ___       / ___|___  _ __ ___
+|  \| |/ _` | '_ ` _ \ / _ \     | |   / _ \| '_ ` _ \
+| |\  | (_| | | | | | |  __/  _  | |__| (_) | | | | | |
+|_| \_|\__,_|_| |_| |_|\___| (_)  \____\___/|_| |_| |_|
+      On a first name basis with the rest of the world.
 
-Domain name: lesbodesire.com
 
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
 
-Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+Domain Name:     wikicydia.com
+Registrar:       Name.com LLC
 
-   Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Status: Locked
+Expiration Date: 2012-01-04 02:06:07
+Creation Date:   2010-01-04 02:06:07
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+	ns1959.hostgator.com
+	ns1960.hostgator.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+REGISTRANT CONTACT INFO
+john caristra
+john  caristra
+State Water Survey
+Monarch St.
+Illinois
+Illinois
+17689
+US
+Phone:         +1.875545558 875545558
+Email Address: uboncyber@yahoo.com
 
+ADMINISTRATIVE CONTACT INFO
+john caristra
+john  caristra
+State Water Survey
+Monarch St.
+Illinois
+Illinois
+17689
+US
+Phone:         +1.875545558 875545558
+Email Address: uboncyber@yahoo.com
 
+TECHNICAL CONTACT INFO
+john caristra
+john  caristra
+State Water Survey
+Monarch St.
+Illinois
+Illinois
+17689
+US
+Phone:         +1.875545558 875545558
+Email Address: uboncyber@yahoo.com
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+BILLING CONTACT INFO
+john caristra
+john  caristra
+State Water Survey
+Monarch St.
+Illinois
+Illinois
+17689
+US
+Phone:         +1.875545558 875545558
+Email Address: uboncyber@yahoo.com
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Timestamp: 1316034502.1243
+
+The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-14T15:08:22-06:00

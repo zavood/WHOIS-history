@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: TAOKEU.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 03-sep-2011
+   Creation Date: 02-sep-2011
+   Expiration Date: 02-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about taokeu.com
+&lt;a href=&quot;http://www.aboutus.org/taokeu.com&quot;&gt;AboutUs: taokeu.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
+Domain name: taokeu.com
 
 Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (lwtfsbjdk@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O taokeu.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (lwtfsbjdk@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O taokeu.com
+   Bellevue, WA 98007
    US
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   PMB 368, 14150 NE 20th St - F1
+   C/O taokeu.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 03 Sep 2011 13:01:00
+Expiration date: 02 Sep 2012 11:22:00
 
 
 

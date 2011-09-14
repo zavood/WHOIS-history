@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: VARAOSAT24.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: DNS2.XSERVU.COM
+   Name Server: DNS3.KOOD.EE
+   Name Server: P1.XSERVU.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 01-mar-2011
+   Creation Date: 05-mar-2010
+   Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about varaosat24.com
+&lt;a href=&quot;http://www.aboutus.org/varaosat24.com&quot;&gt;AboutUs: varaosat24.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
-
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Domain name: varaosat24.com
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+   Ladu24 OY
+   Ronald Kozak ()
 
    Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+   Tondi 27
+   Tallinn, HA 10127
+   EE
+
+Administrative Contact:
+   Zone Media LLC
+   Zone Hostmaster (info@zone.ee)
+   +372.6886886
+   Fax: +372.6886887
+   Lootsa 2B
+   Tallinn, HARJUMAA 11415
+   EE
+
+Technical Contact:
+   Zone Media LLC
+   Zone Hostmaster (info@zone.ee)
+   +372.6886886
+   Fax: +372.6886887
+   Lootsa 2B
+   Tallinn, HA 11415
+   EE
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   dns2.xservu.com
+   dns3.kood.ee
+   p1.xservu.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 05 Mar 2010 10:30:05
+Expiration date: 05 Mar 2012 10:30:05
 
 
 

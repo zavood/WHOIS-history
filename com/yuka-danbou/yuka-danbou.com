@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: YUKA-DANBOU.COM
+   Registrar: FIRSTSERVER, INC.
+   Whois Server: whois.do-reg.jp
+   Referral URL: http://www.do-reg.jp
+   Name Server: NSAS1.FIRSTSERVER.NE.JP
+   Name Server: NSAS2.FIRSTSERVER.NE.JP
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Updated Date: 30-apr-2011
+   Creation Date: 01-may-2005
+   Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+### Do-REG WHOIS database / ###
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+String for search [ YUKA-DANBOU.COM ]
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
+[Domain Name]     YUKA-DANBOU.COM
+[Status]          clientTransferProhibited
+[Nameserver]      NSAS1.FIRSTSERVER.NE.JP
+[Nameserver]      NSAS2.FIRSTSERVER.NE.JP
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+[Creation Date]   2005-05-02 11:29:32(JST)
+[Expiration Date] 2012-05-02 11:29:32(JST)
+[Last Update]     2011-05-01 00:30:31(JST)
 
-Note: Automated collection of data from this database is strictly prohibited.
+[Registrant]
+        Web co,ltd
+        Name:           Web co,ltd
+        Address:         286-1,Okubo Okubo-cho,akashi-shi Hyogo-ken, JAPAN
+
+[Admin Contact]
+        Handle:         DRYK0441
+        Organization:   MARUYOSHI inc.
+        Name:           Yuko Kitanaka
+        E-Mail:         kitanaka@maruyoshi21.com
+        Postal-Code:    612-8297
+        Address:         114 Kibune, Yokooji, Hushimi-ku, Kyoto-shi Kyoto, JP
+        Phone-Number:   075-622-1408
+        Fax-Number:     075-622-1400
+[Tech Contact]
+        Handle:         DRYK0441
+        Organization:   MARUYOSHI inc.
+        Name:           Yuko Kitanaka
+        E-Mail:         kitanaka@maruyoshi21.com
+        Postal-Code:    612-8297
+        Address:         114 Kibune, Yokooji, Hushimi-ku, Kyoto-shi Kyoto, JP
+        Phone-Number:   075-622-1408
+        Fax-Number:     075-622-1400
 

@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TJXREWARDS.COM
+   Domain Name: BLOGLINES.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: AUTH00.NS.UU.NET
-   Name Server: AUTH100.NS.UU.NET
+   Name Server: NS-A.PNAP.NET
+   Name Server: NS-B.PNAP.NET
+   Name Server: NS-C.PNAP.NET
+   Name Server: NS-D.PNAP.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-sep-2010
-   Creation Date: 24-oct-2006
-   Expiration Date: 24-oct-2012
+   Updated Date: 02-dec-2010
+   Creation Date: 07-may-2003
+   Expiration Date: 07-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:06:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,42 +81,44 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Shaun Whittaker
-        The TJX Companies
-        770 Cochituate Road
-         Framingham MA 01701
+        DNS Manager
+        Ask.com
+        555 12th Street Suite 500
+         Oakland CA 94607
         US
-        shaun_whittaker@tjx.com +1.5083902282 Fax: +1.5083902990
+        dnsmanager@askjeeves.com +1.5109857400 Fax: +1.5109857507
 
-    Domain Name: tjxrewards.com
+    Domain Name: bloglines.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Shaun Whittaker
-        The TJX Companies
-        770 Cochituate Road
-         Framingham MA 01701
+        DNS Manager
+        Ask.com
+        555 12th Street Suite 500
+         Oakland CA 94607
         US
-        shaun_whittaker@tjx.com +1.5083902282 Fax: +1.5083902990
+        dnsmanager@askjeeves.com +1.5109857400 Fax: +1.5109857507
     Technical Contact, Zone Contact:
-        Steven Dill
-        The TJX Companies, Inc.
-        770 Cochituate Road
-         Framingham MA 01701
+        DNS Manager
+        Ask.com
+        555 12th Street Suite 500
+         Oakland CA 94607
         US
-        steve_dill@tjx.com +1.5083902244 Fax: +1.5083902990
+        dnsmanager@askjeeves.com +1.5109857400 Fax: +1.5109857507
 
-    Created on..............: 2006-10-24.
-    Expires on..............: 2012-10-24.
-    Record last updated on..: 2011-02-06.
+    Created on..............: 2003-05-07.
+    Expires on..............: 2012-05-07.
+    Record last updated on..: 2011-04-25.
 
     Domain servers in listed order:
 
-    auth100.ns.uu.net
-    auth00.ns.uu.net
+    ns-a.pnap.net
+    ns-c.pnap.net
+    ns-d.pnap.net
+    ns-b.pnap.net
 
 
 

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: ABSTRACTDNS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: NS100.FASTWHB.COM
+   Name Server: NS101.FASTWHB.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 22-jun-2011
+   Creation Date: 14-jul-2010
+   Expiration Date: 14-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about abstractdns.com
+&lt;a href=&quot;http://www.aboutus.org/abstractdns.com&quot;&gt;AboutUs: abstractdns.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
+Domain name: abstractdns.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
 Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
+   WhoisGuard
+   WhoisGuard Protected (dd527a61df34408894104908ed98c908.protect@whoisguard.com)
    +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
+   WhoisGuard
+   WhoisGuard Protected (dd527a61df34408894104908ed98c908.protect@whoisguard.com)
    +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
-
-   Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns100.fastwhb.com
+   ns101.fastwhb.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 14 Jul 2010 16:13:00
+Expiration date: 14 Jul 2012 11:13:00
 
 
 

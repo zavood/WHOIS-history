@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: VOZCYCLECITY.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: NS1.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 29-jun-2005
+   Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about vozcyclecity.com
+&lt;a href=&quot;http://www.aboutus.org/vozcyclecity.com&quot;&gt;AboutUs: vozcyclecity.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
+Domain name: vozcyclecity.com
 
 Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   VOZ Cycle City inc.
+   Terry Vosburgh (voz@netzero.com)
+   +1.7167319922
+   Fax:
+   3117 Lower Mountain Rd.
+   Sanborn, NY 14132
    US
 
 Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   VOZ Cycle City inc.
+   Terry Vosburgh (voz@netzero.com)
+   +1.7167319922
+   Fax:
+   3117 Lower Mountain Rd.
+   Sanborn, NY 14132
    US
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+   VOZ Cycle City inc.
+   Terry Vosburgh ()
 
    Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
+   3117 Lower Mountain Rd.
+   Sanborn, NY 14132
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns1.rackspace.com
+   ns2.rackspace.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 30 Jun 2005 03:42:38
+Expiration date: 30 Jun 2012 03:42:00
 
 
 

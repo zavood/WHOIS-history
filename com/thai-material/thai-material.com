@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBODESIRE.COM
+   Domain Name: THAI-MATERIAL.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 28-may-2004
-   Expiration Date: 28-may-2012
+   Updated Date: 29-apr-2011
+   Creation Date: 15-may-2007
+   Expiration Date: 15-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lesbodesire.com
-&lt;a href=&quot;http://www.aboutus.org/lesbodesire.com&quot;&gt;AboutUs: lesbodesire.com&lt;/a&gt;
+Visit AboutUs.org for more information about thai-material.com
+&lt;a href=&quot;http://www.aboutus.org/thai-material.com&quot;&gt;AboutUs: thai-material.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lesbodesire.com
-
-Administrative Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
-
-Technical Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com (support@namecheap.com)
-   +1.6613102107
-   Fax: +1.5555555555
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+Domain name: thai-material.com
 
 Registrant Contact:
-   Namecheap.com
-   Namecheap.com Namecheap.com ()
+   Thai Material Factory co.,ltd.
+   Boonroj Santhadpanich ()
 
    Fax:
-   8939 S. Sepulveda Blvd. #110 - 732
-   Westchester, CA 90045
-   US
+   682 M.2   Soi Suksawad 30,
+   Suksawad Rd., Bangpakok
+   Ratburana, BANGKOK 10140
+   TH
+
+Administrative Contact:
+   Thai Material Factory co.,ltd.
+   Boonroj Santhadpanich (thaimatt@truemail.co.th)
+   028744682
+   Fax: 028744684
+   682 M.2   Soi Suksawad 30,
+   Suksawad Rd., Bangpakok
+   Ratburana, BANGKOK 10140
+   TH
+
+Technical Contact:
+   Grand Planet Enterprise Co.,Ltd. (ReadyPlanet.com)
+   Songyot Kanthamanon (info@grandplanet.com)
+   +66.25400330
+   Fax: +66.25400331
+   121/121 Soi Ramindra 103/2, Ramindra Rd.
+   Khannayao
+   Bangkok, BANGKOK 10230
+   TH
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 29 May 2004 00:51:00
-Expiration date: 29 May 2012 00:51:00
+Creation date: 15 May 2007 11:18:57
+Expiration date: 15 May 2013 11:18:57
 
 
 

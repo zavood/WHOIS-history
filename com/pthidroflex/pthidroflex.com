@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEENGIRLS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
+   Domain Name: PTHIDROFLEX.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.INDOSITE.NET
+   Name Server: NS2.INDOSITE.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 05-jul-2011
-   Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2012
+   Status: clientUpdateProhibited
+   Updated Date: 11-sep-2011
+   Creation Date: 18-feb-2003
+   Expiration Date: 18-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:08:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:07:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +53,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Domain teengirls.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 88391837199113
-  88391837199113-cba59a@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Registrant:
+	 pthidroflex.com dion@fajarbenua.co.id +62.51
+	 PT. Hidroflex Indonesia
+	 Jl. Major Oking Jayaatmaja No. 88
+	 Cibinong,Jawa Barat,ID 60000&quot;&quot;
 
-Record dates:
-  Record created on: 1997-09-24 04:00:00 UTC
-  Record modified on: 2011-07-05 18:15:50 UTC
-  Record expires on: 2012-09-23 UTC
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+Domain Name:pthidroflex.com
+Record last updated at 2010-04-26 00:23:08
+Record created on 2003/2/18
+Record expired on 2015/2/18
 
-Note: Automated collection of data from this database is strictly prohibited.
 
+Domain servers in listed order:
+	 ns1.indosite.net 	 ns2.indosite.net
+
+Administrator:
+	 Name-- Dion
+ EMail-: (dion@fajarbenua.co.id)
+ tel --: +62.51
+	 org: PT. Hidroflex Indonesia
+	 Jl. Major Oking Jayaatmaja No. 88
+	 Cibinong,Jawa Barat,ID 60000
+
+Technical Contactor:
+	 Name-- Dion
+ EMail-: (dion@fajarbenua.co.id)
+ tel --: +62.51
+	 org: PT. Hidroflex Indonesia
+	 Jl. Major Oking Jayaatmaja No. 88
+	 Cibinong,Jawa Barat,ID 60000
+
+Billing Contactor:
+	 Name-- Dion
+ EMail-: (dion@fajarbenua.co.id)
+ tel --: +62.51
+	 org: PT. Hidroflex Indonesia
+	 Jl. Major Oking Jayaatmaja No. 88
+	 Cibinong,Jawa Barat,ID 60000
+
+
+Registration Service Provider:
+	name: DomReg IndoSite [ domreg@indosite.com ]
+	tel: +62.218207987
+ 	fax: +62.2182434444
+ 	web:http://www.indosite.com
