@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PIMPTRAILERS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 13-dec-2004
-   Expiration Date: 13-dec-2011
+   Domain Name: THITRUONGVITINH.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.PAVIETNAM.VN
+   Name Server: NS2.PAVIETNAM.VN
+   Status: ok
+   Updated Date: 12-jan-2011
+   Creation Date: 03-feb-2009
+   Expiration Date: 03-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:39 UTC &lt;&lt;&lt;
 
@@ -52,37 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: DIRECTI INTERNET SOLUTIONS - DOTVNDNS
+Contact: +84.2361970
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+Domain Name: THITRUONGVITINH.COM
 
-Domain pimptrailers.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Registrant:
+    Do Quoc Trung
+    Do Quoc Trung        (dqtrung2005@yahoo.com)
+    Do Quoc Trung
+    ho chi minh
+    Ho Chi Minh,70000
+    VN
+    Tel. +321.2134448
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Creation Date: 04-Feb-2009
+Expiration Date: 04-Feb-2012
 
-Record dates:
-  Record created on: 2004-12-13 16:57:25 UTC
-  Record modified on: 2011-07-28 20:53:46 UTC
-  Record expires on: 2011-12-13 UTC
+Domain servers in listed order:
+    ns1.pavietnam.vn
+    ns2.pavietnam.vn
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
 
-Note: Automated collection of data from this database is strictly prohibited.
+Administrative Contact:
+    Do Quoc Trung
+    Do Quoc Trung        (dqtrung2005@yahoo.com)
+    Do Quoc Trung
+    ho chi minh
+    Ho Chi Minh,70000
+    VN
+    Tel. +321.2134448
+
+Technical Contact:
+    Do Quoc Trung
+    Do Quoc Trung        (dqtrung2005@yahoo.com)
+    Do Quoc Trung
+    ho chi minh
+    Ho Chi Minh,70000
+    VN
+    Tel. +321.2134448
+
+Billing Contact:
+    Do Quoc Trung
+    Do Quoc Trung        (dqtrung2005@yahoo.com)
+    Do Quoc Trung
+    ho chi minh
+    Ho Chi Minh,70000
+    VN
+    Tel. +321.2134448
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 

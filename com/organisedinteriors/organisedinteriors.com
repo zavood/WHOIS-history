@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PIMPTRAILERS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: ORGANISEDINTERIORS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SIGMAINFOTECH.NET.AU
+   Name Server: NS2.SIGMAINFOTECH.NET.AU
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 13-dec-2004
-   Expiration Date: 13-dec-2011
+   Updated Date: 17-jul-2009
+   Creation Date: 04-nov-2004
+   Expiration Date: 04-nov-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about organisedinteriors.com
+&lt;a href=&quot;http://www.aboutus.org/organisedinteriors.com&quot;&gt;AboutUs: organisedinteriors.com&lt;/a&gt;
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain pimptrailers.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Domain name: organisedinteriors.com
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Administrative Contact:
+   Organised Interiors
+   Rod - (pomaze1@aol.com)
+   +61.62601110
+   Fax:
+   76 Sheppard Street
+   Hume, CANBERRA 2620
+   AU
 
-Record dates:
-  Record created on: 2004-12-13 16:57:25 UTC
-  Record modified on: 2011-07-28 20:53:46 UTC
-  Record expires on: 2011-12-13 UTC
+Technical Contact:
+   Organised Interiors
+   Rod - (pomaze1@aol.com)
+   +61.62601110
+   Fax:
+   76 Sheppard Street
+   Hume, CANBERRA 2620
+   AU
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+Registrant Contact:
+   Organised Interiors
+   Rod - ()
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Fax:
+   76 Sheppard Street
+   Hume, CANBERRA 2620
+   AU
 
+Status: Locked
+
+Name Servers:
+   ns1.sigmainfotech.net.au
+   ns2.sigmainfotech.net.au
+
+Creation date: 04 Nov 2004 07:00:25
+Expiration date: 04 Nov 2017 07:00:25
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

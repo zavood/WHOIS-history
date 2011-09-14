@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D64624493-LROR
+Domain Name:HOUSTONCULTURE.ORG
+Created On:26-Feb-2001 20:04:52 UTC
+Last Updated On:28-Feb-2008 16:59:47 UTC
+Expiration Date:26-Feb-2013 20:04:52 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuSI2t0mLYqNwe8X
+Registrant Name:Mark Lacy
+Registrant Organization:Houston Institute for Culture
+Registrant Street1:2601 South Braeswood #1402
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77025
+Registrant Country:US
+Registrant Phone:+1.7135213686
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mdlacy@central.uh.edu
+Admin ID:tuSI2t0mLYqNwe8X
+Admin Name:Mark Lacy
+Admin Organization:Houston Institute for Culture
+Admin Street1:2601 South Braeswood #1402
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:TX
+Admin Postal Code:77025
+Admin Country:US
+Admin Phone:+1.7135213686
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mdlacy@central.uh.edu
+Tech ID:tuSI2t0mLYqNwe8X
+Tech Name:Mark Lacy
+Tech Organization:Houston Institute for Culture
+Tech Street1:2601 South Braeswood #1402
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:TX
+Tech Postal Code:77025
+Tech Country:US
+Tech Phone:+1.7135213686
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mdlacy@central.uh.edu
+Name Server:NS1.PLAINHOST.COM
+Name Server:NS2.PLAINHOST.COM
+Name Server:NS3.PLAINHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

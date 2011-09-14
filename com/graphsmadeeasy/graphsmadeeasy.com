@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PIMPTRAILERS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 13-dec-2004
-   Expiration Date: 13-dec-2011
+   Domain Name: GRAPHSMADEEASY.COM
+   Registrar: ENETICA PTY LTD
+   Whois Server: whois.enetica.com.au
+   Referral URL: http://www.enetica.com.au
+   Name Server: NS1.WEBCITY.COM.AU
+   Name Server: NS2.WEBCITY.COM.AU
+   Name Server: NS3.WEBCITY.COM.AU
+   Status: ok
+   Updated Date: 31-jan-2010
+   Creation Date: 02-mar-2008
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +52,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant Details:
+  graphsmadeeasy.com
+  27 Hughes St
+  Woodville
+  Adelaide, SA 5011
+  AU
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+  Domain Name: GRAPHSMADEEASY.COM
 
-Domain pimptrailers.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+  Administrative Contact:
+    Sheppard, John  john.s.inbox@hotmail.com
+    27 Hughes St
+    Woodville
+    Adelaide, SA 5011
+    AU
+       Fax: graphsmadeeasy.com
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+  Technical Contact:
+    Sheppard, John  john.s.inbox@hotmail.com
+    27 Hughes St
+    Woodville
+    Adelaide, SA 5011
+    AU
+       Fax: graphsmadeeasy.com
 
-Record dates:
-  Record created on: 2004-12-13 16:57:25 UTC
-  Record modified on: 2011-07-28 20:53:46 UTC
-  Record expires on: 2011-12-13 UTC
+  Name Server:  ns1.webcity.com.au
+  Name Server:  ns2.webcity.com.au
+  Name Server:  ns3.webcity.com.au
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+  Registrar of Record: Enetica Pty Ltd
+  Record last updated on 2010-02-01
+  Record created on 2008-03-03
+  Record expires on 2012-03-03
 
-Note: Automated collection of data from this database is strictly prohibited.
+The information contained in this WHOIS database is provided by Enetica
+for information purposes only.  Enetica makes this information available
+on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
+accuracy.  In particular, please note that the WHOIS database is a
+contact database only - and lack of a whois record does not necessarily
+mean that the domain is available for registration.
+
+By submitting a WHOIS query, you agree to abide by our terms of use,
+and that you will use this data only for lawful purposes.  Our full
+terms and conditions can be accessed via the Enetica website at:
+http://www.enetica.com.au/whois/usage.html
 

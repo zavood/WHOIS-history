@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PIMPTRAILERS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 13-dec-2004
-   Expiration Date: 13-dec-2011
+   Domain Name: FLAUNTYOURSITE.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.FLAUNTYOURSITE.COM
+   Name Server: NS2.FLAUNTYOURSITE.COM
+   Status: ok
+   Updated Date: 10-apr-2011
+   Creation Date: 14-feb-2011
+   Expiration Date: 14-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:36:39 UTC &lt;&lt;&lt;
 
@@ -53,36 +52,57 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-Domain pimptrailers.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Whois Output for: flauntyoursite.com
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 16529238932424
-  16529238932424-32e758@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+Domain Name Owner:
+  william bay photography
+  1410 Northridge Dr
+  Austin, TX 78723
+  US
 
-Record dates:
-  Record created on: 2004-12-13 16:57:25 UTC
-  Record modified on: 2011-07-28 20:53:46 UTC
-  Record expires on: 2011-12-13 UTC
+Administrative Contact:
+  bay, william
+  william bay photography
+  1410 Northridge Dr
+  Austin, TX 78723, US
+  Phone: +1.5124389662
+  Email: william@williambay.com
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
+Technical Contact:
+  bay, william
+  william bay photography
+  1410 Northridge Dr
+  Austin, TX 78723, US
+  Phone: +1.5124389662
+  Email: william@williambay.com
 
-Note: Automated collection of data from this database is strictly prohibited.
+Billing Contact:
+  bay, william
+  william bay photography
+  1410 Northridge Dr
+  Austin, TX 78723, US
+  Phone: +1.5124389662
+  Email: william@williambay.com
+
+Record Information:
+  Domain Record Created: February 14, 2011
+  Domain Record Updated: February 14, 2011
+  Domain Record Expires: February 14, 2012
+
+DNS Information:
+  Name Server: ns1.flauntyoursite.com
+  Name Server: ns2.flauntyoursite.com
 
