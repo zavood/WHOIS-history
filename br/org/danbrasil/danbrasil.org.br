@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:22:30 (BRT -03:00)
+
+domain:      danbrasil.org.br
+owner:       Associacao DAN Brasil
+ownerid:     009.374.896/0001-43
+responsible: Sergio de Carvalho Viegas
+country:     BR
+owner-c:     SCV11
+admin-c:     SCV11
+tech-c:      SCV11
+billing-c:   SCV11
+nserver:     ns10.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns11.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns12.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns13.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns14.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns15.dnsmadeeasy.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20080723 #4668848
+expires:     20210723
+changed:     20110711
+status:      published
+
+nic-hdl-br:  SCV11
+person:      SERGIO CARVALHO VIEGAS
+e-mail:      sergio.viegas@gmail.com
+created:     20000222
+changed:     20090324
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

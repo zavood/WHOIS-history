@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1816931-LROR
+Domain Name:DAZ.ORG
+Created On:12-Jun-1997 04:00:00 UTC
+Last Updated On:07-Sep-2011 13:30:43 UTC
+Expiration Date:11-Jun-2013 04:00:00 UTC
+Sponsoring Registrar:InterNetWire Communications GmbH (R1565-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:CP633304
+Registrant Name:Christiane Pyka
+Registrant Organization:Deutsch-Amerikanisches Zentrum
+Registrant Street1:Charlottenplatz 17
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stuttgart
+Registrant State/Province:
+Registrant Postal Code:70173
+Registrant Country:DE
+Registrant Phone:+49.711228180
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@daz.org
+Admin ID:CP633304
+Admin Name:Christiane Pyka
+Admin Organization:Deutsch-Amerikanisches Zentrum
+Admin Street1:Charlottenplatz 17
+Admin Street2:
+Admin Street3:
+Admin City:Stuttgart
+Admin State/Province:
+Admin Postal Code:70173
+Admin Country:DE
+Admin Phone:+49.711228180
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@daz.org
+Tech ID:WK1126
+Tech Name:Werner Kaltofen
+Tech Organization:Neue Medien Muennich GmbH
+Tech Street1:Hauptstr. 68
+Tech Street2:
+Tech Street3:
+Tech City:Friedersdorf
+Tech State/Province:
+Tech Postal Code:02742
+Tech Country:DE
+Tech Phone:+49.3587235310
+Tech Phone Ext.:
+Tech FAX:+49.3587235330
+Tech FAX Ext.:
+Tech Email:hostmaster@all-inkl.com
+Name Server:NS5.KASSERVER.COM
+Name Server:NS6.KASSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

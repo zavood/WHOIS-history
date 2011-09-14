@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:22:37 (BRT -03:00)
+
+domain:      rafagriso.com.br
+owner:       Veritas Ent. Pes. da Edu. Ressurrei&ccedil;&atilde;o
+ownerid:     001.005.647/0002-50
+responsible: Edgar Delbem
+country:     BR
+owner-c:     PJFXS2
+admin-c:     RHG24
+tech-c:      RHG24
+billing-c:   RHG24
+nserver:     dns1.rafagriso.com.br 189.38.95.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     dns2.rafagriso.com.br 189.38.95.3
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20080120 #4191775
+expires:     20120120
+changed:     20110106
+status:      published
+
+nic-hdl-br:  PJFXS2
+person:      Pe Joaquim Ferreira Xavier Junior, sjr
+e-mail:      website@vesper.org.br
+created:     20100319
+changed:     20100319
+
+nic-hdl-br:  RHG24
+person:      Rafael Henrique Grisolia
+e-mail:      rafagriso@gmail.com
+created:     20040124
+changed:     20100201
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

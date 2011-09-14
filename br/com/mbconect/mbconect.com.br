@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:22:41 (BRT -03:00)
+
+domain:      mbconect.com.br
+owner:       J. R. B. DE SANTANA - ME
+ownerid:     007.387.283/0001-15
+responsible: Jos&eacute; Romualdo Barros de Santana
+country:     BR
+owner-c:     JRS861
+admin-c:     JRS861
+tech-c:      MVL191
+billing-c:   MVL191
+nserver:     dns1.mbconect.com.br 189.38.95.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     dns2.mbconect.com.br 189.38.95.3
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20050825 #2315202
+expires:     20120825
+changed:     20110902
+status:      published
+
+nic-hdl-br:  JRS861
+person:      Jose Romualdo Barros de Santana
+e-mail:      romualdobarros@hotmail.com
+created:     20050824
+changed:     20060215
+
+nic-hdl-br:  MVL191
+person:      MARCUS VINICIUS BORGES DE LEMOS
+e-mail:      suporte@mbconect.com.br
+created:     20030814
+changed:     20080718
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
