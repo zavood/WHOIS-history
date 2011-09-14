@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INCHBASE-MEDIA.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: SOURCIDYS.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.NUXIT.NET
+   Name Server: NS2.NUXIT.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jul-2011
-   Creation Date: 11-nov-2010
-   Expiration Date: 11-nov-2011
+   Updated Date: 03-nov-2010
+   Creation Date: 12-nov-2007
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:15:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:14:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
-
-Domain inchbase-media.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
-
-Record dates:
-  Record created on: 2010-11-11 21:24:25 UTC
-  Record modified on: 2011-07-22 14:32:25 UTC
-  Record expires on: 2011-11-11 UTC
-
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+Domain Name : SOURCIDYS.COM
+Created On : 2007-11-12
+Expiration Date : 2011-11-12
+Status : PROTECTED
+Registrant Name : SOURCIDYS
+Registrant Street1 : 2, rue Pierre-Gilles de Gennes
+Registrant City : ST CYR SUR LOIRE
+Registrant State/Province  :
+Registrant Postal Code : 37540
+Registrant Country : FR
+Admin Name : NUXIT
+Admin Street1 : 400 avenue Roumanille BP 60177
+Admin City : Sophia Antipolis Cedex
+Admin State/Province : FR
+Admin Postal Code : 06903
+Admin Country : FR
+Admin Phone : +33.899563600
+Admin Email : domains@nuxit.net
+Tech Name : NUXIT
+Tech Street1 : 400 avenue Roumanille BP 60177
+Tech City : Sophia Antipolis Cedex
+Tech State/Province : FR
+Tech Postal Code : 06903
+Tech Country : FR
+Tech Phone : +33.899563600
+Tech Email : domains@nuxit.net
+Billing Name : NUXIT
+Billing Street1 : 400 avenue Roumanille BP 60177
+Billing City : Sophia Antipolis Cedex
+Billing State/Province : FR
+Billing Postal Code : 06903
+Billing Country : FR
+Billing Phone : +33.899563600
+Billing Email : domains@nuxit.net
+Name Server : NS1.NUXIT.NET
+Name Server : NS2.NUXIT.NET
+Registrar Name : Namebay

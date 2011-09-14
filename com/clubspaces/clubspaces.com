@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INCHBASE-MEDIA.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: CLUBSPACES.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.HE.NET
+   Name Server: NS2.HE.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jul-2011
-   Creation Date: 11-nov-2010
-   Expiration Date: 11-nov-2011
+   Updated Date: 31-mar-2010
+   Creation Date: 03-apr-2006
+   Expiration Date: 03-apr-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:15:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:15:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,36 +52,37 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain inchbase-media.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+Registrant:
+Cowden, Bill
+   The Active Network Inc.
+   10182 Telesis Court
+   Suite 300
+   San Diego, CA 92121
+   US
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+   Domain Name: CLUBSPACES.COM
 
-Record dates:
-  Record created on: 2010-11-11 21:24:25 UTC
-  Record modified on: 2011-07-22 14:32:25 UTC
-  Record expires on: 2011-11-11 UTC
+   Administrative Contact:
+      Cowden, Bill		itsupport@active.com
+      The Active Network Inc.
+      10182 Telesis Court
+      Suite 300
+      San Diego, CA 92121
+      US
+      301-687-8600 fax: 301-687-8603
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Record expires on 02-Apr-2015.
+   Record created on 09-Apr-2007.
+   Database last updated on 14-Sep-2011 11:05:42 EDT.
+
+   Domain servers in listed order:
+
+   NS1.HE.NET                   216.218.130.2
+   NS2.HE.NET                   216.218.131.2
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 

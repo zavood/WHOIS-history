@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INCHBASE-MEDIA.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Domain Name: BRUEGGERS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.TELCOVE.NET
+   Name Server: NS2.TELCOVE.NET
+   Name Server: NS3.TELCOVE.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jul-2011
-   Creation Date: 11-nov-2010
-   Expiration Date: 11-nov-2011
+   Updated Date: 22-aug-2011
+   Creation Date: 23-aug-1997
+   Expiration Date: 22-aug-2021
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:15:43 UTC &lt;&lt;&lt;
 
@@ -52,37 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain inchbase-media.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 40383209979658
-  40383209979658-4bd89c@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
+http://www.networksolutions.com/whois/index.jhtml
 
-Record dates:
-  Record created on: 2010-11-11 21:24:25 UTC
-  Record modified on: 2011-07-22 14:32:25 UTC
-  Record expires on: 2011-11-11 UTC
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+Whois Query: brueggers.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 11:05:42 EDT 2011
+Reason Code: IE
