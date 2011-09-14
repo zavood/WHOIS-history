@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MAD4BIGDICKS.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.ONLINENIC.NET
-   Name Server: NS3.ONLINENIC.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 01-jul-2007
-   Expiration Date: 01-jul-2011
+   Domain Name: KIDWINGS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS0.WEBMASTERS.COM
+   Name Server: NS1.WEBMASTERS.COM
+   Status: clientTransferProhibited
+   Updated Date: 28-apr-2009
+   Creation Date: 22-apr-2001
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:45:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:44:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-[210.75.241.82]
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: kidwings.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 04:34:06 EDT 2011
+Reason Code: IE

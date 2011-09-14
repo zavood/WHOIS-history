@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4340836-LROR
+Domain Name:REVELADO.ORG
+Created On:14-Jan-1999 05:00:00 UTC
+Last Updated On:14-Dec-2010 13:09:13 UTC
+Expiration Date:14-Jan-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29025380-NSI
+Registrant Name:Charles Clever
+Registrant Organization:Charles Clever
+Registrant Street1:1870 SOUTH DR
+Registrant Street2:
+Registrant Street3:
+Registrant City:MOHAVE VALLEY
+Registrant State/Province:AZ
+Registrant Postal Code:86440-9301
+Registrant Country:US
+Registrant Phone:+1.52076849
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:revealed@USA.NET
+Admin ID:29025381-NSI
+Admin Name:Charles Clever
+Admin Organization:Charles Clever
+Admin Street1:1870 SOUTH DR
+Admin Street2:
+Admin Street3:
+Admin City:MOHAVE VALLEY
+Admin State/Province:AZ
+Admin Postal Code:86440-9301
+Admin Country:US
+Admin Phone:+1.52076849
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:revealed@USA.NET
+Tech ID:5475924-NSI
+Tech Name:FreeYellow.Com
+Tech Organization:FreeYellow.Com
+Tech Street1:22 SE 4TH ST
+Tech Street2:
+Tech Street3:
+Tech City:BOCA RATON
+Tech State/Province:FL
+Tech Postal Code:33432-5020
+Tech Country:US
+Tech Phone:+1.5619823993
+Tech Phone Ext.:
+Tech FAX:+1.5619823994
+Tech FAX Ext.:
+Tech Email:admin@FREEYELLOW.COM
+Name Server:NS1.FREEYELLOW.COM
+Name Server:NS2.FREEYELLOW.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

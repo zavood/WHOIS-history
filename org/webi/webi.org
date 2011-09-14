@@ -1,0 +1,114 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109319928-LROR
+Domain Name:WEBI.ORG
+Created On:08-Dec-2005 13:25:39 UTC
+Last Updated On:04-Apr-2011 19:52:24 UTC
+Expiration Date:08-Dec-2011 13:25:39 UTC
+Sponsoring Registrar:Az.pl, Inc (R1699-LROR)
+Status:OK
+Registrant ID:WHO16251322010
+Registrant Name:Organization
+Registrant Organization:whoisproxy.org
+Registrant Street1:Niedzialkowskiego 24 IX floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Szczecin
+Registrant State/Province:
+Registrant Postal Code:71-410
+Registrant Country:PL
+Registrant Phone:+48.914243780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:owner@webi.org.whoisproxy.org
+Admin ID:PP-SP-001
+Admin Name:Domain Admin
+Admin Organization:PrivacyProtect.org
+Admin Street1:ID#10760, PO Box 16
+Admin Street2:Note - All Postal Mails Rejected, visit Privacyprotect.org
+Admin Street3:
+Admin City:Nobby Beach
+Admin State/Province:
+Admin Postal Code:QLD 4218
+Admin Country:AU
+Admin Phone:+45.36946676
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contact@privacyprotect.org
+Admin ID:WHO16252517664
+Admin Name:Organization
+Admin Organization:whoisproxy.org
+Admin Street1:Niedzialkowskiego 24 IX floor
+Admin Street2:
+Admin Street3:
+Admin City:Szczecin
+Admin State/Province:
+Admin Postal Code:71-410
+Admin Country:PL
+Admin Phone:+48.914243780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@webi.org.whoisproxy.org
+Tech ID:PP-SP-001
+Tech Name:Domain Admin
+Tech Organization:PrivacyProtect.org
+Tech Street1:ID#10760, PO Box 16
+Tech Street2:Note - All Postal Mails Rejected, visit Privacyprotect.org
+Tech Street3:
+Tech City:Nobby Beach
+Tech State/Province:
+Tech Postal Code:QLD 4218
+Tech Country:AU
+Tech Phone:+45.36946676
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contact@privacyprotect.org
+Tech ID:WHO16253208333
+Tech Name:Organization
+Tech Organization:whoisproxy.org
+Tech Street1:Niedzialkowskiego 24 IX floor
+Tech Street2:
+Tech Street3:
+Tech City:Szczecin
+Tech State/Province:
+Tech Postal Code:71-410
+Tech Country:PL
+Tech Phone:+48.914243780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tech@webi.org.whoisproxy.org
+Name Server:NS1.AWARDSPACE.COM
+Name Server:NS2.AWARDSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

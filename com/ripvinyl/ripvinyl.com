@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MAD4BIGDICKS.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS2.ONLINENIC.NET
-   Name Server: NS3.ONLINENIC.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 01-jul-2007
-   Expiration Date: 01-jul-2011
+   Domain Name: RIPVINYL.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS33.1AND1.CO.UK
+   Name Server: NS34.1AND1.CO.UK
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 12-may-2011
+   Creation Date: 26-dec-2001
+   Expiration Date: 26-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:45:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:43:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-[210.75.241.82]
 
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Wieser Software Ltd
+   28 Green End
+   Fen Ditton, Cambridge  CB5 8SX
+   GB
+
+   Registrar: NAMESDIRECT
+   Domain Name: RIPVINYL.COM
+      Created on: 26-DEC-01
+      Expires on: 26-DEC-12
+      Last Updated on: 12-MAY-11
+
+   Administrative, Technical Contact:
+      Wieser, Anthony  domains.nospam200901@wieser-software.com
+      Wieser Software Ltd
+      28 Green End
+      Fen Ditton, Cambridge  CB5 8SX
+      GB
+      294 261
+
+
+   Domain servers in listed order:
+      NS33.1AND1.CO.UK
+      NS34.1AND1.CO.UK
+
+End of Whois Information
