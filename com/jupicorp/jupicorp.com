@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-UCOZ.NET.UDMNK.RU
-UCOZ.NET.SICILIAPARADIS.RU
-UCOZ.NET.RADIOSHOWMIX.NET
-UCOZ.NET.RADIO-BIBLIOTEKA.RU
-UCOZ.NET
+   Domain Name: JUPICORP.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS13.ZONEEDIT.COM
+   Name Server: NS3.ZONEEDIT.COM
+   Status: ok
+   Updated Date: 17-oct-2009
+   Creation Date: 12-jan-2005
+   Expiration Date: 12-jan-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:44:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:45:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... jupicorp.com
+  Creation Date........ 2005-01-12
+  Registration Date.... 2005-01-12
+  Expiry Date.......... 2015-01-12
+  Organisation Name.... Jupi Corporation
+  Organisation Address. Locked Bag 20019
+  Organisation Address. registered post accepted only
+  Organisation Address. Melbourne
+  Organisation Address. 3001
+  Organisation Address. VIC
+  Organisation Address. AU
+
+Admin Name........... Admin PrivateRegContact
+  Admin Address........ Locked Bag 20019
+  Admin Address........ registered post accepted only
+  Admin Address........ Melbourne
+  Admin Address........ 3001
+  Admin Address........ VIC
+  Admin Address........ AU
+  Admin Email.......... contact@myprivateregistration.com
+  Admin Phone.......... +61.386242485
+  Admin Fax............
+
+Tech Name............ TECH PrivateRegContact
+  Tech Address......... Locked Bag 20019
+  Tech Address......... registered post accepted only
+  Tech Address......... Melbourne
+  Tech Address......... 3001
+  Tech Address......... VIC
+  Tech Address......... AU
+  Tech Email........... contact@myprivateregistration.com
+  Tech Phone........... +61.386242485
+  Tech Fax.............
+  Name Server.......... ns3.zoneedit.com
+  Name Server.......... ns13.zoneedit.com
+
+

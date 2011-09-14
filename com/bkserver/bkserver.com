@@ -5,17 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-UCOZ.NET.UDMNK.RU
-UCOZ.NET.SICILIAPARADIS.RU
-UCOZ.NET.RADIOSHOWMIX.NET
-UCOZ.NET.RADIO-BIBLIOTEKA.RU
-UCOZ.NET
+   Domain Name: BKSERVER.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: DNS.BITMOVER.COM
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: REMOTE1.EASYDNS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 29-jun-2009
+   Creation Date: 29-jun-2001
+   Expiration Date: 29-jun-2014
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:44:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:43:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -50,3 +54,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+ BitMover, Inc.
+ 550 Valley St.
+ San Francisco, California 94131
+ US
+
+ Domain name: BKSERVER.COM
+
+
+ Administrative Contact:
+    McVoy, Larry  lm@mcvoy.com
+    550 Valley St.
+    San Francisco, California 94131
+    US
+    415-401-8808 x101
+ Technical Contact:
+    McVoy, Larry  lm@mcvoy.com
+    550 Valley St.
+    San Francisco, California 94131
+    US
+    415-401-8808 x101
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 29-Jun-2009.
+ Record expires on 30-Jun-2014.
+ Record created on 30-Jun-2001.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    DNS.BITMOVER.COM   192.132.92.2
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 4 lookups left today
