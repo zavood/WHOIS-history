@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146645651-LROR
+Domain Name:COLLABOWRITE.ORG
+Created On:21-May-2007 08:31:22 UTC
+Last Updated On:14-Jun-2011 08:33:16 UTC
+Expiration Date:21-May-2012 08:31:22 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuQeAszeMTYd3Z30
+Registrant Name:Grytoyr, Stian
+Registrant Organization:Grytoyr, Stian
+Registrant Street1:Korsgata 28 B
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oslo
+Registrant State/Province:n/a
+Registrant Postal Code:NO-0551
+Registrant Country:NO
+Registrant Phone:+1.4790163108
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stigry@myprivacy.ca
+Admin ID:tuQeAszeMTYd3Z30
+Admin Name:Grytoyr, Stian
+Admin Organization:Grytoyr, Stian
+Admin Street1:Korsgata 28 B
+Admin Street2:
+Admin Street3:
+Admin City:Oslo
+Admin State/Province:n/a
+Admin Postal Code:NO-0551
+Admin Country:NO
+Admin Phone:+1.4790163108
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stigry@myprivacy.ca
+Tech ID:tuQeAszeMTYd3Z30
+Tech Name:Grytoyr, Stian
+Tech Organization:Grytoyr, Stian
+Tech Street1:Korsgata 28 B
+Tech Street2:
+Tech Street3:
+Tech City:Oslo
+Tech State/Province:n/a
+Tech Postal Code:NO-0551
+Tech Country:NO
+Tech Phone:+1.4790163108
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stigry@myprivacy.ca
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:NS6.EASYDNS.NET
+Name Server:NS3.EASYDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

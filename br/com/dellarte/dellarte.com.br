@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 16:34:12 (BRT -03:00)
+
+domain:      dellarte.com.br
+owner:       DellArte Solu&ccedil;&otilde;es Culturais Ltda
+ownerid:     027.002.849/0001-50
+responsible: Steffen Gerhard Dauelsberg
+country:     BR
+owner-c:     DPL
+admin-c:     DPL
+tech-c:      DPL
+billing-c:   DPL
+nserver:     ns1.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19960411 #6668
+expires:     20120411
+changed:     20110425
+status:      published
+
+nic-hdl-br:  DPL
+person:      Suporte de Informatica
+e-mail:      home@dellarte.com.br
+created:     19980115
+changed:     20060503
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

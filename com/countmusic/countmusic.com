@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-GO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-GO.COM.JO
-GO.COM
+   Domain Name: COUNTMUSIC.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.CAFE24.CO.KR
+   Name Server: NS1.CAFE24.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-dec-2010
+   Creation Date: 17-oct-2010
+   Expiration Date: 17-oct-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:33:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:33:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 leejumi jubang123@naver.com +82.0324693455
+	 countbasie
+	 Guwoldong
+	 Incheon,Namdonggu,KR 405220
+
+
+Domain Name:countmusic.com
+Record last updated at
+Record created on 2010/10/17
+Record expired on 2011/10/17
+
+
+Domain servers in listed order:
+	 ns1.cafe24.com 	 ns1.cafe24.co.kr
+
+Administrator:
+	 leejumi jubang123@naver.com +82.0324693455
+	 leejumi
+	 Guwoldong
+	 Incheon,Namdonggu,KR 405220
+
+Technical Contactor:
+	 leejumi jubang123@naver.com +82.0324693455
+	 leejumi
+	 Guwoldong
+	 Incheon,Namdonggu,KR 405220
+
+Billing Contactor:
+	 leejumi jubang123@naver.com +82.0324693455
+	 leejumi
+	 Guwoldong
+	 Incheon,Namdonggu,KR 405220
+
+
+Registration Service Provider:
+	name: nanuminet
+	tel: +82.5055840114
+ 	fax: +82.5055840111
+ 	web:http://www.nanuminet.com
