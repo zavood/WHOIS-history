@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-VSNL.NET.IN
-VSNL.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: CANESPORT.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.ALSW.COM
+   Name Server: NS2.ALSW.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-feb-2011
+   Creation Date: 08-dec-1998
+   Expiration Date: 07-dec-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:02:49 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: canesport.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 05:52:40 EDT 2011
+Reason Code: IE
