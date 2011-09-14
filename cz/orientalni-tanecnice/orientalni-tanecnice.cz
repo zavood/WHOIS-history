@@ -1,0 +1,69 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 19:01:43 2011
+
+domain:       orientalni-tanecnice.cz
+registrant:   FORPSI-UY1-S275835
+nsset:        WEB4CE
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   16.03.2009 11:42:08
+changed:      02.08.2009 20:24:41
+expire:       16.03.2012
+
+contact:      FORPSI-UY1-S275835
+name:         Jan Demuth
+address:      U P&Atilde;&shy;skovny 5
+address:      Praha
+address:      18200
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      17.04.2008 14:54:08
+
+nsset:        WEB4CE
+nserver:      ns1.web4ce.cz
+nserver:      ns2.web4ce.cz
+tech-c:       WEB4CE-TECH
+tech-c:       WEB4CE-ADMIN
+registrar:    REG-IGNUM
+created:      01.10.2007 18:00:02
+
+contact:      WEB4CE-TECH
+name:         Michal Kum&Aring;&frac34;&Atilde;&iexcl;k
+address:      Trnkovo n&Atilde;&iexcl;m&Auml;õst&Atilde;&shy; 1112/1
+address:      Praha 5
+address:      152 00
+address:      CZ
+e-mail:       dom-tech@web4ce.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 13:15:00
+changed:      30.11.2007 09:47:07
+
+contact:      WEB4CE-ADMIN
+name:         Michal Ce&Atilde;&copy;
+address:      P&Aring;&iexcl;en&Auml;ç&Atilde;&shy;kova 674
+address:      Praha 4
+address:      142 00
+address:      CZ
+e-mail:       dom-admin@web4ce.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 13:25:00
+changed:      30.11.2007 09:45:07
+
+

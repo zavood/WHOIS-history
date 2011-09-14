@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         stradamoto.sk
+Admin-id            WEBG-0002
+Admin-name          RED FLOWER s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36652580
+Admin-address       Moldavska 6, Kosice 04011
+Admin-telephone     0903 645 502
+Admin-email         domeny@redflower.sk
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns.iserver.sk
+dns_name            ns2.iserver.sk
+Last-update         2010-10-14
+Valid-date          2011-10-13
+Domain-status       DOM_OK
+
