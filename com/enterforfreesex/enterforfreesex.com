@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SKINFAKTORY.COM
+   Domain Name: ENTERFORFREESEX.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Name Server: NS3.MONIKERDNS.NET
-   Name Server: NS4.MONIKERDNS.NET
+   Name Server: NS1.POWERZX.COM
+   Name Server: NS2.POWERZX.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 06-sep-2006
-   Expiration Date: 06-sep-2012
+   Updated Date: 13-dec-2010
+   Creation Date: 20-dec-2007
+   Expiration Date: 20-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:04:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,69 +79,60 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: SKINFAKTORY.COM
+Domain Name: ENTERFORFREESEX.COM
 Registrar: MONIKER
 
-Registrant [1707830]:
-        Moniker Privacy Services SKINFAKTORY.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
+Registrant [3662552]:
+        NetMgt Services domains@dateprofits.com
+        Net Management Services
+        2545 E Sunrise Blvd #225
+        Fort Lauderdale
         FL
-        33069
+        33304
         US
 
 
-Administrative Contact [1707830]:
-        Moniker Privacy Services SKINFAKTORY.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
+Administrative Contact [3662552]:
+        NetMgt Services domains@dateprofits.com
+        Net Management Services
+        2545 E Sunrise Blvd #225
+        Fort Lauderdale
         FL
-        33069
+        33304
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9545639008
 
 
-Billing Contact [1707830]:
-        Moniker Privacy Services SKINFAKTORY.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
+Billing Contact [3662552]:
+        NetMgt Services domains@dateprofits.com
+        Net Management Services
+        2545 E Sunrise Blvd #225
+        Fort Lauderdale
         FL
-        33069
+        33304
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9545639008
 
 
-Technical Contact [1707830]:
-        Moniker Privacy Services SKINFAKTORY.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
+Technical Contact [3662552]:
+        NetMgt Services domains@dateprofits.com
+        Net Management Services
+        2545 E Sunrise Blvd #225
+        Fort Lauderdale
         FL
-        33069
+        33304
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9545639008
 
 
 Domain servers in listed order:
 
-        NS1.MONIKERDNS.NET         208.73.210.41
-        NS2.MONIKERDNS.NET         208.73.211.42
-        NS3.MONIKERDNS.NET         208.73.210.43
-        NS4.MONIKERDNS.NET         50.57.11.88
+        NS1.POWERZX.COM
+        NS2.POWERZX.COM
 
-        Record created on:        2006-09-06 23:30:29.0
-        Database last updated on: 2011-04-07 08:59:09.79
-        Domain Expires on:        2012-09-06 23:30:29.0
+        Record created on:        2007-12-20 18:55:56.0
+        Database last updated on: 2011-07-27 13:56:20.733
+        Domain Expires on:        2011-12-20 18:51:46.0
 
 
 

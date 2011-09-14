@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COGVV.COM
+   Domain Name: DRESSUPDREAM.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.BLUEDOMINO.COM
-   Name Server: NS2.BLUEDOMINO.COM
-   Status: ok
-   Updated Date: 02-apr-2011
-   Creation Date: 04-apr-2007
-   Expiration Date: 04-apr-2012
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 26-feb-2010
+   Creation Date: 10-aug-2007
+   Expiration Date: 10-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:02:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,45 +53,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Coalition of Gay Vietnam Veterans
- 300 W Harding St
- Apt 104
- Morrilton, Arkansas 72110
+ Annette Essery
+ 240 Shermer Road
+ Skokie, IL 60077
  US
 
- Domain name: COGVV.COM
+ Domain name: DRESSUPDREAM.COM
 
 
  Administrative Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St
-    Apt 104
-    Morrilton, Arkansas 72110
+    Essery, Annette  caseyaffleck123@yahoo.com
+    220 Shermer Road
+    Skokie, IL 60077
     US
-    +1.504251x2624
+    +1.8479661843
  Technical Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St.
-    Apt 104
-    Morrilton, AR 72110
-    US
-    +1.5042512624
+    Contact, Technical  help@hover.com
+    96 Mowat Avenue
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385498    Fax: +1.4163520113
+
+
+
+ Registration Service Provider:
+    Hover, help@hover.com
+    416.538.5498
+    http://help.hover.com
+
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Apr-2011.
- Record expires on 04-Apr-2012.
- Record created on 04-Apr-2007.
+ Record last updated on 28-Aug-2011.
+ Record expires on 10-Aug-2012.
+ Record created on 10-Aug-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.BLUEDOMINO.COM
-    NS1.BLUEDOMINO.COM
+    NS1.THEPLANET.COM
+    NS2.THEPLANET.COM
 
 
- Domain status: ok
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

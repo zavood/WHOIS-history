@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COGVV.COM
+   Domain Name: MDIPROPERTIES.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.BLUEDOMINO.COM
-   Name Server: NS2.BLUEDOMINO.COM
+   Name Server: NS1.KANSAS.NET
+   Name Server: NS2.KANSAS.NET
    Status: ok
-   Updated Date: 02-apr-2011
-   Creation Date: 04-apr-2007
-   Expiration Date: 04-apr-2012
+   Updated Date: 14-dec-2006
+   Creation Date: 19-mar-1997
+   Expiration Date: 20-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:04:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Coalition of Gay Vietnam Veterans
- 300 W Harding St
- Apt 104
- Morrilton, Arkansas 72110
+ McCullough Development, Inc.
+ PO Box 1088
+ Manhattan, KS 66505
  US
 
- Domain name: COGVV.COM
+ Domain name: MDIPROPERTIES.COM
 
 
  Administrative Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St
-    Apt 104
-    Morrilton, Arkansas 72110
+    Boeckman, Steve  steveb@mdiproperties.com
+    PO Box 1088
+    Manhattan, KS 66505
     US
-    +1.504251x2624
+    +1.7857763010
  Technical Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St.
-    Apt 104
-    Morrilton, AR 72110
+    Lund, Jim  domains@kansas.net
+    531 Ft. Riley Rd.
+    Manhattan, KS 66502
     US
-    +1.5042512624
+    +1.7857761452    Fax: +1.7857761633
+
+
+
+ Registration Service Provider:
+    KansasNet / Fox Business Systems, domains@kansas.net
+    785 776 1452
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Apr-2011.
- Record expires on 04-Apr-2012.
- Record created on 04-Apr-2007.
+ Record last updated on 14-Dec-2006.
+ Record expires on 20-Mar-2012.
+ Record created on 19-Mar-1997.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.BLUEDOMINO.COM
-    NS1.BLUEDOMINO.COM
+    NS1.KANSAS.NET
+    NS2.KANSAS.NET
 
 
  Domain status: ok

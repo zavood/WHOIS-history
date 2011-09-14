@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COGVV.COM
+   Domain Name: HEYCHICKADEE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.BLUEDOMINO.COM
-   Name Server: NS2.BLUEDOMINO.COM
-   Status: ok
-   Updated Date: 02-apr-2011
-   Creation Date: 04-apr-2007
-   Expiration Date: 04-apr-2012
+   Name Server: NS1.STARTLOGIC.COM
+   Name Server: NS2.STARTLOGIC.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-oct-2010
+   Creation Date: 15-oct-2010
+   Expiration Date: 15-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:18 UTC &lt;&lt;&lt;
 
@@ -52,45 +53,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Coalition of Gay Vietnam Veterans
- 300 W Harding St
- Apt 104
- Morrilton, Arkansas 72110
- US
+ Contact Privacy Inc. Customer 0125138637
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: COGVV.COM
+ Domain name: HEYCHICKADEE.COM
 
 
  Administrative Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St
-    Apt 104
-    Morrilton, Arkansas 72110
-    US
-    +1.504251x2624
+    Contact Privacy Inc. Customer 0125138637,   heychickadee.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St.
-    Apt 104
-    Morrilton, AR 72110
-    US
-    +1.5042512624
+    Contact Privacy Inc. Customer 0125138637,   heychickadee.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
+
+
+ Registration Service Provider:
+    StartLogic, Inc., domreg@startlogic.com
+    1-800-725-8064
+
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Apr-2011.
- Record expires on 04-Apr-2012.
- Record created on 04-Apr-2007.
+ Record last updated on 15-Oct-2010.
+ Record expires on 15-Oct-2011.
+ Record created on 15-Oct-2010.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.BLUEDOMINO.COM
-    NS1.BLUEDOMINO.COM
+    NS2.STARTLOGIC.COM
+    NS1.STARTLOGIC.COM
 
 
- Domain status: ok
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

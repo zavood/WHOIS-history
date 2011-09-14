@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COGVV.COM
+   Domain Name: SOUTHINGTONCOC.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.BLUEDOMINO.COM
-   Name Server: NS2.BLUEDOMINO.COM
+   Name Server: DNS1.MEGAHITS.NET
+   Name Server: DNS2.MEGAHITS.NET
    Status: ok
-   Updated Date: 02-apr-2011
-   Creation Date: 04-apr-2007
-   Expiration Date: 04-apr-2012
+   Updated Date: 18-apr-2011
+   Creation Date: 21-apr-1996
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:02:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Coalition of Gay Vietnam Veterans
- 300 W Harding St
- Apt 104
- Morrilton, Arkansas 72110
+ Southington Chamber of Commerce
+ 37 West Center Street
+ Suite 201
+ Southington, CT 06489
  US
 
- Domain name: COGVV.COM
+ Domain name: SOUTHINGTONCOC.COM
 
 
  Administrative Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St
-    Apt 104
-    Morrilton, Arkansas 72110
+    Secondo, Art  customercare@megahits.com
+    37 West Center Street
+    Suite 201
+    Southington, CT 06489
     US
-    +1.504251x2624
+    +1.8606288036
  Technical Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St.
-    Apt 104
-    Morrilton, AR 72110
+    Cocuzza, Charles  admin@dialupnet.com
+    One Center Street
+    Southington, CT 06489
     US
-    +1.5042512624
+    +1.8602768504    Fax: +1.8602760192
+
+
+
+ Registration Service Provider:
+    Omega Communications, Inc, sales@omegacomminc.com
+    860-276-8504
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Apr-2011.
- Record expires on 04-Apr-2012.
- Record created on 04-Apr-2007.
+ Record last updated on 18-Apr-2011.
+ Record expires on 22-Apr-2012.
+ Record created on 21-Apr-1996.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.BLUEDOMINO.COM
-    NS1.BLUEDOMINO.COM
+    DNS1.MEGAHITS.NET
+    DNS2.MEGAHITS.NET
 
 
  Domain status: ok

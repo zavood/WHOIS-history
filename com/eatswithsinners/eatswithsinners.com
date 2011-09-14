@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COGVV.COM
+   Domain Name: EATSWITHSINNERS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.BLUEDOMINO.COM
-   Name Server: NS2.BLUEDOMINO.COM
+   Name Server: NS2547.HOSTGATOR.COM
+   Name Server: NS2548.HOSTGATOR.COM
    Status: ok
-   Updated Date: 02-apr-2011
-   Creation Date: 04-apr-2007
-   Expiration Date: 04-apr-2012
+   Updated Date: 14-nov-2010
+   Creation Date: 14-nov-2008
+   Expiration Date: 14-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:03:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Coalition of Gay Vietnam Veterans
- 300 W Harding St
- Apt 104
- Morrilton, Arkansas 72110
+ Evenstar Media
+ 91 Hermitage Rd.
+ Newport News, VA 23606
  US
 
- Domain name: COGVV.COM
+ Domain name: EATSWITHSINNERS.COM
 
 
  Administrative Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St
-    Apt 104
-    Morrilton, Arkansas 72110
+    Peters, Eric  clienthosting@evenstarmedia.com
+    91 Hermitage Rd.
+    Newport News, VA 23606
     US
-    +1.504251x2624
+    +1.8777504925    Fax: +1.3105642007
+
  Technical Contact:
-    Gilbert, Roy C  rgilbert71@sprintpcs.com
-    300 W Harding St.
-    Apt 104
-    Morrilton, AR 72110
+    Administrator, DNS  dnsadmin@mediatemple.net
+    8520 National Blvd.
+    Suite A
+    Culver City, CA 90232
     US
-    +1.5042512624
+    +1.8775784000    Fax: +1.3105642007
+
+
+
+ Registration Service Provider:
+    (mt) Media Temple, dnsadmin@mediatemple.net
+    877-578-4000
+    310-564-2007 (fax)
+    http://www.mediatemple.net/go/support/
+    To make contact, or to request technical support please first visit the
+    (mt) AccountCenter: http://www.mediatemple.net/go/support/
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Apr-2011.
- Record expires on 04-Apr-2012.
- Record created on 04-Apr-2007.
+ Record last updated on 14-Nov-2010.
+ Record expires on 14-Nov-2011.
+ Record created on 14-Nov-2008.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.BLUEDOMINO.COM
-    NS1.BLUEDOMINO.COM
+    NS2547.HOSTGATOR.COM
+    NS2548.HOSTGATOR.COM
 
 
  Domain status: ok
