@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SNXD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SNXD.COM
-   Name Server: NS2.SNXD.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: RISEFLY.COM
+   Registrar: DOMAINPEOPLE, INC.
+   Whois Server: whois.domainpeople.com
+   Referral URL: http://www.domainpeople.com
+   Name Server: ADNS.CS.SITEPROTECT.COM
+   Name Server: BDNS.CS.SITEPROTECT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-apr-2010
-   Creation Date: 20-jun-2006
-   Expiration Date: 20-jun-2019
+   Updated Date: 09-oct-2010
+   Creation Date: 24-oct-2002
+   Expiration Date: 24-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:48:33 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
 
 
-Registrant:
-   racksys
+Domain name: risefly.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SNXD.COM
+Registrant Contact:
+   Jianping Zhou
+   Domain Administrator ()
 
-   Domain servers in listed order:
-      NS1.SNXD.COM
-      NS2.SNXD.COM
+   Fax:
+   Room 501
+   Osaka,  555-0033
+   JP
+
+Administrative Contact:
+   Jianping Zhou
+   Domain Administrator (zjp_xp@ybb.ne.jp)
+   +81.10664775774
+   Fax:
+   Room 501
+   Osaka,  555-0033
+   JP
+
+Technical Contact:
+   Gate.com
+   Domain Tech (domaintech@gate.com)
+   +1.9543348000
+   Fax:
+   3250 W. Commercial Blvd.
+   Ft. Lauderdale, FL 33309
+   US
+
+Status: Locked
+
+Name Servers:
+   bdns.cs.siteprotect.com
+
+Creation date: 24 Oct 2002 00:00:00
+Expiration date: 24 Oct 2011 00:00:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SNXD.COM
+
+
+=-=-=-=
+You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes.  The data in DomainPeople, Inc.'s WHOIS database (&quot;Data&quot;) is provided by DomainPeople, Inc. for information purposes only.  DomainPeople, Inc.
+does not guarantee the accuracy of this Data and it is provided &quot;as- is&quot;.
+
+By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via mail, email (spam), telephone or facsimile, or solicitations to entities other than the data recipients own, existing customers; or (2) enable high-volume, automated, electronic processes that apply to DomainPeople, Inc. (or its systems).  The compilation, repackaging, dissemination, distribution or other use of this Data is expressly prohibited without the prior written consent of DomainPeople, Inc.
+
+You agree not to use high-volume, automated, electronic processes to access or query the WHOIS database.  DomainPeople, Inc. reserves the right to terminate your access to the DomainPeople, Inc. WHOIS database in its sole discretion, including without limitation, for excessive querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+DomainPeople, Inc. reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the terms of this policy.

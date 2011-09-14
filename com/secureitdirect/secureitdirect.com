@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SNXD.COM
+   Domain Name: SECUREITDIRECT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SNXD.COM
-   Name Server: NS2.SNXD.COM
+   Name Server: NS1.DNSHOSTING.COM
+   Name Server: NS2.DNSHOSTING.COM
+   Name Server: NS3.DNSHOSTING.COM
+   Name Server: NS4.DNSHOSTING.COM
+   Name Server: NS5.DNSHOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-apr-2010
-   Creation Date: 20-jun-2006
-   Expiration Date: 20-jun-2019
+   Updated Date: 03-nov-2010
+   Creation Date: 01-dec-2007
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:48:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:49:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   racksys
+   SecurityCoverage, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SNXD.COM
+   Domain Name: SECUREITDIRECT.COM
 
    Domain servers in listed order:
-      NS1.SNXD.COM
-      NS2.SNXD.COM
+      NS1.DNSHOSTING.COM
+      NS2.DNSHOSTING.COM
+      NS3.DNSHOSTING.COM
+      NS4.DNSHOSTING.COM
+      NS5.DNSHOSTING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SNXD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SECUREITDIRECT.COM
