@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUPPORT-INFORMS.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.TEXASDNS.COM
-   Name Server: NS2.TEXASDNS.COM
+   Domain Name: NATACHAMARRO.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS0.SERVE.CO.UK
+   Name Server: NS0.SERVE.NET.UK
    Status: clientTransferProhibited
-   Updated Date: 10-feb-2011
-   Creation Date: 10-feb-2011
-   Expiration Date: 10-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 09-oct-2010
+   Creation Date: 05-oct-2006
+   Expiration Date: 05-oct-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:53:43 UTC &lt;&lt;&lt;
 
@@ -51,72 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-
-   Registrant:
-
-      DNS Administrator
-      1900 Seaport Blvd., 3rd Floor
-      Redwood City, CA 94063
-      US
-      Phone: +1.6505568571
-      Email: admin@support-informs.com
-
-
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: support-informs.com
-      Created on..............: 2011-02-10
-      Expires on..............: 2012-02-10
-
-   Administrative Contact:
-
-      DNS Administrator
-      1900 Seaport Blvd., 3rd Floor
-      Redwood City, CA 94063
-      US
-      Phone: +1.6505568571
-      Email: admin@support-informs.com
-
-
-   Technical  Contact:
-
-      DNS Administrator
-      1900 Seaport Blvd., 3rd Floor
-      Redwood City, CA 94063
-      US
-      Phone: +1.6505568571
-      Email: admin@support-informs.com
-
-
-   DNS Servers:
-      ns1.texasdns.com
-      ns2.texasdns.com
-
-
-
-Visit AboutUs.org for more information about support-informs.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/support-informs.com&quot;&gt;AboutUs: support-informs.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

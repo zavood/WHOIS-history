@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIGITALRIVER.COM
+   Domain Name: TRAFFIC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: DNS1.TRAFFIC.COM
+   Name Server: DNS2.TRAFFIC.COM
+   Name Server: DNS3.TRAFFIC.COM
    Status: clientTransferProhibited
-   Updated Date: 11-sep-2011
-   Creation Date: 28-feb-1995
-   Expiration Date: 01-mar-2013
+   Updated Date: 26-aug-2011
+   Creation Date: 20-sep-1994
+   Expiration Date: 19-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:52:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:52:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: digitalriver.com
+Whois Query: traffic.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:42:47 EDT 2011
+Date and Time of Query: Wed Sep 14 10:42:12 EDT 2011
 Reason Code: IE

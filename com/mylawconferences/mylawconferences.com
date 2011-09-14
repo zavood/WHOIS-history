@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORRIS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
-   Status: clientTransferProhibited
-   Updated Date: 25-dec-2010
-   Creation Date: 10-jan-1995
-   Expiration Date: 09-jan-2012
+   Domain Name: MYLAWCONFERENCES.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.TRWAVE.NET
+   Name Server: NS2.TRWAVE.NET
+   Status: ok
+   Updated Date: 06-jun-2011
+   Creation Date: 03-jun-2010
+   Expiration Date: 03-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:52:57 UTC &lt;&lt;&lt;
 
@@ -52,23 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   c/o MYLAWCONFERENCES.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar: DOTSTER
+   Domain Name: MYLAWCONFERENCES.COM
+      Created on: 03-JUN-10
+      Expires on: 03-JUN-12
+      Last Updated on: 06-JUN-11
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      PFIIid@PRIVACYPOST.COM
+      c/o MYLAWCONFERENCES.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
-Whois Query: morris.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:43:12 EDT 2011
-Reason Code: IE
+   Technical Contact:
+      FvVseb@PRIVACYPOST.COM
+      c/o MYLAWCONFERENCES.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
+
+   Domain servers in listed order:
+      NS1.TRWAVE.NET
+      NS2.TRWAVE.NET
+
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
+
+End of Whois Information
