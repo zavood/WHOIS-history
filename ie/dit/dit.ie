@@ -1,0 +1,29 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      dit.ie
+descr:       Dublin Institute of Technology
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     ACS689-IEDR
+admin-c:     CJC1-IEDR
+tech-c:      DOR11-IEDR
+renewal:     14-September-2011
+status:      Active
+nserver:     INET.DIT.IE 147.252.1.37
+nserver:     NS.HEANET.IE
+source:      IEDR
+
+person:      Tracey Roche
+nic-hdl:     ACS689-IEDR
+source:      IEDR
+
+person:      Eoin O'Cuiv
+nic-hdl:     CJC1-IEDR
+source:      IEDR
+
+person:      Dearbhla O'Reilly
+nic-hdl:     DOR11-IEDR
+source:      IEDR
+
