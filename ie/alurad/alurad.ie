@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      alurad.ie
+descr:       Renew It Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Business Name
+admin-c:     AGE350-IEDR
+tech-c:      DAD1-IEDR
+renewal:     17-December-2011
+status:      Active
+nserver:     ns1.hosting365.ie
+nserver:     ns2.hosting365.ie
+source:      IEDR
+
+person:      Karina Kelly
+nic-hdl:     AGE350-IEDR
+source:      IEDR
+
+person:      Digiweb Hosting
+nic-hdl:     DAD1-IEDR
+source:      IEDR
+
