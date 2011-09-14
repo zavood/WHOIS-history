@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: ZARDAM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS1.FULLCONTROL.NET
+   Name Server: NS2.FULLCONTROL.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 18-may-2007
-   Expiration Date: 18-may-2013
+   Updated Date: 16-sep-2010
+   Creation Date: 16-sep-2010
+   Expiration Date: 16-sep-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:45:58 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Tecknowledge Management
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: ZARDAM.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      NS1.FULLCONTROL.NET
+      NS2.FULLCONTROL.NET
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECNDIGITALEDITION.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=ZARDAM.COM

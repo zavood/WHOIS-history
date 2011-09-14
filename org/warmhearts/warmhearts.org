@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2604635-LROR
+Domain Name:WARMHEARTS.ORG
+Created On:01-Dec-1998 05:00:00 UTC
+Last Updated On:15-Mar-2011 15:04:37 UTC
+Expiration Date:30-Nov-2011 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-220552
+Registrant Name:HumaneSocietyof Pulaski County
+Registrant Organization:HumaneSocietyof Pulaski County
+Registrant Street1:14600 Colonel Glenn Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Little Rock
+Registrant State/Province:AR
+Registrant Postal Code:72210
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lblackburn@ARISTOTLE.NET
+Admin ID:NF-ADMIN-220552
+Admin Name:John Thaden
+Admin Street1:32 Perdido Cir
+Admin Street2:
+Admin Street3:
+Admin City:Little Rock
+Admin State/Province:AR
+Admin Postal Code:72211
+Admin Country:US
+Admin Phone:+1.5015801380
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jjthaden@flash.net
+Tech ID:NF-TECH-220552
+Tech Name:John Thaden
+Tech Street1:32 Perdido Cir
+Tech Street2:
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:AR
+Tech Postal Code:72211
+Tech Country:US
+Tech Phone:+1.5015801380
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jjthaden@flash.net
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

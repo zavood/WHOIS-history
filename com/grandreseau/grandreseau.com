@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: GRANDRESEAU.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS3.TEKTONIC.NET
+   Name Server: NS4.TEKTONIC.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 18-may-2007
-   Expiration Date: 18-may-2013
+   Updated Date: 30-sep-2010
+   Creation Date: 29-sep-2008
+   Expiration Date: 29-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:45:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:45:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Tecknowledge Management
+   beubittes developpements inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: GRANDRESEAU.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      NS3.TEKTONIC.NET
+      NS4.TEKTONIC.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECNDIGITALEDITION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GRANDRESEAU.COM

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: WALLPAPERVILLAGE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: NS10.WEBSITESOURCE.COM
+   Name Server: NS11.WEBSITESOURCE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 18-may-2007
-   Expiration Date: 18-may-2013
+   Updated Date: 22-aug-2011
+   Creation Date: 21-aug-2004
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:45:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:44:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Tecknowledge Management
+   John Keady LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECNDIGITALEDITION.COM
+   Domain Name: WALLPAPERVILLAGE.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      NS10.WEBSITESOURCE.COM
+      NS11.WEBSITESOURCE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECNDIGITALEDITION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WALLPAPERVILLAGE.COM
