@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SINGLEFUNCTION.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBMASTERISH.NET
-   Name Server: NS2.WEBMASTERISH.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 21-dec-2008
-   Expiration Date: 21-dec-2012
+   Domain Name: LETTERPOSTING.COM
+   Registrar: INDIALINKS WEB HOSTING PVT.LTD.
+   Whois Server: whois.domainsrs.com
+   Referral URL: http://www.indialinks.com
+   Name Server: NS13.IXWEBHOSTING.COM
+   Name Server: NS14.IXWEBHOSTING.COM
+   Status: ok
+   Updated Date: 01-nov-2010
+   Creation Date: 01-nov-2010
+   Expiration Date: 01-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:51:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:50:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Domains by Proxy, Inc.
+ Web Development
+ 609  34 th A Cross 2nd Floor
+ 2nd Block  Dr rajkumar Road  R
+ Bangalore, Karnataka 560010
+ IN
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SINGLEFUNCTION.COM
-
-   Domain servers in listed order:
-      NS1.WEBMASTERISH.NET
-      NS2.WEBMASTERISH.NET
+ Domain name: LETTERPOSTING.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SINGLEFUNCTION.COM
+ Administrative Contact:
+    Madan, Ruksha  guddi.mad@gmail.com
+    609  34 th A Cross 2nd Floor
+    2nd Block  Dr rajkumar Road  R
+    Bangalore, Karnataka 560010
+    IN
+    +91.8032940517
+ Technical Contact:
+    Madan, Ruksha  guddi.mad@gmail.com
+    609  34 th A Cross 2nd Floor
+    2nd Block  Dr rajkumar Road  R
+    Bangalore, Karnataka 560010
+    IN
+    +91.8032940517
+
+
+ Registrar of Record: DomainSRS
+ Record last updated on 01-Nov-2010.
+ Record expires on 01-Nov-2011.
+ Record created on 01-Nov-2010.
+
+ Domain servers in listed order:
+    NS14.IXWEBHOSTING.COM
+    NS13.IXWEBHOSTING.COM
+
+
+
+

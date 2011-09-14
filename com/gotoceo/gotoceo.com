@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANDORA.COM
+   Domain Name: GOTOCEO.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
-   Name Server: NS1.P20.DYNECT.NET
-   Name Server: NS3.PANDORA.COM
-   Name Server: NS4.PANDORA.COM
+   Name Server: NS1.IPOWERDNS.COM
+   Name Server: NS1.IPOWERWEB.NET
    Status: clientTransferProhibited
-   Updated Date: 23-aug-2011
-   Creation Date: 28-dec-1993
-   Expiration Date: 27-dec-2018
+   Updated Date: 01-mar-2011
+   Creation Date: 08-mar-2006
+   Expiration Date: 08-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:49:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:51:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANDORA.COM
-&lt;a href=&quot;http://www.aboutus.org/PANDORA.COM&quot;&gt;AboutUs: PANDORA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about GOTOCEO.COM
+&lt;a href=&quot;http://www.aboutus.org/GOTOCEO.COM&quot;&gt;AboutUs: GOTOCEO.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Pandora Media, Inc.
-   2101 Webster St. Suite 1650
-   Oakland, CA 94612
-   US
+Business Builders LLC
+   ATTN GOTOCEO.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: PANDORA.COM
+
+   Domain Name: GOTOCEO.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,25 +97,28 @@ Pandora Media, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Pandora Media, Inc.		dns-admin@pandora.com
-      2101 Webster St. Suite 1650
-      Oakland, CA 94612
+      Business Builders LLC		rd4nv98s53b@networksolutionsprivateregistration.com
+      ATTN GOTOCEO.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      510-451-4100 fax: 510-451-4286
+      570-708-8780
 
 
-   Record expires on 27-Dec-2018.
-   Record created on 28-Dec-1993.
-   Database last updated on 14-Sep-2011 00:40:28 EDT.
+   Record expires on 08-Mar-2012.
+   Record created on 08-Mar-2006.
+   Database last updated on 14-Sep-2011 00:47:14 EDT.
 
    Domain servers in listed order:
 
-   NS4.PANDORA.COM              199.116.165.20
-   NS1.P20.DYNECT.NET
-   NS-A.PNAP.NET                64.94.123.4
-   NS-B.PNAP.NET                64.94.123.36
-   NS-C.PNAP.NET                64.95.61.4
-   NS-D.PNAP.NET                64.95.61.36
-   NS3.PANDORA.COM              208.85.40.26
+   NS1.IPOWERDNS.COM            66.235.217.202
+   NS1.IPOWERWEB.NET            66.96.142.103
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 
