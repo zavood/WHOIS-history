@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLACKANDLIGHTCO.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.IRONKEEP.NET
-   Name Server: NS2.IRONKEEP.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-apr-2010
-   Creation Date: 19-mar-2007
-   Expiration Date: 19-mar-2017
+   Domain Name: BITTRANSLATIONS.COM
+   Registrar: AUSTRALIAN STYLE PTY LTD
+   Whois Server: whois.domaincentral.com.au
+   Referral URL: http://www.australianstyle.com.au
+   Name Server: DNS1.DOMAINCENTRAL.NET.AU
+   Name Server: DNS2.DOMAINCENTRAL.NET.AU
+   Status: ok
+   Updated Date: 29-jul-2010
+   Creation Date: 29-may-2008
+   Expiration Date: 29-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:27 UTC &lt;&lt;&lt;
 
@@ -53,49 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: AUSTRALIAN STYLE PTY. LTD.
+Contact: +61.1300139643
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name: BITTRANSLATIONS.COM
 
 Registrant:
-   black &amp; light co
-   3119 north manitou trail
-   Leland, MI  49654
-   US
+    Stanthorpe Print n Copy
+    Margie Davies        (margie@printncopy.com.au)
+    Shop 2, 35 Maryland Street
+    Stanthorpe
+    QLD,4380
+    AU
+    Tel. +61.746810011
 
-   Registrar: DOTSTER
-   Domain Name: BLACKANDLIGHTCO.COM
-      Created on: 19-MAR-07
-      Expires on: 19-MAR-17
-      Last Updated on: 29-APR-10
+Creation Date: 29-May-2008
+Expiration Date: 29-May-2012
 
-   Administrative, Technical Contact:
-      Suttman, Clement  clement@blackandlightco.com
-      black &amp; light co
-      3119 north manitou trail
-      Leland, MI  49654
-      US
-      231-256-1105
+Domain servers in listed order:
+    dns1.domaincentral.net.au
+    dns2.domaincentral.net.au
 
 
-   Domain servers in listed order:
-      NS1.IRONKEEP.NET
-      NS2.IRONKEEP.NET
+Administrative Contact:
+    Stanthorpe Print n Copy
+    Margie Davies        (margie@printncopy.com.au)
+    Shop 2, 35 Maryland Street
+    Stanthorpe
+    QLD,4380
+    AU
+    Tel. +61.746810011
 
-End of Whois Information
+Technical Contact:
+    Stanthorpe Print n Copy
+    Margie Davies        (margie@printncopy.com.au)
+    Shop 2, 35 Maryland Street
+    Stanthorpe
+    QLD,4380
+    AU
+    Tel. +61.746810011
+
+Billing Contact:
+    Stanthorpe Print n Copy
+    Margie Davies        (margie@printncopy.com.au)
+    Shop 2, 35 Maryland Street
+    Stanthorpe
+    QLD,4380
+    AU
+    Tel. +61.746810011
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Australian Style Pty Ltd. dba auCLUB.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

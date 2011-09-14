@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: BLACKHAWKALUMNI.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.AMERICANEAGLE.COM
+   Name Server: NS2.AMERICANEAGLE.COM
+   Status: clientTransferProhibited
+   Updated Date: 17-oct-2006
+   Creation Date: 26-feb-2004
+   Expiration Date: 26-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: blackhawkalumni.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 15:18:54 EDT 2011
+Reason Code: IE

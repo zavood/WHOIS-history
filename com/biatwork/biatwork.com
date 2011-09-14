@@ -5,20 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLACKANDLIGHTCO.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.IRONKEEP.NET
-   Name Server: NS2.IRONKEEP.NET
+   Domain Name: BIATWORK.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.BIATWORK.COM
+   Name Server: NS2.BIATWORK.COM
+   Name Server: NS3.BIATWORK.COM
+   Name Server: NS4.BIATWORK.COM
+   Name Server: NS5.BIATWORK.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-apr-2010
-   Creation Date: 19-mar-2007
-   Expiration Date: 19-mar-2017
+   Updated Date: 18-mar-2009
+   Creation Date: 29-jun-2005
+   Expiration Date: 29-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:29:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,49 +57,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-   black &amp; light co
-   3119 north manitou trail
-   Leland, MI  49654
-   US
+   BI@Work S.r.l.
 
-   Registrar: DOTSTER
-   Domain Name: BLACKANDLIGHTCO.COM
-      Created on: 19-MAR-07
-      Expires on: 19-MAR-17
-      Last Updated on: 29-APR-10
-
-   Administrative, Technical Contact:
-      Suttman, Clement  clement@blackandlightco.com
-      black &amp; light co
-      3119 north manitou trail
-      Leland, MI  49654
-      US
-      231-256-1105
-
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BIATWORK.COM
 
    Domain servers in listed order:
-      NS1.IRONKEEP.NET
-      NS2.IRONKEEP.NET
+      NS1.BIATWORK.COM
+      NS2.BIATWORK.COM
+      NS3.BIATWORK.COM
+      NS4.BIATWORK.COM
+      NS5.BIATWORK.COM
 
-End of Whois Information
+
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=BIATWORK.COM

@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLACKANDLIGHTCO.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.IRONKEEP.NET
-   Name Server: NS2.IRONKEEP.NET
-   Status: clientDeleteProhibited
+   Domain Name: BIRTHDAYWEATHER.COM
+   Registrar: 1 API GMBH
+   Whois Server: whois.1api.net
+   Referral URL: http://www.1api.net
+   Name Server: DNS1.MHS.CH
+   Name Server: DNS2.MHS.CH
+   Name Server: DNS3.MHS.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-apr-2010
-   Creation Date: 19-mar-2007
-   Expiration Date: 19-mar-2017
+   Updated Date: 26-nov-2010
+   Creation Date: 26-nov-2010
+   Expiration Date: 26-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:27 UTC &lt;&lt;&lt;
 
@@ -53,49 +52,81 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   black &amp; light co
-   3119 north manitou trail
-   Leland, MI  49654
-   US
-
-   Registrar: DOTSTER
-   Domain Name: BLACKANDLIGHTCO.COM
-      Created on: 19-MAR-07
-      Expires on: 19-MAR-17
-      Last Updated on: 29-APR-10
-
-   Administrative, Technical Contact:
-      Suttman, Clement  clement@blackandlightco.com
-      black &amp; light co
-      3119 north manitou trail
-      Leland, MI  49654
-      US
-      231-256-1105
+; This data is provided by mhs @ internet AG
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; mhs @ internet AG does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
 
-   Domain servers in listed order:
-      NS1.IRONKEEP.NET
-      NS2.IRONKEEP.NET
 
-End of Whois Information
+DOMAIN: BIRTHDAYWEATHER.COM
+
+RSP: mhs @ internet AG
+URL: http://www.mhs.ch
+
+created-date: 2010-11-26 08:51:17
+updated-date: 2010-11-26 08:51:46
+registration-expiration-date: 2011-11-26 08:51:17
+
+owner-organization: meteomedia ag
+owner-name: Herr Norbert Steffen
+owner-street: Schwaebrig
+owner-city: Gais
+owner-state:
+owner-zip: 9056
+owner-country: CH
+owner-phone: +41.717910936
+owner-fax: +41.717910910
+owner-email: dom-reg@mhs.ch
+
+admin-organization: meteomedia ag
+admin-name: Herr Norbert Steffen
+admin-street: Schwaebrig
+admin-city: Gais
+admin-state:
+admin-zip: 9056
+admin-country: CH
+admin-phone: +41.717910936
+admin-fax: +41.717910910
+admin-email: dom-reg@mhs.ch
+
+tech-organization: mhs internet AG
+tech-name: Matthias Hertzog
+tech-street: Zuercherstrasse 204
+tech-city: St Gallen
+tech-state: CH
+tech-zip: 9014
+tech-country: CH
+tech-phone: +41.712749393
+tech-fax: +41.712749394
+tech-email: dom-reg@mhs.ch
+
+billing-organization: mhs internet AG
+billing-name: Matthias Hertzog
+billing-street: Zuercherstrasse 204
+billing-city: St Gallen
+billing-state: CH
+billing-zip: 9014
+billing-country: CH
+billing-phone: +41.712749393
+billing-fax: +41.712749394
+billing-email: dom-reg@mhs.ch
+
+nameserver: dns1.mhs.ch
+nameserver: dns2.mhs.ch
+nameserver: dns3.mhs.ch
+
+; --
+; --
+; --
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69929915-LROR
+Domain Name:BIGNAMI.ORG
+Created On:25-Apr-2001 22:33:51 UTC
+Last Updated On:26-Apr-2011 01:22:42 UTC
+Expiration Date:25-Apr-2012 22:33:51 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C12227901-RCOM
+Registrant Name:Andrea Bignami
+Registrant Organization:Metaxa League
+Registrant Street1:Corso Magenta 45
+Registrant Street2:
+Registrant Street3:
+Registrant City:Milano
+Registrant State/Province:MI
+Registrant Postal Code:20123
+Registrant Country:IT
+Registrant Phone:+39.335438382
+Registrant Phone Ext.:
+Registrant FAX:+39.0248008416
+Registrant FAX Ext.:
+Registrant Email:anbigna@tin.it
+Admin ID:C12227901-RCOM
+Admin Name:Andrea Bignami
+Admin Organization:Metaxa League
+Admin Street1:Corso Magenta 45
+Admin Street2:
+Admin Street3:
+Admin City:Milano
+Admin State/Province:MI
+Admin Postal Code:20123
+Admin Country:IT
+Admin Phone:+39.335438382
+Admin Phone Ext.:
+Admin FAX:+39.0248008416
+Admin FAX Ext.:
+Admin Email:anbigna@tin.it
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS167.A.REGISTER.COM
+Name Server:DNS245.B.REGISTER.COM
+Name Server:DNS244.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

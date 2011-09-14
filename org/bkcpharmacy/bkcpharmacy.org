@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157042937-LROR
+Domain Name:BKCPHARMACY.ORG
+Created On:06-Sep-2009 12:34:31 UTC
+Last Updated On:25-Jul-2011 09:31:59 UTC
+Expiration Date:06-Sep-2012 12:34:31 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR13603799
+Registrant Name:Kaustubh Katdare
+Registrant Organization:CrazyEngineers
+Registrant Street1:B-402, J.P.Chambers, Madhav Nagar
+Registrant Street2:S.A. Road,
+Registrant Street3:
+Registrant City:Nagpur
+Registrant State/Province:Maharashtra
+Registrant Postal Code:440010
+Registrant Country:IN
+Registrant Phone:+91.9822692792
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kaustubh@crazyengineers.com
+Admin ID:CR13603804
+Admin Name:Kaustubh Katdare
+Admin Organization:CrazyEngineers
+Admin Street1:B-402, J.P.Chambers, Madhav Nagar
+Admin Street2:S.A. Road,
+Admin Street3:
+Admin City:Nagpur
+Admin State/Province:Maharashtra
+Admin Postal Code:440010
+Admin Country:IN
+Admin Phone:+91.9822692792
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kaustubh@crazyengineers.com
+Tech ID:CR13603802
+Tech Name:Kaustubh Katdare
+Tech Organization:CrazyEngineers
+Tech Street1:B-402, J.P.Chambers, Madhav Nagar
+Tech Street2:S.A. Road,
+Tech Street3:
+Tech City:Nagpur
+Tech State/Province:Maharashtra
+Tech Postal Code:440010
+Tech Country:IN
+Tech Phone:+91.9822692792
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kaustubh@crazyengineers.com
+Name Server:NS.LIQUIDWEB.COM
+Name Server:NS1.LIQUIDWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

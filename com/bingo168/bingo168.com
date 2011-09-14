@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: BINGO168.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.PENDING-RENEWAL-DOMAIN.COM
+   Name Server: NS2.PENDING-RENEWAL-DOMAIN.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 13-aug-2011
+   Creation Date: 12-aug-2010
+   Expiration Date: 12-aug-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
+
+Domain name: bingo168.com
+
+Registrant Contact:
+   shanghai bingge
+   bingge shanghai chinabingo@126.com
+   +86.5514694208 fax: +86.5514690408
+   changjiangdonglu 1137 shengdaguoji
+   hefei Anhui 230000
+   cn
+
+Administrative Contact:
+   bingge shanghai chinabingo@126.com
+   +86.5514694208 fax: +86.5514690408
+   changjiangdonglu 1137 shengdaguoji
+   hefei Anhui 230000
+   cn
+
+Technical Contact:
+   bingge shanghai chinabingo@126.com
+   +86.5514694208 fax: +86.5514690408
+   changjiangdonglu 1137 shengdaguoji
+   hefei Anhui 230000
+   cn
+
+Billing Contact:
+   bingge shanghai chinabingo@126.com
+   +86.5514694208 fax: +86.5514690408
+   changjiangdonglu 1137 shengdaguoji
+   hefei Anhui 230000
+   cn
+
+DNS:
+ns1.4everdns.com
+ns2.4everdns.com
+
+Created: 2010-08-12
+Expires: 2011-08-12

@@ -1,0 +1,116 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; prestashop.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      prestashop.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P6683-FRNIC
+admin-c:     BL2002-FRNIC
+tech-c:      MC8651-FRNIC
+tech-c:      DD195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1835-FRNIC
+registrar:   MAILCLUB
+anniversary: 20/07
+created:     11/04/2007
+last-update: 22/07/2009
+source:      FRNIC
+
+ns-list:     NSL1835-FRNIC
+nserver:     ns1.mailclub.fr [80.245.60.10]
+nserver:     ns2.mailclub.fr [193.151.86.13]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     P6683-FRNIC
+type:        ORGANIZATION
+contact:     PRESTASHOP
+address:     PRESTASHOP
+address:     6, rue Lacepede
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 18 30 04
+e-mail:      bruno.leveque@prestashop.com
+changed:     12/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BL2002-FRNIC
+type:        PERSON
+contact:     Bruno Leveque
+address:     PRESTASHOP
+address:     6, rue Lac&eacute;p&egrave;de
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 18 30 04
+e-mail:      bruno.leveque@prestashop.com
+changed:     28/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC8651-FRNIC
+type:        ROLE
+contact:     Service Clientele
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      ripe@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@mailclub.fr
+changed:     20/07/2006 ripe@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD195-FRNIC
+type:        ROLE
+contact:     Service Technique
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      technique@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@daydream.org
+changed:     20/07/2006 technique@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

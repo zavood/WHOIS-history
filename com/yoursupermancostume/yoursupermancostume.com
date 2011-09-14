@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: YOURSUPERMANCOSTUME.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS77.DOMAINCONTROL.COM
+   Name Server: NS78.DOMAINCONTROL.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 29-jun-2010
+   Expiration Date: 29-jun-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
 
@@ -51,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+No match for &quot;yoursupermancostume.com&quot; in the registrar database.
+

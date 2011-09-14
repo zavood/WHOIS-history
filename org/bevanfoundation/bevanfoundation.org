@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94669162-LROR
+Domain Name:BEVANFOUNDATION.ORG
+Created On:20-Feb-2003 09:35:00 UTC
+Last Updated On:21-Feb-2011 01:25:34 UTC
+Expiration Date:20-Feb-2012 09:35:00 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-36418065
+Registrant Name:Gareth Roach
+Registrant Organization:The Bevan Foundation
+Registrant Street1:Castle Street
+Registrant Street2:Aneurin Bevan House
+Registrant Street3:
+Registrant City:Tredegar
+Registrant State/Province:
+Registrant Postal Code:NP22 3DQ
+Registrant Country:GB
+Registrant Phone:+44.1495725214
+Registrant Phone Ext.:
+Registrant FAX:+44.1495725214
+Registrant FAX Ext.:
+Registrant Email:gareth.roach@bevanfoundation.org
+Admin ID:SPAG-36418065
+Admin Name:Gareth Roach
+Admin Organization:The Bevan Foundation
+Admin Street1:Castle Street
+Admin Street2:Aneurin Bevan House
+Admin Street3:
+Admin City:Tredegar
+Admin State/Province:
+Admin Postal Code:NP22 3DQ
+Admin Country:GB
+Admin Phone:+44.1495725214
+Admin Phone Ext.:
+Admin FAX:+44.1495725214
+Admin FAX Ext.:
+Admin Email:gareth.roach@bevanfoundation.org
+Tech ID:SPAG-36418066
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Ltd.
+Tech Street1:Herschel Street
+Tech Street2:The Nova Building
+Tech Street3:
+Tech City:Slough
+Tech State/Province:
+Tech Postal Code:SL1 1XS
+Tech Country:GB
+Tech Phone:+44.8708503305
+Tech Phone Ext.:
+Tech FAX:+44.1753490444
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.co.uk
+Name Server:NS33.1AND1.CO.UK
+Name Server:NS34.1AND1.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

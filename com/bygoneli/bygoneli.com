@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: BYGONELI.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WESTSERVERS.NET
+   Name Server: NS2.WESTSERVERS.NET
+   Status: clientTransferProhibited
+   Updated Date: 26-mar-2010
+   Creation Date: 01-may-2008
+   Expiration Date: 01-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:29:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about bygoneli.com
+&lt;a href=&quot;http://www.aboutus.org/bygoneli.com&quot;&gt;AboutUs: bygoneli.com&lt;/a&gt;
+
+
+Domain name: bygoneli.com
+
+Registrant Contact:
+   ATK Productions
+   Allan Caporuscio ()
+
+   Fax:
+   PO Box 755
+   Plainview, NY 11803
+   US
+
+Administrative Contact:
+   ATK Productions
+   Allan Caporuscio (allan@nokhockey.com)
+   +1.9176076186
+   Fax:
+   PO Box 755
+   Plainview, NY 11803
+   US
+
+Technical Contact:
+   Expiry Corporation
+   Domain Hostmaster (domainadmin@expiry.com)
+   +1.2507630724
+   Fax: +1.2507630734
+   3 1414 Hunter Crt
+   NA
+   Kelowna, BC V1X6E6
+   CAN
+
+Status: Locked
+
+Name Servers:
+   ns1.westservers.net
+   ns2.westservers.net
+
+Creation date: 01 May 2008 22:17:42
+Expiration date: 01 May 2012 22:17:42
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

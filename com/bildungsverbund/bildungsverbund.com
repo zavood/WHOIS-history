@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: BILDUNGSVERBUND.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS17.RZONE.DE
+   Name Server: SHADES20.RZONE.DE
+   Status: ok
+   Updated Date: 17-jul-2011
+   Creation Date: 16-jul-2002
+   Expiration Date: 16-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
 
@@ -51,3 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Bernhard Beyer-Ruediger
+   Kath. Bildungsverbund
+   Felbelstr. 25
+   Krefeld, 47799, DE
+
+   Punycode Name:  bildungsverbund.com
+   Unicode Name:   bildungsverbund.com
+
+   Admin Contact
+      Bernhard Beyer-Ruediger
+      Kath. Bildungsverbund
+      info@bildungsverbund.com
+      Felbelstr. 25
+      Krefeld, 47799, DE
+      phone: +49 2151629411
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-07-16 20:15:53
+
+   Domain servers in listed order:
+
+      docks17.rzone.de
+      shades20.rzone.de
+
+
+

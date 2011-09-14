@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ZONEEDIT.COM.MYROYALYORK.COM
-ZONEEDIT.COM.FREEMP3INSTRUMENTAL.COM
-ZONEEDIT.COM.DBMLLC.COM
-ZONEEDIT.COM.CYBERSHACK.COM
-ZONEEDIT.COM.COR1.NET
-ZONEEDIT.COM
+   Domain Name: CANDIDOGONZALEZ.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: DNS1.SERVIDORESDNS10.COM
+   Name Server: DNS2.SERVIDORESDNS10.COM
+   Status: ok
+   Updated Date: 20-oct-2010
+   Creation Date: 29-nov-2004
+   Expiration Date: 29-nov-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:28:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:29:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   C&aacute;ndido Gonz&aacute;lez
+   Alameda de Urquijo, 52 - 2&ordm; dcha.
+   Bilbao, Vizcaya  48011
+   Spain
+
+   Registrar: DOTREGISTRAR
+   Domain Name: CANDIDOGONZALEZ.COM
+      Created on: 29-NOV-04
+      Expires on: 29-NOV-11
+      Last Updated on: 20-OCT-10
+
+   Administrative, Technical Contact:
+       , Jos&eacute; Ignacio Garc&iacute;a Centeno  panpiki@panpiki.com
+      Via vieja de Lezama, 50 - 1&ordm; izda
+      Bilbao, Vizcaya  48007
+      Spain
+      34655739666
+
+
+   Domain servers in listed order:
+      DNS1.SERVIDORESDNS10.COM
+      DNS2.SERVIDORESDNS10.COM
+
+End of Whois Information
