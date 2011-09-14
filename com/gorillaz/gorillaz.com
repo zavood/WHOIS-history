@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CVSR.COM
+   Domain Name: GORILLAZ.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: MNS01.DOMAINCONTROL.COM
-   Name Server: MNS02.DOMAINCONTROL.COM
+   Name Server: NS1.EMIHOSTING.COM
+   Name Server: NS2.EMIHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2011
-   Creation Date: 29-may-1998
-   Expiration Date: 28-may-2012
+   Updated Date: 03-nov-2009
+   Creation Date: 17-nov-1999
+   Expiration Date: 17-nov-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:41:28 UTC &lt;&lt;&lt;
 
@@ -74,19 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about CVSR.COM
-&lt;a href=&quot;http://www.aboutus.org/CVSR.COM&quot;&gt;AboutUs: CVSR.COM &lt;/a&gt;
+Visit AboutUs.org for more information about GORILLAZ.COM
+&lt;a href=&quot;http://www.aboutus.org/GORILLAZ.COM&quot;&gt;AboutUs: GORILLAZ.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI
-   PO Box 158
-   Peninsula, OH 44264
-   US
+Gorillaz Partnership
+   Studio 2.6 Shepherds East
+   Richmond Way
+   London W14 0DQ
+   GB
 
-   Domain Name: CVSR.COM
+   Domain Name: GORILLAZ.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +96,22 @@ CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI		cvsr@CVSR.COM
-      PO Box 158
-      Peninsula, OH 44264
-      US
-      800-468-4070 x 3020 fax: 999 999 9999
+      Robinson, Mike		mike@zombie.uk.com
+      Gorillaz Partnership
+      Studio 2.6, Shepherds East
+      Richmond Way
+      London, London W14 0DQ
+      GB
+      +44 020 7316 6969
 
 
-   Record expires on 28-May-2012.
-   Record created on 29-May-1998.
-   Database last updated on 14-Sep-2011 01:31:33 EDT.
+   Record expires on 17-Nov-2014.
+   Record created on 17-Nov-1999.
+   Database last updated on 14-Sep-2011 01:37:00 EDT.
 
    Domain servers in listed order:
 
-   MNS02.DOMAINCONTROL.COM
-   MNS01.DOMAINCONTROL.COM
+   NS1.EMIHOSTING.COM           195.225.83.43
+   NS2.EMIHOSTING.COM           195.225.83.63
 
 

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CVSR.COM
+   Domain Name: RUGBYMFG.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: MNS01.DOMAINCONTROL.COM
-   Name Server: MNS02.DOMAINCONTROL.COM
+   Name Server: NS1.HICKORYTECH.NET
+   Name Server: NS2.HICKORYTECH.NET
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2011
-   Creation Date: 29-may-1998
-   Expiration Date: 28-may-2012
+   Updated Date: 15-jul-2008
+   Creation Date: 27-jun-1997
+   Expiration Date: 26-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:41:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:42:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about CVSR.COM
-&lt;a href=&quot;http://www.aboutus.org/CVSR.COM&quot;&gt;AboutUs: CVSR.COM &lt;/a&gt;
+Visit AboutUs.org for more information about RUGBYMFG.COM
+&lt;a href=&quot;http://www.aboutus.org/RUGBYMFG.COM&quot;&gt;AboutUs: RUGBYMFG.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI
-   PO Box 158
-   Peninsula, OH 44264
+Crysteel Manufacturing, Inc.
+   52182 Ember Road
+   Lake Crystal, MN 56055
    US
 
-   Domain Name: CVSR.COM
+   Domain Name: RUGBYMFG.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +95,21 @@ CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      CUYAHOGA VALLEY PRESERVATION &amp; SCENIC RAI		cvsr@CVSR.COM
-      PO Box 158
-      Peninsula, OH 44264
+      Post, Tanner		tpost@tbei.com
+      Crysteel Mfg
+      52182 Ember Road
+      Lake Crystal, MN 56055
       US
-      800-468-4070 x 3020 fax: 999 999 9999
+      507-726-4370
 
 
-   Record expires on 28-May-2012.
-   Record created on 29-May-1998.
-   Database last updated on 14-Sep-2011 01:31:33 EDT.
+   Record expires on 26-Jun-2012.
+   Record created on 27-Jun-1997.
+   Database last updated on 14-Sep-2011 01:33:32 EDT.
 
    Domain servers in listed order:
 
-   MNS02.DOMAINCONTROL.COM
-   MNS01.DOMAINCONTROL.COM
+   NS1.HICKORYTECH.NET          216.114.192.111
+   NS2.HICKORYTECH.NET          65.222.44.28
 
 
