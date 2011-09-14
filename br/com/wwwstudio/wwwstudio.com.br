@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 12:04:23 (BRT -03:00)
+
+domain:      wwwstudio.com.br
+owner:       3W Studio - Cria&ccedil;&atilde;o de sites de internet LTDA
+ownerid:     007.466.466/0001-26
+responsible: Departamento de internet/registros
+country:     BR
+owner-c:     WWS31
+admin-c:     WWS31
+tech-c:      WST29
+billing-c:   WSC106
+nserver:     ns1.wwwstudio.com.br 67.223.224.120
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.wwwstudio.com.br 64.79.196.163
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.wwwstudio.com.br 64.79.214.171
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns4.wwwstudio.com.br 64.79.216.112
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20040906 #1801435
+expires:     20140906
+changed:     20110823
+status:      published
+
+nic-hdl-br:  WSC106
+person:      WWW Studio (Cobran&ccedil;as)
+e-mail:      financeiro@3wstudio.com.br
+created:     20050712
+changed:     20100728
+
+nic-hdl-br:  WST29
+person:      WWW Studio (T&eacute;cnico)
+e-mail:      tecnico@3wstudio.com.br
+created:     20050712
+changed:     20100728
+
+nic-hdl-br:  WWS31
+person:      WWW Studio
+e-mail:      agencia@3wstudio.com.br
+created:     20050712
+changed:     20100728
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

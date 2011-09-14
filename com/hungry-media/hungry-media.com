@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
+   Domain Name: HUNGRY-MEDIA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
-   Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-jan-2011
+   Creation Date: 17-apr-2003
+   Expiration Date: 17-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:19 UTC &lt;&lt;&lt;
 

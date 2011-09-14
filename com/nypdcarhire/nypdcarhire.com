@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
-   Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Domain Name: NYPDCARHIRE.COM
+   Registrar: EASYSPACE LTD.
+   Whois Server: whois.easyspace.com
+   Referral URL: http://www.easyspace.com
+   Name Server: NS1.NAMECITY.COM
+   Name Server: NS2.NAMECITY.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 11-jan-2011
+   Creation Date: 10-feb-2010
+   Expiration Date: 10-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:04:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

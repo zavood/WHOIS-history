@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D570641-LROR
+Domain Name:NETDAY.ORG
+Created On:26-Mar-1996 05:00:00 UTC
+Last Updated On:29-Feb-2008 19:58:35 UTC
+Expiration Date:27-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20326956-NSI
+Registrant Name:Project Tomorrow
+Registrant Organization:Project Tomorrow
+Registrant Street1:15707 ROCKFIELD BLVD STE 250
+Registrant Street2:
+Registrant Street3:
+Registrant City:Irvine
+Registrant State/Province:CA
+Registrant Postal Code:92618-2870
+Registrant Country:US
+Registrant Phone:+1.9496094660
+Registrant Phone Ext.:
+Registrant FAX:+1.9496094665
+Registrant FAX Ext.:
+Registrant Email:jim@WESTED.ORG
+Admin ID:2721773-NSI
+Admin Name:Laurie Smith
+Admin Organization:Project Tomorrow
+Admin Street1:15707 ROCKFIELD BLVD
+Admin Street2:STE 250
+Admin Street3:
+Admin City:IRVINE
+Admin State/Province:CA
+Admin Postal Code:92618-2870
+Admin Country:US
+Admin Phone:+1.9496094660
+Admin Phone Ext.:
+Admin FAX:+1.9496094665
+Admin FAX Ext.:
+Admin Email:lsmith@tomorrow.org
+Tech ID:42606860-NSI
+Tech Name:PointLine Interactive Studio
+Tech Organization:PointLine Interactive Studio
+Tech Street1:P.O. Box 1412
+Tech Street2:
+Tech Street3:
+Tech City:Sonoma
+Tech State/Province:CA
+Tech Postal Code:95476
+Tech Country:US
+Tech Phone:+1.707933898
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:judith@pointline.net
+Name Server:NS1.ZABCO.NET
+Name Server:NS2.ZABCO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

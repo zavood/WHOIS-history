@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
+   Domain Name: WALTHAMMEDIA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
-   Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Name Server: NS1.LIVEDNS.CO.UK
+   Name Server: NS2.LIVEDNS.CO.UK
+   Name Server: NS3.LIVEDNS.CO.UK
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 24-jun-2011
+   Creation Date: 29-jun-2009
+   Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

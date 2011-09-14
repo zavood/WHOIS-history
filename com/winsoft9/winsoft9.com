@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
-   Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Domain Name: WINSOFT9.COM
+   Registrar: IP MIRROR PTE LTD. DBA IP MIRROR
+   Whois Server: whois.ipmirror.com
+   Referral URL: http://www.ipmirror.com
+   Name Server: NS1.SYSNKR.COM
+   Name Server: NS2.SYSNKR.COM
+   Status: clientTransferProhibited
+   Updated Date: 17-aug-2011
+   Creation Date: 26-nov-2010
+   Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:04:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Domain Service Provided By: ehostidc
+Website:
+Domain Name: winsoft9.com
+Domain nameservers listed in order:
+ns1.sysnkr.com
+ns2.sysnkr.com
+
+
+Registration Date: 2010-11-26
+Expiration Date: 2011-11-26
+Domain last updated on: 2010-11-26
+
+Registrant Contact:
+Name: Domain Song
+Street 1: Yeoksam-dong, Gangnam-gu, Seoul, Korea
+Street 2: 11
+City: korea
+Postal Code: 135080
+Country: Korea, Republic of
+Email Address: newbizon@hotmail.com
+Tel 1: 82.021111111
+Fax:
+
+
+Administrator Contact:
+Name: Domain Song
+Street 1: Yeoksam-dong, Gangnam-gu, Seoul, Korea
+Street 2: 11
+City: korea
+Postal Code: 135080
+Country: Korea, Republic of
+Email Address: newbizon@hotmail.com
+Tel 1: 82.021111111
+Fax:
+
+
+Technical Contact:
+Name: Domain Song
+Street 1: Yeoksam-dong, Gangnam-gu, Seoul, Korea
+Street 2: 11
+City: korea
+Postal Code: 135080
+Country: Korea, Republic of
+Email Address: newbizon@hotmail.com
+Tel 1: 82.021111111
+Fax:
+
+
+Billing Contact:
+Name: Domain Song
+Street 1: Yeoksam-dong, Gangnam-gu, Seoul, Korea
+Street 2: 11
+City: korea
+Postal Code: 135080
+Country: Korea, Republic of
+Email Address: newbizon@hotmail.com
+Tel 1: 82.021111111
+Fax:
+
+
+
+

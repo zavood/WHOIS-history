@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MSCHOSTING.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS187.MSCHOSTING.COM
-   Name Server: NS188.MSCHOSTING.COM
-   Status: ok
-   Updated Date: 06-jan-2011
-   Creation Date: 04-apr-2003
-   Expiration Date: 04-apr-2012
+   Domain Name: PARKERTIRESAVER.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: WALL.DISTR.COM
+   Name Server: WALL2.DISTR.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-aug-2011
+   Creation Date: 08-apr-2004
+   Expiration Date: 10-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:03:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:04:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... parkertiresaver.com
+  Creation Date........ 2004-04-08
+  Registration Date.... 2011-08-29
+  Expiry Date.......... 2015-06-11
+  Organisation Name.... Parker Hannifin Corporation
+  Organisation Address. 6035 Parkland Blvd.
+  Organisation Address.
+  Organisation Address. Cleveland
+  Organisation Address. 44124-4186
+  Organisation Address. OH
+  Organisation Address. UNITED STATES
+
+Admin Name........... R. Hannifin
+  Admin Address........ 6035 Parkland Boulevard
+  Admin Address........
+  Admin Address........ Cleveland
+  Admin Address........ 44124-4141
+  Admin Address........ OH
+  Admin Address........ UNITED STATES
+  Admin Email.......... hostmaster@parker.com
+  Admin Phone.......... +1.2168963000
+  Admin Fax............ +1.2168964015
+
+Tech Name............ R. Hannifin
+  Tech Address......... 6035 Parkland Boulevard
+  Tech Address.........
+  Tech Address......... Cleveland
+  Tech Address......... 44124-4141
+  Tech Address......... OH
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@parker.com
+  Tech Phone........... +1.2168963000
+  Tech Fax............. +1.2168964015
+  Name Server.......... WALL2.DISTR.COM
+  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
+  Name Server.......... WALL.DISTR.COM
+  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
+
+
