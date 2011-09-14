@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161015510-LROR
+Domain Name:ONITSUKATIGERS.ORG
+Created On:22-Dec-2010 06:41:37 UTC
+Last Updated On:21-Feb-2011 03:50:48 UTC
+Expiration Date:22-Dec-2011 06:41:37 UTC
+Sponsoring Registrar:Jiangsu Bangning Science and technology Co. Ltd. (R1829-LROR)
+Status:OK
+Registrant ID:3bfd8b85-7806-4
+Registrant Name:CiongoliJennifer
+Registrant Organization:Ciongoli ba
+Registrant Street1:200 Spring Street #4
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10012
+Registrant Country:US
+Registrant Phone:+86.07329969543
+Registrant Phone Ext.:8003
+Registrant FAX:+86.07329969543
+Registrant FAX Ext.:8003
+Registrant Email:aaasss@gmail.com
+Admin ID:fac9cbe7-e79a-4
+Admin Name:CiongoliJennifer
+Admin Organization:Ciongoli ba
+Admin Street1:200 Spring Street #4
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10012
+Admin Country:US
+Admin Phone:+86.07329969543
+Admin Phone Ext.:8003
+Admin FAX:+86.07329969543
+Admin FAX Ext.:8003
+Admin Email:aaasss@gmail.com
+Tech ID:5a0276c7-b97d-4
+Tech Name:CiongoliJennifer
+Tech Organization:Ciongoli ba
+Tech Street1:200 Spring Street #4
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10012
+Tech Country:US
+Tech Phone:+86.07329969543
+Tech Phone Ext.:8003
+Tech FAX:+86.07329969543
+Tech FAX Ext.:8003
+Tech Email:aaasss@gmail.com
+Name Server:DNS1.4CUN.COM
+Name Server:DNS2.4CUN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

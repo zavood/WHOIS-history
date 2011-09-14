@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T05:00:39+12:00
+domain_name: nzhwa.org.nz
+query_status: 200 Active
+domain_dateregistered: 2008-08-07T10:17:41+12:00
+domain_datebilleduntil: 2011-10-07T10:17:41+13:00
+domain_datelastmodified: 2011-09-07T23:30:59+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: ICONZ
+registrar_address1: Private Bag 92080
+registrar_address2: Victoria Street West
+registrar_city: Auckland
+registrar_postalcode: 1142
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 977-3500
+registrar_fax: +64 9 977-3535
+registrar_email: soa@iconz.co.nz
+%
+registrant_contact_name: New Zealand Hot Water Association
+registrant_contact_address1: 159 Khyber Pass Road
+registrant_contact_address2: Private Bag 92-066 Victoria Street West
+registrant_contact_city: Auckland 1142
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 3670913
+registrant_contact_email: nzhwa@nzhwa.org.nz
+%
+admin_contact_name: Garth Wyllie
+admin_contact_address1: Private Bag 92-066 Auckland 1142
+admin_contact_address2: Auckland
+admin_contact_city: Auckland
+admin_contact_postalcode: 1142
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 3670913
+admin_contact_fax: +64 3 3670914
+admin_contact_email: nzhwa@nzhwa.org.nz
+%
+technical_contact_name: ICONZ
+technical_contact_address1: Ground Floor, ICONZ House
+technical_contact_address2: 60 Airedale Street
+technical_contact_city: Auckland
+technical_contact_postalcode: 1010
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 977 3500
+technical_contact_fax: +64 9 977 3535
+technical_contact_email: soa@iconz.net
+%
+ns_name_01: ns1.iconz.co.nz
+ns_name_02: ns2.iconz.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
