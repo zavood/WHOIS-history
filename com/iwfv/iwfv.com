@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WUNDERGROUND.COM
+   Domain Name: IWFV.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: AUTH1.DNS.COGENTCO.COM
-   Name Server: AUTH2.DNS.COGENTCO.COM
-   Name Server: AUTH4.DNS.COGENTCO.COM
-   Name Server: AUTH5.DNS.COGENTCO.COM
-   Name Server: DNS1.WUNDERGROUND.COM
+   Name Server: NS3.INETU.NET
+   Name Server: NS4.INETU.NET
    Status: clientTransferProhibited
-   Updated Date: 07-jan-2010
-   Creation Date: 30-mar-1995
-   Expiration Date: 31-mar-2019
+   Updated Date: 27-mar-2008
+   Creation Date: 05-apr-2005
+   Expiration Date: 05-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: wunderground.com
+Whois Query: iwfv.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:10:38 EDT 2011
+Date and Time of Query: Wed Sep 14 10:10:44 EDT 2011
 Reason Code: IE

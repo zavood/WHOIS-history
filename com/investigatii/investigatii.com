@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYCOCKPLUS.COM
+   Domain Name: INVESTIGATII.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: ok
-   Updated Date: 15-aug-2011
-   Creation Date: 11-sep-2010
-   Expiration Date: 11-sep-2012
+   Name Server: NS.GTSTELECOM.RO
+   Name Server: NS2.GTSTELECOM.RO
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 27-dec-2010
+   Creation Date: 27-jan-2005
+   Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:22:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:21:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about gaycockplus.com
-&lt;a href=&quot;http://www.aboutus.org/gaycockplus.com&quot;&gt;AboutUs: gaycockplus.com&lt;/a&gt;
+Visit AboutUs.org for more information about investigatii.com
+&lt;a href=&quot;http://www.aboutus.org/investigatii.com&quot;&gt;AboutUs: investigatii.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: gaycockplus.com
+Domain name: investigatii.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   GTS Telecom SRL
+   GTS Telecom Hostmaster ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   Calea Victoriei, 15
+   Bucharest Financial Plazza, et. 2, Podium
+   Bucuresti, 1 030023
+   RO
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (33db6396e8e5471794db7a21e264d54f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   GTS Telecom SRL
+   GTS Telecom Hostmaster (hostmaster@gtstelecom.ro)
+   +40214100100
+   Fax: +40214103883
+   Calea Victoriei, 15
+   Bucharest Financial Plazza, et. 2, Podium
+   Bucuresti, 1 030023
+   RO
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (33db6396e8e5471794db7a21e264d54f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   GTS Telecom SRL
+   GTS Telecom Hostmaster (hostmaster@gtstelecom.ro)
+   +40214100100
+   Fax: +40214103883
+   Calea Victoriei, 15
+   Bucharest Financial Plazza, et. 2, Podium
+   Bucuresti, 1 030023
+   RO
 
-Status: Active
+Status: Locked
 
 Name Servers:
-   ns0.reflected.net
-   ns1.reflected.net
+   ns.gtstelecom.ro
+   ns2.gtstelecom.ro
 
-Creation date: 11 Sep 2010 20:29:00
-Expiration date: 11 Sep 2012 15:29:00
+Creation date: 27 Jan 2005 07:19:13
+Expiration date: 27 Jan 2012 07:19:00
 
 
 

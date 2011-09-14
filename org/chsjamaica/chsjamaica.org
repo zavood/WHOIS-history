@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157215987-LROR
+Domain Name:CHSJAMAICA.ORG
+Created On:28-Sep-2009 19:07:02 UTC
+Last Updated On:28-Nov-2009 03:56:37 UTC
+Expiration Date:28-Sep-2011 19:07:02 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR15865563
+Registrant Name:CLIVE REID
+Registrant Street1:sevens road
+Registrant Street2:
+Registrant Street3:
+Registrant City:may pen
+Registrant State/Province:clarendon
+Registrant Postal Code:9
+Registrant Country:JM
+Registrant Phone:+1.6029862483
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:clivereid@hotmail.com
+Admin ID:CR15865565
+Admin Name:CLIVE REID
+Admin Street1:sevens road
+Admin Street2:
+Admin Street3:
+Admin City:may pen
+Admin State/Province:clarendon
+Admin Postal Code:9
+Admin Country:JM
+Admin Phone:+1.6029862483
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:clivereid@hotmail.com
+Tech ID:CR15865564
+Tech Name:CLIVE REID
+Tech Street1:sevens road
+Tech Street2:
+Tech Street3:
+Tech City:may pen
+Tech State/Province:clarendon
+Tech Postal Code:9
+Tech Country:JM
+Tech Phone:+1.6029862483
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:clivereid@hotmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

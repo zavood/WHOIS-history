@@ -5,26 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FBCDN.NET
+   Domain Name: JIMTRENARYOFALLON.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS3.FACEBOOK.COM
-   Name Server: NS4.FACEBOOK.COM
-   Name Server: NS5.FACEBOOK.COM
-   Name Server: NS6.FACEBOOK.COM
-   Name Server: NS7.FACEBOOK.COM
+   Name Server: NS1.COBALTGROUP.COM
+   Name Server: NS2.COBALTGROUP.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-sep-2010
-   Creation Date: 03-may-2007
-   Expiration Date: 03-may-2018
+   Updated Date: 08-apr-2010
+   Creation Date: 09-may-2008
+   Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,45 +79,42 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Domain Administrator
-        Facebook, Inc.
-        1601 S. California Ave
-         Palo Alto CA 94304
+        Jim Trenary  Chevrolet
+        Jim Trenary Chevrolet
+        501 Auto Mall Drive
+         Ofallon MO 63368
         US
-        domain@fb.com +1.6505434800 Fax: +1.6505434800
+        domain-admin@cobaltgroup.com +1.6369466300 Fax:
 
-    Domain Name: fbcdn.net
+    Domain Name: jimtrenaryofallon.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Domain Administrator
-        Facebook, Inc.
-        1601 S. California Ave
-         Palo Alto CA 94304
+        Domain Team
+        The Cobalt Group
+        2200 First Ave. S
+         Seattle WA 98134
         US
-        domain@fb.com +1.6505434800 Fax: +1.6505434800
+        ifsdomains@cobaltgroup.com +1.8009098244 Fax: +1.2062696363
     Technical Contact, Zone Contact:
-        Domain Administrator
-        Facebook, Inc.
-        1601 S. California Ave
-         Palo Alto CA 94304
+        Domain Team
+        The Cobalt Group
+        2200 First Ave. S
+         Seattle WA 98134
         US
-        domain@fb.com +1.6505434800 Fax: +1.6505434800
+        ifsdomains@cobaltgroup.com +1.8009098244 Fax: +1.2062696363
 
-    Created on..............: 2007-05-03.
-    Expires on..............: 2018-05-03.
-    Record last updated on..: 2011-05-30.
+    Created on..............: 2008-05-09.
+    Expires on..............: 2012-05-09.
+    Record last updated on..: 2010-12-23.
 
     Domain servers in listed order:
 
-    ns5.facebook.com
-    ns4.facebook.com
-    ns6.facebook.com
-    ns7.facebook.com
-    ns3.facebook.com
+    ns1.cobaltgroup.com
+    ns2.cobaltgroup.com
 
 
 

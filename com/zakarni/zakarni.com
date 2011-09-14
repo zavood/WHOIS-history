@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WUNDERGROUND.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: AUTH1.DNS.COGENTCO.COM
-   Name Server: AUTH2.DNS.COGENTCO.COM
-   Name Server: AUTH4.DNS.COGENTCO.COM
-   Name Server: AUTH5.DNS.COGENTCO.COM
-   Name Server: DNS1.WUNDERGROUND.COM
+   Domain Name: ZAKARNI.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.MATE-CO.COM
+   Name Server: NS2.MATE-CO.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jan-2010
-   Creation Date: 30-mar-1995
-   Expiration Date: 31-mar-2019
+   Updated Date: 04-aug-2011
+   Creation Date: 23-may-1999
+   Expiration Date: 23-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:20:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Domain Name: ZAKARNI.COM
 
-Whois Query: wunderground.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:10:38 EDT 2011
-Reason Code: IE
+   Administrative Contact:
+      zakarni
+      zakarni zakarni
+      Amman
+      Amman,
+      JO
+      0096265555555
+      lionson777@hotmail.com
+
+   Technical Contact, Zone Contact:
+
+
+   Domain created on 23-May-1999
+   Domain expires on 22-May-2012
+   Last updated on 04-Aug-2011
+
+   Domain servers in listed order:
+
+      NS1.MATE-CO.COM
+      NS2.MATE-CO.COM
+
+TierraNet -- web hosting, domain registration, and more.
+Visit our website at http://www.tierra.net to learn about our services.
+
