@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OLLYMURS.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.NETNAMES.NET
-   Name Server: NS2.NETNAMES.NET
-   Name Server: NS5.NETNAMES.NET
-   Name Server: NS6.NETNAMES.NET
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 21-aug-2009
-   Expiration Date: 21-aug-2012
+   Domain Name: JENSENFL.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.JUNODOMAINS.COM
+   Name Server: NS2.JUNODOMAINS.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 21-jun-2011
+   Creation Date: 28-aug-2007
+   Expiration Date: 28-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:10:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:10:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,59 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
 Registrant:
-  Sony Music Entertainment UK Ltd (SONYMUSI257)
-  9 Derry Street
+   N/A
 
-  London, N/A, W8 5HY
-  GB
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: JENSENFL.COM
 
-  Domain name: ollymurs.com
+   Domain servers in listed order:
+      NS2.JUNODOMAINS.COM
+      NS1.JUNODOMAINS.COM
 
-Technical contact:
-  Administrator, Domain (DA441661)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
 
-Administrative contact:
-  Administrator, Domain (DA150296)
-  Sony Music Entertainment UK Ltd
-  9 Derry Street
-
-  London, N/A, W8 5HY
-  GB
-  uk.domains@sonymusic.com
-  +44.2073618000 Fax: +44.2073686513
-
-Record created:           2010-10-14 11:11:02
-Record last updated:      2011-07-28 10:12:25
-Record expires:           2012-08-21 11:52:00
-
-Domain servers in listed order:
-  ns1.netnames.net (NS1NE70550)
-  ns2.netnames.net (NS2NE13757)
-  ns5.netnames.net (NS5NE92097)
-  ns6.netnames.net (NS6NE71337)
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=JENSENFL.COM

@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OLLYMURS.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.NETNAMES.NET
-   Name Server: NS2.NETNAMES.NET
-   Name Server: NS5.NETNAMES.NET
-   Name Server: NS6.NETNAMES.NET
-   Status: ok
-   Updated Date: 30-jun-2011
-   Creation Date: 21-aug-2009
-   Expiration Date: 21-aug-2012
+   Domain Name: DELIGHTS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.HITFARM.COM
+   Name Server: NS2.HITFARM.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-dec-2010
+   Creation Date: 31-mar-2003
+   Expiration Date: 31-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:10:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:10:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,59 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
-
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Sony Music Entertainment UK Ltd (SONYMUSI257)
-  9 Derry Street
-
-  London, N/A, W8 5HY
-  GB
-
-  Domain name: ollymurs.com
-
-Technical contact:
-  Administrator, Domain (DA441661)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
-
-Administrative contact:
-  Administrator, Domain (DA150296)
-  Sony Music Entertainment UK Ltd
-  9 Derry Street
-
-  London, N/A, W8 5HY
-  GB
-  uk.domains@sonymusic.com
-  +44.2073618000 Fax: +44.2073686513
-
-Record created:           2010-10-14 11:11:02
-Record last updated:      2011-07-28 10:12:25
-Record expires:           2012-08-21 11:52:00
-
-Domain servers in listed order:
-  ns1.netnames.net (NS1NE70550)
-  ns2.netnames.net (NS2NE13757)
-  ns5.netnames.net (NS5NE92097)
-  ns6.netnames.net (NS6NE71337)
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
