@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YELLIS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.YELLIS.NET
-   Name Server: NS2.YELLIS.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-oct-2009
-   Creation Date: 28-dec-2001
-   Expiration Date: 28-dec-2017
+   Domain Name: WGLALA.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: DNS5.4CUN.COM
+   Name Server: DNS6.4CUN.COM
+   Status: ok
+   Updated Date: 01-apr-2011
+   Creation Date: 01-apr-2011
+   Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:15:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:15:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us. We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+Domain Name: wglala.com
+
+Registrant Contact:
+   songce
+   ce song 359566850@qq.com
+   +86.06327961255  fax: +86.06327961255
+   zaozhuangyinhedasha6b
+   zaozhuang shandong 277300
+   CN
+
+Administrative Contact:
+   songce
+   ce song 359566850@qq.com
+   +86.06327961255  fax: +86.06327961255
+   zaozhuangyinhedasha6b
+   zaozhuang shandong 277300
+   CN
+
+Technical Contact:
+   songce
+   ce song 359566850@qq.com
+   +86.06327961255  fax: +86.06327961255
+   zaozhuangyinhedasha6b
+   zaozhuang shandong 277300
+   CN
+
+Billing Contact:
+   songce
+   ce song 359566850@qq.com
+   +86.06327961255  fax: +86.06327961255
+   zaozhuangyinhedasha6b
+   zaozhuang shandong 277300
+   CN

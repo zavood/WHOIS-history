@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: D2G.COM
+   Domain Name: BROTGROSS.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.DNS2GO.COM
-   Name Server: NS2.DNS2GO.COM
-   Name Server: NS5.DNS2GO.COM
+   Name Server: DNS105.A.REGISTER.COM
+   Name Server: DNS113.B.REGISTER.COM
+   Name Server: DNS238.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 29-apr-1999
-   Expiration Date: 29-apr-2012
+   Updated Date: 31-mar-2010
+   Creation Date: 02-dec-2004
+   Expiration Date: 02-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:14:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:16:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Traynor, Mark
-      NA NA
-      Deerfield Communications Inc. 4241 Old U.S. 27 South
-      Gaylord, MI 49735
+      KCK Enterprises
+      Kevin Kenna
+      28430 Old Spanish Trail
+      Santa Clarita, CA 91390
       US
-      Phone: +1.19897328856
-      Email: NA
+      Phone: 1-310-7222572
+      Email: KKenna@KCKEnterprises.com
 
 
 
@@ -85,40 +86,41 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: d2g.com
-      Created on..............: 1999-04-29
-      Expires on..............: 2012-04-29
+   Domain Name: brotgross.com
+      Created on..............: 2004-12-02
+      Expires on..............: 2014-12-02
 
    Administrative Contact:
-      NA
-      Mark Traynor
-      Deerfield Communications Inc. 4241 Old U.S. 27 South
-      Gaylord, MI 49735
+      KCK Enterprises
+      Kevin Kenna
+      28430 Old Spanish Trail
+      Santa Clarita, CA 91350
       US
-      Phone: +1.5177328856
-      Email: markt@DEERFIELD.COM
+      Phone: 310-722-2572
+      Email: KKenna@KCKEnterprises.com
 
 
    Technical  Contact:
-      Deerfield Communications, Inc.
-      Mike Courterier
-      4241 Old US 27 South
-      Gaylord, MI 49735
+      Register.Com
+      Domain Registrar
+      575 8th Avenue 11th Floor
+      New York, NY 10018
       US
-      Phone: +1.9897328856
-      Email: hostmaster@deerfield.com
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
 
 
    DNS Servers:
-      ns1.dns2go.com
-      ns2.dns2go.com
-      ns5.dns2go.com
+      dns113.b.register.com
+      dns105.a.register.com
+      dns238.c.register.com
+      dns249.d.register.com
 
 
 
-Visit AboutUs.org for more information about d2g.com
+Visit AboutUs.org for more information about brotgross.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/d2g.com&quot;&gt;AboutUs: d2g.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/brotgross.com&quot;&gt;AboutUs: brotgross.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

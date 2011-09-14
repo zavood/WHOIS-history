@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135318130-LROR
+Domain Name:QLKL2Q3R.ORG
+Created On:18-Dec-2006 21:25:16 UTC
+Last Updated On:14-Nov-2008 00:30:09 UTC
+Expiration Date:18-Dec-2012 21:25:16 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-3447767-4
+Registrant Name:Domain ID Shield Service
+Registrant Organization:Domain ID Shield Service CO., Limited
+Registrant Street1:1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hong Kong
+Registrant State/Province:Hong Kong
+Registrant Postal Code:999077
+Registrant Country:CN
+Registrant Phone:+852.22060092
+Registrant Phone Ext.:
+Registrant FAX:+852.30030133
+Registrant FAX Ext.:
+Registrant Email:ql3447767751301@domainidshield.com
+Admin ID:ONLC-3447767-1
+Admin Name:Domain ID Shield Service
+Admin Organization:Domain ID Shield Service CO., Limited
+Admin Street1:1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+Admin Street2:
+Admin Street3:
+Admin City:Hong Kong
+Admin State/Province:Hong Kong
+Admin Postal Code:999077
+Admin Country:CN
+Admin Phone:+852.22060092
+Admin Phone Ext.:
+Admin FAX:+852.30030133
+Admin FAX Ext.:
+Admin Email:ql3447767620502@domainidshield.com
+Tech ID:ONLC-3447767-2
+Tech Name:Domain ID Shield Service
+Tech Organization:Domain ID Shield Service CO., Limited
+Tech Street1:1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+Tech Street2:
+Tech Street3:
+Tech City:Hong Kong
+Tech State/Province:Hong Kong
+Tech Postal Code:999077
+Tech Country:CN
+Tech Phone:+852.22060092
+Tech Phone Ext.:
+Tech FAX:+852.30030133
+Tech FAX Ext.:
+Tech Email:ql3447767371603@domainidshield.com
+Name Server:NS3.EVERYDNS.NET
+Name Server:NS4.EVERYDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

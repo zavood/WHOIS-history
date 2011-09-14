@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YELLIS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.YELLIS.NET
-   Name Server: NS2.YELLIS.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-oct-2009
-   Creation Date: 28-dec-2001
-   Expiration Date: 28-dec-2017
+   Domain Name: BETRENDYMYFRIEND.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS13.HOSTEXCELLENCE.COM
+   Name Server: NS14.HOSTEXCELLENCE.COM
+   Status: ok
+   Updated Date: 01-jul-2011
+   Creation Date: 30-jun-2008
+   Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:15:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:14:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Arsys Internet's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Arsys Internet does not guarantee the accuracy of the information
+contained in the WHOIS. Arsys Internet allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
+
+
+
+Domain name: betrendymyfriend.com
+
+Registrant:
+      jose antonio miralles juan  (SROW-1297817)
+
+   silvimoya@gmail.com
+   salitre 13 1 A
+   crevillent   ALICANTE
+   03330   ES
+   +34 966680650
+
+
+Administrative contact:
+   jose antonio miralles juan   (SRCO-1498934)
+   info@cmiralles.com
+   salitre 13 1 A
+   crevillent   ALICANTE
+   03330   ES
+   +34 966680650
+
+
+Technical contact:
+   jose antonio miralles juan   (SRCO-1498935)
+   info@cmiralles.com
+   salitre 13 1 A
+   crevillent   ALICANTE
+   03330   ES
+   +34 966680650
+
+
+Domain servers in listed order:
+   ns13.hostexcellence.com  98.130.0.4
+   ns14.hostexcellence.com  98.130.1.4
+
+
+Created:       30 Jun 2008 11:30:44:467   UTC
+Expires:       30 Jun 2012 09:30:52:000   UTC
+Last updated:  01 Jul 2011 12:03:06:757   UTC
+
+
+

@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: D2G.COM
+   Domain Name: ASPIREADVISORS.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.DNS2GO.COM
-   Name Server: NS2.DNS2GO.COM
-   Name Server: NS5.DNS2GO.COM
+   Name Server: DNS116.A.REGISTER.COM
+   Name Server: DNS207.B.REGISTER.COM
+   Name Server: DNS230.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 29-apr-1999
-   Expiration Date: 29-apr-2012
+   Updated Date: 18-feb-2011
+   Creation Date: 22-feb-2007
+   Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:14:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:15:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Traynor, Mark
-      NA NA
-      Deerfield Communications Inc. 4241 Old U.S. 27 South
-      Gaylord, MI 49735
-      US
-      Phone: +1.19897328856
-      Email: NA
+      Domain Discreet
+      ATTN: aspireadvisors.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 56e15c840a16123369adf96a01fc6566@domaindiscreet.com
 
 
 
@@ -85,40 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: d2g.com
-      Created on..............: 1999-04-29
-      Expires on..............: 2012-04-29
+   Domain Name: aspireadvisors.com
+      Created on..............: 2007-02-22
+      Expires on..............: 2012-02-22
 
    Administrative Contact:
-      NA
-      Mark Traynor
-      Deerfield Communications Inc. 4241 Old U.S. 27 South
-      Gaylord, MI 49735
-      US
-      Phone: +1.5177328856
-      Email: markt@DEERFIELD.COM
+      Domain Discreet
+      ATTN: aspireadvisors.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 56e15c840a16123365849754357b11be@domaindiscreet.com
 
 
    Technical  Contact:
-      Deerfield Communications, Inc.
-      Mike Courterier
-      4241 Old US 27 South
-      Gaylord, MI 49735
-      US
-      Phone: +1.9897328856
-      Email: hostmaster@deerfield.com
+      Domain Discreet
+      ATTN: aspireadvisors.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 56e15c850a1612331cd1d45a48bf0b3e@domaindiscreet.com
 
 
    DNS Servers:
-      ns1.dns2go.com
-      ns2.dns2go.com
-      ns5.dns2go.com
+      dns207.b.register.com
+      dns249.d.register.com
+      dns116.a.register.com
+      dns230.c.register.com
 
 
-
-Visit AboutUs.org for more information about d2g.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/d2g.com&quot;&gt;AboutUs: d2g.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
 

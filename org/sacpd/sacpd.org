@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3053872-LROR
+Domain Name:SACPD.ORG
+Created On:03-Mar-1997 05:00:00 UTC
+Last Updated On:04-Jan-2010 21:08:52 UTC
+Expiration Date:04-Mar-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28671475-NSI
+Registrant Name:Sacramento Police Department
+Registrant Organization:Sacramento Police Department
+Registrant Street1:Steve Jackson, I.T. Supervisor - PSIT
+Registrant Street2:5770 Freeport Blvd, Suite 100
+Registrant Street3:
+Registrant City:Sacramento
+Registrant State/Province:CA
+Registrant Postal Code:95822
+Registrant Country:US
+Registrant Phone:+1.9164330400
+Registrant Phone Ext.:
+Registrant FAX:+1.9164330505
+Registrant FAX Ext.:
+Registrant Email:spdcau@pd.cityofsacramento.org
+Admin ID:28671476-NSI
+Admin Name:Steve Jackson, PSIT
+Admin Organization:Sacramento Police Department
+Admin Street1:5770 Freeport Blvd, Suite 100
+Admin Street2:
+Admin Street3:
+Admin City:Sacramento
+Admin State/Province:CA
+Admin Postal Code:95822
+Admin Country:US
+Admin Phone:+1.9168080444
+Admin Phone Ext.:
+Admin FAX:+1.9168080505
+Admin FAX Ext.:
+Admin Email:srjackson@pd.cityofsacramento.org
+Tech ID:28359440-NSI
+Tech Name:Domain Registrar
+Tech Organization:SureWest
+Tech Street1:PO Box 969
+Tech Street2:
+Tech Street3:
+Tech City:Roseville
+Tech State/Province:CA
+Tech Postal Code:95678
+Tech Country:US
+Tech Phone:+1.916640210
+Tech Phone Ext.:
+Tech FAX:+1.916640073
+Tech FAX Ext.:
+Tech Email:netops@surewest.net
+Name Server:NS2.LNHI.NET
+Name Server:NS1.LNHI.NET
+Name Server:NS3.LNHI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

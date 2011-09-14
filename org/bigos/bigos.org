@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86478625-LROR
+Domain Name:BIGOS.ORG
+Created On:11-May-2002 08:17:28 UTC
+Last Updated On:20-Apr-2011 01:55:10 UTC
+Expiration Date:11-May-2013 08:17:28 UTC
+Sponsoring Registrar:LCN.COM Ltd. (R1285-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:AI-795137
+Registrant Name:Private User
+Registrant Organization:Domain Privacy Protector Ltd
+Registrant Street1:Office 404, 4th Floor
+Registrant Street2:Albany House, 324/326 Regent Street
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:W1B 3HH
+Registrant Country:GB
+Registrant Phone:+44.1438342490
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:0bc130fe3fd1011b7a3f5883e939cae6@domainprivacyprotector.com
+Admin ID:AI-795137
+Admin Name:Private User
+Admin Organization:Domain Privacy Protector Ltd
+Admin Street1:Office 404, 4th Floor
+Admin Street2:Albany House, 324/326 Regent Street
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:W1B 3HH
+Admin Country:GB
+Admin Phone:+44.1438342490
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:0bc130fe3fd1011b7a3f5883e939cae6@domainprivacyprotector.com
+Tech ID:AI-795135
+Tech Name:Steve Franklin
+Tech Organization:None
+Tech Street1:61 Dallas Street
+Tech Street2:
+Tech Street3:
+Tech City:Preston
+Tech State/Province:Lancashire
+Tech Postal Code:pr17uy
+Tech Country:GB
+Tech Phone:+44.1772460656
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contretemp2@hotmail.com
+Name Server:NS0.LCN.COM
+Name Server:NS1.LCN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

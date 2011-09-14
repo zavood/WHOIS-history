@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ordipat.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ordipat.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    O2649-FRNIC
+admin-c:     OB994-FRNIC
+tech-c:      OS225-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6612-FRNIC
+registrar:   ORDIPAT
+anniversary: 01/03
+created:     13/03/1997
+last-update: 13/01/2009
+source:      FRNIC
+
+ns-list:     NSL6612-FRNIC
+nserver:     ns0.ordipat.fr [193.41.194.1]
+nserver:     ns2.ordipat.fr [193.41.194.2]
+nserver:     ns3.ordipat.fr [80.252.167.195]
+source:      FRNIC
+
+registrar:   ORDIPAT
+type:        Isp Option 1
+address:     3 Rue Moncey
+address:     PARIS
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 53 32 80 89
+e-mail:      info@ordipat.fr
+website:     http://www.ordipat.net/
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     OB994-FRNIC
+type:        PERSON
+contact:     Olivier Barloy
+address:     ORDIPAT
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 53 32 86 60
+fax-no:      +33 1 53 32 80 89
+e-mail:      barloy@ordipat.fr
+notify:      barloy@ordipat.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     O2649-FRNIC
+type:        ORGANIZATION
+contact:     Ordipat
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 46 52 84 38
+e-mail:      noc@ordipat.fr
+changed:     30/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OS225-FRNIC
+type:        ROLE
+contact:     Olivier Salmon
+address:     ORDIPAT
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      admins@ordipat.fr
+admin-c:     OS5930-FRNIC
+tech-c:      OS5930-FRNIC
+changed:     16/09/2005 admins@ordipat.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

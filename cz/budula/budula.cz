@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:16:18 2011
+
+domain:       budula.cz
+registrant:   SB:FORPSI-ZOR-S227735
+admin-c:      FORPSI-ZOR-C227735
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   23.03.2007 16:55:00
+changed:      03.01.2011 20:18:57
+expire:       23.03.2012
+
+contact:      SB:FORPSI-ZOR-S227735
+name:         Ji&Aring;™&Atilde;&shy; Hors&Atilde;&iexcl;k
+address:      Masarykovo n&Atilde;&iexcl;m. 671
+address:      Napajedla
+address:      76361
+address:      CZ
+e-mail:       jirkahor@gmail.com
+registrar:    REG-INTERNET-CZ
+created:      23.03.2007 16:05:00
+
+contact:      FORPSI-ZOR-C227735
+name:         Ji&Aring;™&Atilde;&shy; Hors&Atilde;&iexcl;k
+address:      Masarykovo n&Atilde;&iexcl;m. 671
+address:      Napajedla
+address:      76361
+address:      CZ
+phone:        +420.603765587
+e-mail:       jirkahor@gmail.com
+registrar:    REG-INTERNET-CZ
+created:      23.03.2007 16:05:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+
