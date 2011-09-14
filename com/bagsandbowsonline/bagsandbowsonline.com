@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ENTOUCH.NET
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NSA.IBBSONLINE.COM
-   Name Server: NSB.IBBSONLINE.COM
-   Status: clientTransferProhibited
-   Updated Date: 18-feb-2009
-   Creation Date: 16-feb-2000
-   Expiration Date: 16-feb-2015
+   Domain Name: BAGSANDBOWSONLINE.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: ok
+   Updated Date: 13-nov-2010
+   Creation Date: 29-oct-2001
+   Expiration Date: 29-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:47:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:47:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,65 +54,72 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
 obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
+record.  Aplus.net makes this information available &quot;as is,&quot; and
 does not guarantee its accuracy.  By submitting a WHOIS query, you
 agree that you will use this data only for lawful purposes and that,
 under no circumstances will you use this data to: (1) allow, enable,
 or otherwise support the transmission of mass unsolicited, commercial
 advertising or solicitations via direct mail, electronic mail, or by
 telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
+that apply to Aplus.net (or its systems).  The compilation,
 repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Domain Discreet
-      ATTN: entouch.net
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 56dfc4ea0a16123375e85e67c6aa6637@domaindiscreet.com
+      New England Business Service
+      Jim Glockner
+      3660 Victoria St North
+      Shoreview, MN 55126
+      US
+      Phone: +1.6517871832
+      Email: hostmaster@deluxe.com
 
 
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: entouch.net
-      Created on..............: 2000-02-16
-      Expires on..............: 2015-02-16
+   Domain Name: bagsandbowsonline.com
 
    Administrative Contact:
-      Domain Discreet
-      ATTN: entouch.net
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 56dfc4d80a16123363e71631435f5bdd@domaindiscreet.com
+      New England Business Service
+      Jim Glockner
+      3660 Victoria St North
+      Shoreview, MN 55126
+      US
+      Phone: +1.6517871832
+      Email: hostmaster@deluxe.com
 
 
    Technical  Contact:
-      Domain Discreet
-      ATTN: entouch.net
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 56dfc4ea0a1612336a8df8aab3d83e52@domaindiscreet.com
+      New England Business Service
+      Jim Glockner
+      3660 Victoria St North
+      Shoreview, MN 55126
+      US
+      Phone: +1.6517871832
+      Email: hostmaster@deluxe.com
 
 
-   DNS Servers:
-      nsb.ibbsonline.com
-      nsa.ibbsonline.com
+   Registrar of Record:
+      Hostopia.com Inc. d/b/a Aplus.net, www.aplus.net
+      Record last updated on 2010-11-13
+      Record expires on 2013-10-29
+      Record created on 2001-10-29
 
+   Domain servers in listed order:
+      dmtu.mt.ns.els-gms.att.net
+      cbru.br.ns.els-gms.att.net
+      cmtu.mt.ns.els-gms.att.net
+      dbru.br.ns.els-gms.att.net
+
+
+Visit AboutUs.org for more information about bagsandbowsonline.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/bagsandbowsonline.com&quot;&gt;AboutUs: bagsandbowsonline.com&lt;/A&gt;
+
+Register your domain name at http://www.aplus.net
 
 

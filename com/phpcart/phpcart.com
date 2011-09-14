@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INVOLTA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.INVOLTA.COM
-   Name Server: NS2.INVOLTA.COM
+   Domain Name: PHPCART.COM
+   Registrar: NETTUNER CORP. DBA WEBMASTERS.COM
+   Whois Server: whois.webmasters.com
+   Referral URL: http://www.webmasters.com
+   Name Server: NS.SERVERLEASING.COM
+   Name Server: NS1.WEBMASTERS.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-mar-2009
-   Creation Date: 07-jun-2007
-   Expiration Date: 07-jun-2018
+   Updated Date: 22-apr-2011
+   Creation Date: 21-apr-2001
+   Expiration Date: 21-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:46:32 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+NOTICE AND TERMS OF USE: The data in WEBMASTERS.COM's WHOIS database is provided for
+information purposes only, and its accuracy is not guaranteed. By submitting a WHOIS
+query, you agree to abide by the following terms of use: You agree that you may use this
+Data only for lawful purposes and that under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail, telephone, or fax; or (2) enable high volume,
+automated, electronic processes for the purpose of re-transmitting the WHOIS data.
 
 Registrant:
-   Bruce Lehrman
+   NetTuner Corp.
+   4465 W. Gandy Blvd., Suite 801
+   Tampa, FL 33611
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: INVOLTA.COM
+   Domain Name: PHPCART.COM
+
+   Administrative Contact:
+      Domain Administrator   domains@nettuner.com
+      NetTuner Corp.
+      4465 W. Gandy Blvd., Suite 801
+      Tampa, FL 33611
+      US
+      813-837-8000 (FAX) 813-837-8900
+
+   Technical Contact:
+      DNS Administrator   domains@nettuner.com
+      NetTuner Corp.
+      4465 W. Gandy Blvd., Suite 801
+      Tampa, FL 33611
+      US
+      813-837-8000 (FAX) 813-837-8900
+
+   Billing Contact:
+      DNS Administrator   domains@nettuner.com
+      NetTuner Corp.
+      4465 W. Gandy Blvd., Suite 801
+      Tampa, FL 33611
+      US
+      813-837-8000 (FAX) 813-837-8900
+
+   Record created on 21-Apr-2001
+   Record expires on 21-Apr-2012
+   Record updated on 25-Jul-2006 22:27:03 EST
+   Database last updated on 13-Sep-2011 22:46:29 EST
 
    Domain servers in listed order:
-      NS1.INVOLTA.COM
-      NS2.INVOLTA.COM
 
+   NS.SERVERLEASING.COM     66.118.156.161
+   NS1.WEBMASTERS.COM     66.118.156.201
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=INVOLTA.COM
+To prevent fraudulent transfers, the above domain name has been LOCKED at the registry
+level. Any request to transfer this domain name to a different owner or registrar will
+require a signed, notarized authorization letter which will be verified by telephone
+with the current registrant prior to approval.
+
+-----------------------------------------------------------------------------
+Get a free domain name with hosting at WEBMASTERS.COM for only $9.95 a month!
+-----------------------------------------------------------------------------

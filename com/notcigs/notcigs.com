@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INVOLTA.COM
+   Domain Name: NOTCIGS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.INVOLTA.COM
-   Name Server: NS2.INVOLTA.COM
+   Name Server: NS1.BIGCOMMERCE.COM
+   Name Server: NS2.BIGCOMMERCE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-mar-2009
-   Creation Date: 07-jun-2007
-   Expiration Date: 07-jun-2018
+   Updated Date: 21-jan-2011
+   Creation Date: 01-dec-2009
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:46:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:46:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Bruce Lehrman
+   Notcigs.com
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: INVOLTA.COM
+   Domain Name: NOTCIGS.COM
 
    Domain servers in listed order:
-      NS1.INVOLTA.COM
-      NS2.INVOLTA.COM
+      NS1.BIGCOMMERCE.COM
+      NS2.BIGCOMMERCE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=INVOLTA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NOTCIGS.COM

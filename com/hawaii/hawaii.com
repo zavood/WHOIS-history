@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INVOLTA.COM
+   Domain Name: HAWAII.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.INVOLTA.COM
-   Name Server: NS2.INVOLTA.COM
+   Name Server: DNS1.HAWAIISNEWS.COM
+   Name Server: THE.HONOLULUADVERTISER.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-mar-2009
-   Creation Date: 07-jun-2007
-   Expiration Date: 07-jun-2018
+   Updated Date: 21-may-2010
+   Creation Date: 27-jan-1989
+   Expiration Date: 28-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:46:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:45:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Bruce Lehrman
+   Hawaii Tourism, LLC dba Hawaii.com
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: INVOLTA.COM
+   Domain Name: HAWAII.COM
 
    Domain servers in listed order:
-      NS1.INVOLTA.COM
-      NS2.INVOLTA.COM
+      THE.HONOLULUADVERTISER.COM
+      DNS1.HAWAIISNEWS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=INVOLTA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HAWAII.COM
