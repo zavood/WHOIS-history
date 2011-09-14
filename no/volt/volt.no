@@ -1,0 +1,40 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: VOL677D-NORID
+Domain Name................: volt.no
+Domain Holder Handle.......: IEK4O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: IEK29P-NORID
+Tech-c Handle..............: PH27R-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: H6H-NORID
+Name Server Handle.........: J3H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: IEK4O-NORID
+Type.......................: organization
+Name.......................: Inge Erling Kj&oslash;lsvik
+Id Type....................: organization_number
+Id Number..................: 977293847
+Registrar Handle...........: REG48-NORID
+Post Address...............: Sannergata 29b
+Postal Code................: NO-0557
+Postal Area................: Oslo
+Country....................: NO
+Mobile Phone Number........: +47.90797708
+Fax Number.................: +47.45598095
+Email Address..............: inge@kjolsvik.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
