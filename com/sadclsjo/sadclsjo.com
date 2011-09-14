@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLANETWS.COM
+   Domain Name: SADCLSJO.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NETRONYCS.COM
-   Name Server: NS2.NETRONYCS.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 29-jun-2010
-   Expiration Date: 29-jun-2011
+   Name Server: MDNS1.AZTUS.COM
+   Name Server: MDNS2.AZTUS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 10-mar-2011
+   Creation Date: 22-may-2009
+   Expiration Date: 22-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:27:21 UTC &lt;&lt;&lt;
 

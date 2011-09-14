@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLANETWS.COM
+   Domain Name: NORIYARO.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NETRONYCS.COM
-   Name Server: NS2.NETRONYCS.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 29-jun-2010
-   Expiration Date: 29-jun-2011
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 28-aug-2011
+   Creation Date: 30-aug-2008
+   Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:27:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:26:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

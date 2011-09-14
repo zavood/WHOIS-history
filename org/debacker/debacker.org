@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4537217-LROR
+Domain Name:DEBACKER.ORG
+Created On:21-Mar-1999 05:00:00 UTC
+Last Updated On:20-Feb-2011 05:53:37 UTC
+Expiration Date:21-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tudgQsmqFSLbp1H6
+Registrant Name:hendrik de backer
+Registrant Organization:kreax
+Registrant Street1:Rozemarijnstraat 63
+Registrant Street2:
+Registrant Street3:
+Registrant City:GENT
+Registrant State/Province:
+Registrant Postal Code:9000
+Registrant Country:BE
+Registrant Phone:+32.93308273
+Registrant Phone Ext.:
+Registrant FAX:+32.93308273
+Registrant FAX Ext.:
+Registrant Email:hendrik@kreax.com
+Admin ID:tu7SzOxkW88eqb1Z
+Admin Name:hendrik de backer
+Admin Organization:kreax
+Admin Street1:Rozemarijnstraat 63
+Admin Street2:
+Admin Street3:
+Admin City:GENT
+Admin State/Province:
+Admin Postal Code:9000
+Admin Country:BE
+Admin Phone:+32.93308273
+Admin Phone Ext.:
+Admin FAX:+32.93308273
+Admin FAX Ext.:
+Admin Email:hendrik@kreax.com
+Tech ID:tuzwDMH1zaDLcefy
+Tech Name:hendrik de backer
+Tech Organization:kreax
+Tech Street1:Rozemarijnstraat 63
+Tech Street2:
+Tech Street3:
+Tech City:GENT
+Tech State/Province:
+Tech Postal Code:9000
+Tech Country:BE
+Tech Phone:+32.93308273
+Tech Phone Ext.:
+Tech FAX:+32.93308273
+Tech FAX Ext.:
+Tech Email:hendrik@kreax.com
+Name Server:NS1.KMOWARE.NET
+Name Server:NS2.KMOWARE.NET
+Name Server:NS3.KMOWARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

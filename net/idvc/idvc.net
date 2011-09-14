@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLANETWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NETRONYCS.COM
-   Name Server: NS2.NETRONYCS.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 29-jun-2010
-   Expiration Date: 29-jun-2011
+   Domain Name: IDVC.NET
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.IDVC.NET
+   Name Server: NS2.IDVC.NET
+   Name Server: NS3.IDVC.NET
+   Name Server: NS4.IDVC.NET
+   Status: clientTransferProhibited
+   Updated Date: 24-dec-2010
+   Creation Date: 03-jan-2002
+   Expiration Date: 03-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:27:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:27:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+idvc.net
+
+Registrant:
+         Ray-yong Lin  (service@168host.com)
+        ValueDomains Co.
+        5F No.2-2 Alley 4 Lane 190 Sec 7 Chungshan N Rd,
+        Taipei,  11151
+        TW
+        +886-2-28729959
+
+
+Domain Name: idvc.net
+
+
+
+Administrative, Billing Contact:
+         Ray-yong Lin  (service@168host.com)
+        ValueDomains Co.
+        5F No.2-2 Alley 4 Lane 190 Sec 7 Chungshan N Rd,
+        Taipei,  11151
+        TW
+        +886-2-28729959
+
+
+Technical Contact:
+         PI-LIEN LEE  (service@168host.com)
+        168Host.com
+        5F No.2-2 Alley 4 Lane 190 Sec 7 Chungshan N Rd,
+        Taipei, TP  11151
+        TW
+        +886-2-28766978
+
+
+
+
+   Record created on Jan 3 2002.
+   Record expires on Jan 3 2012.
+Domain servers:
+        ns1.idvc.net
+        ns2.idvc.net
+        ns3.idvc.net
+        ns4.idvc.net
+
+
+
+Domain Service Provider:
+   168Host.com
+   +886-2-28766978
+   service@168host.com
+   www.168host.com
+
+
