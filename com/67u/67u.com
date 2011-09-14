@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INVISIONZONE.COM
+   Domain Name: 67U.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.IPSLINK.COM
-   Name Server: NS2.IPSLINK.COM
-   Status: clientDeleteProhibited
+   Name Server: NS1.VDNSERVER.COM
+   Name Server: NS2.VDNSERVER.COM
+   Name Server: NS3.VDNSERVER.COM
+   Name Server: NS4.VDNSERVER.COM
+   Name Server: NS5.VDNSERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 17-oct-2010
-   Creation Date: 15-nov-2004
-   Expiration Date: 15-nov-2011
+   Updated Date: 29-apr-2011
+   Creation Date: 19-jun-2003
+   Expiration Date: 19-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:18:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:19:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,47 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about invisionzone.com
-&lt;a href=&quot;http://www.aboutus.org/invisionzone.com&quot;&gt;AboutUs: invisionzone.com&lt;/a&gt;
+Visit AboutUs.org for more information about 67u.com
+&lt;a href=&quot;http://www.aboutus.org/67u.com&quot;&gt;AboutUs: 67u.com&lt;/a&gt;
 
 
-Domain name: invisionzone.com
+Domain name: 67u.com
 
 Registrant Contact:
-   Invision Power Services, Inc.
-   Lindy Throgmartin ()
+   -
+   chitfung Hui ()
 
    Fax:
-   PO Box 2365
-   Forest, VA 24551
-   US
+   5/F 18 Catchick ST
+   HongKong,  852
+   HK
 
 Administrative Contact:
-   Invision Power Services, Inc.
-   Lindy Throgmartin (dnsadmin@invisionpower.com)
-   4343524334
-   Fax:
-   PO Box 2365
-   Forest, VA 24551
-   US
+   -
+   chitfung Hui (jacksoking@gmail.com)
+   +852.63483466
+   Fax: +852.852
+   5/F 18 Catchick ST
+   HongKong,  852
+   HK
 
 Technical Contact:
-   Invision Power Services, Inc.
-   Lindy Throgmartin (dnsadmin@invisionpower.com)
-   4343524334
-   Fax:
-   PO Box 2365
-   Forest, VA 24551
-   US
+   -
+   Jack Hui (jacksoking@gmail.com)
+   +852.63483466
+   Fax: +852.852
+   5/F 18 Catchick ST
+   HongKong,  852
+   HK
 
 Status: Locked
 
 Name Servers:
-   ns1.ipslink.com
-   ns2.ipslink.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 15 Nov 2004 19:47:54
-Expiration date: 15 Nov 2011 19:47:00
+Creation date: 20 Jun 2003 01:12:40
+Expiration date: 20 Jun 2012 01:12:40
 
 
 

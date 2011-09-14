@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17462734-LROR
+Domain Name:EMBL.ORG
+Created On:13-Jan-2000 14:59:55 UTC
+Last Updated On:25-Oct-2006 13:02:21 UTC
+Expiration Date:13-Jan-2013 14:59:55 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20515339-NSI
+Registrant Name:EMBL
+Registrant Organization:EMBL
+Registrant Street1:Meyerhofstr. 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Heidelberg
+Registrant State/Province:
+Registrant Postal Code:69117
+Registrant Country:DE
+Registrant Phone:+1.496221387898
+Registrant Phone Ext.:
+Registrant FAX:+1.496221387851
+Registrant FAX Ext.:
+Registrant Email:lozano@EMBL-HEIDELBERG.DE
+Admin ID:15752149-NSI
+Admin Name:Sysadmin EMBL
+Admin Organization:EMBL
+Admin Street1:Meyerhofstrasse 1
+Admin Street2:M. Wahlers
+Admin Street3:
+Admin City:Heidelberg
+Admin State/Province:
+Admin Postal Code:69117
+Admin Country:DE
+Admin Phone:+49.62213878983
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wahlers@embl.de
+Tech ID:15752149-NSI
+Tech Name:Sysadmin EMBL
+Tech Organization:EMBL
+Tech Street1:Meyerhofstrasse 1
+Tech Street2:M. Wahlers
+Tech Street3:
+Tech City:Heidelberg
+Tech State/Province:
+Tech Postal Code:69117
+Tech Country:DE
+Tech Phone:+49.62213878983
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wahlers@embl.de
+Name Server:DNS1.EMBL-HEIDELBERG.DE
+Name Server:DNS2.EMBL-HEIDELBERG.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
