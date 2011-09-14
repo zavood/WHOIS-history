@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ORKA-CYCLES.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.PLANET-WORK.COM
-   Name Server: NS2.PLANET-WORK.COM
-   Status: ok
-   Updated Date: 02-sep-2010
-   Creation Date: 04-aug-2010
-   Expiration Date: 04-aug-2012
+   Domain Name: TVCAOTW.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS67.DOMAINCONTROL.COM
+   Name Server: NS68.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 23-feb-2011
+   Creation Date: 23-feb-2011
+   Expiration Date: 23-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:56:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:56:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name : ORKA-CYCLES.COM
-Created On : 2010-08-04
-Expiration Date : 2012-08-04
-Status : ACTIVE
-Registrant Name : DMSC INFORMATIQUE
-Registrant Street1 : [u'Route des Crez', u'Chaumont']
-Registrant City : EYZIN PINET
-Registrant State/Province  :
-Registrant Postal Code : 38780
-Registrant Country : FR
-Admin Name : DMSC INFORMATIQUE
-Admin Street1 : [u'Route des Crez', u'Chaumont']
-Admin City : EYZIN PINET
-Admin State/Province : FR
-Admin Postal Code : 38780
-Admin Country : FR
-Admin Phone : +33.964064750
-Admin Email : domains@planet-work.com
-Tech Name : PLANET WORK
-Tech Street1 : 231 rue Saint-Honore
-Tech City : PARIS
-Tech State/Province : FR
-Tech Postal Code : 75001
-Tech Country : FR
-Tech Phone : +33.891024424
-Tech Email : domains@planet-work.com
-Billing Name : DMSC INFORMATIQUE
-Billing Street1 : [u'Route des Crez', u'Chaumont']
-Billing City : EYZIN PINET
-Billing State/Province : FR
-Billing Postal Code : 38780
-Billing Country : FR
-Billing Phone : +33.964064750
-Billing Email : domains@planet-work.com
-Name Server : NS1.PLANET-WORK.COM
-Name Server : NS2.PLANET-WORK.COM
-Registrar Name : Namebay
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Domains by Proxy, Inc.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: TVCAOTW.COM
+
+   Domain servers in listed order:
+      NS67.DOMAINCONTROL.COM
+      NS68.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TVCAOTW.COM

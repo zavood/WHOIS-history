@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ORKA-CYCLES.COM
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.PLANET-WORK.COM
-   Name Server: NS2.PLANET-WORK.COM
-   Status: ok
-   Updated Date: 02-sep-2010
-   Creation Date: 04-aug-2010
-   Expiration Date: 04-aug-2012
+   Domain Name: HIRNRISS.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: DNS1.NAMESECURE.COM
+   Name Server: DNS2.NAMESECURE.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2010
+   Creation Date: 03-may-2001
+   Expiration Date: 03-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:56:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:57:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,35 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name : ORKA-CYCLES.COM
-Created On : 2010-08-04
-Expiration Date : 2012-08-04
-Status : ACTIVE
-Registrant Name : DMSC INFORMATIQUE
-Registrant Street1 : [u'Route des Crez', u'Chaumont']
-Registrant City : EYZIN PINET
-Registrant State/Province  :
-Registrant Postal Code : 38780
-Registrant Country : FR
-Admin Name : DMSC INFORMATIQUE
-Admin Street1 : [u'Route des Crez', u'Chaumont']
-Admin City : EYZIN PINET
-Admin State/Province : FR
-Admin Postal Code : 38780
-Admin Country : FR
-Admin Phone : +33.964064750
-Admin Email : domains@planet-work.com
-Tech Name : PLANET WORK
-Tech Street1 : 231 rue Saint-Honore
-Tech City : PARIS
-Tech State/Province : FR
-Tech Postal Code : 75001
-Tech Country : FR
-Tech Phone : +33.891024424
-Tech Email : domains@planet-work.com
-Billing Name : DMSC INFORMATIQUE
-Billing Street1 : [u'Route des Crez', u'Chaumont']
-Billing City : EYZIN PINET
-Billing State/Province : FR
-Billing Postal Code : 38780
-Billing Country : FR
-Billing Phone : +33.964064750
-Billing Email : domains@planet-work.com
-Name Server : NS1.PLANET-WORK.COM
-Name Server : NS2.PLANET-WORK.COM
-Registrar Name : Namebay
+
+Registrant:
+PAHUD, MARTIN
+   PAHUD
+   CHAESIWIS 2A
+   OBERBUEREN, -- 9245
+   CH
+
+   Domain Name: HIRNRISS.COM
+
+   Administrative Contact:
+      PAHUD, MARTIN		martin@pahud.ch
+      PAHUD
+      CHAESIWIS 2A
+      OBERBUEREN, -- 9245
+      CH
+      0788806667
+
+
+   Record expires on 03-May-2014.
+   Record created on 03-May-2001.
+   Database last updated on 14-Sep-2011 14:48:56 EDT.
+
+   Domain servers in listed order:
+
+   DNS1.NAMESECURE.COM          205.178.190.56
+   DNS2.NAMESECURE.COM          206.188.198.56
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+
