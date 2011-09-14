@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RENONOC.NET
+   Domain Name: DATEFROM.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.RENONOC.NET
-   Name Server: NS2.RENONOC.NET
-   Name Server: NS3.RENONOC.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-apr-2008
-   Creation Date: 06-apr-2005
-   Expiration Date: 06-apr-2014
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: pendingDelete
+   Updated Date: 11-sep-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:03:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:02:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,68 +54,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about renonoc.net
-&lt;a href=&quot;http://www.aboutus.org/renonoc.net&quot;&gt;AboutUs: renonoc.net&lt;/a&gt;
-
-
-Domain name: renonoc.net
-
-Registrant Contact:
-
-   Matt Davis ()
-
-   Fax:
-   9736 S. Virginia Suite C
-   Reno,  89511
-
-
-Administrative Contact:
-
-   Matt Davis (techsupport@callhsb.com)
-   +1.7758273060
-   Fax:
-   9736 S. Virginia Suite C
-   Reno,  89511
-
-
-Technical Contact:
-
-   Matt Davis (techsupport@callhsb.com)
-   +1.7758273060
-   Fax:
-   9736 S. Virginia Suite C
-   Reno,  89511
-
-
-Status: Locked
-
-Name Servers:
-   NS1.RENONOC.NET
-   NS2.RENONOC.NET
-   NS3.RENONOC.NET
-
-Creation date: 06 Apr 2005 22:28:32
-Expiration date: 06 Apr 2014 22:28:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain not found.
