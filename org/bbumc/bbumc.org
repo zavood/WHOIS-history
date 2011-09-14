@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159023084-LROR
+Domain Name:BBUMC.ORG
+Created On:30-Apr-2010 05:55:32 UTC
+Last Updated On:12-Mar-2011 08:06:03 UTC
+Expiration Date:30-Apr-2013 05:55:32 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:80563fe089a329cf
+Registrant Name:DOMAIN  PRIVACY
+Registrant Organization:pipe DNS
+Registrant Street1:Unit A2 Segensworth Business Centre
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fareham
+Registrant State/Province:HANTS
+Registrant Postal Code:PO15 5RQ
+Registrant Country:GB
+Registrant Phone:+44.8887557585
+Registrant Phone Ext.:
+Registrant FAX:+44.8887557585
+Registrant FAX Ext.:
+Registrant Email:privacy@pipedns.com
+Admin ID:80563fe089a329cf
+Admin Name:DOMAIN  PRIVACY
+Admin Organization:pipe DNS
+Admin Street1:Unit A2 Segensworth Business Centre
+Admin Street2:
+Admin Street3:
+Admin City:Fareham
+Admin State/Province:HANTS
+Admin Postal Code:PO15 5RQ
+Admin Country:GB
+Admin Phone:+44.8887557585
+Admin Phone Ext.:
+Admin FAX:+44.8887557585
+Admin FAX Ext.:
+Admin Email:privacy@pipedns.com
+Tech ID:80563fe089a329cf
+Tech Name:DOMAIN  PRIVACY
+Tech Organization:pipe DNS
+Tech Street1:Unit A2 Segensworth Business Centre
+Tech Street2:
+Tech Street3:
+Tech City:Fareham
+Tech State/Province:HANTS
+Tech Postal Code:PO15 5RQ
+Tech Country:GB
+Tech Phone:+44.8887557585
+Tech Phone Ext.:
+Tech FAX:+44.8887557585
+Tech FAX Ext.:
+Tech Email:privacy@pipedns.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:NS3.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

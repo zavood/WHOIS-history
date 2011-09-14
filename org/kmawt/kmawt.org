@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157961983-LROR
+Domain Name:KMAWT.ORG
+Created On:02-Jan-2010 12:03:37 UTC
+Last Updated On:15-Dec-2010 08:57:54 UTC
+Expiration Date:02-Jan-2012 12:03:37 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_10896008
+Registrant Name:Prakash R Bhat
+Registrant Organization:KMAW Trust
+Registrant Street1:No.16, Old 10
+Registrant Street2:Second Main Road
+Registrant Street3:Kottur Gardens,Chennai
+Registrant City:Chennai
+Registrant State/Province:Tamil Nadu
+Registrant Postal Code:600085
+Registrant Country:IN
+Registrant Phone:+91.24472540
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:prb@vsnl.com
+Admin ID:DI_10896008
+Admin Name:Prakash R Bhat
+Admin Organization:KMAW Trust
+Admin Street1:No.16, Old 10
+Admin Street2:Second Main Road
+Admin Street3:Kottur Gardens,Chennai
+Admin City:Chennai
+Admin State/Province:Tamil Nadu
+Admin Postal Code:600085
+Admin Country:IN
+Admin Phone:+91.24472540
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:prb@vsnl.com
+Tech ID:DI_10896008
+Tech Name:Prakash R Bhat
+Tech Organization:KMAW Trust
+Tech Street1:No.16, Old 10
+Tech Street2:Second Main Road
+Tech Street3:Kottur Gardens,Chennai
+Tech City:Chennai
+Tech State/Province:Tamil Nadu
+Tech Postal Code:600085
+Tech Country:IN
+Tech Phone:+91.24472540
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:prb@vsnl.com
+Name Server:NS41.ZNETINDIA.COM
+Name Server:NS42.ZNETINDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

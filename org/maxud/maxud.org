@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149674407-LROR
+Domain Name:MAXUD.ORG
+Created On:06-Nov-2007 22:42:04 UTC
+Last Updated On:08-Aug-2010 15:06:25 UTC
+Expiration Date:06-Nov-2011 22:42:04 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR27752439
+Registrant Name:Maxim Kapinus
+Registrant Organization:ITC
+Registrant Street1:Krasnozvezdniy
+Registrant Street2:51, 13 floor
+Registrant Street3:
+Registrant City:Kyiv
+Registrant State/Province:
+Registrant Postal Code:03110
+Registrant Country:UA
+Registrant Phone:+380.684654632195
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:maxim.kapinus@gmail.com
+Admin ID:CR27752442
+Admin Name:Maxim Kapinus
+Admin Organization:ITC
+Admin Street1:Krasnozvezdniy
+Admin Street2:51, 13 floor
+Admin Street3:
+Admin City:Kyiv
+Admin State/Province:
+Admin Postal Code:03110
+Admin Country:UA
+Admin Phone:+380.684654632195
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:maxim.kapinus@gmail.com
+Tech ID:CR27752441
+Tech Name:Maxim Kapinus
+Tech Street1:118 Shevchenko str
+Tech Street2:ap. 109
+Tech Street3:
+Tech City:Bila Tserkva
+Tech State/Province:Kyiv
+Tech Postal Code:9100
+Tech Country:UA
+Tech Phone:+380.635656657
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:maxim.kapinus@gmail.com
+Name Server:NS1.SPACEWEB.RU
+Name Server:NS2.SPACEWEB.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

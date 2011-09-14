@@ -5,13 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-OVH.NET.EGC-ESPACE.COM
-OVH.NET
-OVH.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: WWABB.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 24-jan-2011
+   Creation Date: 24-jan-2011
+   Expiration Date: 24-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:58:07 UTC &lt;&lt;&lt;
 
@@ -48,3 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : wwabb.com
+
+Registrant Contact Information :
+qilushan
+qilushan
+cc2cc2cc@163.com
+shuanggu, 000000
+tel: 86 076955214321
+fax: 86 076955214321
+
+Administrative Contact Information :
+qilushan
+qilushan
+cc2cc2cc@163.com
+shuanggu, 000000
+tel: 86 076955214321
+fax: 86 076955214321
+
+Technical Contact Information :
+qilushan
+qilushan
+cc2cc2cc@163.com
+shuanggu, 000000
+tel: 86 076955214321
+fax: 86 076955214321
+
+Billing Contact Information :
+qilushan
+qilushan
+cc2cc2cc@163.com
+shuanggu, 000000
+tel: 86 076955214321
+fax: 86 076955214321
+
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
+
+Registration Date :2011-1-24
+Expiration Date : 2012-1-24
+
+For more information, please go to http://whois.ename.com.
+

@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-OVH.NET.EGC-ESPACE.COM
-OVH.NET
-OVH.NET
+   Domain Name: BULIM.NET
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS.NEWSEOUL.COM
+   Name Server: NS.SOFTCAN.NET
+   Status: clientTransferProhibited
+   Updated Date: 16-may-2008
+   Creation Date: 24-feb-2002
+   Expiration Date: 24-feb-2016
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:58:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:57:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
+
+Domain Name : bulim.net
+
+::Registrant::
+Name : BulimNonferrousMetal co.
+Email : newsound@hanmail.net
+Address : 306-801,Taehwa-dong Taedok-gu,Daejon,Korea
+Zipcode : 306-801
+Nation : KR
+Tel : +82-42-636-5621
+Fax :
+
+::Administrative Contact::
+Name : songmaengpill
+Email : newsound@hanmail.net
+Address : 306-801,Taehwa-dong Taedok-gu,Daejon,Korea
+Zipcode : 306-801
+Nation : KR
+Tel : +82-42-636-5621
+Fax :
+
+::Technical Contact::
+Name : Whois Co., Ltd.
+Email : whois@whois.co.kr
+Address : 143-39 Shinil Bldg.1F, Samsung-dong, Kangnam-gu
+Zipcode : 135-877
+Nation : KR
+Tel : +82-2-325-4259
+Fax : +82-2-325-2259
+
+::Name Servers::
+NS.SOFTCAN.NET
+NS.NEWSEOUL.COM
+
+::Dates &amp; Status::
+Created Date : 2002/02/24 21:23:09 EST
+Updated Date : 2006/03/10 09:23:49 EST
+Valid Date : 2016/02/24 21:23:09 EST
+Status REGISTRATION
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
