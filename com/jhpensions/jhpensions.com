@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMPUSERVE.COM
+   Domain Name: JHPENSIONS.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: DNS-01.NS.AOL.COM
-   Name Server: DNS-02.NS.AOL.COM
-   Name Server: DNS-06.NS.AOL.COM
-   Name Server: DNS-07.NS.AOL.COM
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
    Status: clientTransferProhibited
    Updated Date: 02-sep-2011
-   Creation Date: 06-oct-1988
-   Expiration Date: 05-oct-2012
+   Creation Date: 19-oct-2004
+   Expiration Date: 19-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:24:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:23:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +54,42 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... compuserve.com
-  Creation Date........ 1988-10-06
-  Registration Date.... 2009-10-03
-  Expiry Date.......... 2012-10-06
-  Organisation Name.... AOL Inc.
-  Organisation Address. 22000 AOL Way
+Domain Name.......... jhpensions.com
+  Creation Date........ 2004-10-20
+  Registration Date.... 2009-08-27
+  Expiry Date.......... 2012-10-20
+  Organisation Name.... Manulife Financial Corporation
+  Organisation Address. 200 Bloor Street East
   Organisation Address.
-  Organisation Address. Dulles
-  Organisation Address. 20166
-  Organisation Address. VA
-  Organisation Address. UNITED STATES
+  Organisation Address. Toronto
+  Organisation Address. m4w1e5
+  Organisation Address. ON
+  Organisation Address. CANADA
 
-Admin Name........... Domain Admin
-  Admin Address........ AOL Inc.
-  Admin Address........ 22000 AOL Way
-  Admin Address........ Dulles
-  Admin Address........ 20166
-  Admin Address........ VA
-  Admin Address........ UNITED STATES
-  Admin Email.......... domain-adm@corp.aol.com
-  Admin Phone.......... +1.7032654670
+Admin Name........... Corporate Webmaster
+  Admin Address........ Manulife Financial Corporation
+  Admin Address........ 200 Bloor Street East
+  Admin Address........ Toronto
+  Admin Address........ m4w 1e5
+  Admin Address........ ON
+  Admin Address........ CANADA
+  Admin Email.......... webmaster@manulife.com
+  Admin Phone.......... +1.4169263000
   Admin Fax............
 
-Tech Name............ Domain Admin
-  Tech Address......... AOL Inc.
-  Tech Address......... 22000 AOL Way
-  Tech Address......... Dulles
-  Tech Address......... 20166
-  Tech Address......... VA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain-adm@corp.aol.com
-  Tech Phone........... +1.7032654670
+Tech Name............ Corporate Webmaster
+  Tech Address......... Manulife Financial Corporation
+  Tech Address......... 200 Bloor Street East
+  Tech Address......... Toronto
+  Tech Address......... m4w 1e5
+  Tech Address......... ON
+  Tech Address......... CANADA
+  Tech Email........... webmaster@manulife.com
+  Tech Phone........... +1.4169263000
   Tech Fax.............
-  Name Server.......... DNS-02.NS.AOL.COM
-  Name Server.......... DNS-01.NS.AOL.COM
-  Name Server.......... DNS-07.NS.AOL.COM
-  Name Server.......... DNS-06.NS.AOL.COM
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... h4.nstld.com
 
 

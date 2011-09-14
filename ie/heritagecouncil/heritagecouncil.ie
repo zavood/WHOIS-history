@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      heritagecouncil.ie
+descr:       The Heritage Council
+descr:       Statutory Body
+descr:       State Agency Name
+admin-c:     LOB5-IEDR
+tech-c:      JW112-IEDR
+renewal:     21-September-2011
+status:      Active
+nserver:     ns1.roomthree.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      Isabell Smyth
+nic-hdl:     LOB5-IEDR
+source:      IEDR
+
+person:      Roomthree Design IEDR Adminstrator
+nic-hdl:     JW112-IEDR
+source:      IEDR
+
