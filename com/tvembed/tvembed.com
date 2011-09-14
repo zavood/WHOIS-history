@@ -5,15 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-MYSPACE.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-MYSPACE.COM.USERS.SHOULD.HOST.IMAGES.AT.ITSHOSTED.COM
-MYSPACE.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-MYSPACE.COM.IS.N0T.AS.1337.AS.WWW.GULLI.COM
-MYSPACE.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: TVEMBED.COM
+   Registrar: SOFTLAYER TECHNOLOGIES, INC
+   Whois Server: whois.theplanet.com
+   Referral URL: http://www.softlayer.com
+   Name Server: NS1.FLASHEDCODER.NET
+   Name Server: NS2.FLASHEDCODER.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 12-may-2011
+   Creation Date: 30-dec-2009
+   Expiration Date: 30-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:30:08 UTC &lt;&lt;&lt;
 
@@ -50,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,15 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-MYSPACE.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-MYSPACE.COM.USERS.SHOULD.HOST.IMAGES.AT.ITSHOSTED.COM
-MYSPACE.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-MYSPACE.COM.IS.N0T.AS.1337.AS.WWW.GULLI.COM
-MYSPACE.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: DNF5315.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: NS1.4CUN.COM
+   Name Server: NS2.4CUN.COM
+   Status: ok
+   Updated Date: 05-aug-2011
+   Creation Date: 07-jul-2011
+   Expiration Date: 07-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:30:08 UTC &lt;&lt;&lt;
 
@@ -50,3 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us. We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+Domain Name: dnf5315.com
+
+Registrant Contact:
+   xieqiu xia
+   san zhang 97453858@qq.com
+   +86.18782081948  fax: +86.89888888888
+   xiaobeijie1hao
+   chengdu Sichuan 611930
+   CN
+
+Administrative Contact:
+   xieqiu xia
+   san zhang 97453858@qq.com
+   +86.18782081948  fax: +86.89888888888
+   xiaobeijie1hao
+   chengdu Sichuan 611930
+   CN
+
+Technical Contact:
+   xieqiu xia
+   san zhang 97453858@qq.com
+   +86.18782081948  fax: +86.89888888888
+   xiaobeijie1hao
+   chengdu Sichuan 611930
+   CN
+
+Billing Contact:
+   xieqiu xia
+   san zhang 97453858@qq.com
+   +86.18782081948  fax: +86.89888888888
+   xiaobeijie1hao
+   chengdu Sichuan 611930
+   CN
