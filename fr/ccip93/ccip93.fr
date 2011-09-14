@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ccip93.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ccip93.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CCED98-FRNIC
+admin-c:     JMT68-FRNIC
+tech-c:      SJOL1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4288-FRNIC
+registrar:   GANDI
+anniversary: 01/10
+created:     30/07/2004
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL4288-FRNIC
+nserver:     helgi.fast.jmsp.net
+nserver:     ullinn.fast.jmsp.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     SJOL1-FRNIC
+type:        ROLE
+contact:     Service technique de JET ON LINE
+address:     JET MULTIMEDIA FRANCE
+address:     immeuble le Quartz
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 78 17 16 16
+e-mail:      nictechnic@jetmultimedia.fr
+admin-c:     NA69-FRNIC
+tech-c:      NT62-FRNIC
+notify:      nictechnic@jetmultimedia.fr
+changed:     15/04/2008 nictechnic@jetmultimedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JMT68-FRNIC
+type:        PERSON
+contact:     Jean-Marc Tupin
+address:     CHAMBRE COMMERCE ET D'INDUSTRIE DE PARIS - CCIP
+address:     39, rue Aboukir
+address:     75002 Paris
+country:     FR
+phone:       +33 1 55 65 32 74
+fax-no:      +33 1 55 65 32 74
+e-mail:      assistanceweb@ccip.fr
+changed:     19/05/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CCED98-FRNIC
+type:        ORGANIZATION
+contact:     CHAMBRE COMMERCE ET D'INDUSTRIE DE PARIS - CCIP
+address:     39, rue Aboukir
+address:     75002 Paris
+country:     FR
+phone:       +33 1 55 65 32 74
+fax-no:      +33 1 55 65 32 74
+e-mail:      assistanceweb@ccip.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
