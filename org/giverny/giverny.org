@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104324-LROR
+Domain Name:GIVERNY.ORG
+Created On:16-Oct-1996 04:00:00 UTC
+Last Updated On:19-Jul-2011 09:37:42 UTC
+Expiration Date:15-Oct-2016 04:00:00 UTC
+Sponsoring Registrar:pair Networks, Inc.d/b/a pairNIC (R103-LROR)
+Status:OK
+Registrant ID:C64691
+Registrant Name:Cauderlier
+Registrant Street1:38 route de Giverny
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vernon
+Registrant State/Province:
+Registrant Postal Code:27200
+Registrant Country:FR
+Registrant Phone:+33.232511353
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cauderlier@yahoo.fr
+Admin ID:DD54024
+Admin Name:Daniel Droetto
+Admin Organization:Happydoo
+Admin Street1:PARC CADERA SUD
+Admin Street2:AVENUE ARIANE BAT U
+Admin Street3:BP 20145
+Admin City:MERIGNAC cedex
+Admin State/Province:
+Admin Postal Code:33706
+Admin Country:FR
+Admin Phone:+33.873178133
+Admin Phone Ext.:
+Admin FAX:+33.556122316
+Admin FAX Ext.:
+Admin Email:daniel@droetto.com
+Tech ID:DD50570
+Tech Name:Daniel Droetto
+Tech Organization:Happydoo
+Tech Street1:PARC CADERA SUD
+Tech Street2:AVENUE ARIANE BAT U
+Tech Street3:BP 20145
+Tech City:MERIGNAC cedex
+Tech State/Province:
+Tech Postal Code:33706
+Tech Country:FR
+Tech Phone:+33.873178133
+Tech Phone Ext.:
+Tech FAX:+33.556122316
+Tech FAX Ext.:
+Tech Email:daniel@droetto.com
+Name Server:NS3.PAIR.COM
+Name Server:NS0.NS0.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
