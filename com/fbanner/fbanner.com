@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Domain Name: FBANNER.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS3.FIRSTFIND.NL
+   Name Server: NS4.FIRSTFIND.NL
+   Status: ok
+   Updated Date: 04-jan-2011
+   Creation Date: 04-jan-2010
+   Expiration Date: 04-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE
+Domain Name:fbanner.com
+Name Server:ns3.firstfind.nl
+Name Server:ns4.firstfind.nl
+Created On:2010-01-04
+Last Updated On:2011-01-04
+Expiration Date:2012-01-04
+Dealer:yourhosting
+Registrant ID:ruud117@hotmail.com
+Registrant Name:R.B. Jong
+Registrant Organization:Ruud design
+Registrant Street1:Zomergerst 19
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zeewolde
+Registrant State/Province:
+Registrant Postal Code:3893 GG
+Registrant Country:NL
+Registrant Phone:+31.365222780
+Registrant Fax:
+Registrant Email:ruud117@hotmail.com
+Admin ID:admin@yourhosting.nl
+Admin Name:Valentijn Borstlap
+Admin Organization:YourHosting BV
+Admin Street1:Schrevenweg 5
+Admin Street2:
+Admin Street3:
+Admin City:Zwolle
+Admin State/Province:Overijssel
+Admin Postal Code:8024 HB
+Admin Country:NL
+Admin Phone:+31.384530752
+Admin Fax:+31.384524734
+Admin Email:admin@yourhosting.nl
+Billing ID:billing@yourhosting.nl
+Billing Name:Valentijn Borstlap
+Billing Organization:YourHosting BV
+Billing Street1:Schrevenweg 5
+Billing Street2:
+Billing Street3:
+Billing City:Zwolle
+Billing State/Province:Overijssel
+Billing Postal Code:8024 HB
+Billing Country:NL
+Billing Phone:+31.384530752
+Billing Fax:+31.384524734
+Billing Email:billing@yourhosting.nl
+Tech ID:tech@yourhosting.nl
+Tech Name:Valentijn Borstlap
+Tech Organization:YourHosting BV
+Tech Street1:Schrevenweg 5
+Tech Street2:
+Tech Street3:
+Tech City:Zwolle
+Tech State/Province:Overijssel
+Tech Postal Code:8024 HB
+Tech Country:NL
+Tech Phone:+31.384530752
+Tech Fax:+31.384524734
+Tech Email:tech@yourhosting.nl

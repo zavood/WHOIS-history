@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
+   Domain Name: FONDDULACCOUNTYFAIR.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
+   Name Server: NS1.DNSJUNCTION.COM
+   Name Server: NS2.DNSJUNCTION.COM
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Updated Date: 24-apr-2008
+   Creation Date: 04-jun-2001
+   Expiration Date: 04-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:31:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkandthecork.com
+Whois Query: fonddulaccountyfair.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
+Date and Time of Query: Wed Sep 14 12:21:27 EDT 2011
 Reason Code: IE

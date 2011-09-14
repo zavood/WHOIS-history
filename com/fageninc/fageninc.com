@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
+   Domain Name: FAGENINC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
+   Name Server: NS1.IAXS.NET
+   Name Server: NS2.IAXS.NET
+   Name Server: NS3.IAXS.NET
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Updated Date: 16-jan-2007
+   Creation Date: 13-feb-1997
+   Expiration Date: 14-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkandthecork.com
+Whois Query: fageninc.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
+Date and Time of Query: Wed Sep 14 12:21:06 EDT 2011
 Reason Code: IE

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
+   Domain Name: FLYINGLOANS.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS765.WEBSITEWELCOME.COM
+   Name Server: NS766.WEBSITEWELCOME.COM
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Updated Date: 09-jun-2011
+   Creation Date: 22-jun-2009
+   Expiration Date: 22-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:29:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain flyingloans.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Date Registered: 2009-6-22
+Date Modified: 2011-6-9
+Expiry Date: 2015-6-22
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+DNS1: ns765.websitewelcome.com
+DNS2: ns766.websitewelcome.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant
+    Private Whois flyingloans.com
+    Private Whois flyingloans.com  tvzih5x4deb06589d0b1@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o flyingloans.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact
+    Private Whois flyingloans.com
+    Private Whois flyingloans.com  s97skro4deb0658a5540@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o flyingloans.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE
+Technical Contact
+    Private Whois flyingloans.com
+    Private Whois flyingloans.com  lgc26e34deb0658a1aae@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o flyingloans.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

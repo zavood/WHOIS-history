@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92374580-LROR
+Domain Name:FORTSNELLING.ORG
+Created On:19-Nov-2002 22:22:27 UTC
+Last Updated On:27-May-2011 16:50:41 UTC
+Expiration Date:19-Nov-2011 22:22:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu1E2YQlWdjkMCGG
+Registrant Name:Robert Waltz
+Registrant Organization:Fort Snelling State Park Association
+Registrant Street1:1078 Colne Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint Paul
+Registrant State/Province:MN
+Registrant Postal Code:55103
+Registrant Country:US
+Registrant Phone:+1.6514891930
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:waltzmn@skypoint.com
+Admin ID:tu1E2YQlWdjkMCGG
+Admin Name:Robert Waltz
+Admin Organization:Fort Snelling State Park Association
+Admin Street1:1078 Colne Street
+Admin Street2:
+Admin Street3:
+Admin City:Saint Paul
+Admin State/Province:MN
+Admin Postal Code:55103
+Admin Country:US
+Admin Phone:+1.6514891930
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:waltzmn@skypoint.com
+Tech ID:tuvOdOYkGTaWtcQx
+Tech Name:VISI Hostmaster
+Tech Organization:VISI
+Tech Street1:10290 West 70th Street
+Tech Street2:
+Tech Street3:
+Tech City:Eden Prairie
+Tech State/Province:MN
+Tech Postal Code:55344
+Tech Country:US
+Tech Phone:+1.6123959000
+Tech Phone Ext.:
+Tech FAX:+1.6122880889
+Tech FAX Ext.:
+Tech Email:hostmaster@visi.com
+Name Server:NS1.PASCHEN4.NET
+Name Server:NS2.PASCHEN4.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

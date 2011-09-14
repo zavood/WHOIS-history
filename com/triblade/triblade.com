@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Domain Name: TRIBLADE.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS2.MEDIAART.CO.JP
+   Name Server: NS1.TRIBLADE.COM
+   Name Server: NS2.CHGK.MEDIAART.CO.JP
+   Status: ok
+   Updated Date: 15-feb-2011
+   Creation Date: 29-sep-1999
+   Expiration Date: 29-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+GMO Internet, Inc. whois server 2.0
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Handle: None
+Domain Name: triblade.com
+Created On: 1999-09-30 00:54:14.0
+Last Updated On: 2011-02-15 14:14:56.0
+Expiration Date: 2014-09-30 00:54:15.0
+Status: ACTIVE
+Registrant Name: Ayumu OHKAGO
+Registrant Organization: TRIBLADE
+Registrant Street1: 2-6-19 Higashimachi
+Registrant Street2:
+Registrant City: Mihara-shi
+Registrant State: Hiroshima
+Registrant Postal Code: 723-0011
+Registrant Country: JP
+Registrant Phone: 9999-9999
+Registrant Fax: 9999-9999
+Registrant Email: ohkago@triblade.com
+Admin Name: Ayumu OHKAGO
+Admin Organization: TRIBLADE
+Admin Street1: 2-6-19 Higashimachi
+Admin Street2:
+Admin City: Mihara-shi
+Admin State: Hiroshima
+Admin Postal Code: 723-0011
+Admin Country: JP
+Admin Phone: 9999-9999
+Admin Fax: 9999-9999
+Admin Email: ohkago@triblade.com
+Billing Name: Ayumu OHKAGO
+Billing Organization: TRIBLADE
+Billing Street1: 2-6-19 Higashimachi
+Billing Street2:
+Billing City: Mihara-shi
+Billing State: Hiroshima
+Billing Postal Code: 723-0011
+Billing Country: JP
+Billing Phone: 9999-9999
+Billing Fax: 9999-9999
+Billing Email: ohkago@triblade.com
+Tech Name: Solutions, Network
+Tech Organization: Network Solutions, LLC.
+Tech Street1: 13861 Sunrise Valley Drive
+Tech Street2:
+Tech City: Herndon
+Tech State: va
+Tech Postal Code: 20171
+Tech Country: US
+Tech Phone: 888-642-9675
+Tech Fax: 571-434-4620
+Tech Email: customerservice@networksolutions.com
+Name Server: dns2.mediaart.co.jp
+Name Server: ns1.triblade.com
+Name Server: ns2.chgk.mediaart.co.jp
 
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE

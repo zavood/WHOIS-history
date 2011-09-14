@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
+   Domain Name: FOODPORNDAILY.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: DNS1.NAMESECURE.COM
+   Name Server: DNS2.NAMESECURE.COM
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Updated Date: 25-may-2010
+   Creation Date: 14-jul-2007
+   Expiration Date: 14-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:29:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+Durrett, Tyler
+   Tyler Durrett
+   4850 Narragansett
+   #10
+   San Diego, CA 92107
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: FOODPORNDAILY.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      Durrett, Tyler		tyler@whatwereeating.com
+      Tyler Durrett
+      4850 Narragansett
+      #10
+      San Diego, CA 92107
+      US
+      2252785335
 
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE
+
+   Record expires on 14-Jul-2012.
+   Record created on 13-Jul-2007.
+   Database last updated on 14-Sep-2011 12:20:23 EDT.
+
+   Domain servers in listed order:
+
+   DNS1.NAMESECURE.COM          205.178.190.56
+   DNS2.NAMESECURE.COM          206.188.198.56
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

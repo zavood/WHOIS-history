@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; font-romeu.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      font-romeu.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MFR32-FRNIC
+admin-c:     MFR21-FRNIC
+tech-c:      NF485-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL46919-FRNIC
+registrar:   NORDNET
+anniversary: 30/01
+created:     30/01/2002
+last-update: 10/05/2011
+source:      FRNIC
+
+ns-list:     NSL46919-FRNIC
+nserver:     dns1.maven2-max0.com
+nserver:     dns2.maven2-max0.com
+source:      FRNIC
+
+registrar:   NORDNET
+type:        Isp Option 1
+address:     111 Rue de Croix
+address:     BP 60 985
+address:     HEM
+country:     FR
+phone:       0 820 800 810
+fax-no:      +33 3 20 66 56 29
+e-mail:      contact@nordnet.net
+website:     http://www.nordnet.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     NF485-FRNIC
+type:        ROLE
+contact:     NORDNET France
+address:     Nordnet
+address:     111, rue de Croix
+address:     59510 Hem
+country:     FR
+phone:       +33 3 20 66 55 55
+e-mail:      tech-dom-fr@lerelaisinternet.com
+admin-c:     ML50-FRNIC
+admin-c:     DU11-FRNIC
+tech-c:      ML50-FRNIC
+tech-c:      DU11-FRNIC
+tech-c:      JG3094-FRNIC
+notify:      tech-dom-fr@lerelaisinternet.com
+changed:     17/08/2006 tech-dom-fr@lerelaisinternet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MFR32-FRNIC
+type:        ORGANIZATION
+contact:     Mairie Font Romeu
+address:     avenue Professeur Trombe
+address:     66120 Font-Romeu-Odeillo-Via
+country:     FR
+phone:       +33 4 68 30 10 22
+e-mail:      mairie@fontromeu.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MFR21-FRNIC
+type:        PERSON
+contact:     Mairie Font-Romeu
+address:     Mairie Font Romeu
+address:     avenue Professeur Trombe
+address:     66120 Font Romeu
+country:     FR
+phone:       +33 4 68 30 10 22
+fax-no:      +33 4 68 30 10 22
+e-mail:      mairie@fontromeu.com
+changed:     07/09/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

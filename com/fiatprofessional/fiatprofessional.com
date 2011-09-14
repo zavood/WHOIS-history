@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
+   Domain Name: FIATPROFESSIONAL.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS.ITS.IT
+   Name Server: NS1.ITS.IT
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Status: clientUpdateProhibited
+   Updated Date: 31-mar-2011
+   Creation Date: 30-mar-2007
+   Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:31:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +53,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+REGISTER.IT SPA - Whois Server Version 1.4
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-http://www.networksolutions.com/whois/index.jhtml
+     Domain name: FIATPROFESSIONAL.COM
+     Created on: 2007-03-30
+     Updated on: 2011-04-24
+     Expires on: 2012-03-30
+     Registrant Name: FIAT AUTO SPA
+     Contact: Fiat Auto Spa
+     Registrant Address: Corso Agnelli 200
+     Registrant City: Torino
+     Registrant Postal Code: 10135
+     Registrant Country: IT
+     Administrative Contact Organization: Roberto Bandoli
+     Administrative Contact Name: Roberto Bandoli
+     Administrative Contact Address: Corso Orbassano 367
+     Administrative Contact City: Torino
+     Administrative Contact Postal Code: 10137
+     Administrative Contact Country: IT
+     Administrative Contact Email: roberto.bandoli@fiat.com
+     Administrative Contact Tel: +39 011 0033673
+     Administrative Contact Fax: +39 011 0039506
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS.ITS.IT
+     Secondary Name Server Hostname: NS1.ITS.IT
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE
+&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
+

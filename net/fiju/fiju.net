@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKANDTHECORK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERCOM.COM
-   Name Server: DNS2.ENTERCOM.COM
-   Name Server: DNS3.ENTERCOM.COM
-   Name Server: DNS4.ENTERCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-aug-2011
-   Creation Date: 28-mar-2006
-   Expiration Date: 28-mar-2016
+   Domain Name: FIJU.NET
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS15.ZONEEDIT.COM
+   Name Server: NS18.ZONEEDIT.COM
+   Status: ok
+   Updated Date: 14-sep-2011
+   Creation Date: 04-sep-2003
+   Expiration Date: 04-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:30:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:29:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+fiju.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+         Damir Gabeljic  (damir+dns@integrator.hr)
+        Damir Gabeljic
+        Pod Petracom 30
+        Mlini, NONE  20207
+        HR
+        +385.98674130
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name: fiju.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkandthecork.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:20:57 EDT 2011
-Reason Code: IE
+
+Admin Contact:
+         Damir Gabeljic  (damir+dns@integrator.hr)
+        Damir Gabeljic
+        Pod Petracom 30
+        Mlini, NONE  20207
+        HR
+        +385.98674130
+
+
+Technical Contact:
+         Domain Registry  (domene@regica.net)
+        REGica.NET
+        Garicgradska 18
+        Zagreb, NONE  10000
+        HR
+        16000961
+
+
+Billing Contact:
+         Domain Registry  (domene@regica.net)
+        REGica.NET
+        Garicgradska 18
+        Zagreb, NONE  10000
+        HR
+        16000961
+
+
+
+
+   Record created on Sep 4 2003.
+   Record expires on Sep 4 2012.
+Domain servers:
+        ns15.zoneedit.com
+        ns18.zoneedit.com
+
+
+
+Domain Service Provider:
+   CA Internet d.o.o.
+   +385.16000960
+   info@regica.net
+   www.regica.net
+
+
