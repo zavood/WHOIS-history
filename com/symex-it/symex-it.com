@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NIDANAME.COM
+   Domain Name: SYMEX-IT.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.NIDANAME.COM
-   Name Server: NS2.NIDANAME.COM
+   Name Server: NS1.SYMEX-IT.COM
+   Name Server: NS2.SYMEX-IT.COM
    Status: clientTransferProhibited
-   Updated Date: 04-sep-2011
-   Creation Date: 03-oct-2009
-   Expiration Date: 03-oct-2012
+   Updated Date: 28-aug-2011
+   Creation Date: 26-sep-2009
+   Expiration Date: 26-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:25:20 UTC &lt;&lt;&lt;
 
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about nidaname.com
-&lt;a href=&quot;http://www.aboutus.org/nidaname.com&quot;&gt;AboutUs: nidaname.com&lt;/a&gt;
+Visit AboutUs.org for more information about symex-it.com
+&lt;a href=&quot;http://www.aboutus.org/symex-it.com&quot;&gt;AboutUs: symex-it.com&lt;/a&gt;
 
 
-Domain name: nidaname.com
-
-Registrant Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent ()
-
-   Fax:
-   PMB 368, 14150 NE 20th St - F1
-   C/O nidaname.com
-   Bellevue, WA 98007
-   US
+Domain name: symex-it.com
 
 Administrative Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (kksrtjcmgp@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O nidaname.com
-   Bellevue, WA 98007
+   HostEasier, Inc
+   Alex Korneyev (alex_baginsky@hosteasier.com)
+   +1.7327673680
+   Fax: +1.11
+   7061 N. Kedzie
+   Chicago, IL 60645
    US
 
 Technical Contact:
-   Whois Privacy Protection Service, Inc.
-   Whois Agent (kksrtjcmgp@whoisprivacyprotect.com)
-   +1.4252740657
-   Fax: +1.4259744730
-   PMB 368, 14150 NE 20th St - F1
-   C/O nidaname.com
-   Bellevue, WA 98007
+   HostEasier, Inc
+   Alex Korneyev (alex_baginsky@hosteasier.com)
+   +1.7327673680
+   Fax: +1.11
+   7061 N. Kedzie
+   Chicago, IL 60645
+   US
+
+Registrant Contact:
+   HostEasier, Inc
+   Alex Korneyev ()
+
+   Fax:
+   7061 N. Kedzie
+   Chicago, IL 60645
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.nidaname.com
-   ns2.nidaname.com
+   ns1.symex-it.com
+   ns2.symex-it.com
 
-Creation date: 03 Oct 2009 12:47:34
-Expiration date: 03 Oct 2012 12:47:00
+Creation date: 26 Sep 2009 08:52:02
+Expiration date: 26 Sep 2012 08:52:00
 
 
 

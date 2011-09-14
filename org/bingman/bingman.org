@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98171026-LROR
+Domain Name:BINGMAN.ORG
+Created On:17-May-2003 20:04:18 UTC
+Last Updated On:03-Dec-2009 06:13:23 UTC
+Expiration Date:17-May-2015 20:04:18 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31292850
+Registrant Name:Shem Bingman
+Registrant Street1:2914 SW 153rd Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beaverton
+Registrant State/Province:Oregon
+Registrant Postal Code:97006
+Registrant Country:US
+Registrant Phone:+1.5033568732
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shembi@hotmail.com
+Admin ID:CR31292852
+Admin Name:Shem Bingman
+Admin Street1:2914 SW 153rd Dr
+Admin Street2:
+Admin Street3:
+Admin City:Beaverton
+Admin State/Province:Oregon
+Admin Postal Code:97006
+Admin Country:US
+Admin Phone:+1.5033568732
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shembi@hotmail.com
+Tech ID:CR31292851
+Tech Name:Shem Bingman
+Tech Organization:Globat, LLC
+Tech Street1:11288 Ventura Blvd. #443b
+Tech Street2:
+Tech Street3:
+Tech City:Studio City
+Tech State/Province:California
+Tech Postal Code:91604
+Tech Country:US
+Tech Phone:+1.3234175167
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@globat.com
+Name Server:NS41.DOMAINCONTROL.COM
+Name Server:NS42.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

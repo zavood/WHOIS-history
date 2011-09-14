@@ -1,0 +1,71 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T19:25:23+12:00
+domain_name: hp.co.nz
+query_status: 200 Active
+domain_dateregistered: 2000-07-17T16:48:25+12:00
+domain_datebilleduntil: 2012-08-17T16:48:25+12:00
+domain_datelastmodified: 2011-07-16T21:14:54+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: MarkMonitor
+registrar_address1: 391 N. Ancestor Place
+registrar_city: Boise
+registrar_province: ID
+registrar_postalcode: 83704
+registrar_country: US (UNITED STATES)
+registrar_phone: +1 208 3895740
+registrar_fax: +1 208 3895771
+registrar_email: ccops@markmonitor.com
+%
+registrant_contact_name: Hewlett-Packard Company
+registrant_contact_address1: 3000 Hanover St.
+registrant_contact_city: Palo Alto
+registrant_contact_province: CA
+registrant_contact_postalcode: 94304
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +1 9 8005247638
+registrant_contact_fax: +1 9 6508522936
+registrant_contact_email: hp.domains@hp.com
+%
+admin_contact_name: Hewlett-Packard Company
+admin_contact_address1: 3000 Hanover St.
+admin_contact_city: Palo Alto
+admin_contact_province: CA
+admin_contact_postalcode: 94304
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +1 9 8005247638
+admin_contact_fax: +1 9 6508522936
+admin_contact_email: hp.domains@hp.com
+%
+technical_contact_name: Hewlett-Packard Company
+technical_contact_address1: 3000 Hanover St.
+technical_contact_city: Palo Alto
+technical_contact_province: CA
+technical_contact_postalcode: 94304
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1 9 8005247638
+technical_contact_fax: +1  6508522936
+technical_contact_email: hp.domains@hp.com
+%
+ns_name_01: nsa.hp.com
+ns_name_02: nsb.hp.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

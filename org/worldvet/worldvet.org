@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D436471-LROR
+Domain Name:WORLDVET.ORG
+Created On:24-Aug-1997 04:00:00 UTC
+Last Updated On:11-Aug-2011 20:18:49 UTC
+Expiration Date:23-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:tu5GcIV16ls28cEA
+Registrant Name:Nick Wallingford
+Registrant Organization:World Veterinary Consultants
+Registrant Street1:55 Watling St, Gate Pa
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tauranga
+Registrant State/Province:n/a
+Registrant Postal Code:n/a
+Registrant Country:NZ
+Registrant Phone:+64.75781422
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nickw@beekeeping.co.nz
+Admin ID:tu5GcIV16ls28cEA
+Admin Name:Nick Wallingford
+Admin Organization:World Veterinary Consultants
+Admin Street1:55 Watling St, Gate Pa
+Admin Street2:
+Admin Street3:
+Admin City:Tauranga
+Admin State/Province:n/a
+Admin Postal Code:n/a
+Admin Country:NZ
+Admin Phone:+64.75781422
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nickw@beekeeping.co.nz
+Tech ID:tuacDMUiLyfa6q50
+Tech Name:ArisHost Hostmaster
+Tech Organization:ArisHost, Inc.
+Tech Street1:P.O. Box 87250
+Tech Street2:NA
+Tech Street3:NA
+Tech City:Canton
+Tech State/Province:MI
+Tech Postal Code:48187
+Tech Country:US
+Tech Phone:+1.8775956376
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@arishost.com
+Name Server:NS73A.AVAHOST.NET
+Name Server:NS73B.AVAHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
