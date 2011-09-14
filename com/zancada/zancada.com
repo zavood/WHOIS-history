@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSNAPR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ZANCADA.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: DNS1.VPS.NET
+   Name Server: DNS2.VPS.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-sep-2010
-   Creation Date: 16-oct-2006
-   Expiration Date: 16-oct-2012
+   Updated Date: 17-jun-2010
+   Creation Date: 01-apr-2003
+   Expiration Date: 01-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:33:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:32:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   construktiv GmbH
+Leiva, Patricia
+   Zancada
+   Pedro de Valdivia 755 d.01
+   Providencia
+   SANTIAGO, RM 6651641
+   CL
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WEBSNAPR.COM
+   Domain Name: ZANCADA.COM
+
+   Administrative Contact:
+      Leiva, Patricia		pgomezscl@gmail.com
+      Zancada Producciones Ltda.
+      Pedro de Valdivia 755 D.01
+      Providencia
+      Santiago, RM 00000
+      CL
+      562 494 17 29
+
+
+   Record expires on 01-Apr-2013.
+   Record created on 01-Jun-2006.
+   Database last updated on 14-Sep-2011 18:23:21 EDT.
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
 
+   DNS1.VPS.NET                 67.228.254.4
+   DNS2.VPS.NET                 67.228.255.5
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WEBSNAPR.COM
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+
