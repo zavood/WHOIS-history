@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 00:42:46 2011
+
+domain:       gymcheb.cz
+registrant:   SB:GYMCHEB-CZ
+admin-c:      ROMAN_ULOVEC
+nsset:        NSS:GYMCHEB-CZ:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   29.04.2002 16:51:00
+changed:      03.05.2006 06:45:00
+expire:       28.04.2012
+
+contact:      SB:GYMCHEB-CZ
+org:          Gymnazium Cheb
+name:         Gymnazium Cheb
+address:      Nerudova 7
+address:      Cheb
+address:      350 40
+address:      CZ
+e-mail:       Ulovec@gymcheb.hiedu.cz
+registrar:    REG-INTERNET-CZ
+created:      29.04.2002 16:06:00
+
+contact:      ROMAN_ULOVEC
+name:         Roman Ulovec
+address:      Nerudova 7
+address:      Cheb
+address:      350 40
+address:      CZ
+phone:        +420 354430145
+fax-no:       +420 354430145
+e-mail:       ulovec@gymcheb.cz
+registrar:    REG-INTERNET-CZ
+created:      29.04.2002 13:56:00
+changed:      31.05.2004 08:45:00
+
+nsset:        NSS:GYMCHEB-CZ:1
+nserver:      gategym.gymcheb.cz (195.113.182.254)
+nserver:      ns.ces.net
+tech-c:       SB:GYMCHEB-CZ
+tech-c:       ROMAN_ULOVEC
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+

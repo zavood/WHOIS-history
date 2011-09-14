@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERWEAVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS20.NETRIPLEX.COM
-   Name Server: NS21.NETRIPLEX.COM
-   Name Server: NS22.NETRIPLEX.COM
-   Name Server: NS23.NETRIPLEX.COM
-   Status: clientTransferProhibited
-   Updated Date: 28-jan-2009
-   Creation Date: 13-dec-1993
-   Expiration Date: 12-dec-2011
+   Domain Name: WXSET.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: ok
+   Updated Date: 24-aug-2011
+   Creation Date: 12-sep-2008
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 wuxi shi saierte hange shebei youxian gongsi sales@juntong.net +86.51083051583
+	 wuxi shi saierte hange shebei youxian gongsi
+	 jiangsu wuxi hui shan qu ou tang bei lu 121#
+	 wuxi,Jiangsu,CN 214000
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: interweave.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:31:28 EDT 2011
-Reason Code: IE
+Domain Name:wxset.com
+Record last updated at 2011-08-24 05:33:05
+Record created on 2008/9/12
+Record expired on 2012/9/12
+
+
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
+
+Administrator:
+	 name:(bian ke fei)
+	Email:(sales@juntong.net) tel-- +86.51083051583
+	 wuxi shi saierte hange shebei youxian gongsi
+	 jiangsu wuxi hui shan qu ou tang bei lu 121#
+\r
+t wuxi
+Jiangsu,
+CN
+
+ zipcode:214000
+
+Technical Contactor:
+	 name:(bian ke fei)
+	Email:(sales@juntong.net) tel-- +86.51083051583
+	 wuxi shi saierte hange shebei youxian gongsi
+	 jiangsu wuxi hui shan qu ou tang bei lu 121#
+\r
+t wuxi
+Jiangsu,
+CN
+
+ zipcode:214000
+
+Billing Contactor:
+	 name:(bian ke fei)
+	Email:(sales@juntong.net) tel-- +86.51083051583
+	 wuxi shi saierte hange shebei youxian gongsi
+	 jiangsu wuxi hui shan qu ou tang bei lu 121#
+\r
+t wuxi
+Jiangsu,
+CN
+
+ zipcode:214000
+

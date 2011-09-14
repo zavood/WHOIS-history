@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 25-may-1999
    Expiration Date: 25-may-2020
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,5 +72,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: albawaba.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:44:10 EDT 2011
+Date and Time of Query: Wed Sep 14 18:36:14 EDT 2011
 Reason Code: IE

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERWEAVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS20.NETRIPLEX.COM
-   Name Server: NS21.NETRIPLEX.COM
-   Name Server: NS22.NETRIPLEX.COM
-   Name Server: NS23.NETRIPLEX.COM
+   Domain Name: GARD-TURISMO.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INTERNET-FR.NET
+   Name Server: NS2.INTERNET-FR.NET
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2009
-   Creation Date: 13-dec-1993
-   Expiration Date: 12-dec-2011
+   Updated Date: 18-jul-2011
+   Creation Date: 18-nov-2010
+   Expiration Date: 18-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:42:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: interweave.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:31:28 EDT 2011
-Reason Code: IE
+Domain Name : GARD-TURISMO.COM
+Created On : 2010-11-18
+Expiration Date : 2011-11-18
+Status : PROTECTED
+Registrant Name : OFFICE DEPARTEMENTAL TOURISME du Gard
+Registrant Street1 : 3 place des Arenes
+Registrant City : Nimes
+Registrant State/Province  :
+Registrant Postal Code : 30000
+Registrant Country : FR
+Admin Name : Constellation France
+Admin Street1 : 9 rue Fran?ois Tanguy-Prigent
+Admin City : RENNES
+Admin State/Province : FR
+Admin Postal Code : 35000
+Admin Country : FR
+Admin Phone : +33.0223304000
+Admin Email : dom-adm@enjoyconstellation.com
+Tech Name : Constellation France
+Tech Street1 : 9 rue Fran?ois Tanguy-Prigent
+Tech City : RENNES
+Tech State/Province : FR
+Tech Postal Code : 35000
+Tech Country : FR
+Tech Phone : +33.0223304000
+Tech Email : dom-adm@enjoyconstellation.com
+Billing Name : Constellation France
+Billing Street1 : 9 rue Fran?ois Tanguy-Prigent
+Billing City : RENNES
+Billing State/Province : FR
+Billing Postal Code : 35000
+Billing Country : FR
+Billing Phone : +33.0223304000
+Billing Email : dom-adm@enjoyconstellation.com
+Name Server : NS1.INTERNET-FR.NET
+Name Server : NS2.INTERNET-FR.NET
+Registrar Name : Namebay

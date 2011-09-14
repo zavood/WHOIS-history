@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92648847-LROR
+Domain Name:CLUBWINS.ORG
+Created On:28-Nov-2002 14:12:16 UTC
+Last Updated On:07-May-2011 23:06:48 UTC
+Expiration Date:28-Nov-2011 14:12:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30220036
+Registrant Name:CLUB WINS
+Registrant Organization:CLUB WINS
+Registrant Street1:Le Floreal
+Registrant Street2:Quartier Des Capucins
+Registrant Street3:
+Registrant City:LISLE SUR LA SORGUE
+Registrant State/Province:
+Registrant Postal Code:84800
+Registrant Country:FR
+Registrant Phone:+1.33490215761
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:club.wins@laposte.net
+Admin ID:CR30220040
+Admin Name:CLUB WINS
+Admin Organization:CLUB WINS
+Admin Street1:Le Floreal
+Admin Street2:Quartier Des Capucins
+Admin Street3:
+Admin City:LISLE SUR LA SORGUE
+Admin State/Province:
+Admin Postal Code:84800
+Admin Country:FR
+Admin Phone:+1.33490215761
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:club.wins@laposte.net
+Tech ID:CR30220038
+Tech Name:AMEN.FR AMEN.FR
+Tech Organization:AMEN.FR
+Tech Street1:12-14, rond point des Champs Elysees
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75008
+Tech Country:FR
+Tech Phone:+1.33892556677
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:internic@amen.fr
+Name Server:DNS1.MAVEN2-19.COM
+Name Server:DNS2.MAVEN2-19.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

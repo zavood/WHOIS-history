@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERWEAVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS20.NETRIPLEX.COM
-   Name Server: NS21.NETRIPLEX.COM
-   Name Server: NS22.NETRIPLEX.COM
-   Name Server: NS23.NETRIPLEX.COM
+   Domain Name: BANANAWARS.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS3.NIC.RU
+   Name Server: NS4.NIC.RU
+   Name Server: NS8.NIC.RU
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2009
-   Creation Date: 13-dec-1993
-   Expiration Date: 12-dec-2011
+   Updated Date: 19-oct-2010
+   Creation Date: 21-oct-2003
+   Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:42:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain name:             BANANAWARS.COM
+Name Server:             ns3.nic.ru
+Name Server:             ns4.nic.ru
+Name Server:             ns8.nic.ru
+Creation Date:           2003.10.21
+Expiration Date:         2011.10.21
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Status:                  DELEGATED
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant ID:           5BQG0PA-RU
+Registrant Name:         Dmitry A Terekhin
+Registrant Organization: Dmitry A Terekhin
+Registrant Street1:      Maliy peschany per., 4,
+Registrant Street1:      office 5
+Registrant City:         Moscow
+Registrant Postal Code:  125057
+Registrant Country:      RU
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative, Technical Contact
+Contact ID:              5BQG0PA-RU
+Contact Name:            Dmitry A Terekhin
+Contact Organization:    Dmitry A Terekhin
+Contact Street1:         Maliy peschany per., 4,
+Contact Street1:         office 5
+Contact City:            Moscow
+Contact Postal Code:     125057
+Contact Country:         RU
+Contact Phone:           +7 499 1581336
+Contact E-mail:          info@nekki.ru
 
-Whois Query: interweave.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:31:28 EDT 2011
-Reason Code: IE
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+
+Last updated on 2011.09.15 02:42:59 MSK/MSD
+

@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOCALPAGES.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NO-IP.COM
-   Name Server: NS2.NO-IP.COM
-   Name Server: NS3.NO-IP.COM
-   Name Server: NS4.NO-IP.COM
-   Name Server: NS5.NO-IP.COM
-   Status: clientTransferProhibited
-   Updated Date: 23-jul-2009
-   Creation Date: 09-feb-1996
-   Expiration Date: 10-feb-2014
+   Domain Name: FUNDINGYOURDREAM.COM
+   Registrar: ABOVE.COM PTY LTD.
+   Whois Server: whois.above.com
+   Referral URL: http://www.above.com
+   Name Server: NS3.ABOVE.COM
+   Name Server: NS4.ABOVE.COM
+   Status: ok
+   Updated Date: 26-aug-2011
+   Creation Date: 26-aug-2011
+   Expiration Date: 26-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:42:15 UTC &lt;&lt;&lt;
 
@@ -54,23 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registration Service Provided By: ABOVE.COM, PTY. LTD.
+Contact: +613.95897946
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    Domain Name: FUNDINGYOURDREAM.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+    Registrant:
+        Above.com Domain Privacy
+        8 East concourse
 
-http://www.networksolutions.com/whois/index.jhtml
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+    Creation date: 2011-08-27
+    Expiration Date: 2012-08-27
 
-Whois Query: localpages.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:32:14 EDT 2011
-Reason Code: IE
+    Domain servers in listed order:
+        ns3.above.com
+        ns4.above.com
+
+    Administrative Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Technical Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Billing Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
+

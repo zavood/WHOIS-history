@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INTERWEAVE.COM
+   Domain Name: GATEWAYVIRGINIA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS20.NETRIPLEX.COM
-   Name Server: NS21.NETRIPLEX.COM
-   Name Server: NS22.NETRIPLEX.COM
-   Name Server: NS23.NETRIPLEX.COM
+   Name Server: NS1.MEDIAGENERAL.NET
+   Name Server: NS2.MEDIAGENERAL.NET
    Status: clientTransferProhibited
-   Updated Date: 28-jan-2009
-   Creation Date: 13-dec-1993
-   Expiration Date: 12-dec-2011
+   Updated Date: 28-dec-2010
+   Creation Date: 13-jan-1998
+   Expiration Date: 12-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:40:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:41:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: interweave.com
+Whois Query: gatewayvirginia.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:31:28 EDT 2011
+Date and Time of Query: Wed Sep 14 18:32:02 EDT 2011
 Reason Code: IE
