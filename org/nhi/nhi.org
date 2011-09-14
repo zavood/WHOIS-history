@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D64227-LROR
+Domain Name:NHI.ORG
+Created On:19-Apr-1995 04:00:00 UTC
+Last Updated On:20-Feb-2011 19:51:17 UTC
+Expiration Date:20-Apr-2013 04:00:00 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C00002B748
+Registrant Name:Harold Simon
+Registrant Organization:National Housing Institute
+Registrant Street1:60 S. Fullerton Ave., #206
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montclair
+Registrant State/Province:NJ
+Registrant Postal Code:07042
+Registrant Country:US
+Registrant Phone:+1.9735091600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dfb68b6f0b28acc8af08deb3792cf11b500a3ab7@whois.gkg.net
+Admin ID:GKG-C00002B748
+Admin Name:Harold Simon
+Admin Organization:National Housing Institute
+Admin Street1:60 S. Fullerton Ave., #206
+Admin Street2:
+Admin Street3:
+Admin City:Montclair
+Admin State/Province:NJ
+Admin Postal Code:07042
+Admin Country:US
+Admin Phone:+1.9735091600
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dfb68b6f0b28acc8af08deb3792cf11b500a3ab7@whois.gkg.net
+Tech ID:GKG-C0000167F5
+Tech Name:Seamus Holman
+Tech Organization:Gridwork Design
+Tech Street1:4715 S. Lucile St.
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98118
+Tech Country:US
+Tech Phone:+1.2063192613
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:a158edb3289fc8af636df6c59466a9de49edb446@whois.gkg.net
+Name Server:NS2.GIPPY.NET
+Name Server:NS1.GIPPY.NET
+Name Server:NS3.GIPPY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
