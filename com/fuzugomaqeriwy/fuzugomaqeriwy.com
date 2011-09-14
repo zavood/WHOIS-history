@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Domain Name: FUZUGOMAQERIWY.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.FUZUGOMAQERIWY.COM
+   Name Server: NS2.FUZUGOMAQERIWY.COM
+   Status: clientTransferProhibited
+   Updated Date: 04-apr-2011
+   Creation Date: 03-apr-2011
+   Expiration Date: 03-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:33:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
-Domain name: arvixe.com
-
-Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
-
-Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
-
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Registrant:
+	 Liliya Akhmadullina hush@bz3.ru +7.8124384111
+	 Liliya Akhmadullina
+	 ul.Shotmana d.7-1 lit.3 pom.13N
+	 Sankt-Peterburg,Sankt-Peterburg,RU 193076
 
 
+Domain Name:fuzugomaqeriwy.com
+Record last updated at
+Record created on 2011/4/3
+Record expired on 2012/4/3
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain servers in listed order:
+	 ns1.fuzugomaqeriwy.com 	 ns2.fuzugomaqeriwy.com
+
+Administrator:
+	 name: Liliya Akhmadullina
+ mail: hush@bz3.ru tel: +7.8124384111
+	 org: Liliya Akhmadullina
+
+address: ul.Shotmana d.7-1 lit.3 pom.13N
+	 city: Sankt-Peterburg
+,province: Sankt-Peterburg
+,country: RU
+ postcode: 193076
+
+Technical Contactor:
+	 name: Liliya Akhmadullina
+ mail: hush@bz3.ru tel: +7.8124384111
+	 org: Liliya Akhmadullina
+
+address: ul.Shotmana d.7-1 lit.3 pom.13N
+	 city: Sankt-Peterburg
+,province: Sankt-Peterburg
+,country: RU
+ postcode: 193076
+
+Billing Contactor:
+	 name: Liliya Akhmadullina
+ mail: hush@bz3.ru tel: +7.8124384111
+	 org: Liliya Akhmadullina
+
+address: ul.Shotmana d.7-1 lit.3 pom.13N
+	 city: Sankt-Peterburg
+,province: Sankt-Peterburg
+,country: RU
+ postcode: 193076
+

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Domain Name: CELEBRITYBACKSTAGE.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1057.HOSTGATOR.COM
+   Name Server: NS1058.HOSTGATOR.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 05-jun-2011
+   Creation Date: 09-jul-2009
+   Expiration Date: 09-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:33:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +53,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+
+REGISTER.IT SPA - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: CELEBRITYBACKSTAGE.COM
+     Created on: 2010-02-02
+     Updated on: 2011-06-05
+     Expires on: 2012-07-09
+     Registrant Name: ANDREW MACDONALD
+     Contact: Andrew MacDonald
+     Registrant Address: 647a High Road
+     Registrant City: London
+     Registrant Postal Code: N17 8AA
+     Registrant Country: GB
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS1057.HOSTGATOR.COM
+     Secondary Name Server Hostname: NS1058.HOSTGATOR.COM
 
 
-Domain name: arvixe.com
+&gt;&gt;&gt; Last update of whois database: Wed Sep 14 22:04:04 2011 &lt;&lt;&lt;
 
-Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
-
-Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
-
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

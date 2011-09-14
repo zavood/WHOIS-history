@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Domain Name: NBABASKETBALLSHOES.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   Status: clientTransferProhibited
+   Updated Date: 28-oct-2010
+   Creation Date: 10-jul-2009
+   Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
 
+Domain Name.......... nbabasketballshoes.com
+  Creation Date........ 2009-07-10 14:00:59
+  Registration Date.... 2009-07-10 14:00:59
+  Expiry Date.......... 2012-07-10 14:00:59
+  Organisation Name.... Sean
+  Organisation Address. 3241 Adamsville Road North
+  Organisation Address.
+  Organisation Address. ct 989 cantonment
+  Organisation Address. 527880
+  Organisation Address. WG
+  Organisation Address. US
 
-Domain name: arvixe.com
+Admin Name........... Sean
+  Admin Address........ 3241 Adamsville Road North
+  Admin Address........
+  Admin Address........ ct 989 cantonment
+  Admin Address........ 527880
+  Admin Address........ WG
+  Admin Address........ US
+  Admin Email.......... s.a_allen@yahoo.co.uk
+  Admin Phone.......... +26.25638609183
+  Admin Fax............ +26.25638609183
 
-Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
+Tech Name............ Sean
+  Tech Address......... 3241 Adamsville Road North
+  Tech Address.........
+  Tech Address......... ct 989 cantonment
+  Tech Address......... 527880
+  Tech Address......... WG
+  Tech Address......... US
+  Tech Email........... s.a_allen@yahoo.co.uk
+  Tech Phone........... +26.25638609183
+  Tech Fax............. +26.25638609183
 
-Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
-
-Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
-
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Bill Name............ Sean
+  Bill Address......... 3241 Adamsville Road North
+  Bill Address.........
+  Bill Address......... ct 989 cantonment
+  Bill Address......... 527880
+  Bill Address......... WG
+  Bill Address......... US
+  Bill Email........... s.a_allen@yahoo.co.uk
+  Bill Phone........... +26.25638609183
+  Bill Fax............. +26.25638609183
+  Name Server.......... f1g1ns2.dnspod.net
+  Name Server.......... f1g1ns1.dnspod.net

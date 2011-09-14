@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
+   Domain Name: MARKETHARDWARE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
+   Status: clientTransferProhibited
+   Updated Date: 09-jun-2011
+   Creation Date: 05-jun-2003
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:33:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+Visit AboutUs.org for more information about markethardware.com
+&lt;a href=&quot;http://www.aboutus.org/markethardware.com&quot;&gt;AboutUs: markethardware.com&lt;/a&gt;
 
 
-Domain name: arvixe.com
+Domain name: markethardware.com
+
+Registrant Contact:
+   MarketHardware
+   Technical Support ()
+
+   Fax:
+   7200WisconsinAv
+   Suite300
+   Bethesda,  20814
+   UNITEDSTATES
 
 Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
+   Market Hardware
+   Technical Support (domains@markethardware.com)
+   +1.3012637000
    Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   7200 Wisconsin Av
+   Suite 300
+   Bethesda, MD 20814
    US
 
 Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
+   Market Hardware
+   Technical Support (domains@markethardware.com)
+   +1.3012637000
    Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   7200 Wisconsin Av
+   Suite 300
+   Bethesda, MD 20814
    US
 
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
+   NS1.MYDYNDNS.ORG
+   NS2.MYDYNDNS.ORG
+   NS3.MYDYNDNS.ORG
+   NS4.MYDYNDNS.ORG
+   NS5.MYDYNDNS.ORG
 
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Creation date: 05 Jun 2003 19:11:00
+Expiration date: 05 Jun 2012 19:11:00
 
 
 

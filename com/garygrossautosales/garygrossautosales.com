@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
+   Domain Name: GARYGROSSAUTOSALES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
+   Status: clientTransferProhibited
+   Updated Date: 05-feb-2011
+   Creation Date: 22-jan-2008
+   Expiration Date: 22-jan-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
 
@@ -52,47 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+Visit AboutUs.org for more information about garygrossautosales.com
+&lt;a href=&quot;http://www.aboutus.org/garygrossautosales.com&quot;&gt;AboutUs: garygrossautosales.com&lt;/a&gt;
 
 
-Domain name: arvixe.com
+Domain name: garygrossautosales.com
+
+Registrant Contact:
+   gary gross auto sales
+   NA NA ()
+
+   Fax:
+   4000 cornhusker hwy
+   lincoln, NE 68504
+   US
 
 Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   NA
+   gary gross (jvontz@gmail.com)
+   466 5351
+   Fax: 466 4659
+   4000 cornhusker hwy
+   lincoln, NE 68504
    US
 
 Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
+   NA
+   Vontz Jeremy (jvontz@gmail.com)
+   +1.4028171784
    Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   420 S 5th
+   Beatrice, NE 68310
    US
 
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
+   NS1.EAPPS.COM
+   NS2.EAPPS.COM
 
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Creation date: 22 Jan 2008 22:46:00
+Expiration date: 22 Jan 2013 22:46:00
 
 
 

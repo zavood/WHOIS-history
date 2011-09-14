@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
+   Domain Name: BIRDSEYESEARCH.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 24-oct-2010
+   Creation Date: 23-nov-2005
+   Expiration Date: 23-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +56,56 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+Visit AboutUs.org for more information about birdseyesearch.com
+&lt;a href=&quot;http://www.aboutus.org/birdseyesearch.com&quot;&gt;AboutUs: birdseyesearch.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: arvixe.com
+Domain name: birdseyesearch.com
+
+Registrant Contact:
+   DROdio, LLC
+   Daniel Odio ()
+
+   Fax:
+   1300 Evans Avenue
+   Suite 7334-101684
+   San Francisco, CA 94120
+   US
 
 Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   DROdio, LLC
+   Daniel Odio (daniel@drodio.com)
+   +1.2022503846
+   Fax: n/a
+   1300 Evans Avenue
+   Suite 7334-101684
+   San Francisco, CA 94120
    US
 
 Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   DROdio, LLC
+   Daniel Odio (daniel@drodio.com)
+   +1.2022503846
+   Fax: n/a
+   1300 Evans Avenue
+   Suite 7334-101684
+   San Francisco, CA 94120
    US
 
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Creation date: 23 Nov 2005 16:55:28
+Expiration date: 23 Nov 2011 16:55:28
 
 
 

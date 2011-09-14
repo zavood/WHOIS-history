@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVIXE.COM
+   Domain Name: AEROTICSTORIES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: ELECTRON.ARVIXE.COM
-   Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
-   Creation Date: 27-jun-2003
-   Expiration Date: 27-jun-2013
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 05-apr-2011
+   Creation Date: 04-may-2004
+   Expiration Date: 04-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:34:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:33:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +56,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about arvixe.com
-&lt;a href=&quot;http://www.aboutus.org/arvixe.com&quot;&gt;AboutUs: arvixe.com&lt;/a&gt;
+Visit AboutUs.org for more information about aeroticstories.com
+&lt;a href=&quot;http://www.aboutus.org/aeroticstories.com&quot;&gt;AboutUs: aeroticstories.com&lt;/a&gt;
 
 
-Domain name: arvixe.com
+Domain name: aeroticstories.com
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O aeroticstories.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (trcykjfcgx@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O aeroticstories.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Arvixe, LLC
-   Arvand Sabetian (domains@arvixe.com)
-   +1.8889278493
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (trcykjfcgx@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O aeroticstories.com
+   Bellevue, WA 98007
    US
 
-Registrant Contact:
-   Arvixe, LLC
-   Arvand Sabetian ()
-
-   Fax:
-   PO Box 9202
-   Santa Rosa, CA 95405
-   US
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   electron.arvixe.com
-   neutron.arvixe.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 27 Jun 2003 08:05:00
-Expiration date: 27 Jun 2013 08:05:00
+Creation date: 04 May 2004 20:19:44
+Expiration date: 04 May 2012 20:19:00
 
 
 
