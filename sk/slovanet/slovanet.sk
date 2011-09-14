@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         slovanet.sk
+Admin-id            SLOV-0004
+Admin-name          SLOVANET, a.s.
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       35765143
+Admin-address       Zahradnicka 151, Bratislava 82108
+Admin-telephone     02/20828693, 02/20828111
+Admin-email         dns@slovanet.sk
+Tech-id             SLOV-0004
+Tech-name           SLOVANET, a.s.
+Tech-org.-ID        35765143
+Tech-address        Zahradnicka 151, Bratislava 82108
+Tech-telephone      02/20828693, 02/20828111
+Tech-email          dns@slovanet.sk
+dns_name            ns.slovanet.net
+dns_name            ns1.slovanet.net
+Last-update         2011-04-28
+Valid-date          2012-05-25
+Domain-status       DOM_OK
+

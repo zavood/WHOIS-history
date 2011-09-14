@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTTRACK.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Domain Name: T6SEXY.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.NEXYLAN.NET
+   Name Server: NX1119.NEXYLAN.NET
    Status: clientTransferProhibited
-   Updated Date: 15-dec-2008
-   Creation Date: 29-jun-2000
-   Expiration Date: 29-jun-2012
+   Updated Date: 09-aug-2011
+   Creation Date: 24-aug-2009
+   Expiration Date: 24-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:45:06 UTC &lt;&lt;&lt;
 
@@ -55,23 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about t6sexy.com
+&lt;a href=&quot;http://www.aboutus.org/t6sexy.com&quot;&gt;AboutUs: t6sexy.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: t6sexy.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
 
-Whois Query: directtrack.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:35:12 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (20e12a55f77b4afdae42477fd7fc6904.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (20e12a55f77b4afdae42477fd7fc6904.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Locked
+
+Name Servers:
+   ns.nexylan.net
+   nx1119.nexylan.net
+
+Creation date: 24 Aug 2009 13:59:03
+Expiration date: 24 Aug 2012 13:59:03
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

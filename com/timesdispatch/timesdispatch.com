@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CVFUTURO.COM
+   Domain Name: TIMESDISPATCH.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SPRO.NET
-   Name Server: NS2.SPRO.NET
+   Name Server: NS1.MEDIAGENERAL.NET
+   Name Server: NS2.MEDIAGENERAL.NET
    Status: clientTransferProhibited
-   Updated Date: 08-feb-2011
-   Creation Date: 28-feb-2000
-   Expiration Date: 28-feb-2013
+   Updated Date: 02-jan-2011
+   Creation Date: 16-jan-1997
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:44:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:45:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cvfuturo.com
+Whois Query: timesdispatch.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:40:16 EDT 2011
+Date and Time of Query: Wed Sep 14 07:35:31 EDT 2011
 Reason Code: IE
