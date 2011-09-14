@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TPGACTIVATIONS.COM
+   Domain Name: SOLEDELIVERY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS.TPGSYS.COM
-   Name Server: NS2.EL.NET
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-jun-2009
-   Creation Date: 12-aug-2008
-   Expiration Date: 12-aug-2013
+   Updated Date: 20-feb-2011
+   Creation Date: 20-feb-2011
+   Expiration Date: 20-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:42:34 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   TPG Rewards
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TPGACTIVATIONS.COM
+   Domain Name: SOLEDELIVERY.COM
 
    Domain servers in listed order:
-      NS.TPGSYS.COM
-      NS2.EL.NET
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TPGACTIVATIONS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SOLEDELIVERY.COM

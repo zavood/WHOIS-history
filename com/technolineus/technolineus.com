@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 21-feb-2009
    Expiration Date: 21-feb-2020
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 04:13:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:42:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Technoline
-   445 Industrial Rd
-   Carlstadt, New Jersey 07072
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TECHNOLINEUS.COM
-      Created on: 21-Feb-09
-      Expires on: 21-Feb-20
-      Last Updated on: 01-Jan-11
-
-   Administrative Contact:
-      LLC, Technoline  info@technolineus.com
-      Technoline
-      445 Industrial Rd
-      Carlstadt, New Jersey 07072
-      United States
-      +1.2014869616      Fax -- +1.2014869616
-
-   Technical Contact:
-      LLC, Technoline  info@technolineus.com
-      Technoline
-      445 Industrial Rd
-      Carlstadt, New Jersey 07072
-      United States
-      +1.2014869616      Fax -- +1.2014869616
 
    Domain servers in listed order:
       NS19.DOMAINCONTROL.COM
       NS20.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TECHNOLINEUS.COM

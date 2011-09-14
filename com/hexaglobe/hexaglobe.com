@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 07-jan-2004
    Expiration Date: 07-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:20:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:42:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 23:21:04 CEST
-# gmt time      : Monday, 12-Sep-2011 21:21:04 GMT
+# local time    : Wednesday, 14-Sep-2011 11:43:15 CEST
+# gmt time      : Wednesday, 14-Sep-2011 09:43:15 GMT
 # last modify   : Monday, 08-Aug-2011 18:00:13 CEST
-# request from  : 192.168.248.3:4135
+# request from  : 192.168.248.3:58783
 
 Domain name: hexaglobe.com
 

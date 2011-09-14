@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TPGACTIVATIONS.COM
+   Domain Name: ISIT2SOON.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS.TPGSYS.COM
-   Name Server: NS2.EL.NET
+   Name Server: NS1.ONESTARMEDIAHOSTING.NET
+   Name Server: NS2.ONESTARMEDIAHOSTING.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-jun-2009
-   Creation Date: 12-aug-2008
-   Expiration Date: 12-aug-2013
+   Updated Date: 25-oct-2010
+   Creation Date: 25-sep-2007
+   Expiration Date: 25-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:42:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:40:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   TPG Rewards
+   The George Washington University
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TPGACTIVATIONS.COM
+   Domain Name: ISIT2SOON.COM
 
    Domain servers in listed order:
-      NS.TPGSYS.COM
-      NS2.EL.NET
+      NS1.ONESTARMEDIAHOSTING.NET
+      NS2.ONESTARMEDIAHOSTING.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TPGACTIVATIONS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ISIT2SOON.COM
