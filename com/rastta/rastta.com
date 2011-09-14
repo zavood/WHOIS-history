@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 33LDH1.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-apr-2011
-   Creation Date: 25-apr-2011
-   Expiration Date: 25-apr-2012
+   Domain Name: RASTTA.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: NS6.LUNARPAGES.COM
+   Name Server: NS7.LUNARPAGES.COM
+   Status: ok
+   Updated Date: 30-aug-2011
+   Creation Date: 30-aug-2001
+   Expiration Date: 30-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:06:05 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Aplus.net makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Aplus.net (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   wang xia
+   Registrant:
+      Joe Lucchio
+      Joe Lucchio
+      1
+      1, NY 1
+      US
+      Phone: +1.1111111111
+      Email: jlucchio@sbcglobal.net
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 33LDH1.COM
+
+   Domain Name: rastta.com
+
+   Administrative Contact:
+      Joe Lucchio
+      Joe Lucchio
+      1
+      1, NY 1
+      US
+      Phone: +1.1111111111
+      Email: jlucchio@sbcglobal.net
+
+
+   Technical  Contact:
+      Joe Lucchio
+      Joe Lucchio
+      1
+      1, NY 1
+      US
+      Phone: +1.1111111111
+      Email: jlucchio@sbcglobal.net
+
+
+   Registrar of Record:
+      Hostopia.com Inc. d/b/a Aplus.net, www.aplus.net
+      Record last updated on 2011-08-30
+      Record expires on 2012-08-30
+      Record created on 2001-08-30
 
    Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+      ns6.lunarpages.com
+      ns7.lunarpages.com
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=33LDH1.COM
+Visit AboutUs.org for more information about rastta.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/rastta.com&quot;&gt;AboutUs: rastta.com&lt;/A&gt;
+
+Register your domain name at http://www.aplus.net
+
+

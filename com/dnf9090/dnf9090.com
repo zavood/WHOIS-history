@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 33LDH1.COM
+   Domain Name: DNF9090.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Name Server: NS69.DOMAINCONTROL.COM
+   Name Server: NS70.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-apr-2011
-   Creation Date: 25-apr-2011
-   Expiration Date: 25-apr-2012
+   Updated Date: 21-jun-2011
+   Creation Date: 05-sep-2010
+   Expiration Date: 05-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:06:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:06:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   wang xia
+   ji mao
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 33LDH1.COM
+   Domain Name: DNF9090.COM
 
    Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+      NS69.DOMAINCONTROL.COM
+      NS70.DOMAINCONTROL.COM
+      NS25.DOMAINCONTROL.COM
+      NS26.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=33LDH1.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DNF9090.COM
