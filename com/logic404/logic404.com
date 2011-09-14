@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRABSTREAM.COM
-   Registrar: KEY-SYSTEMS GMBH
-   Whois Server: whois.rrpproxy.net
-   Referral URL: http://www.key-systems.net
-   Name Server: NS1.DZIMI.EU
-   Name Server: NS2.DZIMI.EU
-   Status: ok
-   Updated Date: 21-apr-2011
-   Creation Date: 12-oct-2010
-   Expiration Date: 12-oct-2011
+   Domain Name: LOGIC404.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS1.LOGIC404.COM
+   Name Server: NS2.LOGIC404.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-apr-2011
+   Creation Date: 13-apr-2003
+   Expiration Date: 13-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:37:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:39:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by Michau Enterprises Limited
-; for information purposes, and to assist persons obtaining information
-; about or related to domain name registration records.
-; Michau Enterprises Limited does not guarantee its accuracy.
-; By submitting a WHOIS query, you agree that you will use this data
-; only for lawful purposes and that, under no circumstances, you will
-; use this data to
-; 1) allow, enable, or otherwise support the transmission of mass
-;    unsolicited, commercial advertising or solicitations via E-mail
-;    (spam); or
-; 2) enable high volume, automated, electronic processes that apply
-;    to this WHOIS server.
-; These terms may be changed without prior notice.
-; By submitting this query, you agree to abide by this policy.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-DOMAIN: GRABSTREAM.COM
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
-RSP: Michau Enterprises Limited
-URL: http://www.dropped.pl
 
-owner-contact: P-DPP791
-owner-fname: Darek
-owner-lname: Plazuk
-owner-street: Legionow Dabrowskiego 13/10
-owner-city: Miejscowosc Szczecin
-owner-zip: 70-337
-owner-country: PL
-owner-phone: +48.600267200
-owner-email: darek@plazuk.pl
+Registrant:
+   logic404
 
-admin-contact: P-DPP791
-admin-fname: Darek
-admin-lname: Plazuk
-admin-street: Legionow Dabrowskiego 13/10
-admin-city: Miejscowosc Szczecin
-admin-zip: 70-337
-admin-country: PL
-admin-phone: +48.600267200
-admin-email: darek@plazuk.pl
+   Registered through: Domains Priced Right
+   Domain Name: LOGIC404.COM
 
-tech-contact: P-DPP791
-tech-fname: Darek
-tech-lname: Plazuk
-tech-street: Legionow Dabrowskiego 13/10
-tech-city: Miejscowosc Szczecin
-tech-zip: 70-337
-tech-country: PL
-tech-phone: +48.600267200
-tech-email: darek@plazuk.pl
+   Domain servers in listed order:
+      NS1.LOGIC404.COM
+      NS2.LOGIC404.COM
 
-billing-contact: P-DPP791
-billing-fname: Darek
-billing-lname: Plazuk
-billing-street: Legionow Dabrowskiego 13/10
-billing-city: Miejscowosc Szczecin
-billing-zip: 70-337
-billing-country: PL
-billing-phone: +48.600267200
-billing-email: darek@plazuk.pl
 
-nameserver: ns1.dzimi.eu
-nameserver: ns2.dzimi.eu
-
-; Please register your domains at
-; http://www.dropped.pl
-
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=LOGIC404.COM&amp;prog_id=domainspricedright

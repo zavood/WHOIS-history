@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRABSTREAM.COM
-   Registrar: KEY-SYSTEMS GMBH
-   Whois Server: whois.rrpproxy.net
-   Referral URL: http://www.key-systems.net
-   Name Server: NS1.DZIMI.EU
-   Name Server: NS2.DZIMI.EU
-   Status: ok
-   Updated Date: 21-apr-2011
-   Creation Date: 12-oct-2010
-   Expiration Date: 12-oct-2011
+   Domain Name: FSYMBOLS.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-dec-2010
+   Creation Date: 31-jan-2010
+   Expiration Date: 31-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:37:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:39:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by Michau Enterprises Limited
-; for information purposes, and to assist persons obtaining information
-; about or related to domain name registration records.
-; Michau Enterprises Limited does not guarantee its accuracy.
-; By submitting a WHOIS query, you agree that you will use this data
-; only for lawful purposes and that, under no circumstances, you will
-; use this data to
-; 1) allow, enable, or otherwise support the transmission of mass
-;    unsolicited, commercial advertising or solicitations via E-mail
-;    (spam); or
-; 2) enable high volume, automated, electronic processes that apply
-;    to this WHOIS server.
-; These terms may be changed without prior notice.
-; By submitting this query, you agree to abide by this policy.
+Domain Name: fsymbols.com
+Registered at http://www.dynadot.com
 
-DOMAIN: GRABSTREAM.COM
+Registrant:
+Dmytro Menshykov
+Karadzhycha St. 16/79
+Lviv, Lvivs'ka oblast' 79054
+Ukraine
 
-RSP: Michau Enterprises Limited
-URL: http://www.dropped.pl
+Administrative Contact:
+Dmytro Menshykov
+Karadzhycha St. 16/79
+Lviv, Lvivs'ka oblast' 79054
+Ukraine
+menshykov@gmail.com
++38 0322629555
 
-owner-contact: P-DPP791
-owner-fname: Darek
-owner-lname: Plazuk
-owner-street: Legionow Dabrowskiego 13/10
-owner-city: Miejscowosc Szczecin
-owner-zip: 70-337
-owner-country: PL
-owner-phone: +48.600267200
-owner-email: darek@plazuk.pl
+Technical Contact:
+Dmytro Menshykov
+Karadzhycha St. 16/79
+Lviv, Lvivs'ka oblast' 79054
+Ukraine
+menshykov@gmail.com
++38 0322629555
 
-admin-contact: P-DPP791
-admin-fname: Darek
-admin-lname: Plazuk
-admin-street: Legionow Dabrowskiego 13/10
-admin-city: Miejscowosc Szczecin
-admin-zip: 70-337
-admin-country: PL
-admin-phone: +48.600267200
-admin-email: darek@plazuk.pl
+Record expires on 2012/01/31 UTC
+Record created on 2010/01/31 UTC
 
-tech-contact: P-DPP791
-tech-fname: Darek
-tech-lname: Plazuk
-tech-street: Legionow Dabrowskiego 13/10
-tech-city: Miejscowosc Szczecin
-tech-zip: 70-337
-tech-country: PL
-tech-phone: +48.600267200
-tech-email: darek@plazuk.pl
+Domain servers in listed order:
+ns1.dynadot.com
+ns2.dynadot.com
 
-billing-contact: P-DPP791
-billing-fname: Darek
-billing-lname: Plazuk
-billing-street: Legionow Dabrowskiego 13/10
-billing-city: Miejscowosc Szczecin
-billing-zip: 70-337
-billing-country: PL
-billing-phone: +48.600267200
-billing-email: darek@plazuk.pl
 
-nameserver: ns1.dzimi.eu
-nameserver: ns2.dzimi.eu
-
-; Please register your domains at
-; http://www.dropped.pl
+&gt;&gt;&gt; Last update of whois database: 2011/09/14 01:35:54 PST &lt;&lt;&lt;
 
