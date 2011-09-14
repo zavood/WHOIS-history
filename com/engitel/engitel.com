@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BROTHERSOFT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ENGITEL.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.ENGITEL.COM
+   Name Server: DNS2.ETWEB.IT
+   Name Server: NS1.ENGITEL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-apr-2008
-   Creation Date: 12-jul-2002
-   Expiration Date: 12-jul-2013
+   Updated Date: 29-dec-2010
+   Creation Date: 04-jan-1996
+   Expiration Date: 03-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:11:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:12:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+engitel.com
 
 Registrant:
-   Kunlun Wanwei Keji Youxian Gongsi
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BROTHERSOFT.COM
-
-   Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+         Alberto Schiaffino  (domini@engitel.com)
+        Engitel Spa
+        Via Zarotto 6
+        Milano, NONE  20124
+        IT
+        +39 02 6693337
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BROTHERSOFT.COM
+Domain Name: engitel.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Alberto Schiaffino  (domini@engitel.com)
+        Engitel Spa
+        Via Zarotto 6
+        Milano, NONE  20124
+        IT
+        +39 02 6693337
+
+
+
+
+
+   Record created on Jan 4 1996.
+   Record expires on Jan 3 2012.
+Domain servers:
+        NS1.ENGITEL.COM
+        DNS1.ENGITEL.COM
+        DNS2.ETWEB.IT
+
+
+
+Domain Service Provider:
+   Engitel Spa
+   +39 02 6693337
+   engitel@engitel.com
+   www.engitel.com
+
+

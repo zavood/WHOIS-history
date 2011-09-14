@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D29803954-LROR
+Domain Name:EQUIPETV.ORG
+Created On:23-Jun-2000 05:48:25 UTC
+Last Updated On:12-May-2011 13:40:48 UTC
+Expiration Date:23-Jun-2012 05:48:25 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26012945-NSI
+Registrant Name:L'EQUIPE TV
+Registrant Organization:L'EQUIPE TV
+Registrant Street1:2 Rue Rouget de Lisle
+Registrant Street2:
+Registrant Street3:
+Registrant City:ISSY LES MOULINEAUX
+Registrant State/Province:
+Registrant Postal Code:92137
+Registrant Country:FR
+Registrant Phone:+1.999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:ao-dom@atosorigin.com
+Admin ID:21702284-NSI
+Admin Name:Atos Worldline
+Admin Organization:Atos Worldline
+Admin Street1:Rue de la Pointe ZI
+Admin Street2:
+Admin Street3:
+Admin City:Seclin
+Admin State/Province:
+Admin Postal Code:59113
+Admin Country:FR
+Admin Phone:+33.320607979
+Admin Phone Ext.:
+Admin FAX:+33.320607720
+Admin FAX Ext.:
+Admin Email:ao-dom@atos.net
+Tech ID:21702284-NSI
+Tech Name:Atos Worldline
+Tech Organization:Atos Worldline
+Tech Street1:Rue de la Pointe ZI
+Tech Street2:
+Tech Street3:
+Tech City:Seclin
+Tech State/Province:
+Tech Postal Code:59113
+Tech Country:FR
+Tech Phone:+33.320607979
+Tech Phone Ext.:
+Tech FAX:+33.320607720
+Tech FAX Ext.:
+Tech Email:ao-dom@atos.net
+Name Server:NS4.ATOS.NET
+Name Server:NS3.ATOS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
