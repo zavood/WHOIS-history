@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: OGA11D-NORID
+Domain Name................: ogame.no
+Domain Holder Handle.......: WE45O-NORID
+Registrar Handle...........: REG609-NORID
+Legal-c Handle.............: BS3404P-NORID
+Tech-c Handle..............: KK2802P-NORID
+Name Server Handle.........: NSGF3H-NORID
+Name Server Handle.........: NSGF4H-NORID
+
+Additional information:
+Created:         2007-01-04
+Last updated:    2011-01-04
+
+NORID Handle...............: WE45O-NORID
+Type.......................: organization
+Name.......................: Webpubliseringsforeningen
+Id Type....................: organization_number
+Id Number..................: 988121525
+Registrar Handle...........: REG609-NORID
+Post Address...............: c/o Scandic Domain Group AS
+Post Address...............: Waldemar Thranes gate 75
+Postal Code................: NO-0175
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22200015
+Fax Number.................: +47.22116699
+Email Address..............: info@scandicdomain.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

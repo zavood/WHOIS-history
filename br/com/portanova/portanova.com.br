@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:49:23 (BRT -03:00)
+
+domain:      portanova.com.br
+owner:       Rush Assessoria
+ownerid:     003.102.073/0001-82
+responsible: Reinaldo Portanova Filho
+country:     BR
+owner-c:     RPF69
+admin-c:     RPF69
+tech-c:      RPF69
+billing-c:   RPF69
+nserver:     ns1.dreamhost.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.dreamhost.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.dreamhost.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20000301 #276285
+expires:     20130301
+changed:     20110321
+status:      published
+
+nic-hdl-br:  RPF69
+person:      Reinaldo Portanova Filho
+e-mail:      admin@portanova.us
+created:     20010616
+changed:     20101007
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

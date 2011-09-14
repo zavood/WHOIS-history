@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D18689654-LROR
+Domain Name:MINGW.ORG
+Created On:30-Jan-2000 01:56:24 UTC
+Last Updated On:09-Mar-2011 18:00:54 UTC
+Expiration Date:30-Jan-2012 01:56:23 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:fed46a4501b17109
+Registrant Name:Mumit  Khan
+Registrant Organization:Mumit Khan
+Registrant Street1:520 N. Pinckney St., Suite 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madison
+Registrant State/Province:WI
+Registrant Postal Code:53703
+Registrant Country:US
+Registrant Phone:+1.6082588241
+Registrant Phone Ext.:
+Registrant FAX:+1.6082588241
+Registrant FAX Ext.:
+Registrant Email:mingw-users-owner@lists.sourceforge.net
+Admin ID:fed46a4501b17109
+Admin Name:Mumit  Khan
+Admin Organization:Mumit Khan
+Admin Street1:520 N. Pinckney St., Suite 1
+Admin Street2:
+Admin Street3:
+Admin City:Madison
+Admin State/Province:WI
+Admin Postal Code:53703
+Admin Country:US
+Admin Phone:+1.6082588241
+Admin Phone Ext.:
+Admin FAX:+1.6082588241
+Admin FAX Ext.:
+Admin Email:mingw-users-owner@lists.sourceforge.net
+Tech ID:4ebdce4ca5b2a803
+Tech Name:Domain  Support
+Tech Organization:Register.com Partner Network
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.8775717996
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:partnereu@register.com
+Name Server:NS1.PDX.NETWORKREDUX.NET
+Name Server:NS2.PDX.NETWORKREDUX.NET
+Name Server:NS3.WDC.NETWORKREDUX.NET
+Name Server:NS4.SEA.NETWORKREDUX.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

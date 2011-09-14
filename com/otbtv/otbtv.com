@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ODVEE.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: DNS3.4CUN.COM
-   Name Server: DNS4.4CUN.COM
-   Status: ok
-   Updated Date: 17-nov-2010
-   Creation Date: 17-nov-2010
-   Expiration Date: 17-nov-2011
+   Domain Name: OTBTV.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 03-feb-2011
+   Creation Date: 05-jan-2003
+   Expiration Date: 05-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:47:39 UTC &lt;&lt;&lt;
 
@@ -52,51 +53,32 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain otbtv.com:
+  A. McGrath
+  4628 Tanglewood Dr.
+  Eagle River, Wisconsin 54521 US
 
-Domain Name: odvee.com
+Administrative contact:
+Technical contact:
+Billing contact:
+  A. McGrath
+  Anthony McGrath
+  dotcomisking@yahoo.com
+  4628 Tanglewood Dr.
+  Eagle River, Wisconsin 54521 US
+  Phone: +1.7154771937
+  Fax:
 
-Registrant Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+Record dates:
+  Record created on: 2003-01-06 04:46:12 UTC
+  Record modified on: 2011-02-03 06:08:46 UTC
+  Record expires on: 2012-01-06 UTC
 
-Administrative Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+Nameservers:
+  ns1.sedoparking.com:
+    217.160.95.94
+  ns2.sedoparking.com:
+    217.160.141.42
 
-Technical Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+Note: Automated collection of data from this database is strictly prohibited.
 
-Billing Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN

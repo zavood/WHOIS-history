@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ODVEE.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: DNS3.4CUN.COM
-   Name Server: DNS4.4CUN.COM
+   Domain Name: OMJEWELLERY.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
    Status: ok
-   Updated Date: 17-nov-2010
-   Creation Date: 17-nov-2010
-   Expiration Date: 17-nov-2011
+   Updated Date: 08-jul-2011
+   Creation Date: 12-jul-2008
+   Expiration Date: 12-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:47:39 UTC &lt;&lt;&lt;
 
@@ -51,52 +51,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+This domain name was registered through
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+AEXEA INTERACTIVE (http://www.aexea.com)
+Contact us at: sales@aexea.com
 
-Domain Name: odvee.com
+Domain Name: OMJEWELLERY.COM
 
-Registrant Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+Registrant:
+    Om Jewellery
+    Karan Dhanak        (karan_dhanak@hotmail.com)
+    Manning
+    WA
+    Western Australia,000
+    AU
+    Tel. +04.07011873
+    Fax. +08.94506569
+
+Creation Date: 12-Jul-2008
+Expiration Date: 12-Jul-2012
+
+Domain servers in listed order:
+    ns1.mediatemple.net
+    ns2.mediatemple.net
+
 
 Administrative Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+    Om Jewellery
+    Karan Dhanak        (karan_dhanak@hotmail.com)
+    Manning
+    WA
+    Western Australia,000
+    AU
+    Tel. +04.07011873
+    Fax. +08.94506569
 
 Technical Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+    Aexea Interactive
+    Domain Admin        (domains@aexea.net)
+    Alyssa
+    NewTown
+    Pennsylvania,18940
+    US
+    Tel. +1.2154887700
 
 Billing Contact:
-   oudiwei
-   weipei xu 243050726@qq.com
-   +86.057756958562  fax: +86.054456958570
-   wenzhou
-   wenzhou zhejiang 325200
-   CN
+    Aexea Interactive
+    Domain Admin        (domains@aexea.net)
+    Alyssa
+    NewTown
+    Pennsylvania,18940
+    US
+    Tel. +1.2154887700
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Visit http://www.aexea.com for more information
+
+
+

@@ -1,0 +1,28 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         tuke.sk
+Admin-id            TECH-0064
+Admin-name          Technicka univerzita v Kosiciach
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       397610
+Admin-address       Letna 9, Kosice 042 01
+Admin-telephone     055/6025110, 055/6025110
+Admin-email         hostmaster@tuke.sk
+Tech-id             TECH-0064
+Tech-name           Technicka univerzita v Kosiciach
+Tech-org.-ID        397610
+Tech-address        Letna 9, Kosice 042 01
+Tech-telephone      055/6025110, 055/6025110
+Tech-email          hostmaster@tuke.sk
+dns_name            ns.tuke.sk
+dns_ip              147.232.3.2
+dns_name            sun.uakom.sk
+dns_name            ns.xcom.sk
+dns_name            ns1.demax.sk
+Last-update         2011-06-28
+Valid-date          2012-07-23
+Domain-status       DOM_OK
+

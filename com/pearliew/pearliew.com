@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITYSEX.COM
+   Domain Name: PEARLIEW.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
    Name Server: DNS010.D.REGISTER.COM
-   Name Server: DNS033.C.REGISTER.COM
-   Name Server: DNS122.A.REGISTER.COM
-   Name Server: DNS140.B.REGISTER.COM
+   Name Server: DNS028.C.REGISTER.COM
+   Name Server: DNS077.A.REGISTER.COM
+   Name Server: DNS196.B.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 03-feb-2008
-   Creation Date: 04-jan-2002
-   Expiration Date: 04-jan-2013
+   Updated Date: 05-jun-2011
+   Creation Date: 04-jul-2002
+   Expiration Date: 04-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:48:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:48:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Pity Sex
-      Shane Barnes
-      24383 Thomas Ave Apt 1
-      Hayward, CA 94544
-      US
-      Phone: 510-469-4420
-      Email: pitysex@hotmail.com
+      Andy Ong Li Mun
+      Andy Ong
+      7030 Ang Mo Kio Avenue 5 #06-36 Northstar@AMK
+      Singapore, Singapore 569880
+      SG
+      Phone: +65.6562882277
+      Email: andyong@corlison.com
 
 
 
@@ -86,18 +86,18 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: pitysex.com
-      Created on..............: 2002-01-04
-      Expires on..............: 2013-01-04
+   Domain Name: pearliew.com
+      Created on..............: 2002-07-04
+      Expires on..............: 2012-07-04
 
    Administrative Contact:
-      Pity Sex
-      Shane Barnes
-      24383 Thomas Ave Apt 1
-      Hayward, CA 94544
-      US
-      Phone: 510-469-4420
-      Email: pitysex@hotmail.com
+      Andy Ong Li Mun
+      Andy Ong
+      126 Joo Seng Road #06-04 Gold Pine Ind Bldg
+      Singapore,   368355
+      SG
+      Phone: 65-96794911
+      Email: andyong@corlison.com
 
 
    Technical  Contact:
@@ -111,16 +111,16 @@ By submitting this query, you agree to abide by these terms.
 
 
    DNS Servers:
-      dns033.c.register.com
-      dns140.b.register.com
-      dns122.a.register.com
+      dns196.b.register.com
+      dns077.a.register.com
+      dns028.c.register.com
       dns010.d.register.com
 
 
 
-Visit AboutUs.org for more information about pitysex.com
+Visit AboutUs.org for more information about pearliew.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/pitysex.com&quot;&gt;AboutUs: pitysex.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/pearliew.com&quot;&gt;AboutUs: pearliew.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

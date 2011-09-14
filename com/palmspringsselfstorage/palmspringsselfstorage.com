@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITYSEX.COM
+   Domain Name: PALMSPRINGSSELFSTORAGE.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
    Name Server: DNS010.D.REGISTER.COM
-   Name Server: DNS033.C.REGISTER.COM
-   Name Server: DNS122.A.REGISTER.COM
-   Name Server: DNS140.B.REGISTER.COM
+   Name Server: DNS030.C.REGISTER.COM
+   Name Server: DNS054.B.REGISTER.COM
+   Name Server: DNS093.A.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 03-feb-2008
-   Creation Date: 04-jan-2002
-   Expiration Date: 04-jan-2013
+   Updated Date: 14-aug-2011
+   Creation Date: 13-aug-2002
+   Expiration Date: 13-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:48:08 UTC &lt;&lt;&lt;
 
@@ -72,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Pity Sex
-      Shane Barnes
-      24383 Thomas Ave Apt 1
-      Hayward, CA 94544
+      gando properties, l.l.c.
+      david gandolfo
+      65 sunrise dr
+      Rancho Mirage, ca 92270
       US
-      Phone: 510-469-4420
-      Email: pitysex@hotmail.com
+      Phone: 760-202-9369
+      Email: davidjgandolfo@aol.com
 
 
 
@@ -86,18 +86,18 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: pitysex.com
-      Created on..............: 2002-01-04
-      Expires on..............: 2013-01-04
+   Domain Name: palmspringsselfstorage.com
+      Created on..............: 2002-08-13
+      Expires on..............: 2012-08-13
 
    Administrative Contact:
-      Pity Sex
-      Shane Barnes
-      24383 Thomas Ave Apt 1
-      Hayward, CA 94544
+      gando properties, l.l.c.
+      david gandolfo
+      65 sunrise dr
+      Rancho Mirage, ca 92270
       US
-      Phone: 510-469-4420
-      Email: pitysex@hotmail.com
+      Phone: 760-202-9369
+      Email: davidjgandolfo@aol.com
 
 
    Technical  Contact:
@@ -111,16 +111,16 @@ By submitting this query, you agree to abide by these terms.
 
 
    DNS Servers:
-      dns033.c.register.com
-      dns140.b.register.com
-      dns122.a.register.com
+      dns093.a.register.com
+      dns054.b.register.com
+      dns030.c.register.com
       dns010.d.register.com
 
 
 
-Visit AboutUs.org for more information about pitysex.com
+Visit AboutUs.org for more information about palmspringsselfstorage.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/pitysex.com&quot;&gt;AboutUs: pitysex.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/palmspringsselfstorage.com&quot;&gt;AboutUs: palmspringsselfstorage.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 
