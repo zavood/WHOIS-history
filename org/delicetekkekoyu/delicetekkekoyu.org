@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153910145-LROR
+Domain Name:DELICETEKKEKOYU.ORG
+Created On:25-Aug-2008 07:16:44 UTC
+Last Updated On:26-Aug-2011 01:25:40 UTC
+Expiration Date:25-Aug-2012 07:16:44 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:DI_8623946
+Registrant Name:Haydar Gerlevik
+Registrant Organization:delicetekkekoyu.org (Registrant)
+Registrant Street1:YARDIMCI SIT  17689 ADA
+Registrant Street2:
+Registrant Street3:
+Registrant City:ANKARA
+Registrant State/Province:
+Registrant Postal Code:06783
+Registrant Country:TR
+Registrant Phone:+90.5055170535
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:etimonster@yahoo.com
+Admin ID:DI_8623948
+Admin Name:Haydar Gerlevik
+Admin Organization:delicetekkekoyu.org (Admin)
+Admin Street1:YARDIMCI SIT  17689 ADA
+Admin Street2:
+Admin Street3:
+Admin City:ANKARA
+Admin State/Province:
+Admin Postal Code:06783
+Admin Country:TR
+Admin Phone:+90.5055170535
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:etimonster@yahoo.com
+Tech ID:DI_8623949
+Tech Name:Haydar Gerlevik
+Tech Organization:delicetekkekoyu.org (Technical)
+Tech Street1:YARDIMCI SIT  17689 ADA
+Tech Street2:
+Tech Street3:
+Tech City:ANKARA
+Tech State/Province:
+Tech Postal Code:06783
+Tech Country:TR
+Tech Phone:+90.5055170535
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:etimonster@yahoo.com
+Name Server:DNS.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:DNS2.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

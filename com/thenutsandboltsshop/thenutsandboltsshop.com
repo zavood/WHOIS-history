@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FATCOW.COM.THENEWAGETRUTH.COM
-FATCOW.COM.THECHILEFILM.COM
-FATCOW.COM.SPORTSCARFUN.COM
-FATCOW.COM.SEIZEYOURWORLD.COM
-FATCOW.COM.EMMANUELLECAPLETTE.COM
-FATCOW.COM.CRFS2007.COM
-FATCOW.COM.BECKYKAZANSKY.COM
-FATCOW.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: THENUTSANDBOLTSSHOP.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.MYHOSTCP.COM
+   Name Server: NS2.MYHOSTCP.COM
+   Name Server: NS3.MYHOSTCP.COM
+   Status: clientTransferProhibited
+   Updated Date: 27-jul-2010
+   Creation Date: 17-feb-2010
+   Expiration Date: 17-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:44:33 UTC &lt;&lt;&lt;
 
@@ -53,3 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about thenutsandboltsshop.com
+&lt;a href=&quot;http://www.aboutus.org/thenutsandboltsshop.com&quot;&gt;AboutUs: thenutsandboltsshop.com&lt;/a&gt;
+
+
+Domain name: thenutsandboltsshop.com
+
+Registrant Contact:
+   Rochford Tyres
+   David Smith ()
+
+   Fax:
+   Unit 1, Swains Industrial Estate
+   Rochford, Essex SS4 1RG
+   GB
+
+Administrative Contact:
+   Hosting UK
+   Admin Department (hostmaster@hostinguk.net)
+   +44.1745586070
+   Fax: +44.1745586087
+   Unit 24
+   St Asaph,  LL17 0LJ
+   GB
+
+Technical Contact:
+   Hosting UK
+   Technical Department (support@hostinguk.net)
+   +44.1745586070
+   Fax: +44.1745586087
+   Unit 24
+   St Asaph,  LL17 0LJ
+   GB
+
+Status: Locked
+
+Name Servers:
+   ns1.myhostcp.com
+   ns2.myhostcp.com
+   ns3.myhostcp.com
+
+Creation date: 17 Feb 2010 09:21:01
+Expiration date: 17 Feb 2012 09:21:01
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

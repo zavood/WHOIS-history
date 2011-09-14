@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMGLUTENFREEBABY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: EMS-FL.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.BCENTRALHOST.COM
+   Name Server: NS2.BCENTRALHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-mar-2010
-   Creation Date: 13-mar-2007
-   Expiration Date: 13-mar-2012
+   Updated Date: 19-mar-2010
+   Creation Date: 07-sep-2002
+   Expiration Date: 07-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:44:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+Romanoff, Richard
+   Electro Mechanical South, Inc.
+   1575 Cattleman Rd.
+   Sarasota, FL 34232
+   US
+
+   Domain Name: EMS-FL.COM
+
+   Administrative Contact:
+      Romanoff, Richard		ric.romanoff@comcast.net
+      Electro Mechanical South, Inc.
+      1575 Cattleman Rd.
+      Sarasota, FL 34232
+      US
+      941/342-9111
+
+
+   Record expires on 07-Sep-2012.
+   Record created on 07-Sep-2002.
+   Database last updated on 14-Sep-2011 13:34:04 EDT.
+
+   Domain servers in listed order:
+
+   NS1.BCENTRALHOST.COM         205.158.154.16
+   NS2.BCENTRALHOST.COM         205.158.155.16
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACRMANILA.COM
+   Domain Name: WONDERWOODWORKS.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.WEB.COM.PH
-   Name Server: NS2.WEB.COM.PH
-   Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 18-sep-2007
-   Expiration Date: 18-sep-2012
+   Name Server: MNS01.DOMAINCONTROL.COM
+   Name Server: MNS02.DOMAINCONTROL.COM
+   Status: clientTransferProhibited
+   Updated Date: 04-aug-2011
+   Creation Date: 18-dec-2009
+   Expiration Date: 18-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:44:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:43:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: WEB.COM.PH
-Contact: +632.8953548
-Website: http://www.web.com.ph
+For Abuse or WHOIS complain
+Abuse ID: abuse@trafficpullz.com
+Refer Zero-Spam Policy: http://www.trafficpullz.com/zero-spam-policy.html
 
-Domain Name: ACRMANILA.COM
+Domain Name: WONDERWOODWORKS.COM
 
 Registrant:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Creation Date: 18-Sep-2007
-Expiration Date: 18-Sep-2012
+Creation Date: 18-Dec-2009
+Expiration Date: 18-Dec-2011
 
 Domain servers in listed order:
-    ns1.web.com.ph
-    ns2.web.com.ph
+    mns01.domaincontrol.com
+    mns02.domaincontrol.com
 
 
 Administrative Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Technical Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Billing Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+
+PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
+protect the owner from spam and phishing attacks. PrivacyProtect.org is not
+responsible for any of the activities associated with this domain name. If you wish
+to report any abuse concerning the usage of this domain name, you may do so at
+http://privacyprotect.org/contact. We have a stringent abuse policy and any
+complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -116,4 +131,9 @@ The compilation, repackaging, dissemination or other use of this data is express
 prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
+
+
+
+
+
 

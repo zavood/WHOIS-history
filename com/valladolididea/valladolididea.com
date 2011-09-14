@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMGLUTENFREEBABY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-mar-2010
-   Creation Date: 13-mar-2007
-   Expiration Date: 13-mar-2012
+   Domain Name: VALLADOLIDIDEA.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS1.SERVIDORESDNS.NET
+   Name Server: DNS2.SERVIDORESDNS.NET
+   Status: ok
+   Updated Date: 24-jan-2011
+   Creation Date: 23-jan-2004
+   Expiration Date: 23-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:43:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Acceso restringido

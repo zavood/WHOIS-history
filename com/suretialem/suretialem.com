@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACRMANILA.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.WEB.COM.PH
-   Name Server: NS2.WEB.COM.PH
-   Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 18-sep-2007
-   Expiration Date: 18-sep-2012
+   Domain Name: SURETIALEM.COM
+   Registrar: FBS INC.
+   Whois Server: whois.isimtescil.net
+   Referral URL: http://www.isimtescil.net
+   Name Server: NS1039.WEBSITEWELCOME.COM
+   Name Server: NS1040.WEBSITEWELCOME.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-dec-2010
+   Creation Date: 18-dec-2010
+   Expiration Date: 18-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:44:33 UTC &lt;&lt;&lt;
 
@@ -51,58 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: WEB.COM.PH
-Contact: +632.8953548
-Website: http://www.web.com.ph
-
-Domain Name: ACRMANILA.COM
-
-Registrant:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
-
-Creation Date: 18-Sep-2007
-Expiration Date: 18-Sep-2012
-
-Domain servers in listed order:
-    ns1.web.com.ph
-    ns2.web.com.ph
-
-
-Administrative Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
-
-Technical Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
-
-Billing Contact:
-    Amber Creative Resource
-    Michael Angelo Andaya        (acrmanila@yahoo.com)
-    Unit 201 Burmaheco Exec. Suites, 2620 Suez St.
-    Makati
-    Metro Manila,1250
-    PH
-    Tel. +63.9164184726
-
-Status:ACTIVE
-
+&lt;strong&gt;Registration Service Provided By: &lt;/strong&gt;Registration Service Provided By: WWW.ISIMTESCIL.NET
+Contact: +90.2163299393
+ &lt;br&gt;
+          &lt;strong&gt;Domain Adi: SURETIALEM.COM &lt;/strong&gt;
+          &lt;strong&gt;Bitis Tarihi: &lt;/strong&gt;18-Dec-2011
+          &lt;strong&gt;Kaydedilme Tarihi: &lt;/strong&gt; 18-Dec-2010
+          &lt;strong&gt;Domain Durumu: &lt;/strong&gt; LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+	 &lt;br&gt;
+          &lt;strong&gt;DNS Sunucular: &lt;/strong&gt;&lt;br&gt;
+    ns1039.websitewelcome.com
+    ns1040.websitewelcome.com
+ &lt;br&gt;
+&lt;strong&gt;Kaydedicinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     YUSUF KARTAL CID148305
+    YUSUF KARTAL        (yusufkartal38@hotmail.com)
+    Buhara Bitkisel Urunler Meydan
+    KAYSERI
+    ,00000
+    TR
+    Tel. +90.5054741255
+    Fax. +90.00000 &lt;br&gt;
+&lt;strong&gt;Yoneticinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     YUSUF KARTAL CID148305
+    YUSUF KARTAL        (yusufkartal38@hotmail.com)
+    Buhara Bitkisel Urunler Meydan
+    KAYSERI
+    ,00000
+    TR
+    Tel. +90.5054741255
+    Fax. +90.00000 &lt;br&gt;
+&lt;strong&gt;Teknik Yetkilinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     YUSUF KARTAL CID148305
+    YUSUF KARTAL        (yusufkartal38@hotmail.com)
+    Buhara Bitkisel Urunler Meydan
+    KAYSERI
+    ,00000
+    TR
+    Tel. +90.5054741255
+    Fax. +90.00000 &lt;br&gt;
+&lt;strong&gt;Odeme Yetkilisinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     YUSUF KARTAL CID148305
+    YUSUF KARTAL        (yusufkartal38@hotmail.com)
+    Buhara Bitkisel Urunler Meydan
+    KAYSERI
+    ,00000
+    TR
+    Tel. +90.5054741255
+    Fax. +90.00000 &lt;br&gt;
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,
@@ -113,7 +113,8 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is FBS Inc..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
+
 

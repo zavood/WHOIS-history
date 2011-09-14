@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMGLUTENFREEBABY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: SMVELECTRONICA.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS3.A2HOSTING.COM
+   Name Server: NS4.A2HOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-mar-2010
-   Creation Date: 13-mar-2007
-   Expiration Date: 13-mar-2012
+   Updated Date: 30-may-2011
+   Creation Date: 10-jun-2010
+   Expiration Date: 10-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:44:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about smvelectronica.com
+&lt;a href=&quot;http://www.aboutus.org/smvelectronica.com&quot;&gt;AboutUs: smvelectronica.com&lt;/a&gt;
+
+
+Domain name: smvelectronica.com
+
+Registrant Contact:
+
+   sergio miguel vitar ()
+
+   Fax:
+   sanchez 1791 piso 13 B
+   buenos aires, buenos aires 1416
+   AR
+
+Administrative Contact:
+
+   sergio miguel vitar (SERGIOVITAR@TELECENTRO.COM.AR)
+   +54.01163792063
+   Fax: +54.01163792063
+   sanchez 1791 piso 13 B
+   buenos aires, buenos aires 1416
+   AR
+
+Technical Contact:
+
+   sergio miguel vitar (SERGIOVITAR@TELECENTRO.COM.AR)
+   +54.01163792063
+   Fax: +54.01163792063
+   sanchez 1791 piso 13 B
+   buenos aires, buenos aires 1416
+   AR
+
+Status: Locked
+
+Name Servers:
+   NS3.A2HOSTING.COM
+   NS4.A2HOSTING.COM
+
+Creation date: 11 Jun 2010 02:08:00
+Expiration date: 10 Jun 2012 21:08:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
