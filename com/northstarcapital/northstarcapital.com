@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREEROMS.COM
+   Domain Name: NORTHSTARCAPITAL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: DNS1MSP.POPP.NET
+   Name Server: DNS2MSP.POPP.NET
    Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 13-feb-1999
-   Expiration Date: 13-feb-2015
+   Updated Date: 22-jul-2011
+   Creation Date: 24-mar-1997
+   Expiration Date: 25-mar-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:42:11 UTC &lt;&lt;&lt;
 
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: freeroms.com
+Whois Query: northstarcapital.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 17:37:51 EDT 2011
+Date and Time of Query: Wed Sep 14 17:32:05 EDT 2011
 Reason Code: IE

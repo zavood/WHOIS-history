@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: GRE2087D-NORID
+Domain Name................: grenland-naprapat.no
+Domain Holder Handle.......: GMOL6O-NORID
+Registrar Handle...........: REG824-NORID
+Legal-c Handle.............: EL2750P-NORID
+Tech-c Handle..............: JH3022P-NORID
+Name Server Handle.........: NSME105H-NORID
+Name Server Handle.........: NSME106H-NORID
+
+Additional information:
+Created:         2006-06-19
+Last updated:    2011-08-17
+
+NORID Handle...............: GMOL6O-NORID
+Type.......................: organization
+Name.......................: GRENLAND MUSKEL OG LEDDKLINIKK ELINE GJEMS L&Oslash;ITEGAARD
+Id Type....................: organization_number
+Id Number..................: 988342580
+Registrar Handle...........: REG824-NORID
+Post Address...............: Storgata 88
+Postal Code................: NO-3921
+Postal Area................: PORSGRUNN
+Country....................: NO
+Mobile Phone Number........: +47.99620867
+Email Address..............: eloitegaard@hotmail.com
+
+Additional information:
+Created:         2011-08-17
+Last updated:    2011-08-17
+

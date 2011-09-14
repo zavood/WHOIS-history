@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREEROMS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: SPECIALTYAUTOLINCOLN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
    Status: clientTransferProhibited
-   Updated Date: 22-jun-2006
-   Creation Date: 13-feb-1999
-   Expiration Date: 13-feb-2015
+   Updated Date: 16-may-2011
+   Creation Date: 24-may-2007
+   Expiration Date: 24-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:42:11 UTC &lt;&lt;&lt;
 
@@ -53,23 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about specialtyautolincoln.com
+&lt;a href=&quot;http://www.aboutus.org/specialtyautolincoln.com&quot;&gt;AboutUs: specialtyautolincoln.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: specialtyautolincoln.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative Contact:
+   eApps Hosting
+   eApps Hosting (billing@eapps.com)
+   +1.7704482100
+   Fax:
+   7742 Spalding Drive
+   Suit e 363
+   Norcross, GA 30092
+   US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical Contact:
+   eApps Hosting
+   eApps Hosting (billing@eapps.com)
+   +1.7704482100
+   Fax:
+   7742 Spalding Drive
+   Suit e 363
+   Norcross, GA 30092
+   US
 
-Whois Query: freeroms.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 17:37:51 EDT 2011
-Reason Code: IE
+Registrant Contact:
+   eApps Hosting
+   eApps Hosting ()
+
+   Fax:
+   7742 Spalding Drive
+   Suit e 363
+   Norcross, GA 30092
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.EAPPS.COM
+   NS2.EAPPS.COM
+
+Creation date: 25 May 2007 01:02:00
+Expiration date: 25 May 2012 01:02:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
