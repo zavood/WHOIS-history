@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUAL-TECH.COM
+   Domain Name: DUNCANHYSLOP.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.DUAL-TECH.COM
-   Name Server: NS2.DUAL-TECH.COM
+   Name Server: No nameserver
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 15-feb-1999
-   Expiration Date: 15-feb-2013
+   Updated Date: 14-sep-2011
+   Creation Date: 14-sep-2011
+   Expiration Date: 14-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:23:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:24:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +51,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about dual-tech.com
-&lt;a href=&quot;http://www.aboutus.org/dual-tech.com&quot;&gt;AboutUs: dual-tech.com&lt;/a&gt;
+Visit AboutUs.org for more information about duncanhyslop.com
+&lt;a href=&quot;http://www.aboutus.org/duncanhyslop.com&quot;&gt;AboutUs: duncanhyslop.com&lt;/a&gt;
 
 
-Domain name: dual-tech.com
-
-Administrative Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
-
-Technical Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+Domain name: duncanhyslop.com
 
 Registrant Contact:
-   Group Hosting
-   Jeffery Kilonsky ()
+
+   Duncan Hyslop ()
 
    Fax:
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+   Flat 4, 35 Sudbourne Road
+   London,  SW2 5AE
+   GB
+
+Administrative Contact:
+
+   UK2.NET http://www.uk2.net/ (hostmaster@uk2.net)
+   +44.2079871200
+   Fax:
+   One Canada Square
+   Canary Wharf
+   London,  E14 5DY
+   GB
+
+Technical Contact:
+
+   UK2.NET http://www.uk2.net/ (hostmaster@uk2.net)
+   +44.2079871200
+   Fax:
+   One Canada Square
+   Canary Wharf
+   London,  E14 5DY
+   GB
 
 Status: Locked
 
 Name Servers:
-   NS1.DUAL-TECH.COM
-   NS2.DUAL-TECH.COM
 
-Creation date: 15 Feb 1999 05:00:00
-Expiration date: 15 Feb 2013 05:00:00
+Creation date: 14 Sep 2011 14:19:00
+Expiration date: 14 Sep 2016 06:19:00
 
 
 

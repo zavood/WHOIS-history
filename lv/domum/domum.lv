@@ -1,0 +1,24 @@
+[Domain]
+Domain: domum.lv
+Status: active
+Changed: 2003-12-02T09:57:18+02:00
+
+[Holder]
+Type: Legal person
+Name: Domum, SIA
+Email: andrejsv@rzf.lv
+Phone: +371 67088992, +371 26544165
+Address: Teraudlietuves iela 22, Riga, LV-1026
+RegNr: 40003652974
+
+[Tech]
+Type: Natural person
+Email: andrejsv@rzf.lv
+Phone: +371 67088992, +371 26544165
+
+[Nservers]
+Nserver: ns1.teliamtc.lv
+Nserver: ns3.teliamtc.lv
+
+[Whois]
+Updated: 2011-09-14T11:12:26.241630+00:00

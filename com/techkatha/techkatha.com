@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUAL-TECH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.DUAL-TECH.COM
-   Name Server: NS2.DUAL-TECH.COM
+   Domain Name: TECHKATHA.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS3.ORBITNET.ORG
+   Name Server: NS4.ORBITNET.ORG
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 15-feb-1999
-   Expiration Date: 15-feb-2013
+   Status: clientUpdateProhibited
+   Updated Date: 25-jan-2011
+   Creation Date: 24-jan-2009
+   Expiration Date: 24-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:23:57 UTC &lt;&lt;&lt;
 
@@ -51,67 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about dual-tech.com
-&lt;a href=&quot;http://www.aboutus.org/dual-tech.com&quot;&gt;AboutUs: dual-tech.com&lt;/a&gt;
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
+
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
-Domain name: dual-tech.com
+Registrant:
+   ORBIT NETWORK
 
-Administrative Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+   Registered through: DOTREGISTRANT.COM
+   Domain Name: TECHKATHA.COM
 
-Technical Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
-
-Registrant Contact:
-   Group Hosting
-   Jeffery Kilonsky ()
-
-   Fax:
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
-
-Status: Locked
-
-Name Servers:
-   NS1.DUAL-TECH.COM
-   NS2.DUAL-TECH.COM
-
-Creation date: 15 Feb 1999 05:00:00
-Expiration date: 15 Feb 2013 05:00:00
+   Domain servers in listed order:
+      NS3.ORBITNET.ORG
+      NS4.ORBITNET.ORG
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=TECHKATHA.COM&amp;prog_id=266649

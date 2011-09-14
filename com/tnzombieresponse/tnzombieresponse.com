@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUAL-TECH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.DUAL-TECH.COM
-   Name Server: NS2.DUAL-TECH.COM
-   Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 15-feb-1999
-   Expiration Date: 15-feb-2013
+   Domain Name: TNZOMBIERESPONSE.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS77.DOMAINCONTROL.COM
+   Name Server: NS78.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 07-aug-2011
+   Creation Date: 20-nov-2010
+   Expiration Date: 20-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:23:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:22:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about dual-tech.com
-&lt;a href=&quot;http://www.aboutus.org/dual-tech.com&quot;&gt;AboutUs: dual-tech.com&lt;/a&gt;
 
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain name: dual-tech.com
-
-Administrative Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
+Registrant:
+   Creative Clarity Solutions
+   West End Avenue
+   Nashville, Tennessee  37206
    US
 
-Technical Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+   Registrar: NAMESDIRECT
+   Domain Name: TNZOMBIERESPONSE.COM
+      Created on: 20-NOV-10
+      Expires on: 20-NOV-11
+      Last Updated on: 07-AUG-11
 
-Registrant Contact:
-   Group Hosting
-   Jeffery Kilonsky ()
-
-   Fax:
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
-
-Status: Locked
-
-Name Servers:
-   NS1.DUAL-TECH.COM
-   NS2.DUAL-TECH.COM
-
-Creation date: 15 Feb 1999 05:00:00
-Expiration date: 15 Feb 2013 05:00:00
+   Administrative, Technical Contact:
+      Amburgey, Michael  amburmj@gmail.com
+      Creative Clarity Solutions
+      West End Avenue
+      Nashville, Tennessee  37206
+      US
+      615-596-3363
 
 
+   Domain servers in listed order:
+      NS77.DOMAINCONTROL.COM
+      NS78.DOMAINCONTROL.COM
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+End of Whois Information

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUAL-TECH.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.DUAL-TECH.COM
-   Name Server: NS2.DUAL-TECH.COM
+   Domain Name: DRIVEANDCONTROL.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: AUTH60.NS.NL.UU.NET
+   Name Server: NS.NL.NET
    Status: clientTransferProhibited
-   Updated Date: 10-sep-2011
-   Creation Date: 15-feb-1999
-   Expiration Date: 15-feb-2013
+   Updated Date: 04-mar-2011
+   Creation Date: 03-mar-2004
+   Expiration Date: 03-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:23:57 UTC &lt;&lt;&lt;
 
@@ -51,67 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about dual-tech.com
-&lt;a href=&quot;http://www.aboutus.org/dual-tech.com&quot;&gt;AboutUs: dual-tech.com&lt;/a&gt;
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Bosch Rexroth BV (BOSCHREX848)
+  Kruisbroekstraat 1
 
-Domain name: dual-tech.com
+  Boxtel, , 5281 RV
+  NL
 
-Administrative Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+  Domain name: driveandcontrol.com
 
-Technical Contact:
-   Group Hosting
-   Jeffery Kilonsky (admin@grouphosting.com)
-   +1.8779508967
-   Fax: +1.8663325938
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+Technical contact:
+  Administratie, Technische (AT264)
+  Verizon Nederland B.V.
+  P.O. Box 94524
 
-Registrant Contact:
-   Group Hosting
-   Jeffery Kilonsky ()
+  Amsterdam, 1090 GM
+  NL
+  domain-admin@nl.uu.net
+  +31.20204952757 Fax: +31.207117773
 
-   Fax:
-   2445 Graystone Drive
-   Little Elm, TX 75068
-   US
+Administrative contact:
+  Rutten, F. (FR932)
+  Bosch Rexroth BV
+  Kruisbroekstraat 1
 
-Status: Locked
+  Boxtel, 5281 RV
+  NL
+  falco.rutten@boschrexroth.nl
+  +31.411651292 Fax:
 
-Name Servers:
-   NS1.DUAL-TECH.COM
-   NS2.DUAL-TECH.COM
+Record created:           2004-03-03 12:42:06
+Record last updated:      2004-03-03 12:42:08
+Record expires:           2012-03-03 00:00:00
 
-Creation date: 15 Feb 1999 05:00:00
-Expiration date: 15 Feb 2013 05:00:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain servers in listed order:
+  ns.nl.net (NSNLNET867)
+  auth60.ns.nl.uu.net (AUTHNSNL196)

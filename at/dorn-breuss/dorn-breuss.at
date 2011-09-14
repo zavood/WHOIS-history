@@ -1,0 +1,74 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         dorn-breuss.at
+registrant:     RS3130233-NICAT
+admin-c:        RS3130234-NICAT
+tech-c:         WPWS1869059-NICAT
+nserver:        ns5.predl.com
+remarks:        213.229.30.35
+nserver:        ns6.predl.com
+remarks:        213.229.30.36
+changed:        20071221 09:10:07
+source:         AT-DOM
+
+personname:     Roswitha Stix
+organization:   Roswitha Stix
+street address: Doerfler 68
+postal code:    A-8082
+city:           Kirchbach
+country:        Austria
+phone:          +436643708758
+e-mail:         muehlmann@gamma3.at
+nic-hdl:        RS3130233-NICAT
+changed:        20071221 08:58:34
+source:         AT-DOM
+
+personname:     Roswitha Stix
+organization:
+street address: Kirchbach
+street address: A-8082
+street address: AUSTRIA
+street address: Doerfler 68
+postal code:
+city:
+country:
+phone:          +436643708758
+e-mail:         muehlmann@gamma3.at
+nic-hdl:        RS3130234-NICAT
+changed:        20071221 08:58:34
+source:         AT-DOM
+
+personname:     Gerald PREDL
+organization:   3W Predl - Web Solutions for YOU
+street address: Sukdull 12
+postal code:    A-8410
+city:           Wildon
+country:        Austria
+phone:          +43318223525
+fax-no:         +43318223524
+e-mail:         hostmaster@predl.com
+nic-hdl:        WPWS1869059-NICAT
+changed:        20050906 18:25:45
+source:         AT-DOM
+
