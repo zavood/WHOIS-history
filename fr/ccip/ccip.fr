@@ -1,0 +1,127 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ccip.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ccip.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDCE28-FRNIC
+admin-c:     LM4379-FRNIC
+tech-c:      SK1096-FRNIC
+tech-c:      AM5972-FRNIC
+tech-c:      CS50-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL38371-FRNIC
+registrar:   COMPLETEL SAS FRANCE
+anniversary: 22/04
+created:     01/01/1995
+last-update: 05/05/2010
+source:      FRNIC
+
+ns-list:     NSL38371-FRNIC
+nserver:     ns1.ccip.fr [195.68.195.68]
+nserver:     ns1.completel.fr [213.244.0.2]
+nserver:     ns2.completel.fr [213.244.0.3]
+source:      FRNIC
+
+registrar:   COMPLETEL SAS FRANCE
+type:        Isp Option 1
+address:     5 Place de la Pyramide
+address:     Tour Ariane
+address:     LA DEFENSE CEDEX
+country:     FR
+phone:       +33 1 72 92 20 00
+fax-no:      +33 1 72 92 20 01
+e-mail:      hostmaster@completel.fr
+website:     http://www.completel.fr
+anonymous:   NO
+registered:  01/07/1999
+source:      FRNIC
+
+nic-hdl:     CDCE28-FRNIC
+type:        ORGANIZATION
+contact:     Chambre de Commerce et d'Industrie de Paris
+address:     27, avenue de Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 45 08 37 78
+e-mail:      completel@ordipat.fr
+changed:     22/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LM4379-FRNIC
+type:        PERSON
+contact:     Laurent Mienville
+address:     Chambre de Commerce et d'Industrie de Paris
+address:     27, avenue de Friedland
+address:     75008 Paris
+country:     FR
+phone:       +33 1 55 65 38 13
+e-mail:      lmienville@ccip.fr
+changed:     14/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SK1096-FRNIC
+type:        PERSON
+contact:     Sebastien Kita
+address:     CCIP
+address:     49, avenue de Tocqueville
+address:     75017 Paris
+country:     FR
+phone:       +33 1 55 65 39 76
+e-mail:      skita@ccip.fr
+changed:     22/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AM5972-FRNIC
+type:        PERSON
+contact:     Agnes Margalle
+address:     CCIP
+address:     49, avenue de Tocqueville
+address:     75017 Paris
+country:     FR
+phone:       +33 1 55 65 39 76
+e-mail:      amargalle@ccip.fr
+changed:     22/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CS50-FRNIC
+type:        ROLE
+contact:     Completel SAS
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      nic-admin@completel.fr
+admin-c:     NIC6-FRNIC
+tech-c:      SOC1-FRNIC
+tech-c:      XP4-FRNIC
+notify:      nic-admin@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
