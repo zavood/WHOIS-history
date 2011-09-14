@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-may-2011
    Expiration Date: 27-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:00:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:36:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -130,4 +130,4 @@ to our Whois database in its sole discretion, including without limitation,
 for excessive querying to the WHOIS database to ensure operational stability
 or for failure to otherwise abide by this policy. We reserves the right to
 modify these terms at any time.
-PAKNIC Whois Version 1.4 9/13/2011 1:00:54 AM
+PAKNIC Whois Version 1.4 9/14/2011 10:37:16 AM

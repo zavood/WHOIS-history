@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GEARDIARY.COM
+   Domain Name: A-DAR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Name Server: NS1.GOOGLEGHS.COM
+   Name Server: NS2.GOOGLEGHS.COM
+   Name Server: NS3.GOOGLEGHS.COM
+   Name Server: NS4.GOOGLEGHS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-jun-2010
-   Creation Date: 26-sep-2006
-   Expiration Date: 26-sep-2017
+   Updated Date: 31-dec-2010
+   Creation Date: 21-jan-2009
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:36:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:37:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Judie Lipsett Stanford
+   ach center
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GEARDIARY.COM
+   Domain Name: A-DAR.COM
 
    Domain servers in listed order:
-      NS1.THEPLANET.COM
-      NS2.THEPLANET.COM
+      NS1.GOOGLEGHS.COM
+      NS2.GOOGLEGHS.COM
+      NS3.GOOGLEGHS.COM
+      NS4.GOOGLEGHS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GEARDIARY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=A-DAR.COM

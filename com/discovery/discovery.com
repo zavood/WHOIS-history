@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GEARDIARY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DISCOVERY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: AUTH01.NS.DISCOVERY.COM
+   Name Server: AUTH02.NS.DISCOVERY.COM
+   Name Server: AUTH03.NS.DISCOVERY.COM
+   Name Server: AUTH04.NS.DISCOVERY.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-jun-2010
-   Creation Date: 26-sep-2006
-   Expiration Date: 26-sep-2017
+   Updated Date: 07-mar-2011
+   Creation Date: 20-apr-1993
+   Expiration Date: 21-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:36:30 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... discovery.com
+  Creation Date........ 1993-04-20
+  Registration Date.... 2010-02-26
+  Expiry Date.......... 2012-04-22
+  Organisation Name.... Discovery Communications, Inc.
+  Organisation Address. One Discovery Place
+  Organisation Address.
+  Organisation Address. Silver Spring
+  Organisation Address. 20910
+  Organisation Address. MD
+  Organisation Address. UNITED STATES
+
+Admin Name........... DNS Administrator
+  Admin Address........ One Discovery Place
+  Admin Address........
+  Admin Address........ Silver Spring
+  Admin Address........ 20910
+  Admin Address........ MD
+  Admin Address........ UNITED STATES
+  Admin Email.......... DNS_ADMIN@discovery.com
+  Admin Phone.......... +1.2406627562
+  Admin Fax............ +1.2406620001
+
+Tech Name............ DNS Administrator
+  Tech Address......... One Discovery Place
+  Tech Address.........
+  Tech Address......... Silver Spring
+  Tech Address......... 20910
+  Tech Address......... MD
+  Tech Address......... UNITED STATES
+  Tech Email........... DNS_ADMIN@discovery.com
+  Tech Phone........... +1.2406627562
+  Tech Fax............. +1.2406620001
+  Name Server.......... AUTH04.NS.DISCOVERY.COM
+  Name Server.......... AUTH03.NS.DISCOVERY.COM
+  Name Server.......... AUTH01.NS.DISCOVERY.COM
+  Name Server.......... AUTH02.NS.DISCOVERY.COM
 
 
-Registrant:
-   Judie Lipsett Stanford
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GEARDIARY.COM
-
-   Domain servers in listed order:
-      NS1.THEPLANET.COM
-      NS2.THEPLANET.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GEARDIARY.COM
