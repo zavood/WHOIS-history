@@ -1,0 +1,79 @@
+% Copyright (c) 2010 by DENIC
+% Version: 2.0
+%
+% Restricted rights.
+%
+% Terms and Conditions of Use
+%
+% The data in this record is provided by DENIC for informational purposes only.
+% DENIC does not guarantee its accuracy and cannot, under any circumstances,
+% be held liable in case the stored information would prove to be wrong,
+% incomplete or not accurate in any sense.
+%
+% All the domain data that is visible in the whois service is protected by law.
+% It is not permitted to use it for any purpose other than technical or
+% administrative requirements associated with the operation of the Internet.
+% It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+% form and by any means (electronically or not) the whole or a quantitatively
+% or qualitatively substantial part of the contents of the whois database
+% without prior and explicit written permission by DENIC.
+% It is prohibited, in particular, to use it for transmission of unsolicited
+% and/or commercial and/or advertising by phone, fax, e-mail or for any similar
+% purposes.
+%
+% By maintaining the connection you assure that you have a legitimate interest
+% in the data and that you will only use it for the stated purposes. You are
+% aware that DENIC maintains the right to initiate legal proceedings against
+% you in the event of any breach of this assurance and to bar you from using
+% its whois service.
+%
+% The DENIC whois service on port 43 never discloses any information concerning
+% the domain holder/administrative contact. Information concerning the domain
+% holder/administrative contact can be obtained through use of our web-based
+% whois service available at the DENIC website:
+% http://www.denic.de/en/background/whois-service/webwhois.html
+%
+
+Domain: belwue.de
+Nserver: artemis.rus.uni-stuttgart.de
+Nserver: auth02.ns.de.uu.net
+Nserver: dns1.belwue.de 129.143.2.10
+Nserver: dns3.belwue.de 131.246.119.18
+Nserver: pns.dtag.de
+Status: connect
+Changed: 2006-03-16T17:08:12+01:00
+
+[Tech-C]
+Type: ROLE
+Name: BelWue Network Operation Center
+Address: Universitaet Stuttgart
+Address: BelWue-Koordination
+Address: Allmandring 3A
+PostalCode: 70550
+City: Stuttgart
+CountryCode: DE
+Phone: +49 711 685 65804
+Phone: +49 711 685 65709
+Phone: +49 711 685 62509
+Phone: +49 711 685 65739
+Fax: +49 711 678 8363
+Email: noc@belwue.de
+Remarks: http://www.belwue.de
+Changed: 2007-08-16T14:57:06+02:00
+
+[Zone-C]
+Type: ROLE
+Name: BelWue Hostmaster
+Address: Landesforschungsnetz BelWue, BelWue-Koordination
+Address: Universitaet Stuttgart
+Address: Industriestr. 28
+PostalCode: 70565
+City: Stuttgart
+CountryCode: DE
+Phone: +49 711 685 65739
+Phone: +49 711 685 65372
+Phone: +49 711 685 62514
+Phone: +49 711 685 65804
+Fax: +49 711 678 8363
+Email: hostmaster@belwue.de
+Changed: 2008-03-04T14:16:06+01:00
