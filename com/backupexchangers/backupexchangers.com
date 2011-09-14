@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-HI5.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-HI5.COM
+   Domain Name: BACKUPEXCHANGERS.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: DNS1.EASYDNS.COM
+   Name Server: DNS2.EASYDNS.NET
+   Name Server: DNS3.EASYDNS.CA
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 24-mar-2011
+   Creation Date: 28-oct-2008
+   Expiration Date: 28-oct-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:45:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:47:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Too many lookups from this IP today. See you tomorrow.
