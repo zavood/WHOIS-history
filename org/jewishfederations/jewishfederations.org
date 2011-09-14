@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155251297-LROR
+Domain Name:JEWISHFEDERATIONS.ORG
+Created On:02-Feb-2009 16:10:59 UTC
+Last Updated On:02-Sep-2011 16:29:27 UTC
+Expiration Date:02-Feb-2017 16:10:59 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38165621
+Registrant Name:Steve Cupertino
+Registrant Organization:Jewish Federations of North America
+Registrant Street1:25 Broadway
+Registrant Street2:Suite 1700
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10004
+Registrant Country:US
+Registrant Phone:+1.2122846610
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:steve.cupertino@jewishfederations.org
+Admin ID:CR38165623
+Admin Name:Steve Cupertino
+Admin Organization:Jewish Federations of North America
+Admin Street1:25 Broadway
+Admin Street2:Suite 1700
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10004
+Admin Country:US
+Admin Phone:+1.2122846610
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:steve.cupertino@jewishfederations.org
+Tech ID:CR38165622
+Tech Name:Steve Cupertino
+Tech Organization:Jewish Federations of North America
+Tech Street1:25 Broadway
+Tech Street2:Suite 1700
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10004
+Tech Country:US
+Tech Phone:+1.2122846610
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:steve.cupertino@jewishfederations.org
+Name Server:CBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:CMTU.MT.NS.ELS-GMS.ATT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
