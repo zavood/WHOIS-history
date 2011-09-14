@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALOJATE5.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS1.ALOJATE5.COM
-   Name Server: NS2.ALOJATE5.COM
+   Domain Name: COLOMBIA.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-feb-2011
-   Creation Date: 08-feb-2008
-   Expiration Date: 08-feb-2012
+   Updated Date: 16-jul-2011
+   Creation Date: 16-jul-1998
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:09:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:09:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +57,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Alojate.Com
+   Worldcom Exchange
+   6 Delaware Dr
+   Salem, NH  03079
+   US
 
-   Registered through: Domainus Rex
-   Domain Name: ALOJATE5.COM
+   Registrar: DOTSTER
+   Domain Name: COLOMBIA.COM
+      Created on: 16-JUL-98
+      Expires on: 15-JUL-12
+      Last Updated on: 25-JUN-11
+
+   Administrative, Technical Contact:
+      Rosas, Belisario  rosas@wei.com
+      Worldcom Exchange
+      6 Delaware Dr
+      Salem, NH  03079
+      US
+      603 8930900
+      603 8934442
+
 
    Domain servers in listed order:
-      NS1.ALOJATE5.COM
-      NS2.ALOJATE5.COM
+      NS10.DNSMADEEASY.COM
+      NS11.DNSMADEEASY.COM
+      NS12.DNSMADEEASY.COM
+      NS13.DNSMADEEASY.COM
+      NS14.DNSMADEEASY.COM
+      NS15.DNSMADEEASY.COM
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=ALOJATE5.COM&amp;prog_id=domainusrex
+End of Whois Information

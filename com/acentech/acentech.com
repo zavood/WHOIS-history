@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BROADWAY.COM
+   Domain Name: ACENTECH.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS-A.PNAP.NET
-   Name Server: NS-B.PNAP.NET
-   Name Server: NS-C.PNAP.NET
-   Name Server: NS-D.PNAP.NET
+   Name Server: NS75.WORLDNIC.COM
+   Name Server: NS76.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 06-oct-2006
-   Creation Date: 07-jun-1994
-   Expiration Date: 07-dec-2011
+   Updated Date: 24-may-2011
+   Creation Date: 25-may-1995
+   Expiration Date: 24-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:09:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:09:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about BROADWAY.COM
-&lt;a href=&quot;http://www.aboutus.org/BROADWAY.COM&quot;&gt;AboutUs: BROADWAY.COM &lt;/a&gt;
+Visit AboutUs.org for more information about ACENTECH.COM
+&lt;a href=&quot;http://www.aboutus.org/ACENTECH.COM&quot;&gt;AboutUs: ACENTECH.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Theatre Direct NY, Inc
-   729 7th Ave 6th Floor
-   New York, NY 10019
-   US
+Acentech Incorporated
+   ATTN ACENTECH.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: BROADWAY.COM
+
+   Domain Name: ACENTECH.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,25 +96,40 @@ Theatre Direct NY, Inc
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Admin, Domain		domainadmin@broadway.com
-      Broadway.com
-      729 7th Avenue
-      6th Floor
-      New York, NY 10019
+   Administrative Contact:
+      Fine, Richard		qg8rm3uw6zm@networksolutionsprivateregistration.com
+      Acentech
+      ATTN ACENTECH.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      212-541-8457
+      570-708-8780
+
+   Technical Contact:
+      @mindshift.com, DNSAdmin		eb3u55th7tn@networksolutionsprivateregistration.com
+      mindSHIFT Technologies
+      ATTN ACENTECH.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
+      US
+      570-708-8780
 
 
-   Record expires on 07-Dec-2011.
-   Record created on 07-Jun-1994.
-   Database last updated on 14-Sep-2011 01:04:47 EDT.
+   Record expires on 24-May-2021.
+   Record created on 25-May-1995.
+   Database last updated on 14-Sep-2011 00:59:28 EDT.
 
    Domain servers in listed order:
 
-   NS-C.PNAP.NET                64.95.61.4
-   NS-A.PNAP.NET                64.94.123.4
-   NS-D.PNAP.NET                64.95.61.36
-   NS-B.PNAP.NET                64.94.123.36
+   NS75.WORLDNIC.COM            205.178.190.38
+   NS76.WORLDNIC.COM            206.188.198.38
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 
