@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOVT.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
+   Domain Name: INKIBIKKE.COM
+   Registrar: ALANTRON BILISIM LTD STI.
+   Whois Server: whois.alantron.com
+   Referral URL: http://www.alantron.com
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-may-2011
-   Creation Date: 20-jun-1997
-   Expiration Date: 19-jun-2012
+   Updated Date: 06-apr-2011
+   Creation Date: 05-apr-2008
+   Expiration Date: 05-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:11:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,5 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+WHOIS SUNUCUSU v.10.6
+	Idari Yonetici / Registrant
+	(Admin)
+	Ad / Name	Salih Onur  ZORLU
+	Adres	Altinevler Sitesi 2. Blk B Giris Daire 5, 383. Sk, Baglar Cd, Istiklal Mh, Serdivan Sakarya
+	Tel	05396043264
+	Faks	05386425628
+	E-posta   435938126_identity_protected@alantron.com
+	Guncelleme / Updated  2008-04-05
+
+	Teknik Yetkili / Tech
+        Ad / Name      Alantron Bilisim Ltd. Sti.
+        Adres KOU TeknoPark YeniKoy Yerleskesi D2 Izmit alantron.com  41200
+        Tel   +90.262.444-1625
+        Faks     +90.262.341-4999
+        E-posta   435938126_identity_protected@alantron.com
+        Guncelleme / Updated	2008-04-05
+
+	Muhasebe Yetkilisi / Billing
+        Ad / Name   Salih Onur  ZORLU
+        Adres Altinevler Sitesi 2. Blk B Giris Daire 5, 383. Sk, Baglar Cd, Istiklal Mh, Serdivan Sakarya
+        Tel   05396043264
+        Faks     05386425628
+        E-posta   435938126_identity_protected@alantron.com
+        Guncelleme / Updated 2008-04-05
+
+Alan Adi Sunucusu1 / DNS1       ns25.domaincontrol.com
+Alan Adi Sunucusu1 IP / DNS1 IP
+Alan Adi Sunucusu2 / DNS2       ns26.domaincontrol.com
+Alan Adi Sunucusu2 IP / DNS2 IP
+Son Guncelleme/ Last Updated  		2008-04-05
+Kayit Tarihi / Registration Date	2011-04-07
+SKT / Exp. Date				2012-04-05
+Statu					Aktif + Kilitli (Active + Locked)
+
+
+
+2011-09-14
+
+

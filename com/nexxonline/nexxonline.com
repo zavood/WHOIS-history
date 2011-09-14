@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOVT.COM
+   Domain Name: NEXXONLINE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-may-2011
-   Creation Date: 20-jun-1997
-   Expiration Date: 19-jun-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 21-apr-2005
+   Expiration Date: 21-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

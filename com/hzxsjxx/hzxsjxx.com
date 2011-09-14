@@ -5,21 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOVT.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-may-2011
-   Creation Date: 20-jun-1997
-   Expiration Date: 19-jun-2012
+   Domain Name: HZXSJXX.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS000.ONLINENIC.COM
+   Name Server: NS4.ONLINENIC.COM
+   Status: ok
+   Updated Date: 28-dec-2010
+   Creation Date: 26-mar-2004
+   Expiration Date: 26-mar-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:03 UTC &lt;&lt;&lt;
 
@@ -56,5 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 hzxsjxx hzxsj@mail.huptt.zj.cn +86.5722033760
+	 hzxsjxx
+	 LaoDong Road 190 HuZhou ZheJiang  China
+	 huzhou,Zhejiang,CN 313000
+
+
+Domain Name:hzxsjxx.com
+Record last updated at 2004-03-26 07:49:46
+Record created on 2004/3/26
+Record expired on 2014/3/26
+
+
+Domain servers in listed order:
+	 ns000.onlinenic.com 	 ns4.onlinenic.com
+
+Administrator:
+	 hzxsjxx hzxsj@mail.huptt.zj.cn +86.5722033760
+	 hzxsjxx
+	 LaoDong Road 190 HuZhou ZheJiang  China
+	 huzhou,Zhejiang,CN 313000
+
+Technical Contactor:
+	 hzxsjxx hzxsj@mail.huptt.zj.cn +86.5722033760
+	 hzxsjxx
+	 LaoDong Road 190 HuZhou ZheJiang  China
+	 huzhou,Zhejiang,CN 313000
+
+Billing Contactor:
+	 hzxsjxx hzxsj@mail.huptt.zj.cn +86.5722033760
+	 hzxsjxx
+	 LaoDong Road 190 HuZhou ZheJiang  China
+	 huzhou,Zhejiang,CN 313000
+

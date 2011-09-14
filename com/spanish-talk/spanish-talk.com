@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOVT.COM
+   Domain Name: SPANISH-TALK.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-may-2011
-   Creation Date: 20-jun-1997
-   Expiration Date: 19-jun-2012
+   Name Server: ULTRA103.UK2.NET
+   Name Server: ULTRA104.UK2.NET
+   Status: ok
+   Updated Date: 07-may-2011
+   Creation Date: 15-may-2007
+   Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
