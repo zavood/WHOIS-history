@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POELEAGRANULES.NET
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: DOCKS09.RZONE.DE
-   Name Server: SHADES05.RZONE.DE
-   Status: ok
-   Updated Date: 05-jun-2011
-   Creation Date: 04-jun-2007
-   Expiration Date: 04-jun-2012
+   Domain Name: AMPEG.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: clientTransferProhibited
+   Updated Date: 19-sep-2006
+   Creation Date: 09-apr-1996
+   Expiration Date: 10-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:33:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:32:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Owner Contact:
-   Jean Coulon
-   Coulon
-   2557 avenue de la republique
-   mazaugues, 83136, FR
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-   Punycode Name:  poeleagranules.net
-   Unicode Name:   poeleagranules.net
+http://www.networksolutions.com/whois/index.jhtml
 
-   Admin Contact
-      Jean Coulon
-      Coulon
-      jean.coulon9@wanadoo.fr
-      2557 avenue de la republique
-      mazaugues, 83136, FR
-      phone: +33 494868664
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Technical Contact
-      Hostmaster Strato Rechenzentrum
-      Cronon AG Professional IT-Services
-      hostmaster@cronon-isp.net
-      Emmy-Noether-Str. 10
-      Karlsruhe, D-76131, DE
-      phone: +49 72166320305
-
-   Zone Contact
-      Hostmaster Strato Rechenzentrum
-      Cronon AG Professional IT-Services
-      hostmaster@cronon-isp.net
-      Emmy-Noether-Str. 10
-      Karlsruhe, D-76131, DE
-      phone: +49 72166320305
-
-   Record expires on: 2012-06-05 03:27:50
-
-   Domain servers in listed order:
-
-      docks09.rzone.de
-      shades05.rzone.de
-
-
-
+Whois Query: ampeg.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 19:22:58 EDT 2011
+Reason Code: IE
