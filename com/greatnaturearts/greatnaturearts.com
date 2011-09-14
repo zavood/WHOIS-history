@@ -5,16 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-QQ.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-QQ.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-QQ.COM.CN
-QQ.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:37:31 UTC &lt;&lt;&lt;
+No match for &quot;GREATNATUREARTS.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:36:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
