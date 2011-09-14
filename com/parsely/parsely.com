@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AHFORCE.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.AHFORCE.COM
-   Name Server: NS2.AHFORCE.COM
+   Domain Name: PARSELY.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS-1076.AWSDNS-06.ORG
+   Name Server: NS-1808.AWSDNS-34.CO.UK
+   Name Server: NS-217.AWSDNS-27.COM
+   Name Server: NS-973.AWSDNS-57.NET
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Status: clientUpdateProhibited
+   Updated Date: 06-mar-2011
+   Creation Date: 18-may-2004
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:59:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:01:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,59 +56,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Domain name: ahforce.com
 
-Registrant Contact:
-   Whois Privacy Protection Service
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+Registrant:
+   Parsely, Inc.
 
-Administrative Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: PARSELY.COM
 
-Technical Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   Domain servers in listed order:
+      NS-973.AWSDNS-57.NET
+      NS-217.AWSDNS-27.COM
+      NS-1076.AWSDNS-06.ORG
+      NS-1808.AWSDNS-34.CO.UK
 
-Billing Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
 
-DNS:
-ns1.ahforce.com
-ns2.ahforce.com
-
-Created: 2010-11-09
-Expires: 2011-11-09
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=PARSELY.COM

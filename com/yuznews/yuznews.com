@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 5D6D.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.5D6D.COM
-   Name Server: NS2.5D6D.COM
-   Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-sep-2006
-   Expiration Date: 09-sep-2014
+   Domain Name: YUZNEWS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS2671.HOSTGATOR.COM
+   Name Server: NS2672.HOSTGATOR.COM
+   Status: ok
+   Updated Date: 03-sep-2011
+   Creation Date: 14-sep-2010
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:00:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:01:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... yuznews.com
+  Creation Date........ 2010-09-14
+  Registration Date.... 2010-09-14
+  Expiry Date.......... 2012-09-14
+  Organisation Name.... yuznews
+  Organisation Address. jl angkasa spoor 2 no 13
+  Organisation Address. kemayoran
+  Organisation Address. jakarta
+  Organisation Address. 10610
+  Organisation Address. dki jakarta
+  Organisation Address. INDONESIA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... chandra heryawan
+  Admin Address........ jl angkasa spoor 2 no 13
+  Admin Address........ kemayoran
+  Admin Address........ jakarta
+  Admin Address........ 10610
+  Admin Address........ dki jakarta
+  Admin Address........ INDONESIA
+  Admin Email.......... yuznews@yahoo.com
+  Admin Phone.......... +1.620214216759
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns2671.hostgator.com
+  Name Server.......... ns2672.hostgator.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: 5d6d.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 22:51:03 EDT 2011
-Reason Code: IE

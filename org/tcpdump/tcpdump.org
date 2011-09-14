@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11034018-LROR
+Domain Name:TCPDUMP.ORG
+Created On:06-Oct-1999 13:53:53 UTC
+Last Updated On:08-Mar-2011 18:15:20 UTC
+Expiration Date:06-Oct-2012 13:53:53 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuTvVuArMrDyhStC
+Registrant Name:Michael Richardson
+Registrant Organization:Sandelman Software Works Corporation
+Registrant Street1:470 Dawson Avenue, ,
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ottawa,
+Registrant State/Province:ON
+Registrant Postal Code:K1Z5V7
+Registrant Country:CA
+Registrant Phone:+1.6132766809
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mcr@ox.org
+Admin ID:tuRPjs6aJLx7tXAr
+Admin Name:Michael Richardson
+Admin Organization:Sandelman Software Works Corporation
+Admin Street1:470 Dawson Avenue, ,
+Admin Street2:
+Admin Street3:
+Admin City:Ottawa,
+Admin State/Province:ON
+Admin Postal Code:K1Z5V7
+Admin Country:CA
+Admin Phone:+1.6132766809
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mcr@ox.org
+Tech ID:tu8qkPgpdZJG71XK
+Tech Name:Mr Michael Charles Richardson
+Tech Organization:Sandelman Software Works
+Tech Street1:470 Dawson Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Ottawa
+Tech State/Province:on
+Tech Postal Code:K1Z5V7
+Tech Country:CA
+Tech Phone:+1.6132766809
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sales@sandelman.ca
+Name Server:SNS.COOPERIX.NET
+Name Server:NIC.SANDELMAN.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AHFORCE.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.AHFORCE.COM
-   Name Server: NS2.AHFORCE.COM
-   Status: clientDeleteProhibited
+   Domain Name: SELFMAD.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: SNS59.WEBSITEWELCOME.COM
+   Name Server: SNS60.WEBSITEWELCOME.COM
    Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Updated Date: 11-may-2011
+   Creation Date: 10-may-2009
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:59:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:00:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,7 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about selfmad.com
+&lt;a href=&quot;http://www.aboutus.org/selfmad.com&quot;&gt;AboutUs: selfmad.com&lt;/a&gt;
 
+
+Domain name: selfmad.com
+
+Registrant Contact:
+   dym
+   yuki mizutani ()
+
+   Fax:
+   kamioosaki2-15-19-8F
+   shinagawa-ku, tokyo-to 141-0021
+   JP
+
+Administrative Contact:
+   DigiRock, Inc.
+   DIGIROCK INC. (domain-contact@digi-rock.com)
+   +81.662416585
+   Fax: +81.662416586
+   Chuo-ku Bakurou-cho 4-7-5
+   Osaka-shi, OSAKA-FU 541-0059
+   JP
+
+Technical Contact:
+   DigiRock, Inc.
+   DIGIROCK INC. (domain-contact@digi-rock.com)
+   +81.662416585
+   Fax: +81.662416586
+   Chuo-ku Bakurou-cho 4-7-5
+   Osaka-shi, OSAKA-FU 541-0059
+   JP
+
+Status: Locked
+
+Name Servers:
+   sns59.websitewelcome.com
+   sns60.websitewelcome.com
+
+Creation date: 11 May 2009 01:38:26
+Expiration date: 11 May 2012 01:38:26
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -63,48 +108,10 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
+mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+consent from us.
 
-Domain name: ahforce.com
-
-Registrant Contact:
-   Whois Privacy Protection Service
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Administrative Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Technical Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Billing Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-DNS:
-ns1.ahforce.com
-ns2.ahforce.com
-
-Created: 2010-11-09
-Expires: 2011-11-09
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

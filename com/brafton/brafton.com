@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AHFORCE.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.AHFORCE.COM
-   Name Server: NS2.AHFORCE.COM
-   Status: clientDeleteProhibited
+   Domain Name: BRAFTON.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS-1485.AWSDNS-57.ORG
+   Name Server: NS-1684.AWSDNS-18.CO.UK
+   Name Server: NS-356.AWSDNS-44.COM
+   Name Server: NS-513.AWSDNS-00.NET
    Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Status: clientUpdateProhibited
+   Updated Date: 10-mar-2011
+   Creation Date: 10-may-2005
+   Expiration Date: 10-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:59:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:01:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,59 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
-
-Domain name: ahforce.com
-
-Registrant Contact:
-   Whois Privacy Protection Service
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Administrative Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Technical Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-Billing Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-DNS:
-ns1.ahforce.com
-ns2.ahforce.com
-
-Created: 2010-11-09
-Expires: 2011-11-09
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

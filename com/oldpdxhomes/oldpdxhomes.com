@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AHFORCE.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.AHFORCE.COM
-   Name Server: NS2.AHFORCE.COM
+   Domain Name: OLDPDXHOMES.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.LUNARPAGES.COM
+   Name Server: NS2.LUNARPAGES.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Status: clientUpdateProhibited
+   Updated Date: 08-nov-2009
+   Creation Date: 07-nov-2002
+   Expiration Date: 07-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:59:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:01:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,58 +54,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain name: ahforce.com
+Registrant:
+   Diane Ingalls
+   605 SE 55th
+   Portland, OR  97215
+   US
 
-Registrant Contact:
-   Whois Privacy Protection Service
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   Registrar: DOTSTER
+   Domain Name: OLDPDXHOMES.COM
+      Created on: 07-NOV-02
+      Expires on: 07-NOV-12
+      Last Updated on: 15-JUL-10
 
-Administrative Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   Administrative Contact:
+      Ingalls, Diane  diane@oldpdxhomes.com
+      605 SE 55th
+      Portland, OR  97215
+      US
+      503-239-0966
 
-Technical Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   Technical Contact:
+      West, J.  jwest@designweststudio.com
+      Designwest
+      9752 N Ivanhoe St
+      Portland, OR  97203
+      US
+      503-274-9625
 
-Billing Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
 
-DNS:
-ns1.ahforce.com
-ns2.ahforce.com
+   Domain servers in listed order:
+      NS1.LUNARPAGES.COM
+      NS2.LUNARPAGES.COM
 
-Created: 2010-11-09
-Expires: 2011-11-09
+End of Whois Information

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AHFORCE.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.AHFORCE.COM
-   Name Server: NS2.AHFORCE.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 09-nov-2010
-   Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Domain Name: DNF6699.COM
+   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
+   Whois Server: whois.55hl.com
+   Referral URL: http://www.55hl.com
+   Name Server: NS1.4CUN.COM
+   Name Server: NS2.4CUN.COM
+   Status: ok
+   Updated Date: 23-jun-2011
+   Creation Date: 08-may-2011
+   Expiration Date: 08-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:59:57 UTC &lt;&lt;&lt;
 
@@ -63,48 +62,41 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
+mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
+consent from us. We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
 
-Domain name: ahforce.com
+Domain Name: dnf6699.com
 
 Registrant Contact:
-   Whois Privacy Protection Service
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   lulian
+   lian lu 19518597@qq.com
+   +86.057188888888  fax: +86.057188888888
+   hebeishi
+   hebeishi hebei 452000
+   CN
 
 Administrative Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   lulian
+   lian lu 19518597@qq.com
+   +86.057188888888  fax: +86.057188888888
+   hebeishi
+   hebeishi hebei 452000
+   CN
 
 Technical Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
+   lulian
+   lian lu 19518597@qq.com
+   +86.057188888888  fax: +86.057188888888
+   hebeishi
+   hebeishi hebei 452000
+   CN
 
 Billing Contact:
-   Whois Agent gmvjcxkxhs@whoisservices.cn
-   +86.05922577888 fax: +86.05922577111
-   No. 61 Wanghai Road, Xiamen Software Park
-   xiamen fujian 361008
-   cn
-
-DNS:
-ns1.ahforce.com
-ns2.ahforce.com
-
-Created: 2010-11-09
-Expires: 2011-11-09
+   lulian
+   lian lu 19518597@qq.com
+   +86.057188888888  fax: +86.057188888888
+   hebeishi
+   hebeishi hebei 452000
+   CN
