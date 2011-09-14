@@ -1,0 +1,79 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:51:56 2011
+
+domain:       maxxl.cz
+registrant:   AXT:OWNER:MAXXL:01
+admin-c:      AXT:ADMIN:01
+nsset:        AXT:NSS:01
+registrar:    REG-AXFONE
+status:       paid and in zone
+registered:   10.03.2009 11:29:56
+expire:       10.03.2012
+
+contact:      AXT:OWNER:MAXXL:01
+org:          MAXXL
+name:         Mach Ladislav
+address:      V Uli&Auml;çce
+address:      Vele&Aring;à 26
+address:      25063
+address:      CZ
+phone:        +420.606303884
+e-mail:       maxxl.velen@seznam.cz
+registrar:    REG-AXFONE
+created:      10.03.2009 11:29:38
+
+contact:      AXT:ADMIN:01
+org:          AXFONE s.r.o.
+name:         Technicka Podpora / Technical Support
+address:      Koda&Aring;àsk&Atilde;&iexcl; 1441/46
+address:      Praha 10
+address:      10100
+address:      CZ
+phone:        +420.277277272
+fax-no:       +420.241410071
+e-mail:       domeny@axfone.cz
+registrar:    REG-AXFONE
+created:      06.11.2008 17:36:08
+changed:      15.02.2011 17:50:41
+
+nsset:        AXT:NSS:01
+nserver:      ns.axfone.cz (80.79.25.65)
+nserver:      ns.axfone.sk
+nserver:      ns.axfone.eu
+tech-c:       AXT:TECH:01
+registrar:    REG-AXFONE
+created:      06.11.2008 16:44:03
+changed:      15.03.2011 13:56:17
+
+contact:      AXT:TECH:01
+org:          AXFONE s.r.o.
+name:         Technicka Podpora / Technical Support
+address:      Koda&Aring;àsk&Atilde;&iexcl; 1441/46
+address:      Praha 10
+address:      10100
+address:      CZ
+phone:        +420.277277272
+fax-no:       +420.241410071
+e-mail:       technici@axfone.cz
+registrar:    REG-AXFONE
+created:      06.11.2008 14:42:55
+changed:      15.02.2011 17:52:31
+
+

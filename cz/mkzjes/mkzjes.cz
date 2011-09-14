@@ -1,0 +1,75 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:52:13 2011
+
+domain:       mkzjes.cz
+registrant:   SB:SUB000009788-ZONER
+admin-c:      PER000009788-ZONER
+temp-c:       PER000000001-ZONER
+nsset:        M4WN-CEFCC
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   25.06.2002 21:06:00
+changed:      14.03.2008 07:25:58
+expire:       24.06.2012
+
+contact:      SB:SUB000009788-ZONER
+org:          Mestska kulturni zarizeni Jesenik
+name:         Mestska kulturni zarizeni Jesenik
+address:      28. rijna 880/16
+address:      Jesenik
+address:      79001
+address:      CZ
+e-mail:       mkz@jes.cz
+registrar:    REG-MEDIA4WEB
+created:      25.06.2002 20:56:00
+
+contact:      PER000009788-ZONER
+name:         Miroslav Hrdlicka
+address:      28. rijna 880/16
+address:      Jesenik
+address:      79001
+address:      CZ
+phone:        +420 584411254
+fax-no:       +420 584411505
+e-mail:       mkz@jes.cz
+registrar:    REG-MEDIA4WEB
+created:      25.06.2002 20:36:00
+
+contact:      PER000000001-ZONER
+name:         Petr Horinek
+address:      Nov&Atilde;&copy; sady 18
+address:      Brno
+address:      60200
+address:      CZ
+phone:        +420.543257244
+fax-no:       +420.543257245
+e-mail:       auto-reg@admin.czechia.com
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      26.08.2005 15:05:00
+
+nsset:        M4WN-CEFCC
+nserver:      ns0.atlantis.sk
+nserver:      ns1.atlantis.sk
+tech-c:       PER000009788-ZONER
+registrar:    REG-MEDIA4WEB
+created:      14.03.2008 07:24:39
+
+
