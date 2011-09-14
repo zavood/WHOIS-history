@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOESDNS.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.JOESDNS.NET
-   Name Server: NS2.JOESDNS.NET
-   Status: clientTransferProhibited
-   Updated Date: 14-nov-2010
-   Creation Date: 12-dec-2002
-   Expiration Date: 12-dec-2011
+   Domain Name: WINTSCH.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   Status: ok
+   Updated Date: 29-may-2011
+   Creation Date: 21-may-2002
+   Expiration Date: 21-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:38:05 UTC &lt;&lt;&lt;
 
@@ -51,70 +52,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about joesdns.net
-&lt;a href=&quot;http://www.aboutus.org/joesdns.net&quot;&gt;AboutUs: joesdns.net&lt;/a&gt;
+Registration Service Provided By: INTUITIVEISP.COM
+Contact: +1.7077510895
 
+Domain Name: WINTSCH.COM
 
-Domain name: joesdns.net
+Registrant:
+    Adam Gerstein
+    Adam Gerstein        (domain-names@computerboy.com)
+    P.O. Box 3731
+    Milford
+    Connecticut,06460
+    US
+    Tel. +01.2038877791
+
+Creation Date: 21-May-2002
+Expiration Date: 21-May-2012
+
+Domain servers in listed order:
+    ns1.dreamhost.com
+    ns2.dreamhost.com
+    ns3.dreamhost.com
+
 
 Administrative Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+    Adam Gerstein
+    Adam Gerstein        (domain-names@computerboy.com)
+    P.O. Box 3731
+    Milford
+    Connecticut,06460
+    US
+    Tel. +01.2038877791
 
 Technical Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki (billing@joeswebhosting.net)
-   +81.663456070
-   Fax: +81.663456071
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+    Adam Gerstein
+    Adam Gerstein        (domain-names@computerboy.com)
+    P.O. Box 3731
+    Milford
+    Connecticut,06460
+    US
+    Tel. +01.2038877791
 
-Registrant Contact:
-   Joe's Web Hosting, Inc.
-   Teiko Suzuki ()
+Billing Contact:
+    Adam Gerstein
+    Adam Gerstein        (domain-names@computerboy.com)
+    P.O. Box 3731
+    Milford
+    Connecticut,06460
+    US
+    Tel. +01.2038877791
 
-   Fax:
-   9th Floor, 1-11-4 Umeda
-   Kitaku
-   Osaka, JP 530-0001
-   JP
+Status:ACTIVE
 
-Status: Locked
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Name Servers:
-   ns1.joesdns.net
-   ns2.joesdns.net
-
-Creation date: 13 Dec 2002 01:41:11
-Expiration date: 13 Dec 2011 01:41:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

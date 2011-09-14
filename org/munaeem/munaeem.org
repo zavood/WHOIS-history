@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D137635886-LROR
+Domain Name:MUNAEEM.ORG
+Created On:18-Jan-2007 09:28:27 UTC
+Last Updated On:16-Jan-2011 08:28:19 UTC
+Expiration Date:18-Jan-2012 09:28:27 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:97f706fa8b4ac82d
+Registrant Name:Mohammad Munaeem  Jamal
+Registrant Street1:R-650 Sector-10 North Karachi
+Registrant Street2:
+Registrant Street3:
+Registrant City:Karachi
+Registrant State/Province:Sind
+Registrant Postal Code:75850
+Registrant Country:PK
+Registrant Phone:+92.36972224
+Registrant Phone Ext.:
+Registrant FAX:+92.36972224
+Registrant FAX Ext.:
+Registrant Email:munaeem@yahoo.com
+Admin ID:1c31ec1cd2dd09eb
+Admin Name:Mohammad Munaeem  Jamal
+Admin Street1:R-650 Sector North Karachi
+Admin Street2:
+Admin Street3:
+Admin City:Karachi
+Admin State/Province:Sind
+Admin Postal Code:75850
+Admin Country:PK
+Admin Phone:+92.36972224
+Admin Phone Ext.:
+Admin FAX:+92.36972224
+Admin FAX Ext.:
+Admin Email:munaeem@yahoo.com
+Tech ID:6479f2c5c32900bf
+Tech Name:Mohammad Munaeem  Jamal
+Tech Street1:R-650 Sector 10 North Karachi
+Tech Street2:
+Tech Street3:
+Tech City:Karachi
+Tech State/Province:Sind
+Tech Postal Code:75850
+Tech Country:PK
+Tech Phone:+92.36972224
+Tech Phone Ext.:
+Tech FAX:+92.36972224
+Tech FAX Ext.:
+Tech Email:munaeem@yahoo.com
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:MNS01.DOMAINCONTROL.COM
+Name Server:MNS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
