@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONEWORLDLIVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS27.WORLDNIC.COM
-   Name Server: NS28.WORLDNIC.COM
+   Domain Name: BLUE920.COM
+   Registrar: NAME2HOST, INC. DBA NAME2HOST.COM
+   Whois Server: whois.name2host.com
+   Referral URL: http://www.name2host.com
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 11-may-1999
-   Expiration Date: 11-may-2015
+   Updated Date: 03-jan-2011
+   Creation Date: 27-jun-2007
+   Expiration Date: 27-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:38 UTC &lt;&lt;&lt;
 
@@ -51,23 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain name: BLUE920.COM
+   Updated Date: 2007-06-27
+   Creation Date: 2007-06-27
+   Expiration Date: 2012-06-27
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+    Duan Chun Yong
+    CHONGQING CHINA
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+    CHONGQING CHONGQING 400700
+    CHINA
+    Phone: 15823916203 Fax: 15823916203
 
-Whois Query: oneworldlive.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 09:06:40 EDT 2011
-Reason Code: IE
+Administrative Contact:
+    Duan Chun Yong Duan Chun Yong 1232614@qq.com
+    CHONGQING CHINA
+
+
+    CHONGQING CHONGQING 400700
+    CHINA
+    Phone: 15823916203 Fax: 15823916203
+
+Technical Contact:
+    Duan Chun Yong Duan Chun Yong 1232614@qq.com
+    CHONGQING CHINA
+
+
+    CHONGQING CHONGQING 400700
+    CHINA
+    Phone: 15823916203 Fax: 15823916203
+
+Registrar of Record: NAME2HOST, INC.
+Domain servers in listed order:
+    F1G1NS1.DNSPOD.NET   125.39.58.12
+    F1G1NS2.DNSPOD.NET   112.90.143.29
+
+
+Name2Host makes this information available &quot;as is,&quot; and does not guarantee
+its accuracy.
+
+By submitting a WHOIS query, you agree not to use this data to allow,
+enable, or otherwise support for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to collect or compile this data for any purpose,
+including repackaging this data for your own personal or commercial purposes.
+
+Name2Host reserves the right to modify these terms at any time.
+

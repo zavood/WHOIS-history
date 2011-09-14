@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONEWORLDLIVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS27.WORLDNIC.COM
-   Name Server: NS28.WORLDNIC.COM
+   Domain Name: DISCOUNTAUTOINC.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.DEALERCARSEARCH.COM
+   Name Server: NS2.DEALERCARSEARCH.COM
    Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 11-may-1999
-   Expiration Date: 11-may-2015
+   Updated Date: 03-nov-2010
+   Creation Date: 07-mar-2005
+   Expiration Date: 07-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:17:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about discountautoinc.com
+&lt;a href=&quot;http://www.aboutus.org/discountautoinc.com&quot;&gt;AboutUs: discountautoinc.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: discountautoinc.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   NA
+    Discount Auto Inc ()
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fax:
+   2729 S. Memorial Dr.
+   NA,
+   US
 
-Whois Query: oneworldlive.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 09:06:40 EDT 2011
-Reason Code: IE
+Administrative Contact:
+   Discount Auto Inc,
+   Joseph Wilkins (domainreg@hostw3.com)
+   (252)-327-5004
+   Fax:
+   2729 S. Memorial Dr.
+   NA,
+   US
+
+Technical Contact:
+   SiteProduct Web Services
+   Administrator DNS (domainreg@hostw3.com)
+   (131)22362132
+   Fax:
+   1 N State Street
+   NA,
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.dealercarsearch.com
+   ns2.dealercarsearch.com
+
+Creation date: 07 Mar 2005 15:27:00
+Expiration date: 07 Mar 2013 15:27:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

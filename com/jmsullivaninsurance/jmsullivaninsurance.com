@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONEWORLDLIVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS27.WORLDNIC.COM
-   Name Server: NS28.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 11-may-1999
-   Expiration Date: 11-may-2015
+   Domain Name: JMSULLIVANINSURANCE.COM
+   Registrar: DOMAINREGISTRY.COM, INC.
+   Whois Server: nswhois.domainregistry.com
+   Referral URL: http://www.domainregistry.com
+   Name Server: NS4.LUNARPAGES.COM
+   Name Server: NS5.LUNARPAGES.COM
+   Status: ok
+   Updated Date: 17-dec-2009
+   Creation Date: 16-dec-2005
+   Expiration Date: 16-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:38 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data in DomainRegistry.com's WHOIS database is provided to you by
+DomainRegistry.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  DomainRegistry.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to DomainRegistry.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of DomainRegistry.com.
+DomainRegistry.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+   Organization:
+      J.M. Sullivan Insurance Agency Inc.
+      1081 North Main Street
+      Brockton, MA 02301
+      US (UNITED STATES)
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar Name....: DomainRegistry.com
+   Registrar Whois...: nswhois.DomainRegistry.com
+   Registrar Homepage: http://www.DomainRegistry.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Domain Name: JMSULLIVANINSURANCE.COM
 
-Whois Query: oneworldlive.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 09:06:40 EDT 2011
-Reason Code: IE
+      Created on..............: 2005-12-16
+      Expires on..............: 2012-12-16
+      Record last updated on..: 2009-12-17
+
+   Administrative contact, Billing_contact, Technical contact, Zone contact:
+      James Sullivan
+      J.M. Sullivan Insurance Agency Inc.
+      1081 North Main Street
+      Brockton, MA 02301
+      US (UNITED STATES)
+      Phone: 508-559-6100
+      Email: sull@jmsullivaninsurance.com
+
+   Domain servers in listed order:
+
+   NS4.LUNARPAGES.COM
+      216.193.215.4
+   NS5.LUNARPAGES.COM
+      216.193.202.5
+
+Domain Registry by http://www.DomainRegistry.com

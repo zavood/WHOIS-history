@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONEWORLDLIVE.COM
+   Domain Name: DIXHONDA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS27.WORLDNIC.COM
-   Name Server: NS28.WORLDNIC.COM
+   Name Server: NS1.VMSOL.COM
+   Name Server: NS2.VMSOL.COM
    Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 11-may-1999
-   Expiration Date: 11-may-2015
+   Updated Date: 03-oct-2006
+   Creation Date: 14-oct-1997
+   Expiration Date: 13-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: oneworldlive.com
+Whois Query: dixhonda.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 09:06:40 EDT 2011
+Date and Time of Query: Wed Sep 14 09:12:25 EDT 2011
 Reason Code: IE

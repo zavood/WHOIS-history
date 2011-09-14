@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONEWORLDLIVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS27.WORLDNIC.COM
-   Name Server: NS28.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 22-may-2011
-   Creation Date: 11-may-1999
-   Expiration Date: 11-may-2015
+   Domain Name: DISCOMOVILMC.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS3.PIENSASOLUTIONS.COM
+   Name Server: NS4.PIENSASOLUTIONS.COM
+   Status: ok
+   Updated Date: 26-sep-2010
+   Creation Date: 25-sep-2007
+   Expiration Date: 25-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:16:38 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Distribuidor Autorizado:
+Piensa Solutions
+info@piensasolutions.com
+http://www.piensasolutions.com
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Domain name: discomovilmc.com
 
-Whois Query: oneworldlive.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 09:06:40 EDT 2011
-Reason Code: IE
+Registrant:
+      Cesar Lisbona Seguin  (SROW-623692)
+
+   mc_discomovil@hotmail.com
+   C  Marte 29 1  B
+   Zaragoza   ZARAGOZA
+   50012   ES
+   +34 646257737
+
+
+Administrative contact:
+   Cesar Lisbona Seguin   (SRCO-969571)
+   mc_discomovil@hotmail.com
+   C  Marte 29 1  B
+   Zaragoza   ZARAGOZA
+   50012   ES
+   +34 646257737
+
+
+Technical contact:
+   Cesar Lisbona Seguin   (SRCO-969572)
+   mc_discomovil@hotmail.com
+   C  Marte 29 1  B
+   Zaragoza   ZARAGOZA
+   50012   ES
+   +34 646257737
+
+
+Domain servers in listed order:
+   ns3.piensasolutions.com  217.76.150.138
+   ns4.piensasolutions.com  217.76.156.138
+
+
+Created:       25 Sep 2007 14:00:08:180   UTC
+Expires:       25 Sep 2011 12:00:15:000   UTC
+Last updated:  26 Sep 2010 15:14:47:170   UTC
+
+
+
