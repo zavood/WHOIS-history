@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLAYONHD.COM
-   Registrar: SOFTLAYER TECHNOLOGIES, INC
-   Whois Server: whois.theplanet.com
-   Referral URL: http://www.softlayer.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Domain Name: AARONWEB.NET
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS0.TRANSIP.NET
+   Name Server: NS1.TRANSIP.NL
+   Name Server: NS2.TRANSIP.EU
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-sep-2010
-   Creation Date: 16-apr-2009
-   Expiration Date: 16-apr-2012
+   Updated Date: 19-feb-2011
+   Creation Date: 18-feb-2005
+   Expiration Date: 18-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:21:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:21:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+; This data is provided by TransIP BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; TransIP BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: AARONWEB.NET
+
+RSP: TransIP BV
+URL: http://www.transip.nl
+
+owner-contact: P-AXV819
+owner-fname: AGAJ
+owner-lname: van Geffen
+owner-street: Hogesteeg 59
+owner-city: Ammerzoden
+owner-zip: 5324 AB
+owner-country: NL
+owner-phone: +31 735993783
+owner-email: aaron@aaronweb.nl
+
+admin-contact: P-ALV778
+admin-organization: van Geffen, A
+admin-fname: AGAJ
+admin-lname: van Geffen
+admin-street: Hogesteeg 59
+admin-city: Ammerzoden
+admin-zip: 5324 AB
+admin-country: NL
+admin-phone: +31 735993783
+admin-email: aaron@aaronweb.nl
+
+tech-contact: P-AEV761
+tech-organization: van Geffen, A
+tech-fname: AGAJ
+tech-lname: van Geffen
+tech-street: Hogesteeg 59
+tech-city: Ammerzoden
+tech-zip: 5324 AB
+tech-country: NL
+tech-phone: +31 735993783
+tech-email: aaron@aaronweb.nl
+
+billing-contact: P-ALV778
+billing-organization: van Geffen, A
+billing-fname: AGAJ
+billing-lname: van Geffen
+billing-street: Hogesteeg 59
+billing-city: Ammerzoden
+billing-zip: 5324 AB
+billing-country: NL
+billing-phone: +31 735993783
+billing-email: aaron@aaronweb.nl
+
+nameserver: ns0.transip.net
+nameserver: ns1.transip.nl
+nameserver: ns2.transip.eu
+
+; TransIP BV
+; Real-time domeinregistratie en -beheer vanaf 4.99 Euro!
+; http://www.transip.nl/products/domain/
+

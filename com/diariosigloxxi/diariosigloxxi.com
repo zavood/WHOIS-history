@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLAYONHD.COM
-   Registrar: SOFTLAYER TECHNOLOGIES, INC
-   Whois Server: whois.theplanet.com
-   Referral URL: http://www.softlayer.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Domain Name: DIARIOSIGLOXXI.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS19.ZONEEDIT.COM
+   Name Server: NS2.MYDOMAIN.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-sep-2010
-   Creation Date: 16-apr-2009
-   Expiration Date: 16-apr-2012
+   Updated Date: 29-jul-2011
+   Creation Date: 09-dec-2003
+   Expiration Date: 09-dec-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:21:10 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
+
+Registrant:
+    Diario Siglo XXI
+    Guillermo Peris
+    Camino de San Jose
+    Castellon, Castellon 12005
+    ES
+    +34.669104458
+    g_peris@hotmail.com
+
+Administrative Contact:
+    Diario Siglo XXI
+    Guillermo Peris
+    Camino de San Jose
+    Castellon, Castellon 12005
+    ES
+    +34.669104458
+    g_peris@hotmail.com
+
+Technical Contact:
+    Diario Siglo XXI
+    Guillermo Peris
+    Camino de San Jose
+    Castellon, Castellon 12005
+    ES
+    +34.669104458
+    g_peris@hotmail.com
+
+Billing Contact
+    Diario Siglo XXI
+    Guillermo Peris
+    Camino de San Jose
+    Castellon, Castellon 12005
+    ES
+    +34.669104458
+    g_peris@hotmail.com
+
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: DIARIOSIGLOXXI.COM
+	Created on..............: 09-DEC-2003
+	Expires on..............: 09-DEC-2016
+	Record last updated on..: 29-JUL-2011
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS19.ZONEEDIT.COM
+    NS2.MYDOMAIN.COM
