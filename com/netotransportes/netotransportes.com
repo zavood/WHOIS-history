@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FILEAVE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.RIPSIDE.COM
-   Name Server: NS2.RIPSIDE.COM
+   Domain Name: NETOTRANSPORTES.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.DOMINIOS.UOL.COM.BR
+   Name Server: NS2.DOMINIOS.UOL.COM.BR
+   Name Server: NS3.DOMINIOS.UOL.COM.BR
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2011
-   Creation Date: 28-may-2006
-   Expiration Date: 28-may-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 27-jul-2011
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:13:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:14:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+% UOL HOST whois server
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Searching for netotransportes.com.  Found 1 record(s) matching netotransportes.com.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain:              netotransportes.com
+Nameserver:          ns1.dominios.uol.com.br
+Nameserver:          ns2.dominios.uol.com.br
+Nameserver:          ns3.dominios.uol.com.br
+Created:             20110727
+Updated:             20110727
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Name:                FRANCISCO ROSA DA SILVA NETO BORGES
+Organization:        FRANCISCO ROSA DA SILVA NETO BORGES
+E-mail:              netoborge@bol.com.br
+Address:             Av castelo Branco 1142
+Address:             75390000
+Address:             SANTA BARBARA DE GOIAS - GO
+Phone:               55 62 36831170
+Country:             BRASIL
+Created:             20110727
+Updated:             20110727
 
-Whois Query: fileave.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 21:03:25 EDT 2011
-Reason Code: IE
+Administrative Contact:
+
+Name:                FRANCISCO ROSA DA SILVA NETO BORGES
+Organization:        FRANCISCO ROSA DA SILVA NETO BORGES
+E-mail:              netoborge@bol.com.br
+Address:             Av castelo Branco 1142
+Address:             75390000
+Address:             SANTA BARBARA DE GOIAS - GO
+Phone:               55 62 36831170
+Country:             BRASIL
+Created:             20110727
+Updated:             20110727
+
+Technical Contact:
+
+Name:                FRANCISCO ROSA DA SILVA NETO BORGES
+Organization:        FRANCISCO ROSA DA SILVA NETO BORGES
+E-mail:              netoborge@bol.com.br
+Address:             Av castelo Branco 1142
+Address:             75390000
+Address:             SANTA BARBARA DE GOIAS - GO
+Phone:               55 62 36831170
+Country:             BRASIL
+Created:             20110727
+Updated:             20110727
+
