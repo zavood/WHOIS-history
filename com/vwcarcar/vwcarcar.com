@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRIBCARS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: FERRARI.FORTWAYNE.COM
-   Name Server: JORDAN.FORTWAYNE.COM
-   Name Server: NS.WVWEB.NET
-   Name Server: QUATRO.OWEB.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-feb-2008
-   Creation Date: 08-feb-2008
-   Expiration Date: 08-feb-2013
+   Domain Name: VWCARCAR.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS000.NS0.COM
+   Name Server: NS212.PAIR.COM
+   Status: ok
+   Updated Date: 04-mar-2007
+   Creation Date: 19-mar-2003
+   Expiration Date: 19-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:02:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:02:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registrant:
+  Paul Hocker
+  c/o pairNIC.com Whois Privacy
+  PO Box 42319
+  Pittsburgh, PA 15203
+  US
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+  4q1p5n5641@eliminatejunkemail.com
+   +1.4123257437
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: VWCARCAR.COM
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative &amp; Technical Contact:
+  Paul Hocker
+  c/o pairNIC.com Whois Privacy
+  PO Box 42319
+  Pittsburgh, PA 15203
+  US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+  3q8p7n0750@nojunkemailaddress.com
+   +1.4123257437
 
-Whois Query: tribcars.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 03:53:03 EDT 2011
-Reason Code: IE
+Domain Name Servers:
+  NS212.PAIR.COM
+  NS000.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     March 19, 2003
+Modified:     March  4, 2007
+ Expires:     March 19, 2012
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

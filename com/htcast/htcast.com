@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KELE55.COM
+   Domain Name: HTCAST.COM
    Registrar: XIN NET TECHNOLOGY CORPORATION
    Whois Server: whois.paycenter.com.cn
    Referral URL: http://www.xinnet.com
-   Name Server: NS1.DNSV3.COM
-   Name Server: NS2.DNSV3.COM
+   Name Server: NS5.GZIDC.COM
+   Name Server: NS6.GZIDC.COM
    Status: ok
-   Updated Date: 18-aug-2011
-   Creation Date: 05-jan-2010
-   Expiration Date: 05-jan-2014
+   Updated Date: 23-feb-2011
+   Creation Date: 22-feb-2008
+   Expiration Date: 22-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:02:27 UTC &lt;&lt;&lt;
 
@@ -66,54 +66,54 @@ apply to Paycenter or its systems.
 Paycenter reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : kele55.com
-PunnyCode        : kele55.com
-Creation Date    : 2010-01-05 13:52:54
-Updated Date     : 2011-08-18 15:21:50
-Expiration Date  : 2014-01-05 13:52:50
+Domain Name      : htcast.com
+PunnyCode        : htcast.com
+Creation Date    : 2008-02-22 00:00:00
+Updated Date     : 2011-02-23 15:56:53
+Expiration Date  : 2012-02-22 00:00:00
 
 
 Registrant:
-  Organization   : Jinhua Feixiang Information And Technology Co.,Ltd.
-  Name           : dong guanjie
-  Address        : F Power,Jiahua plaza,Shangdi , Haidian District, Beijing
-  City           : shixiaqu
-  Province/State : beijingshi
-  Country        : china
-  Postal Code    : 100089
+  Organization   : Haian haitai foundry casting co.,ltd
+  Name           : UniteTrend
+  Address        : haitai foundry,sunzhuang town,haian city,Jiangsu.
+  City           : Haian
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 226600
 
 Administrative Contact:
-  Name           : dong guanjie
-  Organization   : dong guanjie
-  Address        : Beijing Home garden , Northeast of Long Xingyuan , Hui Longguan District , ChangPing District , Beijing
-  City           : beijing
-  Province/State : Beijing
-  Country        : cn
-  Postal Code    : 102208
-  Phone Number   : 86-010-62034348
-  Fax            : 86-010-62034348
-  Email          : solocomotor@hotmail.com
+  Name           : Unite Trend
+  Organization   : Haian haitai foundry casting co.,ltd
+  Address        : haitai foundry,sunzhuang town,haian city,Jiangsu.
+  City           : Haian
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 226600
+  Phone Number   : 86-0513-88066448
+  Fax            : -513-88066448
+  Email          : vtinc@163.com
 
 Technical Contact:
-  Name           : dong guanjie
-  Organization   : dong guanjie
-  Address        : Beijing Home garden , Northeast of Long Xingyuan , Hui Longguan District , ChangPing District , Beijing
-  City           : beijing
-  Province/State : Beijing
-  Country        : cn
-  Postal Code    : 102208
-  Phone Number   : 86-010-62034348
-  Fax            : 86-010-62034348
-  Email          : solocomotor@hotmail.com
+  Name           : Unite Trend
+  Organization   : UniteTrend media.
+  Address        :
+  City           : Nantong
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 226000
+  Phone Number   : 86-0513-88066448
+  Fax            : 86-513-88066448
+  Email          : vtinc@163.com
 
 Billing Contact:
-  Name           : dong guanjie
-  Organization   : dong guanjie
-  Address        : Beijing Home garden , Northeast of Long Xingyuan , Hui Longguan District , ChangPing District , Beijing
-  City           : beijing
-  Province/State : Beijing
-  Country        : cn
-  Postal Code    : 102208
-  Phone Number   : 86-010-62034348
-  Fax            : 86-010-62034348
-  Email          : solocomotor@hotmail.com
+  Name           : Unite Trend
+  Organization   : UniteTrend media.
+  Address        : 168,peopleM roads,nantong city,Jiangsu.
+  City           : Nantong
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 226000
+  Phone Number   : 86-0513-88066448
+  Fax            : 86-513-88066448
+  Email          : vtinc@163.com
