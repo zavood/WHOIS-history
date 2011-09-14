@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6777186-LROR
+Domain Name:NEOMIN.ORG
+Created On:25-May-1999 11:19:10 UTC
+Last Updated On:25-May-2011 20:36:14 UTC
+Expiration Date:25-May-2021 11:19:48 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24839997-NSI
+Registrant Name:NEOhioManagement Information Network
+Registrant Organization:NEOhioManagement Information Network
+Registrant Street1:528 Educational Highway
+Registrant Street2:
+Registrant Street3:
+Registrant City:Warren
+Registrant State/Province:OH
+Registrant Postal Code:44483
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:oecndns-neomin@ESU.K12.OH.US
+Admin ID:5438513-NSI
+Admin Name:Northwest Ohio Computer Assn.
+Admin Organization:Northwest Ohio Computer Assn.
+Admin Street1:209 Nolan Parkway
+Admin Street2:PO Box 407
+Admin Street3:
+Admin City:Archbold
+Admin State/Province:OH
+Admin Postal Code:43502
+Admin Country:US
+Admin Phone:+1.4192675565
+Admin Phone Ext.:
+Admin FAX:+1.4192675222
+Admin FAX Ext.:
+Admin Email:hostmaster@ESU.K12.OH.US
+Tech ID:5438513-NSI
+Tech Name:Northwest Ohio Computer Assn.
+Tech Organization:Northwest Ohio Computer Assn.
+Tech Street1:209 Nolan Parkway
+Tech Street2:PO Box 407
+Tech Street3:
+Tech City:Archbold
+Tech State/Province:OH
+Tech Postal Code:43502
+Tech Country:US
+Tech Phone:+1.4192675565
+Tech Phone Ext.:
+Tech FAX:+1.4192675222
+Tech FAX Ext.:
+Tech Email:hostmaster@ESU.K12.OH.US
+Name Server:NS1.ESU.K12.OH.US
+Name Server:NS4.ESU.K12.OH.US
+Name Server:NS1.NEOMIN.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
