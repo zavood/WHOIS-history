@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ZUGUA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
-   Name Server: NS4.HE.NET
-   Name Server: NS5.HE.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 25-jun-2010
-   Expiration Date: 25-jun-2012
+   Domain Name: HOMEAUTOPROFITS.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   Status: ok
+   Updated Date: 30-nov-2010
+   Creation Date: 30-nov-2010
+   Expiration Date: 30-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:57:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:57:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   zhu shengen
+   c/o HOMEAUTOPROFITS.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ZUGUA.COM
+   Registrar: DOTSTER
+   Domain Name: HOMEAUTOPROFITS.COM
+      Created on: 30-NOV-10
+      Expires on: 01-DEC-11
+      Last Updated on: 30-NOV-10
+
+   Administrative Contact:
+      XpCCif@PRIVACYPOST.COM
+      c/o HOMEAUTOPROFITS.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
+   Technical Contact:
+      DkEwaV@PRIVACYPOST.COM
+      c/o HOMEAUTOPROFITS.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
 
    Domain servers in listed order:
-      NS2.HE.NET
-      NS3.HE.NET
-      NS4.HE.NET
-      NS5.HE.NET
+      DNS1.STABLETRANSIT.COM
+      DNS2.STABLETRANSIT.COM
 
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ZUGUA.COM
+End of Whois Information

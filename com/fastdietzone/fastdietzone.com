@@ -5,23 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ZUGUA.COM
+   Domain Name: FASTDIETZONE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS2.HE.NET
-   Name Server: NS3.HE.NET
-   Name Server: NS4.HE.NET
-   Name Server: NS5.HE.NET
+   Name Server: CANCER.IMEDIABIZ.COM
+   Name Server: PISCES.IMEDIABIZ.COM
+   Name Server: SCORPIO.IMEDIABIZ.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 25-jun-2010
-   Expiration Date: 25-jun-2012
+   Updated Date: 15-feb-2011
+   Creation Date: 08-feb-2009
+   Expiration Date: 08-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:57:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:57:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   zhu shengen
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ZUGUA.COM
+   Domain Name: FASTDIETZONE.COM
 
    Domain servers in listed order:
-      NS2.HE.NET
-      NS3.HE.NET
-      NS4.HE.NET
-      NS5.HE.NET
+      SCORPIO.IMEDIABIZ.COM
+      CANCER.IMEDIABIZ.COM
+      PISCES.IMEDIABIZ.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ZUGUA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FASTDIETZONE.COM
