@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; dodwan.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      dodwan.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      HS456-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4806-FRNIC
+registrar:   CRONON AG
+anniversary: 19/06
+created:     19/06/2008
+last-update: 19/06/2008
+source:      FRNIC
+
+ns-list:     NSL4806-FRNIC
+nserver:     shades03.rzone.de
+nserver:     docks20.rzone.de
+source:      FRNIC
+
+registrar:   CRONON AG
+type:        Isp Option 2
+address:     Oberm&uuml;ndsterstrasse 9
+address:     DE-93047 REGENSBURG
+country:     DE
+phone:       +49 941 5999 560
+fax-no:      +49 941 5998 978
+e-mail:      tld-hostmaster@cronon.org
+website:     http://www.nicdirect.de
+anonymous:   NO
+registered:  19/01/2006
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     20/03/2008 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HS456-FRNIC
+type:        ROLE
+contact:     Hostmaster Strato
+address:     Cronon AG
+address:     Emmy-Noether-Str. 10
+address:     76131 Karlsruhe
+address:     DE
+e-mail:      harry@cronon.org
+admin-c:     HU14-FRNIC
+tech-c:      HU14-FRNIC
+changed:     20/06/2006 harry@cronon.org
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
