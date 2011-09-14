@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREEEMMAWATSONFAKEPORN.COM
+   Domain Name: KIRISTAR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS71.DOMAINCONTROL.COM
-   Name Server: NS72.DOMAINCONTROL.COM
+   Name Server: NS1.AFRAID.ORG
+   Name Server: NS2.AFRAID.ORG
+   Name Server: NS3.AFRAID.ORG
+   Name Server: NS4.AFRAID.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-may-2011
-   Creation Date: 02-may-2011
-   Expiration Date: 02-may-2012
+   Updated Date: 04-jan-2011
+   Creation Date: 03-jan-2007
+   Expiration Date: 03-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:56:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:57:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   gregory mooney
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FREEEMMAWATSONFAKEPORN.COM
+   Domain Name: KIRISTAR.COM
 
    Domain servers in listed order:
-      NS71.DOMAINCONTROL.COM
-      NS72.DOMAINCONTROL.COM
+      NS1.AFRAID.ORG
+      NS2.AFRAID.ORG
+      NS4.AFRAID.ORG
+      NS3.AFRAID.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FREEEMMAWATSONFAKEPORN.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=KIRISTAR.COM

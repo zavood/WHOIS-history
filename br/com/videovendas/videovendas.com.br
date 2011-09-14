@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 12:58:16 (BRT -03:00)
+
+domain:      videovendas.com.br
+owner:       Trajano Representacoes Ltda
+ownerid:     052.169.109/0001-50
+responsible: Elisangela Queiroz
+country:     BR
+owner-c:     CLG63
+admin-c:     CLG63
+tech-c:      CLG63
+billing-c:   CLG63
+nserver:     ns1.idmail.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.idmail.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20060605 #2832911
+expires:     20120605
+changed:     20110811
+status:      published
+
+nic-hdl-br:  CLG63
+person:      Claudinei Gon&ccedil;alez
+e-mail:      ccclaudinei@uol.com.br
+created:     20000712
+changed:     20100223
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

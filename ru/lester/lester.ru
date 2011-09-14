@@ -3,19 +3,18 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     ROILCOM.RU
-nserver:    ns.roilcom.ru. 217.22.160.5
-nserver:    ns2.roilcom.ru. 204.9.201.99
+domain:     LESTER.RU
+nserver:    ns3.ufg.com.
+nserver:    www.perevozki.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-org:        &quot;ROILCOM LTD&quot;
-phone:      +7 495 2314109
-phone:      +7 495 7774740
-fax-no:     +7 495 7774749
-e-mail:     a_nikitenko@roilcom.ru
-e-mail:     n.mihailyuk@roilcom.ru
+org:        Lester, LTD
+phone:      +7 495 9613119
+fax-no:     +7 495 9613119
+e-mail:     msmirnova@perevozki.ru
+e-mail:     vmarenov@perevozki.ru
 registrar:  RU-CENTER-REG-RIPN
-created:    2000.04.03
-paid-till:  2012.05.01
+created:    2000.02.25
+paid-till:  2012.03.01
 source:     TCI
 
 Last updated on 2011.09.14 19:53:42 MSK/MSD

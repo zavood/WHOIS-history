@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157107949-LROR
+Domain Name:BOYSCOUTSTROOP72.ORG
+Created On:15-Sep-2009 02:56:39 UTC
+Last Updated On:16-Sep-2010 01:23:56 UTC
+Expiration Date:15-Sep-2011 02:56:39 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-KMJMDLXY9HM9
+Registrant Name:Sherri Giacalone
+Registrant Organization:Boy Scouts Troop 72
+Registrant Street1:4 Quiet Stream Ct.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint Peters
+Registrant State/Province:MO
+Registrant Postal Code:63376
+Registrant Country:US
+Registrant Phone:+1.6364778518
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sherrigiacalone@charter.net
+Admin ID:DOT-42SWFC20YOLF
+Admin Name:Sherri Giacalone
+Admin Organization:Boy Scouts Troop 72
+Admin Street1:4 Quiet Stream Ct.
+Admin Street2:
+Admin Street3:
+Admin City:Saint Peters
+Admin State/Province:MO
+Admin Postal Code:63376
+Admin Country:US
+Admin Phone:+1.6364778518
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sherrigiacalone@charter.net
+Tech ID:DOT-UZZ01UFORQ0V
+Tech Name:Sherri Giacalone
+Tech Organization:Boy Scouts Troop 72
+Tech Street1:4 Quiet Stream Ct.
+Tech Street2:
+Tech Street3:
+Tech City:Saint Peters
+Tech State/Province:MO
+Tech Postal Code:63376
+Tech Country:US
+Tech Phone:+1.6364778518
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sherrigiacalone@charter.net
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
