@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PILUCCANDO.COM
+   Domain Name: SPECTERGEAR.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
+   Name Server: DNS010.D.REGISTER.COM
+   Name Server: DNS046.C.REGISTER.COM
+   Name Server: DNS077.A.REGISTER.COM
+   Name Server: DNS122.B.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 10-aug-2000
-   Expiration Date: 10-aug-2012
+   Updated Date: 10-mar-2011
+   Creation Date: 08-mar-2004
+   Expiration Date: 08-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:56:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:57:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: spectergear.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 4c9566c80a1612334cdc5b6a842d76d3@domaindiscreet.com
 
 
 
@@ -84,39 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: piluccando.com
-      Created on..............: 2000-08-10
-      Expires on..............: 2011-08-10
+   Domain Name: spectergear.com
+      Created on..............: 2004-03-08
+      Expires on..............: 2013-03-08
 
    Administrative Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: spectergear.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 4c9566c60a1612332009d3afd1b2649f@domaindiscreet.com
 
 
    Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: spectergear.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 4c9566c80a16123316f5b392a9aed9b6@domaindiscreet.com
 
 
    DNS Servers:
-      ns1.expireddomains.register.com
-      ns2.expireddomains.register.com
+      dns122.b.register.com
+      dns077.a.register.com
+      dns046.c.register.com
+      dns010.d.register.com
 
 
-
-Visit AboutUs.org for more information about piluccando.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/piluccando.com&quot;&gt;AboutUs: piluccando.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
 

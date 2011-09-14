@@ -1,0 +1,17 @@
+
+domain:   a-lehdet.fi
+descr:    A-lehdet Oy
+descr:    17087907
+address:  Tekniikka
+address:  Risto Rytin tie 33
+address:  00081
+address:  A-LEHDET
+phone:    (09) 75961
+status:   Granted
+created:  10.1.2002
+expires:  31.8.2012
+nserver: ns.a-lehdet.fi [OK] 193.184.59.17
+nserver: ns2.a-lehdet.fi [OK] 193.184.59.18
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PILUCCANDO.COM
+   Domain Name: WAIMEAGROUP.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 10-aug-2000
-   Expiration Date: 10-aug-2012
+   Name Server: SK.S5.ANS1.NS121.ZTOMY.COM
+   Name Server: SK.S5.ANS2.NS121.ZTOMY.COM
+   Status: ok
+   Updated Date: 13-sep-2011
+   Creation Date: 01-apr-2002
+   Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:56:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:57:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: waimeagroup.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 63d2f6160a1612201be7cf0048ab7a34@domaindiscreet.com
 
 
 
@@ -84,39 +84,33 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: piluccando.com
-      Created on..............: 2000-08-10
-      Expires on..............: 2011-08-10
+   Domain Name: waimeagroup.com
+      Created on..............: 2002-04-01
+      Expires on..............: 2012-04-01
 
    Administrative Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: waimeagroup.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 63d2f6140a1612201f520107187326d2@domaindiscreet.com
 
 
    Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
-      US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Domain Discreet
+      ATTN: waimeagroup.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 63d2f6170a1612207553eb3c435ccd50@domaindiscreet.com
 
 
    DNS Servers:
-      ns1.expireddomains.register.com
-      ns2.expireddomains.register.com
+      sk.s5.cm.ns2.37.ztomy.com
+      sk.s5.cm.ns1.37.ztomy.com
 
 
-
-Visit AboutUs.org for more information about piluccando.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/piluccando.com&quot;&gt;AboutUs: piluccando.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
 

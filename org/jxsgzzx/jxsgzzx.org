@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159109400-LROR
+Domain Name:JXSGZZX.ORG
+Created On:07-May-2010 09:21:17 UTC
+Last Updated On:09-May-2011 08:36:49 UTC
+Expiration Date:07-May-2012 09:21:17 UTC
+Sponsoring Registrar:Jiangsu Bangning Science and technology Co. Ltd. (R1829-LROR)
+Status:OK
+Registrant ID:885b7f8d-3654-4
+Registrant Name:yanliu
+Registrant Organization:jxsgzzx
+Registrant Street1:zhangjiangxinqugankanglu20hao
+Registrant Street2:
+Registrant Street3:
+Registrant City:ganzhou
+Registrant State/Province:jiangxi
+Registrant Postal Code:341000
+Registrant Country:CN
+Registrant Phone:+86.07978392110
+Registrant Phone Ext.:
+Registrant FAX:+86.07978392110
+Registrant FAX Ext.:
+Registrant Email:jxsgzzx@163.com
+Admin ID:30daad39-7b7c-4
+Admin Name:yanliu
+Admin Street1:zhangjiangxinqugankanglu20hao
+Admin Street2:
+Admin Street3:
+Admin City:ganzhou
+Admin State/Province:jiangxi
+Admin Postal Code:341000
+Admin Country:CN
+Admin Phone:+86.07978392110
+Admin Phone Ext.:
+Admin FAX:+86.07978392110
+Admin FAX Ext.:
+Admin Email:jxsgzzx@163.com
+Tech ID:89a85e16-53e2-4
+Tech Name:yanliu
+Tech Street1:zhangjiangxinqugankanglu20hao
+Tech Street2:
+Tech Street3:
+Tech City:ganzhou
+Tech State/Province:jiangxi
+Tech Postal Code:341000
+Tech Country:CN
+Tech Phone:+86.07978392110
+Tech Phone Ext.:
+Tech FAX:+86.07978392110
+Tech FAX Ext.:
+Tech Email:jxsgzzx@163.com
+Name Server:DNS1.4CUN.COM
+Name Server:DNS2.4CUN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

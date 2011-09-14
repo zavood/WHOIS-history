@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PILUCCANDO.COM
+   Domain Name: HENRY-WARNER.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
+   Name Server: DNS010.D.REGISTER.COM
+   Name Server: DNS016.C.REGISTER.COM
+   Name Server: DNS058.B.REGISTER.COM
+   Name Server: DNS146.A.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 10-aug-2000
-   Expiration Date: 10-aug-2012
+   Updated Date: 24-oct-2008
+   Creation Date: 10-mar-2004
+   Expiration Date: 10-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:56:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:58:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
+      Avecta
+      Henry Warner
+      7260 University Ave Suite 200
+      Fridley, MN 55432
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: +1.7635742400
+      Email: tech@warnerconnect.com
 
 
 
@@ -84,39 +86,41 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: piluccando.com
-      Created on..............: 2000-08-10
-      Expires on..............: 2011-08-10
+   Domain Name: henry-warner.com
+      Created on..............: 2004-03-10
+      Expires on..............: 2012-03-10
 
    Administrative Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
+      Avecta
+      Henry Warner
+      277 Coon Rapids Bvld Ste 313
+      Coon Rapids, MN 55433
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: 763-754-0703
+      Email: hwarner@warnerconnect.com
 
 
    Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
+      Warner Connect
+      Tech Support
+      7260 University Ave. Suite 200
+      Fridley, MN 55432
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: +1.7635742424
+      Email: tech@warnerconnect.com
 
 
    DNS Servers:
-      ns1.expireddomains.register.com
-      ns2.expireddomains.register.com
+      dns016.c.register.com
+      dns058.b.register.com
+      dns146.a.register.com
+      dns010.d.register.com
 
 
 
-Visit AboutUs.org for more information about piluccando.com
+Visit AboutUs.org for more information about henry-warner.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/piluccando.com&quot;&gt;AboutUs: piluccando.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/henry-warner.com&quot;&gt;AboutUs: henry-warner.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 
