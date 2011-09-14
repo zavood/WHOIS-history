@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V-TRAFFIC.NET
+   Domain Name: PAYDAYBIZ.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.V-TRAFFIC.NET
-   Name Server: NS2.V-TRAFFIC.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 27-dec-2008
-   Expiration Date: 27-dec-2012
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   Status: ok
+   Updated Date: 26-aug-2011
+   Creation Date: 01-jun-2010
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +73,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Company
+   Stanley Pace
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V-TRAFFIC.NET
+   Domain Name: PAYDAYBIZ.COM
 
    Domain servers in listed order:
-      NS1.V-TRAFFIC.NET
-      NS2.V-TRAFFIC.NET
+      NS1.ABOVE.COM
+      NS2.ABOVE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V-TRAFFIC.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=PAYDAYBIZ.COM

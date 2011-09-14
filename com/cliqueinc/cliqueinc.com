@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V-TRAFFIC.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.V-TRAFFIC.NET
-   Name Server: NS2.V-TRAFFIC.NET
+   Domain Name: CLIQUEINC.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.SPARKART.NET
+   Name Server: NS2.SPARKART.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 27-dec-2008
-   Expiration Date: 27-dec-2012
+   Updated Date: 06-dec-2010
+   Creation Date: 05-dec-2003
+   Expiration Date: 05-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Company
+   Sparkart LLC
+   6400 Hollis Street
+   Suite 9
+   Emeryville, CA  94608
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V-TRAFFIC.NET
+   Registrar: DOTSTER
+   Domain Name: CLIQUEINC.COM
+      Created on: 04-DEC-03
+      Expires on: 05-DEC-11
+      Last Updated on: 15-NOV-10
+
+   Administrative, Technical Contact:
+      Jain, Naveen  info@sparkart.com
+      Sparkart LLC
+      6400 Hollis Street
+      Suite 9
+      Emeryville, CA  94608
+      US
+      510-420-0201
+      510-420-1011
+
 
    Domain servers in listed order:
-      NS1.V-TRAFFIC.NET
-      NS2.V-TRAFFIC.NET
+      NS1.SPARKART.NET
+      NS2.SPARKART.NET
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V-TRAFFIC.NET
+End of Whois Information

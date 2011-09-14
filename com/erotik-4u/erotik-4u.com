@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V2CDN.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: EROTIK-4U.COM
+   Registrar: 1 API GMBH
+   Whois Server: whois.1api.net
+   Referral URL: http://www.1api.net
+   Name Server: NS1.IPHOME.DE
+   Name Server: NS2.IPHOME.DE
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-oct-2010
-   Creation Date: 18-oct-2010
-   Expiration Date: 18-oct-2012
+   Updated Date: 15-nov-2010
+   Creation Date: 10-oct-2003
+   Expiration Date: 10-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:02 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,80 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+; This data is provided by artergo.net
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; artergo.net does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
 
-Registrant:
-   EdgeCast Networks Inc.
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V2CDN.NET
+DOMAIN: EROTIK-4U.COM
 
-   Domain servers in listed order:
-      NS1.EDGECASTCDN.NET
-      NS2.EDGECASTCDN.NET
+RSP: artergo.net
+URL: http://www.artergo.net
 
+created-date: 2003-10-10 12:00:00
+updated-date: 2010-11-15 13:00:31
+registration-expiration-date: 2011-10-10 17:00:09
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V2CDN.NET
+owner-organization: Nex Promotions
+owner-name: Hostmaster of the Day
+owner-street: 60 Market Square
+owner-city: Belize City
+owner-state: Belize
+owner-zip: 00000
+owner-country: BZ
+owner-phone: +1.2069844025
+owner-fax: +1.2069844029
+owner-email: nexpromo@gmail.com
+
+admin-organization: Nex Promotions
+admin-name: Hostmaster of the Day
+admin-street: 60 Market Square
+admin-city: Belize City
+admin-state: Belize
+admin-zip: 00000
+admin-country: BZ
+admin-phone: +1.2069844025
+admin-fax: +1.2069844029
+admin-email: nexpromo@gmail.com
+
+tech-organization: Nex Promotions
+tech-name: Hostmaster of the Day
+tech-street: 60 Market Square
+tech-city: Belize City
+tech-state: Belize
+tech-zip: 00000
+tech-country: BZ
+tech-phone: +1.2069844025
+tech-fax: +1.2069844029
+tech-email: nexpromo@gmail.com
+
+billing-organization: Nex Promotions
+billing-name: Hostmaster of the Day
+billing-street: 60 Market Square
+billing-city: Belize City
+billing-state: Belize
+billing-zip: 00000
+billing-country: BZ
+billing-phone: +1.2069844025
+billing-fax: +1.2069844029
+billing-email: nexpromo@gmail.com
+
+nameserver: ns1.iphome.de
+nameserver: ns2.iphome.de
+
+; http://www.artergo.net
+; n/a
+; n/a
+

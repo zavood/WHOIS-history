@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JEWELWESELL.COM
+   Domain Name: THEJVCLUB.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Name Server: NS1.GENIEDREAM.COM
+   Name Server: SLV2.1AND1.CO.UK
    Status: ok
-   Updated Date: 07-aug-2011
-   Creation Date: 06-aug-2010
-   Expiration Date: 06-aug-2012
+   Updated Date: 07-nov-2010
+   Creation Date: 10-may-2010
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:23:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,63 +69,63 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          jewelwesell.com
-created:                         07-Aug-2010
-last-changed:                    07-Aug-2011
-registration-expiration:         07-Aug-2012
+domain:                          thejvclub.com
+created:                         10-May-2010
+last-changed:                    07-Dec-2010
+registration-expiration:         10-May-2012
 
-nserver:                         ns51.1and1.com 217.160.80.164
-nserver:                         ns52.1and1.com 217.160.81.164
+nserver:                         slv2.1and1.co.uk
+nserver:                         ns1.geniedream.com 193.218.160.30
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-firstname:            Oneandone
-registrant-lastname:             Private Registration
-registrant-organization:         1&amp;1 Internet, Inc. - http://1and1.com/contact
-registrant-street1:              701 Lee Road, Suite 300
-registrant-street2:              ATTN: jewelwesell.com
-registrant-pcode:                19087
-registrant-state:                PA
-registrant-city:                 Chesterbrook
-registrant-ccode:                US
-registrant-phone:                +1.8772064254
-registrant-email:                proxy2359383@1and1-private-registration.com
+registrant-firstname:            Mark
+registrant-lastname:             Nathwani
+registrant-organization:         The JV Club Ltd
+registrant-street1:              Coombefield Cottage
+registrant-street2:              Coombefield Close
+registrant-pcode:                KT3 5QF
+registrant-city:                 Surrey
+registrant-ccode:                GB
+registrant-phone:                +44.2080029030
+registrant-fax:                  +44.2030029030
+registrant-email:                support@thejvclub.com
 
-admin-c-firstname:               Oneandone
-admin-c-lastname:                Private Registration
-admin-c-organization:            1&amp;1 Internet, Inc. - http://1and1.com/contact
-admin-c-street1:                 701 Lee Road, Suite 300
-admin-c-street2:                 ATTN: jewelwesell.com
-admin-c-pcode:                   19087
-admin-c-state:                   PA
-admin-c-city:                    Chesterbrook
-admin-c-ccode:                   US
-admin-c-phone:                   +1.8772064254
-admin-c-email:                   proxy2359383@1and1-private-registration.com
+admin-c-firstname:               Mark
+admin-c-lastname:                Nathwani
+admin-c-organization:            The JV Club Ltd
+admin-c-street1:                 Coombefield Cottage
+admin-c-street2:                 Coombefield Close
+admin-c-pcode:                   KT3 5QF
+admin-c-city:                    Surrey
+admin-c-ccode:                   GB
+admin-c-phone:                   +44.2080029030
+admin-c-fax:                     +44.2030029030
+admin-c-email:                   support@thejvclub.com
 
-tech-c-firstname:                Oneandone
-tech-c-lastname:                 Private Registration
-tech-c-organization:             1&amp;1 Internet, Inc. - http://1and1.com/contact
-tech-c-street1:                  701 Lee Road, Suite 300
-tech-c-street2:                  ATTN: jewelwesell.com
-tech-c-pcode:                    19087
-tech-c-state:                    PA
-tech-c-city:                     Chesterbrook
-tech-c-ccode:                    US
-tech-c-phone:                    +1.8772064254
-tech-c-email:                    proxy2359383@1and1-private-registration.com
+tech-c-firstname:                Mark
+tech-c-lastname:                 Nathwani
+tech-c-organization:             The JV Club Ltd
+tech-c-street1:                  Coombefield Cottage
+tech-c-street2:                  Coombefield Close
+tech-c-pcode:                    KT3 5QF
+tech-c-city:                     Surrey
+tech-c-ccode:                    GB
+tech-c-phone:                    +44.2080029030
+tech-c-fax:                      +44.2030029030
+tech-c-email:                    support@thejvclub.com
 
-bill-c-firstname:                Oneandone
-bill-c-lastname:                 Private Registration
-bill-c-organization:             1&amp;1 Internet, Inc. - http://1and1.com/contact
-bill-c-street1:                  701 Lee Road, Suite 300
-bill-c-street2:                  ATTN: jewelwesell.com
-bill-c-pcode:                    19087
-bill-c-state:                    PA
-bill-c-city:                     Chesterbrook
-bill-c-ccode:                    US
-bill-c-phone:                    +1.8772064254
-bill-c-email:                    proxy2359383@1and1-private-registration.com
+bill-c-firstname:                Mark
+bill-c-lastname:                 Nathwani
+bill-c-organization:             The JV Club Ltd
+bill-c-street1:                  Coombefield Cottage
+bill-c-street2:                  Coombefield Close
+bill-c-pcode:                    KT3 5QF
+bill-c-city:                     Surrey
+bill-c-ccode:                    GB
+bill-c-phone:                    +44.2080029030
+bill-c-fax:                      +44.2030029030
+bill-c-email:                    support@thejvclub.com
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 

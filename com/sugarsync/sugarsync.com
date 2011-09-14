@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 31-aug-2007
    Expiration Date: 31-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 02:21:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,31 +81,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    SugarSync, Inc.
-   2121 S. El Camino Real, 6th Floor
-   San Mateo, California 94403
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SUGARSYNC.COM
-      Created on: 31-Aug-07
-      Expires on: 31-Aug-13
-      Last Updated on: 21-Oct-09
-
-   Administrative Contact:
-      Mikami, Jason  itops@sugarsync.com
-      SugarSync, Inc.
-      2121 S. El Camino Real, 6th Floor
-      San Mateo, California 94406
-      United States
-      +1.6503566200      Fax --
-
-   Technical Contact:
-      Mikami, Jason  itops@sugarsync.com
-      SugarSync, Inc.
-      2121 S. El Camino Real, 6th Floor
-      San Mateo, California 94403
-      United States
-      +1.6503566200      Fax --
 
    Domain servers in listed order:
       PDNS1.ULTRADNS.NET
@@ -115,3 +93,6 @@ Registrant:
       PDNS3.ULTRADNS.ORG
       PDNS4.ULTRADNS.ORG
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SUGARSYNC.COM

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: V-TRAFFIC.NET
+   Domain Name: DNDSTUDIO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.V-TRAFFIC.NET
-   Name Server: NS2.V-TRAFFIC.NET
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 27-dec-2008
-   Expiration Date: 27-dec-2012
+   Updated Date: 20-apr-2011
+   Creation Date: 29-apr-2004
+   Expiration Date: 29-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Company
+   DND Studio
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: V-TRAFFIC.NET
+   Domain Name: DNDSTUDIO.COM
 
    Domain servers in listed order:
-      NS1.V-TRAFFIC.NET
-      NS2.V-TRAFFIC.NET
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=V-TRAFFIC.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=DNDSTUDIO.COM

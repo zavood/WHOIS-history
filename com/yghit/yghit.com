@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 73CUN.COM
+   Domain Name: YGHIT.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS11.HICHINA.COM
-   Name Server: DNS12.HICHINA.COM
+   Name Server: DNS7.HICHINA.COM
+   Name Server: DNS8.HICHINA.COM
    Status: ok
-   Updated Date: 12-apr-2011
-   Creation Date: 17-nov-2006
-   Expiration Date: 17-nov-2011
+   Updated Date: 19-apr-2011
+   Creation Date: 15-dec-2009
+   Expiration Date: 15-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... 73cun.com
-Name Server ..................... dns11.hichina.com
-                                  dns12.hichina.com
-Registrant ID ................... hc178778145-cn
-Registrant Name ................. zhirong yang
-Registrant Organization ......... gao rongfang
-Registrant Address .............. sichuanchengdushi
-Registrant City ................. chengdushi
-Registrant Province/State ....... sichuan
-Registrant Postal Code .......... 610041
+Domain Name ..................... yghit.com
+Name Server ..................... dns7.hichina.com
+                                  dns8.hichina.com
+Registrant ID ................... hc724290340-cn
+Registrant Name ................. yueyu zhang
+Registrant Organization ......... zhang yueyu
+Registrant Address .............. gdst
+Registrant City ................. shantoushi
+Registrant Province/State ....... guangzhou
+Registrant Postal Code .......... 515041
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.02886965236 -
-Registrant Fax .................. +86.02868223111 -
-Registrant Email ................ 770576398@qq.com
-Administrative ID ............... hc778778145-cn
-Administrative Name ............. yangzhirong
-Administrative Organization ..... gao rongfang
-Administrative Address .......... No.7-202, Xinhuayuan, Tongyuan RD., Industrial Park, Suzhou
-Administrative City ............. Suzhou
-Administrative Province/State ... Jiangsu
-Administrative Postal Code ...... 215006
+Registrant Phone Number ......... +86.075486673896 -
+Registrant Fax .................. +86.075486673896 -
+Registrant Email ................ yghit@yahoo.cn
+Administrative ID ............... hc724290340-cn
+Administrative Name ............. yueyu zhang
+Administrative Organization ..... zhang yueyu
+Administrative Address .......... gdst
+Administrative City ............. shantoushi
+Administrative Province/State ... guangzhou
+Administrative Postal Code ...... 515041
 Administrative Country Code ..... CN
-Administrative Phone Number ..... 86-051265225959-- -
-Administrative Fax .............. 86-051265221919-- -
-Administrative Email ............ fuwu@wannet.cn
-Billing ID ...................... hc978778145-cn
-Billing Name ....................  Hansi
-Billing Organization ............  Hansi
-Billing Address ................. No.7-202, Xinhuayuan, Tongyuan RD., Industrial Park, Suzhou
-Billing City .................... Suzhou
-Billing Province/State .......... Jiangsu
-Billing Postal Code ............. 215006
+Administrative Phone Number ..... +86.075486673896 -
+Administrative Fax .............. +86.075486673896 -
+Administrative Email ............ yghit@yahoo.cn
+Billing ID ...................... hichina001-cn
+Billing Name .................... hichina
+Billing Organization ............ HiChina Web Solutions Limited
+Billing Address ................. 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Billing City .................... Beijing
+Billing Province/State .......... Beijing
+Billing Postal Code ............. 100011
 Billing Country Code ............ CN
-Billing Phone Number ............ +86.051265225959 -
-Billing Fax ..................... +86.051265221919 -
-Billing Email ................... fuwu@wannet.cn
-Technical ID .................... hc278778145-cn
-Technical Name ..................  Hansi
-Technical Organization ..........  Hansi
-Technical Address ............... No.7-202, Xinhuayuan, Tongyuan RD., Industrial Park, Suzhou
-Technical City .................. Suzhou
-Technical Province/State ........ Jiangsu
-Technical Postal Code ........... 215006
+Billing Phone Number ............ +86.01064242299 -
+Billing Fax ..................... +86.01064258796 -
+Billing Email ................... domainadm@hichina.com
+Technical ID .................... hichina001-cn
+Technical Name .................. hichina
+Technical Organization .......... HiChina Web Solutions Limited
+Technical Address ............... 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Technical City .................. Beijing
+Technical Province/State ........ Beijing
+Technical Postal Code ........... 100011
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.051265225959 -
-Technical Fax ................... +86.051265221919 -
-Technical Email ................. fuwu@wannet.cn
-Expiration Date ................. 2011-11-18 03:04:59
+Technical Phone Number .......... +86.01064242299 -
+Technical Fax ................... +86.01064258796 -
+Technical Email ................. domainadm@hichina.com
+Expiration Date ................. 2011-12-15 06:01:32

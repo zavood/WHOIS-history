@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RAVENISLE.COM
-   Registrar: LIQUIDNET LTD.
-   Whois Server: whois.liquidnetlimited.com
-   Referral URL: http://www.liquidnetlimited.com
-   Name Server: DNS1.SUPREMECENTER45.COM
-   Name Server: DNS2.SUPREMECENTER45.COM
-   Status: clientTransferProhibited
-   Updated Date: 18-oct-2010
-   Creation Date: 16-jan-2003
-   Expiration Date: 16-jan-2012
+   Domain Name: TRADEMARKAREA.COM
+   Registrar: MARCARIA.COM, INTERNATIONAL, INC.
+   Whois Server: whois-generic.marcaria.com
+   Referral URL: http://www.marcaria.com
+   Name Server: NS01.TRADEMARKAREA.COM
+   Name Server: NS02.TRADEMARKAREA.COM
+   Name Server: NS03.TRADEMARKAREA.COM
+   Status: ok
+   Updated Date: 23-sep-2009
+   Creation Date: 04-oct-2004
+   Expiration Date: 04-oct-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:22:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:21:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +52,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Marcaria.com Network
 
+Provider of International Domain Registration and International Trademark Registration Services
+Visit us at www.marcaria.com
 
-Registration Service Provided By: Raven Isle Internet
-Contact: support@propersupport.com
-Visit: http://pniedziela.duoservers.com/
+The Data in Marcaria.com's WHOIS database is provided by Marcaria.com for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.
 
-Domain Name: ravenisle.com
+Marcaria.com does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Marcaria.com (or its systems).
+Marcaria.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Registration Service Provided By: MARCARIA.COM
+Contact: +1.3058538434
+
+Domain Name: TRADEMARKAREA.COM
 
 Registrant:
-    ravenisle.com
-    Whois Agent LiquidNet US LLC (nvx2ae0w@whois-shield.com)
-    C/O ravenisle.com
-    1500 N. University Drive, suite 115
-    Coral Springs, FL 33071
+    MARCARIA.COM CORP
+    Francisco Fuentealba        (domains@marcaria.com)
+    # 1000177
+    222 Grace Church St. Suite 302
+    Port Chester
+    New York,10573
     US
-    Tel: +1.5108700646
-    Fax: +1.5108686446
+    Tel. +1.3054348621
 
-
-Creation Date: 2003-01-17 02:03:58
-Expiration Date: 2012-01-17 02:03:58
+Creation Date: 04-Oct-2004
+Expiration Date: 04-Oct-2018
 
 Domain servers in listed order:
-    dns1.supremecenter45.com
-    dns2.supremecenter45.com
+    ns01.trademarkarea.com
+    ns02.trademarkarea.com
+    ns03.trademarkarea.com
 
 
 Administrative Contact:
-    ravenisle.com
-    Whois Agent LiquidNet US LLC (nvx2ae0w@whois-shield.com)
-    C/O ravenisle.com
-    1500 N. University Drive, suite 115
-    Coral Springs, FL 33071
+    MARCARIA.COM CORP
+    Francisco Fuentealba        (domains@marcaria.com)
+    # 1000177
+    222 Grace Church St. Suite 302
+    Port Chester
+    New York,10573
     US
-    Tel: +1.5108700646
-    Fax: +1.5108686446
-
+    Tel. +1.3054348621
 
 Technical Contact:
-    ravenisle.com
-    Whois Agent LiquidNet US LLC (nvx2ae0w@whois-shield.com)
-    C/O ravenisle.com
-    1500 N. University Drive, suite 115
-    Coral Springs, FL 33071
+    MARCARIA.COM CORP
+    Francisco Fuentealba        (domains@marcaria.com)
+    # 1000177
+    222 Grace Church St. Suite 302
+    Port Chester
+    New York,10573
     US
-    Tel: +1.5108700646
-    Fax: +1.5108686446
-
+    Tel. +1.3054348621
 
 Billing Contact:
-    ravenisle.com
-    Whois Agent LiquidNet US LLC (nvx2ae0w@whois-shield.com)
-    C/O ravenisle.com
-    1500 N. University Drive, suite 115
-    Coral Springs, FL 33071
+    MARCARIA.COM CORP
+    Francisco Fuentealba        (domains@marcaria.com)
+    # 1000177
+    222 Grace Church St. Suite 302
+    Port Chester
+    New York,10573
     US
-    Tel: +1.5108700646
-    Fax: +1.5108686446
+    Tel. +1.3054348621
 
-
-Status: Unlocked
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -123,6 +129,8 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is LiquidNet Ltd..
+prior written consent from us. The Registrar of record is Marcaria.com International, Inc..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
+
+
