@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: GRA2913D-NORID
+Domain Name................: graffer.no
+Domain Holder Handle.......: GHM7O-NORID
+Registrar Handle...........: REG38-NORID
+Legal-c Handle.............: HMG24P-NORID
+Tech-c Handle..............: AAH21R-NORID
+Name Server Handle.........: DNSA116H-NORID
+Name Server Handle.........: DNSA133H-NORID
+
+Additional information:
+Created:         2005-09-21
+Last updated:    2010-10-14
+
+NORID Handle...............: GHM7O-NORID
+Type.......................: organization
+Name.......................: GRAFFER HANS MARTIN
+Id Type....................: organization_number
+Id Number..................: 969322730
+Registrar Handle...........: REG38-NORID
+Post Address...............: Graffer
+Postal Code................: NO-2685
+Postal Area................: GARMO
+Country....................: NO
+Phone Number...............: +47.61212628
+Email Address..............: hans.graffer@fjellnett.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

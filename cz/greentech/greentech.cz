@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 00:43:30 2011
+
+domain:       greentech.cz
+registrant:   SB:UEK
+admin-c:      LN001-CZNIC
+temp-c:       ERBY
+nsset:        NSS:UEK:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   13.06.2000 10:11:00
+changed:      09.05.2006 14:35:00
+expire:       13.06.2012
+
+contact:      SB:UEK
+org:          Ustav systemove biologie a ekologie
+name:         Ustav systemove biologie a ekologie
+address:      Zamek 136
+address:      Nove Hrady
+address:      37333
+address:      CZ
+e-mail:       safry@greentech.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      19.10.2006 16:15:00
+
+contact:      LN001-CZNIC
+name:         Nedbal Ladislav
+address:      Branna 4
+address:      Trebon
+address:      379 01
+address:      CZ
+phone:        +420 384723228
+e-mail:       nedbal@greentech.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      ERBY
+name:         Pavel Erben
+address:      CZ
+phone:        +420 604185978
+e-mail:       erby@bf.jcu.cz
+registrar:    REG-CZNIC
+created:      06.03.2002 12:46:00
+
+nsset:        NSS:UEK:1
+nserver:      leaf.greentech.cz (160.217.215.2)
+nserver:      virgo.jcu.cz
+tech-c:       SB:UEK
+tech-c:       LN001-CZNIC
+tech-c:       ERBY
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+
+

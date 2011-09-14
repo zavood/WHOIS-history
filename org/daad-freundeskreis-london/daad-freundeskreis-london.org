@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109036319-LROR
+Domain Name:DAAD-FREUNDESKREIS-LONDON.ORG
+Created On:30-Nov-2005 23:28:26 UTC
+Last Updated On:23-Dec-2010 13:30:17 UTC
+Expiration Date:30-Nov-2011 23:28:26 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-4997308-4c38
+Registrant Name:Ridwan Bayuputra
+Registrant Organization:M. Ridwan bayuputra
+Registrant Street1:Villa Ciomas Indah P 13 No 11
+Registrant Street2:Ciomas Rahayu
+Registrant Street3:
+Registrant City:Bogor
+Registrant State/Province:jabar
+Registrant Postal Code:16114
+Registrant Country:ID
+Registrant Phone:+62.818103123
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:richridbay@gmail.com
+Admin ID:nca-4997309-a725
+Admin Name:Ridwan Bayuputra
+Admin Organization:M. Ridwan bayuputra
+Admin Street1:Villa Ciomas Indah P 13 No 11
+Admin Street2:Ciomas Rahayu
+Admin Street3:
+Admin City:Bogor
+Admin State/Province:jabar
+Admin Postal Code:16114
+Admin Country:ID
+Admin Phone:+62.818103123
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:richridbay@gmail.com
+Tech ID:nct-4997310-4ac0
+Tech Name:Ridwan Bayuputra
+Tech Organization:M. Ridwan bayuputra
+Tech Street1:Villa Ciomas Indah P 13 No 11
+Tech Street2:Ciomas Rahayu
+Tech Street3:
+Tech City:Bogor
+Tech State/Province:jabar
+Tech Postal Code:16114
+Tech Country:ID
+Tech Phone:+62.818103123
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:richridbay@gmail.com
+Name Server:NS1.CCLASSIPHOSTING.NET
+Name Server:NS2.CCLASSIPHOSTING.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
