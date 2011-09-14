@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94758360-LROR
+Domain Name:MILECHAI.ORG
+Created On:11-Mar-2003 15:20:11 UTC
+Last Updated On:12-Mar-2011 12:01:36 UTC
+Expiration Date:11-Mar-2012 15:20:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30552025
+Registrant Name:Larry Brewer
+Registrant Organization:MileChai.com
+Registrant Street1:600 S. Holly St. #103
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denver
+Registrant State/Province:Colorado
+Registrant Postal Code:80246
+Registrant Country:US
+Registrant Phone:+1.3033227345
+Registrant Phone Ext.:
+Registrant FAX:+1.3033931201
+Registrant FAX Ext.:
+Registrant Email:info@milechai.com
+Admin ID:CR30552027
+Admin Name:Larry Brewer
+Admin Organization:MileChai.com
+Admin Street1:600 S. Holly St. #103
+Admin Street2:
+Admin Street3:
+Admin City:Denver
+Admin State/Province:Colorado
+Admin Postal Code:80246
+Admin Country:US
+Admin Phone:+1.3033227345
+Admin Phone Ext.:
+Admin FAX:+1.3033931201
+Admin FAX Ext.:
+Admin Email:info@milechai.com
+Tech ID:CR30552026
+Tech Name:Larry Brewer
+Tech Organization:MileChai.com
+Tech Street1:600 S. Holly St. #103
+Tech Street2:
+Tech Street3:
+Tech City:Denver
+Tech State/Province:Colorado
+Tech Postal Code:80246
+Tech Country:US
+Tech Phone:+1.3033227345
+Tech Phone Ext.:
+Tech FAX:+1.3033931201
+Tech FAX Ext.:
+Tech Email:info@milechai.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

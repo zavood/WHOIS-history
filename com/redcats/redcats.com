@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAMESELF.COM
-   Registrar: REGTIME LTD.
-   Whois Server: whois.regtime.net
-   Referral URL: http://www.webnames.ru
-   Name Server: NS1.NAMESELF.COM
-   Name Server: NS2.NAMESELF.COM
-   Name Server: NS3.NAMESELF.COM
-   Status: clientDeleteProhibited
+   Domain Name: REDCATS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.EURO909.COM
+   Name Server: NS3.EURO909.COM
    Status: clientTransferProhibited
-   Updated Date: 05-aug-2011
-   Creation Date: 04-aug-2000
-   Expiration Date: 04-aug-2012
+   Updated Date: 07-dec-2010
+   Creation Date: 25-jan-1999
+   Expiration Date: 25-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:49:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,62 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% Regtime Ltd. WHOIS server
 
-Domain name: nameself.com
+Domain Name.......... redcats.com
+  Creation Date........ 1999-01-25
+  Registration Date.... 2010-01-13
+  Expiry Date.......... 2012-01-26
+  Organisation Name.... Redcats
+  Organisation Address. 110 Rue De Blanchemaille
+  Organisation Address.
+  Organisation Address. Roubaix
+  Organisation Address. 59100
+  Organisation Address. -
+  Organisation Address. FRANCE
 
+Admin Name........... Departement Juridique
+  Admin Address........ 110 rue de Blanchemaille
+  Admin Address........
+  Admin Address........ 59100
+  Admin Address........ roubaix
+  Admin Address........ 59100
+  Admin Address........ FRANCE
+  Admin Email.......... departementjuridique@redcats.com
+  Admin Phone.......... +33.320696000
+  Admin Fax............ +33.320240337
 
-Name servers:
-    ns1.nameself.com
-    ns3.nameself.com
-    ns2.nameself.com
+Tech Name............ Hostmaster Euro909.com
+  Tech Address......... Box 7101
+  Tech Address.........
+  Tech Address......... Malmo Skane 200 42
+  Tech Address......... 0000
+  Tech Address......... Malmo Skane 200 42
+  Tech Address......... SWEDEN
+  Tech Email........... domain@SE.EURO909.COM
+  Tech Phone........... +46.406919150
+  Tech Fax............. +46.406919159
+  Name Server.......... NS3.EURO909.COM
+  Name Server.......... NS1.EURO909.COM
 
-Registrar: Regtime Ltd.
-Creation date: 2003-08-26
-Expiration date: 2012-08-04
-
-Registrant:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Administrative Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Technical Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Billing Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
 

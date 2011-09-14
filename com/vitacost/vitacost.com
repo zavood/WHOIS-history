@@ -5,20 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAMESELF.COM
-   Registrar: REGTIME LTD.
-   Whois Server: whois.regtime.net
-   Referral URL: http://www.webnames.ru
-   Name Server: NS1.NAMESELF.COM
-   Name Server: NS2.NAMESELF.COM
-   Name Server: NS3.NAMESELF.COM
-   Status: clientDeleteProhibited
+   Domain Name: VITACOST.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: C.VITACOST.COM
+   Name Server: NS1-12.AKAM.NET
+   Name Server: NS1-23.AKAM.NET
+   Name Server: USE1.AKAM.NET
+   Name Server: USW2.AKAM.NET
+   Name Server: USW4.AKAM.NET
+   Name Server: USW6.AKAM.NET
+   Name Server: WEBAPP1.VITACOST.COM
    Status: clientTransferProhibited
-   Updated Date: 05-aug-2011
-   Creation Date: 04-aug-2000
-   Expiration Date: 04-aug-2012
+   Updated Date: 30-dec-2009
+   Creation Date: 06-may-1999
+   Expiration Date: 06-may-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:49:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,62 +57,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% Regtime Ltd. WHOIS server
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain name: nameself.com
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Name servers:
-    ns1.nameself.com
-    ns3.nameself.com
-    ns2.nameself.com
+http://www.networksolutions.com/whois/index.jhtml
 
-Registrar: Regtime Ltd.
-Creation date: 2003-08-26
-Expiration date: 2012-08-04
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Registrant:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Administrative Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Technical Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-Billing Contact:
-    Sergey Charikov
-    Email: s.shar@regtime.net
-    Organization: RegTime.net Limited
-    Address: Avrora, 181
-    City: Samara
-    State: Samara
-    ZIP: 443045
-    Country: RU
-    Phone: +7.8469799039
-    Fax: +7.8469799038
-
+Whois Query: vitacost.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 03:39:23 EDT 2011
+Reason Code: IE

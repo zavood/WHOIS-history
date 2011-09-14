@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-jun-2002
    Expiration Date: 05-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:51:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:50:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: dybb.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 23:41:41 EDT 2011
+Date and Time of Query: Wed Sep 14 03:40:43 EDT 2011
 Reason Code: IE
