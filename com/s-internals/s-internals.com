@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOVINGFUNERALHOME1913.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.NTELOS.NET
-   Name Server: NS2.NTELOS.NET
-   Status: ok
-   Updated Date: 22-mar-2011
-   Creation Date: 18-jun-2008
-   Expiration Date: 18-jun-2013
+   Domain Name: S-INTERNALS.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: DNS1.S-INTERNALS.COM
+   Name Server: DNS2.S-INTERNALS.COM
+   Status: clientTransferProhibited
+   Updated Date: 21-jul-2011
+   Creation Date: 03-jun-2011
+   Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:19:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:20:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... s-internals.com
+  Creation Date........ 2011-06-03 19:31:13
+  Registration Date.... 2011-06-03 19:31:13
+  Expiry Date.......... 2012-06-03 19:31:13
+  Organisation Name.... zhou hao
+  Organisation Address. zhongqingshishapingbazhengjie174hao
+  Organisation Address.
+  Organisation Address. zhongqing
+  Organisation Address. 404452
+  Organisation Address. CQ
+  Organisation Address. CN
+
+Admin Name........... zhouhao
+  Admin Address........ zhongqingshishapingbazhengjie174hao
+  Admin Address........
+  Admin Address........ zhongqing
+  Admin Address........ 404452
+  Admin Address........ CQ
+  Admin Address........ CN
+  Admin Email.......... ujangoc@126.com
+  Admin Phone.......... +86.2365102222
+  Admin Fax............ +86.2365102222
+
+Tech Name............ zhouhao
+  Tech Address......... zhongqingshishapingbazhengjie174hao
+  Tech Address.........
+  Tech Address......... zhongqing
+  Tech Address......... 404452
+  Tech Address......... CQ
+  Tech Address......... CN
+  Tech Email........... ujangoc@126.com
+  Tech Phone........... +86.2365102222
+  Tech Fax............. +86.2365102222
+
+Bill Name............ zhouhao
+  Bill Address......... zhongqingshishapingbazhengjie174hao
+  Bill Address.........
+  Bill Address......... zhongqing
+  Bill Address......... 404452
+  Bill Address......... CQ
+  Bill Address......... CN
+  Bill Email........... ujangoc@126.com
+  Bill Phone........... +86.2365102222
+  Bill Fax............. +86.2365102222
+  Name Server.......... dns2.s-internals.com
+  Name Server.......... dns1.s-internals.com
