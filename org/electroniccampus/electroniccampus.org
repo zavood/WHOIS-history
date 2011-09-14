@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7300626-LROR
+Domain Name:ELECTRONICCAMPUS.ORG
+Created On:17-Jun-1999 02:54:27 UTC
+Last Updated On:15-Mar-2011 20:54:50 UTC
+Expiration Date:17-Jun-2014 02:53:40 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19914578-NSI
+Registrant Name:SouthernRegionalEducational Board
+Registrant Organization:SouthernRegionalEducational Board
+Registrant Street1:592 Tenth Street, N.W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:GA
+Registrant Postal Code:30318-5790
+Registrant Country:US
+Registrant Phone:+1.4048759211
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@SREB.ORG
+Admin ID:21143805-NSI
+Admin Name:SouthernRegionalEducation Board
+Admin Organization:SouthernRegionalEducation Board
+Admin Street1:592 Tenth Street NW
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30318-5790
+Admin Country:US
+Admin Phone:+1.4048759211
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@SREB.ORG
+Tech ID:21143805-NSI
+Tech Name:SouthernRegionalEducation Board
+Tech Organization:SouthernRegionalEducation Board
+Tech Street1:592 Tenth Street NW
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30318-5790
+Tech Country:US
+Tech Phone:+1.4048759211
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@SREB.ORG
+Name Server:NS2.XAP.COM
+Name Server:NS1.XAP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

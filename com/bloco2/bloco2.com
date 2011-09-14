@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EAGLEHOST.NET
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS1.EAGLEHOST.NET
-   Name Server: DNS2.EAGLEHOST.NET
+   Domain Name: BLOCO2.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.BLOCO2.COM
+   Name Server: DNS2.BLOCO2.COM
    Status: ok
-   Updated Date: 19-jul-2011
-   Creation Date: 24-jul-2008
-   Expiration Date: 24-jul-2012
+   Updated Date: 18-mar-2011
+   Creation Date: 18-mar-2009
+   Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:34:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:34:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,68 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: EAGLEHOST.CL
-Contact: +056.0981867707
+=-=-=-=
+Visit AboutUs.org for more information about bloco2.com
+&lt;a href=&quot;http://www.aboutus.org/bloco2.com&quot;&gt;AboutUs: bloco2.com&lt;/a&gt;
 
-Domain Name: EAGLEHOST.NET
 
-Registrant:
-    Rene Tapia Penaloza
-    Rene Tapia Penaloza        (rwtp88@gmail.com)
-    None
-    None
-    Valparaiso,44444444
-    CL
-    Tel. +44.444444
+Domain name: bloco2.com
 
-Creation Date: 24-Jul-2008
-Expiration Date: 24-Jul-2012
+Registrant Contact:
+   Rodrigo Fraga de Lemos Barros
+   Rodrigo Fraga de Lemos Barros ()
 
-Domain servers in listed order:
-    dns1.eaglehost.net
-    dns2.eaglehost.net
-
+   Fax:
+   Rua Haddock Lobo 1272 Ap 32
+   Cerqueira Cesar
+   Sao Paulo, SP 01414002
+   BR
 
 Administrative Contact:
-    Rene Tapia Penaloza
-    Rene Tapia Penaloza        (rwtp88@gmail.com)
-    None
-    None
-    Valparaiso,44444444
-    CL
-    Tel. +44.444444
+   Rodrigo Fraga de Lemos Barros
+   Rodrigo Fraga de Lemos Barros (bloco2.com@kinghost.net)
+   94834172
+   Fax: 94834172
+   Rua Haddock Lobo 1272 Ap 32
+   Cerqueira Cesar
+   Sao Paulo, SP 01414002
+   BR
 
 Technical Contact:
-    Rene Tapia Penaloza
-    Rene Tapia Penaloza        (rwtp88@gmail.com)
-    None
-    None
-    Valparaiso,44444444
-    CL
-    Tel. +44.444444
+   Rodrigo Fraga de Lemos Barros
+   Rodrigo Fraga de Lemos Barros (bloco2.com@kinghost.net)
+   94834172
+   Fax: 94834172
+   Rua Haddock Lobo 1272 Ap 32
+   Cerqueira Cesar
+   Sao Paulo, SP 01414002
+   BR
 
-Billing Contact:
-    Rene Tapia Penaloza
-    Rene Tapia Penaloza        (rwtp88@gmail.com)
-    None
-    None
-    Valparaiso,44444444
-    CL
-    Tel. +44.444444
+Status: Active
 
-Status:ACTIVE
+Name Servers:
+   dns1.bloco2.com
+   dns2.bloco2.com
 
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Creation date: 19 Mar 2009 00:57:04
+Expiration date: 19 Mar 2012 00:57:04
 
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

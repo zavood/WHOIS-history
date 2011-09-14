@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FILEBULLDOG.COM
+   Domain Name: APPHIT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS03.DOMAINCONTROL.COM
-   Name Server: NS04.DOMAINCONTROL.COM
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-aug-2010
-   Creation Date: 08-aug-2010
-   Expiration Date: 08-aug-2012
+   Updated Date: 26-jan-2011
+   Creation Date: 20-nov-2007
+   Expiration Date: 20-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:36:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:34:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +82,15 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FILEBULLDOG.COM
+   Domain Name: APPHIT.COM
 
    Domain servers in listed order:
-      NS03.DOMAINCONTROL.COM
-      NS04.DOMAINCONTROL.COM
+      NS1.MYDYNDNS.ORG
+      NS2.MYDYNDNS.ORG
+      NS3.MYDYNDNS.ORG
+      NS4.MYDYNDNS.ORG
+      NS5.MYDYNDNS.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FILEBULLDOG.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=APPHIT.COM

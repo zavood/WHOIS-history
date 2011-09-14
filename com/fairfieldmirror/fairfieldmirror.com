@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FILEBULLDOG.COM
+   Domain Name: FAIRFIELDMIRROR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS03.DOMAINCONTROL.COM
-   Name Server: NS04.DOMAINCONTROL.COM
+   Name Server: NS1.WEBFACTION.COM
+   Name Server: NS2.WEBFACTION.COM
+   Name Server: NS3.WEBFACTION.COM
+   Name Server: NS4.WEBFACTION.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-aug-2010
-   Creation Date: 08-aug-2010
-   Expiration Date: 08-aug-2012
+   Updated Date: 04-aug-2011
+   Creation Date: 06-aug-2000
+   Expiration Date: 06-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:36:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:36:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   The Fairfield Mirror
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FILEBULLDOG.COM
+   Domain Name: FAIRFIELDMIRROR.COM
 
    Domain servers in listed order:
-      NS03.DOMAINCONTROL.COM
-      NS04.DOMAINCONTROL.COM
+      NS1.WEBFACTION.COM
+      NS2.WEBFACTION.COM
+      NS3.WEBFACTION.COM
+      NS4.WEBFACTION.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FILEBULLDOG.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FAIRFIELDMIRROR.COM

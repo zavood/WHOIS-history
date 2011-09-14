@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104842466-LROR
+Domain Name:EDUCATIONSECTOR.ORG
+Created On:03-Sep-2004 17:38:27 UTC
+Last Updated On:01-Sep-2011 08:08:03 UTC
+Expiration Date:03-Sep-2013 17:38:27 UTC
+Sponsoring Registrar:Tiger Technologies LLC (R1338-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:tig-EomSiZTgxNGR
+Registrant Name:Domain Administrator
+Registrant Organization:Education Sector
+Registrant Street1:ATTN: CALL TO GET PREFERRED ADDRESS FOR LEGAL NOTICES
+Registrant Street2:c/o Tiger Technologies LLC
+Registrant Street3:PO Box 7596, Dept W11521
+Registrant City:Berkeley
+Registrant State/Province:CA
+Registrant Postal Code:94707-0596
+Registrant Country:US
+Registrant Phone:+1.5105273131
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:educationsector.org-owner-201109-509dc3@whois.tigertech.net
+Admin ID:tig-8rhj4wJ+191C
+Admin Name:Domain Administrator
+Admin Organization:Education Sector
+Admin Street1:ATTN: CALL TO GET PREFERRED ADDRESS FOR LEGAL NOTICES
+Admin Street2:c/o Tiger Technologies LLC
+Admin Street3:PO Box 7596, Dept W11521
+Admin City:Berkeley
+Admin State/Province:CA
+Admin Postal Code:94707-0596
+Admin Country:US
+Admin Phone:+1.5105273131
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:educationsector.org-admin-201109-12eddb@whois.tigertech.net
+Tech ID:tig-JXqLyt1+7moQ
+Tech Name:Domain Administrator
+Tech Organization:Tiger Technologies LLC
+Tech Street1:ATTN: CALL TO GET PREFERRED ADDRESS FOR LEGAL NOTICES
+Tech Street2:c/o Tiger Technologies LLC
+Tech Street3:PO Box 7596, Dept W11521
+Tech City:Berkeley
+Tech State/Province:CA
+Tech Postal Code:94707-0596
+Tech Country:US
+Tech Phone:+1.5105273131
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:educationsector.org-tech-201109-40d3aa@whois.tigertech.net
+Name Server:NS1.TIGERTECH.NET
+Name Server:NS2.TIGERTECH.BIZ
+Name Server:NS3.TIGERTECH.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
