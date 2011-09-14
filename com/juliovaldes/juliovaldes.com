@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RONDAVU.COM
+   Domain Name: JULIOVALDES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Name Server: NS49.DOMAINCONTROL.COM
+   Name Server: NS50.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 10-jul-2006
-   Expiration Date: 10-jul-2013
+   Updated Date: 09-mar-2009
+   Creation Date: 19-may-2007
+   Expiration Date: 19-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:46:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:45:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Rondavu, Inc.
+   Julio Valdes
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: RONDAVU.COM
+   Domain Name: JULIOVALDES.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+      NS49.DOMAINCONTROL.COM
+      NS50.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=RONDAVU.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=JULIOVALDES.COM
