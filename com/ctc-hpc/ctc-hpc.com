@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERMONT.COM
+   Domain Name: CTC-HPC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERHOST.COM
-   Name Server: DNS2.ENTERHOST.COM
-   Name Server: DNS3.ENTERHOST.COM
-   Name Server: DNS4.ENTERHOST.COM
-   Status: clientDeleteProhibited
+   Name Server: BIGRED.CIT.CORNELL.EDU
+   Name Server: DNS.CIT.CORNELL.EDU
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-jul-2009
-   Creation Date: 05-dec-1994
-   Expiration Date: 04-dec-2014
+   Updated Date: 13-mar-2007
+   Creation Date: 04-mar-2002
+   Expiration Date: 04-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:20:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:21:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: vermont.com
+Whois Query: ctc-hpc.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:11:18 EDT 2011
+Date and Time of Query: Tue Sep 13 23:17:20 EDT 2011
 Reason Code: IE

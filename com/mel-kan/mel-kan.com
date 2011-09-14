@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERMONT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERHOST.COM
-   Name Server: DNS2.ENTERHOST.COM
-   Name Server: DNS3.ENTERHOST.COM
-   Name Server: DNS4.ENTERHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-jul-2009
-   Creation Date: 05-dec-1994
-   Expiration Date: 04-dec-2014
+   Domain Name: MEL-KAN.COM
+   Registrar: NETART REGISTRAR SP. Z O.O.
+   Whois Server: whois.netart-registrar.com
+   Referral URL: http://www.netart-registrar.com
+   Name Server: NS1.AMM-KOMPUTER.PL
+   Name Server: NS2.AMM-KOMPUTER.PL
+   Status: ok
+   Updated Date: 03-nov-2010
+   Creation Date: 23-sep-2008
+   Expiration Date: 23-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:20:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:22:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Welcome to the NetArt Registrar WHOIS Server.
+Domain Name: mel-kan.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Sponsoring Registrar: NetArt Registrar (http://netart-registrar.com)
+Created On: 23 Sep 2008 09:35:53 UTC
+Expiration Date: 23 Sep 2011 09:35:53 UTC
+Last Updated On: 20 Apr 2010 17:14:36 UTC
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant Name: Mariusz Kulma
+Registrant Organization:
+Registrant Street1: ul. Dabrowki 33/20
+Registrant Street2:
+Registrant Street3:
+Registrant City: Minsk Mazowiecki
+Registrant State/Province: mazowieckie
+Registrant Postal Code: 05-300
+Registrant Country: PL
+Registrant Phone: +48.607914365
+Registrant Fax:
+Registrant Email: mariuszk@trajektoria.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Admin Name: NetArt Spolka Akcyjna S.K.A.
+Admin Organization: NetArt Spolka Akcyjna S.K.A.
+Admin Street1: Rondo Mogilskie 1
+Admin Street2:
+Admin Street3:
+Admin City: Krakow
+Admin State/Province: malopolskie
+Admin Postal Code: 31-516
+Admin Country: PL
+Admin Phone: +48.122978810
+Admin Fax: +48.122978808
+Admin Email: info@nazwa.pl
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Name: NetArt Spolka Akcyjna S.K.A.
+Billing Organization: NetArt Spolka Akcyjna S.K.A.
+Billing Street1: Rondo Mogilskie 1
+Billing Street2:
+Billing Street3:
+Billing City: Krakow
+Billing State/Province: malopolskie
+Billing Postal Code: 31-516
+Billing Country: PL
+Billing Phone: +48.122978810
+Billing Fax: +48.122978808
+Billing Email: info@nazwa.pl
 
-Whois Query: vermont.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:11:18 EDT 2011
-Reason Code: IE
+Tech Name: NetArt Spolka Akcyjna S.K.A.
+Tech Organization: NetArt Spolka Akcyjna S.K.A.
+Tech Street1: Rondo Mogilskie 1
+Tech Street2:
+Tech Street3:
+Tech City: Krakow
+Tech State/Province: malopolskie
+Tech Postal Code: 31-516
+Tech Country: PL
+Tech Phone: +48.122978810
+Tech Fax: +48.122978808
+Tech Email: info@nazwa.pl
+
+Name Server: ns1.amm-komputer.pl
+Name Server: ns2.amm-komputer.pl
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+

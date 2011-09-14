@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERMONT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.ENTERHOST.COM
-   Name Server: DNS2.ENTERHOST.COM
-   Name Server: DNS3.ENTERHOST.COM
-   Name Server: DNS4.ENTERHOST.COM
+   Domain Name: BIGDICKJOKES.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Name Server: NS3.MONIKERDNS.NET
+   Name Server: NS4.MONIKERDNS.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jul-2009
-   Creation Date: 05-dec-1994
-   Expiration Date: 04-dec-2014
+   Updated Date: 02-may-2011
+   Creation Date: 15-may-2009
+   Expiration Date: 15-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:20:39 UTC &lt;&lt;&lt;
 
@@ -55,23 +55,88 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Moniker Whois Server Version 2.0
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-http://www.networksolutions.com/whois/index.jhtml
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Domain Name: BIGDICKJOKES.COM
+Registrar: MONIKER
 
-Whois Query: vermont.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:11:18 EDT 2011
-Reason Code: IE
+Registrant [621889]:
+        Mr John webmaster@howling-wulf.com
+        Mr John
+        PO Box 650022
+        Vero Beach
+        FL
+        32965
+        US
+
+
+Administrative Contact [621889]:
+        Mr John webmaster@howling-wulf.com
+        Mr John
+        PO Box 650022
+        Vero Beach
+        FL
+        32965
+        US
+        Phone: +1.7724349678
+
+
+Billing Contact [621889]:
+        Mr John webmaster@howling-wulf.com
+        Mr John
+        PO Box 650022
+        Vero Beach
+        FL
+        32965
+        US
+        Phone: +1.7724349678
+
+
+Technical Contact [621889]:
+        Mr John webmaster@howling-wulf.com
+        Mr John
+        PO Box 650022
+        Vero Beach
+        FL
+        32965
+        US
+        Phone: +1.7724349678
+
+
+Domain servers in listed order:
+
+        NS1.MONIKERDNS.NET         208.73.210.41
+        NS2.MONIKERDNS.NET         208.73.211.42
+        NS3.MONIKERDNS.NET         208.73.210.43
+        NS4.MONIKERDNS.NET         208.73.211.44
+
+        Record created on:        2009-05-15 09:31:16.0
+        Database last updated on: 2011-05-02 06:14:38.493
+        Domain Expires on:        2012-05-15 09:31:16.0
+
+
+
