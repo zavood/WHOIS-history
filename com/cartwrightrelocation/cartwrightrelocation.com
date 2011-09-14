@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: U7ZYWP.COM
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.GKDNS.COM
-   Name Server: NS2.GKDNS.COM
+   Domain Name: CARTWRIGHTRELOCATION.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS1.CARTWRIGHTCOS.COM
+   Name Server: NS2.CARTWRIGHTCOS.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 14-nov-2008
-   Expiration Date: 14-nov-2011
+   Updated Date: 05-jul-2011
+   Creation Date: 19-jan-2009
+   Expiration Date: 19-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:17:31 UTC &lt;&lt;&lt;
 
@@ -54,85 +54,63 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Moniker Whois Server Version 2.0
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam),
-telephone, or facsimile; or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-The compilation, repackaging, dissemination or
-other use of this Data is expressly
-prohibited without the prior written consent
-of Moniker.
-
-Domain Name: U7ZYWP.COM
-Registrar: MONIKER
-
-Registrant [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
+Domain Name:	cartwrightrelocation.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Administrative Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
+Registrant Contact
+
+Name:		Craig M  Cartwright
+Address:	11901 Cartwright ave
+		Grandview, MO  64030
+		US
+
+Email Address:	cmcartwright@cartwrighttrans.com
+Phone Number:	(816)763-2700
+Fax Number:	(816)763-7863
+
+Administrative Contact
+
+Name:		Craig M  Cartwright
+Address:	11901 Cartwright ave
+		Grandview, MO  64030
+		US
+
+Email Address:	cmcartwright@cartwrighttrans.com
+Phone Number:	(816)763-2700
+Fax Number:	(816)763-7863
+
+Technical Contact
+
+Name:		Randall    Parker
+Address:	11901 Cartwright Ave
+		Grandview, MO  64030
+		US
+
+Email Address:	rgparker@transposvc.com
+Phone Number:	(816)442-6260
 
 
-Billing Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
+Record Created on........ 2009-01-19 15:44:54.878
+Record last updated on... 2011-01-20 03:33:29.593
+Expire on................ 2012-01-19 03:33:29.072
 
+Domain Nameservers in listed order:
 
-Technical Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
-
-
-Domain servers in listed order:
-
-        NS2.GKDNS.COM         96.44.172.155
-        NS1.GKDNS.COM         219.234.86.25
-
-        Record created on:        2008-11-14 05:48:08.0
-        Database last updated on: 2010-06-30 22:13:05.18
-        Domain Expires on:        2011-11-14 05:48:08.0
-
-
+	ns1.cartwrightcos.com
+ 	ns2.cartwrightcos.com
 

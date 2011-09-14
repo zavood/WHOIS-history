@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: U7ZYWP.COM
+   Domain Name: CALINAZARET.NET
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.GKDNS.COM
-   Name Server: NS2.GKDNS.COM
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Name Server: NS3.MONIKERDNS.NET
+   Name Server: NS4.MONIKERDNS.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 14-nov-2008
-   Expiration Date: 14-nov-2011
+   Updated Date: 06-apr-2011
+   Creation Date: 19-apr-2008
+   Expiration Date: 19-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:17:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:17:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,60 +81,62 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: U7ZYWP.COM
+Domain Name: CALINAZARET.NET
 Registrar: MONIKER
 
-Registrant [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
+Registrant [1326877]:
+        Brennan Lujan berlun@gmail.com
+        162 Sea Ridge Ct
+        M
+        Aptos
+        CA
+        95003
+        US
 
 
-Administrative Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
+Administrative Contact [1326877]:
+        Brennan Lujan berlun@gmail.com
+        162 Sea Ridge Ct
+        M
+        Aptos
+        CA
+        95003
+        US
+        Phone: +1.8312616251
 
 
-Billing Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
+Billing Contact [1326877]:
+        Brennan Lujan berlun@gmail.com
+        162 Sea Ridge Ct
+        M
+        Aptos
+        CA
+        95003
+        US
+        Phone: +1.8312616251
 
 
-Technical Contact [1864923]:
-        Host Master acquirethisname@gmail.com
-        Great Echo Ltd.
-        Neich Tower, 128 Gloucester Road, Wanchai
-        Wanchai
-        HK
-        21066
-        HK
-        Phone: +852.81209565
+Technical Contact [1326877]:
+        Brennan Lujan berlun@gmail.com
+        162 Sea Ridge Ct
+        M
+        Aptos
+        CA
+        95003
+        US
+        Phone: +1.8312616251
 
 
 Domain servers in listed order:
 
-        NS2.GKDNS.COM         96.44.172.155
-        NS1.GKDNS.COM         219.234.86.25
+        NS1.MONIKERDNS.NET         208.73.210.41
+        NS2.MONIKERDNS.NET         208.73.211.42
+        NS3.MONIKERDNS.NET         208.73.210.43
+        NS4.MONIKERDNS.NET         50.57.11.88
 
-        Record created on:        2008-11-14 05:48:08.0
-        Database last updated on: 2010-06-30 22:13:05.18
-        Domain Expires on:        2011-11-14 05:48:08.0
+        Record created on:        2008-04-19 22:49:55.0
+        Database last updated on: 2011-04-06 15:22:44.96
+        Domain Expires on:        2012-04-19 22:50:07.0
 
 
 

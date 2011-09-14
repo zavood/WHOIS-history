@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EHCLIENTS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.GIPPY.NET
-   Name Server: NS2.GIPPY.NET
-   Name Server: NS3.GIPPY.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 30-sep-2008
-   Expiration Date: 30-sep-2012
+   Domain Name: URV.NET
+   Registrar: NOMINALIA INTERNET S.L.
+   Whois Server: whois.nominalia.com
+   Referral URL: http://www.nominalia.com
+   Name Server: ALIGA.URV.ES
+   Name Server: DNS.URV.ES
+   Status: ok
+   Updated Date: 25-may-2011
+   Creation Date: 29-may-2001
+   Expiration Date: 29-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:17:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:16:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+NOMINALIA INTERNET S.L. - Whois Server Version 1.4
+
+The Registry database contains ONLY .COM, .NET and .ORG domains.
+
+     Domain name: URV.NET
+     Created on: 2007-10-30
+     Updated on: 2011-05-25
+     Expires on: 2012-05-29
+     Registrant Name: UNIVERSITAT ROVIRA I VIRGILI
+     Contact: Universitat Rovira i Virgili
+     Registrant Address: Escorxador s/n
+     Registrant City: Tarragona
+     Registrant Postal Code: 43100
+     Registrant Country: ES
+     Administrative Contact Organization: Universitat Rovira i Virgili
+     Administrative Contact Name: Encarna Perez Ruiz null
+     Administrative Contact Address: C/ de l'Escorxador s/n
+     Administrative Contact City: Tarragona
+     Administrative Contact Postal Code: 43003
+     Administrative Contact Country: ES
+     Administrative Contact Email: eperez@si.urv.es
+     Administrative Contact Tel: +34 977558030
+     Administrative Contact Fax: +34 977558257
+     Technical Contact Organization: Nominalia Internet, S.L.
+     Technical Contact Name:
+     Technical Contact Address: Josep Pla, 2. Torres Diagonal Litoral. Edificio B3, planta 3-D
+     Technical Contact City: Barcelona
+     Technical Contact Postal Code: E-08019
+     Technical Contact Country: ES
+     Technical Contact Email: payment@nominalia.com
+     Technical Contact Phone: +34.935074360
+     Technical Contact Fax: +34.933102360
+     Primary Name Server Hostname: DNS.URV.ES
+     Secondary Name Server Hostname: ALIGA.URV.ES
+
+
+&gt;&gt;&gt; Last update of whois database: Wed Sep 14 22:02:34 2011 &lt;&lt;&lt;
+

@@ -1,0 +1,87 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:17:29 2011
+
+domain:       ccshhk.cz
+registrant:   SB:SUB000017186-ZONER
+admin-c:      PER000017186-ZONER
+temp-c:       PER000000001-ZONER
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   13.09.2004 12:45:00
+changed:      12.03.2010 20:11:34
+expire:       13.09.2012
+
+contact:      SB:SUB000017186-ZONER
+org:          Kr&Atilde;&iexcl;lov&Atilde;&copy;hradeck&Atilde;&iexcl; diec&Atilde;&copy;ze C&Atilde;&shy;rkve &Auml;çeskoslovensk&Atilde;&copy; husitsk&Atilde;&copy;
+name:         Vojt&Auml;õch Basl
+address:      Ambro&Aring;&frac34;ova 728
+address:      Hradec Kr&Atilde;&iexcl;lov&Atilde;&copy;
+address:      50002
+address:      CZ
+e-mail:       baslv@centrum.cz
+registrar:    REG-ZONER
+created:      13.09.2004 12:35:00
+
+contact:      PER000017186-ZONER
+name:         Vojt&Auml;õch Basl
+address:      Ambro&Aring;&frac34;ova 728
+address:      Hradec Kr&Atilde;&iexcl;lov&Atilde;&copy;
+address:      50002
+address:      CZ
+e-mail:       baslv@centrum.cz
+registrar:    REG-ZONER
+created:      13.09.2004 12:15:00
+
+contact:      PER000000001-ZONER
+name:         Petr Horinek
+address:      Nov&Atilde;&copy; sady 18
+address:      Brno
+address:      60200
+address:      CZ
+phone:        +420.543257244
+fax-no:       +420.543257245
+e-mail:       auto-reg@admin.czechia.com
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      26.08.2005 15:05:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

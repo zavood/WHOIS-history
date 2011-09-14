@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107197858-LROR
+Domain Name:BORNRICH.ORG
+Created On:16-Aug-2005 14:08:14 UTC
+Last Updated On:15-Feb-2011 03:16:56 UTC
+Expiration Date:16-Aug-2014 14:08:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31430536
+Registrant Name:Arjun Maheshwari
+Registrant Organization:Citizen Media Pvt Ltd
+Registrant Street1:b 113
+Registrant Street2:Sector 65
+Registrant Street3:
+Registrant City:Noida
+Registrant State/Province:Uttar Pradesh
+Registrant Postal Code:201301
+Registrant Country:IN
+Registrant Phone:+91.9805080506
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:me@arjun.tv
+Admin ID:CR31430538
+Admin Name:Arjun Maheshwari
+Admin Organization:Citizen Media Pvt Ltd
+Admin Street1:b 113
+Admin Street2:Sector 65
+Admin Street3:
+Admin City:Noida
+Admin State/Province:Uttar Pradesh
+Admin Postal Code:201301
+Admin Country:IN
+Admin Phone:+91.9805080506
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:me@arjun.tv
+Tech ID:CR31430537
+Tech Name:Arjun Maheshwari
+Tech Organization:Citizen Media Pvt Ltd
+Tech Street1:b 113
+Tech Street2:Sector 65
+Tech Street3:
+Tech City:Noida
+Tech State/Province:Uttar Pradesh
+Tech Postal Code:201301
+Tech Country:IN
+Tech Phone:+91.9805080506
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:me@arjun.tv
+Name Server:NS63.DOMAINCONTROL.COM
+Name Server:NS64.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

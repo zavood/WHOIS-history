@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160972053-LROR
+Domain Name:SOYOUTHINKYOUCANPITCH.ORG
+Created On:16-Dec-2010 17:09:26 UTC
+Last Updated On:15-Feb-2011 03:50:32 UTC
+Expiration Date:16-Dec-2011 17:09:26 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ca0fbf371bf6b490
+Registrant Name:Carlos Miguel Lopes  Goncalves
+Registrant Organization:Carlos Miguel Lopes Goncalves
+Registrant Street1:Rua da Portela n 16, Parada de
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vila Real
+Registrant State/Province:
+Registrant Postal Code:5000-471
+Registrant Country:PT
+Registrant Phone:+351.919173733
+Registrant Phone Ext.:
+Registrant FAX:+351.919173733
+Registrant FAX Ext.:
+Registrant Email:miguellopesgoncalves@gmail.com
+Admin ID:ca0fbf371bf6b490
+Admin Name:Carlos Miguel Lopes  Goncalves
+Admin Organization:Carlos Miguel Lopes Goncalves
+Admin Street1:Rua da Portela n 16, Parada de
+Admin Street2:
+Admin Street3:
+Admin City:Vila Real
+Admin State/Province:
+Admin Postal Code:5000-471
+Admin Country:PT
+Admin Phone:+351.919173733
+Admin Phone Ext.:
+Admin FAX:+351.919173733
+Admin FAX Ext.:
+Admin Email:miguellopesgoncalves@gmail.com
+Tech ID:ca0fbf371bf6b490
+Tech Name:Carlos Miguel Lopes  Goncalves
+Tech Organization:Carlos Miguel Lopes Goncalves
+Tech Street1:Rua da Portela n 16, Parada de
+Tech Street2:
+Tech Street3:
+Tech City:Vila Real
+Tech State/Province:
+Tech Postal Code:5000-471
+Tech Country:PT
+Tech Phone:+351.919173733
+Tech Phone Ext.:
+Tech FAX:+351.919173733
+Tech FAX Ext.:
+Tech Email:miguellopesgoncalves@gmail.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

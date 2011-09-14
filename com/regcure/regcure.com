@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EHCLIENTS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.GIPPY.NET
-   Name Server: NS2.GIPPY.NET
-   Name Server: NS3.GIPPY.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 30-sep-2008
-   Expiration Date: 30-sep-2012
+   Domain Name: REGCURE.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: ok
+   Updated Date: 03-dec-2010
+   Creation Date: 02-dec-2005
+   Expiration Date: 02-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:17:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:18:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +55,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Paretologic Inc.
+   1827 Fort St
+   Victoria, BC  V8R 1J6
+   CA
+
+   Registrar: DOTSTER
+   Domain Name: REGCURE.COM
+      Created on: 02-DEC-05
+      Expires on: 03-DEC-11
+      Last Updated on: 13-NOV-10
+
+   Administrative, Technical Contact:
+       , Elton  support@regcure.com
+      Paretologic Inc.
+      1827 Fort St
+      Victoria, BC  V8R 1J6
+      CA
+      250-370-9229
+
+
+   Domain servers in listed order:
+      PDNS1.ULTRADNS.NET
+      PDNS2.ULTRADNS.NET
+      PDNS3.ULTRADNS.ORG
+      PDNS4.ULTRADNS.ORG
+      PDNS5.ULTRADNS.INFO
+      PDNS6.ULTRADNS.CO.UK
+
+End of Whois Information
