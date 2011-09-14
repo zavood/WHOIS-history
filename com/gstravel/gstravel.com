@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KOKEETOS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1889.HOSTGATOR.COM
-   Name Server: NS1890.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: GSTRAVEL.COM
+   Registrar: IP MIRROR PTE LTD. DBA IP MIRROR
+   Whois Server: whois.ipmirror.com
+   Referral URL: http://www.ipmirror.com
+   Name Server: NS1.CREAWORLD.COM.SG
+   Name Server: NS2.CREAWORLD.COM.SG
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 17-jun-2009
-   Expiration Date: 17-jun-2013
+   Updated Date: 15-aug-2011
+   Creation Date: 08-apr-1998
+   Expiration Date: 07-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:44:57 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
 
-Registrant:
-   ANA GRANADILLO
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KOKEETOS.COM
-
-   Domain servers in listed order:
-      NS1889.HOSTGATOR.COM
-      NS1890.HOSTGATOR.COM
+Domain Service Provided By: CREATIVE E-WORLD PTE LTD
+Website:
+Domain Name: gstravel.com
+Domain nameservers listed in order:
+ns1.creaworld.com.sg
+ns2.creaworld.com.sg
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KOKEETOS.COM
+Registration Date: 1998-04-08
+Expiration Date: 2012-04-07
+Domain last updated on: 2011-03-04
+
+Registrant Contact:
+Organization: GS TRAVEL (PTE) LTD
+Name: Pal Singh
+Street 1: 3 Coleman St #03-04
+Street 2: Peninsula Shopping Centre
+City: NA
+Postal Code: 179807
+Country: Singapore
+Email Address: dns@creaworld.com.sg
+Tel: 65.63391766
+Fax: 65.63390168
+
+Administrator Contact:
+Organization: GS TRAVEL (PTE) LTD
+Name: Pal Singh
+Street 1: 3 Coleman St #03-04
+Street 2: Peninsula Shopping Centre
+City: NA
+Postal Code: 179807
+Country: Singapore
+Email Address: dns@creaworld.com.sg
+Tel: 65.63391766
+Fax: 65.63390168
+
+Technical Contact:
+Organization: CREATIVE E-WORLD PTE LTD
+Name: Rachel Tan
+Street 1: 554 Havelock Road
+Street 2: #08-01 Ganges Centre
+City: Singapore
+Postal Code: 169639
+Country: Singapore
+Email Address: rachel@creaworld.com.sg
+Tel 1: 65.63922857
+Fax: 65.63922867
+
+
+Billing Contact:
+Organization: CREATIVE E-WORLD PTE LTD
+Name: Rachel Tan
+Street 1: 554 Havelock Road
+Street 2: #08-01 Ganges Centre
+City: Singapore
+Postal Code: 169639
+Country: Singapore
+Email Address: rachel@creaworld.com.sg
+Tel 1: 65.63922857
+Fax: 65.63922867
+
+
+
+

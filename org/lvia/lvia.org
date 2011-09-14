@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D305778-LROR
+Domain Name:LVIA.ORG
+Created On:21-Jun-1997 04:00:00 UTC
+Last Updated On:12-Apr-2011 17:19:16 UTC
+Expiration Date:20-Jun-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31633164-NSI
+Registrant Name:LehighNorthamptonAirport Authority
+Registrant Organization:LehighNorthamptonAirport Authority
+Registrant Street1:3311 Airport Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Allentown
+Registrant State/Province:PA
+Registrant Postal Code:18109
+Registrant Country:US
+Registrant Phone:+1.61026660
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tomd@LNAA.COM
+Admin ID:22190903-NSI
+Admin Name:LehighNorthamptonAirportAuthority
+Admin Organization:LehighNorthamptonAirportAuthority
+Admin Street1:3311 Airport Road
+Admin Street2:
+Admin Street3:
+Admin City:Allentown
+Admin State/Province:PA
+Admin Postal Code:18103
+Admin Country:US
+Admin Phone:+1.61026660
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tomd@LNAA.COM
+Tech ID:5374364-NSI
+Tech Name:Data Solutions Group
+Tech Organization:Data Solutions Group
+Tech Street1:1880 Campus Commons Drive
+Tech Street2:**
+Tech Street3:
+Tech City:Reston
+Tech State/Province:VA
+Tech Postal Code:20191
+Tech Country:US
+Tech Phone:+1.8004757840
+Tech Phone Ext.:
+Tech FAX:+1.7034536770
+Tech FAX Ext.:
+Tech Email:DOMREG@VERIZON.COM
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KOKEETOS.COM
+   Domain Name: DREREMIA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1889.HOSTGATOR.COM
-   Name Server: NS1890.HOSTGATOR.COM
+   Name Server: NS1.SPEEDFOX.NET
+   Name Server: NS2.SPEEDFOX.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 17-jun-2009
-   Expiration Date: 17-jun-2013
+   Updated Date: 08-may-2010
+   Creation Date: 11-may-2009
+   Expiration Date: 11-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:44:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:46:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   ANA GRANADILLO
+   sorin eremia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KOKEETOS.COM
+   Domain Name: DREREMIA.COM
 
    Domain servers in listed order:
-      NS1889.HOSTGATOR.COM
-      NS1890.HOSTGATOR.COM
+      NS2.SPEEDFOX.NET
+      NS1.SPEEDFOX.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KOKEETOS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DREREMIA.COM

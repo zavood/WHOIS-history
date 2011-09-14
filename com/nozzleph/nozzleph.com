@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KOKEETOS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1889.HOSTGATOR.COM
-   Name Server: NS1890.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 17-jun-2009
-   Expiration Date: 17-jun-2013
+   Domain Name: NOZZLEPH.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS18.DNSEVER.COM
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS52.DNSEVER.COM
+   Status: ok
+   Updated Date: 11-oct-2010
+   Creation Date: 02-may-2005
+   Expiration Date: 02-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:44:57 UTC &lt;&lt;&lt;
 
@@ -54,37 +54,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name           : nozzleph.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   ANA GRANADILLO
+	company       :
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KOKEETOS.COM
+Administrative Contact:
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-   Domain servers in listed order:
-      NS1889.HOSTGATOR.COM
-      NS1890.HOSTGATOR.COM
+Technical Contact:
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
+
+Domain servers in listed order:
+		ns18.dnsever.com  [121.254.154.148]
+		ns19.dnsever.com  [121.254.154.149]
+		ns52.dnsever.com  [121.254.154.182]
+		ns231.dnsever.com  [125.141.231.179]
+		ns259.dnsever.com  [112.222.217.122]
+
+Created on 2005-05-02
+Updated on 2010-10-11
+Expires on 2012-05-02&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KOKEETOS.COM
