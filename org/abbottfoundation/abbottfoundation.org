@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132454498-LROR
+Domain Name:ABBOTTFOUNDATION.ORG
+Created On:08-Nov-2006 21:02:02 UTC
+Last Updated On:23-Apr-2007 21:56:18 UTC
+Expiration Date:08-Nov-2016 21:02:02 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:41252773-NSI
+Registrant Name:Ethel S. Abbott Charitable Foundation
+Registrant Organization:Ethel S. Abbott Charitable Foundation
+Registrant Street1:1331 Plum Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lincoln
+Registrant State/Province:NE
+Registrant Postal Code:68502
+Registrant Country:US
+Registrant Phone:+1.402435436
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:41252773-NSI
+Admin Name:Ethel S. Abbott Charitable Foundation
+Admin Organization:Ethel S. Abbott Charitable Foundation
+Admin Street1:1331 Plum Street
+Admin Street2:
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:NE
+Admin Postal Code:68502
+Admin Country:US
+Admin Phone:+1.402435436
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:28764106-NSI
+Tech Name:Hostmaster Hostmaster
+Tech Organization:Firespring
+Tech Street1:1200 N Street
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Lincoln
+Tech State/Province:NE
+Tech Postal Code:68508
+Tech Country:US
+Tech Phone:+1.402437010
+Tech Phone Ext.:
+Tech FAX:+1.402437010
+Tech FAX Ext.:
+Tech Email:hostmaster@firespring.com
+Name Server:NS2.DIGITALIMS.NET
+Name Server:NS1.DIGITALIMS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

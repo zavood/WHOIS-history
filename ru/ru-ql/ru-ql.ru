@@ -3,15 +3,15 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     LOADFASTRAR.RU
-nserver:    dns1.naunet.ru.
-nserver:    dns2.naunet.ru.
-state:      REGISTERED, DELEGATED, UNVERIFIED
+domain:     RU-QL.RU
+nserver:    ns35.iphoster.ru.
+nserver:    ns36.iphoster.ru.
+state:      REGISTERED, DELEGATED, VERIFIED
 person:     Private Person
-e-mail:     spam@cashmagnat.com
-registrar:  NAUNET-REG-RIPN
-created:    2011.03.11
-paid-till:  2012.03.11
+e-mail:     order.to.hack@gmail.com
+registrar:  REGRU-REG-RIPN
+created:    2011.02.18
+paid-till:  2012.02.18
 source:     TCI
 
 Last updated on 2011.09.15 01:13:42 MSK/MSD

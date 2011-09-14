@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 18:15:21 (BRT -03:00)
+
+domain:      leopolymer.com.br
+owner:       Leopolymer Compostos Termoplasticos LTDA
+ownerid:     006.275.780/0001-69
+responsible: Batista da Silva
+country:     BR
+owner-c:     BASIL
+admin-c:     BASIL
+tech-c:      MSL609
+billing-c:   BASIL
+nserver:     ns1.marquescorp.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.marquescorp.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     20061004 #3099845
+expires:     20111004
+changed:     20101105
+status:      published
+
+nic-hdl-br:  BASIL
+person:      Batista da Silva
+e-mail:      leopolymer@uol.com.br
+created:     20061004
+changed:     20061004
+
+nic-hdl-br:  MSL609
+person:      MarquesCorp Solu&ccedil;&otilde;es em Tecnologia Ltda.
+e-mail:      registro@brasilconex.com.br
+created:     20050526
+changed:     20110627
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
