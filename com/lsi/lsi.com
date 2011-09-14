@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 2O7.NET
+   Domain Name: LSI.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: NS-1.2O7.NET
-   Name Server: NS-2.2O7.NET
-   Name Server: NS-3.2O7.NET
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 29-sep-2000
-   Expiration Date: 29-sep-2013
+   Updated Date: 07-dec-2010
+   Creation Date: 13-jan-1992
+   Expiration Date: 12-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,41 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... 2o7.net
-  Creation Date........ 2000-09-30
-  Registration Date.... 2011-08-18
-  Expiry Date.......... 2013-09-30
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
+Domain Name.......... lsi.com
+  Creation Date........ 1992-01-13
+  Registration Date.... 2009-11-09
+  Expiry Date.......... 2012-01-13
+  Organisation Name.... LSI Corporation
+  Organisation Address. 1621 Barber Lane
   Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
+  Organisation Address. Milpitas
+  Organisation Address. 95035
   Organisation Address. CA
   Organisation Address. UNITED STATES
 
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
+Admin Name........... Domain Name Manager
+  Admin Address........ LSI Corporation
+  Admin Address........ 1621 Barber Lane
+  Admin Address........ Milpitas
+  Admin Address........ 95035
   Admin Address........ CA
   Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366000
+  Admin Email.......... gns-domain@lsi.com
+  Admin Phone.......... +408.4334357
   Admin Fax............
 
-Tech Name............ Domain Tech
-  Tech Address......... 550 East Timpanogos Circle
-  Tech Address.........
-  Tech Address......... Orem
-  Tech Address......... 84097
-  Tech Address......... UT
+Tech Name............ Domain Name Manager
+  Tech Address......... LSI Corporation
+  Tech Address......... 1621 Barber Lane
+  Tech Address......... Milpitas
+  Tech Address......... 95035
+  Tech Address......... CA
   Tech Address......... UNITED STATES
-  Tech Email........... obu-dnstech@adobe.com
-  Tech Phone........... +801.7227000
+  Tech Email........... gns-domain@lsi.com
+  Tech Phone........... +408.4334357
   Tech Fax.............
-  Name Server.......... ns-1.2o7.net
-  Name Server.......... ns-2.2o7.net
-  Name Server.......... ns-3.2o7.net
+  Name Server.......... cbru.br.ns.els-gms.att.net
+  Name Server.......... cmtu.mt.ns.els-gms.att.net
 
 

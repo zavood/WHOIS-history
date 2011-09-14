@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 2O7.NET
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS-1.2O7.NET
-   Name Server: NS-2.2O7.NET
-   Name Server: NS-3.2O7.NET
+   Domain Name: U2-WEB.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.U2-WEB.COM
+   Name Server: NS5.U2-WEB.COM
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 29-sep-2000
-   Expiration Date: 29-sep-2013
+   Updated Date: 15-jan-2008
+   Creation Date: 29-feb-2004
+   Expiration Date: 28-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:38:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... 2o7.net
-  Creation Date........ 2000-09-30
-  Registration Date.... 2011-08-18
-  Expiry Date.......... 2013-09-30
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366000
-  Admin Fax............
-
-Tech Name............ Domain Tech
-  Tech Address......... 550 East Timpanogos Circle
-  Tech Address.........
-  Tech Address......... Orem
-  Tech Address......... 84097
-  Tech Address......... UT
-  Tech Address......... UNITED STATES
-  Tech Email........... obu-dnstech@adobe.com
-  Tech Phone........... +801.7227000
-  Tech Fax.............
-  Name Server.......... ns-1.2o7.net
-  Name Server.......... ns-2.2o7.net
-  Name Server.......... ns-3.2o7.net
+=-=-=-=
+Visit AboutUs.org for more information about u2-web.com
+&lt;a href=&quot;http://www.aboutus.org/u2-web.com&quot;&gt;AboutUs: u2-web.com&lt;/a&gt;
 
 
+Domain name: u2-web.com
+
+Registrant Contact:
+   Servers Serving
+   Servers-Serving hostmaster ()
+
+   Fax:
+   2774 N. Cobb Pkwy
+   Suite 109-155
+   Kennesaw, GA 30152
+   US
+
+Administrative Contact:
+   Servers Serving
+   Servers-Serving hostmaster (domains@servers-serving.net)
+   +1.7707835950
+   Fax: +1.7707835950
+   2774 N. Cobb Pkwy
+   Suite 109-155
+   Kennesaw, GA 30152
+   US
+
+Technical Contact:
+   Servers Serving
+   Servers-Serving hostmaster (domains@servers-serving.net)
+   +1.7707835950
+   Fax: +1.7707835950
+   2774 N. Cobb Pkwy
+   Suite 109-155
+   Kennesaw, GA 30152
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.U2-WEB.COM
+   NS5.U2-WEB.COM
+
+Creation date: 29 Feb 2004 13:48:20
+Expiration date: 28 Feb 2013 13:48:20
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 2O7.NET
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS-1.2O7.NET
-   Name Server: NS-2.2O7.NET
-   Name Server: NS-3.2O7.NET
+   Domain Name: CFRBEZIERS.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS3.INFOMANIAK.CH
+   Name Server: NS4.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 29-sep-2000
-   Expiration Date: 29-sep-2013
+   Updated Date: 23-dec-2010
+   Creation Date: 06-jan-2005
+   Expiration Date: 06-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:38:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,41 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... 2o7.net
-  Creation Date........ 2000-09-30
-  Registration Date.... 2011-08-18
-  Expiry Date.......... 2013-09-30
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366000
-  Admin Fax............
-
-Tech Name............ Domain Tech
-  Tech Address......... 550 East Timpanogos Circle
-  Tech Address.........
-  Tech Address......... Orem
-  Tech Address......... 84097
-  Tech Address......... UT
-  Tech Address......... UNITED STATES
-  Tech Email........... obu-dnstech@adobe.com
-  Tech Phone........... +801.7227000
-  Tech Fax.............
-  Name Server.......... ns-1.2o7.net
-  Name Server.......... ns-2.2o7.net
-  Name Server.......... ns-3.2o7.net
-
-
+Domain Name : CFRBEZIERS.COM
+Created On : 2005-01-06
+Expiration Date : 2012-01-06
+Status : PROTECTED
+Registrant Name : Centre de Formation Routier
+Registrant Street1 : 57 AVENUE ST SAENS
+Registrant City : BEZIERS
+Registrant State/Province  :
+Registrant Postal Code : 34500
+Registrant Country : FR
+Admin Name : Centre de Formation Routier
+Admin Street1 : 57 AVENUE ST SAENS
+Admin City : BEZIERS
+Admin State/Province : FR
+Admin Postal Code : 34500
+Admin Country : FR
+Admin Phone : +41.033467110708
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS3.INFOMANIAK.CH
+Name Server : NS4.INFOMANIAK.CH
+Registrar Name : Namebay

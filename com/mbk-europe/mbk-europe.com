@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 2O7.NET
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS-1.2O7.NET
-   Name Server: NS-2.2O7.NET
-   Name Server: NS-3.2O7.NET
+   Domain Name: MBK-EUROPE.COM
+   Registrar: NORDNET
+   Whois Server: whois.nordnet.net
+   Referral URL: http://www.nordnet.net
+   Name Server: NLYAM024.YME.COM
+   Name Server: SIGMA.2001.NET
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 29-sep-2000
-   Expiration Date: 29-sep-2013
+   Updated Date: 17-jul-2007
+   Creation Date: 31-aug-1998
+   Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:38:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Serveur Whois version 4.1
+**************************************************
+* Base de Donnees des domaines COM, NET et ORG   *
+* enregistres par NORDNET.                       *
+* Ces informations sont affichees par le serveur *
+* Whois de NORDNET, le Registrar du              *
+* Groupe FRANCE-TELECOM                          *
+* Elles ne peuvent etre utilisees sans l accord  *
+* prealable de NORDNET.                          *
+*                                                *
+* Database of registration for COM, NET and      *
+* ORG by NORDNET.                                *
+* This informations is from NORDNET s Whois      *
+* Server, the Registrar for the                  *
+* Group FRANCE-TELECOM.                          *
+* Use of this data is strictly prohibited with   *
+* out proper authorisation of NORDNET.           *
+**************************************************
 
-Domain Name.......... 2o7.net
-  Creation Date........ 2000-09-30
-  Registration Date.... 2011-08-18
-  Expiry Date.......... 2013-09-30
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+Registrant:
+	  (NNR-yamaha1)
+		Yamaha Motor Europe N.v.
+		Koolhovenlaan 101
+		1119NC Schiphol
+		FR
+		Phone:
 
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366000
-  Admin Fax............
+        Registrar....: Nordnet
+        Web..........: http://www.nordnet.net
+        Whois........: whois.nordnet.net
 
-Tech Name............ Domain Tech
-  Tech Address......... 550 East Timpanogos Circle
-  Tech Address.........
-  Tech Address......... Orem
-  Tech Address......... 84097
-  Tech Address......... UT
-  Tech Address......... UNITED STATES
-  Tech Email........... obu-dnstech@adobe.com
-  Tech Phone........... +801.7227000
-  Tech Fax.............
-  Name Server.......... ns-1.2o7.net
-  Name Server.......... ns-2.2o7.net
-  Name Server.......... ns-3.2o7.net
+	Domain Name: mbk-europe.com
 
 
+	Administrative Contact:
+		Maisonneuve, Marc (NNR-yamaha0) webmaster@yamaha-motor.nl
+		Yamaha Motor Europe N.v.
+		Koolhovenlaan 101
+		1119NC Schiphol
+		FR
+		Phone: +33.1031206546000	Fax: +33.1031206546888
+
+	Technical Contact:
+		Maisonneuve, Marc (NNR-yamaha0) webmaster@yamaha-motor.nl
+		Yamaha Motor Europe N.v.
+		Koolhovenlaan 101
+		1119NC Schiphol
+		FR
+		Phone: +33.1031206546000	Fax: +33.1031206546888
+
+	Billing Contact:
+		Maisonneuve, Marc (NNR-yamaha0) webmaster@yamaha-motor.nl
+		Yamaha Motor Europe N.v.
+		Koolhovenlaan 101
+		1119NC Schiphol
+		FR
+		Phone: +33.1031206546000	Fax: +33.1031206546888
+
+	Record last updated on 2011-Aug-21
+	Record expires on 2012-Aug-30
+	Record created on 1998-Aug-31
+
+	Domain servers in listed order:
+
+	nlyam024.yme.com
+	sigma.2001.net
+Deposez votre domaine sur le site http://www.nordnet.net
+
+
+Copyright Nordnet Registrar

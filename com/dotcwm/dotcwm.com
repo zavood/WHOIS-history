@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 2O7.NET
+   Domain Name: DOTCWM.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: NS-1.2O7.NET
-   Name Server: NS-2.2O7.NET
-   Name Server: NS-3.2O7.NET
+   Name Server: NS.BAYHOSTING.CO.UK
+   Name Server: NS0.DOTCWM.COM
+   Name Server: NS2.PARKPLATZ.NET
+   Name Server: NS3.DOTCWM.COM
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 29-sep-2000
-   Expiration Date: 29-sep-2013
+   Updated Date: 03-oct-2009
+   Creation Date: 21-may-2003
+   Expiration Date: 21-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:37:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,41 +54,42 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... 2o7.net
-  Creation Date........ 2000-09-30
-  Registration Date.... 2011-08-18
-  Expiry Date.......... 2013-09-30
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
+Domain Name.......... dotcwm.com
+  Creation Date........ 2003-05-21
+  Registration Date.... 2003-05-21
+  Expiry Date.......... 2012-05-21
+  Organisation Name.... Geraint Edwards
+  Organisation Address. POBox 657
   Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+  Organisation Address. Cardiff
+  Organisation Address. CF11 1EX
+  Organisation Address. Wales
+  Organisation Address. GREAT BRITAIN (UK)
 
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
+Admin Name........... Geraint Edwards
+  Admin Address........ POBox 657
   Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366000
-  Admin Fax............
+  Admin Address........ Cardiff
+  Admin Address........ CF11 1EX
+  Admin Address........ Wales
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... hostmaster@bayhosting.co.uk
+  Admin Phone.......... +44.8453457541
+  Admin Fax............ +44.8707059826
 
-Tech Name............ Domain Tech
-  Tech Address......... 550 East Timpanogos Circle
+Tech Name............ Geraint Edwards
+  Tech Address......... POBox 657
   Tech Address.........
-  Tech Address......... Orem
-  Tech Address......... 84097
-  Tech Address......... UT
-  Tech Address......... UNITED STATES
-  Tech Email........... obu-dnstech@adobe.com
-  Tech Phone........... +801.7227000
-  Tech Fax.............
-  Name Server.......... ns-1.2o7.net
-  Name Server.......... ns-2.2o7.net
-  Name Server.......... ns-3.2o7.net
+  Tech Address......... Cardiff
+  Tech Address......... CF11 1EX
+  Tech Address......... Wales
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... hostmaster@bayhosting.co.uk
+  Tech Phone........... +44.8453457541
+  Tech Fax............. +44.8707059826
+  Name Server.......... ns.bayhosting.co.uk
+  Name Server.......... ns2.parkplatz.net
+  Name Server.......... ns3.dotcwm.com
+  Name Server.......... ns0.dotcwm.com
 
 
