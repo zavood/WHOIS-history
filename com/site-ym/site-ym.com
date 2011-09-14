@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: SITE-YM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
+   Name Server: NS1.YMEM.NET
+   Name Server: NS2.YMEM.NET
+   Name Server: NS3.YMEM.NET
+   Name Server: NS5.YMEM.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 11-nov-2009
-   Expiration Date: 11-nov-2011
+   Updated Date: 15-jun-2010
+   Creation Date: 22-dec-2009
+   Expiration Date: 22-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Morsekode
+   YourMembership.com, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: SITE-YM.COM
 
    Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
+      NS1.YMEM.NET
+      NS2.YMEM.NET
+      NS3.YMEM.NET
+      NS5.YMEM.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECODYNEWATERTREATMENT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SITE-YM.COM

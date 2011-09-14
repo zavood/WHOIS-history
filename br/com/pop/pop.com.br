@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:34:18 (BRT -03:00)
+
+domain:      pop.com.br
+owner:       POP Internet LTDA
+ownerid:     003.809.228/0001-15
+responsible: Operacao POP Internet LTDA
+country:     BR
+owner-c:     OPI5
+admin-c:     OPI5
+tech-c:      OPI5
+billing-c:   COMGV
+nserver:     ns1.pop.com.br 200.175.8.10
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.pop.com.br 200.175.8.11
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.pop.com.br 200.175.8.35
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns4.pop.com.br 200.175.8.34
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19970809 #51241
+expires:     20210809
+changed:     20110719
+status:      published
+
+nic-hdl-br:  COMGV
+person:      Comunica&ccedil;&atilde;o Marketing GVT
+e-mail:      comunicacao.digital@gvt.com.br
+created:     20060727
+changed:     20101027
+
+nic-hdl-br:  OPI5
+person:      Operacao POP Internet
+e-mail:      registro.pop@gvt.com.br
+created:     20050224
+changed:     20101213
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

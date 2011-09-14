@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECODYNEWATERTREATMENT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MIRARETAKUTE.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 11-nov-2009
-   Expiration Date: 11-nov-2011
+   Updated Date: 10-apr-2011
+   Creation Date: 12-may-2008
+   Expiration Date: 12-may-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:42 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: miraretakute.com
+Created On: 2008-05-13 10:23:21.0
+Last Updated On: 2011-04-10 18:37:25.0
+Expiration Date: 2014-05-13 01:23:21.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: ns1.dreamhost.com
+Name Server: ns2.dreamhost.com
+Name Server: ns3.dreamhost.com
 
-Registrant:
-   Morsekode
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECODYNEWATERTREATMENT.COM
-
-   Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECODYNEWATERTREATMENT.COM

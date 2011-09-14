@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: TDSTIRES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
+   Name Server: AUTH02.NS.UU.NET
+   Name Server: AUTH20.NS.WCOM.COM
+   Name Server: NS.TDSTIRES.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 11-nov-2009
-   Expiration Date: 11-nov-2011
+   Updated Date: 18-nov-2010
+   Creation Date: 17-apr-2001
+   Expiration Date: 18-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:32:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Morsekode
+   Tire Distribution Systems, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: TDSTIRES.COM
 
    Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
+      NS.TDSTIRES.COM
+      AUTH02.NS.UU.NET
+      AUTH20.NS.WCOM.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECODYNEWATERTREATMENT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TDSTIRES.COM

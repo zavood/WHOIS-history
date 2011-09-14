@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: MIIAN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS13.DOMAINCONTROL.COM
-   Name Server: NS14.DOMAINCONTROL.COM
+   Name Server: NS15.IXWEBHOSTING.COM
+   Name Server: NS16.IXWEBHOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 11-nov-2009
-   Expiration Date: 11-nov-2011
+   Updated Date: 05-mar-2009
+   Creation Date: 08-jan-2007
+   Expiration Date: 08-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:31:42 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Morsekode
+   Li Xuan
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ECODYNEWATERTREATMENT.COM
+   Domain Name: MIIAN.COM
 
    Domain servers in listed order:
-      NS13.DOMAINCONTROL.COM
-      NS14.DOMAINCONTROL.COM
+      NS15.IXWEBHOSTING.COM
+      NS16.IXWEBHOSTING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ECODYNEWATERTREATMENT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MIIAN.COM
