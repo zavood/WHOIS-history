@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MELECANACOZINHA.COM
+   Domain Name: FLEX10.COM
    Registrar: LOCAWEB SERVICOS DE INTERNET S/A DBA LOCAWEB
    Whois Server: whois.locaweb.com.br
    Referral URL: http://www.locaweb.com.br
-   Name Server: NS1.LOCAWEB.COM.BR
-   Name Server: NS2.LOCAWEB.COM.BR
-   Name Server: NS3.LOCAWEB.COM.BR
+   Name Server: NS1.FOREVERFEST.COM.BR
+   Name Server: NS2.FOREVERFEST.COM.BR
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2009
-   Expiration Date: 26-jun-2012
+   Updated Date: 01-may-2011
+   Creation Date: 30-apr-2010
+   Expiration Date: 30-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:04:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:02:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,37 +84,35 @@ Registrars.
 
 Registrant:
 
-                Vitor Castillo de Lima
-                Alameda Guanabara  143
-                Jarinu - SP
-                13240-000 - BR
+                Cheonio Junior Tomio
+                av das comunidades, 80 - ed amelia - 203
+                brusque - SC
+                88350360 - BR
 
 Domain Name:
 
-domain:         MELECANACOZINHA.COM
-nserver:        NS1.LOCAWEB.COM.BR
-nserver:        NS2.LOCAWEB.COM.BR
-nserver:        NS3.LOCAWEB.COM.BR
-status:         transfer-prohibited
-created:        20090626
-changed:        20090626
+domain:         flex10.com
+nserver:        ns1.foreverfest.com.br
+nserver:        ns2.foreverfest.com.br
+created:        20100430
+changed:        20100525
 
 Administrative Contact:
 
-person:         Vitor Castillo de Lima
-address:        Alameda Guanabara  143
-address:        Jarinu - SP
-address:        13240-000 - BR
-phone:          +55 11 76053161
-e-mail:         vitor@vlima.com
+person:         Cheonio Junior Tomio
+address:        av das comunidades, 80 - ed amelia - 203
+address:        brusque - SC
+address:        88350360 - BR
+phone:          +47 33517328
+e-mail:         foreverfest@gmail.com
 
 Technical Contact:
 
-person:         Vitor Castillo de Lima
-address:        Alameda Guanabara  143
-address:        Jarinu - SP
-address:        13240-000 - BR
-phone:          +55 11 76053161
-e-mail:         vitor@vlima.com
+person:         Cheonio Junior Tomio
+address:        av das comunidades, 80 - ed amelia - 203
+address:        brusque - SC
+address:        88350360 - BR
+phone:          +47 33517328
+e-mail:         foreverfest@gmail.com
 
 
