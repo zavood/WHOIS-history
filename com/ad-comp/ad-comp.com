@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FLAVAFX.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS47.DOMAINCONTROL.COM
-   Name Server: NS48.DOMAINCONTROL.COM
+   Domain Name: AD-COMP.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS5.HEROEHOST.COM
+   Name Server: NS6.HEROEHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-sep-2010
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
+   Updated Date: 13-may-2011
+   Creation Date: 23-may-2008
+   Expiration Date: 23-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:16:50 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Yuxar Consulting Corp
+   Bhagwati Bidasaria
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FLAVAFX.COM
+   Domain Name: AD-COMP.COM
 
    Domain servers in listed order:
-      NS47.DOMAINCONTROL.COM
-      NS48.DOMAINCONTROL.COM
+      NS5.HEROEHOST.COM
+      NS6.HEROEHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FLAVAFX.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AD-COMP.COM
