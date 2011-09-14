@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Domain Name: CAPITALCELTIC.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.VERENSERVICES.COM
+   Name Server: NS2.VERENSERVICES.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 28-may-2010
+   Creation Date: 13-may-2000
+   Expiration Date: 13-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+capitalceltic.com
+
+Registrant:
+         Veren Services  (EEHealy@veren.com)
+        Veren Services, Inc.
+        P.O. Box 222
+        Olmstedville, NY  12857
+        US
+        518-251-2146
+
+
+Domain Name: capitalceltic.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Veren Services  (EEHealy@veren.com)
+        Veren Services, Inc.
+        P.O. Box 222
+        Olmstedville, NY  12857
+        US
+        518-251-2146
+
+
+
+
+
+   Record created on May 13 2000.
+   Record expires on May 13 2012.
+Domain servers:
+        ns1.verenservices.com
+        ns2.verenservices.com
+
+
+
+Domain Service Provider:
+   Veren Services, Inc.
+   518-251-2146
+   EEHealy@veren.com
+   http://www.veren.com/contact.html
+
+

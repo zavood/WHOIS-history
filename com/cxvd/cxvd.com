@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
+   Domain Name: CXVD.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 13-apr-2006
+   Expiration Date: 13-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

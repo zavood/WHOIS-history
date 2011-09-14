@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84825721-LROR
+Domain Name:FURTOPIA.ORG
+Created On:25-Mar-2002 03:52:06 UTC
+Last Updated On:06-Mar-2011 19:27:08 UTC
+Expiration Date:25-Mar-2012 03:52:06 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30775785
+Registrant Name:Gene Angel
+Registrant Street1:364 Morris Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fairborn
+Registrant State/Province:Ohio
+Registrant Postal Code:45324
+Registrant Country:US
+Registrant Phone:+1.9375021210
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fuzzydog@whiteshepherd.net
+Admin ID:CR30775787
+Admin Name:Gene Angel
+Admin Street1:380 Morris Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Fairborn
+Admin State/Province:Ohio
+Admin Postal Code:45324
+Admin Country:US
+Admin Phone:+1.9373763529
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fuzzydog@whiteshepherd.net
+Tech ID:CR30775786
+Tech Name:Gene Angel
+Tech Street1:380 Morris Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Fairborn
+Tech State/Province:Ohio
+Tech Postal Code:45324
+Tech Country:US
+Tech Phone:+1.9373763529
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fuzzydog@whiteshepherd.net
+Name Server:NS2.MYDYNDNS.ORG
+Name Server:NS1.MYDYNDNS.ORG
+Name Server:NS3.MYDYNDNS.ORG
+Name Server:NS4.MYDYNDNS.ORG
+Name Server:NS5.MYDYNDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

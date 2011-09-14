@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Domain Name: HANLEYWOOD.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 15-jan-2011
+   Creation Date: 02-apr-1999
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:50:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   Hanley Wood LLC
+   1 Thomas Circle, NW Suite 600
+   Washington, DC 20005
+   US
+
+   Domain Name: HANLEYWOOD.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      Hanley Wood LLC
+      DNS ADMIN
+      1 Thomas Circle, NW Suite 600
+      Washington, DC 20005
+      US
+      (202)736-3767
+      (202)785-1974 [fax]
+      dnsadmin@hanleywood.com
+
+   Domain created on 02-Apr-1999
+   Domain expires on 01-Apr-2012
+   Last updated on 15-Jan-2011
+
+   Domain servers in listed order:
+
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

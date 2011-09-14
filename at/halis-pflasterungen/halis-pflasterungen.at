@@ -1,0 +1,47 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         halis-pflasterungen.at
+registrant:     BIS1870458-NICAT
+admin-c:        BIS1870458-NICAT
+tech-c:         BIS1870458-NICAT
+nserver:        ns1.place24.com
+remarks:        212.184.208.68
+nserver:        ns2.place24.com
+remarks:        82.198.65.68
+changed:        20110811 09:29:47
+source:         AT-DOM
+
+personname:     Ernst Brandauer
+organization:   Brandauer IT-Services
+street address: Prof.-Schlosser-Str. 2
+postal code:    A-6330
+city:           Kufstein
+country:        Austria
+phone:          +436604040401
+fax-no:         +43180480532542
+e-mail:         domainverwaltung@brandauer.net
+nic-hdl:        BIS1870458-NICAT
+changed:        20081219 16:20:23
+source:         AT-DOM
+

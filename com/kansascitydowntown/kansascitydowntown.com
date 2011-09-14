@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
+   Domain Name: KANSASCITYDOWNTOWN.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Name Server: NS3.DOMAINMONGER.COM
+   Name Server: NS4.DOMAINMONGER.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 19-apr-2011
+   Creation Date: 18-apr-2002
+   Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:50:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

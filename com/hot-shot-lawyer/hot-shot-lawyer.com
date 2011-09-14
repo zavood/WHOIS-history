@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Domain Name: HOT-SHOT-LAWYER.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: ADNS1.ASAMNET.DE
+   Name Server: ADNS2.ASAMNET.DE
+   Name Server: ADNS3.ASAMNET.DE
+   Status: ok
+   Updated Date: 20-apr-2011
+   Creation Date: 22-apr-2001
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:50:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Richard Ertl
+   ASAMnet e.V.
+   Bergwiesenweg 10
+   Hahnbach, D-92256, DE
+
+   Punycode Name:  hot-shot-lawyer.com
+   Unicode Name:   hot-shot-lawyer.com
+
+   Admin Contact
+      Hostmaster ASAMnet e. V.
+
+      dns-admin@asamnet.de
+      Emailfabrikstrasse 12
+      Amberg, 92224, DE
+      phone: +49.000000
+
+   Technical Contact
+      Hostmaster ASAMnet e. V.
+
+      dns-admin@asamnet.de
+      Emailfabrikstrasse 12
+      Amberg, 92224, DE
+      phone: +49.000000
+
+   Zone Contact
+      Hostmaster ASAMnet e. V.
+
+      dns-admin@asamnet.de
+      Emailfabrikstrasse 12
+      Amberg, 92224, DE
+      phone: +49.000000
+
+   Record expires on: 2012-04-22 10:08:08
+
+   Domain servers in listed order:
+
+      adns3.asamnet.de
+      adns1.asamnet.de
+      adns2.asamnet.de
+
+
+

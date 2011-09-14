@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Domain Name: E2FANSUB.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.SERVAGE.NET
+   Name Server: NS3.SERVAGE.NET
+   Name Server: NS4.SERVAGE.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 28-apr-2010
+   Expiration Date: 28-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+% UOL HOST whois server
+
+Searching for e2fansub.com.  Found 1 record(s) matching e2fansub.com.
+
+Domain:              e2fansub.com
+Nameserver:          ns1.servage.net
+Nameserver:          ns4.servage.net
+Nameserver:          ns3.servage.net
+Created:             20100428
+Updated:             20110727
+
+Registrant:
+
+Name:                Mauricio de Oliveira Honorio
+Organization:        Mauricio de Oliveira Honorio
+E-mail:              mauricio-honorio@uol.com.br
+Address:             Av. tancredo neves 1384 null
+Address:             86870000
+Address:             IVAIPORA - PR
+Phone:               55 43 34726332
+Country:             BRASIL
+Created:             20100428
+Updated:             20100428
+
+Administrative Contact:
+
+Name:                Mauricio de Oliveira Honorio
+Organization:        Mauricio de Oliveira Honorio
+E-mail:              mauricio-honorio@uol.com.br
+Address:             Av. tancredo neves 1384 null
+Address:             86870000
+Address:             IVAIPORA - PR
+Phone:               55 43 34726332
+Country:             BRASIL
+Created:             20100428
+Updated:             20100428
+
+Technical Contact:
+
+Name:                Mauricio de Oliveira Honorio
+Organization:        Mauricio de Oliveira Honorio
+E-mail:              mauricio-honorio@uol.com.br
+Address:             Av. tancredo neves 1384 null
+Address:             86870000
+Address:             IVAIPORA - PR
+Phone:               55 43 34726332
+Country:             BRASIL
+Created:             20100428
+Updated:             20100428
+

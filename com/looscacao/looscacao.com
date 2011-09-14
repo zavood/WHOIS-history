@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ROMAGNALIVE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.9NETWEB.IT
-   Name Server: NS2.9NETWEB.IT
+   Domain Name: LOOSCACAO.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS.EATSERVER.NL
+   Name Server: NS2.EATSERVER.NL
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 02-sep-2008
-   Expiration Date: 02-sep-2012
+   Updated Date: 12-jan-2011
+   Creation Date: 11-aug-1999
+   Expiration Date: 11-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:51:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+looscacao.com
+
+Registrant:
+         J. Kramps  (postmaster@intermediamakers.nl)
+        Intermediamakers
+        Geldelozeweg 33
+        Hoorn, NONE  1625NH
+        NL
+        0031000000000
+
+
+Domain Name: looscacao.com
+
+
+
+
+Administrative, Billing Contact:
+         J. Kramps  (postmaster@intermediamakers.nl)
+        Intermediamakers
+        Geldelozeweg 33
+        Hoorn, NONE  1625NH
+        NL
+        0031000000000
+
+
+Billing Contact:
+         Domein Administrateur  (hostmaster@ivx.net)
+        IVX B.V.
+        Postbus 363
+        Bergen op Zoom,  4600AJ
+        NL
+        +31.85871372
+
+
+
+
+
+   Record created on Aug 11 1999.
+   Record expires on Aug 11 2012.
+Domain servers:
+        ns.eatserver.nl
+        ns2.eatserver.nl
+
+
+
+Domain Service Provider:
+   IVX B.V.
+   +31.858781372
+   service@ivx.net
+
+
