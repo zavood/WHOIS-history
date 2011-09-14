@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOSTLOGR.COM
+   Domain Name: KANTABEN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS49.DOMAINCONTROL.COM
-   Name Server: NS50.DOMAINCONTROL.COM
+   Name Server: NS19.DOMAINCONTROL.COM
+   Name Server: NS20.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Updated Date: 15-feb-2011
+   Creation Date: 18-feb-2010
+   Expiration Date: 18-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:23:33 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   KantaBen
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HOSTLOGR.COM
+   Domain Name: KANTABEN.COM
 
    Domain servers in listed order:
-      NS49.DOMAINCONTROL.COM
-      NS50.DOMAINCONTROL.COM
+      NS19.DOMAINCONTROL.COM
+      NS20.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HOSTLOGR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=KANTABEN.COM

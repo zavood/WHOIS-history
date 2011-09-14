@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOTKI.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.FOTKI.COM
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Status: clientTransferProhibited
-   Updated Date: 11-nov-2010
-   Creation Date: 28-sep-1998
-   Expiration Date: 27-sep-2014
+   Domain Name: MAZACITY.COM
+   Registrar: ABOVE.COM PTY LTD.
+   Whois Server: whois.above.com
+   Referral URL: http://www.above.com
+   Name Server: NS3.ABOVE.COM
+   Name Server: NS4.ABOVE.COM
+   Status: ok
+   Updated Date: 04-sep-2011
+   Creation Date: 04-sep-2011
+   Expiration Date: 04-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:23:48 UTC &lt;&lt;&lt;
 
@@ -53,23 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registration Service Provided By: ABOVE.COM, PTY. LTD.
+Contact: +613.95897946
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    Domain Name: MAZACITY.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+    Registrant:
+        Above.com Domain Privacy
+        8 East concourse
 
-http://www.networksolutions.com/whois/index.jhtml
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+    Creation date: 2011-09-05
+    Expiration Date: 2012-09-05
 
-Whois Query: fotki.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:14:06 EDT 2011
-Reason Code: IE
+    Domain servers in listed order:
+        ns3.above.com
+        ns4.above.com
+
+    Administrative Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Technical Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Billing Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
+

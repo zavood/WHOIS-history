@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOSTLOGR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS49.DOMAINCONTROL.COM
-   Name Server: NS50.DOMAINCONTROL.COM
+   Domain Name: VESSELBIZ.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS1.VESSELBIZ.COM
+   Name Server: NS2.VESSELBIZ.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Updated Date: 11-jul-2011
+   Creation Date: 27-jul-2005
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:23:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:24:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HOSTLOGR.COM
-
-   Domain servers in listed order:
-      NS49.DOMAINCONTROL.COM
-      NS50.DOMAINCONTROL.COM
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HOSTLOGR.COM
+Domain: vesselbiz.com
+Status: Protected
+
+DNS:
+	NS1.VESSELBIZ.COM
+	NS2.VESSELBIZ.COM
+
+Created: 2005-07-27 00:00:00
+Expires: 2012-07-27 04:00:30
+Last Modified: 2008-07-29 02:39:19
+
+Registrant Contact:
+	Ricky Soo
+	Ricky Soo (ricky@rickysoo.com)
+	No 12, Jalan Desa Aman 8 Taman Desa Aman
+	Kuala Lumpur, Wilayah Persekutuan, MY 56100
+	P: +016.2672855 F: +603.91313808
+
+Administrative Contact:
+	Ricky Soo
+	Ricky Soo (ricky@rickysoo.com)
+	No 12, Jalan Desa Aman 8 Taman Desa Aman
+	Kuala Lumpur, Wilayah Persekutuan, MY 56100
+	P: +016.2672855 F: +603.91313808
+
+Technical Contact:
+	Ricky Soo
+	Ricky Soo (ricky@rickysoo.com)
+	No 12, Jalan Desa Aman 8 Taman Desa Aman
+	Kuala Lumpur, Wilayah Persekutuan, MY 56100
+	P: +016.2672855 F: +603.91313808
+
+Billing Contact:
+	Ricky Soo
+	Ricky Soo (ricky@rickysoo.com)
+	No 12, Jalan Desa Aman 8 Taman Desa Aman
+	Kuala Lumpur, Wilayah Persekutuan, MY 56100
+	P: +016.2672855 F: +603.91313808
+
