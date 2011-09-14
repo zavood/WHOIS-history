@@ -1,0 +1,59 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         consor.at
+registrant:     CCSA2211227-NICAT
+admin-c:        CCSA2211227-NICAT
+tech-c:         NNH567050-NICAT
+nserver:        dns.noris.ch
+remarks:        194.31.2.65
+nserver:        dns.noris.de
+remarks:        192.109.102.65
+nserver:        dns.noris.net
+remarks:        213.95.0.65
+changed:        20060426 14:01:16
+source:         AT-DOM
+
+personname:     Michael Rupprecht
+organization:   Cortal Consors S. A. Zweigniederlassung Deutschland
+street address: Deutschherrnstr. 15 - 19
+postal code:    D-90429
+city:           Nuernberg
+country:        Germany
+nic-hdl:        CCSA2211227-NICAT
+changed:        20060316 16:18:16
+source:         AT-DOM
+
+personname:     noris.net Hostmaster
+organization:   noris network AG
+street address: Deutschherrnstr. 15 - 19
+postal code:    D-90429
+city:           Nuernberg
+country:        Germany
+phone:          +4991193520
+fax-no:         +499119352100
+e-mail:         hostmaster@noris.net
+nic-hdl:        NNH567050-NICAT
+changed:        20070124 14:20:25
+source:         AT-DOM
+

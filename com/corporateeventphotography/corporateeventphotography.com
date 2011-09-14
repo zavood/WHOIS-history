@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
+   Domain Name: CORPORATEEVENTPHOTOGRAPHY.COM
+   Registrar: CHEAPIES.COM INC.
+   Whois Server: whois.cheapies.com
+   Referral URL: http://www.cheapies.com
+   Name Server: NS1.BLUEGRAVITY.COM
+   Name Server: NS2.BLUEGRAVITY.COM
    Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Updated Date: 09-may-2011
+   Creation Date: 09-may-2004
+   Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Authorized Registration Services Provider:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name Systems
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+For support regarding this domain please visit
+http://www.domainnamesystems.com
 
-Whois Query: ukrpack.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:27:05 EDT 2011
-Reason Code: IE
+Domain Name: corporateeventphotography.com
+Status: clientTransferProhibited
+
+Registrant / Administrative Details:
+
+Michael White
+Individual
+1813 Belmont Pl
+N/A
+Metairie
+70001
+US United States
+Tel:   1.5048377684
+Email: michaelraywhite@michaelraywhite.com
+
+Technical Details:
+
+Michael White
+Individual
+1813 Belmont Pl
+N/A
+Metairie
+70001
+US United States
+Tel:   1.5048377684
+Email: michaelraywhite@michaelraywhite.com
+
+Registration Date:   2004-05-09
+Expiration Date:     2012-05-09
+Domain Last Updated: 2011-05-09 20:37:19.0
+
+Nameserver Information:
+
+ns2.bluegravity.com
+ns1.bluegravity.com
+
+
+
+
+

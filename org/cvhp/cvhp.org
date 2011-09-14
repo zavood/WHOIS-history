@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D38464-LROR
+Domain Name:CVHP.ORG
+Created On:26-Jul-1996 04:00:00 UTC
+Last Updated On:09-Jun-2010 18:11:34 UTC
+Expiration Date:25-Jul-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28966171-NSI
+Registrant Name:Citrus Valley Health Partners
+Registrant Organization:Citrus Valley Health Partners
+Registrant Street1:P.O. BOX 6108
+Registrant Street2:
+Registrant Street3:
+Registrant City:Covina
+Registrant State/Province:CA
+Registrant Postal Code:91722
+Registrant Country:US
+Registrant Phone:+1.626813288
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:ben@TSTONRAMP.COM
+Admin ID:28966172-NSI
+Admin Name:Citrus Valley Health Partners
+Admin Organization:Citrus Valley Health Partners
+Admin Street1:P.O. Box 6108
+Admin Street2:
+Admin Street3:
+Admin City:Covina
+Admin State/Province:CA
+Admin Postal Code:91722
+Admin Country:US
+Admin Phone:+1.626858851
+Admin Phone Ext.:
+Admin FAX:+1.999999999
+Admin FAX Ext.:
+Admin Email:mwalker@mail.cvhp.org
+Tech ID:28966172-NSI
+Tech Name:Citrus Valley Health Partners
+Tech Organization:Citrus Valley Health Partners
+Tech Street1:P.O. Box 6108
+Tech Street2:
+Tech Street3:
+Tech City:Covina
+Tech State/Province:CA
+Tech Postal Code:91722
+Tech Country:US
+Tech Phone:+1.626858851
+Tech Phone Ext.:
+Tech FAX:+1.999999999
+Tech FAX Ext.:
+Tech Email:mwalker@mail.cvhp.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

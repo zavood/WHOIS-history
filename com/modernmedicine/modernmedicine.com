@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
+   Domain Name: MODERNMEDICINE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
+   Name Server: NS1.ADVANSTAR.COM
+   Name Server: NS2.ADVANSTAR.COM
    Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Updated Date: 13-may-2010
+   Creation Date: 22-apr-1996
+   Expiration Date: 23-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:37:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ukrpack.net
+Whois Query: modernmedicine.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:27:05 EDT 2011
+Date and Time of Query: Wed Sep 14 18:33:44 EDT 2011
 Reason Code: IE

@@ -1,0 +1,59 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 00:38:01 2011
+
+domain:       null.cz
+registrant:   SB:MK123-RIPE_XX
+admin-c:      MK123-RIPE
+nsset:        NSS:MK123-RIPE_XX:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   21.07.2000 23:21:00
+changed:      02.03.2007 11:25:00
+expire:       22.07.2012
+
+contact:      SB:MK123-RIPE_XX
+name:         Marek Kozlovsky
+address:      Holub&Atilde;&shy; 1236/3
+address:      Praha 6 - Suchdol
+address:      16500
+address:      CZ
+e-mail:       dev@null.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      29.05.2007 12:45:00
+
+contact:      MK123-RIPE
+name:         Marek Kozlovsky
+address:      CZ
+e-mail:       dev@null.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      29.05.2007 12:25:00
+
+nsset:        NSS:MK123-RIPE_XX:1
+nserver:      ns.mcvax.org
+nserver:      dev.null.cz (80.79.26.115, 2a01:430:34:0:2:0:dead:babe)
+tech-c:       SB:MK123-RIPE_XX
+tech-c:       MK123-RIPE
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      18.11.2010 15:34:02
+
+

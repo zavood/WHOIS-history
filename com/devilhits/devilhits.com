@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYMOVIES.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS3.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: DNS5.NETTICA.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-jan-2007
-   Creation Date: 11-feb-1999
-   Expiration Date: 04-jan-2017
+   Domain Name: DEVILHITS.COM
+   Registrar: ABOVE.COM PTY LTD.
+   Whois Server: whois.above.com
+   Referral URL: http://www.above.com
+   Name Server: NS3.ABOVE.COM
+   Name Server: NS4.ABOVE.COM
+   Status: ok
+   Updated Date: 31-jul-2011
+   Creation Date: 31-jul-2011
+   Expiration Date: 31-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:37:10 UTC &lt;&lt;&lt;
 
@@ -55,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registration Service Provided By: ABOVE.COM, PTY. LTD.
+Contact: +613.95897946
+
+    Domain Name: DEVILHITS.COM
+
+    Registrant:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Creation date: 2011-08-01
+    Expiration Date: 2012-08-01
+
+    Domain servers in listed order:
+        ns3.above.com
+        ns4.above.com
+
+    Administrative Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Technical Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    Billing Contact:
+        Above.com Domain Privacy
+        8 East concourse
+
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
+
+    The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
+

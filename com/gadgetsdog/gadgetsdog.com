@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
+   Domain Name: GADGETSDOG.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS67.DOMAINCONTROL.COM
+   Name Server: NS68.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Status: clientUpdateProhibited
+   Updated Date: 13-jan-2011
+   Creation Date: 13-jan-2011
+   Expiration Date: 13-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:56 UTC &lt;&lt;&lt;
 
@@ -52,23 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+   RONG RONG
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: GADGETSDOG.COM
 
-Whois Query: ukrpack.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:27:05 EDT 2011
-Reason Code: IE
+   Domain servers in listed order:
+      NS67.DOMAINCONTROL.COM
+      NS68.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GADGETSDOG.COM

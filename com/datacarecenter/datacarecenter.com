@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
-   Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Domain Name: DATACARECENTER.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: NS1.DNSDIENSTE.DE
+   Name Server: NS2.DNSDIENSTE.DE
+   Status: ok
+   Updated Date: 24-sep-2010
+   Creation Date: 23-sep-2002
+   Expiration Date: 23-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Markus Keese
+   DaCaCo - Data Care Company GmbH
+   Mogelkenstr. 22
+   Hannover, 30165, DE
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  datacarecenter.com
+   Unicode Name:   datacarecenter.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Markus Keese
+      DaCaCo - Data Care Company GmbH
+      domain@dacaco.de
+      Mogelkenstr. 22
+      Hannover, 30165, DE
+      phone: +49.5112715960
 
-Whois Query: ukrpack.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:27:05 EDT 2011
-Reason Code: IE
+   Technical Contact
+      Markus Keese
+      DaCaCo - Data Care Company GmbH
+      domain@dacaco.de
+      Mogelkenstr. 22
+      Hannover, 30165, DE
+      phone: +49.5112715960
+
+   Zone Contact
+      Markus Keese
+      DaCaCo - Data Care Company GmbH
+      domain@dacaco.de
+      Mogelkenstr. 22
+      Hannover, 30165, DE
+      phone: +49.5112715960
+
+   Record expires on: 2011-09-23 00:00:00
+
+   Domain servers in listed order:
+
+      ns1.dnsdienste.de 193.254.189.162
+      ns2.dnsdienste.de 83.243.59.34
+
+
+

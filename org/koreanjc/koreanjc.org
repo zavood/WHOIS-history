@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157984530-LROR
+Domain Name:KOREANJC.ORG
+Created On:05-Jan-2010 18:47:36 UTC
+Last Updated On:31-Dec-2010 18:29:56 UTC
+Expiration Date:05-Jan-2014 18:47:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR39817356
+Registrant Name:chris chun
+Registrant Organization:K-TOWN MEDIA INC.
+Registrant Street1:960 Rand Rd
+Registrant Street2:suite 216
+Registrant Street3:
+Registrant City:Des Plaines
+Registrant State/Province:Illinois
+Registrant Postal Code:60016
+Registrant Country:US
+Registrant Phone:+1.8478247500
+Registrant Phone Ext.:
+Registrant FAX:+1.8478247087
+Registrant FAX Ext.:
+Registrant Email:chris@focusk.com
+Admin ID:CR39817358
+Admin Name:chris chun
+Admin Organization:K-TOWN MEDIA INC.
+Admin Street1:960 Rand Rd
+Admin Street2:suite 216
+Admin Street3:
+Admin City:Des Plaines
+Admin State/Province:Illinois
+Admin Postal Code:60016
+Admin Country:US
+Admin Phone:+1.8478247500
+Admin Phone Ext.:
+Admin FAX:+1.8478247087
+Admin FAX Ext.:
+Admin Email:chris@focusk.com
+Tech ID:CR39817357
+Tech Name:chris chun
+Tech Organization:K-TOWN MEDIA INC.
+Tech Street1:960 Rand Rd
+Tech Street2:suite 216
+Tech Street3:
+Tech City:Des Plaines
+Tech State/Province:Illinois
+Tech Postal Code:60016
+Tech Country:US
+Tech Phone:+1.8478247500
+Tech Phone Ext.:
+Tech FAX:+1.8478247087
+Tech FAX Ext.:
+Tech Email:chris@focusk.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

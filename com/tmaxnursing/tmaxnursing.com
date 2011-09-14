@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UKRPACK.NET
+   Domain Name: TMAXNURSING.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ALPHASITE.UKRPACK.NET
-   Name Server: NS.LUCKY.NET
-   Name Server: RELAY1.UKRPACK.NET
+   Name Server: AUTH00.NS.UU.NET
+   Name Server: AUTH100.NS.UU.NET
    Status: clientTransferProhibited
-   Updated Date: 26-sep-2006
-   Creation Date: 06-nov-1996
-   Expiration Date: 05-nov-2015
+   Updated Date: 10-jan-2011
+   Creation Date: 10-nov-2008
+   Expiration Date: 10-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:36:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ukrpack.net
+Whois Query: tmaxnursing.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:27:05 EDT 2011
+Date and Time of Query: Wed Sep 14 18:32:08 EDT 2011
 Reason Code: IE
