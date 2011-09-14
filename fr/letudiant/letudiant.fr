@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; letudiant.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      letudiant.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EGLE14-FRNIC
+admin-c:     JPG549-FRNIC
+tech-c:      IC2408-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13600-FRNIC
+registrar:   INDOM
+anniversary: 19/10
+created:     06/05/1997
+last-update: 24/06/2011
+source:      FRNIC
+
+ns-list:     NSL13600-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     EGLE14-FRNIC
+type:        ORGANIZATION
+contact:     Editions Generations - l'Etudiant
+address:     27, rue du chemin Vert
+address:     75011 Paris
+country:     FR
+phone:       +33 1 48 07 41 57
+fax-no:      +33 1 47 00 79 80
+e-mail:      rene.silvestre@letudiant.fr
+changed:     26/01/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     JPG549-FRNIC
+type:        PERSON
+contact:     Jean-Paul Galvez
+address:     29, rue de Chateaudun
+address:     75009 Paris
+country:     FR
+phone:       +33 1 75 55 50 70
+e-mail:      jpgalvez@letudiant.fr
+changed:     24/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC2408-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     16/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
