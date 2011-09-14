@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3290184-LROR
+Domain Name:IWACC.ORG
+Created On:29-May-1998 04:00:00 UTC
+Last Updated On:27-Jan-2010 20:59:57 UTC
+Expiration Date:28-May-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40443725-NSI
+Registrant Name:Incarnate Word Academy
+Registrant Organization:Incarnate Word Academy
+Registrant Street1:2910 S. Alameda
+Registrant Street2:
+Registrant Street3:
+Registrant City:Corpus Christi
+Registrant State/Province:TX
+Registrant Postal Code:78404
+Registrant Country:US
+Registrant Phone:+1.3618830857
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ramos@iwacc.org
+Admin ID:40443725-NSI
+Admin Name:Incarnate Word Academy
+Admin Organization:Incarnate Word Academy
+Admin Street1:2910 S. Alameda
+Admin Street2:
+Admin Street3:
+Admin City:Corpus Christi
+Admin State/Province:TX
+Admin Postal Code:78404
+Admin Country:US
+Admin Phone:+1.3618830857
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ramos@iwacc.org
+Tech ID:40443725-NSI
+Tech Name:Incarnate Word Academy
+Tech Organization:Incarnate Word Academy
+Tech Street1:2910 S. Alameda
+Tech Street2:
+Tech Street3:
+Tech City:Corpus Christi
+Tech State/Province:TX
+Tech Postal Code:78404
+Tech Country:US
+Tech Phone:+1.3618830857
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ramos@iwacc.org
+Name Server:NS10.DNSMADEEASY.COM
+Name Server:NS11.DNSMADEEASY.COM
+Name Server:NS12.DNSMADEEASY.COM
+Name Server:NS13.DNSMADEEASY.COM
+Name Server:NS14.DNSMADEEASY.COM
+Name Server:NS15.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
