@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BETRAD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Domain Name: HSBIQ.COM
+   Registrar: ADVANTAGE INTERACTIVE LTD
+   Whois Server: whois.advantage-interactive.com
+   Referral URL: http://www.lcn.com
+   Name Server: NS1.LIVEDNS.CO.UK
+   Name Server: NS2.LIVEDNS.CO.UK
+   Name Server: NS3.LIVEDNS.CO.UK
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-apr-2010
-   Creation Date: 17-nov-2009
-   Expiration Date: 17-nov-2014
+   Updated Date: 20-jul-2010
+   Creation Date: 28-apr-1999
+   Expiration Date: 28-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:28:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:25:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +54,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:  HSBIQ.COM
+owner-c: AI-810901
+admin-c: AI-810901
+tech-c: AI-300624
+bill-c: AI-300624
+nserver: ns3.livedns.co.uk 213.171.192.254
+nserver: ns1.livedns.co.uk 213.171.192.250
+nserver: ns2.livedns.co.uk 213.171.193.250
+nserver: ns2.livedns.co.uk 213.171.193.250
+nserver: ns2.livedns.co.uk 213.171.193.250
+created: 1999-04-28 19:39:56
+expires: 2012-04-28 19:40:28
+changed: 2011-07-20 09:30:20
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-handle: AI-810901
+contact:        HSB Engineering Insurance Ltd
+organisation:   HSB Engineering Insurance Ltd
+address:        Cairo House
+address:        Greenacres Road, Waterhead
+address:        Oldham
+address:        OL4 3JA
+address:        GB
+phone:          +44.8453455510
+email:          broadbandsupport@hsbeil.com
 
+contact-handle: AI-300624
+contact:        Hostmaster
+address:        Units H, J, K
+address:        Gateway 1000
+address:        Whittle Way
+address:        Stevenage
+address:        England
+address:        SG1 2FP
+address:        GB
+phone:          +44.1438342490
+fax:            +44.1438300137
+email:          support@lcn.com
 
-Registrant:
-   Evidon, Inc.
+****************************************************************
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BETRAD.COM
+Domain Registration Service Provider:
 
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+    lcn
+    For all domain related queries go to http://www.lcn.com
 
+****************************************************************
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BETRAD.COM

@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BETRAD.COM
+   Domain Name: HIGHQUALITYINSURANCE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-apr-2010
-   Creation Date: 17-nov-2009
-   Expiration Date: 17-nov-2014
+   Updated Date: 28-may-2011
+   Creation Date: 28-sep-2004
+   Expiration Date: 28-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:28:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:28:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Evidon, Inc.
+   Aaron Harper
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BETRAD.COM
+   Domain Name: HIGHQUALITYINSURANCE.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+      NS51.1AND1.COM
+      NS52.1AND1.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BETRAD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HIGHQUALITYINSURANCE.COM

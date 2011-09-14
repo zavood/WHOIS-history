@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BETRAD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Domain Name: 26IDC.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.QYDNS1.COM
+   Name Server: NS1.QYDNS2.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-apr-2010
-   Creation Date: 17-nov-2009
-   Expiration Date: 17-nov-2014
+   Updated Date: 19-jun-2011
+   Creation Date: 04-aug-2006
+   Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:28:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:26:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... 26idc.com
+  Creation Date........ 2006-08-04 12:43:51
+  Registration Date.... 2006-08-04 12:43:51
+  Expiry Date.......... 2012-08-04 12:43:51
+  Organisation Name.... zhang qun
+  Organisation Address. dong guan shi
+  Organisation Address.
+  Organisation Address. dongguan
+  Organisation Address. 430040
+  Organisation Address. GD
+  Organisation Address. CN
 
+Admin Name........... zhangqun
+  Admin Address........ dong guan shi
+  Admin Address........
+  Admin Address........ dongguan
+  Admin Address........ 430040
+  Admin Address........ GD
+  Admin Address........ CN
+  Admin Email.......... dgiis@qq.com
+  Admin Phone.......... +86.76986222906
+  Admin Fax............ +86.76986222907
 
-Registrant:
-   Evidon, Inc.
+Tech Name............ zhangqun
+  Tech Address......... dong guan shi
+  Tech Address.........
+  Tech Address......... dongguan
+  Tech Address......... 430040
+  Tech Address......... GD
+  Tech Address......... CN
+  Tech Email........... dgiis@qq.com
+  Tech Phone........... +86.76986222906
+  Tech Fax............. +86.76986222907
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BETRAD.COM
-
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BETRAD.COM
+Bill Name............ zhangqun
+  Bill Address......... dong guan shi
+  Bill Address.........
+  Bill Address......... dongguan
+  Bill Address......... 430040
+  Bill Address......... GD
+  Bill Address......... CN
+  Bill Email........... dgiis@qq.com
+  Bill Phone........... +86.1012345678
+  Bill Fax............. +86.1012345678
+  Name Server.......... ns1.qydns1.com
+  Name Server.......... ns1.qydns2.com
