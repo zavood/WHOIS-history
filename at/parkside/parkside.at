@@ -1,0 +1,57 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         parkside.at
+registrant:     SA2090728-NICAT
+admin-c:        PIG3758118-NICAT
+tech-c:         PIG3758118-NICAT
+nserver:        ns1.solutions.at
+remarks:        212.69.173.5
+nserver:        ns2.solutions.at
+remarks:        212.69.174.5
+changed:        20081008 09:30:03
+source:         AT-DOM
+
+personname:     Ralph Harreiter
+organization:   SOLUTIONS.AT
+street address: Volksgartenstrasse 10/1
+postal code:    8020
+city:           Graz
+country:        Austria
+phone:          +43316714726
+fax-no:         +4331671472699
+e-mail:         netadmin@solutions.at
+nic-hdl:        SA2090728-NICAT
+changed:        20051130 23:13:20
+source:         AT-DOM
+
+personname:     Ralph Harreiter
+organization:   PARKSIDE Informationstechnologie GmbH
+street address: Volksgartenstrasse 10/1
+postal code:    8020
+city:           Graz
+country:        Austria
+nic-hdl:        PIG3758118-NICAT
+changed:        20080717 15:15:42
+source:         AT-DOM
+
