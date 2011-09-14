@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D18617037-LROR
+Domain Name:CPCLIB.ORG
+Created On:28-Jan-2000 17:34:38 UTC
+Last Updated On:08-Dec-2009 17:00:35 UTC
+Expiration Date:28-Jan-2015 17:34:38 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19924909-NSI
+Registrant Name:CPC Regional LIbrary
+Registrant Organization:CPC Regional LIbrary
+Registrant Street1:400 Johnson St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Bern
+Registrant State/Province:NC
+Registrant Postal Code:28560-4098
+Registrant Country:US
+Registrant Phone:+1.2526387812
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jbeach@NCSL.DCR.STATE.NC.US
+Admin ID:21045722-NSI
+Admin Name:CPC Regional Library
+Admin Organization:CPC Regional Library
+Admin Street1:400 Johnson St.
+Admin Street2:
+Admin Street3:
+Admin City:New Bern
+Admin State/Province:NC
+Admin Postal Code:28560-4098
+Admin Country:US
+Admin Phone:+1.2526387812
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jbeach@NCSL.DCR.STATE.NC.US
+Tech ID:19924907-NSI
+Tech Name:CPC Regional Library
+Tech Organization:CPC Regional Library
+Tech Street1:400 Johnson St.
+Tech Street2:
+Tech Street3:
+Tech City:New Bern
+Tech State/Province:NC
+Tech Postal Code:28560-4098
+Tech Country:US
+Tech Phone:+1.252638781
+Tech Phone Ext.:
+Tech FAX:+1.252638781
+Tech FAX Ext.:
+Tech Email:jbeach@cpclib.org
+Name Server:NS4.SPRINTSVC.NET
+Name Server:NS1.SPRINTSVC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

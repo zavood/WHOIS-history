@@ -1,0 +1,91 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         chello.at
+registrant:     TWG2577479-NICAT
+admin-c:        TWG2577481-NICAT
+tech-c:         TWG2577482-NICAT
+tech-c:         TWG2577480-NICAT
+nserver:        ns01.chello.com
+remarks:        212.83.64.138
+nserver:        ns02.chello.com
+remarks:        213.46.243.88
+nserver:        ns2.chello.at
+remarks:        213.47.222.133
+nserver:        ns3.chello.at
+remarks:        195.34.133.133
+changed:        20081107 07:35:27
+source:         AT-DOM
+
+personname:     Elvedin Music
+organization:   Telekabel Wien GmbH
+street address: Wolfganggasse 58-60
+postal code:    A-1120
+city:           Wien
+country:        Austria
+phone:          +431960682275
+fax-no:         +431690681364
+e-mail:         hostmaster@upctechnology.com
+nic-hdl:        TWG2577479-NICAT
+changed:        20061205 14:02:55
+source:         AT-DOM
+
+personname:     Elvedin Music
+organization:   Telekabel Wien GmbH
+street address: Wolfganggasse 58-60
+postal code:    A-1120
+city:           Wien
+country:        Austria
+phone:          +431960682275
+fax-no:         +431690681364
+e-mail:         hostmaster@upctechnology.com
+nic-hdl:        TWG2577481-NICAT
+changed:        20061205 14:02:55
+source:         AT-DOM
+
+personname:     Elvedin Music
+organization:   Telekabel Wien GmbH
+street address: Wolfganggasse 58-60
+postal code:    A-1120
+city:           Wien
+country:        Austria
+phone:          +431960682275
+fax-no:         +431690681364
+e-mail:         hostmaster@upctechnology.com
+nic-hdl:        TWG2577482-NICAT
+changed:        20061205 14:02:55
+source:         AT-DOM
+
+personname:     Elvedin Music
+organization:   Telekabel Wien GmbH
+street address: Wolfganggasse 58-60
+postal code:    A-1120
+city:           Wien
+country:        Austria
+phone:          +431960682275
+fax-no:         +431690681364
+e-mail:         hostmaster@upctechnology.com
+nic-hdl:        TWG2577480-NICAT
+changed:        20061205 14:02:55
+source:         AT-DOM
+
