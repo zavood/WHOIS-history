@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLUBPENGUIN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 13-jun-2005
-   Expiration Date: 12-jun-2021
+   Domain Name: DANCINGPAWSAWC.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.EVETSITES.NET
+   Name Server: NS2.EVETSITES.NET
+   Status: ok
+   Updated Date: 23-nov-2010
+   Creation Date: 08-dec-2008
+   Expiration Date: 08-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:11:24 UTC &lt;&lt;&lt;
 
@@ -53,43 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... clubpenguin.com
-  Creation Date........ 2005-06-14
-  Registration Date.... 2011-06-26
-  Expiry Date.......... 2021-06-13
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
-  Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
-  Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... ns2.easydns.com
-  Name Server.......... remote2.easydns.com
-  Name Server.......... ns1.easydns.com
-  Name Server.......... remote1.easydns.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: dancingpawsawc.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 17:01:21 EDT 2011
+Reason Code: IE

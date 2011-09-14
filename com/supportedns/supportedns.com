@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEURBANFARMHOUSESHOPPE.COM
+   Domain Name: SUPPORTEDNS.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.PAPPAPAK19.COM
-   Name Server: NS2.PAPPAPAK19.COM
-   Status: clientTransferProhibited
-   Updated Date: 18-aug-2011
-   Creation Date: 18-aug-2010
-   Expiration Date: 18-aug-2012
+   Name Server: NS1.SUPPORTEDNS.COM
+   Name Server: NS2.SUPPORTEDNS.COM
+   Name Server: NS3.SUPPORTEDNS.COM
+   Status: ok
+   Updated Date: 09-apr-2011
+   Creation Date: 24-may-2008
+   Expiration Date: 24-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:12:25 UTC &lt;&lt;&lt;
 
@@ -51,61 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: PAPPASHOP
-Contact: +001.5033932140
-Website: http://www.pappashop.com
+Registration Service Provided By: MDDHOSTING
+Contact: +1.8667584678
 
-Domain Name: THEURBANFARMHOUSESHOPPE.COM
+Domain Name: SUPPORTEDNS.COM
 
 Registrant:
-    Urban Farmhouse
-    Teresa Burke        (teresaburke@foothills.net)
-    115 South Main Cross Street
-    Louisa
-    Ky,41230
-    US
-    Tel. +1.6068263276
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Creation Date: 18-Aug-2010
-Expiration Date: 18-Aug-2012
+Creation Date: 24-May-2008
+Expiration Date: 24-May-2012
 
 Domain servers in listed order:
-    ns1.pappapak19.com
-    ns2.pappapak19.com
+    ns1.supportedns.com
+    ns2.supportedns.com
+    ns3.supportedns.com
 
 
 Administrative Contact:
-    Urban Farmhouse
-    Teresa Burke        (teresaburke@foothills.net)
-    115 South Main Cross Street
-    Louisa
-    Ky,41230
-    US
-    Tel. +1.6068263276
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Technical Contact:
-    Urban Farmhouse
-    Teresa Burke        (teresaburke@foothills.net)
-    115 South Main Cross Street
-    Louisa
-    Ky,41230
-    US
-    Tel. +1.6068263276
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
 Billing Contact:
-    Urban Farmhouse
-    Teresa Burke        (teresaburke@foothills.net)
-    115 South Main Cross Street
-    Louisa
-    Ky,41230
-    US
-    Tel. +1.6068263276
+    PrivacyProtect.org
+    Domain Admin        (contact@privacyprotect.org)
+    ID#10760, PO Box 16
+    Note - All Postal Mails Rejected, visit Privacyprotect.org
+    Nobby Beach
+    null,QLD 4218
+    AU
+    Tel. +45.36946676
 
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+Status:ACTIVE
+
+PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
+protect the owner from spam and phishing attacks. PrivacyProtect.org is not
+responsible for any of the activities associated with this domain name. If you wish
+to report any abuse concerning the usage of this domain name, you may do so at
+http://privacyprotect.org/contact. We have a stringent abuse policy and any
+complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related

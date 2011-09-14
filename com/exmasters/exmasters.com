@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLUBPENGUIN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: EXMASTERS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.EXMASTERS.COM
+   Name Server: NS2.EXMASTERS.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 13-jun-2005
-   Expiration Date: 12-jun-2021
+   Status: clientUpdateProhibited
+   Updated Date: 21-dec-2010
+   Creation Date: 01-jun-2001
+   Expiration Date: 01-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:11:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:12:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... clubpenguin.com
-  Creation Date........ 2005-06-14
-  Registration Date.... 2011-06-26
-  Expiry Date.......... 2021-06-13
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
-  Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
-  Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... ns2.easydns.com
-  Name Server.......... remote2.easydns.com
-  Name Server.......... ns1.easydns.com
-  Name Server.......... remote1.easydns.com
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   Exmasters Web And Server Hosting
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: EXMASTERS.COM
+
+   Domain servers in listed order:
+      NS1.EXMASTERS.COM
+      NS2.EXMASTERS.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=EXMASTERS.COM

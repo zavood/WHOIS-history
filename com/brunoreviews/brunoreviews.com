@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLUBPENGUIN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: BRUNOREVIEWS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.A4PPL.COM
+   Name Server: NS2.A4PPL.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 13-jun-2005
-   Expiration Date: 12-jun-2021
+   Updated Date: 07-may-2011
+   Creation Date: 22-may-2009
+   Expiration Date: 22-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:11:24 UTC &lt;&lt;&lt;
 
@@ -53,43 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about brunoreviews.com
+&lt;a href=&quot;http://www.aboutus.org/brunoreviews.com&quot;&gt;AboutUs: brunoreviews.com&lt;/a&gt;
 
-Domain Name.......... clubpenguin.com
-  Creation Date........ 2005-06-14
-  Registration Date.... 2011-06-26
-  Expiry Date.......... 2021-06-13
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
-  Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
+Domain name: brunoreviews.com
 
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
-  Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... ns2.easydns.com
-  Name Server.......... remote2.easydns.com
-  Name Server.......... ns1.easydns.com
-  Name Server.......... remote1.easydns.com
+Registrant Contact:
+   N/A
+   mihailov Alexey ()
+
+   Fax:
+   Kirova 42 25
+   Kirovsk, P 184250
+   RU
+
+Administrative Contact:
+   N/A
+    Alexey (mailforjob66@gmail.com)
+   +380.507229057
+   Fax: +1.5555555555
+   Kirova 42 25
+   Kirovsk, P 184250
+   RU
+
+Technical Contact:
+   N/A
+   mihailov Alexey (mailforjob66@gmail.com)
+   +380.507229057
+   Fax: +1.5555555555
+   Kirova 42 25
+   Kirovsk, P 184250
+   RU
+
+Status: Locked
+
+Name Servers:
+   ns1.a4ppl.com
+   ns2.a4ppl.com
+
+Creation date: 22 May 2009 19:31:26
+Expiration date: 22 May 2012 19:31:26
 
 
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

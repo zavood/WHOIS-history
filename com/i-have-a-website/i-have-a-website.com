@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLUBPENGUIN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: I-HAVE-A-WEBSITE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.ADSOCIALMEDIA.COM
+   Name Server: NS2.ADSOCIALMEDIA.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jun-2011
-   Creation Date: 13-jun-2005
-   Expiration Date: 12-jun-2021
+   Updated Date: 29-aug-2011
+   Creation Date: 07-dec-2001
+   Expiration Date: 07-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:11:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:11:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... clubpenguin.com
-  Creation Date........ 2005-06-14
-  Registration Date.... 2011-06-26
-  Expiry Date.......... 2021-06-13
-  Organisation Name.... Disney Enterprises, Inc.
-  Organisation Address. 500 S. Buena Vista Street
-  Organisation Address.
-  Organisation Address. Burbank
-  Organisation Address. 91521
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Disney Enterprises, Inc.
-  Admin Address........ 500 S. Buena Vista Street
-  Admin Address........
-  Admin Address........ Burbank
-  Admin Address........ 91521
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... wdigdomainreg@dig.com
-  Admin Phone.......... +1.8186233200
-  Admin Fax............
-
-Tech Name............ dns ops
-  Tech Address......... 506 2nd Ave., Suite 2100
-  Tech Address.........
-  Tech Address......... Seattle
-  Tech Address......... 98104
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax.............
-  Name Server.......... ns2.easydns.com
-  Name Server.......... remote2.easydns.com
-  Name Server.......... ns1.easydns.com
-  Name Server.......... remote1.easydns.com
+=-=-=-=
+Visit AboutUs.org for more information about i-have-a-website.com
+&lt;a href=&quot;http://www.aboutus.org/i-have-a-website.com&quot;&gt;AboutUs: i-have-a-website.com&lt;/a&gt;
 
 
+Domain name: i-have-a-website.com
+
+Administrative Contact:
+   1aDNS Domain Name Services
+   Domain Registration (admin@AdSocialMedia.com)
+   +31.611649043
+   Fax:
+   Centraal 901
+   Amsterdam, NL 1000 AX
+   NL
+
+Technical Contact:
+   1aDNS Domain Name Services
+   Domain Registration (admin@AdSocialMedia.com)
+   +31.611649043
+   Fax:
+   Centraal 901
+   Amsterdam, NL 1000 AX
+   NL
+
+Registrant Contact:
+   1aDNS Domain Name Services
+   Domain Registration ()
+
+   Fax:
+   Centraal 901
+   Amsterdam, NL 1000 AX
+   NL
+
+Status: Locked
+
+Name Servers:
+   ns1.adsocialmedia.com
+   ns2.adsocialmedia.com
+
+Creation date: 08 Dec 2001 02:47:13
+Expiration date: 08 Dec 2011 02:47:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
