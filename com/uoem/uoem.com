@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OKAAY.COM
+   Domain Name: UOEM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
+   Name Server: DNS1.SIMGAMES.NET
+   Name Server: DNS1.UOEM.COM
+   Name Server: DNS2.SIMGAMES.NET
+   Name Server: DNS2.UOEM.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 01-sep-2003
-   Expiration Date: 01-sep-2012
+   Updated Date: 11-nov-2010
+   Creation Date: 10-oct-2006
+   Expiration Date: 10-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:57:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:59:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Michael Tao
+   N.A.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OKAAY.COM
+   Domain Name: UOEM.COM
 
    Domain servers in listed order:
-      NS51.DOMAINCONTROL.COM
-      NS52.DOMAINCONTROL.COM
+      DNS1.UOEM.COM
+      DNS2.UOEM.COM
+      DNS1.SIMGAMES.NET
+      DNS2.SIMGAMES.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OKAAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=UOEM.COM
