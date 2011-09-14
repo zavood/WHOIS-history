@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUADRANET.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.QUADRANET.COM
-   Name Server: NS2.QUADRANET.COM
+   Domain Name: CONTACTYELLOWPAGES.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.MAINNAMESERVER.COM
+   Name Server: NS2.MAINNAMESERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 17-jun-2010
-   Creation Date: 29-sep-1999
-   Expiration Date: 29-sep-2013
+   Updated Date: 18-apr-2011
+   Creation Date: 17-apr-2003
+   Expiration Date: 17-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:42:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:41:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,43 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Domain Name.......... contactyellowpages.com
+  Creation Date........ 2003-04-17
+  Registration Date.... 2003-04-17
+  Expiry Date.......... 2012-04-17
+  Organisation Name.... Contact Yellow Pages
+  Organisation Address. 159, Islam Ganj
+  Organisation Address.
+  Organisation Address. Jalandhar
+  Organisation Address. 144001
+  Organisation Address. Punjab
+  Organisation Address. INDIA
 
-Registrant:
-   QuadraNet
-   19528 Ventura blvd
-   #433
-   Tarzana, CA 91356
-   US
+Admin Name........... Rajan Dawan
+  Admin Address........ 159, Islam Ganj
+  Admin Address........
+  Admin Address........ Jalandhar
+  Admin Address........ 144001
+  Admin Address........ Punjab
+  Admin Address........ INDIA
+  Admin Email.......... sandyint@vsnl.com
+  Admin Phone.......... 91.1815001190
+  Admin Fax............
 
-   Domain Name: QUADRANET.COM
+Tech Name............ Rajan Dawan
+  Tech Address......... 159, Islam Ganj,,
+  Tech Address.........
+  Tech Address......... Jalandhar
+  Tech Address......... 144001
+  Tech Address......... Punjab
+  Tech Address......... INDIA
+  Tech Email........... sandyint@vsnl.com
+  Tech Phone........... 91.1815001190
+  Tech Fax.............
+  Name Server.......... ns.mainnameserver.com
+  Name Server.......... ns2.mainnameserver.com
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      QuadraNet
-      Domain Manager
-      19528 Ventura blvd
-      #433
-      Tarzana, CA 91356
-      US
-      (213)614-9371
-      noc@quadranet.com
-
-   Domain created on 29-Sep-1999
-   Domain expires on 29-Sep-2013
-   Last updated on 17-Jun-2010
-
-   Domain servers in listed order:
-
-      NS1.QUADRANET.COM
-      NS2.QUADRANET.COM
-
-TierraNet -- web hosting, domain registration, and more.
-Visit our website at http://www.tierra.net to learn about our services.
 

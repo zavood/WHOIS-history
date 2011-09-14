@@ -1,0 +1,74 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         end.at
+registrant:     MA1105214-NICAT
+admin-c:        MA919803-NICAT
+tech-c:         SH1433948-NICAT
+nserver:        ns1.dynamicname.com
+remarks:        207.0.50.10
+nserver:        ns2.dynamicname.com
+remarks:        12.37.165.130
+changed:        20020523 10:44:31
+source:         AT-DOM
+
+personname:     Maximiliam Andersen
+organization:
+street address: Fagelvagen 14a. 2 TR.,
+postal code:    S-26140
+city:           Landskrona
+country:        Sweden
+phone:          +46709954666
+e-mail:         maximiliam@pop.landskrona.se
+nic-hdl:        MA1105214-NICAT
+changed:        20020523 10:44:31
+source:         AT-DOM
+
+personname:     Maximiliam Andersen
+organization:
+street address: Fagelvagen 14a. 2 TR.,
+street address: 26140 Landskrona
+postal code:
+city:
+country:
+phone:          +46709954666
+e-mail:         maximiliam@pop.landskrona.se
+nic-hdl:        MA919803-NICAT
+changed:        20010814 11:16:39
+source:         AT-DOM
+
+personname:     Speednames Hostmaster
+organization:
+street address: Speednames, Inc. Filial Danmark
+street address: Store Soendervoldstraede 9
+street address: DK-1419 Copenhagen K
+postal code:
+city:
+country:
+phone:          +4570277077
+fax-no:         +4570277078
+e-mail:         hostmaster@speednames.com
+nic-hdl:        SH1433948-NICAT
+changed:        20031129 04:32:19
+source:         AT-DOM
+

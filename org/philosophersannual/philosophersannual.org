@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105237493-LROR
+Domain Name:PHILOSOPHERSANNUAL.ORG
+Created On:23-Nov-2004 18:29:25 UTC
+Last Updated On:03-Nov-2009 14:27:31 UTC
+Expiration Date:23-Nov-2018 18:29:25 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-OY8DXB3GCXN5
+Registrant Name:Patrick Grim
+Registrant Organization:Group for Logic &amp; Formal SEmantics
+Registrant Street1:Dept. of Philosophy
+Registrant Street2:SUNY at Stony Brook
+Registrant Street3:
+Registrant City:Stony Brook
+Registrant State/Province:NY
+Registrant Postal Code:11794
+Registrant Country:US
+Registrant Phone:+1.6316327578
+Registrant Phone Ext.:
+Registrant FAX:+1.6316327522
+Registrant FAX Ext.:
+Registrant Email:pgrim@notes.cc.sunysb.edu
+Admin ID:DOT-81M5H1MQSF11
+Admin Name:Patrick Grim
+Admin Organization:Group for Logic &amp; Formal SEmantics
+Admin Street1:Dept. of Philosophy
+Admin Street2:SUNY at Stony Brook
+Admin Street3:
+Admin City:Stony Brook
+Admin State/Province:NY
+Admin Postal Code:11794
+Admin Country:US
+Admin Phone:+1.6316327578
+Admin Phone Ext.:
+Admin FAX:+1.6316327522
+Admin FAX Ext.:
+Admin Email:pgrim@notes.cc.sunysb.edu
+Tech ID:DOT-O4XHMA11WXKC
+Tech Name:Patrick Grim
+Tech Organization:Group for Logic &amp; Formal SEmantics
+Tech Street1:Dept. of Philosophy
+Tech Street2:SUNY at Stony Brook
+Tech Street3:
+Tech City:Stony Brook
+Tech State/Province:NY
+Tech Postal Code:11794
+Tech Country:US
+Tech Phone:+1.6316327578
+Tech Phone Ext.:
+Tech FAX:+1.6316327522
+Tech FAX Ext.:
+Tech Email:pgrim@notes.cc.sunysb.edu
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

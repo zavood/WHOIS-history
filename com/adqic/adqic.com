@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUADRANET.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.QUADRANET.COM
-   Name Server: NS2.QUADRANET.COM
-   Status: clientTransferProhibited
-   Updated Date: 17-jun-2010
-   Creation Date: 29-sep-1999
-   Expiration Date: 29-sep-2013
+   Domain Name: ADQIC.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.ADQIC.COM
+   Name Server: SECONLY.RACKSPACE.COM
+   Status: ok
+   Updated Date: 15-apr-2011
+   Creation Date: 02-jun-2004
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:42:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:42:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+adqic.com
 
 Registrant:
-   QuadraNet
-   19528 Ventura blvd
-   #433
-   Tarzana, CA 91356
-   US
+         Jay Higgins  (jay@adqic.com)
+        Creative Circle Advertising Solutions
+        52 Amaral Street
+        East Providence, RI  02915
+        US
+        401.431.0066
 
-   Domain Name: QUADRANET.COM
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      QuadraNet
-      Domain Manager
-      19528 Ventura blvd
-      #433
-      Tarzana, CA 91356
-      US
-      (213)614-9371
-      noc@quadranet.com
+Domain Name: adqic.com
 
-   Domain created on 29-Sep-1999
-   Domain expires on 29-Sep-2013
-   Last updated on 17-Jun-2010
 
-   Domain servers in listed order:
 
-      NS1.QUADRANET.COM
-      NS2.QUADRANET.COM
+Admin Contact:
+         Jay Higgins  (jhiggins@sprintout.com)
+        Sprintout Internet Services
+        123 Dyer Street, Suite 3B
+        Providence, RI  02903
+        US
+        401 431-0066
 
-TierraNet -- web hosting, domain registration, and more.
-Visit our website at http://www.tierra.net to learn about our services.
+
+Technical Contact:
+         Jay Higgins  (jbh@sprintout.com)
+        Sprintout
+        123 Dyer Street, Suite 3B
+        Providence, RI  02903
+        US
+        401-431-0066
+
+
+Billing Contact:
+         Jay Higgins  (jhiggins@sprintout.com)
+        Sprintout Internet Services
+        123 Dyer Street, Suite 3B
+        Providence, RI  02903
+        US
+        401 431-0066
+
+
+
+
+   Record created on Jun 2 2004.
+   Record expires on Jun 2 2012.
+Domain servers:
+        ns1.adqic.com
+        seconly.rackspace.com
+
+
+
+Domain Service Provider:
+   Sprintout Internet Services
+
 

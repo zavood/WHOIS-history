@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUADRANET.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.QUADRANET.COM
-   Name Server: NS2.QUADRANET.COM
-   Status: clientTransferProhibited
-   Updated Date: 17-jun-2010
-   Creation Date: 29-sep-1999
-   Expiration Date: 29-sep-2013
+   Domain Name: QUTRIA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: A.DNS.QUTRIA.COM
+   Name Server: B.DNS.QUTRIA.COM
+   Name Server: C.DNS.QUTRIA.COM
+   Name Server: D.DNS.QUTRIA.COM
+   Name Server: E.DNS.QUTRIA.COM
+   Status: ok
+   Updated Date: 16-mar-2011
+   Creation Date: 25-nov-2010
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:42:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:42:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,44 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
-Registrant:
-   QuadraNet
-   19528 Ventura blvd
-   #433
-   Tarzana, CA 91356
-   US
-
-   Domain Name: QUADRANET.COM
-
-   Administrative Contact, Technical Contact, Zone Contact:
-      QuadraNet
-      Domain Manager
-      19528 Ventura blvd
-      #433
-      Tarzana, CA 91356
-      US
-      (213)614-9371
-      noc@quadranet.com
-
-   Domain created on 29-Sep-1999
-   Domain expires on 29-Sep-2013
-   Last updated on 17-Jun-2010
-
-   Domain servers in listed order:
-
-      NS1.QUADRANET.COM
-      NS2.QUADRANET.COM
-
-TierraNet -- web hosting, domain registration, and more.
-Visit our website at http://www.tierra.net to learn about our services.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
