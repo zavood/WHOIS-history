@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104564169-LROR
+Domain Name:BAYSHORESCHOOLS.ORG
+Created On:24-Jun-2004 15:47:09 UTC
+Last Updated On:04-Apr-2011 14:14:27 UTC
+Expiration Date:24-Jun-2012 15:47:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu8iWOO2KsaAeB8e
+Registrant Name:Gary Lamm
+Registrant Organization:Bay Shore Union Free School District
+Registrant Street1:75 West Perkal Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bay Shore
+Registrant State/Province:NY
+Registrant Postal Code:11706
+Registrant Country:US
+Registrant Phone:+1.6319681120
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:glamm@bayshore.k12.ny.us
+Admin ID:tu8iWOO2KsaAeB8e
+Admin Name:Gary Lamm
+Admin Organization:Bay Shore Union Free School District
+Admin Street1:75 West Perkal Street
+Admin Street2:
+Admin Street3:
+Admin City:Bay Shore
+Admin State/Province:NY
+Admin Postal Code:11706
+Admin Country:US
+Admin Phone:+1.6319681120
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:glamm@bayshore.k12.ny.us
+Tech ID:tu8iWOO2KsaAeB8e
+Tech Name:Gary Lamm
+Tech Organization:Bay Shore Union Free School District
+Tech Street1:75 West Perkal Street
+Tech Street2:
+Tech Street3:
+Tech City:Bay Shore
+Tech State/Province:NY
+Tech Postal Code:11706
+Tech Country:US
+Tech Phone:+1.6319681120
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:glamm@bayshore.k12.ny.us
+Name Server:NS3.LONGISLANDFIBER.ORG
+Name Server:NS2.LONGISLANDFIBER.NET
+Name Server:NS1.LONGISLANDFIBER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
