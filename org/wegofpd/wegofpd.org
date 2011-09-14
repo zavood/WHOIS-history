@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9045880-LROR
+Domain Name:WEGOFPD.ORG
+Created On:12-Aug-1999 17:04:39 UTC
+Last Updated On:28-Jul-2008 18:18:58 UTC
+Expiration Date:12-Aug-2013 17:04:26 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5367B23A5E5138F8
+Registrant Name:West Chicago Fire Protection District
+Registrant Organization:West Chicago Fire Protection District
+Registrant Street1:200 Freemont St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60185
+Registrant Country:US
+Registrant Phone:+1.6302312123
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jkunzer@mcctech.com
+Admin ID:A38E73E8E61A1EB7
+Admin Name:John  Kunzer
+Admin Organization:MCC Technology
+Admin Street1:720 N. 17th Street - Ste 4
+Admin Street2:
+Admin Street3:
+Admin City:St. Charles
+Admin State/Province:IL
+Admin Postal Code:60174
+Admin Country:US
+Admin Phone:+1.6305849505
+Admin Phone Ext.:
+Admin FAX:+1.6305846750
+Admin FAX Ext.:
+Admin Email:jkunzer@mcctech.com
+Tech ID:b1ee949affb
+Tech Name:Jim  Kunzer
+Tech Organization:MCCTechnology
+Tech Street1:720N.17thStreet-Ste4
+Tech Street2:
+Tech Street3:
+Tech City:St.Charles
+Tech State/Province:IL
+Tech Postal Code:60174
+Tech Country:US
+Tech Phone:+1.6305849505
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jjkunzer@mcctech.com
+Name Server:DNS.JKNET.COM
+Name Server:DNS2.JKNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNHUB.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
-   Name Server: NS3.SWIFTWILL.COM
+   Domain Name: KWANGKI.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS.CAFE24.COM
+   Name Server: NS2.CAFE24.COM
    Status: clientTransferProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 31-oct-2000
-   Expiration Date: 31-oct-2017
+   Updated Date: 07-feb-2011
+   Creation Date: 17-jan-2003
+   Expiration Date: 17-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:33:25 UTC &lt;&lt;&lt;
 
@@ -55,65 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+Reseller : Simplex Internet Inc.
 
-By submitting this query, you agree to abide by the above policy.
+Registrant : geun-young Choi
+	Doosan Apt. 104-2201990 Dapsimni-dong Dongdaemun-gu SEOUL
+	(130030)
 
-Whois History: 1,440 records have been archived since 2004-04-25
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=pornhub.com
+	Domain Name:  KWANGKI.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-Domain: pornhub.com
-Registrar: Eurodns S.A.
+	Administrative, Technical, Billing Contact:
+		geun-young Choi	appeal2001@magicn.com
+		Doosan Apt. 104-2201990 Dapsimni-dong Dongdaemun-gu SEOUL
+		(Tel) 02-2214-8513	(fax)
 
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+	Record created on 	JANUARY   18, 2003
+	Record expires on 	JANUARY   17, 2012
+	Record last updated on 	FEBRUARY  07, 2011
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+	Domain servers in listed order:
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+	ns.cafe24.com
+	ns2.cafe24.com
 
-Original Creation Date: 2000-10-31
-Expiration Date: 2017-10-30
-
-Status:
-clientTransferProhibited
-
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
-Nameserver: ns3.swiftwill.com
-
+Register a domain name at www.gabia.com

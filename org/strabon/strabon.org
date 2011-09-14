@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D70583195-LROR
+Domain Name:STRABON.ORG
+Created On:08-May-2001 17:20:27 UTC
+Last Updated On:18-Mar-2011 14:07:16 UTC
+Expiration Date:08-May-2012 17:20:27 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-568812-Gandi
+Registrant Name:Fondation Maison des sciences de l'homme
+Registrant Organization:Fondation Maison des sciences de l'homme
+Registrant Street1:54 BD raspail
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75006
+Registrant Country:FR
+Registrant Phone:+33.144413210
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:02ffec8a2b824e907145e6e0d70e8951-570601@owner.gandi.net
+Admin ID:JLL21-GANDI
+Admin Name:Jean-Luc Lory
+Admin Organization:Fondation Maison des Sciences de l'Homme
+Admin Street1:16-18 rue Suger
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75006
+Admin Country:FR
+Admin Phone:+33.144413206
+Admin Phone Ext.:
+Admin FAX:+33.144413202
+Admin FAX Ext.:
+Admin Email:jllory@msh-paris.fr
+Tech ID:XM189-GANDI
+Tech Name:xavier mailhos
+Tech Organization:FMSH - SRI
+Tech Street1:54 bvd raspail
+Tech Street2:
+Tech Street3:
+Tech City:paris
+Tech State/Province:
+Tech Postal Code:75006
+Tech Country:FR
+Tech Phone:+33.149542000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:c901cd06b5088dfdb6c8e7488747f183-xm189@contact.gandi.net
+Name Server:ALIZE.MSH-PARIS.FR
+Name Server:KIROVA.PMSH.MSH-PARIS.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

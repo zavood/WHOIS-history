@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNHUB.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
-   Name Server: NS3.SWIFTWILL.COM
+   Domain Name: E-BRITE.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS02.SAVVIS.NET
+   Name Server: WEB.WEBSTREAM.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 31-oct-2000
-   Expiration Date: 31-oct-2017
+   Status: clientUpdateProhibited
+   Updated Date: 27-nov-2010
+   Creation Date: 27-nov-1998
+   Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:34:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,64 +54,57 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
-
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by the above policy.
-
-Whois History: 1,440 records have been archived since 2004-04-25
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=pornhub.com
-
-Domain: pornhub.com
-Registrar: Eurodns S.A.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+   eBrite Limited
+   19779 Spyglass Hill Court
+   Ashburn, VA  20147
+   US
 
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   Registrar: DOTSTER
+   Domain Name: E-BRITE.COM
+      Created on: 27-NOV-98
+      Expires on: 26-NOV-11
+      Last Updated on: 06-NOV-10
 
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   Administrative Contact:
+      Owen, Mallard  mowen@ebrite.com
+      19779 Spyglass Hill Court
+      Ashburn, VA  20147
+      US
+      703-724-7561
 
-Original Creation Date: 2000-10-31
-Expiration Date: 2017-10-30
+   Technical Contact:
+      Master, Host  hostmaster@webstream.net
+      WebStream, Inc.
+      2200 West Commercial Blvd.
+      Suite 204
+      Ft. Lauderdale, FL  33309
+      US
+      954-730-7405
+      954-733-7067
 
-Status:
-clientTransferProhibited
 
-Nameserver Information:
-Nameserver: ns1.swiftwill.com
-Nameserver: ns2.swiftwill.com
-Nameserver: ns3.swiftwill.com
+   Domain servers in listed order:
+      WEB.WEBSTREAM.NET
+      NS02.SAVVIS.NET
 
+End of Whois Information
