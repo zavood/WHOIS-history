@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-HOSTNOC.NET.UNIXORN.COM
-HOSTNOC.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: KILLPROCESSOFFLINE.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS13.DNS.COM.CN
+   Name Server: NS14.DNS.COM.CN
+   Status: clientTransferProhibited
+   Updated Date: 27-jun-2011
+   Creation Date: 30-may-2011
+   Expiration Date: 30-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:11:59 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... killprocessoffline.com
+  Creation Date........ 2011-05-30 16:52:09
+  Registration Date.... 2011-05-30 16:52:09
+  Expiry Date.......... 2012-05-30 16:52:09
+  Organisation Name.... zhou hao
+  Organisation Address. zhongqingshishapingbazhengjie174hao
+  Organisation Address.
+  Organisation Address. zhongqing
+  Organisation Address. 404452
+  Organisation Address. CQ
+  Organisation Address. CN
+
+Admin Name........... zhouhao
+  Admin Address........ zhongqingshishapingbazhengjie174hao
+  Admin Address........
+  Admin Address........ zhongqing
+  Admin Address........ 404452
+  Admin Address........ CQ
+  Admin Address........ CN
+  Admin Email.......... ujangoc@126.com
+  Admin Phone.......... +86.2365102222
+  Admin Fax............ +86.2365102222
+
+Tech Name............ zhouhao
+  Tech Address......... zhongqingshishapingbazhengjie174hao
+  Tech Address.........
+  Tech Address......... zhongqing
+  Tech Address......... 404452
+  Tech Address......... CQ
+  Tech Address......... CN
+  Tech Email........... ujangoc@126.com
+  Tech Phone........... +86.2365102222
+  Tech Fax............. +86.2365102222
+
+Bill Name............ zhouhao
+  Bill Address......... zhongqingshishapingbazhengjie174hao
+  Bill Address.........
+  Bill Address......... zhongqing
+  Bill Address......... 404452
+  Bill Address......... CQ
+  Bill Address......... CN
+  Bill Email........... ujangoc@126.com
+  Bill Phone........... +86.2365102222
+  Bill Fax............. +86.2365102222
+  Name Server.......... ns14.dns.com.cn
+  Name Server.......... ns13.dns.com.cn

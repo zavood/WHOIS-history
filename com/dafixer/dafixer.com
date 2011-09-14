@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNSMADEEASY.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Name Server: NS8.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DAFIXER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WEBSITEHOSTSERVER.NET
+   Name Server: NS2.WEBSITEHOSTSERVER.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 19-feb-2001
-   Expiration Date: 19-feb-2014
+   Updated Date: 19-may-2011
+   Creation Date: 23-apr-2004
+   Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:10:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:11:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
-
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about dafixer.com
+&lt;a href=&quot;http://www.aboutus.org/dafixer.com&quot;&gt;AboutUs: dafixer.com&lt;/a&gt;
 
 
-Registrant:
-   Tiggee
+Domain name: dafixer.com
 
-   Registered through: Domains Made Easy
-   Domain Name: DNSMADEEASY.COM
+Registrant Contact:
+   Dafixer
+   Umar Soaries ()
 
-   Domain servers in listed order:
-      NS3.DNSMADEEASY.COM
-      NS4.DNSMADEEASY.COM
-      NS1.DNSMADEEASY.COM
-      NS2.DNSMADEEASY.COM
-      NS0.DNSMADEEASY.COM
-      NS8.DNSMADEEASY.COM
+   Fax:
+   1190 Union Street
+   Brooklyn, NY 11225
+   US
+
+Administrative Contact:
+   Dafixer
+   Umar Soaries (USoaries@Netscape.net)
+   +1.7187717054
+   Fax: +1.7187717054
+   1190 Union Street
+   Brooklyn, NY 11225
+   US
+
+Technical Contact:
+   HostDime.com DimeNoc Services
+   HostDime.com Inc (domains@hostdime.com)
+   +1.4077561126
+   Fax: +1.4073866513
+   189 South Orange Avenue
+   Suite 1500S
+   Orlando, FL 32801
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.websitehostserver.net
+   ns2.websitehostserver.net
+
+Creation date: 23 Apr 2004 14:31:58
+Expiration date: 23 Apr 2012 14:31:00
 
 
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=DNSMADEEASY.COM&amp;prog_id=tiggee
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
