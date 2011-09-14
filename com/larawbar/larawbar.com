@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEITU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.DNSV5.COM
-   Name Server: NS2.DNSV5.COM
-   Status: clientDeleteProhibited
+   Domain Name: LARAWBAR.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS2.IPOWER.COM
    Status: clientTransferProhibited
-   Updated Date: 23-jun-2011
-   Creation Date: 20-jul-2003
-   Expiration Date: 20-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 02-aug-2010
+   Creation Date: 05-sep-2007
+   Expiration Date: 05-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : meitu.com
-
-Registrant Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
-
-Administrative Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
-
-Technical Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
-
-Billing Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
-
-Status :
-clientDeleteProhibited
-clientTransferProhibited
-
-Domain Name Server :
-ns1.dnsv5.com
-ns2.dnsv5.com
-
-Registration Date :2003-7-20
-Expiration Date : 2012-7-20
-
-For more information, please go to http://whois.ename.com.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

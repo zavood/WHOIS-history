@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEITU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.DNSV5.COM
-   Name Server: NS2.DNSV5.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 23-jun-2011
-   Creation Date: 20-jul-2003
-   Expiration Date: 20-jul-2012
+   Domain Name: IVYMAILS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
+   Status: ok
+   Updated Date: 20-feb-2011
+   Creation Date: 01-mar-2007
+   Expiration Date: 01-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:14:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : meitu.com
+=-=-=-=
+Visit AboutUs.org for more information about ivymails.com
+&lt;a href=&quot;http://www.aboutus.org/ivymails.com&quot;&gt;AboutUs: ivymails.com&lt;/a&gt;
 
-Registrant Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
 
-Administrative Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+Domain name: ivymails.com
 
-Technical Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+Registrant Contact:
+   N/A
+   Nath Virendra ()
 
-Billing Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+   Fax:
+   1314 S King Street #950
+   Honolulu, HI 96814
+   US
 
-Status :
-clientDeleteProhibited
-clientTransferProhibited
+Administrative Contact:
+   N/A
+   Nath Virendra (webmaster@ivymails.com)
+   +1.8085912600
+   Fax: +1.8085912600
+   1314 S King Street #950
+   Honolulu, HI 96814
+   US
 
-Domain Name Server :
-ns1.dnsv5.com
-ns2.dnsv5.com
+Technical Contact:
+   N/A
+   Nath Virendra (webmaster@ivymails.com)
+   +1.8085912600
+   Fax: +1.8085912600
+   1314 S King Street #950
+   Honolulu, HI 96814
+   US
 
-Registration Date :2003-7-20
-Expiration Date : 2012-7-20
+Status: Locked
 
-For more information, please go to http://whois.ename.com.
+Name Servers:
+   NS1.PIPEDNS.COM
+   NS2.PIPEDNS.COM
+   NS3.PIPEDNS.COM
 
+Creation date: 01 Mar 2007 12:56:37
+Expiration date: 01 Mar 2012 12:56:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

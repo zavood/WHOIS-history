@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEITU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.DNSV5.COM
-   Name Server: NS2.DNSV5.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 23-jun-2011
-   Creation Date: 20-jul-2003
-   Expiration Date: 20-jul-2012
+   Domain Name: SIAMHEAD.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS10.HOSTINGDYNAMO.NET
+   Name Server: NS9.HOSTINGDYNAMO.NET
+   Status: ok
+   Updated Date: 02-sep-2011
+   Creation Date: 02-sep-2008
+   Expiration Date: 02-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:14:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : meitu.com
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Registrant Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Administrative Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
 
-Technical Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+Registrant:
+	 Narong Seprakhon mashimoro_th@hotmail.com +66.865076042
+	 Narong Seprakhon
+	 Room 813 Youmansion 387 Ratchadapisak 14
+	 Huaykwang,Bangkok,THAILAND 10310
 
-Billing Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
 
-Status :
-clientDeleteProhibited
-clientTransferProhibited
+Domain Name:siamhead.com
+Record last updated at 2011-09-02 05:16:28
+Record created on 2008/9/2
+Record expired on 2012/9/2
 
-Domain Name Server :
-ns1.dnsv5.com
-ns2.dnsv5.com
 
-Registration Date :2003-7-20
-Expiration Date : 2012-7-20
+Domain servers in listed order:
+	 ns9.hostingdynamo.net 	 ns10.hostingdynamo.net
 
-For more information, please go to http://whois.ename.com.
+Administrator:
+	 Narong Seprakhon mashimoro_th@hotmail.com +66.865076042
+	 Narong Seprakhon
+	 Room 813 Youmansion 387 Ratchadapisak 14
+	 Huaykwang,Bangkok,THAILAND 10310
 
+Technical Contactor:
+	 Narong Seprakhon mashimoro_th@hotmail.com +66.865076042
+	 Narong Seprakhon
+	 Room 813 Youmansion 387 Ratchadapisak 14
+	 Huaykwang,Bangkok,THAILAND 10310
+
+Billing Contactor:
+	 Narong Seprakhon mashimoro_th@hotmail.com +66.865076042
+	 Narong Seprakhon
+	 Room 813 Youmansion 387 Ratchadapisak 14
+	 Huaykwang,Bangkok,THAILAND 10310
+
+
+Registration Service Provider:
+	name: Hosting Dynamo
+	tel: +66.65673201
+ 	fax: +66.29403279
+ 	web:http://www.hostingdynamo.com

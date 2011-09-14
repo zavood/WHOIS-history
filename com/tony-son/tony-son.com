@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEITU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS1.DNSV5.COM
-   Name Server: NS2.DNSV5.COM
+   Domain Name: TONY-SON.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: DNS1.SUPREMECENTER41.COM
+   Name Server: DNS2.SUPREMECENTER41.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-jun-2011
-   Creation Date: 20-jul-2003
-   Expiration Date: 20-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 04-feb-2010
+   Creation Date: 17-feb-2004
+   Expiration Date: 17-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:15:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : meitu.com
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Registrant Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
-Administrative Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
 
-Technical Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+Registrant:
+   Tonyson Cheng
 
-Billing Contact Information :
-Xiamen Meitu Technology Co., Ltd.
-Xiamen Meitu Technology Co., Ltd.
-domain@520.com
-4F No.2 Wanghai Road Xiamen Software Park Phase II, 361008
-tel: 86 05925320520
-fax: 86 05922290766
+   Registered through: Domains Priced Right
+   Domain Name: TONY-SON.COM
 
-Status :
-clientDeleteProhibited
-clientTransferProhibited
+   Domain servers in listed order:
+      DNS1.SUPREMECENTER41.COM
+      DNS2.SUPREMECENTER41.COM
 
-Domain Name Server :
-ns1.dnsv5.com
-ns2.dnsv5.com
 
-Registration Date :2003-7-20
-Expiration Date : 2012-7-20
-
-For more information, please go to http://whois.ename.com.
-
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=TONY-SON.COM&amp;prog_id=domainspricedright
