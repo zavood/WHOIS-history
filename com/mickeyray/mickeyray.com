@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TUBUNDAS.COM
+   Domain Name: MICKEYRAY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS2501.HOSTGATOR.COM
-   Name Server: NS2502.HOSTGATOR.COM
+   Name Server: NS13.DOMAINCONTROL.COM
+   Name Server: NS14.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-mar-2011
-   Creation Date: 06-jan-2011
-   Expiration Date: 06-jan-2012
+   Updated Date: 01-mar-2010
+   Creation Date: 09-may-2008
+   Expiration Date: 09-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:33:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:33:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TUBUNDAS.COM
+   Domain Name: MICKEYRAY.COM
 
    Domain servers in listed order:
-      NS2501.HOSTGATOR.COM
-      NS2502.HOSTGATOR.COM
+      NS13.DOMAINCONTROL.COM
+      NS14.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TUBUNDAS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MICKEYRAY.COM

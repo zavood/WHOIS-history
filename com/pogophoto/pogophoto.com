@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TUBUNDAS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS2501.HOSTGATOR.COM
-   Name Server: NS2502.HOSTGATOR.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: POGOPHOTO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS7.WHSPN.NET
+   Name Server: NS8.WHSPN.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-mar-2011
-   Creation Date: 06-jan-2011
-   Expiration Date: 06-jan-2012
+   Updated Date: 03-nov-2010
+   Creation Date: 01-dec-2009
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:33:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:33:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about pogophoto.com
+&lt;a href=&quot;http://www.aboutus.org/pogophoto.com&quot;&gt;AboutUs: pogophoto.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: pogophoto.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TUBUNDAS.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      NS2501.HOSTGATOR.COM
-      NS2502.HOSTGATOR.COM
+   Stephen Pogozelski ()
+
+   Fax:
+   6436 F Chasewood Drive
+   Jupiter, FL 33458
+   US
+
+Administrative Contact:
+
+   Stephen Pogozelski (EMILY.JEROME@GMAIL.COM)
+   +1.5613093300
+   Fax: +1.5613093300
+   6436 F Chasewood Drive
+   Jupiter, FL 33458
+   US
+
+Technical Contact:
+   Web HSP, LLC
+   John Burns (domains@webhsp.com)
+   +1.7757273737
+   Fax: +1.7755820357
+   150 S Hwy 160
+   Suite C8190
+   Pahrump, NV 89061
+   US
+
+Status: Locked
+
+Name Servers:
+   NS7.WHSPN.NET
+   NS8.WHSPN.NET
+
+Creation date: 01 Dec 2009 21:33:35
+Expiration date: 01 Dec 2011 21:33:35
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TUBUNDAS.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
