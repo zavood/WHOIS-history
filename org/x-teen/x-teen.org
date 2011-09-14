@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106123174-LROR
+Domain Name:X-TEEN.ORG
+Created On:20-Apr-2005 14:16:46 UTC
+Last Updated On:05-Oct-2010 22:33:41 UTC
+Expiration Date:20-Apr-2012 14:16:46 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-270527
+Registrant Name:Gans Tews
+Registrant Organization:SCT-MEDIA
+Registrant Street1:2843 Harantel rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rosenau
+Registrant State/Province:--
+Registrant Postal Code:0000
+Registrant Country:DM
+Registrant Phone:+1.8653429368
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sctmedia@yahoo.com
+Admin ID:CORG-270526
+Admin Name:Gans Tews
+Admin Organization:SCT-MEDIA
+Admin Street1:2843 Harantel rd.
+Admin Street2:
+Admin Street3:
+Admin City:Rosenau
+Admin State/Province:--
+Admin Postal Code:0000
+Admin Country:DM
+Admin Phone:+1.8653429368
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sctmedia@yahoo.com
+Tech ID:CORG-270529
+Tech Name:Gans Tews
+Tech Organization:SCT-MEDIA
+Tech Street1:2843 Harantel rd.
+Tech Street2:
+Tech Street3:
+Tech City:Rosenau
+Tech State/Province:--
+Tech Postal Code:0000
+Tech Country:DM
+Tech Phone:+1.8653429368
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sctmedia@yahoo.com
+Name Server:NS1.EVERYDNS.NET
+Name Server:NS2.EVERYDNS.NET
+Name Server:NS3.EVERYDNS.NET
+Name Server:NS4.EVERYDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
