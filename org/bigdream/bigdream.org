@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153589497-LROR
+Domain Name:BIGDREAM.ORG
+Created On:13-Aug-2008 16:56:22 UTC
+Last Updated On:18-Aug-2011 09:26:00 UTC
+Expiration Date:13-Aug-2012 16:56:22 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:b5b75585ac64cc1c
+Registrant Name:Tao  Wang
+Registrant Street1:Rm. 1305, 40 West Jinling Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shanghai
+Registrant State/Province:SHANGHAI
+Registrant Postal Code:200000
+Registrant Country:CN
+Registrant Phone:+86.13585779980
+Registrant Phone Ext.:
+Registrant FAX:+86.13585779980
+Registrant FAX Ext.:
+Registrant Email:hellomatt@gmail.com
+Admin ID:b5b75585ac64cc1c
+Admin Name:Tao  Wang
+Admin Street1:Rm. 1305, 40 West Jinling Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Shanghai
+Admin State/Province:SHANGHAI
+Admin Postal Code:200000
+Admin Country:CN
+Admin Phone:+86.13585779980
+Admin Phone Ext.:
+Admin FAX:+86.13585779980
+Admin FAX Ext.:
+Admin Email:hellomatt@gmail.com
+Tech ID:b5b75585ac64cc1c
+Tech Name:Tao  Wang
+Tech Street1:Rm. 1305, 40 West Jinling Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Shanghai
+Tech State/Province:SHANGHAI
+Tech Postal Code:200000
+Tech Country:CN
+Tech Phone:+86.13585779980
+Tech Phone Ext.:
+Tech FAX:+86.13585779980
+Tech FAX Ext.:
+Tech Email:hellomatt@gmail.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
