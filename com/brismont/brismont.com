@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRUEHITS.NET
-   Registrar: DOTARAI CO,. LTD.
-   Whois Server: whois.dotarai.com
-   Referral URL: http://www.dotarai.co.th
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 09-aug-2001
-   Expiration Date: 09-aug-2015
+   Domain Name: BRISMONT.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.INSTADNS.COM
+   Name Server: NS2.INSTADNS.COM
+   Status: ok
+   Updated Date: 02-sep-2009
+   Creation Date: 29-jul-2007
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% whois.dotarai.com
+
+Domain Name.......... brismont.com
+  Creation Date........ 2007-07-29
+  Registration Date.... 2007-07-29
+  Expiry Date.......... 2012-07-29
+  Organisation Name.... BrisMonT
+  Organisation Address. Hill Colony
+  Organisation Address. Khairatabad
+  Organisation Address. Hyderabad
+  Organisation Address. 500004
+  Organisation Address. AP
+  Organisation Address. INDIA
+
+Admin Name........... IT IT
+  Admin Address........ Hill Colony
+  Admin Address........ Khairatabad
+  Admin Address........ Hyderabad
+  Admin Address........ 500004
+  Admin Address........ AP
+  Admin Address........ INDIA
+  Admin Email.......... naval.kishore@brismont.net
+  Admin Phone.......... 91.9618882021
+  Admin Fax............
+
+Tech Name............ BrisMonT BrisMonT
+  Tech Address......... Hill Colony
+  Tech Address......... Khairatabad
+  Tech Address......... Hyderabad
+  Tech Address......... 500004
+  Tech Address......... AP
+  Tech Address......... INDIA
+  Tech Email........... naval.kishore@brismont.net
+  Tech Phone........... 91.9618882021
+  Tech Fax.............
+  Name Server.......... ns1.instadns.com
+  Name Server.......... ns2.instadns.com
 
 
-% Whois Server Version 1.0.0
-
-   Domain: TRUEHITS.NET
-   Registrar: DotArai Co., Ltd.
-   Status: ACTIVE
-   Status: clientTransferProhibited
-   Status: clientDeleteProhibited
-   Updated date: 17-Jul-2011
-   Creation date: 9-Aug-2001
-   Expiration date: 9-Aug-2015
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-
-   Registrant ID: 201
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-
-   Administrative Contact ID: 202
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-   Technical Contact ID: 203
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-
-&gt;&gt;&gt; Last update of whois data: Wed, 14 Sep 2011 15:48:26 UTC+7 &lt;&lt;&lt;

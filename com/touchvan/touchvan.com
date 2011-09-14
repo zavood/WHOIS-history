@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRUEHITS.NET
-   Registrar: DOTARAI CO,. LTD.
-   Whois Server: whois.dotarai.com
-   Referral URL: http://www.dotarai.co.th
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 09-aug-2001
-   Expiration Date: 09-aug-2015
+   Domain Name: TOUCHVAN.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.LIN.ARVIXE.COM
+   Name Server: NS2.LIN.ARVIXE.COM
+   Status: ok
+   Updated Date: 21-jun-2011
+   Creation Date: 23-oct-2007
+   Expiration Date: 23-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% whois.dotarai.com
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+   Domain Services Provided By:
+      domain.com, support@support.domain.com
+      http://www.domain.com
+
+Registrant:
+   Jeanne Walker
+   2993 Coleridge Dr. Tulsa
+   Tulsa, OK  74116
+   US
+
+   Registrar: DOTSTER
+   Domain Name: TOUCHVAN.COM
+      Created on: 23-OCT-07
+      Expires on: 23-OCT-11
+      Last Updated on: 21-JUN-11
+
+   Administrative, Technical Contact:
+      Walker, Jeanne  trustmpg@live.com
+      2993 Coleridge Dr. Tulsa
+      Tulsa, OK  74116
+      US
+      918-272-8374
 
 
-% Whois Server Version 1.0.0
+   Domain servers in listed order:
+      NS1.LIN.ARVIXE.COM
+      NS2.LIN.ARVIXE.COM
 
-   Domain: TRUEHITS.NET
-   Registrar: DotArai Co., Ltd.
-   Status: ACTIVE
-   Status: clientTransferProhibited
-   Status: clientDeleteProhibited
-   Updated date: 17-Jul-2011
-   Creation date: 9-Aug-2001
-   Expiration date: 9-Aug-2015
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-
-   Registrant ID: 201
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-
-   Administrative Contact ID: 202
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-   Technical Contact ID: 203
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-
-&gt;&gt;&gt; Last update of whois data: Wed, 14 Sep 2011 15:48:26 UTC+7 &lt;&lt;&lt;
+End of Whois Information

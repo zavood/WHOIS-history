@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRUEHITS.NET
-   Registrar: DOTARAI CO,. LTD.
-   Whois Server: whois.dotarai.com
-   Referral URL: http://www.dotarai.co.th
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-   Status: clientDeleteProhibited
+   Domain Name: THEKOOKS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.EMIHOSTING.COM
+   Name Server: NS1.EMIHOSTING2.COM
+   Name Server: NS1.EMIHOSTING3.COM
+   Name Server: NS2.EMIHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 09-aug-2001
-   Expiration Date: 09-aug-2015
+   Updated Date: 03-nov-2009
+   Creation Date: 11-feb-2006
+   Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% whois.dotarai.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-% Whois Server Version 1.0.0
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-   Domain: TRUEHITS.NET
-   Registrar: DotArai Co., Ltd.
-   Status: ACTIVE
-   Status: clientTransferProhibited
-   Status: clientDeleteProhibited
-   Updated date: 17-Jul-2011
-   Creation date: 9-Aug-2001
-   Expiration date: 9-Aug-2015
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
+http://www.networksolutions.com/whois/index.jhtml
 
-   Registrant ID: 201
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Administrative Contact ID: 202
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-   Technical Contact ID: 203
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-
-&gt;&gt;&gt; Last update of whois data: Wed, 14 Sep 2011 15:48:26 UTC+7 &lt;&lt;&lt;
+Whois Query: thekooks.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 04:38:06 EDT 2011
+Reason Code: IE

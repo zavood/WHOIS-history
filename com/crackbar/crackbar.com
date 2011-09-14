@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRUEHITS.NET
-   Registrar: DOTARAI CO,. LTD.
-   Whois Server: whois.dotarai.com
-   Referral URL: http://www.dotarai.co.th
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
+   Domain Name: CRACKBAR.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS2393.HOSTGATOR.COM
+   Name Server: NS2394.HOSTGATOR.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 09-aug-2001
-   Expiration Date: 09-aug-2015
+   Status: clientUpdateProhibited
+   Updated Date: 07-aug-2011
+   Creation Date: 13-aug-2005
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:48:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% whois.dotarai.com
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
+
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
-% Whois Server Version 1.0.0
+Registrant:
+   Ali Ansari
 
-   Domain: TRUEHITS.NET
-   Registrar: DotArai Co., Ltd.
-   Status: ACTIVE
-   Status: clientTransferProhibited
-   Status: clientDeleteProhibited
-   Updated date: 17-Jul-2011
-   Creation date: 9-Aug-2001
-   Expiration date: 9-Aug-2015
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CRACKBAR.COM
 
-   Registrant ID: 201
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-
-   Administrative Contact ID: 202
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-   Technical Contact ID: 203
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
+   Domain servers in listed order:
+      NS2393.HOSTGATOR.COM
+      NS2394.HOSTGATOR.COM
 
 
-&gt;&gt;&gt; Last update of whois data: Wed, 14 Sep 2011 15:48:26 UTC+7 &lt;&lt;&lt;
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CRACKBAR.COM

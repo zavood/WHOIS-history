@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRUEHITS.NET
-   Registrar: DOTARAI CO,. LTD.
-   Whois Server: whois.dotarai.com
-   Referral URL: http://www.dotarai.co.th
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 17-jul-2011
-   Creation Date: 09-aug-2001
-   Expiration Date: 09-aug-2015
+   Domain Name: SACOWEDE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.MEDIATEMPLE.NET
+   Name Server: NS2.MEDIATEMPLE.NET
+   Status: ok
+   Updated Date: 11-feb-2011
+   Creation Date: 18-feb-2009
+   Expiration Date: 18-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:47:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:48:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% whois.dotarai.com
-
-
-% Whois Server Version 1.0.0
-
-   Domain: TRUEHITS.NET
-   Registrar: DotArai Co., Ltd.
-   Status: ACTIVE
-   Status: clientTransferProhibited
-   Status: clientDeleteProhibited
-   Updated date: 17-Jul-2011
-   Creation date: 9-Aug-2001
-   Expiration date: 9-Aug-2015
-   Name Server: NS.TRUEHITS.NET
-   Name Server: NS3.TRUEHITS.NET
-
-   Registrant ID: 201
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-
-   Administrative Contact ID: 202
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-   Technical Contact ID: 203
-      Piya Tanthawichian
-      Company: Internet Innovation Research Center
-      Address:
-         731 asoke-dindang Rd, Dindang,
-         Dindang, BANGKOK 10400
-         Thailand
-      Phone: +6626417509         Fax: +6626417508
-      Email: webmaster@truehits.net
-
-
-&gt;&gt;&gt; Last update of whois data: Wed, 14 Sep 2011 15:48:26 UTC+7 &lt;&lt;&lt;
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
