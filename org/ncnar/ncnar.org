@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11150841-LROR
+Domain Name:NCNAR.ORG
+Created On:09-Oct-1999 13:28:10 UTC
+Last Updated On:22-Feb-2010 16:42:03 UTC
+Expiration Date:09-Oct-2012 13:28:10 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35371694
+Registrant Name:Jesse Goodman
+Registrant Organization:Department of Health and Human Services
+Registrant Street1:2709 Mail Service Center
+Registrant Street2:
+Registrant Street3:
+Registrant City:raleigh
+Registrant State/Province:North Carolina
+Registrant Postal Code:27699-2709
+Registrant Country:US
+Registrant Phone:+1.9198553968
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jesse.goodman@ncmail.net
+Admin ID:CR35371696
+Admin Name:private private
+Admin Organization:private
+Admin Street1:private
+Admin Street2:
+Admin Street3:
+Admin City:private
+Admin State/Province:Wyoming
+Admin Postal Code:private
+Admin Country:US
+Admin Phone:+1.5124451011
+Admin Phone Ext.:
+Admin FAX:+1.5124451052
+Admin FAX Ext.:
+Admin Email:steve@axelrod.net
+Tech ID:CR35371695
+Tech Name:private private
+Tech Organization:private
+Tech Street1:private
+Tech Street2:
+Tech Street3:
+Tech City:private
+Tech State/Province:Wyoming
+Tech Postal Code:private
+Tech Country:US
+Tech Phone:+1.5124451011
+Tech Phone Ext.:
+Tech FAX:+1.5124451052
+Tech FAX Ext.:
+Tech Email:steve@axelrod.net
+Name Server:NS55.DOMAINCONTROL.COM
+Name Server:NS56.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
