@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D122057497-LROR
+Domain Name:TUAC503.ORG
+Created On:08-May-2006 21:03:57 UTC
+Last Updated On:07-Feb-2011 15:08:08 UTC
+Expiration Date:08-May-2012 21:03:57 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuIsqZ8nkYiiwxIz
+Registrant Name:Alain Thibault
+Registrant Organization:Clavitek
+Registrant Street1:895 Boul Charest ouest # 203
+Registrant Street2:
+Registrant Street3:
+Registrant City:Quebec
+Registrant State/Province:QC
+Registrant Postal Code:G1N2C9
+Registrant Country:CA
+Registrant Phone:+1.4186940607
+Registrant Phone Ext.:
+Registrant FAX:+1.4186920590
+Registrant FAX Ext.:
+Registrant Email:athibault@clavitek.com
+Admin ID:tu7ZCY48TfV01Nkj
+Admin Name:Alain Thibault
+Admin Organization:Clavitek
+Admin Street1:895 Boul Charest ouest # 203
+Admin Street2:
+Admin Street3:
+Admin City:Quebec
+Admin State/Province:QC
+Admin Postal Code:G1N2C9
+Admin Country:CA
+Admin Phone:+1.4186940607
+Admin Phone Ext.:
+Admin FAX:+1.4186920590
+Admin FAX Ext.:
+Admin Email:athibault@clavitek.com
+Tech ID:tutrfbIFlAtK2tiL
+Tech Name:Alain Thibault
+Tech Organization:Clavitek
+Tech Street1:895 Boul Charest ouest # 203
+Tech Street2:
+Tech Street3:
+Tech City:Quebec
+Tech State/Province:QC
+Tech Postal Code:G1N2C9
+Tech Country:CA
+Tech Phone:+1.4186940607
+Tech Phone Ext.:
+Tech FAX:+1.4186920590
+Tech FAX Ext.:
+Tech Email:athibault@clavitek.com
+Name Server:MDNS1.AZTUS.COM
+Name Server:MDNS2.AZTUS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

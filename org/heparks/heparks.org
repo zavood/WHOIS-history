@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1303127-LROR
+Domain Name:HEPARKS.ORG
+Created On:20-May-1998 04:00:00 UTC
+Last Updated On:24-Mar-2010 15:14:01 UTC
+Expiration Date:19-May-2018 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23889861-NSI
+Registrant Name:Hoffman Estates Park District
+Registrant Organization:Hoffman Estates Park District
+Registrant Street1:1685 West Higgins Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hoffman Estates
+Registrant State/Province:IL
+Registrant Postal Code:60195
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wordene@NETSCAPE.NET
+Admin ID:22606238-NSI
+Admin Name:Lynne Cotshott
+Admin Organization:Hoffman Estates Park District
+Admin Street1:1685 W. Higgins Road
+Admin Street2:
+Admin Street3:
+Admin City:Hoffman Estates
+Admin State/Province:IL
+Admin Postal Code:60195
+Admin Country:US
+Admin Phone:+847.8857500
+Admin Phone Ext.:
+Admin FAX:+1.847885752
+Admin FAX Ext.:
+Admin Email:lcotshott@heparks.org
+Tech ID:17024580-NSI
+Tech Name:Marie Cummings
+Tech Organization:Excalibur Technology Corp.
+Tech Street1:700 Fox Glen
+Tech Street2:
+Tech Street3:
+Tech City:BARRINGTON
+Tech State/Province:IL
+Tech Postal Code:60010
+Tech Country:US
+Tech Phone:+1.8478429570
+Tech Phone Ext.:
+Tech FAX:+1.8478420190
+Tech FAX Ext.:
+Tech Email:dnsadmin@EXCALTECH.COM
+Name Server:NS1.EXCALTECH.COM
+Name Server:NS2.EXCALTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
