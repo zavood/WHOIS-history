@@ -1,34 +1,0 @@
-[ JPRS database provides information on network administration. Its use is    ]
-[ restricted to network administration purposes. For further information,     ]
-[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
-[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
-
-Domain Information: [$B%I%a%$%s&gt;pJs(B]
-[Domain Name]                   IDC.JP
-
-[$BEPO?&lt;TL&gt;(B]                      $B%d%U!&lt;3t&lt;02q&lt;R(B
-[Registrant]                    Yahoo Japan Corporation
-
-[Name Server]                   ns01.idc.jp
-[Name Server]                   ns02.idc.jp
-[Name Server]                   ns03.idc.jp
-[Signing Key]
-
-[$BEPO?G/7nF|(B]                    2005/03/10
-[$BM-8z4|8B(B]                      2012/03/31
-[$B&gt;uBV(B]                          Active
-[$B:G=*99?7(B]                      2011/04/01 01:05:01 (JST)
-
-Contact Information: [$B8x3+O&quot;MmAk8}(B]
-[$BL&gt;A0(B]                          $B%d%U!&lt;3t&lt;02q&lt;R(B
-[Name]                          Yahoo Japan Corporation
-[Email]                         jprs-notify@idc.jp
-[Web Page]
-[$BM9JXHV9f(B]                      160-0004
-[$B=;=j(B]                          $BEl5~ET?7=I6h;MC+(B4-29
-[Postal Address]                4-29 Yotsuya
-                                Shinjuku-ku, Tokyo
-                                160-0004, Japan
-[$BEEOCHV9f(B]                      03-4354-0230
-[FAX$BHV9f(B]                       03-4354-0087
-

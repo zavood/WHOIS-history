@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ATHENET.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS.ATHENET.NET
-   Name Server: NS3.ATHENET.NET
+   Domain Name: XN--O3T.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
    Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 26-oct-1994
-   Expiration Date: 25-oct-2012
+   Updated Date: 04-sep-2011
+   Creation Date: 09-jun-2008
+   Expiration Date: 09-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:57:33 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name: xn--o3t.com
+Registered at http://www.dynadot.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+Nomi Nee
+1234
+2348724
+Canada, CT 1234
+Bahamas
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+Nomi Nee
+1234
+2348724
+Canada, CT 1234
+Bahamas
+MissDomain@Domains-Banker.com
++21 3924824
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+Nomi Nee
+1234
+2348724
+Canada, CT 1234
+Bahamas
+MissDomain@Domains-Banker.com
++21 3924824
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record expires on 2012/06/09 UTC
+Record created on 2008/06/09 UTC
 
-Whois Query: athenet.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:53:06 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+ns1.sedoparking.com
+ns2.sedoparking.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/13 20:55:54 PST &lt;&lt;&lt;
+
