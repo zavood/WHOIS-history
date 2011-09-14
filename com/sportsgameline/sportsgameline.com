@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEB44.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.000WEBHOST.COM
-   Name Server: NS2.000WEBHOST.COM
+   Domain Name: SPORTSGAMELINE.COM
+   Registrar: NAME2HOST, INC. DBA NAME2HOST.COM
+   Whois Server: whois.name2host.com
+   Referral URL: http://www.name2host.com
+   Name Server: DNS1.51.NET
+   Name Server: DNS2.51.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-apr-2010
-   Creation Date: 18-apr-2008
-   Expiration Date: 18-apr-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 20-may-2010
+   Expiration Date: 20-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:50:49 UTC &lt;&lt;&lt;
 
@@ -54,37 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain name: SPORTSGAMELINE.COM
+   Updated Date: 2010-05-21
+   Creation Date: 2010-05-21
+   Expiration Date: 2012-05-21
 
 Registrant:
-   II Hosting Media
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WEB44.NET
-
-   Domain servers in listed order:
-      NS1.000WEBHOST.COM
-      NS2.000WEBHOST.COM
+    kaan kann.forluli
+    ttt
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WEB44.NET
+    naling guanxi 699862
+
+    Phone: +86.13585692589 Fax: +86.13585692589
+
+Administrative Contact:
+    kaan kann.forluli espnltd kaan.egemen@yahoo.com
+    ttt
+
+
+    naling guanxi 699862
+
+    Phone: +86.13585692589 Fax: +86.13585692589
+
+Technical Contact:
+    kaan kann.forluli espnltd kaan.egemen@yahoo.com
+    ttt
+
+
+    naling guanxi 699862
+
+    Phone: +86.13585692589 Fax: +86.13585692589
+
+Registrar of Record: NAME2HOST, INC.
+Domain servers in listed order:
+    DNS1.51.NET   118.144.82.171
+    DNS2.51.NET   118.145.1.7
+
+
+Name2Host makes this information available &quot;as is,&quot; and does not guarantee
+its accuracy.
+
+By submitting a WHOIS query, you agree not to use this data to allow,
+enable, or otherwise support for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to collect or compile this data for any purpose,
+including repackaging this data for your own personal or commercial purposes.
+
+Name2Host reserves the right to modify these terms at any time.
+

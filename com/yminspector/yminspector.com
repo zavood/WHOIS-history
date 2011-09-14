@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEB44.NET
+   Domain Name: YMINSPECTOR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.000WEBHOST.COM
-   Name Server: NS2.000WEBHOST.COM
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-apr-2010
-   Creation Date: 18-apr-2008
-   Expiration Date: 18-apr-2012
+   Updated Date: 10-may-2011
+   Creation Date: 28-jan-2008
+   Expiration Date: 28-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:50:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:50:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   II Hosting Media
+   Iordache Marius
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WEB44.NET
+   Domain Name: YMINSPECTOR.COM
 
    Domain servers in listed order:
-      NS1.000WEBHOST.COM
-      NS2.000WEBHOST.COM
+      NS75.DOMAINCONTROL.COM
+      NS76.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WEB44.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=YMINSPECTOR.COM

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9709857-LROR
+Domain Name:TIWA.ORG
+Created On:01-Sep-1999 21:48:36 UTC
+Last Updated On:31-May-2011 23:35:54 UTC
+Expiration Date:01-Sep-2015 21:48:36 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31556833-NSI
+Registrant Name:TorontoInsuranceWomen's Association
+Registrant Organization:TorontoInsuranceWomen's Association
+Registrant Street1:P.O. Box 5633 Postal A
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M5W 1N8
+Registrant Country:CA
+Registrant Phone:+1.14164455
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@TIWA.ORG
+Admin ID:16912086-NSI
+Admin Name:TorontoInsuranceWomen's Association
+Admin Organization:TorontoInsuranceWomen's Association
+Admin Street1:P.O. Box 5633 Postal A
+Admin Street2:
+Admin Street3:
+Admin City:Toronto, ON M5W 1N8
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:CA
+Admin Phone:+1.14164455
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@TIWA.ORG
+Tech ID:5513412-NSI
+Tech Name:DNS Administration
+Tech Street1:5415 Dundas Street West, Suite 301
+Tech Street2:
+Tech Street3:
+Tech City:Toronto ON M9B 1B5
+Tech State/Province:
+Tech Postal Code:99999
+Tech Country:CA
+Tech Phone:+1.4162337150
+Tech Phone Ext.:
+Tech FAX:+1.4162336970
+Tech FAX Ext.:
+Tech Email:eesdc@flamencos.net
+Name Server:NS1.EASYHOSTING.COM
+Name Server:NS2.EASYHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
