@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEW2010USA.COM
+   Domain Name: UAJR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Name Server: NS5.SUPPORTEDNS.COM
+   Name Server: NS6.SUPPORTEDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-aug-2011
-   Creation Date: 13-aug-2010
-   Expiration Date: 13-aug-2012
+   Updated Date: 03-apr-2011
+   Creation Date: 02-jul-2006
+   Expiration Date: 02-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:19:39 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Lijun Zhu
+   kevin newman
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEW2010USA.COM
+   Domain Name: UAJR.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS5.SUPPORTEDNS.COM
+      NS6.SUPPORTEDNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEW2010USA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=UAJR.COM

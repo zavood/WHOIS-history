@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEW2010USA.COM
+   Domain Name: 4V4.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-aug-2011
-   Creation Date: 13-aug-2010
-   Expiration Date: 13-aug-2012
+   Updated Date: 02-jan-2011
+   Creation Date: 24-mar-2003
+   Expiration Date: 24-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:19:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:18:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Lijun Zhu
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEW2010USA.COM
+   Domain Name: 4V4.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS39.DOMAINCONTROL.COM
+      NS40.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEW2010USA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=4V4.COM
