@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONDUIT.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Domain Name: CLPHONEGUARD.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.RYTECHSERVERS.COM
+   Name Server: NS2.RYTECHSERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-sep-2011
-   Creation Date: 20-apr-1995
-   Expiration Date: 21-apr-2017
+   Updated Date: 10-may-2011
+   Creation Date: 10-may-2011
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:31:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain clphoneguard.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Date Registered: 2011-5-10
+Date Modified: 2011-5-10
+Expiry Date: 2012-5-10
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+DNS1: ns1.rytechservers.com
+DNS2: ns2.rytechservers.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant
+    William Gomez  williamagomez1@gmail.com
+    8521 Firestone Blvd
+    90001 Los Angeles
+    United States
+    Tel: +1.3236881920
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact
+    William Gomez  williamagomez1@gmail.com
+    8521 Firestone Blvd
+    90001 Los Angeles
+    United States
+    Tel: +1.3236881920
 
-Whois Query: conduit.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:20:59 EDT 2011
-Reason Code: IE
+Technical Contact
+    William Gomez  williamagomez1@gmail.com
+    8521 Firestone Blvd
+    90001 Los Angeles
+    United States
+    Tel: +1.3236881920
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

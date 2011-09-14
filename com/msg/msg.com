@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONDUIT.COM
+   Domain Name: MSG.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS11.COTDNS.NET
-   Name Server: DNS12.COTDNS.NET
+   Name Server: NS.CV.NET
+   Name Server: NS.CVNET.COM
    Status: clientTransferProhibited
-   Updated Date: 07-sep-2011
-   Creation Date: 20-apr-1995
-   Expiration Date: 21-apr-2017
+   Updated Date: 29-apr-2011
+   Creation Date: 04-jun-1993
+   Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:30:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: conduit.com
+Whois Query: msg.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:20:59 EDT 2011
+Date and Time of Query: Wed Sep 14 08:26:38 EDT 2011
 Reason Code: IE
