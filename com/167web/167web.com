@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THECHATROULETTEGIRLS.COM
+   Domain Name: 167WEB.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
+   Name Server: NS27.DOMAINCONTROL.COM
+   Name Server: NS28.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-apr-2011
-   Creation Date: 20-may-2010
-   Expiration Date: 20-may-2013
+   Updated Date: 02-jan-2011
+   Creation Date: 01-jan-2010
+   Expiration Date: 01-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:00:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:02:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Ning Jun
+   yingzao tian
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THECHATROULETTEGIRLS.COM
+   Domain Name: 167WEB.COM
 
    Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
+      NS27.DOMAINCONTROL.COM
+      NS28.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THECHATROULETTEGIRLS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=167WEB.COM
