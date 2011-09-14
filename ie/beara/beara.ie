@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      beara.ie
+descr:       Cork County Council
+descr:       Statutory Body
+descr:       Discretionary Name
+admin-c:     MM695-IEDR
+tech-c:      AAK193-IEDR
+renewal:     06-November-2011
+status:      Active
+nserver:     ns1.turbodns.co.uk
+nserver:     ns2.turbodns.co.uk
+source:      IEDR
+
+person:      Michael Murphy
+nic-hdl:     MM695-IEDR
+source:      IEDR
+
+person:      David Spathaky
+nic-hdl:     AAK193-IEDR
+source:      IEDR
+

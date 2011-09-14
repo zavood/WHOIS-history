@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156558445-LROR
+Domain Name:PERUDIVERSO.ORG
+Created On:01-Jul-2009 20:34:24 UTC
+Last Updated On:11-Aug-2011 00:17:14 UTC
+Expiration Date:01-Jul-2012 20:34:24 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:HOLD
+Status:PENDING DELETE SCHEDULED FOR RELEASE
+Registrant ID:ONLC-3767617-4
+Registrant Name:Cesar Leon Olaechea
+Registrant Organization:Pixel Grafico Impresores
+Registrant Street1:Domingo Orue 235 Dpto. 22
+Registrant Street2:
+Registrant Street3:
+Registrant City:Miraflores
+Registrant State/Province:Lima
+Registrant Postal Code:Lima 18
+Registrant Country:PE
+Registrant Phone:+51.5117615535
+Registrant Phone Ext.:
+Registrant FAX:+51.5117615535
+Registrant FAX Ext.:
+Registrant Email:cesar@pixelgrafico.com
+Admin ID:ONLC-3767617-1
+Admin Name:Cesar Leon Olaechea
+Admin Organization:Pixel Grafico Impresores
+Admin Street1:Domingo Orue 235 Dpto. 22
+Admin Street2:
+Admin Street3:
+Admin City:Miraflores
+Admin State/Province:Lima
+Admin Postal Code:Lima 18
+Admin Country:PE
+Admin Phone:+51.5117615535
+Admin Phone Ext.:
+Admin FAX:+51.5117615535
+Admin FAX Ext.:
+Admin Email:cesar@pixelgrafico.com
+Tech ID:ONLC-3767617-2
+Tech Name:Cesar Leon Olaechea
+Tech Organization:Pixel Grafico Impresores
+Tech Street1:Domingo Orue 235 Dpto. 22
+Tech Street2:
+Tech Street3:
+Tech City:Miraflores
+Tech State/Province:Lima
+Tech Postal Code:Lima 18
+Tech Country:PE
+Tech Phone:+51.5117615535
+Tech Phone Ext.:
+Tech FAX:+51.5117615535
+Tech FAX Ext.:
+Tech Email:cesar@pixelgrafico.com
+Name Server:NS2.ONLINENIC.NET
+Name Server:NS3.ONLINENIC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
