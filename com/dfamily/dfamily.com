@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOREEUW.COM
-   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
-   Whois Server: whois.joker.com
-   Referral URL: http://www.joker.com
-   Name Server: B.NS.NETIM.NET
-   Name Server: NS10.NETIM.NET
-   Status: ok
-   Updated Date: 28-dec-2010
-   Creation Date: 20-jan-2007
-   Expiration Date: 20-jan-2012
+   Domain Name: DFAMILY.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS.WEBHOSTINGSERVERS.NET
+   Name Server: NS2.WEBHOSTINGSERVERS.NET
+   Status: clientTransferProhibited
+   Updated Date: 04-oct-2006
+   Creation Date: 01-jan-1999
+   Expiration Date: 01-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:35:25 UTC &lt;&lt;&lt;
 
@@ -51,59 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-domain:       moreeuw.com
-owner:        Ludovic MOREEUW
-email:        ludo@moreeuw.com
-address:      8 rue de la broye
-city:         ENNEVELIN
-state:        --
-postal-code:  59710
-country:      FR
-phone:        +33.320595173
-admin-c:      CCOM-968351 ludovic.moreeuw@libertysurf.fr
-tech-c:       CCOM-968351 ludovic.moreeuw@libertysurf.fr
-billing-c:    CCOM-169164 robot-joker@securenetim.net
-reseller:     NETIM
-reseller:     Web: www.netim.com
-reseller:     Sales: sales@netim.com
-nserver:      b.ns.netim.net
-nserver:      ns10.netim.net
-status:       production,transfer-autoack
-created:      2007-01-20 15:49:02 UTC
-modified:     2010-12-28 07:54:39 UTC
-expires:      2012-01-20 15:49:02 UTC
-query-source: 174.142.225.246
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-contact-hdl:  CCOM-968351
-person:       Ludovic MOREEUW
-email:        ludovic.moreeuw@libertysurf.fr
-address:      8 rue de la broye
-city:         ENNEVELIN
-state:        --
-postal-code:  59710
-country:      FR
-phone:        +33.320595173
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-contact-hdl:  CCOM-169164
-person:       Bruno VINCENT
-organization: NETIM
-email:        robot-joker@securenetim.net
-address:      165 avenue de bretagne
-address:      Euratechnologies
-city:         LILLE
-postal-code:  59000
-country:      FR
-phone:        +33.359350374
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-source:       joker.com live whois service
-query-time:   0.0707719999999999
-db-updated:   2011-09-14 02:36:12
-NOTE: By submitting a WHOIS query, you agree to abide by the following
-NOTE: terms of use: You agree that you may use this data only for lawful
-NOTE: purposes and that under no circumstances will you use this data to:
-NOTE: (1) allow, enable, or otherwise support the transmission of mass
-NOTE: unsolicited, commercial advertising or solicitations via direct mail,
-NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-NOTE: electronic processes that apply to Joker.com (or its computer systems).
-NOTE: The compilation, repackaging, dissemination or other use of this data
-NOTE: is expressly prohibited without the prior written consent of Joker.com.
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: dfamily.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 22:25:32 EDT 2011
+Reason Code: IE
