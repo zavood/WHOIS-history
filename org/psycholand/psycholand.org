@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D138566035-LROR
+Domain Name:PSYCHOLAND.ORG
+Created On:30-Jan-2007 14:33:45 UTC
+Last Updated On:28-Jun-2011 08:25:32 UTC
+Expiration Date:30-Jan-2011 14:33:45 UTC
+Sponsoring Registrar:Ignitela LLC (R1462-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2747654O86879787
+Registrant Name:Domain Privacy
+Registrant Street1:2141 Wisconsin Ave. Suite C-2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20007
+Registrant Country:US
+Registrant Phone:+1.2026257000
+Registrant Phone Ext.:
+Registrant FAX:+1.2026257001
+Registrant FAX Ext.:
+Registrant Email:bonus.domains@gmail.com
+Admin ID:2747654O86879787
+Admin Name:Domain Privacy
+Admin Street1:2141 Wisconsin Ave. Suite C-2
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20007
+Admin Country:US
+Admin Phone:+1.2026257000
+Admin Phone Ext.:
+Admin FAX:+1.2026257001
+Admin FAX Ext.:
+Admin Email:bonus.domains@gmail.com
+Tech ID:2747654O86879787
+Tech Name:Domain Privacy
+Tech Street1:2141 Wisconsin Ave. Suite C-2
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20007
+Tech Country:US
+Tech Phone:+1.2026257000
+Tech Phone Ext.:
+Tech FAX:+1.2026257001
+Tech FAX Ext.:
+Tech Email:bonus.domains@gmail.com
+Name Server:NS1.ROOKDNS.COM
+Name Server:NS2.ROOKDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NTDLZONE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 09-jun-2011
-   Expiration Date: 09-jun-2012
+   Domain Name: LOVEALIY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.DNSEXIT.COM
+   Name Server: NS2.DNSEXIT.COM
+   Name Server: NS3.DNSEXIT.COM
+   Name Server: NS4.DNSEXIT.COM
+   Status: ok
+   Updated Date: 25-aug-2011
+   Creation Date: 25-aug-2011
+   Expiration Date: 25-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:06:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:04:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... lovealiy.com
+  Creation Date........ 2011-08-26
+  Registration Date.... 2011-08-26
+  Expiry Date.......... 2013-08-26
+  Organisation Name.... Sonia Darbey
+  Organisation Address. 23 Wallaroy Road
+  Organisation Address.
+  Organisation Address. Sydney
+  Organisation Address. 2028
+  Organisation Address. na
+  Organisation Address. AUSTRALIA
+
+Admin Name........... Sonia Darbey
+  Admin Address........ 23 Wallaroy Road
+  Admin Address........
+  Admin Address........ Sydney
+  Admin Address........ 2028
+  Admin Address........ na
+  Admin Address........ AUSTRALIA
+  Admin Email.......... soniadarbey@yahoo.com
+  Admin Phone.......... +1.749192347
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns2.dnsexit.com
+  Name Server.......... ns1.dnsexit.com
+  Name Server.......... ns4.dnsexit.com
+  Name Server.......... ns3.dnsexit.com
 
 
-Registrant:
-   Admonetizer Inc
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NTDLZONE.COM
-
-   Domain servers in listed order:
-      NS77.DOMAINCONTROL.COM
-      NS78.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NTDLZONE.COM

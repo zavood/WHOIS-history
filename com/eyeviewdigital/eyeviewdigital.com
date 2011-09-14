@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NTDLZONE.COM
+   Domain Name: EYEVIEWDIGITAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
+   Name Server: NS-1081.AWSDNS-07.ORG
+   Name Server: NS-1743.AWSDNS-25.CO.UK
+   Name Server: NS-355.AWSDNS-44.COM
+   Name Server: NS-896.AWSDNS-48.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 09-jun-2011
-   Expiration Date: 09-jun-2012
+   Updated Date: 07-dec-2010
+   Creation Date: 21-sep-2007
+   Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:06:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:05:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Admonetizer Inc
+   Oren Harnevo
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NTDLZONE.COM
+   Domain Name: EYEVIEWDIGITAL.COM
 
    Domain servers in listed order:
-      NS77.DOMAINCONTROL.COM
-      NS78.DOMAINCONTROL.COM
+      NS-355.AWSDNS-44.COM
+      NS-896.AWSDNS-48.NET
+      NS-1081.AWSDNS-07.ORG
+      NS-1743.AWSDNS-25.CO.UK
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NTDLZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EYEVIEWDIGITAL.COM

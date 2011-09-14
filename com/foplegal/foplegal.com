@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NTDLZONE.COM
+   Domain Name: FOPLEGAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
+   Name Server: NS1.HYLANT.COM
+   Name Server: NS2.HYLANT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jun-2011
-   Creation Date: 09-jun-2011
-   Expiration Date: 09-jun-2012
+   Updated Date: 02-nov-2010
+   Creation Date: 04-feb-2009
+   Expiration Date: 04-feb-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:06:37 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Admonetizer Inc
+   Hylant Group
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NTDLZONE.COM
+   Domain Name: FOPLEGAL.COM
 
    Domain servers in listed order:
-      NS77.DOMAINCONTROL.COM
-      NS78.DOMAINCONTROL.COM
+      NS1.HYLANT.COM
+      NS2.HYLANT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NTDLZONE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FOPLEGAL.COM

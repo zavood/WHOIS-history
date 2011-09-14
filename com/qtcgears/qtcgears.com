@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ORACULAR.COM
+   Domain Name: QTCGEARS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS.ORACULAR.COM
-   Name Server: NS1.ORACULAR.COM
-   Name Server: NS2.ORACULAR.COM
-   Name Server: NS3.ORACULAR.COM
+   Name Server: DNS1.SPARTANINTERNET.COM
+   Name Server: DNS2.SPARTANINTERNET.COM
    Status: clientTransferProhibited
-   Updated Date: 14-apr-2010
-   Creation Date: 30-jul-1996
-   Expiration Date: 29-jul-2014
+   Updated Date: 04-jan-2011
+   Creation Date: 19-sep-1996
+   Expiration Date: 18-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:06:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:06:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about ORACULAR.COM
-&lt;a href=&quot;http://www.aboutus.org/ORACULAR.COM&quot;&gt;AboutUs: ORACULAR.COM &lt;/a&gt;
+Visit AboutUs.org for more information about QTCGEARS.COM
+&lt;a href=&quot;http://www.aboutus.org/QTCGEARS.COM&quot;&gt;AboutUs: QTCGEARS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Oracular, Inc
-   317 Park Plaza
-   Oshkosh, WI 54901
+Designatronics, Inc
+   2101 Jericho Turnpike
+   New Hyde Park, NJ 11040
    US
 
-   Domain Name: ORACULAR.COM
+   Domain Name: QTCGEARS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,23 +95,22 @@ Oracular, Inc
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Webmaster, Oracular		webmaster@oracular.com
-      Oracular, Inc.
-      300 Ohio St.
-      Oshkosh, WI 54902
+      Spartan, Internet		ryan@spartaninternet.com
+      Spartan Internet Consulting Corp.
+      115 W Allegan
+      8th Floor
+      Lansing, MI 48933
       US
-      (920) 303-0470
+      1-517-333-9727 fax: 1-517-333-8074
 
 
-   Record expires on 29-Jul-2014.
-   Record created on 30-Jul-1996.
-   Database last updated on 14-Sep-2011 02:56:45 EDT.
+   Record expires on 18-Sep-2016.
+   Record created on 19-Sep-1996.
+   Database last updated on 14-Sep-2011 02:56:46 EDT.
 
    Domain servers in listed order:
 
-   NS.ORACULAR.COM              63.246.83.5
-   NS2.ORACULAR.COM             65.61.138.186
-   NS1.ORACULAR.COM             207.97.208.112
-   NS3.ORACULAR.COM             69.20.61.227
+   DNS1.SPARTANINTERNET.COM     207.179.70.27
+   DNS2.SPARTANINTERNET.COM     207.179.71.27
 
 
