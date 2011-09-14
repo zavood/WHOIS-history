@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NUVOX.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: EXTNS1.NUVOX.NET
-   Name Server: EXTNS2.NUVOX.NET
+   Domain Name: ERMAFIRST.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WINZONE32.GRSERVER.GR
+   Name Server: NS2.WINZONE32.GRSERVER.GR
    Status: clientTransferProhibited
-   Updated Date: 02-sep-2011
-   Creation Date: 30-nov-2000
-   Expiration Date: 30-nov-2012
+   Updated Date: 08-jan-2010
+   Creation Date: 23-dec-2009
+   Expiration Date: 23-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:20:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:20:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about ermafirst.com
+&lt;a href=&quot;http://www.aboutus.org/ermafirst.com&quot;&gt;AboutUs: ermafirst.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: ermafirst.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   HELLEN POLYCHRONOPOULOU ()
 
-Whois Query: nuvox.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:10:23 EDT 2011
-Reason Code: IE
+   Fax:
+   Schisto Industrial Park (VIPAS) Block 13
+   PERAMA, KERATSINI 18545
+   GR
+
+Administrative Contact:
+
+   HELLEN POLYCHRONOPOULOU (administrator@epe.gr)
+   +30.2104093000
+   Fax: 30.2
+   Schisto Industrial Park (VIPAS) Block 13
+   PERAMA, KERATSINI 18545
+   GR
+
+Technical Contact:
+
+   HELLEN POLYCHRONOPOULOU (administrator@epe.gr)
+   +30.2104093000
+   Fax: 30.2
+   Schisto Industrial Park (VIPAS) Block 13
+   PERAMA, KERATSINI 18545
+   GR
+
+Status: Locked
+
+Name Servers:
+   ns1.winzone32.grserver.gr
+   ns2.winzone32.grserver.gr
+
+Creation date: 23 Dec 2009 19:34:05
+Expiration date: 23 Dec 2011 19:34:05
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
