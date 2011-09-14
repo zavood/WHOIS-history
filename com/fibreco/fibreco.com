@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIROTIX.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.ESPINDA.COM
-   Name Server: NS2.ESPINDA.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-sep-2011
-   Creation Date: 02-jul-2005
-   Expiration Date: 02-jul-2012
+   Domain Name: FIBRECO.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: KTK1.SMARTT.COM
+   Name Server: KTK2.SMARTT.COM
+   Status: ok
+   Updated Date: 26-may-2009
+   Creation Date: 24-sep-1996
+   Expiration Date: 23-sep-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:51:50 UTC &lt;&lt;&lt;
 
@@ -51,56 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about birotix.com
-&lt;a href=&quot;http://www.aboutus.org/birotix.com&quot;&gt;AboutUs: birotix.com&lt;/a&gt;
+Registration Service Provided By: Domain Registry of Canada
+Contact: support@droc.ca
+Web:http://www.droc.ca
 
 
-Domain name: birotix.com
-
-Administrative Contact:
-   espinda.com LLC
-   espinda.com LLC (domain_manager@espinda.com)
-   +1.3022950950
-   Fax: +1.3022950950
-   501 Silverside Road Suite 105
-   New Castle County
-   Wilmington, DE 19809
-   US
-
-Technical Contact:
-   espinda.com LLC
-   espinda.com LLC (domain_manager@espinda.com)
-   +1.3022950950
-   Fax: +1.3022950950
-   501 Silverside Road Suite 105
-   New Castle County
-   Wilmington, DE 19809
-   US
+Domain name: fibreco.com
 
 Registrant Contact:
-   espinda.com LLC
-   espinda.com LLC ()
+      Gardner    Greg
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      6dd312024440ea19@private-contact.com
 
-   Fax:
-   501 Silverside Road Suite 105
-   New Castle County
-   Wilmington, DE 19809
-   US
+Administrative Contact:
+      Gardner    Greg
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      r85guyqtdsrmv5cx@private-contact.com
 
-Status: Locked
+Technical Contact:
+      Gardner    Greg
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      wezdmhfg8nqvlf1l@private-contact.com
 
-Name Servers:
-   NS1.ESPINDA.COM
-   NS2.ESPINDA.COM
-
-Creation date: 02 Jul 2005 12:42:00
-Expiration date: 02 Jul 2012 12:42:00
+Update date: 2009-05-26
+Expiration date: 2014-09-23
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -117,4 +108,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNAMAIL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.SHERWEB.COM
-   Name Server: DNS2.SHERWEB.COM
+   Domain Name: YAHOO2M.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.HOSTIT.IR
+   Name Server: NS2.HOSTIT.IR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-jun-2011
-   Creation Date: 25-jun-1996
-   Expiration Date: 24-jun-2018
+   Updated Date: 21-jan-2011
+   Creation Date: 14-dec-2010
+   Expiration Date: 14-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:53:22 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 mirzayi_zaniar GoldenServices.ir@gmail.com +98.9360217685
+	 GoldenServices.ir
+	 iran
+	 iran,iran,LY 12345
+
+
+Domain Name:yahoo2m.com
+Record last updated at 2011-04-10 07:00:30
+Record created on 2010/12/14
+Record expired on 2011/12/14
+
+
+Domain servers in listed order:
+	 ns1.hostit.ir 	 ns2.hostit.ir
+
+Administrator:
+	 name:(mirzayi_zaniar)
+	Email:(GoldenServices.ir@gmail.com) tel-- +98.9360217685
+	 GoldenServices.ir
+	 iran
+\r
+t iran
+iran,
+LY
+
+ zipcode:12345
+
+Technical Contactor:
+	 name:(mirzayi_zaniar)
+	Email:(GoldenServices.ir@gmail.com) tel-- +98.9360217685
+	 GoldenServices.ir
+	 iran
+\r
+t iran
+iran,
+LY
+
+ zipcode:12345
+
+Billing Contactor:
+	 name:(mirzayi_zaniar)
+	Email:(GoldenServices.ir@gmail.com) tel-- +98.9360217685
+	 GoldenServices.ir
+	 iran
+\r
+t iran
+iran,
+LY
+
+ zipcode:12345
+
+
+Registration Service Provider:
+	name: GoldenServices.ir
+	tel: +98.9174441407
+ 	fax: +98.9174441407
+ 	web:Www.GoldenServices.ir
