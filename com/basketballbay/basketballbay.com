@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIZINC.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.DIMENOC.COM
-   Name Server: NS2.DIMENOC.COM
+   Domain Name: BASKETBALLBAY.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
    Status: clientTransferProhibited
-   Updated Date: 14-sep-2011
-   Creation Date: 27-dec-2002
-   Expiration Date: 27-dec-2014
+   Updated Date: 28-oct-2010
+   Creation Date: 07-aug-2009
+   Expiration Date: 07-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:59:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:59:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about dizinc.com
-&lt;a href=&quot;http://www.aboutus.org/dizinc.com&quot;&gt;AboutUs: dizinc.com&lt;/a&gt;
 
+Domain Name.......... basketballbay.com
+  Creation Date........ 2009-08-07 14:48:33
+  Registration Date.... 2009-08-07 14:48:33
+  Expiry Date.......... 2012-08-07 14:48:33
+  Organisation Name.... charlann
+  Organisation Address. 157 Briarwood Lane
+  Organisation Address.
+  Organisation Address. 403 W Texas
+  Organisation Address. 241580
+  Organisation Address. WG
+  Organisation Address. US
 
-Domain name: dizinc.com
+Admin Name........... charlann
+  Admin Address........ 157 Briarwood Lane
+  Admin Address........
+  Admin Address........ 403 W Texas
+  Admin Address........ 241580
+  Admin Address........ WG
+  Admin Address........ US
+  Admin Email.......... char.lefort@hotmailco.uk
+  Admin Phone.......... +77.29549618669
+  Admin Fax............ +77.29549618669
 
-Registrant Contact:
-   HostDime.com DimeNoc Services
-   HostDime.com Inc ()
+Tech Name............ Liu Dongping
+  Tech Address......... Nanri Town
+  Tech Address.........
+  Tech Address......... Putian
+  Tech Address......... 351100
+  Tech Address......... FJ
+  Tech Address......... CN
+  Tech Email........... agent19172@agent.dns.com.cn
+  Tech Phone........... +86.5942333333
+  Tech Fax............. +86.5942333333
 
-   Fax:
-   189 South Orange Avenue
-   Suite 1500S
-   Orlando, FL 32801
-   US
-
-Administrative Contact:
-   HostDime.com DimeNoc Services
-   HostDime, Inc (webmaster@hostdime.com)
-   +1.4077561126
-   Fax: +1.4073866513
-   189 South Orange Ave
-   Suite 1500S
-   Orlando, FL 32801
-   US
-
-Technical Contact:
-   HostDime.com DimeNoc Services
-   HostDime, Inc (webmaster@hostdime.com)
-   +1.4077561126
-   Fax: +1.4073866513
-   189 South Orange Ave
-   Suite 1500S
-   Orlando, FL 32801
-   US
-
-Status: Locked
-
-Name Servers:
-   ns1.dimenoc.com
-   ns2.dimenoc.com
-
-Creation date: 27 Dec 2002 15:58:33
-Expiration date: 27 Dec 2014 20:58:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Bill Name............ Liu Dongping
+  Bill Address......... Nanri Town
+  Bill Address.........
+  Bill Address......... Putian
+  Bill Address......... 351100
+  Bill Address......... FJ
+  Bill Address......... CN
+  Bill Email........... agent19172@agent.dns.com.cn
+  Bill Phone........... +86.5942333333
+  Bill Fax............. +86.5942333333
+  Name Server.......... f1g1ns2.dnspod.net
+  Name Server.......... f1g1ns1.dnspod.net

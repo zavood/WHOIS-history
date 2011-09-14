@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106286267-LROR
+Domain Name:COLOHEADSTART.ORG
+Created On:10-May-2005 15:17:55 UTC
+Last Updated On:11-May-2011 16:12:07 UTC
+Expiration Date:10-May-2012 15:17:55 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31292682
+Registrant Name:Susan Flood
+Registrant Organization:Colorado Head Start Association
+Registrant Street1:12920 N Quivas Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Westminster
+Registrant State/Province:Colorado
+Registrant Postal Code:80234
+Registrant Country:US
+Registrant Phone:+1.3032889747
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:susantflood@comcast.net
+Admin ID:CR31292684
+Admin Name:Susan Flood
+Admin Organization:Colorado Head Start Association
+Admin Street1:12920 N Quivas Way
+Admin Street2:
+Admin Street3:
+Admin City:Westminster
+Admin State/Province:Colorado
+Admin Postal Code:80234
+Admin Country:US
+Admin Phone:+1.3032889747
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:susantflood@comcast.net
+Tech ID:CR31292683
+Tech Name:Lincoln Bauer
+Tech Organization:Colorado Head Start
+Tech Street1:12920 N Quivas Way
+Tech Street2:
+Tech Street3:
+Tech City:Westminster
+Tech State/Province:Colorado
+Tech Postal Code:80234
+Tech Country:US
+Tech Phone:+1.3032889747
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:susantflood@comcast.net
+Name Server:NS1.GREENGEEKS.COM
+Name Server:NS2.GREENGEEKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

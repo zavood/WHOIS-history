@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101505448-LROR
+Domain Name:MAYFIRST.ORG
+Created On:25-Sep-2003 18:44:27 UTC
+Last Updated On:07-Jul-2010 18:21:38 UTC
+Expiration Date:25-Sep-2012 18:44:27 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-4FPDSMK4ZL0F
+Registrant Name:Media Jumpstart Inc.
+Registrant Organization:aka May First/People Link
+Registrant Street1:PO Box 1804
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10159
+Registrant Country:US
+Registrant Phone:+1.7183033204
+Registrant Phone Ext.:
+Registrant FAX:+1.7187707699
+Registrant FAX Ext.:
+Registrant Email:domain@mayfirst.org
+Admin ID:DOT-MQUOQ0PNS06X
+Admin Name:Media Jumpstart Inc.
+Admin Organization:aka May First/People Link
+Admin Street1:PO Box 1804
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10159
+Admin Country:US
+Admin Phone:+1.7183033204
+Admin Phone Ext.:
+Admin FAX:+1.7187707699
+Admin FAX Ext.:
+Admin Email:domain@mayfirst.org
+Tech ID:DOT-8GHBK7Z2WQGZ
+Tech Name:Media Jumpstart Inc.
+Tech Organization:aka May First/People Link
+Tech Street1:PO Box 1804
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10159
+Tech Country:US
+Tech Phone:+1.7183033204
+Tech Phone Ext.:
+Tech FAX:+1.7187707699
+Tech FAX Ext.:
+Tech Email:domain@mayfirst.org
+Name Server:B.NS.MAYFIRST.ORG
+Name Server:A.NS.MAYFIRST.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

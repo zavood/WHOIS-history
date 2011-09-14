@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158951415-LROR
+Domain Name:FAIRHAVENRESIDENTS.ORG
+Created On:22-Apr-2010 12:55:43 UTC
+Last Updated On:22-Jun-2010 03:48:03 UTC
+Expiration Date:22-Apr-2012 12:55:43 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR46255079
+Registrant Name:Gilbert Pinkham
+Registrant Street1:7200 Third Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sykesville
+Registrant State/Province:Maryland
+Registrant Postal Code:21784
+Registrant Country:US
+Registrant Phone:+1.4107958800
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gilpink1@aol.com
+Admin ID:CR46255084
+Admin Name:Gilbert Pinkham
+Admin Street1:7200 Third Ave
+Admin Street2:
+Admin Street3:
+Admin City:Sykesville
+Admin State/Province:Maryland
+Admin Postal Code:21784
+Admin Country:US
+Admin Phone:+1.4107958800
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gilpink1@aol.com
+Tech ID:CR46255081
+Tech Name:Gilbert Pinkham
+Tech Street1:7200 Third Ave
+Tech Street2:
+Tech Street3:
+Tech City:Sykesville
+Tech State/Province:Maryland
+Tech Postal Code:21784
+Tech Country:US
+Tech Phone:+1.4107958800
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gilpink1@aol.com
+Name Server:NS47.DOMAINCONTROL.COM
+Name Server:NS48.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
