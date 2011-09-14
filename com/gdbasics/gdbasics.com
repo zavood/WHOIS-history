@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEB-HOST.NET
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS.WEB-HOST.NET
-   Name Server: NS2.WEB-HOST.NET
-   Status: ok
-   Updated Date: 10-jul-2011
-   Creation Date: 11-jul-1997
-   Expiration Date: 10-jul-2014
+   Domain Name: GDBASICS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.TEXTDRIVE.COM
+   Name Server: DNS2.TEXTDRIVE.COM
+   Name Server: DNS3.TEXTDRIVE.COM
+   Name Server: DNS4.TEXTDRIVE.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-jul-2011
+   Creation Date: 31-jul-2007
+   Expiration Date: 31-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:30:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,68 +53,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: FUTURE REALITY SOLUTIONS
-Contact: +1.9182302771
+=-=-=-=
 
-Domain Name: WEB-HOST.NET
 
-Registrant:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
-
-Creation Date: 11-Jul-1997
-Expiration Date: 10-Jul-2014
-
-Domain servers in listed order:
-    ns2.web-host.net
-    ns.web-host.net
-
+Domain name: gdbasics.com
 
 Administrative Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+   Princeton Architectural Press
+   Kevin Lippert (lippert@papress.com)
+   +1.2129959620
+   Fax: +1.2129959454
+   37 E. 7th St.
+   New York, NY 10003
+   US
 
 Technical Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+   Princeton Architectural Press
+   Kevin Lippert (lippert@papress.com)
+   +1.2129959620
+   Fax: +1.2129959454
+   37 E. 7th St.
+   New York, NY 10003
+   US
 
-Billing Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+Registrant Contact:
+   Princeton Architectural Press
+   Kevin Lippert ()
 
-Status:ACTIVE
+   Fax:
+   37 E. 7th St.
+   New York, NY 10003
+   US
 
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Status: Locked
 
+Name Servers:
+   dns1.textdrive.com
+   dns2.textdrive.com
+   dns3.textdrive.com
+   dns4.textdrive.com
+
+Creation date: 31 Jul 2007 16:09:42
+Expiration date: 31 Jul 2012 16:09:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

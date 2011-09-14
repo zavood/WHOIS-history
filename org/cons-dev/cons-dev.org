@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104555636-LROR
+Domain Name:CONS-DEV.ORG
+Created On:22-Jun-2004 11:10:07 UTC
+Last Updated On:08-Jun-2011 07:00:06 UTC
+Expiration Date:22-Jun-2012 11:10:07 UTC
+Sponsoring Registrar:Namebay (R54-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AS79683-NBAY
+Registrant Name:Michel LE BERRE
+Registrant Organization:Association CDD
+Registrant Street1:24 rue des remparts d'ainay
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lyon
+Registrant State/Province:
+Registrant Postal Code:fr-69002
+Registrant Country:FR
+Registrant Phone:+33.0478381846
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:namebay@infomaniak.ch
+Admin ID:AS79683-NBAY
+Admin Name:Michel LE BERRE
+Admin Organization:Association CDD
+Admin Street1:24 rue des remparts d'ainay
+Admin Street2:
+Admin Street3:
+Admin City:Lyon
+Admin State/Province:
+Admin Postal Code:fr-69002
+Admin Country:FR
+Admin Phone:+33.0478381846
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:namebay@infomaniak.ch
+Tech ID:IN53833-NBAY
+Tech Name:Fabian Lucchi
+Tech Organization:Infomaniak Network
+Tech Street1:Av. de la Praille 26
+Tech Street2:
+Tech Street3:
+Tech City:Carouge
+Tech State/Province:Geneva
+Tech Postal Code:1227
+Tech Country:CH
+Tech Phone:+41.228203541
+Tech Phone Ext.:
+Tech FAX:+41.228203546
+Tech FAX Ext.:
+Tech Email:namebay@infomaniak.ch
+Name Server:NS4.INFOMANIAK.CH
+Name Server:NS3.INFOMANIAK.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEB-HOST.NET
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS.WEB-HOST.NET
-   Name Server: NS2.WEB-HOST.NET
-   Status: ok
-   Updated Date: 10-jul-2011
-   Creation Date: 11-jul-1997
-   Expiration Date: 10-jul-2014
+   Domain Name: XPLANETE.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-nov-2010
+   Creation Date: 18-nov-2010
+   Expiration Date: 18-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:29:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,68 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: FUTURE REALITY SOLUTIONS
-Contact: +1.9182302771
-
-Domain Name: WEB-HOST.NET
+Domain Name: xplanete.com
+Registered at http://www.dynadot.com
 
 Registrant:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
-
-Creation Date: 11-Jul-1997
-Expiration Date: 10-Jul-2014
-
-Domain servers in listed order:
-    ns2.web-host.net
-    ns.web-host.net
-
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
 
 Administrative Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
+ibanez-death@hotmail.fr
++212 75660620
 
 Technical Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+Redouane Battai
+0282 m
+casablanca 20000
+Morocco
+ibanez-death@hotmail.fr
++212 75660620
 
-Billing Contact:
-    bcs
-    David Byte        (byte@web-host.net)
-    10732 S. Oswego Ave.
-    Tulsa
-    OK,74137
-    US
-    Tel. +1.9182302771
+Record expires on 2011/11/18 UTC
+Record created on 2010/11/18 UTC
 
-Status:ACTIVE
+Domain servers in listed order:
+ns1.dynadot.com
+ns2.dynadot.com
 
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/13 22:25:54 PST &lt;&lt;&lt;
 
