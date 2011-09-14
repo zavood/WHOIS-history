@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
+   Domain Name: OPENIDEALS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
+   Name Server: NS1.RIMUHOSTING.COM
+   Name Server: NS2.RIMUHOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-dec-2010
-   Creation Date: 18-dec-2009
-   Expiration Date: 18-dec-2011
+   Updated Date: 26-aug-2010
+   Creation Date: 18-apr-2006
+   Expiration Date: 18-apr-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:41:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:39:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   FC Online Marketing Inc
+   Open Network Television
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
+   Domain Name: OPENIDEALS.COM
 
    Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
+      NS1.RIMUHOSTING.COM
+      NS2.RIMUHOSTING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ILOVEKICKBOXINGOZONEPARK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=OPENIDEALS.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: BBTRADEKEY.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-dec-2010
-   Creation Date: 18-dec-2009
-   Expiration Date: 18-dec-2011
+   Updated Date: 24-may-2011
+   Creation Date: 19-jun-2009
+   Expiration Date: 19-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:41:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:40:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... bbtradekey.com
+  Creation Date........ 2009-06-19 14:39:34
+  Registration Date.... 2009-06-19 14:39:34
+  Expiry Date.......... 2012-06-19 14:39:34
+  Organisation Name.... Sergio
+  Organisation Address. 2380 Ambassador Dr
+  Organisation Address.
+  Organisation Address. 1902 n salina
+  Organisation Address. 778900
+  Organisation Address. WG
+  Organisation Address. US
 
+Admin Name........... Sergio
+  Admin Address........ 2380 Ambassador Dr
+  Admin Address........
+  Admin Address........ 1902 n salina
+  Admin Address........ 778900
+  Admin Address........ WG
+  Admin Address........ US
+  Admin Email.......... sergiosuarez@gmail.com
+  Admin Phone.......... +32.29952731824
+  Admin Fax............ +32.29952731824
 
-Registrant:
-   FC Online Marketing Inc
+Tech Name............ Sergio
+  Tech Address......... 2380 Ambassador Dr
+  Tech Address.........
+  Tech Address......... 1902 n salina
+  Tech Address......... 778900
+  Tech Address......... WG
+  Tech Address......... US
+  Tech Email........... sergiosuarez@gmail.com
+  Tech Phone........... +32.29952731824
+  Tech Fax............. +32.29952731824
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
-
-   Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ILOVEKICKBOXINGOZONEPARK.COM
+Bill Name............ Sergio
+  Bill Address......... 2380 Ambassador Dr
+  Bill Address.........
+  Bill Address......... 1902 n salina
+  Bill Address......... 778900
+  Bill Address......... WG
+  Bill Address......... US
+  Bill Email........... sergiosuarez@gmail.com
+  Bill Phone........... +32.29952731824
+  Bill Fax............. +32.29952731824
+  Name Server.......... f1g1ns2.dnspod.net
+  Name Server.......... f1g1ns1.dnspod.net

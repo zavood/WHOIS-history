@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS09.DOMAINCONTROL.COM
-   Name Server: NS10.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-dec-2010
-   Creation Date: 18-dec-2009
-   Expiration Date: 18-dec-2011
+   Domain Name: HILAAC.COM
+   Registrar: GO CHINA DOMAINS, INC.
+   Whois Server: whois.gochinadomains.com
+   Referral URL: http://www.gochinadomains.com
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   Status: ok
+   Updated Date: 26-aug-2011
+   Creation Date: 19-may-2011
+   Expiration Date: 19-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:41:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:40:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +73,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   FC Online Marketing Inc
+   Stanley Pace
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ILOVEKICKBOXINGOZONEPARK.COM
+   Domain Name: HILAAC.COM
 
    Domain servers in listed order:
-      NS09.DOMAINCONTROL.COM
-      NS10.DOMAINCONTROL.COM
+      NS1.ABOVE.COM
+      NS2.ABOVE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ILOVEKICKBOXINGOZONEPARK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HILAAC.COM
