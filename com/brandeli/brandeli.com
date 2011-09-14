@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STRAIGHTBECOMEGAY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-jan-2010
-   Creation Date: 08-jan-2010
-   Expiration Date: 08-jan-2013
+   Domain Name: BRANDELI.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NNS1.NISSEN.CO.JP
+   Name Server: NNS2.NISSEN.CO.JP
+   Status: ok
+   Updated Date: 09-mar-2011
+   Creation Date: 09-mar-2006
+   Expiration Date: 09-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:28:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:30:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle:
+Domain Name: brandeli.com
+Created On: 2006-03-10 09:47:58.0
+Last Updated On: 2011-03-10 00:22:28.0
+Expiration Date: 2012-03-10 00:47:57.0
+Status: ACTIVE
+Registrant Name: Yoshikazu Kato
+Registrant Organization: Nissen Co., Ltd
+Registrant Street1: Minami-ku, Kyoto, Kyoto
+Registrant Street2:
+Registrant City: 17Hainobori-Nakamachi,Kisshoin
+Registrant State: Kyoto
+Registrant Postal Code: 601-8353
+Registrant Country: JP
+Registrant Phone: 075-692-4517
+Registrant Fax:
+Registrant Email: DOMAINKANRI@nissen.co.jp
+Admin Name: Yoshikazu Kato
+Admin Organization: Nissen Co., Ltd
+Admin Street1: Minami-ku, Kyoto, Kyoto
+Admin Street2:
+Admin City: 17Hainobori-Nakamachi,Kisshoin
+Admin State: Kyoto
+Admin Postal Code: 601-8353
+Admin Country: JP
+Admin Phone: 075-692-4517
+Admin Fax:
+Admin Email: DOMAINKANRI@nissen.co.jp
+Billing Name: Yoshikazu Kato
+Billing Organization: Nissen Co., Ltd
+Billing Street1: Minami-ku, Kyoto, Kyoto
+Billing Street2:
+Billing City: 17Hainobori-Nakamachi,Kisshoin
+Billing State: Kyoto
+Billing Postal Code: 601-8353
+Billing Country: JP
+Billing Phone: 075-692-4517
+Billing Fax:
+Billing Email: DOMAINKANRI@nissen.co.jp
+Tech Name: Yoshikazu Kato
+Tech Organization: Nissen Holdings Co., Ltd.
+Tech Street1: 17 Hainobori-nakamachi,Kisshoin,Minami-ku
+Tech Street2:
+Tech City: Kyoto
+Tech State: Kyoto
+Tech Postal Code: 601-8381
+Tech Country: JP
+Tech Phone: 075-692-4500
+Tech Fax: 075-671-0085
+Tech Email: DOMAINKANRI@nissen.co.jp
+Name Server: nns1.nissen.co.jp
+Name Server: nns2.nissen.co.jp
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STRAIGHTBECOMEGAY.COM
-
-   Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STRAIGHTBECOMEGAY.COM

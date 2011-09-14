@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: THEKNOT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
+   Name Server: NS1.THEKNOT.COM
+   Name Server: NS2.THEKNOT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-jan-2010
-   Creation Date: 08-jan-2010
-   Expiration Date: 08-jan-2013
+   Updated Date: 02-sep-2008
+   Creation Date: 25-jun-1996
+   Expiration Date: 24-jun-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:28:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:30:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   The Knot Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: THEKNOT.COM
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
+      NS1.THEKNOT.COM
+      NS2.THEKNOT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STRAIGHTBECOMEGAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THEKNOT.COM

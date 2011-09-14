@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: TINNITUSMIRACLE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
+   Name Server: NS851.WEBSITEWELCOME.COM
+   Name Server: NS852.WEBSITEWELCOME.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-jan-2010
-   Creation Date: 08-jan-2010
-   Expiration Date: 08-jan-2013
+   Updated Date: 27-jun-2010
+   Creation Date: 17-sep-2008
+   Expiration Date: 17-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:28:34 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: TINNITUSMIRACLE.COM
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
+      NS851.WEBSITEWELCOME.COM
+      NS852.WEBSITEWELCOME.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STRAIGHTBECOMEGAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TINNITUSMIRACLE.COM

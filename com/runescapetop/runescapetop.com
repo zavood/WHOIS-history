@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: RUNESCAPETOP.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-jan-2010
-   Creation Date: 08-jan-2010
-   Expiration Date: 08-jan-2013
+   Updated Date: 01-sep-2011
+   Creation Date: 13-apr-2005
+   Expiration Date: 13-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:28:34 UTC &lt;&lt;&lt;
 
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: RUNESCAPETOP.COM
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STRAIGHTBECOMEGAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=RUNESCAPETOP.COM

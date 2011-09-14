@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: TWOFRIARSANDAFOOL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS05.DOMAINCONTROL.COM
-   Name Server: NS06.DOMAINCONTROL.COM
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-jan-2010
-   Creation Date: 08-jan-2010
-   Expiration Date: 08-jan-2013
+   Updated Date: 17-may-2011
+   Creation Date: 23-sep-2010
+   Expiration Date: 23-sep-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:28:34 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Nicolas Larson
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STRAIGHTBECOMEGAY.COM
+   Domain Name: TWOFRIARSANDAFOOL.COM
 
    Domain servers in listed order:
-      NS05.DOMAINCONTROL.COM
-      NS06.DOMAINCONTROL.COM
+      DNS1.STABLETRANSIT.COM
+      DNS2.STABLETRANSIT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STRAIGHTBECOMEGAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TWOFRIARSANDAFOOL.COM
