@@ -1,0 +1,26 @@
+[Domain]
+Domain: av.lv
+Status: active
+Changed: 2005-08-09T17:38:19+03:00
+
+[Holder]
+Type: Legal person
+Name: AV transports, SIA
+Email: avtransports@inbox.lv
+Fax: +371 7338522
+Phone: +371 9247599, +371 7333405
+Address: Elizabetes 29b-4, Riga, LV-1010, Latvia
+RegNr: 40003694959
+
+[Tech]
+Type: Natural person
+Email: avtransports@inbox.lv
+Fax: +371 7338522
+Phone: +371 9247599, +371 7333405
+
+[Nservers]
+Nserver: ns.av.lv
+Nserver: ns.nite.lv
+
+[Whois]
+Updated: 2011-09-14T05:12:26.548594+00:00
