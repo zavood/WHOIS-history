@@ -5,21 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTBUY.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 14-nov-1998
-   Expiration Date: 17-nov-2013
+   Domain Name: PROESOLUTIONS.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.6LOAD.COM
+   Name Server: NS2.6LOAD.COM
+   Status: ok
+   Updated Date: 02-mar-2011
+   Creation Date: 04-mar-2008
+   Expiration Date: 04-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:17:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:17:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Ben Richter
+   PROeSOLUTIONS Sdn. Bhd.
+   PETRONAS Twin Towers Level 40, Tower 2 2
+   Kuala Lumpur, 50088, MY
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  proesolutions.com
+   Unicode Name:   proesolutions.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Ben Richter
+      PROeSOLUTIONS Sdn. Bhd.
+      contact@proesolutions.com
+      PETRONAS Twin Towers Level 40, Tower 2 2
+      Kuala Lumpur, 50088, MY
+      phone: +60.321684442
 
-Whois Query: directbuy.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:07:00 EDT 2011
-Reason Code: IE
+   Technical Contact
+      Ben Richter
+      PROeSOLUTIONS Sdn. Bhd.
+      contact@proesolutions.com
+      PETRONAS Twin Towers Level 40, Tower 2 2
+      Kuala Lumpur, 50088, MY
+      phone: +60.321684442
+
+   Zone Contact
+      Ben Richter
+      PROeSOLUTIONS Sdn. Bhd.
+      contact@proesolutions.com
+      PETRONAS Twin Towers Level 40, Tower 2 2
+      Kuala Lumpur, 50088, MY
+      phone: +60.321684442
+
+   Record expires on: 2012-03-04 00:00:00
+
+   Domain servers in listed order:
+
+      ns2.6load.com 89.200.169.10
+      ns1.6load.com 89.200.168.66
+
+
+

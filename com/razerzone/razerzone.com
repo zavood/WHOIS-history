@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTBUY.COM
+   Domain Name: RAZERZONE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NS0.RAZERZONE.COM
+   Name Server: NS1.RAZERZONE.COM
+   Name Server: NS2.RAZERZONE.COM
+   Name Server: NS3.RAZERZONE.COM
+   Name Server: NS4.RAZERZONE.COM
+   Name Server: NS5.RAZERZONE.COM
    Status: clientTransferProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 14-nov-1998
-   Expiration Date: 17-nov-2013
+   Updated Date: 18-aug-2011
+   Creation Date: 15-apr-1999
+   Expiration Date: 15-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:17:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:17:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +71,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: directbuy.com
+Whois Query: razerzone.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:07:00 EDT 2011
+Date and Time of Query: Wed Sep 14 11:08:29 EDT 2011
 Reason Code: IE
