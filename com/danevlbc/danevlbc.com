@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ASK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-ASK.COM
+   Domain Name: DANEVLBC.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.KRAXNET.CZ
+   Name Server: NS.SERVER4YOU.CZ
+   Status: clientTransferProhibited
+   Updated Date: 02-sep-2011
+   Creation Date: 19-sep-2002
+   Expiration Date: 19-sep-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:20:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:21:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       danevlbc.com
+owner:        Eva Novakova
+email:        novak.vica@email.cz
+address:      Rozdvojena 118
+city:         Simonovice
+postal-code:  463 12
+country:      CZ
+phone:        +420.608528647
+admin-c:      CCOM-43471 domeny@xnet.cz
+tech-c:       CCOM-43471 domeny@xnet.cz
+billing-c:    CCOM-43471 domeny@xnet.cz
+reseller:     Registrovano prostrednictvim
+reseller:     spolecnosti KRAXNET s.r.o.
+reseller:     Veskere zmeny v domene provadejte
+reseller:     pouze na http://www.xnet.cz
+nserver:      ns.kraxnet.cz
+nserver:      ns.server4you.cz
+status:       lock
+created:      2002-09-19 15:39:13 UTC
+modified:     2011-09-02 07:05:39 UTC
+expires:      2012-09-19 13:39:09 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-43471
+person:       n/a
+organization: KRAXNET s.r.o.
+email:        domeny@xnet.cz
+address:      Kamenicka 26
+city:         Praha 7
+postal-code:  170 00
+country:      CZ
+phone:        +420.220199201
+
+source:       joker.com live whois service
+query-time:   0.010017
+db-updated:   2011-09-14 08:21:50
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KINGTATT.COM
+   Domain Name: JAKISHOP.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS.BIZSITESERVICE.COM
-   Name Server: DNS2.BIZSITESERVICE.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 13-nov-2009
-   Creation Date: 23-nov-2007
-   Expiration Date: 23-nov-2011
+   Updated Date: 02-may-2011
+   Creation Date: 01-may-2011
+   Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:21:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:21:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about kingtatt.com
-&lt;a href=&quot;http://www.aboutus.org/kingtatt.com&quot;&gt;AboutUs: kingtatt.com&lt;/a&gt;
+Visit AboutUs.org for more information about jakishop.com
+&lt;a href=&quot;http://www.aboutus.org/jakishop.com&quot;&gt;AboutUs: jakishop.com&lt;/a&gt;
 
 
-Domain name: kingtatt.com
-
-Registrant Contact:
-   King Tatt
-   Doug King ()
-
-   Fax:
-   1869 Scugog Road
-   Port Perry, Ontario L9L1J1
-   CA
+Domain name: jakishop.com
 
 Administrative Contact:
-   King Tatt
-   Doug King (kingtat@bellnet.ca)
-   +1.9059859444
-   Fax:
-   1869 Scugog Road
-   Port Perry, Ontario L9L1J1
-   CA
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (nxsldmsg@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O jakishop.com
+   Bellevue, WA 98007
+   US
 
 Technical Contact:
-   Catalyst Plus, Inc.
-   Stephan Schmidt (support@edirecthost.com)
-   +1.8005574903
-   Fax: +1.8005574903
-   415 County Rd. 8
-   Farmington, NY 14425
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (nxsldmsg@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O jakishop.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O jakishop.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   dns.bizsiteservice.com
-   dns2.bizsiteservice.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 23 Nov 2007 16:47:22
-Expiration date: 23 Nov 2011 16:47:00
+Creation date: 02 May 2011 13:01:00
+Expiration date: 01 May 2012 11:07:00
 
 
 

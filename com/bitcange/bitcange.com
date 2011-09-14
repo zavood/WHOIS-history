@@ -5,12 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ASK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-ASK.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: BITCANGE.COM
+   Registrar: A TECHNOLOGY COMPANY, INC.
+   Whois Server: whois.namesystem.com
+   Referral URL: http://www.NameSystem.com
+   Name Server: NS1.MEGANAMESERVERS.COM
+   Name Server: NS2.MEGANAMESERVERS.COM
+   Name Server: NS3.MEGANAMESERVERS.COM
+   Status: ok
+   Updated Date: 09-oct-2010
+   Creation Date: 08-oct-2003
+   Expiration Date: 08-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:20:57 UTC &lt;&lt;&lt;
 
@@ -47,3 +52,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in the NameSystem
+WHOIS database is provided by NameSystem
+for information purposes, and to assist persons in obtaining information about or
+related to a domain name registration record.
+NameSystem does not guarantee its accuracy.  By submitting a WHOIS query, you agree that
+you will use this Data only for lawful purposes and that, under no circumstances will you use this
+Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic
+processes that apply to  NameSystem( or its systems).
+
+NameSystem reserves the right to modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Domain Name: bitcange.com
+Registrar: NameSystem
+
+Creation Date: 2003-10-07 00:00:00.0
+Expiration Date: 2013-10-07 00:00:00.0
+
+registrant contact data
+*********  ******* ****
+Yanguang Yuan
+BitCan Geosciences &amp; Engineering Inc.
+24 Edgeford Way, N.W.
+
+Calgary, AB, T3A 2T1
+CA
+Phone: +01.4032080772
+Fax: +01.4032085521
+EmailAddress: yuany@telus.net
+
+admin contact data
+*********  ******* ****
+Yanguang Yuan
+BitCan Geosciences &amp; Engineering Inc.
+24 Edgeford Way, N.W.
+
+Calgary, AB, T3A 2T1
+CA
+Phone: +01.4032080772
+Fax: +01.4032085521
+EmailAddress: yuany@telus.net
+
+tech contact data
+*********  ******* ****
+Yanguang Yuan
+BitCan Geosciences &amp; Engineering Inc.
+24 Edgeford Way, N.W.
+
+Calgary, AB, T3A 2T1
+CA
+Phone: +01.4032080772
+Fax: +01.4032085521
+EmailAddress: yuany@telus.net
+
+billing contact data
+*********  ******* ****
+Yanguang Yuan
+BitCan Geosciences &amp; Engineering Inc.
+24 Edgeford Way, N.W.
+
+Calgary, AB, T3A 2T1
+CA
+Phone: +01.4032080772
+Fax: +01.4032085521
+EmailAddress: yuany@telus.net
+
+Nameservers:
+
+ns1.namesystem.com
+ns2.namesystem.com
+

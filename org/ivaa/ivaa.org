@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5096205-LROR
+Domain Name:IVAA.ORG
+Created On:19-Feb-1999 05:00:00 UTC
+Last Updated On:20-Feb-2011 10:29:57 UTC
+Expiration Date:19-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30464073
+Registrant Name:Jeannine Clontz
+Registrant Organization:IVAA
+Registrant Street1:375 N. Stephanie
+Registrant Street2:Suite 1411
+Registrant Street3:
+Registrant City:Henderson
+Registrant State/Province:Nevada
+Registrant Postal Code:89014
+Registrant Country:US
+Registrant Phone:+1.8774402750
+Registrant Phone Ext.:
+Registrant FAX:+1.8882592847
+Registrant FAX Ext.:
+Registrant Email:president@ivaa.org
+Admin ID:CR30464078
+Admin Name:Jeannine Clontz
+Admin Organization:IVAA
+Admin Street1:375 N. Stephanie
+Admin Street2:Suite 1411
+Admin Street3:
+Admin City:Henderson
+Admin State/Province:Nevada
+Admin Postal Code:89014
+Admin Country:US
+Admin Phone:+1.8774402750
+Admin Phone Ext.:
+Admin FAX:+1.8882592847
+Admin FAX Ext.:
+Admin Email:president@ivaa.org
+Tech ID:CR30464075
+Tech Name:Jeannine Clontz
+Tech Organization:IVAA
+Tech Street1:375 N. Stephanie
+Tech Street2:Suite 1411
+Tech Street3:
+Tech City:Henderson
+Tech State/Province:Nevada
+Tech Postal Code:89014
+Tech Country:US
+Tech Phone:+1.8774402750
+Tech Phone Ext.:
+Tech FAX:+1.8882592847
+Tech FAX Ext.:
+Tech Email:president@ivaa.org
+Name Server:NS1.VAEDUCATION.ORG
+Name Server:NS2.VAEDUCATION.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

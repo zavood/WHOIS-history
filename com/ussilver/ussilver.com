@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KINGTATT.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS.BIZSITESERVICE.COM
-   Name Server: DNS2.BIZSITESERVICE.COM
-   Status: clientTransferProhibited
-   Updated Date: 13-nov-2009
-   Creation Date: 23-nov-2007
-   Expiration Date: 23-nov-2011
+   Domain Name: USSILVER.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.AFFINITY.COM
+   Name Server: NS2.AFFINITY.COM
+   Status: ok
+   Updated Date: 11-nov-2007
+   Creation Date: 30-jul-1998
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:21:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:22:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about kingtatt.com
-&lt;a href=&quot;http://www.aboutus.org/kingtatt.com&quot;&gt;AboutUs: kingtatt.com&lt;/a&gt;
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-Domain name: kingtatt.com
+Domain name: ussilver.com
 
 Registrant Contact:
-   King Tatt
-   Doug King ()
-
-   Fax:
-   1869 Scugog Road
-   Port Perry, Ontario L9L1J1
-   CA
+      Us    Silver Inc
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Suite 6-B
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      6d2adad62fdd136a@private-contact.com
 
 Administrative Contact:
-   King Tatt
-   Doug King (kingtat@bellnet.ca)
-   +1.9059859444
-   Fax:
-   1869 Scugog Road
-   Port Perry, Ontario L9L1J1
-   CA
+      Us    Silver Inc
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Suite 6-B
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      s1ye4a6k58ridcws@private-contact.com
 
 Technical Contact:
-   Catalyst Plus, Inc.
-   Stephan Schmidt (support@edirecthost.com)
-   +1.8005574903
-   Fax: +1.8005574903
-   415 County Rd. 8
-   Farmington, NY 14425
-   US
+      Us    Silver Inc
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Suite 6-B
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      y4g41qwkljb9cy4r@private-contact.com
 
-Status: Locked
-
-Name Servers:
-   dns.bizsiteservice.com
-   dns2.bizsiteservice.com
-
-Creation date: 23 Nov 2007 16:47:22
-Expiration date: 23 Nov 2011 16:47:00
+Update date: 2007-11-14
+Expiration date: 2012-07-29
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -114,4 +111,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
