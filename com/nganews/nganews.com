@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NICANOR.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NICANOR.NET
-   Name Server: NS2.NICANOR.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: NGANEWS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.RIVERVALLEYIT.COM
+   Name Server: NS2.RIVERVALLEYIT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-1999
-   Expiration Date: 29-jun-2012
+   Updated Date: 09-jan-2011
+   Creation Date: 11-jan-2001
+   Expiration Date: 11-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:41:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:40:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... nganews.com
+  Creation Date........ 2001-01-12
+  Registration Date.... 2001-01-12
+  Expiry Date.......... 2012-01-12
+  Organisation Name.... North Georgia News
+  Organisation Address. P.O. 2029
+  Organisation Address.
+  Organisation Address. Blairsvile
+  Organisation Address. 30514
+  Organisation Address. GA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Sherry Bell Dukes
+  Admin Address........ P.O. 327
+  Admin Address........
+  Admin Address........ Marble
+  Admin Address........ 28905
+  Admin Address........ NC
+  Admin Address........ UNITED STATES
+  Admin Email.......... publishers@blueridgehighlander.com
+  Admin Phone.......... 828-835-9982
+  Admin Fax............
+
+Tech Name............ Sherry Bell Dukes
+  Tech Address......... P.O. 327
+  Tech Address.........
+  Tech Address......... Marble
+  Tech Address......... 28905
+  Tech Address......... NC
+  Tech Address......... UNITED STATES
+  Tech Email........... publishers@blueridgehighlander.com
+  Tech Phone........... 828-835-9982
+  Tech Fax.............
+  Name Server.......... ns1.rivervalleyit.com
+  Name Server.......... ns2.rivervalleyit.com
 
 
-Registrant:
-   Nicanor Cantu
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NICANOR.NET
-
-   Domain servers in listed order:
-      NS2.NICANOR.NET
-      NS1.NICANOR.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NICANOR.NET

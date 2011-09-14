@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NICANOR.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NICANOR.NET
-   Name Server: NS2.NICANOR.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DLMONTE.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DLMONTE.COM
+   Name Server: NS2.DLMONTE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-1999
-   Expiration Date: 29-jun-2012
+   Updated Date: 29-jul-2011
+   Creation Date: 05-aug-2007
+   Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:41:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:39:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+Domain Name: dlmonte.com
+Registered at http://www.dynadot.com
 
 Registrant:
-   Nicanor Cantu
+Limonte International
+Limonte
+1388 64th St
+Berkeley, Califonia 94704-2876
+United States
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NICANOR.NET
+Administrative Contact:
+Limonte International
+Limonte
+1388 64th St
+Berkeley, Califonia 94704-2876
+United States
+limonte1@gmail.com
++408 63361788
 
-   Domain servers in listed order:
-      NS2.NICANOR.NET
-      NS1.NICANOR.NET
+Technical Contact:
+Limonte International
+Limonte
+1388 64th St
+Berkeley, Califonia 94704-2876
+United States
+limonte1@gmail.com
++408 63361788
+
+Record expires on 2012/08/05 UTC
+Record created on 2007/08/05 UTC
+
+Domain servers in listed order:
+ns1.dlmonte.com
+ns2.dlmonte.com
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NICANOR.NET
+&gt;&gt;&gt; Last update of whois database: 2011/09/13 20:35:54 PST &lt;&lt;&lt;
+

@@ -1,0 +1,79 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         hadi.at
+registrant:     HMG1625963-NICAT
+admin-c:        GG1625965-NICAT
+tech-c:         LF704038-NICAT
+nserver:        ns1.domaintechnik.at
+remarks:        213.145.228.70
+nserver:        ns2.domaintechnik.at
+remarks:        213.145.228.140
+nserver:        ns3.domaintechnik.at
+remarks:        213.145.232.70
+nserver:        ns4.domaintechnik.at
+remarks:        80.231.225.26
+changed:        20040706 09:17:18
+source:         AT-DOM
+
+personname:
+organization:   HADI Maschinenbau GmbH
+street address: Ardaggerstrasse 96
+postal code:    A-3300
+city:           Amstetten, Niederoesterreich
+country:        Austria
+phone:          +43747262708
+fax-no:         +437472627086
+e-mail:         office@hadi.at
+nic-hdl:        HMG1625963-NICAT
+changed:        20050906 18:02:00
+source:         AT-DOM
+
+personname:     Gerhard Grafeneder
+organization:
+street address: Ardaggerstrasse 96
+street address: A-3300 Amstetten
+street address: Austria
+postal code:
+city:
+country:
+phone:          +43 7472 62708
+fax-no:         +43 7472 62706
+e-mail:         office@hadi.at
+nic-hdl:        GG1625965-NICAT
+changed:        20050906 18:02:00
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   Ledl.net GmbH, Domaintechnik.at
+street address: Lederergasse 6
+postal code:    5204
+city:           Strasswalchen
+country:        Austria
+phone:          +43621520888
+fax-no:         +43621520889
+e-mail:         domainadmin@domaintechnik.at
+nic-hdl:        LF704038-NICAT
+changed:        20110330 16:43:03
+source:         AT-DOM
+

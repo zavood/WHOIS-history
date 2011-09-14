@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NICANOR.NET
+   Domain Name: STRALEM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NICANOR.NET
-   Name Server: NS2.NICANOR.NET
+   Name Server: NS1.HUMBLEMONKEY.COM
+   Name Server: NS2.HUMBLEMONKEY.COM
+   Name Server: NS3.HUMBLEMONKEY.COM
+   Name Server: NS4.HUMBLEMONKEY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-jun-2011
-   Creation Date: 29-jun-1999
-   Expiration Date: 29-jun-2012
+   Updated Date: 24-may-2010
+   Creation Date: 14-jul-1999
+   Expiration Date: 14-jul-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:41:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:39:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Nicanor Cantu
+   Stralem &amp; Company, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NICANOR.NET
+   Domain Name: STRALEM.COM
 
    Domain servers in listed order:
-      NS2.NICANOR.NET
-      NS1.NICANOR.NET
+      NS1.HUMBLEMONKEY.COM
+      NS2.HUMBLEMONKEY.COM
+      NS3.HUMBLEMONKEY.COM
+      NS4.HUMBLEMONKEY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NICANOR.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=STRALEM.COM
