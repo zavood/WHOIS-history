@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LAKESIDE.COM
+   Domain Name: PFCHANGS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS2.PFCHANGS.COM
+   Name Server: NS3.VERICENTER.COM
+   Name Server: NS4.VERICENTER.COM
+   Name Server: NS5.VERICENTER.COM
+   Name Server: NS6.VERICENTER.COM
    Status: clientTransferProhibited
-   Updated Date: 03-oct-2008
-   Creation Date: 28-nov-1997
-   Expiration Date: 27-nov-2011
+   Updated Date: 01-apr-2011
+   Creation Date: 10-apr-1997
+   Expiration Date: 11-apr-2020
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:59:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:58:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +77,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about LAKESIDE.COM
-&lt;a href=&quot;http://www.aboutus.org/LAKESIDE.COM&quot;&gt;AboutUs: LAKESIDE.COM &lt;/a&gt;
+Visit AboutUs.org for more information about PFCHANGS.COM
+&lt;a href=&quot;http://www.aboutus.org/PFCHANGS.COM&quot;&gt;AboutUs: PFCHANGS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-The Lakeside Collection
-   2800 Lakeside Dr.
-   Bannockburn, IL 60015
+P.F. Chang's China Bistro, Inc.
+   7676 E. Pinnacle Peak Rd.
+   Scottsdale, AZ 85255
    US
 
-   Domain Name: LAKESIDE.COM
+   Domain Name: PFCHANGS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +98,23 @@ The Lakeside Collection
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Lew		webmaster@LAKESIDE.COM
-      Lew Leibowitz
-      The Lakeside Collection
-      2800 Lakeside Dr.
-      Bannockburn, IL 60015
+      P.F. Chang's China Bistro, Inc.		john.guderian@pfcb.com
+      7676 E. Pinnacle Peak Rd.
+      Scottsdale, AZ 85255
       US
-      999 999 9999 fax: 999 999 9999
+      480-888-3000 fax: 480-888-3001
 
 
-   Record expires on 27-Nov-2011.
-   Record created on 28-Nov-1997.
-   Database last updated on 14-Sep-2011 00:49:21 EDT.
+   Record expires on 11-Apr-2020.
+   Record created on 10-Apr-1997.
+   Database last updated on 14-Sep-2011 00:48:19 EDT.
 
    Domain servers in listed order:
 
-   UDNS1.ULTRADNS.NET
-   UDNS2.ULTRADNS.NET
+   NS2.PFCHANGS.COM             65.163.95.29
+   NS3.VERICENTER.COM           63.97.1.22
+   NS4.VERICENTER.COM           205.247.218.251
+   NS5.VERICENTER.COM           65.163.244.251
+   NS6.VERICENTER.COM           65.168.254.251
 
 
