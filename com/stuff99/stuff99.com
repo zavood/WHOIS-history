@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REFLEXIONESCATOLICAS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS891.WEBSITEWELCOME.COM
-   Name Server: NS892.WEBSITEWELCOME.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: STUFF99.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-oct-2010
-   Creation Date: 22-oct-2007
-   Expiration Date: 22-oct-2011
+   Updated Date: 14-jul-2011
+   Creation Date: 15-jul-2009
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:18:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:18:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about stuff99.com
+&lt;a href=&quot;http://www.aboutus.org/stuff99.com&quot;&gt;AboutUs: stuff99.com&lt;/a&gt;
 
 
-Registrant:
-   Jose Francisco Ramos Gomez
+Domain name: stuff99.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REFLEXIONESCATOLICAS.COM
+Registrant Contact:
+   Stuff99.com
+   Gurinder Shahi ()
 
-   Domain servers in listed order:
-      NS891.WEBSITEWELCOME.COM
-      NS892.WEBSITEWELCOME.COM
+   Fax:
+   4433 Young Drive
+   Montrose, Ca 91020
+   US
+
+Administrative Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.1
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, Domain Privacy Domain Privacy
+   DO
+
+Technical Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.1
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, Domain Privacy Domain Privacy
+   DO
+
+Status: Locked
+
+Name Servers:
+   ns1.pipedns.com
+   ns2.pipedns.com
+   ns3.pipedns.com
+
+Creation date: 15 Jul 2009 17:59:00
+Expiration date: 15 Jul 2012 17:59:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=REFLEXIONESCATOLICAS.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

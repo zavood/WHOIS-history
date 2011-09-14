@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1517563-LROR
+Domain Name:HIBBING.ORG
+Created On:10-Feb-1998 05:00:00 UTC
+Last Updated On:27-Mar-2009 04:19:57 UTC
+Expiration Date:09-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25884428-NSI
+Registrant Name:Hibbing Chamber Of Commerce
+Registrant Organization:Hibbing Chamber Of Commerce
+Registrant Street1:211 East Howard
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hibbing
+Registrant State/Province:MN
+Registrant Postal Code:55746
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@DULUTH.COM
+Admin ID:15809878-NSI
+Admin Name:Murphy McGinnis Interacitve
+Admin Organization:Murphy McGinnis Interacitve
+Admin Street1:223 W MICHIGAN ST
+Admin Street2:
+Admin Street3:
+Admin City:DULUTH
+Admin State/Province:MN
+Admin Postal Code:55802-1912
+Admin Country:US
+Admin Phone:+1.2187225000
+Admin Phone Ext.:
+Admin FAX:+1.2187330130
+Admin FAX Ext.:
+Admin Email:domains@DULUTH.COM
+Tech ID:25884528-NSI
+Tech Name:Murphy McGinnis Interactive
+Tech Organization:Murphy McGinnis Interactive
+Tech Street1:230 W. Superior St., Suite 600
+Tech Street2:
+Tech Street3:
+Tech City:Duluth
+Tech State/Province:MN
+Tech Postal Code:55802
+Tech Country:US
+Tech Phone:+1.2187403939
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contact@10foldsolutions.com
+Name Server:DNS1.M6.NET
+Name Server:DNS2.M6.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

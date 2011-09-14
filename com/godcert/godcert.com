@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REFLEXIONESCATOLICAS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS891.WEBSITEWELCOME.COM
-   Name Server: NS892.WEBSITEWELCOME.COM
+   Domain Name: GODCERT.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS57.1AND1.COM
+   Name Server: NS58.1AND1.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 23-oct-2010
-   Creation Date: 22-oct-2007
-   Expiration Date: 22-oct-2011
+   Updated Date: 05-may-2011
+   Creation Date: 01-jun-2007
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:18:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:20:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
+
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name:	godcert.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Registrant:
-   Jose Francisco Ramos Gomez
+Registrant Contact
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: REFLEXIONESCATOLICAS.COM
+Name:		ND2K    Domains
+Address:	PO Box 184
+		Mohrsville, PA  19541
+		US
 
-   Domain servers in listed order:
-      NS891.WEBSITEWELCOME.COM
-      NS892.WEBSITEWELCOME.COM
+Email Address:	domains@nd2k.com
+Phone Number:	(610)223-7787
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=REFLEXIONESCATOLICAS.COM
+Administrative Contact
+
+Name:		ND2K    Domains
+Address:	PO Box 184
+		Mohrsville, PA  19541
+		US
+
+Email Address:	domains@nd2k.com
+Phone Number:	(610)223-7787
+
+
+Technical Contact
+
+Name:		ND2K    Domains
+Address:	PO Box 184
+		Mohrsville, PA  19541
+		US
+
+Email Address:	domains@nd2k.com
+Phone Number:	(610)223-7787
+
+
+Record Created on........ 2007-06-01 12:12:46.700
+Record last updated on... 2011-05-05 10:17:28.715
+Expire on................ 2012-06-01 10:17:27.904
+
+Domain Nameservers in listed order:
+
+	ns57.1and1.com
+ 	ns58.1and1.com
+
