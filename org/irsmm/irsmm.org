@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153397132-LROR
+Domain Name:IRSMM.ORG
+Created On:19-Jul-2008 16:46:17 UTC
+Last Updated On:08-Jul-2011 10:35:21 UTC
+Expiration Date:19-Jul-2012 16:46:17 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-98208
+Registrant Name:Ihsan Malik
+Registrant Organization:Institute for Research and Studies of Muslim Minorities
+Registrant Street1:G-11
+Registrant Street2:
+Registrant Street3:
+Registrant City:Islamabad
+Registrant State/Province:NA
+Registrant Postal Code:44000
+Registrant Country:PK
+Registrant Phone:+9.2512575401
+Registrant Phone Ext.:
+Registrant FAX:+9.2512830611
+Registrant FAX Ext.:
+Registrant Email:info@irsmm.org
+Admin ID:NF-ADMIN-98208
+Admin Name:Ihsan Malik
+Admin Organization:Institute for Research and Studies of Muslim Minorities
+Admin Street1:G-11
+Admin Street2:
+Admin Street3:
+Admin City:Islamabad
+Admin State/Province:NA
+Admin Postal Code:44000
+Admin Country:PK
+Admin Phone:+9.2512575401
+Admin Phone Ext.:
+Admin FAX:+9.2512830611
+Admin FAX Ext.:
+Admin Email:info@irsmm.org
+Tech ID:NF-TECH-98208
+Tech Name:Ihsan Malik
+Tech Organization:Institute for Research and Studies of Muslim Minorities
+Tech Street1:G-11
+Tech Street2:
+Tech Street3:
+Tech City:Islamabad
+Tech State/Province:NA
+Tech Postal Code:44000
+Tech Country:PK
+Tech Phone:+9.2512575401
+Tech Phone Ext.:
+Tech FAX:+9.2512830611
+Tech FAX Ext.:
+Tech Email:info@irsmm.org
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:NS3.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

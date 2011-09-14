@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131156820-LROR
+Domain Name:IASNR.ORG
+Created On:20-Oct-2006 16:49:03 UTC
+Last Updated On:05-Dec-2009 17:42:04 UTC
+Expiration Date:20-Oct-2016 16:49:03 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32487674
+Registrant Name:Douglas Jackson-Smith
+Registrant Organization:International Association for Society and Natural Resources
+Registrant Street1:0730 Old Main
+Registrant Street2:Dept of SSW&amp;A
+Registrant Street3:
+Registrant City:Logan
+Registrant State/Province:Utah
+Registrant Postal Code:84322-0730
+Registrant Country:US
+Registrant Phone:+1.4357970582
+Registrant Phone Ext.:
+Registrant FAX:+1.4357971240
+Registrant FAX Ext.:
+Registrant Email:douglasj@hass.usu.edu
+Admin ID:CR32487676
+Admin Name:Douglas Jackson-Smith
+Admin Organization:International Association for Society and Natural Resources
+Admin Street1:0730 Old Main
+Admin Street2:Dept of SSW&amp;A
+Admin Street3:
+Admin City:Logan
+Admin State/Province:Utah
+Admin Postal Code:84322-0730
+Admin Country:US
+Admin Phone:+1.4357970582
+Admin Phone Ext.:
+Admin FAX:+1.4357971240
+Admin FAX Ext.:
+Admin Email:douglasj@hass.usu.edu
+Tech ID:CR32487675
+Tech Name:Douglas Jackson-Smith
+Tech Organization:International Association for Society and Natural Resources
+Tech Street1:0730 Old Main
+Tech Street2:Dept of SSW&amp;A
+Tech Street3:
+Tech City:Logan
+Tech State/Province:Utah
+Tech Postal Code:84322-0730
+Tech Country:US
+Tech Phone:+1.4357970582
+Tech Phone Ext.:
+Tech FAX:+1.4357971240
+Tech FAX Ext.:
+Tech Email:douglasj@hass.usu.edu
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

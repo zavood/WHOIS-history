@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: IOBNET.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.AXS-FR.NET
+   Name Server: NS2.AXS-FR.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 03-feb-2011
+   Creation Date: 03-feb-2004
+   Expiration Date: 03-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
 
@@ -51,49 +53,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Owner Contact:
-   Sattar Alshibawi
+Registrant:
+   IOBNET
+   4 Boulevard Diderot
+   LUNEL, FRANCE  34400
+   FR
 
-   Emerson ave 8
-   Leamington, 58649, DE
+   Registrar: DOTREGISTRAR
+   Domain Name: IOBNET.COM
+      Created on: 03-FEB-04
+      Expires on: 03-FEB-12
+      Last Updated on: 03-FEB-11
 
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
+   Administrative Contact:
+      OLIVIER IOBNET, KAESS  admin@oxianet.com
+      BP 205
+      LUNEL, France  34400
+      FR
+      +33.467910279
+      +33.467836067
 
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
+   Technical Contact:
+      OLIVIER IOBNET, KAESS  direcgion@iobnet.com
+      BP 205
+      LUNEL, France  34400
+      FR
+      +33.467910279
+      +33.467836067
 
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
 
    Domain servers in listed order:
+      NS1.AXS-FR.NET
+      NS2.AXS-FR.NET
 
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
-
-
-
+End of Whois Information

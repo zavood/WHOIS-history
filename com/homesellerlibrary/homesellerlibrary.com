@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: HOMESELLERLIBRARY.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.NETFIRMS.COM
+   Name Server: NS2.NETFIRMS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 18-jun-2011
+   Creation Date: 03-jul-2010
+   Expiration Date: 03-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:40:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
-
-Database contains ONLY .COM, .NET, .TV, .CC domains.
-
-Owner Contact:
-   Sattar Alshibawi
-
-   Emerson ave 8
-   Leamington, 58649, DE
-
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
-
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
-
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
-
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
-
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

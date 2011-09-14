@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101302292-LROR
+Domain Name:INDIANANIHONJINKAI.ORG
+Created On:03-Sep-2003 01:50:06 UTC
+Last Updated On:06-Jul-2010 14:53:46 UTC
+Expiration Date:03-Sep-2014 01:50:06 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR27752014
+Registrant Name:Atsu Tatsuki
+Registrant Organization:A2Noir, Inc.
+Registrant Street1:3175 N. Daniels Ct.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Arlington Heights
+Registrant State/Province:Illinois
+Registrant Postal Code:60004
+Registrant Country:US
+Registrant Phone:+01.8474775000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:a2noir@gmail.com
+Admin ID:CR27752040
+Admin Name:Atsu Tatsuki
+Admin Organization:A2Noir, Inc.
+Admin Street1:3175 N. Daniels Ct.
+Admin Street2:
+Admin Street3:
+Admin City:Arlington Heights
+Admin State/Province:Illinois
+Admin Postal Code:60004
+Admin Country:US
+Admin Phone:+01.8474775000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:a2noir@gmail.com
+Tech ID:CR27752034
+Tech Name:Atsu Tatsuki
+Tech Organization:A2Noir, Inc.
+Tech Street1:3175 N. Daniels Ct.
+Tech Street2:
+Tech Street3:
+Tech City:Arlington Heights
+Tech State/Province:Illinois
+Tech Postal Code:60004
+Tech Country:US
+Tech Phone:+01.8474775000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:a2noir@gmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

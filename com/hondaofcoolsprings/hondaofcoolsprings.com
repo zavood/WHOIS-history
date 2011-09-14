@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: HONDAOFCOOLSPRINGS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.BINC.NET
+   Name Server: NS2.BINC.NET
+   Status: clientTransferProhibited
+   Updated Date: 08-jul-2011
+   Creation Date: 10-sep-2004
+   Expiration Date: 10-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:40:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
+=-=-=-=
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-Owner Contact:
-   Sattar Alshibawi
+Domain name: hondaofcoolsprings.com
 
-   Emerson ave 8
-   Leamington, 58649, DE
+Registrant Contact:
+   Honda of Cool Springs
+   James Osbourne ()
 
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
+   Fax:
+   1096 W. McEwen Dr
+   Franklin, TN 37067
+   US
 
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
+Administrative Contact:
+   Honda of Cool Springs
+   James Osbourne (info@hondaofcoolsprings.com)
+   +1.6153769300
+   Fax:
+   1096 W. McEwen Dr
+   Franklin, TN 37067
+   US
 
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
+Technical Contact:
+   PowerSports Network
+   Host Master (hostmaster@powersportsnetwork.com)
+   +1.8005560314
+   Fax: +1.2622467930
+   N56 W24660 North Corporate Circle
+   Sussex,  53089
+   US
 
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
+Status: Locked
 
-   Record expires on: 2011-10-27 04:20:15
+Name Servers:
+   NS1.BINC.NET
+   NS2.BINC.NET
 
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
+Creation date: 10 Sep 2004 14:56:00
+Expiration date: 10 Sep 2014 14:56:00
 
 
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

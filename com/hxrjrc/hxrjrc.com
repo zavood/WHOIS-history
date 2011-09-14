@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: HXRJRC.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-jul-2011
+   Creation Date: 25-oct-2010
+   Expiration Date: 25-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:41:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
-
-Owner Contact:
-   Sattar Alshibawi
-
-   Emerson ave 8
-   Leamington, 58649, DE
-
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
-
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
-
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
-
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi fanys@hsit.com.cn +86.5928060333
+	 xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+	 xiamen
+	 xiamen,fujian,CN 256301
+
+
+Domain Name:hxrjrc.com
+Record last updated at 2010-10-25 04:51:11
+Record created on 2010/10/25
+Record expired on 2015/10/25
+
+
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
+
+Administrator:
+	 name: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+ mail: fanys@hsit.com.cn tel: +86.5928060333
+	 org: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+
+address: xiamen
+	 city: xiamen
+,province: fujian
+,country: CN
+ postcode: 256301
+
+Technical Contactor:
+	 name: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+ mail: fanys@hsit.com.cn tel: +86.5928060333
+	 org: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+
+address: xiamen
+	 city: xiamen
+,province: fujian
+,country: CN
+ postcode: 256301
+
+Billing Contactor:
+	 name: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+ mail: fanys@hsit.com.cn tel: +86.5928060333
+	 org: xiamenzhongruanzhuoyuejiaoyufuwuyouxiangongsi
+
+address: xiamen
+	 city: xiamen
+,province: fujian
+,country: CN
+ postcode: 256301
 

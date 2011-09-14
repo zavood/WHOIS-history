@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: HQNAINIU.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
+   Status: clientTransferProhibited
+   Updated Date: 28-mar-2011
+   Creation Date: 27-mar-2009
+   Expiration Date: 27-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:41:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +55,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
+Domain Name : hqnainiu.com
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
+Registrant Contact Information :
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+brh819@126.com
+Chinese ronghua Network Tech Corp, 034000
+tel: +86 13903502434
+fax: +86 13903502434
 
-Owner Contact:
-   Sattar Alshibawi
+Administrative Contact Information :
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+brh819@126.com
+Chinese ronghua Network Tech Corp, 034000
+tel: +86 13903502434
+fax: +86 13903502434
 
-   Emerson ave 8
-   Leamington, 58649, DE
+Technical Contact Information :
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+brh819@126.com
+Chinese ronghua Network Tech Corp, 034000
+tel: +86 13903502434
+fax: +86 13903502434
 
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
+Billing Contact Information :
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+&ccedil;ô&frac12;&egrave;ç&pound;&aring;çé
+brh819@126.com
+Chinese ronghua Network Tech Corp, 034000
+tel: +86 13903502434
+fax: +86 13903502434
 
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
+Status :
+clientTransferProhibited
 
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
 
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
+Registration Date :2009-3-28
+Expiration Date : 2012-3-28
 
-   Record expires on: 2011-10-27 04:20:15
-
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
-
-
+For more information, please go to http://whois.ename.com.
 

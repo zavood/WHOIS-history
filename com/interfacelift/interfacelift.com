@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
-   Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Domain Name: INTERFACELIFT.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: DNS1.NAMESECURE.COM
+   Name Server: DNS2.NAMESECURE.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2010
+   Creation Date: 15-oct-1999
+   Expiration Date: 15-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-Owner Contact:
-   Sattar Alshibawi
+Registrant:
+Stys, Jeffrey
+   ATTN:
+   P.O. Box 430 c/o NameSecure
+   Herndon, VA.  US  20171-430
 
-   Emerson ave 8
-   Leamington, 58649, DE
 
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
+   Domain Name: INTERFACELIFT.COM
 
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
+   Administrative Contact:
+      Stys, Jeffrey		kt2dk4vw936@nameprivacy.com
+      L-bow Grease, LLC
+      ATTN:
+      P.O. Box 430 c/o NameSecure
+      Herndon, VA 20171-430
+      US
+      570-708-8782
 
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
 
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
+   Record expires on 15-Oct-2014.
+   Record created on 17-Aug-2003.
+   Database last updated on 14-Sep-2011 12:32:24 EDT.
 
    Domain servers in listed order:
 
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
+   DNS1.NAMESECURE.COM          205.178.190.56
+   DNS2.NAMESECURE.COM          206.188.198.56
+
+This listing is a NameSecure Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
 
 
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 

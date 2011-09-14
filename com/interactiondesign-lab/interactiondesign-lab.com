@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
+   Domain Name: INTERACTIONDESIGN-LAB.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
    Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Updated Date: 10-nov-2010
+   Creation Date: 09-nov-2005
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
+REGISTER.IT SPA - Whois Server Version 1.4
 
-Owner Contact:
-   Sattar Alshibawi
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-   Emerson ave 8
-   Leamington, 58649, DE
-
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
-
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
-
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
-
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
+     Domain name: INTERACTIONDESIGN-LAB.COM
+     Created on: 2007-02-14
+     Updated on: 2010-12-04
+     Expires on: 2011-11-09
+     Registrant Name: INTERACTION DESIGN LAB S.R.L.
+     Contact: Interaction Design Lab S.r.l.
+     Registrant Address: Via Zambeletti, 4
+     Registrant City: Milano
+     Registrant Postal Code: 20129
+     Registrant Country: IT
+     Administrative Contact Organization: Giuseppe Monzo
+     Administrative Contact Name: Giuseppe Monzo
+     Administrative Contact Address: Via Zambeletti, 4
+     Administrative Contact City: Milano
+     Administrative Contact Postal Code: 20129
+     Administrative Contact Country: IT
+     Administrative Contact Email: info@interactiondesign-lab.com
+     Administrative Contact Tel: +39 02 29537884
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
+&gt;&gt;&gt; Last update of whois database: Wed Sep 14 16:05:29 2011 &lt;&lt;&lt;
 

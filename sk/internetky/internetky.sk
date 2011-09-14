@@ -1,0 +1,22 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         internetky.sk
+Admin-id            PETE-3627
+Admin-name          Peter Fekete
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         peto.fekete@zoznam.sk
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns.basic.sk
+dns_name            ns2.basic.sk
+Last-update         2011-04-16
+Valid-date          2012-04-20
+Domain-status       DOM_OK
+

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IRAQ4LIFE.COM
-   Registrar: CRONON AG
-   Whois Server: whois.tmagnic.net
-   Referral URL: http://www.cronon.net
-   Name Server: NS.STRATOSERVER.NET
-   Name Server: NS2.STRATOSERVER.NET
+   Domain Name: HSZT.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
+   Name Server: NS2.XINNET.CN
+   Name Server: NS2.XINNETDNS.COM
    Status: ok
-   Updated Date: 28-oct-2010
-   Creation Date: 27-oct-2009
-   Expiration Date: 27-oct-2011
+   Updated Date: 03-sep-2011
+   Creation Date: 27-jul-2006
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:42:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:41:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +53,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Database contains ONLY .COM, .NET, .TV, .CC domains.
-
-Owner Contact:
-   Sattar Alshibawi
-
-   Emerson ave 8
-   Leamington, 58649, DE
-
-   Punycode Name:  iraq4life.com
-   Unicode Name:   iraq4life.com
-
-   Admin Contact
-      Mohamad Chahrour
-      Chahrour&amp;Krasowski GbR
-      info@speakyweb.com
-      Eisenschmiede 78
-      Kassel, 34127, DE
-      phone: +49.5615858507
-
-   Technical Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Zone Contact
-      Hostmaster Strato Ag
-      Strato AG
-      hostmaster@serverkompetenz.de
-      Pascalstr. 10
-      Berlin, 10587, DE
-      phone: +49.1805007677
-
-   Record expires on: 2011-10-27 04:20:15
-
-   Domain servers in listed order:
-
-      ns.stratoserver.net 81.169.163.40
-      ns2.stratoserver.net 81.169.148.41
+Domain Name      : hszt.com
+PunnyCode        : hszt.com
+Creation Date    : 2006-07-27 00:00:00
+Updated Date     : 2011-09-03 17:44:00
+Expiration Date  : 2012-07-27 00:00:00
 
 
+Registrant:
+  Organization   : jia mingming
+  Name           : jia mingming
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
 
+Administrative Contact:
+  Name           : jia mingming
+  Organization   : jia mingming
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : zt8600@vip.163.com
+
+Technical Contact:
+  Name           : jia mingming
+  Organization   : jia mingming
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : zt8600@vip.163.com
+
+Billing Contact:
+  Name           : jia mingming
+  Organization   : jia mingming
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : zt8600@vip.163.com
