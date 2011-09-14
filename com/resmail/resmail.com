@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DPMSINC.COM
+   Domain Name: RESMAIL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS55.WORLDNIC.COM
-   Name Server: NS56.WORLDNIC.COM
+   Name Server: NS1.KIVA.NET
+   Name Server: NS2.KIVA.NET
    Status: clientTransferProhibited
-   Updated Date: 18-jun-2007
-   Creation Date: 24-oct-1997
-   Expiration Date: 23-oct-2015
+   Updated Date: 08-feb-2008
+   Creation Date: 01-feb-1997
+   Expiration Date: 02-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:53:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:55:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about DPMSINC.COM
-&lt;a href=&quot;http://www.aboutus.org/DPMSINC.COM&quot;&gt;AboutUs: DPMSINC.COM &lt;/a&gt;
+Visit AboutUs.org for more information about RESMAIL.COM
+&lt;a href=&quot;http://www.aboutus.org/RESMAIL.COM&quot;&gt;AboutUs: RESMAIL.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Defense Procurement Manufacturing Services, Inc.
-   3312 12th Street SE
-   56304
-   Saint Cloud, MN 56304
+Automated Travel Systems, Inc.
+   119 West 40th Street 12th Floor
+   New York, NY 10018
    US
 
-   Domain Name: DPMSINC.COM
+   Domain Name: RESMAIL.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,28 +95,29 @@ Defense Procurement Manufacturing Services, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      Luth, Randy		dpmsinc@AOL.COM
-      Defense Procurement Manufacturing Services, Inc.
-      13983 Industry Ave.
-      Becker, MN 55308
+      Orrego, Mat		brad@ciswired.com
+      Cornerstone Information Systems
+      304 W. Kirkwood
+      Bloomington, IN 47404
       US
-      763-2611-5600
+      (812) 330-4361
 
    Technical Contact:
-      Risdall Advertising		webmaster@RISDALL.COM
-      550 MAIN ST
-      SAINT PAUL, MN 55112-3243
+      Kiva Legacy, Evolve		hostmaster@kiva.net
+      Evolve (Kiva Legacy)
+      12650 Meridian Crossing
+      Carmel, IN 46032
       US
-      (651) 631-1098 fax: - - (651) 631-2561
+      317 816 5100 fax: 812 337-5082
 
 
-   Record expires on 25-Oct-2015.
-   Record created on 24-Oct-1997.
-   Database last updated on 14-Sep-2011 00:43:46 EDT.
+   Record expires on 02-Feb-2013.
+   Record created on 01-Feb-1997.
+   Database last updated on 14-Sep-2011 00:45:06 EDT.
 
    Domain servers in listed order:
 
-   NS55.WORLDNIC.COM            205.178.190.28
-   NS56.WORLDNIC.COM            206.188.198.28
+   NS1.KIVA.NET
+   NS2.KIVA.NET
 
 
