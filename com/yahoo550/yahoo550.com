@@ -6,7 +6,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for &quot;YAHOO550.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 13:59:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:43:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
