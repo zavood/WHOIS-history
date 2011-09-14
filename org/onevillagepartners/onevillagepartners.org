@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158308228-LROR
+Domain Name:ONEVILLAGEPARTNERS.ORG
+Created On:07-Feb-2010 21:05:01 UTC
+Last Updated On:11-Jan-2011 22:26:13 UTC
+Expiration Date:07-Feb-2020 21:05:01 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-MM1OFHLAK3Y6
+Registrant Name:Jeff Hall
+Registrant Organization:OneVillage Partners
+Registrant Street1:Plymouth Church
+Registrant Street2:1900 Nicollet Ave.
+Registrant Street3:
+Registrant City:Minneapolis
+Registrant State/Province:MN
+Registrant Postal Code:55403
+Registrant Country:US
+Registrant Phone:+1.6128037677
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jeffthall1@aol.com
+Admin ID:DOT-TN80Q2A4BHMR
+Admin Name:Jeff Hall
+Admin Organization:OneVillage Partners
+Admin Street1:Plymouth Church
+Admin Street2:1900 Nicollet Ave.
+Admin Street3:
+Admin City:Minneapolis
+Admin State/Province:MN
+Admin Postal Code:55403
+Admin Country:US
+Admin Phone:+1.6128037677
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jeffthall1@aol.com
+Tech ID:DOT-SJKA6B400GRU
+Tech Name:Jeff Hall
+Tech Organization:OneVillage Partners
+Tech Street1:Plymouth Church
+Tech Street2:1900 Nicollet Ave.
+Tech Street3:
+Tech City:Minneapolis
+Tech State/Province:MN
+Tech Postal Code:55403
+Tech Country:US
+Tech Phone:+1.6128037677
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jeffthall1@aol.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

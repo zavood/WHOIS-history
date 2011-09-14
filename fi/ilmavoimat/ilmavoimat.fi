@@ -1,0 +1,18 @@
+
+domain:   ilmavoimat.fi
+descr:    Puolustusvoimat
+descr:    09520299
+address:  Puolustusvoimien Johtamisj&auml;rjestelm&auml;keskus
+address:  PL 47
+address:  40101
+address:  Jyv&auml;skyl&auml;
+phone:    014-1810111
+status:   Granted
+created:  19.9.2000
+expires:  31.8.2012
+nserver: dns1.mil.fi [OK]
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

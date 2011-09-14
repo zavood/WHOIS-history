@@ -1,0 +1,17 @@
+
+domain:   huch.fi
+descr:    HELSINGIN YLIOPISTOLLINEN KESKUSSAIRAALA
+descr:    02013120
+address:  HUS-Viestint&auml; / Juhani Lassander
+address:  Kirurginen sairaala, PL 263
+address:  00029
+address:  HUS
+phone:    050 4271341
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2015
+nserver: huch.huch.fi [OK] 193.166.190.10
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

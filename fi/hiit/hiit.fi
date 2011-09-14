@@ -1,0 +1,18 @@
+
+domain:   hiit.fi
+descr:    Helsinki Institute for Information Technology HIIT
+descr:    02459026
+address:  Pekka Tonteri
+address:  Gustaf H&auml;llstr&ouml;min katu 2B
+address:  00560
+address:  Helsinki
+phone:    +358 50 384 1503
+status:   Granted
+created:  15.6.2000
+expires:  31.8.2012
+nserver: label.it.hiit.fi [OK] 128.214.112.12 2001:708:140:20::12
+nserver: name.it.hiit.fi [OK] 128.214.112.2 2001:708:140:20::2
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

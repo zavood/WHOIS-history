@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HUNTERZVALLEY.COM
-   Registrar: ANSWERABLE.COM (I) PVT. LTD.
-   Whois Server: whois.answerable.com
-   Referral URL: http://www.answerable.com
-   Name Server: DNS1.SPARK.PARKING-PAGE.NET
-   Name Server: DNS2.SPARK.PARKING-PAGE.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-jul-2011
-   Creation Date: 05-jun-2010
-   Expiration Date: 05-jun-2012
+   Domain Name: KALEANDSHINDE.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.N2G2HOSTING.COM
+   Name Server: NS2.N2G2HOSTING.COM
+   Status: ok
+   Updated Date: 07-jul-2011
+   Creation Date: 06-jul-2009
+   Expiration Date: 06-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:40:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:43:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: PRIVATE REGISTRATIONS AKTIEN GESELLSCHAFT
-Contact: +55.5430545527
+Registration Service Provided By: WEBDEFENDERS-N2G2
+Contact: +91.9370509777
 
-Domain Name: HUNTERZVALLEY.COM
+Domain Name: KALEANDSHINDE.COM
 
 Registrant:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    WebDefenders Consulting Private Limited
+    Neeket R Pokharrna        (n2g2@webdefenders.com)
+    405/G Alok Nagari
+    1305 Kasba Peth
+    Pune
+    Maharashtra,411011
+    IN
+    Tel. +020.24570777
 
-Creation Date: 05-Jun-2010
-Expiration Date: 05-Jun-2012
+Creation Date: 06-Jul-2009
+Expiration Date: 06-Jul-2012
 
 Domain servers in listed order:
-    dns1.spark.parking-page.net
-    dns2.spark.parking-page.net
+    ns1.n2g2hosting.com
+    ns2.n2g2hosting.com
 
 
 Administrative Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    WebDefenders Consulting Private Limited
+    Neeket R Pokharrna        (n2g2@webdefenders.com)
+    405/G Alok Nagari
+    1305 Kasba Peth
+    Pune
+    Maharashtra,411011
+    IN
+    Tel. +020.24570777
 
 Technical Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    WebDefenders Consulting Private Limited
+    Neeket R Pokharrna        (n2g2@webdefenders.com)
+    405/G Alok Nagari
+    1305 Kasba Peth
+    Pune
+    Maharashtra,411011
+    IN
+    Tel. +020.24570777
 
 Billing Contact:
-    Private Registrations Aktien Gesellschaft
-    Domain Admin        (domadmin@privateregistrations.ws)
-    CNR of Granby &amp; Sharpe St
-    Suite K2134
-    Kingstown
-    Not Applicable,Kingstown
-    VC
-    Tel. +55.5430545527
+    WebDefenders Consulting Private Limited
+    Neeket R Pokharrna        (n2g2@webdefenders.com)
+    405/G Alok Nagari
+    1305 Kasba Peth
+    Pune
+    Maharashtra,411011
+    IN
+    Tel. +020.24570777
 
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -120,7 +116,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

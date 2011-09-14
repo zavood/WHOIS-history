@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131202952-LROR
+Domain Name:IACPO.ORG
+Created On:22-Oct-2006 00:47:15 UTC
+Last Updated On:15-Nov-2010 12:10:37 UTC
+Expiration Date:22-Oct-2011 00:47:15 UTC
+Sponsoring Registrar:CPS-Datensystems GmbH (R1464-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CPSDJAEHNKE0
+Registrant Name:Dirk Jaehnke
+Registrant Organization:Dirk Jaehnke
+Registrant Street1:Jahnstr. 28
+Registrant Street2:
+Registrant Street3:
+Registrant City:Solms
+Registrant State/Province:-
+Registrant Postal Code:35606
+Registrant Country:DE
+Registrant Phone:+49.6442953770
+Registrant Phone Ext.:
+Registrant FAX:+49.6442953773
+Registrant FAX Ext.:
+Registrant Email:dirk-jaehnke@t-online.de
+Admin ID:CPSDJAEHNKE0
+Admin Name:Dirk Jaehnke
+Admin Organization:Dirk Jaehnke
+Admin Street1:Jahnstr. 28
+Admin Street2:
+Admin Street3:
+Admin City:Solms
+Admin State/Province:-
+Admin Postal Code:35606
+Admin Country:DE
+Admin Phone:+49.6442953770
+Admin Phone Ext.:
+Admin FAX:+49.6442953773
+Admin FAX Ext.:
+Admin Email:dirk-jaehnke@t-online.de
+Tech ID:CPSSPEICHERHG0
+Tech Name:Hostmaster Internet-Service-Provider
+Tech Organization:Speicherhosting GmbH
+Tech Street1:Bahnhofstrasse 206
+Tech Street2:
+Tech Street3:
+Tech City:Leopoldshagen
+Tech State/Province:-
+Tech Postal Code:17375
+Tech Country:DE
+Tech Phone:+49.1805925444274
+Tech Phone Ext.:
+Tech FAX:+49.3977429034
+Tech FAX Ext.:
+Tech Email:domain@speicherhosting.com
+Name Server:NS3.NS1-TECH.DE
+Name Server:NS9.NS1-TECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      homeinstead.ie
+descr:       Home Instead Senior Care
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     ACI544-IEDR
+tech-c:      CCA7-IEDR
+renewal:     17-September-2012
+status:      Active
+nserver:     NS1.MARKMONITOR.COM
+nserver:     NS2.MARKMONITOR.COM
+nserver:     NS3.MARKMONITOR.COM
+source:      IEDR
+
+person:      Joshua Carpenter
+nic-hdl:     ACI544-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+
