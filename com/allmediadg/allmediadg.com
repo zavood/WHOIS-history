@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ED4.NET
+   Domain Name: ALLMEDIADG.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: ASIA3.AKAM.NET
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR2.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: EUR6.AKAM.NET
-   Name Server: NS1-200.AKAM.NET
-   Name Server: NS1-23.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Name Server: DNS1.ALLMEDIADG.COM
+   Name Server: DNS2.ALLMEDIADG.COM
    Status: clientTransferProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2016
+   Updated Date: 26-jan-2010
+   Creation Date: 28-jan-1998
+   Expiration Date: 27-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:02:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:03:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ed4.net
+Whois Query: allmediadg.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 20:58:18 EDT 2011
+Date and Time of Query: Tue Sep 13 20:53:52 EDT 2011
 Reason Code: IE

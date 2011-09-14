@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ED4.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: ASIA3.AKAM.NET
-   Name Server: AUS1.AKAM.NET
-   Name Server: EUR2.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: EUR6.AKAM.NET
-   Name Server: NS1-200.AKAM.NET
-   Name Server: NS1-23.AKAM.NET
-   Name Server: USW6.AKAM.NET
+   Domain Name: ZEIZEIDNF.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.PARKINGHELP.NET
+   Name Server: NS2.PARKINGHELP.NET
    Status: clientTransferProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2016
+   Updated Date: 10-aug-2011
+   Creation Date: 06-aug-2010
+   Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:02:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:03:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,23 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... zeizeidnf.com
+  Creation Date........ 2010-08-06 23:25:55
+  Registration Date.... 2010-08-06 23:25:55
+  Expiry Date.......... 2011-08-06 23:25:55
+  Organisation Name.... Hou guosheng
+  Organisation Address. nan gang hua yuan 11hao
+  Organisation Address.
+  Organisation Address. haerbin
+  Organisation Address. 150000
+  Organisation Address. HL
+  Organisation Address. CN
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Hou guosheng
+  Admin Address........ nan gang hua yuan 11hao
+  Admin Address........
+  Admin Address........ haerbin
+  Admin Address........ 150000
+  Admin Address........ HL
+  Admin Address........ CN
+  Admin Email.......... 8005092008@163.com
+  Admin Phone.......... +86.45187606765
+  Admin Fax............ +86.45187606765
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Ellon Yang
+  Tech Address......... meichuanru NO 987
+  Tech Address.........
+  Tech Address......... Shanghai
+  Tech Address......... 201803
+  Tech Address......... SH
+  Tech Address......... CN
+  Tech Email........... 184513@qq.com
+  Tech Phone........... +86.2159110167
+  Tech Fax............. +86.2159110167
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: ed4.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 20:58:18 EDT 2011
-Reason Code: IE
+Bill Name............ Ellon Yang
+  Bill Address......... meichuanru NO 987
+  Bill Address.........
+  Bill Address......... Shanghai
+  Bill Address......... 201803
+  Bill Address......... SH
+  Bill Address......... CN
+  Bill Email........... 184513@qq.com
+  Bill Phone........... +86.2159110167
+  Bill Fax............. +86.2159110167
+  Name Server.......... ns2.dns.com.cn
+  Name Server.......... ns1.dns.com.cn
