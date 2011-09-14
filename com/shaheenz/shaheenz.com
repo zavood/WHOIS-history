@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADIATORCLASSIC.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1141.DNS.DYN.COM
-   Name Server: NS2171.DNS.DYN.COM
-   Name Server: NS3192.DNS.DYN.COM
-   Name Server: NS4129.DNS.DYN.COM
-   Status: ok
-   Updated Date: 09-sep-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2012
+   Domain Name: SHAHEENZ.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS60.WEBSOULS.COM
+   Name Server: NS63.WEBSOULS.COM
+   Status: clientTransferProhibited
+   Updated Date: 23-nov-2010
+   Creation Date: 06-oct-2008
+   Expiration Date: 06-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:16:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:16:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... radiatorclassic.com
-  Creation Date........ 2007-10-11
-  Registration Date.... 2007-10-11
-  Expiry Date.......... 2012-10-11
-  Organisation Name.... Charles Guray
-  Organisation Address. PO Box 61359
-  Organisation Address.
-  Organisation Address. Sunnyvale
-  Organisation Address. 94088
-  Organisation Address. CA
-  Organisation Address. US
-
-Admin Name........... Admin PrivateRegContact
-  Admin Address........ PO Box 61359
-  Admin Address........ registered post accepted only
-  Admin Address........ Sunnyvale
-  Admin Address........ 94088
-  Admin Address........ CA
-  Admin Address........ US
-  Admin Email.......... contact@myprivateregistration.com
-  Admin Phone.......... +1.5105952002
-  Admin Fax............
-
-Tech Name............ TECH PrivateRegContact
-  Tech Address......... PO Box 61359
-  Tech Address......... registered post accepted only
-  Tech Address......... Sunnyvale
-  Tech Address......... 94088
-  Tech Address......... CA
-  Tech Address......... US
-  Tech Email........... contact@myprivateregistration.com
-  Tech Phone........... +1.5105952002
-  Tech Fax.............
-  Name Server.......... ns1141.dns.dyn.com
-  Name Server.......... ns4129.dns.dyn.com
-  Name Server.......... ns2171.dns.dyn.com
-  Name Server.......... ns3192.dns.dyn.com
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 Mubashar Awan Maroosha17@gmail.com +92.3007540817
+	 N/L
+	 shaheen library urdu bazar chaihst
+	 Lahore,Punjab,PK 54000
+
+
+Domain Name:shaheenz.com
+Record last updated at 2010-11-23 14:11:26
+Record created on 2008/10/6
+Record expired on 2011/10/6
+
+
+Domain servers in listed order:
+	 ns63.websouls.com 	 ns60.websouls.com
+
+Administrator:
+	 Mubashar Awan Maroosha17@gmail.com +92.3007540817
+	 N/L
+	 shaheen library urdu bazar chaihst
+	 Lahore,Punjab,PK 54000
+
+Technical Contactor:
+	 Muhammad  Jehanzeb technical@websouls.com +92.426680013
+	 Websouls
+	 14-Commercial, Cavalry Ground Lahore
+	 Lahore,Punjab,AF 54000
+
+Billing Contactor:
+	 Mubashar Awan Maroosha17@gmail.com +92.3007540817
+	 N/L
+	 shaheen library urdu bazar chaihst
+	 Lahore,Punjab,AF 54000
+
+
+Registration Service Provider:
+	name: Websouls
+	tel: +92.425914022
+ 	fax: +92.425914025
+ 	web:http://www.websouls.com

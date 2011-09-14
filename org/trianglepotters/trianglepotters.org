@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79883444-LROR
+Domain Name:TRIANGLEPOTTERS.ORG
+Created On:17-Nov-2001 11:19:31 UTC
+Last Updated On:05-Oct-2010 19:02:45 UTC
+Expiration Date:17-Nov-2011 11:19:31 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu7ryW6NhP8fZP5o
+Registrant Name:Gail Lawson
+Registrant Organization:Triangle Potters Guild
+Registrant Street1:PO Box 10161
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27605
+Registrant Country:US
+Registrant Phone:+1.9192179684
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ggllawson@hotmail.com
+Admin ID:tuA1aSb1vQc6WILl
+Admin Name:Gail Lawson
+Admin Organization:trianglepotters.org
+Admin Street1:3104 Sandy Knoll Lane
+Admin Street2:
+Admin Street3:
+Admin City:Knightdale
+Admin State/Province:NC
+Admin Postal Code:27545
+Admin Country:US
+Admin Phone:+1.9192179684
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ggllawson@hotmail.com
+Tech ID:tuYSrGkZX0f2DzYm
+Tech Name:Network Operations Centre
+Tech Organization:Tera-Byte Dot Com Inc.
+Tech Street1:Suite #900 CN Tower
+Tech Street2:10004-104 Ave. NW
+Tech Street3:
+Tech City:Edmonton
+Tech State/Province:Alberta
+Tech Postal Code:T5J0K1
+Tech Country:CA
+Tech Phone:+1.7804131868
+Tech Phone Ext.:
+Tech FAX:+1.7804131869
+Tech FAX Ext.:
+Tech Email:hostmaster@tera-byte.com
+Name Server:NS2.TERA-BYTE.COM
+Name Server:NS1.TERA-BYTE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
