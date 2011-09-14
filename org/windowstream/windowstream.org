@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19972585-LROR
+Domain Name:WINDOWSTREAM.ORG
+Created On:16-Feb-2000 15:41:59 UTC
+Last Updated On:14-Jan-2010 05:02:15 UTC
+Expiration Date:16-Feb-2012 15:41:58 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:723746240bacb862
+Registrant Name:William Miller
+Registrant Organization:William Miller
+Registrant Street1:12839 South 34th Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Phoenix
+Registrant State/Province:AZ
+Registrant Postal Code:85044
+Registrant Country:US
+Registrant Phone:+1.4808932323
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:billmiller@mac.com
+Admin ID:C15367000-RCOM
+Admin Name:William Miller
+Admin Organization:William Miller
+Admin Street1:12839 South 34th Court
+Admin Street2:
+Admin Street3:
+Admin City:Phoenix
+Admin State/Province:AZ
+Admin Postal Code:85044
+Admin Country:US
+Admin Phone:+1.4808932323
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bill@millcor.com
+Tech ID:C15367002-RCOM
+Tech Name:William Miller
+Tech Organization:William Miller
+Tech Street1:12839 South 34th Court
+Tech Street2:
+Tech Street3:
+Tech City:Phoenix
+Tech State/Province:AZ
+Tech Postal Code:85044
+Tech Country:US
+Tech Phone:+1.4808932323
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bill@millcor.com
+Name Server:DNS032.A.REGISTER.COM
+Name Server:DNS040.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

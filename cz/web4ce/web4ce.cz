@@ -1,0 +1,95 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 20:27:05 2011
+
+domain:       web4ce.cz
+registrant:   SB:WEB4CE
+admin-c:      WEB4CE-ADMIN
+temp-c:       WEB4CE-TECH
+nsset:        NSS:WEB4CE-GLUE
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   16.06.2003 12:36:00
+changed:      01.10.2007 21:11:01
+expire:       15.06.2014
+
+contact:      SB:WEB4CE
+org:          Web4ce, s.r.o.
+name:         Web4ce, s.r.o.
+address:      P&Aring;&iexcl;en&Auml;ç&Atilde;&shy;kova 674
+address:      Praha 4
+address:      142 00
+address:      CZ
+e-mail:       dom-admin@web4ce.cz
+registrar:    REG-IGNUM
+created:      04.07.2006 09:55:00
+changed:      13.03.2007 12:45:00
+
+contact:      WEB4CE-ADMIN
+name:         Michal Ce&Atilde;&copy;
+address:      P&Aring;&iexcl;en&Auml;ç&Atilde;&shy;kova 674
+address:      Praha 4
+address:      142 00
+address:      CZ
+e-mail:       dom-admin@web4ce.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 13:25:00
+changed:      30.11.2007 09:45:07
+
+contact:      WEB4CE-TECH
+name:         Michal Kum&Aring;&frac34;&Atilde;&iexcl;k
+address:      Trnkovo n&Atilde;&iexcl;m&Auml;õst&Atilde;&shy; 1112/1
+address:      Praha 5
+address:      152 00
+address:      CZ
+e-mail:       dom-tech@web4ce.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 13:15:00
+changed:      30.11.2007 09:47:07
+
+nsset:        NSS:WEB4CE-GLUE
+nserver:      ns1.web4ce.cz (93.190.48.250)
+nserver:      ns2.web4ce.cz (93.190.49.250)
+tech-c:       WEB4CE-TECH
+tech-c:       WEB4CE-ADMIN
+registrar:    REG-IGNUM
+created:      01.10.2007 19:19:01
+changed:      29.06.2008 14:21:08
+
+nsset:        WEB4CE.CZ
+nserver:      ns2.web4ce.cz
+nserver:      ns1.web4ce.cz
+tech-c:       RADIMPOTESIL
+registrar:    REG-IGNUM
+created:      05.08.2008 14:33:13
+changed:      06.08.2008 17:22:13
+
+contact:      RADIMPOTESIL
+name:         Radim Potesil
+address:      Slunn&Atilde;&iexcl; 246
+address:      Bu&Auml;çovice
+address:      685 01
+address:      CZ
+phone:        +420 517384246
+e-mail:       r.pot@worldonline.cz
+registrar:    REG-IGNUM
+created:      09.10.2002 23:16:00
+changed:      03.09.2006 15:05:00
+
+

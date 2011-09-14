@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GITHUB.COM
+   Domain Name: BIBLE4PHONE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.P16.DYNECT.NET
-   Name Server: NS2.P16.DYNECT.NET
-   Name Server: NS3.P16.DYNECT.NET
-   Name Server: NS4.P16.DYNECT.NET
+   Name Server: NS1.IPAGE.COM
+   Name Server: NS2.IPAGE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 09-oct-2007
-   Expiration Date: 09-oct-2018
+   Updated Date: 17-may-2011
+   Creation Date: 03-jun-2006
+   Expiration Date: 03-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:27:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:27:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   GitHub, Inc.
+   Bible4phone.com
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GITHUB.COM
+   Domain Name: BIBLE4PHONE.COM
 
    Domain servers in listed order:
-      NS1.P16.DYNECT.NET
-      NS2.P16.DYNECT.NET
-      NS3.P16.DYNECT.NET
-      NS4.P16.DYNECT.NET
+      NS1.IPAGE.COM
+      NS2.IPAGE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GITHUB.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BIBLE4PHONE.COM

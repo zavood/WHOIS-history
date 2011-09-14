@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D773144-LROR
+Domain Name:PHELPSHOSPITAL.ORG
+Created On:19-Jan-1998 05:00:00 UTC
+Last Updated On:11-Sep-2011 02:17:35 UTC
+Expiration Date:18-Jan-2013 05:00:00 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1324066465705918
+Registrant Name:Domain Discreet
+Registrant Organization:ATTN: phelpshospital.org
+Registrant Street1:Rua Dr. Brito Camara, n 20, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Funchal
+Registrant State/Province:Madeira
+Registrant Postal Code:9000-039
+Registrant Country:PT
+Registrant Phone:+361.19027495331
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:56464f040a16121e7f299e2086397f91@domaindiscreet.com
+Admin ID:6812706464f12933
+Admin Name:Domain Discreet
+Admin Organization:ATTN: phelpshospital.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:56464f010a16121e3604c687cba6a932@domaindiscreet.com
+Tech ID:1436353465ca4133
+Tech Name:Domain Discreet
+Tech Organization:ATTN: phelpshospital.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:56464f050a16121e73a7cfd13789c36e@domaindiscreet.com
+Name Server:DNS118.A.REGISTER.COM
+Name Server:DNS067.B.REGISTER.COM
+Name Server:DNS244.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,18 @@
+
+domain:   rauma.fi
+descr:    Rauman kaupunki
+descr:    01387809
+address:  Tietohallinto
+address:  PL 41
+address:  26101
+address:  RAUMA
+phone:    (02) 834 11
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2015
+nserver: ns.rauma.fi [OK] 194.241.208.23
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

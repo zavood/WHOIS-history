@@ -1,0 +1,18 @@
+
+domain:   pspt.fi
+descr:    Savonia-ammattikorkeakoulun kuntayhtym&auml;
+descr:    10070678
+address:  Timo Ollikainen/Medipolku-projekti
+address:  PL 6
+address:  70201
+address:  KUOPIO
+phone:    044 785 5557
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns1.pspt.fi [OK] 193.167.78.100
+nserver: ns2.pspt.fi [OK] 193.167.78.90
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

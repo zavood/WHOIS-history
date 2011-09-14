@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31887716-LROR
+Domain Name:SMCMAD.ORG
+Created On:25-Jul-2000 20:15:15 UTC
+Last Updated On:23-Jun-2011 18:47:31 UTC
+Expiration Date:25-Jul-2014 20:15:15 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:0095261d412c8285
+Registrant Name:Bernard Saggesse
+Registrant Organization:ABSL Construction
+Registrant Street1:1351 Rollins Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Burlingame
+Registrant State/Province:CA
+Registrant Postal Code:94010
+Registrant Country:US
+Registrant Phone:+1.6503448592
+Registrant Phone Ext.:
+Registrant FAX:+1.6503443843
+Registrant FAX Ext.:
+Registrant Email:joe@smcmad.org
+Admin ID:087671420ad0b562
+Admin Name:Frank Bejan
+Admin Organization:San Mateo County Mosquito Abatement District
+Admin Street1:1351 Rollins Rd
+Admin Street2:
+Admin Street3:
+Admin City:Burlingame
+Admin State/Province:CA
+Admin Postal Code:94010
+Admin Country:US
+Admin Phone:+1.6503448592
+Admin Phone Ext.:
+Admin FAX:+1.6503443843
+Admin FAX Ext.:
+Admin Email:frank@smcmad.org
+Tech ID:818324021c0e3140
+Tech Name:Frank Bejan
+Tech Organization:San Mateo County Mosquito Abatement District
+Tech Street1:1351 Rollins Rd
+Tech Street2:
+Tech Street3:
+Tech City:Burlingame
+Tech State/Province:CA
+Tech Postal Code:94010
+Tech Country:US
+Tech Phone:+1.6503448592
+Tech Phone Ext.:
+Tech FAX:+1.6503443843
+Tech FAX Ext.:
+Tech Email:frank@smcmad.org
+Name Server:DNS064.A.REGISTER.COM
+Name Server:DNS045.B.REGISTER.COM
+Name Server:DNS223.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RNCDN1.COM
+   Domain Name: JIGSAWGIRL.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: A.NS.RNCDN1.COM
-   Name Server: B.NS.RNCDN1.COM
-   Name Server: C.NS.RNCDN1.COM
-   Name Server: D.NS.RNCDN1.COM
-   Name Server: E.NS.RNCDN1.COM
-   Status: ok
-   Updated Date: 22-aug-2011
-   Creation Date: 20-sep-2010
-   Expiration Date: 20-sep-2012
+   Name Server: NS1.JUMBA.NET.AU
+   Name Server: NS2.JUMBA.NET.AU
+   Status: clientTransferProhibited
+   Updated Date: 08-sep-2011
+   Creation Date: 22-sep-2002
+   Expiration Date: 22-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:27:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:26:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about rncdn1.com
-&lt;a href=&quot;http://www.aboutus.org/rncdn1.com&quot;&gt;AboutUs: rncdn1.com&lt;/a&gt;
+Visit AboutUs.org for more information about jigsawgirl.com
+&lt;a href=&quot;http://www.aboutus.org/jigsawgirl.com&quot;&gt;AboutUs: jigsawgirl.com&lt;/a&gt;
 
 
-Domain name: rncdn1.com
+Domain name: jigsawgirl.com
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O jigsawgirl.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-   Reflected Networks, Inc.
-   Customer Domain (hostmaster@reflected.net)
-   +1.8778883800
-   Fax:
-   2002 W. Chicago Ave. PMB 102
-   Chicago, IL 60622
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (kdvmhgtpf@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O jigsawgirl.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Reflected Networks, Inc.
-   Customer Domain (hostmaster@reflected.net)
-   +1.8778883800
-   Fax:
-   2002 W. Chicago Ave. PMB 102
-   Chicago, IL 60622
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (kdvmhgtpf@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O jigsawgirl.com
+   Bellevue, WA 98007
    US
 
-Registrant Contact:
-   Reflected Networks, Inc.
-   Customer Domain ()
-
-   Fax:
-   2002 W. Chicago Ave. PMB 102
-   Chicago, IL 60622
-   US
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   a.ns.rncdn1.com
-   b.ns.rncdn1.com
-   c.ns.rncdn1.com
-   d.ns.rncdn1.com
-   e.ns.rncdn1.com
+   ns1.jumba.net.au
+   ns2.jumba.net.au
 
-Creation date: 20 Sep 2010 16:40:17
-Expiration date: 20 Sep 2012 16:40:00
+Creation date: 22 Sep 2002 04:40:37
+Expiration date: 22 Sep 2012 08:41:00
 
 
 
