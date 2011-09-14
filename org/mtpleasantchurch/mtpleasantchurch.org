@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92082460-LROR
+Domain Name:MTPLEASANTCHURCH.ORG
+Created On:11-Nov-2002 03:15:08 UTC
+Last Updated On:10-Nov-2009 17:40:13 UTC
+Expiration Date:11-Nov-2011 03:15:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:96E95C3A775F094A
+Registrant Name:Mt. Pleasant Presbyterian Church
+Registrant Organization:Mt. Pleasant Presbyterian Chur
+Registrant Street1:670 Pleasant Hills Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wexford
+Registrant State/Province:PA
+Registrant Postal Code:15090
+Registrant Country:US
+Registrant Phone:+01.7036212000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:heyguys@fyi.net
+Admin ID:AEF5413C156F7DCC
+Admin Name:Nikolaos Garbidakis
+Admin Organization:American Bible Society Interac
+Admin Street1:14900 Conference Center Drive,
+Admin Street2:Suite 525
+Admin Street3:
+Admin City:Chantilly
+Admin State/Province:VA
+Admin Postal Code:20151
+Admin Country:US
+Admin Phone:+1.7036212000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:registrar@forministry.com
+Tech ID:AEF5413C156F7DCC
+Tech Name:Nikolaos Garbidakis
+Tech Organization:American Bible Society Interac
+Tech Street1:14900 Conference Center Drive,
+Tech Street2:Suite 525
+Tech Street3:
+Tech City:Chantilly
+Tech State/Province:VA
+Tech Postal Code:20151
+Tech Country:US
+Tech Phone:+1.7036212000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:registrar@forministry.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

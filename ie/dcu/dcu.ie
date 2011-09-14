@@ -1,0 +1,27 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      dcu.ie
+descr:       Dublin City University
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     BC116-IEDR
+tech-c:      SGD2-IEDR
+renewal:     31-December-2011
+status:      Active
+nserver:     ns1-ext.dcu.ie 136.206.1.1
+nserver:     ns2-ext.dcu.ie 136.206.1.2
+nserver:     ns1.tcd.ie 134.226.1.114
+nserver:     auth-ns1.ucd.ie 137.43.1.13
+nserver:     ns5.univie.ac.at
+source:      IEDR
+
+person:      Fergus Donohue
+nic-hdl:     BC116-IEDR
+source:      IEDR
+
+person:      Systems Group Dublin City University
+nic-hdl:     SGD2-IEDR
+source:      IEDR
+
