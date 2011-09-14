@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHEAPROOMS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: SUNG-LEE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: AUTH-NS1.CONVOKE.COM
+   Name Server: NS.UUNET.CA
    Status: clientTransferProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 26-sep-1998
-   Expiration Date: 25-sep-2012
+   Updated Date: 04-jun-2010
+   Creation Date: 28-mar-2000
+   Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:28:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:27:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,33 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
 
-Domain cheaprooms.com:
-  Klaudia Kruzicevic
-  Mihanoviceva 4/II
-  Split, na 21000 HR
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Klaudia Kruzicevic
-  Klaudia Kruzicevic
-  klaudia.kruzicevic@gmail.com
-  Mihanoviceva 4/II
-  Split, na 21000 HR
-  Phone: +385.98370690
-  Fax:
+Domain name: sung-lee.com
 
-Record dates:
-  Record created on: 1998-09-26 04:00:00 UTC
-  Record modified on: 2011-08-22 19:42:09 UTC
-  Record expires on: 2012-09-25 UTC
+Registrant Contact:
+   Domains for sale.
+   Gary cohn ()
 
-Nameservers:
-  udns2.ultradns.net:
-    204.74.101.1
-  udns1.ultradns.net:
-    204.69.234.1
+   Fax:
+   2750 W Dundee #900
+   Northbrook, Il 60062
+   US
 
-Note: Automated collection of data from this database is strictly prohibited.
+Administrative Contact:
+   Word of Mouth Advertising Inc.
+   S Cohn (mrtollfree@aol.com)
+   +1.8479264444
+   Fax: +1.8153016743
+   1954 First  Street Suite #222
+   Highland Park, IL 60035
+   US
 
+Technical Contact:
+   Word of Mouth Advertising Inc.
+   S Cohn (mrtollfree@aol.com)
+   +1.8479264444
+   Fax: +1.8153016743
+   1954 First  Street Suite #222
+   Highland Park, IL 60035
+   US
+
+Status: Locked
+
+Name Servers:
+   auth-ns1.convoke.com
+   ns.uunet.ca
+
+Creation date: 28 Mar 2000 12:48:13
+Expiration date: 28 Mar 2012 16:48:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

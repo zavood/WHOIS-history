@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHEAPROOMS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: BETTERYOUONLINE.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.HOMEMASTERSITE.COM
+   Name Server: NS2.HOMEMASTERSITE.COM
    Status: clientTransferProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 26-sep-1998
-   Expiration Date: 25-sep-2012
+   Updated Date: 15-jul-2011
+   Creation Date: 11-jul-2010
+   Expiration Date: 11-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:28:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:29:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,33 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain betteryouonline.com
 
-Domain cheaprooms.com:
-  Klaudia Kruzicevic
-  Mihanoviceva 4/II
-  Split, na 21000 HR
+Date Registered: 2010-7-11
+Date Modified: 2011-7-15
+Expiry Date: 2012-7-11
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Klaudia Kruzicevic
-  Klaudia Kruzicevic
-  klaudia.kruzicevic@gmail.com
-  Mihanoviceva 4/II
-  Split, na 21000 HR
-  Phone: +385.98370690
-  Fax:
+DNS1: ns2.homemastersite.com
+DNS2: ns1.homemastersite.com
 
-Record dates:
-  Record created on: 1998-09-26 04:00:00 UTC
-  Record modified on: 2011-08-22 19:42:09 UTC
-  Record expires on: 2012-09-25 UTC
+Registrant
+    Private Whois betteryouonline.com
+    Private Whois betteryouonline.com  m51uckj4d94d8654c464@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o betteryouonline.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Nameservers:
-  udns2.ultradns.net:
-    204.74.101.1
-  udns1.ultradns.net:
-    204.69.234.1
+Administrative Contact
+    Private Whois betteryouonline.com
+    Private Whois betteryouonline.com  kumf9xb4d94d8655494e@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o betteryouonline.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Note: Automated collection of data from this database is strictly prohibited.
+Technical Contact
+    Private Whois betteryouonline.com
+    Private Whois betteryouonline.com  uiipivq4d94d8654f75c@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o betteryouonline.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

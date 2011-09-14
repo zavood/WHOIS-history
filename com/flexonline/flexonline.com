@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHEAPROOMS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: FLEXONLINE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.LOGICWORKS.NET
+   Name Server: NS2.LOGICWORKS.NET
    Status: clientTransferProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 26-sep-1998
-   Expiration Date: 25-sep-2012
+   Updated Date: 21-may-2010
+   Creation Date: 14-mar-1997
+   Expiration Date: 15-mar-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:28:52 UTC &lt;&lt;&lt;
 
@@ -52,33 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain cheaprooms.com:
-  Klaudia Kruzicevic
-  Mihanoviceva 4/II
-  Split, na 21000 HR
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Klaudia Kruzicevic
-  Klaudia Kruzicevic
-  klaudia.kruzicevic@gmail.com
-  Mihanoviceva 4/II
-  Split, na 21000 HR
-  Phone: +385.98370690
-  Fax:
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Record dates:
-  Record created on: 1998-09-26 04:00:00 UTC
-  Record modified on: 2011-08-22 19:42:09 UTC
-  Record expires on: 2012-09-25 UTC
+http://www.networksolutions.com/whois/index.jhtml
 
-Nameservers:
-  udns2.ultradns.net:
-    204.74.101.1
-  udns1.ultradns.net:
-    204.69.234.1
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Note: Automated collection of data from this database is strictly prohibited.
-
+Whois Query: flexonline.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 18:24:35 EDT 2011
+Reason Code: IE

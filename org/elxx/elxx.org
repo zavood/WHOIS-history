@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150447062-LROR
+Domain Name:ELXX.ORG
+Created On:21-Dec-2007 02:52:34 UTC
+Last Updated On:13-Jan-2011 09:56:00 UTC
+Expiration Date:21-Dec-2011 02:52:34 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35346323
+Registrant Name:Elton Muuga
+Registrant Organization:Elxx.net
+Registrant Street1:4001 Fieldstone Xing
+Registrant Street2:
+Registrant Street3:
+Registrant City:Missoula
+Registrant State/Province:Montana
+Registrant Postal Code:59802
+Registrant Country:US
+Registrant Phone:+1.4063967855
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elxx.net@gmail.com
+Admin ID:CR35346325
+Admin Name:Elton Muuga
+Admin Organization:Elxx.net
+Admin Street1:4001 Fieldstone Xing
+Admin Street2:
+Admin Street3:
+Admin City:Missoula
+Admin State/Province:Montana
+Admin Postal Code:59802
+Admin Country:US
+Admin Phone:+1.4063967855
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elxx.net@gmail.com
+Tech ID:CR35346324
+Tech Name:Elton Muuga
+Tech Organization:Elxx.net
+Tech Street1:4001 Fieldstone Xing
+Tech Street2:
+Tech Street3:
+Tech City:Missoula
+Tech State/Province:Montana
+Tech Postal Code:59802
+Tech Country:US
+Tech Phone:+1.4063967855
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:elxx.net@gmail.com
+Name Server:NS2.LINODE.COM
+Name Server:NS3.LINODE.COM
+Name Server:NS4.LINODE.COM
+Name Server:NS5.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

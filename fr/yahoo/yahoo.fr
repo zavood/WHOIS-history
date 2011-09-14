@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; yahoo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      yahoo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    YF108-FRNIC
+admin-c:     JM3900-FRNIC
+tech-c:      NA25-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10638-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 21/01
+created:     20/09/1996
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL10638-FRNIC
+nserver:     ns1.yahoo.com
+nserver:     ns2.yahoo.com
+nserver:     ns3.yahoo.com
+nserver:     ns5.yahoo.com
+nserver:     ns7.yahoo.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     YF108-FRNIC
+type:        ORGANIZATION
+contact:     Yahoo France
+address:     11bis, rue Torricelli
+address:     75017 Paris
+country:     FR
+phone:       +33 1 40 83 49 33
+e-mail:      domainadmin@yahoo-inc.com
+changed:     19/08/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     NA25-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     MarkMonitor
+address:     10400, Overland Road Pmb 155
+address:     83709 Boise
+address:     US
+e-mail:      ccops@markmonitor.com
+admin-c:     MC239-FRNIC
+tech-c:      MC239-FRNIC
+changed:     13/04/2006 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JM3900-FRNIC
+type:        PERSON
+contact:     Jonathan Matkowsky
+address:     Yahoo France
+address:     11bis, rue Torricelli
+address:     75017 Paris
+country:     FR
+phone:       +33 1 40 83 49 33
+e-mail:      domainadmin@yahoo-inc.com
+changed:     12/09/2007 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

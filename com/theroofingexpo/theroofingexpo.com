@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHEAPROOMS.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
+   Domain Name: THEROOFINGEXPO.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
    Name Server: UDNS1.ULTRADNS.NET
    Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 22-aug-2011
-   Creation Date: 26-sep-1998
-   Expiration Date: 25-sep-2012
+   Updated Date: 01-apr-2011
+   Creation Date: 18-may-2004
+   Expiration Date: 18-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:28:52 UTC &lt;&lt;&lt;
 
@@ -53,32 +52,43 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain cheaprooms.com:
-  Klaudia Kruzicevic
-  Mihanoviceva 4/II
-  Split, na 21000 HR
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Administrative contact:
-Technical contact:
-Billing contact:
-  Klaudia Kruzicevic
-  Klaudia Kruzicevic
-  klaudia.kruzicevic@gmail.com
-  Mihanoviceva 4/II
-  Split, na 21000 HR
-  Phone: +385.98370690
-  Fax:
+Registrant:
+   Hanley Wood LLC
+   1 Thomas Circle, NW Suite 600
+   Washington, DC 20005
+   US
 
-Record dates:
-  Record created on: 1998-09-26 04:00:00 UTC
-  Record modified on: 2011-08-22 19:42:09 UTC
-  Record expires on: 2012-09-25 UTC
+   Domain Name: THEROOFINGEXPO.COM
 
-Nameservers:
-  udns2.ultradns.net:
-    204.74.101.1
-  udns1.ultradns.net:
-    204.69.234.1
+   Administrative Contact, Technical Contact, Zone Contact:
+      Hanley Wood LLC
+      DNS ADMIN
+      1 Thomas Circle, NW Suite 600
+      Washington, DC 20005
+      US
+      (202)736-3767
+      (202)785-1974 [fax]
+      dnsadmin@hanleywood.com
 
-Note: Automated collection of data from this database is strictly prohibited.
+   Domain created on 18-May-2004
+   Domain expires on 18-May-2012
+   Last updated on 01-Apr-2011
+
+   Domain servers in listed order:
+
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
