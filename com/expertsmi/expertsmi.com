@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FINDBYCLICK.COM
+   Domain Name: EXPERTSMI.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.DOMAININGDEPOT.COM
-   Name Server: NS2.DOMAININGDEPOT.COM
-   Status: ok
-   Updated Date: 16-may-2011
-   Creation Date: 09-dec-2003
-   Expiration Date: 09-dec-2011
+   Name Server: NS1.DNS.COM
+   Name Server: NS2.DNS.COM
+   Name Server: NS3.DNS.COM
+   Name Server: NS4.DNS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-aug-2011
+   Creation Date: 02-jun-2005
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:35:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:33:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

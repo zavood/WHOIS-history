@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FINDBYCLICK.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.DOMAININGDEPOT.COM
-   Name Server: NS2.DOMAININGDEPOT.COM
+   Domain Name: KLEIN-SHIFLETT.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS7.HOSTRACK.COM
+   Name Server: DNS8.HOSTRACK.COM
    Status: ok
-   Updated Date: 16-may-2011
-   Creation Date: 09-dec-2003
-   Expiration Date: 09-dec-2011
+   Updated Date: 18-oct-2006
+   Creation Date: 14-jan-2003
+   Expiration Date: 14-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:35:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:34:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... klein-shiflett.com
+  Creation Date........ 2003-01-15
+  Registration Date.... 2003-01-15
+  Expiry Date.......... 2013-01-15
+  Organisation Name.... Robert
+  Organisation Address. 1606 Colony Rd
+  Organisation Address.
+  Organisation Address. Pasadena
+  Organisation Address. 21222
+  Organisation Address. MD
+  Organisation Address. UNITED STATES
+
+Admin Name........... Robert Klein
+  Admin Address........ 1606 Colony Rd
+  Admin Address........
+  Admin Address........ Pasadena
+  Admin Address........ 21222
+  Admin Address........ MD
+  Admin Address........ UNITED STATES
+  Admin Email.......... rvklein@cablespeed.com
+  Admin Phone.......... (410)2552067
+  Admin Fax............
+
+Tech Name............ Verio Hostmaster
+  Tech Address......... 5050 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax.............
+  Name Server.......... dns7.hostrack.com
+  Name Server.......... dns8.hostrack.com
+
+
