@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PCFORMATER.COM
+   Domain Name: HERPRIVACY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS4.IKOULA.COM
-   Name Server: NS5.IKOULA.COM
+   Name Server: NS1057.HOSTGATOR.COM
+   Name Server: NS1058.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-nov-2010
-   Creation Date: 20-jan-2010
-   Expiration Date: 20-jan-2012
+   Updated Date: 13-feb-2010
+   Creation Date: 02-apr-2008
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:42:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:41:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Andrew Hon
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PCFORMATER.COM
+   Domain Name: HERPRIVACY.COM
 
    Domain servers in listed order:
-      NS4.IKOULA.COM
-      NS5.IKOULA.COM
+      NS1057.HOSTGATOR.COM
+      NS1058.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PCFORMATER.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HERPRIVACY.COM
