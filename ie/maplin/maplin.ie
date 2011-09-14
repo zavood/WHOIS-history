@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      maplin.ie
+descr:       Maplin Electronics Limited
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Registered Trade Mark Name
+admin-c:     ACM771-IEDR
+tech-c:      AAM456-IEDR
+renewal:     22-September-2011
+status:      Active
+nserver:     ns0.demysdns.net
+nserver:     ns1.demysdns.net
+nserver:     ns2.demysdns.net
+nserver:     ns3.demysdns.net
+nserver:     ns4.demysdns.co.uk
+nserver:     ns5.demysdns.co.uk
+source:      IEDR
+
+person:      David O' Reilly
+nic-hdl:     ACM771-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

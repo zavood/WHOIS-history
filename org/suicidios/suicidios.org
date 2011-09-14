@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158237888-LROR
+Domain Name:SUICIDIOS.ORG
+Created On:30-Jan-2010 06:27:12 UTC
+Last Updated On:25-Jan-2011 06:04:51 UTC
+Expiration Date:30-Jan-2012 06:27:12 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_9536624
+Registrant Name:Anselmo Junior
+Registrant Organization:N/A
+Registrant Street1:R. Sao sebastiao do Paraiso
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belo Horizonte
+Registrant State/Province:Minas Gerais
+Registrant Postal Code:31710080
+Registrant Country:BR
+Registrant Phone:+55.3186327321
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:digimaster_br@hotmail.com
+Admin ID:DI_9536624
+Admin Name:Anselmo Junior
+Admin Organization:N/A
+Admin Street1:R. Sao sebastiao do Paraiso
+Admin Street2:
+Admin Street3:
+Admin City:Belo Horizonte
+Admin State/Province:Minas Gerais
+Admin Postal Code:31710080
+Admin Country:BR
+Admin Phone:+55.3186327321
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:digimaster_br@hotmail.com
+Tech ID:DI_9536624
+Tech Name:Anselmo Junior
+Tech Organization:N/A
+Tech Street1:R. Sao sebastiao do Paraiso
+Tech Street2:
+Tech Street3:
+Tech City:Belo Horizonte
+Tech State/Province:Minas Gerais
+Tech Postal Code:31710080
+Tech Country:BR
+Tech Phone:+55.3186327321
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:digimaster_br@hotmail.com
+Name Server:NS1.LOCAWEB.COM.BR
+Name Server:NS2.LOCAWEB.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
