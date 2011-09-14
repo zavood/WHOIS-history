@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; filesonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      filesonic.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    M3470-FRNIC
+admin-c:     OW92-FRNIC
+tech-c:      FF1878-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL46833-FRNIC
+registrar:   MARCARIA.COM CORP.
+anniversary: 01/11
+created:     01/11/2010
+last-update: 02/03/2011
+source:      FRNIC
+
+ns-list:     NSL46833-FRNIC
+nserver:     ns1.filesonic.com
+nserver:     ns2.filesonic.com
+nserver:     ns3.filesonic.com
+nserver:     ns4.filesonic.com
+source:      FRNIC
+
+registrar:   MARCARIA.COM CORP.
+type:        Isp Option 2
+address:     # 1000177
+address:     222 Grace Church St. Suite 302
+address:     NY 10573 PORT CHESTER
+country:     US
+phone:       +1 305 434 8621
+fax-no:      +1 305 675 2956
+e-mail:      manage@marcaria.com
+website:     http://www.marcaria.com
+anonymous:   NO
+registered:  14/03/2008
+source:      FRNIC
+
+nic-hdl:     M3470-FRNIC
+type:        ORGANIZATION
+contact:     MARCARIA.COM
+address:     129, avenue de Geneve
+address:     centre Mbe 136
+address:     74000 Annecy
+country:     FR
+phone:       +33 9 75 17 88 27
+e-mail:      domains@marcaria.com
+changed:     25/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OW92-FRNIC
+type:        PERSON
+contact:     Oscar Weber
+address:     MARCARIA.COM CORP
+address:     129, avenue de Geneve
+address:     centre Mbe 136
+address:     74000 Annecy
+country:     FR
+phone:       +33 8 70 44 49 78
+fax-no:      +33 8 70 44 49 78
+e-mail:      manage@marcaria.com
+changed:     18/09/2008 David.Chansard@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FF1878-FRNIC
+type:        ROLE
+contact:     Francisco Fuentealba
+address:     MARCARIA.COM CORP
+address:     # 1000177, 222 Grace Church St. Suite 302
+address:     10573 Port Chester
+address:     US
+e-mail:      manage@marcaria.com
+admin-c:     FR333-FRNIC
+tech-c:      FR333-FRNIC
+changed:     17/03/2008 manage@marcaria.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

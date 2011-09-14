@@ -1,0 +1,88 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; x1.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      x1.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SE873-FRNIC
+admin-c:     JFC29-FRNIC
+tech-c:      NF1023-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL41021-FRNIC
+registrar:   SERVEUR EXPRESS
+anniversary: 18/05
+created:     18/05/2004
+last-update: 03/11/2010
+source:      FRNIC
+
+ns-list:     NSL41021-FRNIC
+nserver:     ns0.x1.fr [80.65.232.20]
+nserver:     ns1.x1.fr [83.243.20.50]
+source:      FRNIC
+
+registrar:   SERVEUR EXPRESS
+type:        Isp Option 2
+anonymous:   YES
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     JFC29-FRNIC
+type:        PERSON
+contact:     Jean-Francois Cousi
+address:     Serveur Express
+address:     8, rue Charles Pathe
+address:     94300 Vincennes
+country:     FR
+phone:       +33 1 58 64 26 80
+e-mail:      afnic@tgv.net
+changed:     18/05/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SE873-FRNIC
+type:        ORGANIZATION
+contact:     Serveur Express
+address:     8, rue Charles Path&eacute;
+address:     94300 Vincennes
+country:     FR
+phone:       +33 1 58 64 26 80
+e-mail:      afnic@tgv.net
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     NF1023-FRNIC
+type:        ROLE
+contact:     NOC Francexpress
+address:     Serveur Express
+address:     8, rue Charles Pathe
+address:     94300 Vincennes
+country:     FR
+phone:       +33 1 58 64 26 80
+fax-no:      +33 1 58 64 26 81
+e-mail:      hostmaster@serveur-express.com
+admin-c:     JFC18-FRNIC
+tech-c:      JFC18-FRNIC
+notify:      hostmaster@serveur-express.com
+changed:     28/05/2003 hostmaster@serveur-express.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

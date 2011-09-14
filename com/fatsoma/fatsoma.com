@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SBUX.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
-   Status: clientTransferProhibited
-   Updated Date: 13-dec-2010
-   Creation Date: 28-jan-1995
-   Expiration Date: 29-jan-2012
+   Domain Name: FATSOMA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: ok
+   Updated Date: 30-jun-2008
+   Creation Date: 05-jul-2006
+   Expiration Date: 05-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:52:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:51:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,45 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... sbux.com
-  Creation Date........ 1995-01-28
-  Registration Date.... 2010-12-14
-  Expiry Date.......... 2012-01-30
-  Organisation Name.... Starbucks Coffee Company
-  Organisation Address. 2401 Utah Avenue S, #800
-  Organisation Address. MS DOMAIN-1
-  Organisation Address. Seattle
-  Organisation Address. 98134
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Starbucks Coffee Company
-  Admin Address........ 2401 Utah Avenue S, #800
-  Admin Address........ MS DOMAIN-1
-  Admin Address........ Seattle
-  Admin Address........ 98134
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... inethost@starbucks.com
-  Admin Phone.......... +1.2063181575
-  Admin Fax............ +1.2063182439
-
-Tech Name............ Starbucks Coffee Company
-  Tech Address......... 2401 Utah Avenue S, #800
-  Tech Address......... MS DOMAIN-1
-  Tech Address......... Seattle
-  Tech Address......... 98134
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... inethost@starbucks.com
-  Tech Phone........... +1.2063181575
-  Tech Fax............. +1.2063182439
-  Name Server.......... G4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... J4.NSTLD.COM
-  Name Server.......... H4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... A4.NSTLD.COM
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

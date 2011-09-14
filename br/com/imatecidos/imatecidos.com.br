@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 17:51:59 (BRT -03:00)
+
+domain:      imatecidos.com.br
+owner:       Ima - Tecidos da Moda Ltda.
+ownerid:     021.126.271/0001-68
+responsible: Miriam Teodoro de Souza
+country:     BR
+owner-c:     ITL109
+admin-c:     ITL109
+tech-c:      ITL109
+billing-c:   ITL109
+nserver:     ns1.imatecidos.com.br 189.126.108.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.imatecidos.com.br 201.76.40.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.imatecidos.com.br 187.45.246.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19990426 #156762
+expires:     20160426
+changed:     20110512
+status:      published
+
+nic-hdl-br:  ITL109
+person:      IMA - Tecidos da Moda Ltda
+e-mail:      cpd@imatextil.com.br
+created:     20020625
+changed:     20110511
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
