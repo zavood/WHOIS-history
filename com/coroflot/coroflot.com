@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 17-sep-1998
    Expiration Date: 16-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:48:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: coroflot.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 18:27:57 EDT 2011
+Date and Time of Query: Wed Sep 14 03:38:17 EDT 2011
 Reason Code: IE

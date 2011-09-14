@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DYNECT.NET
-   Registrar: DYNAMIC NETWORK SERVICES, INC
-   Whois Server: whois.dyndns.com
-   Referral URL: http://www.dyndns.com
-   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
+   Domain Name: INFRONTSPORTS.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.GVA.CH.COLT.NET
+   Name Server: NS1.ZRH1.CH.COLT.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2011
-   Creation Date: 02-may-2007
-   Expiration Date: 02-may-2012
+   Updated Date: 30-aug-2010
+   Creation Date: 07-nov-2002
+   Expiration Date: 07-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:47:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:48:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,43 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
 Registrant:
- Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
- Dynamic Network Services, Inc.
- 150 Dow St
- Manchester, NH 03101
- US
+   Infront Sports &amp; Media AG
+   Grafenauweg 2
+   Zug, ZG 6304
+   CH
 
- Domain name: DYNECT.NET
+   Domain Name: INFRONTSPORTS.COM
 
+   Administrative Contact, Technical Contact, Zone Contact:
+      Infront Sports &amp; Media AG
+      IT Department
+      Grafenauweg 2
+      Zug, ZG 6304
+      CH
+      +41 41 72315 15
+      +41 41 723 15 16 [fax]
+      domains@infrontsports.com
 
- Administrative Contact, Technical Contact:
-    Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
-    Dynamic Network Services, Inc.
-    150 Dow St
-    Manchester, NH 03101
-    US
-    +1.6036684998  fax: +1.6036686474
+   Domain created on 07-Nov-2002
+   Domain expires on 07-Nov-2011
+   Last updated on 30-Aug-2010
 
+   Domain servers in listed order:
 
- Registration Service Provider:
-    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
-    Login to your account at http://www.dyndns.com/+domains/ to manage
-    nameservers and contacts for your domain name.
+      NS1.ZRH1.CH.COLT.NET
+      NS1.GVA.CH.COLT.NET
 
-
- Record last updated on 08-Sep-2011 13:46:28 UTC.
- Record expires on 03-May-2012.
- Record created on 03-May-2007.
-
-
- Domain servers in listed order:
-    NS1.DYNAMICNETWORKSERVICES.NET
-    NS3.DYNAMICNETWORKSERVICES.NET
-    NS4.DYNAMICNETWORKSERVICES.NET
-    NS2.DYNAMICNETWORKSERVICES.NET
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 

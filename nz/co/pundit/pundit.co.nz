@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T19:48:31+12:00
+domain_name: pundit.co.nz
+query_status: 200 Active
+domain_dateregistered: 2008-04-18T11:38:24+12:00
+domain_datebilleduntil: 2012-04-18T11:38:24+12:00
+domain_datelastmodified: 2011-04-18T19:19:23+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: OPENHOST
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: North Shore City
+registrar_postalcode: 0751
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 2655
+registrar_email: domains@openhost.co.nz
+%
+registrant_contact_name: Mr. Tim Watkin
+registrant_contact_address1: 94 Gowing Dr
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 00000
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 21 843374
+registrant_contact_email: tim.eleanor@hotmail.com
+%
+admin_contact_name: Mr. Tim Watkin
+admin_contact_address1: 94 Gowing Dr
+admin_contact_city: Auckland
+admin_contact_postalcode: 00000
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 21 843374
+admin_contact_email: tim.eleanor@hotmail.com
+%
+technical_contact_name: Mr. Tim Watkin
+technical_contact_address1: 94 Gowing Dr
+technical_contact_city: Auckland
+technical_contact_postalcode: 00000
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 21 843374
+technical_contact_email: tim.eleanor@hotmail.com
+%
+ns_name_01: ns1.mediatemple.net
+ns_name_02: ns2.mediatemple.net
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

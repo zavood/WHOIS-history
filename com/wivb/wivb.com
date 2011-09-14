@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AMEX-INSIGHTS.COM
+   Domain Name: WIVB.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
-   Name Server: NS1.P06.DYNECT.NET
-   Name Server: NS2.P06.DYNECT.NET
-   Name Server: NS3.P06.DYNECT.NET
-   Name Server: NS4.P06.DYNECT.NET
+   Name Server: PDNS1.CSCDNS.NET
+   Name Server: PDNS2.CSCDNS.NET
    Status: clientTransferProhibited
-   Updated Date: 26-aug-2011
-   Creation Date: 25-mar-2010
-   Expiration Date: 25-mar-2012
+   Updated Date: 05-apr-2010
+   Creation Date: 12-dec-1995
+   Expiration Date: 11-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:48:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:48:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,47 +59,45 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      American Express
-      American Express
-      200 Vesey Street
-      New York, NY 10285
+      LIN Television Corporation
+      Chris Haikalis
+      1 Richmond Square Suite 230E
+      Providence, RI 02960
       US
-      Email: gtld@aexp.com
+      Email: admin@linvtv.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: amex-insights.com
+   Domain Name: wivb.com
 
-      Created on..............: Thu, Mar 25, 2010
-      Expires on..............: Sun, Mar 25, 2012
-      Record last updated on..: Fri, Aug 26, 2011
+      Created on..............: Tue, Dec 12, 1995
+      Expires on..............: Tue, Dec 11, 2012
+      Record last updated on..: Mon, Apr 05, 2010
 
    Administrative Contact:
-      American Express
-      American Express
-      200 Vesey Street
-      New York, NY 10285
+      LIN Television Corporation
+      Chris Haikalis
+      1 Richmond Square Suite 230E
+      Providence, RI 02960
       US
-      Phone: +1 602-537-0000
-      Email: gtld@aexp.com
+      Phone: +1.4014542880
+      Email: admin@linvtv.com
 
    Technical Contact:
-      American Express
-      American Express
-      200 Vesey Street IPC AZ-36-02-13
-      New York, NY 10285
-      US
-      Phone: +1 602-537-0000
-      Email: gtld@aexp.com
+      Corporation Service Company
+      Domain Registrar
+      PO Box 597
+      Yarmouth, NS B54 4B4
+      CA
+      Phone: +1.9027465201
+      Email: admin@internationaladmin.com
 
    DNS Servers:
 
-   ns1.p06.dynect.net
-   ns2.p06.dynect.net
-   ns3.p06.dynect.net
-   ns4.p06.dynect.net
+   pdns2.cscdns.net
+   pdns1.cscdns.net
 
 
 Register your domain name at http://www.cscglobal.com

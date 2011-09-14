@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DYNECT.NET
-   Registrar: DYNAMIC NETWORK SERVICES, INC
-   Whois Server: whois.dyndns.com
-   Referral URL: http://www.dyndns.com
-   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
+   Domain Name: TOYBOXER.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2011
-   Creation Date: 02-may-2007
-   Expiration Date: 02-may-2012
+   Updated Date: 08-jun-2011
+   Creation Date: 27-jun-2002
+   Expiration Date: 27-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:47:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:47:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,43 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+
 Registrant:
- Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
- Dynamic Network Services, Inc.
- 150 Dow St
- Manchester, NH 03101
- US
+ANDERSON, GARY
+   GARY ANDERSON
+   1019 N. Manning Drive
+   CHILLICOTHE, IL 61523
+   US
 
- Domain name: DYNECT.NET
+   Domain Name: TOYBOXER.COM
 
-
- Administrative Contact, Technical Contact:
-    Inc. Hostmaster, Dynamic Network Services,  hostmaster@dyn.com
-    Dynamic Network Services, Inc.
-    150 Dow St
-    Manchester, NH 03101
-    US
-    +1.6036684998  fax: +1.6036686474
-
-
- Registration Service Provider:
-    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
-    Login to your account at http://www.dyndns.com/+domains/ to manage
-    nameservers and contacts for your domain name.
+   Administrative Contact:
+      ANDERSON, GARY		zero389@mchsi.com
+      GARY ANDERSON
+      1019 N. Manning Drive
+      CHILLICOTHE, IL 61523
+      US
+      309-274-4850
 
 
- Record last updated on 08-Sep-2011 13:46:28 UTC.
- Record expires on 03-May-2012.
- Record created on 03-May-2007.
+   Record expires on 27-Jun-2012.
+   Record created on 27-Jun-2002.
+   Database last updated on 14-Sep-2011 03:37:20 EDT.
 
+   Domain servers in listed order:
 
- Domain servers in listed order:
-    NS1.DYNAMICNETWORKSERVICES.NET
-    NS3.DYNAMICNETWORKSERVICES.NET
-    NS4.DYNAMICNETWORKSERVICES.NET
-    NS2.DYNAMICNETWORKSERVICES.NET
+   NS52.DOMAINCONTROL.COM       208.109.255.26
+   NS51.DOMAINCONTROL.COM       216.69.185.26
 
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 
