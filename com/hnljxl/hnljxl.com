@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHTAH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A.NS.CHTAH.COM
-   Name Server: B.NS.CHTAH.COM
-   Name Server: C.NS.CHTAH.COM
-   Name Server: D.NS.CHTAH.COM
-   Name Server: E.NS.CHTAH.COM
-   Name Server: F.NS.CHTAH.COM
+   Domain Name: HNLJXL.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: CN1.ONLINENIC.NET
+   Name Server: CN2.ONLINENIC.NET
    Status: clientTransferProhibited
-   Updated Date: 31-may-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2021
+   Status: clientUpdateProhibited
+   Updated Date: 13-sep-2011
+   Creation Date: 12-sep-2003
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:38:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 Hunan LiangJu GongYe GongSi moon922@126.com +86.7317300051
+	 Hunan LiangJu GongYe GongSi
+	 hunan NingXiang
+	 NingXiang,Hunan,CN 410011
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: chtah.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:29:02 EDT 2011
-Reason Code: IE
+Domain Name:hnljxl.com
+Record last updated at 2010-09-15 03:18:13
+Record created on 2003/9/12
+Record expired on 2011/9/12
+
+
+Domain servers in listed order:
+	 cn1.onlinenic.net 	 cn2.onlinenic.net
+
+Administrator:
+	 Name-- Hunan LiangJu GongYe GongSi
+ EMail-: (moon922@126.com)
+ tel --: +86.7317300051
+	 org: Hunan LiangJu GongYe GongSi
+	 hunan NingXiang
+	 NingXiang,Hunan,CN 410011
+
+Technical Contactor:
+	 Name-- RED NET
+ EMail-: (moon922@126.com)
+ tel --: +86.7312204981
+	 org: RED NET
+	 hunan changsha
+	 changsha,Hunan,CN 410011
+
+Billing Contactor:
+	 Name-- RED NET
+ EMail-: (moon922@126.com)
+ tel --: +86.7312204981
+	 org: RED NET
+	 hunan changsha
+	 changsha,Hunan,CN 410011
+

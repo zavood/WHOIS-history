@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHTAH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A.NS.CHTAH.COM
-   Name Server: B.NS.CHTAH.COM
-   Name Server: C.NS.CHTAH.COM
-   Name Server: D.NS.CHTAH.COM
-   Name Server: E.NS.CHTAH.COM
-   Name Server: F.NS.CHTAH.COM
+   Domain Name: HISTORICGREENSPRING.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS687.HOSTGATOR.COM
+   Name Server: NS688.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 31-may-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2021
+   Updated Date: 16-mar-2011
+   Creation Date: 15-mar-2004
+   Expiration Date: 15-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   historicgreenspring.com
+   c/o Whois Privacy Service
+   PO BOX 501610
+   San Diego, CA 92150-1610
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: HISTORICGREENSPRING.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact, Technical Contact, Zone Contact:
+      historicgreenspring.com
+      c/o Whois Privacy Service
+      PO BOX 501610
+      San Diego, CA 92150-1610
+      US
+      (619) 393-2111
+      whois@emailaddressprotection.com
 
-Whois Query: chtah.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:29:02 EDT 2011
-Reason Code: IE
+
+   Domain created on 15-Mar-2004
+   Domain expires on 15-Mar-2016
+   Last updated on 07-Mar-2011
+
+   Domain servers in listed order:
+
+      NS687.HOSTGATOR.COM
+      NS688.HOSTGATOR.COM
+
+At our customer's request, our system is acting as a proxy for email
+addressed to the contacts which are listed above. Please visit
+www.emailaddressprotection.com to contact the appropriate party.
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

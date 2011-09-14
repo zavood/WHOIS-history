@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHTAH.COM
+   Domain Name: HOLENSWORTH.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A.NS.CHTAH.COM
-   Name Server: B.NS.CHTAH.COM
-   Name Server: C.NS.CHTAH.COM
-   Name Server: D.NS.CHTAH.COM
-   Name Server: E.NS.CHTAH.COM
-   Name Server: F.NS.CHTAH.COM
+   Name Server: NS29.WORLDNIC.COM
+   Name Server: NS30.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 31-may-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2021
+   Updated Date: 19-apr-2010
+   Creation Date: 27-oct-2002
+   Expiration Date: 27-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:38:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: chtah.com
+Whois Query: holensworth.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:29:02 EDT 2011
+Date and Time of Query: Wed Sep 14 12:28:43 EDT 2011
 Reason Code: IE

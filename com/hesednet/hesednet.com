@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHTAH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A.NS.CHTAH.COM
-   Name Server: B.NS.CHTAH.COM
-   Name Server: C.NS.CHTAH.COM
-   Name Server: D.NS.CHTAH.COM
-   Name Server: E.NS.CHTAH.COM
-   Name Server: F.NS.CHTAH.COM
-   Status: clientTransferProhibited
-   Updated Date: 31-may-2011
-   Creation Date: 31-may-2000
-   Expiration Date: 31-may-2021
+   Domain Name: HESEDNET.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: HESED.HESEDNET.COM
+   Name Server: NS2.HESEDNET.COM
+   Status: ok
+   Updated Date: 27-apr-2011
+   Creation Date: 01-may-2002
+   Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:39:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Welcome to GABIA.COM's WHOIS data service.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant : choi sun hyek
+	1374 Gwaneum-dong, Buk-gu, DAEGU
+	(702803)
 
-http://www.networksolutions.com/whois/index.jhtml
+	Domain Name:  HESEDNET.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+	Administrative, Technical, Billing Contact:
+		choi sun hyke	c6810071@hanmail.net
+		1374 Gwaneum-dong, Buk-gu, DAEGU
+		(Tel) 053-325-1019	(fax)
 
-Whois Query: chtah.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:29:02 EDT 2011
-Reason Code: IE
+	Record created on 	may       01, 2002
+	Record expires on 	2012-05-01
+	Record last updated on 	2011-04-28
+
+	Domain servers in listed order:
+
+	hesed.hesednet.com
+	ns2.hesednet.com
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
