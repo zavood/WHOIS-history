@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 126IDC.COM
+   Domain Name: BJTSYF.COM
    Registrar: XIN NET TECHNOLOGY CORPORATION
    Whois Server: whois.paycenter.com.cn
    Referral URL: http://www.xinnet.com
-   Name Server: NS.XINNET.CN
-   Name Server: NS.XINNETDNS.COM
+   Name Server: NS3.XRNET.CN
+   Name Server: NS4.XRNET.CN
    Status: ok
-   Updated Date: 22-jun-2011
-   Creation Date: 26-nov-2004
-   Expiration Date: 26-nov-2012
+   Updated Date: 11-jul-2011
+   Creation Date: 28-jul-2009
+   Expiration Date: 28-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:35:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:37:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,54 +66,54 @@ apply to Paycenter or its systems.
 Paycenter reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : 126idc.com
-PunnyCode        : 126idc.com
-Creation Date    : 2004-11-27 00:00:00
-Updated Date     : 2011-06-22 22:33:53
-Expiration Date  : 2012-11-27 00:00:00
+Domain Name      : bjtsyf.com
+PunnyCode        : bjtsyf.com
+Creation Date    : 2009-07-28 12:29:39
+Updated Date     : 2011-07-11 13:11:19
+Expiration Date  : 2012-07-28 12:29:36
 
 
 Registrant:
-  Organization   : zhinfo
-  Name           : lihuadong
-  Address        : futian
-  City           : shenshi
-  Province/State : guangdongsheng
-  Country        : china
-  Postal Code    : 518040
+  Organization   : bei jing
+  Name           : fu jian
+  Address        : bei jing
+  City           : bei jing
+  Province/State : Beijing
+  Country        : cn
+  Postal Code    : 100079
 
 Administrative Contact:
-  Name           : lihuadong
-  Organization   : joinho
-  Address        : futian
-  City           : shenshi
-  Province/State : guangdongsheng
-  Country        : china
-  Postal Code    : 518040
-  Phone Number   : 86-755-88860220
-  Fax            : 86-755-88860220
-  Email          : 231762@qq.com
+  Name           : bei jing
+  Organization   : bei jing
+  Address        : bei jing
+  City           : bei jing
+  Province/State : Beijing
+  Country        : cn
+  Postal Code    : 100079
+  Phone Number   : 86-010-67656590
+  Fax            : 86-010-67656590
+  Email          : bjfujian@163.com
 
 Technical Contact:
-  Name           : lihuadong
-  Organization   : joinho
-  Address        : futian
-  City           : shenshi
-  Province/State : guangdongsheng
-  Country        : china
-  Postal Code    : 518040
-  Phone Number   : 86-755-88860220
-  Fax            : 86-755-88860220
-  Email          : 231762@qq.com
+  Name           : bei jing
+  Organization   : bei jing
+  Address        : bei jing
+  City           : bei jing
+  Province/State : Beijing
+  Country        : cn
+  Postal Code    : 100079
+  Phone Number   : 86-010-67656590
+  Fax            : 86-010-67656590
+  Email          : bjfujian@163.com
 
 Billing Contact:
-  Name           : lihuadong
-  Organization   : joinho
-  Address        : futian
-  City           : shenshi
-  Province/State : guangdongsheng
-  Country        : china
-  Postal Code    : 518040
-  Phone Number   : 86-755-88860220
-  Fax            : 86-755-88860220
-  Email          : 231762@qq.com
+  Name           : bei jing
+  Organization   : bei jing
+  Address        : bei jing
+  City           : bei jing
+  Province/State : Beijing
+  Country        : cn
+  Postal Code    : 100079
+  Phone Number   : 86-010-67656590
+  Fax            : 86-010-67656590
+  Email          : bjfujian@163.com
