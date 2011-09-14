@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NHANHOA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS2011.NHANHOA.COM
-   Name Server: NS2012.NHANHOA.COM
-   Name Server: NS2013.NHANHOA.COM
-   Name Server: NS2014.NHANHOA.COM
-   Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jan-2003
-   Expiration Date: 30-jan-2019
+   Domain Name: JBFSALE.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: LH1.WEB-HOST.NET
+   Name Server: NS2.WEB-HOST.NET
+   Status: ok
+   Updated Date: 05-aug-2010
+   Creation Date: 24-sep-2003
+   Expiration Date: 24-sep-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:52:30 UTC &lt;&lt;&lt;
 
@@ -53,23 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registration Service Provided By: QUANTUM DELTA
+Contact: +01.9184772267
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name: JBFSALE.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+    Just Between Friends
+    Shannon Wilburn        (shannon@jbfsale.com)
+    325 North Butternut
+    Broken Arrow
+    OK,74012
+    US
+    Tel. +01.9189025673
 
-http://www.networksolutions.com/whois/index.jhtml
+Creation Date: 24-Sep-2003
+Expiration Date: 24-Sep-2015
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Domain servers in listed order:
+    lh1.web-host.net
+    ns2.web-host.net
 
-Whois Query: nhanhoa.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:42:42 EDT 2011
-Reason Code: IE
+
+Administrative Contact:
+    Just Between Friends
+    Shannon Wilburn        (shannon@jbfsale.com)
+    325 North Butternut
+    Broken Arrow
+    OK,74012
+    US
+    Tel. +01.9189025673
+
+Technical Contact:
+    Just Between Friends
+    Shannon Wilburn        (shannon@jbfsale.com)
+    325 North Butternut
+    Broken Arrow
+    OK,74012
+    US
+    Tel. +01.9189025673
+
+Billing Contact:
+    Just Between Friends
+    Shannon Wilburn        (shannon@jbfsale.com)
+    325 North Butternut
+    Broken Arrow
+    OK,74012
+    US
+    Tel. +01.9189025673
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

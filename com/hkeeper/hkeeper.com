@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NHANHOA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS2011.NHANHOA.COM
-   Name Server: NS2012.NHANHOA.COM
-   Name Server: NS2013.NHANHOA.COM
-   Name Server: NS2014.NHANHOA.COM
-   Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jan-2003
-   Expiration Date: 30-jan-2019
+   Domain Name: HKEEPER.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS24.DNSEVER.COM
+   Name Server: NS44.DNSEVER.COM
+   Status: ok
+   Updated Date: 21-jul-2011
+   Creation Date: 23-aug-2007
+   Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:52:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:51:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +53,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Welcome to GABIA.COM's WHOIS data service.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Reseller : Simplex Internet Inc.
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant : gnhcorp
+	Daejin Univ. Seondan-dong Pocheon-si Gyeonggi-do .
+	(487711)
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+	Domain Name:  HKEEPER.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-Whois Query: nhanhoa.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 23:42:42 EDT 2011
-Reason Code: IE
+	Administrative, Technical, Billing Contact:
+		gnhcorp	jkyusang@gmail.com
+		Daejin Univ. Seondan-dong Pocheon-si Gyeonggi-do .
+		(Tel) 010-4706-8072	(fax) 010-4706-8072
+
+	Record created on 	AUGUST    23, 2007
+	Record expires on 	AUGUST    23, 2012
+	Record last updated on 	JULY      21, 2011
+
+	Domain servers in listed order:
+
+	ns19.dnsever.com
+	ns24.dnsever.com
+
+Register a domain name at www.gabia.com
