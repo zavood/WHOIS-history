@@ -3,15 +3,16 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     HOSTLAND.RU
-nserver:    ns.hostland.ru. 77.234.201.78
-nserver:    ns3.hostland.ru. 77.234.200.229
+domain:     SYSPRO.RU
+nserver:    ns1.salenames.ru.
+nserver:    ns2.salenames.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-person:     Private Person
-e-mail:     support@hostland.ru
-registrar:  R01-REG-RIPN
-created:    2003.07.17
-paid-till:  2012.07.17
+org:        NETLINK LTD.
+phone:      +0 000 0000000
+e-mail:     netlink501@gmail.com
+registrar:  SALENAMES-REG-RIPN
+created:    2007.07.18
+paid-till:  2012.07.18
 source:     TCI
 
 Last updated on 2011.09.14 06:58:42 MSK/MSD

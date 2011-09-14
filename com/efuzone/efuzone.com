@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KCFPPGF.NET
-   Registrar: UK2 GROUP LTD.
-   Whois Server: whois.hostingservicesinc.net
-   Referral URL: http://www.resell.biz
-   Name Server: NS1.1DNS.NAME
-   Name Server: NS2.1DNS.NAME
-   Name Server: NS3.1DNS.NAME
-   Name Server: NS4.1DNS.NAME
+   Domain Name: EFUZONE.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.EFUZONE.COM
+   Name Server: NS2.EFUZONE.COM
    Status: clientTransferProhibited
-   Updated Date: 16-jun-2011
-   Creation Date: 16-jun-2011
-   Expiration Date: 16-jun-2012
+   Updated Date: 16-mar-2011
+   Creation Date: 12-jun-2006
+   Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:02:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:03:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,74 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: 1'ST DOMAIN NAME SERVICE
-Contact: +373.79449745
-Website: http://www.1dns.ru
+Registration Service Provided By: EFUZONE.COM
+Contact: +92.3222441299
+Website: http://www.efuzone.com
 
-Domain Name: KCFPPGF.NET
+Domain Name: EFUZONE.COM
 
 Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    efuzone
+    Faizan Mirza        (info@efuzone.com)
+    Kharadar
+    Karachi
+    ,74000
+    PK
+    Tel. +92.3222441299
+    Fax. +92.3222441299
 
-Creation Date: 16-Jun-2011
-Expiration Date: 16-Jun-2012
+Creation Date: 12-Jun-2006
+Expiration Date: 12-Jun-2012
 
 Domain servers in listed order:
-    ns1.1dns.name
-    ns2.1dns.name
-    ns3.1dns.name
-    ns4.1dns.name
+    ns1.efuzone.com
+    ns2.efuzone.com
 
 
 Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    efuzone
+    Faizan Mirza        (info@efuzone.com)
+    Kharadar
+    Karachi
+    ,74000
+    PK
+    Tel. +92.3222441299
+    Fax. +92.3222441299
 
 Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    efuzone
+    Faizan Mirza        (info@efuzone.com)
+    Kharadar
+    Karachi
+    ,74000
+    PK
+    Tel. +92.3222441299
+    Fax. +92.3222441299
 
 Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    efuzone
+    Faizan Mirza        (info@efuzone.com)
+    Kharadar
+    Karachi
+    ,74000
+    PK
+    Tel. +92.3222441299
+    Fax. +92.3222441299
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
 	name cannot be transferred, hijacked, or modified. The Owner of this
 	domain name can easily change this status from their control panel.
 	This feature is provided as a security measure against fraudulent domain name hijacking.
-
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -132,7 +121,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is UK2 Group Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

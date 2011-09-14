@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D119454633-LROR
+Domain Name:LVASFBO.ORG
+Created On:29-Mar-2006 22:18:49 UTC
+Last Updated On:17-Mar-2011 00:26:21 UTC
+Expiration Date:29-Mar-2012 22:18:49 UTC
+Sponsoring Registrar:Moniker Online Services LLC (R145-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:MONIKER2970245
+Registrant Name:Jim Ludlow
+Registrant Street1:9999 Hamilton Blvd.
+Registrant Street2:170
+Registrant Street3:
+Registrant City:Breinigsville
+Registrant State/Province:PA
+Registrant Postal Code:18031
+Registrant Country:US
+Registrant Phone:+1.4843974183
+Registrant Phone Ext.:
+Registrant FAX:+1.4843974170
+Registrant FAX Ext.:
+Registrant Email:hosting@liquidint.com
+Admin ID:MONIKER2970245
+Admin Name:Jim Ludlow
+Admin Street1:9999 Hamilton Blvd.
+Admin Street2:170
+Admin Street3:
+Admin City:Breinigsville
+Admin State/Province:PA
+Admin Postal Code:18031
+Admin Country:US
+Admin Phone:+1.4843974183
+Admin Phone Ext.:
+Admin FAX:+1.4843974170
+Admin FAX Ext.:
+Admin Email:hosting@liquidint.com
+Tech ID:MONIKER2970245
+Tech Name:Jim Ludlow
+Tech Street1:9999 Hamilton Blvd.
+Tech Street2:170
+Tech Street3:
+Tech City:Breinigsville
+Tech State/Province:PA
+Tech Postal Code:18031
+Tech Country:US
+Tech Phone:+1.4843974183
+Tech Phone Ext.:
+Tech FAX:+1.4843974170
+Tech FAX Ext.:
+Tech Email:hosting@liquidint.com
+Name Server:NS1A.DBSINTL.NET
+Name Server:NS2A.DBSINTL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
