@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75493793-LROR
+Domain Name:SIDANCE.ORG
+Created On:30-Jul-2001 06:05:19 UTC
+Last Updated On:01-Aug-2011 03:56:55 UTC
+Expiration Date:30-Jul-2014 06:05:19 UTC
+Sponsoring Registrar:YesNIC Co., Ltd. (R82-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:YNIC-01011667
+Registrant Name:Tozio International Co.
+Registrant Organization:Tozio International Co.
+Registrant Street1:3F Batangol Art Center #1-60 Tongsung-dong Chongno-gu Seoul
+Registrant Street2:
+Registrant Street3:
+Registrant City:Korea
+Registrant State/Province:
+Registrant Postal Code:110-510
+Registrant Country:KR
+Registrant Phone:+82.27665210
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tosetfree@empal.com
+Admin ID:YNIC-01111667
+Admin Name:Yun,Seong-jin
+Admin Organization:Yun,Seong-jin
+Admin Street1:3F Batangol Art Center #1-60 Tongsung-dong Chongno-gu Seoul
+Admin Street2:
+Admin Street3:
+Admin City:Korea
+Admin State/Province:
+Admin Postal Code:110-510
+Admin Country:KR
+Admin Phone:+82.27665210
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tozio210@hanmail.net
+Tech ID:YNIC-01211667
+Tech Name:Whois Co., Ltd.
+Tech Organization:Whois Co., Ltd.
+Tech Street1:143-39 Shinil Bldg.1F Samsung-dong
+Tech Street2:
+Tech Street3:
+Tech City:Kangnam-gu
+Tech State/Province:
+Tech Postal Code:135-877
+Tech Country:KR
+Tech Phone:+82.23254259
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:whois@whois.co.kr
+Name Server:NS32.DNSEVER.COM
+Name Server:NS19.DNSEVER.COM
+Name Server:NS86.DNSEVER.COM
+Name Server:NS231.DNSEVER.COM
+Name Server:NS259.DNSEVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
