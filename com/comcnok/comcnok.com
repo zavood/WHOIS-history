@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: USINTER.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.USINTER.NET
-   Name Server: NS2.USINTER.NET
+   Domain Name: COMCNOK.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: DNS1.MYCOMB.COM
+   Name Server: NS2.CNOLNIC.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 23-feb-1996
-   Expiration Date: 24-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 24-jan-2011
+   Creation Date: 21-aug-2007
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:13:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:12:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
+
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
 
-Domain name: usinter.net
+Domain: comcnok.com
+Status: Protected
+
+DNS:
+	DNS1.MYCOMB.COM
+	NS2.CNOLNIC.NET
+
+Created: 2007-08-22 11:21:30
+Expires: 2012-08-22 03:21:30
+Last Modified: 2008-08-26 14:28:58
 
 Registrant Contact:
-   US Internet
-    Technical Staff ()
-
-   Fax:
-   2800 28th Street Suite 215
-   Santa Monica, CA 90405
-   US
+	gaohaoran
+	gaohaoran gaohaoran (service@mail.mycomb.com)
+	beijing
+	beijing, Beijing, cn 100029
+	P: +86.01086882808 F: +86.01051265897
 
 Administrative Contact:
-   US Internet
-   Administration Staff (info@USINTER.NET)
-   +1.3105812811
-   Fax:
-   PO Box 1070
-   Santa Monica, CA 90406
-   US
+	gaohaoran
+	gaohaoran gaohaoran (service@mail.mycomb.com)
+	beijing
+	beijing, Beijing, cn 100029
+	P: +86.01086882808 F: +86.01051265897
 
 Technical Contact:
-   US Internet
-   Technical Staff (tech@USINTER.NET)
-   +1.3105812811
-   Fax: +1.3104556099
-   P.O. Box 1070
-   Santa Monica, CA 90406
-   US
+	gaohaoran
+	gaohaoran gaohaoran (service@mail.mycomb.com)
+	beijing
+	beijing, Beijing, cn 100029
+	P: +86.01086882808 F: +86.01051265897
 
-Status: Locked
+Billing Contact:
+	gaohaoran
+	gaohaoran gaohaoran (service@mail.mycomb.com)
+	beijing
+	beijing, Beijing, cn 100029
+	P: +86.01086882808 F: +86.01051265897
 
-Name Servers:
-   ns1.usinter.net
-   ns2.usinter.net
-
-Creation date: 23 Feb 1996 05:00:00
-Expiration date: 24 Feb 2012 05:00:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
