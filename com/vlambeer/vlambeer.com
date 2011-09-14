@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ITGLOBALSYSTEM.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:56:14 UTC &lt;&lt;&lt;
+   Domain Name: VLAMBEER.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS06.RZONE.DE
+   Name Server: SHADES12.RZONE.DE
+   Status: ok
+   Updated Date: 24-jul-2011
+   Creation Date: 23-jul-2010
+   Expiration Date: 23-jul-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:55:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Rami Ismail
+
+   1e Oosterstraat 23b
+   Hilversum, 1211 KZ, NL
+
+   Punycode Name:  vlambeer.com
+   Unicode Name:   vlambeer.com
+
+   Admin Contact
+      Rami Ismail
+
+      info@ramiismail.com
+      1e Oosterstraat 23b
+      Hilversum, 1211 KZ, NL
+      phone: +31 621206363
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-07-23 16:30:24
+
+   Domain servers in listed order:
+
+      shades12.rzone.de
+      docks06.rzone.de
+
+
+

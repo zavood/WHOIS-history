@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'nasimebidari.ir'
+
+
+domain:		nasimebidari.ir
+ascii:		nasimebidari.ir
+remarks:	(Domain Holder) Babak Niazi
+remarks:	(Domain Holder Address) No. 58 ,20Metry ShirSangi St., Hamedan, Hamedan, IR
+holder-c:	bn74-irnic
+admin-c:	bn74-irnic
+tech-c:		bn74-irnic
+nserver:	ns11.pouyasazan.org
+nserver:	Ns12.pouyasazan.org
+last-updated:	2009-11-29
+source:		IRNIC # Filtered
+
+nic-hdl:	bn74-irnic
+person:		Babak Niazi
+e-mail:		Bani2535@Gmail.com
+address:	No. 58 ,20Metry ShirSangi St., Hamedan, Hamedan, IR
+phone:		+98 811 825 4900
+fax-no:		+98 811 828 1723
+source:		IRNIC # Filtered
+

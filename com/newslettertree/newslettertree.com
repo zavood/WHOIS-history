@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FAKERSCRIPT.NET
+   Domain Name: NEWSLETTERTREE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.REGISTRAR-SERVERS.COM
-   Name Server: DNS2.REGISTRAR-SERVERS.COM
-   Name Server: DNS3.REGISTRAR-SERVERS.COM
-   Name Server: DNS4.REGISTRAR-SERVERS.COM
-   Name Server: DNS5.REGISTRAR-SERVERS.COM
+   Name Server: JAKE.NS.CLOUDFLARE.COM
+   Name Server: LISA.NS.CLOUDFLARE.COM
    Status: clientTransferProhibited
-   Updated Date: 09-apr-2011
-   Creation Date: 24-mar-2011
-   Expiration Date: 24-mar-2012
+   Updated Date: 12-may-2011
+   Creation Date: 31-mar-2009
+   Expiration Date: 31-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:54:27 UTC &lt;&lt;&lt;
 
@@ -55,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about fakerscript.net
-&lt;a href=&quot;http://www.aboutus.org/fakerscript.net&quot;&gt;AboutUs: fakerscript.net&lt;/a&gt;
+Visit AboutUs.org for more information about newslettertree.com
+&lt;a href=&quot;http://www.aboutus.org/newslettertree.com&quot;&gt;AboutUs: newslettertree.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: fakerscript.net
-
-Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
-
-   Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+Domain name: newslettertree.com
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (6b27f3e4b56b4e099f405b389e05f6bd.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   -
+   George Smith (george.r.smith@gmail.com)
+   +1.9027523116
+   Fax:
+   Mount Batton Drive
+   New Glasgow, NOVA SCOTIA B2H 5T3
+   CA
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (6b27f3e4b56b4e099f405b389e05f6bd.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   -
+   George Smith (george.r.smith@gmail.com)
+   +1.9027523116
+   Fax:
+   Mount Batton Drive
+   New Glasgow, NOVA SCOTIA B2H 5T3
+   CA
+
+Registrant Contact:
+   -
+   George Smith ()
+
+   Fax:
+   Mount Batton Drive
+   New Glasgow, NOVA SCOTIA B2H 5T3
+   CA
 
 Status: Locked
 
 Name Servers:
-   dns1.registrar-servers.com
-   dns2.registrar-servers.com
-   dns3.registrar-servers.com
-   dns4.registrar-servers.com
-   dns5.registrar-servers.com
+   jake.ns.cloudflare.com
+   lisa.ns.cloudflare.com
 
-Creation date: 24 Mar 2011 23:07:00
-Expiration date: 24 Mar 2012 18:07:00
+Creation date: 31 Mar 2009 20:23:02
+Expiration date: 31 Mar 2012 20:23:00
 
 
 

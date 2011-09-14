@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ITGLOBALSYSTEM.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:56:14 UTC &lt;&lt;&lt;
+   Domain Name: UDONZONE.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.BESTBUYSALE0.COM
+   Name Server: NS2.BESTBUYSALE0.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-jun-2011
+   Creation Date: 28-nov-2008
+   Expiration Date: 28-nov-2011
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:54:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain udonzone.com
+
+Date Registered: 2008-11-28
+Date Modified: 2011-6-9
+Expiry Date: 2011-11-28
+
+DNS1: ns1.bestbuysale0.com
+DNS2: ns2.bestbuysale0.com
+
+Registrant
+    Private Whois udonzone.com
+    Private Whois udonzone.com  kl800a54d939a110a06d@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o udonzone.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois udonzone.com
+    Private Whois udonzone.com  w8qxaw74d939a1118978@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o udonzone.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois udonzone.com
+    Private Whois udonzone.com  whdgvti4d939a1110c0b@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o udonzone.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

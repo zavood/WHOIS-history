@@ -5,8 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ITGLOBALSYSTEM.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:56:14 UTC &lt;&lt;&lt;
+   Domain Name: NORDICNEEDLE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.HOSTASAURUS.COM
+   Name Server: NS2.HOSTASAURUS.COM
+   Name Server: NS3.HOSTASAURUS.COM
+   Name Server: NS4.HOSTASAURUS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 25-nov-2009
+   Creation Date: 29-sep-1996
+   Expiration Date: 28-sep-2014
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:55:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +54,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
