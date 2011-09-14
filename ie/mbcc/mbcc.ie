@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      mbcc.ie
+descr:       Mountain Bike Club of Cork
+descr:       UNINCORPORATED ASSOCIATION
+descr:       Unincorporated Association Name
+admin-c:     ACU115-IEDR
+tech-c:      ABG704-IEDR
+renewal:     21-December-2011
+status:      Active
+nserver:     NS1.DNSIRELAND.COM
+nserver:     NS2.DNSIRELAND.COM
+source:      IEDR
+
+person:      Niall Donovan
+nic-hdl:     ACU115-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

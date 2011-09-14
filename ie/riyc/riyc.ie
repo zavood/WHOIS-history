@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      riyc.ie
+descr:       Royal Irish Yacht Club
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     LG63-IEDR
+tech-c:      HH36-IEDR
+renewal:     30-September-2011
+status:      Active
+nserver:     ns0.reg365.net
+nserver:     ns1.reg365.net
+nserver:     ns2.reg365.net
+source:      IEDR
+
+person:      Sarah Breen
+nic-hdl:     LG63-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

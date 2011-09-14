@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2119782-LROR
+Domain Name:MRA.ORG
+Created On:11-Aug-1995 04:00:00 UTC
+Last Updated On:14-Jul-2011 02:17:15 UTC
+Expiration Date:10-Aug-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30781018-NSI
+Registrant Name:Mountain Rescue Association
+Registrant Organization:Mountain Rescue Association
+Registrant Street1:PO BOX 880868
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Diego
+Registrant State/Province:CA
+Registrant Postal Code:92168-0868
+Registrant Country:US
+Registrant Phone:+1.8582294295
+Registrant Phone Ext.:
+Registrant FAX:+1.6193747072
+Registrant FAX Ext.:
+Registrant Email:kayley@kayley.com
+Admin ID:30781018-NSI
+Admin Name:Mountain Rescue Association
+Admin Organization:Mountain Rescue Association
+Admin Street1:PO BOX 880868
+Admin Street2:
+Admin Street3:
+Admin City:San Diego
+Admin State/Province:CA
+Admin Postal Code:92168-0868
+Admin Country:US
+Admin Phone:+1.8582294295
+Admin Phone Ext.:
+Admin FAX:+1.6193747072
+Admin FAX Ext.:
+Admin Email:kayley@kayley.com
+Tech ID:30781019-NSI
+Tech Name:Kayley Bell
+Tech Street1:PO BOX 880868
+Tech Street2:
+Tech Street3:
+Tech City:San Diego
+Tech State/Province:CA
+Tech Postal Code:92168-0868
+Tech Country:US
+Tech Phone:+1.8582294295
+Tech Phone Ext.:
+Tech FAX:+1.6193747072
+Tech FAX Ext.:
+Tech Email:kayley@kayley.com
+Name Server:NS1.PSHIFT.COM
+Name Server:NS2.PSHIFT.COM
+Name Server:NS3.PSHIFT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
