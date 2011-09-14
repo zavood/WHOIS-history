@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SWEETWRITES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-dec-2010
-   Creation Date: 19-jul-2008
-   Expiration Date: 25-feb-2012
+   Domain Name: WORKGRAPHIC.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.CYON.CH
+   Name Server: NS2.CYON.CH
+   Status: ok
+   Updated Date: 28-aug-2011
+   Creation Date: 11-sep-2003
+   Expiration Date: 11-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:11:22 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,75 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by cyon GmbH
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; cyon GmbH does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: WORKGRAPHIC.COM
 
+RSP: cyon GmbH
+URL: http://www.cyon.ch
 
-Registrant:
-   She's So There
+owner-contact: P-JBT624
+owner-fname: Judith
+owner-lname: Tanner
+owner-street: Altschloss-Strasse 21
+owner-city: Richterswil
+owner-zip: 8805
+owner-country: CH
+owner-phone: 044 784 00 75
+owner-email: work@workgraphic.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SWEETWRITES.COM
+admin-contact: P-JBT624
+admin-fname: Judith
+admin-lname: Tanner
+admin-street: Altschloss-Strasse 21
+admin-city: Richterswil
+admin-zip: 8805
+admin-country: CH
+admin-phone: 044 784 00 75
+admin-email: work@workgraphic.com
 
-   Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+tech-contact: P-DAB107
+tech-organization: cyon GmbH
+tech-fname: David
+tech-lname: Burkardt
+tech-street: Gerbergasse 14
+tech-city: Basel
+tech-state: BS
+tech-zip: 4001
+tech-country: CH
+tech-phone: +41 61 271 99 74
+tech-fax: +41 61 271 99 75
+tech-email: info@cyon.ch
 
+billing-contact: P-DAB107
+billing-organization: cyon GmbH
+billing-fname: David
+billing-lname: Burkardt
+billing-street: Gerbergasse 14
+billing-city: Basel
+billing-state: BS
+billing-zip: 4001
+billing-country: CH
+billing-phone: +41 61 271 99 74
+billing-fax: +41 61 271 99 75
+billing-email: info@cyon.ch
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SWEETWRITES.COM
+nameserver: ns1.cyon.ch
+nameserver: ns2.cyon.ch
+
+; Please register your domains at
+; http://www.cyon.ch
+
