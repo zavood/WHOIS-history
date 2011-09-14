@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 10STATESSTANDARDS.COM
+   Domain Name: TOMSTABOOLEY.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS1.STATE.MN.US
-   Name Server: NS2.STATE.MN.US
-   Status: clientTransferProhibited
-   Updated Date: 19-aug-2009
-   Creation Date: 27-feb-2007
-   Expiration Date: 27-feb-2019
+   Name Server: NS1.IPAGE.COM
+   Name Server: NS2.IPAGE.COM
+   Status: ok
+   Updated Date: 22-feb-2011
+   Creation Date: 12-apr-2005
+   Expiration Date: 12-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:43:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:44:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-
-      Stew Thornley
-      P. O. Box 64975
-      St. Paul, MN 55164
+      Lone Tree Design
+      brigid abdenour
+      2928 Guadalupe St.
+      Austin, TX 78705
       US
-      Phone: +1.6512014655
-      Email: stew.thornley@state.mn.us
+      Phone: +1.5124797337
+      Email: lonetreedesign@hotmail.com
 
 
 
@@ -84,18 +84,18 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: 10statesstandards.com
-      Created on..............: 2007-02-27
-      Expires on..............: 2019-02-27
+   Domain Name: tomstabooley.com
+      Created on..............: 2005-04-12
+      Expires on..............: 2016-04-12
 
    Administrative Contact:
-
-      Stew Thornley
-      P. O. Box 64975
-      St. Paul, MN 55164
+      Lone Tree Design
+      brigid abdenour
+      2928 Guadalupe St.
+      Austin, TX 78705
       US
-      Phone: +1.6512014655
-      Email: stew.thornley@health.state.mn.us
+      Phone: +1.5124797337
+      Email: brigidabdenour@yahoo.com
 
 
    Technical  Contact:
@@ -109,14 +109,14 @@ By submitting this query, you agree to abide by these terms.
 
 
    DNS Servers:
-      ns1.state.mn.us
-      ns2.state.mn.us
+      ns1.ipage.com
+      ns2.ipage.com
 
 
 
-Visit AboutUs.org for more information about 10statesstandards.com
+Visit AboutUs.org for more information about tomstabooley.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/10statesstandards.com&quot;&gt;AboutUs: 10statesstandards.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/tomstabooley.com&quot;&gt;AboutUs: tomstabooley.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

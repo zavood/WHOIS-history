@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DARKMATTERSWEBNOVEL.COM
+   Domain Name: THEBLACKTIEFORMALWEAR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS25.DOMAINCONTROL.COM
-   Name Server: NS26.DOMAINCONTROL.COM
+   Name Server: NS11.HOSTING24.COM
+   Name Server: NS12.HOSTING24.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 26-aug-2009
-   Creation Date: 05-jan-2008
-   Expiration Date: 05-jan-2012
+   Updated Date: 17-feb-2010
+   Creation Date: 10-apr-2009
+   Expiration Date: 10-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:44:04 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Black Tie Formal Wear Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DARKMATTERSWEBNOVEL.COM
+   Domain Name: THEBLACKTIEFORMALWEAR.COM
 
    Domain servers in listed order:
-      NS25.DOMAINCONTROL.COM
-      NS26.DOMAINCONTROL.COM
+      NS11.HOSTING24.COM
+      NS12.HOSTING24.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DARKMATTERSWEBNOVEL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THEBLACKTIEFORMALWEAR.COM
