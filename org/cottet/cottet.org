@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17987893-LROR
+Domain Name:COTTET.ORG
+Created On:18-Jan-2000 19:03:55 UTC
+Last Updated On:08-Nov-2010 08:49:43 UTC
+Expiration Date:18-Jan-2012 19:03:55 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:OK
+Registrant ID:BMN-193407
+Registrant Name:PHILIPPE COTTET
+Registrant Organization:Philippe Cottet
+Registrant Street1:5 rue Tolain
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75020
+Registrant Country:FR
+Registrant Phone:+33.144937179
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:philippe@cottet.org
+Admin ID:BMN-252104
+Admin Name:Alexandre YEPES
+Admin Organization:O2SWITCH
+Admin Street1:Boulevard Gustave Flaubert
+Admin Street2:
+Admin Street3:
+Admin City:CLERMONT-FERRAND
+Admin State/Province:
+Admin Postal Code:63000
+Admin Country:FR
+Admin Phone:+33.444446040
+Admin Phone Ext.:
+Admin FAX:+33.444446041
+Admin FAX Ext.:
+Admin Email:support@o2switch.fr
+Tech ID:BMN-252104
+Tech Name:Alexandre YEPES
+Tech Organization:O2SWITCH
+Tech Street1:Boulevard Gustave Flaubert
+Tech Street2:
+Tech Street3:
+Tech City:CLERMONT-FERRAND
+Tech State/Province:
+Tech Postal Code:63000
+Tech Country:FR
+Tech Phone:+33.444446040
+Tech Phone Ext.:
+Tech FAX:+33.444446041
+Tech FAX Ext.:
+Tech Email:support@o2switch.fr
+Name Server:NS1.O2SWITCH.NET
+Name Server:NS2.O2SWITCH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,20 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: AMNESIO.COM
+   Registrar: NAME.COM LLC
+   Whois Server: whois.name.com
+   Referral URL: http://www.name.com
+   Name Server: No nameserver
+   Status: redemptionPeriod
+   Updated Date: 23-aug-2011
+   Creation Date: 11-jul-2010
+   Expiration Date: 11-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +50,6 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+NO DOMAIN (1)
+
+Cached on: 2011-09-14T08:33:10-06:00

@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: LAGARDERE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
+   Status: clientTransferProhibited
+   Updated Date: 08-jul-2011
+   Creation Date: 02-aug-1995
+   Expiration Date: 01-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : LAGARDERE.COM
+Created On : 1995-08-02
+Expiration Date : 2012-08-01
+Status : PROTECTED
+Registrant Name : LAGARDERE SCA
+Registrant Street1 : 121 avenue malakoff
+Registrant City : PARIS
+Registrant State/Province  : FR
+Registrant Postal Code : 75116
+Registrant Country : FR
+Admin Name : LAGARDERE SCA
+Admin Street1 : 121 avenue de malakoff
+Admin City : PARIS
+Admin State/Province : ILE DE FRANCE
+Admin Postal Code : 75016
+Admin Country : FR
+Admin Phone : +33.140691791
+Admin Email : ndd@lagardere.fr
+Tech Name : LAGARDERE SCA
+Tech Street1 : 121 avenue de malakoff
+Tech City : PARIS
+Tech State/Province : ILE DE FRANCE
+Tech Postal Code : 75016
+Tech Country : FR
+Tech Phone : +33.140691791
+Tech Email : ndd@lagardere.fr
+Billing Name : LAGARDERE SCA
+Billing Street1 : 121 avenue de malakoff
+Billing City : PARIS
+Billing State/Province : FR
+Billing Postal Code : 75016
+Billing Country : FR
+Billing Phone : +33.140691791
+Billing Email : billing@lagardere.fr
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay

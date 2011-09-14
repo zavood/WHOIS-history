@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
+   Domain Name: LAKOTACHALLENGE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
    Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Updated Date: 10-may-2011
+   Creation Date: 25-jun-2009
+   Expiration Date: 25-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

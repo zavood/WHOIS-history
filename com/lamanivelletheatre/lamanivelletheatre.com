@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: LAMANIVELLETHEATRE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
+   Status: clientTransferProhibited
+   Updated Date: 15-jan-2011
+   Creation Date: 29-jan-2004
+   Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:31:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : LAMANIVELLETHEATRE.COM
+Created On : 2004-01-29
+Expiration Date : 2012-01-29
+Status : PROTECTED
+Registrant Name : La Manivelle Theatre
+Registrant Street1 : 18 RUE LOUIS LEJEUNE
+Registrant City : Wasquehal
+Registrant State/Province  :
+Registrant Postal Code : 59290
+Registrant Country : FR
+Admin Name : La Manivelle Theatre
+Admin Street1 : 18 RUE LOUIS LEJEUNE
+Admin City : Wasquehal
+Admin State/Province : FR
+Admin Postal Code : 59290
+Admin Country : FR
+Admin Phone : +33.0320368657
+Admin Email : e.vialette@laposte.net
+Tech Name : La Manivelle Theatre
+Tech Street1 : 18 RUE LOUIS LEJEUNE
+Tech City : Wasquehal
+Tech State/Province : FR
+Tech Postal Code : 59290
+Tech Country : FR
+Tech Phone : +33.0320368657
+Tech Email : e.vialette@laposte.net
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

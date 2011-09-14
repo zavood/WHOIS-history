@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: LIBERT-FR.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS1.TUXFAMILY.NET
+   Name Server: NS2.TUXFAMILY.NET
+   Status: clientTransferProhibited
+   Updated Date: 15-jun-2011
+   Creation Date: 16-jun-2005
+   Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:31:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Acceso restringido

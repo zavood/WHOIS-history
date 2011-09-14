@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: SKYWOW.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS5.CNMSN.NET
+   Name Server: NS6.CNMSN.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 05-sep-2011
+   Creation Date: 29-apr-2005
+   Expiration Date: 29-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:31:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
+
+Domain name: skywow.com
+
+Registrant Contact:
+   lilinsheng
+   linsheng li xoxbox@163.com
+   13973148670 fax: 13973148670
+   changshatongzipo
+   changsha hunan 410013
+   cn
+
+Administrative Contact:
+   linsheng li xoxbox@163.com
+   13973148670 fax: 13973148670
+   changshatongzipo
+   changsha hunan 410013
+   cn
+
+Technical Contact:
+   linsheng li xoxbox@163.com
+   13973148670 fax: 13973148670
+   changshatongzipo
+   changsha hunan 410013
+   cn
+
+Billing Contact:
+   linsheng li xoxbox@163.com
+   13973148670 fax: 13973148670
+   changshatongzipo
+   changsha hunan 410013
+   cn
+
+DNS:
+ns5.cnmsn.net
+ns6.cnmsn.net
+
+Created: 2005-04-29
+Expires: 2013-04-29

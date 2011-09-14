@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LANLOGIC.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LANLOGIC.NET
-   Name Server: NS1.NESTEGG.NET
-   Name Server: NS2.LANLOGIC.NET
-   Name Server: NS2.NESTEGG.NET
-   Status: ok
-   Updated Date: 08-nov-2010
-   Creation Date: 08-dec-1997
-   Expiration Date: 07-dec-2011
+   Domain Name: TRIANGLE411.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.DOMAINDISCOVER.COM
+   Name Server: NS2.DOMAINDISCOVER.COM
+   Status: clientTransferProhibited
+   Updated Date: 27-dec-2010
+   Creation Date: 04-feb-2005
+   Expiration Date: 04-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:32:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   IT Manager
+   PO BOX 12000
+   Raleigh, NC 27605-2000
+   US
+
+   Domain Name: TRIANGLE411.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      IT Manager
+      PO BOX 12000
+      Raleigh, NC 27605-2000
+      US
+      (919)821-8748
+      (919)821-8637 [fax]
+      hostmaster@wral.com
+
+   Domain created on 04-Feb-2005
+   Domain expires on 05-Feb-2012
+   Last updated on 27-Dec-2010
+
+   Domain servers in listed order:
+
+      NS1.DOMAINDISCOVER.COM
+      NS2.DOMAINDISCOVER.COM
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+
