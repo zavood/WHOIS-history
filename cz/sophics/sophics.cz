@@ -1,0 +1,90 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 21:55:37 2011
+
+domain:       sophics.cz
+registrant:   SB:SOPHICS-CZ
+admin-c:      NOCZLINNET
+nsset:        NSS:ZLINNET-CZ:1
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   13.05.1999 02:00:00
+changed:      16.01.2008 14:51:30
+expire:       12.10.2011
+
+contact:      SB:SOPHICS-CZ
+org:          Sophics, spol. s r.o.
+name:         Sophics, spol. s r.o.
+address:      U Zimniho stadionu 2086
+address:      Zlin
+address:      760 01
+address:      CZ
+e-mail:       josef.horacek@sophics.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      18.09.2007 15:36:00
+
+contact:      NOCZLINNET
+name:         Technicky usek
+address:      U Zimn&Atilde;&shy;ho stadionu 2086
+address:      Zl&Atilde;&shy;n
+address:      76001
+address:      CZ
+phone:        +420.577019642
+e-mail:       noc@zln.cz
+registrar:    REG-MEDIA4WEB
+created:      08.04.2004 17:45:00
+changed:      03.07.2006 17:15:00
+
+nsset:        NSS:ZLINNET-CZ:1
+nserver:      ns.zln.cz
+nserver:      ns2.zln.cz
+tech-c:       SB:ZLINNET-CZ
+tech-c:       AK157-RIPE
+tech-c:       NOCZLINNET
+registrar:    REG-MEDIA4WEB
+created:      01.10.2007 02:00:00
+changed:      26.02.2008 15:41:47
+
+contact:      SB:ZLINNET-CZ
+org:          SOPHICS, spol. s r.o.
+name:         SOPHICS, spol. s r.o.
+address:      U Zimn&Atilde;&shy;ho stadionu 2086
+address:      Zl&Atilde;&shy;n
+address:      76001
+address:      CZ
+e-mail:       admin@zln.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      25.01.2007 09:45:00
+
+contact:      AK157-RIPE
+name:         Ales Kralik
+address:      Valachuv zleb 4887
+address:      Zlin
+address:      76005
+address:      CZ
+phone:        +420.577102172
+fax-no:       +420.577102173
+e-mail:       akruz@sophics.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      10.11.2003 13:35:00
+
+
