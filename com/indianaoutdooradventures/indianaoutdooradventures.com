@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HRG-RECYCLING.COM
+   Domain Name: INDIANAOUTDOORADVENTURES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.AVENET.NET
-   Name Server: NS2.AVENET.NET
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-nov-2008
-   Creation Date: 25-nov-2002
-   Expiration Date: 25-nov-2013
+   Updated Date: 21-mar-2011
+   Creation Date: 28-mar-2010
+   Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:39:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:40:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Avenet LLC
+   Natural Concepts
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HRG-RECYCLING.COM
+   Domain Name: INDIANAOUTDOORADVENTURES.COM
 
    Domain servers in listed order:
-      NS1.AVENET.NET
-      NS2.AVENET.NET
+      NS25.DOMAINCONTROL.COM
+      NS26.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HRG-RECYCLING.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=INDIANAOUTDOORADVENTURES.COM

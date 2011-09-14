@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148821938-LROR
+Domain Name:MULTIMINAS.ORG
+Created On:08-Aug-2007 12:16:16 UTC
+Last Updated On:09-Aug-2011 19:49:39 UTC
+Expiration Date:08-Aug-2012 12:16:16 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DI_7094522
+Registrant Name:Rick
+Registrant Organization:Secure Servers Web Site
+Registrant Street1:antonio monteiro de rezende, 541
+Registrant Street2:
+Registrant Street3:
+Registrant City:Caratinga
+Registrant State/Province:Minas Gerais
+Registrant Postal Code:35300105
+Registrant Country:BR
+Registrant Phone:+55.1140632121
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:comercial@uops.com.br
+Admin ID:DI_7094522
+Admin Name:Rick
+Admin Organization:Secure Servers Web Site
+Admin Street1:antonio monteiro de rezende, 541
+Admin Street2:
+Admin Street3:
+Admin City:Caratinga
+Admin State/Province:Minas Gerais
+Admin Postal Code:35300105
+Admin Country:BR
+Admin Phone:+55.1140632121
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:comercial@uops.com.br
+Tech ID:DI_7094522
+Tech Name:Rick
+Tech Organization:Secure Servers Web Site
+Tech Street1:antonio monteiro de rezende, 541
+Tech Street2:
+Tech Street3:
+Tech City:Caratinga
+Tech State/Province:Minas Gerais
+Tech Postal Code:35300105
+Tech Country:BR
+Tech Phone:+55.1140632121
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:comercial@uops.com.br
+Name Server:NS2.MULTIMINAS.ORG
+Name Server:NS1.MULTIMINAS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XFUELENERGY.COM
+   Domain Name: 91JFWG.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BRANZONE.COM
-   Name Server: NS2.BRANZONE.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 06-sep-2011
-   Creation Date: 08-sep-2010
-   Expiration Date: 08-sep-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 26-jul-2009
+   Expiration Date: 26-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:41:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:40:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about xfuelenergy.com
-&lt;a href=&quot;http://www.aboutus.org/xfuelenergy.com&quot;&gt;AboutUs: xfuelenergy.com&lt;/a&gt;
+Visit AboutUs.org for more information about 91jfwg.com
+&lt;a href=&quot;http://www.aboutus.org/91jfwg.com&quot;&gt;AboutUs: 91jfwg.com&lt;/a&gt;
 
 
-Domain name: xfuelenergy.com
-
-Registrant Contact:
-   MavericMODS LLC.
-   Eric Szilagyi ()
-
-   Fax:
-   526 W. Aurora Rd.
-   Sagamore Hills, OH 44067
-   US
+Domain name: 91jfwg.com
 
 Administrative Contact:
-   MavericMODS LLC.
-   Eric Szilagyi (support@xtrememodz.com)
-   +1.2162204205
-   Fax:
-   526 W. Aurora Rd.
-   Sagamore Hills, OH 44067
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (lyvspvyg@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O 91jfwg.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   MavericMODS LLC.
-   Eric Szilagyi (support@xtrememodz.com)
-   +1.2162204205
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (lyvspvyg@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O 91jfwg.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
    Fax:
-   526 W. Aurora Rd.
-   Sagamore Hills, OH 44067
+   PMB 368, 14150 NE 20th St - F1
+   C/O 91jfwg.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.branzone.com
-   ns2.branzone.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 08 Sep 2010 21:12:00
-Expiration date: 08 Sep 2012 16:12:00
+Creation date: 27 Jul 2009 13:14:00
+Expiration date: 26 Jul 2012 12:07:00
 
 
 
