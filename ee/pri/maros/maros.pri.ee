@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       maros.pri.ee
+registrant:   CID:ZONE:199396
+admin-c:      CID:ZONE:199397
+nsset:        NSSID:ZONE:42103
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 06:30:57
+changed:      27.01.2011 16:25:04
+expire:       27.01.2012
+
+contact:      CID:ZONE:199396
+name:         Dmitri Ponomarjov
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      27.01.2011 16:25:02
+
+contact:      CID:ZONE:199397
+name:         Dmitri Ponomarjov
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      27.01.2011 16:25:02
+
+nsset:        NSSID:ZONE:42103
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:199398
+registrar:    zone
+created:      27.01.2011 16:25:03
+
+contact:      CID:ZONE:199398
+name:         Dmitri Ponomarjov
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      27.01.2011 16:25:02
+
+

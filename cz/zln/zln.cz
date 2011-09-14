@@ -1,0 +1,78 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 21:39:28 2011
+
+domain:       zln.cz
+registrant:   SB:ZLINNET-CZ
+admin-c:      AK157-RIPE
+temp-c:       NOCZLINNET
+nsset:        NSS:ZLINNET-CZ:2
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   25.08.1996 02:00:00
+changed:      16.01.2008 15:23:03
+expire:       27.10.2011
+
+contact:      SB:ZLINNET-CZ
+org:          SOPHICS, spol. s r.o.
+name:         SOPHICS, spol. s r.o.
+address:      U Zimn&Atilde;&shy;ho stadionu 2086
+address:      Zl&Atilde;&shy;n
+address:      76001
+address:      CZ
+e-mail:       admin@zln.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      25.01.2007 09:45:00
+
+contact:      AK157-RIPE
+name:         Ales Kralik
+address:      Valachuv zleb 4887
+address:      Zlin
+address:      76005
+address:      CZ
+phone:        +420.577102172
+fax-no:       +420.577102173
+e-mail:       akruz@sophics.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      10.11.2003 13:35:00
+
+contact:      NOCZLINNET
+name:         Technicky usek
+address:      U Zimn&Atilde;&shy;ho stadionu 2086
+address:      Zl&Atilde;&shy;n
+address:      76001
+address:      CZ
+phone:        +420.577019642
+e-mail:       noc@zln.cz
+registrar:    REG-MEDIA4WEB
+created:      08.04.2004 17:45:00
+changed:      03.07.2006 17:15:00
+
+nsset:        NSS:ZLINNET-CZ:2
+nserver:      ns2.zln.cz (81.2.209.38)
+nserver:      ns.zln.cz (188.246.101.2)
+tech-c:       SB:ZLINNET-CZ
+tech-c:       NOCZLINNET
+registrar:    REG-MEDIA4WEB
+created:      01.10.2007 02:00:00
+changed:      30.04.2010 23:12:25
+
+

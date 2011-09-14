@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149242255-LROR
+Domain Name:FREIESOFTWAREOG.ORG
+Created On:26-Sep-2007 15:47:27 UTC
+Last Updated On:27-Sep-2010 01:23:13 UTC
+Expiration Date:26-Sep-2011 15:47:27 UTC
+Sponsoring Registrar:Cronon AG (R110-LROR)
+Status:OK
+Registrant ID:BH451-ABC
+Registrant Name:Hoffmann Beate
+Registrant Street1:Ortenberger Str. 50
+Registrant Street2:
+Registrant Street3:
+Registrant City:Offenburg
+Registrant State/Province:Germany
+Registrant Postal Code:77654
+Registrant Country:DE
+Registrant Phone:+49.7819480572
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:beate.hoffmann@onlinehome.de
+Admin ID:BH451-ABC
+Admin Name:Hoffmann Beate
+Admin Street1:Ortenberger Str. 50
+Admin Street2:
+Admin Street3:
+Admin City:Offenburg
+Admin State/Province:Germany
+Admin Postal Code:77654
+Admin Country:DE
+Admin Phone:+49.7819480572
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:beate.hoffmann@onlinehome.de
+Tech ID:HR151-ABC
+Tech Name:Hostmaster Strato Rechenzentrum
+Tech Organization:Cronon AG Professional IT-Services
+Tech Street1:Emmy-Noether-Str. 10
+Tech Street2:
+Tech Street3:
+Tech City:Karlsruhe
+Tech State/Province:Germany
+Tech Postal Code:76131
+Tech Country:DE
+Tech Phone:+49.72166320305
+Tech Phone Ext.:
+Tech FAX:+49.72166320303
+Tech FAX Ext.:
+Tech Email:hostmaster@cronon-isp.net
+Name Server:DOCKS05.RZONE.DE
+Name Server:SHADES15.RZONE.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
