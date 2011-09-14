@@ -1,0 +1,61 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T01:27:21+12:00
+domain_name: dbr.co.nz
+query_status: 200 Active
+domain_dateregistered: 2002-06-22T00:00:00+12:00
+domain_datebilleduntil: 2012-06-22T00:00:00+12:00
+domain_datelastmodified: 2007-06-22T08:55:42+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: DBR Consulting Ltd
+registrant_contact_address1: 98A Cook Street
+registrant_contact_city: Hamilton
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 78 564420
+registrant_contact_email: dbrconsulting@xtra.co.nz
+%
+admin_contact_name: Diane Rayner
+admin_contact_address1: 98A Cook Street
+admin_contact_city: Hamilton
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 78 564420
+admin_contact_email: dbrconsulting@xtra.co.nz
+%
+technical_contact_name: Diane Rayner
+technical_contact_address1: 98A Cook Street
+technical_contact_address2: Hamilton
+technical_contact_city: Hamilton
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +21 56 4420
+technical_contact_email: DBRConsulting@xtra.co.nz
+%
+ns_name_01: ns1.iserve.net.nz
+ns_name_02: ns2.iserve.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
