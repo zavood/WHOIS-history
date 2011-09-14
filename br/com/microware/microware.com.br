@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 11:47:17 (BRT -03:00)
+
+domain:      microware.com.br
+owner:       Microware Tecnologia de Informacao
+ownerid:     001.724.795/0001-43
+responsible: Daniel Reis
+country:     BR
+owner-c:     MITEC
+admin-c:     MITEC
+tech-c:      MITEC
+billing-c:   MITEC
+nserver:     ns.embratel.net.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     wopr.microware.com.br 189.3.217.164
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.embratel.net.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19970213 #30295
+expires:     20120213
+changed:     20110124
+status:      published
+
+nic-hdl-br:  MITEC
+person:      Microware Tecnologia
+e-mail:      nivel2@microware.com.br
+created:     20060804
+changed:     20060804
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

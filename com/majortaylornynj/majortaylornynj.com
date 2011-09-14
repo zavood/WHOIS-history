@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CADALYST.COM
+   Domain Name: MAJORTAYLORNYNJ.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS45.WORLDNIC.COM
+   Name Server: NS46.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 10-jun-2010
-   Creation Date: 18-aug-1997
-   Expiration Date: 27-dec-2012
+   Updated Date: 15-may-2009
+   Creation Date: 29-may-2003
+   Expiration Date: 29-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:46:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:45:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cadalyst.com
+Whois Query: majortaylornynj.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:37:08 EDT 2011
+Date and Time of Query: Wed Sep 14 10:35:49 EDT 2011
 Reason Code: IE
