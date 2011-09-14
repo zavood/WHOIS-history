@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OMERESA.NET
+   Domain Name: USSLING.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: EXDNS1.OMERESA.NET
-   Name Server: EXDNS2.OMERESA.NET
-   Name Server: NS4.ESU.K12.OH.US
+   Name Server: NS.ATHENET.NET
+   Name Server: NS3.ATHENET.NET
    Status: clientTransferProhibited
-   Updated Date: 16-feb-2010
-   Creation Date: 06-may-1998
-   Expiration Date: 05-may-2015
+   Updated Date: 24-nov-2009
+   Creation Date: 04-jan-2000
+   Expiration Date: 04-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:35:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:36:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about OMERESA.NET
-&lt;a href=&quot;http://www.aboutus.org/OMERESA.NET&quot;&gt;AboutUs: OMERESA.NET &lt;/a&gt;
+Visit AboutUs.org for more information about USSLING.COM
+&lt;a href=&quot;http://www.aboutus.org/USSLING.COM&quot;&gt;AboutUs: USSLING.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-OME-RESA
-   2023 Sunset Blvd
-   Steubenville, OH 43952
+US SLING &amp; SUPPLY
+   1377 Kimberly Drive
+   NEENAH, WI 54956
    US
 
-   Domain Name: OMERESA.NET
+   Domain Name: USSLING.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,29 +95,28 @@ OME-RESA
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      OME-RESA		angie.underwood@omeresa.net
-      2023 Sunset Blvd
-      Steubenville, OH 43952
+      US SLING &amp; SUPPLY		BobKr@contrxcranes.com
+      1377 Kimberly Drive
+      NEENAH, WI 54956
       US
-      740-283-2050
+      920 722 0373 fax: 920 722 5260
 
    Technical Contact:
-      Truex, Adam		adam.truex@omeresa.net
-      OME-RESA
-      2023 Sunset Blvd
-      Steubenville, OH 43952
+      AthEnet Internet Services		dns@athenet.net
+      AthEnet Internet Services
+      2129 Jackson Street
+      Oshkosh, WI 54901
       US
-      740-283-2050-120
+      (920) 954-9799 fax: (920) 954-0296
 
 
-   Record expires on 05-May-2015.
-   Record created on 06-May-1998.
-   Database last updated on 14-Sep-2011 00:25:20 EDT.
+   Record expires on 04-Jan-2013.
+   Record created on 04-Jan-2000.
+   Database last updated on 14-Sep-2011 00:26:56 EDT.
 
    Domain servers in listed order:
 
-   EXDNS1.OMERESA.NET           204.9.144.70
-   EXDNS2.OMERESA.NET           204.9.144.71
-   NS4.ESU.K12.OH.US
+   NS.ATHENET.NET               209.103.196.2
+   NS3.ATHENET.NET              72.1.0.2
 
 

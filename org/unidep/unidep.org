@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69694830-LROR
+Domain Name:UNIDEP.ORG
+Created On:19-Apr-2001 20:29:34 UTC
+Last Updated On:20-Apr-2011 19:18:45 UTC
+Expiration Date:19-Apr-2016 20:29:34 UTC
+Sponsoring Registrar:DSTR Acquisition PA I, LLC dba DomainBank.com (R28-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-0753YHGN9DEX
+Registrant Name:UN African Institute for Economic Dev. &amp; Planning
+Registrant Street1:Rue du 18 Juin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dakar
+Registrant State/Province:Cakar City
+Registrant Postal Code:BP 3186
+Registrant Country:SN
+Registrant Phone:+221.221338231020
+Registrant Phone Ext.:
+Registrant FAX:+221.221338222964
+Registrant FAX Ext.:
+Registrant Email:unidep@unidep.org
+Admin ID:DOT-DXJT8HL1PY7G
+Admin Name:UN African Institute for Economic Dev. &amp; Planning
+Admin Street1:Rue du 18 Juin
+Admin Street2:
+Admin Street3:
+Admin City:Dakar
+Admin State/Province:Cakar City
+Admin Postal Code:BP 3186
+Admin Country:SN
+Admin Phone:+221.221338231020
+Admin Phone Ext.:
+Admin FAX:+221.221338222964
+Admin FAX Ext.:
+Admin Email:unidep@unidep.org
+Tech ID:DB20870531467710
+Tech Name:Eric Guedegbe
+Tech Organization:UN Institute for Econ Development and planning
+Tech Street1:Rue du  18 Juin
+Tech Street2:BP 3186
+Tech Street3:
+Tech City:Dakar
+Tech State/Province:Dakar City
+Tech Postal Code:BP 3186
+Tech Country:SN
+Tech Phone:+221.8231020
+Tech Phone Ext.:323
+Tech FAX:+221.8222964
+Tech FAX Ext.:
+Tech Email:eguedegbe@unidep.org
+Name Server:NS.SONATEL.SN
+Name Server:IDEP02.UNIDEP.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

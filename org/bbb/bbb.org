@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75600-LROR
+Domain Name:BBB.ORG
+Created On:16-May-1995 04:00:00 UTC
+Last Updated On:30-Mar-2009 16:56:25 UTC
+Expiration Date:17-May-2018 04:00:00 UTC
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:mmr-31311
+Registrant Name:Domain Contact
+Registrant Organization:Council of Better Business Bureaus
+Registrant Street1:4200 Wilson Blvd., Ste. 800
+Registrant Street2:
+Registrant Street3:
+Registrant City:Arlington
+Registrant State/Province:VA
+Registrant Postal Code:22203
+Registrant Country:US
+Registrant Phone:+1.7032760100
+Registrant Phone Ext.:
+Registrant FAX:+1.7035258277
+Registrant FAX Ext.:
+Registrant Email:domain@cbbb.bbb.org
+Admin ID:mmr-31311
+Admin Name:Domain Contact
+Admin Organization:Council of Better Business Bureaus
+Admin Street1:4200 Wilson Blvd., Ste. 800
+Admin Street2:
+Admin Street3:
+Admin City:Arlington
+Admin State/Province:VA
+Admin Postal Code:22203
+Admin Country:US
+Admin Phone:+1.7032760100
+Admin Phone Ext.:
+Admin FAX:+1.7035258277
+Admin FAX Ext.:
+Admin Email:domain@cbbb.bbb.org
+Tech ID:mmr-31312
+Tech Name:Center Network Operations
+Tech Organization:Alldomains.com
+Tech Street1:1800 Sutter St.
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Concord
+Tech State/Province:CA
+Tech Postal Code:94520
+Tech Country:US
+Tech Phone:+1.9256859600
+Tech Phone Ext.:
+Tech FAX:+1.9256859620
+Tech FAX Ext.:
+Tech Email:hostmaster@alldomains.com
+Name Server:NS1.DNSMADEEASY.COM
+Name Server:NS4.DNSMADEEASY.COM
+Name Server:NS3.DNSMADEEASY.COM
+Name Server:NS0.DNSMADEEASY.COM
+Name Server:NS2.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
