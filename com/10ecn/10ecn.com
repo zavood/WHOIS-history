@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXTJUMP.COM
+   Domain Name: 10ECN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2009
-   Creation Date: 04-mar-1999
-   Expiration Date: 01-mar-2015
+   Updated Date: 21-sep-2010
+   Creation Date: 27-sep-2000
+   Expiration Date: 27-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:21:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:19:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Next Jump, Inc.
+   Solytix
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEXTJUMP.COM
+   Domain Name: 10ECN.COM
 
    Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEXTJUMP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=10ECN.COM

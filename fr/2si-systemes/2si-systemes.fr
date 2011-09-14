@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; 2si-systemes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      2si-systemes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DSCS3-FRNIC
+admin-c:     JC2072-FRNIC
+tech-c:      JC744-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL371-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 08/09
+created:     08/09/1997
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL371-FRNIC
+nserver:     mailhost.2si-systemes.fr [195.25.244.129]
+nserver:     dns0.2si-systemes.fr [195.25.244.189]
+nserver:     ns0.oleane.net
+nserver:     ns1.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     JC744-FRNIC
+type:        PERSON
+contact:     Jean-Claude Colas
+address:     Groupe Chd
+address:     10, place de Laon Tour Saint Waast
+address:     02200 Soissons
+country:     FR
+phone:       +33 3 23 59 85 00
+fax-no:      +33 3 23 59 85 85
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JC2072-FRNIC
+type:        PERSON
+contact:     Jeanclaude Colas
+address:     2SI SYSTEMES
+address:     10, place de Laon
+address:     02200 Soissons
+country:     FR
+phone:       +33 3 23 59 85 00
+fax-no:      +33 3 23 59 85 85
+e-mail:      alain.cremont@2si-systemes.fr
+changed:     13/04/2005 jes@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DSCS3-FRNIC
+type:        ORGANIZATION
+contact:     2SI Systemes - CHD Systemes
+address:     Tour Saint Waas
+address:     10, place de Laon
+address:     02200 Soissons
+country:     FR
+phone:       +33 3 23 76 35 00
+e-mail:      ALAIN.CREMONT@2si-systemes.fr
+changed:     31/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

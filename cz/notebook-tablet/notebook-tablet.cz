@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 23:21:09 2011
+
+domain:       notebook-tablet.cz
+registrant:   SB:JS77
+admin-c:      JS777
+nsset:        MYSHCZ
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   18.02.2003 19:51:00
+changed:      08.09.2009 12:25:36
+expire:       18.02.2012
+
+contact:      SB:JS77
+org:          H &amp;  S Systems - Ing.Josef Stehlik
+name:         Josef Stehlik
+address:      Na Rozdilu 718/28
+address:      Praha
+address:      160 00
+address:      CZ
+e-mail:       tomartu@gmail.com
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      08.09.2009 11:56:47
+
+contact:      JS777
+name:         Josef Stehlik
+address:      Na Rozdilu 718/28
+address:      Praha 6
+address:      160 00
+address:      CZ
+phone:        +420 235361093
+e-mail:       hs@tnet.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        MYSHCZ
+nserver:      ns2.mysh.cz (195.122.199.198)
+nserver:      ns3.mysh.cz (90.182.144.165)
+nserver:      ns1.mysh.cz (95.168.208.231)
+tech-c:       UAM-VM
+registrar:    REG-IGNUM
+created:      31.10.2007 10:11:02
+changed:      21.05.2011 13:59:35
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;™ilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+

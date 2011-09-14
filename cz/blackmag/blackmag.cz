@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 23:20:42 2011
+
+domain:       blackmag.cz
+registrant:   FORPSI-MFL-S330002
+nsset:        EBOLA
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   26.08.2009 14:21:08
+expire:       26.08.2012
+
+contact:      FORPSI-MFL-S330002
+name:         Magdalena Drl&Atilde;&shy;kov&Atilde;&iexcl;
+address:      P&Aring;™erovsk&Atilde;&iexcl; 84
+address:      Olomouc
+address:      77900
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      26.08.2009 14:21:03
+
+nsset:        EBOLA
+nserver:      ns.ebola.cz (88.86.109.225)
+nserver:      ns1.ebola.cz (194.213.53.244)
+tech-c:       EBOLA
+registrar:    REG-INTERNET-CZ
+created:      03.10.2007 15:21:25
+changed:      24.06.2010 08:26:31
+
+contact:      EBOLA
+org:          Ebola.cz
+name:         Dalibor Kou&Aring;™il
+address:      Brn&Auml;›nsk&Atilde;&iexcl; 26
+address:      Prost&Auml;›jov
+address:      79601
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      03.10.2007 15:20:23
+changed:      03.01.2010 13:03:21
+
+

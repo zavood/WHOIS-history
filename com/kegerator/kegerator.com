@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEXTJUMP.COM
+   Domain Name: KEGERATOR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2009
-   Creation Date: 04-mar-1999
-   Expiration Date: 01-mar-2015
+   Updated Date: 21-mar-2011
+   Creation Date: 12-dec-2000
+   Expiration Date: 12-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:21:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:21:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Next Jump, Inc.
+   8606 Wall St.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NEXTJUMP.COM
+   Domain Name: KEGERATOR.COM
 
    Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
       UDNS2.ULTRADNS.NET
+      UDNS1.ULTRADNS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NEXTJUMP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=KEGERATOR.COM
