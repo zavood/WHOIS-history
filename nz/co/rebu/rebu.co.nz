@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-14T14:15:00+12:00
+domain_name: rebu.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-08-14T14:54:36+12:00
+domain_datebilleduntil: 2012-08-14T14:54:36+12:00
+domain_datelastmodified: 2011-07-09T20:27:10+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: Rebu Retail Ltd
+registrant_contact_address1: PO Box 10455
+registrant_contact_address2: Te Rapa
+registrant_contact_city: Hamilton
+registrant_contact_postalcode: 3241
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 7 9294011
+registrant_contact_email: mail@rebu.co.nz
+%
+admin_contact_name: Rebu
+admin_contact_address1: PO Box 10455
+admin_contact_address2: Te Rapa
+admin_contact_city: Hamilton
+admin_contact_postalcode: 3241
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 7 9294011
+admin_contact_email: domains@rebu.co.nz
+%
+technical_contact_name: Rebu Retail Ltd
+technical_contact_address1: PO Box 10455
+technical_contact_address2: Te Rapa
+technical_contact_city: Hamilton
+technical_contact_postalcode: 3241
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 7 9294011
+technical_contact_email: mail@rebu.co.nz
+%
+ns_name_01: ns1.sitehost.co.nz
+ns_name_02: ns2.sitehost.co.nz
+ns_name_03: ns3.sitehost.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

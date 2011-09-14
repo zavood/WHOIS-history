@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148024824-LROR
+Domain Name:MYTIJN.ORG
+Created On:06-Jun-2007 19:17:50 UTC
+Last Updated On:04-Aug-2011 00:24:38 UTC
+Expiration Date:06-Jun-2012 19:17:50 UTC
+Sponsoring Registrar:1st Antagus Internet GmbH (R1782-LROR)
+Status:OK
+Registrant ID:BEMAA0183-ANT
+Registrant Name:Beek Martijn
+Registrant Organization:-
+Registrant Street1:2e rozenstraat 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:lutjebroek
+Registrant State/Province:
+Registrant Postal Code:1614SE
+Registrant Country:NL
+Registrant Phone:+31.228517074
+Registrant Phone Ext.:
+Registrant FAX:+31.000000000
+Registrant FAX Ext.:
+Registrant Email:thunder47@hotmail.com
+Admin ID:BEMAA0183-ANT
+Admin Name:Beek Martijn
+Admin Organization:-
+Admin Street1:2e rozenstraat 1
+Admin Street2:
+Admin Street3:
+Admin City:lutjebroek
+Admin State/Province:
+Admin Postal Code:1614SE
+Admin Country:NL
+Admin Phone:+31.228517074
+Admin Phone Ext.:
+Admin FAX:+31.000000000
+Admin FAX Ext.:
+Admin Email:thunder47@hotmail.com
+Tech ID:BEMAA0183-ANT
+Tech Name:Beek Martijn
+Tech Organization:-
+Tech Street1:2e rozenstraat 1
+Tech Street2:
+Tech Street3:
+Tech City:lutjebroek
+Tech State/Province:
+Tech Postal Code:1614SE
+Tech Country:NL
+Tech Phone:+31.228517074
+Tech Phone Ext.:
+Tech FAX:+31.000000000
+Tech FAX Ext.:
+Tech Email:thunder47@hotmail.com
+Name Server:ITSHOSTED.NS1SERVER.NL
+Name Server:ITSHOSTED.NS2SERVER.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
