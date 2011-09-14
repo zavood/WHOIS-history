@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TKP-BIZ.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jun-1998
-   Expiration Date: 29-jun-2011
+   Domain Name: INCHINCLOSER.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 07-oct-2010
+   Creation Date: 06-nov-2009
+   Expiration Date: 06-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:13:24 UTC &lt;&lt;&lt;
 
@@ -51,5 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;tkp-biz.com&quot; in the registrar database.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
