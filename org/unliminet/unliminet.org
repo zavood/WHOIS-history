@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81250147-LROR
+Domain Name:UNLIMINET.ORG
+Created On:16-Dec-2001 19:37:40 UTC
+Last Updated On:14-Feb-2011 00:25:18 UTC
+Expiration Date:16-Dec-2011 19:37:40 UTC
+Sponsoring Registrar:1st Antagus Internet GmbH (R1782-LROR)
+Status:OK
+Registrant ID:UNLIA0004-ANT
+Registrant Name:Waldorf V.
+Registrant Organization:unliminet GmbH
+Registrant Street1:Infanteriestrasse 15
+Registrant Street2:
+Registrant Street3:
+Registrant City:Muenchen
+Registrant State/Province:
+Registrant Postal Code:80797
+Registrant Country:DE
+Registrant Phone:+49.8972308724
+Registrant Phone Ext.:
+Registrant FAX:+49.8972308725
+Registrant FAX Ext.:
+Registrant Email:vwaldorf@unliminet.de
+Admin ID:UNLIA0004-ANT
+Admin Name:Waldorf V.
+Admin Organization:unliminet GmbH
+Admin Street1:Infanteriestrasse 15
+Admin Street2:
+Admin Street3:
+Admin City:Muenchen
+Admin State/Province:
+Admin Postal Code:80797
+Admin Country:DE
+Admin Phone:+49.8972308724
+Admin Phone Ext.:
+Admin FAX:+49.8972308725
+Admin FAX Ext.:
+Admin Email:vwaldorf@unliminet.de
+Tech ID:WAVEA0008-ANT
+Tech Name:Waldorf Verena
+Tech Organization:unliminet GmbH
+Tech Street1:Infanteriestrasse 15
+Tech Street2:
+Tech Street3:
+Tech City:Muenchen
+Tech State/Province:
+Tech Postal Code:80797
+Tech Country:DE
+Tech Phone:+49.8972308724
+Tech Phone Ext.:
+Tech FAX:+49.8972308725
+Tech FAX Ext.:
+Tech Email:info@unliminet.de
+Name Server:NS1.UNLIMINET.ORG
+Name Server:NS2.UNLIMINET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
