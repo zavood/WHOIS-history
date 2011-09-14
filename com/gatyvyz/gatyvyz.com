@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABOVE.COM
+   Domain Name: GATYVYZ.COM
    Registrar: ABOVE.COM PTY LTD.
    Whois Server: whois.above.com
    Referral URL: http://www.above.com
-   Name Server: NS1.TRELLIAN.COM
-   Name Server: NS2.TRELLIAN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-jan-2011
-   Creation Date: 20-may-1997
-   Expiration Date: 21-may-2016
+   Name Server: NS1.DSREDIRECTION.COM
+   Name Server: NS2.DSREDIRECTION.COM
+   Status: ok
+   Updated Date: 24-jun-2011
+   Creation Date: 20-jun-2011
+   Expiration Date: 20-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:01:32 UTC &lt;&lt;&lt;
 
@@ -53,10 +51,11 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrars.Registration Service Provided By: ABOVE.COM, PTY. LTD.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.Registration Service Provided By: ABOVE.COM, Pty. Ltd.
 Contact: +613.95897946
 
-    Domain Name: ABOVE.COM
+    Domain Name: GATYVYZ.COM
 
     Registrant:
         Above.com Domain Privacy
@@ -65,16 +64,16 @@ Contact: +613.95897946
         VIC
         3193
         AU
-        hostmaster@above.com
+        gatyvyz.com@privacy.above.com
         Tel. +61.395897946
-	Fax.
+        Fax.
 
-    Creation date: 1997-05-20
-    Expiration Date: 2016-05-21
+    Creation date: 2011-06-20
+    Expiration Date: 2012-06-20
 
     Domain servers in listed order:
-        NS1.TRELLIAN.COM
-        NS2.TRELLIAN.COM
+        ns1.dsredirection.com
+        ns2.dsredirection.com
 
     Administrative Contact:
         Above.com Domain Privacy
@@ -83,9 +82,10 @@ Contact: +613.95897946
         VIC
         3193
         AU
-        hostmaster@above.com
+        gatyvyz.com@privacy.above.com
         Tel. +61.395897946
-	Fax.
+        Fax.
+
 
     Technical Contact:
         Above.com Domain Privacy
@@ -94,9 +94,9 @@ Contact: +613.95897946
         VIC
         3193
         AU
-        hostmaster@above.com
+        gatyvyz.com@privacy.above.com
         Tel. +61.395897946
-	Fax.
+        Fax.
 
     Billing Contact:
         Above.com Domain Privacy
@@ -105,9 +105,9 @@ Contact: +613.95897946
         VIC
         3193
         AU
-        hostmaster@above.com
+        gatyvyz.com@privacy.above.com
         Tel. +61.395897946
-	Fax.
+        Fax.
 
-    The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
+The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
 

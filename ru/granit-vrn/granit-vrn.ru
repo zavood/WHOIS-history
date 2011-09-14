@@ -3,15 +3,17 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     HUNTBASE.RU
-nserver:    ns1.agava.net.ru.
-nserver:    ns2.agava.net.ru.
+domain:     GRANIT-VRN.RU
+nserver:    ns1.jino.ru.
+nserver:    ns2.jino.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-person:     Private Person
-e-mail:     tosha99@umail.ru
+org:        OOO &quot;Granit&quot;
+phone:      +7 915 5489643
+fax-no:     +7 915 5489643
+e-mail:     89202292943@rambler.ru
 registrar:  R01-REG-RIPN
-created:    2003.11.10
-paid-till:  2011.11.10
+created:    2011.02.04
+paid-till:  2012.02.04
 source:     TCI
 
 Last updated on 2011.09.14 12:58:42 MSK/MSD
