@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BRINKSTER.COM.AU
-BRINKSTER.COM
+   Domain Name: YOURCPAPMASK.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.BIGCOMMERCE.COM
+   Name Server: NS2.BIGCOMMERCE.COM
+   Status: clientTransferProhibited
+   Updated Date: 22-jul-2011
+   Creation Date: 29-jul-2010
+   Expiration Date: 29-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:58:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:57:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
+
+Whois Output for: yourcpapmask.com
+
+Domain Name Owner:
+  Theophil, Vincent
+  P O Box 36435
+  Richmond, VA 23235
+  US
+
+Administrative Contact:
+  Theophil, Vincent
+  P O Box 36435
+  Richmond, VA 23235, US
+  Phone: +1.8049159483
+  Email: vincees1@yahoo.com
+
+Technical Contact:
+  Theophil, Vincent
+  P O Box 36435
+  Richmond, VA 23235, US
+  Phone: +1.8049159483
+  Email: vincees1@yahoo.com
+
+Billing Contact:
+  Theophil, Vincent
+  P O Box 36435
+  Richmond, VA 23235, US
+  Phone: +1.8049159483
+  Email: vincees1@yahoo.com
+
+Record Information:
+  Domain Record Created: July 29, 2010
+  Domain Record Updated: July 22, 2011
+  Domain Record Expires: July 29, 2012
+
+DNS Information:
+  Name Server: ns1.bigcommerce.com
+  Name Server: ns2.bigcommerce.com
+

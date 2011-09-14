@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-BRINKSTER.COM.AU
-BRINKSTER.COM
+   Domain Name: XN--DCKDUBB-5WA.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.ASCIO.COM
+   Name Server: NS2.ASCIO.COM
+   Status: clientTransferProhibited
+   Updated Date: 26-mar-2011
+   Creation Date: 25-mar-2003
+   Expiration Date: 25-mar-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:58:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:56:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Scason AB (SCASONAB444)
+  Rallarvagen 37
+  Rallarvagen 37
+  Akersberga, SE, 184 40
+  SE
+
+  Domain name: xn--dckdubb-5wa.com
+
+Administrative and Technical contact:
+  Admin, Domain (DA27004)
+  Cedel AB
+  Ostra Varvsgatan 4
+
+  Malmo, Skane, 21119
+  SE
+  hostmaster@cedel.se
+  +46.40106600 Fax: +46.40106601
+
+Record created:           2006-09-11 14:22:30
+Record last updated:      2009-11-04 07:54:06
+Record expires:           2012-03-25 00:00:00
+
+Domain servers in listed order:
+  ns1.ascio.com (ASCIODNS1)
+  ns2.ascio.com (ASCIODNS2)
