@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TVREPAIRBUDDY.COM
+   Domain Name: UNITRIDERS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: SARA.NS.CLOUDFLARE.COM
-   Name Server: SETH.NS.CLOUDFLARE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-apr-2011
-   Creation Date: 23-dec-2010
-   Expiration Date: 23-dec-2011
+   Name Server: NS1.JUMBA.NET.AU
+   Name Server: NS2.JUMBA.NET.AU
+   Status: ok
+   Updated Date: 05-jan-2010
+   Creation Date: 18-jan-2006
+   Expiration Date: 18-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:55:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TVREPAIRBUDDY.COM
+   Domain Name: COOLREFERAT.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: SARA.NS.CLOUDFLARE.COM
-   Name Server: SETH.NS.CLOUDFLARE.COM
+   Name Server: NS3.FASTVPS.RU
+   Name Server: NS4.FASTVPS.RU
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-apr-2011
-   Creation Date: 23-dec-2010
-   Expiration Date: 23-dec-2011
+   Updated Date: 20-dec-2010
+   Creation Date: 29-mar-2010
+   Expiration Date: 29-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:43 UTC &lt;&lt;&lt;
 

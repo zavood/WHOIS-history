@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154132186-LROR
+Domain Name:TSDLEARNING.ORG
+Created On:19-Sep-2008 21:53:16 UTC
+Last Updated On:04-Sep-2010 10:05:43 UTC
+Expiration Date:19-Sep-2011 21:53:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuqHWi3UzENVat9S
+Registrant Name:Kellie Bashor
+Registrant Organization:n/a
+Registrant Street1:2890 N. Monroe
+Registrant Street2:
+Registrant Street3:
+Registrant City:Loveland
+Registrant State/Province:CO
+Registrant Postal Code:80538
+Registrant Country:US
+Registrant Phone:+1.9706135112
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:newdomains@siteground.com
+Admin ID:tuqHWi3UzENVat9S
+Admin Name:Kellie Bashor
+Admin Organization:n/a
+Admin Street1:2890 N. Monroe
+Admin Street2:
+Admin Street3:
+Admin City:Loveland
+Admin State/Province:CO
+Admin Postal Code:80538
+Admin Country:US
+Admin Phone:+1.9706135112
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:newdomains@siteground.com
+Tech ID:tuqHWi3UzENVat9S
+Tech Name:Kellie Bashor
+Tech Organization:n/a
+Tech Street1:2890 N. Monroe
+Tech Street2:
+Tech Street3:
+Tech City:Loveland
+Tech State/Province:CO
+Tech Postal Code:80538
+Tech Country:US
+Tech Phone:+1.9706135112
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:newdomains@siteground.com
+Name Server:NS2.SITEGROUND196.COM
+Name Server:NS1.SITEGROUND196.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

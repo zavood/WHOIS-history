@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TVREPAIRBUDDY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: SARA.NS.CLOUDFLARE.COM
-   Name Server: SETH.NS.CLOUDFLARE.COM
+   Domain Name: TRUDIECAST.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.ACD.NET
+   Name Server: NS2.ACD.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-apr-2011
-   Creation Date: 23-dec-2010
-   Expiration Date: 23-dec-2011
+   Updated Date: 07-feb-2011
+   Creation Date: 11-feb-2000
+   Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+trudiecast.com
+
+Registrant:
+         Melodie Culverhouse  (gloria@trudiecast.com)
+        Tru Die Cast
+        P.O. Box 366
+        New Troy, MI  49119
+        US
+        2694263361
+
+
+Domain Name: trudiecast.com
+
+
+
+Administrative, Billing Contact:
+         Melodie Culverhouse  (gloria@trudiecast.com)
+        Tru Die Cast
+        P.O. Box 366
+        New Troy, MI  49119
+        US
+        2694263361
+
+
+Technical Contact:
+         Web Master  (webmaster@acd.net)
+        ACD.net
+        1800 North Grand River Ave.
+        Lansing, MI  48906
+        US
+        517-999-9999
+
+
+
+
+   Record created on Feb 11 2000.
+   Record expires on Feb 11 2012.
+Domain servers:
+        NS1.ACD.NET
+        NS2.ACD.NET
+
+
+
+Domain Service Provider:
+   ACD.net
+   517-999-9999
+   webmaster@acd.net
+   http://www.acd.net
+
+

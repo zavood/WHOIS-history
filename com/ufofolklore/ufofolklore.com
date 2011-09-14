@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TVREPAIRBUDDY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: SARA.NS.CLOUDFLARE.COM
-   Name Server: SETH.NS.CLOUDFLARE.COM
+   Domain Name: UFOFOLKLORE.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.ACD.NET
+   Name Server: NS2.ACD.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-apr-2011
-   Creation Date: 23-dec-2010
-   Expiration Date: 23-dec-2011
+   Updated Date: 10-feb-2011
+   Creation Date: 14-feb-2008
+   Expiration Date: 14-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:43 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+ufofolklore.com
+
+Registrant:
+         Dan Geib  (dan@artgomperz.com)
+
+        2789 Yukon
+        St. Joseph, MI  49085
+        US
+        269-429-5516
+
+
+Domain Name: ufofolklore.com
+
+
+
+Administrative, Billing Contact:
+         Dan Geib  (dan@artgomperz.com)
+
+        2789 Yukon
+        St. Joseph, MI  49085
+        US
+        269-429-5516
+
+
+Technical Contact:
+         Web Master  (webmaster@acd.net)
+        ACD.net
+        1800 North Grand River Ave.
+        Lansing, MI  48906
+        US
+        517-999-9999
+
+
+
+
+   Record created on Feb 14 2008.
+   Record expires on Feb 14 2012.
+Domain servers:
+        ns1.acd.net
+        ns2.acd.net
+
+
+
+Domain Service Provider:
+   ACD.net
+   517-999-9999
+   webmaster@acd.net
+   http://www.acd.net
+
+

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TVREPAIRBUDDY.COM
+   Domain Name: TYZJ.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: SARA.NS.CLOUDFLARE.COM
-   Name Server: SETH.NS.CLOUDFLARE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-apr-2011
-   Creation Date: 23-dec-2010
-   Expiration Date: 23-dec-2011
+   Name Server: DNS.SOHU-INC.COM
+   Name Server: DNS1.SOHU-INC.COM
+   Status: ok
+   Updated Date: 06-nov-2009
+   Creation Date: 23-jan-2002
+   Expiration Date: 23-jan-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:54:43 UTC &lt;&lt;&lt;
 

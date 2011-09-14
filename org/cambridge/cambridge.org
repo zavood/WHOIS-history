@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1128807-LROR
+Domain Name:CAMBRIDGE.ORG
+Created On:18-Apr-1998 04:00:00 UTC
+Last Updated On:30-Dec-2010 20:24:58 UTC
+Expiration Date:30-Dec-2020 16:00:04 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26912968-NSI
+Registrant Name:Cambridge University Press
+Registrant Organization:Cambridge University Press
+Registrant Street1:Shaftesbury Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:
+Registrant Postal Code:CB2 2RU
+Registrant Country:GB
+Registrant Phone:+1.4401223
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:postmaster@CUP.CAM.AC.UK
+Admin ID:26912970-NSI
+Admin Name:Cambridge University Press
+Admin Organization:Cambridge University Press
+Admin Street1:Shaftesbury Road
+Admin Street2:The Edinburgh Building
+Admin Street3:
+Admin City:Cambridge
+Admin State/Province:
+Admin Postal Code:CB2 2RU
+Admin Country:GB
+Admin Phone:+1.4401223
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:postmaster@CUP.CAM.AC.UK
+Tech ID:26912969-NSI
+Tech Name:Andy Mell
+Tech Organization:Cambridge University Press
+Tech Street1:Shaftesbury Road
+Tech Street2:Printing House
+Tech Street3:
+Tech City:Cambridge
+Tech State/Province:Cambridgeshire
+Tech Postal Code:CB2 8BS
+Tech Country:GB
+Tech Phone:+44.01223325
+Tech Phone Ext.:
+Tech FAX:+44.01223325
+Tech FAX Ext.:
+Tech Email:postmaster@cambridge.org
+Name Server:NS2.NETNAMES.NET
+Name Server:NS1.NETNAMES.NET
+Name Server:NS5.NETNAMES.NET
+Name Server:NS6.NETNAMES.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
