@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: CVCWIRELESS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: CVC3.CVC.NET
+   Name Server: CVC5.CVC.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-may-2010
+   Creation Date: 18-oct-2000
+   Expiration Date: 18-oct-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:22:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

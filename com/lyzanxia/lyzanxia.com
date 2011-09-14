@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: LYZANXIA.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS3.INFOMANIAK.CH
+   Name Server: NS4.INFOMANIAK.CH
+   Status: clientTransferProhibited
+   Updated Date: 20-mar-2011
+   Creation Date: 03-apr-2000
+   Expiration Date: 03-apr-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:22:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name : LYZANXIA.COM
+Created On : 2000-04-03
+Expiration Date : 2012-04-03
+Status : PROTECTED
+Registrant Name : HTDSoft
+Registrant Street1 : 17 rue de Belfort
+Registrant City : Angers
+Registrant State/Province  :
+Registrant Postal Code : 49100
+Registrant Country : FR
+Admin Name : HTDSoft
+Admin Street1 : 17 rue de Belfort
+Admin City : Angers
+Admin State/Province : FR
+Admin Postal Code : 49100
+Admin Country : FR
+Admin Phone : +33.623813581
+Admin Email : gabriel.tessier@htdsoft.com
+Tech Name : HTDSoft
+Tech Street1 : 17 rue de Belfort
+Tech City : Angers
+Tech State/Province : FR
+Tech Postal Code : 49100
+Tech Country : FR
+Tech Phone : +33.623813581
+Tech Email : gabriel.tessier@htdsoft.com
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS3.INFOMANIAK.CH
+Name Server : NS4.INFOMANIAK.CH
+Registrar Name : Namebay

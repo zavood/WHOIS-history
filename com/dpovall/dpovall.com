@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: DPOVALL.COM
+   Registrar: EASYSPACE LTD.
+   Whois Server: whois.easyspace.com
+   Referral URL: http://www.easyspace.com
+   Name Server: NS1.NAMECITY.COM
+   Name Server: NS2.NAMECITY.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 23-jun-2011
+   Creation Date: 23-jul-2002
+   Expiration Date: 23-jul-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:23:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: DOWNLOADYT.COM
+   Registrar: ONLINE NAME SERVICES INC.
+   Whois Server: whois.onlinenameservices.com
+   Referral URL: http://www.onlinenameservices.com
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   Status: ok
+   Updated Date: 12-apr-2011
+   Creation Date: 11-apr-2011
+   Expiration Date: 11-apr-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:23:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name:     downloadyt.com
+Registrar:
+
+Expiration Date: 2012-04-11 18:08:38
+Creation Date:   2011-04-11 18:08:38
+
+Name Servers:
+	ns1.sedoparking.com
+	ns2.sedoparking.com
+
+REGISTRANT CONTACT INFO
+Pascal Deroy
+Pascal Deroy
+78 rue de la Cense aux Bles
+Lille
+Nord
+59000
+FR
+Phone:         +33.626910923
+Email Address: pascal59800@free.fr
+
+ADMINISTRATIVE CONTACT INFO
+Pascal Deroy
+Pascal Deroy
+78 rue de la Cense aux Bles
+Lille
+Nord
+59000
+FR
+Phone:         +33.626910923
+Email Address: pascal59800@free.fr
+
+TECHNICAL CONTACT INFO
+Pascal Deroy
+Pascal Deroy
+78 rue de la Cense aux Bles
+Lille
+Nord
+59000
+FR
+Phone:         +33.626910923
+Email Address: pascal59800@free.fr
+
+BILLING CONTACT INFO
+Pascal Deroy
+Pascal Deroy
+78 rue de la Cense aux Bles
+Lille
+Nord
+59000
+FR
+Phone:         +33.626910923
+Email Address: pascal59800@free.fr
+
+Timestamp: 1316017473.228
+
+The Data in the  WHOIS database is provided by  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.   does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to  (or its systems).  reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-14T10:24:33-06:00

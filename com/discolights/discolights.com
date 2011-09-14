@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: DISCOLIGHTS.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS0.NS0.COM
+   Name Server: NS70.PAIR.COM
+   Status: ok
+   Updated Date: 15-jun-2010
+   Creation Date: 23-jul-1998
+   Expiration Date: 22-jul-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:22:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
+
+Whois Output for: discolights.com
+
+Domain Name Owner:
+  towards 2000
+  215 w palm ave
+  burbank, ca 91502
+  US
+
+Administrative Contact:
+  rowlands, mark
+  towards 2000
+  215 w palm ave
+  burbank, ca 91502, US
+  Phone: +1.8185570903
+  Fax:   +1.8185570596
+  Email: mark@t2k.com
+
+Technical Contact:
+  rowlands, mark
+  towards 2000
+  215 w palm ave
+  burbank, ca 91502, US
+  Phone: +1.8185570903
+  Fax:   +1.8185570596
+  Email: mark@t2k.com
+
+Billing Contact:
+  rowlands, mark
+  towards 2000
+  215 w palm ave
+  burbank, ca 91502, US
+  Phone: +1.8185570903
+  Fax:   +1.8185570596
+  Email: mark@t2k.com
+
+Record Information:
+  Domain Record Created: July 22, 1998
+  Domain Record Updated: June 15, 2010
+  Domain Record Expires: July 21, 2012
+
+DNS Information:
+  Name Server: ns70.pair.com
+  Name Server: ns0.ns0.com
+

@@ -5,8 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;MICROSOFT-WINDOWS-SECURITY.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:07 UTC &lt;&lt;&lt;
+   Domain Name: DJCABLEREEL.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS.CAFE24.COM
+   Name Server: NS0.CAFE24.COM
+   Name Server: NS1.CAFE24.COM
+   Name Server: NS2.CAFE24.COM
+   Status: ok
+   Updated Date: 07-nov-2010
+   Creation Date: 06-dec-2006
+   Expiration Date: 06-dec-2011
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:23:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +53,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
+
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Reseller : Simplex Internet Inc.
+
+Registrant : kang dong kyu
+	Guro-dong Guro-gu .
+	(152050)
+
+	Domain Name:  DJCABLEREEL.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
+
+	Administrative, Technical, Billing Contact:
+		kang dong kyu	djpark7@hyundaiib.com
+		Guro-dong Guro-gu .
+		(Tel) 0226313447	(fax) 0226371950
+
+	Record created on 	DECEMBER  07, 2006
+	Record expires on 	DECEMBER  07, 2011
+	Record last updated on 	NOVEMBER  08, 2010
+
+	Domain servers in listed order:
+
+	ns1.cafe24.com
+	ns2.cafe24.com
+	ns.cafe24.com
+	ns0.cafe24.com
+
+Register a domain name at www.gabia.com
