@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2771045-LROR
+Domain Name:NADIR.ORG
+Created On:14-Jan-1995 05:00:00 UTC
+Last Updated On:28-Apr-2011 19:05:54 UTC
+Expiration Date:13-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-11200617
+Registrant Name:Henrique Schaer
+Registrant Street1:Rua Republica
+Registrant Street2:Dominicana 373
+Registrant Street3:
+Registrant City:Sao Paulo - SP
+Registrant State/Province:SP
+Registrant Postal Code:05691-030
+Registrant Country:BR
+Registrant Phone:+55.1137580593
+Registrant Phone Ext.:
+Registrant FAX:+55.1137580593
+Registrant FAX Ext.:
+Registrant Email:nadir@nadir.org
+Admin ID:ABM-11200617
+Admin Name:Henrique Schaer
+Admin Street1:Rua Republica
+Admin Street2:Dominicana 373
+Admin Street3:
+Admin City:Sao Paulo - SP
+Admin State/Province:SP
+Admin Postal Code:05691-030
+Admin Country:BR
+Admin Phone:+55.1137580593
+Admin Phone Ext.:
+Admin FAX:+55.1137580593
+Admin FAX Ext.:
+Admin Email:nadir@nadir.org
+Tech ID:ABM-11200617
+Tech Name:Henrique Schaer
+Tech Street1:Rua Republica
+Tech Street2:Dominicana 373
+Tech Street3:
+Tech City:Sao Paulo - SP
+Tech State/Province:SP
+Tech Postal Code:05691-030
+Tech Country:BR
+Tech Phone:+55.1137580593
+Tech Phone Ext.:
+Tech FAX:+55.1137580593
+Tech FAX Ext.:
+Tech Email:nadir@nadir.org
+Name Server:NS.FREE.DE
+Name Server:NS.XS4FREE.NET
+Name Server:NS.NADIR.ORG
+Name Server:NS.SO36NET.DE
+Name Server:NS2.NADIR.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

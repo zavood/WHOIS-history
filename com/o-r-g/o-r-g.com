@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARKERSPOST.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.PARKERSPOST.COM
-   Name Server: NS2.PARKERSPOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-jul-2010
-   Creation Date: 24-jun-2006
-   Expiration Date: 14-aug-2012
+   Domain Name: O-R-G.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS00.NS0.COM
+   Name Server: NS105.PAIR.COM
+   Status: ok
+   Updated Date: 09-jan-2011
+   Creation Date: 04-aug-1999
+   Expiration Date: 04-aug-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:57:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:59:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   J Parker
+  O-R-G inc.
+  38 Ludlow Street
+  Basement South
+  New York, NY 10002
+  US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: PARKERSPOST.COM
+  junk@o-r-g.com
+   +1.9177418949
 
-   Domain servers in listed order:
-      NS1.PARKERSPOST.COM
-      NS2.PARKERSPOST.COM
+Domain Name: O-R-G.COM
 
+Administrative &amp; Technical Contact:
+  David Reinfurt
+  O-R-G inc.
+  315 W 39th Street
+  Studio 911
+  New York, NY 10018
+  US
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PARKERSPOST.COM
+  junk@o-r-g.com
+   +1.2125635900
+
+Domain Name Servers:
+  NS105.PAIR.COM
+  NS00.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     August  4, 1999
+Modified:     January  9, 2011
+ Expires:     August  4, 2016
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+
