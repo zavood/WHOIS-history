@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 17:22:52 2011
+
+domain:       zskuldova.cz
+registrant:   SB:LN568-RIPE_XX
+admin-c:      LN568-RIPE
+nsset:        NSS:DC134-RIPE_XX:3
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   17.03.1999 01:00:00
+changed:      22.09.2004 12:20:00
+expire:       10.10.2011
+
+contact:      SB:LN568-RIPE_XX
+org:          ZS Kuldova
+name:         ZS Kuldova
+address:      Kuldova 38
+address:      Brno
+address:      615 00
+address:      CZ
+e-mail:       posta@zskuldova.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      08.09.2009 13:18:30
+
+contact:      LN568-RIPE
+name:         Libuse Necasova
+address:      CZ
+phone:        +420 548511111
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:DC134-RIPE_XX:3
+nserver:      ns.alfa95.cz
+nserver:      router.alfa95.cz
+tech-c:       DC134-RIPE
+tech-c:       SB:DC134-RIPE_XX
+registrar:    REG-CZNIC
+created:      01.10.2007 02:00:00
+
+contact:      DC134-RIPE
+name:         Dalimil Chocholac
+address:      Francouzsk&Atilde;&iexcl; 95
+address:      Brno
+address:      602 00
+address:      CZ
+phone:        +420 608 983 839
+fax-no:       +420
+e-mail:       info@dalimil.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      07.02.2003 16:45:00
+
+contact:      SB:DC134-RIPE_XX
+org:          MUDr. Dalimil Chochol&Atilde;&iexcl;&Auml;ç
+name:         Dalimil Chochol&Atilde;&iexcl;&Auml;ç
+address:      Francouzsk&Atilde;&iexcl; 95
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       info@dalimil.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      07.02.2003 16:45:00
+
+
