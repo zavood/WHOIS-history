@@ -1,0 +1,55 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         creativ-werkstatt.at
+registrant:     DK4211237-NICAT
+admin-c:        DK4211237-NICAT
+tech-c:         DIS3768673-NICAT
+nserver:        a.xnameserver.de
+nserver:        b.xnameserver.de
+nserver:        c.xnameserver.de
+changed:        20100328 20:32:44
+source:         AT-DOM
+
+personname:     Diederich Katrin
+organization:
+street address: St. Veit im Jauntal 36
+postal code:    9123
+city:           St. Primus
+country:        Austria
+phone:          +4342393522
+e-mail:         katrin.diederich@web.de
+nic-hdl:        DK4211237-NICAT
+changed:        20081121 14:29:28
+source:         AT-DOM
+
+personname:     Diederich Richard
+organization:   Diederich IT-SOLUTIONS
+street address: St. Veit im Jauntal 36
+postal code:    9123
+city:           St. Primus
+country:        Austria
+nic-hdl:        DIS3768673-NICAT
+changed:        20110128 17:57:34
+source:         AT-DOM
+
