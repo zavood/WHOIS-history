@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CCTVBEST.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: DNS1.IDCCOM.NET
-   Name Server: DNS2.IDCCOM.NET
-   Status: clientDeleteProhibited
+   Domain Name: K-POPPED.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS101.MSCHOSTING.COM
+   Name Server: NS102.MSCHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 06-aug-2006
-   Expiration Date: 06-aug-2013
+   Updated Date: 30-oct-2010
+   Creation Date: 30-jul-2007
+   Expiration Date: 30-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:15:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:14:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,36 +68,60 @@ The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
 
 
 Registrant:
-	 yaocuiliang gaobox@163.com +86.1062931515
-	 yaocuiliang
-	 beijing
-	 beijing,Beijing,CN 100080
+	 Jennifer Ng jennifer.ng@gmail.com +016.2853048
+	 Jennifer Ng Guat See
+	 E-07-02, Flora Damansara, No. 1 Jalan PJU 8/9,
+	 Bandar Damansara Perdana, Petaling Jaya,Selangor,MY 47820
 
 
-Domain Name:cctvbest.com
-Record last updated at 2011-07-23 06:01:01
-Record created on 2006/8/6
-Record expired on 2013/8/6
+Domain Name:k-popped.com
+Record last updated at 2010-10-30 12:11:13
+Record created on 2007/7/30
+Record expired on 2012/7/30
 
 
 Domain servers in listed order:
-	 dns1.idccom.net 	 dns2.idccom.net
+	 ns101.mschosting.com 	 ns102.mschosting.com
 
 Administrator:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
+	 name:(Jennifer Ng)
+	Email:(jennifer.ng@gmail.com) tel-- +016.2853048
+	 Jennifer Ng Guat See
+	 E-07-02, Flora Damansara, No. 1 Jalan PJU 8/9,
+\r
+t Bandar Damansara Perdana, Petaling Jaya
+Selangor,
+MY
+
+ zipcode:47820
 
 Technical Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
+	 name:(Jennifer Ng)
+	Email:(jennifer.ng@gmail.com) tel-- +016.2853048
+	 Jennifer Ng Guat See
+	 E-07-02, Flora Damansara, No. 1 Jalan PJU 8/9,
+\r
+t Bandar Damansara Perdana, Petaling Jaya
+Selangor,
+MY
+
+ zipcode:47820
 
 Billing Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
+	 name:(Jennifer Ng)
+	Email:(jennifer.ng@gmail.com) tel-- +016.2853048
+	 Jennifer Ng Guat See
+	 E-07-02, Flora Damansara, No. 1 Jalan PJU 8/9,
+\r
+t Bandar Damansara Perdana, Petaling Jaya
+Selangor,
+MY
 
+ zipcode:47820
+
+
+Registration Service Provider:
+	name: ITWIN Technology Sdn Bhd
+	tel: +607.3562969
+ 	fax: +607.3562968
+ 	web:http://www.itwin.my

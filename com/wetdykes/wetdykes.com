@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CCTVBEST.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: DNS1.IDCCOM.NET
-   Name Server: DNS2.IDCCOM.NET
+   Domain Name: WETDYKES.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 06-aug-2006
-   Expiration Date: 06-aug-2013
+   Status: clientUpdateProhibited
+   Updated Date: 09-sep-2011
+   Creation Date: 04-feb-2005
+   Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:15:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:14:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +53,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Moniker Whois Server Version 2.0
 
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-Registrant:
-	 yaocuiliang gaobox@163.com +86.1062931515
-	 yaocuiliang
-	 beijing
-	 beijing,Beijing,CN 100080
+    Domain Name: WETDYKES.COM
+         Status: EXPIRED - PENDING DELETE
+        Contact: support@moniker.com
 
+&lt;a href=&quot;http://www.moniker.com/renew-expired-domains.jsp?domain=WETDYKES.COM&quot; target=&quot;pending_delete&quot;&gt;Renew Now&lt;/a&gt;
 
-Domain Name:cctvbest.com
-Record last updated at 2011-07-23 06:01:01
-Record created on 2006/8/6
-Record expired on 2013/8/6
-
+&lt;a href=&quot;https://www.snapnames.com/?dom=WETDYKES.COM&amp;aff=400&quot; target=&quot;backorder&quot;&gt;Backorder this domain&lt;/a&gt;
 
 Domain servers in listed order:
-	 dns1.idccom.net 	 dns2.idccom.net
 
-Administrator:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
+        NS3.MONIKER.COM
+        NS4.MONIKER.COM
 
-Technical Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
+        Record created on:        2010-08-21 18:06:39.483
+        Database last updated on: 2011-08-28 20:08:14.903
+        Domain Expires on:        2011-08-03 23:59:59.0
 
-Billing Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
 

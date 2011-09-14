@@ -1,0 +1,74 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         brother.at
+registrant:     BIG7888311-NICAT
+admin-c:        BIEL7888312-NICAT
+tech-c:         IIM7888313-NICAT
+nserver:        ns1.inm.ch
+remarks:        193.247.162.9
+nserver:        ns4.inm.ch
+remarks:        193.247.162.13
+changed:        20110302 14:16:35
+source:         AT-DOM
+
+personname:     Martin Parchatka
+organization:   Brother Int. GmbH
+street address: Im Rosengarten 14
+postal code:    DE-61118
+city:           Bad Vilbel
+country:        Germany
+phone:          +4961018050
+fax-no:         +4961018051333
+e-mail:         brother@brother.de
+nic-hdl:        BIG7888311-NICAT
+changed:        20110302 14:16:27
+source:         AT-DOM
+
+personname:     Steve Godfrey
+organization:   Brother International Europe Ltd
+street address: 1 Tame Street
+street address: Audenshaw
+postal code:    M34
+city:           Manchester
+country:        United Kingdom
+phone:          +4401619314848
+fax-no:         +4401618300946
+e-mail:         steve.godfrey@brother.co.uk
+nic-hdl:        BIEL7888312-NICAT
+changed:        20110302 14:16:29
+source:         AT-DOM
+
+personname:     Kurt Schellenberg
+organization:   INM - Internetwork Marketing
+street address: Usterstrasse 202
+postal code:    CH-8620
+city:           Wetzikon
+country:        Switzerland
+phone:          +41449345050
+fax-no:         +41449345055
+e-mail:         techadmin@inm.ch
+nic-hdl:        IIM7888313-NICAT
+changed:        20110302 14:16:30
+source:         AT-DOM
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D144635018-LROR
+Domain Name:CALVARYWILLIAMSTOWN.ORG
+Created On:27-Apr-2007 12:35:01 UTC
+Last Updated On:26-Aug-2009 17:03:14 UTC
+Expiration Date:27-Apr-2014 12:35:01 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:1989F50004CEBA1D
+Registrant Name:Jama Morgan
+Registrant Organization:Calvary Assembly of God
+Registrant Street1:1509 N. Main St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Williamstown
+Registrant State/Province:NJ
+Registrant Postal Code:08094
+Registrant Country:US
+Registrant Phone:+1.8566294680
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:praying3@comcast.net
+Admin ID:1989F50004CEBA1D
+Admin Name:Jama Morgan
+Admin Organization:Calvary Assembly of God
+Admin Street1:1509 N. Main St.
+Admin Street2:
+Admin Street3:
+Admin City:Williamstown
+Admin State/Province:NJ
+Admin Postal Code:08094
+Admin Country:US
+Admin Phone:+1.8566294680
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:praying3@comcast.net
+Tech ID:1989F50004CEBA1D
+Tech Name:Jama Morgan
+Tech Organization:Calvary Assembly of God
+Tech Street1:1509 N. Main St.
+Tech Street2:
+Tech Street3:
+Tech City:Williamstown
+Tech State/Province:NJ
+Tech Postal Code:08094
+Tech Country:US
+Tech Phone:+1.8566294680
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:praying3@comcast.net
+Name Server:DNS1.REGISTRAR-SERVERS.COM
+Name Server:DNS2.REGISTRAR-SERVERS.COM
+Name Server:DNS3.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

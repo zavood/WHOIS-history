@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CCTVBEST.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: DNS1.IDCCOM.NET
-   Name Server: DNS2.IDCCOM.NET
-   Status: clientDeleteProhibited
+   Domain Name: XASSX.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 06-aug-2006
-   Expiration Date: 06-aug-2013
+   Updated Date: 23-apr-2011
+   Creation Date: 22-may-2005
+   Expiration Date: 22-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:15:00 UTC &lt;&lt;&lt;
 
@@ -52,53 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+=-=-=-=
+Visit AboutUs.org for more information about xassx.com
+&lt;a href=&quot;http://www.aboutus.org/xassx.com&quot;&gt;AboutUs: xassx.com&lt;/a&gt;
 
 
-Registrant:
-	 yaocuiliang gaobox@163.com +86.1062931515
-	 yaocuiliang
-	 beijing
-	 beijing,Beijing,CN 100080
+Domain name: xassx.com
+
+Registrant Contact:
+   BestRoad.com
+   Domain Manager ()
+
+   Fax:
+   38 Elm Street
+   Toronto, CA M5G 2K5
+   CA
+
+Administrative Contact:
+   BestRoad.com
+   Domain Manager (info@bestroad.com)
+   +1.7812818150
+   Fax:
+   38 Elm Street
+   Toronto, CA M5G 2K5
+   CA
+
+Technical Contact:
+   BestRoad.com
+   Domain Manager (info@bestroad.com)
+   +1.7812818150
+   Fax:
+   38 Elm Street
+   Toronto, CA M5G 2K5
+   CA
+
+Status: Locked
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 22 May 2005 05:53:24
+Expiration date: 22 May 2012 09:53:00
 
 
-Domain Name:cctvbest.com
-Record last updated at 2011-07-23 06:01:01
-Record created on 2006/8/6
-Record expired on 2013/8/6
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-Domain servers in listed order:
-	 dns1.idccom.net 	 dns2.idccom.net
-
-Administrator:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
-
-Technical Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
-
-Billing Contactor:
-	 beijingqishangzaixianshujutongxinyouxiangongsi info@8q8.net +86.1062195217
-	 beijingqishangzaixianshujutongxinyouxiangongsi
-	 beijinghaidianqubeisanhuanxilujia30#401
-	 beijing,Beijing,CN 100086
-
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
