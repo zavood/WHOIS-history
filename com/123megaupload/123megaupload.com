@@ -5,12 +5,15 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GIPPY.NET.BLINDPOODLE.COM
-GIPPY.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: 123MEGAUPLOAD.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS.CAPNOM.NET
+   Status: clientTransferProhibited
+   Updated Date: 28-feb-2011
+   Creation Date: 05-aug-2010
+   Expiration Date: 05-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:21:17 UTC &lt;&lt;&lt;
 
@@ -47,3 +50,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+You have exceeded your access quota. Please try again later.

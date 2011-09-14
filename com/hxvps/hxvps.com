@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GIPPY.NET.BLINDPOODLE.COM
-GIPPY.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: HXVPS.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.DNS.COM.CN
+   Name Server: NS2.DNS.COM.CN
+   Status: ok
+   Updated Date: 23-aug-2011
+   Creation Date: 20-aug-2006
+   Expiration Date: 20-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:21:17 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... hxvps.com
+  Creation Date........ 2006-08-21 02:25:21
+  Registration Date.... 2006-08-21 02:25:21
+  Expiry Date.......... 2012-08-21 02:25:21
+  Organisation Name.... hulei
+  Organisation Address. Englist Address
+  Organisation Address.
+  Organisation Address. ZhengZhou
+  Organisation Address. 450000
+  Organisation Address. HA
+  Organisation Address. CN
+
+Admin Name........... Temp
+  Admin Address........ Englist Address
+  Admin Address........
+  Admin Address........ ZhengZhou
+  Admin Address........ 450000
+  Admin Address........ HA
+  Admin Address........ CN
+  Admin Email.......... abc@abc.com
+  Admin Phone.......... +86.37166666666
+  Admin Fax............ +86.37188888888
+
+Tech Name............ hu lei
+  Tech Address......... feng tai qu
+  Tech Address.........
+  Tech Address......... beijing
+  Tech Address......... 100079
+  Tech Address......... BJ
+  Tech Address......... CN
+  Tech Email........... agent10855@agent.dns.com.cn
+  Tech Phone........... +86.1051228105-81
+  Tech Fax............. +86.1051228105
+
+Bill Name............ hu lei
+  Bill Address......... feng tai qu
+  Bill Address.........
+  Bill Address......... beijing
+  Bill Address......... 100079
+  Bill Address......... BJ
+  Bill Address......... CN
+  Bill Email........... agent10855@agent.dns.com.cn
+  Bill Phone........... +86.1051228105-81
+  Bill Fax............. +86.1051228105
+  Name Server.......... ns1.dns.com.cn
+  Name Server.......... ns2.dns.com.cn

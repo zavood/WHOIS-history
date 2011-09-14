@@ -5,13 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-GIPPY.NET.BLINDPOODLE.COM
-GIPPY.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
+No match for &quot;1800RANCHOCORDOVA.COM&quot;.
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:21:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
