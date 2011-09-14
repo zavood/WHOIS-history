@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JETYTOZIS.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.JETYTOZIS.COM
-   Name Server: NS2.JETYTOZIS.COM
-   Status: clientDeleteProhibited
+   Domain Name: INDEXTOWN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.BEE.ARVIXE.COM
+   Name Server: NS2.BEE.ARVIXE.COM
    Status: clientTransferProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Updated Date: 25-aug-2011
+   Creation Date: 09-sep-2006
+   Expiration Date: 09-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,7 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about indextown.com
+&lt;a href=&quot;http://www.aboutus.org/indextown.com&quot;&gt;AboutUs: indextown.com&lt;/a&gt;
 
+
+Domain name: indextown.com
+
+Registrant Contact:
+   By Arvixe
+   Private Registration ()
+
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Administrative Contact:
+   By Arvixe
+   Private Registration (domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Technical Contact:
+   By Arvixe
+   Private Registration (domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
+
+Status: Locked
+
+Name Servers:
+
+Creation date: 09 Sep 2006 21:03:00
+Expiration date: 09 Sep 2012 21:03:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -63,51 +106,10 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
+mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+consent from us.
 
-Domain name: jetytozis.com
-
-Registrant Contact:
-   Malena Bosgraaf
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Administrative Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Technical Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Billing Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.jetytozis.com
-ns2.jetytozis.com
-
-Created: 2011-05-26
-Expires: 2012-05-26
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

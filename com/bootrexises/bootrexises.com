@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JETYTOZIS.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.JETYTOZIS.COM
-   Name Server: NS2.JETYTOZIS.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Domain Name: BOOTREXISES.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.JINO.RU
+   Name Server: NS2.JINO.RU
+   Status: ok
+   Updated Date: 08-jul-2011
+   Creation Date: 30-jun-2011
+   Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:35:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Domain name: jetytozis.com
 
-Registrant Contact:
-   Malena Bosgraaf
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+Registrant:
+	 Ilya Teslya d0g0r0n@gmail.com +3.80631470160
+	 Ilya Teslya
+	 Tsentralnyy, 27
+	 Zaporozhe,UA,UA 69000
 
-Administrative Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
 
-Technical Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+Domain Name:bootrexises.com
+Record last updated at
+Record created on 2011/6/30
+Record expired on 2012/6/30
 
-Billing Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+
+Domain servers in listed order:
+	 ns1.jino.ru 	 ns2.jino.ru
+
+Administrator:
+	 Tsentralnyy, 27
+	 Zaporozhe
+UA,
+UA
+ 69000
+
+	 name:(Ilya Teslya)
+mail:(d0g0r0n@gmail.com) +3.80631470160
+	 Ilya Teslya
+Technical Contactor:
+	 Tsentralnyy, 27
+	 Zaporozhe
+UA,
+UA
+ 69000
+
+	 name:(Ilya Teslya)
+mail:(d0g0r0n@gmail.com) +3.80631470160
+	 Ilya Teslya
+Billing Contactor:
+	 Tsentralnyy, 27
+	 Zaporozhe
+UA,
+UA
+ 69000
+
+	 name:(Ilya Teslya)
+mail:(d0g0r0n@gmail.com) +3.80631470160
+	 Ilya Teslya
 
 Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.jetytozis.com
-ns2.jetytozis.com
-
-Created: 2011-05-26
-Expires: 2012-05-26
+	name: Avguro Technologies
+	tel: +7.4952293031
+ 	fax: +7.4952293031
+ 	web:http://www.jino.ru

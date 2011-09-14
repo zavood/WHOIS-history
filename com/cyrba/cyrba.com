@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JETYTOZIS.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.JETYTOZIS.COM
-   Name Server: NS2.JETYTOZIS.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Domain Name: CYRBA.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.LEVONLINE.COM
+   Name Server: NS2.LEVONLINE.COM
+   Name Server: NS3.LEVONLINE.COM
+   Status: ok
+   Updated Date: 10-nov-2010
+   Creation Date: 14-nov-2006
+   Expiration Date: 14-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
-
-Domain name: jetytozis.com
-
-Registrant Contact:
-   Malena Bosgraaf
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Administrative Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Technical Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Billing Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.jetytozis.com
-ns2.jetytozis.com
-
-Created: 2011-05-26
-Expires: 2012-05-26
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

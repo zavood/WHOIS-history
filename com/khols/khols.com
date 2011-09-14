@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JETYTOZIS.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.JETYTOZIS.COM
-   Name Server: NS2.JETYTOZIS.COM
+   Domain Name: KHOLS.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Status: clientUpdateProhibited
+   Updated Date: 19-feb-2011
+   Creation Date: 18-feb-2004
+   Expiration Date: 18-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:58 UTC &lt;&lt;&lt;
 
@@ -53,61 +54,61 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain name: jetytozis.com
+Registrant:
+   c/o KHOLS.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
-Registrant Contact:
-   Malena Bosgraaf
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+   Registrar: DOTREGISTRAR
+   Domain Name: KHOLS.COM
+      Created on: 18-FEB-04
+      Expires on: 18-FEB-12
+      Last Updated on: 29-JAN-11
 
-Administrative Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+   Administrative Contact:
+      J6G0LB@privacypost.com
+      c/o KHOLS.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
-Technical Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+   Technical Contact:
+      zSGjRU@privacypost.com
+      c/o KHOLS.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
-Billing Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
 
-Registration Service Provider:
-name: Bizcn
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
 
-DNS:
-ns1.jetytozis.com
-ns2.jetytozis.com
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
-Created: 2011-05-26
-Expires: 2012-05-26
+End of Whois Information

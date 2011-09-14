@@ -1,0 +1,23 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         mypage.sk
+Admin-id            MIRO-0794
+Admin-name          Miroslav Janosik
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         miro.janosik@gmail.com
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-07-26
+Valid-date          2012-08-03
+Domain-status       DOM_OK
+

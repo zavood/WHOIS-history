@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JETYTOZIS.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.JETYTOZIS.COM
-   Name Server: NS2.JETYTOZIS.COM
-   Status: clientDeleteProhibited
+   Domain Name: PLAYER1532.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: NS1.AFRAID.ORG
+   Name Server: NS2.AFRAID.ORG
+   Name Server: NS3.AFRAID.ORG
+   Name Server: NS4.AFRAID.ORG
    Status: clientTransferProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Updated Date: 26-aug-2011
+   Creation Date: 31-mar-2011
+   Expiration Date: 31-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:35:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +53,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Dear Valued Customer,
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
 
-Domain name: jetytozis.com
 
-Registrant Contact:
-   Malena Bosgraaf
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+Domain name: player1532.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+
+Registrant:
+Name: Cullen C Walker
+Organization: Cullen C Walker
+Address: 3002 Drakewood Cir
+City: Midlothian
+Province/state: VA
+Country: US
+Postal Code: 23113
+Email: admin@player1532.com
 
 Administrative Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+Name: Cullen C Walker
+Organization: Cullen C Walker
+Address: 3002 Drakewood Cir
+City: Midlothian
+Province/state: VA
+Country: US
+Postal Code: 23113
+Phone: +1.8047949058
+Fax: +1.8047949058
+Email: admin@player1532.com
 
 Technical Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
+Name: Cullen C Walker
+Organization: Cullen C Walker
+Address: 3002 Drakewood Cir
+City: Midlothian
+Province/state: VA
+Country: US
+Postal Code: 23113
 
-Billing Contact:
-   Malena Bosgraaf buff@mailti.com
-   +3292337056 fax: +3292337056
-   Onderstraat 23
-   Ghent Oost-Vlaanderen 9000
-   BE
 
-Registration Service Provider:
-name: Bizcn
+Nameserver Information:
+    NS1.AFRAID.ORG
+    NS2.AFRAID.ORG
+    NS3.AFRAID.ORG
+    NS4.AFRAID.ORG
 
-DNS:
-ns1.jetytozis.com
-ns2.jetytozis.com
+Create: 2011-03-31 12:38:01
+Update: 2011-08-26
+Expired: 2012-03-30
+QueryTimes: 5827
 
-Created: 2011-05-26
-Expires: 2012-05-26
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.

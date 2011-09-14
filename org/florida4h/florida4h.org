@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D76261777-LROR
+Domain Name:FLORIDA4H.ORG
+Created On:21-Aug-2001 18:09:37 UTC
+Last Updated On:19-Aug-2011 19:46:54 UTC
+Expiration Date:21-Aug-2012 18:09:37 UTC
+Sponsoring Registrar:2030138 Ontario Inc. dba NamesBeyond.com and dba GoodLuckDomain.com (R117-LROR)
+Status:OK
+Registrant ID:123R-1075
+Registrant Name:Florida 4-H
+Registrant Street1:3103 McCarty Hall
+Registrant Street2:PO Box 110225
+Registrant Street3:
+Registrant City:Gainesville
+Registrant State/Province:FL
+Registrant Postal Code:32611-0225
+Registrant Country:US
+Registrant Phone:+1.3528460996
+Registrant Phone Ext.:
+Registrant FAX:+1.3528460999
+Registrant FAX Ext.:
+Registrant Email:aneiberger@mail.ifas.ufl.edu
+Admin ID:123RAN47012
+Admin Name:Ami Neiberger
+Admin Organization:Florida 4-H
+Admin Street1:3103 McCarty Hall
+Admin Street2:PO Box 110225
+Admin Street3:
+Admin City:Gainesville
+Admin State/Province:FL
+Admin Postal Code:32611-0225
+Admin Country:US
+Admin Phone:+1.3528460996
+Admin Phone Ext.:
+Admin FAX:+1.3528460999
+Admin FAX Ext.:
+Admin Email:aneiberger@mail.ifas.ufl.edu
+Tech ID:CL32981
+Tech Name:Christian Leopold
+Tech Organization:University of Florida - IFAS Information Tech
+Tech Street1:Building 120 Rm 209
+Tech Street2:PO Box 110350
+Tech Street3:
+Tech City:Gainesville
+Tech State/Province:FL
+Tech Postal Code:32611-0350
+Tech Country:US
+Tech Phone:+1.3528462252
+Tech Phone Ext.:
+Tech FAX:+1.3523925757
+Tech FAX Ext.:
+Tech Email:itnslan@ifas.ufl.edu
+Name Server:NAME.IFAS.UFL.EDU
+Name Server:LOWER-NAME.IFAS.UFL.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
