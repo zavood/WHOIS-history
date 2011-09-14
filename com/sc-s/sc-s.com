@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FACEBOOK.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-FACEBOOK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-FACEBOOK.COM.LOVED.BY.WWW.SHQIPHOST.COM
-FACEBOOK.COM.KNOWS.THAT.THE.BEST.WEB.HOSTING.IS.NASHHOST.NET
-FACEBOOK.COM.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-FACEBOOK.COM
+   Domain Name: SC-S.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 26-oct-2010
+   Creation Date: 16-jan-2010
+   Expiration Date: 16-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:49:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:50:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,29 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+; This data is provided by domaindiscount24.com
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; domaindiscount24.com does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: SC-S.COM
+
+RSP: domaindiscount24.com
+URL: register your &lt;a href=&quot;http://www.domaindiscount24.com/&quot; rel=&quot;dofollow&quot;&gt;domain&lt;/a&gt; with http://www.domaindiscount24.com
+
+nameserver: ns05.domaincontrol.com
+nameserver: ns06.domaincontrol.com
+
+; Please register your domains at
+; register your &lt;a href=&quot;http://www.domaindiscount24.com/&quot; rel=&quot;dofollow&quot;&gt;domain&lt;/a&gt; with http://www.domaindiscount24.com
+

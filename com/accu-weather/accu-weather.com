@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-feb-1998
    Expiration Date: 19-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:39:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:49:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: accu-weather.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:30:24 EDT 2011
+Date and Time of Query: Wed Sep 14 16:39:19 EDT 2011
 Reason Code: IE
