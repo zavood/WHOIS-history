@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D138365371-LROR
+Domain Name:WELLNESS-DEUTSCHLAND.ORG
+Created On:28-Jan-2007 00:50:04 UTC
+Last Updated On:10-Jan-2011 00:25:41 UTC
+Expiration Date:28-Jan-2012 00:50:04 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-9935345
+Registrant Name:Harald Stremmer
+Registrant Organization:wellMedia
+Registrant Street1:Toepferstrasse 24
+Registrant Street2:
+Registrant Street3:
+Registrant City:Huenfeld
+Registrant State/Province:Hessen
+Registrant Postal Code:36088
+Registrant Country:DE
+Registrant Phone:+49.6652919701
+Registrant Phone Ext.:
+Registrant FAX:+49.6652919702
+Registrant FAX Ext.:
+Registrant Email:ix@x700.de
+Admin ID:ABM-9935345
+Admin Name:Harald Stremmer
+Admin Organization:wellMedia
+Admin Street1:Toepferstrasse 24
+Admin Street2:
+Admin Street3:
+Admin City:Huenfeld
+Admin State/Province:Hessen
+Admin Postal Code:36088
+Admin Country:DE
+Admin Phone:+49.6652919701
+Admin Phone Ext.:
+Admin FAX:+49.6652919702
+Admin FAX Ext.:
+Admin Email:ix@x700.de
+Tech ID:ABM-9935345
+Tech Name:Harald Stremmer
+Tech Organization:wellMedia
+Tech Street1:Toepferstrasse 24
+Tech Street2:
+Tech Street3:
+Tech City:Huenfeld
+Tech State/Province:Hessen
+Tech Postal Code:36088
+Tech Country:DE
+Tech Phone:+49.6652919701
+Tech Phone Ext.:
+Tech FAX:+49.6652919702
+Tech FAX Ext.:
+Tech Email:ix@x700.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
