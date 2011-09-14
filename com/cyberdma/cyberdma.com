@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DTMF.NET
-   Registrar: NAMETELL.COM LLC
-   Whois Server: whois.nametell.com
-   Referral URL: http://www.nametell.com
-   Name Server: NSG1.NAMEBRIGHTDNS.COM
-   Name Server: NSG2.NAMEBRIGHTDNS.COM
+   Domain Name: CYBERDMA.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS01.MUUMUU-DOMAIN.COM
+   Name Server: DNS02.MUUMUU-DOMAIN.COM
    Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 04-aug-2011
-   Expiration Date: 04-aug-2012
+   Updated Date: 15-mar-2011
+   Creation Date: 24-feb-2010
+   Expiration Date: 24-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:48:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:47:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+GMO Internet, Inc. whois server 2.0
 
-Registrar: NameTell.com (http://www.nametell.com)
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Domain Name: Dtmf.net
-	Creation Date: 8/4/2011
-	Expiration Date: 8/4/2012
-	Last Updated Date: 8/5/2011
-	Domain Locked: True
+Domain Handle: None
+Domain Name: cyberdma.com
+Created On: 2010-02-24 15:45:02.0
+Last Updated On: 2011-03-15 15:46:46.0
+Expiration Date: 2012-02-24 15:45:02.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns01.muumuu-domain.com
+Name Server: dns02.muumuu-domain.com
 
-Administrative Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
-
-Technical Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
-
-Nameservers:
-	nsg1.namebrightdns.com
-	nsg2.namebrightdns.com

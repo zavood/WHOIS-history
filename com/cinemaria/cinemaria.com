@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DTMF.NET
-   Registrar: NAMETELL.COM LLC
-   Whois Server: whois.nametell.com
-   Referral URL: http://www.nametell.com
-   Name Server: NSG1.NAMEBRIGHTDNS.COM
-   Name Server: NSG2.NAMEBRIGHTDNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 04-aug-2011
-   Expiration Date: 04-aug-2012
+   Domain Name: CINEMARIA.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.MEGANAMESERVERS.COM
+   Name Server: NS2.MEGANAMESERVERS.COM
+   Status: ok
+   Updated Date: 27-may-2011
+   Creation Date: 07-feb-2000
+   Expiration Date: 07-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:48:17 UTC &lt;&lt;&lt;
 
@@ -51,43 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+Registration Service Provided By: Domain Registry of Canada
+Contact: support@droc.ca
+Web:http://www.droc.ca
 
-Registrar: NameTell.com (http://www.nametell.com)
 
-Domain Name: Dtmf.net
-	Creation Date: 8/4/2011
-	Expiration Date: 8/4/2012
-	Last Updated Date: 8/5/2011
-	Domain Locked: True
+Domain name: cinemaria.com
+
+Registrant Contact:
+      Maria    Caroline
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      6y1egwpqyl71pi0b@private-contact.com
 
 Administrative Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
+      Maria    Caroline
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      xwzylsaqaawqigyd@private-contact.com
 
 Technical Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+      Maria    Caroline
+      Private Registration
+      PO Box 4577
+      Markham
+      ON,   L3R 5M7    CA
+      866-434-0212
+      866-434-0211
+      0j2azrg1xsuikfud@private-contact.com
+
+Update date: 2011-05-27
+Expiration date: 2013-02-07
 
 
-Nameservers:
-	nsg1.namebrightdns.com
-	nsg2.namebrightdns.com
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DTMF.NET
-   Registrar: NAMETELL.COM LLC
-   Whois Server: whois.nametell.com
-   Referral URL: http://www.nametell.com
-   Name Server: NSG1.NAMEBRIGHTDNS.COM
-   Name Server: NSG2.NAMEBRIGHTDNS.COM
+   Domain Name: CUMFELLAS.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MOJOHOST.COM
+   Name Server: NS2.MOJOHOST.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 04-aug-2011
-   Expiration Date: 04-aug-2012
+   Status: clientUpdateProhibited
+   Updated Date: 25-jul-2011
+   Creation Date: 22-oct-2003
+   Expiration Date: 22-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:48:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:49:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +53,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
 Registrant:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+   Olivier Costa
+   53 Peterborough Street
+   Boston, Ma  02215
+   US
 
-Registrar: NameTell.com (http://www.nametell.com)
+   Registrar: NAMESDIRECT
+   Domain Name: CUMFELLAS.COM
+      Created on: 22-OCT-03
+      Expires on: 22-OCT-12
+      Last Updated on: 25-JUL-11
 
-Domain Name: Dtmf.net
-	Creation Date: 8/4/2011
-	Expiration Date: 8/4/2012
-	Last Updated Date: 8/5/2011
-	Domain Locked: True
-
-Administrative Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+   Administrative, Technical Contact:
+      Costa, Olivier  webmaster@coolcommunities.org
+      53 Peterborough Street
+      Boston, Ma  02215
+      US
+      (617) 266-1997
+      (617) 266-1997
 
 
-Technical Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
+   Domain servers in listed order:
+      NS1.MOJOHOST.COM
+      NS2.MOJOHOST.COM
 
-
-Nameservers:
-	nsg1.namebrightdns.com
-	nsg2.namebrightdns.com
+End of Whois Information

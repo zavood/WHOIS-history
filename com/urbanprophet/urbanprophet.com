@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DTMF.NET
-   Registrar: NAMETELL.COM LLC
-   Whois Server: whois.nametell.com
-   Referral URL: http://www.nametell.com
-   Name Server: NSG1.NAMEBRIGHTDNS.COM
-   Name Server: NSG2.NAMEBRIGHTDNS.COM
-   Status: clientTransferProhibited
+   Domain Name: URBANPROPHET.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: SK.S7.ANS1.NS103.KLCZY.COM
+   Name Server: SK.S7.ANS2.NS103.KLCZY.COM
+   Status: clientDeleteProhibited
    Updated Date: 08-aug-2011
-   Creation Date: 04-aug-2011
-   Expiration Date: 04-aug-2012
+   Creation Date: 14-may-2002
+   Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:48:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:49:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
-Registrar: NameTell.com (http://www.nametell.com)
-
-Domain Name: Dtmf.net
-	Creation Date: 8/4/2011
-	Expiration Date: 8/4/2012
-	Last Updated Date: 8/5/2011
-	Domain Locked: True
-
-Administrative Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
-
-Technical Contact:
-	HugeDomains 	domains@hugedomains.com
-	THIS DOMAIN IS FOR SALE
-	1422 Delgany Street
-	Suite 400
-	Denver, CO  80202
-	US
-	+1.303.893.0552
-
-
-Nameservers:
-	nsg1.namebrightdns.com
-	nsg2.namebrightdns.com
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D63963578-LROR
+Domain Name:CANADIANWILDLIFE.ORG
+Created On:24-Feb-2001 00:53:15 UTC
+Last Updated On:27-May-2011 13:39:05 UTC
+Expiration Date:24-Feb-2012 00:53:15 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Registrant ID:tuCUDQi22tADrHNg
+Registrant Name:Sandy Baumgartner
+Registrant Organization:Canadian Wildlife Federation
+Registrant Street1:350 Michael Cowpland Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kanata
+Registrant State/Province:ON
+Registrant Postal Code:K2M2W1
+Registrant Country:CA
+Registrant Phone:+1.6135999594
+Registrant Phone Ext.:
+Registrant FAX:+1.6135994428
+Registrant FAX Ext.:
+Registrant Email:sandyb@cwf-fcf.org
+Admin ID:tuCUDQi22tADrHNg
+Admin Name:Sandy Baumgartner
+Admin Organization:Canadian Wildlife Federation
+Admin Street1:350 Michael Cowpland Dr
+Admin Street2:
+Admin Street3:
+Admin City:Kanata
+Admin State/Province:ON
+Admin Postal Code:K2M2W1
+Admin Country:CA
+Admin Phone:+1.6135999594
+Admin Phone Ext.:
+Admin FAX:+1.6135994428
+Admin FAX Ext.:
+Admin Email:sandyb@cwf-fcf.org
+Tech ID:tuSdukbaqu2ylcVl
+Tech Name:Network Admin
+Tech Organization:EasyHosting.com
+Tech Street1:5415 Dundas Street West
+Tech Street2:SUITE 207
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M9B1B5
+Tech Country:CA
+Tech Phone:+1.4162337150
+Tech Phone Ext.:
+Tech FAX:+1.4162336970
+Tech FAX Ext.:
+Tech Email:postmaster@easyhosting.com
+Name Server:NS1.EASYHOSTING.COM
+Name Server:NS2.EASYHOSTING.COM
+Name Server:NS3.EASYHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
