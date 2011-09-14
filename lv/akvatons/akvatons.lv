@@ -1,0 +1,24 @@
+[Domain]
+Domain: akvatons.lv
+Status: active
+Changed: 2006-02-20T17:28:30+02:00
+
+[Holder]
+Type: Legal person
+Name: AKVATONS SIA
+Email: novikov@harizma.lv
+Phone: +371 29368624
+Address: Marupes iela 31-6, Riga, LV-1002, Latvia
+RegNr: 40002055179
+
+[Tech]
+Type: Natural person
+Email: novikov@harizma.lv
+Phone: +371 29368624
+
+[Nservers]
+Nserver: ns.harizma.lv
+Nserver: ns3.teliamtc.lv
+
+[Whois]
+Updated: 2011-09-14T17:12:25.249591+00:00
