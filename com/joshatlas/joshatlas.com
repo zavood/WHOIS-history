@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HUMANAVISIONCARE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: JOSHATLAS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.HRNOC.NET
+   Name Server: DNS2.HRNOC.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 03-apr-2007
-   Expiration Date: 03-apr-2012
+   Updated Date: 06-apr-2011
+   Creation Date: 06-apr-2005
+   Expiration Date: 06-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:00:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:59:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +52,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... humanavisioncare.com
-  Creation Date........ 2007-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-04
-  Organisation Name.... Humana Inc.
-  Organisation Address. 500 West Main St.
-  Organisation Address.
-  Organisation Address. Louisville
-  Organisation Address. 40202
-  Organisation Address. Kentucky
-  Organisation Address. UNITED STATES
-
-Admin Name........... Admin .
-  Admin Address........ 500 West Main Street
-  Admin Address........
-  Admin Address........ Louisville
-  Admin Address........ 40202
-  Admin Address........ KY
-  Admin Address........ UNITED STATES
-  Admin Email.......... domainadmin@humana.com
-  Admin Phone.......... +1.5025801000
-  Admin Fax............
-
-Tech Name............ Admin .
-  Tech Address......... 500 West Main Street
-  Tech Address.........
-  Tech Address......... Louisville
-  Tech Address......... 40202
-  Tech Address......... KY
-  Tech Address......... UNITED STATES
-  Tech Email........... domainadmin@humana.com
-  Tech Phone........... +1.5025801000
-  Tech Fax.............
-  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
+=-=-=-=
+Visit AboutUs.org for more information about joshatlas.com
+&lt;a href=&quot;http://www.aboutus.org/joshatlas.com&quot;&gt;AboutUs: joshatlas.com&lt;/a&gt;
 
 
+Domain name: joshatlas.com
+
+Registrant Contact:
+   joshatlas.com
+   Atlas Josh ()
+
+   Fax:
+   Pittsburgh
+   Pittsburgh, PA 15217
+   US
+
+Administrative Contact:
+   joshatlas.com
+   Atlas Josh (jatlas@andrew.cmu.edu)
+   +1.4124437436
+   Fax:
+   Pittsburgh
+   Pittsburgh, PA 15217
+   US
+
+Technical Contact:
+   joshatlas.com
+   Atlas Josh (jatlas@andrew.cmu.edu)
+   +1.4124437436
+   Fax:
+   Pittsburgh
+   Pittsburgh, PA 15217
+   US
+
+Status: Locked
+
+Name Servers:
+   dns1.hrnoc.net
+   dns2.hrnoc.net
+
+Creation date: 06 Apr 2005 19:20:41
+Expiration date: 06 Apr 2012 19:20:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

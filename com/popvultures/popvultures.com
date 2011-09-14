@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HUMANAVISIONCARE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 03-apr-2007
-   Expiration Date: 03-apr-2012
+   Domain Name: POPVULTURES.COM
+   Registrar: WEBFUSION LTD.
+   Whois Server: whois.123-reg.co.uk
+   Referral URL: http://www.123-reg.co.uk
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: pendingDelete
+   Updated Date: 09-sep-2011
+   Creation Date: 06-aug-2007
+   Expiration Date: 06-aug-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:00:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:57:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... humanavisioncare.com
-  Creation Date........ 2007-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-04
-  Organisation Name.... Humana Inc.
-  Organisation Address. 500 West Main St.
-  Organisation Address.
-  Organisation Address. Louisville
-  Organisation Address. 40202
-  Organisation Address. Kentucky
-  Organisation Address. UNITED STATES
-
-Admin Name........... Admin .
-  Admin Address........ 500 West Main Street
-  Admin Address........
-  Admin Address........ Louisville
-  Admin Address........ 40202
-  Admin Address........ KY
-  Admin Address........ UNITED STATES
-  Admin Email.......... domainadmin@humana.com
-  Admin Phone.......... +1.5025801000
-  Admin Fax............
-
-Tech Name............ Admin .
-  Tech Address......... 500 West Main Street
-  Tech Address.........
-  Tech Address......... Louisville
-  Tech Address......... 40202
-  Tech Address......... KY
-  Tech Address......... UNITED STATES
-  Tech Email........... domainadmin@humana.com
-  Tech Phone........... +1.5025801000
-  Tech Fax.............
-  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
-
-
+popvultures.com not found.
