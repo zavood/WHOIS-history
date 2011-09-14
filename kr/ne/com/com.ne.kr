@@ -1,0 +1,56 @@
+query: com.ne.kr
+
+# KOREAN
+
+
+&micro;&micro;&cedil;&THORN;&Agrave;&Icirc;&Agrave;&Igrave;&cedil;&sect;                  : com.ne.kr
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc;                      : &Agrave;&Oacute;&frac12;&Acirc;&Egrave;&macr;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &Aacute;&Ouml;&frac14;&Ograve;                 : &acute;&euml;&Agrave;&uuml; &Agrave;&macr;&frac14;&ordm;&plusmn;&cedil; &Agrave;&aring;&acute;&euml;&micro;&iquest; 337-2 &raquo;&szlig;&frac34;&AElig;&sup3;&times;&micro;&ucirc;&ordm;&ocirc;&micro;&ugrave; 402&Egrave;&pound; &amp;nbsp;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &iquest;&igrave;&AElig;&iacute;&sup1;&oslash;&Egrave;&pound;             : 305308
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute;                      : &Agrave;&Igrave;&Agrave;&Oacute;&iquest;&igrave;
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Agrave;&Uacute;&iquest;&igrave;&AElig;&iacute;             : 4482@coreicc.com
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Egrave;&shy;&sup1;&oslash;&Egrave;&pound;             : 070-8666-4482
+&micro;&icirc;&middot;&Iuml;&Agrave;&Iuml;                      : 1999. 02. 19.
+&Atilde;&Ouml;&plusmn;&Ugrave; &Aacute;&curren;&ordm;&cedil; &ordm;&macr;&deg;&aelig;&Agrave;&Iuml;            : 2011. 08. 19.
+&raquo;&ccedil;&iquest;&euml; &Aacute;&frac34;&middot;&aacute;&Agrave;&Iuml;                 : 2011. 10. 15.
+&Aacute;&curren;&ordm;&cedil;&deg;&oslash;&deg;&sup3;&iquest;&copy;&ordm;&Icirc;                : Y
+&micro;&icirc;&middot;&Iuml;&acute;&euml;&Ccedil;&agrave;&Agrave;&Uacute;                  : (&Aacute;&Ouml;)&deg;&iexcl;&ordm;&ntilde;&frac34;&AElig;(http://www.gabia.co.kr)
+
+1&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : a.ns.com.ne.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.119.245.131
+
+2&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : b.ns.com.ne.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.119.245.131
+
+&sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Agrave;&Igrave;&cedil;&sect;&Agrave;&Igrave; .kr&Agrave;&Igrave; &frac34;&AElig;&acute;&Ntilde; &deg;&aelig;&iquest;&igrave;&acute;&Acirc; IP&Aacute;&Ouml;&frac14;&Ograve;&deg;&iexcl; &ordm;&cedil;&Agrave;&Igrave;&Aacute;&ouml; &frac34;&Ecirc;&frac12;&Agrave;&acute;&Iuml;&acute;&Ugrave;.
+
+# ENGLISH
+
+
+Domain Name                 : com.ne.kr
+Registrant                  : kilhan
+Registrant Address          : 402 Pianeta-building 337-2 Jangdae-dong, Yuseong-gu, Daejeon &amp;nbsp;
+Registrant Zip Code         : 305308
+Administrative Contact(AC)  : isun
+AC E-Mail                   : 4482@coreicc.com
+AC Phone Number             : 070-8666-4482
+Registered Date             : 1999. 02. 19.
+Last updated Date           : 2011. 08. 19.
+Expiration Date             : 2011. 10. 15.
+Publishes                   : Y
+Authorized Agency           : Gabia, Inc.(http://www.gabia.co.kr)
+
+Primary Name Server
+   Host Name                : a.ns.com.ne.kr
+   IP Address               : 211.119.245.131
+
+Secondary Name Server
+   Host Name                : b.ns.com.ne.kr
+   IP Address               : 211.119.245.131
+
+
+- KISA/KRNIC Whois Service -
+
+

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPPERTSGUNPARTS.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS0.NS0.COM
-   Name Server: NS19.PAIR.COM
-   Status: ok
-   Updated Date: 17-aug-2009
-   Creation Date: 15-mar-1998
-   Expiration Date: 14-mar-2015
+   Domain Name: PLATINUM-INDIAN.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS8.ZONEEDIT.COM
+   Name Server: NS9.ZONEEDIT.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 16-mar-2011
+   Creation Date: 22-jul-2007
+   Expiration Date: 22-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:04:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:03:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +52,32 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
 
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
+Domain platinum-indian.com:
+  One Stop Web Limited
+  Global Gateway, Rue De La Perle
+  Mahe, Mahe 0601 SC
 
-Domain Name: POPPERTSGUNPARTS.COM
+Administrative contact:
+Technical contact:
+Billing contact:
+  One Stop Web Limited
+  Vladimir Blokhin
+  contact@onestopweb.biz
+  Global Gateway, Rue De La Perle
+  Mahe, Mahe 0601 SC
+  Phone: +248.371733
+  Fax:
 
-Administrative &amp; Technical Contact:
-  Louis F Osinski
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
+Record dates:
+  Record created on: 2007-07-22 18:17:13 UTC
+  Record modified on: 2011-03-16 21:21:36 UTC
+  Record expires on: 2012-07-22 UTC
 
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
+Nameservers:
+  ns9.zoneedit.com:
+  ns8.zoneedit.com:
+    206.55.124.4
 
-Domain Name Servers:
-  NS19.PAIR.COM
-  NS0.NS0.COM
-
-Transfer-Lock Status: ENABLED
-
- Created:     March 15, 1998
-Modified:     August 17, 2009
- Expires:     March 13, 2015
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
+Note: Automated collection of data from this database is strictly prohibited.
 

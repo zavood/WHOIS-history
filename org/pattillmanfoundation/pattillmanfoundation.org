@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104265024-LROR
+Domain Name:PATTILLMANFOUNDATION.ORG
+Created On:24-Apr-2004 00:31:51 UTC
+Last Updated On:25-Jan-2011 22:14:45 UTC
+Expiration Date:24-Apr-2013 00:31:51 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31146552
+Registrant Name:Suzanne Reddie
+Registrant Organization:Pat Tillman Foundation
+Registrant Street1:2121 S. Mill Ave.
+Registrant Street2:Ste. 214
+Registrant Street3:
+Registrant City:Tempe
+Registrant State/Province:Arizona
+Registrant Postal Code:85282
+Registrant Country:US
+Registrant Phone:+1.4806214074
+Registrant Phone Ext.:
+Registrant FAX:+1.4806214075
+Registrant FAX Ext.:
+Registrant Email:sreddie@pattillmanfoundation.org
+Admin ID:CR31146554
+Admin Name:Suzanne Reddie
+Admin Organization:Pat Tillman Foundation
+Admin Street1:2121 S. Mill Ave.
+Admin Street2:Ste. 214
+Admin Street3:
+Admin City:Tempe
+Admin State/Province:Arizona
+Admin Postal Code:85282
+Admin Country:US
+Admin Phone:+1.4806214074
+Admin Phone Ext.:
+Admin FAX:+1.4806214075
+Admin FAX Ext.:
+Admin Email:sreddie@pattillmanfoundation.org
+Tech ID:CR31146553
+Tech Name:Suzanne Reddie
+Tech Organization:Pat Tillman Foundation
+Tech Street1:2121 S. Mill Ave.
+Tech Street2:Ste. 214
+Tech Street3:
+Tech City:Tempe
+Tech State/Province:Arizona
+Tech Postal Code:85282
+Tech Country:US
+Tech Phone:+1.4806214074
+Tech Phone Ext.:
+Tech FAX:+1.4806214075
+Tech FAX Ext.:
+Tech Email:sreddie@pattillmanfoundation.org
+Name Server:BOON.RHINONET.COM
+Name Server:BSDSRVR.RHINONET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

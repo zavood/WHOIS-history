@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPPERTSGUNPARTS.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS0.NS0.COM
-   Name Server: NS19.PAIR.COM
-   Status: ok
-   Updated Date: 17-aug-2009
-   Creation Date: 15-mar-1998
-   Expiration Date: 14-mar-2015
+   Domain Name: POSHSCRIPT.COM
+   Registrar: EASYSPACE LTD.
+   Whois Server: whois.easyspace.com
+   Referral URL: http://www.easyspace.com
+   Name Server: NS1.NAMECITY.COM
+   Name Server: NS2.NAMECITY.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-jan-2010
+   Creation Date: 26-jan-2001
+   Expiration Date: 26-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:04:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:02:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
-
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
-
-Domain Name: POPPERTSGUNPARTS.COM
-
-Administrative &amp; Technical Contact:
-  Louis F Osinski
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
-
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
-
-Domain Name Servers:
-  NS19.PAIR.COM
-  NS0.NS0.COM
-
-Transfer-Lock Status: ENABLED
-
- Created:     March 15, 1998
-Modified:     August 17, 2009
- Expires:     March 13, 2015
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

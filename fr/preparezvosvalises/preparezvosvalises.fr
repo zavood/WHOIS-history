@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; preparezvosvalises.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      preparezvosvalises.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MCA108-FRNIC
+admin-c:     MCA108-FRNIC
+tech-c:      IDN26-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13600-FRNIC
+registrar:   INDOM
+anniversary: 19/01
+created:     19/01/2011
+last-update: 19/01/2011
+source:      FRNIC
+
+ns-list:     NSL13600-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     MCA108-FRNIC
+type:        ORGANIZATION
+contact:     MARIE CLAIRE ALBUM
+address:     10, boulevard des Freres Voisin
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 41 46 88 88
+fax-no:      +33 1 41 46 89 81
+e-mail:      admin_dns@gmc.tm.fr
+changed:     19/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IDN26-FRNIC
+type:        ORGANIZATION
+contact:     Indomco.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     06/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

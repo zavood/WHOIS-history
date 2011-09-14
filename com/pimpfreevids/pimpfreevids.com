@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPPERTSGUNPARTS.COM
-   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
-   Whois Server: whois.pairnic.com
-   Referral URL: http://www.pairnic.com
-   Name Server: NS0.NS0.COM
-   Name Server: NS19.PAIR.COM
-   Status: ok
-   Updated Date: 17-aug-2009
-   Creation Date: 15-mar-1998
-   Expiration Date: 14-mar-2015
+   Domain Name: PIMPFREEVIDS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS0.REFLECTED.NET
+   Name Server: NS1.REFLECTED.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 28-jul-2011
+   Creation Date: 26-aug-2004
+   Expiration Date: 26-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:04:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:03:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,53 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
 
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain Name: POPPERTSGUNPARTS.COM
+Domain pimpfreevids.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 67382538923912
+  67382538923912-2f6b79@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-Administrative &amp; Technical Contact:
-  Louis F Osinski
-  Media Website Design, Inc
-  c/o pairNIC.com Whois Privacy
-  PO Box 42319
-  Pittsburgh, PA 15203
-  US
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 67382538923912
+  67382538923912-2f6b79@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-  425z9f4879@junkemailprevention.com
-   +1.4123257437
+Record dates:
+  Record created on: 2004-08-26 19:02:30 UTC
+  Record modified on: 2011-07-28 20:53:46 UTC
+  Record expires on: 2012-08-26 UTC
 
-Domain Name Servers:
-  NS19.PAIR.COM
-  NS0.NS0.COM
+Nameservers:
+  ns0.reflected.net:
+    66.254.126.2
+  ns1.reflected.net:
+    66.254.127.2
 
-Transfer-Lock Status: ENABLED
-
- Created:     March 15, 1998
-Modified:     August 17, 2009
- Expires:     March 13, 2015
-
-NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
-following terms of use: You agree that you may use this Data only for lawful
-purposes and that under no circumstances will you use this Data to: (a) allow,
-enable, or otherwise support the transmission by e-mail, telephone, or
-facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
-enable high volume, automated, electronic processes that send queries or data
-to the systems of any Registry Operator or ICANN-Accredited registrar, except
-as reasonably necessary to register domain names or modify existing
-registrations. pairNIC reserves all rights and remedies it now has or may have
-in the future, including, but not limited to, the right to terminate your
-access to the WHOIS database in its sole discretion, for any violations by you
-of these terms of use, including without limitation, for excessive querying of
-the WHOIS database or for failure to otherwise abide by these terms of use.
-pairNIC reserves the right to modify these terms at any time.
-
-** Register Now at http://www.pairNIC.com/ **
+Note: Automated collection of data from this database is strictly prohibited.
 
