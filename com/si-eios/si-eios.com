@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BILLYUM.COM
+   Domain Name: SI-EIOS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS19.WEBSITEWELCOME.COM
-   Name Server: NS20.WEBSITEWELCOME.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 27-dec-2005
-   Expiration Date: 27-dec-2011
+   Name Server: NS1.SI-EIOS.COM
+   Name Server: NS2.SI-EIOS.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-jul-2011
+   Creation Date: 02-aug-2006
+   Expiration Date: 02-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:35:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,45 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
+Visit AboutUs.org for more information about si-eios.com
+&lt;a href=&quot;http://www.aboutus.org/si-eios.com&quot;&gt;AboutUs: si-eios.com&lt;/a&gt;
 
 
-Domain name: billyum.com
+Domain name: si-eios.com
 
 Registrant Contact:
-   Billyum.Com
-   William Bullock ()
+   Server Intellect
+   Domain Contact ()
 
    Fax:
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
+   189 S Orange Ave Ste 1410
+   Orlando, FL 32801
    US
 
 Administrative Contact:
-   Billyum.Com
-   William Bullock (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
+   Server Intellect
+   Domain Contact (domains@serverintellect.com)
+   4078950880
+   Fax: 4073863472
+   189 S Orange Ave Ste 1410
+   Orlando, FL 32801
    US
 
 Technical Contact:
-   Billyum.Com
-   William William (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
+   Server Intellect
+   Domain Contact (domains@serverintellect.com)
+   4078950880
+   Fax: 4073863472
+   189 S Orange Ave Ste 1410
+   Orlando, FL 32801
    US
 
 Status: Locked
 
 Name Servers:
-   ns19.websitewelcome.com
-   ns20.websitewelcome.com
+   NS1.SI-EIOS.COM
+   NS2.SI-EIOS.COM
 
-Creation date: 27 Dec 2005 17:44:10
-Expiration date: 27 Dec 2011 17:44:00
+Creation date: 02 Aug 2006 15:02:45
+Expiration date: 02 Aug 2012 15:02:45
 
 
 

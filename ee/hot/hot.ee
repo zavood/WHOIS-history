@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       hot.ee
+registrant:   CID:ELION:127980642227
+admin-c:      CID:ELION:127980642295
+nsset:        NSSID:EEDIRECT:1803
+registrar:    elion
+status:       paid and in zone
+registered:   04.07.2010 03:51:16
+changed:      22.07.2010 16:47:04
+expire:       22.07.2012
+
+contact:      CID:ELION:127980642227
+name:         ELION ETTEV&Atilde;•TTED AKTSIASELTS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      22.07.2010 16:47:02
+
+contact:      CID:ELION:127980642295
+name:         P&Atilde;&curren;&Atilde;&curren;rn Brauer
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      22.07.2010 16:47:02
+
+nsset:        NSSID:EEDIRECT:1803
+nserver:      ns.elion.ee (213.168.18.146)
+nserver:      ns2.elion.ee (195.50.193.163)
+tech-c:       CID:EEDIRECT:2536
+registrar:    eedirect
+created:      04.07.2010 03:51:16
+
+contact:      CID:EEDIRECT:2536
+org:          Elion Enterprizes Ltd
+name:         Andres Kepler
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eedirect
+created:      04.07.2010 03:51:16
+
+

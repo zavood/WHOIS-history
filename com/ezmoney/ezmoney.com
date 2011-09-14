@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BILLYUM.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS19.WEBSITEWELCOME.COM
-   Name Server: NS20.WEBSITEWELCOME.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 27-dec-2005
-   Expiration Date: 27-dec-2011
+   Domain Name: EZMONEY.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 10-jun-2011
+   Creation Date: 06-jun-1998
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +56,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
 
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-Domain name: billyum.com
+Domain ezmoney.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 86459587264395
+  86459587264395-697466@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-Registrant Contact:
-   Billyum.Com
-   William Bullock ()
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 86459587264395
+  86459587264395-697466@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-   Fax:
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+Record dates:
+  Record created on: 1998-06-06 04:00:00 UTC
+  Record modified on: 2011-06-10 19:34:12 UTC
+  Record expires on: 2012-06-05 UTC
 
-Administrative Contact:
-   Billyum.Com
-   William Bullock (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+Nameservers:
+  ns10.dnsmadeeasy.com:
+  ns11.dnsmadeeasy.com:
+  ns12.dnsmadeeasy.com:
+  ns13.dnsmadeeasy.com:
+  ns14.dnsmadeeasy.com:
+  ns15.dnsmadeeasy.com:
 
-Technical Contact:
-   Billyum.Com
-   William William (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+Note: Automated collection of data from this database is strictly prohibited.
 
-Status: Locked
-
-Name Servers:
-   ns19.websitewelcome.com
-   ns20.websitewelcome.com
-
-Creation date: 27 Dec 2005 17:44:10
-Expiration date: 27 Dec 2011 17:44:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

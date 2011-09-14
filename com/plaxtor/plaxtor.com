@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BILLYUM.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS19.WEBSITEWELCOME.COM
-   Name Server: NS20.WEBSITEWELCOME.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 27-dec-2005
-   Expiration Date: 27-dec-2011
+   Domain Name: PLAXTOR.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.EBIBLEONLINE.COM
+   Name Server: NS5.DNSMADEEASY.COM
+   Name Server: NS6.DNSMADEEASY.COM
+   Name Server: NS7.DNSMADEEASY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 07-dec-2009
+   Creation Date: 31-dec-2001
+   Expiration Date: 31-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:34:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +55,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
 
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Domain name: billyum.com
-
-Registrant Contact:
-   Billyum.Com
-   William Bullock ()
-
-   Fax:
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
+Registrant:
+   Doug Powell (DME) use this one
+   PO Box 10142
+   St Petersburg, FL  33733
    US
 
-Administrative Contact:
-   Billyum.Com
-   William Bullock (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+   Registrar: DOTREGISTRAR
+   Domain Name: PLAXTOR.COM
+      Created on: 31-DEC-01
+      Expires on: 31-DEC-13
+      Last Updated on: 07-DEC-09
 
-Technical Contact:
-   Billyum.Com
-   William William (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
-
-Status: Locked
-
-Name Servers:
-   ns19.websitewelcome.com
-   ns20.websitewelcome.com
-
-Creation date: 27 Dec 2005 17:44:10
-Expiration date: 27 Dec 2011 17:44:00
+   Administrative, Technical Contact:
+      Powell (DME) use this one, Doug  amazingbible@verizon.net
+      PO Box 10142
+      St Petersburg, FL  33733
+      US
+      +1.7275428374
 
 
+   Domain servers in listed order:
+      NS1.EBIBLEONLINE.COM
+      NS5.DNSMADEEASY.COM
+      NS6.DNSMADEEASY.COM
+      NS7.DNSMADEEASY.COM
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+End of Whois Information

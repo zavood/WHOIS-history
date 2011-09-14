@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BILLYUM.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS19.WEBSITEWELCOME.COM
-   Name Server: NS20.WEBSITEWELCOME.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 27-dec-2005
-   Expiration Date: 27-dec-2011
+   Domain Name: CS-GEAR.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS37.DOMAINCONTROL.COM
+   Name Server: NS38.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 25-may-2010
+   Creation Date: 14-may-2008
+   Expiration Date: 16-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:34:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
+
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
-Domain name: billyum.com
+Registrant:
+   Competition Safety Gear
 
-Registrant Contact:
-   Billyum.Com
-   William Bullock ()
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CS-GEAR.COM
 
-   Fax:
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
-
-Administrative Contact:
-   Billyum.Com
-   William Bullock (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
-
-Technical Contact:
-   Billyum.Com
-   William William (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
-
-Status: Locked
-
-Name Servers:
-   ns19.websitewelcome.com
-   ns20.websitewelcome.com
-
-Creation date: 27 Dec 2005 17:44:10
-Expiration date: 27 Dec 2011 17:44:00
+   Domain servers in listed order:
+      NS37.DOMAINCONTROL.COM
+      NS38.DOMAINCONTROL.COM
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CS-GEAR.COM

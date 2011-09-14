@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BILLYUM.COM
+   Domain Name: WINONUS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS19.WEBSITEWELCOME.COM
-   Name Server: NS20.WEBSITEWELCOME.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 27-dec-2005
-   Expiration Date: 27-dec-2011
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 12-mar-2011
+   Creation Date: 10-may-2007
+   Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:34:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,43 +58,47 @@ Registrars.
 =-=-=-=
 
 
-Domain name: billyum.com
-
-Registrant Contact:
-   Billyum.Com
-   William Bullock ()
-
-   Fax:
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+Domain name: winonus.com
 
 Administrative Contact:
-   Billyum.Com
-   William Bullock (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+   Internet Hosting
+   Ole Svendsen (pleased2helpyou@yahoo.com)
+   +1.8775122750
+   Fax: +678.8775122750
+   777 Small Wok Way
+   Virgin, VU 90210
+   VU
 
 Technical Contact:
-   Billyum.Com
-   William William (apotheke@hotmail.com)
-   +1.5133284190
-   Fax: none
-   111 E. 13th Street #2
-   Cincinnati, OH 45202
-   US
+   Internet Hosting
+   Ole Svendsen (pleased2helpyou@yahoo.com)
+   +1.8775122750
+   Fax: +678.8775122750
+   777 Small Wok Way
+   Virgin, VU 90210
+   VU
+
+Registrant Contact:
+   Internet Hosting
+   Ole Svendsen ()
+
+   Fax:
+   777 Small Wok Way
+   Virgin, VU 90210
+   VU
 
 Status: Locked
 
 Name Servers:
-   ns19.websitewelcome.com
-   ns20.websitewelcome.com
+   pdns1.ultradns.net
+   pdns2.ultradns.net
+   pdns3.ultradns.org
+   pdns4.ultradns.org
+   pdns5.ultradns.info
+   pdns6.ultradns.co.uk
 
-Creation date: 27 Dec 2005 17:44:10
-Expiration date: 27 Dec 2011 17:44:00
+Creation date: 10 May 2007 15:26:41
+Expiration date: 10 May 2012 15:26:00
 
 
 
