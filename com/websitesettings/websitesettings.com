@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSITETESTLINK.COM
+   Domain Name: WEBSITESETTINGS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
    Name Server: NS1.HOSTINGMATRIX.NET
    Name Server: NS2.HOSTINGMATRIX.NET
    Status: ok
-   Updated Date: 04-mar-2011
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2015
+   Updated Date: 20-dec-2010
+   Creation Date: 01-nov-2005
+   Expiration Date: 01-nov-2020
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:29:36 UTC &lt;&lt;&lt;
 

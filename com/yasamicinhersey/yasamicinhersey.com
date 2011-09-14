@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSITETESTLINK.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.HOSTINGMATRIX.NET
-   Name Server: NS2.HOSTINGMATRIX.NET
+   Domain Name: YASAMICINHERSEY.COM
+   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
+   Whois Server: Whois.theplanet.com
+   Referral URL: http://www.theplanet.com
+   Name Server: NS46.KEBIRHOST.COM
+   Name Server: NS47.KEBIRHOST.COM
    Status: ok
-   Updated Date: 04-mar-2011
-   Creation Date: 31-aug-2005
-   Expiration Date: 31-aug-2015
+   Updated Date: 16-jun-2011
+   Creation Date: 15-jun-2009
+   Expiration Date: 15-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:29:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:30:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
