@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLEANMPG.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS8.SAN.YAHOO.COM
-   Name Server: NS9.SAN.YAHOO.COM
-   Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 06-feb-2006
-   Expiration Date: 06-feb-2012
+   Domain Name: ANSAFARI.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NETNAME.COM.UA
+   Name Server: NS11.PROHOSTING.COM.UA
+   Status: ok
+   Updated Date: 14-dec-2010
+   Creation Date: 14-dec-2006
+   Expiration Date: 14-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:52:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:51:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Domain Name.......... cleanmpg.com
-  Creation Date........ 2006-02-07
-  Registration Date.... 2006-02-07
-  Expiry Date.......... 2012-02-07
-  Organisation Name.... Wayne Gerdes
-  Organisation Address. 37177 N. Kimberwick Lane
-  Organisation Address.
-  Organisation Address. Wadsworth
-  Organisation Address. 60083
-  Organisation Address. IL
-  Organisation Address. UNITED STATES
 
-Admin Name........... Wayne Gerdes
-  Admin Address........ 37177 N. Kimberwick Lane
-  Admin Address........
-  Admin Address........ Wadsworth
-  Admin Address........ 60083
-  Admin Address........ IL
-  Admin Address........ UNITED STATES
-  Admin Email.......... waynegerdes@att.net
-  Admin Phone.......... +1.8478559657
-  Admin Fax............
+Service provided by First Ukrainian Internet-Registrar LLC
+Hosting solutions and domain registration service.
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@yahoo-inc.com
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns9.san.yahoo.com
-  Name Server.......... ns8.san.yahoo.com
+Domain name: ansafari.com
+
+Registrant:
+      ChP SAFARI  (SROW-464476)
+
+   safari@i.com.ua
+   g.Kiev,ul.B.Vasilkovskaya 23 A; ofis 29
+   g.Kiev   SIN PROVINCIA
+   01003   UA
+   +38 0445372006
+
+
+Administrative contact:
+   ChP SAFARI   (SRCO-721148)
+   ChP SAFARI
+   safari@i.com.ua
+   g.Kiev,ul.B.Vasilkovskaya 23 A; ofis 29
+   g.Kiev   SIN PROVINCIA
+   01003   UA
+   +38 0445372006
+
+
+Technical contact:
+   Vyacheslav Cherkashyn   (SRCO-101023)
+   First Ukrainian Internet-Registrar LLC
+   info@forward.com.ua
+   134-4-100 Nab Pobeda
+   Dnepropetrovsk   Dnepropetrovsk
+   49106   UA
+   +38 0563705242   fax:+38 0563705242
+
+
+Domain servers in listed order:
+   ns11.prohosting.com.ua  91.207.44.21
+   netname.com.ua  91.207.44.31
+
+
+Created:       14 Dec 2006 17:01:43:543   UTC
+Expires:       14 Dec 2011 17:00:08:000   UTC
+Last updated:  14 Dec 2010 22:42:10:327   UTC
+
 
 

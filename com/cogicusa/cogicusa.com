@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUZZTIME.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
+   Domain Name: COGICUSA.COM
+   Registrar: LIQUIDNET LTD.
+   Whois Server: whois.liquidnetlimited.com
+   Referral URL: http://www.liquidnetlimited.com
+   Name Server: DNS1.SUPREMECENTER45.COM
+   Name Server: DNS2.SUPREMECENTER45.COM
    Status: clientTransferProhibited
-   Updated Date: 16-jun-2009
-   Creation Date: 05-aug-1999
-   Expiration Date: 05-aug-2013
+   Updated Date: 18-oct-2010
+   Creation Date: 03-oct-2003
+   Expiration Date: 03-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:51:33 UTC &lt;&lt;&lt;
 
@@ -54,23 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registration Service Provided By:
+Contact: support@propersupport.com
+Visit: http://timhosting.duoservers.com/
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name: cogicusa.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registrant:
+    N/A
+    Bishop JL Payne (presidingbishop@juno.com)
+    419 W. Silas Brown Street
+    P. O. Box 328
+    Jackson, MS 39204
+    US
+    Tel: +1.9015508419
+    Fax: +1.5092717164
 
-Whois Query: buzztime.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 03:41:36 EDT 2011
-Reason Code: IE
+
+Creation Date: 2003-10-03 22:15:04
+Expiration Date: 2012-10-03 22:15:04
+
+Domain servers in listed order:
+    dns1.supremecenter45.com
+    dns2.supremecenter45.com
+
+
+Administrative Contact:
+    N/A
+    Bishop JL Payne (presidingbishop@juno.com)
+    419 W. Silas Brown Street
+    P. O. Box 328
+    Jackson, MS 39204
+    US
+    Tel: +1.9015508419
+    Fax: +1.5092717164
+
+
+Technical Contact:
+    N/A
+    Bishop JL Payne (presidingbishop@juno.com)
+    419 W. Silas Brown Street
+    P. O. Box 328
+    Jackson, MS 39204
+    US
+    Tel: +1.9015508419
+    Fax: +1.5092717164
+
+
+Billing Contact:
+    N/A
+    Bishop JL Payne (presidingbishop@juno.com)
+    419 W. Silas Brown Street
+    P. O. Box 328
+    Jackson, MS 39204
+    US
+    Tel: +1.9015508419
+    Fax: +1.5092717164
+
+
+Status: Unlocked
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is LiquidNet Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

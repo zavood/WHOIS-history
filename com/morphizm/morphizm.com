@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLEANMPG.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS8.SAN.YAHOO.COM
-   Name Server: NS9.SAN.YAHOO.COM
+   Domain Name: MORPHIZM.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS.SERVERLEASING.COM
+   Name Server: NS1.WEBMASTERS.COM
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 06-feb-2006
-   Expiration Date: 06-feb-2012
+   Updated Date: 01-jul-2011
+   Creation Date: 04-jul-2001
+   Expiration Date: 04-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:52:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:52:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... cleanmpg.com
-  Creation Date........ 2006-02-07
-  Registration Date.... 2006-02-07
-  Expiry Date.......... 2012-02-07
-  Organisation Name.... Wayne Gerdes
-  Organisation Address. 37177 N. Kimberwick Lane
-  Organisation Address.
-  Organisation Address. Wadsworth
-  Organisation Address. 60083
-  Organisation Address. IL
-  Organisation Address. UNITED STATES
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Wayne Gerdes
-  Admin Address........ 37177 N. Kimberwick Lane
-  Admin Address........
-  Admin Address........ Wadsworth
-  Admin Address........ 60083
-  Admin Address........ IL
-  Admin Address........ UNITED STATES
-  Admin Email.......... waynegerdes@att.net
-  Admin Phone.......... +1.8478559657
-  Admin Fax............
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@yahoo-inc.com
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns9.san.yahoo.com
-  Name Server.......... ns8.san.yahoo.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: morphizm.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 03:42:33 EDT 2011
+Reason Code: IE

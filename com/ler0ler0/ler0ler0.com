@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLEANMPG.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS8.SAN.YAHOO.COM
-   Name Server: NS9.SAN.YAHOO.COM
+   Domain Name: LER0LER0.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.MIDPHASE.COM
+   Name Server: NS2.MIDPHASE.COM
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 06-feb-2006
-   Expiration Date: 06-feb-2012
+   Updated Date: 24-mar-2011
+   Creation Date: 01-feb-2011
+   Expiration Date: 01-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:52:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:52:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... cleanmpg.com
-  Creation Date........ 2006-02-07
-  Registration Date.... 2006-02-07
-  Expiry Date.......... 2012-02-07
-  Organisation Name.... Wayne Gerdes
-  Organisation Address. 37177 N. Kimberwick Lane
-  Organisation Address.
-  Organisation Address. Wadsworth
-  Organisation Address. 60083
-  Organisation Address. IL
-  Organisation Address. UNITED STATES
-
-Admin Name........... Wayne Gerdes
-  Admin Address........ 37177 N. Kimberwick Lane
-  Admin Address........
-  Admin Address........ Wadsworth
-  Admin Address........ 60083
-  Admin Address........ IL
-  Admin Address........ UNITED STATES
-  Admin Email.......... waynegerdes@att.net
-  Admin Phone.......... +1.8478559657
-  Admin Fax............
-
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@yahoo-inc.com
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns9.san.yahoo.com
-  Name Server.......... ns8.san.yahoo.com
+=-=-=-=
+Visit AboutUs.org for more information about ler0ler0.com
+&lt;a href=&quot;http://www.aboutus.org/ler0ler0.com&quot;&gt;AboutUs: ler0ler0.com&lt;/a&gt;
 
 
+Domain name: ler0ler0.com
+
+Registrant Contact:
+
+   GERALDO DE REZENDE SILVA ()
+
+   Fax:
+   R SAO PAULO n310
+   DIVINOPOLIS, OTHER 35500006
+   BR
+
+Administrative Contact:
+
+   GERALDO DE REZENDE SILVA (chegatudo@showinformation.info)
+   +1552293418531
+   Fax:
+   R SAO PAULO n310
+   DIVINOPOLIS, OTHER 35500006
+   BR
+
+Technical Contact:
+
+   GERALDO DE REZENDE SILVA (chegatudo@showinformation.info)
+   +1552293418531
+   Fax:
+   R SAO PAULO n310
+   DIVINOPOLIS, OTHER 35500006
+   BR
+
+Status: Locked
+
+Name Servers:
+   ns1.midphase.com
+   ns2.midphase.com
+
+Creation date: 01 Feb 2011 12:20:00
+Expiration date: 01 Feb 2012 07:20:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
