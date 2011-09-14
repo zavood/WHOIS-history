@@ -1,0 +1,19 @@
+
+domain:   tyks.fi
+descr:    Varsinais-suomen sairaanhoitopiiri
+descr:    08282559
+address:  Yrj&ouml; Koivusalo
+address:  PL52
+address:  20521
+address:  Turku
+phone:    +358-2-3131106
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+nserver: vega.tyks.fi [OK] 193.143.200.130
+nserver: vonkale.tyks.fi [OK] 193.143.196.6
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

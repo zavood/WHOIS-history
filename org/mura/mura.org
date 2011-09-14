@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1243619-LROR
+Domain Name:MURA.ORG
+Created On:08-May-1998 04:00:00 UTC
+Last Updated On:29-Jun-2011 00:26:33 UTC
+Expiration Date:07-May-2013 04:00:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-0H187R3I6ZT8
+Registrant Name:Brandon Muramatsu
+Registrant Street1:4304 Main Campus Drve
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lexington
+Registrant State/Province:MA
+Registrant Postal Code:02421
+Registrant Country:US
+Registrant Phone:+1.4358813153
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:muratoo@mura.org
+Admin ID:DOT-0YHASRB9WJUS
+Admin Name:Brandon Muramatsu
+Admin Street1:4304 Main Campus Drve
+Admin Street2:
+Admin Street3:
+Admin City:Lexington
+Admin State/Province:MA
+Admin Postal Code:02421
+Admin Country:US
+Admin Phone:+1.4358813153
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:muratoo@mura.org
+Tech ID:DOT-M3QPQSZ8HMEK
+Tech Name:Brandon Muramatsu
+Tech Street1:4304 Main Campus Drve
+Tech Street2:
+Tech Street3:
+Tech City:Lexington
+Tech State/Province:MA
+Tech Postal Code:02421
+Tech Country:US
+Tech Phone:+1.4358813153
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:muratoo@mura.org
+Name Server:DNS1.JOYENTDNS.COM
+Name Server:DNS2.JOYENTDNS.COM
+Name Server:DNS3.JOYENTDNS.COM
+Name Server:DNS4.JOYENTDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

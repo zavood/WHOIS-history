@@ -1,0 +1,17 @@
+
+domain:   mikkeliamk.fi
+descr:    Mikkelin ammattikorkeakoulu Oy
+descr:    21893127
+address:  Tietohallintopalvelut
+address:  PL 181
+address:  50101
+address:  Mikkeli
+phone:    01535561
+status:   Granted
+created:  26.8.2009
+expires:  31.8.2012
+nserver: ns.mikkeliamk.fi [OK] 195.148.235.200
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

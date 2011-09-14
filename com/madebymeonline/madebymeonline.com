@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MAMAISONECONOME.COM
+   Domain Name: MADEBYMEONLINE.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
-   Name Server: NS1.NUXIT.NET
-   Name Server: NS2.NUXIT.NET
+   Name Server: NS33.1AND1.CO.UK
+   Name Server: NS34.1AND1.CO.UK
    Status: ok
-   Updated Date: 22-sep-2010
-   Creation Date: 21-sep-2008
-   Expiration Date: 21-sep-2011
+   Updated Date: 18-nov-2010
+   Creation Date: 17-nov-2004
+   Expiration Date: 17-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:48:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:47:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,55 +69,56 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          mamaisoneconome.com
-created:                         21-Sep-2008
-last-changed:                    22-Sep-2010
-registration-expiration:         21-Sep-2011
+domain:                          madebymeonline.com
+created:                         17-Nov-2004
+last-changed:                    18-Nov-2010
+registration-expiration:         17-Nov-2011
 
-nserver:                         ns1.nuxit.net 195.114.18.137
-nserver:                         ns2.nuxit.net 195.114.18.140
+nserver:                         ns33.1and1.co.uk
+nserver:                         ns34.1and1.co.uk
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-firstname:            Patrice
-registrant-lastname:             Mallet
-registrant-street1:              5 rue Michel Et Charles Stoven
-registrant-pcode:                62500
-registrant-city:                 St Martin au Laert
-registrant-ccode:                FR
-registrant-phone:                +33.670552305
-registrant-email:                postmaster@ma-maison-econome.com
+registrant-firstname:            Benjamin
+registrant-lastname:             Mayes
+registrant-organization:         Made By Me
+registrant-street1:              Windiacre
+registrant-street2:              Bell Road
+registrant-pcode:                NR17 1UL
+registrant-city:                 Rocklands
+registrant-ccode:                GB
+registrant-phone:                +44.7899690532
+registrant-email:                bighugben_uk@yahoo.co.uk
 
-admin-c-firstname:               Patrice
-admin-c-lastname:                Mallet
-admin-c-street1:                 5 rue Michel Et Charles Stoven
-admin-c-pcode:                   62500
-admin-c-city:                    St Martin au Laert
-admin-c-ccode:                   FR
-admin-c-phone:                   +33.670552305
-admin-c-email:                   postmaster@ma-maison-econome.com
+admin-c-firstname:               Rikki
+admin-c-lastname:                Tripp
+admin-c-street1:                 21 Ferguson Way
+admin-c-street2:                 Attleborough
+admin-c-pcode:                   NR17 2PT
+admin-c-city:                    Norfolk
+admin-c-ccode:                   GB
+admin-c-phone:                   +44.1953451702
+admin-c-email:                   mailroom@trippnology.co.uk
 
-tech-c-firstname:                Hostmaster
-tech-c-lastname:                 UNETUN
-tech-c-organization:             1&amp;1 Internet SARL
-tech-c-street1:                  7 Place de la Gare
-tech-c-pcode:                    57200
-tech-c-city:                     Sarreguemines
-tech-c-ccode:                    FR
-tech-c-phone:                    +33.825080020
-tech-c-fax:                      +33.387959974
-tech-c-email:                    hostmaster@1and1.fr
+tech-c-firstname:                Rikki
+tech-c-lastname:                 Tripp
+tech-c-street1:                  Besthorpe Lodge
+tech-c-street2:                  Besthorpe Lodge
+tech-c-pcode:                    NR17 2LJ
+tech-c-city:                     Besthorpe  Attleborough
+tech-c-ccode:                    GB
+tech-c-phone:                    +44.1953451231
+tech-c-email:                    rikkitripp@hotmail.com
 
-bill-c-firstname:                Hostmaster
-bill-c-lastname:                 UNETUN
-bill-c-organization:             1&amp;1 Internet SARL
-bill-c-street1:                  7 Place de la Gare
-bill-c-pcode:                    57200
-bill-c-city:                     Sarreguemines
-bill-c-ccode:                    FR
-bill-c-phone:                    +33.825080020
-bill-c-fax:                      +33.387959974
-bill-c-email:                    hostmaster@1and1.fr
+bill-c-firstname:                Rikki
+bill-c-lastname:                 Tripp
+bill-c-street1:                  Besthorpe Lodge
+bill-c-street2:                  Besthorpe Lodge
+bill-c-pcode:                    NR17 2LJ
+bill-c-city:                     Besthorpe  Attleborough
+bill-c-ccode:                    GB
+bill-c-phone:                    +44.1953451231
+bill-c-email:                    rikkitripp@hotmail.com
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 
