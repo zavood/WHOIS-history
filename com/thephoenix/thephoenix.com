@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUESTCODERS.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.QUESTCODERS.COM
-   Name Server: NS2.QUESTCODERS.COM
-   Name Server: NS3.QUESTCODERS.COM
+   Domain Name: THEPHOENIX.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.DOMAINDISCOVER.COM
+   Name Server: NS2.DOMAINDISCOVER.COM
    Status: clientTransferProhibited
-   Updated Date: 25-apr-2011
-   Creation Date: 24-may-2006
-   Expiration Date: 24-may-2012
+   Updated Date: 28-oct-2010
+   Creation Date: 22-nov-1995
+   Expiration Date: 21-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:02:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:01:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,66 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
 
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-Domain name: questcoders.com
-
-Registrant Contact:
-   questrelator
-   Youssef Fahmane ()
-
-   Fax:
-   335 Tividale Ct
-   Alpharetta, Georgia 30022
-   ZZ
-
-Administrative Contact:
-   Youssef Fahmane
-   Youssef Fahmane (yfahmane@gmail.com)
-   +1.4049153566
-   Fax:
-   335 Tivdale Ct.
-   Alpharetta, GA 30022
+Registrant:
+   PMCG Management Company, LLC
+   126 Brookline ave
+   Boston, MA 02215
    US
 
-Technical Contact:
-   Youssef Fahmane
-   Youssef Fahmane (yfahmane@gmail.com)
-   +1.4049153566
-   Fax:
-   335 Tivdale Ct.
-   Alpharetta, GA 30022
-   US
+   Domain Name: THEPHOENIX.COM
 
-Status: Locked
+   Administrative Contact, Technical Contact, Zone Contact:
+      PMCG Management Company, LLC
+      Bill Ovoian
+      126 Brookline ave
+      Boston, MA 02215
+      US
+      (617)859-3220
+      domainnameexpiration@phx.com
 
-Name Servers:
-   ns1.questcoders.com
-   ns2.questcoders.com
-   ns3.questcoders.com
+   Domain created on 22-Nov-1995
+   Domain expires on 20-Nov-2011
+   Last updated on 28-Oct-2010
 
-Creation date: 24 May 2006 22:22:19
-Expiration date: 24 May 2012 22:22:00
+   Domain servers in listed order:
 
+      NS1.DOMAINDISCOVER.COM
+      NS2.DOMAINDISCOVER.COM
 
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

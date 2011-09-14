@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ballymaloe.ie
+descr:       Rouska Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Registered Trade Mark Name
+admin-c:     CA9-IEDR
+tech-c:      PCS5-IEDR
+renewal:     30-June-2012
+status:      Active
+nserver:     ns3168.dns.dyn.com
+nserver:     ns4195.dns.dyn.com
+nserver:     ns2142.dns.dyn.com
+nserver:     ns1171.dns.dyn.com
+source:      IEDR
+
+person:      Maura Daly
+nic-hdl:     CA9-IEDR
+source:      IEDR
+
+person:      Priority Computer Services Ltd
+nic-hdl:     PCS5-IEDR
+source:      IEDR
+
