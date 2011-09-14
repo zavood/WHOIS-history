@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WFSA.NET
+   Domain Name: LPCSHOP.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NETROVER.NETROVER.COM
-   Name Server: NS2.NETROVER.NET
+   Name Server: NS1.CITENET.NET
+   Name Server: NS2.CITENET.NET
+   Name Server: NS3.CITENET.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 28-aug-2001
-   Expiration Date: 28-aug-2012
+   Updated Date: 26-oct-2009
+   Creation Date: 23-nov-2001
+   Expiration Date: 23-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:11:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:10:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

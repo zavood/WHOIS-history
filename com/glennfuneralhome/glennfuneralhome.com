@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WFSA.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NETROVER.NETROVER.COM
-   Name Server: NS2.NETROVER.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 28-aug-2001
-   Expiration Date: 28-aug-2012
+   Domain Name: GLENNFUNERALHOME.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.FUNERALNAMES.COM
+   Name Server: NS2.FUNERALNAMES.COM
+   Status: ok
+   Updated Date: 17-dec-2010
+   Creation Date: 31-dec-1999
+   Expiration Date: 31-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:11:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:10:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+
+
+Domain name: glennfuneralhome.com
+
+Registrant Contact:
+   Glenn Funeral Home
+   Glenn Funeral Home ()
+
+   Fax:
+   900 Old Hartford Rd.
+   Owensboro, KY 42303
+   US
+
+Administrative Contact:
+   Funeral Net
+   Michael Turkiewicz (register@FUNERALNET.COM)
+   +1.5037369842
+   Fax: +1.5037369835
+   Post Office Box 82791
+   Portland, OR 97282
+   US
+
+Technical Contact:
+   FuneralNet
+   James Durbin (hostmaster@FUNERALNET.COM)
+   +1.8007218166
+   Fax: +1.8009435552
+   PO Box 82791
+   Portland, OR 97282
+   US
+
+Status: Locked
+
+Name Servers:
+   ns.funeralnames.com
+   ns2.funeralnames.com
+
+Creation date: 31 Dec 1999 17:28:23
+Expiration date: 31 Dec 2011 17:28:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

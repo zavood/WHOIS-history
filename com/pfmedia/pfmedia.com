@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NPR.COM
+   Domain Name: PFMEDIA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: HOLMES.NPR.ORG
-   Name Server: WATSON.NPR.ORG
+   Name Server: NS13.WORLDNIC.COM
+   Name Server: NS14.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 12-may-2008
-   Creation Date: 22-jul-1998
-   Expiration Date: 21-jul-2013
+   Updated Date: 13-apr-2007
+   Creation Date: 19-nov-1999
+   Expiration Date: 19-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:11:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:10:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,19 +74,21 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about NPR.COM
-&lt;a href=&quot;http://www.aboutus.org/NPR.COM&quot;&gt;AboutUs: NPR.COM &lt;/a&gt;
+Visit AboutUs.org for more information about PFMEDIA.COM
+&lt;a href=&quot;http://www.aboutus.org/PFMEDIA.COM&quot;&gt;AboutUs: PFMEDIA.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-National Public Radio, Inc.
-   635 Massachusetts Ave NW
-   Washington, DC 20001
-   US
+PF Media
+   ATTN PFMEDIA.COM
+   care of Network Solutions
+   PO Box 459
+   Drums, PA.  US  18222
 
-   Domain Name: NPR.COM
+
+   Domain Name: PFMEDIA.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,20 +97,28 @@ National Public Radio, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      National Public Radio, Inc.		john.mullenholz@npr.com
-      635 Massachusetts Ave NW
-      Washington, DC 20001
+      PF Media		hg2hp83364d@networksolutionsprivateregistration.com
+      ATTN PFMEDIA.COM
+      care of Network Solutions
+      PO Box 459
+      Drums, PA 18222
       US
-      2025133632 fax: 202-513-4017
+      570-708-8780
 
 
-   Record expires on 21-Jul-2013.
-   Record created on 22-Jul-1998.
-   Database last updated on 14-Sep-2011 00:01:52 EDT.
+   Record expires on 19-Nov-2016.
+   Record created on 19-Nov-1999.
+   Database last updated on 14-Sep-2011 00:00:15 EDT.
 
    Domain servers in listed order:
 
-   HOLMES.NPR.ORG               205.153.36.175
-   WATSON.NPR.ORG               205.153.37.175
+   NS13.WORLDNIC.COM            205.178.190.7
+   NS14.WORLDNIC.COM            206.188.198.7
+
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+
 
 

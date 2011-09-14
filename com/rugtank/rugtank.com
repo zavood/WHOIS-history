@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WFSA.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NETROVER.NETROVER.COM
-   Name Server: NS2.NETROVER.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 24-aug-2011
-   Creation Date: 28-aug-2001
-   Expiration Date: 28-aug-2012
+   Domain Name: RUGTANK.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS.CAFE24.COM
+   Name Server: NS2.CAFE24.COM
+   Status: ok
+   Updated Date: 02-dec-2010
+   Creation Date: 15-jan-2006
+   Expiration Date: 15-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:11:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:11:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
+
+Domain Name : rugtank.com
+
+::Registrant::
+Name : Kyo-Sun Choo
+Email : sj3589@freechal.com
+Address : 426-8 Shinhyun-ri Opo-eub  Kwangju city Gyeonggi-do, KOREA
+Zipcode : 464895
+Nation : KR
+Tel : +82-31-726-4844
+Fax : +82-31-726-4843
+
+::Administrative Contact::
+Name : Sang-Joung Park
+Email : sj3589@freechal.com
+Address : 306-1002  U-sung 3Apt, Jayang-Dong Kwangjin-Gu Seoul, KOREA
+Zipcode : 143190
+Nation : KR
+Tel : +82-11-9069-3589
+Fax : +82-0--
+
+::Technical Contact::
+Name : Whois
+Email : whois@whois.co.kr
+Address : Seobuk Building 740-3 Yeoksam-dong
+Zipcode : 135080
+Nation : KR
+Tel : 02-557-4259
+Fax : +82-2-3484-4701
+
+::Name Servers::
+ns2.cafe24.com
+ns.cafe24.com
+
+::Dates &amp; Status::
+Created Date : 2006/01/15 04:11:30 EST
+Updated Date : 2010/12/03 11:12:31 EST
+Valid Date : 2013/01/15 04:11:30 EST
+Status ACTIVE
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

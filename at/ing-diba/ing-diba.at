@@ -1,0 +1,70 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         ing-diba.at
+registrant:     IDA4466073-NICAT
+admin-c:        IDA6769136-NICAT
+tech-c:         ECA6759660-NICAT
+nserver:        auth.ns-nacamar.com
+nserver:        auth.ns-nacamar.de
+nserver:        auth.ns-nacamar.net
+changed:        20100111 11:28:25
+source:         AT-DOM
+
+personname:
+organization:   ING-DiBa AG
+street address: Theodor-Heuss-Allee 106
+postal code:    D-60486
+city:           Frankfurt
+country:        Germany
+fax-no:         +4969272226599
+nic-hdl:        IDA4466073-NICAT
+changed:        20090226 12:00:17
+source:         AT-DOM
+
+personname:     Zeljko Kaurin
+organization:   ING-DiBa AG
+street address: Theodor-Heuss-Allee 106
+postal code:    60486
+city:           Frankfurt
+country:        Germany
+phone:          +4969272220
+fax-no:         +49692722266599
+e-mail:         dnsmaster@ing-diba.de
+nic-hdl:        IDA6769136-NICAT
+changed:        20100111 11:27:28
+source:         AT-DOM
+
+personname:     Host Master
+organization:   ecotel communication ag
+street address: Hanauer Landstrasse 300
+postal code:    60314
+city:           Frankfurt
+country:        Germany
+phone:          +4969408010
+fax-no:         +496940801222
+e-mail:         guardian@ecotel.net
+nic-hdl:        ECA6759660-NICAT
+changed:        20100107 16:05:50
+source:         AT-DOM
+
