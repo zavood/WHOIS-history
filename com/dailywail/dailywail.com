@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETSOLHOST.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETSOLMAIL.COM
-   Name Server: NS2.NETSOLMAIL.COM
+   Domain Name: DAILYWAIL.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: PRAGUE.NETRO42.NET
+   Name Server: PRISTINA.NETRO42.NET
    Status: clientTransferProhibited
-   Updated Date: 04-dec-2009
-   Creation Date: 21-sep-2004
-   Expiration Date: 21-sep-2013
+   Updated Date: 28-jun-2011
+   Creation Date: 24-nov-2008
+   Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:12:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:12:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+domain:       dailywail.com
+owner:        n/a
+organization: Netro42 Ltd
+email:        hostmaster@netro42.com
+address:      39-51 Highgate Road
+city:         London
+state:        England
+postal-code:  NW5 1RT
+country:      GB
+phone:        +44.2072677002
+fax:          +44.2072677544
+admin-c:      CCOM-10336 hostmaster@netro42.com
+tech-c:       CCOM-10336 hostmaster@netro42.com
+billing-c:    CCOM-10336 hostmaster@netro42.com
+nserver:      prague.netro42.net
+nserver:      pristina.netro42.net
+status:       lock
+created:      2008-11-25 00:56:58 UTC
+modified:     2011-06-28 11:25:36 UTC
+expires:      2011-11-25 00:56:58 UTC
+query-source: 174.142.225.246
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+contact-hdl:  CCOM-10336
+person:       n/a
+organization: Netro42 Ltd
+email:        hostmaster@netro42.com
+address:      39-51 Highgate Road
+city:         London
+state:        England
+postal-code:  NW5 1RT
+country:      GB
+phone:        +44.2072677002
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: netsolhost.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 06:03:04 EDT 2011
-Reason Code: IE
+source:       joker.com live whois service
+query-time:   0.026048
+db-updated:   2011-09-14 10:13:05
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

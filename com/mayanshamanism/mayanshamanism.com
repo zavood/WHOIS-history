@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETSOLHOST.COM
+   Domain Name: MAYANSHAMANISM.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETSOLMAIL.COM
-   Name Server: NS2.NETSOLMAIL.COM
+   Name Server: A.NS.ZERIGO.NET
+   Name Server: B.NS.ZERIGO.NET
+   Name Server: C.NS.ZERIGO.NET
+   Name Server: D.NS.ZERIGO.NET
+   Name Server: E.NS.ZERIGO.NET
    Status: clientTransferProhibited
-   Updated Date: 04-dec-2009
-   Creation Date: 21-sep-2004
-   Expiration Date: 21-sep-2013
+   Updated Date: 05-mar-2011
+   Creation Date: 24-feb-2001
+   Expiration Date: 24-feb-2018
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:12:43 UTC &lt;&lt;&lt;
 
@@ -67,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: netsolhost.com
+Whois Query: mayanshamanism.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 06:03:04 EDT 2011
+Date and Time of Query: Wed Sep 14 06:02:44 EDT 2011
 Reason Code: IE

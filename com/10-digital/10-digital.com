@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETSOLHOST.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETSOLMAIL.COM
-   Name Server: NS2.NETSOLMAIL.COM
+   Domain Name: 10-DIGITAL.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: DNS1.NAMESECURE.COM
+   Name Server: DNS2.NAMESECURE.COM
    Status: clientTransferProhibited
-   Updated Date: 04-dec-2009
-   Creation Date: 21-sep-2004
-   Expiration Date: 21-sep-2013
+   Updated Date: 19-mar-2010
+   Creation Date: 24-mar-2000
+   Expiration Date: 24-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:12:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:12:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+WILLIAMS, SEAN
+   SEAN D. WILLIAMS
+   3247 Magnolia Street
+   Oakland, CA 94608
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: 10-DIGITAL.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      WILLIAMS, SEAN		seandwilliams@earthlink.net
+      SEAN D. WILLIAMS
+      3247 Magnolia Street
+      Oakland, CA 94608
+      US
+      (510) 597-0815
 
-Whois Query: netsolhost.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 06:03:04 EDT 2011
-Reason Code: IE
+
+   Record expires on 24-Mar-2013.
+   Record created on 24-Mar-2000.
+   Database last updated on 14-Sep-2011 06:08:32 EDT.
+
+   Domain servers in listed order:
+
+   DNS1.NAMESECURE.COM          205.178.190.56
+   DNS2.NAMESECURE.COM          206.188.198.56
+   NS1.TOPTUBE.COM              209.133.53.124
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+
