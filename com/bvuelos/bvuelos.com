@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COTENDO.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.COTENDO.NET
-   Name Server: NS2.COTENDO.NET
-   Name Server: NS3.COTENDO.NET
-   Name Server: NS4.COTENDO.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-jan-2011
-   Creation Date: 03-oct-2007
-   Expiration Date: 03-oct-2012
+   Domain Name: BVUELOS.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS.BRUJULEA.NET
+   Name Server: DNS2.BRUJULEA.NET
+   Status: ok
+   Updated Date: 02-nov-2009
+   Creation Date: 09-jan-2009
+   Expiration Date: 09-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:43:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:44:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+Domain name: bvuelos.com
 
 Registrant:
-   Cotendo, Inc.
+      Brujulea Informatica, SL  (SROW-1122793)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: COTENDO.NET
-
-   Domain servers in listed order:
-      NS1.COTENDO.NET
-      NS2.COTENDO.NET
-      NS3.COTENDO.NET
-      NS4.COTENDO.NET
+   Brujulea Informatica, SL
+   brujulea@brujulea.net
+   Av Nazaret, 13
+   Madrid   Madrid
+   28009   ES
+   +34 000000000
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=COTENDO.NET
+Administrative contact:
+   DNS-admin   (SRCO-1689983)
+   BRUJULEA INFORMATICA SLU
+   brujulea@brujulea.net
+   Av. Nazaret 13 D
+   Madrid   Madrid
+   28009   ES
+   +34 000000000
+
+
+Technical contact:
+   DNS-admin   (SRCO-1689984)
+   BRUJULEA INFORMATICA SLU
+   brujulea@brujulea.net
+   Av. Nazaret 13 D
+   Madrid   Madrid
+   28009   ES
+   +34 000000000
+
+
+Domain servers in listed order:
+   dns.brujulea.net  82.223.142.19
+   dns2.brujulea.net  82.223.145.166
+
+
+Created:       09 Jan 2009 12:35:54:043   UTC
+Expires:       09 Jan 2014 12:36:46:000   UTC
+Last updated:  02 Nov 2009 11:45:46:707   UTC
+
+
+
