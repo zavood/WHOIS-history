@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORANTE.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS3.CORANTE.COM
-   Name Server: NS4.CORANTE.COM
+   Domain Name: DAVIESWEALTHMS.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: DNS1.NAMEHUB.COM
+   Name Server: DNS2.NAMEHUB.COM
+   Name Server: DNS3.NAMEHUB.COM
+   Name Server: DNS4.NAMEHUB.COM
    Status: ok
-   Updated Date: 19-sep-2010
-   Creation Date: 18-oct-2000
-   Expiration Date: 18-oct-2011
+   Updated Date: 08-may-2007
+   Creation Date: 08-may-2007
+   Expiration Date: 08-may-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:03:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:03:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +53,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about corante.com
-&lt;a href=&quot;http://www.aboutus.org/corante.com&quot;&gt;AboutUs: corante.com&lt;/a&gt;
+
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
+
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name:	davieswealthms.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Domain name: corante.com
+Registrant Contact
 
-Registrant Contact:
-   Corante, Inc.
-   Hylton Jolliffe ()
+Name:		Wayne    Davies
+Address:	288 Main Street
+		Milford, MA  01757
+		US
 
-   Fax:
-   72 Raymond St.
-   Cambridge, MA 02140
-   US
-
-Administrative Contact:
-   Corante, Inc.
-   Hylton Jolliffe (hylton@corante.com)
-   +1.6178684997
-   Fax: +1.6178684997
-   72 Raymond St.
-   Cambridge, MA 02140
-   US
-
-Technical Contact:
-   Corante, Inc.
-   Hylton Jolliffe (hylton@corante.com)
-   +1.6178684997
-   Fax: +1.6178684997
-   72 Raymond St.
-   Cambridge, MA 02140
-   US
-
-Status: Locked
-
-Name Servers:
-   ns3.corante.com
-   ns4.corante.com
-
-Creation date: 18 Oct 2000 20:27:14
-Expiration date: 18 Oct 2011 20:27:00
+Email Address:	Davies@DaviesWealthMS.com
+Phone Number:	(508)478-2640
 
 
+Administrative Contact
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+Name:		Wayne    Davies
+Address:	288 Main Street
+		Milford, MA  01757
+		US
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Email Address:	Davies@DaviesWealthMS.com
+Phone Number:	(508)478-2640
+
+
+Technical Contact
+
+Name:		Wayne    Davies
+Address:	288 Main Street
+		Milford, MA  01757
+		US
+
+Email Address:	Davies@DaviesWealthMS.com
+Phone Number:	(508)478-2640
+
+
+Record Created on........ 2007-05-08 17:26:26.586
+Expire on................ 2017-05-08 16:32:00.000
+
+Domain Nameservers in listed order:
+
+	dns1.namehub.com
+ 	dns2.namehub.com
+ 	dns3.namehub.com
+ 	dns4.namehub.com
+

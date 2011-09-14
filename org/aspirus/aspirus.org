@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104259360-LROR
+Domain Name:ASPIRUS.ORG
+Created On:22-Apr-2004 17:13:24 UTC
+Last Updated On:01-Feb-2011 20:53:24 UTC
+Expiration Date:22-Apr-2012 17:13:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31257818
+Registrant Name:Domain Administrator
+Registrant Organization:Aspirus Wausau Hospital, Inc
+Registrant Street1:333 Pine Ridge Boulevard
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wausau
+Registrant State/Province:Wisconsin
+Registrant Postal Code:54401
+Registrant Country:US
+Registrant Phone:+1.7158472300
+Registrant Phone Ext.:
+Registrant FAX:+1.7158472363
+Registrant FAX Ext.:
+Registrant Email:reg-contact@aspirus.org
+Admin ID:CR31257820
+Admin Name:Domain Admin
+Admin Organization:Aspirus Wausau Hospital, Inc
+Admin Street1:333 Pine Ridge Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Wausau
+Admin State/Province:Wisconsin
+Admin Postal Code:54401
+Admin Country:US
+Admin Phone:+1.7158472300
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin-contact@aspirus.org
+Tech ID:CR31257819
+Tech Name:Technical Contact
+Tech Organization:Aspirus, Inc.
+Tech Street1:333 Pine Ridge Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Wausau
+Tech State/Province:Wisconsin
+Tech Postal Code:54401
+Tech Country:US
+Tech Phone:+1.7158472300
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:technical-contact@aspirus.org
+Name Server:DNS2.DWAVE.NET
+Name Server:DNS.DWAVE.NET
+Name Server:DNS3.DWAVE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

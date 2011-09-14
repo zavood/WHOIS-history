@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFULLER.COM
+   Domain Name: INVYTEC.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS129.HOSTGATOR.COM
-   Name Server: NS130.HOSTGATOR.COM
+   Name Server: DNS010.D.REGISTER.COM
+   Name Server: DNS031.C.REGISTER.COM
+   Name Server: DNS094.A.REGISTER.COM
+   Name Server: DNS104.B.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2000
-   Expiration Date: 12-aug-2012
+   Updated Date: 08-oct-2010
+   Creation Date: 26-oct-2005
+   Expiration Date: 26-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:03:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Christopher Fuller
-      Christopher Fuller
-      1237 Highlander Way
-      Mechanicsburg, PA 17050
-      US
-      Phone: +1.7179393749
-      Email: chris1165@gmail.com
+      Domain Discreet
+      ATTN: invytec.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 51bcb7920a1612330c653def92e9afc5@domaindiscreet.com
 
 
 
@@ -84,39 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: ifuller.com
-      Created on..............: 2000-08-12
-      Expires on..............: 2012-08-12
+   Domain Name: invytec.com
+      Created on..............: 2005-10-26
+      Expires on..............: 2011-10-26
 
    Administrative Contact:
-      Christopher Fuller
-      Christopher Fuller
-      1 Heatherland Road
-      Middletown, PA 17057
-      US
-      Phone: 717-939-3749
-      Email: ctfuller@comcast.net
+      Domain Discreet
+      ATTN: invytec.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 51bcb7910a1612334f539ac800cceb54@domaindiscreet.com
 
 
    Technical  Contact:
-      Christopher Fuller
-      Christopher Fuller
-      1 Heatherland Road
-      Middletown, PA 17057
-      US
-      Phone: 717-939-3749
-      Email: ctfuller@comcast.net
+      Domain Discreet
+      ATTN: invytec.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 51bcb7930a1612334ac51c44a0567d12@domaindiscreet.com
 
 
    DNS Servers:
-      ns130.hostgator.com
-      ns129.hostgator.com
+      dns094.a.register.com
+      dns104.b.register.com
+      dns031.c.register.com
+      dns010.d.register.com
 
 
-
-Visit AboutUs.org for more information about ifuller.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/ifuller.com&quot;&gt;AboutUs: ifuller.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
 
