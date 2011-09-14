@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYTHDORA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.ZONEEDIT.COM
-   Name Server: NS8.ZONEEDIT.COM
+   Domain Name: WEBMANYA.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS10.IDSHOSTING.COM
+   Name Server: NS9.IDSHOSTING.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-may-2010
-   Creation Date: 23-jun-2005
-   Expiration Date: 23-jun-2012
+   Updated Date: 03-jan-2011
+   Creation Date: 05-jan-2004
+   Expiration Date: 05-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:45:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:47:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   Leaning Tower Consulting
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYTHDORA.COM
-
-   Domain servers in listed order:
-      NS8.ZONEEDIT.COM
-      NS17.ZONEEDIT.COM
+	 Seema Manya m_manya@hotmail.com +91.9896131701
+	 Web Mania
+	 Ambala
+	 Ambala Cantt,Ambala,IN 201301
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYTHDORA.COM
+Domain Name:webmanya.com
+Record last updated at 2011-01-03 07:35:55
+Record created on 2004/1/5
+Record expired on 2012/1/5
+
+
+Domain servers in listed order:
+	 ns.idshosting.com 	 ns2.idshosting.com
+
+Administrator:
+	 Name-- Seema Manya
+ EMail-: (amit@iws.in)
+ tel --: +91.9896131701
+	 org: Web Mania
+	 Ambala
+	 Ambala Cantt,Ambala,IN 201301
+
+Technical Contactor:
+	 Name-- Seema Manya
+ EMail-: (m_manya@hotmail.com)
+ tel --: +91.9896131701
+	 org: Web Mania
+	 Ambala
+	 Ambala Cantt,Ambala,IN 201301
+
+Billing Contactor:
+	 Name-- Seema Manya
+ EMail-: (m_manya@hotmail.com)
+ tel --: +91.9896131701
+	 org: Web Mania
+	 Ambala
+	 Ambala Cantt,Ambala,IN 201301
+

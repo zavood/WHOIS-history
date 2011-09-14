@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYTHDORA.COM
+   Domain Name: GPSWORLD.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.ZONEEDIT.COM
-   Name Server: NS8.ZONEEDIT.COM
+   Name Server: DNS1.EASYDNS.COM
+   Name Server: DNS2.EASYDNS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-may-2010
-   Creation Date: 23-jun-2005
-   Expiration Date: 23-jun-2012
+   Updated Date: 24-jan-2011
+   Creation Date: 22-may-1996
+   Expiration Date: 27-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:45:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:47:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Leaning Tower Consulting
+   Questex Media
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYTHDORA.COM
+   Domain Name: GPSWORLD.COM
 
    Domain servers in listed order:
-      NS8.ZONEEDIT.COM
-      NS17.ZONEEDIT.COM
+      DNS1.EASYDNS.COM
+      DNS2.EASYDNS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYTHDORA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GPSWORLD.COM

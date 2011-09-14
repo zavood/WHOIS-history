@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOG.COM
+   Domain Name: COLDPLAY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.P30.DYNECT.NET
-   Name Server: NS2.P30.DYNECT.NET
-   Name Server: NS3.P30.DYNECT.NET
-   Name Server: NS4.P30.DYNECT.NET
+   Name Server: NS1.EMIHOSTING.COM
+   Name Server: NS1.EMIHOSTING2.COM
+   Name Server: NS1.EMIHOSTING3.COM
+   Name Server: NS2.EMIHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 06-jul-2011
-   Creation Date: 19-jun-1996
-   Expiration Date: 18-jun-2012
+   Updated Date: 28-apr-2010
+   Creation Date: 13-may-1999
+   Expiration Date: 13-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:46:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:47:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,21 +76,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about MOG.COM
-&lt;a href=&quot;http://www.aboutus.org/MOG.COM&quot;&gt;AboutUs: MOG.COM &lt;/a&gt;
+Visit AboutUs.org for more information about COLDPLAY.COM
+&lt;a href=&quot;http://www.aboutus.org/COLDPLAY.COM&quot;&gt;AboutUs: COLDPLAY.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Mog Inc.
-   ATTN MOG.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+EMI (IP) LIMITED
+   27 WRIGHTS LANE
+   LONDON, LONDON w8 5sw
+   UK
 
-
-   Domain Name: MOG.COM
+   Domain Name: COLDPLAY.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -99,30 +97,22 @@ Mog Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Mog Inc.		u267e8557j7@networksolutionsprivateregistration.com
-      ATTN MOG.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
-      US
-      570-708-8780
+      EMI (IP) LIMITED		webadmin@virginmusic.com
+      27 WRIGHTS LANE
+      LONDON, LONDON w8 5sw
+      UK
+      +44.2077957313 fax: +44.20777957314
 
 
-   Record expires on 18-Jun-2012.
-   Record created on 19-Jun-1996.
-   Database last updated on 14-Sep-2011 02:42:22 EDT.
+   Record expires on 13-May-2012.
+   Record created on 13-May-1999.
+   Database last updated on 14-Sep-2011 02:38:28 EDT.
 
    Domain servers in listed order:
 
-   NS1.P30.DYNECT.NET
-   NS2.P30.DYNECT.NET
-   NS3.P30.DYNECT.NET
-   NS4.P30.DYNECT.NET
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS1.EMIHOSTING.COM           195.225.83.43
+   NS1.EMIHOSTING2.COM          208.253.155.165
+   NS1.EMIHOSTING3.COM          194.8.216.84
+   NS2.EMIHOSTING.COM           195.225.83.63
 
 

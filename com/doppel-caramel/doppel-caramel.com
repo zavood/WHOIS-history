@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 07-mar-2003
    Expiration Date: 07-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:03:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:47:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain doppel-caramel.com
-% Timestamp: 2011-09-13 05:04:17
+% Timestamp: 2011-09-14 08:48:23
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

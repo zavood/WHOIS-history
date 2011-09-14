@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-feb-2000
    Expiration Date: 20-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:22:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:45:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,7 +114,7 @@ Kilby, Dawn
 
    Record expires on 20-Feb-2012.
    Record created on 20-Feb-2000.
-   Database last updated on 12-Sep-2011 15:13:01 EDT.
+   Database last updated on 14-Sep-2011 02:36:39 EDT.
 
    Domain servers in listed order:
 

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BBQU.NET
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.SERVDNS.COM
-   Name Server: NS2.SERVDNS.COM
-   Status: ok
-   Updated Date: 25-sep-2009
-   Creation Date: 10-jan-2003
-   Expiration Date: 10-jan-2013
+   Domain Name: LUWASOFT.NET
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS.FFM.GHOSTNET.DE
+   Name Server: NS2.GHOSTNET.DE
+   Status: clientTransferProhibited
+   Updated Date: 04-feb-2011
+   Creation Date: 03-feb-2004
+   Expiration Date: 03-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:46:08 UTC &lt;&lt;&lt;
 
@@ -52,40 +52,67 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... bbqu.net
-  Creation Date........ 2003-01-11
-  Registration Date.... 2003-01-11
-  Expiry Date.......... 2013-01-11
-  Organisation Name.... BBQ University
-  Organisation Address. 1746 Espanola Drive
-  Organisation Address.
-  Organisation Address. Miami
-  Organisation Address. 33133
-  Organisation Address. FL
-  Organisation Address. UNITED STATES
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
-Admin Name........... Steven Raichlen
-  Admin Address........ 1746 Espanola Drive
-  Admin Address........
-  Admin Address........ Miami
-  Admin Address........ 33133
-  Admin Address........ FL
-  Admin Address........ UNITED STATES
-  Admin Email.......... sraichlen@cs.com
-  Admin Phone.......... (305)8549717
-  Admin Fax............
+domain:          luwasoft.net
+nserver:         ns.ffm.ghostnet.de
+nserver:         ns2.ghostnet.de
+created:         2004-02-03
+updated:         2008-03-17
 
-Tech Name............ Verio Hostmaster
-  Tech Address......... 5050 Blue Lake Dr.
-  Tech Address.........
-  Tech Address......... Boca Raton
-  Tech Address......... 33431
-  Tech Address......... FL
-  Tech Address......... UNITED STATES
-  Tech Email........... hostmaster@VERIO-HOSTING.COM
-  Tech Phone........... 888-663-6648
-  Tech Fax.............
-  Name Server.......... ns1.servdns.com
-  Name Server.......... ns2.servdns.com
+owner-id:        LW95194
+owner-org:       LUtzWAlterSOFTware
+owner-name:      Lutz Walter
+owner-address:   Pfingstweidstr. 5
+owner-pcode:     61440
+owner-city:      Oberursel
+owner-country:   DE
+owner-phone:     +49 700 58925837
+owner-email:     lutz.walter@gmx.de
 
+admin-id:        LW95194
+admin-org:       LUtzWAlterSOFTware
+admin-name:      Lutz Walter
+admin-address:   Pfingstweidstr. 5
+admin-pcode:     61440
+admin-city:      Oberursel
+admin-country:   DE
+admin-phone:     +49 700 58925837
+admin-email:     lutz.walter@gmx.de
+
+tech-id:         HO70964
+tech-org:        GHOSTnet GmbH
+tech-name:       Hostmaster of the day
+tech-address:    Kaiser-Friedrich-Promenade 65
+tech-pcode:      61348
+tech-city:       Bad Homburg
+tech-country:    DE
+tech-phone:      +49 6172 185025
+tech-fax:        +49 6172 185029
+tech-email:      domain@ghostnet.de
+
+billing-id:      HO70964
+billing-org:     GHOSTnet GmbH
+billing-name:    Hostmaster of the day
+billing-address: Kaiser-Friedrich-Promenade 65
+billing-pcode:   61348
+billing-city:    Bad Homburg
+billing-country: DE
+billing-phone:   +49 6172 185025
+billing-fax:     +49 6172 185029
+billing-email:   domain@ghostnet.de
 

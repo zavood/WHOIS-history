@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYTHDORA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS17.ZONEEDIT.COM
-   Name Server: NS8.ZONEEDIT.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MAYQUEST.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS-03.NS.AOL.COM
+   Name Server: DNS-04.NS.AOL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-may-2010
-   Creation Date: 23-jun-2005
-   Expiration Date: 23-jun-2012
+   Updated Date: 04-jul-2011
+   Creation Date: 22-aug-2000
+   Expiration Date: 22-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:45:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:46:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... mayquest.com
+  Creation Date........ 2000-08-23
+  Registration Date.... 2009-07-08
+  Expiry Date.......... 2012-08-23
+  Organisation Name.... AOL Inc.
+  Organisation Address. 22000 AOL Way
+  Organisation Address.
+  Organisation Address. Dulles
+  Organisation Address. 20166
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ AOL Inc.
+  Admin Address........ 22000 AOL Way
+  Admin Address........ Dulles
+  Admin Address........ 20166
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain-adm@corp.aol.com
+  Admin Phone.......... +1.7032654670
+  Admin Fax............
+
+Tech Name............ Domain Admin
+  Tech Address......... AOL Inc.
+  Tech Address......... 22000 AOL Way
+  Tech Address......... Dulles
+  Tech Address......... 20166
+  Tech Address......... VA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain-adm@corp.aol.com
+  Tech Phone........... +1.7032654670
+  Tech Fax.............
+  Name Server.......... DNS-04.NS.AOL.COM
+  Name Server.......... DNS-03.NS.AOL.COM
 
 
-Registrant:
-   Leaning Tower Consulting
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYTHDORA.COM
-
-   Domain servers in listed order:
-      NS8.ZONEEDIT.COM
-      NS17.ZONEEDIT.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYTHDORA.COM
