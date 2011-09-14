@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONCRETEMIXERSUPPLY.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS79.WORLDNIC.COM
-   Name Server: NS80.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 19-jan-2005
-   Expiration Date: 19-jan-2014
+   Domain Name: DEVISMUTUELLE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.9SERVICES.COM
+   Name Server: NS2.9SERVICES.COM
+   Status: ok
+   Updated Date: 12-nov-2010
+   Creation Date: 18-nov-1999
+   Expiration Date: 18-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:20:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:21:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: concretemixersupply.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:10:14 EDT 2011
-Reason Code: IE
+Domain Name : DEVISMUTUELLE.COM
+Created On : 1999-11-18
+Expiration Date : 2012-11-18
+Status : ACTIVE
+Registrant Name : VISUAL INFO
+Registrant Street1 : Technopole du Chateau-Gombert
+Registrant Street2 : Angle bd Bara et Albert Einstein
+Registrant City : MARSEILLE
+Registrant State/Province  : FR
+Registrant Postal Code : 13013
+Registrant Country : FR
+Admin Name : 9 TELECOM
+Admin Street1 : 38, quai du point du jour
+Admin City : BOULOGNE BILLANCOURT
+Admin State/Province : FR
+Admin Postal Code : 92659
+Admin Country : FR
+Admin Phone : +33.170186414
+Admin Email : domaine@9tel.net
+Tech Name : 9 TELECOM
+Tech Street1 : 38, quai du point du jour
+Tech City : BOULOGNE BILLANCOURT
+Tech State/Province : FR
+Tech Postal Code : 92659
+Tech Country : FR
+Tech Phone : +33.170186414
+Tech Email : domaine@9tel.net
+Billing Name : 9 TELECOM
+Billing Street1 : 38, quai du point du jour
+Billing City : BOULOGNE BILLANCOURT
+Billing State/Province : FR
+Billing Postal Code : 92659
+Billing Country : FR
+Billing Phone : +33.170186414
+Billing Email : domaine@9tel.net
+Name Server : NS1.9SERVICES.COM
+Name Server : NS2.9SERVICES.COM
+Registrar Name : Namebay

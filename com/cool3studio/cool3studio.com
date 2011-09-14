@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONCRETEMIXERSUPPLY.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS79.WORLDNIC.COM
-   Name Server: NS80.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 19-jan-2005
-   Expiration Date: 19-jan-2014
+   Domain Name: COOL3STUDIO.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: DNS-E08.C3MD.NET
+   Name Server: NS2.ATWORKS.CO.JP
+   Status: ok
+   Updated Date: 28-apr-2011
+   Creation Date: 06-may-2003
+   Expiration Date: 06-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:20:34 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,29 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+; This data is provided by VALUE-DOMAIN, INC.
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; VALUE-DOMAIN, INC. does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+DOMAIN: COOL3STUDIO.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+RSP: VALUE-DOMAIN, INC.
+URL: http://www.value-domain.com
 
-http://www.networksolutions.com/whois/index.jhtml
+nameserver: dns-e08.c3md.net
+nameserver: ns2.atworks.co.jp
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+; Please register your domains at
+; http://www.value-domain.com
 
-Whois Query: concretemixersupply.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:10:14 EDT 2011
-Reason Code: IE

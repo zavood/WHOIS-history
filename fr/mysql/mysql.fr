@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; mysql.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      mysql.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SMI55-FRNIC
+admin-c:     OFS47-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL9522-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 24/11
+created:     24/11/2008
+last-update: 11/04/2011
+source:      FRNIC
+
+ns-list:     NSL9522-FRNIC
+nserver:     ns1.sun.com
+nserver:     ns2.sun.com
+nserver:     ns7.sun.com
+nserver:     ns8.sun.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     OFS47-FRNIC
+type:        ORGANIZATION
+contact:     Oracle France SAS.
+address:     15, boulevard Charles de Gaulle
+address:     92715 Colombes
+country:     FR
+phone:       +33 1 57 60 20 20
+fax-no:      +33 1 47 62 20 32
+e-mail:      network-contact_ww@oracle.com
+changed:     11/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SMI55-FRNIC
+type:        ORGANIZATION
+contact:     Sun Microsystems, Inc
+address:     4150, Network Circle
+address:     95054 Santa Clara Ca
+country:     US
+phone:       +1 30 32 72 70 00
+fax-no:      +1 65 03 36 66 23
+e-mail:      hostmaster@sun.com
+changed:     24/11/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONCRETEMIXERSUPPLY.COM
+   Domain Name: DCSEC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS79.WORLDNIC.COM
-   Name Server: NS80.WORLDNIC.COM
+   Name Server: NS3.WORLDNIC.COM
+   Name Server: NS4.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 19-jan-2005
-   Expiration Date: 19-jan-2014
+   Updated Date: 10-may-2011
+   Creation Date: 09-nov-2000
+   Expiration Date: 09-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:20:34 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: concretemixersupply.com
+Whois Query: dcsec.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:10:14 EDT 2011
+Date and Time of Query: Wed Sep 14 12:11:01 EDT 2011
 Reason Code: IE

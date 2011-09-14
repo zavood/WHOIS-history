@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CONCRETEMIXERSUPPLY.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS79.WORLDNIC.COM
-   Name Server: NS80.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 03-jan-2011
-   Creation Date: 19-jan-2005
-   Expiration Date: 19-jan-2014
+   Domain Name: DEFENSEINDUSTRYDAILY.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: DNS1.NETTICA.COM
+   Name Server: DNS2.NETTICA.COM
+   Status: ok
+   Updated Date: 08-sep-2010
+   Creation Date: 06-dec-2004
+   Expiration Date: 06-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:20:34 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registrant:
+  Watershed Publishing LLC
+  1708 Tucker Hill Road
+  Thetford Center, VT 05075
+  US
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+  tig@watershed-publishing.com
+   +1.8027854260
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: DEFENSEINDUSTRYDAILY.COM
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative &amp; Technical Contact:
+  Tig Tillinghast
+  Watershed Publishing
+  1708 Tucker Hill Road
+  Thetford Center, VT 05075
+  US
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+  tiggy@mac.com
+   +1.8027854260
 
-Whois Query: concretemixersupply.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:10:14 EDT 2011
-Reason Code: IE
+Domain Name Servers:
+  DNS2.NETTICA.COM
+  DNS1.NETTICA.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     December  6, 2004
+Modified:     September  8, 2010
+ Expires:     December  6, 2012
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+
