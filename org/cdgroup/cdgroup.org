@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89801522-LROR
+Domain Name:CDGROUP.ORG
+Created On:30-Aug-2002 00:51:36 UTC
+Last Updated On:17-Aug-2011 14:24:02 UTC
+Expiration Date:30-Aug-2012 00:51:51 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:952f38b16a457e42
+Registrant Name:Private  Registration
+Registrant Organization:By Arvixe
+Registrant Street1:PO BOX 14738
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Luis Obispo
+Registrant State/Province:CA
+Registrant Postal Code:93406
+Registrant Country:US
+Registrant Phone:+1.8882784939
+Registrant Phone Ext.:
+Registrant FAX:+1.8882784939
+Registrant FAX Ext.:
+Registrant Email:cdgroup.org_domains@arvixe.com
+Admin ID:952f38b16a457e42
+Admin Name:Private  Registration
+Admin Organization:By Arvixe
+Admin Street1:PO BOX 14738
+Admin Street2:
+Admin Street3:
+Admin City:San Luis Obispo
+Admin State/Province:CA
+Admin Postal Code:93406
+Admin Country:US
+Admin Phone:+1.8882784939
+Admin Phone Ext.:
+Admin FAX:+1.8882784939
+Admin FAX Ext.:
+Admin Email:cdgroup.org_domains@arvixe.com
+Tech ID:952f38b16a457e42
+Tech Name:Private  Registration
+Tech Organization:By Arvixe
+Tech Street1:PO BOX 14738
+Tech Street2:
+Tech Street3:
+Tech City:San Luis Obispo
+Tech State/Province:CA
+Tech Postal Code:93406
+Tech Country:US
+Tech Phone:+1.8882784939
+Tech Phone Ext.:
+Tech FAX:+1.8882784939
+Tech FAX Ext.:
+Tech Email:cdgroup.org_domains@arvixe.com
+Name Server:NS1.OSTRICH.ARVIXE.COM
+Name Server:NS2.OSTRICH.ARVIXE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
