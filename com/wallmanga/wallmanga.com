@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADSAFEPROTECTED.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS01LB.GSLB-SAFEROUTE.NET
-   Name Server: NS02LB.GSLB-SAFEROUTE.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: WALLMANGA.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS3.INFOMANIAK.CH
+   Name Server: NS4.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-oct-2010
-   Creation Date: 01-apr-2010
-   Expiration Date: 01-apr-2012
+   Updated Date: 25-nov-2010
+   Creation Date: 09-dec-2004
+   Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:45:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:46:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   AdSafe Media
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ADSAFEPROTECTED.COM
-
-   Domain servers in listed order:
-      NS01LB.GSLB-SAFEROUTE.NET
-      NS02LB.GSLB-SAFEROUTE.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ADSAFEPROTECTED.COM
+Domain Name : WALLMANGA.COM
+Created On : 2004-12-09
+Expiration Date : 2011-12-09
+Status : PROTECTED
+Registrant Name : Julien Voirol
+Registrant Street1 : Ch. de la fiole 9a
+Registrant City : Tavannes
+Registrant State/Province  :
+Registrant Postal Code : CH-2710
+Registrant Country : CH
+Admin Name : Julien Voirol
+Admin Street1 : Ch. de la fiole 9a
+Admin City : Tavannes
+Admin State/Province : CH
+Admin Postal Code : CH-2710
+Admin Country : CH
+Admin Phone : +41.324814142
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS3.INFOMANIAK.CH
+Name Server : NS4.INFOMANIAK.CH
+Registrar Name : Namebay

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADSAFEPROTECTED.COM
+   Domain Name: IPALIVING.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS01LB.GSLB-SAFEROUTE.NET
-   Name Server: NS02LB.GSLB-SAFEROUTE.NET
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 25-oct-2010
-   Creation Date: 01-apr-2010
-   Expiration Date: 01-apr-2012
+   Updated Date: 25-dec-2010
+   Creation Date: 21-jan-2010
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:45:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:44:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   AdSafe Media
+   IPA Management, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ADSAFEPROTECTED.COM
+   Domain Name: IPALIVING.COM
 
    Domain servers in listed order:
-      NS01LB.GSLB-SAFEROUTE.NET
-      NS02LB.GSLB-SAFEROUTE.NET
+      NS05.DOMAINCONTROL.COM
+      NS06.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ADSAFEPROTECTED.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=IPALIVING.COM
