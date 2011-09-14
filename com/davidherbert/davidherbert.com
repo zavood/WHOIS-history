@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISPFR.NET
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.ISPFR.NET
-   Name Server: NS2.ISPFR.NET
-   Status: ok
-   Updated Date: 14-apr-2009
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2012
+   Domain Name: DAVIDHERBERT.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.HOSTSAVE.COM
+   Name Server: NS2.HOSTSAVE.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-apr-2009
+   Creation Date: 17-dec-1998
+   Expiration Date: 17-dec-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:05:01 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name : ISPFR.NET
-Created On : 2006-06-13
-Expiration Date : 2012-06-13
-Status : ACTIVE
-Registrant Name : Azura Networks
-Registrant Street1 : 400 avenue Roumanille BP 60177
-Registrant City : Sophia Antipolis Cedex
-Registrant State/Province  :
-Registrant Postal Code : 06903
-Registrant Country : FR
-Admin Name : NUXIT
-Admin Street1 : 400 avenue Roumanille BP 60177
-Admin City : Sophia Antipolis Cedex
-Admin State/Province : FR
-Admin Postal Code : 06903
-Admin Country : FR
-Admin Phone : +33.899563600
-Admin Email : domains@nuxit.net
-Tech Name : NUXIT
-Tech Street1 : 400 avenue Roumanille BP 60177
-Tech City : Sophia Antipolis Cedex
-Tech State/Province : FR
-Tech Postal Code : 06903
-Tech Country : FR
-Tech Phone : +33.899563600
-Tech Email : domains@nuxit.net
-Billing Name : NUXIT
-Billing Street1 : 400 avenue Roumanille BP 60177
-Billing City : Sophia Antipolis Cedex
-Billing State/Province : FR
-Billing Postal Code : 06903
-Billing Country : FR
-Billing Phone : +33.899563600
-Billing Email : domains@nuxit.net
-Name Server : NS1.ISPFR.NET
-Name Server : NS2.ISPFR.NET
-Registrar Name : Namebay
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: davidherbert.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 08:55:50 EDT 2011
+Reason Code: IE

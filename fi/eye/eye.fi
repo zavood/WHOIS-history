@@ -1,0 +1,18 @@
+
+domain:   eye.fi
+descr:    Crystone Norge AS,filial i Finland
+descr:    18422316
+address:  Filial
+address:  PL 5000
+address:  00002
+address:  HELSINKI
+phone:    +47-22200015
+status:   Granted
+created:  24.1.2006
+expires:  24.1.2012
+nserver: ns1.eye.fi [OK] 209.160.77.213
+nserver: ns2.eye.fi [OK] 209.160.32.247
+nserver: ns3.eye.fi [OK] 72.52.98.66
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

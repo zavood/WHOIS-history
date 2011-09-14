@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISPFR.NET
-   Registrar: NAMEBAY
-   Whois Server: whois.namebay.com
-   Referral URL: http://www.namebay.com
-   Name Server: NS1.ISPFR.NET
-   Name Server: NS2.ISPFR.NET
-   Status: ok
-   Updated Date: 14-apr-2009
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2012
+   Domain Name: COMPUTERCONNECTIONLTD.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.WEBCONTROLCENTER.COM
+   Name Server: NS2.WEBCONTROLCENTER.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 09-jun-2011
+   Creation Date: 08-jun-2005
+   Expiration Date: 08-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:05:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:04:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name : ISPFR.NET
-Created On : 2006-06-13
-Expiration Date : 2012-06-13
-Status : ACTIVE
-Registrant Name : Azura Networks
-Registrant Street1 : 400 avenue Roumanille BP 60177
-Registrant City : Sophia Antipolis Cedex
-Registrant State/Province  :
-Registrant Postal Code : 06903
-Registrant Country : FR
-Admin Name : NUXIT
-Admin Street1 : 400 avenue Roumanille BP 60177
-Admin City : Sophia Antipolis Cedex
-Admin State/Province : FR
-Admin Postal Code : 06903
-Admin Country : FR
-Admin Phone : +33.899563600
-Admin Email : domains@nuxit.net
-Tech Name : NUXIT
-Tech Street1 : 400 avenue Roumanille BP 60177
-Tech City : Sophia Antipolis Cedex
-Tech State/Province : FR
-Tech Postal Code : 06903
-Tech Country : FR
-Tech Phone : +33.899563600
-Tech Email : domains@nuxit.net
-Billing Name : NUXIT
-Billing Street1 : 400 avenue Roumanille BP 60177
-Billing City : Sophia Antipolis Cedex
-Billing State/Province : FR
-Billing Postal Code : 06903
-Billing Country : FR
-Billing Phone : +33.899563600
-Billing Email : domains@nuxit.net
-Name Server : NS1.ISPFR.NET
-Name Server : NS2.ISPFR.NET
-Registrar Name : Namebay
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
+
+Registrant:
+   Thane Sherrington
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: COMPUTERCONNECTIONLTD.COM
+
+   Domain servers in listed order:
+      NS1.WEBCONTROLCENTER.COM
+      NS2.WEBCONTROLCENTER.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=COMPUTERCONNECTIONLTD.COM
