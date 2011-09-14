@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLUEBEAM.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MAXIMUMASP.COM
-   Name Server: NS2.MAXIMUMASP.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2010
-   Creation Date: 28-jun-2001
-   Expiration Date: 28-jun-2012
+   Domain Name: BUBBLEGUM2010.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Status: pendingDelete
+   Updated Date: 11-sep-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:30:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:31:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,56 +52,26 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Moniker Whois Server Version 2.0
 
-Registrant:
-   Bluebeam Software
-   396 W. Washington Blvd. Suite 600
-   Pasadena, CA  91103
-   US
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-   Registrar: NAMESDIRECT
-   Domain Name: BLUEBEAM.COM
-      Created on: 27-MAY-02
-      Expires on: 28-JUN-12
-      Last Updated on: 15-JUN-10
-
-   Administrative Contact:
-      Lee, Richard  wOlvWw@privacypost.com
-      Bluebeam Software
-      396 W. Washington Blvd. Suite 600
-      Pasadena, CA  91103
-      US
-      626-296-2140
-
-   Technical Contact:
-      Lee, Richard  F7WbHA@privacypost.com
-      Bluebeam Software
-      396 W. Washington Blvd. Suite 600
-      Pasadena, CA  91103
-      US
-      626-296-2140
+No Match
 
 
-   Domain servers in listed order:
-      ns1.maximumasp.com
-      ns2.maximumasp.com
 
-End of Whois Information
