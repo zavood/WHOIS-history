@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BGSD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2007
-   Creation Date: 04-mar-1999
-   Expiration Date: 04-mar-2017
+   Domain Name: BUXLINXS.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS0.TRANSIP.NET
+   Name Server: NS1.TRANSIP.NL
+   Name Server: NS2.TRANSIP.EU
+   Status: ok
+   Updated Date: 24-mar-2011
+   Creation Date: 23-mar-2010
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by .
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; . does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: BUXLINXS.COM
 
+RSP: .
+URL: .
 
-Registrant:
-   Benander Games/ Sports Data
+owner-contact: P-TNB910
+owner-fname: Thomas
+owner-lname: Brown
+owner-street: 5593 baronridge drive 0
+owner-city: St louis
+owner-zip: 63129
+owner-country: US
+owner-phone: +1 3148005948
+owner-email: webmaster@amerimarketinggroup.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BGSD.COM
+admin-contact: P-TYB860
+admin-fname: Thomas
+admin-lname: Brown
+admin-street: 5593 baronridge drive 0
+admin-city: St louis
+admin-zip: 63129
+admin-country: US
+admin-phone: +1 3148005948
+admin-email: webmaster@amerimarketinggroup.com
 
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+tech-contact: P-TNB911
+tech-fname: Thomas
+tech-lname: Brown
+tech-street: 5593 baronridge drive 0
+tech-city: St louis
+tech-zip: 63129
+tech-country: US
+tech-phone: +1 3148005948
+tech-email: webmaster@amerimarketinggroup.com
 
+billing-contact: P-TYB860
+billing-fname: Thomas
+billing-lname: Brown
+billing-street: 5593 baronridge drive 0
+billing-city: St louis
+billing-zip: 63129
+billing-country: US
+billing-phone: +1 3148005948
+billing-email: webmaster@amerimarketinggroup.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BGSD.COM
+nameserver: ns0.transip.net
+nameserver: ns1.transip.nl
+nameserver: ns2.transip.eu
+
+; Please register your domains at
+; .
+

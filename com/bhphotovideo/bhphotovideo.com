@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BGSD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: BHPHOTOVIDEO.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS4.BHPHOTO.COM
+   Name Server: NS5.BHPHOTO.COM
+   Name Server: NS6.BHPHOTO.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2007
-   Creation Date: 04-mar-1999
-   Expiration Date: 04-mar-2017
+   Updated Date: 01-dec-2010
+   Creation Date: 14-may-1996
+   Expiration Date: 15-may-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:09 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
 
 Registrant:
-   Benander Games/ Sports Data
+    B &amp; H PHOTO VIDEO
+    Joel Weinberger
+    420 Ninth Avenue
+    New York, NY 10001
+    US
+    +1.2122397500 (FAX) +1.2125026399
+    domainrenewals@bhphotovideo.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BGSD.COM
+Administrative Contact:
+    B &amp; H PHOTO VIDEO
+    Joel Weinberger
+    420 Ninth Avenue
+    New York, NY 10001
+    US
+    +1.2122397500 (FAX) +1.2125026399
+    domainrenewals@bhphotovideo.com
 
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+Technical Contact:
+    B &amp; H PHOTO VIDEO
+    Shmully Litvin
+    420 Ninth Avenue
+    New York, NY 10001
+    US
+    +1.212239750 (FAX) +1.212239777
+    shmully@bhphoto.com
 
+Billing Contact
+    b &amp;h photo video
+    bob kahan
+    440 ninth avenue
+    4th floor
+    new york, ny 10001
+    US
+    +1.2122397500 (FAX) +1.2122397538
+    b71fb8519a9c52e63833a33aa243c543af3103b9@whois.gkg.net
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BGSD.COM
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: BHPHOTOVIDEO.COM
+	Created on..............: 14-MAY-1996
+	Expires on..............: 15-MAY-2016
+	Record last updated on..: 01-DEC-2010
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS4.BHPHOTO.COM
+    NS5.BHPHOTO.COM
+    NS6.BHPHOTO.COM

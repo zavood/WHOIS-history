@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BGSD.COM
+   Domain Name: GOBUCSGO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
+   Name Server: NS29.DOMAINCONTROL.COM
+   Name Server: NS30.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-nov-2007
-   Creation Date: 04-mar-1999
-   Expiration Date: 04-mar-2017
+   Updated Date: 18-sep-2008
+   Creation Date: 01-nov-2001
+   Expiration Date: 01-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Benander Games/ Sports Data
+   Christian Brothers University
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BGSD.COM
+   Domain Name: GOBUCSGO.COM
 
    Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+      NS29.DOMAINCONTROL.COM
+      NS30.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BGSD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GOBUCSGO.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BGSD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2007
-   Creation Date: 04-mar-1999
-   Expiration Date: 04-mar-2017
+   Domain Name: SEISINES.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS13.SERVIDORESDNS.NET
+   Name Server: DNS14.SERVIDORESDNS.NET
+   Status: ok
+   Updated Date: 04-may-2011
+   Creation Date: 03-may-2007
+   Expiration Date: 03-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:09:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:10:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Arsys Internet's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Arsys Internet does not guarantee the accuracy of the information
+contained in the WHOIS. Arsys Internet allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+Domain name: seisines.com
 
 Registrant:
-   Benander Games/ Sports Data
+      Esther Molinos  (SROW-1761532)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BGSD.COM
+   luisther51@yahoo.es
+   Benet i Mateu, 61
+   BARCELONA   BARCELONA
+   08034   ES
+   +34 608684288
 
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+
+Administrative contact:
+   Jose Luis Martin   (SRCO-2807672)
+   luisther51@yahoo.es
+   Benet i Mateu, 61
+   BARCELONA   BARCELONA
+   08034   ES
+   +34 608684288
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BGSD.COM
+Technical contact:
+   Esther Molinos   (SRCO-2807673)
+   luisther51@yahoo.es
+   Benet i Mateu, 61
+   BARCELONA   BARCELONA
+   08034   ES
+   +34 608684288
+
+
+Domain servers in listed order:
+   dns13.servidoresdns.net  217.76.128.134
+   dns14.servidoresdns.net  217.76.129.134
+
+
+Created:       03 May 2007 10:10:58:217   UTC
+Expires:       03 May 2012 08:11:12:000   UTC
+Last updated:  04 May 2011 12:07:49:777   UTC
+
+
+
