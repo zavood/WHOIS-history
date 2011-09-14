@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Domain Name: XITIMONITOR.COM
+   Registrar: ONLINE SAS
+   Whois Server: whois.bookmyname.com
+   Referral URL: http://www.bookmyname.com
+   Name Server: ARCHIMEDE.ATINTERNET.COM
+   Name Server: MEUCCI.ATINTERNET.COM
+   Status: ok
+   Updated Date: 23-apr-2010
+   Creation Date: 28-may-2004
+   Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:19:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,26 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+%% Whois
+%%
+%% NOTICE: Access to this information is provided to assist persons
+%% in determining the contents of a domain name registration record in
+%% our database. The data in this record is provided for informational
+%% purposes only.
+%% You agree that you will use this data only for lawful purposes and
+%% that, under no circumstances will you use this data to: (a) allow,
+%% enable, or otherwise support the transmission by e-mail, telephone, or
+%% facsimile of mass unsolicited, commercial advertising or solicitations
+%% to entities other than the data recipient's own existing customers;
+%% or (b) enable high volume, automated, electronic processes that
+%% send queries or data to the systems of Registry Operator or any
+%% ICANN-Accredited Registrar, except as reasonably necessary to register
+%% domain names or modify existing registrations.
+%% All rights reserved. These terms can be modify at any time.
+%% By submitting this query, you agree to abide by this policy.
+%
+% Date: 2011/09/14 20:20:23
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: carecentrixportal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:10:39 EDT 2011
-Reason Code: IE
+unknown host rejected 174.142.225.246

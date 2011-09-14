@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Domain Name: TOVVIRTUAL.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS1.CAFE24.CO.KR
+   Name Server: NS1.CAFE24.COM
+   Name Server: NS2.CAFE24.CO.KR
+   Name Server: NS2.CAFE24.COM
+   Status: ok
+   Updated Date: 19-dec-2010
+   Creation Date: 19-dec-2008
+   Expiration Date: 19-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Welcome to GABIA.COM's WHOIS data service.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Reseller : Simplex Internet Inc.
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant : tov-virtual
+	Bongcheon-dong Gwanak-gu Seoul 702-91 .
+	(151050)
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+	Domain Name:  TOVVIRTUAL.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-Whois Query: carecentrixportal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:10:39 EDT 2011
-Reason Code: IE
+	Administrative, Technical, Billing Contact:
+		tov-virtual	iminterior@naver.com
+		Bongcheon-dong Gwanak-gu Seoul 702-91 .
+		(Tel) 0215442538	(fax)
+
+	Record created on 	DECEMBER  19, 2008
+	Record expires on 	DECEMBER  19, 2011
+	Record last updated on 	DECEMBER  20, 2010
+
+	Domain servers in listed order:
+
+	ns1.cafe24.com
+	ns1.cafe24.co.kr
+	ns2.cafe24.com
+	ns2.cafe24.co.kr
+
+Register a domain name at www.gabia.com

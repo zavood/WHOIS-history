@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
+   Domain Name: LECAI66.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Updated Date: 13-aug-2011
+   Creation Date: 25-aug-2010
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:19:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... lecai66.com
+  Creation Date........ 2010-08-25
+  Registration Date.... 2010-08-25
+  Expiry Date.......... 2012-08-25
+  Organisation Name.... Eason Qiu
+  Organisation Address. hu li qu yue hua road 153#
+  Organisation Address.
+  Organisation Address. xiamen
+  Organisation Address. 366100
+  Organisation Address. shanghaishi
+  Organisation Address. CHINA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Eason Qiu
+  Admin Address........ hu li qu yue hua road 153#
+  Admin Address........
+  Admin Address........ xiamen
+  Admin Address........ 366100
+  Admin Address........ shanghaishi
+  Admin Address........ CHINA
+  Admin Email.......... tiantiantian26@yahoo.com
+  Admin Phone.......... +1.861865156797
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: carecentrixportal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:10:39 EDT 2011
-Reason Code: IE

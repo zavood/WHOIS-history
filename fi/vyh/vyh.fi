@@ -1,0 +1,19 @@
+
+domain:   vyh.fi
+descr:    Suomen Ymp&auml;rist&ouml;keskus
+descr:    09961895
+address:  Tietokeskus
+address:  PL 140
+address:  00251
+address:  Helsinki
+phone:    +358407401679
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: env10.vyh.fi [OK] 128.214.96.10
+nserver: env12.vyh.fi [OK] 193.166.20.12
+nserver: env14.vyh.fi [OK] 193.166.20.14
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

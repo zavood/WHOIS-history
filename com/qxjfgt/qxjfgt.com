@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CARECENTRIXPORTAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS83.WORLDNIC.COM
-   Name Server: NS84.WORLDNIC.COM
+   Domain Name: QXJFGT.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.4EVERDNS.COM
+   Name Server: NS2.4EVERDNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 22-nov-2005
-   Expiration Date: 22-nov-2011
+   Updated Date: 10-aug-2011
+   Creation Date: 15-dec-2009
+   Expiration Date: 15-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:20:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: qxjfgt.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+   Qingxian Ji Feng Steel Co., Ltd.
+   jinsheng li zhangaibing@pangu.us
+   024-62681188-8991 fax: 024-62507070
+   SOHO Building,Sanhao Street,Shenyang,Liaoning
+   Shenyang Liaoning 110004
+   cn
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+   Aibing Zhang zhangaibing@pangu.us
+   024-62681188-8991 fax: 024-62507070
+   SOHO Building,Sanhao Street,Shenyang,Liaoning
+   Shenyang Liaoning 110004
+   cn
 
-Whois Query: carecentrixportal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 14:10:39 EDT 2011
-Reason Code: IE
+Technical Contact:
+   Aibing Zhang zhangaibing@webew.cn
+   024-62681188-8991 fax: 024-62507070
+   SOHO Building,Sanhao Street,Shenyang,Liaoning
+   Shenyang Liaoning 110004
+   cn
+
+Billing Contact:
+   Aibing Zhang zhangaibing@pangu.us
+   024-62681188-8991 fax: 024-62507070
+   SOHO Building,Sanhao Street,Shenyang,Liaoning
+   Shenyang Liaoning 110004
+   cn
+
+DNS:
+ns1.4everdns.com
+ns2.4everdns.com
+
+Created: 2009-12-15
+Expires: 2013-12-15
