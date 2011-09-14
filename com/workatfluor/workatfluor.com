@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIOSOLINC.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2.POWWEB.COM
-   Name Server: NS3.POWWEB.COM
-   Status: ok
-   Updated Date: 10-jul-2010
-   Creation Date: 05-sep-2003
-   Expiration Date: 05-sep-2012
+   Domain Name: WORKATFLUOR.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 04-jul-2011
+   Creation Date: 28-aug-2007
+   Expiration Date: 28-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:53:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:54:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... workatfluor.com
+  Creation Date........ 2007-08-29
+  Registration Date.... 2009-08-12
+  Expiry Date.......... 2012-08-29
+  Organisation Name.... Fluor Enterprises Inc
+  Organisation Address. 6700 Las Colinas Blvd
+  Organisation Address.
+  Organisation Address. Irving
+  Organisation Address. 75039
+  Organisation Address. TX
+  Organisation Address. UNITED STATES
+
+Admin Name........... Inet Admins
+  Admin Address........ Fluor Enterprises Inc
+  Admin Address........ 6700 Las Colinas Blvd
+  Admin Address........ Irving
+  Admin Address........ 75039
+  Admin Address........ TX
+  Admin Address........ UNITED STATES
+  Admin Email.......... inet.admins@fluor.com
+  Admin Phone.......... +1.4693987000
+  Admin Fax............ +1.4693987255
+
+Tech Name............ Inet Admins
+  Tech Address......... Fluor Enterprises Inc
+  Tech Address......... 6700 Las Colinas Blvd
+  Tech Address......... Irving
+  Tech Address......... 75039
+  Tech Address......... TX
+  Tech Address......... UNITED STATES
+  Tech Email........... inet.admins@fluor.com
+  Tech Phone........... +1.4693987000
+  Tech Fax............. +1.4693987255
+  Name Server.......... pdns2.ultradns.net
+  Name Server.......... pdns3.ultradns.org
+  Name Server.......... pdns1.ultradns.net
+  Name Server.......... pdns6.ultradns.co.uk
+  Name Server.......... pdns4.ultradns.org
+  Name Server.......... pdns5.ultradns.info
+
+
