@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: JOWOHIPYFUW.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS14747.JOWOHIPYFUW.COM
+   Name Server: NS90306.JOWOHIPYFUW.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 03-may-2011
+   Creation Date: 22-apr-2011
+   Expiration Date: 22-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: jowohipyfuw.com
+
+Registrant Contact:
+   Ophelia Roussel
+   Ophelia Roussel taut@mailae.com
+   +33493445675 fax: +33493445675
+   3 Avenue des Baumettes
+   Nice Alpes-Maritimes 06000
+   FR
+
+Administrative Contact:
+   Ophelia Roussel taut@mailae.com
+   +33493445675 fax: +33493445675
+   3 Avenue des Baumettes
+   Nice Alpes-Maritimes 06000
+   FR
+
+Technical Contact:
+   Ophelia Roussel taut@mailae.com
+   +33493445675 fax: +33493445675
+   3 Avenue des Baumettes
+   Nice Alpes-Maritimes 06000
+   FR
+
+Billing Contact:
+   Ophelia Roussel taut@mailae.com
+   +33493445675 fax: +33493445675
+   3 Avenue des Baumettes
+   Nice Alpes-Maritimes 06000
+   FR
+
+Registration Service Provider:
+name: Bizcn
+
+DNS:
+ns14747.jowohipyfuw.com
+ns90306.jowohipyfuw.com
+
+Created: 2011-04-22
+Expires: 2012-04-22

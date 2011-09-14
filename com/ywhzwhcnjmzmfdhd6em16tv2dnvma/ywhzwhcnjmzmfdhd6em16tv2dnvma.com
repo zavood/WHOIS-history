@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: YWHZWHCNJMZMFDHD6EM16TV2DNVMA.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: NS1.YWHZWHCNJMZMFDHD6EM16TV2DNVMA.COM
+   Name Server: NS2.YWHZWHCNJMZMFDHD6EM16TV2DNVMA.COM
+   Status: clientHold
+   Status: clientTransferProhibited
+   Updated Date: 06-jan-2011
+   Creation Date: 05-jan-2011
+   Expiration Date: 05-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:54:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Dear Valued Customer,
+
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
+
+
+Domain name: ywhzwhcnjmzmfdhd6em16tv2dnvma.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+
+Registrant:
+Name: Aleksei Dabrowski
+Organization: Aleksei Dabrowski
+Address: ul. Okocimska 4
+City: Warszawa
+Province/state: POLAND
+Country: PL
+Postal Code: 01-114
+Email: allstars_al@gmail.com
+
+Administrative Contact:
+Name: Aleksei Dabrowski
+Organization: Aleksei Dabrowski
+Address: ul. Okocimska 4
+City: Warszawa
+Province/state: POLAND
+Country: PL
+Postal Code: 01-114
+Phone: +48.713912188
+Fax: +48.713912188
+Email: allstars_al@gmail.com
+
+Technical Contact:
+Name: Aleksei Dabrowski
+Organization: Aleksei Dabrowski
+Address: ul. Okocimska 4
+City: Warszawa
+Province/state: POLAND
+Country: PL
+Postal Code: 01-114
+
+
+Nameserver Information:
+    ns1.ywhzwhcnjmzmfdhd6em16tv2dnvma.com
+    ns2.ywhzwhcnjmzmfdhd6em16tv2dnvma.com
+
+Create: 2011-01-05 20:05:52
+Update: 2011-01-05
+Expired: 2012-01-05
+QueryTimes: 15
+
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.

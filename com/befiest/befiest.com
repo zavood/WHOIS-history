@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: BEFIEST.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.BHCHARM.COM
+   Name Server: NS2.BHCHARM.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 10-nov-2010
+   Creation Date: 10-nov-2010
+   Expiration Date: 10-nov-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:51:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
+
+Domain name: befiest.com
+
+Registrant Contact:
+   NA
+   Vladimir Bevza admin@bgicity.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
+
+Administrative Contact:
+   Vladimir Bevza admin@bgicity.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
+
+Technical Contact:
+   Vladimir Bevza admin@bgicity.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
+
+Billing Contact:
+   Vladimir Bevza admin@bgicity.com
+   +74957723918 fax: +74957723918
+   Millionshikova, 35-181
+   Moscow Moskovskaya oblast 103226
+   ru
+
+DNS:
+ns1.bhcharm.com
+ns2.bhcharm.com
+
+Created: 2010-11-10
+Expires: 2011-11-10

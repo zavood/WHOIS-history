@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: TAOLEBU.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: clientTransferProhibited
+   Updated Date: 06-jan-2011
+   Creation Date: 01-aug-2009
+   Expiration Date: 01-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... taolebu.com
+  Creation Date........ 2009-08-01
+  Registration Date.... 2009-08-01
+  Expiry Date.......... 2012-08-01
+  Organisation Name.... zhang zhou
+  Organisation Address. zhangzhou
+  Organisation Address.
+  Organisation Address. beijing
+  Organisation Address. 100071
+  Organisation Address. fengtai
+  Organisation Address. CHINA
+
+Admin Name........... zhang zhou
+  Admin Address........ zhangzhou
+  Admin Address........
+  Admin Address........ beijing
+  Admin Address........ 100071
+  Admin Address........ fengtai
+  Admin Address........ CHINA
+  Admin Email.......... taolebucom@yahoo.com
+  Admin Phone.......... +86.13811099176
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
+
+

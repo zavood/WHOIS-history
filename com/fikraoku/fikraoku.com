@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: FIKRAOKU.COM
+   Registrar: NICS TELEKOMUNIKASYON TICARET LTD.STI.
+   Whois Server: whois.nicproxy.com
+   Referral URL: http://www.nicproxy.com
+   Name Server: NS1.325KD.COM
+   Name Server: NS2.325KD.COM
+   Status: ok
+   Updated Date: 27-sep-2010
+   Creation Date: 27-sep-2004
+   Expiration Date: 27-sep-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,83 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+; The data in the WHOIS database of Nics Telekomunikasyon Ltd. is provided by
+; Nics Telekomunikasyon Ltd. for information purposes, and to assist persons in
+; obtaining information about or related to domain name registration
+; records. Nics Telekomunikasyon Ltd. does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam)
+; or
+; 2) enable high volume, automated, electronic processes that apply
+;    to Nics Telekomunikasyon Ltd. or its systems.
+; Nics Telekomunikasyon Ltd. reserves the right to modify these terms.
+; By submitting this query, you agree to abide by this policy.
+
+DOMAIN: FIKRAOKU.COM
+RSP:
+URL:
+
+owner-contact:CID-90206FIK
+owner-organization:
+owner-name:
+owner-lname:
+owner-street:
+owner-city:
+owner-state:
+owner-zip:
+owner-country:
+owner-phone:
+owner-fax:
+owner-email:hide@hidedomain.com
+
+admin-contact:CID-90206FIK
+admin-organization:
+admin-name:
+admin-lname:
+admin-street:
+admin-city:
+admin-state:
+admin-zip:
+admin-country:
+admin-phone:
+admin-fax:
+admin-email:hide@hidedomain.com
+
+tech-contact:CID-90206FIK
+tech-organization:
+tech-name:
+tech-lname:
+tech-street:
+tech-city:
+tech-state:
+tech-zip:
+tech-country:
+tech-phone:
+tech-fax:
+tech-email:hide@hidedomain.com
+
+billing-contact:CID-90206FIK
+billing-organization:
+billing-name:
+billing-lname:
+billing-street:
+billing-city:
+billing-state:
+billing-zip:
+billing-country:
+billing-phone:
+billing-fax:
+billing-email:hide@hidedomain.com
+
+
+NAMESERVERS:
+NS2.325KD.COM
+NS1.325KD.COM
+
+
+
+NICProxy Whois Server Ver.1.0.0

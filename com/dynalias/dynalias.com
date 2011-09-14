@@ -5,14 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: DYNALIAS.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: NS1.DYNDNS.ORG
+   Name Server: NS2.DYNDNS.ORG
+   Name Server: NS3.DYNDNS.ORG
+   Name Server: NS4.DYNDNS.ORG
+   Name Server: NS5.DYNDNS.ORG
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-sep-2011
+   Creation Date: 12-feb-2003
+   Expiration Date: 12-feb-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:52:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +56,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+ Hostmaster, DynDNS  hostmaster@dyndns.com
+ Dynamic Network Services, Inc.
+ 150 Dow St.
+ Manchester, NH 03101
+ US
+
+ Domain name: DYNALIAS.COM
+
+
+ Administrative Contact, Technical Contact:
+    Hostmaster, DynDNS  hostmaster@dyndns.com
+    Dynamic Network Services, Inc.
+    150 Dow St.
+    Manchester, NH 03101
+    US
+    +1.6036684998  fax: +1.6036686474
+
+
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
+
+
+ Record last updated on 28-Jan-2011 13:57:32 UTC.
+ Record expires on 12-Feb-2012.
+ Record created on 12-Feb-2003.
+
+
+ Domain servers in listed order:
+    NS1.DYNDNS.ORG
+    NS3.DYNDNS.ORG
+    NS5.DYNDNS.ORG
+    NS2.DYNDNS.ORG
+    NS4.DYNDNS.ORG
+
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+

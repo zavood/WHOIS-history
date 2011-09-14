@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: YM136.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: ok
+   Updated Date: 16-jun-2011
+   Creation Date: 17-jun-2010
+   Expiration Date: 17-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... ym136.com
+  Creation Date........ 2010-06-17
+  Registration Date.... 2010-06-17
+  Expiry Date.......... 2012-06-17
+  Organisation Name.... dehong li
+  Organisation Address. rm 601. no. 33, huangjie rd
+  Organisation Address.
+  Organisation Address. wuxi
+  Organisation Address. 214000
+  Organisation Address. jiangsu
+  Organisation Address. CHINA
+
+Admin Name........... dehong li
+  Admin Address........ rm 601. no. 33, huangjie rd
+  Admin Address........
+  Admin Address........ wuxi
+  Admin Address........ 214000
+  Admin Address........ jiangsu
+  Admin Address........ CHINA
+  Admin Email.......... hbefnet@yahoo.com
+  Admin Phone.......... +86.51082727597
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
+
+

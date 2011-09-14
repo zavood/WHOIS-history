@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-X10HOSTING.COM.FROMTHEFIRSTCLICK.COM
-X10HOSTING.COM
+   Domain Name: TISEMUFYDIRUV.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS70443.TISEMUFYDIRUV.COM
+   Name Server: NS70823.TISEMUFYDIRUV.COM
+   Status: clientTransferProhibited
+   Updated Date: 03-may-2011
+   Creation Date: 22-apr-2011
+   Expiration Date: 22-apr-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:53:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Malena Bosgraaf lays@fxmail.net +32.92337056
+	 Malena Bosgraaf
+	 Onderstraat 23
+	 Ghent,Oost-Vlaanderen,BE 9000
+
+
+Domain Name:tisemufydiruv.com
+Record last updated at
+Record created on 2011/4/22
+Record expired on 2012/4/22
+
+
+Domain servers in listed order:
+	 ns70823.tisemufydiruv.com 	 ns70443.tisemufydiruv.com
+
+Administrator:
+	 name: Malena Bosgraaf
+ mail: lays@fxmail.net tel: +32.92337056
+	 org: Malena Bosgraaf
+
+address: Onderstraat 23
+	 city: Ghent
+,province: Oost-Vlaanderen
+,country: BE
+ postcode: 9000
+
+Technical Contactor:
+	 name: Malena Bosgraaf
+ mail: lays@fxmail.net tel: +32.92337056
+	 org: Malena Bosgraaf
+
+address: Onderstraat 23
+	 city: Ghent
+,province: Oost-Vlaanderen
+,country: BE
+ postcode: 9000
+
+Billing Contactor:
+	 name: Malena Bosgraaf
+ mail: lays@fxmail.net tel: +32.92337056
+	 org: Malena Bosgraaf
+
+address: Onderstraat 23
+	 city: Ghent
+,province: Oost-Vlaanderen
+,country: BE
+ postcode: 9000
+
