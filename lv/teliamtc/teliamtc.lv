@@ -1,0 +1,24 @@
+[Domain]
+Domain: teliamtc.lv
+Status: active
+Changed: 2005-12-13T12:04:27+02:00
+
+[Holder]
+Type: Legal person
+Name: IZZI COM, SIA
+Email: bkc@bkc.lv
+Phone: +371 67031000
+Address: Ieriku iela 67a, Riga, LV-1084, Latvia
+RegNr: 40003403962
+
+[Tech]
+Type: Natural person
+Email: bkc@bkc.lv
+Phone: +371 67031001
+
+[Nservers]
+Nserver: ns1.teliamtc.lv
+Nserver: ns3.teliamtc.lv
+
+[Whois]
+Updated: 2011-09-14T17:12:25.249591+00:00
