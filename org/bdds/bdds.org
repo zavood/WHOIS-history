@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2172715-LROR
+Domain Name:BDDS.ORG
+Created On:12-Oct-1998 04:00:00 UTC
+Last Updated On:12-Apr-2011 23:16:53 UTC
+Expiration Date:11-Oct-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27193477-NSIV
+Registrant Name:Birmingham District Dental Society
+Registrant Organization:Birmingham District Dental Society
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ff2js4572mq@networksolutionsprivateregistration.com
+Admin ID:27193478-NSIV
+Admin Name:Richard Morgan
+Admin Organization:Birmingham District Dental Society
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:km2mp7k55fv@networksolutionsprivateregistration.com
+Tech ID:5358975-NSIV
+Tech Name:EarthLink Network, Inc.
+Tech Organization:EarthLink Network, Inc.
+Tech Street1:ATTN insert domain name here
+Tech Street2:care of Network Solutions
+Tech Street3:
+Tech City:Drums
+Tech State/Province:PA
+Tech Postal Code:18222
+Tech Country:US
+Tech Phone:+1.5707088780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ff6pv6jy7xg@networksolutionsprivateregistration.com
+Name Server:NS65.WORLDNIC.COM
+Name Server:NS66.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
