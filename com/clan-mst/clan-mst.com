@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIGTHINK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-oct-2010
-   Creation Date: 24-jan-1997
-   Expiration Date: 25-jan-2016
+   Domain Name: CLAN-MST.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS6.NGGN.ORG
+   Name Server: NS7.NGGN.ORG
+   Status: ok
+   Updated Date: 23-apr-2011
+   Creation Date: 23-apr-2011
+   Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:28:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:28:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+
+Domain name: clan-mst.com
 
 Registrant:
-   Big Think
+      Fco JavierFlores  (SROW-1817483)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BIGTHINK.COM
-
-   Domain servers in listed order:
-      NS1.SLICEHOST.NET
-      NS2.SLICEHOST.NET
-      NS3.SLICEHOST.NET
+   fcojavierflores24@hotmail.com
+   rei en jaume, 1 pta 11
+   bellreguard   valencia
+   46713   ES
+   +34 655089656   fax: +34 655089656
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BIGTHINK.COM
+Administrative contact:
+   Fco Javier_Flores   (SRCO-2903706)
+   oculto
+   fcojavierflores24@hotmail.com
+   rei en jaume, 1 pta 11
+   bellreguard   valencia
+   46713   ES
+   +34 655089656   fax: +34 655089656
+
+
+Technical contact:
+   Fco Javier_Flores   (SRCO-2903707)
+   oculto
+   fcojavierflores24@hotmail.com
+   rei en jaume, 1 pta 11
+   bellreguard   valencia
+   46713   ES
+   +34 655089656
+
+
+Domain servers in listed order:
+   ns6.nggn.org  91.151.100.73
+   ns7.nggn.org  91.151.100.74
+
+
+Created:       23 Apr 2011 18:35:02:750   UTC
+Expires:       23 Apr 2012 18:35:06:000   UTC
+Last updated:  23 Apr 2011 18:35:02:750   UTC
+
+
+

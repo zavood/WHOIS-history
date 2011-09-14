@@ -5,22 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIGTHINK.COM
+   Domain Name: SYNDICOM.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-oct-2010
-   Creation Date: 24-jan-1997
-   Expiration Date: 25-jan-2016
+   Updated Date: 12-jan-2010
+   Creation Date: 11-jan-2000
+   Expiration Date: 11-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:28:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:26:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Big Think
+   Syndicom, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BIGTHINK.COM
+   Domain Name: SYNDICOM.COM
 
    Domain servers in listed order:
-      NS1.SLICEHOST.NET
-      NS2.SLICEHOST.NET
-      NS3.SLICEHOST.NET
+      NS0.DNSMADEEASY.COM
+      NS1.DNSMADEEASY.COM
+      NS2.DNSMADEEASY.COM
+      NS3.DNSMADEEASY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BIGTHINK.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SYNDICOM.COM

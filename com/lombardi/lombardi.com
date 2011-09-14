@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BIGTHINK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: LOMBARDI.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.ALMADEN.IBM.COM
+   Name Server: NS.WATSON.IBM.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-oct-2010
-   Creation Date: 24-jan-1997
-   Expiration Date: 25-jan-2016
+   Updated Date: 01-feb-2011
+   Creation Date: 04-apr-1996
+   Expiration Date: 05-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:28:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:27:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... lombardi.com
+  Creation Date........ 1996-04-04
+  Registration Date.... 2011-02-02
+  Expiry Date.......... 2017-04-06
+  Organisation Name.... International Business Machines Corporation
+  Organisation Address. New Orchard Road
+  Organisation Address.
+  Organisation Address. Armonk
+  Organisation Address. 10504
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... IBM DNS Admin
+  Admin Address........ New Orchard Road
+  Admin Address........
+  Admin Address........ Armonk
+  Admin Address........ 10504
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsadm@us.ibm.com
+  Admin Phone.......... +1.9147654227
+  Admin Fax............ +1.9147654370
+
+Tech Name............ IBM DNS Technical
+  Tech Address......... New Orchard Road
+  Tech Address.........
+  Tech Address......... Armonk
+  Tech Address......... 10504
+  Tech Address......... NY
+  Tech Address......... UNITED STATES
+  Tech Email........... ipreg@us.ibm.com
+  Tech Phone........... +1.9192544441
+  Tech Fax............. +1.9147654370
+  Name Server.......... ns.watson.ibm.com
+  Name Server.......... ns.almaden.ibm.com
 
 
-Registrant:
-   Big Think
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BIGTHINK.COM
-
-   Domain servers in listed order:
-      NS1.SLICEHOST.NET
-      NS2.SLICEHOST.NET
-      NS3.SLICEHOST.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BIGTHINK.COM
