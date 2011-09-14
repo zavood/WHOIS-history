@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CROMATIC.COM
+   Domain Name: PROMRITE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.CROMATIC.COM
-   Name Server: DNS2.CROMATIC.COM
-   Name Server: DNS3.CROMATIC.COM
+   Name Server: NS1.T1-TECH.COM
+   Name Server: NS2.T1-TECH.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 05-feb-2003
-   Expiration Date: 05-feb-2012
+   Updated Date: 18-jun-2011
+   Creation Date: 17-jul-2009
+   Expiration Date: 17-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:38:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:37:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,48 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about cromatic.com
-&lt;a href=&quot;http://www.aboutus.org/cromatic.com&quot;&gt;AboutUs: cromatic.com&lt;/a&gt;
+Visit AboutUs.org for more information about promrite.com
+&lt;a href=&quot;http://www.aboutus.org/promrite.com&quot;&gt;AboutUs: promrite.com&lt;/a&gt;
 
 
-Domain name: cromatic.com
-
-Registrant Contact:
-   Dualia
-   NA NA ()
-
-   Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
+Domain name: promrite.com
 
 Administrative Contact:
-   NA
-   DNS Admin (info@dualia.com)
-   +34.937337280
+   T1 Technologies, Inc.
+   Tony Jaffe (tjaffe@t1-tech.com)
+   +1.4026698669
    Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
+   3530 Ave. A
+   Council Bluffs, IA 51501
+   US
 
 Technical Contact:
-   NA
-   DNS Admin (info@dualia.com)
-   +34.937337280
+   T1 Technologies, Inc.
+   Tony Jaffe (tjaffe@t1-tech.com)
+   +1.4026698669
    Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
+   3530 Ave. A
+   Council Bluffs, IA 51501
+   US
+
+Registrant Contact:
+   T1 Technologies, Inc.
+   Tony Jaffe ()
+
+   Fax:
+   3530 Ave. A
+   Council Bluffs, IA 51501
+   US
 
 Status: Locked
 
 Name Servers:
-   dns1.cromatic.com
-   dns2.cromatic.com
-   dns3.cromatic.com
+   ns1.t1-tech.com
+   ns2.t1-tech.com
 
-Creation date: 05 Feb 2003 12:01:06
-Expiration date: 05 Feb 2012 12:01:00
+Creation date: 17 Jul 2009 15:58:05
+Expiration date: 17 Jul 2012 15:58:00
 
 
 

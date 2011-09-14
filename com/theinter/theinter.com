@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLOGALAP.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.TECHNOBD.COM
-   Name Server: NS2.TECHNOBD.COM
+   Domain Name: THEINTER.COM
+   Registrar: THE REGISTRY AT INFO AVENUE D/B/A IA REGISTRY
+   Whois Server: whois.iaregistry.com
+   Referral URL: http://www.spiritdomains.com
+   Name Server: NS1.NETINS.NET
+   Name Server: NS3.GENESEO.NET
    Status: clientTransferProhibited
-   Updated Date: 11-jul-2011
-   Creation Date: 16-sep-2010
-   Expiration Date: 16-sep-2012
+   Updated Date: 28-apr-2011
+   Creation Date: 02-dec-1998
+   Expiration Date: 01-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:36:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:36:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: TECHNOBD
-Contact: +88.029126385
-Website: http://www.technobd.com
+Registration Service Provided By: GENESEO TELEPHONE COMPANY
+Contact: +1.3099442200
+Website: http://www.geneseotelephone.com
 
-Domain Name: BLOGALAP.COM
+Domain Name: THEINTER.COM
 
 Registrant:
-    N/A
-    Abdullah-Al-Mehedi Hasan        (mehedi57@gmail.com)
-    Vill - Benapole, Post - Benapole,
-    Thana - Benapole
-    Jessore
-    Jessore,7431
-    BD
-    Tel. +88.01914892982
+    Geneseo Telephone Company
+    Kent Lundeen        (kent@idc.geneseo.com)
+    111 East First Street
+    Geneseo
+    IL,61254
+    US
+    Tel. +1.3099442103
+    Fax. +1.3099444406
 
-Creation Date: 16-Sep-2010
-Expiration Date: 16-Sep-2012
+Creation Date: 02-Dec-1998
+Expiration Date: 01-Dec-2012
 
 Domain servers in listed order:
-    ns1.technobd.com
-    ns2.technobd.com
+    ns1.netins.net
+    ns3.geneseo.net
 
 
 Administrative Contact:
-    N/A
-    Abdullah-Al-Mehedi Hasan        (mehedi57@gmail.com)
-    Vill - Benapole, Post - Benapole,
-    Thana - Benapole
-    Jessore
-    Jessore,7431
-    BD
-    Tel. +88.01914892982
+    Geneseo Telephone Company
+    Ron Hartman        (domainmgr@geneseo.net)
+    111 East First St
+    Geneseo
+    IL,61254
+    US
+    Tel. +1.3099442103
+    Fax. +1.3099444406
 
 Technical Contact:
-    N/A
-    Abdullah-Al-Mehedi Hasan        (mehedi57@gmail.com)
-    Vill - Benapole, Post - Benapole,
-    Thana - Benapole
-    Jessore
-    Jessore,7431
-    BD
-    Tel. +88.01914892982
+    Geneseo Telephone Company
+    Ron Hartman        (domainmgr@geneseo.net)
+    111 East First St
+    Geneseo
+    IL,61254
+    US
+    Tel. +1.3099442103
+    Fax. +1.3099444406
 
 Billing Contact:
-    N/A
-    Abdullah-Al-Mehedi Hasan        (mehedi57@gmail.com)
-    Vill - Benapole, Post - Benapole,
-    Thana - Benapole
-    Jessore
-    Jessore,7431
-    BD
-    Tel. +88.01914892982
+    Geneseo Telephone Company
+    Ron Hartman        (domainmgr@geneseo.net)
+    111 East First St
+    Geneseo
+    IL,61254
+    US
+    Tel. +1.3099442103
+    Fax. +1.3099444406
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
@@ -121,7 +121,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is THE REGISTRY AT INFO AVENUE.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

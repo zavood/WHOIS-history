@@ -3,15 +3,15 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     WNGHE.RU
-nserver:    ns1.wnghe.ru. 211.154.153.49
-nserver:    ns2.wnghe.ru. 46.252.130.54
-state:      REGISTERED, DELEGATED, UNVERIFIED
+domain:     CHAPILLSO.RU
+nserver:    ns1.comtdns.com.
+nserver:    ns2.dnsbest.ru.
+state:      REGISTERED, DELEGATED, VERIFIED
 person:     Private Person
-e-mail:     gaevalex@yahoo.com
+e-mail:     muzalevskayaekaterina@yahoo.com
 registrar:  REGRU-REG-RIPN
-created:    2011.05.12
-paid-till:  2012.05.12
+created:    2011.02.11
+paid-till:  2012.02.11
 source:     TCI
 
 Last updated on 2011.09.14 11:33:42 MSK/MSD

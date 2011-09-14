@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CROMATIC.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.CROMATIC.COM
-   Name Server: DNS2.CROMATIC.COM
-   Name Server: DNS3.CROMATIC.COM
+   Domain Name: SPALASKA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: AUTH01.NS.DISCOVERY.COM
+   Name Server: AUTH02.NS.DISCOVERY.COM
+   Name Server: AUTH03.NS.DISCOVERY.COM
+   Name Server: AUTH04.NS.DISCOVERY.COM
    Status: clientTransferProhibited
-   Updated Date: 31-jan-2011
-   Creation Date: 05-feb-2003
-   Expiration Date: 05-feb-2012
+   Updated Date: 21-feb-2011
+   Creation Date: 29-sep-2010
+   Expiration Date: 29-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:38:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:37:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,68 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about cromatic.com
-&lt;a href=&quot;http://www.aboutus.org/cromatic.com&quot;&gt;AboutUs: cromatic.com&lt;/a&gt;
+
+Domain Name.......... spalaska.com
+  Creation Date........ 2010-09-30
+  Registration Date.... 2011-02-21
+  Expiry Date.......... 2012-09-30
+  Organisation Name.... Discovery Communications, LLC
+  Organisation Address. One Discovery Place
+  Organisation Address.
+  Organisation Address. Silver Spring
+  Organisation Address. 20910
+  Organisation Address. MD
+  Organisation Address. UNITED STATES
+
+Admin Name........... DNS Administrator
+  Admin Address........ One Discovery Place
+  Admin Address........
+  Admin Address........ Silver Spring
+  Admin Address........ 20910
+  Admin Address........ MD
+  Admin Address........ UNITED STATES
+  Admin Email.......... dns_admin@discovery.com
+  Admin Phone.......... +240.6627562
+  Admin Fax............ +240.6620001
+
+Tech Name............ DNS Administrator
+  Tech Address......... One Discovery Place
+  Tech Address.........
+  Tech Address......... Silver Spring
+  Tech Address......... 20910
+  Tech Address......... MD
+  Tech Address......... UNITED STATES
+  Tech Email........... dns_admin@discovery.com
+  Tech Phone........... +240.6627562
+  Tech Fax............. +240.6620001
+  Name Server.......... auth02.ns.discovery.com
+  Name Server.......... auth03.ns.discovery.com
+  Name Server.......... auth01.ns.discovery.com
+  Name Server.......... auth04.ns.discovery.com
 
 
-Domain name: cromatic.com
-
-Registrant Contact:
-   Dualia
-   NA NA ()
-
-   Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
-
-Administrative Contact:
-   NA
-   DNS Admin (info@dualia.com)
-   +34.937337280
-   Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
-
-Technical Contact:
-   NA
-   DNS Admin (info@dualia.com)
-   +34.937337280
-   Fax:
-   Guttemberg 3, 4th
-   Terrassa, BARCELONA E-08224
-   ES
-
-Status: Locked
-
-Name Servers:
-   dns1.cromatic.com
-   dns2.cromatic.com
-   dns3.cromatic.com
-
-Creation date: 05 Feb 2003 12:01:06
-Expiration date: 05 Feb 2012 12:01:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
