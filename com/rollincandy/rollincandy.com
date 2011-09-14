@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Domain Name: ROLLINCANDY.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS1.YMC.NE.JP
+   Name Server: DNS2.YMC.NE.JP
+   Status: ok
+   Updated Date: 26-feb-2011
+   Creation Date: 22-apr-2006
+   Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:18:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:19:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
+GMO Internet, Inc. whois server 2.0
 
-Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-
-Domain Name: naiadexports.com
-
-
-
-
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
-
-
-
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
-
+Domain Handle: None
+Domain Name: rollincandy.com
+Created On: 2006-04-22 10:32:38.0
+Last Updated On: 2011-02-26 17:28:20.0
+Expiration Date: 2012-04-22 10:32:38.0
+Status: ACTIVE
+Registrant Name: Asami Kaoru
+Registrant Organization: Asami Kaoru
+Registrant Street1: Lions Manshion Daimachi 203 11-26
+Registrant Street2: kanagawaku
+Registrant City: Yokohama-shi
+Registrant State: Kanagawa
+Registrant Postal Code: 221-0834
+Registrant Country: JP
+Registrant Phone: 0453124851
+Registrant Fax:
+Registrant Email: kaoru@rollincandy.com
+Admin Name: Asami Kaoru
+Admin Organization: Asami Kaoru
+Admin Street1: Lions Manshion Daimachi 203, 11-26
+Admin Street2: kanagawaku
+Admin City: Yokohama-shi
+Admin State: Kanagawa
+Admin Postal Code: 221-0834
+Admin Country: JP
+Admin Phone: 0453124851
+Admin Fax:
+Admin Email: kaoru@rollincandy.com
+Billing Name: Asami Kaoru
+Billing Organization: Asami Kaoru
+Billing Street1: Lions Manshion Daimachi 203, 11-26
+Billing Street2: kanagawaku
+Billing City: Yokohama-shi
+Billing State: Kanagawa
+Billing Postal Code: 221-0834
+Billing Country: JP
+Billing Phone: 0453124851
+Billing Fax:
+Billing Email: kaoru@rollincandy.com
+Tech Name: WADAX Domain
+Tech Organization: WADAX Domain
+Tech Street1: TWIN 21 MID Tower 26F ,2-1-61 Shiromi
+Tech Street2: Chuo Ward
+Tech City: Osaka City
+Tech State: Osaka
+Tech Postal Code: Osaka Pref
+Tech Country: JP
+Tech Phone: 0669471830
+Tech Fax: 0669471860
+Tech Email: dns@wadax.ne.jp
+Name Server: dns1.ymc.ne.jp
+Name Server: dns2.ymc.ne.jp
 

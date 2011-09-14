@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
+   Domain Name: PROCARCARE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.AUTOZONE.COM
+   Name Server: NS2.AUTOZONE.COM
+   Name Server: NS3.AUTOZONE.COM
+   Name Server: NS4.AUTOZONE.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Updated Date: 01-sep-2011
+   Creation Date: 28-sep-2003
+   Expiration Date: 28-sep-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:18:15 UTC &lt;&lt;&lt;
 
@@ -51,43 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Domain Name: naiadexports.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
-
-
-
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
-
-
+Whois Query: procarcare.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 11:08:05 EDT 2011
+Reason Code: IE

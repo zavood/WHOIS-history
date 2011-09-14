@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NAIADEXPORTS.COM
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS1.FLYINGCROC.NET
-   Name Server: NS2.FLYINGCROC.NET
-   Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 07-jun-2011
-   Expiration Date: 07-jun-2012
+   Domain Name: EUROBABEINDEX.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.JENNIFER-STONE.COM
+   Name Server: NS1.OPTIMAN.NET
+   Name Server: NS7.LEASEWEB.NET
+   Status: ok
+   Updated Date: 07-oct-2010
+   Creation Date: 04-nov-2002
+   Expiration Date: 04-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:18:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:19:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,43 +52,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-naiadexports.com
-
-Registrant:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
+=-=-=-=
 
 
-Domain Name: naiadexports.com
+Domain name: eurobabeindex.com
+
+Registrant Contact:
+   Gino Five Unlimited
+   Gino Ginocchio ()
+
+   Fax:
+   PO Box 050
+   New York, NY 11373
+   US
+
+Administrative Contact:
+   Gino Five Unlimited
+   Gino Ginocchio (sbandoboy@libero.it)
+   205-555-1313
+   Fax:
+   PO Box 050
+   New York, NY 11373
+   US
+
+Technical Contact:
+   Gino Five Unlimited
+   Gino Ginocchio (sbandoboy@libero.it)
+   205-555-1313
+   Fax:
+   PO Box 050
+   New York, NY 11373
+   US
+
+Status: Active
+
+Name Servers:
+   ns.jennifer-stone.com
+   ns1.optiman.net
+   ns7.leaseweb.net
+
+Creation date: 04 Nov 2002 22:48:18
+Expiration date: 05 Nov 2011 02:48:00
 
 
 
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-Administrative, Technical, Billing Contact:
-         FCI, Inc. FCI, Inc.  (hostmaster@flyingcroc.net)
-        FCI, Inc.
-        2019 3rd Ave Ste 200
-        Seattle, WA  98121
-        US
-        206.374.0374
-
-
-
-
-
-   Record created on Jun 7 2011.
-   Record expires on Jun 7 2012.
-Domain servers:
-        ns1.flyingcroc.net
-        ns2.flyingcroc.net
-
-
-
-Domain Service Provider:
-   FCI Inc.
-
-
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
