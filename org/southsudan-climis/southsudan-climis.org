@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157524704-LROR
+Domain Name:SOUTHSUDAN-CLIMIS.ORG
+Created On:05-Nov-2009 20:18:48 UTC
+Last Updated On:23-Dec-2010 17:13:51 UTC
+Expiration Date:05-Nov-2013 20:18:48 UTC
+Sponsoring Registrar:Omnis Network LLC (R101-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:OMNIS-1258618878
+Registrant Name:FAO Sudan
+Registrant Organization:Food and Agriculture Organization of the United Nations
+Registrant Street1:Sudan, 249
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sudan
+Registrant State/Province:Southern Sudan
+Registrant Postal Code:249
+Registrant Country:SD
+Registrant Phone:+25.6414382422
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:solutions@SoluWorks.com
+Admin ID:OMNIS-1283332780
+Admin Name:Michael Taban
+Admin Organization:MAF/GOSS
+Admin Street1:IT Personnel, GOSS Food Security Technical Secretariat, 249  Ju
+Admin Street2:Sudan
+Admin Street3:
+Admin City:Juba
+Admin State/Province:Central Equatoria Sudan
+Admin Postal Code:249
+Admin Country:SD
+Admin Phone:+24.9955260104
+Admin Phone Ext.:
+Admin FAX:+24.9955260104
+Admin FAX Ext.:
+Admin Email:taban2002m@yahoo.co.uk
+Tech ID:OMNIS-1283332944
+Tech Name:Moses John Alier
+Tech Organization:SSCCSE/GOSS
+Tech Street1:Web-Editor, GOSS Food Security Technical Secretariat
+Tech Street2:249, Juba, Central Equatoria Sudan
+Tech Street3:
+Tech City:Juba
+Tech State/Province:Central Equatoria Sudan
+Tech Postal Code:249
+Tech Country:SD
+Tech Phone:+24.9927759699
+Tech Phone Ext.:
+Tech FAX:+24.9927759699
+Tech FAX Ext.:
+Tech Email:aliermoses12@yahoo.com
+Name Server:DNS1.NTCHOSTING.COM
+Name Server:DNS2.NTCHOSTING.COM
+Name Server:ZION.SOLUWORKS.COM
+Name Server:ZULU.SOLUWORKS.COM
+Name Server:ZODIAC.SOLUWORKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

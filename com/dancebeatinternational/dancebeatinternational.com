@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BAZAARVOICE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DANCEBEATINTERNATIONAL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.VIRNETECH.COM
+   Name Server: DNS2.VIRNETECH.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-mar-2007
-   Creation Date: 20-apr-2005
-   Expiration Date: 20-apr-2015
+   Updated Date: 08-jan-2007
+   Creation Date: 29-jul-2002
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:47:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... dancebeatinternational.com
+  Creation Date........ 2002-07-30
+  Registration Date.... 2002-07-30
+  Expiry Date.......... 2012-07-30
+  Organisation Name.... Dance Beat Inc.
+  Organisation Address. 1172 S. Dixie Hwy. #492
+  Organisation Address.
+  Organisation Address. Coral Gables
+  Organisation Address. 33146
+  Organisation Address. FL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Keith Todd
+  Admin Address........ 1172 S. Dixie Hwy. #492
+  Admin Address........
+  Admin Address........ Coral Gables
+  Admin Address........ 33146
+  Admin Address........ FL
+  Admin Address........ UNITED STATES
+  Admin Email.......... todd8166@bellsouth.net
+  Admin Phone.......... +1.3055313087
+  Admin Fax............
+
+Tech Name............ Support DoubleDomains.com
+  Tech Address......... 11807 NE 99th St., Suite 1100
+  Tech Address.........
+  Tech Address......... Vancouver
+  Tech Address......... 98682
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... support@DoubleDomains.com
+  Tech Phone........... +1.3602532210
+  Tech Fax............. +1.3602534234
+  Name Server.......... DNS1.virnetech.com
+  Name Server.......... DNS2.virnetech.com
 
 
-Registrant:
-   IT Department
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BAZAARVOICE.COM
-
-   Domain servers in listed order:
-      PDNS1.ULTRADNS.NET
-      PDNS2.ULTRADNS.NET
-      PDNS3.ULTRADNS.ORG
-      PDNS4.ULTRADNS.ORG
-      PDNS5.ULTRADNS.INFO
-      PDNS6.ULTRADNS.CO.UK
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BAZAARVOICE.COM

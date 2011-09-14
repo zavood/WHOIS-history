@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BAZAARVOICE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-mar-2007
-   Creation Date: 20-apr-2005
-   Expiration Date: 20-apr-2015
+   Domain Name: TOKAMI-RESTAURANT.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: DE108.ISPFR.NET
+   Name Server: DNS.ISPFR.NET
+   Status: ok
+   Updated Date: 31-aug-2011
+   Creation Date: 07-sep-2010
+   Expiration Date: 07-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:46:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   IT Department
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BAZAARVOICE.COM
-
-   Domain servers in listed order:
-      PDNS1.ULTRADNS.NET
-      PDNS2.ULTRADNS.NET
-      PDNS3.ULTRADNS.ORG
-      PDNS4.ULTRADNS.ORG
-      PDNS5.ULTRADNS.INFO
-      PDNS6.ULTRADNS.CO.UK
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BAZAARVOICE.COM
+Domain Name : TOKAMI-RESTAURANT.COM
+Created On : 2010-09-07
+Expiration Date : 2012-09-07
+Status : ACTIVE
+Registrant Name : AFBWEBDESIGN
+Registrant Street1 : 6 rue Prat Gimont
+Registrant City : BALMA
+Registrant State/Province  :
+Registrant Postal Code : 31130
+Registrant Country : FR
+Admin Name : NUXIT
+Admin Street1 : 400 avenue Roumanille
+Admin City : Sophia Antipolis Cedex
+Admin State/Province : FR
+Admin Postal Code : 06903
+Admin Country : FR
+Admin Phone : +33.899563600
+Admin Email : domains@nuxit.com
+Tech Name : NUXIT
+Tech Street1 : 400 avenue Roumanille
+Tech City : Sophia Antipolis Cedex
+Tech State/Province : FR
+Tech Postal Code : 06903
+Tech Country : FR
+Tech Phone : +33.899563600
+Tech Email : domains@nuxit.com
+Billing Name : NUXIT
+Billing Street1 : 400 avenue Roumanille
+Billing City : Sophia Antipolis Cedex
+Billing State/Province : FR
+Billing Postal Code : 06903
+Billing Country : FR
+Billing Phone : +33.899563600
+Billing Email : domains@nuxit.com
+Name Server : DE108.ISPFR.NET
+Name Server : DNS.ISPFR.NET
+Registrar Name : Namebay

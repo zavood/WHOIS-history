@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOTLONG.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.AZEELO.COM
-   Name Server: NS2.AZEELO.COM
+   Domain Name: DELTAFAUCETCOMPANY.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS83.WORLDNIC.COM
+   Name Server: NS84.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 05-may-2011
-   Creation Date: 04-jun-2002
-   Expiration Date: 04-jun-2012
+   Updated Date: 19-jan-2011
+   Creation Date: 29-mar-2001
+   Expiration Date: 29-mar-2020
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:47:30 UTC &lt;&lt;&lt;
 
@@ -51,70 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about notlong.com
-&lt;a href=&quot;http://www.aboutus.org/notlong.com&quot;&gt;AboutUs: notlong.com&lt;/a&gt;
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain name: notlong.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+http://www.networksolutions.com/whois/index.jhtml
 
-   Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
-
-Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (05e27100d8ed4d689bfc8e14a39095ac.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
-
-Status: Locked
-
-Name Servers:
-   NS1.AZEELO.COM
-   NS2.AZEELO.COM
-
-Creation date: 04 Jun 2002 18:16:00
-Expiration date: 04 Jun 2012 18:16:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Whois Query: deltafaucetcompany.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 17:37:53 EDT 2011
+Reason Code: IE

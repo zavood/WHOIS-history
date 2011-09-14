@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRIMARY001.NET
+   Domain Name: FASTSTORES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Name Server: NS1.DOMAINCITYSERVERS.COM
+   Name Server: NS2.DOMAINCITYSERVERS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 26-aug-2001
-   Expiration Date: 26-aug-2013
+   Updated Date: 09-jun-2011
+   Creation Date: 08-jul-2002
+   Expiration Date: 08-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:47:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:47:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +53,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about primary001.net
-&lt;a href=&quot;http://www.aboutus.org/primary001.net&quot;&gt;AboutUs: primary001.net&lt;/a&gt;
+Visit AboutUs.org for more information about faststores.com
+&lt;a href=&quot;http://www.aboutus.org/faststores.com&quot;&gt;AboutUs: faststores.com&lt;/a&gt;
 
 
-Domain name: primary001.net
-
-Registrant Contact:
-   Interactive Online Corporation
-   Customer Service ()
-
-   Fax:
-   10151 University Blvd #126
-   Orlando, FL 32817
-   US
+Domain name: faststores.com
 
 Administrative Contact:
-   Interactive Online Corporation
-   Customer Service (whois@interactiveonline.com)
-   +1.8006174958
-   Fax: +1.8006174958
-   10151 University Blvd #126
-   Orlando, FL 32817
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (jpbxgtdbqj@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O faststores.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Interactive Online Corporation
-   Customer Service (whois@interactiveonline.com)
-   +1.8006174958
-   Fax: +1.8006174958
-   10151 University Blvd #126
-   Orlando, FL 32817
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (jpbxgtdbqj@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O faststores.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O faststores.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   ns1.domaincityservers.com
+   ns2.domaincityservers.com
 
-Creation date: 26 Aug 2001 22:31:10
-Expiration date: 26 Aug 2013 22:31:10
+Creation date: 08 Jul 2002 17:53:09
+Expiration date: 08 Jul 2012 17:58:00
 
 
 

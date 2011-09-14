@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRIMARY001.NET
+   Domain Name: SUPERBTEXTADVERTISING.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
+   Name Server: NS1.SAFFELL.US
+   Name Server: NS2.SAFFELL.US
    Status: clientTransferProhibited
-   Updated Date: 13-apr-2011
-   Creation Date: 26-aug-2001
-   Expiration Date: 26-aug-2013
+   Updated Date: 10-mar-2011
+   Creation Date: 25-mar-2009
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:47:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:46:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about primary001.net
-&lt;a href=&quot;http://www.aboutus.org/primary001.net&quot;&gt;AboutUs: primary001.net&lt;/a&gt;
+Visit AboutUs.org for more information about superbtextadvertising.com
+&lt;a href=&quot;http://www.aboutus.org/superbtextadvertising.com&quot;&gt;AboutUs: superbtextadvertising.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: primary001.net
+Domain name: superbtextadvertising.com
 
 Registrant Contact:
-   Interactive Online Corporation
-   Customer Service ()
+   WhoisGuard
+   WhoisGuard Protected ()
 
    Fax:
-   10151 University Blvd #126
-   Orlando, FL 32817
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Administrative Contact:
-   Interactive Online Corporation
-   Customer Service (whois@interactiveonline.com)
-   +1.8006174958
-   Fax: +1.8006174958
-   10151 University Blvd #126
-   Orlando, FL 32817
+   WhoisGuard
+   WhoisGuard Protected (87c40cd023cd43f5a835ef7a189ac8c9.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Technical Contact:
-   Interactive Online Corporation
-   Customer Service (whois@interactiveonline.com)
-   +1.8006174958
-   Fax: +1.8006174958
-   10151 University Blvd #126
-   Orlando, FL 32817
+   WhoisGuard
+   WhoisGuard Protected (87c40cd023cd43f5a835ef7a189ac8c9.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.name-services.com
-   dns2.name-services.com
-   dns3.name-services.com
-   dns4.name-services.com
-   dns5.name-services.com
+   NS1.SAFFELL.US
+   NS2.SAFFELL.US
 
-Creation date: 26 Aug 2001 22:31:10
-Expiration date: 26 Aug 2013 22:31:10
+Creation date: 25 Mar 2009 04:49:44
+Expiration date: 25 Mar 2012 04:49:44
 
 
 
