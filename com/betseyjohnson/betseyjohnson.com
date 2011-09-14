@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CCGSLB.NET
+   Domain Name: BETSEYJOHNSON.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.CCGSLB.NET
-   Name Server: NS2.CCGSLB.NET
-   Name Server: NS5.CCGSLB.NET
-   Name Server: NS6.CCGSLB.NET
-   Name Server: NS7.CCGSLB.NET
-   Name Server: NS8.CCGSLB.NET
+   Name Server: NS2.ZONEEDIT.COM
+   Name Server: NS7.ZONEEDIT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 02-nov-2007
-   Expiration Date: 02-nov-2014
+   Updated Date: 12-oct-2010
+   Creation Date: 09-mar-1996
+   Expiration Date: 10-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:31:36 UTC &lt;&lt;&lt;
 
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Betsey Johnson LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CCGSLB.NET
+   Domain Name: BETSEYJOHNSON.COM
 
    Domain servers in listed order:
-      NS1.CCGSLB.NET
-      NS2.CCGSLB.NET
-      NS5.CCGSLB.NET
-      NS6.CCGSLB.NET
-      NS7.CCGSLB.NET
-      NS8.CCGSLB.NET
+      NS2.ZONEEDIT.COM
+      NS7.ZONEEDIT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CCGSLB.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=BETSEYJOHNSON.COM

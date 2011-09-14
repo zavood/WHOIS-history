@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CCGSLB.NET
+   Domain Name: RUSHIMPRINT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.CCGSLB.NET
-   Name Server: NS2.CCGSLB.NET
-   Name Server: NS5.CCGSLB.NET
-   Name Server: NS6.CCGSLB.NET
-   Name Server: NS7.CCGSLB.NET
-   Name Server: NS8.CCGSLB.NET
+   Name Server: NS1.NO-IP.COM
+   Name Server: NS2.NO-IP.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 02-nov-2007
-   Expiration Date: 02-nov-2014
+   Updated Date: 07-sep-2010
+   Creation Date: 20-jan-2002
+   Expiration Date: 20-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:31:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:32:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Clayton Kendall Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CCGSLB.NET
+   Domain Name: RUSHIMPRINT.COM
 
    Domain servers in listed order:
-      NS1.CCGSLB.NET
-      NS2.CCGSLB.NET
-      NS5.CCGSLB.NET
-      NS6.CCGSLB.NET
-      NS7.CCGSLB.NET
-      NS8.CCGSLB.NET
+      NS1.NO-IP.COM
+      NS2.NO-IP.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CCGSLB.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=RUSHIMPRINT.COM
