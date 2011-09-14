@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-dec-1998
    Expiration Date: 28-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:28:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:05:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,8 +114,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns4.bankofamerica.com
     ns3.bankofamerica.com
+    ns4.bankofamerica.com
     ns1.bankofamerica.com
 
 
@@ -131,4 +131,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+
