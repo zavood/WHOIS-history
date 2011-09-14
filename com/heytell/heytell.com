@@ -5,8 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;108000.NET&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:25:07 UTC &lt;&lt;&lt;
+   Domain Name: HEYTELL.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-apr-2011
+   Creation Date: 14-may-2009
+   Expiration Date: 14-may-2012
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:24:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +52,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+We're sorry, there has been a problem. Technicians have been notified. Code E3.
