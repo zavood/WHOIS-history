@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69462870-LROR
+Domain Name:SCSCEDARGROVE.ORG
+Created On:19-Apr-2001 00:44:45 UTC
+Last Updated On:09-Feb-2011 14:21:52 UTC
+Expiration Date:19-Apr-2012 00:44:45 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuGyoJtMRJflXNCU
+Registrant Name:Charlotte Leeds
+Registrant Organization:St. Catherine of Siena
+Registrant Street1:35 Old Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cedar Grove
+Registrant State/Province:NJ
+Registrant Postal Code:07009
+Registrant Country:US
+Registrant Phone:+1.9738578711
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cleeds@scscedargrove.org
+Admin ID:tuW6uncvgSvhJ1Jw
+Admin Name:Charlotte Leeds
+Admin Organization:St. Catherine of Siena
+Admin Street1:35 Old Court
+Admin Street2:
+Admin Street3:
+Admin City:Cedar Grove
+Admin State/Province:NJ
+Admin Postal Code:07009
+Admin Country:US
+Admin Phone:+1.9738578711
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cleeds@scscedargrove.org
+Tech ID:tuq8mtDG66KyYsd1
+Tech Name:Charlotte Leeds
+Tech Organization:St. Catherine of Siena
+Tech Street1:35 Old Court
+Tech Street2:
+Tech Street3:
+Tech City:Cedar Grove
+Tech State/Province:NJ
+Tech Postal Code:07009
+Tech Country:US
+Tech Phone:+1.9738578711
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cleeds@scscedargrove.org
+Name Server:DNS6.HOSTRACK.COM
+Name Server:DNS5.HOSTRACK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

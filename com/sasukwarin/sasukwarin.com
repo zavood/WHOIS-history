@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BHPV.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BHPHOTO.COM
-   Name Server: NS1.TGIX.COM
-   Name Server: NS2.BHPHOTO.COM
+   Domain Name: SASUKWARIN.COM
+   Registrar: DOTARAI CO,. LTD.
+   Whois Server: whois.dotarai.com
+   Referral URL: http://www.dotarai.co.th
+   Name Server: NS7.NETWORKTHAI.NET
+   Name Server: NS99.NETWORKTHAI.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-mar-2003
-   Expiration Date: 18-mar-2014
+   Updated Date: 08-mar-2011
+   Creation Date: 20-feb-2010
+   Expiration Date: 20-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:43:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:42:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +52,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+% whois.dotarai.com
 
 
-Registrant:
-   B&amp;H Photo Video
+% Whois Server Version 1.0.0
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BHPV.COM
+   Domain: SASUKWARIN.COM
+   Registrar: DotArai Co., Ltd.
+   Status: ACTIVE
+   Status: clientTransferProhibited
+   Status: clientDeleteProhibited
+   Updated date: 9-Mar-2011
+   Creation date: 20-Feb-2010
+   Expiration date: 20-Feb-2012
+   Name Server: NS7.NETWORKTHAI.NET
+   Name Server: NS99.NETWORKTHAI.NET
 
-   Domain servers in listed order:
-      NS1.BHPHOTO.COM
-      NS2.BHPHOTO.COM
-      NS1.TGIX.COM
+   Registrant ID: 38396
+      Jirapong Tubsri
+      Company: NETWORKTHAI COMMUNICATION CO.,LTD.
+      Address:
+         3/45 New Srisothorn Road, Na-Muang,
+         Muang, Chachoengsao 24000
+         Thailand
+
+   Administrative Contact ID: 38397
+      Jirapong Tubsri
+      Company: NETWORKTHAI COMMUNICATION CO.,LTD.
+      Address:
+         3/45 New Srisothorn Road, Na-Muang,
+         Muang, Chachoengsao 24000
+         Thailand
+      Phone: +66.38535254         Fax: +66.38535252
+      Email: domain@networkthai.co.th
+
+   Technical Contact ID: 38398
+      Jirapong Tubsri
+      Company: NETWORKTHAI COMMUNICATION CO.,LTD.
+      Address:
+         3/45 New Srisothorn Road, Na-Muang,
+         Muang, Chachoengsao 24000
+         Thailand
+      Phone: +66.38535254         Fax: +66.38535252
+      Email: domain@networkthai.co.th
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BHPV.COM
+&gt;&gt;&gt; Last update of whois data: Thu, 15 Sep 2011 00:42:57 UTC+7 &lt;&lt;&lt;

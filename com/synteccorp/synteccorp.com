@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BHPV.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BHPHOTO.COM
-   Name Server: NS1.TGIX.COM
-   Name Server: NS2.BHPHOTO.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SYNTECCORP.COM
+   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: A.NS.INTERLAND.NET
+   Name Server: B.NS.INTERLAND.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-mar-2003
-   Expiration Date: 18-mar-2014
+   Updated Date: 08-aug-2010
+   Creation Date: 28-sep-2009
+   Expiration Date: 28-sep-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:43:01 UTC &lt;&lt;&lt;
 
@@ -55,38 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   B&amp;H Photo Video
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BHPV.COM
-
-   Domain servers in listed order:
-      NS1.BHPHOTO.COM
-      NS2.BHPHOTO.COM
-      NS1.TGIX.COM
+   Registrant:
+      Syntec LLC
+      Giovanni Capra
+      4800 Pulaski Hwy
+      Baltimore, MD 21224
+      US
+      Phone: +1.4103271070
+      Email: gcapra@verizon.net
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BHPV.COM
+
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: synteccorp.com
+      Created on..............: 2009-09-28
+      Expires on..............: 2015-09-28
+
+   Administrative Contact:
+      Syntec LLC
+      Giovanni Capra
+      4800 Pulaski Hwy
+      Baltimore, MD 21224
+      US
+      Phone: +1.4104401630
+      Email: gcapra@verizon.net
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      b.ns.interland.net
+      a.ns.interland.net
+
+
+
+Visit AboutUs.org for more information about synteccorp.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/synteccorp.com&quot;&gt;AboutUs: synteccorp.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

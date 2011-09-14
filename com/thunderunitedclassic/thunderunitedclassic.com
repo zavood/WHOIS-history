@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BHPV.COM
+   Domain Name: THUNDERUNITEDCLASSIC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BHPHOTO.COM
-   Name Server: NS1.TGIX.COM
-   Name Server: NS2.BHPHOTO.COM
+   Name Server: NS3.INETU.NET
+   Name Server: NS4.INETU.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 18-mar-2003
-   Expiration Date: 18-mar-2014
+   Updated Date: 02-dec-2010
+   Creation Date: 01-dec-2005
+   Expiration Date: 01-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:43:01 UTC &lt;&lt;&lt;
 
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   B&amp;H Photo Video
+   Rivershark, Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BHPV.COM
+   Domain Name: THUNDERUNITEDCLASSIC.COM
 
    Domain servers in listed order:
-      NS1.BHPHOTO.COM
-      NS2.BHPHOTO.COM
-      NS1.TGIX.COM
+      NS3.INETU.NET
+      NS4.INETU.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BHPV.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=THUNDERUNITEDCLASSIC.COM
