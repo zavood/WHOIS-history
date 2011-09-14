@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THIRDAGE.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.ADVOMATIC.COM
-   Name Server: NS2.ADVOMATIC.COM
+   Domain Name: CRETANHOTELS.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 28-jan-1997
-   Expiration Date: 29-jan-2020
+   Updated Date: 16-jul-2011
+   Creation Date: 15-jul-2002
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:44:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:42:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,41 +74,27 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   c/o THIRDAGE.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
+   Ana Simone
+   64 Borough High Street
+   London, UK  SE1 1XF
+   GB
 
-   Registrar: DOTSTER
-   Domain Name: THIRDAGE.COM
-      Created on: 28-JAN-97
-      Expires on: 29-JAN-20
-      Last Updated on: 15-NOV-10
+   Registrar: DOTREGISTRAR
+   Domain Name: CRETANHOTELS.COM
+      Created on: 15-JUL-02
+      Expires on: 15-JUL-12
+      Last Updated on: 25-JUN-11
 
-   Administrative Contact:
-      SzQeXe@PRIVACYPOST.COM
-      c/o THIRDAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
-
-   Technical Contact:
-      PpvDnc@PRIVACYPOST.COM
-      c/o THIRDAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+   Administrative, Technical Contact:
+      Simone, Ana  ar@brandcasting.com
+      64 Borough High Street
+      London, UK  SE1 1XF
+      GB
+      00447815776556
 
 
    Domain servers in listed order:
-      NS1.ADVOMATIC.COM
-      NS2.ADVOMATIC.COM
-
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
 
 End of Whois Information

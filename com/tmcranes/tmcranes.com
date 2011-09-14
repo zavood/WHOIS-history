@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CRIBCANDY.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-jul-2011
-   Creation Date: 12-jul-2005
-   Expiration Date: 12-jul-2012
+   Domain Name: TMCRANES.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.NETNITCO.NET
+   Name Server: NS2.NETNITCO.NET
+   Status: ok
+   Updated Date: 15-mar-2009
+   Creation Date: 05-jun-2001
+   Expiration Date: 05-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:44:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:43:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,50 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   David Galbraith
-   995 Steiner st.
-   San Francisco, CA  94117
-   US
-
-   Registrar: NAMESDIRECT
-   Domain Name: CRIBCANDY.COM
-      Created on: 12-JUL-05
-      Expires on: 12-JUL-12
-      Last Updated on: 13-JUL-11
-
-   Administrative, Technical Contact:
-      Galbraith, David  david@davidgalbraith.org
-      995 Steiner st.
-      San Francisco, CA  94117
-      US
-      415-577-8828
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
+Domain name: tmcranes.com
 
-End of Whois Information
+Registrant Contact:
+      Peter    Turek
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      5b7cb73d22dd0b11@private-contact.com
+
+Administrative Contact:
+      Peter    Turek
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      oqhcsnqacuzdwibd@private-contact.com
+
+Technical Contact:
+      Peter    Turek
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      tjf8faylwkf96zjn@private-contact.com
+
+Update date: 2009-03-20
+Expiration date: 2014-06-05
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

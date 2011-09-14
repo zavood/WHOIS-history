@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THIRDAGE.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.ADVOMATIC.COM
-   Name Server: NS2.ADVOMATIC.COM
+   Domain Name: XNVIDEOS.COM
+   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
+   Whois Server: whois.aboutdomainsolutions.com
+   Referral URL: http://www.aboutdomain.com
+   Name Server: NS1.PARKLOGIC.COM
+   Name Server: NS2.PARKLOGIC.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 28-jan-1997
-   Expiration Date: 29-jan-2020
+   Updated Date: 29-aug-2011
+   Creation Date: 07-apr-2007
+   Expiration Date: 07-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:44:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:43:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,62 +54,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
 Registrant:
-   c/o THIRDAGE.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
+	Luca Mueller
+	Feringastr. 6
+	85774 Unterfoehring
+	Germany
+	+49 (0) 89 99216 476 (v)
+	+49 (0) 89 99216 170 (f)
 
-   Registrar: DOTSTER
-   Domain Name: THIRDAGE.COM
-      Created on: 28-JAN-97
-      Expires on: 29-JAN-20
-      Last Updated on: 15-NOV-10
+	Domain Name: xnvideos.com
+	Created on: 2007-04-07 13:02:46
+	Expires on: 2012-04-07 13:02:46
 
-   Administrative Contact:
-      SzQeXe@PRIVACYPOST.COM
-      c/o THIRDAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+Administrative Contact:
+	Mueller, Luca luca.mueller1@gmail.com
+	Feringastr. 6
+	85774 Unterfoehring
+	Germany
+	+49 (0) 89 99216 476 (v)
+	+49 (0) 89 99216 170 (f)
 
-   Technical Contact:
-      PpvDnc@PRIVACYPOST.COM
-      c/o THIRDAGE.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+Technical Contact:
+	Mueller, Luca luca.mueller1@gmail.com
+	Feringastr. 6
+	85774 Unterfoehring
+	Germany
+	+49 (0) 89 99216 476 (v)
+	+49 (0) 89 99216 170 (f)
+
+Domain servers in listed order:
+	NS1.PARKLOGIC.COM
+	NS2.PARKLOGIC.COM
 
 
-   Domain servers in listed order:
-      NS1.ADVOMATIC.COM
-      NS2.ADVOMATIC.COM
 
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
 
-End of Whois Information
