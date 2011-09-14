@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URLAUB-MIT-KIND.NET
-   Registrar: HTTP.NET INTERNET GMBH
-   Whois Server: whois.http.net
-   Referral URL: http://http.net
-   Name Server: NS1.SPEICHERZENTRUM.DE
-   Name Server: NS2.SPEICHERZENTRUM.DE
-   Name Server: NS3.SPEICHERZENTRUM.DE
-   Status: ok
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Domain Name: KEVINFISHERHOMES.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.DELTAGROUP.COM
+   Name Server: NS2.DELTAGROUP.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 13-may-2011
+   Creation Date: 13-may-2004
+   Expiration Date: 13-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:37 UTC &lt;&lt;&lt;
 
@@ -52,61 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the http.net WHOIS database is provided by
-http.net Internet GmbH for informational purposes only, to assist you in
-obtaining information. About or related to a domain name registration
-record. http.net provides this information &quot;as is&quot;, and
-does not guarantee its accuracy. By submitting a WHOIS query, you
-agree that you will only use this data for lawful purposes. That,
-under no circumstances will you use this data to:
 
-1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
-commercial advertising or solicitations via electronic mail, also known as (SPAM).
-2. enable high volume,
-automated, electronic processes that apply to BulkRegister (or its systems).
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-The compilation, repackaging, dissemination or any other use of this data
-is expressly prohibited without the prior written agreement of http.net.
-http.net  reserves the right to terminate your access to the http.net WHOIS
-database in its sole discretion. Including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
+   Domain Services Provided By:
+      i29 Internet Services, support@i29.net
+      http://www.i29.net
 
-http.net reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Registrant:
+   Park Company
+   28 North 10th Street
+   Fargo, ND  58102
+   US
 
-Entry found for &quot;urlaub-mit-kind.net&quot;.
+   Registrar: DOTSTER
+   Domain Name: KEVINFISHERHOMES.COM
+      Created on: 13-MAY-04
+      Expires on: 13-MAY-12
+      Last Updated on: 13-MAY-11
 
-domain:        urlaub-mit-kind.net
+   Administrative, Technical Contact:
+       ,    kristihardy@parkcompany.com
+      Park Company
+      28 North 10th Street
+      Fargo, ND  58102
+      US
+      701-237-5031
 
-[Registrant]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
 
-[Administrative contact]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
-+491714838386
-webjunkie79@arcor.de
+   Domain servers in listed order:
+      NS1.DELTAGROUP.COM
+      NS2.DELTAGROUP.COM
 
-[Technical contact]
-Weipprecht, Alexander
-Kleinsachsenheimer Strasse 6/6
-74321 Bietigheim-Bissingen
-DE
-+497142788855
-+497142788861 (fax)
-info@speicherzentrum.de
-
-Registrar of Record:  http.net Internet GmbH
-Record last updated:  2011-06-27
-Record expires on:    2012-06-26
-Record created on:    2010-06-26
-
-nameserver: ns1.speicherzentrum.de
-nameserver: ns2.speicherzentrum.de
-nameserver: ns3.speicherzentrum.de
+End of Whois Information

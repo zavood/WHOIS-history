@@ -5,17 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URLAUB-MIT-KIND.NET
-   Registrar: HTTP.NET INTERNET GMBH
-   Whois Server: whois.http.net
-   Referral URL: http://http.net
-   Name Server: NS1.SPEICHERZENTRUM.DE
-   Name Server: NS2.SPEICHERZENTRUM.DE
-   Name Server: NS3.SPEICHERZENTRUM.DE
-   Status: ok
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Domain Name: LAPTOPSARENA.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-jan-2010
+   Creation Date: 30-jul-2006
+   Expiration Date: 30-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:37 UTC &lt;&lt;&lt;
 
@@ -52,61 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the http.net WHOIS database is provided by
-http.net Internet GmbH for informational purposes only, to assist you in
-obtaining information. About or related to a domain name registration
-record. http.net provides this information &quot;as is&quot;, and
-does not guarantee its accuracy. By submitting a WHOIS query, you
-agree that you will only use this data for lawful purposes. That,
-under no circumstances will you use this data to:
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
-commercial advertising or solicitations via electronic mail, also known as (SPAM).
-2. enable high volume,
-automated, electronic processes that apply to BulkRegister (or its systems).
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-The compilation, repackaging, dissemination or any other use of this data
-is expressly prohibited without the prior written agreement of http.net.
-http.net  reserves the right to terminate your access to the http.net WHOIS
-database in its sole discretion. Including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
 
-http.net reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Registrant:
+   Karamveer Singh
 
-Entry found for &quot;urlaub-mit-kind.net&quot;.
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: LAPTOPSARENA.COM
 
-domain:        urlaub-mit-kind.net
+   Domain servers in listed order:
+      NS05.DOMAINCONTROL.COM
+      NS06.DOMAINCONTROL.COM
 
-[Registrant]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
 
-[Administrative contact]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
-+491714838386
-webjunkie79@arcor.de
-
-[Technical contact]
-Weipprecht, Alexander
-Kleinsachsenheimer Strasse 6/6
-74321 Bietigheim-Bissingen
-DE
-+497142788855
-+497142788861 (fax)
-info@speicherzentrum.de
-
-Registrar of Record:  http.net Internet GmbH
-Record last updated:  2011-06-27
-Record expires on:    2012-06-26
-Record created on:    2010-06-26
-
-nameserver: ns1.speicherzentrum.de
-nameserver: ns2.speicherzentrum.de
-nameserver: ns3.speicherzentrum.de
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=LAPTOPSARENA.COM

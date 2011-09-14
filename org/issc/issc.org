@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1638094-LROR
+Domain Name:ISSC.ORG
+Created On:15-Jan-1998 05:00:00 UTC
+Last Updated On:13-Jan-2009 15:58:18 UTC
+Expiration Date:14-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31249360-NSI
+Registrant Name:ISSC
+Registrant Organization:ISSC
+Registrant Street1:209-2 Dawson Road Columbia, SC
+Registrant Street2:
+Registrant Street3:
+Registrant City:Columbia
+Registrant State/Province:SC
+Registrant Postal Code:29223-6382
+Registrant Country:US
+Registrant Phone:+1.80378875
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kmoore2@ISSC.ORG
+Admin ID:31249362-NSI
+Admin Name:ISSC
+Admin Organization:ISSC
+Admin Street1:209-2 Dawson Road
+Admin Street2:Columbia, SC 29223
+Admin Street3:
+Admin City:Columbia
+Admin State/Province:SC
+Admin Postal Code:29223
+Admin Country:US
+Admin Phone:+1.80378875
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kmoore2@ISSC.ORG
+Tech ID:5364246-NSI
+Tech Name:Hostmaster
+Tech Organization:Hostmaster
+Tech Street1:9NETAVE
+Tech Street2:
+Tech Street3:
+Tech City:Secaucus
+Tech State/Province:NJ
+Tech Postal Code:07094
+Tech Country:US
+Tech Phone:+1.0000000000
+Tech Phone Ext.:
+Tech FAX:+1.0000000000
+Tech FAX Ext.:
+Tech Email:glovescout@aol.com
+Name Server:NS2.INTERMEDIA.NET
+Name Server:NS3.INTERMEDIA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

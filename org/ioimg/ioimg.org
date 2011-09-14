@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160201204-LROR
+Domain Name:IOIMG.ORG
+Created On:21-Sep-2010 09:57:58 UTC
+Last Updated On:21-Nov-2010 03:49:08 UTC
+Expiration Date:21-Sep-2020 09:57:58 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_12596219
+Registrant Name:Dobroslav Dimitrov
+Registrant Organization:Dobroslav Dimitrov
+Registrant Street1:Zapaden Park
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sofiya
+Registrant State/Province:Sofija
+Registrant Postal Code:1373
+Registrant Country:BG
+Registrant Phone:+359.888243636
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:DDdobi@hotmail.com
+Admin ID:DI_12596219
+Admin Name:Dobroslav Dimitrov
+Admin Organization:Dobroslav Dimitrov
+Admin Street1:Zapaden Park
+Admin Street2:
+Admin Street3:
+Admin City:Sofiya
+Admin State/Province:Sofija
+Admin Postal Code:1373
+Admin Country:BG
+Admin Phone:+359.888243636
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:DDdobi@hotmail.com
+Tech ID:DI_12596219
+Tech Name:Dobroslav Dimitrov
+Tech Organization:Dobroslav Dimitrov
+Tech Street1:Zapaden Park
+Tech Street2:
+Tech Street3:
+Tech City:Sofiya
+Tech State/Province:Sofija
+Tech Postal Code:1373
+Tech Country:BG
+Tech Phone:+359.888243636
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DDdobi@hotmail.com
+Name Server:REDIRNS1.BGDNS.NET
+Name Server:REDIRNS2.BGDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

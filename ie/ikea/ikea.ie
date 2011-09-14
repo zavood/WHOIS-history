@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ikea.ie
+descr:       Inter IKEA Systems B.V
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Registered Trade Mark Name
+admin-c:     AAI180-IEDR
+tech-c:      ALU821-IEDR
+renewal:     22-May-2012
+status:      Active
+nserver:     A4.NSTLD.COM
+nserver:     F4.NSTLD.COM
+nserver:     G4.NSTLD.COM
+source:      IEDR
+
+person:      Martin Ekelund
+nic-hdl:     AAI180-IEDR
+source:      IEDR
+
+person:      Melbourne IT Tech
+nic-hdl:     ALU821-IEDR
+source:      IEDR
+

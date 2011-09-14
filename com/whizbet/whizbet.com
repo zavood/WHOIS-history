@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URLAUB-MIT-KIND.NET
-   Registrar: HTTP.NET INTERNET GMBH
-   Whois Server: whois.http.net
-   Referral URL: http://http.net
-   Name Server: NS1.SPEICHERZENTRUM.DE
-   Name Server: NS2.SPEICHERZENTRUM.DE
-   Name Server: NS3.SPEICHERZENTRUM.DE
-   Status: ok
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Domain Name: WHIZBET.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: DNS114.A.REGISTER.COM
+   Name Server: DNS177.B.REGISTER.COM
+   Name Server: DNS233.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
+   Status: clientTransferProhibited
+   Updated Date: 28-apr-2011
+   Creation Date: 13-may-2004
+   Expiration Date: 13-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:37 UTC &lt;&lt;&lt;
 
@@ -52,61 +53,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the http.net WHOIS database is provided by
-http.net Internet GmbH for informational purposes only, to assist you in
-obtaining information. About or related to a domain name registration
-record. http.net provides this information &quot;as is&quot;, and
-does not guarantee its accuracy. By submitting a WHOIS query, you
-agree that you will only use this data for lawful purposes. That,
-under no circumstances will you use this data to:
 
-1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
-commercial advertising or solicitations via electronic mail, also known as (SPAM).
-2. enable high volume,
-automated, electronic processes that apply to BulkRegister (or its systems).
-
-The compilation, repackaging, dissemination or any other use of this data
-is expressly prohibited without the prior written agreement of http.net.
-http.net  reserves the right to terminate your access to the http.net WHOIS
-database in its sole discretion. Including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-http.net reserves the right to modify these terms at any time.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
-Entry found for &quot;urlaub-mit-kind.net&quot;.
 
-domain:        urlaub-mit-kind.net
+   Registrant:
+      Domain Discreet
+      ATTN: whizbet.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 476f81670a1612332726965a34c6adff@domaindiscreet.com
 
-[Registrant]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
 
-[Administrative contact]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
-+491714838386
-webjunkie79@arcor.de
 
-[Technical contact]
-Weipprecht, Alexander
-Kleinsachsenheimer Strasse 6/6
-74321 Bietigheim-Bissingen
-DE
-+497142788855
-+497142788861 (fax)
-info@speicherzentrum.de
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-Registrar of Record:  http.net Internet GmbH
-Record last updated:  2011-06-27
-Record expires on:    2012-06-26
-Record created on:    2010-06-26
+   Domain Name: whizbet.com
+      Created on..............: 2004-05-13
+      Expires on..............: 2012-05-13
 
-nameserver: ns1.speicherzentrum.de
-nameserver: ns2.speicherzentrum.de
-nameserver: ns3.speicherzentrum.de
+   Administrative Contact:
+      Domain Discreet
+      ATTN: whizbet.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 476f815e0a1612330cb8001700828006@domaindiscreet.com
+
+
+   Technical  Contact:
+      Domain Discreet
+      ATTN: whizbet.com
+      Rua Dr. Brito Camara, n 20, 1
+      Funchal, Madeira 9000-039
+      PT
+      Phone: 1-902-7495331
+      Email: 476f81670a161233565902cadab709d0@domaindiscreet.com
+
+
+   DNS Servers:
+      dns114.a.register.com
+      dns233.c.register.com
+      dns177.b.register.com
+      dns249.d.register.com
+
+
+

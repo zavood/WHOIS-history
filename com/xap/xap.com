@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRIDSERVER.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MEDIATEMPLE.NET
-   Name Server: NS2.MEDIATEMPLE.NET
-   Name Server: NS3.MEDIATEMPLE.NET
-   Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Domain Name: XAP.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.XAP.COM
+   Name Server: NS2.XAP.COM
+   Status: clientTransferProhibited
+   Updated Date: 13-nov-2010
+   Creation Date: 13-jan-1994
+   Expiration Date: 12-jan-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:23 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: xap.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 16:17:42 EDT 2011
+Reason Code: IE

@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:27:58 2011
+
+domain:       ju.cz
+registrant:   SB:JCZ
+admin-c:      JCA
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   21.11.2000 05:51:00
+changed:      17.10.2008 10:10:08
+expire:       22.11.2012
+
+contact:      SB:JCZ
+name:         Jindrich CERVENAK
+address:      Zerotinova 1509
+address:      Horice v P.
+address:      508 01
+address:      CZ
+e-mail:       j.cervenak@sh.cvut.cz
+registrar:    REG-INTERNET-CZ
+created:      04.11.2002 16:06:00
+
+contact:      JCA
+name:         Jindrich CERVENAK
+address:      Kaprova, POBOX 10
+address:      Praha1
+address:      11001
+address:      CZ
+phone:        +420.774120001
+e-mail:       jindrich@cervenak.cz
+registrar:    REG-INTERNET-CZ
+created:      04.11.2002 14:16:00
+changed:      14.02.2006 14:15:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

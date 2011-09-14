@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URLAUB-MIT-KIND.NET
-   Registrar: HTTP.NET INTERNET GMBH
-   Whois Server: whois.http.net
-   Referral URL: http://http.net
-   Name Server: NS1.SPEICHERZENTRUM.DE
-   Name Server: NS2.SPEICHERZENTRUM.DE
-   Name Server: NS3.SPEICHERZENTRUM.DE
-   Status: ok
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Domain Name: KAISERFLOORS.COM
+   Registrar: CATALOG.COM, INC.
+   Whois Server: whois.catalog.com
+   Referral URL: http://www.catalog.com
+   Name Server: NS6.LONETREE.COM
+   Name Server: NS7.LONETREE.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-mar-2011
+   Creation Date: 23-mar-2007
+   Expiration Date: 23-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:37 UTC &lt;&lt;&lt;
 
@@ -52,61 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the http.net WHOIS database is provided by
-http.net Internet GmbH for informational purposes only, to assist you in
-obtaining information. About or related to a domain name registration
-record. http.net provides this information &quot;as is&quot;, and
-does not guarantee its accuracy. By submitting a WHOIS query, you
-agree that you will only use this data for lawful purposes. That,
-under no circumstances will you use this data to:
+Domain: kaiserfloors.com
 
-1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
-commercial advertising or solicitations via electronic mail, also known as (SPAM).
-2. enable high volume,
-automated, electronic processes that apply to BulkRegister (or its systems).
+The data in Catalog.com's WHOIS database is provided by Catalog.com
+for informational purposes only.  Catalog.com does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use
+this Data only for lawful purposes and that, under no circumstances
+will you use this data to:  (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or
+solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to Catalog.com (or its systems).
+Catalog.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-The compilation, repackaging, dissemination or any other use of this data
-is expressly prohibited without the prior written agreement of http.net.
-http.net  reserves the right to terminate your access to the http.net WHOIS
-database in its sole discretion. Including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
 
-http.net reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain: kaiserfloors.com
 
-Entry found for &quot;urlaub-mit-kind.net&quot;.
+Status:ACTIVE
 
-domain:        urlaub-mit-kind.net
 
-[Registrant]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
+Registrant
+Gregg Sawyer (CTLGDN-478891)
+PO Box 2187
+Cheyenne, WY  82003
+US
 
-[Administrative contact]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
-+491714838386
-webjunkie79@arcor.de
+Admin Contact:
+     Kevin Kaiser (478893)
+     PO Box 2187
+     Cheyenne,WY,US  82003
+   email:kaisercomm@bresnan.net
+   ph:307-214-3580
 
-[Technical contact]
-Weipprecht, Alexander
-Kleinsachsenheimer Strasse 6/6
-74321 Bietigheim-Bissingen
-DE
-+497142788855
-+497142788861 (fax)
-info@speicherzentrum.de
+Tech Contact:
+     Kevin Kaiser (478892)
+     PO Box 2187
+     Cheyenne,WY,US  82003
+   email:kaisercomm@bresnan.net
+   ph:307-214-3580
 
-Registrar of Record:  http.net Internet GmbH
-Record last updated:  2011-06-27
-Record expires on:    2012-06-26
-Record created on:    2010-06-26
+Created on 23-mar-2007
+Updated on 03-feb-2011
+Expires on
 
-nameserver: ns1.speicherzentrum.de
-nameserver: ns2.speicherzentrum.de
-nameserver: ns3.speicherzentrum.de
+Domain servers in listed order:
+  ns6.lonetree.com        207.141.55.44
+  ns7.lonetree.com        207.141.55.11
+
+
+Catalog.com Providing Domains, Webhosting, Advertising, Search,
+And The Best in Discount Online Shopping
+You Can Earn Money With Catalog.com's Net Search Today
+http://www.catalog.com/
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GRIDSERVER.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.MEDIATEMPLE.NET
-   Name Server: NS2.MEDIATEMPLE.NET
-   Name Server: NS3.MEDIATEMPLE.NET
-   Status: ok
-   Updated Date: 01-jul-2011
-   Creation Date: 16-dec-2003
-   Expiration Date: 16-dec-2011
+   Domain Name: XMLSTATREPORTS.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: DNS1.XMLSTATREPORTS.COM
+   Name Server: DNS2.XMLSTATREPORTS.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-sep-2011
+   Creation Date: 09-aug-2011
+   Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
+
+Domain name:             XMLSTATREPORTS.COM
+Name Server:             dns1.xmlstatreports.com 64.120.214.18
+Name Server:             dns2.xmlstatreports.com 64.120.214.18
+Creation Date:           2011.08.09
+Updated Date:            2011.09.02
+Expiration Date:         2012.08.09
+
+Status:                  DELEGATED
+
+Registrant ID:           L7VXDY3-RU
+Registrant Name:         Olegovich Alexander
+Registrant Organization: Olegovich Alexander
+Registrant Street1:      Knyazheskaya 15
+Registrant City:         Moscow
+Registrant Postal Code:  119332
+Registrant Country:      RU
+
+Administrative, Technical Contact
+Contact ID:              L7VXDY3-RU
+Contact Name:            Olegovich Alexander
+Contact Organization:    Olegovich Alexander
+Contact Street1:         Knyazheskaya 15
+Contact City:            Moscow
+Contact Postal Code:     119332
+Contact Country:         RU
+Contact Phone:           +7 495 1234567
+Contact E-mail:          frolov1985@hotmail.com
+
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+
+Last updated on 2011.09.15 00:28:16 MSK/MSD
+

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: URLAUB-MIT-KIND.NET
-   Registrar: HTTP.NET INTERNET GMBH
-   Whois Server: whois.http.net
-   Referral URL: http://http.net
-   Name Server: NS1.SPEICHERZENTRUM.DE
-   Name Server: NS2.SPEICHERZENTRUM.DE
-   Name Server: NS3.SPEICHERZENTRUM.DE
+   Domain Name: KAYAKEXPLORADOR.COM
+   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
+   Whois Server: whois.dattatec.com
+   Referral URL: http://www.dattatec.com
+   Name Server: NS21.DATTATEC.COM
+   Name Server: NS22.DATTATEC.COM
    Status: ok
-   Updated Date: 27-jun-2011
-   Creation Date: 26-jun-2010
-   Expiration Date: 26-jun-2012
+   Updated Date: 25-apr-2011
+   Creation Date: 03-may-2007
+   Expiration Date: 03-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:27:37 UTC &lt;&lt;&lt;
 
@@ -52,61 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the http.net WHOIS database is provided by
-http.net Internet GmbH for informational purposes only, to assist you in
-obtaining information. About or related to a domain name registration
-record. http.net provides this information &quot;as is&quot;, and
-does not guarantee its accuracy. By submitting a WHOIS query, you
-agree that you will only use this data for lawful purposes. That,
-under no circumstances will you use this data to:
 
-1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
-commercial advertising or solicitations via electronic mail, also known as (SPAM).
-2. enable high volume,
-automated, electronic processes that apply to BulkRegister (or its systems).
+Datttatec.com - Registration Service Provided By: Dattatec.com
+Contact: +54 341 599000
+Email: dominios@dattatec.com
+Website: http://www.dattatec.com
 
-The compilation, repackaging, dissemination or any other use of this data
-is expressly prohibited without the prior written agreement of http.net.
-http.net  reserves the right to terminate your access to the http.net WHOIS
-database in its sole discretion. Including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
+Domain name: kayakexplorador.com
+Creation Date: 2011-04-24
+Expiration Date: 2012-05-03
 
-http.net reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Status(es):
+    OK
 
-Entry found for &quot;urlaub-mit-kind.net&quot;.
+Domain Name servers(es):
+   ns21.dattatec.com
+   ns22.dattatec.com
 
-domain:        urlaub-mit-kind.net
+Registrant conatct:
+   Name:    Jose Gabriel Suarez
+   Company: Jose Gabriel Suarez
+   Email:   jgsuarez@ciudad.com.ar
+   Address: Amenabar 1666
+            AR - Rosario ( zip: 2000 )
+   Phone  : 54 - 817043
 
-[Registrant]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
+Admin conatct:
+   Name:    Jose Gabriel Suarez
+   Company: Jose Gabriel Suarez
+   Email:   jgsuarez@ciudad.com.ar
+   Address: Amenabar 1666
+            AR - Rosario ( zip: 2000 )
+   Phone  : 54 - 817043
 
-[Administrative contact]
-Kultermann, Ivo
-Enge Strasse 13
-70794 Filderstadt
-DE
-+491714838386
-webjunkie79@arcor.de
+Billing conatct:
+   Name:    Jose Gabriel Suarez
+   Company: Jose Gabriel Suarez
+   Email:   jgsuarez@ciudad.com.ar
+   Address: Amenabar 1666
+            AR - Rosario ( zip: 2000 )
+   Phone  : 54 - 817043
 
-[Technical contact]
-Weipprecht, Alexander
-Kleinsachsenheimer Strasse 6/6
-74321 Bietigheim-Bissingen
-DE
-+497142788855
-+497142788861 (fax)
-info@speicherzentrum.de
+Tech conatct:
+   Name:    Jose Gabriel Suarez
+   Company: Jose Gabriel Suarez
+   Email:   jgsuarez@ciudad.com.ar
+   Address: Amenabar 1666
+            AR - Rosario ( zip: 2000 )
+   Phone  : 54 - 817043
 
-Registrar of Record:  http.net Internet GmbH
-Record last updated:  2011-06-27
-Record expires on:    2012-06-26
-Record created on:    2010-06-26
+All data in this whois database is provided by dattatec.com for
+information purposes only, and to assist persons in obtaining
+information about or related to a domain name registration record.
+By querying this server, you agree that you :
+ (1)-may use this data only for lawful purposes;
+ (2)-will not re-use data for any kind of support for the transmission
+     of unsolicited advertising via e-mail, telephone, or facsimile;
+ (3)-will not reproduce and/or store any part of the data without prior
+     permission of the copyright holders;
+ (4)-are aware of and agree to the fact that all access to the server is
+     under constant monitoring and will be logged for the purpose of
+     prosecution in case of missuse!
 
-nameserver: ns1.speicherzentrum.de
-nameserver: ns2.speicherzentrum.de
-nameserver: ns3.speicherzentrum.de
+ Dattatec.com reserves the right to modify these terms at any time.
+
