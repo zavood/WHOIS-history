@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156062229-LROR
+Domain Name:AACNWIKI.ORG
+Created On:05-May-2009 15:39:56 UTC
+Last Updated On:05-Jul-2009 03:53:51 UTC
+Expiration Date:05-May-2012 15:39:56 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuGVOjqTRPDRYiZp
+Registrant Name:Robert Davis
+Registrant Organization:Robert Davis
+Registrant Street1:7655 S. Braeswood #46
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77071
+Registrant Country:US
+Registrant Phone:+1.7134295821
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:newdomains@siteground.com
+Admin ID:tukkcKk56eApdedH
+Admin Name:Robert Davis
+Admin Organization:Robert Davis
+Admin Street1:7655 S. Braeswood #46
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:TX
+Admin Postal Code:77071
+Admin Country:US
+Admin Phone:+1.7134295821
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:newdomains@siteground.com
+Tech ID:tuieMlMn35Mgu9zU
+Tech Name:Robert Davis
+Tech Organization:Robert Davis
+Tech Street1:7655 S. Braeswood #46
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:TX
+Tech Postal Code:77071
+Tech Country:US
+Tech Phone:+1.7134295821
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:newdomains@siteground.com
+Name Server:NS1.SITEGROUND233.COM
+Name Server:NS2.SITEGROUND233.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOMAINSERVICE.COM
+   Domain Name: CREMZADS.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.FASTPARK.NET
-   Name Server: NS2.FASTPARK.NET
+   Name Server: NS1.ZKONSULT.COM
+   Name Server: NS2.ZKONSULT.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-apr-2011
-   Creation Date: 22-oct-1996
-   Expiration Date: 21-oct-2011
+   Updated Date: 11-aug-2011
+   Creation Date: 14-apr-2011
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:42:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:41:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,61 +79,56 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: DOMAINSERVICE.COM
+Domain Name: CREMZADS.COM
 Registrar: MONIKER
 
-Registrant [357970]:
-        Monte Cahn Legal@cahn.net
-        domain may be for sale
-        2051SE 18th St.
-        Lauderdale By The Sea
-        FL
-        33062
-        US
+Registrant [2446575]:
+        Emanuel Comsa cremzinc@gmail.com
+        Livezilor 17B
+        Deva
+        Hunedoara
+        330154
+        RO
 
 
-Administrative Contact [357970]:
-        Monte Cahn Legal@cahn.net
-        domain may be for sale
-        2051SE 18th St.
-        Lauderdale By The Sea
-        FL
-        33062
-        US
-        Phone: +1.9542886810
+Administrative Contact [2446575]:
+        Emanuel Comsa cremzinc@gmail.com
+        Livezilor 17B
+        Deva
+        Hunedoara
+        330154
+        RO
+        Phone: +40.723608739
 
 
-Billing Contact [2532]:
-        Monte Cahn Legal@cahn.net
-        Cahn.net
-        2051SE 18th St.
-        Names May Be For Sale
-        Lauderdale By The Sea
-        FL
-        33062
-        US
-        Phone: +1.9542886810
+Billing Contact [2446575]:
+        Emanuel Comsa cremzinc@gmail.com
+        Livezilor 17B
+        Deva
+        Hunedoara
+        330154
+        RO
+        Phone: +40.723608739
 
 
-Technical Contact [357970]:
-        Monte Cahn Legal@cahn.net
-        domain may be for sale
-        2051SE 18th St.
-        Lauderdale By The Sea
-        FL
-        33062
-        US
-        Phone: +1.9542886810
+Technical Contact [2446575]:
+        Emanuel Comsa cremzinc@gmail.com
+        Livezilor 17B
+        Deva
+        Hunedoara
+        330154
+        RO
+        Phone: +40.723608739
 
 
 Domain servers in listed order:
 
-        NS1.FASTPARK.NET
-        NS2.FASTPARK.NET
+        NS1.ZKONSULT.COM
+        NS2.ZKONSULT.COM
 
-        Record created on:        1996-10-22 00:00:00.0
-        Database last updated on: 2011-04-18 08:29:27.023
-        Domain Expires on:        2011-10-21 00:00:00.0
+        Record created on:        2011-04-14 10:44:57.0
+        Database last updated on: 2011-08-11 03:47:12.537
+        Domain Expires on:        2012-04-14 10:44:58.0
 
 
 
