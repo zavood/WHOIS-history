@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EASTWESTMATCH-10.COM
+   Domain Name: EASTBAYEXPRESS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
+   Name Server: NS13.DOMAINCONTROL.COM
+   Name Server: NS14.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 09-sep-2006
-   Expiration Date: 09-sep-2012
+   Updated Date: 31-may-2009
+   Creation Date: 17-sep-1997
+   Expiration Date: 16-sep-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:26:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:25:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   East Bay Express
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EASTWESTMATCH-10.COM
+   Domain Name: EASTBAYEXPRESS.COM
 
    Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+      NS13.DOMAINCONTROL.COM
+      NS14.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EASTWESTMATCH-10.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EASTBAYEXPRESS.COM

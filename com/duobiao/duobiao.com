@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EASTWESTMATCH-10.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DUOBIAO.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 09-sep-2006
-   Expiration Date: 09-sep-2012
+   Updated Date: 20-jun-2011
+   Creation Date: 08-aug-1999
+   Expiration Date: 08-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:26:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:25:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EASTWESTMATCH-10.COM
-
-   Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+	 anshanduobiaohuagongjidiangufenyouxiangongsi
+	 Zhonghuan Chemical Engineering, Mechanical and Electrical
+	 Liao Ningshenganshanshi
+	 anshanshi,liaoningsheng,china 114001
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EASTWESTMATCH-10.COM
+Domain Name:duobiao.com
+Record last updated at 2011-06-20 21:26:42
+Record created on 1999/8/9
+Record expired on 2012/8/9
+
+
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
+
+Administrator:
+	 Zhonghuan Chemical E assdwl@163.com 86-0412-8671962
+	 Zhonghuan Chemical
+	 Liao Ningshenganshanshi
+	 anshanshi,liaoningsheng,china 114001
+
+Technical Contactor:
+	 Zhonghuan Chemical E assdwl@163.com 86-0412-8671962
+	 Zhonghuan Chemical
+	 Liao Ningshenganshanshi
+	 anshanshi,liaoningsheng,china 114001
+
+Billing Contactor:
+	 Zhonghuan Chemical E assdwl@163.com 86-0412-8671962
+	 Zhonghuan Chemical
+	 Liao Ningshenganshanshi
+	 anshanshi,liaoningsheng,china 114001
+

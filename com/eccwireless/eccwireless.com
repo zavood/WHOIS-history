@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS3.ECCWIRELESS.COM
    Name Server: NS4.ECCWIRELESS.COM
    Status: clientTransferProhibited
-   Updated Date: 13-sep-2010
+   Updated Date: 14-sep-2011
    Creation Date: 13-sep-2004
-   Expiration Date: 13-sep-2011
+   Expiration Date: 13-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 05:27:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

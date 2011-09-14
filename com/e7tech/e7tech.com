@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EASTWESTMATCH-10.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
+   Domain Name: E7TECH.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS1.NETDNS.NET
+   Name Server: NS2.NETDNS.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2011
-   Creation Date: 09-sep-2006
-   Expiration Date: 09-sep-2012
+   Updated Date: 28-jul-2011
+   Creation Date: 05-jan-2004
+   Expiration Date: 05-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:26:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:24:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EASTWESTMATCH-10.COM
-
-   Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EASTWESTMATCH-10.COM
+Domain: e7tech.com
+Status: Protected
+
+DNS:
+	NS1.NETDNS.NET
+	NS2.NETDNS.NET
+
+Created: 2004-01-05 00:00:00
+Expires: 2013-01-05 10:09:26
+Last Modified: 2011-07-29 11:24:07
+
+Registrant Contact:
+	E7 Technologies Pte Ltd
+	Joseph Leung (infoe7@e7tech.com)
+	20 Sin Ming Lane #06-55 Midview City
+	Singapore, Singapore, sg 573968
+	P: +65.67785620 F: +0.0
+
+Administrative Contact:
+	E7 Technologies Pte Ltd
+	Joseph Leung (infoe7@e7tech.com)
+	20 Sin Ming Lane #06-55 Midview City
+	Singapore, Singapore, sg 573968
+	P: +65.67785620 F: +0.0
+
+Technical Contact:
+	SIGNETIQUE IT PTE LTD
+	Host Master (hostmaster@signetique.com)
+	8 Boon Lay Way #05-16 Tradehub 21
+	Singapore, Singapore, sg 609964
+	P: +65.62251468 F: +65.62251467
+
+Billing Contact:
+	E7 Technologies Pte Ltd
+	Joseph Leung (infoe7@e7tech.com)
+	20 Sin Ming Lane #06-55 Midview City
+	Singapore, Singapore, sg 573968
+	P: +65.67785620 F: +0.0
+

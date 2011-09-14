@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      dynamicphysiotherapy.ie
+descr:       Niall Barry
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     AKE939-IEDR
+tech-c:      HIA1-IEDR
+renewal:     11-December-2011
+status:      Active
+nserver:     ns1.webhostingpad.com
+nserver:     ns2.webhostingpad.com
+source:      IEDR
+
+person:      Niall Barry
+nic-hdl:     AKE939-IEDR
+source:      IEDR
+
+person:      Hostireland
+nic-hdl:     HIA1-IEDR
+source:      IEDR
+
