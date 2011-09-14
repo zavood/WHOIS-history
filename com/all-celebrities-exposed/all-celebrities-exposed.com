@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMHSL.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS3.DNS-DIY.COM
-   Name Server: NS4.DNS-DIY.COM
+   Domain Name: ALL-CELEBRITIES-EXPOSED.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.AH-DNS.COM
+   Name Server: NS2.AH-DNS.COM
    Status: clientDeleteProhibited
-   Status: clientHold
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2011
-   Creation Date: 30-apr-2004
-   Expiration Date: 30-apr-2014
+   Status: clientUpdateProhibited
+   Updated Date: 15-aug-2010
+   Creation Date: 27-sep-2006
+   Expiration Date: 27-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:47:09 UTC &lt;&lt;&lt;
 
@@ -53,59 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
 Registrant:
-	 Xiamen Hengshunli Trading Co., Ltd. wwwshmh@public.xm.fj.cn +86.5925199882
-	 Xiamen Hengshunli Trading Co., Ltd.
-	 302,No.611 Lian Qian West Rd. Xiamen
-	 Xiamen,Fujian,CN 361009
+   Domains by Proxy, Inc.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: ALL-CELEBRITIES-EXPOSED.COM
+
+   Domain servers in listed order:
+      NS1.AH-DNS.COM
+      NS2.AH-DNS.COM
 
 
-Domain Name:xmhsl.com
-Record last updated at 2006-06-01 06:34:23
-Record created on 2004/4/30
-Record expired on 2014/4/30
-
-
-Domain servers in listed order:
-	 ns3.dns-diy.com 	 ns4.dns-diy.com
-
-Administrator:
-	 Name-- Xiamen Hengshunli Trading Co., Ltd.
- EMail-: (wwwshmh@public.xm.fj.cn)
- tel --: +86.5925199882
-	 org: Xiamen Hengshunli Trading Co., Ltd.
-	 302,No.611 Lian Qian West Rd. Xiamen
-	 Xiamen,Fujian,CN 361009
-
-Technical Contactor:
-	 Name-- Xiamen Hengshunli Trading Co., Ltd.
- EMail-: (wwwshmh@public.xm.fj.cn)
- tel --: +86.5925199882
-	 org: Xiamen Hengshunli Trading Co., Ltd.
-	 302,No.611 Lian Qian West Rd. Xiamen
-	 Xiamen,Fujian,CN 361009
-
-Billing Contactor:
-	 Name-- Xiamen Hengshunli Trading Co., Ltd.
- EMail-: (wwwshmh@public.xm.fj.cn)
- tel --: +86.5925199882
-	 org: Xiamen Hengshunli Trading Co., Ltd.
-	 302,No.611 Lian Qian West Rd. Xiamen
-	 Xiamen,Fujian,CN 361009
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ALL-CELEBRITIES-EXPOSED.COM

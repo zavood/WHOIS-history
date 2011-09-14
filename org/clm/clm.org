@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D898768-LROR
+Domain Name:CLM.ORG
+Created On:09-Aug-1993 04:00:00 UTC
+Last Updated On:05-May-2008 18:26:29 UTC
+Expiration Date:08-Aug-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22420826-NSI
+Registrant Name:Faculty Commons
+Registrant Organization:Faculty Commons
+Registrant Street1:2001 W Plano Parkway Suite 2700
+Registrant Street2:
+Registrant Street3:
+Registrant City:Plano
+Registrant State/Province:TX
+Registrant Postal Code:75075
+Registrant Country:US
+Registrant Phone:+1.9725160516
+Registrant Phone Ext.:
+Registrant FAX:+1.9725160515
+Registrant FAX Ext.:
+Registrant Email:bbarlowe@CLM.ORG
+Admin ID:22420827-NSI
+Admin Name:Paul Hartgrove
+Admin Organization:Faculty Commons
+Admin Street1:2001 W. Plano Parkway #2700
+Admin Street2:
+Admin Street3:
+Admin City:Plano
+Admin State/Province:TX
+Admin Postal Code:75075-8632
+Admin Country:US
+Admin Phone:+1.9725160516
+Admin Phone Ext.:
+Admin FAX:+1.9725160515
+Admin FAX Ext.:
+Admin Email:paul.hartgrove@facultycommons.org
+Tech ID:22420827-NSI
+Tech Name:Paul Hartgrove
+Tech Organization:Faculty Commons
+Tech Street1:2001 W. Plano Parkway #2700
+Tech Street2:
+Tech Street3:
+Tech City:Plano
+Tech State/Province:TX
+Tech Postal Code:75075-8632
+Tech Country:US
+Tech Phone:+1.9725160516
+Tech Phone Ext.:
+Tech FAX:+1.9725160515
+Tech FAX Ext.:
+Tech Email:paul.hartgrove@facultycommons.org
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
