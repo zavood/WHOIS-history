@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CAFEADVICE.COM
+   Domain Name: KEVINKATO.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
-   Status: ok
-   Updated Date: 09-aug-2011
-   Creation Date: 28-sep-2006
-   Expiration Date: 28-sep-2011
+   Name Server: NS5.IXWEBHOSTING.COM
+   Name Server: NS6.IXWEBHOSTING.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 01-dec-2010
+   Creation Date: 04-dec-2006
+   Expiration Date: 04-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:24:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

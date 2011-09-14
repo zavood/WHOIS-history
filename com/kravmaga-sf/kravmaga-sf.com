@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CAFEADVICE.COM
+   Domain Name: KRAVMAGA-SF.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
+   Name Server: NS.LAMPHOST.NET
+   Name Server: NS2.LAMPHOST.NET
    Status: ok
-   Updated Date: 09-aug-2011
-   Creation Date: 28-sep-2006
-   Expiration Date: 28-sep-2011
+   Updated Date: 22-dec-2009
+   Creation Date: 20-dec-1999
+   Expiration Date: 20-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:41 UTC &lt;&lt;&lt;
 

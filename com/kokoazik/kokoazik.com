@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CAFEADVICE.COM
+   Domain Name: KOKOAZIK.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
-   Status: ok
-   Updated Date: 09-aug-2011
-   Creation Date: 28-sep-2006
-   Expiration Date: 28-sep-2011
+   Name Server: NS.PHPNET.ORG
+   Name Server: NS2.PHPNET.ORG
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-mar-2011
+   Creation Date: 17-mar-2009
+   Expiration Date: 17-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:41 UTC &lt;&lt;&lt;
 

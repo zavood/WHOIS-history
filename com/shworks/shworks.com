@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CAFEADVICE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SPEEDYDNS.NET
-   Name Server: NS2.SPEEDYDNS.NET
+   Domain Name: SHWORKS.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS12.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS47.DNSEVER.COM
+   Name Server: NS59.DNSEVER.COM
    Status: ok
-   Updated Date: 09-aug-2011
-   Creation Date: 28-sep-2006
-   Expiration Date: 28-sep-2011
+   Updated Date: 21-sep-2010
+   Creation Date: 17-oct-2008
+   Expiration Date: 17-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:24:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +54,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+domain
+	shworks.com
+Registrar	              :Dotname Korea Corp.
+
+Registrant Contact Information
+	company       :shworks
+	name          :ab c
+	e-mail        :help@shworks.com
+	address1      :where is my home?
+	address2      :please...
+	city          :Gyeonggi-do
+	zipcode       :135705
+	country       :kr
+	phone         :+82.
+	fax           :
+
+Admin Contact Information
+	name          :ab c
+	e-mail        :help@shworks.com
+	address1      :where is my home?
+	address2      :please find me
+	city          :Gyeonggi-do
+	zipcode       :135705
+	country       :kr
+	phone         :+82.
+	fax           :
+
+Tech Contact Information
+	name          :ab c
+	e-mail        :help@shworks.com
+	address1      :where is my home?
+	address2      :please find me
+	city          :Gyeonggi-do
+	zipcode       :690732
+	country       :
+	phone         :+82.
+	fax           :
+
+Name Server Information
+	ns12.dnsever.com
+	ns47.dnsever.com
+	ns59.dnsever.com
+	ns231.dnsever.com
+	ns259.dnsever.com
+	&lt;BR&gt;Created on 2008-10-17&lt;BR&gt;Updated on 2010-09-21&lt;BR&gt;Expires on 2014-10-17&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;BR&gt;

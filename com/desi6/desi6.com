@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIDNEYCLEANSEBLOG.COM
+   Domain Name: DESI6.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS765.WEBSITEWELCOME.COM
-   Name Server: NS766.WEBSITEWELCOME.COM
+   Name Server: DNS1.REGISTRAR-SERVERS.COM
+   Name Server: DNS2.REGISTRAR-SERVERS.COM
+   Name Server: DNS3.REGISTRAR-SERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-oct-2010
-   Creation Date: 07-oct-2009
-   Expiration Date: 07-oct-2011
+   Updated Date: 08-apr-2011
+   Creation Date: 14-apr-2006
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:24:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about kidneycleanseblog.com
-&lt;a href=&quot;http://www.aboutus.org/kidneycleanseblog.com&quot;&gt;AboutUs: kidneycleanseblog.com&lt;/a&gt;
+Visit AboutUs.org for more information about desi6.com
+&lt;a href=&quot;http://www.aboutus.org/desi6.com&quot;&gt;AboutUs: desi6.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: kidneycleanseblog.com
+Domain name: desi6.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   NA
+   NA itstrator ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   Bridgroad 66
+   Oxford, P 232342
+   PK
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (fc6568b243e14893b5d2e3e97aeca6cc.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   NA
+    Hamza (itstrator@gmail.com)
+   +1.0045606592
+   Fax:
+   Bridgroad 66
+   Oxford, P 232342
+   PK
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (fc6568b243e14893b5d2e3e97aeca6cc.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
-   US
+   NA
+   Ali Hamza (itstrator@gmail.com)
+   +1.0045606592
+   Fax:
+   Bridgroad 66
+   Oxford, P 232342
+   PK
 
 Status: Locked
 
 Name Servers:
-   ns765.websitewelcome.com
-   ns766.websitewelcome.com
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
 
-Creation date: 07 Oct 2009 11:41:59
-Expiration date: 07 Oct 2011 11:41:00
+Creation date: 14 Apr 2006 18:21:00
+Expiration date: 14 Apr 2012 18:21:00
 
 
 

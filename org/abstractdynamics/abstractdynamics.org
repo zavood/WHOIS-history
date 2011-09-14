@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94744574-LROR
+Domain Name:ABSTRACTDYNAMICS.ORG
+Created On:06-Mar-2003 22:33:25 UTC
+Last Updated On:03-Mar-2008 04:10:08 UTC
+Expiration Date:06-Mar-2015 22:33:25 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuJPPRhSRg62gGpt
+Registrant Name:Abe Burmeister
+Registrant Organization:abstract retail
+Registrant Street1:134 Bayard St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Brooklyn
+Registrant State/Province:NY
+Registrant Postal Code:11222
+Registrant Country:US
+Registrant Phone:+1.7183898843
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@abe1x.org
+Admin ID:tuJPPRhSRg62gGpt
+Admin Name:Abe Burmeister
+Admin Organization:abstract retail
+Admin Street1:134 Bayard St
+Admin Street2:
+Admin Street3:
+Admin City:Brooklyn
+Admin State/Province:NY
+Admin Postal Code:11222
+Admin Country:US
+Admin Phone:+1.7183898843
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@abe1x.org
+Tech ID:tuJPPRhSRg62gGpt
+Tech Name:Abe Burmeister
+Tech Organization:abstract retail
+Tech Street1:134 Bayard St
+Tech Street2:
+Tech Street3:
+Tech City:Brooklyn
+Tech State/Province:NY
+Tech Postal Code:11222
+Tech Country:US
+Tech Phone:+1.7183898843
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@abe1x.org
+Name Server:NS.NEWDREAM.NET
+Name Server:NS2.NEWDREAM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
