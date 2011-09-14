@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: SELECTYOUROFFER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HAWKHOST.COM
+   Name Server: NS2.HAWKHOST.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-mar-2011
+   Creation Date: 07-mar-2010
+   Expiration Date: 07-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
 
@@ -51,7 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about selectyouroffer.com
+&lt;a href=&quot;http://www.aboutus.org/selectyouroffer.com&quot;&gt;AboutUs: selectyouroffer.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: selectyouroffer.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (50387852f347415283787ed65492110f.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (50387852f347415283787ed65492110f.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.hawkhost.com
+   ns2.hawkhost.com
+
+Creation date: 07 Mar 2010 20:49:29
+Expiration date: 07 Mar 2012 20:49:29
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,7 +113,8 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-no match for 91mt.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

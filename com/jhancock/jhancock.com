@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNFDUSHAN.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
+   Domain Name: JHANCOCK.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-2011
-   Expiration Date: 31-mar-2012
+   Updated Date: 02-aug-2011
+   Creation Date: 12-sep-1995
+   Expiration Date: 11-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +56,44 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... dnfdushan.com
-  Creation Date........ 2011-04-01 10:28:09
-  Registration Date.... 2011-04-01 10:28:09
-  Expiry Date.......... 2012-04-01 10:28:09
-  Organisation Name.... KEN WIN
-  Organisation Address. SANYUAN929 Street
+Domain Name.......... jhancock.com
+  Creation Date........ 1995-09-12
+  Registration Date.... 2009-08-19
+  Expiry Date.......... 2012-09-12
+  Organisation Name.... Manulife Financial Inc
+  Organisation Address. 200 Bloor Street East
   Organisation Address.
-  Organisation Address. guangzhou
-  Organisation Address. 426000
-  Organisation Address. GD
-  Organisation Address. CN
+  Organisation Address. Toronto
+  Organisation Address. M4W1E5
+  Organisation Address. Ontario
+  Organisation Address. CANADA
 
-Admin Name........... li weijian
-  Admin Address........ SANYUAN929 Street
-  Admin Address........
-  Admin Address........ guangzhou
-  Admin Address........ 426000
-  Admin Address........ GD
-  Admin Address........ CN
-  Admin Email.......... 1455535148@qq.com
-  Admin Phone.......... +86.102225544
-  Admin Fax............ +86.102254468
+Admin Name........... Michael J Ball
+  Admin Address........ Manulife Financial Corporation
+  Admin Address........ 200 Bloor Street East
+  Admin Address........ Toronto
+  Admin Address........ M4W 1E5
+  Admin Address........ Ontario
+  Admin Address........ CANADA
+  Admin Email.......... dnsmaster@manulife.com
+  Admin Phone.......... +1.4168521175
+  Admin Fax............
 
-Tech Name............ wei dong
-  Tech Address......... tangxiazhen lianhudonglu 33hao
-  Tech Address.........
-  Tech Address......... Dongguan
-  Tech Address......... 523710
-  Tech Address......... GD
-  Tech Address......... CN
-  Tech Email........... 46696651@qq.com
-  Tech Phone........... +86.75527390892
-  Tech Fax............. +86.75527390892
+Tech Name............ Michael J Ball
+  Tech Address......... Manulife Financial Corporation
+  Tech Address......... 200 Bloor Street East
+  Tech Address......... Toronto
+  Tech Address......... M4W 1E5
+  Tech Address......... Ontario
+  Tech Address......... CANADA
+  Tech Email........... dnsmaster@manulife.com
+  Tech Phone........... +1.4168521175
+  Tech Fax.............
+  Name Server.......... pdns5.ultradns.info
+  Name Server.......... pdns2.ultradns.net
+  Name Server.......... pdns4.ultradns.org
+  Name Server.......... pdns1.ultradns.net
+  Name Server.......... pdns3.ultradns.org
+  Name Server.......... pdns6.ultradns.co.uk
 
-Bill Name............ wei dong
-  Bill Address......... tangxiazhen lianhudonglu 33hao
-  Bill Address.........
-  Bill Address......... Dongguan
-  Bill Address......... 523710
-  Bill Address......... GD
-  Bill Address......... CN
-  Bill Email........... 46696651@qq.com
-  Bill Phone........... +86.75527390892
-  Bill Fax............. +86.75527390892
-  Name Server.......... f1g1ns2.dnspod.net
-  Name Server.......... f1g1ns1.dnspod.net
+

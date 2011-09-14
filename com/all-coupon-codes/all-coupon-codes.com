@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: ALL-COUPON-CODES.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS2769.HOSTGATOR.COM
+   Name Server: NS2770.HOSTGATOR.COM
+   Status: clientTransferProhibited
+   Updated Date: 31-aug-2011
+   Creation Date: 28-mar-2008
+   Expiration Date: 28-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:17:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,7 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about all-coupon-codes.com
+&lt;a href=&quot;http://www.aboutus.org/all-coupon-codes.com&quot;&gt;AboutUs: all-coupon-codes.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: all-coupon-codes.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (cb21d390fc4d4f169e46bef46b89faf3.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (cb21d390fc4d4f169e46bef46b89faf3.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
+   US
+
+Status: Locked
+
+Name Servers:
+   ns2769.hostgator.com
+   ns2770.hostgator.com
+
+Creation date: 28 Mar 2008 17:06:00
+Expiration date: 28 Mar 2013 17:06:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,7 +113,8 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-no match for 91mt.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

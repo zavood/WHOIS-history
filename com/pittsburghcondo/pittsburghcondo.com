@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: PITTSBURGHCONDO.COM
+   Registrar: HOMESTEAD LIMITED DBA NAMEVAULT.COM
+   Whois Server: whois.namevault.com
+   Referral URL: http://www.namevault.com
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
+   Status: ok
+   Updated Date: 01-sep-2011
+   Creation Date: 17-jul-2003
+   Expiration Date: 17-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
 
@@ -51,20 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: NAMEVAULT.COM PAYMENT PROCESSING
+Contact: +800.8829010
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
+Domain Name: PITTSBURGHCONDO.COM
+
+Registrant:
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
+
+Creation Date: 17-Jul-2003
+Expiration Date: 17-Jul-2012
+
+Domain servers in listed order:
+    buy.internettraffic.com
+    sell.internettraffic.com
+
+
+Administrative Contact:
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
+
+Technical Contact:
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
+
+Billing Contact:
+    Worldwide Media, Inc
+    Domain Administrator        (info@mostwanteddomains.com)
+    Po Box 129
+    Highlands
+    North Carolina,28741
+    US
+    Tel. +001.8132675600
+    Fax. +001.9543370351
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Homestead Limited dba Namevault.com.
+We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
-no match for 91mt.com

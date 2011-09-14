@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNFDUSHAN.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
+   Domain Name: SKYLASERDENTAL.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-2011
-   Expiration Date: 31-mar-2012
+   Status: clientUpdateProhibited
+   Updated Date: 02-jul-2010
+   Creation Date: 01-jul-2009
+   Expiration Date: 01-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:15:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Domain Name.......... dnfdushan.com
-  Creation Date........ 2011-04-01 10:28:09
-  Registration Date.... 2011-04-01 10:28:09
-  Expiry Date.......... 2012-04-01 10:28:09
-  Organisation Name.... KEN WIN
-  Organisation Address. SANYUAN929 Street
-  Organisation Address.
-  Organisation Address. guangzhou
-  Organisation Address. 426000
-  Organisation Address. GD
-  Organisation Address. CN
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
-Admin Name........... li weijian
-  Admin Address........ SANYUAN929 Street
-  Admin Address........
-  Admin Address........ guangzhou
-  Admin Address........ 426000
-  Admin Address........ GD
-  Admin Address........ CN
-  Admin Email.......... 1455535148@qq.com
-  Admin Phone.......... +86.102225544
-  Admin Fax............ +86.102254468
 
-Tech Name............ wei dong
-  Tech Address......... tangxiazhen lianhudonglu 33hao
-  Tech Address.........
-  Tech Address......... Dongguan
-  Tech Address......... 523710
-  Tech Address......... GD
-  Tech Address......... CN
-  Tech Email........... 46696651@qq.com
-  Tech Phone........... +86.75527390892
-  Tech Fax............. +86.75527390892
+Registrant:
+   Sky Laser Dental
 
-Bill Name............ wei dong
-  Bill Address......... tangxiazhen lianhudonglu 33hao
-  Bill Address.........
-  Bill Address......... Dongguan
-  Bill Address......... 523710
-  Bill Address......... GD
-  Bill Address......... CN
-  Bill Email........... 46696651@qq.com
-  Bill Phone........... +86.75527390892
-  Bill Fax............. +86.75527390892
-  Name Server.......... f1g1ns2.dnspod.net
-  Name Server.......... f1g1ns1.dnspod.net
+   Registered through: GAGUA - Web Hosting and Online Marketing Services
+   Domain Name: SKYLASERDENTAL.COM
+
+   Domain servers in listed order:
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=SKYLASERDENTAL.COM&amp;prog_id=gagua

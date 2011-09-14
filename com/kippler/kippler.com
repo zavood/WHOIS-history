@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNFDUSHAN.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
+   Domain Name: KIPPLER.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS.GABIA.CO.KR
+   Name Server: NS.GABIA.NET
+   Name Server: NS1.GABIA.CO.KR
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-2011
-   Expiration Date: 31-mar-2012
+   Updated Date: 15-apr-2011
+   Creation Date: 21-jun-2009
+   Expiration Date: 21-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:15:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,50 +52,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
 
-Domain Name.......... dnfdushan.com
-  Creation Date........ 2011-04-01 10:28:09
-  Registration Date.... 2011-04-01 10:28:09
-  Expiry Date.......... 2012-04-01 10:28:09
-  Organisation Name.... KEN WIN
-  Organisation Address. SANYUAN929 Street
-  Organisation Address.
-  Organisation Address. guangzhou
-  Organisation Address. 426000
-  Organisation Address. GD
-  Organisation Address. CN
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-Admin Name........... li weijian
-  Admin Address........ SANYUAN929 Street
-  Admin Address........
-  Admin Address........ guangzhou
-  Admin Address........ 426000
-  Admin Address........ GD
-  Admin Address........ CN
-  Admin Email.......... 1455535148@qq.com
-  Admin Phone.......... +86.102225544
-  Admin Fax............ +86.102254468
+Registrant : park
+	ssssssss seoul, korea
+	(111111)
 
-Tech Name............ wei dong
-  Tech Address......... tangxiazhen lianhudonglu 33hao
-  Tech Address.........
-  Tech Address......... Dongguan
-  Tech Address......... 523710
-  Tech Address......... GD
-  Tech Address......... CN
-  Tech Email........... 46696651@qq.com
-  Tech Phone........... +86.75527390892
-  Tech Fax............. +86.75527390892
+	Domain Name:  KIPPLER.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-Bill Name............ wei dong
-  Bill Address......... tangxiazhen lianhudonglu 33hao
-  Bill Address.........
-  Bill Address......... Dongguan
-  Bill Address......... 523710
-  Bill Address......... GD
-  Bill Address......... CN
-  Bill Email........... 46696651@qq.com
-  Bill Phone........... +86.75527390892
-  Bill Fax............. +86.75527390892
-  Name Server.......... f1g1ns2.dnspod.net
-  Name Server.......... f1g1ns1.dnspod.net
+	Administrative, Technical, Billing Contact:
+		park	hardkoder@gmail.com
+		ssssssss seoul, korea
+		(Tel) 02-02-02	(fax)
+
+	Record created on 	june      21, 2009
+	Record expires on 	2013-06-21
+	Record last updated on 	2011-04-15
+
+	Domain servers in listed order:
+
+	ns.gabia.co.kr
+	ns1.gabia.co.kr
+	ns.gabia.net
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 91MT.COM
-   Registrar: JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD
-   Whois Server: whois.55hl.com
-   Referral URL: http://www.55hl.com
-   Name Server: NS1.EXP.4CUN.COM
-   Name Server: NS2.EXP.4CUN.COM
-   Status: redemptionPeriod
-   Updated Date: 30-aug-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2011
+   Domain Name: THOSECLEVERKIDS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WEBFACTION.COM
+   Name Server: NS2.WEBFACTION.COM
+   Name Server: NS3.WEBFACTION.COM
+   Name Server: NS4.WEBFACTION.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-jun-2011
+   Creation Date: 06-jul-2005
+   Expiration Date: 06-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:17:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,7 +53,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about thosecleverkids.com
+&lt;a href=&quot;http://www.aboutus.org/thosecleverkids.com&quot;&gt;AboutUs: thosecleverkids.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: thosecleverkids.com
+
+Registrant Contact:
+   Those Clever Kids
+   NA NA ()
+
+   Fax:
+   95 Grove Street
+   Dover, NE Hampshire 03820
+   US
+
+Administrative Contact:
+   NA
+   Tom Clancy (tclancy@gmail.com)
+   +1.6035401424
+   Fax:
+   Those Clever Kids
+   95 Grove Street
+   Dover, NE Hampshire 03820
+   US
+
+Technical Contact:
+   NA
+   Tom Clancy (tclancy@gmail.com)
+   +1.6035401424
+   Fax:
+   Those Clever Kids
+   95 Grove Street
+   Dover, NE Hampshire 03820
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.WEBFACTION.COM
+   NS2.WEBFACTION.COM
+   NS3.WEBFACTION.COM
+   NS4.WEBFACTION.COM
+
+Creation date: 06 Jul 2005 22:37:00
+Expiration date: 06 Jul 2012 22:37:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -64,7 +119,8 @@ enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
 mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us. We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+consent from us.
 
-no match for 91mt.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

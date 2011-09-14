@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNFDUSHAN.COM
+   Domain Name: 138WAN.COM
    Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
    Whois Server: whois.dns.com.cn
    Referral URL: http://www.dns.com.cn
-   Name Server: F1G1NS1.DNSPOD.NET
-   Name Server: F1G1NS2.DNSPOD.NET
+   Name Server: NS13.DNS.COM.CN
+   Name Server: NS14.DNS.COM.CN
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-2011
-   Expiration Date: 31-mar-2012
+   Updated Date: 10-aug-2011
+   Creation Date: 19-oct-2010
+   Expiration Date: 19-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:16:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,49 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... dnfdushan.com
-  Creation Date........ 2011-04-01 10:28:09
-  Registration Date.... 2011-04-01 10:28:09
-  Expiry Date.......... 2012-04-01 10:28:09
-  Organisation Name.... KEN WIN
-  Organisation Address. SANYUAN929 Street
+Domain Name.......... 138wan.com
+  Creation Date........ 2010-10-20 09:22:41
+  Registration Date.... 2010-10-20 09:22:41
+  Expiry Date.......... 2011-10-20 09:22:41
+  Organisation Name.... zhang qinghua
+  Organisation Address. jiangsushengnanjingshijiangningqu
   Organisation Address.
-  Organisation Address. guangzhou
-  Organisation Address. 426000
-  Organisation Address. GD
+  Organisation Address. nanjing
+  Organisation Address. 211100
+  Organisation Address. JS
   Organisation Address. CN
 
-Admin Name........... li weijian
-  Admin Address........ SANYUAN929 Street
+Admin Name........... zhangqinghua
+  Admin Address........ jiangsushengnanjingshijiangningqu
   Admin Address........
-  Admin Address........ guangzhou
-  Admin Address........ 426000
-  Admin Address........ GD
+  Admin Address........ nanjing
+  Admin Address........ 211100
+  Admin Address........ JS
   Admin Address........ CN
-  Admin Email.......... 1455535148@qq.com
-  Admin Phone.......... +86.102225544
-  Admin Fax............ +86.102254468
+  Admin Email.......... 231815@qq.com
+  Admin Phone.......... +86.2552288950
+  Admin Fax............ +86.2552288950
 
-Tech Name............ wei dong
-  Tech Address......... tangxiazhen lianhudonglu 33hao
+Tech Name............ zhangqinghua
+  Tech Address......... jiangsushengnanjingshijiangningqu
   Tech Address.........
-  Tech Address......... Dongguan
-  Tech Address......... 523710
-  Tech Address......... GD
+  Tech Address......... nanjing
+  Tech Address......... 211100
+  Tech Address......... JS
   Tech Address......... CN
-  Tech Email........... 46696651@qq.com
-  Tech Phone........... +86.75527390892
-  Tech Fax............. +86.75527390892
+  Tech Email........... 231815@qq.com
+  Tech Phone........... +86.2552288950
+  Tech Fax............. +86.2552288950
 
-Bill Name............ wei dong
-  Bill Address......... tangxiazhen lianhudonglu 33hao
+Bill Name............ zhangqinghua
+  Bill Address......... jiangsushengnanjingshijiangningqu
   Bill Address.........
-  Bill Address......... Dongguan
-  Bill Address......... 523710
-  Bill Address......... GD
+  Bill Address......... nanjing
+  Bill Address......... 211100
+  Bill Address......... JS
   Bill Address......... CN
-  Bill Email........... 46696651@qq.com
-  Bill Phone........... +86.75527390892
-  Bill Fax............. +86.75527390892
-  Name Server.......... f1g1ns2.dnspod.net
-  Name Server.......... f1g1ns1.dnspod.net
+  Bill Email........... 231815@qq.com
+  Bill Phone........... +86.2552288950
+  Bill Fax............. +86.2552288950
+  Name Server.......... ns14.dns.com.cn
+  Name Server.......... ns13.dns.com.cn
