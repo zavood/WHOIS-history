@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105964843-LROR
+Domain Name:ELTAHER.ORG
+Created On:27-Mar-2005 22:34:52 UTC
+Last Updated On:26-Jan-2011 00:14:03 UTC
+Expiration Date:27-Mar-2012 22:34:52 UTC
+Sponsoring Registrar:NameScout Corp. (R57-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NS589416
+Registrant Name:Mr Hassan M. Eltaher
+Registrant Organization:East &amp;amp;amp; West Communications
+Registrant Street1:407-1440 Heron Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ottawa
+Registrant State/Province:ON
+Registrant Postal Code:K1V0X2
+Registrant Country:CA
+Registrant Phone:+1.6132498308
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@eltaher.org
+Admin ID:NS330629
+Admin Name:Ramsay Eltaher
+Admin Organization:East &amp;amp;amp; West Communications
+Admin Street1:36 Putman Ave
+Admin Street2:
+Admin Street3:
+Admin City:Ottawa
+Admin State/Province:ON
+Admin Postal Code:K1M1Z2
+Admin Country:CA
+Admin Phone:+1.6132651050
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@eltaher.org
+Tech ID:NS330629
+Tech Name:Ramsay Eltaher
+Tech Organization:East &amp;amp;amp; West Communications
+Tech Street1:36 Putman Ave
+Tech Street2:
+Tech Street3:
+Tech City:Ottawa
+Tech State/Province:ON
+Tech Postal Code:K1M1Z2
+Tech Country:CA
+Tech Phone:+1.6132651050
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@eltaher.org
+Name Server:NS2.ZONEEDIT.COM
+Name Server:NS4.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
