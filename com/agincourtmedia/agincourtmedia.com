@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISDOMANDWONDER.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.LAUGHINGSQUID.NET
-   Name Server: NS2.LAUGHINGSQUID.NET
+   Domain Name: AGINCOURTMEDIA.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 29-nov-2007
-   Expiration Date: 29-nov-2011
+   Updated Date: 25-jun-2011
+   Creation Date: 25-jun-1997
+   Expiration Date: 24-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:58:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:58:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,41 +76,30 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   c/o WISDOMANDWONDER.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
+   Agincourt Media
+   PO Box 2355
+   Rogers, AR  72757
    US
 
-   Registrar: DOTSTER
-   Domain Name: WISDOMANDWONDER.COM
-      Created on: 29-NOV-07
-      Expires on: 29-NOV-11
-      Last Updated on: 08-SEP-09
+   Registrar: NAMESDIRECT
+   Domain Name: AGINCOURTMEDIA.COM
+      Created on: 25-JUN-97
+      Expires on: 24-JUN-12
+      Last Updated on: 04-JUN-11
 
-   Administrative Contact:
-      XaUFff@PRIVACYPOST.COM
-      c/o WISDOMANDWONDER.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
+   Administrative, Technical Contact:
+      Benningfield, Roger  roger@agincourtmedia.com
+      Agincourt Media
+      PO Box 2355
+      Rogers, AR  72757
       US
-      +1.360-449-5933
-
-   Technical Contact:
-      MnPiLV@PRIVACYPOST.COM
-      c/o WISDOMANDWONDER.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+      479-936-8566
 
 
    Domain servers in listed order:
-      NS1.LAUGHINGSQUID.NET
-      NS2.LAUGHINGSQUID.NET
-
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
 
 End of Whois Information

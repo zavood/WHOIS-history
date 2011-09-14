@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157563877-LROR
+Domain Name:W3-HI.ORG
+Created On:11-Nov-2009 06:02:24 UTC
+Last Updated On:09-Sep-2011 18:34:12 UTC
+Expiration Date:11-Nov-2012 06:02:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR28260773
+Registrant Name:Mudit seth
+Registrant Organization:Mudit Seth
+Registrant Street1:A299 Defence colony
+Registrant Street2:
+Registrant Street3:
+Registrant City:Delhi
+Registrant State/Province:Delhi
+Registrant Postal Code:110024
+Registrant Country:IN
+Registrant Phone:+91.9810145696
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:muditseth77@gmail.com
+Admin ID:CR28260778
+Admin Name:W3-HI W3-HI
+Admin Organization:W3-HI
+Admin Street1:1000
+Admin Street2:MG ROAD
+Admin Street3:
+Admin City:DELHI
+Admin State/Province:Delhi
+Admin Postal Code:110001
+Admin Country:IN
+Admin Phone:+91.0911122374136
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bhavatmaj@gmail.com
+Tech ID:CR28260775
+Tech Name:W3-HI W3-HI
+Tech Organization:W3-HI
+Tech Street1:1000
+Tech Street2:MG ROAD
+Tech Street3:
+Tech City:DELHI
+Tech State/Province:Delhi
+Tech Postal Code:110001
+Tech Country:IN
+Tech Phone:+91.0911122374136
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bhavatmaj@gmail.com
+Name Server:NS19.IXWEBHOSTING.COM
+Name Server:NS20.IXWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

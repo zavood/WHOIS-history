@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISDOMANDWONDER.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.LAUGHINGSQUID.NET
-   Name Server: NS2.LAUGHINGSQUID.NET
+   Domain Name: WHITEBOXBLOG.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1175.HOSTGATOR.COM
+   Name Server: NS1276.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 29-nov-2007
-   Expiration Date: 29-nov-2011
+   Updated Date: 02-mar-2010
+   Creation Date: 07-oct-2008
+   Expiration Date: 07-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:58:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,41 +74,28 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   c/o WISDOMANDWONDER.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
+   whitebox kids
+   1470 Griffin Rd
+   Madison, NC  27025
    US
 
-   Registrar: DOTSTER
-   Domain Name: WISDOMANDWONDER.COM
-      Created on: 29-NOV-07
-      Expires on: 29-NOV-11
-      Last Updated on: 08-SEP-09
+   Registrar: NAMESDIRECT
+   Domain Name: WHITEBOXBLOG.COM
+      Created on: 07-OCT-08
+      Expires on: 07-OCT-13
+      Last Updated on: 02-MAR-10
 
-   Administrative Contact:
-      XaUFff@PRIVACYPOST.COM
-      c/o WISDOMANDWONDER.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
+   Administrative, Technical Contact:
+      Litchfield, Melanie  melanie@whiteboxweddings.com
+      whitebox kids
+      1470 Griffin Rd
+      Madison, NC  27025
       US
-      +1.360-449-5933
-
-   Technical Contact:
-      MnPiLV@PRIVACYPOST.COM
-      c/o WISDOMANDWONDER.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
+      866-384-2808
 
 
    Domain servers in listed order:
-      NS1.LAUGHINGSQUID.NET
-      NS2.LAUGHINGSQUID.NET
-
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
+      NS1175.HOSTGATOR.COM
+      NS1276.HOSTGATOR.COM
 
 End of Whois Information

@@ -1,0 +1,77 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:59:47 2011
+
+domain:       vyvoj.cz
+registrant:   SB:MK2345-RIPE_XX
+admin-c:      MK2345-RIPE
+nsset:        NSS:PES:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   27.05.1998 02:00:00
+changed:      12.11.2004 10:45:00
+expire:       12.10.2011
+
+contact:      SB:MK2345-RIPE_XX
+org:          Vyvoj, odevni druzstvo v Tresti
+name:         Vyvoj, odevni druzstvo v Tresti
+address:      Franze Kafky 13
+address:      Trest
+address:      58913
+address:      CZ
+e-mail:       vyvoj@vyvoj.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      13.11.2001 11:30:00
+
+contact:      MK2345-RIPE
+name:         Milan Kopal
+address:      Franze Kafky 13
+address:      Trest
+address:      58901
+address:      CZ
+phone:        +420 567214114
+fax-no:       +420 567214042
+e-mail:       vyvoj@vyvoj.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      13.11.2001 07:36:00
+
+nsset:        NSS:PES:1
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      25.05.2009 17:07:31
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+
