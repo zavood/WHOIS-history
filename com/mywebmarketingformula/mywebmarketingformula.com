@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORLD-WIDEFURNITURE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 26-jun-2006
-   Expiration Date: 26-jun-2012
+   Domain Name: MYWEBMARKETINGFORMULA.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1193.WEBSITEWELCOME.COM
+   Name Server: NS1194.WEBSITEWELCOME.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-oct-2010
+   Creation Date: 01-oct-2010
+   Expiration Date: 01-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:20:01 UTC &lt;&lt;&lt;
 
@@ -51,4 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;world-widefurniture.com&quot;
+=-=-=-=
+
+
+Domain name: mywebmarketingformula.com
+
+Registrant Contact:
+
+   Karl Kleimeyer ()
+
+   Fax:
+   5/9 Cedar Court
+   Jubilee Pocket, QLD 4802
+   AU
+
+Administrative Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Technical Contact:
+   Hostgator.com
+   Brent Oxley (support@hostgator.com)
+   +1.7135745287
+   Fax: +1.11
+   11251 Northwest Fwy suite 400
+   Houston, TX 77092
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1193.websitewelcome.com
+   ns1194.websitewelcome.com
+
+Creation date: 01 Oct 2010 07:29:00
+Expiration date: 01 Oct 2011 02:29:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

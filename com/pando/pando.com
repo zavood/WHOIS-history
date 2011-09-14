@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORLD-WIDEFURNITURE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 26-jun-2006
-   Expiration Date: 26-jun-2012
+   Domain Name: PANDO.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: PANDO-DNS1.PANDO.COM
+   Name Server: PANDO-DNS2.PANDO.COM
+   Name Server: PANDO-DNS3.PANDO.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 27-apr-2011
+   Creation Date: 31-oct-1997
+   Expiration Date: 30-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:20:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:20:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +53,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;world-widefurniture.com&quot;
+Registrant:
+ Pando Networks Inc
+ 520 Broadway 10th Floor
+ New York, NY 10012
+ US
+
+ Domain name: PANDO.COM
+
+
+ Administrative Contact:
+    Cohen, Avraham  admin@pando.com
+    520 Broadway 10th Floor
+    New York, NY 10012
+    US
+    212.343.0260
+ Technical Contact:
+    Hostmaster, easyDNS  hostmaster@easydns.com
+    304A-219 Dufferin Street
+    Toronto, Ontario M6K 3E3
+    CA
+    +1.4165358672
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 27-Apr-2011.
+ Record expires on 30-Oct-2012.
+ Record created on 31-Oct-1997.
+
+ Domain servers in listed order:
+    PANDO-DNS1.PANDO.COM   208.72.31.156
+    PANDO-DNS3.PANDO.COM   208.72.31.158
+    PANDO-DNS2.PANDO.COM   208.72.31.157
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 2 lookups left today

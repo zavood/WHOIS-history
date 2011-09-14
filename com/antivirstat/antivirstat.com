@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WORLD-WIDEFURNITURE.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
-   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
+   Domain Name: ANTIVIRSTAT.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS2.ONLINENIC.NET
+   Name Server: NS3.ONLINENIC.NET
    Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 26-jun-2006
-   Expiration Date: 26-jun-2012
+   Updated Date: 11-sep-2011
+   Creation Date: 02-jul-2010
+   Expiration Date: 02-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:20:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:19:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;world-widefurniture.com&quot;
+[210.75.241.82]
+
