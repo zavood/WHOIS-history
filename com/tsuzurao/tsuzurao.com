@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KRATZERT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.KRATZERT.COM
-   Name Server: NS2.KRATZERT.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-jun-2011
-   Creation Date: 12-jun-2000
-   Expiration Date: 12-jun-2012
+   Domain Name: TSUZURAO.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.DNS.NE.JP
+   Name Server: NS2.DNS.NE.JP
+   Status: ok
+   Updated Date: 25-may-2011
+   Creation Date: 24-jul-2008
+   Expiration Date: 24-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:33:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:33:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... tsuzurao.com
+  Creation Date........ 2008-07-24
+  Registration Date.... 2008-07-24
+  Expiry Date.......... 2012-07-24
+  Organisation Name.... sugino yoshikazu
+  Organisation Address. 1-9-26-3F Kyutaro-cho, Chuo-ku
+  Organisation Address.
+  Organisation Address. Osaka
+  Organisation Address. 541-0056
+  Organisation Address. Osaka
+  Organisation Address. JAPAN
+
+Admin Name........... Internet SAKURA
+  Admin Address........ 1-9-26-3F Kyutaro-cho, Chuo-ku
+  Admin Address........
+  Admin Address........ Osaka
+  Admin Address........ 541-0056
+  Admin Address........ Osaka
+  Admin Address........ JAPAN
+  Admin Email.......... nic-staff@sakura.ad.jp
+  Admin Phone.......... +81-6-6265-4830
+  Admin Fax............
+
+Tech Name............ SAKURA Internet
+  Tech Address......... 1-8-14 Minami-Honmachi
+  Tech Address......... Chuou-ku
+  Tech Address......... Osaka
+  Tech Address......... 541-0054
+  Tech Address......... OSAKA
+  Tech Address......... JAPAN
+  Tech Email........... nic-staff@sakura.ad.jp
+  Tech Phone........... +81.0120775664
+  Tech Fax............. +813.62654834
+  Name Server.......... ns1.dns.ne.jp
+  Name Server.......... ns2.dns.ne.jp
 
 
-Registrant:
-   ASIS
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KRATZERT.COM
-
-   Domain servers in listed order:
-      NS1.KRATZERT.COM
-      NS2.KRATZERT.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KRATZERT.COM

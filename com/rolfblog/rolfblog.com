@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KRATZERT.COM
+   Domain Name: ROLFBLOG.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.KRATZERT.COM
-   Name Server: NS2.KRATZERT.COM
+   Name Server: NS1.MIDPHASE.COM
+   Name Server: NS2.MIDPHASE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-jun-2011
-   Creation Date: 12-jun-2000
-   Expiration Date: 12-jun-2012
+   Updated Date: 27-dec-2009
+   Creation Date: 17-jan-2007
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:33:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:33:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   ASIS
+   Aligning Waters, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KRATZERT.COM
+   Domain Name: ROLFBLOG.COM
 
    Domain servers in listed order:
-      NS1.KRATZERT.COM
-      NS2.KRATZERT.COM
+      NS1.MIDPHASE.COM
+      NS2.MIDPHASE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KRATZERT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ROLFBLOG.COM
