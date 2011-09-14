@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98250162-LROR
+Domain Name:GIZAEDU.ORG
+Created On:12-Jun-2003 16:02:09 UTC
+Last Updated On:17-Jun-2011 05:50:57 UTC
+Expiration Date:12-Jun-2012 16:02:09 UTC
+Sponsoring Registrar:Hostopia.com Inc. d/b/a Aplus.net (R14-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:cvg02e88fhrr90j7
+Registrant Name:Antounios Mekhaiel
+Registrant Organization:CompuTony.com
+Registrant Street1:73 El-Zahraa St. Ain Shames
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cairo
+Registrant State/Province:EGY
+Registrant Postal Code:11311
+Registrant Country:EG
+Registrant Phone:+1.2024991736
+Registrant Phone Ext.:
+Registrant FAX:+1.2024991736
+Registrant FAX Ext.:
+Registrant Email:antounios@computony.com
+Admin ID:u7ubh25le99oclpi
+Admin Name:Antounios Mekhaiel
+Admin Organization:CompuTony.com
+Admin Street1:73 El-Zahraa St. Ain Shames
+Admin Street2:
+Admin Street3:
+Admin City:Cairo
+Admin State/Province:EGY
+Admin Postal Code:11311
+Admin Country:EG
+Admin Phone:+1.2024991736
+Admin Phone Ext.:
+Admin FAX:+1.2024991736
+Admin FAX Ext.:
+Admin Email:antounios@computony.com
+Tech ID:oits5i7992qiauh4
+Tech Name:Antounios Mekhaiel
+Tech Organization:CompuTony.com
+Tech Street1:73 El-Zahraa St. Ain Shames
+Tech Street2:
+Tech Street3:
+Tech City:Cairo
+Tech State/Province:EGY
+Tech Postal Code:11311
+Tech Country:EG
+Tech Phone:+1.2024991736
+Tech Phone Ext.:
+Tech FAX:+1.2024991736
+Tech FAX Ext.:
+Tech Email:antounios@computony.com
+Name Server:NS1.COMPUTONY.COM
+Name Server:NS3.COMPUTONY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

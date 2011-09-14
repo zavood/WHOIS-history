@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-EDITDNS.NET.GLIFE.COM
-EDITDNS.NET
+   Domain Name: K-CHAEN.COM
+   Registrar: FIRSTSERVER, INC.
+   Whois Server: whois.do-reg.jp
+   Referral URL: http://www.do-reg.jp
+   Name Server: NS1.DIGIBOX.NE.JP
+   Name Server: NS2.DIGIBOX.NE.JP
+   Status: clientTransferProhibited
+   Updated Date: 30-apr-2011
+   Creation Date: 31-may-2000
+   Expiration Date: 31-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:06:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:04:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+### Do-REG WHOIS database / ###
+
+String for search [ K-CHAEN.COM ]
+
+
+[Domain Name]     K-CHAEN.COM
+[Status]          clientTransferProhibited
+[Nameserver]      NS1.DIGIBOX.NE.JP
+[Nameserver]      NS2.DIGIBOX.NE.JP
+
+[Creation Date]   2000-05-31 18:48:15(JST)
+[Expiration Date] 2012-05-31 18:48:15(JST)
+[Last Update]     2011-05-01 00:37:34(JST)
+
+[Registrant]
+        Kurume-Chaen Co., Ltd.
+        Name:           Kurume-Chaen Co., Ltd.
+        Address:         2303-16, Higashikushihara-machi Kurume FUKUOKA, JP
+
+[Admin Contact]
+        Handle:         DRKT0102
+        Organization:   Kurume-Chaen Co., Ltd.
+        Name:           Katsunosuke Takasaki
+        E-Mail:         domain@delahost.jp
+        Postal-Code:    830-0003
+        Address:         2303-16, Higashikushihara-machi Kurume Fukuoka, JP
+        Phone-Number:   0942-38-3898
+        Fax-Number:     0942-32-5185
+[Tech Contact]
+        Handle:         DRMH0046
+        Organization:   Digibox Co.,Ltd.
+        Name:           Masaru Hayashi
+        E-Mail:         domain@delahost.jp
+        Postal-Code:    105-0001
+        Address:         5-3-9, toranomon Minato Tokyo, JP
+        Phone-Number:   03-6430-9174
+        Fax-Number:     03-6430-9173
+
