@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90317440-LROR
+Domain Name:FIRE-INTERNATIONAL.ORG
+Created On:16-Sep-2002 16:57:10 UTC
+Last Updated On:28-Jun-2010 00:23:47 UTC
+Expiration Date:16-Sep-2011 16:57:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR46679719
+Registrant Name:Inc FIRE International
+Registrant Organization:FI
+Registrant Street1:PO Box 187
+Registrant Street2:
+Registrant Street3:
+Registrant City:Harrisburg
+Registrant State/Province:North Carolina
+Registrant Postal Code:28075
+Registrant Country:US
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dr.peters@fiworks.net
+Admin ID:CR46679722
+Admin Name:Dion Light
+Admin Organization:FI
+Admin Street1:745 Cabarrus Ave W
+Admin Street2:
+Admin Street3:
+Admin City:Concord
+Admin State/Province:North Carolina
+Admin Postal Code:28027
+Admin Country:US
+Admin Phone:+011.7047823566
+Admin Phone Ext.:
+Admin FAX:+011.7047823897
+Admin FAX Ext.:
+Admin Email:dlight@fiworks.net
+Tech ID:CR46679720
+Tech Name:Andy Boone
+Tech Organization:ASK4Tech
+Tech Street1:8870 High Ridge Ln
+Tech Street2:
+Tech Street3:
+Tech City:Concord
+Tech State/Province:North Carolina
+Tech Postal Code:28027
+Tech Country:US
+Tech Phone:+1.7047073761
+Tech Phone Ext.:
+Tech FAX:+1.7046257417
+Tech FAX Ext.:
+Tech Email:andy@ask4tech.com
+Name Server:NS21.DOMAINCONTROL.COM
+Name Server:NS22.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
