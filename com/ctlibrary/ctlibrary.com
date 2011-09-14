@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-jan-2001
    Expiration Date: 24-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:31:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:07:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Christianity Today Intl.
-   465 Gundersen Dr.
-   Carol Stream, Illinois 60188
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: CTLIBRARY.COM
-      Created on: 24-Jan-01
-      Expires on: 24-Jan-13
-      Last Updated on: 21-Jan-11
-
-   Administrative Contact:
-      Today, Christianity  hostmaster@christianity.net
-      Christianity Today Intl.
-      465 Gundersen Dr.
-      Carol Stream, Illinois 60188
-      United States
-      +1.6302606200      Fax --
-
-   Technical Contact:
-      Today, Christianity  hostmaster@christianity.net
-      Christianity Today Intl.
-      465 Gundersen Dr.
-      Carol Stream, Illinois 60188
-      United States
-      +1.6302606200      Fax --
 
    Domain servers in listed order:
       DNS1.CHRISTIANITYTODAY.COM
       DNS2.CHRISTIANITYTODAY.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CTLIBRARY.COM
