@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABLECONF.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DREAMHOST.COM
-   Name Server: NS2.DREAMHOST.COM
-   Name Server: NS3.DREAMHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 03-aug-2008
-   Expiration Date: 03-aug-2013
+   Domain Name: NOBELSPECIALISTS.COM
+   Registrar: IP MIRROR PTE LTD. DBA IP MIRROR
+   Whois Server: whois.ipmirror.com
+   Referral URL: http://www.ipmirror.com
+   Name Server: NS1.IPMIRROR.COM
+   Name Server: NS2.IPMIRROR.COM
+   Name Server: NS3.IPMIRROR.COM
+   Status: ok
+   Updated Date: 16-aug-2011
+   Creation Date: 09-oct-2009
+   Expiration Date: 09-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:11:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:12:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +52,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
 
-Registrant:
-   Hans Kugler
+Registrar: IP Mirror Pte Ltd
+Registrar Whois: whois.ipmirror.com
+Website: http://www.ipmirror.com
+Domain Name: nobelspecialists.com
+Domain nameservers listed in order:
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ABLECONF.COM
-
-   Domain servers in listed order:
-      NS1.DREAMHOST.COM
-      NS2.DREAMHOST.COM
-      NS3.DREAMHOST.COM
+ns1.ipmirror.com
+ns2.ipmirror.com
+ns3.ipmirror.com
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ABLECONF.COM
+Registration Date: 2009-10-09
+Expiration Date: 2014-10-09
+Domain last updated on: 2009-10-09
+
+Registrant Contact:
+Organization: Healthway Medical Group Pte Ltd
+Name: Kyaw Kyaw Thein
+Street 1: 2 Leng Kee Road, #06-07
+Street 2: Thye Hong Centre
+City: Singapore
+Postal Code: 159086
+Country: Singapore
+Email Address: kkthein@healthwaymedical.com
+Tel 1: 65.65180141
+Fax: 65.62350809
+
+
+Administrator Contact:
+Organization: Healthway Medical Group Pte Ltd
+Name: Kyaw Kyaw Thein
+Street 1: 2 Leng Kee Road, #06-07
+Street 2: Thye Hong Centre
+City: Singapore
+Postal Code: 159086
+Country: Singapore
+Email Address: kkthein@healthwaymedical.com
+Tel 1: 65.65180141
+Fax: 65.62350809
+
+
+Technical Contact:
+Organization: Healthway Medical Group Pte Ltd
+Name: Kyaw Kyaw Thein
+Street 1: 2 Leng Kee Road, #06-07
+Street 2: Thye Hong Centre
+City: Singapore
+Postal Code: 159086
+Country: Singapore
+Email Address: kkthein@healthwaymedical.com
+Tel 1: 65.65180141
+Fax: 65.62350809
+
+
+Billing Contact:
+Organization: Healthway Medical Group Pte Ltd
+Name: Kyaw Kyaw Thein
+Street 1: 2 Leng Kee Road, #06-07
+Street 2: Thye Hong Centre
+City: Singapore
+Postal Code: 159086
+Country: Singapore
+Email Address: kkthein@healthwaymedical.com
+Tel 1: 65.65180141
+Fax: 65.62350809
+
+
+
+

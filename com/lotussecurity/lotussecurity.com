@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABLECONF.COM
+   Domain Name: LOTUSSECURITY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DREAMHOST.COM
-   Name Server: NS2.DREAMHOST.COM
-   Name Server: NS3.DREAMHOST.COM
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 03-aug-2008
-   Expiration Date: 03-aug-2013
+   Updated Date: 15-feb-2010
+   Creation Date: 15-apr-2004
+   Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:11:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:10:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Hans Kugler
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ABLECONF.COM
+   Domain Name: LOTUSSECURITY.COM
 
    Domain servers in listed order:
-      NS1.DREAMHOST.COM
-      NS2.DREAMHOST.COM
-      NS3.DREAMHOST.COM
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ABLECONF.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LOTUSSECURITY.COM

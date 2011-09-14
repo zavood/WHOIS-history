@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABLECONF.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DREAMHOST.COM
-   Name Server: NS2.DREAMHOST.COM
-   Name Server: NS3.DREAMHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 04-aug-2011
-   Creation Date: 03-aug-2008
-   Expiration Date: 03-aug-2013
+   Domain Name: DUNHILLDAY8.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: ok
+   Updated Date: 11-may-2011
+   Creation Date: 11-nov-2010
+   Expiration Date: 11-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:11:41 UTC &lt;&lt;&lt;
 
@@ -55,38 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by Webfusion Limted
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Webfusion Limted does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: DUNHILLDAY8.COM
 
+RSP: Webfusion Limted
+URL: www.123-reg.co.uk
 
-Registrant:
-   Hans Kugler
+owner-contact: P-SJS3023
+owner-fname: Sean
+owner-lname: Singleton
+owner-street: 40 Compton Street
+owner-city: London
+owner-state: London
+owner-zip: EC1V 0AP
+owner-country: GB
+owner-phone: +44.2076372704
+owner-email: sysadmin@skive.co.uk
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ABLECONF.COM
+admin-contact: P-STS3211
+admin-fname: Sean
+admin-lname: Singleton
+admin-street: 40 Compton Street
+admin-city: London
+admin-state: London
+admin-zip: EC1V 0AP
+admin-country: GB
+admin-phone: +44.2076372704
+admin-email: sysadmin@skive.co.uk
 
-   Domain servers in listed order:
-      NS1.DREAMHOST.COM
-      NS2.DREAMHOST.COM
-      NS3.DREAMHOST.COM
+tech-contact: P-WHL1997
+tech-organization: Webfusion Limited
+tech-fname: Webfusion
+tech-lname: Limited
+tech-street: 5 Roundwood Avenue
+tech-city: Stockley Park
+tech-state: Uxbridge
+tech-zip: UB11 1FF
+tech-country: GB
+tech-phone: +44.8712309525
+tech-fax: +44.8709126612
+tech-email: services@123-reg.co.uk
 
+billing-contact: P-WHL1997
+billing-organization: Webfusion Limited
+billing-fname: Webfusion
+billing-lname: Limited
+billing-street: 5 Roundwood Avenue
+billing-city: Stockley Park
+billing-state: Uxbridge
+billing-zip: UB11 1FF
+billing-country: GB
+billing-phone: +44.8712309525
+billing-fax: +44.8709126612
+billing-email: services@123-reg.co.uk
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ABLECONF.COM
+nameserver: ns.123-reg.co.uk
+nameserver: ns2.123-reg.co.uk
+
+; Please register your domains at
+; www.123-reg.co.uk
+
