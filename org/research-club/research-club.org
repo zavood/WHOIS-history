@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157482140-LROR
+Domain Name:RESEARCH-CLUB.ORG
+Created On:31-Oct-2009 01:00:01 UTC
+Last Updated On:01-Nov-2010 11:03:22 UTC
+Expiration Date:31-Oct-2011 01:00:01 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-257879
+Registrant Name:Nim Wunnan
+Registrant Organization:Wunnan Industries
+Registrant Street1:5527 Briar Glen Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saline
+Registrant State/Province:MI
+Registrant Postal Code:48176
+Registrant Country:US
+Registrant Phone:+1.7344290858
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nim@osric.com
+Admin ID:CORG-240000
+Admin Name:Nim Wunnan
+Admin Organization:Wunnan Industries
+Admin Street1:5527 Briar Glen Drive
+Admin Street2:
+Admin Street3:
+Admin City:Saline
+Admin State/Province:MI
+Admin Postal Code:48176
+Admin Country:US
+Admin Phone:+001.7344290858
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nim@osric.com
+Tech ID:CORG-240000
+Tech Name:Nim Wunnan
+Tech Organization:Wunnan Industries
+Tech Street1:5527 Briar Glen Drive
+Tech Street2:
+Tech Street3:
+Tech City:Saline
+Tech State/Province:MI
+Tech Postal Code:48176
+Tech Country:US
+Tech Phone:+001.7344290858
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nim@osric.com
+Name Server:NS1.EAPPS.COM
+Name Server:NS2.EAPPS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

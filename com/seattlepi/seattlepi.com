@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTIGO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.ASCIO.NET
-   Name Server: NS2.ASCIO.NET
-   Name Server: NS3.ASCIO.NET
-   Status: ok
-   Updated Date: 16-nov-2010
-   Creation Date: 15-nov-2000
-   Expiration Date: 15-nov-2011
+   Domain Name: SEATTLEPI.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-apr-2011
+   Creation Date: 25-mar-1999
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,58 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Web Measurement Services B.V (WEBMEASU345)
-  Hogehilweg 15
+Domain Name.......... seattlepi.com
+  Creation Date........ 1999-03-25
+  Registration Date.... 2010-01-28
+  Expiry Date.......... 2012-03-26
+  Organisation Name.... The Hearst Corporation
+  Organisation Address. 300 West 57th Street
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10019
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
 
-  Amsterdam CB, , 1101
-  NL
+Admin Name........... Domain Administrator
+  Admin Address........ Newspapers/Seattle Post-Intelligencer
+  Admin Address........ 959 8th Avenue
+  Admin Address........ New York
+  Admin Address........ 10019
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domains@HEARST.COM
+  Admin Phone.......... +1.2126492000
+  Admin Fax............ +1.2126492639
 
-  Domain name: motigo.com
+Tech Name............ Seattle Operations Center
+  Tech Address......... 101 ELLIOTT AVE W
+  Tech Address.........
+  Tech Address......... SEATTLE
+  Tech Address......... 98119-4236
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... postmaster@SEATTLE-PI.COM
+  Tech Phone........... +1.2064488088
+  Tech Fax.............
+  Name Server.......... ns.rackspace.com
+  Name Server.......... ns2.rackspace.com
 
-Technical contact:
-  Hostmaster, Speednames (speednmtech)
-  Speednames
-  Islands Brygge 55
 
-  Kobenhavn S, DK, 2300
-  DK
-  hostmaster@speednames.com
-  +45.33886300 Fax: +45.33886301
-
-Administrative contact:
-  Thomas, Ludovic (LT609)
-  Web Measurement Services B.V
-  Hogehilweg 15
-
-  Amsterdam CB, 1101
-  NL
-  denmark@adpepper.com
-  +31.203113850 Fax:
-
-Record created:           2006-08-23 15:12:00
-Record last updated:      2007-02-20 11:18:16
-Record expires:           2011-11-15 00:00:00
-
-Domain servers in listed order:
-  ns1.ascio.net (ascions1)
-  ns2.ascio.net (ascions2)
-  ns3.ascio.net (ASCIONS3)

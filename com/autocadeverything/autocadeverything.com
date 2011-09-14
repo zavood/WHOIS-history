@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTIGO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.ASCIO.NET
-   Name Server: NS2.ASCIO.NET
-   Name Server: NS3.ASCIO.NET
-   Status: ok
-   Updated Date: 16-nov-2010
-   Creation Date: 15-nov-2000
-   Expiration Date: 15-nov-2011
+   Domain Name: AUTOCADEVERYTHING.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.XCALIBRE.CO.UK
+   Name Server: NS2.XCALIBRE.CO.UK
+   Status: clientTransferProhibited
+   Updated Date: 27-jul-2011
+   Creation Date: 09-jan-2004
+   Expiration Date: 09-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,58 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+domain:       autocadeverything.com
+owner:        D24 MEDIA
+organization: D24 MEDIA
+email:        sales@d24media.com
+address:      Geddes House
+address:      Kirkton North - Livingston
+city:         West Lothian
+state:        Scotland
+postal-code:  EH54 6gu
+country:      GB
+phone:        +087.00500080
+admin-c:      CCOM-21041 joker2@xcalibre.co.uk
+tech-c:       CCOM-21041 joker2@xcalibre.co.uk
+billing-c:    CCOM-21041 joker2@xcalibre.co.uk
+reseller:     Webfusion Limited
+reseller:     http://www.webfusion.co.uk
+nserver:      ns1.xcalibre.co.uk
+nserver:      ns2.xcalibre.co.uk
+status:       lock
+created:      2004-01-09 13:18:09 UTC
+modified:     2011-07-27 17:14:19 UTC
+expires:      2012-01-09 13:17:52 UTC
+query-source: 174.142.225.246
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Web Measurement Services B.V (WEBMEASU345)
-  Hogehilweg 15
+contact-hdl:  CCOM-21041
+person:       Host Master
+organization: Webfusion Limited
+email:        joker2@xcalibre.co.uk
+address:      5 Roundwood Avenue
+address:      Greater London
+city:         Uxbridge
+state:        Middlesex
+postal-code:  UB11 1FF
+country:      GB
+phone:        +871.2309525
 
-  Amsterdam CB, , 1101
-  NL
-
-  Domain name: motigo.com
-
-Technical contact:
-  Hostmaster, Speednames (speednmtech)
-  Speednames
-  Islands Brygge 55
-
-  Kobenhavn S, DK, 2300
-  DK
-  hostmaster@speednames.com
-  +45.33886300 Fax: +45.33886301
-
-Administrative contact:
-  Thomas, Ludovic (LT609)
-  Web Measurement Services B.V
-  Hogehilweg 15
-
-  Amsterdam CB, 1101
-  NL
-  denmark@adpepper.com
-  +31.203113850 Fax:
-
-Record created:           2006-08-23 15:12:00
-Record last updated:      2007-02-20 11:18:16
-Record expires:           2011-11-15 00:00:00
-
-Domain servers in listed order:
-  ns1.ascio.net (ascions1)
-  ns2.ascio.net (ascions2)
-  ns3.ascio.net (ASCIONS3)
+source:       joker.com live whois service
+query-time:   0.01055
+db-updated:   2011-09-14 21:23:17
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

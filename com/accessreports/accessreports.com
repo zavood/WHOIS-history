@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTIGO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.ASCIO.NET
-   Name Server: NS2.ASCIO.NET
-   Name Server: NS3.ASCIO.NET
+   Domain Name: ACCESSREPORTS.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS0.NS0.COM
+   Name Server: NS60.PAIR.COM
    Status: ok
-   Updated Date: 16-nov-2010
-   Creation Date: 15-nov-2000
-   Expiration Date: 15-nov-2011
+   Updated Date: 14-aug-2010
+   Creation Date: 08-oct-1998
+   Expiration Date: 07-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:23:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,58 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
-
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-  Web Measurement Services B.V (WEBMEASU345)
-  Hogehilweg 15
+  Access Reports
+  1624 Dogwood Lane
+  Lynchburg, Virginia 24503
+  US
 
-  Amsterdam CB, , 1101
-  NL
+  hhammitt@accessreports.com
+   +1.4343845334
+   +1.4343848272
 
-  Domain name: motigo.com
+Domain Name: ACCESSREPORTS.COM
 
-Technical contact:
-  Hostmaster, Speednames (speednmtech)
-  Speednames
-  Islands Brygge 55
+Administrative &amp; Technical Contact:
+  Harry Hammitt
+  Access Reports
+  1624 Dogwood Lane
+  Lynchburg, Virginia 24503
+  US
 
-  Kobenhavn S, DK, 2300
-  DK
-  hostmaster@speednames.com
-  +45.33886300 Fax: +45.33886301
+  hhammitt@accessreports.com
+   +1.4343845334
+   +1.4343848272
 
-Administrative contact:
-  Thomas, Ludovic (LT609)
-  Web Measurement Services B.V
-  Hogehilweg 15
+Domain Name Servers:
+  NS60.PAIR.COM
+  NS0.NS0.COM
 
-  Amsterdam CB, 1101
-  NL
-  denmark@adpepper.com
-  +31.203113850 Fax:
+Transfer-Lock Status: ENABLED
 
-Record created:           2006-08-23 15:12:00
-Record last updated:      2007-02-20 11:18:16
-Record expires:           2011-11-15 00:00:00
+ Created:     October  8, 1998
+Modified:     August 14, 2010
+ Expires:     October  6, 2015
 
-Domain servers in listed order:
-  ns1.ascio.net (ascions1)
-  ns2.ascio.net (ascions2)
-  ns3.ascio.net (ASCIONS3)
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

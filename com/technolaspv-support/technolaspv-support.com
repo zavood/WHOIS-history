@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTIGO.COM
+   Domain Name: TECHNOLASPV-SUPPORT.COM
    Registrar: ASCIO TECHNOLOGIES, INC.
    Whois Server: whois.ascio.com
    Referral URL: http://www.ascio.com
-   Name Server: NS1.ASCIO.NET
-   Name Server: NS2.ASCIO.NET
-   Name Server: NS3.ASCIO.NET
+   Name Server: NS1.GID-MBH.DE
+   Name Server: NS2.SECUREWEB.DE
    Status: ok
-   Updated Date: 16-nov-2010
-   Creation Date: 15-nov-2000
-   Expiration Date: 15-nov-2011
+   Updated Date: 24-may-2011
+   Creation Date: 04-nov-2008
+   Expiration Date: 04-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:23:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,39 +70,38 @@ Ascio Technologies WHOIS information, you agree to these terms.
 NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
 INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-  Web Measurement Services B.V (WEBMEASU345)
-  Hogehilweg 15
+  Technolas Perfect Vision GmbH (TECHNOLA237)
+  Messerschmittstrasse 1 u 3
 
-  Amsterdam CB, , 1101
-  NL
+  Muenchen, , 80992
+  DE
 
-  Domain name: motigo.com
+  Domain name: technolaspv-support.com
 
 Technical contact:
-  Hostmaster, Speednames (speednmtech)
-  Speednames
-  Islands Brygge 55
+  industrielle Datensysteme mbH, Gesellschaft fuer (GI122)
+  GiD mbH
+  Ritter-Conz-Strasse 10
 
-  Kobenhavn S, DK, 2300
-  DK
-  hostmaster@speednames.com
-  +45.33886300 Fax: +45.33886301
+  Vellberg, 74541
+  DE
+  notify@gid-mbh.de
+  +49.1805442624 Fax: +49.18054432255
 
 Administrative contact:
-  Thomas, Ludovic (LT609)
-  Web Measurement Services B.V
-  Hogehilweg 15
+  Dr. Frieder Loesel, Admin: (AD7868)
+  20/10 PERFECT VISION GmbH
+  Am Taubenfeld 21/1
 
-  Amsterdam CB, 1101
-  NL
-  denmark@adpepper.com
-  +31.203113850 Fax:
+  Heidelberg, 69123
+  DE
+  loesel@2010pv.com
+  +49.1727377935 Fax: +49.6221805447
 
-Record created:           2006-08-23 15:12:00
-Record last updated:      2007-02-20 11:18:16
-Record expires:           2011-11-15 00:00:00
+Record created:           2008-11-04 16:02:32
+Record last updated:      2011-05-24 14:46:45
+Record expires:           2011-11-04 00:00:00
 
 Domain servers in listed order:
-  ns1.ascio.net (ascions1)
-  ns2.ascio.net (ascions2)
-  ns3.ascio.net (ASCIONS3)
+  ns1.gid-mbh.de (NSGIDMBH702)
+  ns2.secureweb.de (NSSECURE268)

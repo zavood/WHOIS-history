@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOTIGO.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.ASCIO.NET
-   Name Server: NS2.ASCIO.NET
-   Name Server: NS3.ASCIO.NET
-   Status: ok
-   Updated Date: 16-nov-2010
-   Creation Date: 15-nov-2000
-   Expiration Date: 15-nov-2011
+   Domain Name: AHMETCETINTAS.COM
+   Registrar: WEB COMMERCE COMMUNICATIONS LIMITED DBA WEBNIC.CC
+   Whois Server: whois.webnic.cc
+   Referral URL: http://www.webnic.cc
+   Name Server: NS1.TURDNS.COM
+   Name Server: NS2.TURDNS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-nov-2010
+   Creation Date: 20-nov-2010
+   Expiration Date: 20-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,58 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Web Measurement Services B.V (WEBMEASU345)
-  Hogehilweg 15
+The Data in Web Commerce Communications Limited (&quot;WEBCC&quot;)'s WHOIS database
+is provided by WEBCC for information purposes, and to assist in obtaining
+information about or related to a domain name registration record. WEBCC
+does not guarantee its accuracy. By submitting a WHOIS query, you agree
+that you will use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to:
 
-  Amsterdam CB, , 1101
-  NL
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations via e-mail (spam).
+(2) enable high volume, automated, electronic processes that apply to WEBCC
+    (or its systems).
 
-  Domain name: motigo.com
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of WEBCC. WEBCC
+reserves the right to terminate your access to the WEBCC WHOIS database in
+its sole discretion, including without limitation, for excessive querying
+of the WHOIS database or for failure to otherwise abide by this policy.
+WEBCC reserves the right to modify these terms at any time.
 
-Technical contact:
-  Hostmaster, Speednames (speednmtech)
-  Speednames
-  Islands Brygge 55
 
-  Kobenhavn S, DK, 2300
-  DK
-  hostmaster@speednames.com
-  +45.33886300 Fax: +45.33886301
+Domain: ahmetcetintas.com
+Status: Protected
 
-Administrative contact:
-  Thomas, Ludovic (LT609)
-  Web Measurement Services B.V
-  Hogehilweg 15
+DNS:
+	ns1.turdns.com
+	ns2.turdns.com
 
-  Amsterdam CB, 1101
-  NL
-  denmark@adpepper.com
-  +31.203113850 Fax:
+Created: 2010-11-20 16:31:20
+Expires: 2011-11-20 16:31:20
+Last Modified: 2010-12-18 02:54:23
 
-Record created:           2006-08-23 15:12:00
-Record last updated:      2007-02-20 11:18:16
-Record expires:           2011-11-15 00:00:00
+Registrant Contact:
+	Ahmet Cetintas
+	Ahmet Cetintas (ahmetcetintas@msn.com)
+	xxx
+	xxx, bos, TR 09020
+	P: +90.9999999999 F:
 
-Domain servers in listed order:
-  ns1.ascio.net (ascions1)
-  ns2.ascio.net (ascions2)
-  ns3.ascio.net (ASCIONS3)
+Administrative Contact:
+	Ahmet Cetintas
+	Ahmet Cetintas (ahmetcetintas@msn.com)
+	xxx
+	xxx, bos, TR 09020
+	P: +90.9999999999 F:
+
+Technical Contact:
+	Ahmet Cetintas
+	Ahmet Cetintas (ahmetcetintas@msn.com)
+	xxx
+	xxx, bos, TR 09020
+	P: +90.9999999999 F:
+
+Billing Contact:
+	Ahmet Cetintas
+	Ahmet Cetintas (ahmetcetintas@msn.com)
+	xxx
+	xxx, bos, TR 09020
+	P: +90.9999999999 F:
+

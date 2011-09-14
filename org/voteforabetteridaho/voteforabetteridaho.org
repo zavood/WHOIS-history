@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102717771-LROR
+Domain Name:VOTEFORABETTERIDAHO.ORG
+Created On:15-Nov-2003 17:09:59 UTC
+Last Updated On:07-Apr-2011 22:45:53 UTC
+Expiration Date:15-Nov-2013 17:09:59 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:834732324a07b411
+Registrant Name:Charles Thomas
+Registrant Street1:2370 Three Mile Creek Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boise
+Registrant State/Province:ID
+Registrant Postal Code:83709
+Registrant Country:US
+Registrant Phone:+1.2083219127
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:freedomtree@cableone.net
+Admin ID:55358585e9c36684
+Admin Name:Charles Thomas
+Admin Street1:2370 Three mile creek way
+Admin Street2:
+Admin Street3:
+Admin City:Boise
+Admin State/Province:Id
+Admin Postal Code:83709
+Admin Country:US
+Admin Phone:+1.2083219127
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:freedomtree@q.com
+Tech ID:54339365ab35a009
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:NS2.SLINKDNS.NET
+Name Server:NS1.SLINKDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

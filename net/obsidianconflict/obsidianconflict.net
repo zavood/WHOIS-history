@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ICONINSTALLATION.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS47.DOMAINCONTROL.COM
-   Name Server: NS48.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: OBSIDIANCONFLICT.NET
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS5.KASSERVER.COM
+   Name Server: NS6.KASSERVER.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-sep-2010
-   Creation Date: 27-sep-2010
-   Expiration Date: 27-sep-2011
+   Updated Date: 10-mar-2011
+   Creation Date: 09-mar-2009
+   Expiration Date: 09-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:22:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:23:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
+domain:          obsidianconflict.net
+nserver:         ns5.kasserver.com
+nserver:         ns6.kasserver.com
+created:         2009-03-09
+updated:         0000-00-00
 
-Registrant:
-   BRETT BODE
+owner-id:        NB503886
+owner-org:
+owner-name:      Norman Becking
+owner-address:   Koenigsberger Str.12
+owner-pcode:     55606
+owner-city:      Kirn
+owner-country:   DE
+owner-phone:     +49 675 2912805
+owner-email:     w0rf0x@gmx.de
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ICONINSTALLATION.COM
+admin-id:        NB503886
+admin-org:
+admin-name:      Norman Becking
+admin-address:   Koenigsberger Str.12
+admin-pcode:     55606
+admin-city:      Kirn
+admin-country:   DE
+admin-phone:     +49 675 2912805
+admin-email:     w0rf0x@gmx.de
 
-   Domain servers in listed order:
-      NS47.DOMAINCONTROL.COM
-      NS48.DOMAINCONTROL.COM
+tech-id:         WK1126
+tech-org:        Neue Medien Muennich GmbH
+tech-name:       Werner Kaltofen
+tech-address:    Hauptstr. 68
+tech-pcode:      02742
+tech-city:       Friedersdorf
+tech-country:    DE
+tech-phone:      +49 35872 35310
+tech-fax:        +49 35872 35330
+tech-email:      hostmaster@all-inkl.com
 
+billing-id:      WK1126
+billing-org:     Neue Medien Muennich GmbH
+billing-name:    Werner Kaltofen
+billing-address: Hauptstr. 68
+billing-pcode:   02742
+billing-city:    Friedersdorf
+billing-country: DE
+billing-phone:   +49 35872 35310
+billing-fax:     +49 35872 35330
+billing-email:   hostmaster@all-inkl.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ICONINSTALLATION.COM
