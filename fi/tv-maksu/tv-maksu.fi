@@ -1,0 +1,18 @@
+
+domain:   tv-maksu.fi
+descr:    Viestint&auml;virasto
+descr:    07090192
+address:  Tietotekniikka
+address:  PL 313
+address:  00181
+address:  Helsinki
+phone:    +358969661
+status:   Granted
+created:  15.12.1999
+expires:  31.8.2012
+nserver: dns1.ficora.fi [OK]
+nserver: dns2.ficora.fi [OK]
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

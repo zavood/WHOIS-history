@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90132826-LROR
+Domain Name:WATERMARKCU.ORG
+Created On:10-Sep-2002 16:08:44 UTC
+Last Updated On:13-Jul-2011 18:30:42 UTC
+Expiration Date:10-Sep-2012 16:09:36 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17941230-NSI
+Registrant Name:Watermark Credit Union
+Registrant Organization:Watermark Credit Union
+Registrant Street1:800 Stewart ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98101
+Registrant Country:US
+Registrant Phone:+1.2063827000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bevans@stelco.org
+Admin ID:33993643-NSI
+Admin Name:webmaster WCU
+Admin Street1:800 Stewart Street
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98101
+Admin Country:US
+Admin Phone:+1.2063827000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@watermarkcu.org
+Tech ID:1676276-NSI
+Tech Name:Qwest Communications
+Tech Street1:1801 California Street
+Tech Street2:
+Tech Street3:
+Tech City:Denver
+Tech State/Province:CO
+Tech Postal Code:80202
+Tech Country:US
+Tech Phone:+1.8887780053
+Tech Phone Ext.:
+Tech FAX:+1.3033836755
+Tech FAX Ext.:
+Tech Email:domainadmin@qwest.com
+Name Server:SVL-ANS-01.INET.QWEST.NET
+Name Server:DCA-ANS-01.INET.QWEST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

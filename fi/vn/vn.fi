@@ -1,0 +1,18 @@
+
+domain:   vn.fi
+descr:    VALTIOVARAINMINISTERI&Ouml;
+descr:    02454399
+address:  -
+address:  Pl 28
+address:  00023
+address:  VALTIONEUVOSTO
+phone:    +358 9 1602 136
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns.vn.fi [OK] 194.136.183.5
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

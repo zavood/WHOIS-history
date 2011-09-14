@@ -1,0 +1,18 @@
+
+domain:   polar.fi
+descr:    POLAR ELECTRO OY
+descr:    02099112
+address:  Jyrki Schroderus
+address:  Professorintie 5
+address:  90440
+address:  KEMPELE
+phone:    +358-8-5202100
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: auth200.ns.uu.net [OK]
+nserver: auth210.ns.uu.net [OK]
+nserver: sampola.polar.fi [OK] 62.61.73.10
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

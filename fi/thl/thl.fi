@@ -1,0 +1,17 @@
+
+domain:   thl.fi
+descr:    Terveyden ja hyvinvoinnin laitos
+descr:    22295006
+address:  Ville Valtasaari / TIHA
+address:  Mannerheimintie 166
+address:  00300
+address:  Helsinki
+phone:    020 610 8402
+status:   Granted
+created:  13.5.2009
+expires:  13.5.2012
+nserver: ns.thl.fi [OK] 193.167.195.68
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

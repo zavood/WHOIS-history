@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Domain Name: INVISIONDISCUSSION.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.IPSLINK.COM
+   Name Server: NS2.IPSLINK.COM
+   Status: ok
+   Updated Date: 22-dec-2010
+   Creation Date: 20-jan-2005
+   Expiration Date: 20-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:30:33 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
-  Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
-
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
-
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+=-=-=-=
+Visit AboutUs.org for more information about invisiondiscussion.com
+&lt;a href=&quot;http://www.aboutus.org/invisiondiscussion.com&quot;&gt;AboutUs: invisiondiscussion.com&lt;/a&gt;
 
 
+Domain name: invisiondiscussion.com
+
+Registrant Contact:
+   Invision Power Services, Inc.
+   Lindy Throgmartin ()
+
+   Fax:
+   PO Box 2365
+   Forest, VA 24551
+   US
+
+Administrative Contact:
+   Invision Power Services, Inc.
+   Lindy Throgmartin (dnsadmin@invisionpower.com)
+   4343524334
+   Fax:
+   PO Box 2365
+   Forest, VA 24551
+   US
+
+Technical Contact:
+   Invision Power Services, Inc.
+   Lindy Throgmartin (dnsadmin@invisionpower.com)
+   4343524334
+   Fax:
+   PO Box 2365
+   Forest, VA 24551
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.ipslink.com
+   ns2.ipslink.com
+
+Creation date: 20 Jan 2005 18:50:09
+Expiration date: 20 Jan 2012 18:50:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
