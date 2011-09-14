@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: MIN2186D-NORID
+Domain Name................: minsj&aring;f&oslash;r.no
+ACE Domain Name............: xn--minsjfr-ixa6o.no
+Domain Holder Handle.......: DVFM3O-NORID
+Registrar Handle...........: REG752-NORID
+Legal-c Handle.............: FM714P-NORID
+Tech-c Handle..............: JH10R-NORID
+Name Server Handle.........: NSTA78H-NORID
+Name Server Handle.........: NSTA79H-NORID
+Name Server Handle.........: NSTA80H-NORID
+
+Additional information:
+Created:         2007-11-27
+Last updated:    2010-12-12
+
+NORID Handle...............: DVFM3O-NORID
+Type.......................: organization
+Name.......................: DATA &amp; VIDEOSIKRING Frode Muri
+Id Type....................: organization_number
+Id Number..................: 970460853
+Registrar Handle...........: REG752-NORID
+Post Address...............: Postboks 302
+Postal Code................: NO-1379
+Postal Area................: NESBRU
+Country....................: NO
+Phone Number...............: +47.66794147
+Email Address..............: muri@c2i.net
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

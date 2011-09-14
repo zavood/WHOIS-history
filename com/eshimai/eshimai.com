@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHOWUMWHATCHAGOT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBTECHBIZ.NET
-   Name Server: NS2.WEBTECHBIZ.NET
-   Name Server: NS3.WEBTECHBIZ.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-feb-2011
-   Creation Date: 26-feb-2008
-   Expiration Date: 26-feb-2012
+   Domain Name: ESHIMAI.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS1.DNSV2.COM
+   Name Server: NS2.DNSV2.COM
+   Status: ok
+   Updated Date: 23-aug-2011
+   Creation Date: 05-jan-2007
+   Expiration Date: 05-jan-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:44:28 UTC &lt;&lt;&lt;
 
@@ -55,38 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name      : eshimai.com
+PunnyCode        : eshimai.com
+Creation Date    : 2007-01-05 00:00:00
+Updated Date     : 2011-08-23 12:05:11
+Expiration Date  : 2013-01-05 00:00:00
 
 
 Registrant:
-   The Masters House
+  Organization   : E Shimai
+  Name           : MaXinbo
+  Address        : Qingdao Jingjikaifaqu
+  City           : Qingdao
+  Province/State : Shandong
+  Country        : CN
+  Postal Code    : 266555
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHOWUMWHATCHAGOT.COM
+Administrative Contact:
+  Name           : LiLi
+  Organization   : E Shimai
+  Address        : Qingdao Jingjikaifaqu
+  City           : Qingdao
+  Province/State : Shandong
+  Country        : CN
+  Postal Code    : 266555
+  Phone Number   : 86-532-86888646
+  Fax            : 86-532-86888646
+  Email          : mxinbo@163.com
 
-   Domain servers in listed order:
-      NS1.WEBTECHBIZ.NET
-      NS2.WEBTECHBIZ.NET
-      NS3.WEBTECHBIZ.NET
+Technical Contact:
+  Name           : LiLi
+  Organization   : E Shimai
+  Address        :
+  City           : Qingdao
+  Province/State : Beijing
+  Country        : CN
+  Postal Code    : 266555
+  Phone Number   : 86-532-86888646
+  Fax            : 86-532-86888646
+  Email          : mxinbo@163.com
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHOWUMWHATCHAGOT.COM
+Billing Contact:
+  Name           : LiLi
+  Organization   : E Shimai
+  Address        : Qingdao Jingjikaifaqu
+  City           : Qingdao
+  Province/State : Beijing
+  Country        : CN
+  Postal Code    : 266555
+  Phone Number   : 86-532-86888646
+  Fax            : 86-532-86888646
+  Email          : mxinbo@163.com

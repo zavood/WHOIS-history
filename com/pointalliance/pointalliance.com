@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHOWUMWHATCHAGOT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBTECHBIZ.NET
-   Name Server: NS2.WEBTECHBIZ.NET
-   Name Server: NS3.WEBTECHBIZ.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: POINTALLIANCE.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: DNS1.POINTALLIANCE.COM
+   Name Server: DNS2.POINTALLIANCE.COM
+   Name Server: OLYMPUS.POINTALLIANCE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-feb-2011
-   Creation Date: 26-feb-2008
-   Expiration Date: 26-feb-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 11-jul-2002
+   Expiration Date: 11-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:45:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-   The Masters House
+http://www.networksolutions.com/whois/index.jhtml
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHOWUMWHATCHAGOT.COM
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Domain servers in listed order:
-      NS1.WEBTECHBIZ.NET
-      NS2.WEBTECHBIZ.NET
-      NS3.WEBTECHBIZ.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHOWUMWHATCHAGOT.COM
+Whois Query: pointalliance.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 17:35:24 EDT 2011
+Reason Code: IE

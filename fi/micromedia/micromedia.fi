@@ -1,0 +1,18 @@
+
+domain:   micromedia.fi
+descr:    MicroMedia Oy
+descr:    08614154
+address:  Marietta Johansson
+address:  PL 164
+address:  00811
+address:  Helsinki
+phone:    0800-0-5055
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: gate.micromedia.fi [ERROR] 194.157.248.2
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -5,22 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHOWUMWHATCHAGOT.COM
+   Domain Name: BENNETT-THRASHER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBTECHBIZ.NET
-   Name Server: NS2.WEBTECHBIZ.NET
-   Name Server: NS3.WEBTECHBIZ.NET
+   Name Server: NS01.BENNETT-THRASHER.COM
+   Name Server: NS02.BENNETT-THRASHER.COM
+   Name Server: NS03.BENNETT-THRASHER.COM
+   Name Server: NS04.BENNETT-THRASHER.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-feb-2011
-   Creation Date: 26-feb-2008
-   Expiration Date: 26-feb-2012
+   Updated Date: 15-sep-2010
+   Creation Date: 26-nov-1996
+   Expiration Date: 25-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:44:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,16 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   The Masters House
+   Bennett-Thrasher
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHOWUMWHATCHAGOT.COM
+   Domain Name: BENNETT-THRASHER.COM
 
    Domain servers in listed order:
-      NS1.WEBTECHBIZ.NET
-      NS2.WEBTECHBIZ.NET
-      NS3.WEBTECHBIZ.NET
+      NS01.BENNETT-THRASHER.COM
+      NS03.BENNETT-THRASHER.COM
+      NS02.BENNETT-THRASHER.COM
+      NS04.BENNETT-THRASHER.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHOWUMWHATCHAGOT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BENNETT-THRASHER.COM
