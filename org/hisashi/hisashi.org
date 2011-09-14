@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17642074-LROR
+Domain Name:HISASHI.ORG
+Created On:15-Jan-2000 09:38:28 UTC
+Last Updated On:26-Nov-2010 00:16:03 UTC
+Expiration Date:15-Jan-2012 09:38:28 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:A109826765302046
+Registrant Name:hisashi shimizu
+Registrant Organization:hisashi shimizu
+Registrant Street1:Sunshine60 35F 3-1-1 Higashiik
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tosima-Ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:170-6035
+Registrant Country:JP
+Registrant Phone:+99.99999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nic-staff@sakura.ad.jp
+Admin ID:B109819855963987
+Admin Name:Sakura Internet, Inc.
+Admin Organization:Sakura Internet, Inc.
+Admin Street1:Naniwa Building 4F
+Admin Street2:**
+Admin Street3:
+Admin City:OSAKA
+Admin State/Province:VA
+Admin Postal Code:5410056
+Admin Country:JP
+Admin Phone:+1.81662654831
+Admin Phone Ext.:
+Admin FAX:+1.81662654834
+Admin FAX Ext.:
+Admin Email:nic-staff@sakura.ad.jp
+Tech ID:B109819855963988
+Tech Name:Kunihiro Tanaka
+Tech Organization:NA
+Tech Street1:1-9-26 Senba IS Buildling.3F
+Tech Street2:Kuntaro-cho , Chuou-ku
+Tech Street3:
+Tech City:Osaka City
+Tech State/Province:OSAKA
+Tech Postal Code:541-0056
+Tech Country:JP
+Tech Phone:+816.62654830
+Tech Phone Ext.:
+Tech FAX:+813.62654834
+Tech FAX Ext.:
+Tech Email:tanaka@sakura.ad.jp
+Name Server:NS1.DNS.NE.JP
+Name Server:NS2.DNS.NE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
