@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRASILNOC.COM
+   Domain Name: LEFTYMALO.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BRASILNOC.COM
-   Name Server: NS2.BRASILNOC.COM
-   Status: ok
-   Updated Date: 30-may-2011
-   Creation Date: 05-jun-2007
-   Expiration Date: 05-jun-2012
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-mar-2011
+   Creation Date: 26-mar-2007
+   Expiration Date: 26-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:08:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about brasilnoc.com
-&lt;a href=&quot;http://www.aboutus.org/brasilnoc.com&quot;&gt;AboutUs: brasilnoc.com&lt;/a&gt;
+Visit AboutUs.org for more information about leftymalo.com
+&lt;a href=&quot;http://www.aboutus.org/leftymalo.com&quot;&gt;AboutUs: leftymalo.com&lt;/a&gt;
 
 
-Domain name: brasilnoc.com
+Domain name: leftymalo.com
 
 Registrant Contact:
-
-   Jader Cunha ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   Av. Epitacio Pessoa, 753
-   Joao Pessoa,  58030-001
-   BR
+   PMB 368, 14150 NE 20th St - F1
+   C/O leftymalo.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-
-   Jader Cunha (brasnoc@gmail.com)
-   +1.1126260750
-   Fax:
-   Av. Epitacio Pessoa, 753
-   Joao Pessoa,  58030-001
-   BR
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (xdmmcddr@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O leftymalo.com
+   Bellevue, WA 98007
+   US
 
 Technical Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (xdmmcddr@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O leftymalo.com
+   Bellevue, WA 98007
+   US
 
-   Jader Cunha (brasnoc@gmail.com)
-   +1.1126260750
-   Fax:
-   Av. Epitacio Pessoa, 753
-   Joao Pessoa,  58030-001
-   BR
-
-Status: Active
+Status: Locked
 
 Name Servers:
-   ns1.brasilnoc.com
-   ns2.brasilnoc.com
+   ns.rackspace.com
+   ns2.rackspace.com
 
-Creation date: 05 Jun 2007 20:15:27
-Expiration date: 05 Jun 2012 20:15:27
+Creation date: 27 Mar 2007 02:49:05
+Expiration date: 27 Mar 2012 02:49:05
 
 
 
