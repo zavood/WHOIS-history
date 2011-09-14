@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 05-may-2009
    Expiration Date: 05-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:05:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:00:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -128,7 +128,7 @@ Domain servers in listed order:
         NS1.MONIKERDNS.NET         208.73.210.41
         NS2.MONIKERDNS.NET         208.73.211.42
         NS3.MONIKERDNS.NET         208.73.210.43
-        NS4.MONIKERDNS.NET         208.73.211.44
+        NS4.MONIKERDNS.NET         50.57.11.88
 
         Record created on:        2009-05-05 23:34:49.0
         Database last updated on: 2011-05-09 15:45:35.203

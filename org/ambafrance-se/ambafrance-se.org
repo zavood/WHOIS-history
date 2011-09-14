@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D49584610-LROR
+Domain Name:AMBAFRANCE-SE.ORG
+Created On:20-Dec-2000 14:42:34 UTC
+Last Updated On:17-Jul-2011 00:26:33 UTC
+Expiration Date:20-Dec-2012 14:42:34 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:MIN216962797
+Registrant Name:Organization
+Registrant Organization:MINISTERE DES AFFAIRES ETRANGERES ET EUROPEENNES
+Registrant Street1:37
+Registrant Street2:quai d'Orsay
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:IDF
+Registrant Postal Code:75007
+Registrant Country:FR
+Registrant Phone:+33.143175124
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sites-postes.dcp-comdoc@diplomatie.gouv.fr
+Admin ID:MIN216962797
+Admin Name:Organization
+Admin Organization:MINISTERE DES AFFAIRES ETRANGERES ET EUROPEENNES
+Admin Street1:37
+Admin Street2:quai d'Orsay
+Admin Street3:
+Admin City:Paris
+Admin State/Province:IDF
+Admin Postal Code:75007
+Admin Country:FR
+Admin Phone:+33.143175124
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sites-postes.dcp-comdoc@diplomatie.gouv.fr
+Tech ID:P-15255689
+Tech Name:OXYD OXYD
+Tech Organization:OXYD SARL
+Tech Street1:35 37 RUE DES PETITS CHAMPS
+Tech Street2:
+Tech Street3:
+Tech City:75001
+Tech State/Province:75001
+Tech Postal Code:PARIS
+Tech Country:FR
+Tech Phone:+33.826305350
+Tech Phone Ext.:
+Tech FAX:+33.140270830
+Tech FAX Ext.:
+Tech Email:domains@oxyd.fr
+Name Server:NS3.OXYD.NET
+Name Server:PSK3248.OXYD.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

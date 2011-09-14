@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 18:01:36 (BRT -03:00)
+
+domain:      amorc.org.br
+owner:       ANTIGA E MISTICA ORDEM ROSAE CRUZ -AMORCGLP
+ownerid:     076.565.720/0001-66
+responsible: Amauri Micos
+country:     BR
+owner-c:     AMM205
+admin-c:     AMM205
+tech-c:      HOM17
+billing-c:   AMM205
+nserver:     ns1.plesk0082.hospedagemdesites.ws
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.plesk0082.hospedagemdesites.ws
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     19961128 #23455
+expires:     20171128
+changed:     20110810
+status:      published
+
+nic-hdl-br:  AMM205
+person:      Amauri Micos
+e-mail:      amaurilm@amorc.org.br
+created:     20001205
+changed:     20010529
+
+nic-hdl-br:  HOM17
+person:      Hostmaster Matrix
+e-mail:      adm@matrix.com.br
+created:     20001017
+changed:     20110803
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

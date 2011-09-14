@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITEMETER.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Domain Name: CRHTECH.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 04-apr-2011
-   Creation Date: 04-apr-1998
-   Expiration Date: 03-apr-2012
+   Status: clientUpdateProhibited
+   Updated Date: 06-dec-2010
+   Creation Date: 05-dec-2001
+   Expiration Date: 05-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:01:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:01:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,47 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-   Site Meter Inc.
-   8721 Santa Monica Blvd.
-   Santa Monica, CA 90069-4507
-   US
+   CRHouse Technology Inc.
 
-   Domain Name: SITEMETER.COM
-
-   Administrative Contact, Technical Contact, Zone Contact:
-      Site Meter Inc.
-      8721 Santa Monica Blvd.
-      Santa Monica, CA 90069-4507
-      US
-      (508)555-1212
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
-
-   Domain created on 04-Apr-1998
-   Domain expires on 03-Apr-2013
-   Last updated on 25-Sep-2009
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CRHTECH.COM
 
    Domain servers in listed order:
+      NS25.DOMAINCONTROL.COM
+      NS26.DOMAINCONTROL.COM
 
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CRHTECH.COM

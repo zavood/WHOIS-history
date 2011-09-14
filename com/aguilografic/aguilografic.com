@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SITEMETER.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientTransferProhibited
-   Updated Date: 04-apr-2011
-   Creation Date: 04-apr-1998
-   Expiration Date: 03-apr-2012
+   Domain Name: AGUILOGRAFIC.COM
+   Registrar: 10DENCEHISPAHARD, S.L
+   Whois Server: whois.cdmon.com
+   Referral URL: http://www.cdmon.com
+   Name Server: NS1.CDMON.NET
+   Name Server: NS2.CDMON.NET
+   Name Server: NS3.CDMON.NET
+   Status: ok
+   Updated Date: 31-jul-2010
+   Creation Date: 14-apr-2004
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:01:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:00:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,46 +53,66 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
 Registrant:
-   Site Meter Inc.
-   8721 Santa Monica Blvd.
-   Santa Monica, CA 90069-4507
-   US
+ Xavier Aguilo
+ carrer baliarda 13
+ 08030
+ ES
 
-   Domain Name: SITEMETER.COM
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Site Meter Inc.
-      8721 Santa Monica Blvd.
-      Santa Monica, CA 90069-4507
-      US
-      (508)555-1212
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
 
-   Domain created on 04-Apr-1998
-   Domain expires on 03-Apr-2013
-   Last updated on 25-Sep-2009
+Domain name : AGUILOGRAFIC.COM
+Registrar of record: 10Dencehispahard SL
+Record last updated on :27-May-2010
+Record expires on :14-Apr-2012
+Record created on :14-Apr-2004
 
-   Domain servers in listed order:
 
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+Administrative Contact:
+ Xavier Aguilo,    aguiloweb@aguilografic.com
+ carrer baliarda 13
+ barcelona 08030
+ ES
+ +34.932744717
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
 
+Technical Contact:
+ Xavier Aguilo    aguiloweb@aguilografic.com
+ carrer baliarda 13
+ barcelona 08030
+ ES
+ +34.932744717
+
+
+
+ 10dencehispahard SL, info@cdmon.com
+ +34.902364138
+ +34.937614977 (fax)
+ http://www.cdmon.com
+
+
+
+Domain servers in listed order:
+ NS1.CDMON.NET
+ NS2.CDMON.NET
+ NS3.CDMON.NET
+
+
+
+The information in this whois database is provided for the sole purpose
+of assisting you in obtaining information about domain name registration records.
+This information is available &quot;as is,&quot; and we do not guarantee its accuracy.
+By submitting a whois query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load this whois
+database system providing you this information; or (2) allow, enable, or otherwise
+support the transmission of mass, unsolicited, commercial advertising or solicitations
+via facsimile, electronic mail, or by telephone to entities other than your own existing
+customers.  The compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from 10Dencehispahard SL.
+
+
+10Dencehispahard SL reserves the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.
