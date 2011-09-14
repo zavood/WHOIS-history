@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 13:05:07 (BRT -03:00)
+
+domain:      abraten.com.br
+owner:       Associa&ccedil;&atilde;o Brasileira de Terapias Naturais em Enfe
+ownerid:     010.272.719/0001-35
+responsible: Helena Trindade
+country:     BR
+owner-c:     HETRI7
+admin-c:     HETRI7
+tech-c:      HETRI7
+billing-c:   HETRI7
+nserver:     ns1.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20080917 #4873854
+expires:     20120917
+changed:     20100922
+status:      published
+
+nic-hdl-br:  HETRI7
+person:      Helena Trindade
+e-mail:      webmaster@portalcoren-rs.gov.br
+created:     20080829
+changed:     20080829
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

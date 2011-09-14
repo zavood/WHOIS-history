@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OTCCM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS67.WORLDNIC.COM
-   Name Server: NS68.WORLDNIC.COM
+   Domain Name: CASHCANCERINSURANCE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 28-jul-2011
-   Expiration Date: 28-jul-2016
+   Updated Date: 04-jul-2011
+   Creation Date: 25-aug-2008
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:03:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... cashcancerinsurance.com
+  Creation Date........ 2008-08-26
+  Registration Date.... 2010-06-07
+  Expiry Date.......... 2012-08-26
+  Organisation Name.... Humana Inc.
+  Organisation Address. 500 West Main St.
+  Organisation Address.
+  Organisation Address. Louisville
+  Organisation Address. 40202
+  Organisation Address. Kentucky
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Admin .
+  Admin Address........ 500 West Main Street
+  Admin Address........
+  Admin Address........ Louisville
+  Admin Address........ 40202
+  Admin Address........ KY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domainadmin@humana.com
+  Admin Phone.......... +1.5025801000
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Admin .
+  Tech Address......... 500 West Main Street
+  Tech Address.........
+  Tech Address......... Louisville
+  Tech Address......... 40202
+  Tech Address......... KY
+  Tech Address......... UNITED STATES
+  Tech Email........... domainadmin@humana.com
+  Tech Phone........... +1.5025801000
+  Tech Fax.............
+  Name Server.......... k4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... l4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... a4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: otccm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:54:35 EDT 2011
-Reason Code: IE

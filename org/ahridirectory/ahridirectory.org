@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150063282-LROR
+Domain Name:AHRIDIRECTORY.ORG
+Created On:29-Nov-2007 05:08:02 UTC
+Last Updated On:10-Dec-2009 08:35:47 UTC
+Expiration Date:29-Nov-2016 05:08:02 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34336671
+Registrant Name:Director IT
+Registrant Organization:AHRI
+Registrant Street1:2111 Wilson Blvd
+Registrant Street2:Suite 500
+Registrant Street3:
+Registrant City:Arlington
+Registrant State/Province:Virginia
+Registrant Postal Code:22201
+Registrant Country:US
+Registrant Phone:+1.7035248800
+Registrant Phone Ext.:
+Registrant FAX:+1.7035621942
+Registrant FAX Ext.:
+Registrant Email:domains@ahrinet.org
+Admin ID:CR34336673
+Admin Name:Director IT
+Admin Organization:AHRI
+Admin Street1:2111 Wilson Blvd
+Admin Street2:Suite 500
+Admin Street3:
+Admin City:Arlington
+Admin State/Province:Virginia
+Admin Postal Code:22201
+Admin Country:US
+Admin Phone:+1.7035248800
+Admin Phone Ext.:
+Admin FAX:+1.7035621942
+Admin FAX Ext.:
+Admin Email:domains@ahrinet.org
+Tech ID:CR34336672
+Tech Name:Director IT
+Tech Organization:AHRI
+Tech Street1:2111 Wilson Blvd
+Tech Street2:Suite 500
+Tech Street3:
+Tech City:Arlington
+Tech State/Province:Virginia
+Tech Postal Code:22201
+Tech Country:US
+Tech Phone:+1.7035248800
+Tech Phone Ext.:
+Tech FAX:+1.7035621942
+Tech FAX Ext.:
+Tech Email:domains@ahrinet.org
+Name Server:NS1.DNSMADEEASY.COM
+Name Server:NS4.DNSMADEEASY.COM
+Name Server:NS3.DNSMADEEASY.COM
+Name Server:NS0.DNSMADEEASY.COM
+Name Server:NS2.DNSMADEEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

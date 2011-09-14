@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OTCCM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS67.WORLDNIC.COM
-   Name Server: NS68.WORLDNIC.COM
+   Domain Name: AIRPOWER.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 28-jul-2011
-   Expiration Date: 28-jul-2016
+   Updated Date: 18-mar-2010
+   Creation Date: 20-jul-1995
+   Expiration Date: 19-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:03:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+HENRY, JAMES
+   AIRPOWER INFORMATION SERVICES
+   364 Icedale Rd
+   Honey Brook, PA 19344-8662
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: AIRPOWER.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      HENRY, JAMES		jimhenry2000@yahoo.com
+      AIRPOWER INFORMATION SERVICES
+      364 Icedale Rd
+      Honey Brook, PA 19344-8662
+      US
+      484-722-4088
 
-Whois Query: otccm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:54:35 EDT 2011
-Reason Code: IE
+
+   Record expires on 19-Jul-2014.
+   Record created on 12-Mar-2004.
+   Database last updated on 14-Sep-2011 11:59:12 EDT.
+
+   Domain servers in listed order:
+
+   NS1.MYDYNDNS.ORG             204.13.248.76
+   NS2.MYDYNDNS.ORG             204.13.249.76
+   NS3.MYDYNDNS.ORG             208.78.69.76
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

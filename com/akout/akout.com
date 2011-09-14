@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OTCCM.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS67.WORLDNIC.COM
-   Name Server: NS68.WORLDNIC.COM
+   Domain Name: AKOUT.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 28-jul-2011
-   Expiration Date: 28-jul-2016
+   Updated Date: 14-sep-2011
+   Creation Date: 28-sep-2007
+   Expiration Date: 28-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:03:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: otccm.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:54:35 EDT 2011
-Reason Code: IE
+Domain Name : AKOUT.COM
+Created On : 2007-09-28
+Expiration Date : 2012-09-28
+Status : PROTECTED
+Registrant Name : Guillaume Peroux
+Registrant Street1 : 16 imp des Ravenales
+Registrant City : Sainte-Marie
+Registrant State/Province  :
+Registrant Postal Code : 97438
+Registrant Country : RE
+Admin Name : Guillaume Peroux
+Admin Street1 : 16 imp des Ravenales
+Admin City : Sainte-Marie
+Admin State/Province : RE
+Admin Postal Code : 97438
+Admin Country : RE
+Admin Phone : +26.2262728108
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

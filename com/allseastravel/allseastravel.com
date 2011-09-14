@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OTCCM.COM
+   Domain Name: ALLSEASTRAVEL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS67.WORLDNIC.COM
-   Name Server: NS68.WORLDNIC.COM
+   Name Server: NS1.LEVELFIELD.COM
+   Name Server: NS2.LEVELFIELD.COM
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 28-jul-2011
-   Expiration Date: 28-jul-2016
+   Updated Date: 22-jun-2006
+   Creation Date: 27-apr-2000
+   Expiration Date: 27-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: otccm.com
+Whois Query: allseastravel.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:54:35 EDT 2011
+Date and Time of Query: Wed Sep 14 11:55:02 EDT 2011
 Reason Code: IE

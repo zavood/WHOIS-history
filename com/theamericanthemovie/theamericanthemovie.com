@@ -5,16 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OTCCM.COM
+   Domain Name: THEAMERICANTHEMOVIE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS67.WORLDNIC.COM
-   Name Server: NS68.WORLDNIC.COM
+   Name Server: NS1.NETBCP.COM
+   Name Server: NS2.NETBCP.NET
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 28-jul-2011
-   Creation Date: 28-jul-2011
-   Expiration Date: 28-jul-2016
+   Updated Date: 02-sep-2011
+   Creation Date: 08-sep-2009
+   Expiration Date: 08-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:04:05 UTC &lt;&lt;&lt;
 
@@ -67,7 +73,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: otccm.com
+Whois Query: theamericanthemovie.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:54:35 EDT 2011
+Date and Time of Query: Wed Sep 14 11:59:40 EDT 2011
 Reason Code: IE
