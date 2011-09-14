@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81234358-LROR
+Domain Name:PHPNET.ORG
+Created On:15-Dec-2001 17:11:45 UTC
+Last Updated On:21-May-2006 08:36:04 UTC
+Expiration Date:15-Dec-2012 17:11:45 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-472066-Gandi
+Registrant Name:Thibaud GRANGIER
+Registrant Organization:PHPNET FRANCE
+Registrant Street1:123 ter Cours de la LibAration
+Registrant Street2:
+Registrant Street3:
+Registrant City:Grenoble
+Registrant State/Province:
+Registrant Postal Code:38100
+Registrant Country:FR
+Registrant Phone:+33.456586500
+Registrant Phone Ext.:
+Registrant FAX:+33.438492795
+Registrant FAX Ext.:
+Registrant Email:thibaud@phpnet.org
+Admin ID:TG192-GANDI
+Admin Name:Thibaud GRANGIER
+Admin Organization:PHPNET FRANCE
+Admin Street1:123 ter Cours de la LibAration
+Admin Street2:
+Admin Street3:
+Admin City:Grenoble
+Admin State/Province:
+Admin Postal Code:38100
+Admin Country:FR
+Admin Phone:+33.456586500
+Admin Phone Ext.:
+Admin FAX:+33.438492795
+Admin FAX Ext.:
+Admin Email:thibaud@phpnet.org
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:NS.PHPNET.ORG
+Name Server:NS2.PHPNET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
