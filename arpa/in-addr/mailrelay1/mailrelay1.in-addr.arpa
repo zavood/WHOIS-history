@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IN-ADDR.ARPA
+
+organisation: Internet Assigned Numbers Authority (IANA)
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey CA 90292-6610
+address:      US
+
+contact:      administrative
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way, Suite 330
+address:      Marina del Rey CA 90292
+address:      USA
+phone:        +1 310 823 9358
+fax-no:       +1 310 823 8649
+e-mail:       iana@iana.org
+
+contact:      technical
+name:         ICANN DNS Operations
+organisation: Internet Corporation for Assigned Names and Numbers
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      US
+phone:        +1 310 301 5817
+fax-no:       +1 310 823 8649
+e-mail:       network@dns.icann.org
+
+nserver:      A.IN-ADDR-SERVERS.ARPA 199.212.0.73 2001:500:13:0:0:0:0:73
+nserver:      B.IN-ADDR-SERVERS.ARPA 199.253.183.183 2001:500:87:0:0:0:0:87
+nserver:      C.IN-ADDR-SERVERS.ARPA 196.216.169.10 2001:43f8:110::10
+nserver:      D.IN-ADDR-SERVERS.ARPA 200.10.60.53 2001:13c7:7010::53
+nserver:      E.IN-ADDR-SERVERS.ARPA 2001:dd8:6::101 203.119.86.101
+nserver:      F.IN-ADDR-SERVERS.ARPA 193.0.9.1 2001:67c:e0::1
+ds-rdata:     53696 8 2 13e5501c56b20394da921b51412d48b7089c5eb6957a7c58553c4d4d424f04df
+
+created:      1994-09-27
+changed:      2011-03-17
+source:       IANA
+

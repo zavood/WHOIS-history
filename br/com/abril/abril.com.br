@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 18:16:10 (BRT -03:00)
+
+domain:      abril.com.br
+owner:       Editora Abril S.A.
+ownerid:     002.183.757/0001-93
+responsible: Abril Digital
+country:     BR
+owner-c:     ABDAD
+admin-c:     ABDAD
+tech-c:      ABDTE
+billing-c:   ABDAD
+nserver:     abddns01.abrdigital.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     abddns02.abrdigital.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19950516
+expires:     20200101
+changed:     20091229
+status:      published
+
+nic-hdl-br:  ABDAD
+person:      Abril Digital Administrativo
+e-mail:      admdominios@abril.com.br
+created:     20081219
+changed:     20100818
+
+nic-hdl-br:  ABDTE
+person:      Abril Digital Tecnico
+e-mail:      ops-datacenter@abril.com.br
+created:     20081219
+changed:     20110118
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

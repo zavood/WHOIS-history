@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 18:16:24 (BRT -03:00)
+
+domain:      rellus.com.br
+owner:       Novo Mil&ecirc;nio Textil Ltda
+ownerid:     003.318.542/0001-03
+responsible: Leda de F&aacute;tima Gontijo
+country:     BR
+owner-c:     LFG198
+admin-c:     LFG198
+tech-c:      LFG198
+billing-c:   LFG198
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20050126 #1975202
+expires:     20120126
+changed:     20110104
+status:      published
+
+nic-hdl-br:  LFG198
+person:      Leda de F&aacute;tima Gontijo
+e-mail:      informatica@rellus.com.br
+created:     20050118
+changed:     20090115
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

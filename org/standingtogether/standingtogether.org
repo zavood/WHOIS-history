@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67550939-LROR
+Domain Name:STANDINGTOGETHER.ORG
+Created On:12-Mar-2001 02:27:44 UTC
+Last Updated On:02-Dec-2009 22:16:48 UTC
+Expiration Date:12-Mar-2013 02:27:44 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31123444
+Registrant Name:Greg Johnson
+Registrant Organization:Standing Together
+Registrant Street1:P.O. Box 685
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lehi
+Registrant State/Province:Utah
+Registrant Postal Code:84043
+Registrant Country:US
+Registrant Phone:+1.8014741363
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:greg@standingtogether.org
+Admin ID:CR31123446
+Admin Name:Greg Johnson
+Admin Organization:Standing Together
+Admin Street1:P.O. Box 685
+Admin Street2:
+Admin Street3:
+Admin City:Lehi
+Admin State/Province:Utah
+Admin Postal Code:84043
+Admin Country:US
+Admin Phone:+1.8014741363
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:greg@standingtogether.org
+Tech ID:CR31123445
+Tech Name:Greg Johnson
+Tech Organization:Standing Together
+Tech Street1:P.O. Box 685
+Tech Street2:
+Tech Street3:
+Tech City:Lehi
+Tech State/Province:Utah
+Tech Postal Code:84043
+Tech Country:US
+Tech Phone:+1.8014741363
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:greg@standingtogether.org
+Name Server:NS1057.HOSTGATOR.COM
+Name Server:NS1058.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
