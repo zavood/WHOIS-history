@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85605538-LROR
+Domain Name:ROOTSONLINE.ORG
+Created On:15-Apr-2002 13:56:17 UTC
+Last Updated On:15-Apr-2011 03:47:31 UTC
+Expiration Date:15-Apr-2013 13:56:17 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuQ6NMZ00WIP44WP
+Registrant Name:-- -
+Registrant Street1:21 Crown Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Morden
+Registrant State/Province:--
+Registrant Postal Code:SM45BY
+Registrant Country:GB
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@pure-solutions.co.uk
+Admin ID:tuqig0mHFKqrty0m
+Admin Name:Andy Barr
+Admin Organization:Pure Solutions
+Admin Street1:Studio 21, RVPB
+Admin Street2:Fitzhugh Grove
+Admin Street3:
+Admin City:London
+Admin State/Province:--
+Admin Postal Code:SW183SX
+Admin Country:GB
+Admin Phone:+020.88747488
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@pure-solutions.co.uk
+Tech ID:tuqig0mHFKqrty0m
+Tech Name:Andy Barr
+Tech Organization:Pure Solutions
+Tech Street1:Studio 21, RVPB
+Tech Street2:Fitzhugh Grove
+Tech Street3:
+Tech City:London
+Tech State/Province:--
+Tech Postal Code:SW183SX
+Tech Country:GB
+Tech Phone:+020.88747488
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@pure-solutions.co.uk
+Name Server:NS.MAINNAMESERVER.COM
+Name Server:NS2.MAINNAMESERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
