@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OESISOK.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 04-oct-2007
-   Expiration Date: 04-oct-2012
+   Domain Name: KATYSAYS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS273.WEBSITEWELCOME.COM
+   Name Server: NS274.WEBSITEWELCOME.COM
+   Status: ok
+   Updated Date: 20-jul-2009
+   Creation Date: 07-jul-2009
+   Expiration Date: 07-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:19:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:20:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... katysays.com
+  Creation Date........ 2009-07-08
+  Registration Date.... 2009-07-08
+  Expiry Date.......... 2012-07-08
+  Organisation Name.... Katy Santiago
+  Organisation Address. PO Box 61359
+  Organisation Address.
+  Organisation Address. Sunnyvale
+  Organisation Address. 94088
+  Organisation Address. CA
+  Organisation Address. US
+
+Admin Name........... Admin PrivateRegContact
+  Admin Address........ PO Box 61359
+  Admin Address........ registered post accepted only
+  Admin Address........ Sunnyvale
+  Admin Address........ 94088
+  Admin Address........ CA
+  Admin Address........ US
+  Admin Email.......... contact@myprivateregistration.com
+  Admin Phone.......... +1.5105952002
+  Admin Fax............
+
+Tech Name............ TECH PrivateRegContact
+  Tech Address......... PO Box 61359
+  Tech Address......... registered post accepted only
+  Tech Address......... Sunnyvale
+  Tech Address......... 94088
+  Tech Address......... CA
+  Tech Address......... US
+  Tech Email........... contact@myprivateregistration.com
+  Tech Phone........... +1.5105952002
+  Tech Fax.............
+  Name Server.......... ns273.websitewelcome.com
+  Name Server.......... ns274.websitewelcome.com
 
 
-Registrant:
-   OPSWAT, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: OESISOK.COM
-
-   Domain servers in listed order:
-      NS77.DOMAINCONTROL.COM
-      NS78.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=OESISOK.COM
