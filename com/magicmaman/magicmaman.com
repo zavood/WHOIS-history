@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONTOPLIST.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SOFTLAYER.COM
-   Name Server: NS2.SOFTLAYER.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-jan-2011
-   Creation Date: 09-jan-2006
-   Expiration Date: 09-jan-2013
+   Domain Name: MAGICMAMAN.COM
+   Registrar: REGISTER NV DBA REGISTER.EU
+   Whois Server: whois.register.eu
+   Referral URL: http://www.register.eu
+   Name Server: NS1.E-ZONE.FR
+   Name Server: NS2.E-ZONE.FR
+   Name Server: NS3.E-ZONE.FR
+   Status: ok
+   Updated Date: 26-jul-2011
+   Creation Date: 06-apr-2000
+   Expiration Date: 06-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:30:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:30:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Register NV 's WHOIS database is provided by Register NV
+for information purposes only. By submitting a WHOIS query,
+you agree that you will use this data only for lawful purpose.
+In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Register NV reserves the right to modify these terms at any time.
+By accessing and using Register NV WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 
+Domain name: magicmaman.com
 
 Registrant:
-   Dariusz Sobierajewicz
+ Magicmaman
+ 10 boulevard des freres Voisin
+ 92792 Issy-les-moulineaux cedex 9
+ FR
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ONTOPLIST.COM
+Administrative Contact:
+ Customer Support
+ E-Zone.fr
+ Boulevard Malesherbes 149
+ 75017 Paris
+ FR
+ info@e-zone.fr
+ Phone: +33.170700393
+ Fax: +33.170700394
 
-   Domain servers in listed order:
-      NS1.SOFTLAYER.COM
-      NS2.SOFTLAYER.COM
+Technical Contact:
+ Technical Support
+ E-Zone.fr
+ Boulevard Malesherbes 149
+ 75017 Paris
+ FR
+ info@e-zone.fr
+ Phone: +33.170700393
+ Fax: +33.170700394
 
+Name servers:
+ ns1.e-zone.fr
+ ns2.e-zone.fr
+ ns3.e-zone.fr
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ONTOPLIST.COM
+Creation Date: 06-04-2000
+Last Updated On: 24-08-2011
+Expiration Date: 06-04-2012

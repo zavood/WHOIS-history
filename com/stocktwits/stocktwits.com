@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ONTOPLIST.COM
+   Domain Name: STOCKTWITS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SOFTLAYER.COM
-   Name Server: NS2.SOFTLAYER.COM
+   Name Server: NS1.SLICEHOST.NET
+   Name Server: NS2.SLICEHOST.NET
+   Name Server: NS3.SLICEHOST.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-jan-2011
-   Creation Date: 09-jan-2006
-   Expiration Date: 09-jan-2013
+   Updated Date: 24-aug-2010
+   Creation Date: 29-may-2008
+   Expiration Date: 29-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:30:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:29:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Dariusz Sobierajewicz
+   StockTwits Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ONTOPLIST.COM
+   Domain Name: STOCKTWITS.COM
 
    Domain servers in listed order:
-      NS1.SOFTLAYER.COM
-      NS2.SOFTLAYER.COM
+      NS1.SLICEHOST.NET
+      NS2.SLICEHOST.NET
+      NS3.SLICEHOST.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ONTOPLIST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STOCKTWITS.COM
