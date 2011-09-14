@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
-   Status: clientDeleteProhibited
+   Domain Name: MALEPHYSICALEXAMTOP.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
    Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Updated Date: 30-nov-2010
+   Creation Date: 28-dec-2009
+   Expiration Date: 28-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:59:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
+domain:       malephysicalexamtop.com
+owner:        Renata Portinari
+organization: Aracaju Int.
+email:        kaifman777@yahoo.com
+address:      Av Beira Mar 270
+city:         Aracaju
+state:        Sergipe
+postal-code:  BR SE783
+country:      BR
+phone:        +7.99783928
+fax:          +7.99783928
+admin-c:      CCOM-56990 kaifman777@yahoo.com
+tech-c:       CCOM-56990 kaifman777@yahoo.com
+billing-c:    CCOM-56990 kaifman777@yahoo.com
+nserver:      ns1.theplanet.com
+nserver:      ns2.theplanet.com
+status:       lock
+created:      2009-12-29 04:32:26 UTC
+modified:     2010-12-01 01:48:07 UTC
+expires:      2011-12-29 04:32:26 UTC
+query-source: 174.142.225.246
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
+contact-hdl:  CCOM-56990
+person:       Renata Portinari
+organization: Aracaju Int.
+email:        kaifman777@yahoo.com
+address:      Av Beira Mar 270
+city:         Aracaju
+state:        Sergipe
+postal-code:  BR SE783
+country:      BR
+phone:        +79.9783928
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
-
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
-
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
-
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
-
-	Domain servers in listed order:
-
-	ns.cafe24.com
-	ns2.cafe24.com
-
-Register a domain name at www.gabia.com
-
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
+source:       joker.com live whois service
+query-time:   0.023187
+db-updated:   2011-09-14 10:00:33
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

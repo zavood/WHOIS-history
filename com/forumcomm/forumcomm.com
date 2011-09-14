@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
+   Domain Name: FORUMCOMM.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.I29.NET
+   Name Server: NS2.I29.NET
+   Name Server: NS3.I29.NET
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Status: clientUpdateProhibited
+   Updated Date: 08-apr-2011
+   Creation Date: 14-may-1995
+   Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:00:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +55,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
 
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
+Registrant:
+   Forum Communications Co.
 
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: FORUMCOMM.COM
 
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
+   Domain servers in listed order:
+      NS1.I29.NET
+      NS2.I29.NET
+      NS3.I29.NET
 
-	Domain servers in listed order:
 
-	ns.cafe24.com
-	ns2.cafe24.com
-
-Register a domain name at www.gabia.com
-
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMCOMM.COM

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
-   Status: clientDeleteProhibited
+   Domain Name: POINTBLOG.NET
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.123HOTEL.DK
+   Name Server: NS2.123HOTEL.DK
    Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Updated Date: 04-feb-2011
+   Creation Date: 11-feb-2009
+   Expiration Date: 11-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:00:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
+domain:       pointblog.net
+owner:        Magnus Kjoeller
+organization: CM Network A/S
+email:        info@cmnetwork.dk
+address:      Ved Stranden 22, 1.sal
+city:         Aalborg
+state:        --
+postal-code:  9000
+country:      DK
+phone:        +981.16450
+admin-c:      CNET-62334 hostmaster@curanet.dk
+tech-c:       CNET-62334 hostmaster@curanet.dk
+billing-c:    CNET-62334 hostmaster@curanet.dk
+nserver:      ns1.123hotel.dk
+nserver:      ns2.123hotel.dk
+status:       lock
+created:      2009-02-11 11:20:50 UTC
+modified:     2011-02-04 10:15:28 UTC
+expires:      2013-02-11 11:20:50 UTC
+query-source: 174.142.225.246
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
+contact-hdl:  CNET-62334
+person:       Hostmaster Funktionen
+organization: Curanet A/S
+email:        hostmaster@curanet.dk
+address:      Danmarksvej 26
+city:         Skanderborg
+postal-code:  DK-8660
+country:      DK
+phone:        +45.70266123
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
-
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
-
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
-
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
-
-	Domain servers in listed order:
-
-	ns.cafe24.com
-	ns2.cafe24.com
-
-Register a domain name at www.gabia.com
-
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
+source:       joker.com live whois service
+query-time:   0.022095
+db-updated:   2011-09-14 10:01:27
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

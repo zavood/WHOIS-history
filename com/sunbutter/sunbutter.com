@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
-   Status: clientDeleteProhibited
+   Domain Name: SUNBUTTER.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.HICKORYTECH.NET
+   Name Server: NS2.HICKORYTECH.NET
    Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Updated Date: 25-mar-2010
+   Creation Date: 08-mar-2002
+   Expiration Date: 08-mar-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
 
@@ -52,42 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
+http://www.networksolutions.com/whois/index.jhtml
 
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
-
-	Domain servers in listed order:
-
-	ns.cafe24.com
-	ns2.cafe24.com
-
-Register a domain name at www.gabia.com
-
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
+Whois Query: sunbutter.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 05:51:23 EDT 2011
+Reason Code: IE

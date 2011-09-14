@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
-   Status: clientDeleteProhibited
+   Domain Name: BRAKEMOOR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.BANNERVIEW.COM
+   Name Server: DNS2.BANNERVIEW.COM
    Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 22-jul-2005
+   Expiration Date: 22-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
+=-=-=-=
+Visit AboutUs.org for more information about brakemoor.com
+&lt;a href=&quot;http://www.aboutus.org/brakemoor.com&quot;&gt;AboutUs: brakemoor.com&lt;/a&gt;
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
+Domain name: brakemoor.com
 
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
+Registrant Contact:
 
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
+   William Thomas Large ()
 
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
+   Fax:
+   P.O. Box 1117
+   Long Beach, NY 11561
+   USA
 
-	Domain servers in listed order:
+Administrative Contact:
 
-	ns.cafe24.com
-	ns2.cafe24.com
+   William Thomas Large (tom@aerobicmouse.com)
+   +1.5167475665
+   Fax: +1.5094724654
+   P.O. Box 1117
+   Long Beach, NY 11561
+   USA
 
-Register a domain name at www.gabia.com
+Technical Contact:
+   BannerView.com
+   Mark Cenicola (info@bannerview.com)
+   +1.7023129444
+   Fax:
+   6348 S. Rainbow Blvd. STE 110
+   Las Vegas, NV 89118
+   US
 
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
+Status: Locked
+
+Name Servers:
+   DNS1.BANNERVIEW.COM
+   DNS2.BANNERVIEW.COM
+
+Creation date: 22 Jul 2005 20:54:00
+Expiration date: 22 Jul 2012 20:54:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CORNMEDIA.COM
-   Registrar: GABIA, INC.
-   Whois Server: whois.gabia.com
-   Referral URL: http://www.gabia.com
-   Name Server: NS.CAFE24.COM
-   Name Server: NS2.CAFE24.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 18-mar-2011
-   Creation Date: 19-mar-2003
-   Expiration Date: 19-mar-2012
+   Domain Name: BRICKMOON.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.HOSTAREA52.COM
+   Name Server: NS2.HOSTAREA52.COM
+   Status: ok
+   Updated Date: 04-may-2009
+   Creation Date: 18-may-2000
+   Expiration Date: 18-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:01:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,42 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to GABIA.COM's WHOIS data service.
 
-The Data in Gabia' WHOIS database is provided by Gabia
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
-you agree that you will use this Data only for lawful purposes
-and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
-or  (2) enable high volume, automated, electronic processes that apply to
-Gabia (or its systems).  Gabia reserves the right to
-modify these terms at any time.  By submitting this query,
-you agree to abide by this policy.
+Domain Name.......... brickmoon.com
+  Creation Date........ 2000-05-19
+  Registration Date.... 2000-05-19
+  Expiry Date.......... 2014-05-19
+  Organisation Name.... Brick Moon Graphics
+  Organisation Address. 1120 W. Babcock #12
+  Organisation Address.
+  Organisation Address. Bozeman
+  Organisation Address. 59715
+  Organisation Address. MT
+  Organisation Address. UNITED STATES
 
-Registrant : jung sang min
-	Myeonmok-dong, Jungnang-gu, SEOUL
-	(131200)
+Admin Name........... Les Clay
+  Admin Address........ 1120 W. Babcock #12
+  Admin Address........
+  Admin Address........ Bozeman
+  Admin Address........ 59715
+  Admin Address........ MT
+  Admin Address........ UNITED STATES
+  Admin Email.......... lclay7@aol.com
+  Admin Phone.......... 406587-5132
+  Admin Fax............
 
-	Domain Name:  CORNMEDIA.COM
-	Registrar:  Gabia,Inc. (GABIA.COM)
+Tech Name............ VERIO VERIO
+  Tech Address......... 12345 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax............. 888-663-6655
+  Name Server.......... ns1.hostarea52.com
+  Name Server.......... ns2.hostarea52.com
 
-	Administrative, Technical, Billing Contact:
-		park min hee	sms18c@paran.com
-		Myeonmok-dong, Jungnang-gu, SEOUL
-		(Tel) 02-512-0430	(fax)
 
-	Record created on 	march     19, 2003
-	Record expires on 	2012-03-19
-	Record last updated on 	2011-03-18
-
-	Domain servers in listed order:
-
-	ns.cafe24.com
-	ns2.cafe24.com
-
-Register a domain name at www.gabia.com
-
- &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
