@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150640720-LROR
+Domain Name:BEFL.ORG
+Created On:14-Jan-2008 11:57:56 UTC
+Last Updated On:13-Dec-2010 07:19:48 UTC
+Expiration Date:14-Jan-2012 11:57:56 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:C120028934456091
+Registrant Name:MIHEER A S
+Registrant Organization:Metric Consultancy Ltd
+Registrant Street1:91, FLORIDA ESTATE, KESHAVNAGAR, MUNDHWA
+Registrant Street2:Mundhwa
+Registrant Street3:
+Registrant City:Pune
+Registrant State/Province:Maharashtra
+Registrant Postal Code:411036
+Registrant Country:IN
+Registrant Phone:+91.9860794020
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:miheer_as@yahoo.com
+Admin ID:C120028934456088
+Admin Name:MIHEER A S
+Admin Organization:Metric Consultancy Ltd
+Admin Street1:91, FLORIDA ESTATE, KESHAVNAGAR, MUNDHWA
+Admin Street2:Mundhwa
+Admin Street3:
+Admin City:Pune
+Admin State/Province:Maharashtra
+Admin Postal Code:411036
+Admin Country:IN
+Admin Phone:+91.9860794020
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:miheer_as@yahoo.com
+Tech ID:C120028934456090
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@YAHOO-INC.COM
+Name Server:NS.IKNOWLEDGEFACTORY.COM
+Name Server:NS2.IKNOWLEDGEFACTORY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

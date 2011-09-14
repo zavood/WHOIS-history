@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7228717-LROR
+Domain Name:SEOH.ORG
+Created On:14-Jun-1999 15:19:22 UTC
+Last Updated On:08-Oct-2005 18:06:04 UTC
+Expiration Date:14-Jun-2012 15:20:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31721534-NSI
+Registrant Name:SaintElizabethof Hungary Parish
+Registrant Organization:SaintElizabethof Hungary Parish
+Registrant Street1:89 Arlington Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Acton
+Registrant State/Province:MA
+Registrant Postal Code:01720
+Registrant Country:US
+Registrant Phone:+1.97826343
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wjw@FIAM.NET
+Admin ID:31721536-NSI
+Admin Name:SaintElizabethof Hungary Parish
+Admin Organization:SaintElizabethof Hungary Parish
+Admin Street1:89 Arlington Street
+Admin Street2:
+Admin Street3:
+Admin City:Acton
+Admin State/Province:MA
+Admin Postal Code:01720
+Admin Country:US
+Admin Phone:+1.97826343
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wjw@FIAM.NET
+Tech ID:15712872-NSI
+Tech Name:Carol Kollm
+Tech Organization:AlphaStrand Web, Inc.
+Tech Street1:40 Washington Drive
+Tech Street2:
+Tech Street3:
+Tech City:ACTON
+Tech State/Province:MA
+Tech Postal Code:01720-6743
+Tech Country:US
+Tech Phone:+1.9787602032
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:carol.kollm@alphastrand.com
+Name Server:NS2.SPEAKEASY.NET
+Name Server:NS1.SPEAKEASY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
