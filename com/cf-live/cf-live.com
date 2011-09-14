@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS39202.NET
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS0.AS39202.NET
-   Name Server: NS1.AS39202.NET
-   Name Server: NS2.AS39202.NET
+   Domain Name: CF-LIVE.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: ULTRA103.UK2.NET
+   Name Server: ULTRA104.UK2.NET
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 21-aug-2006
-   Expiration Date: 21-aug-2020
+   Status: clientUpdateProhibited
+   Updated Date: 13-nov-2010
+   Creation Date: 13-nov-2010
+   Expiration Date: 13-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:37 UTC &lt;&lt;&lt;
 
@@ -52,44 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-as39202.net
-
-Registrant:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,   WC2H 7LA
-        UK
-        01179843248
-
-
-Domain Name: as39202.net
-
-
-
-
-Administrative, Technical, Billing Contact:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,  WC2H 7LA
-        UK
-        01179843248
-
-
-
-
-
-   Record created on Aug 21 2006.
-   Record expires on Aug 21 2020.
-Domain servers:
-        ns0.as39202.net
-        ns1.as39202.net
-        ns2.as39202.net
-
-
-
-Domain Service Provider:
-   AS39202.net
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS39202.NET
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS0.AS39202.NET
-   Name Server: NS1.AS39202.NET
-   Name Server: NS2.AS39202.NET
+   Domain Name: DYN-INC.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
+   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
+   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
+   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 21-aug-2006
-   Expiration Date: 21-aug-2020
+   Status: clientUpdateProhibited
+   Updated Date: 19-apr-2011
+   Creation Date: 13-jun-2008
+   Expiration Date: 13-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,44 +55,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-as39202.net
-
 Registrant:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,   WC2H 7LA
-        UK
-        01179843248
+ chynoweth, gray  gchynoweth@dyndns.com
+ Dynamic Network Services, Inc.
+ 1230 Elm Street
+ 5th Flr.
+ manchester, NH 03101
+ US
+
+ Domain name: DYN-INC.COM
 
 
-Domain Name: as39202.net
+ Administrative Contact, Technical Contact:
+    chynoweth, gray  gchynoweth@dyndns.com
+    Dynamic Network Services, Inc.
+    1230 Elm Street
+    5th Flr.
+    manchester, NH 03101
+    US
+    +1.6036684998
 
 
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
 
 
-Administrative, Technical, Billing Contact:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,  WC2H 7LA
-        UK
-        01179843248
+ Record last updated on 20-Apr-2011 02:07:11 UTC.
+ Record expires on 13-Jun-2013.
+ Record created on 13-Jun-2008.
 
 
+ Domain servers in listed order:
+    NS1.DYNAMICNETWORKSERVICES.NET
+    NS3.DYNAMICNETWORKSERVICES.NET
+    NS4.DYNAMICNETWORKSERVICES.NET
+    NS2.DYNAMICNETWORKSERVICES.NET
 
 
-
-   Record created on Aug 21 2006.
-   Record expires on Aug 21 2020.
-Domain servers:
-        ns0.as39202.net
-        ns1.as39202.net
-        ns2.as39202.net
-
-
-
-Domain Service Provider:
-   AS39202.net
-
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
 

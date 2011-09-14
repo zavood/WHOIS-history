@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS39202.NET
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS0.AS39202.NET
-   Name Server: NS1.AS39202.NET
-   Name Server: NS2.AS39202.NET
+   Domain Name: ATLASUK.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS0.DIRCON.CO.UK
+   Name Server: NS1.DIRCON.CO.UK
+   Name Server: NS2.DIRCON.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 21-aug-2006
-   Expiration Date: 21-aug-2020
+   Updated Date: 26-apr-2011
+   Creation Date: 23-apr-1997
+   Expiration Date: 24-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,44 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-as39202.net
 
-Registrant:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,   WC2H 7LA
-        UK
-        01179843248
+Domain Name.......... atlasuk.com
+  Creation Date........ 1997-04-23
+  Registration Date.... 2002-12-06
+  Expiry Date.......... 2012-04-24
+  Organisation Name.... Atlas Machinery UK Ltd
+  Organisation Address. Unit 1
+  Organisation Address. _
+  Organisation Address. No Valid State
+  Organisation Address. .
+  Organisation Address. .
+  Organisation Address. GREAT BRITAIN (UK)
 
+Admin Name........... Domains Administrator
+  Admin Address........ Netscalibur UK Limited
+  Admin Address........ Vinery Court
+  Admin Address........ 50 Banner Street
+  Admin Address........ EC1Y 8TX
+  Admin Address........ London
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... domains@netscalibur.co.uk
+  Admin Phone.......... 0870 8878800
+  Admin Fax............ 0870 8878863
 
-Domain Name: as39202.net
-
-
-
-
-Administrative, Technical, Billing Contact:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,  WC2H 7LA
-        UK
-        01179843248
-
-
-
-
-
-   Record created on Aug 21 2006.
-   Record expires on Aug 21 2020.
-Domain servers:
-        ns0.as39202.net
-        ns1.as39202.net
-        ns2.as39202.net
-
-
-
-Domain Service Provider:
-   AS39202.net
+Tech Name............ Domains Administrator
+  Tech Address......... Netscalibur UK Limited
+  Tech Address......... Vinery Court
+  Tech Address......... 50 Banner Street
+  Tech Address......... EC1Y 8TX
+  Tech Address......... London
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... domains@netscalibur.co.uk
+  Tech Phone........... 0870 8878800
+  Tech Fax............. 0870 8878863
+  Name Server.......... ns0.dircon.co.uk
+  Name Server.......... ns1.dircon.co.uk
+  Name Server.......... ns2.dircon.co.uk
 
 

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XNAKEDWOMEN.COM
+   Domain Name: BIGYETIPRODUCTIONS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.XNAKEDWOMEN.COM
-   Name Server: NS2.XNAKEDWOMEN.COM
-   Status: clientTransferProhibited
-   Updated Date: 27-feb-2011
-   Creation Date: 27-feb-2011
-   Expiration Date: 27-feb-2012
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
+   Status: ok
+   Updated Date: 31-aug-2011
+   Creation Date: 30-aug-2001
+   Expiration Date: 30-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:31:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +55,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about xnakedwomen.com
-&lt;a href=&quot;http://www.aboutus.org/xnakedwomen.com&quot;&gt;AboutUs: xnakedwomen.com&lt;/a&gt;
+Visit AboutUs.org for more information about bigyetiproductions.com
+&lt;a href=&quot;http://www.aboutus.org/bigyetiproductions.com&quot;&gt;AboutUs: bigyetiproductions.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: xnakedwomen.com
+Domain name: bigyetiproductions.com
 
 Registrant Contact:
-   n/a
-   Aleksey Elin ()
+   Big Yeti
+   Matt Adams ()
 
    Fax:
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
+   414 2nd st #352
+   Portland, OR 9025497201
+   US
 
 Administrative Contact:
-   n/a
-   Aleksey Elin (furiyoki@gmail.com)
-   +7.4162372196
-   Fax: +1.5555555555
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
+   Big Yeti
+   Matt Adams (bigyeti21@hotmail.com)
+   +1.5037949800
+   Fax: +1.5037949800
+   414 2nd st #352
+   Portland, OR 9025497201
+   US
 
 Technical Contact:
-   n/a
-   Aleksey Elin (furiyoki@gmail.com)
-   +7.4162372196
-   Fax: +1.5555555555
-   st. Ostrovskogo 65-3
-   Blagoveschensk, Amurskaya oblast 675000
-   RU
+   Netpaths
+   Cayley Vos (domain@netpaths.net)
+   +1.3103723086
+   Fax: +1.3103723056
+   119 Standard St.
+   El Segundo, CA 90245
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.xnakedwomen.com
-   ns2.xnakedwomen.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 27 Feb 2011 14:39:00
-Expiration date: 27 Feb 2012 09:39:00
+Creation date: 30 Aug 2001 18:33:18
+Expiration date: 30 Aug 2011 18:33:00
 
 
 

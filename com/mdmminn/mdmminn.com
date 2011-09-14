@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AS39202.NET
-   Registrar: TLDS, LLC DBA SRSPLUS
-   Whois Server: whois.srsplus.com
-   Referral URL: http://www.srsplus.com
-   Name Server: NS0.AS39202.NET
-   Name Server: NS1.AS39202.NET
-   Name Server: NS2.AS39202.NET
+   Domain Name: MDMMINN.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.NEOSPIRE.NET
+   Name Server: NS2.NEOSPIRE.NET
+   Name Server: NS3.NEOSPIRE.NET
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 21-aug-2006
-   Expiration Date: 21-aug-2020
+   Updated Date: 16-may-2011
+   Creation Date: 11-feb-2004
+   Expiration Date: 11-feb-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:30:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:31:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,44 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-as39202.net
 
-Registrant:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,   WC2H 7LA
-        UK
-        01179843248
+Domain Name.......... mdmminn.com
+  Creation Date........ 2004-02-12
+  Registration Date.... 2011-05-15
+  Expiry Date.......... 2019-02-12
+  Organisation Name.... UBM Canon
+  Organisation Address. UBM Canon
+  Organisation Address. 11444 West Olympic Blvd.
+  Organisation Address. Los Angeles
+  Organisation Address. 90064
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
 
+Admin Name........... Babak Samii
+  Admin Address........ UBM Canon
+  Admin Address........ 11444 West Olympic Blvd.
+  Admin Address........ Los Angeles
+  Admin Address........ 90064
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +1.3104454200
+  Admin Fax............ +1.3104454299
 
-Domain Name: as39202.net
-
-
-
-
-Administrative, Technical, Billing Contact:
-         Domain Manager  (domains@gcapmedia.com)
-        GCAP Media Services Ltd
-        30 Leicester Square
-        London,  WC2H 7LA
-        UK
-        01179843248
-
-
-
-
-
-   Record created on Aug 21 2006.
-   Record expires on Aug 21 2020.
-Domain servers:
-        ns0.as39202.net
-        ns1.as39202.net
-        ns2.as39202.net
-
-
-
-Domain Service Provider:
-   AS39202.net
+Tech Name............ Babak Samii
+  Tech Address......... UBM Canon
+  Tech Address......... 11444 West Olympic Blvd.
+  Tech Address......... Los Angeles
+  Tech Address......... 90064
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... admin@melbourneitdbs.com
+  Tech Phone........... +1.3104454200
+  Tech Fax............. +1.3104454299
+  Name Server.......... ns1.neospire.net
+  Name Server.......... ns2.neospire.net
+  Name Server.......... ns3.neospire.net
 
 
