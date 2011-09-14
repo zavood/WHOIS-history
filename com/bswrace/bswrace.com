@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COOLSOLUTIONZ.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.WORLDAXXS.NET
-   Name Server: NS2.WORLDAXXS.NET
-   Status: clientDeleteProhibited
+   Domain Name: BSWRACE.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.BWIDC.NET.BR
+   Name Server: NS2.BWIDC.NET.BR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-aug-2011
-   Creation Date: 27-aug-2002
-   Expiration Date: 27-aug-2012
+   Updated Date: 15-mar-2011
+   Creation Date: 25-sep-2009
+   Expiration Date: 25-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:16:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:14:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,50 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% UOL HOST whois server
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Searching for bswrace.com.  Found 1 record(s) matching bswrace.com.
+
+Domain:              bswrace.com
+Nameserver:          ns1.bwidc.net.br
+Nameserver:          ns2.bwidc.net.br
+Created:             20090925
+Updated:             20110315
 
 Registrant:
-   Coolsolutionz.com William Curtindale, LLC
-   209 North Main Street
-   Suite 290
-   Ann Arbor, MI  48104
-   US
 
-   Registrar: DOTREGISTRAR
-   Domain Name: COOLSOLUTIONZ.COM
-      Created on: 27-AUG-02
-      Expires on: 27-AUG-12
-      Last Updated on: 23-AUG-11
+Name:                Arthur Henrique Guimar&iquest;es Bonora
+Organization:        Arthur Henrique Guimar&iquest;es Bonora
+E-mail:              arthurbonora@uol.com.br
+Address:             AV MAUA 1308 74 C
+Address:             87050020
+Address:             MARINGA - PR
+Phone:               55 44 30297343
+Country:             BRASIL
+Created:             20090925
+Updated:             20090925
 
-   Administrative, Technical Contact:
-      William Curtindale, LLC, Coolsolutionz.com  wcurtindale@hotmail.com
-      209 North Main Street
-      Suite 290
-      Ann Arbor, MI  48104
-      US
-      +001.7346976237
+Administrative Contact:
 
+Name:                Arthur Henrique Guimar&iquest;es Bonora
+Organization:        Arthur Henrique Guimar&iquest;es Bonora
+E-mail:              arthurbonora@uol.com.br
+Address:             AV MAUA 1308 74 C
+Address:             87050020
+Address:             MARINGA - PR
+Phone:               55 44 30297343
+Country:             BRASIL
+Created:             20090925
+Updated:             20090925
 
-   Domain servers in listed order:
-      NS1.WORLDAXXS.NET
-      NS2.WORLDAXXS.NET
+Technical Contact:
 
-End of Whois Information
+Name:                Arthur Henrique Guimar&iquest;es Bonora
+Organization:        Arthur Henrique Guimar&iquest;es Bonora
+E-mail:              arthurbonora@uol.com.br
+Address:             AV MAUA 1308 74 C
+Address:             87050020
+Address:             MARINGA - PR
+Phone:               55 44 30297343
+Country:             BRASIL
+Created:             20090925
+Updated:             20090925
+

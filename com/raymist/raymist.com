@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COOLSOLUTIONZ.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.WORLDAXXS.NET
-   Name Server: NS2.WORLDAXXS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-aug-2011
-   Creation Date: 27-aug-2002
-   Expiration Date: 27-aug-2012
+   Domain Name: RAYMIST.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS26.DNSEVER.COM
+   Name Server: NS34.DNSEVER.COM
+   Status: ok
+   Updated Date: 25-nov-2009
+   Creation Date: 23-jan-2004
+   Expiration Date: 23-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:16:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:14:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,49 +55,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name           : raymist.com
+Registrar             : Dotname Korea Corp.
 
 Registrant:
-   Coolsolutionz.com William Curtindale, LLC
-   209 North Main Street
-   Suite 290
-   Ann Arbor, MI  48104
-   US
+	company       :Hojoon Kim
+	name          :Hojoon Kim
+	e-mail        :khj702@korea.com
+	address1      :Garak-dong Songpa-gu
+	address2      :102-1306 Hanshin Apt.
+	city          :SEOUL
+	zipcode       :138-160
+	country       :
+	phone         :02-406-8321
+	fax           :
 
-   Registrar: DOTREGISTRAR
-   Domain Name: COOLSOLUTIONZ.COM
-      Created on: 27-AUG-02
-      Expires on: 27-AUG-12
-      Last Updated on: 23-AUG-11
+Administrative Contact:
+	name          :Hojoon Kim
+	e-mail        :khj702@korea.com
+	address1      :Garak-dong Songpa-gu
+	address2      :102-1306 Hanshin Apt.
+	city          :SEOUL
+	zipcode       :138-160
+	country       :
+	phone         :02-406-8321
+	fax           :
 
-   Administrative, Technical Contact:
-      William Curtindale, LLC, Coolsolutionz.com  wcurtindale@hotmail.com
-      209 North Main Street
-      Suite 290
-      Ann Arbor, MI  48104
-      US
-      +001.7346976237
+Technical Contact:
+	name          :Hojoon Kim
+	e-mail        :khj702@korea.com
+	address1      :Garak-dong Songpa-gu
+	address2      :102-1306 Hanshin Apt.
+	city          :SEOUL
+	zipcode       :138-160
+	country       :
+	phone         :02-406-8321
+	fax           :
+
+Domain servers in listed order:
+		ns19.dnsever.com  [121.254.154.149]
+		ns26.dnsever.com  [121.254.154.156]
+		ns34.dnsever.com  [121.254.154.164]
+		ns231.dnsever.com  [125.141.231.179]
+		ns259.dnsever.com  [211.233.59.20]
+
+Created on 2004-01-23
+Updated on 2009-11-25
+Expires on 2013-01-23&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
 
 
-   Domain servers in listed order:
-      NS1.WORLDAXXS.NET
-      NS2.WORLDAXXS.NET
-
-End of Whois Information
