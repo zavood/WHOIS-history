@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERANDA.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: EUR3.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: NS1-152.AKAM.NET
-   Name Server: NS1-31.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW1.AKAM.NET
-   Name Server: USW3.AKAM.NET
+   Domain Name: TERESAFLAVIN.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS.MAINNAMESERVER.COM
+   Name Server: NS2.MAINNAMESERVER.COM
    Status: ok
-   Updated Date: 01-feb-2011
-   Creation Date: 13-mar-1996
-   Expiration Date: 14-mar-2012
+   Updated Date: 03-apr-2009
+   Creation Date: 31-mar-2003
+   Expiration Date: 31-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:24:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:25:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,47 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... veranda.com
-  Creation Date........ 1996-03-13
-  Registration Date.... 2010-01-28
-  Expiry Date.......... 2012-03-15
-  Organisation Name.... The Hearst Corporation
-  Organisation Address. 300 West 57th Street
-  Organisation Address.
-  Organisation Address. New York
-  Organisation Address. 10019
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
-
-Admin Name........... The Hearst Corporation
-  Admin Address........ Magazines/Veranda
-  Admin Address........ 959 8th Avenue
-  Admin Address........ New York
-  Admin Address........ 10019
-  Admin Address........ NY
-  Admin Address........ UNITED STATES
-  Admin Email.......... domains@hearst.com
-  Admin Phone.......... +1.2126492000
-  Admin Fax............ +1.2126492639
-
-Tech Name............ Ian Bishop
-  Tech Address......... 300 West 57th Street
-  Tech Address.........
-  Tech Address......... New York
-  Tech Address......... 10019
-  Tech Address......... NY
-  Tech Address......... UNITED STATES
-  Tech Email........... domains@hearst.com
-  Tech Phone........... +000.0000000
-  Tech Fax.............
-  Name Server.......... USE9.AKAM.NET
-  Name Server.......... USW1.AKAM.NET
-  Name Server.......... USE4.AKAM.NET
-  Name Server.......... NS1-31.AKAM.NET
-  Name Server.......... EUR5.AKAM.NET
-  Name Server.......... NS1-152.AKAM.NET
-  Name Server.......... USW3.AKAM.NET
-  Name Server.......... EUR3.AKAM.NET
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

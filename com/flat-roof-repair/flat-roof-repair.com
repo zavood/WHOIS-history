@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERANDA.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: EUR3.AKAM.NET
-   Name Server: EUR5.AKAM.NET
-   Name Server: NS1-152.AKAM.NET
-   Name Server: NS1-31.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USE9.AKAM.NET
-   Name Server: USW1.AKAM.NET
-   Name Server: USW3.AKAM.NET
-   Status: ok
-   Updated Date: 01-feb-2011
-   Creation Date: 13-mar-1996
-   Expiration Date: 14-mar-2012
+   Domain Name: FLAT-ROOF-REPAIR.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.ALL-HOSTING-SOLUTIONS.CO.UK
+   Name Server: NS2.ALL-HOSTING-SOLUTIONS.CO.UK
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 20-aug-2011
+   Creation Date: 30-sep-2006
+   Expiration Date: 30-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:24:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:25:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,46 +53,33 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... veranda.com
-  Creation Date........ 1996-03-13
-  Registration Date.... 2010-01-28
-  Expiry Date.......... 2012-03-15
-  Organisation Name.... The Hearst Corporation
-  Organisation Address. 300 West 57th Street
-  Organisation Address.
-  Organisation Address. New York
-  Organisation Address. 10019
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
+flat-roof-repair.com is FOR SALE.
+Please visit www.flat-roof-repair.com for price and purchasing.
 
-Admin Name........... The Hearst Corporation
-  Admin Address........ Magazines/Veranda
-  Admin Address........ 959 8th Avenue
-  Admin Address........ New York
-  Admin Address........ 10019
-  Admin Address........ NY
-  Admin Address........ UNITED STATES
-  Admin Email.......... domains@hearst.com
-  Admin Phone.......... +1.2126492000
-  Admin Fax............ +1.2126492639
+Domain flat-roof-repair.com:
+  Wild Plus
+  25 Downs Road
+  Slough, Berkshire SL3 7BZ GB
 
-Tech Name............ Ian Bishop
-  Tech Address......... 300 West 57th Street
-  Tech Address.........
-  Tech Address......... New York
-  Tech Address......... 10019
-  Tech Address......... NY
-  Tech Address......... UNITED STATES
-  Tech Email........... domains@hearst.com
-  Tech Phone........... +000.0000000
-  Tech Fax.............
-  Name Server.......... USE9.AKAM.NET
-  Name Server.......... USW1.AKAM.NET
-  Name Server.......... USE4.AKAM.NET
-  Name Server.......... NS1-31.AKAM.NET
-  Name Server.......... EUR5.AKAM.NET
-  Name Server.......... NS1-152.AKAM.NET
-  Name Server.......... USW3.AKAM.NET
-  Name Server.......... EUR3.AKAM.NET
+Administrative contact:
+Technical contact:
+Billing contact:
+  Wild Plus
+  David Wilding
+  wilding@wildplus.co.uk
+  25 Downs Road
+  Slough, Berkshire SL3 7BZ GB
+  Phone: +44.1753543805
+  Fax:
 
+Record dates:
+  Record created on: 2006-09-30 08:10:58 UTC
+  Record modified on: 2011-08-20 20:55:36 UTC
+  Record expires on: 2012-09-30 UTC
+
+Nameservers:
+  ns2.all-hosting-solutions.co.uk:
+  ns1.all-hosting-solutions.co.uk:
+
+Note: Automated collection of data from this database is strictly prohibited.
 
