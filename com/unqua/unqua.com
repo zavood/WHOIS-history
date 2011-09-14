@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUZKA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: UNQUA.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS3.TOTALHOSTING.COM
+   Name Server: NS4.TOTALHOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-nov-2009
-   Creation Date: 20-nov-2005
-   Expiration Date: 20-nov-2011
+   Updated Date: 10-dec-2009
+   Creation Date: 19-feb-2002
+   Expiration Date: 19-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:01:28 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant:
-   Buzka Pty Ltd
+http://www.networksolutions.com/whois/index.jhtml
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BUZKA.COM
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   Domain servers in listed order:
-      NS1.THEPLANET.COM
-      NS2.THEPLANET.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BUZKA.COM
+Whois Query: unqua.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Tue Sep 13 21:51:32 EDT 2011
+Reason Code: IE

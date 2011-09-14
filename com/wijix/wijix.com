@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUZKA.COM
+   Domain Name: WIJIX.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Name Server: NS8.ZONEEDIT.COM
+   Name Server: NS9.ZONEEDIT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-nov-2009
-   Creation Date: 20-nov-2005
-   Expiration Date: 20-nov-2011
+   Updated Date: 27-may-2009
+   Creation Date: 16-aug-2005
+   Expiration Date: 16-aug-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:01:28 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Buzka Pty Ltd
+   Phillip Jacobs
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BUZKA.COM
+   Domain Name: WIJIX.COM
 
    Domain servers in listed order:
-      NS1.THEPLANET.COM
-      NS2.THEPLANET.COM
+      NS8.ZONEEDIT.COM
+      NS9.ZONEEDIT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BUZKA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WIJIX.COM

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUZKA.COM
+   Domain Name: SWEBS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Name Server: NS0.NS0.COM
+   Name Server: NS3.PAIR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-nov-2009
-   Creation Date: 20-nov-2005
-   Expiration Date: 20-nov-2011
+   Updated Date: 12-sep-2011
+   Creation Date: 13-sep-1996
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:01:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:00:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Buzka Pty Ltd
+   SwebS
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BUZKA.COM
+   Domain Name: SWEBS.COM
 
    Domain servers in listed order:
-      NS1.THEPLANET.COM
-      NS2.THEPLANET.COM
+      NS3.PAIR.COM
+      NS0.NS0.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BUZKA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SWEBS.COM
