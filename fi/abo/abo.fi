@@ -1,0 +1,18 @@
+
+domain:   abo.fi
+descr:    &Aring;bo Akademi
+descr:    02463121
+address:  Datacentralen
+address:  F&auml;nriksgatan 3
+address:  FIN-20500
+address:  &Aring;bo 50
+phone:    02-2154227
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns1.abo.fi [OK] 130.232.213.1
+nserver: ns2.abo.fi [OK] 130.232.213.6
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

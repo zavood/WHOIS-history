@@ -1,0 +1,17 @@
+
+domain:   aka.fi
+descr:    Suomen Akatemia
+descr:    02458939
+address:  Esa Karjalainen
+address:  PL 99
+address:  00501
+address:  Helsinki
+phone:    774881
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns-secondary.funet.fi [OK]
+nserver: timo.aka.fi [OK] 193.167.96.14
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

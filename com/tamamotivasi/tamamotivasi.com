@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RAYANSERVER.COM
+   Domain Name: TAMAMOTIVASI.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.RAYANSERVER.COM
-   Name Server: NS2.RAYANSERVER.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 19-jul-2010
-   Expiration Date: 19-jul-2012
+   Name Server: DNS1.MASTERWEBNET.COM
+   Name Server: DNS2.MASTERWEB.NET
+   Name Server: DNS3.MASTERWEB.NET
+   Name Server: DNS4.MASTERWEB.NET
+   Status: ok
+   Updated Date: 28-nov-2010
+   Creation Date: 25-nov-2009
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:24:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:24:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,75 +53,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
------------------------------------------------------
-Registration Service Provided By: IRPOWERWEB
-Contact: +1.8183564085
-Website: http://www.irPowerWeb.com
+Registration Service Provided By: MWN
+Contact: +62.215269311
+Website: http://www.masterweb.net
 
------------------------------------------------------
+* No. 1 Leading Hosting in Indonesia
+* The Trust For Your Online Business
 
-Domain Name: [RAYANSERVER.COM]
------------------------------------------------------
+Domain Name: TAMAMOTIVASI.COM
+
 Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
------------------------------------------------------
-Creation Date: [19-Jul-2010]
-Expiration Date: [19-Jul-2012]
------------------------------------------------------
+    None
+    tamasempana sinulingga        (theoutsourcing@yahoo.com)
+    jl. buncit raya no. 300b
+    duren tiga
+    jakarta selatan
+    jakarta,12760
+    ID
+    Tel. +62.08161129770
+
+Creation Date: 25-Nov-2009
+Expiration Date: 25-Nov-2011
+
 Domain servers in listed order:
-    ns1.rayanserver.com
-    ns2.rayanserver.com
+    dns1.masterwebnet.com
+    dns2.masterweb.net
+    dns3.masterweb.net
+    dns4.masterweb.net
 
------------------------------------------------------
+
 Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
------------------------------------------------------
-Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
------------------------------------------------------
-Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
------------------------------------------------------
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+    None
+    tamasempana sinulingga        (theoutsourcing@yahoo.com)
+    jl. buncit raya no. 300b
+    duren tiga
+    jakarta selatan
+    jakarta,12760
+    ID
+    Tel. +62.08161129770
 
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
+Technical Contact:
+    None
+    tamasempana sinulingga        (theoutsourcing@yahoo.com)
+    jl. buncit raya no. 300b
+    duren tiga
+    jakarta selatan
+    jakarta,12760
+    ID
+    Tel. +62.08161129770
+
+Billing Contact:
+    None
+    tamasempana sinulingga        (theoutsourcing@yahoo.com)
+    jl. buncit raya no. 300b
+    duren tiga
+    jakarta selatan
+    jakarta,12760
+    ID
+    Tel. +62.08161129770
+
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -134,9 +127,8 @@ The compilation, repackaging, dissemination or other use of this data is express
 prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
------------------------------------------------------
-Service Provided by: irPowerWeb
-Email Address: domain (@) irpowerweb.com
-Client Area: http://my.irpowerweb.com/
+
+
+
 
 

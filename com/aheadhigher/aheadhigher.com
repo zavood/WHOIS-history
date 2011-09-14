@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUANTUM-TECH.COM
+   Domain Name: AHEADHIGHER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.QUANTUM-TECH.COM
-   Name Server: NS2.QUANTUM-TECH.COM
+   Name Server: NS1175.DNS.DYN.COM
+   Name Server: NS2147.DNS.DYN.COM
+   Name Server: NS3184.DNS.DYN.COM
+   Name Server: NS4195.DNS.DYN.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2009
-   Creation Date: 09-nov-2001
-   Expiration Date: 09-nov-2011
+   Updated Date: 30-aug-2011
+   Creation Date: 30-apr-1998
+   Expiration Date: 29-apr-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:25:28 UTC &lt;&lt;&lt;
 
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Quantum Tech Pty Ltd
+   High Altitude
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: QUANTUM-TECH.COM
+   Domain Name: AHEADHIGHER.COM
 
    Domain servers in listed order:
-      NS2.QUANTUM-TECH.COM
-      NS1.QUANTUM-TECH.COM
+      NS1175.DNS.DYN.COM
+      NS2147.DNS.DYN.COM
+      NS3184.DNS.DYN.COM
+      NS4195.DNS.DYN.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=QUANTUM-TECH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AHEADHIGHER.COM

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105474978-LROR
+Domain Name:AHA-SOLUTIONS.ORG
+Created On:22-Dec-2004 21:22:55 UTC
+Last Updated On:22-Dec-2010 19:13:46 UTC
+Expiration Date:22-Dec-2019 21:22:55 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6187974-NSI
+Registrant Name:American Hospital Association
+Registrant Organization:American Hospital Association
+Registrant Street1:1 N FRANKLIN ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:CHICAGO
+Registrant State/Province:IL
+Registrant Postal Code:60606-3421
+Registrant Country:US
+Registrant Phone:+1.3124222204
+Registrant Phone Ext.:
+Registrant FAX:+1.3124224604
+Registrant FAX Ext.:
+Registrant Email:dgood@aha.org
+Admin ID:40792264-NSI
+Admin Name:Leola Henry
+Admin Organization:AHA
+Admin Street1:One North Franklin
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60606
+Admin Country:US
+Admin Phone:+1.3124222221
+Admin Phone Ext.:
+Admin FAX:+1.3124224604
+Admin FAX Ext.:
+Admin Email:lhenry@aha.org
+Tech ID:40792264-NSI
+Tech Name:Leola Henry
+Tech Organization:AHA
+Tech Street1:One North Franklin
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60606
+Tech Country:US
+Tech Phone:+1.3124222221
+Tech Phone Ext.:
+Tech FAX:+1.3124224604
+Tech FAX Ext.:
+Tech Email:lhenry@aha.org
+Name Server:NS1.SAVVIS.NET
+Name Server:NS2.SAVVIS.NET
+Name Server:NS3.SAVVIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

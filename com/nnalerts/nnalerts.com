@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QUANTUM-TECH.COM
+   Domain Name: NNALERTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.QUANTUM-TECH.COM
-   Name Server: NS2.QUANTUM-TECH.COM
+   Name Server: NS1.CONTENTWATCH.COM
+   Name Server: NS2.CONTENTWATCH.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2009
-   Creation Date: 09-nov-2001
-   Expiration Date: 09-nov-2011
+   Updated Date: 10-feb-2010
+   Creation Date: 08-feb-2008
+   Expiration Date: 08-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:25:28 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Quantum Tech Pty Ltd
+   Scott Cleghorn
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: QUANTUM-TECH.COM
+   Domain Name: NNALERTS.COM
 
    Domain servers in listed order:
-      NS2.QUANTUM-TECH.COM
-      NS1.QUANTUM-TECH.COM
+      NS1.CONTENTWATCH.COM
+      NS2.CONTENTWATCH.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=QUANTUM-TECH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NNALERTS.COM
