@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TCHESSGAME.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: FREEADMACHINE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.SAFFELL.US
+   Name Server: NS2.SAFFELL.US
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-dec-2010
-   Creation Date: 08-dec-2008
-   Expiration Date: 08-dec-2011
+   Updated Date: 05-aug-2011
+   Creation Date: 04-sep-2010
+   Expiration Date: 04-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:02:05 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+=-=-=-=
+Visit AboutUs.org for more information about freeadmachine.com
+&lt;a href=&quot;http://www.aboutus.org/freeadmachine.com&quot;&gt;AboutUs: freeadmachine.com&lt;/a&gt;
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: freeadmachine.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (018a031b41a54110b9ac1394a1f9d4fa.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (018a031b41a54110b9ac1394a1f9d4fa.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Locked
+
+Name Servers:
+   NS1.SAFFELL.US
+   NS2.SAFFELL.US
+
+Creation date: 04 Sep 2010 23:11:00
+Expiration date: 04 Sep 2012 18:11:00
 
 
-Registrant:
-   Tom Kerrigan
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TCHESSGAME.COM
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-   Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TCHESSGAME.COM
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TCHESSGAME.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS61.DOMAINCONTROL.COM
-   Name Server: NS62.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-dec-2010
-   Creation Date: 08-dec-2008
-   Expiration Date: 08-dec-2011
+   Domain Name: REGARDMAG.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS77.DOMAINCONTROL.COM
+   Name Server: NS78.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 18-jun-2011
+   Creation Date: 16-dec-2009
+   Expiration Date: 16-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:02:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:00:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... regardmag.com
+  Creation Date........ 2009-12-17
+  Registration Date.... 2009-12-17
+  Expiry Date.......... 2011-12-17
+  Organisation Name.... Regard Magazine
+  Organisation Address. 12039 Gothic Ave
+  Organisation Address.
+  Organisation Address. Granada Hills
+  Organisation Address. 91344
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Dimitry Loiseau
+  Admin Address........ 12039 Gothic Ave
+  Admin Address........
+  Admin Address........ Granada Hills
+  Admin Address........ 91344
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... info@dimitryl.com
+  Admin Phone.......... +1.8185543576
+  Admin Fax............
+
+Tech Name............ Web Hosting Hostmaster
+  Tech Address......... 225 West Randolph, 28C
+  Tech Address.........
+  Tech Address......... Chicago
+  Tech Address......... 60606
+  Tech Address......... IL
+  Tech Address......... UNITED STATES
+  Tech Email........... hosting@att-webhosting.com
+  Tech Phone........... +1.8889324678
+  Tech Fax............. +1.3129603980
+  Name Server.......... ns78.domaincontrol.com
+  Name Server.......... ns77.domaincontrol.com
 
 
-Registrant:
-   Tom Kerrigan
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TCHESSGAME.COM
-
-   Domain servers in listed order:
-      NS61.DOMAINCONTROL.COM
-      NS62.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TCHESSGAME.COM

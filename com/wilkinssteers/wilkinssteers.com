@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POLICYIQ.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
-   Status: clientTransferProhibited
-   Updated Date: 20-dec-2007
-   Creation Date: 21-dec-2001
-   Expiration Date: 21-dec-2014
+   Domain Name: WILKINSSTEERS.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: JERMAINE.JUNCT.COM
+   Name Server: SOOTBOX.JUNCT.COM
+   Status: ok
+   Updated Date: 27-mar-2011
+   Creation Date: 27-mar-2007
+   Expiration Date: 27-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:02:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:01:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,75 +52,70 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
 obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
+record.  Aplus.net makes this information available &quot;as is,&quot; and
 does not guarantee its accuracy.  By submitting a WHOIS query, you
 agree that you will use this data only for lawful purposes and that,
 under no circumstances will you use this data to: (1) allow, enable,
 or otherwise support the transmission of mass unsolicited, commercial
 advertising or solicitations via direct mail, electronic mail, or by
 telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
+that apply to Aplus.net (or its systems).  The compilation,
 repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Resources Global Professionals
-      Chris Burd
-      800 Cranberry Woods Drive Suite 220
-      Cranberry Twp, PA 16066
+      Wilkins Steers
+      James Wilkins
+      15755 South 4440 Rd
+      Bluejacket, OK 74333
       US
-      Phone: +1.4122633337
-      Email: cburd@resources-us.com
+      Phone: +1.9187842384
+      Email: jpwilkins@junct.com
 
 
-
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: policyiq.com
-      Created on..............: 2001-12-21
-      Expires on..............: 2014-12-21
+   Domain Name: wilkinssteers.com
 
    Administrative Contact:
-      Resources Global Professionals
-      Chris Burd
-      800 Cranberry Woods Drive Suite 220
-      Cranberry Twp, PA 16066
+      The Junction LLC
+      Eric Sooter
+      418 E. Illinois
+      Vinita, OK 74301
       US
-      Phone: +1.4122633337
-      Email: cburd@resources-us.com
+      Phone: +1.9182563186
+      Email: eric@junct.com
 
 
    Technical  Contact:
-      Registercom
-      Domain Registrar
-      575 8th Avenue
-      New York, NY 10018
+      The Junction LLC
+      Eric Sooter
+      418 E. Illinois
+      Vinita, OK 74301
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: +1.9182563186
+      Email: eric@junct.com
 
 
-   DNS Servers:
-      j4.nstld.com
-      h4.nstld.com
-      g4.nstld.com
-      f4.nstld.com
-      a4.nstld.com
-      l4.nstld.com
+   Registrar of Record:
+      Hostopia.com Inc. d/b/a Aplus.net, www.aplus.net
+      Record last updated on 2011-03-27
+      Record expires on 2012-03-27
+      Record created on 2007-03-27
+
+   Domain servers in listed order:
+      jermaine.junct.com
+      sootbox.junct.com
 
 
+Visit AboutUs.org for more information about wilkinssteers.com
 
-Visit AboutUs.org for more information about policyiq.com
+&lt;A HREF=&quot;http://www.aboutus.org/wilkinssteers.com&quot;&gt;AboutUs: wilkinssteers.com&lt;/A&gt;
 
-&lt;A HREF=&quot;http://www.aboutus.org/policyiq.com&quot;&gt;AboutUs: policyiq.com&lt;/A&gt;
+Register your domain name at http://www.aplus.net
 
-Register your domain name at http://www.register.com
 

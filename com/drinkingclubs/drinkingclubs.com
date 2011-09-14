@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POLICYIQ.COM
+   Domain Name: DRINKINGCLUBS.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Name Server: DNS089.A.REGISTER.COM
+   Name Server: DNS093.B.REGISTER.COM
+   Name Server: DNS238.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 20-dec-2007
-   Creation Date: 21-dec-2001
-   Expiration Date: 21-dec-2014
+   Updated Date: 30-oct-2007
+   Creation Date: 15-feb-2000
+   Expiration Date: 15-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:02:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:02:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Resources Global Professionals
-      Chris Burd
-      800 Cranberry Woods Drive Suite 220
-      Cranberry Twp, PA 16066
-      US
-      Phone: +1.4122633337
-      Email: cburd@resources-us.com
+      kim einhorn
+      kim einhorn
+      the stadium oaklands road
+      london,   nw2 6dl
+      GB
+      Phone: +44.02084528518
+      Email: kimsttwebsites@themetraders.com
 
 
 
@@ -88,43 +86,41 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: policyiq.com
-      Created on..............: 2001-12-21
-      Expires on..............: 2014-12-21
+   Domain Name: drinkingclubs.com
+      Created on..............: 2000-02-15
+      Expires on..............: 2012-02-15
 
    Administrative Contact:
-      Resources Global Professionals
-      Chris Burd
-      800 Cranberry Woods Drive Suite 220
-      Cranberry Twp, PA 16066
-      US
-      Phone: +1.4122633337
-      Email: cburd@resources-us.com
+      turpinsyard
+      kim einhorn
+      the stadium oaklands road
+      london,   nw26dl
+      GB
+      Phone: 020 8452 8518
+      Email: mailroom@turpinsyard.com
 
 
    Technical  Contact:
-      Registercom
+      Register.Com
       Domain Registrar
-      575 8th Avenue
+      575 8th Avenue 11th Floor
       New York, NY 10018
       US
-      Phone: +1.9027492701
-      Email: domainregistrar@register.com
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
 
 
    DNS Servers:
-      j4.nstld.com
-      h4.nstld.com
-      g4.nstld.com
-      f4.nstld.com
-      a4.nstld.com
-      l4.nstld.com
+      dns093.b.register.com
+      dns089.a.register.com
+      dns238.c.register.com
+      dns249.d.register.com
 
 
 
-Visit AboutUs.org for more information about policyiq.com
+Visit AboutUs.org for more information about drinkingclubs.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/policyiq.com&quot;&gt;AboutUs: policyiq.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/drinkingclubs.com&quot;&gt;AboutUs: drinkingclubs.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

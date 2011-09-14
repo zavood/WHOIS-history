@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HOB571D-NORID
+Domain Name................: hobbyhuset.no
+Domain Holder Handle.......: SH793O-NORID
+Registrar Handle...........: REG752-NORID
+Legal-c Handle.............: OS4174P-NORID
+Tech-c Handle..............: JH10R-NORID
+Name Server Handle.........: NSTA78H-NORID
+Name Server Handle.........: NSTA79H-NORID
+Name Server Handle.........: NSTA80H-NORID
+
+Additional information:
+Created:         2001-07-03
+Last updated:    2011-06-14
+
+NORID Handle...............: SH793O-NORID
+Type.......................: organization
+Name.......................: STENHAUGENS HOBBY
+Id Type....................: organization_number
+Id Number..................: 983212743
+Registrar Handle...........: REG752-NORID
+Post Address...............: Sl&aring;stad
+Postal Code................: NO-2110
+Postal Area................: Sl&aring;stad
+Country....................: NO
+Phone Number...............: +47.62964337
+Email Address..............: oyvind@east.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
