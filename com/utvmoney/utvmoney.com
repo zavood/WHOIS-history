@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XXXMASTI.NET
+   Domain Name: UTVMONEY.COM
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS11.AUTUMNHOST.COM
-   Name Server: NS12.AUTUMNHOST.COM
+   Name Server: NS1.QLC.CO.IN
+   Name Server: NS2.QLC.CO.IN
    Status: clientTransferProhibited
-   Updated Date: 06-sep-2011
-   Creation Date: 14-aug-2010
-   Expiration Date: 14-aug-2012
+   Updated Date: 19-mar-2010
+   Creation Date: 19-sep-2007
+   Expiration Date: 19-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:35:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:34:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,55 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;a href=http://www.domainz.in&gt;Registration Service Provided By: DOMAINZ.IN
-Contact: +091.1615032762
-Website: http://www.domainz.in/
-&lt;/a&gt;
-Domain Name: XXXMASTI.NET
+Registration Service Provided By: QLC
+Contact: +91.2240957700
+Website: http://www.qlc.in
+
+Domain Name: UTVMONEY.COM
 
 Registrant:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    UTV NEWS LIMITED
+    Suresh Kumar        (it-helpdesk@utvnet.com)
+    Parijaat House
+    1076, Dr. E. Moses Road, Worli Naka
+    Mumbai
+    Maharashtra,400018
+    IN
+    Tel. +91.2224905353
+    Fax. +91.2224905370
 
-Creation Date: 14-Aug-2010
-Expiration Date: 14-Aug-2012
+Creation Date: 19-Sep-2007
+Expiration Date: 19-Sep-2011
 
 Domain servers in listed order:
-    ns11.autumnhost.com
-    ns12.autumnhost.com
+    ns1.qlc.co.in
+    ns2.qlc.co.in
 
 
 Administrative Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    UTV NEWS LIMITED
+    Suresh Kumar        (it-helpdesk@utvnet.com)
+    Parijaat House
+    1076, Dr. E. Moses Road, Worli Naka
+    Mumbai
+    Maharashtra,400018
+    IN
+    Tel. +91.2224905353
+    Fax. +91.2224905370
 
 Technical Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    QuantumLink Communications Pvt Ltd
+    Ajit Menon        (amenon@qlc.co.in)
+    208, Shreepal Complex
+    Suren Road, Andheri - East
+    Mumbai
+    Maharashtra,400093
+    IN
+    Tel. +91.2240957700
+    Fax. +91.2240957799
 
 Billing Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    QuantumLink Communications Pvt Ltd
+    Ajit Menon        (amenon@qlc.co.in)
+    208, Shreepal Complex
+    Suren Road, Andheri - East
+    Mumbai
+    Maharashtra,400093
+    IN
+    Tel. +91.2240957700
+    Fax. +91.2240957799
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
@@ -120,5 +128,4 @@ The compilation, repackaging, dissemination or other use of this data is express
 prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
 

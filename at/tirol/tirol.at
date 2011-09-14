@@ -1,0 +1,62 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         tirol.at
+registrant:     TWG3296242-NICAT
+admin-c:        DRRA514728-NICAT
+tech-c:         DRRA514728-NICAT
+nserver:        dns1.tiscover.com
+remarks:        193.108.139.193
+nserver:        dns2.tiscover.com
+remarks:        193.108.138.188
+nserver:        dns3.tiscover.com
+remarks:        193.108.138.182
+changed:        20080314 08:52:24
+source:         AT-DOM
+
+personname:
+organization:   Tirol Werbung GmbH
+street address: Maria-Theresien-Str. 55
+postal code:    A-6010
+city:           INNSBRUCK
+country:        Austria
+nic-hdl:        TWG3296242-NICAT
+changed:        20080314 08:52:18
+source:         AT-DOM
+
+personname:     Domain Registration Role Account
+organization:
+street address: TIScover AG Travel Information Systems
+street address: Maria-Theresien-Str. 55-57
+street address: A-6020 INNSBRUCK
+street address: AUSTRIA
+postal code:
+city:
+country:
+phone:          +43 512 5351 673
+fax-no:         +43 512 5351 600
+e-mail:         domreg@tis.at
+nic-hdl:        DRRA514728-NICAT
+changed:        20010212 12:22:42
+source:         AT-DOM
+
