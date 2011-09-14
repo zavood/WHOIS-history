@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRXU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
+   Domain Name: WATCHAIT.COM
+   Registrar: EASYSPACE LTD.
+   Whois Server: whois.easyspace.com
+   Referral URL: http://www.easyspace.com
+   Name Server: NS629.DIZINC.COM
+   Name Server: NS630.DIZINC.COM
    Status: clientTransferProhibited
-   Updated Date: 02-sep-2010
-   Creation Date: 19-oct-2008
-   Expiration Date: 19-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 05-aug-2011
+   Creation Date: 02-oct-2009
+   Expiration Date: 02-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:51:40 UTC &lt;&lt;&lt;
 
@@ -52,50 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : prxu.com
-
-Registrant Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
-
-Administrative Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
-
-Technical Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
-
-Billing Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
-
-Status :
-clientDeleteProhibited
-clientTransferProhibited
-
-Domain Name Server :
-ns51.domaincontrol.com
-ns52.domaincontrol.com
-
-Registration Date :2008-10-19
-Expiration Date : 2011-10-19
-
-For more information, please go to http://whois.ename.com.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PRXU.COM
-   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
-   Whois Server: whois.ename.com
-   Referral URL: http://www.ename.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
+   Domain Name: ERWINLAW.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.EGIX.NET
+   Name Server: DNS2.EGIX.NET
    Status: clientTransferProhibited
-   Updated Date: 02-sep-2010
-   Creation Date: 19-oct-2008
-   Expiration Date: 19-oct-2011
+   Updated Date: 15-feb-2011
+   Creation Date: 11-mar-1998
+   Expiration Date: 10-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:51:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:51:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : prxu.com
+erwinlaw.com
 
-Registrant Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
+Registrant:
+         Jeff Hays  (jeff.hays@erwinlaw.com)
+        Erwin, Martinkus &amp; Cole, Ltd.
+        411 W.  University Ave.
+        Champaign, IL  61820
+        US
+        217-351-4040
 
-Administrative Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
 
-Technical Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
+Domain Name: erwinlaw.com
 
-Billing Contact Information :
-chen guofu
-chen guofu
-getgains@hotmail.com
-baoshengxiaoqu 6-601, 351100
-tel: +86 13599555195
-fax: +86 13599555195
 
-Status :
-clientDeleteProhibited
-clientTransferProhibited
 
-Domain Name Server :
-ns51.domaincontrol.com
-ns52.domaincontrol.com
+Administrative, Billing Contact:
+         Jeff Hays  (jeff.hays@erwinlaw.com)
+        Erwin, Martinkus &amp; Cole, Ltd.
+        411 W.  University Ave.
+        Champaign, IL  61820
+        US
+        217-351-4040
 
-Registration Date :2008-10-19
-Expiration Date : 2011-10-19
 
-For more information, please go to http://whois.ename.com.
+Technical Contact:
+         DNS Administrator  (dnsadmin@intenex.net)
+        Intenex
+        P.O. Box 59216
+        Birmingham, AL  35259-9216
+        US
+        888-954-6836
+
+
+
+
+   Record created on Mar 11 1998.
+   Record expires on Mar 10 2012.
+Domain servers:
+        dns1.egix.net
+        dns2.egix.net
+
+
+
+Domain Service Provider:
+   Intenex
+   888-954-6836
+   support@intenex.net
+   http://www.intenex.net
+
 
