@@ -5,24 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 0FEES.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: HEPEKEKEJEPUVO.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.HEPEKEKEJEPUVO.COM
+   Name Server: NS2.HEPEKEKEJEPUVO.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 23-oct-2007
-   Expiration Date: 23-oct-2011
+   Updated Date: 26-jun-2011
+   Creation Date: 21-jun-2011
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:41:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:43:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,40 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
 Registrant:
-   II Hosting Media
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 0FEES.NET
-
-   Domain servers in listed order:
-      NS1.BYET.ORG
-      NS2.BYET.ORG
-      NS3.BYET.ORG
-      NS4.BYET.ORG
-      NS5.BYET.ORG
+	 Brian Lindell snipe@mailae.com +1.6132383842
+	 Brian Lindell
+	 180 Cooper Street
+	 Ottawa,ON,CA K2P 2L5
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=0FEES.NET
+Domain Name:hepekekejepuvo.com
+Record last updated at
+Record created on 2011/6/21
+Record expired on 2012/6/21
+
+
+Domain servers in listed order:
+	 ns1.hepekekejepuvo.com 	 ns2.hepekekejepuvo.com
+
+Administrator:
+	 name: Brian Lindell
+ mail: snipe@mailae.com tel: +1.6132383842
+	 org: Brian Lindell
+
+address: 180 Cooper Street
+	 city: Ottawa
+,province: ON
+,country: CA
+ postcode: K2P 2L5
+
+Technical Contactor:
+	 name: Brian Lindell
+ mail: snipe@mailae.com tel: +1.6132383842
+	 org: Brian Lindell
+
+address: 180 Cooper Street
+	 city: Ottawa
+,province: ON
+,country: CA
+ postcode: K2P 2L5
+
+Billing Contactor:
+	 name: Brian Lindell
+ mail: snipe@mailae.com tel: +1.6132383842
+	 org: Brian Lindell
+
+address: 180 Cooper Street
+	 city: Ottawa
+,province: ON
+,country: CA
+ postcode: K2P 2L5
+
