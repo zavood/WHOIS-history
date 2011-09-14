@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETSOLMAIL.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETSOLMAIL.COM
-   Name Server: NS2.NETSOLMAIL.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-jan-2009
-   Creation Date: 08-jan-2004
-   Expiration Date: 08-jan-2019
+   Domain Name: JAINDANPETI-AIRCOOLERS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.WEBPRESENCEWORLD.COM
+   Name Server: NS2.WEBPRESENCEWORLD.COM
+   Status: ok
+   Updated Date: 18-jan-2011
+   Creation Date: 17-jan-2006
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:43:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... jaindanpeti-aircoolers.com
+  Creation Date........ 2006-01-17
+  Registration Date.... 2006-01-17
+  Expiry Date.......... 2012-01-17
+  Organisation Name.... jainengg
+  Organisation Address. chikalthanamidc
+  Organisation Address.
+  Organisation Address. aurangabad
+  Organisation Address. 431005
+  Organisation Address. MA
+  Organisation Address. INDIA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... sudhir jain
+  Admin Address........ chikalthanamidc
+  Admin Address........
+  Admin Address........ aurangabad
+  Admin Address........ 431005
+  Admin Address........ MA
+  Admin Address........ INDIA
+  Admin Email.......... contact@jaindanpeti-coolers.com
+  Admin Phone.......... +91.02402473703
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ sudhir jain
+  Tech Address......... chikalthanamidc
+  Tech Address.........
+  Tech Address......... aurangabad
+  Tech Address......... 431005
+  Tech Address......... MA
+  Tech Address......... INDIA
+  Tech Email........... contact@jaindanpeti-coolers.com
+  Tech Phone........... +91.02402473703
+  Tech Fax.............
+  Name Server.......... ns1.webpresenceworld.com
+  Name Server.......... ns2.webpresenceworld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: netsolmail.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:33:16 EDT 2011
-Reason Code: IE

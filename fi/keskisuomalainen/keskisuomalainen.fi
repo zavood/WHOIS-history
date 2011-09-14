@@ -1,0 +1,18 @@
+
+domain:   keskisuomalainen.fi
+descr:    Keskisuomalainen Oyj
+descr:    01744458
+address:  J&auml;rjestelm&auml;yll&auml;pito
+address:  PL159
+address:  40101
+address:  JYV&Auml;SKYL&Auml;
+phone:    014-622000
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns1.keskisuomalainen.fi [OK] 193.184.144.16
+nserver: ns-fi.elisa.net [OK]
+nserver: ns-se.elisa.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

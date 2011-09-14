@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      bonkers.ie
+descr:       BONKERS MONEY LIMITED
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AKE648-IEDR
+tech-c:      AAM456-IEDR
+renewal:     20-November-2011
+status:      Active
+nserver:     ns-239.awsdns-29.com
+nserver:     ns-1989.awsdns-56.co.uk
+nserver:     ns-1395.awsdns-46.org
+nserver:     ns-604.awsdns-11.net
+source:      IEDR
+
+person:      David Kerr
+nic-hdl:     AKE648-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

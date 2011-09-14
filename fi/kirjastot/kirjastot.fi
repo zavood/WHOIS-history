@@ -1,0 +1,17 @@
+
+domain:   kirjastot.fi
+descr:    Helsingin kaupunginkirjasto
+descr:    02012566
+address:  Tietotekniikka/Olli Savonen
+address:  PL 4100
+address:  00099
+address:  Helsingin kaupunki
+phone:    3108511
+status:   Granted
+created:  13.4.1999
+expires:  31.8.2012
+nserver: ns.lasipalatsi.fi [OK]
+nserver: ns.lib.hel.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

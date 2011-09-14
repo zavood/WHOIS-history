@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NETSOLMAIL.NET
+   Domain Name: JAMESPUBLISHING.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.NETSOLMAIL.COM
-   Name Server: NS2.NETSOLMAIL.COM
-   Status: clientDeleteProhibited
+   Name Server: NS21.WORLDNIC.COM
+   Name Server: NS22.WORLDNIC.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-jan-2009
-   Creation Date: 08-jan-2004
-   Expiration Date: 08-jan-2019
+   Updated Date: 05-feb-2011
+   Creation Date: 11-dec-1996
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:43:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:43:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: netsolmail.net
+Whois Query: jamespublishing.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:33:16 EDT 2011
+Date and Time of Query: Wed Sep 14 15:39:34 EDT 2011
 Reason Code: IE
