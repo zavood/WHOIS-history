@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAL.NET
+   Domain Name: WKBT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: HORUS.FOXFIRE.NET
-   Name Server: NS5.FOXFIRE.NET
-   Name Server: NS6.FOXFIRE.NET
-   Name Server: SRI-NIC.ARPA.NET
-   Status: clientDeleteProhibited
+   Name Server: C.NS.EMBTV.COM
+   Name Server: D.NS.EMBTV.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-jan-2011
-   Creation Date: 15-jan-1995
-   Expiration Date: 14-jan-2013
+   Updated Date: 31-dec-2008
+   Creation Date: 14-feb-1996
+   Expiration Date: 15-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:22:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:21:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about DAL.NET
-&lt;a href=&quot;http://www.aboutus.org/DAL.NET&quot;&gt;AboutUs: DAL.NET &lt;/a&gt;
+Visit AboutUs.org for more information about WKBT.COM
+&lt;a href=&quot;http://www.aboutus.org/WKBT.COM&quot;&gt;AboutUs: WKBT.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-DALnet
-   ATTN DAL.NET
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+WISC-TV
+   7025 Raymond Rd.
+   Madison, WI 53719
+   US
 
-
-   Domain Name: DAL.NET
+   Domain Name: WKBT.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,41 +94,21 @@ DALnet
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact:
-      Nielsen, Sven		cx5bc9b75du@networksolutionsprivateregistration.com
-      ATTN DAL.NET
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+   Administrative Contact, Technical Contact:
+      WISC-TV		lcharles@WISCTV.COM
+      7025 Raymond Rd.
+      Madison, WI 53719
       US
-      570-708-8780
-
-   Technical Contact:
-      Hostmaster, DALnet		tq4gz4ph8zh@networksolutionsprivateregistration.com
-      DALnet
-      ATTN DAL.NET
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
-      US
-      570-708-8780
+      (608) 277-5154 fax: 999 999 9999
 
 
-   Record expires on 14-Jan-2013.
-   Record created on 15-Jan-1995.
-   Database last updated on 14-Sep-2011 01:12:49 EDT.
+   Record expires on 15-Feb-2012.
+   Record created on 14-Feb-1996.
+   Database last updated on 14-Sep-2011 01:12:01 EDT.
 
    Domain servers in listed order:
 
-   HORUS.FOXFIRE.NET            204.152.186.58
-   NS5.FOXFIRE.NET              66.240.217.162
-   SRI-NIC.ARPA.NET
-   NS6.FOXFIRE.NET              216.18.229.120
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   C.NS.EMBTV.COM               75.101.163.214
+   D.NS.EMBTV.COM               64.73.77.67
 
 
