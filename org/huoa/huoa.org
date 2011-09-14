@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D37573-LROR
+Domain Name:HUOA.ORG
+Created On:09-Jan-1996 05:00:00 UTC
+Last Updated On:19-Jan-2011 20:23:16 UTC
+Expiration Date:08-Jan-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24009867-NSI
+Registrant Name:HawaiiUnitedOkinawan Association
+Registrant Organization:HawaiiUnitedOkinawan Association
+Registrant Street1:94-587 Ukee Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Waipahu
+Registrant State/Province:HI
+Registrant Postal Code:96797
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mmukai@LAVA.NET
+Admin ID:24009869-NSI
+Admin Name:Airclean, Inc.
+Admin Organization:Airclean, Inc.
+Admin Street1:1212 NUUANU AVE APT 1912
+Admin Street2:
+Admin Street3:
+Admin City:HONOLULU
+Admin State/Province:HI
+Admin Postal Code:96817-4028
+Admin Country:US
+Admin Phone:+1.80853769
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mmukai@LAVA.NET
+Tech ID:5678047-NSI
+Tech Name:Del Wong
+Tech Street1:P.O.Box 22481
+Tech Street2:
+Tech Street3:
+Tech City:HONOLULU
+Tech State/Province:HI
+Tech Postal Code:96822-2481
+Tech Country:US
+Tech Phone:+1.8085393790
+Tech Phone Ext.:
+Tech FAX:+1.8085393793
+Tech FAX Ext.:
+Tech Email:del@FLEX.COM
+Name Server:NS.ADDR.COM
+Name Server:NS2.ADDR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
