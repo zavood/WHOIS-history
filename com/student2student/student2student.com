@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DRYICONS.COM
+   Domain Name: STUDENT2STUDENT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
+   Name Server: NS.CH-META.NET
+   Name Server: NS2.CH-META.NET
+   Name Server: NS3.CH-META.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-jul-2009
-   Creation Date: 10-jul-2007
-   Expiration Date: 10-jul-2012
+   Updated Date: 22-nov-2010
+   Creation Date: 22-aug-2004
+   Expiration Date: 31-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:20:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:18:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   WEB care GmbH
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DRYICONS.COM
+   Domain Name: STUDENT2STUDENT.COM
 
    Domain servers in listed order:
-      NS2.THEPLANET.COM
-      NS1.THEPLANET.COM
+      NS.CH-META.NET
+      NS2.CH-META.NET
+      NS3.CH-META.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DRYICONS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STUDENT2STUDENT.COM

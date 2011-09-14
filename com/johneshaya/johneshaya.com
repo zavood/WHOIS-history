@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DRYICONS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.THEPLANET.COM
-   Name Server: NS2.THEPLANET.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-jul-2009
-   Creation Date: 10-jul-2007
-   Expiration Date: 10-jul-2012
+   Domain Name: JOHNESHAYA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS14A.NAMESERVERS.NET
+   Name Server: NS14B.NAMESERVERS.NET
+   Status: ok
+   Updated Date: 03-dec-2010
+   Creation Date: 30-mar-2000
+   Expiration Date: 30-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:20:39 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... johneshaya.com
+  Creation Date........ 2000-03-31
+  Registration Date.... 2000-03-31
+  Expiry Date.......... 2012-03-31
+  Organisation Name.... John Eshaya Ts
+  Organisation Address. 1243 W Temple Street
+  Organisation Address.
+  Organisation Address. Los Angeles
+  Organisation Address. 90026
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... John Eshaya
+  Admin Address........ 1243 W Temple Street
+  Admin Address........
+  Admin Address........ Los Angeles
+  Admin Address........ 90026
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... john@johneshaya.com
+  Admin Phone.......... (213) 481-2181
+  Admin Fax............ (213) 481-2999
+
+Tech Name............ Verio Hostmaster
+  Tech Address......... 5050 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax.............
+  Name Server.......... ns14a.nameservers.net
+  Name Server.......... ns14b.nameservers.net
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DRYICONS.COM
-
-   Domain servers in listed order:
-      NS2.THEPLANET.COM
-      NS1.THEPLANET.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DRYICONS.COM

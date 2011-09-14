@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19005297-LROR
+Domain Name:PVALOUKY.ORG
+Created On:03-Feb-2000 16:53:28 UTC
+Last Updated On:16-Apr-2010 00:24:45 UTC
+Expiration Date:03-Feb-2012 16:53:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuvCyqkTsSKMo3rX
+Registrant Name:VIA Support
+Registrant Organization:VIA Studio
+Registrant Street1:1201 Story Ave
+Registrant Street2:Suite 203
+Registrant Street3:
+Registrant City:Louisville
+Registrant State/Province:KY
+Registrant Postal Code:40206
+Registrant Country:US
+Registrant Phone:+1.5024988477
+Registrant Phone Ext.:
+Registrant FAX:+1.5024988478
+Registrant FAX Ext.:
+Registrant Email:domains@viastudio.com
+Admin ID:tuz4YxBQfgubtIfd
+Admin Name:VIA Support
+Admin Organization:VIA Studio
+Admin Street1:1201 Story Ave
+Admin Street2:Suite 203
+Admin Street3:
+Admin City:Louisville
+Admin State/Province:KY
+Admin Postal Code:40206
+Admin Country:US
+Admin Phone:+1.5024988477
+Admin Phone Ext.:
+Admin FAX:+1.5024988478
+Admin FAX Ext.:
+Admin Email:domains@viastudio.com
+Tech ID:tu0mGAgtm6Ky0XAl
+Tech Name:VIA Support
+Tech Organization:VIA Studio
+Tech Street1:1201 Story Ave
+Tech Street2:Suite 203
+Tech Street3:
+Tech City:Louisville
+Tech State/Province:KY
+Tech Postal Code:40206
+Tech Country:US
+Tech Phone:+1.5024988477
+Tech Phone Ext.:
+Tech FAX:+1.5024988478
+Tech FAX Ext.:
+Tech Email:domains@viastudio.com
+Name Server:NS.BLUEGRASS.NET
+Name Server:NS1.BLUEGRASS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
