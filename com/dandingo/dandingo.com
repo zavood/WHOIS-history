@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRGUNZ.COM
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOS.UOL.COM.BR
-   Name Server: NS2.DOMINIOS.UOL.COM.BR
-   Name Server: NS3.DOMINIOS.UOL.COM.BR
+   Domain Name: DANDINGO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS2217.HOSTGATOR.COM
+   Name Server: NS2218.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 10-oct-2010
-   Expiration Date: 10-oct-2011
+   Updated Date: 20-jan-2011
+   Creation Date: 02-dec-2009
+   Expiration Date: 02-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:53:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
+=-=-=-=
 
-Searching for brgunz.com.  Found 1 record(s) matching brgunz.com.
 
-Domain:              brgunz.com
-Nameserver:          ns1.dominios.uol.com.br
-Nameserver:          ns2.dominios.uol.com.br
-Nameserver:          ns3.dominios.uol.com.br
-Created:             20101010
-Updated:             20110707
+Domain name: dandingo.com
 
-Registrant:
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O dandingo.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (hrwrrrcf@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O dandingo.com
+   Bellevue, WA 98007
+   US
 
 Technical Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (hrwrrrcf@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O dandingo.com
+   Bellevue, WA 98007
+   US
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+Status: Locked
 
+Name Servers:
+   ns2217.hostgator.com
+   ns2218.hostgator.com
+
+Creation date: 02 Dec 2009 17:50:42
+Expiration date: 02 Dec 2014 17:50:42
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

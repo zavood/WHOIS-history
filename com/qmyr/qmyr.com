@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRGUNZ.COM
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOS.UOL.COM.BR
-   Name Server: NS2.DOMINIOS.UOL.COM.BR
-   Name Server: NS3.DOMINIOS.UOL.COM.BR
+   Domain Name: QMYR.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.OMDN.NET
+   Name Server: NS2.OMDN.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 10-oct-2010
-   Expiration Date: 10-oct-2011
+   Updated Date: 26-oct-2010
+   Creation Date: 31-oct-2007
+   Expiration Date: 31-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +52,33 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
 
-Searching for brgunz.com.  Found 1 record(s) matching brgunz.com.
+Domain qmyr.com:
+  Domain Name Catalog
+  203 Creekway Ct
+  Marietta, GA 30066 US
 
-Domain:              brgunz.com
-Nameserver:          ns1.dominios.uol.com.br
-Nameserver:          ns2.dominios.uol.com.br
-Nameserver:          ns3.dominios.uol.com.br
-Created:             20101010
-Updated:             20110707
+Administrative contact:
+Technical contact:
+Billing contact:
+  Domain Name Catalog
+  Ryan MacDonald
+  Buy-This-Name@DomainNameCatalog.com
+  203 Creekway Ct
+  Marietta, GA 30066 US
+  Phone: +1.4049643399
+  Fax:
 
-Registrant:
+Record dates:
+  Record created on: 2007-10-31 14:02:01 UTC
+  Record modified on: 2010-10-26 19:24:18 UTC
+  Record expires on: 2011-10-31 UTC
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+Nameservers:
+  ns1.omdn.net:
+    69.36.161.11
+  ns2.omdn.net:
+    69.36.161.12
 
-Administrative Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
-
-Technical Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+Note: Automated collection of data from this database is strictly prohibited.
 

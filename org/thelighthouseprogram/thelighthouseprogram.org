@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105648917-LROR
+Domain Name:THELIGHTHOUSEPROGRAM.ORG
+Created On:28-Jan-2005 23:28:48 UTC
+Last Updated On:15-Jan-2010 21:55:45 UTC
+Expiration Date:28-Jan-2018 23:28:48 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:43257864-NSI
+Registrant Name:lighthouse program
+Registrant Organization:lighthouse program
+Registrant Street1:45 lyon terrace
+Registrant Street2:
+Registrant Street3:
+Registrant City:bridgeport
+Registrant State/Province:CT
+Registrant Postal Code:06604
+Registrant Country:US
+Registrant Phone:+1.2035767252
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:43257864-NSI
+Admin Name:lighthouse program
+Admin Organization:lighthouse program
+Admin Street1:45 lyon terrace
+Admin Street2:
+Admin Street3:
+Admin City:bridgeport
+Admin State/Province:CT
+Admin Postal Code:06604
+Admin Country:US
+Admin Phone:+1.2035767252
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:43257864-NSI
+Tech Name:lighthouse program
+Tech Organization:lighthouse program
+Tech Street1:45 lyon terrace
+Tech Street2:
+Tech Street3:
+Tech City:bridgeport
+Tech State/Province:CT
+Tech Postal Code:06604
+Tech Country:US
+Tech Phone:+1.2035767252
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

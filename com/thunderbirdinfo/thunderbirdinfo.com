@@ -5,19 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRGUNZ.COM
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOS.UOL.COM.BR
-   Name Server: NS2.DOMINIOS.UOL.COM.BR
-   Name Server: NS3.DOMINIOS.UOL.COM.BR
-   Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 10-oct-2010
-   Expiration Date: 10-oct-2011
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:41 UTC &lt;&lt;&lt;
+No match for &quot;THUNDERBIRDINFO.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:53:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
-
-Searching for brgunz.com.  Found 1 record(s) matching brgunz.com.
-
-Domain:              brgunz.com
-Nameserver:          ns1.dominios.uol.com.br
-Nameserver:          ns2.dominios.uol.com.br
-Nameserver:          ns3.dominios.uol.com.br
-Created:             20101010
-Updated:             20110707
-
-Registrant:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
-
-Administrative Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
-
-Technical Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
-

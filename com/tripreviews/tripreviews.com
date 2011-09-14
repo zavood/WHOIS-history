@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRGUNZ.COM
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOS.UOL.COM.BR
-   Name Server: NS2.DOMINIOS.UOL.COM.BR
-   Name Server: NS3.DOMINIOS.UOL.COM.BR
+   Domain Name: TRIPREVIEWS.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.SENTIAS.COM
+   Name Server: NS2.SENTIAS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 10-oct-2010
-   Expiration Date: 10-oct-2011
+   Updated Date: 12-dec-2010
+   Creation Date: 11-dec-2003
+   Expiration Date: 11-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:53:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
 
-Searching for brgunz.com.  Found 1 record(s) matching brgunz.com.
-
-Domain:              brgunz.com
-Nameserver:          ns1.dominios.uol.com.br
-Nameserver:          ns2.dominios.uol.com.br
-Nameserver:          ns3.dominios.uol.com.br
-Created:             20101010
-Updated:             20110707
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
+   TripReviews Online Inc.
+   445 West 6th Avenue
+   Vancouver, BC V5Y 1L3
+   CA
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+   Domain Name: TRIPREVIEWS.COM
 
-Administrative Contact:
+   Administrative Contact, Technical Contact, Zone Contact:
+      TripReviews Online Inc.
+      Sean Rollinson
+      445 West 6th Avenue
+      Vancouver, BC V5Y 1L3
+      CA
+      (604)685-6885
+      (604)685-4658 [fax]
+      sean@escapes.ca
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+   Domain created on 11-Dec-2003
+   Domain expires on 11-Dec-2015
+   Last updated on 05-Apr-2008
 
-Technical Contact:
+   Domain servers in listed order:
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+      NS1.SENTIAS.COM
+      NS2.SENTIAS.COM
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 

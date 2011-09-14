@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BRGUNZ.COM
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOS.UOL.COM.BR
-   Name Server: NS2.DOMINIOS.UOL.COM.BR
-   Name Server: NS3.DOMINIOS.UOL.COM.BR
+   Domain Name: TRENDSRESEARCH.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS.WEBJOGGER.NET
+   Name Server: NS3.WEBJOGGER.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-jul-2011
-   Creation Date: 10-oct-2010
-   Expiration Date: 10-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 26-dec-2009
+   Creation Date: 17-mar-1995
+   Expiration Date: 18-mar-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:52:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:53:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Searching for brgunz.com.  Found 1 record(s) matching brgunz.com.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Domain:              brgunz.com
-Nameserver:          ns1.dominios.uol.com.br
-Nameserver:          ns2.dominios.uol.com.br
-Nameserver:          ns3.dominios.uol.com.br
-Created:             20101010
-Updated:             20110707
 
 Registrant:
+   Domains by Proxy, Inc.
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: TRENDSRESEARCH.COM
 
-Administrative Contact:
+   Domain servers in listed order:
+      NS.WEBJOGGER.NET
+      NS3.WEBJOGGER.NET
 
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
 
-Technical Contact:
-
-Name:                Jose carlos de machado
-Organization:        Jose carlos de machado
-E-mail:              lukinhasxd99@bol.com.br
-Address:             AVENIDA ALMIRANTE BARROSO 74 null
-Address:             20031005
-Address:             RIO DE JANEIRO - RJ
-Phone:               55 11 32211234
-Country:             BRASIL
-Created:             20101010
-Updated:             20101010
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TRENDSRESEARCH.COM

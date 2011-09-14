@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BIL4222D-NORID
+Domain Name................: billy.no
+Domain Holder Handle.......: EA3921O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: LH2655P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+
+Additional information:
+Created:         2002-05-07
+Last updated:    2011-04-27
+
+NORID Handle...............: EA3921O-NORID
+Type.......................: organization
+Name.......................: EGMONT AS
+Id Type....................: organization_number
+Id Number..................: 968136593
+Registrar Handle...........: REG42-NORID
+Post Address...............: Fridtjof Nansens vei 14
+Postal Code................: NO-0369
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.24051300
+Fax Number.................: +47.24051599
+Email Address..............: webmaster@egmont.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
