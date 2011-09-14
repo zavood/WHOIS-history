@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IAMJOLINA.COM
+   Domain Name: SMARTSHOPPERZONE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.LUNARIFFIC.COM
-   Name Server: NS2.LUNARIFFIC.COM
+   Name Server: NS63.DOMAINCONTROL.COM
+   Name Server: NS64.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-oct-2010
-   Creation Date: 15-jun-2009
-   Expiration Date: 15-jun-2014
+   Updated Date: 14-feb-2011
+   Creation Date: 14-feb-2011
+   Expiration Date: 14-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:32:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:32:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Jolina Bonita
+   Rosemary Lora
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IAMJOLINA.COM
+   Domain Name: SMARTSHOPPERZONE.COM
 
    Domain servers in listed order:
-      NS1.LUNARIFFIC.COM
-      NS2.LUNARIFFIC.COM
+      NS63.DOMAINCONTROL.COM
+      NS64.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IAMJOLINA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SMARTSHOPPERZONE.COM

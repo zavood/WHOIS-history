@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 31-may-2011
    Expiration Date: 31-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:01:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:32:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -102,7 +102,7 @@ Nameserver Information:
 Create: 2011-05-31 17:04:06
 Update: 2011-05-31
 Expired: 2012-05-30
-QueryTimes: 80
+QueryTimes: 82
 
 
 If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
