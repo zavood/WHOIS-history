@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYSHOCKTUBE.COM
-   Registrar: EVOPLUS LTD
-   Whois Server: whois.evonames.com
-   Referral URL: http://www.evonames.com
-   Name Server: NS5.PUBLIC-NS.COM
-   Name Server: NS6.PUBLIC-NS.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 28-nov-2010
-   Expiration Date: 28-nov-2011
+   Domain Name: 7ANL.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS71.DOMAINCONTROL.COM
+   Name Server: NS72.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 07-may-2011
+   Creation Date: 20-apr-2011
+   Expiration Date: 20-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,54 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name: GAYSHOCKTUBE.COM
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Abuse email: abuse@whoisprotectservice.net
-
-This domain is not owned by WhoisProtectService.
-WhoisProtectService only provides a proxy service for our customers personal contact information.
-For any complaints concerning this domain please visit http://whoisprotectservice.net
 
 Registrant:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+   jia zhang
 
-Registered Through:
-    AdvancedHosters.com (http://www.AdvancedHosters.com)
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: 7ANL.COM
 
-Administrative Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+   Domain servers in listed order:
+      NS71.DOMAINCONTROL.COM
+      NS72.DOMAINCONTROL.COM
 
-Technical Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
 
-Billing Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Name Server: NS6.PUBLIC-NS.COM
-Name Server: NS5.PUBLIC-NS.COM
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=7ANL.COM

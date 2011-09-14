@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; paleo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      paleo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EM2437-FRNIC
+admin-c:     DE578-FRNIC
+tech-c:      EM4016-FRNIC
+tech-c:      ST41-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL39593-FRNIC
+registrar:   E.L.B. MULTIMEDIA - Netissime
+anniversary: 14/12
+created:     14/12/2005
+last-update: 22/12/2010
+source:      FRNIC
+
+ns-list:     NSL39593-FRNIC
+nserver:     dns1.maven2-10.com
+nserver:     dns2.maven2-10.com
+source:      FRNIC
+
+registrar:   E.L.B. MULTIMEDIA - Netissime
+type:        Isp Option 1
+address:     13/15/17 Rue Jean Bourgey
+address:     VILLEURBANNE
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      info@netissime.com
+website:     http://www.netissime.com
+anonymous:   NO
+registered:  12/07/2000
+source:      FRNIC
+
+nic-hdl:     DE578-FRNIC
+type:        PERSON
+contact:     Dave Elbaze
+address:     ELB Multim&eacute;dia
+address:     17, rue jean bourget
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 73 54 99 13
+e-mail:      yannick.kepinski@wanadoo.fr
+changed:     14/12/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EM2437-FRNIC
+type:        ORGANIZATION
+contact:     elb multimedia
+address:     17, rue Jean Bourget
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 73 54 99 13
+e-mail:      yannick.kepinski@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     EM4016-FRNIC
+type:        ROLE
+contact:     elb multimedia
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+e-mail:      info@netissime.com
+admin-c:     DE1803-FRNIC
+tech-c:      DE1803-FRNIC
+notify:      info@netissime.com
+changed:     23/05/2006 info@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ST41-FRNIC
+type:        PERSON
+contact:     Support Technique
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      help@netissime.com
+changed:     23/05/2006 technique@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

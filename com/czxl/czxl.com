@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYSHOCKTUBE.COM
-   Registrar: EVOPLUS LTD
-   Whois Server: whois.evonames.com
-   Referral URL: http://www.evonames.com
-   Name Server: NS5.PUBLIC-NS.COM
-   Name Server: NS6.PUBLIC-NS.COM
+   Domain Name: CZXL.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
    Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 28-nov-2010
-   Expiration Date: 28-nov-2011
+   Updated Date: 01-mar-2011
+   Creation Date: 09-feb-2004
+   Expiration Date: 09-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:55:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,54 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name: GAYSHOCKTUBE.COM
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Abuse email: abuse@whoisprotectservice.net
-
-This domain is not owned by WhoisProtectService.
-WhoisProtectService only provides a proxy service for our customers personal contact information.
-For any complaints concerning this domain please visit http://whoisprotectservice.net
 
 Registrant:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+	 xianglon iqix@21cn.com +86.7682136400
+	 lirong
+	 room 502,No.4 Xi Xin road,Chao Zhou
+	 chaozhou,Guangdong,AU 521000
 
-Registered Through:
-    AdvancedHosters.com (http://www.AdvancedHosters.com)
 
-Administrative Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+Domain Name:czxl.com
+Record last updated at 2011-03-01 21:42:04
+Record created on 2004/2/9
+Record expired on 2012/2/9
 
-Technical Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
 
-Billing Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+Domain servers in listed order:
+	 ns3.dns-diy.com 	 ns4.dns-diy.com
 
-Name Server: NS6.PUBLIC-NS.COM
-Name Server: NS5.PUBLIC-NS.COM
+Administrator:
+	 Name-- lirong
+ EMail-: (iqix@21cn.com)
+ tel --: +86.7682136400
+	 org: lirong
+	 room 502,No.4 Xi Xin road,Chao Zhou
+	 chaozhou,Guangdong,CN 521000
+
+Technical Contactor:
+	 Name-- lirong
+ EMail-: (iqix@21cn.com)
+ tel --: +86.7682136400
+	 org: lirong
+	 room 502,No.4 Xi Xin road,Chao Zhou
+	 chaozhou,Guangdong,CN 521000
+
+Billing Contactor:
+	 Name-- lirong
+ EMail-: (iqix@21cn.com)
+ tel --: +86.7682136400
+	 org: lirong
+	 room 502,No.4 Xi Xin road,Chao Zhou
+	 chaozhou,Guangdong,CN 521000
 

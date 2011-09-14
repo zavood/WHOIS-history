@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYSHOCKTUBE.COM
-   Registrar: EVOPLUS LTD
-   Whois Server: whois.evonames.com
-   Referral URL: http://www.evonames.com
-   Name Server: NS5.PUBLIC-NS.COM
-   Name Server: NS6.PUBLIC-NS.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 28-nov-2010
-   Expiration Date: 28-nov-2011
+   Domain Name: B9DM.COM
+   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
+   Whois Server: whois.dns.com.cn
+   Referral URL: http://www.dns.com.cn
+   Name Server: NS1.DNSV2.COM
+   Name Server: NS2.DNSV2.COM
+   Status: clientTransferProhibited
+   Updated Date: 26-aug-2011
+   Creation Date: 24-oct-2008
+   Expiration Date: 24-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:55:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,53 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name: GAYSHOCKTUBE.COM
+Domain Name.......... b9dm.com
+  Creation Date........ 2008-10-24 16:02:10
+  Registration Date.... 2008-10-24 16:02:10
+  Expiry Date.......... 2012-10-24 16:02:10
+  Organisation Name.... duan chun yong
+  Organisation Address. jiangsu
+  Organisation Address.
+  Organisation Address. jiangsu
+  Organisation Address. 899679
+  Organisation Address. JS
+  Organisation Address. CN
 
-Abuse email: abuse@whoisprotectservice.net
+Admin Name........... duan chunyong
+  Admin Address........ anhui
+  Admin Address........
+  Admin Address........ anhui
+  Admin Address........ 400700
+  Admin Address........ AH
+  Admin Address........ CN
+  Admin Email.......... admin@b9dm.com
+  Admin Phone.......... +86.6188945565
+  Admin Fax............ +86.6188940000
 
-This domain is not owned by WhoisProtectService.
-WhoisProtectService only provides a proxy service for our customers personal contact information.
-For any complaints concerning this domain please visit http://whoisprotectservice.net
+Tech Name............ duan chunyong
+  Tech Address......... ChongQingBeiBeiQu
+  Tech Address.........
+  Tech Address......... ChongQing
+  Tech Address......... 400700
+  Tech Address......... LN
+  Tech Address......... CN
+  Tech Email........... 1232614@qq.com
+  Tech Phone........... +86.6188945565-801
+  Tech Fax............. +86.6188940000
 
-Registrant:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Registered Through:
-    AdvancedHosters.com (http://www.AdvancedHosters.com)
-
-Administrative Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Technical Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Billing Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Name Server: NS6.PUBLIC-NS.COM
-Name Server: NS5.PUBLIC-NS.COM
-
+Bill Name............ duan ai
+  Bill Address......... anhui
+  Bill Address.........
+  Bill Address......... anhui
+  Bill Address......... 400700
+  Bill Address......... AH
+  Bill Address......... CN
+  Bill Email........... admin@b9dm.com
+  Bill Phone........... +86.6188945565-801
+  Bill Fax............. +86.6188940000
+  Name Server.......... ns2.dnsv2.com
+  Name Server.......... ns1.dnsv2.com

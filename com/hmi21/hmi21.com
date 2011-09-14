@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYSHOCKTUBE.COM
-   Registrar: EVOPLUS LTD
-   Whois Server: whois.evonames.com
-   Referral URL: http://www.evonames.com
-   Name Server: NS5.PUBLIC-NS.COM
-   Name Server: NS6.PUBLIC-NS.COM
+   Domain Name: HMI21.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: NS1.ITERGO.NET
+   Name Server: PNS.DTAG.DE
+   Name Server: SECONDARY006.DTAG.NET
    Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 28-nov-2010
-   Expiration Date: 28-nov-2011
+   Updated Date: 26-jun-2011
+   Creation Date: 25-jun-2004
+   Expiration Date: 25-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,54 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
 
-Domain Name: GAYSHOCKTUBE.COM
-
-Abuse email: abuse@whoisprotectservice.net
-
-This domain is not owned by WhoisProtectService.
-WhoisProtectService only provides a proxy service for our customers personal contact information.
-For any complaints concerning this domain please visit http://whoisprotectservice.net
-
-Registrant:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Registered Through:
-    AdvancedHosters.com (http://www.AdvancedHosters.com)
-
-Administrative Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Technical Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Billing Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
-
-Name Server: NS6.PUBLIC-NS.COM
-Name Server: NS5.PUBLIC-NS.COM
-
+domain: hmi21.com
+registrant-hdl: RDT-ELA9
+admin-c: RDT-HH5673
+tech-c: RDT-HII2
+zone-c: RDT-HII2
+nserver: ns1.itergo.net
+nserver: pns.dtag.de
+nserver: secondary006.dtag.net
+status: connected
+changed: 2010-12-27
+created: 2004-06-25
+expires: 2012-06-25
+source: DEUTSCHE TELEKOM AG

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAYSHOCKTUBE.COM
-   Registrar: EVOPLUS LTD
-   Whois Server: whois.evonames.com
-   Referral URL: http://www.evonames.com
-   Name Server: NS5.PUBLIC-NS.COM
-   Name Server: NS6.PUBLIC-NS.COM
-   Status: ok
-   Updated Date: 28-nov-2010
-   Creation Date: 28-nov-2010
-   Expiration Date: 28-nov-2011
+   Domain Name: MSQY.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DNS-DIY.COM
+   Name Server: NS2.DNS-DIY.COM
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 27-jul-2011
+   Creation Date: 23-mar-2002
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:56:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:55:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,54 +54,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name: GAYSHOCKTUBE.COM
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Abuse email: abuse@whoisprotectservice.net
-
-This domain is not owned by WhoisProtectService.
-WhoisProtectService only provides a proxy service for our customers personal contact information.
-For any complaints concerning this domain please visit http://whoisprotectservice.net
 
 Registrant:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+	 wuxi moshi yeya qidong shebei chang wuxi@veryyear.com +86.51085728690
+	 malifeng
+	 wuxi
+	 wuxi,Jiangsu,CN 214000
 
-Registered Through:
-    AdvancedHosters.com (http://www.AdvancedHosters.com)
 
-Administrative Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+Domain Name:msqy.com
+Record last updated at 2011-07-06 21:53:29
+Record created on 2002/3/23
+Record expired on 2012/3/23
 
-Technical Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
 
-Billing Contact:
-    Proxy Private Registration         gayshocktube.com@whoisprotectservice.net
-    WhoisProtectService.net
-    ATTN: Private Registrations
-    27 Old Gloucester street
-    London WC1N 3AX
-    United Kingdom
-    +44.02074195061
+Domain servers in listed order:
+	 ns1.dns-diy.com 	 ns2.dns-diy.com
 
-Name Server: NS6.PUBLIC-NS.COM
-Name Server: NS5.PUBLIC-NS.COM
+Administrator:
+	 Name-- wuxi city veryyear
+ EMail-: (wuxi@veryyear.com)
+ tel --: +86.51085728690
+	 org: wuxi city veryyear
+	 wuxi
+	 wuxi,Jiangsu,CN 214000
+
+Technical Contactor:
+	 Name-- wuxi
+ EMail-: (wuxi@veryyear.com)
+ tel --: +86.51085728690
+	 org: wuxi
+	 wuxi
+	 wuxi,Jiangsu,CN 214000
+
+Billing Contactor:
+	 Name-- wuxi
+ EMail-: (wuxi@veryyear.com)
+ tel --: +86.51085728690
+	 org: wuxi
+	 wuxi
+	 wuxi,Jiangsu,CN 214000
 
