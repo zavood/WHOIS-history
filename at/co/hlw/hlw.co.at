@@ -1,0 +1,83 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         hlw.co.at
+registrant:     HSDG7924795-NICAT
+admin-c:        ML1239888-NICAT
+tech-c:         BC1430190-NICAT
+tech-c:         ML1239888-NICAT
+nserver:        ns1.mydomain.com
+remarks:        64.94.117.195
+nserver:        ns2.mydomain.com
+remarks:        216.52.121.228
+nserver:        ns3.mydomain.com
+remarks:        66.150.161.130
+nserver:        ns4.mydomain.com
+remarks:        63.251.83.74
+changed:        20110329 14:38:19
+source:         AT-DOM
+
+personname:     Michael Lacher
+organization:   HLW Software Development GmbH
+street address: Nussdorfer Strasse 26-28/19
+postal code:    A-1090
+city:           Wien
+country:        Austria
+phone:          +4369912787551
+e-mail:         mucki@gryps.org
+nic-hdl:        HSDG7924795-NICAT
+changed:        20110329 14:38:15
+source:         AT-DOM
+
+personname:     Michael Lacher
+organization:
+street address: Honeder Lacher Wallner Softwareentwicklung OEG
+street address: Sandwirtgasse 19/8
+street address: 1060 Wien
+street address: AT
+postal code:
+city:
+country:
+phone:          +43.69912787551
+fax-no:         -
+e-mail:         mucki@gryps.org
+nic-hdl:        ML1239888-NICAT
+changed:        20030109 10:29:06
+source:         AT-DOM
+
+personname:     Billing Contact
+organization:
+street address: internic Datenkommunikations GmbH
+street address: Donau-City-Strasse 1
+street address: 1220 Wien
+street address: AT
+postal code:
+city:
+country:
+phone:          +43.14039685
+fax-no:         +43.14039686
+e-mail:         billing@internic.at
+nic-hdl:        BC1430190-NICAT
+changed:        20031129 02:58:30
+source:         AT-DOM
+
