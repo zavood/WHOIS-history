@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DVCITY.COM
+   Domain Name: HARLEMDISCOVER.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.WORLDNIC.COM
-   Name Server: NS36.WORLDNIC.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-jan-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2014
+   Updated Date: 12-jun-2009
+   Creation Date: 22-jun-2001
+   Expiration Date: 22-jun-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Active Industries
+   Greater Harlem Chamber of Commerce
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DVCITY.COM
+   Domain Name: HARLEMDISCOVER.COM
 
    Domain servers in listed order:
-      NS35.WORLDNIC.COM
-      NS36.WORLDNIC.COM
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DVCITY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HARLEMDISCOVER.COM

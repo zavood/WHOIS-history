@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DVCITY.COM
+   Domain Name: BOCK.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.WORLDNIC.COM
-   Name Server: NS36.WORLDNIC.COM
+   Name Server: NS0.BOCK.COM
+   Name Server: NS1.BOCK.COM
+   Name Server: NS2.BOCK.COM
+   Name Server: NS3.BOCK.COM
+   Name Server: NS4.BOCK.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-jan-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2014
+   Updated Date: 24-sep-2010
+   Creation Date: 29-oct-1998
+   Expiration Date: 21-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:45 UTC &lt;&lt;&lt;
 
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Active Industries
+   Bock Interactive Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DVCITY.COM
+   Domain Name: BOCK.COM
 
    Domain servers in listed order:
-      NS35.WORLDNIC.COM
-      NS36.WORLDNIC.COM
+      NS0.BOCK.COM
+      NS1.BOCK.COM
+      NS2.BOCK.COM
+      NS3.BOCK.COM
+      NS4.BOCK.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DVCITY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BOCK.COM

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DVCITY.COM
+   Domain Name: GOLDGRAMBARS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.WORLDNIC.COM
-   Name Server: NS36.WORLDNIC.COM
+   Name Server: NS1.GOLDGRAMBARS.COM
+   Name Server: NS2.GOLDGRAMBARS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-jan-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2014
+   Updated Date: 26-apr-2011
+   Creation Date: 08-aug-2007
+   Expiration Date: 08-aug-2019
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:45 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Active Industries
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DVCITY.COM
+   Domain Name: GOLDGRAMBARS.COM
 
    Domain servers in listed order:
-      NS35.WORLDNIC.COM
-      NS36.WORLDNIC.COM
+      NS1.GOLDGRAMBARS.COM
+      NS2.GOLDGRAMBARS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DVCITY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GOLDGRAMBARS.COM

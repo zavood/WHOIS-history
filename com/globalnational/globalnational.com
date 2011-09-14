@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DVCITY.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS35.WORLDNIC.COM
-   Name Server: NS36.WORLDNIC.COM
+   Domain Name: GLOBALNATIONAL.COM
+   Registrar: WEBNAMES.CA INC.
+   Whois Server: whois.webnames.ca
+   Referral URL: http://www.webnames.ca
+   Name Server: NS7.NO.CG.SHAWCABLE.NET
+   Name Server: NS8.SO.CG.SHAWCABLE.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-jan-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2014
+   Updated Date: 12-jul-2011
+   Creation Date: 07-nov-2002
+   Expiration Date: 07-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:36:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
 
-Registrant:
-   Active Industries
+Registrar Name....: WEBNAMES.CA INC
+Registrar Whois...: whois.webnames.ca
+Registrar Homepage: http://www.webnames.ca
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DVCITY.COM
+Domain Name: globalnational.com
 
-   Domain servers in listed order:
-      NS35.WORLDNIC.COM
-      NS36.WORLDNIC.COM
+     Created on..............: 11/7/2002 5:18:38 PM UTC
+     Expires on..............: 7 Nov 2011
 
+Registrant Name: Shaw Television Limited Partnership
+Organization Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DVCITY.COM
+Admin Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Technical Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Billing Info:
+     Shaw Television Limited Partnership
+     Legal  Department
+     630 3rd Avenue S.W.
+     Calgary, AB T2P 4L4
+     CAN
+     Phone: 1 403 7504500 ()
+     Fax..: 1 403 7166544
+     Email: legaldepartment@sjrb.ca
+
+Domain servers in listed order:
+
+     ns7.no.cg.shawcable.net
+     ns8.so.cg.shawcable.net
+
+Register your domain name at http://www.webnames.ca
+
+END OF WHOIS

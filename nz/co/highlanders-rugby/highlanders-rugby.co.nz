@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T04:38:42+12:00
+domain_name: highlanders-rugby.co.nz
+query_status: 200 Active
+domain_dateregistered: 2005-10-31T14:48:49+13:00
+domain_datebilleduntil: 2012-04-30T14:48:49+12:00
+domain_datelastmodified: 2011-04-29T15:54:47+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 2day.com
+registrar_address1: Private Bag 92142
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 977 3595
+registrar_fax: +64 9 977 3596
+registrar_email: registrar@2day.com
+%
+registrant_contact_name: Highlanders Trust
+registrant_contact_address1: Burns Street Offices
+registrant_contact_address2: Caversham
+registrant_contact_city: Dunedin
+registrant_contact_province: Otago
+registrant_contact_postalcode: 9001
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 4664431
+registrant_contact_email: kate.shirtcliff@orfu.co.nz
+%
+admin_contact_name: Kate Shirtcliff
+admin_contact_address1: Burns Street Offices
+admin_contact_address2: Caversham
+admin_contact_city: Dunedin
+admin_contact_province: Otago
+admin_contact_postalcode: 9001
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 4664431
+admin_contact_email: kate.shirtcliff@orfu.co.nz
+%
+technical_contact_name: 2Day.com
+technical_contact_address1: Private Bag 92142
+technical_contact_city: Auckland
+technical_contact_postalcode: 1309
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 977 3595
+technical_contact_fax: +64 9 977 3596
+technical_contact_email: dns@2day.com
+%
+ns_name_01: ns1.nameserver.net.nz
+ns_name_02: ns2.nameserver.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
