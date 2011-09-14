@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREECAMSEXPOSED.COM
+   Domain Name: COBRASTARSHIP.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.WEBDNSPROVIDER.COM
-   Name Server: NS2.WEBDNSPROVIDER.COM
-   Name Server: NS3.WEBDNSPROVIDER.COM
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-nov-2010
-   Creation Date: 25-oct-2010
-   Expiration Date: 25-oct-2011
+   Updated Date: 10-oct-2007
+   Creation Date: 17-sep-2005
+   Expiration Date: 17-sep-2017
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:57:08 UTC &lt;&lt;&lt;
 
@@ -77,16 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   CRAKMEDIA LTD
+   Crush Management
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FREECAMSEXPOSED.COM
+   Domain Name: COBRASTARSHIP.COM
 
    Domain servers in listed order:
-      NS1.WEBDNSPROVIDER.COM
-      NS2.WEBDNSPROVIDER.COM
-      NS3.WEBDNSPROVIDER.COM
+      A4.NSTLD.COM
+      F4.NSTLD.COM
+      G4.NSTLD.COM
+      L4.NSTLD.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FREECAMSEXPOSED.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=COBRASTARSHIP.COM
