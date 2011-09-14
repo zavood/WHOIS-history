@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1822459-LROR
+Domain Name:HOLYLOVE.ORG
+Created On:05-Apr-1996 05:00:00 UTC
+Last Updated On:03-Sep-2010 20:27:39 UTC
+Expiration Date:06-Apr-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23093876-NSI
+Registrant Name:Holy Love Ministries
+Registrant Organization:Holy Love Ministries
+Registrant Street1:37137 Butternut Ridge Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Elyria
+Registrant State/Province:OH
+Registrant Postal Code:44035
+Registrant Country:US
+Registrant Phone:+1.4403274532
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:leni@CENTURYTEL.NET
+Admin ID:23093876-NSI
+Admin Name:Holy Love Ministries
+Admin Organization:Holy Love Ministries
+Admin Street1:37137 Butternut Ridge Road
+Admin Street2:
+Admin Street3:
+Admin City:Elyria
+Admin State/Province:OH
+Admin Postal Code:44035
+Admin Country:US
+Admin Phone:+1.4403274532
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:leni@CENTURYTEL.NET
+Tech ID:23093876-NSI
+Tech Name:Holy Love Ministries
+Tech Organization:Holy Love Ministries
+Tech Street1:37137 Butternut Ridge Road
+Tech Street2:
+Tech Street3:
+Tech City:Elyria
+Tech State/Province:OH
+Tech Postal Code:44035
+Tech Country:US
+Tech Phone:+1.4403274532
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:leni@CENTURYTEL.NET
+Name Server:NS1.HOLLANDCOMPUTERS.COM
+Name Server:NS2.HOLLANDCOMPUTERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
