@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLUESTATEDIGITAL.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BLUESTATEDIGITAL.COM
-   Name Server: NS2.BLUESTATEDIGITAL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 05-mar-2004
-   Expiration Date: 05-mar-2012
+   Domain Name: SIGN-GRAPHIX.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS7.INDIALINKS.COM
+   Name Server: NS8.INDIALINKS.COM
+   Status: ok
+   Updated Date: 02-apr-2011
+   Creation Date: 19-nov-2001
+   Expiration Date: 19-nov-2020
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:46:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:46:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... sign-graphix.com
+  Creation Date........ 2001-11-19
+  Registration Date.... 2011-03-31
+  Expiry Date.......... 2020-11-20
+  Organisation Name.... Nana Saheb Shendkar
+  Organisation Address. 241 Dr SS Rao Rd
+  Organisation Address. 241 Dr SS Rao Rd
+  Organisation Address. Mumbai
+  Organisation Address. 400012
+  Organisation Address. Maharashtra
+  Organisation Address. INDIA
+
+Admin Name........... Nana shendkar
+  Admin Address........ 241 Dr SS Rao Rd
+  Admin Address........ 241 Dr SS Rao Rd
+  Admin Address........ Mumbai
+  Admin Address........ 400012
+  Admin Address........ Maharashtra
+  Admin Address........ INDIA
+  Admin Email.......... utsaviad@gmail.com
+  Admin Phone.......... +91.24711038
+  Admin Fax............ +91.24711038
+
+Tech Name............ Nana shendkar
+  Tech Address......... 241 Dr SS Rao Rd
+  Tech Address......... 241 Dr SS Rao Rd
+  Tech Address......... Mumbai
+  Tech Address......... 400012
+  Tech Address......... Maharashtra
+  Tech Address......... INDIA
+  Tech Email........... utsaviad@gmail.com
+  Tech Phone........... +91.24711038
+  Tech Fax............. +91.24711038
+  Name Server.......... NS8.INDIALINKS.COM
+  Name Server.......... NS7.INDIALINKS.COM
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BLUESTATEDIGITAL.COM
-
-   Domain servers in listed order:
-      NS1.BLUESTATEDIGITAL.COM
-      NS2.BLUESTATEDIGITAL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BLUESTATEDIGITAL.COM

@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 13-dec-2010
    Expiration Date: 13-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:12:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    dns1.clearchannel.com
-    ns1.clearchannel.com
     ns2.clearchannel.com
     dns2.clearchannel.com
+    ns1.clearchannel.com
+    dns1.clearchannel.com
 
 
 

@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLUESTATEDIGITAL.COM
+   Domain Name: SALTSISTERSONLINE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BLUESTATEDIGITAL.COM
-   Name Server: NS2.BLUESTATEDIGITAL.COM
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 05-mar-2004
-   Expiration Date: 05-mar-2012
+   Updated Date: 22-aug-2011
+   Creation Date: 21-aug-2009
+   Expiration Date: 21-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:46:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   John Kurtze
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BLUESTATEDIGITAL.COM
+   Domain Name: SALTSISTERSONLINE.COM
 
    Domain servers in listed order:
-      NS1.BLUESTATEDIGITAL.COM
-      NS2.BLUESTATEDIGITAL.COM
+      NS.INMOTIONHOSTING.COM
+      NS2.INMOTIONHOSTING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BLUESTATEDIGITAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SALTSISTERSONLINE.COM

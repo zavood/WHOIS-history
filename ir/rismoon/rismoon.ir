@@ -1,0 +1,39 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'rismoon.ir'
+
+
+domain:		rismoon.ir
+ascii:		rismoon.ir
+remarks:	(Domain Holder) Rahborde Danesh va Karbordhaye Moasser Rayane (Radcom)
+remarks:	(Domain Holder Address) Unit 4, No. 3, Eftekhar St., Valiasr Ave.,, Tehran, Tehran, IR
+holder-c:	ra51-irnic
+admin-c:	ht76-irnic
+tech-c:		ht76-irnic
+bill-c:		ra51-irnic
+nserver:	ns3.parsihost.com
+nserver:	ns2.parsihost.com
+last-updated:	2008-12-20
+source:		IRNIC # Filtered
+
+nic-hdl:	ra51-irnic
+org:		Rahborde Danesh va Karbordhaye Moasser Rayane (Radcom)
+e-mail:		domain@radcom.co.ir
+address:	Unit 4, No. 3, Eftekhar St., Valiasr Ave.,, Tehran, Tehran, IR
+phone:		+98 21 88926503
+fax-no:		+98 21 88916304
+source:		IRNIC # Filtered
+
+nic-hdl:	ht76-irnic
+person:		Hamidreza Taherian
+e-mail:		hamid@radcom.co.ir
+address:	4th unit, 3rd fl., Eftekhar Ally, Vali asr st. (by the Motahhari st.), Tehran, Iran., Tehran, Tehran, IR
+phone:		88926503
+source:		IRNIC # Filtered
+

@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLUESTATEDIGITAL.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BLUESTATEDIGITAL.COM
-   Name Server: NS2.BLUESTATEDIGITAL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 05-mar-2004
-   Expiration Date: 05-mar-2012
+   Domain Name: REALESTATEONERI.COM
+   Registrar: CATALOG.COM, INC.
+   Whois Server: whois.catalog.com
+   Referral URL: http://www.catalog.com
+   Name Server: DNS.STEVENARICCI.COM
+   Name Server: DNS2.STEVENARICCI.COM
+   Status: ok
+   Updated Date: 28-mar-2011
+   Creation Date: 27-mar-2001
+   Expiration Date: 27-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:46:51 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain: realestateoneri.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Catalog.com's WHOIS database is provided by Catalog.com
+for informational purposes only.  Catalog.com does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use
+this Data only for lawful purposes and that, under no circumstances
+will you use this data to:  (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or
+solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to Catalog.com (or its systems).
+Catalog.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain: realestateoneri.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BLUESTATEDIGITAL.COM
-
-   Domain servers in listed order:
-      NS1.BLUESTATEDIGITAL.COM
-      NS2.BLUESTATEDIGITAL.COM
+Status:ACTIVE
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BLUESTATEDIGITAL.COM
+Registrant
+GLORIA MARTIN (CTLGDN-29487)
+100 SEACREST LANE
+WARWICK, RI  02889
+US
+
+Admin Contact:
+     Carlos Aldana (29486)
+     536 Atwells Av
+     Providence,RI,US  02909
+   email:ca@techcentric.com
+   ph:4014904800
+
+Tech Contact:
+     Carlos Aldana (29486)
+     536 Atwells Av
+     Providence,RI,US  02909
+   email:ca@techcentric.com
+   ph:4014904800
+
+Created on 27-mar-2001
+Updated on 15-nov-2006
+Expires on 27-mar-2004
+
+Domain servers in listed order:
+  dns.stevenaricci.com        70.166.144.102
+  dns2.stevenaricci.com        67.172.47.101
+
+
+Catalog.com Providing Domains, Webhosting, Advertising, Search,
+And The Best in Discount Online Shopping
+You Can Earn Money With Catalog.com's Net Search Today
+http://www.catalog.com/
+

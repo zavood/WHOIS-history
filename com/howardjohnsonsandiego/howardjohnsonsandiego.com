@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BLUESTATEDIGITAL.COM
+   Domain Name: HOWARDJOHNSONSANDIEGO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.BLUESTATEDIGITAL.COM
-   Name Server: NS2.BLUESTATEDIGITAL.COM
+   Name Server: NS11.DOMAINCONTROL.COM
+   Name Server: NS12.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-mar-2011
-   Creation Date: 05-mar-2004
-   Expiration Date: 05-mar-2012
+   Updated Date: 01-jul-2010
+   Creation Date: 28-jun-2001
+   Expiration Date: 28-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:46:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:45:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Excel Hotel Group
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BLUESTATEDIGITAL.COM
+   Domain Name: HOWARDJOHNSONSANDIEGO.COM
 
    Domain servers in listed order:
-      NS1.BLUESTATEDIGITAL.COM
-      NS2.BLUESTATEDIGITAL.COM
+      NS11.DOMAINCONTROL.COM
+      NS12.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BLUESTATEDIGITAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HOWARDJOHNSONSANDIEGO.COM
