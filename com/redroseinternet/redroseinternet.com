@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEDICATEDUSA.COM
+   Domain Name: REDROSEINTERNET.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.SRV2.COM
-   Name Server: NS2.SRV2.COM
+   Name Server: NS1.REDROSEINTERNET.COM
+   Name Server: NS2.REDROSEINTERNET.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 24-jun-2011
-   Creation Date: 09-jan-2003
-   Expiration Date: 09-jan-2014
+   Updated Date: 16-jul-2011
+   Creation Date: 16-jul-2004
+   Expiration Date: 16-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +53,39 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Ultraspeed Group
- 11 Jacks Place
- 6 Corbet Place
- London, London E1 6NN
- GB
+ Red Rose Internet Ltd
+ 25 Tudhoe Village
+ Spennymoor, County Durham DL16 6LA
+ UK
 
- Domain name: DEDICATEDUSA.COM
+ Domain name: REDROSEINTERNET.COM
 
 
  Administrative Contact:
-    na, na  hostmaster@hostroute.com
-    11 Jacks Place
-    6 Corbet Place
-    London, London E1 6NN
-    GB
-    +44.8458620210    Fax: +44.2032160030
-
+    Whittle, Colin  colin@whittle.com
+    25 Tudhoe Village
+    Spennymoor, County Durham DL16 6LA
+    UK
+    +44.1388813254
  Technical Contact:
-    na, na  hostmaster@hostroute.com
-    11 Jacks Place
-    6 Corbet Place
-    London, London E1 6NN
-    GB
-    +44.8458620210    Fax: +44.2032160030
-
-
-
- Registration Service Provider:
-    Hostroute, hostmaster@hostroute.com
-    +44.2077634983
-    http://hostroute.com/
-    Manage this and all your other domain names at:
-    https://core.hostroute.com/
+    Whittle, Colin  colin@whittle.com
+    25 Tudhoe Village
+    Spennymoor, County Durham DL16 6LA
+    UK
+    +44.1388813254
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 24-Jun-2011.
- Record expires on 09-Jan-2014.
- Record created on 09-Jan-2003.
+ Record last updated on 16-Jul-2011.
+ Record expires on 16-Jul-2012.
+ Record created on 16-Jul-2004.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.SRV2.COM
-    NS.SRV2.COM
+    NS1.REDROSEINTERNET.COM   79.170.40.2
+    NS2.REDROSEINTERNET.COM   79.170.43.3
 
 
  Domain status: clientTransferProhibited

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OWNWISHMEET.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Domain Name: AFITHK.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS2493.HOSTGATOR.COM
+   Name Server: NS2494.HOSTGATOR.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-nov-2010
+   Creation Date: 24-nov-2010
+   Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,27 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Manage by MASDAPIT Networks
 
-Moniker Whois Server Version 2.0
+Domain afithk.com
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+Date Registered: 2010-11-24
+Date Modified: 2010-11-24
+Expiry Date: 2011-11-24
 
-No Match
+DNS1: ns2493.hostgator.com
+DNS2: ns2494.hostgator.com
 
+Registrant
+    Private Whois afithk.com
+    Private Whois afithk.com  dtbd4zm4d9598ee4cf46@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o afithk.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
+Administrative Contact
+    Private Whois afithk.com
+    Private Whois afithk.com  kjebd144d9598ee83d58@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o afithk.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
+Technical Contact
+    Private Whois afithk.com
+    Private Whois afithk.com  yeev3x24d9598ee64067@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o afithk.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Domain Murah Internasional - Masdapit Inc.
+Yogyakarta - Indonesia (+62816684477)

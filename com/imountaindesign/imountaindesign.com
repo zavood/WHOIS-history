@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OWNWISHMEET.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Domain Name: IMOUNTAINDESIGN.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS3.IMOUNTAINDESIGN.COM
+   Name Server: NS4.IMOUNTAINDESIGN.COM
+   Status: ok
+   Updated Date: 07-oct-2010
+   Creation Date: 06-nov-2000
+   Expiration Date: 06-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,26 +52,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Moniker Whois Server Version 2.0
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+Registrant:
+   iMountain Design
+   PO Box 775787
+   Steamboat Springs, CO  80477
+   US
 
-No Match
+   Registrar: DOTSTER
+   Domain Name: IMOUNTAINDESIGN.COM
+      Created on: 06-NOV-00
+      Expires on: 06-NOV-11
+      Last Updated on: 07-OCT-10
+
+   Administrative, Technical Contact:
+      Edinburg, Jason  imdc@mail.com
+      iMountain Design
+      PO Box 775787
+      Steamboat Springs, CO  80477
+      US
+      (970) 846-6114
 
 
+   Domain servers in listed order:
+      NS3.IMOUNTAINDESIGN.COM
+      NS4.IMOUNTAINDESIGN.COM
 
+End of Whois Information

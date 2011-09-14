@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OWNWISHMEET.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Domain Name: ZIGHOSTING.COM
+   Registrar: BLUE RAZOR DOMAINS, INC
+   Whois Server: whois.bluerazor.com
+   Referral URL: http://www.bluerazor.com
+   Name Server: NS3.ZIGHOSTING.COM
+   Name Server: NS4.ZIGHOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 29-dec-2010
+   Creation Date: 19-dec-2004
+   Expiration Date: 19-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,27 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Moniker Whois Server Version 2.0
-
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
-
-No Match
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   Ray Kelly
 
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: ZIGHOSTING.COM
+
+   Domain servers in listed order:
+      NS3.ZIGHOSTING.COM
+      NS4.ZIGHOSTING.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ZIGHOSTING.COM

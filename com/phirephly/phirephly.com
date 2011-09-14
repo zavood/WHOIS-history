@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEDICATEDUSA.COM
+   Domain Name: PHIREPHLY.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.SRV2.COM
-   Name Server: NS2.SRV2.COM
+   Name Server: NS1.PHIREPHLY.COM
+   Name Server: NS2.PHIREPHLY.COM
+   Name Server: NS3.PHIREPHLY.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 24-jun-2011
-   Creation Date: 09-jan-2003
-   Expiration Date: 09-jan-2014
+   Updated Date: 05-may-2011
+   Creation Date: 29-jun-2000
+   Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:00:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,56 +54,54 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Ultraspeed Group
- 11 Jacks Place
- 6 Corbet Place
- London, London E1 6NN
- GB
+ Contact Privacy Inc. Customer 01825071
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: DEDICATEDUSA.COM
+ Domain name: PHIREPHLY.COM
 
 
  Administrative Contact:
-    na, na  hostmaster@hostroute.com
-    11 Jacks Place
-    6 Corbet Place
-    London, London E1 6NN
-    GB
-    +44.8458620210    Fax: +44.2032160030
-
+    Contact Privacy Inc. Customer 01825071,   phirephly.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    na, na  hostmaster@hostroute.com
-    11 Jacks Place
-    6 Corbet Place
-    London, London E1 6NN
-    GB
-    +44.8458620210    Fax: +44.2032160030
-
+    Contact Privacy Inc. Customer 01825071,   phirephly.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    Hostroute, hostmaster@hostroute.com
-    +44.2077634983
-    http://hostroute.com/
-    Manage this and all your other domain names at:
-    https://core.hostroute.com/
+    Global Studios, bill@globalstudios.com
+    http://www.GlobalStudios.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 24-Jun-2011.
- Record expires on 09-Jan-2014.
- Record created on 09-Jan-2003.
+ Record last updated on 05-May-2011.
+ Record expires on 29-Jun-2012.
+ Record created on 29-Jun-2000.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.SRV2.COM
-    NS.SRV2.COM
+    NS1.PHIREPHLY.COM   66.100.167.58
+    NS3.PHIREPHLY.COM   68.183.18.159
+    NS2.PHIREPHLY.COM   66.18.15.210
 
 
  Domain status: clientTransferProhibited
                 clientUpdateProhibited
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

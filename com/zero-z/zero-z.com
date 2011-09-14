@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OWNWISHMEET.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Domain Name: ZERO-Z.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: USR-NS1.LINKCLUB.JP
+   Name Server: USR-NS2.LINKCLUB.JP
+   Status: ok
+   Updated Date: 26-may-2011
+   Creation Date: 06-jun-2001
+   Expiration Date: 06-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,26 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Moniker Whois Server Version 2.0
+Domain Name.......... zero-z.com
+  Creation Date........ 2001-06-07
+  Registration Date.... 2004-06-02
+  Expiry Date.......... 2012-06-07
+  Organisation Name.... Zz Ltd
+  Organisation Address. 5-77 forest kitayama302
+  Organisation Address.
+  Organisation Address. kasugai-si kachigawa-cho
+  Organisation Address. 486-0945
+  Organisation Address. aichi
+  Organisation Address. JAPAN
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+Admin Name........... Kazuhiro Nakatsu
+  Admin Address........ 5-77 forest kitayama302
+  Admin Address........
+  Admin Address........ kasugai-si kachigawa-cho
+  Admin Address........ 486-0945
+  Admin Address........ aichi
+  Admin Address........ JAPAN
+  Admin Email.......... caz@zero-z.com
+  Admin Phone.......... 052-263-3365
+  Admin Fax............ 052-263-3365
 
-No Match
-
+Tech Name............ Link Club
+  Tech Address......... 5-39-6 Jingumae
+  Tech Address.........
+  Tech Address......... Shibuya-ku
+  Tech Address......... 150-0001
+  Tech Address......... Tokyo
+  Tech Address......... JAPAN
+  Tech Email........... mel-tech@hosting-link.ne.jp
+  Tech Phone........... +81.334869119
+  Tech Fax............. +81.334869800
+  Name Server.......... usr-ns1.linkclub.jp
+  Name Server.......... usr-ns2.linkclub.jp
 
 

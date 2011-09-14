@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OWNWISHMEET.NET
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Domain Name: SUPERSIMPLESONGS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS5.WEBCONTROLCENTER.COM
+   Name Server: NS6.WEBCONTROLCENTER.COM
+   Status: ok
+   Updated Date: 17-feb-2011
+   Creation Date: 16-may-2006
+   Expiration Date: 16-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:01:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,26 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Moniker Whois Server Version 2.0
+Domain Name.......... supersimplesongs.com
+  Creation Date........ 2006-05-17
+  Registration Date.... 2006-05-17
+  Expiry Date.......... 2012-05-17
+  Organisation Name.... Hiroya Higashi
+  Organisation Address. 51-16-101 Honmokusannotani Naka-ku
+  Organisation Address.
+  Organisation Address. Yokohama
+  Organisation Address. 231-0824
+  Organisation Address. Kanagawa-ken
+  Organisation Address. UNITED STATES
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+Admin Name........... Hiroya Higashi
+  Admin Address........ 51-16-101 Honmokusannotani Naka-ku
+  Admin Address........
+  Admin Address........ Yokohama
+  Admin Address........ 231-0824
+  Admin Address........ Kanagawa-ken
+  Admin Address........ UNITED STATES
+  Admin Email.......... devon@knockknockenglish.com
+  Admin Phone.......... +81 (3) 5799-9924
+  Admin Fax............
 
-No Match
-
+Tech Name............ Domain Reseller
+  Tech Address......... 1125 W Pinnacle Peak Rd. Suite 103
+  Tech Address.........
+  Tech Address......... Phoenix
+  Tech Address......... 85027
+  Tech Address......... Arizona
+  Tech Address......... UNITED STATES
+  Tech Email........... domainregistration@newtektechnologyservices.com
+  Tech Phone........... +1.6022630300
+  Tech Fax............. +1.6022630600
+  Name Server.......... ns5.webcontrolcenter.com
+  Name Server.......... ns6.webcontrolcenter.com
 
 
