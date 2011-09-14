@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: I29.NET
+   Domain Name: ELVACEO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.I29.NET
-   Name Server: NS2.I29.NET
-   Name Server: NS3.I29.NET
+   Name Server: NS1221.HOSTGATOR.COM
+   Name Server: NS1222.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-apr-2011
-   Creation Date: 23-mar-1999
-   Expiration Date: 23-mar-2015
+   Updated Date: 18-aug-2010
+   Creation Date: 03-nov-2008
+   Expiration Date: 03-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:07:10 UTC &lt;&lt;&lt;
 
@@ -77,16 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   i29 Internet Services
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: I29.NET
+   Domain Name: ELVACEO.COM
 
    Domain servers in listed order:
-      NS1.I29.NET
-      NS2.I29.NET
-      NS3.I29.NET
+      NS1221.HOSTGATOR.COM
+      NS1222.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=I29.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=ELVACEO.COM
