@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157405335-LROR
+Domain Name:TIEMPODESER.ORG
+Created On:21-Oct-2009 18:51:16 UTC
+Last Updated On:21-Dec-2009 03:57:45 UTC
+Expiration Date:21-Oct-2012 18:51:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR20699014
+Registrant Name:Juan Carlos Castiblanco
+Registrant Organization:Tiempo de Ser
+Registrant Street1:Cr 3A # 58-61
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cali
+Registrant State/Province:Valle
+Registrant Postal Code:572
+Registrant Country:CO
+Registrant Phone:+57.17588153
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:contacto@platinoweb.com
+Admin ID:CR20699021
+Admin Name:Juan Carlos Castiblanco
+Admin Organization:Tiempo de Ser
+Admin Street1:Cr 3A # 58-61
+Admin Street2:
+Admin Street3:
+Admin City:Cali
+Admin State/Province:Valle
+Admin Postal Code:572
+Admin Country:CO
+Admin Phone:+57.17588153
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contacto@platinoweb.com
+Tech ID:CR20699018
+Tech Name:Juan Carlos Castiblanco
+Tech Organization:Tiempo de Ser
+Tech Street1:Cr 3A # 58-61
+Tech Street2:
+Tech Street3:
+Tech City:Cali
+Tech State/Province:Valle
+Tech Postal Code:572
+Tech Country:CO
+Tech Phone:+57.17588153
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contacto@platinoweb.com
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
