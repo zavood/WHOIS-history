@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEIN.COM
+   Domain Name: CHURCHESININDIA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Name Server: NS1.JESONAHOSTING.CO.IN
+   Name Server: NS2.JESONAHOSTING.CO.IN
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 13-oct-2003
-   Expiration Date: 13-oct-2014
+   Updated Date: 10-mar-2011
+   Creation Date: 20-sep-2001
+   Expiration Date: 20-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:07:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: logmein.com
+Whois Query: churchesinindia.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:58:53 EDT 2011
+Date and Time of Query: Wed Sep 14 15:57:38 EDT 2011
 Reason Code: IE

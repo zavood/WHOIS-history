@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEMECOUNTER.COM
+   Domain Name: COGECODATA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 26-oct-2006
-   Expiration Date: 26-oct-2013
+   Name Server: DNS1.COGECODATA.COM
+   Name Server: DNS2.COGECODATA.COM
+   Name Server: DNS3.COGECODATA.COM
+   Name Server: DNS4.COGECODATA.COM
+   Name Server: NS.CGOCABLE.NET
+   Name Server: NS2.CGOCABLE.NET
+   Name Server: NS4.CGOCABLE.NET
+   Status: ok
+   Updated Date: 02-mar-2009
+   Creation Date: 10-jul-2008
+   Expiration Date: 10-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,56 +57,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Chris Kemp-Salt
- 11c Dolphin Yard
- Holywell Hill
- St Albans, Hertfordshire AL1 1LE
- GB
+ Cogeco Cable Canada Inc.
+ 950 Syscon RD
+ Burlington, ON L7R 4M6
+ CA
 
- Domain name: MEMECOUNTER.COM
+ Domain name: COGECODATA.COM
 
 
  Administrative Contact:
-    Kemp-Salt, Chris  admin@kempt.co.uk
-    11c Dolphin Yard
-    Holywell Hill
-    St Albans, Hertfordshire AL1 1LE
-    GB
-    +44.1727899200
+    Admin., DNS  dnsadmin@cogeco.ca
+    950 Syscon RD
+    Burlington, ON L7R 4M6
+    CA
+    +1.9053335343
  Technical Contact:
-    Ltd, Webfusion  services@123-reg.co.uk
-    5 Roundwood Avenue
-    Stockley Park
-    Uxbridge, Middlesex UB11 1FF
-    GB
-    +44.8712309525    Fax: +44.8701650437
-
+    Admin., DNS  dnsadmin@cogeco.ca
+    950 Syscon RD
+    Burlington, ON L7R 4M6
+    CA
+    +1.9053335343
 
 
  Registration Service Provider:
-    123-reg.co.uk, services@123-reg.co.uk
-    08712309525
-    08709126612 (fax)
-    http://www.123-reg.co.uk
+    Cogeco Cable Systems, dnsadmin@cogeco.ca
+    905 333 5343
+    http://www.cogeco.com
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 19-Nov-2010.
- Record expires on 26-Oct-2013.
- Record created on 26-Oct-2006.
+ Record last updated on 14-Sep-2011.
+ Record expires on 10-Jul-2013.
+ Record created on 10-Jul-2008.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.RACKSPACE.COM
-    NS.RACKSPACE.COM
+    DNS1.COGECODATA.COM   66.241.128.14
+    NS2.CGOCABLE.NET
+    NS4.CGOCABLE.NET
+    DNS4.COGECODATA.COM   66.241.143.34
+    DNS2.COGECODATA.COM   66.241.128.15
+    DNS3.COGECODATA.COM   66.241.143.33
+    NS.CGOCABLE.NET
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

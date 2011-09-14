@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103910356-LROR
+Domain Name:PLANETMYSQL.ORG
+Created On:27-Jan-2004 22:16:58 UTC
+Last Updated On:13-Oct-2010 12:05:09 UTC
+Expiration Date:27-Jan-2020 22:16:58 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu8lYH9tB6pZCXXB
+Registrant Name:Charles Hoynowski
+Registrant Organization:Oracle Corporation
+Registrant Street1:500 Oracle Parkway
+Registrant Street2:M/S 501ip3
+Registrant Street3:
+Registrant City:Redwood Shores
+Registrant State/Province:CA
+Registrant Postal Code:94065
+Registrant Country:US
+Registrant Phone:+1.6506070691
+Registrant Phone Ext.:
+Registrant FAX:+1.6506070691
+Registrant FAX Ext.:
+Registrant Email:domain-contact_ww@oracle.com
+Admin ID:tunxH50G66pCrJ2n
+Admin Name:Charles Hoynowski
+Admin Organization:Oracle Corporation
+Admin Street1:500 Oracle Parkway
+Admin Street2:M/S 501ip3
+Admin Street3:
+Admin City:Redwood Shores
+Admin State/Province:CA
+Admin Postal Code:94065
+Admin Country:US
+Admin Phone:+1.6506070691
+Admin Phone Ext.:
+Admin FAX:+1.6506070691
+Admin FAX Ext.:
+Admin Email:domain-contact_ww@oracle.com
+Tech ID:tukDFqJl3xypdOKz
+Tech Name:Robert Nilsson
+Tech Organization:Oracle Corporation
+Tech Street1:Kronborgsgrand 17
+Tech Street2:
+Tech Street3:
+Tech City:Kista
+Tech State/Province:
+Tech Postal Code:16446
+Tech Country:SE
+Tech Phone:+46.84773376
+Tech Phone Ext.:
+Tech FAX:+46.84773376
+Tech FAX Ext.:
+Tech Email:network-contact_ww@oracle.com
+Name Server:NS1.SUN.COM
+Name Server:NS2.SUN.COM
+Name Server:NS8.SUN.COM
+Name Server:NS7.SUN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

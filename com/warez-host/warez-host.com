@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Domain Name: WAREZ-HOST.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: CNS1.WAREZ-HOST.COM
+   Name Server: CNS2.WAREZ-HOST.COM
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 13-oct-2003
-   Expiration Date: 13-oct-2014
+   Updated Date: 07-jun-2011
+   Creation Date: 15-dec-2007
+   Expiration Date: 15-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name:warez-host.com
+Record created:2007/12/15
+Record expired:2012/12/15
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain servers in listed order:
+	 cns1.warez-host.com 	 cns2.warez-host.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrat:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- wa3554851282701@domainidshield.com
+Technical Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- wa3554851152302@domainidshield.com
+Billing Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- wa3554851152303@domainidshield.com
+Registrant Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- wa3554851476904@domainidshield.com
 
-Whois Query: logmein.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:58:53 EDT 2011
-Reason Code: IE

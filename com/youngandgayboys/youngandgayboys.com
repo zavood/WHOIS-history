@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEMECOUNTER.COM
+   Domain Name: YOUNGANDGAYBOYS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Name Server: NS1.SERVAGE.NET
+   Name Server: NS2.SERVAGE.NET
+   Name Server: NS3.SERVAGE.NET
+   Name Server: NS4.SERVAGE.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 26-oct-2006
-   Expiration Date: 26-oct-2013
+   Updated Date: 16-nov-2010
+   Creation Date: 19-nov-2007
+   Expiration Date: 19-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +55,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Chris Kemp-Salt
- 11c Dolphin Yard
- Holywell Hill
- St Albans, Hertfordshire AL1 1LE
- GB
+ Little Venice Software
+ 76 Ballards Road
+ London, London NW2 7UG
+ UK
 
- Domain name: MEMECOUNTER.COM
+ Domain name: YOUNGANDGAYBOYS.COM
 
 
  Administrative Contact:
-    Kemp-Salt, Chris  admin@kempt.co.uk
-    11c Dolphin Yard
-    Holywell Hill
-    St Albans, Hertfordshire AL1 1LE
-    GB
-    +44.1727899200
+    Elliott, Jim  jde@tdbcomputing.com
+    76 Ballards Road
+    London, London NW2 7UG
+    UK
+    +44.02084594597
  Technical Contact:
-    Ltd, Webfusion  services@123-reg.co.uk
-    5 Roundwood Avenue
-    Stockley Park
-    Uxbridge, Middlesex UB11 1FF
-    GB
-    +44.8712309525    Fax: +44.8701650437
+    Easy CGI, Support  support@easycgi.com
+    2 Blue Hill Plaza
+    Floor 1
+    Pearl River, NY 10965
+    US
+    +1.8459200100    Fax: +1.8008018350
 
 
 
  Registration Service Provider:
-    123-reg.co.uk, services@123-reg.co.uk
-    08712309525
-    08709126612 (fax)
-    http://www.123-reg.co.uk
+    Easy CGI, support@easycgi.com
+    866-327-9244
+    http://www.easycgi.com
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 19-Nov-2010.
- Record expires on 26-Oct-2013.
- Record created on 26-Oct-2006.
+ Record last updated on 16-Nov-2010.
+ Record expires on 19-Nov-2011.
+ Record created on 19-Nov-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.RACKSPACE.COM
-    NS.RACKSPACE.COM
+    NS2.SERVAGE.NET
+    NS3.SERVAGE.NET
+    NS1.SERVAGE.NET
+    NS4.SERVAGE.NET
 
 
  Domain status: clientTransferProhibited

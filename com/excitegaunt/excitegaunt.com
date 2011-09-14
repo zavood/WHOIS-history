@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
-   Status: clientTransferProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 13-oct-2003
-   Expiration Date: 13-oct-2014
+   Domain Name: EXCITEGAUNT.COM
+   Registrar: NET-CHINESE CO., LTD.
+   Whois Server: whois.net-chinese.com.tw
+   Referral URL: http://www.net-chinese.com.tw
+   Name Server: NS1.EXCITEGAUNT.COM
+   Name Server: NS2.EXCITEGAUNT.COM
+   Status: ok
+   Updated Date: 25-aug-2011
+   Creation Date: 03-may-2011
+   Expiration Date: 03-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name :  excitegaunt.com
+	Mutual jurisdiction :  Taipei, Taiwan &lt;Note 1&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+	Registrant :
+		GALINA_OBOROC
+		Miron_Costin_str._19-4_apt._99
+		Chisinau
+		MD
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+	Administrative Contact :
+		 		designshadows@yahoo.com
+		GALINA_OBOROC
+		Miron_Costin_str._19-4_apt._99
+		Chisinau 2068
+		MD
+		373.78260780  fax : 373.78260780
 
-http://www.networksolutions.com/whois/index.jhtml
+	Technical Contact :
+		Net-Chinese Co., Ltd.		hostmaster@net-chinese.com.tw
+		12F., No.46, Sec. 2, Jhongshan N. Rd., Jhongshan District
+		Taipei 10448
+		Taiwan
+		886-2-25319696  fax : 886-2-25319522
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+	Status : ok
+	Record expires on 3-May-2012.
+	Record created on 3-May-2011.
+	Database last updated on 26-Aug-2011 05:01:18 GMT+8.
 
-Whois Query: logmein.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:58:53 EDT 2011
-Reason Code: IE
+	Registrar :  Net-Chinese Co., Ltd &lt;Tel :  +886-2-25319696&gt;
+	Referral URL :  http://www.net-chinese.com.tw
+
+	Domain servers in listed order :
+
+	ns2.excitegaunt.com		83.69.233.124
+	ns1.excitegaunt.com		195.64.154.85
+
+	&lt;Note 1&gt; Seeing the detail information on &quot;Registration Agreement&quot; :
+		 http://www.net-chinese.com.tw/script/dn_agree.html
+
+	The Data in Net-Chinese Co., Ltd.'s WHOIS database is provided
+	Net-Chinese Co., Ltd.
+	for information purposes, and to assist persons in obtaining
+	information about or related to a domain name registration record.
+	Net-Chinese Co., Ltd. does not guarantee its accuracy.
+	By submitting a WHOIS query, you agree that you will use this Data
+	only for lawful purposes and that, under no circumstances will you use
+	this Data to:
+	(1) allow, enable, or otherwise support the transmission of mass
+	unsolicited, commercial advertising or solicitations via e-mail
+	(spam); or
+	(2) enable high volume, automated, electronic processes that apply to
+	Net-Chinese Co., Ltd. (or its systems).
+	Net-Chinese Co., Ltd. reserves the right to modify these terms at any
+	time. By submitting this query, you agree to abide by this policy.

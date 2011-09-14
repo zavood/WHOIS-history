@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Domain Name: CUSTARDPIEBAND.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 13-oct-2003
-   Expiration Date: 13-oct-2014
+   Status: clientUpdateProhibited
+   Updated Date: 24-oct-2009
+   Creation Date: 24-oct-2009
+   Expiration Date: 24-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+   Domains by Proxy, Inc.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: CUSTARDPIEBAND.COM
 
-Whois Query: logmein.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:58:53 EDT 2011
-Reason Code: IE
+   Domain servers in listed order:
+      NS39.DOMAINCONTROL.COM
+      NS40.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=CUSTARDPIEBAND.COM

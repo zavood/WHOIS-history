@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LOGMEIN.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.3AMLABS.COM
-   Name Server: NS2.3AMLABS.COM
-   Name Server: NS3.3AMLABS.COM
+   Domain Name: TERRASERVER-USA.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.MSFT.NET
+   Name Server: NS2.MSFT.NET
+   Name Server: NS3.MSFT.NET
+   Name Server: NS4.MSFT.NET
+   Name Server: NS5.MSFT.NET
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2007
-   Creation Date: 13-oct-2003
-   Expiration Date: 13-oct-2014
+   Updated Date: 01-jun-2010
+   Creation Date: 06-may-2003
+   Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:08:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +54,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... terraserver-usa.com
+  Creation Date........ 2003-05-07
+  Registration Date.... 2010-06-02
+  Expiry Date.......... 2012-05-07
+  Organisation Name.... Microsoft Corporation
+  Organisation Address. 1 Microsoft Way
+  Organisation Address.
+  Organisation Address. Redmond
+  Organisation Address. 98052
+  Organisation Address. WA
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Domain Administrator
+  Admin Address........ One Microsoft Way
+  Admin Address........
+  Admin Address........ Redmond
+  Admin Address........ 98052
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... DOMAINS@MICROSOFT.COM
+  Admin Phone.......... +1.4258828080
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ MSN Hostmaster
+  Tech Address......... One Microsoft Way
+  Tech Address.........
+  Tech Address......... Redmond
+  Tech Address......... 98052
+  Tech Address......... WA
+  Tech Address......... UNITED STATES
+  Tech Email........... msnhst@microsoft.com
+  Tech Phone........... +1.4258828080
+  Tech Fax.............
+  Name Server.......... NS2.MSFT.NET
+  Name Server.......... NS4.MSFT.NET
+  Name Server.......... NS1.MSFT.NET
+  Name Server.......... NS5.MSFT.NET
+  Name Server.......... NS3.MSFT.NET
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: logmein.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 15:58:53 EDT 2011
-Reason Code: IE

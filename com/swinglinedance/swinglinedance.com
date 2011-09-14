@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MEMECOUNTER.COM
+   Domain Name: SWINGLINEDANCE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Name Server: NS1.MDNSSERVICE.COM
+   Name Server: NS2.MDNSSERVICE.COM
+   Name Server: NS3.MDNSSERVICE.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-nov-2010
-   Creation Date: 26-oct-2006
-   Expiration Date: 26-oct-2013
+   Updated Date: 15-may-2011
+   Creation Date: 13-jun-2007
+   Expiration Date: 13-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:09:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +54,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Chris Kemp-Salt
- 11c Dolphin Yard
- Holywell Hill
- St Albans, Hertfordshire AL1 1LE
- GB
+ Reginald Wilson
+ 5347 Quail Tree
+ Humble, TX 77346
+ US
 
- Domain name: MEMECOUNTER.COM
+ Domain name: SWINGLINEDANCE.COM
 
 
  Administrative Contact:
-    Kemp-Salt, Chris  admin@kempt.co.uk
-    11c Dolphin Yard
-    Holywell Hill
-    St Albans, Hertfordshire AL1 1LE
-    GB
-    +44.1727899200
+    Wilson, Reginald  rwilson614@embarqmail.com
+    5347 Quail Tree
+    Humble, TX 77346
+    US
+    +1.8322334428
  Technical Contact:
-    Ltd, Webfusion  services@123-reg.co.uk
-    5 Roundwood Avenue
-    Stockley Park
-    Uxbridge, Middlesex UB11 1FF
-    GB
-    +44.8712309525    Fax: +44.8701650437
+    Admin, Domain  DomainSupport@homestead-inc.com
+    3425 EDISON WAY
+    MENLO PARK, CA 94025
+    US
+    +1.8007972958    Fax: +1.6503647329
 
 
 
  Registration Service Provider:
-    123-reg.co.uk, services@123-reg.co.uk
-    08712309525
-    08709126612 (fax)
-    http://www.123-reg.co.uk
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
+    Intuit Websites, hostmaster@homesteadsupport.com
+    1-800-428-3170
+    http://www.intuit.com
+
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 19-Nov-2010.
- Record expires on 26-Oct-2013.
- Record created on 26-Oct-2006.
+ Record last updated on 15-May-2011.
+ Record expires on 13-Jun-2012.
+ Record created on 13-Jun-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS2.RACKSPACE.COM
-    NS.RACKSPACE.COM
+    NS1.MDNSSERVICE.COM
+    NS2.MDNSSERVICE.COM
+    NS3.MDNSSERVICE.COM
 
 
  Domain status: clientTransferProhibited

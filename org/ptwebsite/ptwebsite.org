@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105676496-LROR
+Domain Name:PTWEBSITE.ORG
+Created On:03-Feb-2005 18:08:22 UTC
+Last Updated On:26-Jan-2011 22:53:49 UTC
+Expiration Date:03-Feb-2012 18:08:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuQO7AwIVgF5AMks
+Registrant Name:PTwebSite PTwebSite
+Registrant Organization:PTwebSite
+Registrant Street1:Lisboa
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lisboa
+Registrant State/Province:
+Registrant Postal Code:2750
+Registrant Country:PT
+Registrant Phone:+1.351966133885
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:suporte@ptwebsite.com
+Admin ID:tuQO7AwIVgF5AMks
+Admin Name:PTwebSite PTwebSite
+Admin Organization:PTwebSite
+Admin Street1:Lisboa
+Admin Street2:
+Admin Street3:
+Admin City:Lisboa
+Admin State/Province:
+Admin Postal Code:2750
+Admin Country:PT
+Admin Phone:+1.351966133885
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:suporte@ptwebsite.com
+Tech ID:tureoPKag3khycX3
+Tech Name:EV1 Servers Domain Services
+Tech Organization:EV1.net
+Tech Street1:390 Benmar
+Tech Street2:Suite 200
+Tech Street3:
+Tech City:Houston
+Tech State/Province:Texas
+Tech Postal Code:77060
+Tech Country:US
+Tech Phone:+1.7133337873
+Tech Phone Ext.:
+Tech FAX:+1.7139429332
+Tech FAX Ext.:
+Tech Email:domains@ev1servers.net
+Name Server:NS1.PTWEBSITE.ORG
+Name Server:NS2.PTWEBSITE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
