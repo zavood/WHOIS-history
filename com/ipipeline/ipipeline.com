@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACME-CHROME.COM
+   Domain Name: IPIPELINE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Name Server: NS1.SUNGARDNS.COM
+   Name Server: NS2.SUNGARDNS.COM
+   Name Server: NS3.SUNGARDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 16-jul-2010
-   Creation Date: 08-apr-1997
-   Expiration Date: 09-apr-2013
+   Updated Date: 05-oct-2006
+   Creation Date: 29-oct-1995
+   Expiration Date: 28-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:29:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:30:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: acme-chrome.com
+Whois Query: ipipeline.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 11:19:15 EDT 2011
+Date and Time of Query: Wed Sep 14 11:20:21 EDT 2011
 Reason Code: IE
