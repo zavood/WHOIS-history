@@ -5,26 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NFSHOST.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS.ORD1.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX1.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX2.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX3.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX4.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX5.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX6.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX7.NEARLYFREESPEECH.NET
-   Name Server: NS.PHX8.NEARLYFREESPEECH.NET
-   Name Server: NS.WDC1.NEARLYFREESPEECH.NET
+   Domain Name: YOURPURECRUSHES.COM
+   Registrar: DYNAMIC DOLPHIN, INC.
+   Whois Server: whois.dynamicdolphin.com
+   Referral URL: http://www.dynamicdolphin.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientTransferProhibited
-   Updated Date: 06-mar-2011
-   Creation Date: 04-jan-2003
-   Expiration Date: 27-mar-2020
+   Updated Date: 12-aug-2011
+   Creation Date: 05-mar-2009
+   Expiration Date: 05-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:45:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:43:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,67 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: NEARLYFREESPEECH.NET
-Contact: +1.8887414678
-Website: https://www.NearlyFreeSpeech.NET/
+Registration Service Provided By: DYNAMIC DOLPHIN, INC
+Contact: +1.7208723477
 
-Domain Name: NFSHOST.COM
+Domain Name: YOURPURECRUSHES.COM
 
 Registrant:
-    NFSN, Inc.
-    NearlyFreeSpeech.NET Hostmaster        (whois@nearlyfreespeech.net)
-    PO BOX 441
-    COCOA
-    Florida,32923-0441
+    Dynamic Dolphin Privacy Protection
+    Privacy Protect        (privacyprotect@dynamicdolphin.com)
+    5023 W 120th Ave #233
+    Broomfield
+    Colorado,80020
     US
-    Tel. +1.8887414678
-    Fax. +1.8663096569
+    Tel. +001.7208723477
 
-Creation Date: 04-Jan-2003
-Expiration Date: 27-Mar-2020
+Creation Date: 05-Mar-2009
+Expiration Date: 05-Mar-2014
 
 Domain servers in listed order:
-    ns.ord1.nearlyfreespeech.net
-    ns.phx1.nearlyfreespeech.net
-    ns.phx2.nearlyfreespeech.net
-    ns.phx3.nearlyfreespeech.net
-    ns.phx4.nearlyfreespeech.net
-    ns.phx5.nearlyfreespeech.net
-    ns.phx6.nearlyfreespeech.net
-    ns.phx7.nearlyfreespeech.net
-    ns.phx8.nearlyfreespeech.net
-    ns.wdc1.nearlyfreespeech.net
+    ns2.rackspace.com
+    ns.rackspace.com
 
 
 Administrative Contact:
-    NFSN, Inc.
-    NearlyFreeSpeech.NET Hostmaster        (whois@nearlyfreespeech.net)
-    PO BOX 441
-    COCOA
-    Florida,32923-0441
+    Dynamic Dolphin Privacy Protection
+    Privacy Protect        (privacyprotect@dynamicdolphin.com)
+    5023 W 120th Ave #233
+    Broomfield
+    Colorado,80020
     US
-    Tel. +1.8887414678
-    Fax. +1.8663096569
+    Tel. +001.7208723477
 
 Technical Contact:
-    NFSN, Inc.
-    NearlyFreeSpeech.NET Hostmaster        (whois@nearlyfreespeech.net)
-    PO BOX 441
-    COCOA
-    Florida,32923-0441
+    Dynamic Dolphin Privacy Protection
+    Privacy Protect        (privacyprotect@dynamicdolphin.com)
+    5023 W 120th Ave #233
+    Broomfield
+    Colorado,80020
     US
-    Tel. +1.8887414678
-    Fax. +1.8663096569
+    Tel. +001.7208723477
 
 Billing Contact:
-    NFSN, Inc.
-    NearlyFreeSpeech.NET Hostmaster        (whois@nearlyfreespeech.net)
-    PO BOX 441
-    COCOA
-    Florida,32923-0441
+    Dynamic Dolphin Privacy Protection
+    Privacy Protect        (privacyprotect@dynamicdolphin.com)
+    5023 W 120th Ave #233
+    Broomfield
+    Colorado,80020
     US
-    Tel. +1.8887414678
-    Fax. +1.8663096569
+    Tel. +001.7208723477
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
@@ -137,7 +116,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is Dynamic Dolphin, Inc.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

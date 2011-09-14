@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RACKSPACECLOUD.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.HOSTINGMATRIX.NET
-   Name Server: NS2.HOSTINGMATRIX.NET
-   Status: ok
-   Updated Date: 01-jun-2011
-   Creation Date: 17-jun-2008
-   Expiration Date: 17-jun-2012
+   Domain Name: UPDATEM-PANASONICDRV-3DTV.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS1.LOHO-SHOP.COM
+   Name Server: NS2.LOHO-SHOP.COM
+   Status: clientHold
+   Status: clientTransferProhibited
+   Updated Date: 31-may-2011
+   Creation Date: 17-may-2011
+   Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:44:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:45:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Rackspace US, Inc. (RACKS33337)
-  5000 Walzem Road
+Domain name:             UPDATEM-PANASONICDRV-3DTV.COM
+Name Server:             ns1.loho-shop.com
+Name Server:             ns2.loho-shop.com
+Creation Date:           2011.05.17
+Updated Date:            2011.05.28
+Expiration Date:         2012.05.17
 
-  San Antonio, Texas, 78218
-  US
+Status:                  NOT DELEGATED
 
-  Domain name: rackspacecloud.com
+Registrant ID:           DIR5RYL-RU
+Registrant Name:         Aleksei O Zhukov
+Registrant Organization: Aleksei O Zhukov
+Registrant Street1:      Kosmonavtov ul., 1-64
+Registrant City:         Korolev
+Registrant State:        Moskovskaya Oblast
+Registrant Postal Code:  141075
+Registrant Country:      RU
 
-Technical contact:
-  Administrator, Domain (DA581602)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
+Administrative, Technical Contact
+Contact ID:              DIR5RYL-RU
+Contact Name:            Aleksei O Zhukov
+Contact Organization:    Aleksei O Zhukov
+Contact Street1:         Kosmonavtov ul., 1-64
+Contact City:            Korolev
+Contact State:           Moskovskaya Oblast
+Contact Postal Code:     141075
+Contact Country:         RU
+Contact Phone:           +7 495 7925381
+Contact E-mail:          istra@yourisp.ru
 
-Administrative contact:
-  Administrator, Domain (DA79720)
-  Rackspace US, Inc.
-  5000 Walzem Road
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-  San Antonio, Texas, 78218
-  US
-  domains@rackspace.com
-  +1.2103124712 Fax: +1.2103124848
+Last updated on 2011.09.14 05:45:41 MSK/MSD
 
-Record created:           2010-11-13 04:22:43
-Record last updated:      2010-11-13 04:22:43
-Record expires:           2012-06-17 06:23:00
-
-Domain servers in listed order:
-  ns1.hostingmatrix.net (NS1HO79598)
-  ns2.hostingmatrix.net (NS2HO58938)

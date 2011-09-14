@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D134545701-LROR
+Domain Name:CONSERVATIONMAGAZINE.ORG
+Created On:07-Dec-2006 17:47:01 UTC
+Last Updated On:03-Sep-2010 16:13:46 UTC
+Expiration Date:07-Dec-2014 17:47:01 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:38339842-NSI
+Registrant Name:University of Washington
+Registrant Organization:University of Washington
+Registrant Street1:4545 15th Ave NE
+Registrant Street2:Attn  Eric Ryan
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98105
+Registrant Country:US
+Registrant Phone:+1.2062216000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:uw-noc@cac.washington.edu
+Admin ID:38339842-NSI
+Admin Name:University of Washington
+Admin Organization:University of Washington
+Admin Street1:4545 15th Ave NE
+Admin Street2:Attn  Eric Ryan
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98105
+Admin Country:US
+Admin Phone:+1.2062216000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:uw-noc@cac.washington.edu
+Tech ID:38339842-NSI
+Tech Name:University of Washington
+Tech Organization:University of Washington
+Tech Street1:4545 15th Ave NE
+Tech Street2:Attn  Eric Ryan
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98105
+Tech Country:US
+Tech Phone:+1.2062216000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:uw-noc@cac.washington.edu
+Name Server:MARGE.CAC.WASHINGTON.EDU
+Name Server:HANNA.CAC.WASHINGTON.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

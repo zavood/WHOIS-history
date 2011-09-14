@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RACKSPACECLOUD.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: NS1.HOSTINGMATRIX.NET
-   Name Server: NS2.HOSTINGMATRIX.NET
+   Domain Name: DATA3M2.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.DATA3M1.COM
+   Name Server: NS2.DATA3M1.COM
    Status: ok
-   Updated Date: 01-jun-2011
-   Creation Date: 17-jun-2008
-   Expiration Date: 17-jun-2012
+   Updated Date: 16-aug-2011
+   Creation Date: 02-sep-2005
+   Expiration Date: 02-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:44:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:43:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+=-=-=-=
+Visit AboutUs.org for more information about data3m2.com
+&lt;a href=&quot;http://www.aboutus.org/data3m2.com&quot;&gt;AboutUs: data3m2.com&lt;/a&gt;
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Rackspace US, Inc. (RACKS33337)
-  5000 Walzem Road
 
-  San Antonio, Texas, 78218
-  US
+Domain name: data3m2.com
 
-  Domain name: rackspacecloud.com
+Registrant Contact:
+   Grant Systems, Inc.
+   Thomas Hardy ()
 
-Technical contact:
-  Administrator, Domain (DA581602)
-  NetNames Hostmaster
-  3rd Floor Prospero House
-  241 Borough High Street
-  Borough, London, SE1 1GA
-  GB
-  corporate-services@netnames.com
-  +44.2070159370 Fax: +44.2070159375
+   Fax:
+   200 Pleasant Grove Rd
+   Ithaca, NY 14850
+   US
 
-Administrative contact:
-  Administrator, Domain (DA79720)
-  Rackspace US, Inc.
-  5000 Walzem Road
+Administrative Contact:
+   Grant Systems, Inc.
+   Thomas Hardy (TOM@GRANTSYS.COM)
+   +1.6072571282
+   Fax: +1.6072571282
+   200 Pleasant Grove Rd
+   Ithaca, NY 14850
+   US
 
-  San Antonio, Texas, 78218
-  US
-  domains@rackspace.com
-  +1.2103124712 Fax: +1.2103124848
+Technical Contact:
+   Grant Systems, Inc.
+   Thomas Hardy (TOM@GRANTSYS.COM)
+   +1.6072571282
+   Fax: +1.6072571282
+   200 Pleasant Grove Rd
+   Ithaca, NY 14850
+   US
 
-Record created:           2010-11-13 04:22:43
-Record last updated:      2010-11-13 04:22:43
-Record expires:           2012-06-17 06:23:00
+Status: Active
 
-Domain servers in listed order:
-  ns1.hostingmatrix.net (NS1HO79598)
-  ns2.hostingmatrix.net (NS2HO58938)
+Name Servers:
+   NS1.DATA3M1.COM
+   NS2.DATA3M1.COM
+
+Creation date: 02 Sep 2005 17:06:00
+Expiration date: 02 Sep 2012 17:06:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
