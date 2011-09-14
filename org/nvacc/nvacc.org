@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148844042-LROR
+Domain Name:NVACC.ORG
+Created On:10-Aug-2007 22:17:39 UTC
+Last Updated On:31-May-2011 18:47:45 UTC
+Expiration Date:10-Aug-2012 22:17:39 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33714329
+Registrant Name:Stephen Passman
+Registrant Organization:passman.org
+Registrant Street1:1807 Fawncrest Ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vienna
+Registrant State/Province:Virginia
+Registrant Postal Code:22182-2518
+Registrant Country:US
+Registrant Phone:+1.7039804881
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stephen@PASSMAN.ORG
+Admin ID:CR33714331
+Admin Name:Stephen Passman
+Admin Organization:passman.org
+Admin Street1:1807 Fawncrest Ct
+Admin Street2:
+Admin Street3:
+Admin City:Vienna
+Admin State/Province:Virginia
+Admin Postal Code:22182-2518
+Admin Country:US
+Admin Phone:+1.7039804881
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stephen@PASSMAN.ORG
+Tech ID:CR33714330
+Tech Name:Stephen Passman
+Tech Organization:passman.org
+Tech Street1:1807 Fawncrest Ct
+Tech Street2:
+Tech Street3:
+Tech City:Vienna
+Tech State/Province:Virginia
+Tech Postal Code:22182-2518
+Tech Country:US
+Tech Phone:+1.7039804881
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stephen@PASSMAN.ORG
+Name Server:NS53.DOMAINCONTROL.COM
+Name Server:NS54.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
