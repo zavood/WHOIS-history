@@ -5,19 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXAM-PLE.COM
-   Registrar: NAUGUS LIMITED, LLC.
-   Whois Server: whois.naugus.com
-   Referral URL: http://www.naugus.com
-   Name Server: A.EXAM-PLE.COM
-   Name Server: B.EXAM-PLE.COM
+   Domain Name: AFFILIATETECHNOLOGY.COM
+   Registrar: SPOT DOMAIN LLC DBA DOMAINSITE.COM
+   Whois Server: whois.domainsite.com
+   Referral URL: http://www.domainsite.com
+   Name Server: NS1.DOMAINSITE.COM
+   Name Server: NS2.DOMAINSITE.COM
+   Name Server: NS3.DOMAINSITE.COM
+   Name Server: NS4.DOMAINSITE.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-oct-2010
-   Creation Date: 30-oct-2007
-   Expiration Date: 30-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 27-sep-2010
+   Creation Date: 22-nov-2005
+   Expiration Date: 22-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:33:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:33:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,51 +56,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name:     affiliatetechnology.com
+Registrar:       Spot Domain LLC
 
-Domain: EXAM-PLE.COM
+Expiration Date: 2011-11-23 02:58:59
+Creation Date:   2005-11-22 20:16:02
 
-Registrant:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+Name Servers:
+	ns1.domainsite.com
+	ns2.domainsite.com
+	ns3.domainsite.com
+	ns4.domainsite.com
 
-Admin Contact:
-Billing Contact:
-Tech Contact:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+REGISTRANT CONTACT INFO
+Allied Holdings
+Allied Holdings
+2125 Delaware Ave
+Suite E
+Santa Cruz
+CA
+95060
+US
+Phone:         +1.8314641441
+Email Address: domains@AffiliateTraction.com
 
-Nameservers:
-	A.EXAM-PLE.COM
-	B.EXAM-PLE.COM
+ADMINISTRATIVE CONTACT INFO
+Allied Holdings
+Allied Holdings
+2125 Delaware Ave
+Suite E
+Santa Cruz
+CA
+95060
+US
+Phone:         +1.8314641441
+Email Address: domains@AffiliateTraction.com
 
-Created: 2007-10-30
-Updated: 2007-10-30
-Expires: 2011-10-30
+TECHNICAL CONTACT INFO
+Allied Holdings
+Allied Holdings
+2125 Delaware Ave
+Suite E
+Santa Cruz
+CA
+95060
+US
+Phone:         +1.8314641441
+Email Address: domains@AffiliateTraction.com
 
---
+BILLING CONTACT INFO
+Allied Holdings
+Allied Holdings
+2125 Delaware Ave
+Suite E
+Santa Cruz
+CA
+95060
+US
+Phone:         +1.8314641441
+Email Address: domains@AffiliateTraction.com
 
-Automated collection of data from this database is strictly prohibited.
-We make this information available as-is and do not guarantee its accuracy.
-By submitting a query to us you agree to all of the following terms of use:
- - You will use this data only for lawful purposes
- - You will not enable high-volume or other automated processes to query this database
- - You will not use this data to support the transmission of unsolicited commercial
-   email or other solicitations via direct mail, email or telephone
- - The compilation, repackaging, redistribution, or other use of this data without
-   our prior written consent is expressly prohibited
- - The party identified in the registrant field is responsible for all matters
-   regarding this domain; you must contact them not us in the event of a problem
-We reserve the right to modify these terms at any time and may block access to
-anyone we believe to have violated these terms.
-For abuse, spam, UDRP, and DMCA contacts please visit http://www.naugus.com/legal
+Timestamp: 1315978419.4087
 
+The Data in the Spot Domain LLC WHOIS database is provided by Spot Domain LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Spot Domain LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Spot Domain LLC (or its systems). Spot Domain LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-13T23:33:39-06:00

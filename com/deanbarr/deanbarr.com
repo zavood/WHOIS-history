@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXAM-PLE.COM
-   Registrar: NAUGUS LIMITED, LLC.
-   Whois Server: whois.naugus.com
-   Referral URL: http://www.naugus.com
-   Name Server: A.EXAM-PLE.COM
-   Name Server: B.EXAM-PLE.COM
-   Status: clientDeleteProhibited
+   Domain Name: DEANBARR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.REQUESTINGURL.COM
+   Name Server: NS2.REQUESTINGURL.COM
    Status: clientTransferProhibited
-   Updated Date: 31-oct-2010
-   Creation Date: 30-oct-2007
-   Expiration Date: 30-oct-2011
+   Updated Date: 19-may-2011
+   Creation Date: 14-apr-2003
+   Expiration Date: 14-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:33:23 UTC &lt;&lt;&lt;
 
@@ -52,51 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about deanbarr.com
+&lt;a href=&quot;http://www.aboutus.org/deanbarr.com&quot;&gt;AboutUs: deanbarr.com&lt;/a&gt;
 
-Domain: EXAM-PLE.COM
 
-Registrant:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+Domain name: deanbarr.com
 
-Admin Contact:
-Billing Contact:
-Tech Contact:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+Registrant Contact:
+   Barr
+   NA Dean ()
 
-Nameservers:
-	A.EXAM-PLE.COM
-	B.EXAM-PLE.COM
+   Fax:
+   Box 3317
+   Sherwood Park,AB,CA T8H 2T2
+   NA,
+   US
 
-Created: 2007-10-30
-Updated: 2007-10-30
-Expires: 2011-10-30
+Administrative Contact:
+   Dean
+   NA Barr (dog_promo@hotmail.com)
+   7809089033
+   Fax:
+   Box 3317
+   Sherwood Park,AB,CA T8H 2T2
+   NA,
+   US
 
---
+Technical Contact:
+   -
+   Billing Contactor: (NA)
+   NA
+   Fax:
+   NA,
+   US
 
-Automated collection of data from this database is strictly prohibited.
-We make this information available as-is and do not guarantee its accuracy.
-By submitting a query to us you agree to all of the following terms of use:
- - You will use this data only for lawful purposes
- - You will not enable high-volume or other automated processes to query this database
- - You will not use this data to support the transmission of unsolicited commercial
-   email or other solicitations via direct mail, email or telephone
- - The compilation, repackaging, redistribution, or other use of this data without
-   our prior written consent is expressly prohibited
- - The party identified in the registrant field is responsible for all matters
-   regarding this domain; you must contact them not us in the event of a problem
-We reserve the right to modify these terms at any time and may block access to
-anyone we believe to have violated these terms.
-For abuse, spam, UDRP, and DMCA contacts please visit http://www.naugus.com/legal
+Status: Locked
 
+Name Servers:
+   ns1.requestingurl.com
+   ns2.requestingurl.com
+
+Creation date: 15 Apr 2003 01:38:00
+Expiration date: 15 Apr 2012 01:38:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

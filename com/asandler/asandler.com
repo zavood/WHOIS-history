@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXAM-PLE.COM
-   Registrar: NAUGUS LIMITED, LLC.
-   Whois Server: whois.naugus.com
-   Referral URL: http://www.naugus.com
-   Name Server: A.EXAM-PLE.COM
-   Name Server: B.EXAM-PLE.COM
+   Domain Name: ASANDLER.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS0.NS0.COM
+   Name Server: NS3.PAIR.COM
    Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-oct-2010
-   Creation Date: 30-oct-2007
-   Expiration Date: 30-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 15-feb-2011
+   Creation Date: 30-apr-1997
+   Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:33:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:33:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,51 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain: EXAM-PLE.COM
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+   SwebS
 
-Admin Contact:
-Billing Contact:
-Tech Contact:
-	Abadaba S.A.
-	Administrador de dominios
-	P.O. Box 0819-09689
-	Panama,  6 PA
-	Tel: +1.2063090626
-	Fax: +1.2063090626
-	abadaba@eml.cc
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: ASANDLER.COM
 
-Nameservers:
-	A.EXAM-PLE.COM
-	B.EXAM-PLE.COM
+   Domain servers in listed order:
+      NS3.PAIR.COM
+      NS0.NS0.COM
 
-Created: 2007-10-30
-Updated: 2007-10-30
-Expires: 2011-10-30
 
---
-
-Automated collection of data from this database is strictly prohibited.
-We make this information available as-is and do not guarantee its accuracy.
-By submitting a query to us you agree to all of the following terms of use:
- - You will use this data only for lawful purposes
- - You will not enable high-volume or other automated processes to query this database
- - You will not use this data to support the transmission of unsolicited commercial
-   email or other solicitations via direct mail, email or telephone
- - The compilation, repackaging, redistribution, or other use of this data without
-   our prior written consent is expressly prohibited
- - The party identified in the registrant field is responsible for all matters
-   regarding this domain; you must contact them not us in the event of a problem
-We reserve the right to modify these terms at any time and may block access to
-anyone we believe to have violated these terms.
-For abuse, spam, UDRP, and DMCA contacts please visit http://www.naugus.com/legal
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ASANDLER.COM
