@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTRESPONSETECH.COM
+   Domain Name: VSAPARTNERS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: AUTH110.NS.UU.NET
    Status: clientTransferProhibited
-   Updated Date: 21-jan-2009
-   Creation Date: 16-aug-2002
-   Expiration Date: 16-aug-2012
+   Updated Date: 26-jun-2006
+   Creation Date: 07-mar-1996
+   Expiration Date: 08-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:37:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:38:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: directresponsetech.com
+Whois Query: vsapartners.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 19:33:08 EDT 2011
+Date and Time of Query: Wed Sep 14 19:28:54 EDT 2011
 Reason Code: IE

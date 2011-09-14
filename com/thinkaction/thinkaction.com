@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTRESPONSETECH.COM
+   Domain Name: THINKACTION.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: NSCT1.SURVEYCENTER.COM
+   Name Server: NSNJ1.SURVEYCENTER.COM
    Status: clientTransferProhibited
-   Updated Date: 21-jan-2009
-   Creation Date: 16-aug-2002
-   Expiration Date: 16-aug-2012
+   Updated Date: 16-dec-2010
+   Creation Date: 15-dec-1999
+   Expiration Date: 15-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:37:39 UTC &lt;&lt;&lt;
 
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: directresponsetech.com
+Whois Query: thinkaction.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 19:33:08 EDT 2011
+Date and Time of Query: Wed Sep 14 19:28:21 EDT 2011
 Reason Code: IE
