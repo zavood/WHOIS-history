@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLINDIARAILWAY.COM
-   Registrar: AUSTRALIAN STYLE PTY LTD
-   Whois Server: whois.domaincentral.com.au
-   Referral URL: http://www.australianstyle.com.au
-   Name Server: NS1.IFEELINFOTECH.COM
-   Name Server: NS2.IFEELINFOTECH.COM
-   Status: ok
-   Updated Date: 10-jul-2011
-   Creation Date: 01-aug-2008
-   Expiration Date: 01-aug-2012
+   Domain Name: KALTSUM.COM
+   Registrar: PT ARDH GLOBAL INDONESIA
+   Whois Server: whois.resellerid.com
+   Referral URL: http://www.resellerid.com
+   Name Server: US1.ARDHOSTING.COM
+   Name Server: US2.ARDHOSTING.COM
+   Name Server: US3.ARDHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-aug-2011
+   Creation Date: 17-aug-2010
+   Expiration Date: 17-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:40:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:40:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,10 +52,10 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: DOMAIN CENTRAL
-Contact: +61.386867708
+Registration Service Provided By: ARDHOSTING.COM
+Contact: +62.2153164806
 
-Domain Name: ALLINDIARAILWAY.COM
+Domain Name: KALTSUM.COM
 
 Registrant:
     PrivacyProtect.org
@@ -66,12 +67,13 @@ Registrant:
     AU
     Tel. +45.36946676
 
-Creation Date: 02-Aug-2008
-Expiration Date: 02-Aug-2012
+Creation Date: 17-Aug-2010
+Expiration Date: 17-Aug-2012
 
 Domain servers in listed order:
-    ns1.ifeelinfotech.com
-    ns2.ifeelinfotech.com
+    us1.ardhosting.com
+    us2.ardhosting.com
+    us3.ardhosting.com
 
 
 Administrative Contact:
@@ -104,7 +106,11 @@ Billing Contact:
     AU
     Tel. +45.36946676
 
-Status:ACTIVE
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
 
 PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
 protect the owner from spam and phishing attacks. PrivacyProtect.org is not
@@ -123,7 +129,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Australian Style Pty Ltd. dba auCLUB.
+prior written consent from us. The Registrar of record is PT Ardh Global Indonesia.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

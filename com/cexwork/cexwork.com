@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ST-JOHN.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS11.DOMAINCONTROL.COM
-   Name Server: NS12.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-may-2010
-   Creation Date: 24-nov-1995
-   Expiration Date: 23-nov-2019
+   Domain Name: CEXWORK.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NSP.MENTALPOSITION.COM
+   Name Server: QUEENS.MENTALPOSITION.COM
+   Name Server: SRV1.D-DREAM.NET
+   Name Server: SRV5.D-DREAM.NET
+   Status: ok
+   Updated Date: 10-aug-2011
+   Creation Date: 28-oct-2006
+   Expiration Date: 28-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:40:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:39:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle:
+Domain Name: cexwork.com
+Created On: 2006-10-28 15:53:44.0
+Last Updated On: 2011-08-10 13:08:00.0
+Expiration Date: 2012-10-28 06:53:44.0
+Status: ACTIVE
+Registrant Name: keiichi hasegawa
+Registrant Organization: keiichi hasegawa
+Registrant Street1: Shimouma1-56-11-045
+Registrant Street2:
+Registrant City: Setagaya
+Registrant State: Tokyo
+Registrant Postal Code: 1540002
+Registrant Country: JP
+Registrant Phone: 00-0000-0000
+Registrant Fax:
+Registrant Email: polo@mentalposition.com
+Admin Name: keiichi hasegawa
+Admin Organization: keiichi hasegawa
+Admin Street1: Shimouma1-56-11-045
+Admin Street2:
+Admin City: Setagaya
+Admin State: Tokyo
+Admin Postal Code: 1540002
+Admin Country: JP
+Admin Phone: 00-0000-0000
+Admin Fax:
+Admin Email: polo@mentalposition.com
+Billing Name: keiichi hasegawa
+Billing Organization: keiichi hasegawa
+Billing Street1: Shimouma1-56-11-045
+Billing Street2:
+Billing City: Setagaya
+Billing State: Tokyo
+Billing Postal Code: 1540002
+Billing Country: JP
+Billing Phone: 81-3-5433-0406
+Billing Fax:
+Billing Email: polo@mentalposition.com
+Tech Name: keiichi hasegawa
+Tech Organization: keiichi hasegawa
+Tech Street1: Shimouma1-56-11-045
+Tech Street2:
+Tech City: Setagaya
+Tech State: Tokyo
+Tech Postal Code: 1540002
+Tech Country: JP
+Tech Phone: 81-3-5433-0406
+Tech Fax:
+Tech Email: polo@mentalposition.com
+Name Server: nsp.mentalposition.com
+Name Server: queens.mentalposition.com
+Name Server: srv1.d-dream.net
+Name Server: srv5.d-dream.net
 
-Registrant:
-   Rachelle Bisaillon
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ST-JOHN.COM
-
-   Domain servers in listed order:
-      NS11.DOMAINCONTROL.COM
-      NS12.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ST-JOHN.COM
