@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMESMAZAA.COM
+   Domain Name: 2ZIPAI.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.VEXXHOST.COM
-   Name Server: NS2.VEXXHOST.COM
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 05-sep-2007
-   Expiration Date: 05-sep-2012
+   Updated Date: 02-jun-2011
+   Creation Date: 26-feb-2010
+   Expiration Date: 26-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:57:30 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   umasankar r
+   chun yong duan
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMESMAZAA.COM
+   Domain Name: 2ZIPAI.COM
 
    Domain servers in listed order:
-      NS1.VEXXHOST.COM
-      NS2.VEXXHOST.COM
+      F1G1NS1.DNSPOD.NET
+      F1G1NS2.DNSPOD.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMESMAZAA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=2ZIPAI.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GAMESMAZAA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.VEXXHOST.COM
-   Name Server: NS2.VEXXHOST.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-aug-2011
-   Creation Date: 05-sep-2007
-   Expiration Date: 05-sep-2012
+   Domain Name: AOC-EUROPE.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS01.RZONE.DE
+   Name Server: SHADES06.RZONE.DE
+   Status: ok
+   Updated Date: 06-nov-2010
+   Creation Date: 06-nov-1998
+   Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:57:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:56:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
+Owner Contact:
+   Jason Wang
+   AOC International GmbH
+   Lahnstr. 86A
+   Berlin, 12055, DE
 
-Registrant:
-   umasankar r
+   Punycode Name:  aoc-europe.com
+   Unicode Name:   aoc-europe.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GAMESMAZAA.COM
+   Admin Contact
+      Jason Wang
+      AOC International GmbH
+      jason.wang@aoc-europe.com
+      Lahnstr. 86A
+      Berlin, 12055, DE
+      phone: +49 30684099212
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2011-11-05 04:00:00
 
    Domain servers in listed order:
-      NS1.VEXXHOST.COM
-      NS2.VEXXHOST.COM
+
+      shades06.rzone.de
+      docks01.rzone.de
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GAMESMAZAA.COM
+
