@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EVILTECH.COM
-   Registrar: FABULOUS.COM PTY LTD.
-   Whois Server: whois.fabulous.com
-   Referral URL: http://www.fabulous.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 21-jul-2011
-   Creation Date: 23-aug-2001
-   Expiration Date: 23-aug-2020
+   Domain Name: ZENAPSYS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.EXPIREDDOMAINS.REGISTER.COM
+   Name Server: NS2.EXPIREDDOMAINS.REGISTER.COM
+   Status: redemptionPeriod
+   Updated Date: 05-sep-2011
+   Creation Date: 23-jul-2001
+   Expiration Date: 23-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:18:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:16:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,37 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
-
-Domain eviltech.com:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 19459885546379
-  19459885546379-672c04@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-
-Administrative contact:
-Technical contact:
-Billing contact:
-  Whois Privacy Services Pty Ltd
-  Domain Hostmaster, Customer ID : 19459885546379
-  19459885546379-672c04@whoisprivacyservices.com.au
-  PO Box 923
-  Fortitude Valley QLD 4006 AU
-  Phone: Phone: +61.730070090
-  Fax: Phone: +61.730070091
-
-Record dates:
-  Record created on: 2001-08-23 21:17:14 UTC
-  Record modified on: 2011-07-21 14:17:29 UTC
-  Record expires on: 2020-08-23 UTC
-
-Nameservers:
-  ns0.reflected.net:
-    66.254.126.2
-  ns1.reflected.net:
-    66.254.127.2
-
-Note: Automated collection of data from this database is strictly prohibited.
-
+No match for &quot;zenapsys.com&quot;
