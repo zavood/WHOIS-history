@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; servicesalapersonne.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      servicesalapersonne.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DAGM2-FRNIC
+admin-c:     CA1198-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      AS734-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3445-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 04/01
+created:     04/01/2006
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL3445-FRNIC
+nserver:     dns.travail.gouv.fr [195.6.202.253]
+nserver:     ns4.oleane.net
+nserver:     ns5.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     CA1198-FRNIC
+type:        PERSON
+contact:     Christine Abrossimov
+address:     DIR ADMIN GEN MODERNISATION DES SERV
+address:     39-43, quai Andre Citroen
+address:     75902 Paris
+country:     FR
+phone:       +33 1 44 38 38 84
+fax-no:      +33 1 44 38 38 00
+e-mail:      CHRISTINE.ABROSSIMOV@dagemo.travail.gouv.fr
+changed:     04/01/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DAGM2-FRNIC
+type:        ORGANIZATION
+contact:     DIR ADMIN GEN MODERNISATION DES SERV
+address:     39-43, quai Andre Citroen
+address:     75902 Paris
+country:     FR
+phone:       +33 1 44 38 36 01
+fax-no:      +33 1 44 38 39 90
+e-mail:      JEAN-RENE.MASSON@dagemo.travail.gouv.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AS734-FRNIC
+type:        PERSON
+contact:     Antoine Siossac
+address:     Dir Admin Gem et Modernisation Service
+address:     39-43, quai Andre Citroen
+address:     75902 Paris
+country:     FR
+phone:       +33 1 44 38 38 85
+fax-no:      +33 1 44 38 38 00
+e-mail:      ANTOINE.SIOSSAC@dagemo.travail.gouv.fr
+changed:     19/04/2005 robot-fr@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

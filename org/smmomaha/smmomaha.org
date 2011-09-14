@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D40216402-LROR
+Domain Name:SMMOMAHA.ORG
+Created On:07-Nov-2000 18:20:32 UTC
+Last Updated On:15-Oct-2010 16:53:52 UTC
+Expiration Date:07-Nov-2011 18:20:32 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-H1H943RDT0JM
+Registrant Name:Peg Grennan
+Registrant Organization:St. Margaret Mary School
+Registrant Street1:123 North 61 Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Omaha
+Registrant State/Province:NE
+Registrant Postal Code:68132
+Registrant Country:US
+Registrant Phone:+1.4025516663
+Registrant Phone Ext.:
+Registrant FAX:+1.4025515631
+Registrant FAX Ext.:
+Registrant Email:pgrennan@smmomaha.org
+Admin ID:DOT-885X3CMATI3C
+Admin Name:Peg Grennan
+Admin Organization:St. Margaret Mary School
+Admin Street1:123 North 61 Street
+Admin Street2:
+Admin Street3:
+Admin City:Omaha
+Admin State/Province:NE
+Admin Postal Code:68132
+Admin Country:US
+Admin Phone:+1.4025516663
+Admin Phone Ext.:
+Admin FAX:+1.4025515631
+Admin FAX Ext.:
+Admin Email:pgrennan@smmomaha.org
+Tech ID:DOT-P1N7TU1SX9ZD
+Tech Name:Alice Fleming
+Tech Organization:St. Margaret Mary School
+Tech Street1:123 North 61 Street
+Tech Street2:
+Tech Street3:
+Tech City:Omaha
+Tech State/Province:NE
+Tech Postal Code:68132
+Tech Country:US
+Tech Phone:+1.4025516663
+Tech Phone Ext.:
+Tech FAX:+1.4025515631
+Tech FAX Ext.:
+Tech Email:afleming@smmomaha.org
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

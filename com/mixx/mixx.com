@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORUMACTIF.COM
+   Domain Name: MIXX.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNSPRO.ORG
-   Name Server: NS2.DNSPRO.ORG
+   Name Server: NS07.DOMAINCONTROL.COM
+   Name Server: NS08.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 05-apr-2004
-   Expiration Date: 05-apr-2020
+   Updated Date: 04-mar-2011
+   Creation Date: 05-mar-1995
+   Expiration Date: 06-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:54:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,12 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FORUMACTIF.COM
+   Domain Name: MIXX.COM
 
    Domain servers in listed order:
-      NS1.DNSPRO.ORG
-      NS2.DNSPRO.ORG
+      NS07.DOMAINCONTROL.COM
+      NS08.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMACTIF.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MIXX.COM

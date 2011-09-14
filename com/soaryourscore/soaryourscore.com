@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORUMACTIF.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNSPRO.ORG
-   Name Server: NS2.DNSPRO.ORG
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 05-apr-2004
-   Expiration Date: 05-apr-2020
+   Domain Name: SOARYOURSCORE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 01-jan-2011
+   Creation Date: 10-jan-2008
+   Expiration Date: 10-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:54:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... soaryourscore.com
+  Creation Date........ 2008-01-11
+  Registration Date.... 2008-01-11
+  Expiry Date.......... 2012-01-11
+  Organisation Name.... STEVEN SIMONOVICH
+  Organisation Address. 12322 87TH AVE
+  Organisation Address.
+  Organisation Address. PLEASANT PRAIRIE
+  Organisation Address. 53158
+  Organisation Address. WI
+  Organisation Address. UNITED STATES
+
+Admin Name........... STEVEN SIMONOVICH
+  Admin Address........ 12322 87TH AVE
+  Admin Address........
+  Admin Address........ PLEASANT PRAIRIE
+  Admin Address........ 53158
+  Admin Address........ WI
+  Admin Address........ UNITED STATES
+  Admin Email.......... stivo75@yahoo.com
+  Admin Phone.......... +1.2626203107
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns51.domaincontrol.com
+  Name Server.......... ns52.domaincontrol.com
 
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FORUMACTIF.COM
-
-   Domain servers in listed order:
-      NS1.DNSPRO.ORG
-      NS2.DNSPRO.ORG
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMACTIF.COM

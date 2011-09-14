@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'nosh.ir'
+
+
+domain:		nosh.ir
+ascii:		nosh.ir
+remarks:	(Domain Holder) Mehdi Mohammadi
+remarks:	(Domain Holder Address) Abasi, End of Kooye Shohada, 8Metri Valfagre 4 Kharbi, No. 35,, Tabriz, East Azarbyjan, IR
+holder-c:	mm1143-irnic
+admin-c:	mm1143-irnic
+tech-c:		mm1143-irnic
+nserver:	ns.netafraz.com
+nserver:	ns2.netafraz.com
+last-updated:	2010-09-23
+source:		IRNIC # Filtered
+
+nic-hdl:	mm1143-irnic
+person:		Mehdi Mohammadi
+e-mail:		mehdifarda@gmail.com
+address:	Abasi, End of Kooye Shohada, 8Metri Valfagre 4 Kharbi, No. 35,, Tabriz, East Azarbyjan, IR
+phone:		984116585197
+source:		IRNIC # Filtered
+
