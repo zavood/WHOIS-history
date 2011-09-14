@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96791924-LROR
+Domain Name:AMATOR.ORG
+Created On:06-May-2003 11:09:16 UTC
+Last Updated On:07-May-2011 01:24:33 UTC
+Expiration Date:06-May-2012 11:09:16 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-9589738
+Registrant Name:Cyber Net Enterprise
+Registrant Organization:Cyber Net Enterprise LTD
+Registrant Street1:Kattegat 24
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zaandam
+Registrant State/Province:NL
+Registrant Postal Code:1501 AK
+Registrant Country:NL
+Registrant Phone:+31.615513141
+Registrant Phone Ext.:
+Registrant FAX:+31.615513141
+Registrant FAX Ext.:
+Registrant Email:info@cyber-net-enterprise.com
+Admin ID:ABM-9589738
+Admin Name:Cyber Net Enterprise
+Admin Organization:Cyber Net Enterprise LTD
+Admin Street1:Kattegat 24
+Admin Street2:
+Admin Street3:
+Admin City:Zaandam
+Admin State/Province:NL
+Admin Postal Code:1501 AK
+Admin Country:NL
+Admin Phone:+31.615513141
+Admin Phone Ext.:
+Admin FAX:+31.615513141
+Admin FAX Ext.:
+Admin Email:info@cyber-net-enterprise.com
+Tech ID:ABM-9589738
+Tech Name:Cyber Net Enterprise
+Tech Organization:Cyber Net Enterprise LTD
+Tech Street1:Kattegat 24
+Tech Street2:
+Tech Street3:
+Tech City:Zaandam
+Tech State/Province:NL
+Tech Postal Code:1501 AK
+Tech Country:NL
+Tech Phone:+31.615513141
+Tech Phone Ext.:
+Tech FAX:+31.615513141
+Tech FAX Ext.:
+Tech Email:info@cyber-net-enterprise.com
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
