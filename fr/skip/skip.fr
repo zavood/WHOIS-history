@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; skip.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      skip.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LFF28-FRNIC
+admin-c:     UF154-FRNIC
+tech-c:      NH718-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3254-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 28/11
+created:     27/06/2002
+last-update: 08/09/2009
+source:      FRNIC
+
+ns-list:     NSL3254-FRNIC
+nserver:     dns04.unilever.com
+nserver:     dns02.unilever.com
+nserver:     dns88.unilever.com
+nserver:     dns91.unilever.com
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     NH718-FRNIC
+type:        ROLE
+contact:     NetNames Hostmaster
+address:     3rd Floor Prospero House
+address:     241 Borough High Street
+address:     SE1 1 GB London
+country:     UK
+phone:       +44 8704589400
+fax-no:      +44 8704589404
+e-mail:      corporate-services@netnames.com
+admin-c:     CS484-FRNIC
+tech-c:      NH1724-FRNIC
+notify:      corporate-services@netnames.com
+changed:     08/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UF154-FRNIC
+type:        PERSON
+contact:     Unilever France
+address:     UNILEVER FRANCE
+address:     23, rue Fran&ccedil;ois
+address:     Jacob
+address:     92500 Rueil-Malmaison
+country:     FR
+phone:       +33 1 41 96 62 00
+fax-no:      +33 1 41 96 62 00
+e-mail:      portfolio@ugroupdomains.com
+changed:     08/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LFF28-FRNIC
+type:        ORGANIZATION
+contact:     Lever Faberge France
+address:     28-32, rue Jacques Ibert
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 41 96 62 29
+e-mail:      portfolio@ugroupdomains.com
+changed:     08/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
