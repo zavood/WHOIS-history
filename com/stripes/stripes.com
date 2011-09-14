@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOXFIRE.NET
+   Domain Name: STRIPES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: HORUS.FOXFIRE.NET
-   Name Server: NS1.FOXFIRE.NET
-   Name Server: NS2.FOXFIRE.NET
-   Name Server: NS5.FOXFIRE.NET
-   Name Server: NS6.FOXFIRE.NET
-   Name Server: SRI-NIC.ARPA.NET
+   Name Server: NS41.WORLDNIC.COM
+   Name Server: NS42.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 21-may-2008
-   Creation Date: 11-nov-1996
-   Expiration Date: 10-nov-2013
+   Updated Date: 13-nov-2010
+   Creation Date: 01-nov-1994
+   Expiration Date: 31-oct-2020
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:19 UTC &lt;&lt;&lt;
 
@@ -71,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: foxfire.net
+Whois Query: stripes.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 22:40:53 EDT 2011
+Date and Time of Query: Tue Sep 13 22:40:24 EDT 2011
 Reason Code: IE

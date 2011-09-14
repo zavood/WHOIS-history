@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOXFIRE.NET
+   Domain Name: MEFOUND.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: HORUS.FOXFIRE.NET
-   Name Server: NS1.FOXFIRE.NET
-   Name Server: NS2.FOXFIRE.NET
-   Name Server: NS5.FOXFIRE.NET
-   Name Server: NS6.FOXFIRE.NET
-   Name Server: SRI-NIC.ARPA.NET
+   Name Server: NS1.CHANGEIP.ORG
+   Name Server: NS2.CHANGEIP.ORG
+   Name Server: NS3.CHANGEIP.ORG
    Status: clientTransferProhibited
-   Updated Date: 21-may-2008
-   Creation Date: 11-nov-1996
-   Expiration Date: 10-nov-2013
+   Updated Date: 05-jan-2011
+   Creation Date: 14-jan-2001
+   Expiration Date: 14-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: foxfire.net
+Whois Query: mefound.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 22:40:53 EDT 2011
+Date and Time of Query: Tue Sep 13 22:46:01 EDT 2011
 Reason Code: IE

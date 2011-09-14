@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOXFIRE.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: HORUS.FOXFIRE.NET
-   Name Server: NS1.FOXFIRE.NET
-   Name Server: NS2.FOXFIRE.NET
-   Name Server: NS5.FOXFIRE.NET
-   Name Server: NS6.FOXFIRE.NET
-   Name Server: SRI-NIC.ARPA.NET
-   Status: clientTransferProhibited
-   Updated Date: 21-may-2008
-   Creation Date: 11-nov-1996
-   Expiration Date: 10-nov-2013
+   Domain Name: FESTOOL.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NETNAMES.NET
+   Name Server: NS2.NETNAMES.NET
+   Name Server: NS5.NETNAMES.NET
+   Name Server: NS6.NETNAMES.NET
+   Status: ok
+   Updated Date: 04-apr-2011
+   Creation Date: 13-oct-1999
+   Expiration Date: 13-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +53,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  TTS Tooltechnic Systems AG und Co. KG (TTSTO10466)
+  Wertstrasse 20
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Wendlingen, , 73240
+  DE
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: festool.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  Administrator, Domain (DA3180455)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
 
-Whois Query: foxfire.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 22:40:53 EDT 2011
-Reason Code: IE
+Administrative contact:
+  Moser, Markus (MM15288)
+  TTS Tooltechnic Systems AG und Co. KG
+  Wertstr. 20
+
+  Wendlingen, 73240
+  DE
+  domain@tooltechnicsystems.com
+  +49.70248044132 Fax:
+
+Record created:           2011-02-13 14:25:37
+Record last updated:      2011-05-11 07:43:55
+Record expires:           2011-11-06 00:00:00
+
+Domain servers in listed order:
+  ns1.netnames.net (NS1NE830021)
+  ns2.netnames.net (NS2NE83002)
+  ns5.netnames.net (NS5NE99584)
+  ns6.netnames.net (NS6NE623321)

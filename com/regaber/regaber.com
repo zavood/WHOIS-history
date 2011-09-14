@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FOXFIRE.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: HORUS.FOXFIRE.NET
-   Name Server: NS1.FOXFIRE.NET
-   Name Server: NS2.FOXFIRE.NET
-   Name Server: NS5.FOXFIRE.NET
-   Name Server: NS6.FOXFIRE.NET
-   Name Server: SRI-NIC.ARPA.NET
-   Status: clientTransferProhibited
-   Updated Date: 21-may-2008
-   Creation Date: 11-nov-1996
-   Expiration Date: 10-nov-2013
+   Domain Name: REGABER.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS1.PIMEC.NET
+   Name Server: DNS2.PIMEC.NET
+   Status: ok
+   Updated Date: 11-feb-2011
+   Creation Date: 13-feb-1998
+   Expiration Date: 12-feb-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:50:19 UTC &lt;&lt;&lt;
 
@@ -55,23 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain name: regaber.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registrant:
+      Riegos Iberia Regaber  (SROW-1279177)
 
-Whois Query: foxfire.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 22:40:53 EDT 2011
-Reason Code: IE
+   regaber@regaber.com
+   Garbi, 3
+   PARETS DEL VALLES   Barcelona
+   08150   ES
+   +34 935737400   fax: +34 935737425
+
+
+Administrative contact:
+   RIEGOS IBERIA REGABER S.A   (SRCO-1992878)
+   regaber@regaber.com
+   Garbi, 3
+   PARETS DEL VALLES   Barcelona
+   08150   ES
+   +34 935737400   fax: +34 935737425
+
+
+Technical contact:
+   RIEGOS IBERIA REGABER S.A   (SRCO-1992879)
+   regaber@regaber.com
+   Garbi, 3
+   PARETS DEL VALLES   Barcelona
+   08150   ES
+   +34 935737400   fax:+34 935737425
+
+
+Domain servers in listed order:
+   dns1.pimec.net  82.223.170.108
+   dns2.pimec.net  82.223.171.108
+
+
+Created:       13 Feb 1998 05:00:00:000   UTC
+Expires:       12 Feb 2014 05:00:00:000   UTC
+Last updated:  11 Feb 2011 16:42:18:693   UTC
+
+
+
