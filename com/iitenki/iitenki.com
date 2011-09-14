@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ART-DNS.NET
-   Registrar: 1 API GMBH
-   Whois Server: whois.1api.net
-   Referral URL: http://www.1api.net
-   Name Server: NS1.ART-DNS.NET
-   Name Server: NS2.ART-DNS.NET
-   Status: clientTransferProhibited
-   Updated Date: 15-dec-2010
-   Creation Date: 13-nov-2006
-   Expiration Date: 13-nov-2011
+   Domain Name: IITENKI.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: NS1.VALUE-DOMAIN.COM
+   Name Server: NS2.VALUE-DOMAIN.COM
+   Name Server: NS3.VALUE-DOMAIN.COM
+   Status: ok
+   Updated Date: 27-may-2011
+   Creation Date: 26-may-2003
+   Expiration Date: 26-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:06:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:04:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,10 +52,10 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by artergo.net
+; This data is provided by VALUE-DOMAIN, INC.
 ; for information purposes, and to assist persons obtaining information
 ; about or related to domain name registration records.
-; artergo.net does not guarantee its accuracy.
+; VALUE-DOMAIN, INC. does not guarantee its accuracy.
 ; By submitting a WHOIS query, you agree that you will use this data
 ; only for lawful purposes and that, under no circumstances, you will
 ; use this data to
@@ -66,65 +67,58 @@ Registrars.
 ; These terms may be changed without prior notice.
 ; By submitting this query, you agree to abide by this policy.
 
+DOMAIN: IITENKI.COM
 
+RSP: VALUE-DOMAIN, INC.
+URL: http://www.value-domain.com
 
-DOMAIN: ART-DNS.NET
+owner-contact: P-KHI56
+owner-organization: JMF Investment Technology
+owner-fname: K
+owner-lname: I
+owner-street: 26 Grout Street
+owner-city: Macgregor
+owner-country: AU
+owner-phone: +34.958322972
+owner-fax: DFC@IITENKI.COM
+owner-email: info@key-systems.net
 
-RSP: artergo.net
-URL: http://www.artergo.net
+admin-contact: P-KHI56
+admin-organization: JMF Investment Technology
+admin-fname: K
+admin-lname: I
+admin-street: 26 Grout Street
+admin-city: Macgregor
+admin-country: AU
+admin-phone: +34.958322972
+admin-fax: DFC@IITENKI.COM
+admin-email: info@key-systems.net
 
-created-date: 2006-11-13 12:00:00
-updated-date: 2010-12-15 13:10:32
-registration-expiration-date: 2011-11-13 18:15:13
+tech-contact: P-KHI56
+tech-organization: JMF Investment Technology
+tech-fname: K
+tech-lname: I
+tech-street: 26 Grout Street
+tech-city: Macgregor
+tech-country: AU
+tech-phone: +34.958322972
+tech-fax: DFC@IITENKI.COM
+tech-email: info@key-systems.net
 
-owner-organization: Norr Media Sverige
-owner-name: Andreas Buchberger
-owner-street: Postbox 1
-owner-city: Bjurholm
-owner-state:
-owner-zip: 91621
-owner-country: SE
-owner-phone: +46.761363623
-owner-fax:
-owner-email: support@artergo.net
+billing-contact: P-VCA335
+billing-organization: =-=-=-=
+billing-fname: Visit
+billing-lname: AboutUs.org
+billing-street: unknown
+billing-city: unknown
+billing-country: DE
+billing-phone: &lt;A HREF=&quot;HTTP://WWW.ABOUTUS.ORG/IITENKI.COM&quot;&gt;ABOUTUS: IITENKI.COM&lt;/A&gt;
+billing-email: info@key-systems.net
 
-admin-organization: Norr Media Sverige
-admin-name: Andreas Buchberger
-admin-street: Postbox 1
-admin-city: Bjurholm
-admin-state:
-admin-zip: 91621
-admin-country: SE
-admin-phone: +46.761363623
-admin-fax:
-admin-email: support@artergo.net
+nameserver: ns1.value-domain.com
+nameserver: ns2.value-domain.com
+nameserver: ns3.value-domain.com
 
-tech-organization: Norr Media Sverige
-tech-name: Andreas Buchberger
-tech-street: Postbox 1
-tech-city: Bjurholm
-tech-state:
-tech-zip: 91621
-tech-country: SE
-tech-phone: +46.761363623
-tech-fax:
-tech-email: support@artergo.net
-
-billing-organization: Norr Media Sverige
-billing-name: Andreas Buchberger
-billing-street: Postbox 1
-billing-city: Bjurholm
-billing-state:
-billing-zip: 91621
-billing-country: SE
-billing-phone: +46.761363623
-billing-fax:
-billing-email: support@artergo.net
-
-nameserver: ns2.art-dns.net 193.254.212.70
-nameserver: ns1.art-dns.net 85.197.65.70
-
-; Please registrer your domains at
-; http://www.artergo.net
-; n/a
+; Please register your domains at
+; http://www.value-domain.com
 

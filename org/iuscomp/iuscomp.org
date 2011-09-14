@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3450823-LROR
+Domain Name:IUSCOMP.ORG
+Created On:07-Feb-1999 05:00:00 UTC
+Last Updated On:21-Apr-2009 14:46:07 UTC
+Expiration Date:07-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-36523593
+Registrant Name:Christian Dannemann
+Registrant Organization:Merus Software Ltd
+Registrant Street1:The Headlands
+Registrant Street2:Eight
+Registrant Street3:
+Registrant City:North Woodchester  Stroud
+Registrant State/Province:
+Registrant Postal Code:GL5 5PS
+Registrant Country:GB
+Registrant Phone:+44.1453708610
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:christian@merus.co.uk
+Admin ID:SPAG-36523593
+Admin Name:Christian Dannemann
+Admin Organization:Merus Software Ltd
+Admin Street1:The Headlands
+Admin Street2:Eight
+Admin Street3:
+Admin City:North Woodchester  Stroud
+Admin State/Province:
+Admin Postal Code:GL5 5PS
+Admin Country:GB
+Admin Phone:+44.1453708610
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:christian@merus.co.uk
+Tech ID:SPAG-32126858
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Ltd.
+Tech Street1:10-14 Bath Road
+Tech Street2:Aquasulis House
+Tech Street3:
+Tech City:Slough
+Tech State/Province:BRK
+Tech Postal Code:SL1 3SA
+Tech Country:GB
+Tech Phone:+44.8716412121
+Tech Phone Ext.:
+Tech FAX:+49.72191374215
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.co.uk
+Name Server:SLV2.1AND1.CO.UK
+Name Server:SERVER10.MERUS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

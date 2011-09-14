@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ART-DNS.NET
-   Registrar: 1 API GMBH
-   Whois Server: whois.1api.net
-   Referral URL: http://www.1api.net
-   Name Server: NS1.ART-DNS.NET
-   Name Server: NS2.ART-DNS.NET
-   Status: clientTransferProhibited
-   Updated Date: 15-dec-2010
-   Creation Date: 13-nov-2006
-   Expiration Date: 13-nov-2011
+   Domain Name: NORKOMANOS.COM
+   Registrar: AUST DOMAINS INTERNATIONAL PTY LTD DBA AUST DOMAINS, INC.
+   Whois Server: whois.syra.com.au
+   Referral URL: http://www.syra.com.au
+   Name Server: SINKHOLE-00.SHADOWSERVER.ORG
+   Name Server: SINKHOLE-01.SHADOWSERVER.ORG
+   Name Server: SINKHOLE-02.SHADOWSERVER.ORG
+   Name Server: SINKHOLE-03.SHADOWSERVER.ORG
+   Name Server: SINKHOLE-04.SHADOWSERVER.ORG
+   Status: pendingDelete
+   Updated Date: 11-sep-2011
+   Creation Date: 07-apr-2011
+   Expiration Date: 07-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:06:10 UTC &lt;&lt;&lt;
 
@@ -51,80 +54,25 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by artergo.net
-; for information purposes, and to assist persons obtaining information
-; about or related to domain name registration records.
-; artergo.net does not guarantee its accuracy.
-; By submitting a WHOIS query, you agree that you will use this data
-; only for lawful purposes and that, under no circumstances, you will
-; use this data to
-; 1) allow, enable, or otherwise support the transmission of mass
-;    unsolicited, commercial advertising or solicitations via E-mail
-;    (spam); or
-; 2) enable high volume, automated, electronic processes that apply
-;    to this WHOIS server.
-; These terms may be changed without prior notice.
-; By submitting this query, you agree to abide by this policy.
 
 
+==============================
+WHOIS Server 3.1
+==============================
 
-DOMAIN: ART-DNS.NET
+NOTICE AND TERMS OF USE: Your use of this WHOIS service is subject to
+the following terms. If you do not agree to these terms you may not use
+this WHOIS service. You may not use the WHOIS service: a) to allow,
+enable or otherwise support the transmission of unsolicited communications
+to any person, by any means; b) using an automated electronic query
+process; or c) to gain bulk access to WHOIS data (ie. other than by
+sending individual queries to the database). You acknowledge that the
+responsibility of keeping WHOIS data up to date is that of the domain
+registrant and the Aust Domains bears no responsibility for the truth
+or accuracy of WHOIS data. The contents of the WHOIS database may be
+subject to copyright protection. You may not copy, modify or distribute
+data obtained from the WHOIS database that is subject to copyright.
+This WHOIS service may be withdrawn at any time, or the conditions
+of its use changed, without notice to you.
 
-RSP: artergo.net
-URL: http://www.artergo.net
-
-created-date: 2006-11-13 12:00:00
-updated-date: 2010-12-15 13:10:32
-registration-expiration-date: 2011-11-13 18:15:13
-
-owner-organization: Norr Media Sverige
-owner-name: Andreas Buchberger
-owner-street: Postbox 1
-owner-city: Bjurholm
-owner-state:
-owner-zip: 91621
-owner-country: SE
-owner-phone: +46.761363623
-owner-fax:
-owner-email: support@artergo.net
-
-admin-organization: Norr Media Sverige
-admin-name: Andreas Buchberger
-admin-street: Postbox 1
-admin-city: Bjurholm
-admin-state:
-admin-zip: 91621
-admin-country: SE
-admin-phone: +46.761363623
-admin-fax:
-admin-email: support@artergo.net
-
-tech-organization: Norr Media Sverige
-tech-name: Andreas Buchberger
-tech-street: Postbox 1
-tech-city: Bjurholm
-tech-state:
-tech-zip: 91621
-tech-country: SE
-tech-phone: +46.761363623
-tech-fax:
-tech-email: support@artergo.net
-
-billing-organization: Norr Media Sverige
-billing-name: Andreas Buchberger
-billing-street: Postbox 1
-billing-city: Bjurholm
-billing-state:
-billing-zip: 91621
-billing-country: SE
-billing-phone: +46.761363623
-billing-fax:
-billing-email: support@artergo.net
-
-nameserver: ns2.art-dns.net 193.254.212.70
-nameserver: ns1.art-dns.net 85.197.65.70
-
-; Please registrer your domains at
-; http://www.artergo.net
-; n/a
-
+Sorry, no records exist for the domain norkomanos.com.
