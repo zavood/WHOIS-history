@@ -5,25 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MCI.COM
+   Domain Name: MOZILLA.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: AUTH-NS1.VERIZONBUSINESS.COM
-   Name Server: AUTH-NS2.VERIZONBUSINESS.COM
-   Name Server: AUTH01.NS.UU.NET
-   Name Server: AUTH200.NS.UU.NET
-   Name Server: AUTH210.NS.UU.NET
-   Name Server: AUTH50.NS.UU.NET
-   Name Server: AUTH61.NS.UU.NET
+   Name Server: NS1.MOZILLA.ORG
+   Name Server: NS2.MOZILLA.ORG
+   Name Server: NS3.MOZILLA.ORG
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-apr-2009
-   Creation Date: 11-dec-1991
-   Expiration Date: 10-dec-2012
+   Updated Date: 15-sep-2009
+   Creation Date: 18-oct-1994
+   Expiration Date: 17-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:13:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:13:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,47 +80,43 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Verizon Business Global LLC
-        Verizon Business Global LLC
-        One Verizon Way
-         Basking Ridge NJ 07920
+        DNS Admin
+        Mozilla Corporation
+        650 Castro St Ste 300
+         Mountain View CA 94041
         US
-        domainlegalcontact@verizon.com +1.7033513164 Fax: +1.7033513669
+        hostmaster@mozilla.com +1.6509030800 Fax:
 
-    Domain Name: mci.com
+    Domain Name: mozilla.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Domain Administrator
-        Verizon Trademark Services LLC
-        1320 North Court House Road
-         Arlington VA 22201
+        DNS Admin
+        Mozilla Corporation
+        650 Castro St Ste 300
+         Mountain View CA 94041
         US
-        domainlegalcontact@verizon.com +1.7033513164 Fax: +1.7033513669
+        hostmaster@mozilla.com +1.6509030800 Fax:
     Technical Contact, Zone Contact:
-        Domain Technician
-        Verizon
-        1320 North Court House Road
-         Arlington VA 22201
+        DNS Admin
+        Mozilla Corporation
+        650 Castro St Ste 300
+         Mountain View CA 94041
         US
-        hostmaster@verizonbusiness.com +1.7038868523 Fax: +1.7033513669
+        hostmaster@mozilla.com +1.6509030800 Fax:
 
-    Created on..............: 1991-12-10.
-    Expires on..............: 2012-12-09.
-    Record last updated on..: 2011-03-02.
+    Created on..............: 1994-10-18.
+    Expires on..............: 2011-10-16.
+    Record last updated on..: 2011-02-07.
 
     Domain servers in listed order:
 
-    auth50.ns.uu.net
-    auth01.ns.uu.net
-    auth-ns1.verizonbusiness.com
-    auth61.ns.uu.net
-    auth-ns2.verizonbusiness.com
-    auth210.ns.uu.net
-    auth200.ns.uu.net
+    ns3.mozilla.org
+    ns2.mozilla.org
+    ns1.mozilla.org
 
 
 
