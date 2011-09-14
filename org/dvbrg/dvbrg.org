@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104150022-LROR
+Domain Name:DVBRG.ORG
+Created On:25-Mar-2004 17:48:06 UTC
+Last Updated On:27-Feb-2008 07:44:08 UTC
+Expiration Date:25-Mar-2012 17:48:06 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C40501838-RCOM
+Registrant Name:jeff copes
+Registrant Organization:j and r communication systems inc.
+Registrant Street1:po box 462
+Registrant Street2:
+Registrant Street3:
+Registrant City:downingtown
+Registrant State/Province:pa
+Registrant Postal Code:19335
+Registrant Country:US
+Registrant Phone:+1.6104860544
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:g.olson01@comcast.net
+Admin ID:C40501838-RCOM
+Admin Name:jeff copes
+Admin Organization:j and r communication systems inc.
+Admin Street1:po box 462
+Admin Street2:
+Admin Street3:
+Admin City:downingtown
+Admin State/Province:pa
+Admin Postal Code:19335
+Admin Country:US
+Admin Phone:+1.6104860544
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:g.olson01@comcast.net
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS112.A.REGISTER.COM
+Name Server:DNS017.B.REGISTER.COM
+Name Server:DNS245.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

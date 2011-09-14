@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EPMCLIMAS.COM
+   Domain Name: LAIST.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
+   Name Server: NS-115.AWSDNS-14.COM
+   Name Server: NS-1421.AWSDNS-49.ORG
+   Name Server: NS-1786.AWSDNS-31.CO.UK
+   Name Server: NS-829.AWSDNS-39.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jul-2011
-   Creation Date: 19-jul-2009
-   Expiration Date: 19-jul-2012
+   Updated Date: 23-may-2011
+   Creation Date: 18-mar-2004
+   Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:03:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:03:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   AF Soluciones
+   Gothamist LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EPMCLIMAS.COM
+   Domain Name: LAIST.COM
 
    Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+      NS-115.AWSDNS-14.COM
+      NS-829.AWSDNS-39.NET
+      NS-1421.AWSDNS-49.ORG
+      NS-1786.AWSDNS-31.CO.UK
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EPMCLIMAS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LAIST.COM

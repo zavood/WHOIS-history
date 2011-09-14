@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79630401-LROR
+Domain Name:MSARL.ORG
+Created On:12-Nov-2001 15:43:04 UTC
+Last Updated On:05-Nov-2010 12:22:19 UTC
+Expiration Date:12-Nov-2011 15:43:04 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17302498-NSI
+Registrant Name:MississippiAnimalRescue League
+Registrant Organization:MississippiAnimalRescue League
+Registrant Street1:4395 South Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jackson
+Registrant State/Province:MS
+Registrant Postal Code:39209
+Registrant Country:US
+Registrant Phone:+1.60196916
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@msarl.org
+Admin ID:17302498-NSI
+Admin Name:MississippiAnimalRescue League
+Admin Organization:MississippiAnimalRescue League
+Admin Street1:4395 South Drive
+Admin Street2:
+Admin Street3:
+Admin City:Jackson
+Admin State/Province:MS
+Admin Postal Code:39209
+Admin Country:US
+Admin Phone:+1.60196916
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@msarl.org
+Tech ID:5482433-NSI
+Tech Name:IDI DNS-Support
+Tech Street1:PO Box 22488
+Tech Street2:
+Tech Street3:
+Tech City:JACKSON
+Tech State/Province:MS
+Tech Postal Code:39225
+Tech Country:US
+Tech Phone:+1.6019691434
+Tech Phone Ext.:
+Tech FAX:+1.6019693838
+Tech FAX Ext.:
+Tech Email:dns-support@NETDOOR.COM
+Name Server:PIKE.NETDOOR.COM
+Name Server:MACE.NETDOOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

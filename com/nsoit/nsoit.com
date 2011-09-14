@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EPMCLIMAS.COM
+   Domain Name: NSOIT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS45.DOMAINCONTROL.COM
-   Name Server: NS46.DOMAINCONTROL.COM
+   Name Server: DNS1.NETSOURCE-ONE.NET
+   Name Server: DNS2.NETSOURCE-ONE.NET
+   Name Server: DNS3.NETSOURCE-ONE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-jul-2011
-   Creation Date: 19-jul-2009
-   Expiration Date: 19-jul-2012
+   Updated Date: 30-nov-2010
+   Creation Date: 25-aug-2010
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:03:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:03:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   AF Soluciones
+   NetSource One
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EPMCLIMAS.COM
+   Domain Name: NSOIT.COM
 
    Domain servers in listed order:
-      NS45.DOMAINCONTROL.COM
-      NS46.DOMAINCONTROL.COM
+      DNS1.NETSOURCE-ONE.NET
+      DNS2.NETSOURCE-ONE.NET
+      DNS3.NETSOURCE-ONE.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EPMCLIMAS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NSOIT.COM
