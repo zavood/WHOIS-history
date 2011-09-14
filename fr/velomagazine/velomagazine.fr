@@ -1,0 +1,111 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; velomagazine.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      velomagazine.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IP688-FRNIC
+admin-c:     GF2129-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      JLB520-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3658-FRNIC
+registrar:   INDOM
+anniversary: 07/06
+created:     04/11/2003
+last-update: 18/05/2009
+source:      FRNIC
+
+ns-list:     NSL3658-FRNIC
+nserver:     dns01.ed-amaury.net
+nserver:     dns02.ed-amaury.net
+nserver:     dns03.vp-dns.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     IP688-FRNIC
+type:        ORGANIZATION
+contact:     INTRA PRESSE
+address:     25, avenue Michelet
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 40 10 30 30
+e-mail:      resocipa@ed-amaury.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GF2129-FRNIC
+type:        PERSON
+contact:     Guy Fahy
+address:     Intra Presse
+address:     4, rue Rouget de Lisle
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 40 10 31 83
+fax-no:      +33 1 40 10 35 15
+e-mail:      gfahy@ed-amaury.fr
+changed:     04/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JLB520-FRNIC
+type:        PERSON
+contact:     Jean-Luc Blosse
+address:     INTRAPRESSE
+address:     25, avenue Michelet
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      resocipa@ed-amaury.fr
+changed:     28/05/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

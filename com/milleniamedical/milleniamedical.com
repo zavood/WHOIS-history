@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SLUTLOAD-MEDIA.COM
+   Domain Name: MILLENIAMEDICAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Name Server: NS77.DOMAINCONTROL.COM
+   Name Server: NS78.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 23-jul-2009
-   Expiration Date: 23-jul-2014
+   Updated Date: 11-jul-2011
+   Creation Date: 19-jun-2000
+   Expiration Date: 19-jun-2017
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:10:11 UTC &lt;&lt;&lt;
 
@@ -83,16 +79,12 @@ Registrant:
    Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SLUTLOAD-MEDIA.COM
+   Domain Name: MILLENIAMEDICAL.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+      NS77.DOMAINCONTROL.COM
+      NS78.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SLUTLOAD-MEDIA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MILLENIAMEDICAL.COM

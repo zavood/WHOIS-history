@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SLUTLOAD-MEDIA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: BLOGGINGTEACHER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.JUMBA.NET.AU
+   Name Server: NS2.JUMBA.NET.AU
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 23-jul-2009
-   Expiration Date: 23-jul-2014
+   Updated Date: 17-feb-2011
+   Creation Date: 21-feb-2009
+   Expiration Date: 21-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:10:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:10:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about bloggingteacher.com
+&lt;a href=&quot;http://www.aboutus.org/bloggingteacher.com&quot;&gt;AboutUs: bloggingteacher.com&lt;/a&gt;
 
 
-Registrant:
-   Domains by Proxy, Inc.
+Domain name: bloggingteacher.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SLUTLOAD-MEDIA.COM
+Registrant Contact:
+   LockLAN Systems Pty Ltd
+   Paul Cunningham ()
 
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+   Fax:
+   PO Box 7002
+   Hemmant
+   Brisbane, QLD 4174
+   AU
+
+Administrative Contact:
+   AussieHQ Pty Ltd
+   Domain Hostmaster (domains@aussiehq.com.au)
+   +61.261639350
+   Fax: +61.261639333
+   PO Box 3168
+   Weston Creek, ACT 2611
+   AU
+
+Technical Contact:
+   LockLAN Systems Pty Ltd
+   Paul Cunningham (paul@locklan.com.au)
+   0404982084
+   Fax:
+   PO Box 7002
+   Hemmant
+   Brisbane, QLD 4174
+   AU
+
+Status: Locked
+
+Name Servers:
+   ns1.jumba.net.au
+   ns2.jumba.net.au
+
+Creation date: 21 Feb 2009 23:06:48
+Expiration date: 21 Feb 2012 23:06:48
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SLUTLOAD-MEDIA.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

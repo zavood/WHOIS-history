@@ -5,25 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SLUTLOAD-MEDIA.COM
+   Domain Name: ABMAYCARES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
+   Name Server: NS1.LNHI.NET
+   Name Server: NS2.LNHI.NET
+   Name Server: NS3.LNHI.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 30-aug-2011
-   Creation Date: 23-jul-2009
-   Expiration Date: 23-jul-2014
+   Updated Date: 21-feb-2011
+   Creation Date: 15-feb-2008
+   Expiration Date: 15-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:10:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:11:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,19 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   A.B. May
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SLUTLOAD-MEDIA.COM
+   Domain Name: ABMAYCARES.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+      NS1.LNHI.NET
+      NS2.LNHI.NET
+      NS3.LNHI.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SLUTLOAD-MEDIA.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ABMAYCARES.COM
