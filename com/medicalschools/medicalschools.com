@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMFREEDOMEVENTS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS63.DOMAINCONTROL.COM
-   Name Server: NS64.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MEDICALSCHOOLS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.TMPW.NET
+   Name Server: NS2.TMPW.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 22-feb-2011
-   Expiration Date: 22-feb-2016
+   Updated Date: 31-aug-2011
+   Creation Date: 25-jul-1997
+   Expiration Date: 24-jul-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:53:57 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... medicalschools.com
+  Creation Date........ 1997-07-25
+  Registration Date.... 2011-08-31
+  Expiry Date.......... 2016-07-25
+  Organisation Name.... Monster.com
+  Organisation Address. 444 N Michigan #3000
+  Organisation Address.
+  Organisation Address. Chicago
+  Organisation Address. 60611
+  Organisation Address. IL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Craig Johnson
+  Admin Address........ Monster.com
+  Admin Address........ 444 N Michigan #3000
+  Admin Address........ Chicago
+  Admin Address........ 60611
+  Admin Address........ IL
+  Admin Address........ UNITED STATES
+  Admin Email.......... dbms-admin@verisign.com
+  Admin Phone.......... +1.3128326562
+  Admin Fax............
+
+Tech Name............ Judy Levin
+  Tech Address......... Monster.com
+  Tech Address......... 444 N Michigan #3000
+  Tech Address......... Chicago
+  Tech Address......... 60611
+  Tech Address......... IL
+  Tech Address......... UNITED STATES
+  Tech Email........... edorg-domaintechadmin@fastweb.com
+  Tech Phone........... +1.312832215
+  Tech Fax.............
+  Name Server.......... NS2.TMPW.NET
+  Name Server.......... NS1.TMPW.NET
 
 
-Registrant:
-   Team Freedom Chicago
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEAMFREEDOMEVENTS.COM
-
-   Domain servers in listed order:
-      NS63.DOMAINCONTROL.COM
-      NS64.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFREEDOMEVENTS.COM

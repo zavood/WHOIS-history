@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMFREEDOMEVENTS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS63.DOMAINCONTROL.COM
-   Name Server: NS64.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 22-feb-2011
-   Expiration Date: 22-feb-2016
+   Domain Name: KACOENETO.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.AFLATUS.COM.BR
+   Name Server: DNS2.AFLATUS.COM.BR
+   Status: ok
+   Updated Date: 03-dec-2010
+   Creation Date: 04-dec-2008
+   Expiration Date: 04-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:53:57 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about kacoeneto.com
+&lt;a href=&quot;http://www.aboutus.org/kacoeneto.com&quot;&gt;AboutUs: kacoeneto.com&lt;/a&gt;
 
 
-Registrant:
-   Team Freedom Chicago
+Domain name: kacoeneto.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEAMFREEDOMEVENTS.COM
+Registrant Contact:
+   Aflatus Design
+   Sergio Bechelli ()
 
-   Domain servers in listed order:
-      NS63.DOMAINCONTROL.COM
-      NS64.DOMAINCONTROL.COM
+   Fax:
+   Rua Piratininga 238
+   St Cecilia
+   Assis, SP 19806-261
+   BR
+
+Administrative Contact:
+   Aflatus Design
+   Sergio Bechelli (kacoeneto.com@kinghost.net)
+   3323-7008
+   Fax:
+   Rua Piratininga 238
+   St Cecilia
+   Assis, SP 19806-261
+   BR
+
+Technical Contact:
+   Aflatus Design
+   Sergio Bechelli (kacoeneto.com@kinghost.net)
+   3323-7008
+   Fax:
+   Rua Piratininga 238
+   St Cecilia
+   Assis, SP 19806-261
+   BR
+
+Status: Active
+
+Name Servers:
+   dns1.aflatus.com.br
+   dns2.aflatus.com.br
+
+Creation date: 04 Dec 2008 15:41:23
+Expiration date: 04 Dec 2011 15:41:23
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFREEDOMEVENTS.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

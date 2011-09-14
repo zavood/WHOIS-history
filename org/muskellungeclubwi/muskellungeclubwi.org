@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93486873-LROR
+Domain Name:MUSKELLUNGECLUBWI.ORG
+Created On:28-Dec-2002 20:54:09 UTC
+Last Updated On:26-Nov-2010 05:41:19 UTC
+Expiration Date:28-Dec-2011 20:54:09 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-548904-4
+Registrant Name:Buy a domain
+Registrant Organization:chinachanel
+Registrant Street1:xiao meng china channel
+Registrant Street2:xiao meng china channel
+Registrant Street3:
+Registrant City:xiao meng
+Registrant State/Province:FJ
+Registrant Postal Code:361004
+Registrant Country:CN
+Registrant Phone:+86.5925391800
+Registrant Phone Ext.:1111
+Registrant FAX:+86.5925391808
+Registrant FAX Ext.:
+Registrant Email:root@onlinenic.com
+Admin ID:ONLC-548904-1
+Admin Name:Buy a domain
+Admin Organization:chinachanel
+Admin Street1:xiao meng china channel
+Admin Street2:xiao meng china channel
+Admin Street3:
+Admin City:xiao meng
+Admin State/Province:FJ
+Admin Postal Code:361004
+Admin Country:CN
+Admin Phone:+86.5925391800
+Admin Phone Ext.:1111
+Admin FAX:+86.5925391808
+Admin FAX Ext.:
+Admin Email:root@onlinenic.com
+Tech ID:ONLC-548904-2
+Tech Name:Domain Manager
+Tech Organization:iPowerWeb, Inc
+Tech Street1:2800 28th Street Suite 205
+Tech Street2:
+Tech Street3:
+Tech City:Santa Monica
+Tech State/Province:CA
+Tech Postal Code:90405
+Tech Country:US
+Tech Phone:+3.03141608
+Tech Phone Ext.:1111
+Tech FAX:+3.03141610
+Tech FAX Ext.:
+Tech Email:hostmaster@ipowerweb.com
+Name Server:NS1.IPOWERWEB.NET
+Name Server:NS1.IPOWERDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

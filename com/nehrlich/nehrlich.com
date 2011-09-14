@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: NEHRLICH.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS63.DOMAINCONTROL.COM
-   Name Server: NS64.DOMAINCONTROL.COM
+   Name Server: DNS1.TEXTDRIVE.COM
+   Name Server: DNS2.TEXTDRIVE.COM
+   Name Server: DNS3.TEXTDRIVE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 22-feb-2011
-   Expiration Date: 22-feb-2016
+   Updated Date: 02-mar-2008
+   Creation Date: 03-mar-2000
+   Expiration Date: 03-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:54:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Team Freedom Chicago
+   Eric Nehrlich
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: NEHRLICH.COM
 
    Domain servers in listed order:
-      NS63.DOMAINCONTROL.COM
-      NS64.DOMAINCONTROL.COM
+      DNS3.TEXTDRIVE.COM
+      DNS1.TEXTDRIVE.COM
+      DNS2.TEXTDRIVE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFREEDOMEVENTS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NEHRLICH.COM

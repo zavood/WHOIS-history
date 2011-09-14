@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: MYMYHOUSE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS63.DOMAINCONTROL.COM
-   Name Server: NS64.DOMAINCONTROL.COM
+   Name Server: NS23.DOMAINCONTROL.COM
+   Name Server: NS24.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 22-feb-2011
-   Expiration Date: 22-feb-2016
+   Updated Date: 18-mar-2011
+   Creation Date: 18-mar-2010
+   Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:53:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:54:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Team Freedom Chicago
+   104house cc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: MYMYHOUSE.COM
 
    Domain servers in listed order:
-      NS63.DOMAINCONTROL.COM
-      NS64.DOMAINCONTROL.COM
+      NS23.DOMAINCONTROL.COM
+      NS24.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFREEDOMEVENTS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=MYMYHOUSE.COM

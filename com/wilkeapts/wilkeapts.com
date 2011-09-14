@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: WILKEAPTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS63.DOMAINCONTROL.COM
-   Name Server: NS64.DOMAINCONTROL.COM
+   Name Server: WSC1.JOMAX.NET
+   Name Server: WSC2.JOMAX.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-feb-2011
-   Creation Date: 22-feb-2011
-   Expiration Date: 22-feb-2016
+   Updated Date: 06-apr-2011
+   Creation Date: 09-dec-2000
+   Expiration Date: 09-dec-2015
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:53:57 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Team Freedom Chicago
+   Wilke Apartments
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TEAMFREEDOMEVENTS.COM
+   Domain Name: WILKEAPTS.COM
 
    Domain servers in listed order:
-      NS63.DOMAINCONTROL.COM
-      NS64.DOMAINCONTROL.COM
+      WSC1.JOMAX.NET
+      WSC2.JOMAX.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TEAMFREEDOMEVENTS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WILKEAPTS.COM

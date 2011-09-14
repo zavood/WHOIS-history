@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105477292-LROR
+Domain Name:NAPFAFOUNDATION.ORG
+Created On:23-Dec-2004 15:41:57 UTC
+Last Updated On:02-Dec-2009 20:28:06 UTC
+Expiration Date:23-Dec-2011 15:41:57 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31082901
+Registrant Name:Ellen Turf
+Registrant Organization:NAPFA
+Registrant Street1:3250, N Arlington Heights Road
+Registrant Street2:Suite 109
+Registrant Street3:
+Registrant City:Arlington Heights
+Registrant State/Province:Illinois
+Registrant Postal Code:60004
+Registrant Country:US
+Registrant Phone:+1.8474835400
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:turfe@napfa.org
+Admin ID:CR31082903
+Admin Name:Ellen Turf
+Admin Organization:NAPFA
+Admin Street1:3250, N Arlington Heights Road
+Admin Street2:Suite 109
+Admin Street3:
+Admin City:Arlington Heights
+Admin State/Province:Illinois
+Admin Postal Code:60004
+Admin Country:US
+Admin Phone:+1.8474835400
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:turfe@napfa.org
+Tech ID:CR31082902
+Tech Name:Ellen Turf
+Tech Organization:NAPFA
+Tech Street1:3250, N Arlington Heights Road
+Tech Street2:Suite 109
+Tech Street3:
+Tech City:Arlington Heights
+Tech State/Province:Illinois
+Tech Postal Code:60004
+Tech Country:US
+Tech Phone:+1.8474835400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:turfe@napfa.org
+Name Server:NSA.CQLCORP.COM
+Name Server:NSB.CQLCORP.COM
+Name Server:NSC.CQLCORP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
