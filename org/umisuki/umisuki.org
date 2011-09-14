@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103879239-LROR
+Domain Name:UMISUKI.ORG
+Created On:23-Jan-2004 08:23:08 UTC
+Last Updated On:16-Jan-2011 06:31:57 UTC
+Expiration Date:23-Jan-2012 08:23:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:C64ABB47AC58CE1E
+Registrant Name:Yuuki Yoshizawa
+Registrant Organization:VALUE-DOMAIN.COM
+Registrant Street1:Chuo-ku Bakurou-cho 4-7-5
+Registrant Street2:Honmachi TS Building 6F
+Registrant Street3:
+Registrant City:Osaka-shi
+Registrant State/Province:OSAKA-FU
+Registrant Postal Code:541-0059
+Registrant Country:JP
+Registrant Phone:+81.662416585
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:umisukiorg@yahoo.co.jp
+Admin ID:C64ABB47AC58CE1E
+Admin Name:Yuuki Yoshizawa
+Admin Organization:VALUE-DOMAIN.COM
+Admin Street1:Chuo-ku Bakurou-cho 4-7-5
+Admin Street2:Honmachi TS Building 6F
+Admin Street3:
+Admin City:Osaka-shi
+Admin State/Province:OSAKA-FU
+Admin Postal Code:541-0059
+Admin Country:JP
+Admin Phone:+81.662416585
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:umisukiorg@yahoo.co.jp
+Tech ID:5E2DD12C40B1FF20
+Tech Name:Yuuki Yoshizawa
+Tech Organization:VALUE-DOMAIN.COM
+Tech Street1:Chuo-ku Bakurou-cho 4-7-5
+Tech Street2:Honmachi TS Building 6F
+Tech Street3:
+Tech City:Osaka-shi
+Tech State/Province:OSAKA-FU
+Tech Postal Code:541-0059
+Tech Country:JP
+Tech Phone:+81.662416585
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-contact@digi-rock.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

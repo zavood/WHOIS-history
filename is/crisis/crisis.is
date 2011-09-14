@@ -1,0 +1,39 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       crisis.is
+descr:        Konstantin L Smuk
+descr:        Leningradskiy av., home 17, app. 32
+descr:        RU-629730 Nadym
+admin-c:      KLS2-IS
+tech-c:       KLS2-IS
+zone-c:       SS241-IS
+billing-c:    KLS2-IS
+nserver:      ns1.sitelutions.com
+nserver:      ns2.sitelutions.com
+created:      December 23 2008
+expires:      December 23 2011
+source:       ISNIC
+
+person:       Konstantin L Smuk
+address:      Leningradskiy av., home 17, app.32
+address:      RU-629730 Nadym
+phone:        +7 922 4592477
+e-mail:       nadym.info@gmail.com
+nic-hdl:      KLS2-IS
+created:      December 23 2008
+source:       ISNIC
+
+role:         Sitelutions Support
+address:      4 Bridge Plaza Drive
+address:      Englishtown, NJ 07726
+address:      US
+phone:        +201 645 0001
+e-mail:       domains@inforelay.com
+nic-hdl:      SS241-IS
+created:      May  1 2005
+source:       ISNIC
+
+

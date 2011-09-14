@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: COM1203D-NORID
+Domain Name................: commidt.no
+Domain Holder Handle.......: CMKA4O-NORID
+Registrar Handle...........: REG462-NORID
+Legal-c Handle.............: RH4941P-NORID
+Tech-c Handle..............: JS5621P-NORID
+Name Server Handle.........: NSUN28H-NORID
+Name Server Handle.........: NSUN39H-NORID
+
+Additional information:
+Created:         2001-02-28
+Last updated:    2011-03-02
+
+NORID Handle...............: CMKA4O-NORID
+Type.......................: organization
+Name.......................: COMMIDT MIDT-NORGE KOMMUNIKASJON AS
+Id Type....................: organization_number
+Id Number..................: 976244915
+Registrar Handle...........: REG462-NORID
+Post Address...............: Kirkegata 57
+Postal Code................: NO-7600
+Postal Area................: Levanger
+Country....................: NO
+Phone Number...............: +47.74020000
+Fax Number.................: +47.74020001
+Email Address..............: rhusby@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

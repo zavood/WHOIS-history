@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: CITISERVI.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: DNS0.MTGSY.COM
+   Name Server: DNS1.MTGSY.CO.UK
+   Name Server: DNS2.MTGSY.CO.UK
+   Name Server: DNS3.MTGSY.COM
+   Name Server: DNS4.MTGSY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jan-2007
-   Creation Date: 22-may-2005
-   Expiration Date: 22-may-2012
+   Updated Date: 23-aug-2011
+   Creation Date: 22-aug-2007
+   Expiration Date: 22-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:18:32 UTC &lt;&lt;&lt;
 
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Triad Digital Media
+   Plataforma de GEstion Publicitaria Citiservi SL
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: CITISERVI.COM
 
    Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+      DNS0.MTGSY.COM
+      DNS1.MTGSY.CO.UK
+      DNS2.MTGSY.CO.UK
+      DNS3.MTGSY.COM
+      DNS4.MTGSY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TRIADDIGITAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CITISERVI.COM

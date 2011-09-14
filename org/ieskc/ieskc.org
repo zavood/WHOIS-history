@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D37450638-LROR
+Domain Name:IESKC.ORG
+Created On:07-Oct-2000 17:13:15 UTC
+Last Updated On:03-Oct-2007 18:09:15 UTC
+Expiration Date:07-Oct-2011 17:13:15 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C11583949-RCOM
+Registrant Name:Mark de la Fuente
+Registrant Organization:IES Heart of America
+Registrant Street1:12616 West 71st Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shawnee
+Registrant State/Province:KS
+Registrant Postal Code:66216
+Registrant Country:US
+Registrant Phone:+1.9132689206
+Registrant Phone Ext.:
+Registrant FAX:+1.9132684468
+Registrant FAX Ext.:
+Registrant Email:dela@yarnellassociates.com
+Admin ID:C27042022-RCOM
+Admin Name:Web Master
+Admin Organization:IES Heart of America
+Admin Street1:8325 Lenexa Drive
+Admin Street2:
+Admin Street3:
+Admin City:Lenexa
+Admin State/Province:KS
+Admin Postal Code:66214
+Admin Country:US
+Admin Phone:+1.9133075300
+Admin Phone Ext.:
+Admin FAX:+1.9133075400
+Admin FAX Ext.:
+Admin Email:administrator@hei-kc.com
+Tech ID:C27042024-RCOM
+Tech Name:Web Master
+Tech Organization:IES Heart of America
+Tech Street1:8325 Lenexa Drive
+Tech Street2:
+Tech Street3:
+Tech City:Lenexa
+Tech State/Province:KS
+Tech Postal Code:66214
+Tech Country:US
+Tech Phone:+1.9133075300
+Tech Phone Ext.:
+Tech FAX:+1.9133075400
+Tech FAX Ext.:
+Tech Email:administrator@hei-kc.com
+Name Server:DNS178.A.REGISTER.COM
+Name Server:DNS126.B.REGISTER.COM
+Name Server:DNS014.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

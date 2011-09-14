@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: ZUUKE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1057.HOSTGATOR.COM
+   Name Server: NS1058.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jan-2007
-   Creation Date: 22-may-2005
-   Expiration Date: 22-may-2012
+   Updated Date: 28-jan-2011
+   Creation Date: 17-oct-2010
+   Expiration Date: 17-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:18:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:20:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Triad Digital Media
+   David Bird
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: ZUUKE.COM
 
    Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+      NS1057.HOSTGATOR.COM
+      NS1058.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TRIADDIGITAL.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ZUUKE.COM

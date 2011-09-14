@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRIADDIGITAL.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Domain Name: CLUBEBRASILEIRO.COM
+   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
+   Whois Server: whois.dattatec.com
+   Referral URL: http://www.dattatec.com
+   Name Server: NS21.DATTATEC.COM
+   Name Server: NS22.DATTATEC.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-jan-2007
-   Creation Date: 22-may-2005
-   Expiration Date: 22-may-2012
+   Updated Date: 08-apr-2011
+   Creation Date: 11-apr-2005
+   Expiration Date: 11-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:18:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:19:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Datttatec.com - Registration Service Provided By: Dattatec.com
+Contact: +54 341 599000
+Email: dominios@dattatec.com
+Website: http://www.dattatec.com
 
+Domain name: clubebrasileiro.com
+Creation Date: 2011-04-08
+Expiration Date: 2012-04-12
 
-Registrant:
-   Triad Digital Media
+Status(es):
+   clientDeleteProhibited
+   clientTransferProhibited
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TRIADDIGITAL.COM
+Domain Name servers(es):
+   ns22.dattatec.com
+   ns21.dattatec.com
 
-   Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+All data in this whois database is provided by dattatec.com for
+information purposes only, and to assist persons in obtaining
+information about or related to a domain name registration record.
+By querying this server, you agree that you :
+ (1)-may use this data only for lawful purposes;
+ (2)-will not re-use data for any kind of support for the transmission
+     of unsolicited advertising via e-mail, telephone, or facsimile;
+ (3)-will not reproduce and/or store any part of the data without prior
+     permission of the copyright holders;
+ (4)-are aware of and agree to the fact that all access to the server is
+     under constant monitoring and will be logged for the purpose of
+     prosecution in case of missuse!
 
+ Dattatec.com reserves the right to modify these terms at any time.
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TRIADDIGITAL.COM

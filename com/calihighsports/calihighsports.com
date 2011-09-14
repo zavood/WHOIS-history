@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: CALIHIGHSPORTS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1.ZEROLAG.COM
+   Name Server: NS2.ZEROLAG.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 28-jan-2007
-   Creation Date: 22-may-2005
-   Expiration Date: 22-may-2012
+   Updated Date: 08-sep-2011
+   Creation Date: 07-sep-2009
+   Expiration Date: 07-sep-2017
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:18:32 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Triad Digital Media
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: TRIADDIGITAL.COM
+   Domain Name: CALIHIGHSPORTS.COM
 
    Domain servers in listed order:
-      UDNS1.ULTRADNS.NET
-      UDNS2.ULTRADNS.NET
+      NS1.ZEROLAG.COM
+      NS2.ZEROLAG.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TRIADDIGITAL.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=CALIHIGHSPORTS.COM
