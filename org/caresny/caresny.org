@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104308449-LROR
+Domain Name:CARESNY.ORG
+Created On:05-May-2004 18:31:19 UTC
+Last Updated On:10-Apr-2009 18:12:09 UTC
+Expiration Date:05-May-2018 18:31:19 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuR8pYHKwW7cT6jt
+Registrant Name:Nancy Chiarella
+Registrant Organization:CARES, Inc.
+Registrant Street1:85 Watervliet Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Albany
+Registrant State/Province:NY
+Registrant Postal Code:12206
+Registrant Country:US
+Registrant Phone:+1.5184894130
+Registrant Phone Ext.:
+Registrant FAX:+1.5184892237
+Registrant FAX Ext.:
+Registrant Email:nancyc@caresny.org
+Admin ID:tu7RMz1Rqs5Zb832
+Admin Name:Nancy Chiarella
+Admin Organization:CARES, Inc.
+Admin Street1:85 Watervliet Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Albany
+Admin State/Province:NY
+Admin Postal Code:12206
+Admin Country:US
+Admin Phone:+1.5184894130
+Admin Phone Ext.:
+Admin FAX:+1.5184892237
+Admin FAX Ext.:
+Admin Email:nancyc@caresny.org
+Tech ID:tuIotN0dbgfkq910
+Tech Name:Nancy Chiarella
+Tech Organization:CARES, Inc.
+Tech Street1:85 Watervliet Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Albany
+Tech State/Province:NY
+Tech Postal Code:12206
+Tech Country:US
+Tech Phone:+1.5184894130
+Tech Phone Ext.:
+Tech FAX:+1.5184892237
+Tech FAX Ext.:
+Tech Email:nancyc@caresny.org
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,43 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       automoto.ee
+registrant:   CID:ZONE:170298
+admin-c:      CID:ZONE:170299
+nsset:        NSSID:ZONE:33787
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 03:57:42
+changed:      31.12.2010 10:10:46
+expire:       31.12.2011
+
+contact:      CID:ZONE:170298
+org:          Oksjoni Korralduse O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      31.12.2010 10:10:20
+
+contact:      CID:ZONE:170299
+name:         Tiirusson Sven
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      31.12.2010 10:10:20
+changed:      28.02.2011 14:50:02
+
+nsset:        NSSID:ZONE:33787
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:170300
+registrar:    zone
+created:      31.12.2010 10:10:20
+changed:      16.02.2011 13:35:02
+
+contact:      CID:ZONE:170300
+name:         Tiirusson Sven
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      31.12.2010 10:10:20
+changed:      28.02.2011 14:50:04
+
+
