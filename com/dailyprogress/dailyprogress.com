@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UCOZ.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: NS1.UCOZ.NET
-   Name Server: NS2.UCOZ.NET
+   Domain Name: DAILYPROGRESS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.MEDIAGENERAL.NET
+   Name Server: NS2.MEDIAGENERAL.NET
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 12-aug-2005
-   Expiration Date: 12-aug-2012
+   Updated Date: 18-nov-2010
+   Creation Date: 04-dec-1996
+   Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,39 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain name:             UCOZ.COM
-Name Server:             ns1.ucoz.net
-Name Server:             ns2.ucoz.net
-Creation Date:           2005.08.13
-Expiration Date:         2012.08.13
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Status:                  DELEGATED
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant ID:           VPAWQDC-RU
-Registrant Name:         Compubyte Limited
-Registrant Organization: Compubyte Limited
-Registrant Street1:      Trident Chambers, P.O. Box 146
-Registrant City:         Road Town
-Registrant Postal Code:  VG1110
-Registrant Country:      VG
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative, Technical Contact
-Contact ID:              VPAWQDC-RU
-Contact Name:            Compubyte Limited
-Contact Organization:    Compubyte Limited
-Contact Street1:         Trident Chambers, P.O. Box 146
-Contact City:            Road Town
-Contact Postal Code:     VG1110
-Contact Country:         VG
-Contact Phone:           +442033180739
-Contact E-mail:          admin@compubyte.vg
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.14 17:43:01 MSK/MSD
-
+Whois Query: dailyprogress.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 09:32:48 EDT 2011
+Reason Code: IE

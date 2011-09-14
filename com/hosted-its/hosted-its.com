@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UCOZ.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: NS1.UCOZ.NET
-   Name Server: NS2.UCOZ.NET
+   Domain Name: HOSTED-ITS.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.HOSTED-ITS.COM
+   Name Server: NS2.HOSTED-ITS.COM
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 12-aug-2005
-   Expiration Date: 12-aug-2012
+   Updated Date: 23-nov-2009
+   Creation Date: 23-nov-2009
+   Expiration Date: 23-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,39 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+hosted-its.com
 
-Domain name:             UCOZ.COM
-Name Server:             ns1.ucoz.net
-Name Server:             ns2.ucoz.net
-Creation Date:           2005.08.13
-Expiration Date:         2012.08.13
+Registrant:
+         Joel Althoff  (joel@infrastructuretech.net)
+        Infrastructure Technology Solutions
+        1000 1st Ave E
+        Cascade, IA  52033
+        US
+        563 852-3231
 
-Status:                  DELEGATED
 
-Registrant ID:           VPAWQDC-RU
-Registrant Name:         Compubyte Limited
-Registrant Organization: Compubyte Limited
-Registrant Street1:      Trident Chambers, P.O. Box 146
-Registrant City:         Road Town
-Registrant Postal Code:  VG1110
-Registrant Country:      VG
+Domain Name: hosted-its.com
 
-Administrative, Technical Contact
-Contact ID:              VPAWQDC-RU
-Contact Name:            Compubyte Limited
-Contact Organization:    Compubyte Limited
-Contact Street1:         Trident Chambers, P.O. Box 146
-Contact City:            Road Town
-Contact Postal Code:     VG1110
-Contact Country:         VG
-Contact Phone:           +442033180739
-Contact E-mail:          admin@compubyte.vg
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.14 17:43:01 MSK/MSD
+
+Administrative, Technical, Billing Contact:
+         Joel Althoff  (joel@infrastructuretech.net)
+        Infrastructure Technology Solutions
+        1000 1st Ave E
+        Cascade, IA  52033
+        US
+        563 852-3231
+
+
+
+
+
+   Record created on Nov 23 2009.
+   Record expires on Nov 23 2011.
+Domain servers:
+        ns1.hosted-its.com
+        ns2.hosted-its.com
+
+
+
+Domain Service Provider:
+   Infrastructure Technology Solutions
+
 

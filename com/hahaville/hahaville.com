@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UCOZ.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: NS1.UCOZ.NET
-   Name Server: NS2.UCOZ.NET
+   Domain Name: HAHAVILLE.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.LEAF.ARVIXE.COM
+   Name Server: NS2.LEAF.ARVIXE.COM
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 12-aug-2005
-   Expiration Date: 12-aug-2012
+   Updated Date: 06-aug-2011
+   Creation Date: 06-aug-2009
+   Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,39 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+=-=-=-=
+Visit AboutUs.org for more information about hahaville.com
+&lt;a href=&quot;http://www.aboutus.org/hahaville.com&quot;&gt;AboutUs: hahaville.com&lt;/a&gt;
 
-Domain name:             UCOZ.COM
-Name Server:             ns1.ucoz.net
-Name Server:             ns2.ucoz.net
-Creation Date:           2005.08.13
-Expiration Date:         2012.08.13
 
-Status:                  DELEGATED
+Domain name: hahaville.com
 
-Registrant ID:           VPAWQDC-RU
-Registrant Name:         Compubyte Limited
-Registrant Organization: Compubyte Limited
-Registrant Street1:      Trident Chambers, P.O. Box 146
-Registrant City:         Road Town
-Registrant Postal Code:  VG1110
-Registrant Country:      VG
+Registrant Contact:
+   By Arvixe
+   Private Registration ()
 
-Administrative, Technical Contact
-Contact ID:              VPAWQDC-RU
-Contact Name:            Compubyte Limited
-Contact Organization:    Compubyte Limited
-Contact Street1:         Trident Chambers, P.O. Box 146
-Contact City:            Road Town
-Contact Postal Code:     VG1110
-Contact Country:         VG
-Contact Phone:           +442033180739
-Contact E-mail:          admin@compubyte.vg
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+Administrative Contact:
+   By Arvixe
+   Private Registration (hahaville.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
 
-Last updated on 2011.09.14 17:43:01 MSK/MSD
+Technical Contact:
+   By Arvixe
+   Private Registration (hahaville.com_domains@arvixe.com)
+   +1.8882784939
+   Fax:
+   PO BOX 14738
+   San Luis Obispo, CA 93406
+   US
 
+Status: Locked
+
+Name Servers:
+   ns1.leaf.arvixe.com
+   ns2.leaf.arvixe.com
+
+Creation date: 06 Aug 2009 11:47:09
+Expiration date: 06 Aug 2012 11:47:09
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UCOZ.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: NS1.UCOZ.NET
-   Name Server: NS2.UCOZ.NET
+   Domain Name: GREENTEETH.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS67.DOMAINCONTROL.COM
+   Name Server: NS68.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 12-aug-2005
-   Expiration Date: 12-aug-2012
+   Status: clientUpdateProhibited
+   Updated Date: 10-jan-2011
+   Creation Date: 10-apr-2003
+   Expiration Date: 10-apr-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:42:26 UTC &lt;&lt;&lt;
 
@@ -51,39 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain name:             UCOZ.COM
-Name Server:             ns1.ucoz.net
-Name Server:             ns2.ucoz.net
-Creation Date:           2005.08.13
-Expiration Date:         2012.08.13
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Status:                  DELEGATED
 
-Registrant ID:           VPAWQDC-RU
-Registrant Name:         Compubyte Limited
-Registrant Organization: Compubyte Limited
-Registrant Street1:      Trident Chambers, P.O. Box 146
-Registrant City:         Road Town
-Registrant Postal Code:  VG1110
-Registrant Country:      VG
+Registrant:
+   Treeman Supply
 
-Administrative, Technical Contact
-Contact ID:              VPAWQDC-RU
-Contact Name:            Compubyte Limited
-Contact Organization:    Compubyte Limited
-Contact Street1:         Trident Chambers, P.O. Box 146
-Contact City:            Road Town
-Contact Postal Code:     VG1110
-Contact Country:         VG
-Contact Phone:           +442033180739
-Contact E-mail:          admin@compubyte.vg
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: GREENTEETH.COM
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+   Domain servers in listed order:
+      NS67.DOMAINCONTROL.COM
+      NS68.DOMAINCONTROL.COM
 
-Last updated on 2011.09.14 17:43:01 MSK/MSD
 
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GREENTEETH.COM
