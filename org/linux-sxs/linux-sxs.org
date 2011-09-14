@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83671357-LROR
+Domain Name:LINUX-SXS.ORG
+Created On:15-Feb-2002 15:10:48 UTC
+Last Updated On:31-Jan-2011 15:22:10 UTC
+Expiration Date:15-Feb-2013 15:10:48 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-3BXTBXK6DM5C
+Registrant Name:Douglas Hunley
+Registrant Organization:Linux StepByStep
+Registrant Street1:5022 Gilwood Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hilliard
+Registrant State/Province:OH
+Registrant Postal Code:43026
+Registrant Country:US
+Registrant Phone:+1.6143165079
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:doug@hunley.homeip.net
+Admin ID:DOT-MBF4IYLCR6A8
+Admin Name:Douglas Hunley
+Admin Organization:Linux StepByStep
+Admin Street1:5022 Gilwood Dr
+Admin Street2:
+Admin Street3:
+Admin City:Hilliard
+Admin State/Province:OH
+Admin Postal Code:43026
+Admin Country:US
+Admin Phone:+1.6143165079
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:doug@hunley.homeip.net
+Tech ID:DOT-BT3EP487Y8NQ
+Tech Name:Douglas Hunley
+Tech Organization:Linux StepByStep
+Tech Street1:5022 Gilwood Dr
+Tech Street2:
+Tech Street3:
+Tech City:Hilliard
+Tech State/Province:OH
+Tech Postal Code:43026
+Tech Country:US
+Tech Phone:+1.6143165079
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:doug@hunley.homeip.net
+Name Server:A.NS.CELESTIAL.COM
+Name Server:B.NS.CELESTIAL.COM
+Name Server:C.NS.CELESTIAL.COM
+Name Server:D.NS.CELESTIAL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

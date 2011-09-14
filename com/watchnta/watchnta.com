@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEVULEHUP.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.LEVULEHUP.COM
-   Name Server: NS2.LEVULEHUP.COM
-   Status: clientDeleteProhibited
+   Domain Name: WATCHNTA.COM
+   Registrar: EASYSPACE LTD.
+   Whois Server: whois.easyspace.com
+   Referral URL: http://www.easyspace.com
+   Name Server: NS629.DIZINC.COM
+   Name Server: NS630.DIZINC.COM
    Status: clientTransferProhibited
-   Updated Date: 26-jul-2011
-   Creation Date: 15-jul-2011
-   Expiration Date: 15-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 06-aug-2011
+   Creation Date: 02-oct-2009
+   Expiration Date: 02-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:57:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:56:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
-
-Domain name: levulehup.com
-
-Registrant Contact:
-   Bozena Marusic
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Administrative Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Technical Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Billing Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.levulehup.com
-ns2.levulehup.com
-
-Created: 2011-07-15
-Expires: 2012-07-15
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

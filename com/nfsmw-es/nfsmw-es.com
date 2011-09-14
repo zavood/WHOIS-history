@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEVULEHUP.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.LEVULEHUP.COM
-   Name Server: NS2.LEVULEHUP.COM
-   Status: clientDeleteProhibited
+   Domain Name: NFSMW-ES.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 26-jul-2011
-   Creation Date: 15-jul-2011
-   Expiration Date: 15-jul-2012
+   Updated Date: 06-jul-2011
+   Creation Date: 21-jan-2006
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:57:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:56:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,7 +54,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about nfsmw-es.com
+&lt;a href=&quot;http://www.aboutus.org/nfsmw-es.com&quot;&gt;AboutUs: nfsmw-es.com&lt;/a&gt;
 
+
+Domain name: nfsmw-es.com
+
+Administrative Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (blgvwmjsw@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O nfsmw-es.com
+   Bellevue, WA 98007
+   US
+
+Technical Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (blgvwmjsw@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O nfsmw-es.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O nfsmw-es.com
+   Bellevue, WA 98007
+   US
+
+Status: Locked
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 21 Jan 2006 17:00:00
+Expiration date: 21 Jan 2012 17:00:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -63,51 +117,10 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
+mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+consent from us.
 
-Domain name: levulehup.com
-
-Registrant Contact:
-   Bozena Marusic
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Administrative Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Technical Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Billing Contact:
-   Bozena Marusic shove@mail13.com
-   +38520432524 fax: +38520432524
-   Frana Supila 14
-   Dubrovnik Southern Dalmatia 20000
-   HR
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.levulehup.com
-ns2.levulehup.com
-
-Created: 2011-07-15
-Expires: 2012-07-15
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
