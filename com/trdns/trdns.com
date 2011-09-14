@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PFSWEB.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-feb-2007
-   Creation Date: 18-dec-1998
-   Expiration Date: 18-dec-2012
+   Domain Name: TRDNS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS11.TRDNS.COM
+   Name Server: NS12.TRDNS.COM
+   Status: ok
+   Updated Date: 29-jul-2011
+   Creation Date: 29-jan-2002
+   Expiration Date: 29-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:39:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:38:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant:
+	 Yagiz, Cuneyt dns@trdns.com +90.0000000000
+	 Hosting Hizmetleri
+	 TR
+	 TR,TR,TR 00000
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: pfsweb.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:29:45 EDT 2011
-Reason Code: IE
+Domain Name:trdns.com
+Record last updated at 2011-07-29 07:17:04
+Record created on 2002/1/29
+Record expired on 2013/1/29
+
+
+Domain servers in listed order:
+	 ns11.trdns.com 	 ns12.trdns.com
+
+Administrator:
+	 name: Hosting Hizmetleri
+ mail: dns@trdns.com tel: +90.0000000000
+	 org: Hosting Hizmetleri
+
+address: TR
+	 city: TR
+,province: TR
+,country: TR
+ postcode: 00000
+
+Technical Contactor:
+	 name: Hosting Hizmetleri
+ mail: dns@trdns.com tel: +90.0000000000
+	 org: Hosting Hizmetleri
+
+address: TR
+	 city: TR
+,province: TR
+,country: TR
+ postcode: 00000
+
+Billing Contactor:
+	 name: Hosting Hizmetleri
+ mail: dns@trdns.com tel: +90.0000000000
+	 org: Hosting Hizmetleri
+
+address: TR
+	 city: TR
+,province: TR
+,country: TR
+ postcode: 00000
+
+
+Registration Service Provider:
+	name: Niobe Telekomunikasyon LTD. STI.
+	tel: +90.2324441566
+ 	fax: +90.2324594454
+ 	web:www.niobeweb.net

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PFSWEB.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 16-feb-2007
-   Creation Date: 18-dec-1998
-   Expiration Date: 18-dec-2012
+   Domain Name: POKER-HEROES.COM
+   Registrar: HTTP.NET INTERNET GMBH
+   Whois Server: whois.http.net
+   Referral URL: http://http.net
+   Name Server: NS5.NAMESERVERSERVICE.DE
+   Name Server: NS6.NAMESERVERSERVICE.DE
+   Status: ok
+   Updated Date: 28-jul-2011
+   Creation Date: 27-jul-2010
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:39:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:37:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in the http.net WHOIS database is provided by
+http.net Internet GmbH for informational purposes only, to assist you in
+obtaining information. About or related to a domain name registration
+record. http.net provides this information &quot;as is&quot;, and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will only use this data for lawful purposes. That,
+under no circumstances will you use this data to:
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
+commercial advertising or solicitations via electronic mail, also known as (SPAM).
+2. enable high volume,
+automated, electronic processes that apply to BulkRegister (or its systems).
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The compilation, repackaging, dissemination or any other use of this data
+is expressly prohibited without the prior written agreement of http.net.
+http.net  reserves the right to terminate your access to the http.net WHOIS
+database in its sole discretion. Including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
 
-http://www.networksolutions.com/whois/index.jhtml
+http.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Entry found for &quot;poker-heroes.com&quot;.
 
-Whois Query: pfsweb.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:29:45 EDT 2011
-Reason Code: IE
+domain:        poker-heroes.com
+
+[Registrant]
+Mudrich, Marcel
+Romy-Schneider-Str.7
+13599 Berlin
+DE
+
+[Administrative contact]
+Mudrich, Marcel
+Romy-Schneider-Str.7
+13599 Berlin
+DE
++493033503603
++493033503603 (fax)
+mudrich@gmx.de
+
+[Technical contact]
+Mudrich, Marcel
+Romy-Schneider-Str.7
+13599 Berlin
+DE
++493033503603
++493033503603 (fax)
+mudrich@gmx.de
+
+Registrar of Record:  http.net Internet GmbH
+Record last updated:  2011-07-28
+Record expires on:    2012-07-27
+Record created on:    2010-07-27
+
+nameserver: ns5.nameserverservice.de
+nameserver: ns6.nameserverservice.de
