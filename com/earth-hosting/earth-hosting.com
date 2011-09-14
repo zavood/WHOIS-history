@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELITESKILLS.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
+   Domain Name: EARTH-HOSTING.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS.EARTH-HOSTING.COM
+   Name Server: NS2.EARTH-HOSTING.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 26-may-2003
-   Expiration Date: 26-may-2012
+   Updated Date: 12-oct-2010
+   Creation Date: 11-oct-2001
+   Expiration Date: 11-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:24:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,27 +74,37 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   James Chris Ruska
-   na
-   North Richland Hills, TX  na
-   USA
+   Allan Hall
+   Po Box 8036
+   New PLymouth Taranaki 4601
+   New PLymouth, Taranaki  4601
+   NZ
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ELITESKILLS.COM
-      Created on: 26-MAY-03
-      Expires on: 26-MAY-12
-      Last Updated on: 06-MAY-11
+   Registrar: NAMESDIRECT
+   Domain Name: EARTH-HOSTING.COM
+      Created on: 11-OCT-01
+      Expires on: 11-OCT-11
+      Last Updated on: 21-SEP-10
 
-   Administrative, Technical Contact:
-      Chris Ruska, James  fromdns1@jimmyr.com
-      na
-      North Richland Hills, TX  na
-      USA
-      +008.177880704
+   Administrative Contact:
+      Hall, Allan  webmaster@earthfirst.co.nz
+      Po Box 8036
+      New PLymouth Taranaki 4601
+      New PLymouth, Taranaki  4601
+      NZ
+      06 7537477
+
+   Technical Contact:
+      Support, NamesDirect.com  support@namesdirect.com
+      Visit us at
+      www.NamesDirect.com  -
+      www.NamesDirect.com,    -
+      US
+      604-434-6517
 
 
    Domain servers in listed order:
-      NS1.GEODNS.NET
-      NS2.GEODNS.NET
+      ns.earth-hosting.com
+      ns2.earth-hosting.com
 
 End of Whois Information

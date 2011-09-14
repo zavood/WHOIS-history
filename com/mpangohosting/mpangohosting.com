@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELITESKILLS.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: MPANGOHOSTING.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS4.MPANGOHOSTING.COM
+   Name Server: NS5.MPANGOHOSTING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 26-may-2003
-   Expiration Date: 26-may-2012
+   Updated Date: 07-sep-2011
+   Creation Date: 22-sep-2006
+   Expiration Date: 22-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:24:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,48 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
-Registrant:
-   James Chris Ruska
-   na
-   North Richland Hills, TX  na
-   USA
-
-   Registrar: DOTREGISTRAR
-   Domain Name: ELITESKILLS.COM
-      Created on: 26-MAY-03
-      Expires on: 26-MAY-12
-      Last Updated on: 06-MAY-11
-
-   Administrative, Technical Contact:
-      Chris Ruska, James  fromdns1@jimmyr.com
-      na
-      North Richland Hills, TX  na
-      USA
-      +008.177880704
+=-=-=-=
+Visit AboutUs.org for more information about mpangohosting.com
+&lt;a href=&quot;http://www.aboutus.org/mpangohosting.com&quot;&gt;AboutUs: mpangohosting.com&lt;/a&gt;
 
 
-   Domain servers in listed order:
-      NS1.GEODNS.NET
-      NS2.GEODNS.NET
+Domain name: mpangohosting.com
 
-End of Whois Information
+Administrative Contact:
+   mPango Hosting
+   Ken Tew (techsupport@mpangohosting.com)
+   +1.9372815931
+   Fax:
+   33 W 1st St
+   STE B100
+   Dayton, OH 45402
+   US
+
+Technical Contact:
+   mPango Hosting
+   Ken Tew (techsupport@mpangohosting.com)
+   +1.9372815931
+   Fax:
+   33 W 1st St
+   STE B100
+   Dayton, OH 45402
+   US
+
+Registrant Contact:
+   mPango Hosting
+   Ken Tew ()
+
+   Fax:
+   33 W 1st St
+   STE B100
+   Dayton, OH 45402
+   US
+
+Status: Locked
+
+Name Servers:
+   ns4.mpangohosting.com
+   ns5.mpangohosting.com
+
+Creation date: 22 Sep 2006 23:38:24
+Expiration date: 22 Sep 2012 23:38:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

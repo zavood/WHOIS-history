@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELITESKILLS.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
-   Status: clientDeleteProhibited
+   Domain Name: BLACKWORLDMUSIC.COM
+   Registrar: NORDNET
+   Whois Server: whois.nordnet.net
+   Referral URL: http://www.nordnet.net
+   Name Server: NS2.DOMICILE.FR
+   Name Server: NS3.DOMICILE.FR
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 26-may-2003
-   Expiration Date: 26-may-2012
+   Updated Date: 06-aug-2011
+   Creation Date: 05-aug-1999
+   Expiration Date: 05-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:24:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,48 +51,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Serveur Whois version 4.1
+**************************************************
+* Base de Donnees des domaines COM, NET et ORG   *
+* enregistres par NORDNET.                       *
+* Ces informations sont affichees par le serveur *
+* Whois de NORDNET, le Registrar du              *
+* Groupe FRANCE-TELECOM                          *
+* Elles ne peuvent etre utilisees sans l accord  *
+* prealable de NORDNET.                          *
+*                                                *
+* Database of registration for COM, NET and      *
+* ORG by NORDNET.                                *
+* This informations is from NORDNET s Whois      *
+* Server, the Registrar for the                  *
+* Group FRANCE-TELECOM.                          *
+* Use of this data is strictly prohibited with   *
+* out proper authorisation of NORDNET.           *
+**************************************************
 
 Registrant:
-   James Chris Ruska
-   na
-   North Richland Hills, TX  na
-   USA
+	  (NNR-blackw1)
+		Black World Music
+		38 Rue De Berri
+		75008 Paris
+		FR
+		Phone:
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ELITESKILLS.COM
-      Created on: 26-MAY-03
-      Expires on: 26-MAY-12
-      Last Updated on: 06-MAY-11
+        Registrar....: Nordnet
+        Web..........: http://www.nordnet.net
+        Whois........: whois.nordnet.net
 
-   Administrative, Technical Contact:
-      Chris Ruska, James  fromdns1@jimmyr.com
-      na
-      North Richland Hills, TX  na
-      USA
-      +008.177880704
+	Domain Name: blackworldmusic.com
 
 
-   Domain servers in listed order:
-      NS1.GEODNS.NET
-      NS2.GEODNS.NET
+	Administrative Contact:
+		Valminos, Daniel  (NNR-blackw0) dns-admin@domicile.fr
+		Black World Music
+		38 Rue De Berri
+		75008 Paris
+		FR
+		Phone: +33.43621200
 
-End of Whois Information
+	Technical Contact:
+		Contact Technique  (NNR-transp96) dns-master@domicile.fr
+		Transpac
+		2 Avenue Pierre Mendes France
+		75653 Paris
+		FR
+		Phone: +33.825049050	Fax: +33.557141694
+
+	Billing Contact:
+		Contact Facturation  (NNR-wanado22) invoice@domicile.fr
+		Wanadoo Service Pro
+		48 52 Rue Camille Desmoulins
+		92791 Issy Les Moulineaux
+		FR
+		Phone: +33.146126150	Fax: +33.146126190
+
+	Record last updated on 2011-Aug-05
+	Record expires on 2012-Aug-05
+	Record created on 1999-Aug-05
+
+	Domain servers in listed order:
+
+	ns2.domicile.fr
+	ns3.domicile.fr
+Deposez votre domaine sur le site http://www.nordnet.net
+
+
+Copyright Nordnet Registrar

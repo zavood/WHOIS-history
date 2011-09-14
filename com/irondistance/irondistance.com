@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELITESKILLS.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
+   Domain Name: IRONDISTANCE.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS57.1AND1.COM
+   Name Server: NS58.1AND1.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 26-may-2003
-   Expiration Date: 26-may-2012
+   Updated Date: 23-aug-2011
+   Creation Date: 22-aug-2005
+   Expiration Date: 22-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:48 UTC &lt;&lt;&lt;
 
@@ -74,27 +74,28 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   James Chris Ruska
-   na
-   North Richland Hills, TX  na
-   USA
+   Geordie McConnell
+   181 Hinton Avenue
+   ottawa, ON  k1y1a2
+   CA
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ELITESKILLS.COM
-      Created on: 26-MAY-03
-      Expires on: 26-MAY-12
-      Last Updated on: 06-MAY-11
+   Registrar: NAMESDIRECT
+   Domain Name: IRONDISTANCE.COM
+      Created on: 22-AUG-05
+      Expires on: 22-AUG-12
+      Last Updated on: 02-AUG-11
 
    Administrative, Technical Contact:
-      Chris Ruska, James  fromdns1@jimmyr.com
-      na
-      North Richland Hills, TX  na
-      USA
-      +008.177880704
+      McConnell, Geordie  geordiem@yahoo.com
+      Geordie McConnell
+      181 Hinton Avenue
+      ottawa, ON  k1y1a2
+      CA
+      613-761-1154
 
 
    Domain servers in listed order:
-      NS1.GEODNS.NET
-      NS2.GEODNS.NET
+      NS57.1AND1.COM
+      NS58.1AND1.COM
 
 End of Whois Information

@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELITESKILLS.COM
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS1.GEODNS.NET
-   Name Server: NS2.GEODNS.NET
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 26-may-2003
-   Expiration Date: 26-may-2012
+   Domain Name: DISCIPLINEDADVISOR.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAINWEBHOST.COM
+   Name Server: NS2.MYDOMAINWEBHOST.COM
+   Name Server: NS3.MYDOMAINWEBHOST.COM
+   Status: ok
+   Updated Date: 29-oct-2009
+   Creation Date: 28-oct-2009
+   Expiration Date: 28-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:24:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,27 +73,42 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   James Chris Ruska
-   na
-   North Richland Hills, TX  na
-   USA
+   c/o DISCIPLINEDADVISOR.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ELITESKILLS.COM
-      Created on: 26-MAY-03
-      Expires on: 26-MAY-12
-      Last Updated on: 06-MAY-11
+   Registrar: NAMESDIRECT
+   Domain Name: DISCIPLINEDADVISOR.COM
+      Created on: 28-OCT-09
+      Expires on: 28-OCT-11
+      Last Updated on: 29-OCT-09
 
-   Administrative, Technical Contact:
-      Chris Ruska, James  fromdns1@jimmyr.com
-      na
-      North Richland Hills, TX  na
-      USA
-      +008.177880704
+   Administrative Contact:
+      kcTGUY@PRIVACYPOST.COM
+      c/o DISCIPLINEDADVISOR.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
+   Technical Contact:
+      IMvzhZ@PRIVACYPOST.COM
+      c/o DISCIPLINEDADVISOR.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
 
    Domain servers in listed order:
-      NS1.GEODNS.NET
-      NS2.GEODNS.NET
+      NS1.MYDOMAINWEBHOST.COM
+      NS2.MYDOMAINWEBHOST.COM
+      NS3.MYDOMAINWEBHOST.COM
+
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
 End of Whois Information
