@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARTINISKATEANDSNOW.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS55.WORLDNIC.COM
-   Name Server: NS56.WORLDNIC.COM
+   Domain Name: MACU.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: NS1.P10.DYNECT.NET
+   Name Server: NS2.P10.DYNECT.NET
+   Name Server: NS3.P10.DYNECT.NET
+   Name Server: NS4.P10.DYNECT.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 08-nov-2006
-   Expiration Date: 08-nov-2012
+   Status: clientUpdateProhibited
+   Updated Date: 12-aug-2011
+   Creation Date: 12-nov-2002
+   Expiration Date: 12-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +55,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registrant:
+ macu.com, Secret Registration Customer ID 151613  macu.com@secretregistration.com
+ Dyn Inc
+ c/o macu.com
+ 816 Elm Street
+ Box 606
+ Manchester, NH 03101
+ US
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+ Domain name: MACU.COM
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+ Administrative Contact, Technical Contact:
+    macu.com, Secret Registration Customer ID 151613  macu.com@secretregistration.com
+    Dyn Inc
+    c/o macu.com
+    816 Elm Street
+    Box 606
+    Manchester, NH 03101
+    US
+    +1.6037124016
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: martiniskateandsnow.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:39:58 EDT 2011
-Reason Code: IE
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
+
+
+ Record last updated on 12-Aug-2011 22:28:23 UTC.
+ Record expires on 12-Nov-2016.
+ Record created on 12-Nov-2002.
+
+
+ This domain is delegated to DYNECT enterprise DNS:
+    NS1.P10.DYNECT.NET
+    NS2.P10.DYNECT.NET
+    NS4.P10.DYNECT.NET
+    NS3.P10.DYNECT.NET
+ Uptime is the bottom line. ** Learn more here: http://www.dyn.com/ **
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+

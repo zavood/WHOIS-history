@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORUMACTIF.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNSPRO.ORG
-   Name Server: NS2.DNSPRO.ORG
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-apr-2011
-   Creation Date: 05-apr-2004
-   Expiration Date: 05-apr-2020
+   Domain Name: LFFED.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS2.XINNET.CN
+   Name Server: NS2.XINNETDNS.COM
+   Status: ok
+   Updated Date: 19-sep-2010
+   Creation Date: 18-sep-2005
+   Expiration Date: 18-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:09 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name      : lffed.com
+PunnyCode        : lffed.com
+Creation Date    : 2005-09-19 00:00:00
+Updated Date     : 2010-09-20 10:49:23
+Expiration Date  : 2011-09-19 00:00:00
 
 
 Registrant:
-   Domains by Proxy, Inc.
+  Organization   : mi zengqun
+  Name           :
+  Address        : dacheng
+  City           : langfang
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 065900
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FORUMACTIF.NET
+Administrative Contact:
+  Name           : mi zengqun
+  Organization   : mi zengqun
+  Address        : dacheng
+  City           : langfang
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 065900
+  Phone Number   : 86-0316-5520611
+  Fax            : 86-0316-5520611
+  Email          : mzq66@126.com
 
-   Domain servers in listed order:
-      NS1.DNSPRO.ORG
-      NS2.DNSPRO.ORG
+Technical Contact:
+  Name           : mi zengqun
+  Organization   : mi zengqun
+  Address        : dachneg
+  City           : langfang
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 065900
+  Phone Number   : 86-0316-5520611
+  Fax            : 86-0316-5520611
+  Email          : mzq66@126.com
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FORUMACTIF.NET
+Billing Contact:
+  Name           : mi zengqun
+  Organization   : mi zengqun
+  Address        : dachneg
+  City           : langfang
+  Province/State : Hebei
+  Country        : China
+  Postal Code    : 065900
+  Phone Number   : 86-0316-5520611
+  Fax            : 86-0316-5520611
+  Email          : mzq66@126.com

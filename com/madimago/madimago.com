@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARTINISKATEANDSNOW.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS55.WORLDNIC.COM
-   Name Server: NS56.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 08-nov-2006
-   Expiration Date: 08-nov-2012
+   Domain Name: MADIMAGO.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS16.RZONE.DE
+   Name Server: SHADES06.RZONE.DE
+   Status: ok
+   Updated Date: 10-jan-2011
+   Creation Date: 09-jan-2008
+   Expiration Date: 09-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:50:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Jan Overduin
+   Coverall eenmanszaak
+   Stadhoudersweg 138A
+   Rotterdam, 3039CM, NL
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  madimago.com
+   Unicode Name:   madimago.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Jan Overduin
 
-Whois Query: martiniskateandsnow.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:39:58 EDT 2011
-Reason Code: IE
+      look@coverall.nu
+      Stadhoudersweg 138A
+      Rotterdam, 3039CM, NL
+      phone: +31 31104658452
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-01-09 20:30:31
+
+   Domain servers in listed order:
+
+      shades06.rzone.de
+      docks16.rzone.de
+
+
+

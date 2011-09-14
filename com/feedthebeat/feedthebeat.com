@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARTINISKATEANDSNOW.COM
+   Domain Name: FEEDTHEBEAT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS55.WORLDNIC.COM
-   Name Server: NS56.WORLDNIC.COM
+   Name Server: AUTH00.NS.UU.NET
+   Name Server: AUTH100.NS.UU.NET
    Status: clientTransferProhibited
-   Updated Date: 09-sep-2011
-   Creation Date: 08-nov-2006
-   Expiration Date: 08-nov-2012
+   Updated Date: 01-jul-2011
+   Creation Date: 26-jul-2006
+   Expiration Date: 26-jul-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:40 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: martiniskateandsnow.com
+Whois Query: feedthebeat.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:39:58 EDT 2011
+Date and Time of Query: Wed Sep 14 12:39:51 EDT 2011
 Reason Code: IE
