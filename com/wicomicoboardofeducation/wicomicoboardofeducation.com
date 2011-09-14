@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBIANPORNVIDEOS.COM
+   Domain Name: WICOMICOBOARDOFEDUCATION.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Name Server: NS1.MUGLIDOMAIN.COM
+   Name Server: NS2.MUGLIDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-sep-2010
-   Creation Date: 29-dec-2000
-   Expiration Date: 29-dec-2017
+   Updated Date: 12-sep-2011
+   Creation Date: 04-feb-2005
+   Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,67 +79,61 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: LESBIANPORNVIDEOS.COM
+Domain Name: WICOMICOBOARDOFEDUCATION.COM
 Registrar: MONIKER
 
-Registrant [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Registrant [3683656]:
+        Domain Administrator manilaindustries@gmail.com
+        Whois Privacy
+        Lot 2-1, Incubator 1
+        Technology Park Malaysia
+        Kuala Lumpur
+        Wilayah Persekutuan
+        57000
+        MY
+
+
+Administrative Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
+        Phone: +1.9497431697
 
 
-Administrative Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Billing Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9497431697
 
 
-Billing Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Technical Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
-
-
-Technical Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
-        US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9497431697
 
 
 Domain servers in listed order:
 
-        NS1.SWIFTWILL.COM
-        NS2.SWIFTWILL.COM
+        NS1.MUGLIDOMAIN.COM
+        NS2.MUGLIDOMAIN.COM
 
-        Record created on:        2000-12-29 17:07:38.0
-        Database last updated on: 2010-09-27 16:49:20.467
-        Domain Expires on:        2017-12-29 17:07:38.0
+        Record created on:        2005-02-04 04:34:20.0
+        Database last updated on: 2011-09-12 13:56:05.24
+        Domain Expires on:        2012-08-03 23:59:59.0
 
 
 

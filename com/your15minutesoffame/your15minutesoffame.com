@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACTIVEBOARD.COM
+   Domain Name: YOUR15MINUTESOFFAME.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SPARKLIT.COM
-   Name Server: NS2.SPARKLIT.COM
+   Name Server: NS35.DOMAINCONTROL.COM
+   Name Server: NS36.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-dec-2009
-   Creation Date: 24-feb-2000
-   Expiration Date: 24-feb-2019
+   Updated Date: 02-sep-2011
+   Creation Date: 21-apr-2003
+   Expiration Date: 21-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Sparklit
+   AL-NITHAMI ALNICO PRODUCTS
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ACTIVEBOARD.COM
+   Domain Name: YOUR15MINUTESOFFAME.COM
 
    Domain servers in listed order:
-      NS1.SPARKLIT.COM
-      NS2.SPARKLIT.COM
+      NS35.DOMAINCONTROL.COM
+      NS36.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ACTIVEBOARD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=YOUR15MINUTESOFFAME.COM

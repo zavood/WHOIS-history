@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACTIVEBOARD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SPARKLIT.COM
-   Name Server: NS2.SPARKLIT.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-dec-2009
-   Creation Date: 24-feb-2000
-   Expiration Date: 24-feb-2019
+   Domain Name: WEBSITEDESIGNCONCEPTS.COM
+   Registrar: ENETICA PTY LTD
+   Whois Server: whois.enetica.com.au
+   Referral URL: http://www.enetica.com.au
+   Name Server: NS1.WEBCITY.COM.AU
+   Name Server: NS2.WEBCITY.COM.AU
+   Status: ok
+   Updated Date: 11-jul-2011
+   Creation Date: 23-jul-2009
+   Expiration Date: 23-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Registrant Details:
+  websitedesignconcepts.com
+  Unit 1
+  14-16 McGhee Avenue Mitcham
+  Melbourne, VIC 3132
+  AU
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+  Domain Name: WEBSITEDESIGNCONCEPTS.COM
 
+  Administrative Contact:
+    Mehta, Rohan  rohan.mehta19@gmail.com
+    Unit 1
+    14-16 McGhee Avenue Mitcham
+    Melbourne, VIC 3132
+    AU
+    +61.0402580486
 
-Registrant:
-   Sparklit
+  Technical Contact:
+    Mehta, Rohan  rohan.mehta19@gmail.com
+    Unit 1
+    14-16 McGhee Avenue Mitcham
+    Melbourne, VIC 3132
+    AU
+    +61.0402580486
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ACTIVEBOARD.COM
+  Name Server:  ns1.webcity.com.au
+  Name Server:  ns2.webcity.com.au
 
-   Domain servers in listed order:
-      NS1.SPARKLIT.COM
-      NS2.SPARKLIT.COM
+  Registrar of Record: Enetica Pty Ltd
+  Record last updated on 2011-07-12
+  Record created on 2009-07-24
+  Record expires on 2013-07-24
 
+The information contained in this WHOIS database is provided by Enetica
+for information purposes only.  Enetica makes this information available
+on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis, and does not guarantee its
+accuracy.  In particular, please note that the WHOIS database is a
+contact database only - and lack of a whois record does not necessarily
+mean that the domain is available for registration.
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ACTIVEBOARD.COM
+By submitting a WHOIS query, you agree to abide by our terms of use,
+and that you will use this data only for lawful purposes.  Our full
+terms and conditions can be accessed via the Enetica website at:
+http://www.enetica.com.au/whois/usage.html
+

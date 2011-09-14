@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREMIERGUIDE.COM
+   Domain Name: SUPERANTISPYWARE.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: NS1.SUPERIORSERVING.COM
+   Name Server: NS2.SUPERIORSERVING.COM
+   Name Server: NS5.SUPERIORSERVING.COM
+   Name Server: NS6.SUPERIORSERVING.COM
    Status: clientTransferProhibited
-   Updated Date: 05-oct-2010
-   Creation Date: 07-nov-2002
-   Expiration Date: 07-nov-2011
+   Updated Date: 20-jan-2011
+   Creation Date: 18-feb-2005
+   Expiration Date: 18-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,50 +71,74 @@ Register.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
 
-   Registrant:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a16123315ab85cb0935aa8f@domaindiscreet.com
+=-=-=-=
+
+
+Domain name: superantispyware.com
+
+Registrant Contact:
+   Nick Skrepetos
+   Nick Skrepetos ()
+
+   Fax:
+   P.O. Box 40161
+   Eugene, OR 97404
+   US
+
+Administrative Contact:
+   Nick Skrepetos
+   Nick Skrepetos (nskrepetos@yahoo.com)
+   5416076553
+   Fax: +1.5306607495
+   P.O. Box 40161
+   Eugene, OR 97404
+   US
+
+Technical Contact:
+   Nick Skrepetos
+   Nick Skrepetos (nskrepetos@yahoo.com)
+   5416076553
+   Fax: +1.5306607495
+   P.O. Box 40161
+   Eugene, OR 97404
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.superiorserving.com
+   ns2.superiorserving.com
+   ns5.superiorserving.com
+   ns6.superiorserving.com
+
+Creation date: 18 Feb 2005 17:43:03
+Expiration date: 18 Feb 2012 17:43:00
 
 
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
 
-   Domain Name: premierguide.com
-      Created on..............: 2007-09-20
-      Expires on..............: 2011-11-07
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-   Administrative Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04e0a16123361cfd335761bbca7@domaindiscreet.com
-
-
-   Technical  Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a1612332fdcdd8a91156b74@domaindiscreet.com
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
 
 
-   DNS Servers:
-      pdns3.ultradns.org
-      pdns4.ultradns.org
-      pdns2.ultradns.net
-      pdns1.ultradns.net
+Visit AboutUs.org for more information about superantispyware.com
 
+&lt;A HREF=&quot;http://www.aboutus.org/superantispyware.com&quot;&gt;AboutUs: superantispyware.com&lt;/A&gt;
 
-
+Register your domain name at http://www.register.com

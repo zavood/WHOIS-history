@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREMIERGUIDE.COM
+   Domain Name: WATCHMESHINETHEMUSICAL.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: DNS010.D.REGISTER.COM
+   Name Server: DNS030.C.REGISTER.COM
+   Name Server: DNS152.A.REGISTER.COM
+   Name Server: DNS246.B.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 05-oct-2010
-   Creation Date: 07-nov-2002
-   Expiration Date: 07-nov-2011
+   Updated Date: 27-jul-2010
+   Creation Date: 17-mar-2005
+   Expiration Date: 17-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a16123315ab85cb0935aa8f@domaindiscreet.com
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
 
 
@@ -86,35 +86,41 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: premierguide.com
-      Created on..............: 2007-09-20
-      Expires on..............: 2011-11-07
+   Domain Name: watchmeshinethemusical.com
+      Created on..............: 2005-03-17
+      Expires on..............: 2014-03-17
 
    Administrative Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04e0a16123361cfd335761bbca7@domaindiscreet.com
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
 
    Technical  Contact:
-      Domain Discreet
-      ATTN: premierguide.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 4c9ba04f0a1612332fdcdd8a91156b74@domaindiscreet.com
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
 
    DNS Servers:
-      pdns3.ultradns.org
-      pdns4.ultradns.org
-      pdns2.ultradns.net
-      pdns1.ultradns.net
+      dns152.a.register.com
+      dns030.c.register.com
+      dns246.b.register.com
+      dns010.d.register.com
 
 
+
+Visit AboutUs.org for more information about watchmeshinethemusical.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/watchmeshinethemusical.com&quot;&gt;AboutUs: watchmeshinethemusical.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

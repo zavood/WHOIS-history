@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREMIERGUIDE.COM
+   Domain Name: DBDUENSINGANDASSOCIATES.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: DNS029.A.REGISTER.COM
+   Name Server: DNS187.B.REGISTER.COM
+   Name Server: DNS226.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 05-oct-2010
-   Creation Date: 07-nov-2002
-   Expiration Date: 07-nov-2011
+   Updated Date: 10-dec-2007
+   Creation Date: 27-jan-2005
+   Expiration Date: 27-jan-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,12 +73,12 @@ By submitting this query, you agree to abide by these terms.
 
    Registrant:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: dbduensingandassociates.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04f0a16123315ab85cb0935aa8f@domaindiscreet.com
+      Email: 6653ced40a16123356b197dd5a4d24e6@domaindiscreet.com
 
 
 
@@ -86,35 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: premierguide.com
-      Created on..............: 2007-09-20
-      Expires on..............: 2011-11-07
+   Domain Name: dbduensingandassociates.com
+      Created on..............: 2005-01-27
+      Expires on..............: 2017-01-27
 
    Administrative Contact:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: dbduensingandassociates.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04e0a16123361cfd335761bbca7@domaindiscreet.com
+      Email: 6653ced20a161233534afbb0ab131ac4@domaindiscreet.com
 
 
    Technical  Contact:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: dbduensingandassociates.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04f0a1612332fdcdd8a91156b74@domaindiscreet.com
+      Email: 6653ced50a16123325695aa28a448487@domaindiscreet.com
 
 
    DNS Servers:
-      pdns3.ultradns.org
-      pdns4.ultradns.org
-      pdns2.ultradns.net
-      pdns1.ultradns.net
+      dns187.b.register.com
+      dns226.c.register.com
+      dns029.a.register.com
+      dns249.d.register.com
 
 
 

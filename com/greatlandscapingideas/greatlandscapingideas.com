@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ACTIVEBOARD.COM
+   Domain Name: GREATLANDSCAPINGIDEAS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SPARKLIT.COM
-   Name Server: NS2.SPARKLIT.COM
+   Name Server: NS1.PLAINHOST.COM
+   Name Server: NS2.PLAINHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-dec-2009
-   Creation Date: 24-feb-2000
-   Expiration Date: 24-feb-2019
+   Updated Date: 12-jul-2011
+   Creation Date: 25-aug-2005
+   Expiration Date: 31-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Sparklit
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ACTIVEBOARD.COM
+   Domain Name: GREATLANDSCAPINGIDEAS.COM
 
    Domain servers in listed order:
-      NS1.SPARKLIT.COM
-      NS2.SPARKLIT.COM
+      NS1.PLAINHOST.COM
+      NS2.PLAINHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ACTIVEBOARD.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GREATLANDSCAPINGIDEAS.COM

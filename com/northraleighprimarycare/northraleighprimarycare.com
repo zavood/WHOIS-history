@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PREMIERGUIDE.COM
+   Domain Name: NORTHRALEIGHPRIMARYCARE.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: DNS125.A.REGISTER.COM
+   Name Server: DNS139.B.REGISTER.COM
+   Name Server: DNS211.C.REGISTER.COM
+   Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 05-oct-2010
-   Creation Date: 07-nov-2002
-   Expiration Date: 07-nov-2011
+   Updated Date: 01-mar-2011
+   Creation Date: 04-aug-2009
+   Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:49:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,12 +73,12 @@ By submitting this query, you agree to abide by these terms.
 
    Registrant:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: northraleighprimarycare.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04f0a16123315ab85cb0935aa8f@domaindiscreet.com
+      Email: 665651410a16123324ff952862516bed@domaindiscreet.com
 
 
 
@@ -86,35 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: premierguide.com
-      Created on..............: 2007-09-20
-      Expires on..............: 2011-11-07
+   Domain Name: northraleighprimarycare.com
+      Created on..............: 2009-08-04
+      Expires on..............: 2012-08-04
 
    Administrative Contact:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: northraleighprimarycare.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04e0a16123361cfd335761bbca7@domaindiscreet.com
+      Email: 665651400a16123313bf51211254d390@domaindiscreet.com
 
 
    Technical  Contact:
       Domain Discreet
-      ATTN: premierguide.com
+      ATTN: northraleighprimarycare.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 4c9ba04f0a1612332fdcdd8a91156b74@domaindiscreet.com
+      Email: 665651420a161233079988124ea144e1@domaindiscreet.com
 
 
    DNS Servers:
-      pdns3.ultradns.org
-      pdns4.ultradns.org
-      pdns2.ultradns.net
-      pdns1.ultradns.net
+      dns249.d.register.com
+      dns211.c.register.com
+      dns139.b.register.com
+      dns125.a.register.com
 
 
 

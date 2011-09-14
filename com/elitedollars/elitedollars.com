@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LESBIANPORNVIDEOS.COM
+   Domain Name: ELITEDOLLARS.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.SWIFTWILL.COM
-   Name Server: NS2.SWIFTWILL.COM
+   Name Server: NS.ISPRIME.COM
+   Name Server: NS2.ISPRIME.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-sep-2010
-   Creation Date: 29-dec-2000
-   Expiration Date: 29-dec-2017
+   Updated Date: 14-mar-2011
+   Creation Date: 23-mar-2006
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:48:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:50:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,11 +79,11 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: LESBIANPORNVIDEOS.COM
+Domain Name: ELITEDOLLARS.COM
 Registrar: MONIKER
 
-Registrant [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
+Registrant [2594150]:
+        Moniker Privacy Services ELITEDOLLARS.COM@monikerprivacy.net
         Moniker Privacy Services
         20 SW 27th Ave.
         Suite 201
@@ -93,21 +93,8 @@ Registrant [3186936]:
         US
 
 
-Administrative Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
-        US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
-
-
-Billing Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
+Administrative Contact [2594150]:
+        Moniker Privacy Services ELITEDOLLARS.COM@monikerprivacy.net
         Moniker Privacy Services
         20 SW 27th Ave.
         Suite 201
@@ -119,8 +106,21 @@ Billing Contact [3186936]:
         Fax:   +1.9549699155
 
 
-Technical Contact [3186936]:
-        Moniker Privacy Services LESBIANPORNVIDEOS.COM@monikerprivacy.net
+Billing Contact [2594150]:
+        Moniker Privacy Services ELITEDOLLARS.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Technical Contact [2594150]:
+        Moniker Privacy Services ELITEDOLLARS.COM@monikerprivacy.net
         Moniker Privacy Services
         20 SW 27th Ave.
         Suite 201
@@ -134,12 +134,12 @@ Technical Contact [3186936]:
 
 Domain servers in listed order:
 
-        NS1.SWIFTWILL.COM
-        NS2.SWIFTWILL.COM
+        NS2.ISPRIME.COM
+        NS.ISPRIME.COM
 
-        Record created on:        2000-12-29 17:07:38.0
-        Database last updated on: 2010-09-27 16:49:20.467
-        Domain Expires on:        2017-12-29 17:07:38.0
+        Record created on:        2006-03-23 22:32:19.0
+        Database last updated on: 2011-03-14 06:28:47.327
+        Domain Expires on:        2012-03-23 22:32:19.0
 
 
 
