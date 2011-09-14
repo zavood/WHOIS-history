@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D139630934-LROR
+Domain Name:SVCETEDU.ORG
+Created On:14-Feb-2007 06:47:30 UTC
+Last Updated On:31-Oct-2010 00:24:05 UTC
+Expiration Date:14-Feb-2012 06:47:30 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_12198736
+Registrant Name:R V Srinivas
+Registrant Organization:SVCET
+Registrant Street1:RVS Nagar
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chittoor
+Registrant State/Province:Andhra Pradesh
+Registrant Postal Code:517127
+Registrant Country:IN
+Registrant Phone:+91.9704907404
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gopitweets@yahoo.com
+Admin ID:DI_12198736
+Admin Name:R V Srinivas
+Admin Organization:SVCET
+Admin Street1:RVS Nagar
+Admin Street2:
+Admin Street3:
+Admin City:Chittoor
+Admin State/Province:Andhra Pradesh
+Admin Postal Code:517127
+Admin Country:IN
+Admin Phone:+91.9704907404
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gopitweets@yahoo.com
+Tech ID:DI_12198736
+Tech Name:R V Srinivas
+Tech Organization:SVCET
+Tech Street1:RVS Nagar
+Tech Street2:
+Tech Street3:
+Tech City:Chittoor
+Tech State/Province:Andhra Pradesh
+Tech Postal Code:517127
+Tech Country:IN
+Tech Phone:+91.9704907404
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gopitweets@yahoo.com
+Name Server:1.NSEASY.COM
+Name Server:2.NSEASY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

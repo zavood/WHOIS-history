@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUNTONIA.COM
+   Domain Name: COMPURAD.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NS.OPUS1.COM
+   Name Server: NS1.COMPURAD.COM
+   Name Server: NS2.COMPURAD.COM
    Status: clientTransferProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 07-feb-2005
-   Expiration Date: 07-feb-2013
+   Updated Date: 28-dec-2009
+   Creation Date: 24-feb-1996
+   Expiration Date: 25-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:18:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:19:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,21 +75,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about FUNTONIA.COM
-&lt;a href=&quot;http://www.aboutus.org/FUNTONIA.COM&quot;&gt;AboutUs: FUNTONIA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about COMPURAD.COM
+&lt;a href=&quot;http://www.aboutus.org/COMPURAD.COM&quot;&gt;AboutUs: COMPURAD.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Mobile Services Limited
-   ATTN FUNTONIA.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+AUNTMINNIE.COM
+   1350 N KOLB RD
+   Suite 215
+   TUCSON, AZ 85715-4945
+   US
 
-
-   Domain Name: FUNTONIA.COM
+   Domain Name: COMPURAD.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,31 +97,21 @@ Mobile Services Limited
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Mobile Services Limited		yk3u79tm645@networksolutionsprivateregistration.com
-      ATTN FUNTONIA.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+      Webmaster, Damon		webmaster@AUNTMINNIE.COM
+      1350 N KOLB RD
+      TUCSON, AZ 85715-4945
       US
-      570-708-8780
+      520-298-1000 fax: 520-298-1400
 
 
-   Record expires on 07-Feb-2013.
-   Record created on 23-Feb-2006.
-   Database last updated on 14-Sep-2011 03:08:49 EDT.
+   Record expires on 25-Feb-2013.
+   Record created on 24-Feb-1996.
+   Database last updated on 14-Sep-2011 03:09:12 EDT.
 
    Domain servers in listed order:
 
-   NS1.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS0.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS1.COMPURAD.COM             207.182.37.22
+   NS2.COMPURAD.COM             204.17.37.86
+   NS.OPUS1.COM                 192.245.12.50
 
 

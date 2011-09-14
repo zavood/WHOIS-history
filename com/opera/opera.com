@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUNTONIA.COM
+   Domain Name: OPERA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NIC1.OPERA.COM
+   Name Server: NIC2.OPERA.NO
+   Name Server: NIC3.OPERA.COM
+   Name Server: NIC4.OPERA.COM
    Status: clientTransferProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 07-feb-2005
-   Expiration Date: 07-feb-2013
+   Updated Date: 26-jul-2011
+   Creation Date: 14-apr-1999
+   Expiration Date: 14-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:18:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:18:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,21 +76,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about FUNTONIA.COM
-&lt;a href=&quot;http://www.aboutus.org/FUNTONIA.COM&quot;&gt;AboutUs: FUNTONIA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about OPERA.COM
+&lt;a href=&quot;http://www.aboutus.org/OPERA.COM&quot;&gt;AboutUs: OPERA.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Mobile Services Limited
-   ATTN FUNTONIA.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Opera Software ASA
+   P.O. Box 2648 St Hanshaugen
+   Waldemar Thranesgt. 98
+   Oslo, Oslo NO-0175 OSLO
+   NO
 
-
-   Domain Name: FUNTONIA.COM
+   Domain Name: OPERA.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,31 +98,24 @@ Mobile Services Limited
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Mobile Services Limited		yk3u79tm645@networksolutionsprivateregistration.com
-      ATTN FUNTONIA.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
-      US
-      570-708-8780
+      Opera Software		hostmaster@opera.com
+      Opera Software ASA
+      P.O. Box 2648 St Hanshaugen
+      Waldemar Thranesgt. 98
+      Oslo N-0175
+      NO
+      +47 23 69 24 00 fax: +47 23 69 24 01
 
 
-   Record expires on 07-Feb-2013.
-   Record created on 23-Feb-2006.
-   Database last updated on 14-Sep-2011 03:08:49 EDT.
+   Record expires on 14-Apr-2016.
+   Record created on 14-Apr-1999.
+   Database last updated on 14-Sep-2011 03:08:02 EDT.
 
    Domain servers in listed order:
 
-   NS1.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS0.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NIC1.OPERA.COM               195.189.143.101
+   NIC2.OPERA.NO
+   NIC3.OPERA.COM               88.131.66.88
+   NIC4.OPERA.COM               64.255.180.17
 
 

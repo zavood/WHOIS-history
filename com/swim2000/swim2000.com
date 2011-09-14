@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FUNTONIA.COM
+   Domain Name: SWIM2000.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: NS0.NS0.COM
+   Name Server: NS3.PAIR.COM
    Status: clientTransferProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 07-feb-2005
-   Expiration Date: 07-feb-2013
+   Updated Date: 11-oct-2010
+   Creation Date: 26-dec-1995
+   Expiration Date: 25-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:18:45 UTC &lt;&lt;&lt;
 
@@ -77,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about FUNTONIA.COM
-&lt;a href=&quot;http://www.aboutus.org/FUNTONIA.COM&quot;&gt;AboutUs: FUNTONIA.COM &lt;/a&gt;
+Visit AboutUs.org for more information about SWIM2000.COM
+&lt;a href=&quot;http://www.aboutus.org/SWIM2000.COM&quot;&gt;AboutUs: SWIM2000.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Mobile Services Limited
-   ATTN FUNTONIA.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+SWIM 2000
+   4137 S. Maryland Pkwy
+   Las Vegas, NV 89119
+   US
 
-
-   Domain Name: FUNTONIA.COM
+   Domain Name: SWIM2000.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -100,31 +95,21 @@ Mobile Services Limited
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Mobile Services Limited		yk3u79tm645@networksolutionsprivateregistration.com
-      ATTN FUNTONIA.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+      Diederichs, Bruno		info@swim2000.com
+      Swim2000
+      4137 S. Maryland Pkwy
+      Las Vegas, NV 89119
       US
-      570-708-8780
+      702 696 9290 fax: 702 696 9210
 
 
-   Record expires on 07-Feb-2013.
-   Record created on 23-Feb-2006.
-   Database last updated on 14-Sep-2011 03:08:49 EDT.
+   Record expires on 27-Dec-2012.
+   Record created on 26-Dec-1995.
+   Database last updated on 14-Sep-2011 03:14:33 EDT.
 
    Domain servers in listed order:
 
-   NS1.DNSMADEEASY.COM
-   NS4.DNSMADEEASY.COM
-   NS3.DNSMADEEASY.COM
-   NS0.DNSMADEEASY.COM
-   NS2.DNSMADEEASY.COM
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS3.PAIR.COM
+   NS0.NS0.COM
 
 
