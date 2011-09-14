@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLINTONS.NET
+   Domain Name: CHANMAINOR.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS0.SERVE.CO.UK
-   Name Server: NS0.SERVE.NET.UK
-   Status: clientDeleteProhibited
+   Name Server: NS19.IXWEBHOSTING.COM
+   Name Server: NS20.IXWEBHOSTING.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 28-may-1999
-   Expiration Date: 28-may-2013
+   Updated Date: 11-feb-2011
+   Creation Date: 10-feb-2009
+   Expiration Date: 10-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:29:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:28:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

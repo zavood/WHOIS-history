@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLINTONS.NET
+   Domain Name: CENTRALNEBRASKANEUROLOGY.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS0.SERVE.CO.UK
-   Name Server: NS0.SERVE.NET.UK
-   Status: clientDeleteProhibited
+   Name Server: DNS1.HEALTHCOMMUNITIES.COM
+   Name Server: DNS2.HEALTHCOMMUNITIES.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 28-may-1999
-   Expiration Date: 28-may-2013
+   Updated Date: 11-may-2011
+   Creation Date: 18-may-2005
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:29:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:28:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

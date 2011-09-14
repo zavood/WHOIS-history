@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLINTONS.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS0.SERVE.CO.UK
-   Name Server: NS0.SERVE.NET.UK
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-may-2011
-   Creation Date: 28-may-1999
-   Expiration Date: 28-may-2013
+   Domain Name: CLIPSHOWROOM.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: DNS1.CNOMY.COM
+   Name Server: DNS2.CNOMY.COM
+   Status: ok
+   Updated Date: 07-sep-2011
+   Creation Date: 16-sep-2008
+   Expiration Date: 16-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:29:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:29:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain Name: clipshowroom.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Rubena Sells Domains!
+Rubena Lowe
+1152 Taylor Street
+San Francisco, CA 94015
+United States
+
+Administrative Contact:
+Rubena Sells Domains!
+Rubena Lowe
+1152 Taylor Street
+San Francisco, CA 94015
+United States
+rubena.lowe@gmail.com
++415 8459874
+
+Technical Contact:
+Rubena Sells Domains!
+Rubena Lowe
+1152 Taylor Street
+San Francisco, CA 94015
+United States
+rubena.lowe@gmail.com
++415 8459874
+
+Record expires on 2012/09/16 UTC
+Record created on 2008/09/16 UTC
+
+Domain servers in listed order:
+dns1.cnomy.com
+dns2.cnomy.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/14 05:25:54 PST &lt;&lt;&lt;
+

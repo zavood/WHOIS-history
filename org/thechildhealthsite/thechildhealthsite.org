@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88635005-LROR
+Domain Name:THECHILDHEALTHSITE.ORG
+Created On:22-Jul-2002 21:08:27 UTC
+Last Updated On:23-Jun-2011 09:55:29 UTC
+Expiration Date:22-Jul-2012 21:08:27 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C19958327-RCOM
+Registrant Name:Tim  Kunin
+Registrant Organization:CharityUSA.com,LLC
+Registrant Street1:600 University St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98101
+Registrant Country:US
+Registrant Phone:+1.2062685444
+Registrant Phone Ext.:
+Registrant FAX:+1.2062648448
+Registrant FAX Ext.:
+Registrant Email:tim@thehungersite.com
+Admin ID:C19958327-RCOM
+Admin Name:Tim  Kunin
+Admin Organization:CharityUSA.com,LLC
+Admin Street1:600 University St.
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98101
+Admin Country:US
+Admin Phone:+1.2062685444
+Admin Phone Ext.:
+Admin FAX:+1.2062648448
+Admin FAX Ext.:
+Admin Email:tim@thehungersite.com
+Tech ID:62D31383280D9C81
+Tech Name:Scott Thorson
+Tech Organization:CharityUSA.comLLC
+Tech Street1:600 University St.
+Tech Street2:Suite 1000
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98101
+Tech Country:US
+Tech Phone:+1.2062685433
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:thorson@thehungersite.com
+Name Server:DNS01.GPN.REGISTER.COM
+Name Server:DNS02.GPN.REGISTER.COM
+Name Server:DNS03.GPN.REGISTER.COM
+Name Server:DNS04.GPN.REGISTER.COM
+Name Server:DNS05.GPN.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

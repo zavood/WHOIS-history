@@ -14,11 +14,11 @@ for detailed information.
    Name Server: REGSIMPLEX.MERCURY.ORDERBOX-DNS.COM
    Name Server: REGSIMPLEX.VENUS.ORDERBOX-DNS.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2010
+   Updated Date: 13-sep-2011
    Creation Date: 30-sep-2010
-   Expiration Date: 30-sep-2011
+   Expiration Date: 30-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:03:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:29:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,7 @@ Registrant:
     Tel. +45.36946676
 
 Creation Date: 30-Sep-2010
-Expiration Date: 30-Sep-2011
+Expiration Date: 30-Sep-2012
 
 Domain servers in listed order:
     regsimplex.earth.orderbox-dns.com
