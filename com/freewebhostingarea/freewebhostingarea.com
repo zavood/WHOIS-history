@@ -5,21 +5,14 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: S-MSN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.MSFT.NET
-   Name Server: NS2.MSFT.NET
-   Name Server: NS3.MSFT.NET
-   Name Server: NS4.MSFT.NET
-   Name Server: NS5.MSFT.NET
-   Status: clientTransferProhibited
-   Updated Date: 10-feb-2010
-   Creation Date: 11-feb-2008
-   Expiration Date: 11-feb-2012
+FREEWEBHOSTINGAREA.COM.CAVUSUNYERI.COM
+FREEWEBHOSTINGAREA.COM
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:07:44 UTC &lt;&lt;&lt;
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
+
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:08:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,44 +47,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... s-msn.com
-  Creation Date........ 2008-02-12
-  Registration Date.... 2010-02-11
-  Expiry Date.......... 2012-02-12
-  Organisation Name.... Microsoft Corporation
-  Organisation Address. 1 Microsoft Way
-  Organisation Address.
-  Organisation Address. Redmond
-  Organisation Address. 98052
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Administrator .
-  Admin Address........ One Microsoft Way
-  Admin Address........
-  Admin Address........ Redmond
-  Admin Address........ 98052
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... DOMAINS@MICROSOFT.COM
-  Admin Phone.......... +1.4258828080
-  Admin Fax............
-
-Tech Name............ Hostmaster .
-  Tech Address......... One Microsoft Way
-  Tech Address.........
-  Tech Address......... Redmond
-  Tech Address......... 98052
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... msnhst@microsoft.com
-  Tech Phone........... +1.4258828080
-  Tech Fax.............
-  Name Server.......... NS2.MSFT.NET
-  Name Server.......... NS4.MSFT.NET
-  Name Server.......... NS1.MSFT.NET
-  Name Server.......... NS5.MSFT.NET
-  Name Server.......... NS3.MSFT.NET
-
-

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: S-MSN.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.MSFT.NET
-   Name Server: NS2.MSFT.NET
-   Name Server: NS3.MSFT.NET
-   Name Server: NS4.MSFT.NET
-   Name Server: NS5.MSFT.NET
+   Domain Name: PAINTINGS2ENJOY.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS3.FIRSTFIND.NL
+   Name Server: NS4.FIRSTFIND.NL
    Status: clientTransferProhibited
-   Updated Date: 10-feb-2010
-   Creation Date: 11-feb-2008
-   Expiration Date: 11-feb-2012
+   Updated Date: 14-jun-2011
+   Creation Date: 14-jun-2005
+   Expiration Date: 14-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:07:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:09:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,44 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... s-msn.com
-  Creation Date........ 2008-02-12
-  Registration Date.... 2010-02-11
-  Expiry Date.......... 2012-02-12
-  Organisation Name.... Microsoft Corporation
-  Organisation Address. 1 Microsoft Way
-  Organisation Address.
-  Organisation Address. Redmond
-  Organisation Address. 98052
-  Organisation Address. WA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Administrator .
-  Admin Address........ One Microsoft Way
-  Admin Address........
-  Admin Address........ Redmond
-  Admin Address........ 98052
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... DOMAINS@MICROSOFT.COM
-  Admin Phone.......... +1.4258828080
-  Admin Fax............
-
-Tech Name............ Hostmaster .
-  Tech Address......... One Microsoft Way
-  Tech Address.........
-  Tech Address......... Redmond
-  Tech Address......... 98052
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... msnhst@microsoft.com
-  Tech Phone........... +1.4258828080
-  Tech Fax.............
-  Name Server.......... NS2.MSFT.NET
-  Name Server.......... NS4.MSFT.NET
-  Name Server.......... NS1.MSFT.NET
-  Name Server.......... NS5.MSFT.NET
-  Name Server.......... NS3.MSFT.NET
-
-
+Domain Name:paintings2enjoy.com
+Name Server:ns3.firstfind.nl
+Name Server:ns4.firstfind.nl
+Created On:2006-05-26
+Last Updated On:2011-06-15
+Expiration Date:2012-06-14
+Dealer:yourhosting
+Registrant ID:coenen_jeannot@hotmail.com
+Registrant Name:J. Coenen
+Registrant Organization:JEVA
+Registrant Street1:J.J.M. Vegterstraat 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Amsterdam
+Registrant State/Province:
+Registrant Postal Code:1064 DD
+Registrant Country:NL
+Registrant Phone:+31.624247692
+Registrant Fax:
+Registrant Email:coenen_jeannot@hotmail.com
+Admin ID:admin@yourhosting.nl
+Admin Name:Valentijn Borstlap
+Admin Organization:YourHosting BV
+Admin Street1:Schrevenweg 5
+Admin Street2:
+Admin Street3:
+Admin City:Zwolle
+Admin State/Province:Overijssel
+Admin Postal Code:8024 HB
+Admin Country:NL
+Admin Phone:+31.384530752
+Admin Fax:+31.384524734
+Admin Email:admin@yourhosting.nl
+Billing ID:billing@yourhosting.nl
+Billing Name:Valentijn Borstlap
+Billing Organization:YourHosting BV
+Billing Street1:Schrevenweg 5
+Billing Street2:
+Billing Street3:
+Billing City:Zwolle
+Billing State/Province:Overijssel
+Billing Postal Code:8024 HB
+Billing Country:NL
+Billing Phone:+31.384530752
+Billing Fax:+31.384524734
+Billing Email:billing@yourhosting.nl
+Tech ID:tech@yourhosting.nl
+Tech Name:Valentijn Borstlap
+Tech Organization:YourHosting BV
+Tech Street1:Schrevenweg 5
+Tech Street2:
+Tech Street3:
+Tech City:Zwolle
+Tech State/Province:Overijssel
+Tech Postal Code:8024 HB
+Tech Country:NL
+Tech Phone:+31.384530752
+Tech Fax:+31.384524734
+Tech Email:tech@yourhosting.nl
