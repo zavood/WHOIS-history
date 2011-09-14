@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3814657-LROR
+Domain Name:MATHS.ORG
+Created On:17-Mar-1997 05:00:00 UTC
+Last Updated On:06-Jul-2011 16:11:46 UTC
+Expiration Date:18-Mar-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24674862-NSI
+Registrant Name:University of Cambridge
+Registrant Organization:University of Cambridge
+Registrant Street1:Centre for Mathematical Sciences
+Registrant Street2:Wilberforce Road
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:Cambridgeshire
+Registrant Postal Code:CB3 9EW
+Registrant Country:GB
+Registrant Phone:+44.01223766692
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:J.E.M.Hawkins@DAMTP.CAM.AC.UK
+Admin ID:24674865-NSI
+Admin Name:Millennium Mathematics Project
+Admin Organization:Millennium Mathematics Project
+Admin Street1:Centre For Mathematical
+Admin Street2:Sciences Wilberforce Road
+Admin Street3:
+Admin City:Cambridge
+Admin State/Province:
+Admin Postal Code:CB3 0WA
+Admin Country:GB
+Admin Phone:+1.4412237666
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:J.E.M.Hawkins@DAMTP.CAM.AC.UK
+Tech ID:24674864-NSI
+Tech Name:Jon Peatfield
+Tech Organization:DAMTP, University of Cambridge
+Tech Street1:CMS
+Tech Street2:Wilberforce Road
+Tech Street3:
+Tech City:Cambridge
+Tech State/Province:
+Tech Postal Code:CB3 0WA
+Tech Country:GB
+Tech Phone:+1.441223337852
+Tech Phone Ext.:
+Tech FAX:+1.441223765900
+Tech FAX Ext.:
+Tech Email:jp107@DAMTP.CAM.AC.UK
+Name Server:NS2.IC.AC.UK
+Name Server:GREED.DAMTP.CAM.AC.UK
+Name Server:LAT.DAMTP.CAM.AC.UK
+Name Server:FEAR.DAMTP.CAM.AC.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

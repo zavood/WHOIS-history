@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YMEM.NET
+   Domain Name: ACHEAPSEAT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.YMEM.NET
-   Name Server: NS2.YMEM.NET
-   Name Server: NS3.YMEM.NET
-   Name Server: NS5.YMEM.NET
+   Name Server: NS1.TICKETBROKERSYSTEMS.COM
+   Name Server: NS2.TICKETBROKERSYSTEMS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-jun-2010
-   Creation Date: 01-aug-2007
-   Expiration Date: 01-aug-2015
+   Updated Date: 31-may-2011
+   Creation Date: 12-jul-2005
+   Expiration Date: 12-jul-2016
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:41:41 UTC &lt;&lt;&lt;
 
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   YourMembership.com, Inc.
+   Joseph Russo
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: YMEM.NET
+   Domain Name: ACHEAPSEAT.COM
 
    Domain servers in listed order:
-      NS1.YMEM.NET
-      NS2.YMEM.NET
-      NS3.YMEM.NET
-      NS5.YMEM.NET
+      NS2.TICKETBROKERSYSTEMS.COM
+      NS1.TICKETBROKERSYSTEMS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=YMEM.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=ACHEAPSEAT.COM
