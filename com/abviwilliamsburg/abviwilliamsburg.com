@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
+   Domain Name: ABVIWILLIAMSBURG.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS11.DOMAINCONTROL.COM
+   Name Server: NS12.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Status: clientUpdateProhibited
+   Updated Date: 02-may-2011
+   Creation Date: 01-may-2009
+   Expiration Date: 01-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:49:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+Registrant:
+   Americas Best Value Inn
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: ABVIWILLIAMSBURG.COM
+
+   Domain servers in listed order:
+      NS11.DOMAINCONTROL.COM
+      NS12.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ABVIWILLIAMSBURG.COM

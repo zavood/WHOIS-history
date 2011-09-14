@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
-   Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Domain Name: ABQCHAMBER.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.OSOGRANDE.COM
+   Name Server: DNS2.OSOGRANDE.COM
+   Status: ok
+   Updated Date: 23-nov-2010
+   Creation Date: 18-dec-2003
+   Expiration Date: 18-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:49:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
+Domain name: abqchamber.com
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+Registrant Contact:
+   Greater Albuquerque Chamber of Commerce
+   Executive Director ()
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+   Fax:
+   115 Gold Ave. S.W. 2nd Floor
+   Albuquerque, NM 87102
+   US
+
+Administrative Contact:
+   Greater Albuquerque Chamber of Commerce
+   Executive Director (mbeck@abqchamber.com)
+   +1.5057643700
+   Fax: +1.5057643714
+   115 Gold Ave. S.W. 2nd Floor
+   Albuquerque, NM 87102
+   US
+
+Technical Contact:
+   Greater Albuquerque Chamber of Commerce
+   Executive Director (mbeck@abqchamber.com)
+   +1.5057643700
+   Fax: +1.5057643714
+   115 Gold Ave. S.W. 2nd Floor
+   Albuquerque, NM 87102
+   US
+
+Status: Active
+
+Name Servers:
+   DNS1.OSOGRANDE.COM
+   DNS2.OSOGRANDE.COM
+
+Creation date: 18 Dec 2003 22:52:32
+Expiration date: 18 Dec 2013 22:52:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

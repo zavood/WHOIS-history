@@ -1,0 +1,38 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       carita.is
+descr:        M&aacute;lmfr&iacute;&eth;ur Lilly Einarsd&oacute;ttir
+descr:        Mi&eth;vangi 41
+descr:        IS-220 Hafnarfj&ouml;r&eth;ur
+admin-c:      HE673-IS
+tech-c:       NE210-IS
+zone-c:       NE210-IS
+billing-c:    HE673-IS
+nserver:      dell.netvistun.is
+nserver:      dell2.netvistun.is
+created:      October 22 2003
+expires:      October 22 2011
+source:       ISNIC
+
+role:         H-20 ehf
+address:      Dalshraun 11
+address:      IS-220 Hafnarfj&ouml;r&eth;ur
+phone:        +354 555 4250
+e-mail:       isnic@netvistun.is
+nic-hdl:      HE673-IS
+created:      November 20 2009
+source:       ISNIC
+
+role:         Netvistun ehf
+address:      Hamraborg 20A
+address:      IS-200 K&oacute;pavogur
+phone:        +354 414 5500
+e-mail:       isnic@netvistun.is
+nic-hdl:      NE210-IS
+created:      March  7 2005
+source:       ISNIC
+
+

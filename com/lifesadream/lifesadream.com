@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
-   Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Domain Name: LIFESADREAM.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Status: ok
+   Updated Date: 03-sep-2011
+   Creation Date: 03-sep-1998
+   Expiration Date: 02-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,51 +53,48 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
+Registrant:
+   Peter Hannah
+   11532 30th Ave NE
+   Seattle, WA  98125
+   US
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+   Registrar: NAMESDIRECT
+   Domain Name: LIFESADREAM.COM
+      Created on: 03-SEP-98
+      Expires on: 02-SEP-12
+      Last Updated on: 13-AUG-11
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+   Administrative, Technical Contact:
+      Hannah, Peter  peter@lifesadream.com
+      11532 30th Ave NE
+      Seattle, WA  98125
+      US
+      206-706-6980
+
+
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+
+End of Whois Information

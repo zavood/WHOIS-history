@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
+   Domain Name: ATTITUBEAMPS.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS11.NAMESERVER.DE
+   Name Server: NS12.NAMESERVER.DE
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Updated Date: 14-may-2010
+   Creation Date: 21-may-2008
+   Expiration Date: 21-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:49:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
+Registrant : Geniel Lim
+	1206ho Yangpyeong-dong3(sam)-gaWoolime-BIZCenter, Yeongdeungpo-gu, Seoul
+	(150946)
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+	Domain Name:  ATTITUBEAMPS.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+	Administrative, Technical, Billing Contact:
+		Geniel Lim	chesslim@gmail.com
+		1206ho Yangpyeong-dong3(sam)-gaWoolime-BIZCenter, Yeongdeungpo-gu, Seoul
+		(Tel) 02-2164-9801	(fax)
+
+	Record created on 	may       22, 2008
+	Record expires on 	2012-05-22
+	Record last updated on 	2010-05-14
+
+	Domain servers in listed order:
+
+	ns12.nameserver.de
+	ns11.nameserver.de
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

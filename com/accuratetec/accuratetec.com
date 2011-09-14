@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
+   Domain Name: ACCURATETEC.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Updated Date: 12-oct-2010
+   Creation Date: 07-oct-1997
+   Expiration Date: 06-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+http://www.networksolutions.com/whois/index.jhtml
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: accuratetec.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 05:41:24 EDT 2011
+Reason Code: IE

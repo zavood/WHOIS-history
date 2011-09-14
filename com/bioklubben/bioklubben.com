@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XX-IE.COM
-   Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN
-   Whois Server: whois.dns.com.cn
-   Referral URL: http://www.dns.com.cn
-   Name Server: NS1.DNSPOD.NET
-   Name Server: NS2.DNSPOD.NET
-   Name Server: NS3.DNSPOD.NET
-   Name Server: NS4.DNSPOD.NET
+   Domain Name: BIOKLUBBEN.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.ASCIO.COM
+   Name Server: NS2.ASCIO.COM
    Status: clientTransferProhibited
-   Updated Date: 14-feb-2011
-   Creation Date: 18-feb-2009
-   Expiration Date: 18-feb-2012
+   Updated Date: 19-jun-2011
+   Creation Date: 18-jun-1999
+   Expiration Date: 18-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:50:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,52 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Domain Name.......... xx-ie.com
-  Creation Date........ 2009-02-18 23:36:04
-  Registration Date.... 2009-02-18 23:36:04
-  Expiry Date.......... 2012-02-18 23:36:04
-  Organisation Name.... shanghai yangbowangluokejifazhanyouxiangongsi
-  Organisation Address. shanghaishipudongxinqulianzhonglu
-  Organisation Address.
-  Organisation Address. shanghai
-  Organisation Address. 201204
-  Organisation Address. SH
-  Organisation Address. CN
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  SF BIO AB (SFBIOAB834)
+  Stockholm
 
-Admin Name........... shanghaiyangbowanglu
-  Admin Address........ shanghaishipudongxinqulianzhonglu
-  Admin Address........
-  Admin Address........ shanghai
-  Admin Address........ 201204
-  Admin Address........ SH
-  Admin Address........ CN
-  Admin Email.......... 51225659@163.com
-  Admin Phone.......... +86.13916087751
-  Admin Fax............ +86.13916087751
+  Stockholm 111, , 35
+  SE
 
-Tech Name............ shanghaiyangbowanglu
-  Tech Address......... shanghaishipudongxinqulianzhonglu
-  Tech Address.........
-  Tech Address......... shanghai
-  Tech Address......... 201204
-  Tech Address......... SH
-  Tech Address......... CN
-  Tech Email........... 51225659@163.com
-  Tech Phone........... +86.13916087751
-  Tech Fax............. +86.13916087751
+  Domain name: bioklubben.com
 
-Bill Name............ shanghaiyangbowanglu
-  Bill Address......... shanghaishipudongxinqulianzhonglu
-  Bill Address.........
-  Bill Address......... shanghai
-  Bill Address......... 201204
-  Bill Address......... SH
-  Bill Address......... CN
-  Bill Email........... 51225659@163.com
-  Bill Phone........... +86.13916087751
-  Bill Fax............. +86.13916087751
-  Name Server.......... ns2.dnspod.net
-  Name Server.......... ns1.dnspod.net
-  Name Server.......... ns4.dnspod.net
-  Name Server.......... ns3.dnspod.net
+Administrative and Technical contact:
+  Admin, Domain (DA27004)
+  Cedel AB
+  Ostra Varvsgatan 4
+
+  Malmo, Skane, 21119
+  SE
+  hostmaster@cedel.se
+  +46.40106600 Fax: +46.40106601
+
+Record created:           2009-03-12 12:03:06
+Record last updated:      2010-02-02 15:50:05
+Record expires:           2012-06-18 00:00:00
+
+Domain servers in listed order:
+  ns1.ascio.com (ASCIODNS1)
+  ns2.ascio.com (ASCIODNS2)
