@@ -1,0 +1,24 @@
+[Domain]
+Domain: spils.lv
+Status: active
+Changed: 1999-08-01T00:00:00+03:00
+
+[Holder]
+Type: Legal person
+Name: SIA &quot;SDT un IT&quot;
+Email: igorv@delfi.lv
+Phone: +371-9193244
+Address: Celtnieku iela 10, Salaspils, LV-2121, Latvia
+RegNr: 40003469659
+
+[Tech]
+Type: Natural person
+Email: igorv@delfi.lv
+Phone: +371-9193244
+
+[Nservers]
+Nserver: dns.spils.lv
+Nserver: dns2.spils.lv
+
+[Whois]
+Updated: 2011-09-14T05:12:26.548594+00:00

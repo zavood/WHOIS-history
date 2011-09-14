@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104079989-LROR
+Domain Name:IP-WATCH.ORG
+Created On:10-Mar-2004 17:25:42 UTC
+Last Updated On:25-Feb-2011 07:50:16 UTC
+Expiration Date:10-Mar-2012 17:25:42 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DP-1734899
+Registrant Name:Maria Julia Oliva
+Registrant Organization:Intellectual Property Watch
+Registrant Street1:1-5 Route des Morillons
+Registrant Street2:
+Registrant Street3:
+Registrant City:Geneva 2
+Registrant State/Province:GE
+Registrant Postal Code:1211
+Registrant Country:CH
+Registrant Phone:+41.227916716
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:joliva@ciel.org
+Admin ID:DP-1734900
+Admin Name:William New
+Admin Organization:Intellectual Property Watch
+Admin Street1:1-5 Route des Morillons
+Admin Street2:
+Admin Street3:
+Admin City:Geneva 2
+Admin State/Province:GE
+Admin Postal Code:1211
+Admin Country:CH
+Admin Phone:+41.227916716
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@ip-watch.org
+Tech ID:DP-1734901
+Tech Name:Olivier Tripet
+Tech Organization:b-spirit.com
+Tech Street1:Rue des Marchandises 14
+Tech Street2:
+Tech Street3:
+Tech City:Nyon
+Tech State/Province:VD
+Tech Postal Code:1260
+Tech Country:CH
+Tech Phone:+41.223625239
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:olivier.tripet@b-spirit.com
+Name Server:NS4.INFOMANIAK.CH
+Name Server:NS3.INFOMANIAK.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

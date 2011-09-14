@@ -5,20 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IC-LIVE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS-1485.AWSDNS-57.ORG
-   Name Server: NS-1565.AWSDNS-03.CO.UK
-   Name Server: NS-180.AWSDNS-22.COM
-   Name Server: NS-840.AWSDNS-41.NET
-   Status: clientTransferProhibited
-   Updated Date: 15-jul-2011
-   Creation Date: 23-sep-2002
-   Expiration Date: 23-sep-2013
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:01:55 UTC &lt;&lt;&lt;
+No match for &quot;SPIRATOS.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:03:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... ic-live.com
-  Creation Date........ 2002-09-24
-  Registration Date.... 2010-11-19
-  Expiry Date.......... 2013-09-24
-  Organisation Name.... iCrossing
-  Organisation Address. 15169 N. Scottsdale Rd.
-  Organisation Address. Suite C-400
-  Organisation Address. Scottsdale
-  Organisation Address. 85254
-  Organisation Address. AZ
-  Organisation Address. UNITED STATES
-
-Admin Name........... Netops DNS
-  Admin Address........ 15169 N. Scottsdale Rd.
-  Admin Address........ Suite C-400
-  Admin Address........ Scottsdale
-  Admin Address........ 85254
-  Admin Address........ AZ
-  Admin Address........ UNITED STATES
-  Admin Email.......... netops.dns@icrossing.com
-  Admin Phone.......... +1.4805055800
-  Admin Fax............
-
-Tech Name............ Netops DNS
-  Tech Address......... 15169 N. Scottsdale Rd.
-  Tech Address......... Suite C-400
-  Tech Address......... Scottsdale
-  Tech Address......... 85254
-  Tech Address......... AZ
-  Tech Address......... UNITED STATES
-  Tech Email........... netops.dns@icrossing.com
-  Tech Phone........... +1.4805055800
-  Tech Fax.............
-  Name Server.......... ns-180.awsdns-22.com
-  Name Server.......... ns-840.awsdns-41.net
-  Name Server.......... ns-1565.awsdns-03.co.uk
-  Name Server.......... ns-1485.awsdns-57.org
-
-
