@@ -5,13 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: 4MCLUB.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: GREG.MAGI.NET
+   Name Server: MAGI1.MAGI.NET
+   Status: ok
+   Updated Date: 24-sep-2008
+   Creation Date: 22-oct-2001
+   Expiration Date: 22-oct-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
 
@@ -48,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

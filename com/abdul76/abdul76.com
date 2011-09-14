@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
+   Domain Name: ABDUL76.COM
+   Registrar: GLOBAL DOMAINS INTERNATIONAL, INC.
+   Whois Server: whois.website.ws
+   Referral URL: http://www.website.ws
+   Name Server: NS1.GDIDNS.COM
+   Name Server: NS2.GDIDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 10-nov-2010
+   Creation Date: 10-nov-2010
+   Expiration Date: 10-nov-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+
+Welcome to the .WS Whois Server
+
+Use of this service for any purpose other
+than determining the availability of a domain
+in the .WS TLD to be registered is strictly
+prohibited.
+
+  Domain Name: ABDUL76.COM
+
+  Registrant Name: Abdullah Hadim
+  Registrant Email: hadim_abdullah@yahoo.com.my
+
+  Administrative Contact Email: hadim_abdullah@yahoo.com.my
+  Administrative Contact Telephone: 0198819971
+
+  Registrar Name: .WS Registry
+  Registrar Email: support@website.ws
+  Registrar Telephone: ---
+  Registrar Whois: whois.website.ws
+
+  Domain Created: 2010-11-17
+  Domain Last Updated: 2011-01-18
+  Domain Currently Expires: 2011-11-10
+
+  Current Nameservers:
+
+    ns1.gdidns.com .......... 64.70.19.78
+    ns2.gdidns.com .......... 64.70.19.88
+
+

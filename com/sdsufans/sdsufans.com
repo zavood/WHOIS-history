@@ -5,15 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
+   Domain Name: SDSUFANS.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS00.NS0.COM
+   Name Server: NS105.PAIR.COM
+   Status: ok
+   Updated Date: 10-oct-2006
+   Creation Date: 29-dec-2005
+   Expiration Date: 29-dec-2015
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:12:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -48,3 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+  Phil Haskett
+  4208 NE Kennesaw Rdg
+  Lees Summit, MO 64064
+  US
+
+  phil@haskett.org
+   +1.8167955077
+
+Domain Name: SDSUFANS.COM
+
+Administrative &amp; Technical Contact:
+  Phil Haskett
+  4208 NE Kennesaw Rdg
+  Lees Summit, MO 64064
+  US
+
+  phil@haskett.org
+   +1.8167955077
+
+Domain Name Servers:
+  NS105.PAIR.COM
+  NS00.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     December 29, 2005
+Modified:     October 10, 2006
+ Expires:     December 29, 2015
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

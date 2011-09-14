@@ -5,13 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: LUFENG.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.DNS-DIY.COM
+   Name Server: NS2.DNS-DIY.COM
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 14-sep-2011
+   Creation Date: 19-dec-1999
+   Expiration Date: 19-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
 
@@ -48,3 +54,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : lufeng.com
+
+Registrant Contact Information :
+LinXinglu
+Beijing Computer and Internet Research Center
+i@lxl.cn
+Room 263, Unit 2, Building 2, Qihelou Streen, 100006
+tel:
+fax:
+
+Administrative Contact Information :
+LinXinglu
+Beijing Computer and Internet Research Center
+i@lxl.cn
+Room 263, Unit 2, Building 2, Qihelou Streen, 100006
+tel:
+fax:
+
+Technical Contact Information :
+LinXinglu
+Beijing Computer and Internet Research Center
+i@lxl.cn
+Room 263, Unit 2, Building 2, Qihelou Streen, 100006
+tel:
+fax:
+
+Billing Contact Information :
+LinXinglu
+Beijing Computer and Internet Research Center
+i@lxl.cn
+Room 263, Unit 2, Building 2, Qihelou Streen, 100006
+tel:
+fax:
+
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+ns1.dns-diy.com
+ns4.dns-diy.com
+ns3.dns-diy.com
+ns2.dns-diy.com
+
+Registration Date :1999-12-19
+Expiration Date : 2012-12-19
+
+For more information, please go to http://whois.ename.com.
+

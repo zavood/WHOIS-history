@@ -5,13 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: TOOTHSOAP.COM
+   Registrar: 000DOMAINS LLC
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS769.WEBSITEWELCOME.COM
+   Name Server: NS770.WEBSITEWELCOME.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 11-may-2011
+   Creation Date: 10-jun-2003
+   Expiration Date: 10-jun-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
 
@@ -48,3 +53,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+   Domain Services Provided By:
+      000domains, support@000domains.com
+      http://www.000domains.com
+
+Registrant:
+   Vitality Products, Inc.
+   2710 THOMES AVE., SUITE 650
+   CHEYENNE, WY  82001
+   US
+
+   Registrar: 000DOM
+   Domain Name: TOOTHSOAP.COM
+      Created on: 30-MAR-04
+      Expires on: 10-JUN-13
+      Last Updated on: 11-MAY-11
+
+   Administrative, Technical Contact:
+      INC., VITALITY PRODUCTS,  toothsoap@yahoo.com
+      Vitality Products, Inc.
+      2710 THOMES AVE., SUITE 650
+      CHEYENNE, WY  82001
+      US
+      503-723-6299
+
+
+   Domain servers in listed order:
+      NS769.WEBSITEWELCOME.COM
+      NS770.WEBSITEWELCOME.COM
+
+End of Whois Information

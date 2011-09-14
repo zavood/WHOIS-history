@@ -5,13 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-110MB.COM.JESSICAGUIDO.COM
-110MB.COM.CAITLYNNMM.COM
-110MB.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: BITTERONE.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS0000.NS0.COM
+   Name Server: NS105.PAIR.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 28-oct-2006
+   Creation Date: 29-oct-2002
+   Expiration Date: 29-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:14:38 UTC &lt;&lt;&lt;
 
@@ -48,3 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Alton Gaston
+   3412 Ohio Street
+   Longview, WA  98632
+   US
+
+   Registrar: DOTSTER
+   Domain Name: BITTERONE.COM
+      Created on: 29-OCT-02
+      Expires on: 30-OCT-11
+      Last Updated on: 27-OCT-06
+
+   Administrative, Technical Contact:
+      Gaston, Alton  bitter@pacifier.com
+      3412 Ohio Street
+      Longview, WA  98632
+      US
+      360-578-1856
+
+
+   Domain servers in listed order:
+      NS105.PAIR.COM
+      NS0000.NS0.COM
+
+End of Whois Information
