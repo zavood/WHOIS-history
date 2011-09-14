@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1865574-LROR
+Domain Name:ANDERMAC.ORG
+Created On:16-Aug-1997 04:00:00 UTC
+Last Updated On:22-Jul-2011 00:17:21 UTC
+Expiration Date:15-Aug-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28642959-NSI
+Registrant Name:Julian Andersen
+Registrant Organization:Julian Andersen
+Registrant Street1:PO BOX 55969
+Registrant Street2:
+Registrant Street3:
+Registrant City:SEATTLE
+Registrant State/Province:WA
+Registrant Postal Code:98155-0969
+Registrant Country:US
+Registrant Phone:+1.20636710
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:julian@NWLINK.COM
+Admin ID:28642960-NSI
+Admin Name:Julian Andersen
+Admin Organization:Julian Andersen
+Admin Street1:PO BOX 55969
+Admin Street2:
+Admin Street3:
+Admin City:SEATTLE
+Admin State/Province:WA
+Admin Postal Code:98155-0969
+Admin Country:US
+Admin Phone:+1.20636710
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:julian@NWLINK.COM
+Tech ID:5389401-NSI
+Tech Name:Infinity Internet, Inc.
+Tech Street1:1101 S.E. Tech Center Drive, #150
+Tech Street2:
+Tech Street3:
+Tech City:Vancover
+Tech State/Province:WA
+Tech Postal Code:98004
+Tech Country:US
+Tech Phone:+1.3607353700
+Tech Phone Ext.:
+Tech FAX:+1.3608169017
+Tech FAX Ext.:
+Tech Email:hostmaster@iinet.com
+Name Server:NS1.NWLINK.COM
+Name Server:NS2.NWLINK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
