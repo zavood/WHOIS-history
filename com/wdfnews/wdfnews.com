@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STREAMRAY.COM
+   Domain Name: WDFNEWS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS7.FRIENDFINDERINC.COM
-   Name Server: DNS8.FRIENDFINDERINC.COM
+   Name Server: NS1.GOHSPHERE.COM
+   Name Server: NS2.GOHSPHERE.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 31-mar-1998
-   Expiration Date: 20-sep-2019
+   Updated Date: 23-jun-2011
+   Creation Date: 22-jun-2005
+   Expiration Date: 22-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:58:45 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Streamray, Inc.
+   James McKenna
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STREAMRAY.COM
+   Domain Name: WDFNEWS.COM
 
    Domain servers in listed order:
-      DNS7.FRIENDFINDERINC.COM
-      DNS8.FRIENDFINDERINC.COM
+      NS1.GOHSPHERE.COM
+      NS2.GOHSPHERE.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STREAMRAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WDFNEWS.COM

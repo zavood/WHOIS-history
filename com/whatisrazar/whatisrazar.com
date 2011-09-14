@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STREAMRAY.COM
+   Domain Name: WHATISRAZAR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS7.FRIENDFINDERINC.COM
-   Name Server: DNS8.FRIENDFINDERINC.COM
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 31-mar-1998
-   Expiration Date: 20-sep-2019
+   Updated Date: 22-aug-2009
+   Creation Date: 20-aug-2002
+   Expiration Date: 20-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:58:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:59:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Streamray, Inc.
+   James Wiggins
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STREAMRAY.COM
+   Domain Name: WHATISRAZAR.COM
 
    Domain servers in listed order:
-      DNS7.FRIENDFINDERINC.COM
-      DNS8.FRIENDFINDERINC.COM
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STREAMRAY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=WHATISRAZAR.COM

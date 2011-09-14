@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEISERVER.NET
-   Registrar: ENTORNO DIGITAL, S.A.
-   Whois Server: whois.entorno.es
-   Referral URL: http://www.entorno.es
-   Name Server: NS.WEISERVER.NET
-   Name Server: NS1.WEISERVER.NET
-   Name Server: NS2.WEISERVER.NET
+   Domain Name: QIDAIYULE.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 16-feb-2011
-   Creation Date: 20-feb-2001
-   Expiration Date: 20-feb-2012
+   Updated Date: 28-mar-2011
+   Creation Date: 17-apr-2010
+   Expiration Date: 17-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:59:14 UTC &lt;&lt;&lt;
 
@@ -52,51 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Entorno Digital's WHOIS database is only for information purposes,
-this information consists on domain name registration records.
-Entorno Digital does not guarantee the accuracy of the information
-contained in the WHOIS. Entorno Digital allows the use of the
-information only for lawful purposes, under no circumstances this data
-will be used for: (a) allow, enable, or otherwise support the transmission
-by e-mail, telephone, or facsimile of mass unsolicited, commercial
-advertising or solicitations to entities other than the data recipient's
-own existing customers; or (b) enable high volume, automated,
-electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as
-reasonably necessary to register domain names or modify existing
-registrations.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Domain name: weiserver.net
+Domain Name      : qidaiyule.com
+PunnyCode        : qidaiyule.com
+Creation Date    : 2010-04-17 16:37:13
+Updated Date     : 2011-03-28 20:17:19
+Expiration Date  : 2012-04-17 16:37:10
+
 
 Registrant:
-Weis Consulting S.L. . (ento0015699)
-
-cli@weis.es
-Demestre 11
-Barcelona Barcelona
-08017 ES
-34.932054634 fax: .
+  Organization   : qi dai
+  Name           : qi daifuzhu
+  Address        : sichuansheng chengdushi
+  City           : chengdushi
+  Province/State : Sichuan
+  Country        : CN
+  Postal Code    : 610000
 
 Administrative Contact:
-Pepe Fabregas . (ento0018132)
-dom@weis.es
-Demestre 11
-Barcelona Barcelona
-08017 ES
-34.932054634 fax: .
+  Name           : qi dai
+  Organization   : qi daifuzhu
+  Address        : sichuansheng chengdushi
+  City           : chengdushi
+  Province/State : Sichuan
+  Country        : CN
+  Postal Code    : 610000
+  Phone Number   : 86-028-85367625
+  Fax            : 86-028-85367625
+  Email          : 280569315@qq.com
 
 Technical Contact:
-Dpto. Sistemas Informaticos . (ento0017889)
-cli@weis.es
-Demestre 11, bajos.
-Barcelona BARCELONA
-08017 ES
-34.932054634 fax: .
+  Name           : qi dai
+  Organization   : qi daifuzhu
+  Address        : sichuansheng chengdushi
+  City           : chengdushi
+  Province/State : Sichuan
+  Country        : CN
+  Postal Code    : 610000
+  Phone Number   : 86-028-85367625
+  Fax            : 86-028-85367625
+  Email          : 280569315@qq.com
 
-Domain Servers in listed order:
-ns2.weiserver.net
-ns.weiserver.net
-
-Created: 20 Feb 2001
-Expires: 20 Feb 2012
-Last Updated: 16 Feb 2011 14:23:45
+Billing Contact:
+  Name           : qi dai
+  Organization   : qi daifuzhu
+  Address        : sichuansheng chengdushi
+  City           : chengdushi
+  Province/State : Sichuan
+  Country        : CN
+  Postal Code    : 610000
+  Phone Number   : 86-028-85367625
+  Fax            : 86-028-85367625
+  Email          : 280569315@qq.com

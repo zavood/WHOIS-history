@@ -1,0 +1,70 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 18:01:07 2011
+
+domain:       ehost.cz
+registrant:   SB:EHOST
+admin-c:      SEMIK
+nsset:        NSSID:IGNUM
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   22.11.2002 12:25:00
+changed:      16.06.2010 16:12:26
+expire:       22.11.2011
+
+contact:      SB:EHOST
+org:          Ehost
+name:         Jan Tomasek
+address:      Ostravska 3058
+address:      Kladno
+address:      27201
+address:      CZ
+registrar:    REG-GENREG
+created:      22.11.2002 12:20:00
+changed:      04.05.2010 16:49:02
+
+contact:      SEMIK
+name:         Jan Tomasek
+address:      Ostravska 3058
+address:      Kladno Sitna
+address:      27201
+address:      CZ
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.04.2010 23:22:07
+
+nsset:        NSSID:IGNUM
+nserver:      ns2.ignum.cz
+nserver:      ns1.ignum.com
+tech-c:       CID:IGN-C117990-YN5
+registrar:    REG-IGNUM
+created:      20.09.2006 09:55:39
+changed:      12.09.2007 11:26:06
+
+contact:      CID:IGN-C117990-YN5
+org:          Ignum, s.r.o.
+name:         Marek Erneker
+address:      Th&Atilde;&iexcl;mova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+registrar:    REG-IGNUM
+created:      11.09.2007 15:28:03
+
+

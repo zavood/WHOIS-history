@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T03:59:10+12:00
+domain_name: vf.net.nz
+query_status: 200 Active
+domain_dateregistered: 2008-10-03T09:26:49+13:00
+domain_datebilleduntil: 2012-10-03T09:26:49+13:00
+domain_datelastmodified: 2011-08-01T19:38:23+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Vodafone NZ Limited
+registrar_address1: PO Box 7281
+registrar_address2: Wellesley Street
+registrar_city: Auckland
+registrar_postalcode: 1036
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 962 9100
+registrar_fax: +64 9 962 9300
+registrar_email: domains@vodafone.co.nz
+%
+registrant_contact_name: Vodafone
+registrant_contact_address1: c/- Martin Kealey
+registrant_contact_address2: Private Bag 92161
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 9629806
+registrant_contact_email: postmaster@vf.net.nz
+%
+admin_contact_name: Vodafone
+admin_contact_address1: c/- Martin Kealey
+admin_contact_address2: Private Bag 92161
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 9629806
+admin_contact_email: postmaster@vf.net.nz
+%
+technical_contact_name: Domain Name Administrator
+technical_contact_address1: PO Box 7281
+technical_contact_address2: Wellesley Street
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 358 5067
+technical_contact_fax: +64 9 358 4112
+technical_contact_email: domains@ihugbusiness.co.nz
+%
+ns_ip4_01: 203.109.134.2
+ns_name_01: ns1.vf.net.nz
+ns_ip4_02: 203.109.135.2
+ns_name_02: ns2.vf.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
