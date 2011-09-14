@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHANGEIP.COM
+   Domain Name: FAREA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.CHANGEIP.COM
-   Name Server: NS2.CHANGEIP.COM
-   Name Server: NS3.CHANGEIP.COM
-   Name Server: NS4.CHANGEIP.COM
-   Name Server: NS5.CHANGEIP.COM
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2006
-   Creation Date: 02-mar-2000
-   Expiration Date: 02-mar-2013
+   Updated Date: 26-jan-2009
+   Creation Date: 31-may-1999
+   Expiration Date: 31-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:48:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:46:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: changeip.com
+Whois Query: farea.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 05:38:14 EDT 2011
+Date and Time of Query: Wed Sep 14 05:36:51 EDT 2011
 Reason Code: IE
