@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154945685-LROR
+Domain Name:TUHPP.ORG
+Created On:21-Dec-2008 06:14:00 UTC
+Last Updated On:29-Dec-2009 11:00:48 UTC
+Expiration Date:21-Dec-2011 06:14:00 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-3563305-4
+Registrant Name:Mingsarn Kaosa-ard
+Registrant Organization:Social Research Institute, Chiang Mai University
+Registrant Street1:239 Huaykaew, Suthep, Muang, Chiang Mai
+Registrant Street2:239 Huaykaew, Suthep, Muang, Chiang Mai
+Registrant Street3:
+Registrant City:Muang
+Registrant State/Province:Chiangmai
+Registrant Postal Code:50200
+Registrant Country:TH
+Registrant Phone:+66.53942593
+Registrant Phone Ext.:1111
+Registrant FAX:+66.53892649
+Registrant FAX Ext.:
+Registrant Email:supermc_99@hotmail.com
+Admin ID:ONLC-3563305-1
+Admin Name:Mingsarn Kaosa-ard
+Admin Organization:Social Research Institute, Chiang Mai University
+Admin Street1:239 Huaykaew, Suthep, Muang, Chiang Mai
+Admin Street2:239 Huaykaew, Suthep, Muang, Chiang Mai
+Admin Street3:
+Admin City:Muang
+Admin State/Province:Chiangmai
+Admin Postal Code:50200
+Admin Country:TH
+Admin Phone:+66.53942593
+Admin Phone Ext.:1111
+Admin FAX:+66.53892649
+Admin FAX Ext.:
+Admin Email:supermc_99@hotmail.com
+Tech ID:ONLC-3563305-2
+Tech Name:Mingsarn Kaosa-ard
+Tech Organization:Social Research Institute, Chiang Mai University
+Tech Street1:239 Huaykaew, Suthep, Muang, Chiang Mai
+Tech Street2:239 Huaykaew, Suthep, Muang, Chiang Mai
+Tech Street3:
+Tech City:Muang
+Tech State/Province:Chiangmai
+Tech Postal Code:50200
+Tech Country:TH
+Tech Phone:+66.53942593
+Tech Phone Ext.:1111
+Tech FAX:+66.53892649
+Tech FAX Ext.:
+Tech Email:supermc_99@hotmail.com
+Name Server:NS1.DNS-DIY.NET
+Name Server:NS2.DNS-DIY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
