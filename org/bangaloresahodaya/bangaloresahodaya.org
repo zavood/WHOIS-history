@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160622400-LROR
+Domain Name:BANGALORESAHODAYA.ORG
+Created On:09-Nov-2010 05:46:18 UTC
+Last Updated On:09-Jan-2011 03:51:27 UTC
+Expiration Date:09-Nov-2011 05:46:18 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR66496042
+Registrant Name:Cross Domains
+Registrant Street1:#355, 'Benaka', 8th Cross, 4th Main,
+Registrant Street2:Avalahalli BDA Layout, BSK 3rd stage
+Registrant Street3:
+Registrant City:Bangalore
+Registrant State/Province:Karnataka
+Registrant Postal Code:560085
+Registrant Country:IN
+Registrant Phone:+91.9880994204
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:crossdomains@gmail.com
+Admin ID:CR66496044
+Admin Name:Cross Domains
+Admin Street1:#355, 'Benaka', 8th Cross, 4th Main,
+Admin Street2:Avalahalli BDA Layout, BSK 3rd stage
+Admin Street3:
+Admin City:Bangalore
+Admin State/Province:Karnataka
+Admin Postal Code:560085
+Admin Country:IN
+Admin Phone:+91.9880994204
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:crossdomains@gmail.com
+Tech ID:CR66496043
+Tech Name:Cross Domains
+Tech Street1:#355, 'Benaka', 8th Cross, 4th Main,
+Tech Street2:Avalahalli BDA Layout, BSK 3rd stage
+Tech Street3:
+Tech City:Bangalore
+Tech State/Province:Karnataka
+Tech Postal Code:560085
+Tech Country:IN
+Tech Phone:+91.9880994204
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:crossdomains@gmail.com
+Name Server:NS53.DOMAINCONTROL.COM
+Name Server:NS54.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

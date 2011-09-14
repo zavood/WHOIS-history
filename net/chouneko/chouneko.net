@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STEELEND.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Domain Name: CHOUNEKO.NET
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS1.1GB.RU
+   Name Server: NS2.1GB.RU
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-mar-2011
-   Creation Date: 14-mar-2003
-   Expiration Date: 14-mar-2012
+   Updated Date: 01-oct-2010
+   Creation Date: 29-nov-2005
+   Expiration Date: 29-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:33:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:34:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain name:             CHOUNEKO.NET
+Name Server:             ns1.1gb.ru
+Name Server:             ns2.1gb.ru
+Creation Date:           2005.11.29
+Updated Date:            2009.11.11
+Expiration Date:         2011.11.29
 
+Status:                  DELEGATED
 
-Registrant:
-   Steele Betterment Club
+Registrant ID:           NOJCJNM-RU
+Registrant Name:         Tamara V Mylnikova
+Registrant Organization: Tamara V Mylnikova
+Registrant Street1:      Lermontva 12-27
+Registrant City:         Penza
+Registrant State:        Penza region
+Registrant Postal Code:  440026
+Registrant Country:      RU
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STEELEND.COM
+Administrative, Technical Contact
+Contact ID:              ACAO7NO-RU
+Contact Name:            mikaze
+Contact Street1:         ***********
+Contact City:            ****
+Contact Postal Code:     123476
+Contact Country:         RU
+Contact Phone:           +894578347564
+Contact E-mail:          aniga@inbox.ru
 
-   Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
+Last updated on 2011.09.14 10:35:17 MSK/MSD
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STEELEND.COM
