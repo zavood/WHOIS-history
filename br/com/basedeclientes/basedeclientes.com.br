@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 14:50:45 (BRT -03:00)
+
+domain:      basedeclientes.com.br
+owner:       Anacleia Ramos de Araujo
+ownerid:     022.304.123-88
+country:     BR
+owner-c:     SIROC12
+admin-c:     SIROC12
+tech-c:      SIROC12
+billing-c:   SIROC12
+nserver:     ns1.servidor5.srvwindows.info
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.servidor5.srvwindows.info
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20110404 #8129967
+expires:     20120404
+changed:     20110727
+status:      published
+
+nic-hdl-br:  SIROC12
+person:      Silvestre Rocha
+e-mail:      silvestrerochafilho@yahoo.com.br
+created:     20090721
+changed:     20090721
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

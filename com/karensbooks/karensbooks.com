@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INDYMARRIOTT.COM
+   Domain Name: KARENSBOOKS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: A.NS.INTERLAND.NET
+   Name Server: B.NS.INTERLAND.NET
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2006
-   Creation Date: 25-aug-1999
-   Expiration Date: 25-aug-2012
+   Updated Date: 02-aug-2011
+   Creation Date: 20-sep-1997
+   Expiration Date: 19-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:50:24 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: indymarriott.com
+Whois Query: karensbooks.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 13:40:26 EDT 2011
+Date and Time of Query: Wed Sep 14 13:40:08 EDT 2011
 Reason Code: IE
