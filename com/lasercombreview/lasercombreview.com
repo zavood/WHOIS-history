@@ -5,19 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADAHOST.NET
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOCONGELADO.COM.BR
-   Name Server: NS2.DOMINIOCONGELADO.COM.BR
-   Name Server: NS3.DOMINIOCONGELADO.COM.BR
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 30-jun-2009
-   Expiration Date: 30-jun-2011
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:38 UTC &lt;&lt;&lt;
+No match for &quot;LASERCOMBREVIEW.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
-
-Searching for radahost.net.
-No records matching radahost.net found.
-

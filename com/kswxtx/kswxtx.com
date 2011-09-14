@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADAHOST.NET
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOCONGELADO.COM.BR
-   Name Server: NS2.DOMINIOCONGELADO.COM.BR
-   Name Server: NS3.DOMINIOCONGELADO.COM.BR
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 30-jun-2009
-   Expiration Date: 30-jun-2011
+   Domain Name: KSWXTX.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
+   Status: ok
+   Updated Date: 30-jun-2011
+   Creation Date: 03-jul-2008
+   Expiration Date: 03-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:38 UTC &lt;&lt;&lt;
 
@@ -52,8 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Searching for radahost.net.
-No records matching radahost.net found.
+Domain Name      : kswxtx.com
+PunnyCode        : kswxtx.com
+Creation Date    : 2008-07-04 00:00:00
+Updated Date     : 2011-07-01 09:43:28
+Expiration Date  : 2012-07-04 00:00:00
 
+
+Registrant:
+  Organization   : LU BANGPING
+  Name           : LUBANGPING
+  Address        : KUNSHAN
+  City           : KUNSHAN
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 215300
+
+Administrative Contact:
+  Name           : LUBANGPING
+  Organization   : LU BANGPING
+  Address        : KUNSHAN
+  City           : KUNSHAN
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 215300
+  Phone Number   : -512-57620641
+  Fax            : -512-57620641
+  Email          : smtk@yahoo.cn
+
+Technical Contact:
+  Name           : LUBANGPING
+  Organization   : LU BANGPING
+  Address        : KUNSHAN
+  City           : KUNSHAN
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 215300
+  Phone Number   : --57620641
+  Fax            : --57620641
+  Email          : smtk@yahoo.cn
+
+Billing Contact:
+  Name           : LUBANGPING
+  Organization   : LU BANGPING
+  Address        : KUNSHAN
+  City           : KUNSHAN
+  Province/State : Jiangsu
+  Country        : CN
+  Postal Code    : 215300
+  Phone Number   : --57620641
+  Fax            : --57620641
+  Email          : smtk@yahoo.cn

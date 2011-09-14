@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADAHOST.NET
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOCONGELADO.COM.BR
-   Name Server: NS2.DOMINIOCONGELADO.COM.BR
-   Name Server: NS3.DOMINIOCONGELADO.COM.BR
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 30-jun-2009
-   Expiration Date: 30-jun-2011
+   Domain Name: KAHST.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.PROFITABILITY.NET
+   Name Server: NS2.PROFITABILITY.NET
+   Name Server: NS3.PROFITABILITY.NET
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2010
+   Creation Date: 08-jul-2007
+   Expiration Date: 08-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
 
-Searching for radahost.net.
-No records matching radahost.net found.
+
+Registrant:
+Basher, Cern
+   Cern Basher
+   7858 Wild Orchard Lane
+   Cincinnati, OH 45242
+   US
+
+   Domain Name: KAHST.COM
+
+   Administrative Contact:
+      Basher, Cern		cbasher@fuse.net
+      Cern Basher
+      7858 Wild Orchard Lane
+      Cincinnati, OH 45242
+      US
+      5137920445
+
+
+   Record expires on 08-Jul-2012.
+   Record created on 08-Jul-2007.
+   Database last updated on 14-Sep-2011 12:36:13 EDT.
+
+   Domain servers in listed order:
+
+   NS1.PROFITABILITY.NET        209.173.159.5
+   NS2.PROFITABILITY.NET        209.173.159.6
+   NS3.PROFITABILITY.NET        209.173.135.131
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
 

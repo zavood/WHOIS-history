@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160877627-LROR
+Domain Name:KALITEPORNOLAR.ORG
+Created On:09-Dec-2010 08:57:49 UTC
+Last Updated On:25-May-2011 14:41:52 UTC
+Expiration Date:09-Dec-2012 08:57:49 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_9306600
+Registrant Name:IsimTescil.Net
+Registrant Organization:IsimTescil.Net
+Registrant Street1:Bulgurlu mah. Selvili Sok. No:16 Camlica
+Registrant Street2:
+Registrant Street3:
+Registrant City:Uskudar
+Registrant State/Province:Istanbul
+Registrant Postal Code:34696
+Registrant Country:TR
+Registrant Phone:+90.2163299393
+Registrant Phone Ext.:
+Registrant FAX:+90.2163292333
+Registrant FAX Ext.:
+Registrant Email:info@isimtescil.net
+Admin ID:DI_9306600
+Admin Name:IsimTescil.Net
+Admin Organization:IsimTescil.Net
+Admin Street1:Bulgurlu mah. Selvili Sok. No:16 Camlica
+Admin Street2:
+Admin Street3:
+Admin City:Uskudar
+Admin State/Province:Istanbul
+Admin Postal Code:34696
+Admin Country:TR
+Admin Phone:+90.2163299393
+Admin Phone Ext.:
+Admin FAX:+90.2163292333
+Admin FAX Ext.:
+Admin Email:info@isimtescil.net
+Tech ID:DI_9306600
+Tech Name:IsimTescil.Net
+Tech Organization:IsimTescil.Net
+Tech Street1:Bulgurlu mah. Selvili Sok. No:16 Camlica
+Tech Street2:
+Tech Street3:
+Tech City:Uskudar
+Tech State/Province:Istanbul
+Tech Postal Code:34696
+Tech Country:TR
+Tech Phone:+90.2163299393
+Tech Phone Ext.:
+Tech FAX:+90.2163292333
+Tech FAX Ext.:
+Tech Email:info@isimtescil.net
+Name Server:NS2.TELEKOMUNTAA.COM
+Name Server:NS1.TELEKOMUNTAA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

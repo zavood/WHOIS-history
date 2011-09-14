@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADAHOST.NET
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOCONGELADO.COM.BR
-   Name Server: NS2.DOMINIOCONGELADO.COM.BR
-   Name Server: NS3.DOMINIOCONGELADO.COM.BR
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 30-jun-2009
-   Expiration Date: 30-jun-2011
+   Domain Name: LANGBRIDGE.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.LANGBRIDGE.COM
+   Name Server: NS2.LANGBRIDGE.COM
+   Status: clientTransferProhibited
+   Updated Date: 01-mar-2011
+   Creation Date: 31-aug-1999
+   Expiration Date: 31-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:47:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
 
-Searching for radahost.net.
-No records matching radahost.net found.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
+Registrant:
+   Langbridge Inc.
+   PO BOX 61250
+   Raleigh, NC 27661-1250
+   US
+
+   Domain Name: LANGBRIDGE.COM
+
+   Administrative Contact, Technical Contact, Zone Contact:
+      Langbridge Inc.
+      Alexander, Jason
+      PO BOX 61250
+      Raleigh, NC 27661-1250
+      US
+      (555)555-5555
+      evgenii@prussakov.com
+
+   Domain created on 31-Aug-1999
+   Domain expires on 31-Aug-2013
+   Last updated on 01-Mar-2011
+
+   Domain servers in listed order:
+
+      NS1.LANGBRIDGE.COM
+      NS2.LANGBRIDGE.COM
+
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 

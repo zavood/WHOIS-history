@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADAHOST.NET
-   Registrar: UNIVERSO ONLINE S/A (UOL)
-   Whois Server: whois.host.uol.com.br
-   Referral URL: http://registrar.host.uol.com.br
-   Name Server: NS1.DOMINIOCONGELADO.COM.BR
-   Name Server: NS2.DOMINIOCONGELADO.COM.BR
-   Name Server: NS3.DOMINIOCONGELADO.COM.BR
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 30-jun-2009
-   Expiration Date: 30-jun-2011
+   Domain Name: S-SHIORI.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: SV.ILPIANO.CO.JP
+   Name Server: SV2.ILPIANO.CO.JP
+   Status: ok
+   Updated Date: 19-apr-2010
+   Creation Date: 15-apr-2010
+   Expiration Date: 15-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:46:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:45:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% UOL HOST whois server
+GMO Internet, Inc. whois server 2.0
 
-Searching for radahost.net.
-No records matching radahost.net found.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
+
+Domain Handle: None
+Domain Name: s-shiori.com
+Created On: 2010-04-16 01:49:29.0
+Last Updated On: 2010-04-19 18:05:08.0
+Expiration Date: 2013-04-16 01:49:29.0
+Status: ACTIVE
+Registrant Name: noriyuki yoshiike
+Registrant Organization: i-craft co.,ltd.
+Registrant Street1: 3-8-4 Kudanminami
+Registrant Street2: 604
+Registrant City: Chiyoda-ku
+Registrant State: Tokyo
+Registrant Postal Code: 102-0074
+Registrant Country: JP
+Registrant Phone: 03-3263-0650
+Registrant Fax: 03-3512-5641
+Registrant Email: yoshiike@ilpiano.co.jp
+Admin Name: noriyuki yoshiike
+Admin Organization: i-craft co.,ltd.
+Admin Street1: 3-8-4 Kudanminami
+Admin Street2: 604
+Admin City: Chiyoda-ku
+Admin State: Tokyo
+Admin Postal Code: 102-0074
+Admin Country: JP
+Admin Phone: 03-3263-0650
+Admin Fax: 03-3512-5641
+Admin Email: yoshiike@ilpiano.co.jp
+Billing Name: noriyuki yoshiike
+Billing Organization: i-craft co.,ltd.
+Billing Street1: 3-8-4 Kudanminami
+Billing Street2: 604
+Billing City: Chiyoda-ku
+Billing State: Tokyo
+Billing Postal Code: 102-0074
+Billing Country: JP
+Billing Phone: 03-3263-0650
+Billing Fax: 03-3512-5641
+Billing Email: yoshiike@ilpiano.co.jp
+Tech Name: noriyuki yoshiike
+Tech Organization: i-craft co.,ltd.
+Tech Street1: 3-8-4 Kudanminami
+Tech Street2: 604
+Tech City: Chiyoda-ku
+Tech State: Tokyo
+Tech Postal Code: 102-0074
+Tech Country: JP
+Tech Phone: 03-3263-0650
+Tech Fax: 03-3512-5641
+Tech Email: yoshiike@ilpiano.co.jp
+Name Server: sv.ilpiano.co.jp
+Name Server: sv2.ilpiano.co.jp
 
