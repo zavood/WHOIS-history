@@ -1,0 +1,18 @@
+
+domain:   eduskunta.fi
+descr:    Eduskunta
+descr:    02459771
+address:  Tietohallintotoimisto
+address:  Aurorankatu 6
+address:  00102
+address:  Helsinki
+phone:    4321
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns1.eduskunta.fi [OK] 217.71.145.22
+nserver: ns2.eduskunta.fi [OK] 217.71.145.21
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority
