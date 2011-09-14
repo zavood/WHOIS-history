@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; bfmtv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      bfmtv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    B5766-FRNIC
+admin-c:     GZ224-FRNIC
+tech-c:      HM1896-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1835-FRNIC
+registrar:   MAILCLUB
+anniversary: 07/07
+created:     06/06/2005
+last-update: 08/06/2011
+source:      FRNIC
+
+ns-list:     NSL1835-FRNIC
+nserver:     ns1.mailclub.fr [80.245.60.10]
+nserver:     ns2.mailclub.fr [193.151.86.13]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     B5766-FRNIC
+type:        ORGANIZATION
+contact:     BFM TV
+address:     BFMTV
+address:     12, rue d'oradour sur glane
+address:     75015 Paris
+country:     FR
+phone:       +33 1 71 19 89 15
+fax-no:      +33 1 71 18 52 50
+e-mail:      domaines@telecharger.com
+changed:     03/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GZ224-FRNIC
+type:        ORGANIZATION
+contact:     GROUPE 01
+address:     Groupe 01
+address:     0, net.com / 01men
+address:     12, rue d'oradour sur glane
+address:     75015 Paris
+country:     FR
+phone:       +33 1 71 19 89 15
+fax-no:      +33 1 71 18 52 50
+e-mail:      domaines@telecharger.com
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HM1896-FRNIC
+type:        PERSON
+contact:     Host Master
+address:     MAILCLUB
+address:     Pole Media de la Belle de Mai, 37 rue Guibal
+address:     13356 Marseille
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+changed:     05/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
