@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MPEON.COM
-   Registrar: DOTNAME KOREA CORP
-   Whois Server: whois.dotname.co.kr
-   Referral URL: http://www.dotname.co.kr
-   Name Server: GREEN.SAMSUNG.CO.KR
-   Name Server: RED.SAMSUNG.CO.KR
-   Status: ok
-   Updated Date: 23-jun-2010
-   Creation Date: 13-jul-2000
-   Expiration Date: 13-jul-2019
+   Domain Name: JEDISABER.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.GOGAX.COM
+   Name Server: NS2.GOGAX.COM
+   Status: clientTransferProhibited
+   Updated Date: 28-may-2011
+   Creation Date: 24-may-2000
+   Expiration Date: 24-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:40:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:39:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name           : mpeon.com
-Registrar             : Dotname Korea Corp.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
-	company       :
-	name          :
-	e-mail        :
-	address1      :
-	address2      :
-	city          :
-	zipcode       :
-	country       :
-	phone         :
-	fax           :
+   Sovran Internet Development Grou
+   290 S. Blackmer Rd.
+   Crystal, MI 48818
+   US
 
-Administrative Contact:
-	name          :
-	e-mail        :
-	address1      :
-	address2      :
-	city          :
-	zipcode       :
-	country       :
-	phone         :
-	fax           :
+   Domain Name: JEDISABER.COM
 
-Technical Contact:
-	name          :
-	e-mail        :
-	address1      :
-	address2      :
-	city          :
-	zipcode       :
-	country       :
-	phone         :
-	fax           :
+   Administrative Contact, Technical Contact, Zone Contact:
+      Sovran Internet Development Grou
+      Ken McIntyre
+      290 S. Blackmer Rd.
+      Crystal, MI 48818
+      US
+      (989)690-2005
+      kenmc@sovraninternet.com
 
-Domain servers in listed order:
+   Domain created on 24-May-2000
+   Domain expires on 23-May-2012
+   Last updated on 28-May-2011
 
-Created on 2000-07-13
-Updated on 2010-06-23
-Expires on 2019-07-13&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+   Domain servers in listed order:
+
+      NS1.GOGAX.COM
+      NS2.GOGAX.COM
+
 
 
