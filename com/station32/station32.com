@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OPIUSLY.COM
-   Registrar: ANSWERABLE.COM (I) PVT. LTD.
-   Whois Server: whois.answerable.com
-   Referral URL: http://www.answerable.com
-   Name Server: NS3.HOSTMAR.COM
-   Name Server: NS4.HOSTMAR.COM
-   Status: ok
-   Updated Date: 14-mar-2011
-   Creation Date: 05-sep-2007
-   Expiration Date: 05-sep-2012
+   Domain Name: STATION32.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS15.DOMAINCONTROL.COM
+   Name Server: NS16.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 26-oct-2010
+   Creation Date: 03-nov-2009
+   Expiration Date: 03-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:06:21 UTC &lt;&lt;&lt;
 
@@ -51,73 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: BIGROCK.COM
-Contact: +01.4153580892
-Website: http://www.bigrock.com
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name: OPIUSLY.COM
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
+
 
 Registrant:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+   Bluebeam Software
 
-Creation Date: 05-Sep-2007
-Expiration Date: 05-Sep-2012
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: STATION32.COM
 
-Domain servers in listed order:
-    ns3.hostmar.com
-    ns4.hostmar.com
+   Domain servers in listed order:
+      NS15.DOMAINCONTROL.COM
+      NS16.DOMAINCONTROL.COM
 
 
-Administrative Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
-
-Technical Contact:
-    Opiusly
-    Luciana Cabanillas        (lpiccini@nortech.com.ar)
-    Alte. Brown 200
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.91166396391
-    Fax. +054.1147429320
-
-Billing Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
-
-Status:ACTIVE
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=STATION32.COM

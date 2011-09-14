@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OPIUSLY.COM
-   Registrar: ANSWERABLE.COM (I) PVT. LTD.
-   Whois Server: whois.answerable.com
-   Referral URL: http://www.answerable.com
-   Name Server: NS3.HOSTMAR.COM
-   Name Server: NS4.HOSTMAR.COM
-   Status: ok
-   Updated Date: 14-mar-2011
-   Creation Date: 05-sep-2007
+   Domain Name: BIGHOSTSAVE.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1007.WEBSITEWELCOME.COM
+   Name Server: NS1008.WEBSITEWELCOME.COM
+   Status: clientHold
+   Status: clientTransferProhibited
+   Updated Date: 06-sep-2011
+   Creation Date: 05-sep-2009
    Expiration Date: 05-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:06:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +52,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: BIGROCK.COM
-Contact: +01.4153580892
-Website: http://www.bigrock.com
 
-Domain Name: OPIUSLY.COM
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-Registrant:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+Whois Output for: bighostsave.com
 
-Creation Date: 05-Sep-2007
-Expiration Date: 05-Sep-2012
+This domain name has expired and is suspended pending renewal.
 
-Domain servers in listed order:
-    ns3.hostmar.com
-    ns4.hostmar.com
-
+Domain Name Owner:
+  Big Host Save
+  353 M1 Maekham
+  Maechan, Chiangrai 57240
+  TH
 
 Administrative Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+  Jeerat, Narin
+  Big Host Save
+  353 M1 Maekham
+  Maechan, Chiangrai 57240, TH
+  Phone: +66.833222552
+  Email: imnarin@gmail.com
 
 Technical Contact:
-    Opiusly
-    Luciana Cabanillas        (lpiccini@nortech.com.ar)
-    Alte. Brown 200
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.91166396391
-    Fax. +054.1147429320
+  Jeerat, Narin
+  Big Host Save
+  353 M1 Maekham
+  Maechan, Chiangrai 57240, TH
+  Phone: +66.833222552
+  Email: imnarin@gmail.com
 
 Billing Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+  Jeerat, Narin
+  Big Host Save
+  353 M1 Maekham
+  Maechan, Chiangrai 57240, TH
+  Phone: +66.833222552
+  Email: imnarin@gmail.com
 
-Status:ACTIVE
+Record Information:
+  Domain Record Created: September 05, 2009
+  Domain Record Updated: September 06, 2011
+  Domain Record Expires: September 05, 2011
 
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+DNS Information:
+  Name Server: ns1007.websitewelcome.com
+  Name Server: ns1008.websitewelcome.com
 

@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINERINTERNATIONAL.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: DNS049.A.REGISTER.COM
-   Name Server: DNS063.B.REGISTER.COM
-   Name Server: DNS210.C.REGISTER.COM
-   Name Server: DNS249.D.REGISTER.COM
+   Domain Name: HYVIJINYMUT.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.HYVIJINYMUT.COM
+   Name Server: NS2.HYVIJINYMUT.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 30-oct-2009
-   Creation Date: 30-oct-2009
-   Expiration Date: 30-oct-2012
+   Updated Date: 04-apr-2011
+   Creation Date: 03-apr-2011
+   Expiration Date: 03-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:35 UTC &lt;&lt;&lt;
 
@@ -54,67 +53,61 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
-obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
+Domain name: hyvijinymut.com
 
-   Registrant:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7ad0a1612336a757be1c505e582@domaindiscreet.com
+Registrant Contact:
+   Elena Bukina
+   Elena Bukina vista@free-id.ru
+   +7122740645 fax: +7122740645
+   Nevskij pr-kt d.134 lit.B pom.5N
+   Sankt-Peterburg Sankt-Peterburg 191036
+   RU
 
+Administrative Contact:
+   Elena Bukina vista@free-id.ru
+   +7122740645 fax: +7122740645
+   Nevskij pr-kt d.134 lit.B pom.5N
+   Sankt-Peterburg Sankt-Peterburg 191036
+   RU
 
+Technical Contact:
+   Elena Bukina vista@free-id.ru
+   +7122740645 fax: +7122740645
+   Nevskij pr-kt d.134 lit.B pom.5N
+   Sankt-Peterburg Sankt-Peterburg 191036
+   RU
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
+Billing Contact:
+   Elena Bukina vista@free-id.ru
+   +7122740645 fax: +7122740645
+   Nevskij pr-kt d.134 lit.B pom.5N
+   Sankt-Peterburg Sankt-Peterburg 191036
+   RU
 
-   Domain Name: shinerinternational.com
-      Created on..............: 2009-10-30
-      Expires on..............: 2012-10-30
+Registration Service Provider:
+name: Bizcn
 
-   Administrative Contact:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7a30a161233146c195f06f649e3@domaindiscreet.com
+DNS:
+ns1.hyvijinymut.com
+ns2.hyvijinymut.com
 
-
-   Technical  Contact:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7ad0a16123302c175bed1c7382e@domaindiscreet.com
-
-
-   DNS Servers:
-      dns249.d.register.com
-      dns210.c.register.com
-      dns063.b.register.com
-      dns049.a.register.com
-
-
-
+Created: 2011-04-03
+Expires: 2012-04-03

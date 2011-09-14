@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: OPIUSLY.COM
-   Registrar: ANSWERABLE.COM (I) PVT. LTD.
-   Whois Server: whois.answerable.com
-   Referral URL: http://www.answerable.com
-   Name Server: NS3.HOSTMAR.COM
-   Name Server: NS4.HOSTMAR.COM
+   Domain Name: MYPCCARE.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS7.AGTSINDIA.COM
+   Name Server: NS8.AGTSINDIA.COM
    Status: ok
-   Updated Date: 14-mar-2011
-   Creation Date: 05-sep-2007
-   Expiration Date: 05-sep-2012
+   Updated Date: 08-mar-2011
+   Creation Date: 15-may-2010
+   Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:06:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +51,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: BIGROCK.COM
-Contact: +01.4153580892
-Website: http://www.bigrock.com
+Registration Service Provided By: MAILMANTRA CONSULTANCY SERVICES
+Contact: +033.24197427
 
-Domain Name: OPIUSLY.COM
+Domain Name: MYPCCARE.COM
 
 Registrant:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+    Zeal IT Solutions Pvt. Ltd
+    Zeal IT Solutions Pvt. Ltd.        (zealinfo123@gmail.com)
+    CD-202, Sector-1,Salt Lake City
+    Kolkata
+    West Bengal,700064
+    IN
+    Tel. +033.65486467
 
-Creation Date: 05-Sep-2007
-Expiration Date: 05-Sep-2012
+Creation Date: 15-May-2010
+Expiration Date: 15-May-2012
 
 Domain servers in listed order:
-    ns3.hostmar.com
-    ns4.hostmar.com
+    ns7.agtsindia.com
+    ns8.agtsindia.com
 
 
 Administrative Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+    Zeal IT Solutions Pvt. Ltd
+    Zeal IT Solutions Pvt. Ltd.        (zealinfo123@gmail.com)
+    CD-202, Sector-1,Salt Lake City
+    Kolkata
+    West Bengal,700064
+    IN
+    Tel. +033.65486467
 
 Technical Contact:
-    Opiusly
-    Luciana Cabanillas        (lpiccini@nortech.com.ar)
-    Alte. Brown 200
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.91166396391
-    Fax. +054.1147429320
+    Zeal IT Solutions Pvt. Ltd
+    Zeal IT Solutions Pvt. Ltd.        (zealinfo123@gmail.com)
+    CD-202, Sector-1,Salt Lake City
+    Kolkata
+    West Bengal,700064
+    IN
+    Tel. +033.65486467
 
 Billing Contact:
-    kuma srl
-    Gisela Gaffoglio        (giselagaffoglio@gmail.com)
-    Jose Penna 1197
-    San Isidro
-    Buenos Aires,1642
-    AR
-    Tel. +054.1147420320
-    Fax. +054.1147470381
+    Zeal IT Solutions Pvt. Ltd
+    Zeal IT Solutions Pvt. Ltd.        (zealinfo123@gmail.com)
+    CD-202, Sector-1,Salt Lake City
+    Kolkata
+    West Bengal,700064
+    IN
+    Tel. +033.65486467
 
 Status:ACTIVE
 
@@ -117,7 +112,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

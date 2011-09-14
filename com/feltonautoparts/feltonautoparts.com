@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINERINTERNATIONAL.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
+   Domain Name: FELTONAUTOPARTS.COM
+   Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: DNS049.A.REGISTER.COM
-   Name Server: DNS063.B.REGISTER.COM
-   Name Server: DNS210.C.REGISTER.COM
+   Name Server: DNS015.B.REGISTER.COM
+   Name Server: DNS103.A.REGISTER.COM
+   Name Server: DNS230.C.REGISTER.COM
    Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 30-oct-2009
-   Creation Date: 30-oct-2009
-   Expiration Date: 30-oct-2012
+   Updated Date: 05-jan-2011
+   Creation Date: 24-jan-1999
+   Expiration Date: 24-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:06:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +72,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7ad0a1612336a757be1c505e582@domaindiscreet.com
+      Inventory Technology Systems
+      Anthony Biggs
+      PO Box 1945
+      Edmonds, WA 92080
+      US
+      Phone: +1.9516005961
+      Email: tomel@invtechs.com
 
 
 
@@ -86,35 +86,41 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: shinerinternational.com
-      Created on..............: 2009-10-30
-      Expires on..............: 2012-10-30
+   Domain Name: feltonautoparts.com
+      Created on..............: 1999-01-24
+      Expires on..............: 2013-01-24
 
    Administrative Contact:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7a30a161233146c195f06f649e3@domaindiscreet.com
+      ITS
+      Todd Omel
+      PO Box 1945
+      Edmonds, WA 98020
+      US
+      Phone: +1.9516005961
+      Email: tomel@invtechs.com
 
 
    Technical  Contact:
-      Domain Discreet
-      ATTN: shinerinternational.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 612ef7ad0a16123302c175bed1c7382e@domaindiscreet.com
+
+      Todd Omel
+      42562 Sauternes Lane
+      Murrieta, CA 92562
+      US
+      Phone: +1.9516005961
+      Email: its_hosting@hotmail.com
 
 
    DNS Servers:
       dns249.d.register.com
-      dns210.c.register.com
-      dns063.b.register.com
-      dns049.a.register.com
+      dns103.a.register.com
+      dns015.b.register.com
+      dns230.c.register.com
 
 
+
+Visit AboutUs.org for more information about feltonautoparts.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/feltonautoparts.com&quot;&gt;AboutUs: feltonautoparts.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

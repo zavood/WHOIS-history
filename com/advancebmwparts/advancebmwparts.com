@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINERINTERNATIONAL.COM
-   Registrar: RANGER REGISTRATION (MADEIRA) LLC.
+   Domain Name: ADVANCEBMWPARTS.COM
+   Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: DNS049.A.REGISTER.COM
-   Name Server: DNS063.B.REGISTER.COM
-   Name Server: DNS210.C.REGISTER.COM
+   Name Server: DNS083.B.REGISTER.COM
+   Name Server: DNS140.A.REGISTER.COM
+   Name Server: DNS234.C.REGISTER.COM
    Name Server: DNS249.D.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 30-oct-2009
-   Creation Date: 30-oct-2009
-   Expiration Date: 30-oct-2012
+   Updated Date: 18-aug-2011
+   Creation Date: 23-oct-2002
+   Expiration Date: 23-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:05:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,12 +73,12 @@ By submitting this query, you agree to abide by these terms.
 
    Registrant:
       Domain Discreet
-      ATTN: shinerinternational.com
+      ATTN: advancebmwparts.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 612ef7ad0a1612336a757be1c505e582@domaindiscreet.com
+      Email: 5c0a8d700a161233003262d53749cb3d@domaindiscreet.com
 
 
 
@@ -86,35 +86,35 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: shinerinternational.com
-      Created on..............: 2009-10-30
-      Expires on..............: 2012-10-30
+   Domain Name: advancebmwparts.com
+      Created on..............: 2002-10-23
+      Expires on..............: 2012-10-23
 
    Administrative Contact:
       Domain Discreet
-      ATTN: shinerinternational.com
+      ATTN: advancebmwparts.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 612ef7a30a161233146c195f06f649e3@domaindiscreet.com
+      Email: 5c0a8d6f0a1612336167283c04ded677@domaindiscreet.com
 
 
    Technical  Contact:
       Domain Discreet
-      ATTN: shinerinternational.com
+      ATTN: advancebmwparts.com
       Rua Dr. Brito Camara, n 20, 1
       Funchal, Madeira 9000-039
       PT
       Phone: 1-902-7495331
-      Email: 612ef7ad0a16123302c175bed1c7382e@domaindiscreet.com
+      Email: 5c0a8d700a1612336bf68e0c47f513e0@domaindiscreet.com
 
 
    DNS Servers:
+      dns140.a.register.com
+      dns234.c.register.com
+      dns083.b.register.com
       dns249.d.register.com
-      dns210.c.register.com
-      dns063.b.register.com
-      dns049.a.register.com
 
 
 

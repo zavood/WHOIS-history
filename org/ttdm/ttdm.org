@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D125202939-LROR
+Domain Name:TTDM.ORG
+Created On:29-Jun-2006 05:43:38 UTC
+Last Updated On:13-Jun-2011 12:31:15 UTC
+Expiration Date:29-Jun-2012 05:43:38 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:DI_3140870
+Registrant Name:wuduer
+Registrant Organization:N/A
+Registrant Street1:swerwrw
+Registrant Street2:
+Registrant Street3:
+Registrant City:swerwrw dsfsf
+Registrant State/Province:Beijing
+Registrant Postal Code:232211
+Registrant Country:CN
+Registrant Phone:+051.3342423432
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wuduer@163.com
+Admin ID:DI_3140870
+Admin Name:wuduer
+Admin Organization:N/A
+Admin Street1:swerwrw
+Admin Street2:
+Admin Street3:
+Admin City:swerwrw dsfsf
+Admin State/Province:Beijing
+Admin Postal Code:232211
+Admin Country:CN
+Admin Phone:+051.3342423432
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wuduer@163.com
+Tech ID:DI_3140870
+Tech Name:wuduer
+Tech Organization:N/A
+Tech Street1:swerwrw
+Tech Street2:
+Tech Street3:
+Tech City:swerwrw dsfsf
+Tech State/Province:Beijing
+Tech Postal Code:232211
+Tech Country:CN
+Tech Phone:+051.3342423432
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wuduer@163.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
