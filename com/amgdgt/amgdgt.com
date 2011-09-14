@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CASHPARKING.COM
+   Domain Name: AMGDGT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: ANS01.DOMAINCONTROL.COM
-   Name Server: ANS02.DOMAINCONTROL.COM
+   Name Server: NS1.AMGDGT.COM
+   Name Server: NS2.AMGDGT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-jan-2010
-   Creation Date: 17-apr-2005
-   Expiration Date: 17-apr-2019
+   Updated Date: 10-jul-2009
+   Creation Date: 15-apr-2008
+   Expiration Date: 15-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:57:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:55:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   GoDaddy.com, Inc.
+   Adconion Media, Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CASHPARKING.COM
+   Domain Name: AMGDGT.COM
 
    Domain servers in listed order:
-      ANS01.DOMAINCONTROL.COM
-      ANS02.DOMAINCONTROL.COM
+      NS1.AMGDGT.COM
+      NS2.AMGDGT.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CASHPARKING.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=AMGDGT.COM

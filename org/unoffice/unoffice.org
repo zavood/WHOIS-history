@@ -14,63 +14,64 @@ necessary to register domain names or modify existing registrations.  All
 rights reserved. Public Interest Registry reserves the right to modify these terms at any
 time. By submitting this query, you agree to abide by this policy.
 
-Domain ID:D162792423-LROR
-Domain Name:EUROMUZICA.ORG
-Created On:15-Jul-2011 14:30:34 UTC
-Last Updated On:14-Sep-2011 03:48:36 UTC
-Expiration Date:15-Jul-2012 14:30:34 UTC
-Sponsoring Registrar:Go China Domains, Inc. (R1559-LROR)
+Domain ID:D160634028-LROR
+Domain Name:UNOFFICE.ORG
+Created On:10-Nov-2010 10:37:08 UTC
+Last Updated On:09-Aug-2011 06:49:35 UTC
+Expiration Date:10-Nov-2011 10:37:08 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
 Status:CLIENT DELETE PROHIBITED
+Status:CLIENT HOLD
 Status:CLIENT RENEW PROHIBITED
 Status:CLIENT TRANSFER PROHIBITED
 Status:CLIENT UPDATE PROHIBITED
-Registrant ID:CR88392250
-Registrant Name:Registration Private
-Registrant Organization:Domains by Proxy, Inc.
-Registrant Street1:DomainsByProxy.com
-Registrant Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Registrant ID:DI_13130148
+Registrant Name:Brown Keith
+Registrant Organization:Brown Keith
+Registrant Street1:81 Great Eastern Street, London
+Registrant Street2:
 Registrant Street3:
-Registrant City:Scottsdale
-Registrant State/Province:Arizona
-Registrant Postal Code:85260
-Registrant Country:US
-Registrant Phone:+1.4806242599
+Registrant City:London
+Registrant State/Province:London
+Registrant Postal Code:EC2A 3HU
+Registrant Country:GB
+Registrant Phone:+001.447023048583
 Registrant Phone Ext.:
-Registrant FAX:+1.4806242598
+Registrant FAX:
 Registrant FAX Ext.:
-Registrant Email:EUROMUZICA.ORG@domainsbyproxy.com
-Admin ID:CR88392252
-Admin Name:Registration Private
-Admin Organization:Domains by Proxy, Inc.
-Admin Street1:DomainsByProxy.com
-Admin Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Registrant Email:n0laks@yahoo.com
+Admin ID:DI_13130148
+Admin Name:Brown Keith
+Admin Organization:Brown Keith
+Admin Street1:81 Great Eastern Street, London
+Admin Street2:
 Admin Street3:
-Admin City:Scottsdale
-Admin State/Province:Arizona
-Admin Postal Code:85260
-Admin Country:US
-Admin Phone:+1.4806242599
+Admin City:London
+Admin State/Province:London
+Admin Postal Code:EC2A 3HU
+Admin Country:GB
+Admin Phone:+001.447023048583
 Admin Phone Ext.:
-Admin FAX:+1.4806242598
+Admin FAX:
 Admin FAX Ext.:
-Admin Email:EUROMUZICA.ORG@domainsbyproxy.com
-Tech ID:CR88392251
-Tech Name:Registration Private
-Tech Organization:Domains by Proxy, Inc.
-Tech Street1:DomainsByProxy.com
-Tech Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Admin Email:n0laks@yahoo.com
+Tech ID:DI_13130148
+Tech Name:Brown Keith
+Tech Organization:Brown Keith
+Tech Street1:81 Great Eastern Street, London
+Tech Street2:
 Tech Street3:
-Tech City:Scottsdale
-Tech State/Province:Arizona
-Tech Postal Code:85260
-Tech Country:US
-Tech Phone:+1.4806242599
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:EC2A 3HU
+Tech Country:GB
+Tech Phone:+001.447023048583
 Tech Phone Ext.:
-Tech FAX:+1.4806242598
+Tech FAX:
 Tech FAX Ext.:
-Tech Email:EUROMUZICA.ORG@domainsbyproxy.com
-Name Server:SELL.INTERNETTRAFFIC.COM
-Name Server:BUY.INTERNETTRAFFIC.COM
+Tech Email:n0laks@yahoo.com
+Name Server:NS1.SUSPENDED-DOMAIN.COM
+Name Server:NS2.SUSPENDED-DOMAIN.COM
 Name Server:
 Name Server:
 Name Server:

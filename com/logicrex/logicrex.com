@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CASHPARKING.COM
+   Domain Name: LOGICREX.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: ANS01.DOMAINCONTROL.COM
-   Name Server: ANS02.DOMAINCONTROL.COM
+   Name Server: NS753.WEBSITEWELCOME.COM
+   Name Server: NS754.WEBSITEWELCOME.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-jan-2010
-   Creation Date: 17-apr-2005
-   Expiration Date: 17-apr-2019
+   Updated Date: 22-feb-2011
+   Creation Date: 10-may-2009
+   Expiration Date: 10-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:57:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:56:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   GoDaddy.com, Inc.
+   LogicRex
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CASHPARKING.COM
+   Domain Name: LOGICREX.COM
 
    Domain servers in listed order:
-      ANS01.DOMAINCONTROL.COM
-      ANS02.DOMAINCONTROL.COM
+      NS753.WEBSITEWELCOME.COM
+      NS754.WEBSITEWELCOME.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CASHPARKING.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=LOGICREX.COM
