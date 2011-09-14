@@ -1,0 +1,38 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           verisign.se
+holder:           CK1315-612437816
+admin-c:          CL1315-612438172
+tech-c:           CN1315-612438777
+billing-c:        CM1315-612438474
+created:          2005-09-19
+modified:         2011-09-09
+expires:          2012-09-19
+transferred:      2009-05-28
+nserver:          h4.nstld.com
+nserver:          l4.nstld.com
+nserver:          g4.nstld.com
+nserver:          f4.nstld.com
+nserver:          a4.nstld.com
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Melbourne IT CBS
