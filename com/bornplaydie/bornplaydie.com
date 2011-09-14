@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOONESBUTCHERSHOP.COM
+   Domain Name: BORNPLAYDIE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS37.DOMAINCONTROL.COM
-   Name Server: NS38.DOMAINCONTROL.COM
+   Name Server: NS0.MDCCLXXVI.COM
+   Name Server: NS1.BETTERTHANYOURS.COM
+   Name Server: NS2.BETTERTHANYOURS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-mar-2011
-   Creation Date: 07-mar-2007
-   Expiration Date: 07-mar-2013
+   Updated Date: 26-jul-2010
+   Creation Date: 01-may-2001
+   Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:13:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:12:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Boones Abattoir
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BOONESBUTCHERSHOP.COM
+   Domain Name: BORNPLAYDIE.COM
 
    Domain servers in listed order:
-      NS37.DOMAINCONTROL.COM
-      NS38.DOMAINCONTROL.COM
+      NS1.BETTERTHANYOURS.COM
+      NS2.BETTERTHANYOURS.COM
+      NS0.MDCCLXXVI.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BOONESBUTCHERSHOP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BORNPLAYDIE.COM

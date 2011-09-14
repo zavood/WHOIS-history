@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOONESBUTCHERSHOP.COM
+   Domain Name: BLOGGINGFORMICHIGAN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS37.DOMAINCONTROL.COM
-   Name Server: NS38.DOMAINCONTROL.COM
+   Name Server: NS1861.HOSTGATOR.COM
+   Name Server: NS1862.HOSTGATOR.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-mar-2011
-   Creation Date: 07-mar-2007
-   Expiration Date: 07-mar-2013
+   Updated Date: 21-jul-2011
+   Creation Date: 01-may-2007
+   Expiration Date: 01-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:13:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:12:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Boones Abattoir
+   BFM Media LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: BOONESBUTCHERSHOP.COM
+   Domain Name: BLOGGINGFORMICHIGAN.COM
 
    Domain servers in listed order:
-      NS37.DOMAINCONTROL.COM
-      NS38.DOMAINCONTROL.COM
+      NS1861.HOSTGATOR.COM
+      NS1862.HOSTGATOR.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BOONESBUTCHERSHOP.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BLOGGINGFORMICHIGAN.COM
