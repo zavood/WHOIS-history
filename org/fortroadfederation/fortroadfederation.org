@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D18758653-LROR
+Domain Name:FORTROADFEDERATION.ORG
+Created On:31-Jan-2000 15:40:54 UTC
+Last Updated On:15-Feb-2006 21:58:38 UTC
+Expiration Date:31-Jan-2016 15:40:54 UTC
+Sponsoring Registrar:PacNames Ltd. (R107-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DAT00019
+Registrant Name:Creative Data and Design
+Registrant Street1:9130 Olson Memorial Hwy
+Registrant Street2:
+Registrant Street3:
+Registrant City:Golden Valley
+Registrant State/Province:MN
+Registrant Postal Code:55427
+Registrant Country:US
+Registrant Phone:+00.00000000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:registrant@fortroadfederation.org
+Admin ID:CRE00001
+Admin Name:Brent Peterson
+Admin Organization:Creative Data and Design
+Admin Street1:7855 Wayzata Blvd
+Admin Street2:
+Admin Street3:
+Admin City:St. Louis Park
+Admin State/Province:MN
+Admin Postal Code:55426
+Admin Country:US
+Admin Phone:+1.9525452020
+Admin Phone Ext.:
+Admin FAX:+00.00000000
+Admin FAX Ext.:
+Admin Email:creativedata@hotmail.com
+Tech ID:CRE00001
+Tech Name:Brent Peterson
+Tech Organization:Creative Data and Design
+Tech Street1:7855 Wayzata Blvd
+Tech Street2:
+Tech Street3:
+Tech City:St. Louis Park
+Tech State/Province:MN
+Tech Postal Code:55426
+Tech Country:US
+Tech Phone:+1.9525452020
+Tech Phone Ext.:
+Tech FAX:+00.00000000
+Tech FAX Ext.:
+Tech Email:creativedata@hotmail.com
+Name Server:NS2.VISI.COM
+Name Server:NS.VISI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
