@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
-   Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Domain Name: EDWEDGE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.HEARSTNP.COM
+   Name Server: NS2.HEARSTNP.COM
+   Name Server: NS3.HEARSTNP.COM
+   Status: clientTransferProhibited
+   Updated Date: 31-aug-2011
+   Creation Date: 24-jul-2009
+   Expiration Date: 24-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:49:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... edwedge.com
+  Creation Date........ 2009-07-24
+  Registration Date.... 2009-07-24
+  Expiry Date.......... 2012-07-24
+  Organisation Name.... Hearst Communications, Inc.
+  Organisation Address. 300 West 57th Street
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10019
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Administrator
+  Admin Address........ Newspapers/Edwardsville Intelligencer
+  Admin Address........ 959 8th Avenue
+  Admin Address........ New York
+  Admin Address........ 10019
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domains@hearst.com
+  Admin Phone.......... +1.2126492000
+  Admin Fax............ +1.2126492639
+
+Tech Name............ Ron Harris
+  Tech Address......... 716 Montclaire Ave
+  Tech Address.........
+  Tech Address......... Edwardsville
+  Tech Address......... 62025
+  Tech Address......... IL
+  Tech Address......... UNITED STATES
+  Tech Email........... rharris@edwpub.net
+  Tech Phone........... +1.6186564700
+  Tech Fax............. +1.6186567618
+  Name Server.......... ns3.hearstnp.com
+  Name Server.......... ns2.hearstnp.com
+  Name Server.......... ns1.hearstnp.com
+
+

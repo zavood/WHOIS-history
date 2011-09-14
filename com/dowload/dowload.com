@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
+   Domain Name: DOWLOAD.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
+   Name Server: A.NS.THEHITS.COM
+   Name Server: B.NS.THEHITS.COM
    Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Updated Date: 15-aug-2011
+   Creation Date: 28-dec-1997
+   Expiration Date: 27-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
+   Domain Name: S-SWELL.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS1.YMC.NE.JP
+   Name Server: DNS2.YMC.NE.JP
    Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Updated Date: 19-feb-2011
+   Creation Date: 16-mar-2006
+   Expiration Date: 16-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
 
@@ -51,5 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+GMO Internet, Inc. whois server 2.0
+
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
+
+Domain Handle:
+Domain Name: s-swell.com
+Created On: 2006-03-16 15:08:39.0
+Last Updated On: 2011-02-20 13:10:12.0
+Expiration Date: 2012-03-16 05:13:41.0
+Status: ACTIVE
+Registrant Name: Tsutomu Kishida
+Registrant Organization: Kiyomo,Inc
+Registrant Street1: Ue-machi
+Registrant Street2:
+Registrant City: Kishiwada-shi
+Registrant State: Osaka
+Registrant Postal Code: 596-0077
+Registrant Country: JP
+Registrant Phone: 0724-38-1180
+Registrant Fax: 0724-36-2340
+Registrant Email: tsutomukishida@yahoo.co.jp
+Admin Name: Tsutomu Kishida
+Admin Organization: Kiyomo,Inc
+Admin Street1: Ue-machi
+Admin Street2:
+Admin City: Kishiwada-shi
+Admin State: Osaka
+Admin Postal Code: 596-0077
+Admin Country: JP
+Admin Phone: 0724-38-1180
+Admin Fax: 0724-36-2340
+Admin Email: tsutomukishida@yahoo.co.jp
+Billing Name: Tsutomu Kishida
+Billing Organization: Kiyomo,Inc
+Billing Street1: Ue-machi
+Billing Street2:
+Billing City: Kishiwada-shi
+Billing State: Osaka
+Billing Postal Code: 596-0077
+Billing Country: JP
+Billing Phone: 0724-38-1180
+Billing Fax: 0724-36-2340
+Billing Email: tsutomukishida@yahoo.co.jp
+Tech Name: Tsutomu Kishida
+Tech Organization: Kiyomo,Inc
+Tech Street1: Ue-machi
+Tech Street2:
+Tech City: Kishiwada-shi
+Tech State: Osaka
+Tech Postal Code: 596-0077
+Tech Country: JP
+Tech Phone: 0724-38-1180
+Tech Fax: 0724-36-2340
+Tech Email: tsutomukishida@yahoo.co.jp
+Name Server: dns1.ymc.ne.jp
+Name Server: dns2.ymc.ne.jp
+

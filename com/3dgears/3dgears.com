@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
+   Domain Name: 3DGEARS.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NETNAME.COM.UA
+   Name Server: NS11.PROHOSTING.COM.UA
    Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Updated Date: 19-may-2010
+   Creation Date: 21-nov-2005
+   Expiration Date: 21-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
 
@@ -51,5 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
+
+
+Service provided by First Ukrainian Internet-Registrar LLC
+Hosting solutions and domain registration service.
+
+Domain name: 3dgears.com
+
+Registrant:
+      Vladimir Dubovoy  (SROW-264697)
+
+   dubovoy@host.kr.ua
+   Kirovograd Kirovograd
+   Kirovograd   SIN PROVINCIA
+   05222   UA
+   +380 522363185
+
+
+Administrative contact:
+   Vladimir Dubovoy   (SRCO-411047)
+   Vladimir Dubovoy
+   dubovoy@host.kr.ua
+   Kirovograd Kirovograd
+   Kirovograd   SIN PROVINCIA
+   05222   UA
+   +380 522363185
+
+
+Technical contact:
+   Vyacheslav Cherkashyn   (SRCO-101023)
+   First Ukrainian Internet-Registrar LLC
+   info@forward.com.ua
+   134-4-100 Nab Pobeda
+   Dnepropetrovsk   Dnepropetrovsk
+   49106   UA
+   +38 0563705242   fax:+38 0563705242
+
+
+Domain servers in listed order:
+   ns11.prohosting.com.ua  91.207.44.21
+   netname.com.ua  91.207.44.31
+
+
+Created:       22 Nov 2005 00:25:26:790   UTC
+Expires:       21 Nov 2011 00:00:00:000   UTC
+Last updated:  19 May 2010 11:44:18:607   UTC
+
+
+

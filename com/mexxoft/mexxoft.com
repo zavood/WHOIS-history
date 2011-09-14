@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
+   Domain Name: MEXXOFT.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.HOMEPAGE-HOSTER.DE
+   Name Server: NS2.HOMEPAGE-HOSTER.DE
    Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Updated Date: 15-jul-2011
+   Creation Date: 17-jul-2005
+   Expiration Date: 17-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Peter Schaller
+   privat
+   Koehlerweg 1
+   Adendorf, 21365, DE
+
+   Punycode Name:  mexxoft.com
+   Unicode Name:   mexxoft.com
+
+   Admin Contact
+      Peter Schaller
+      privat
+      pfschaller@gmail.com
+      Koehlerweg 1
+      Adendorf, 21365, DE
+      phone: +49.1754151113
+
+   Technical Contact
+      Firma Homepage-Hoster
+      www.homepage-hoster.de
+      info@homepage-hoster.de
+      Willy-Andreas-Allee 17 A207
+      Karlsruhe, 76131, DE
+      phone: +49.72116052157
+
+   Zone Contact
+      Firma Homepage-Hoster
+      www.homepage-hoster.de
+      info@homepage-hoster.de
+      Willy-Andreas-Allee 17 A207
+      Karlsruhe, 76131, DE
+      phone: +49.72116052157
+
+   Record expires on: 2012-07-17 00:00:00
+
+   Domain servers in listed order:
+
+      ns2.homepage-hoster.de 193.254.187.110
+      ns1.homepage-hoster.de 193.254.189.162
+
+
+

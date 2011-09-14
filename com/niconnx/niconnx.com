@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOPAWS.COM
+   Domain Name: NICONNX.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS17.IXWEBHOSTING.COM
-   Name Server: NS18.IXWEBHOSTING.COM
-   Status: ok
-   Updated Date: 03-sep-2009
-   Creation Date: 18-jan-1999
-   Expiration Date: 18-jan-2016
+   Name Server: NS.SRV2.COM
+   Name Server: NS2.SRV2.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 27-apr-2011
+   Creation Date: 24-apr-2007
+   Expiration Date: 24-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:48:03 UTC &lt;&lt;&lt;
 
