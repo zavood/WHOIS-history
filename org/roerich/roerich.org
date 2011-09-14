@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3137397-LROR
+Domain Name:ROERICH.ORG
+Created On:12-Sep-1995 04:00:00 UTC
+Last Updated On:01-Nov-2009 00:30:50 UTC
+Expiration Date:11-Sep-2015 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR13336756
+Registrant Name:Daniel Entin
+Registrant Organization:Nicholas Roerich Museum
+Registrant Street1:319 W 107th ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10025-2715
+Registrant Country:US
+Registrant Phone:+1.2128647752
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:director@roerich.org
+Admin ID:CR13336762
+Admin Name:Gvido Trepsa
+Admin Organization:Nicholas Roerich Museum
+Admin Street1:319 W 107th ST
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10025-2715
+Admin Country:US
+Admin Phone:+1.2128647752
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tgvido@verizon.net
+Tech ID:CR13336760
+Tech Name:Gennadiy Barshteyn
+Tech Organization:Nicholas Roerich Museum
+Tech Street1:319 W 107th ST
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10025-2715
+Tech Country:US
+Tech Phone:+1.2128647752
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gbarshteyn@yahoo.com
+Name Server:NS.ADDR.COM
+Name Server:NS2.ADDR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
