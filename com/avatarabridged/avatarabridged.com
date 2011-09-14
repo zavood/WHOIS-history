@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAILYDNS.NET
+   Domain Name: AVATARABRIDGED.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS50.DAILYDNS.COM
-   Name Server: NS51.DAILYDNS.COM
+   Name Server: NS2547.HOSTGATOR.COM
+   Name Server: NS2548.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 25-feb-2011
-   Creation Date: 25-feb-2006
-   Expiration Date: 25-feb-2013
+   Updated Date: 08-jul-2011
+   Creation Date: 15-jul-2010
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about dailydns.net
-&lt;a href=&quot;http://www.aboutus.org/dailydns.net&quot;&gt;AboutUs: dailydns.net&lt;/a&gt;
+Visit AboutUs.org for more information about avatarabridged.com
+&lt;a href=&quot;http://www.aboutus.org/avatarabridged.com&quot;&gt;AboutUs: avatarabridged.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: dailydns.net
+Domain name: avatarabridged.com
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
+   US
 
 Administrative Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
+   WhoisGuard
+   WhoisGuard Protected (4b593d50386b4e9689e5f1ff0ec1f69e.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
    US
 
 Technical Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
-
-Registrant Contact:
-   TLDPath.com
-   Domain Manager ()
-
-   Fax:
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
+   WhoisGuard
+   WhoisGuard Protected (4b593d50386b4e9689e5f1ff0ec1f69e.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   8939 S. Sepulveda Blvd. #110 - 732
+   Westchester, CA 90045
    US
 
 Status: Locked
 
 Name Servers:
-   ns50.dailydns.com
-   ns51.dailydns.com
+   ns2547.hostgator.com
+   ns2548.hostgator.com
 
-Creation date: 25 Feb 2006 04:26:18
-Expiration date: 25 Feb 2013 09:26:00
+Creation date: 15 Jul 2010 13:11:00
+Expiration date: 15 Jul 2012 08:11:00
 
 
 

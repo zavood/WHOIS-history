@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D34210578-LROR
+Domain Name:VOPUS.ORG
+Created On:07-Sep-2000 20:18:07 UTC
+Last Updated On:30-Aug-2010 10:41:17 UTC
+Expiration Date:07-Sep-2015 20:18:07 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:91CBAC2C6C795D39
+Registrant Name:Andres Ventosa Ferrando
+Registrant Organization:AGEAC
+Registrant Street1:Pje. Elisenda de Montcada, 2,
+Registrant Street2:Atico
+Registrant Street3:
+Registrant City:Salt
+Registrant State/Province:
+Registrant Postal Code:17190
+Registrant Country:ES
+Registrant Phone:+34.972233995
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ageac@ageac.org
+Admin ID:91CBAC2C6C795D39
+Admin Name:Andres Ventosa Ferrando
+Admin Organization:AGEAC
+Admin Street1:Pje. Elisenda de Montcada, 2,
+Admin Street2:Atico
+Admin Street3:
+Admin City:Salt
+Admin State/Province:
+Admin Postal Code:17190
+Admin Country:ES
+Admin Phone:+34.972233995
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ageac@ageac.org
+Tech ID:91CBAC2C6C795D39
+Tech Name:Andres Ventosa Ferrando
+Tech Organization:AGEAC
+Tech Street1:Pje. Elisenda de Montcada, 2,
+Tech Street2:Atico
+Tech Street3:
+Tech City:Salt
+Tech State/Province:
+Tech Postal Code:17190
+Tech Country:ES
+Tech Phone:+34.972233995
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ageac@ageac.org
+Name Server:DNS1.SISTEMA-DNS.COM
+Name Server:DNS2.SISTEMA-DNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

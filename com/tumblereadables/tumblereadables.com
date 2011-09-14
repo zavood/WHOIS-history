@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAILYDNS.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS50.DAILYDNS.COM
-   Name Server: NS51.DAILYDNS.COM
+   Domain Name: TUMBLEREADABLES.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS10.WORLDNIC.COM
+   Name Server: NS9.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 25-feb-2011
-   Creation Date: 25-feb-2006
-   Expiration Date: 25-feb-2013
+   Updated Date: 05-nov-2010
+   Creation Date: 29-sep-2004
+   Expiration Date: 29-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about dailydns.net
-&lt;a href=&quot;http://www.aboutus.org/dailydns.net&quot;&gt;AboutUs: dailydns.net&lt;/a&gt;
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain name: dailydns.net
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Administrative Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
+http://www.networksolutions.com/whois/index.jhtml
 
-Technical Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Registrant Contact:
-   TLDPath.com
-   Domain Manager ()
-
-   Fax:
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
-
-Status: Locked
-
-Name Servers:
-   ns50.dailydns.com
-   ns51.dailydns.com
-
-Creation date: 25 Feb 2006 04:26:18
-Expiration date: 25 Feb 2013 09:26:00
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Whois Query: tumblereadables.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 16:47:51 EDT 2011
+Reason Code: IE

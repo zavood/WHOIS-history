@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAILYDNS.NET
+   Domain Name: JUSTJAVASBLOG.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS50.DAILYDNS.COM
-   Name Server: NS51.DAILYDNS.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 25-feb-2011
-   Creation Date: 25-feb-2006
-   Expiration Date: 25-feb-2013
+   Updated Date: 03-sep-2011
+   Creation Date: 02-sep-2010
+   Expiration Date: 02-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about dailydns.net
-&lt;a href=&quot;http://www.aboutus.org/dailydns.net&quot;&gt;AboutUs: dailydns.net&lt;/a&gt;
+Visit AboutUs.org for more information about justjavasblog.com
+&lt;a href=&quot;http://www.aboutus.org/justjavasblog.com&quot;&gt;AboutUs: justjavasblog.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: dailydns.net
+Domain name: justjavasblog.com
+
+Registrant Contact:
+   N/A
+   David Shelechi ()
+
+   Fax:
+   1287 Gorge Run Way #3
+   Chula Vista, CA 91913
+   US
 
 Administrative Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
+   N/A
+   David Shelechi (david.shelechi@gmail.com)
+   +1.6192406359
+   Fax: +1.5555555555
+   1287 Gorge Run Way #3
+   Chula Vista, CA 91913
    US
 
 Technical Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
-
-Registrant Contact:
-   TLDPath.com
-   Domain Manager ()
-
-   Fax:
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
+   N/A
+   David Shelechi (david.shelechi@gmail.com)
+   +1.6192406359
+   Fax: +1.5555555555
+   1287 Gorge Run Way #3
+   Chula Vista, CA 91913
    US
 
 Status: Locked
 
 Name Servers:
-   ns50.dailydns.com
-   ns51.dailydns.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 25 Feb 2006 04:26:18
-Expiration date: 25 Feb 2013 09:26:00
+Creation date: 02 Sep 2010 05:27:00
+Expiration date: 02 Sep 2011 00:27:00
 
 
 

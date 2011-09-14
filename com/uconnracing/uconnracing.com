@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DAILYDNS.NET
+   Domain Name: UCONNRACING.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS50.DAILYDNS.COM
-   Name Server: NS51.DAILYDNS.COM
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 25-feb-2011
-   Creation Date: 25-feb-2006
-   Expiration Date: 25-feb-2013
+   Updated Date: 02-aug-2011
+   Creation Date: 02-aug-2009
+   Expiration Date: 02-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:56:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about dailydns.net
-&lt;a href=&quot;http://www.aboutus.org/dailydns.net&quot;&gt;AboutUs: dailydns.net&lt;/a&gt;
+Visit AboutUs.org for more information about uconnracing.com
+&lt;a href=&quot;http://www.aboutus.org/uconnracing.com&quot;&gt;AboutUs: uconnracing.com&lt;/a&gt;
 
 
-Domain name: dailydns.net
-
-Administrative Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
-
-Technical Contact:
-   TLDPath.com
-   Domain Manager (support@tldpath.com)
-   +1.8885928941
-   Fax: +1.8014970878
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
-   US
+Domain name: uconnracing.com
 
 Registrant Contact:
-   TLDPath.com
-   Domain Manager ()
+   Jonathan Ingram
+   Jonathan Ingram ()
 
    Fax:
-   1801 WYnkoop ST Ste 707
-   Denver, CO 80202
+   61 High St.
+   Terryville, Connecticut 06786
    US
+
+Administrative Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
+
+Technical Contact:
+   Domain Privacy
+   Domain Privacy (privacy@pipedns.com)
+   +1.1
+   Fax: +1.54
+   Domain Privacy
+   Domain Privacy
+   Domain Privacy, DOMAIN PRIVACY Domain Privacy
+   DO
 
 Status: Locked
 
 Name Servers:
-   ns50.dailydns.com
-   ns51.dailydns.com
+   ns1.pipedns.com
+   ns2.pipedns.com
 
-Creation date: 25 Feb 2006 04:26:18
-Expiration date: 25 Feb 2013 09:26:00
+Creation date: 02 Aug 2009 16:07:19
+Expiration date: 02 Aug 2012 16:07:19
 
 
 

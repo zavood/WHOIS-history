@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLANETDOMAIN.COM
-   Registrar: PLANETDOMAIN PTY LTD.
-   Whois Server: whois.planetdomain.com
-   Referral URL: http://www.planetdomain.com
-   Name Server: NS1.PLANETDOMAIN.COM
-   Name Server: NS2.PLANETDOMAIN.COM
+   Domain Name: VUOKRAKONSULTTI.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.LOUHI.NET
+   Name Server: DNS2.LOUHI.NET
+   Name Server: DNS3.LOUHI.NET
    Status: clientTransferProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 26-sep-2000
-   Expiration Date: 26-sep-2013
+   Updated Date: 20-apr-2011
+   Creation Date: 13-may-2009
+   Expiration Date: 13-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:45 UTC &lt;&lt;&lt;
 
@@ -51,61 +52,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data contained in the database of Primus Telecommunications Pty Ltd
-(PlanetDomain/PrimusDomain) is made available to assist persons in
-obtaining information pertaining to the domain name registration
-record.  No guarantee of accuracy is offered or given.  By submitting a
-search request you agree to use the data for lawful purposes, and also
-agree NOT to
-1) use the data to allow, enable, or otherwise support any marketing
-activities, regardless of the medium used.  Such media includes but is
-not limited to e-mail, telephone, facsimile, postal mail, SMS, and
-wireless alerts.
-2) sell or redistribute the data except insofar as it has been
-incorporated by yourself into a value-added product or service that does
-not permit the extraction of a substantial portion of the bulk data from
-the value-added product or service for use by other parties.
-Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
-the right to forbid access to any party who abuses the terms and
-conditions herein or who is deemed to have queried the database
-excessively, and to change these terms and conditions at any time.
-
-   Domain Name: PLANETDOMAIN.COM
-      Reseller..............: PlanetDomain Ltd Pty
-      Created on............: 22 May 2008 11:06:51 EST
-      Expires on............: 26 Sep 2013 21:16:35 EST
-      Record last updated on: 3 Aug 2010 16:04:05 EST
-      Status................: ON LOCK
+=-=-=-=
+Visit AboutUs.org for more information about vuokrakonsultti.com
+&lt;a href=&quot;http://www.aboutus.org/vuokrakonsultti.com&quot;&gt;AboutUs: vuokrakonsultti.com&lt;/a&gt;
 
 
-   Owner:
-      Planet Domain Pty Ltd
-       (136)
-        PO Box 270
-      BROADWAY, NSW 2007
-      Australia
-      Phone: +61.299340501
-      Email: domains@planetdomain.com
-   Administrative Contact, Billing Contact:
-      Planet Domain Pty Ltd
-       (137)
-        PO BOX 270
-      BROADWAY, NSW 2007
-      Australia
-      Phone: +61.299340501
-      Email: admin@snapnames.com
-   Technical Contact:
-      Planet Domain Pty Ltd
-       (138)
-        P.O. BOX 270
-      Broadway, NSW 2007
-      Australia
-      Phone: +61.299340501
-      Email: domains@planetdomain.com
+Domain name: vuokrakonsultti.com
+
+Registrant Contact:
+   Helmi Kokkonen
+    Vuokrahuoneistovalitys ()
+
+   Fax:
+   Haapaniemenkatu 32 B 4
+   Kuopio,  70110
+   FI
+
+Administrative Contact:
+   Helmi Kokkonen
+    Vuokrahuoneistovalitys (jpursiainen@luukku.com)
+   +40.7009865
+   Fax: +358.-
+   Haapaniemenkatu 32 B 4
+   Kuopio,  70110
+   FI
+
+Technical Contact:
+   Janne Pursiainen
+   Janne Pursiainen (jpursiainen@luukku.com)
+   +44.5095358
+   Fax: +358.-
+   ,
+   FI
+
+Status: Locked
+
+Name Servers:
+   dns1.louhi.net
+   dns2.louhi.net
+   dns3.louhi.net
+
+Creation date: 13 May 2009 11:28:34
+Expiration date: 13 May 2012 11:28:34
 
 
-   Domain servers in listed order:
 
-      NS1.PLANETDOMAIN.COM
-      NS2.PLANETDOMAIN.COM
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -1,0 +1,61 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Wed Sep 14 22:57:29 2011
+
+domain:       bitcoin.cz
+registrant:   WEB4U_KPYANMQEHOJHH
+admin-c:      WEB4U
+nsset:        NSS:WEB4U_WILDGRWLOGPJ
+registrar:    REG-WEB4U
+status:       paid and in zone
+registered:   08.11.2010 09:46:20
+expire:       08.11.2011
+
+contact:      WEB4U_KPYANMQEHOJHH
+name:         Marek Palatinus
+address:      Hn&Auml;›zdensk&Atilde;&iexcl; 735/6
+address:      Praha
+address:      18100
+address:      CZ
+registrar:    REG-WEB4U
+created:      08.11.2010 03:12:12
+
+contact:      WEB4U
+org:          Web4U s.r.o.
+name:         Luk&Atilde;&iexcl;&Aring;&iexcl; Kunovsk&Atilde;&frac12;
+address:      Pravdova 837
+address:      Jind&Aring;™ich&Aring;&macr;v Hradec II
+address:      37701
+address:      CZ
+phone:        +420.270001456
+fax-no:       +420.270005124
+e-mail:       info@web4u.cz
+registrar:    REG-WEB4U
+created:      03.10.2007 14:48:14
+changed:      30.01.2011 00:28:17
+
+nsset:        NSS:WEB4U_WILDGRWLOGPJ
+nserver:      ns1.linode.com
+nserver:      ns2.linode.com
+tech-c:       WEB4U
+tech-c:       WEB4U_KPYANMQEHOJHH
+registrar:    REG-WEB4U
+created:      08.11.2010 03:12:15
+
+
