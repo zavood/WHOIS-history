@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3688630-LROR
+Domain Name:FRANC-MACONNERIE.ORG
+Created On:16-Feb-1999 05:00:00 UTC
+Last Updated On:01-Mar-2011 14:18:43 UTC
+Expiration Date:16-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-594333-4
+Registrant Name:Joseph Castelli
+Registrant Organization:Les Editions Maconniques
+Registrant Street1:10 rue saint gauche
+Registrant Street2:10 rue saint gauche
+Registrant Street3:
+Registrant City:MONTEMILAR
+Registrant State/Province:DROME
+Registrant Postal Code:26200
+Registrant Country:FR
+Registrant Phone:+33.475920092
+Registrant Phone Ext.:
+Registrant FAX:+33.475920092
+Registrant FAX Ext.:
+Registrant Email:castelli@lcdi.net
+Admin ID:ONLC-594333-1
+Admin Name:Patrick SILVA, ACATIX
+Admin Organization:ACATIX
+Admin Street1:BP 21
+Admin Street2:BP 21
+Admin Street3:
+Admin City:BONNAT
+Admin State/Province:CREUSE
+Admin Postal Code:23220
+Admin Country:FR
+Admin Phone:+33.555805498
+Admin Phone Ext.:
+Admin FAX:+33.555805499
+Admin FAX Ext.:
+Admin Email:domaines@acatix.com
+Tech ID:ONLC-594333-2
+Tech Name:Patrick SILVA, ACATIX
+Tech Organization:ACATIX
+Tech Street1:BP 21
+Tech Street2:BP 21
+Tech Street3:
+Tech City:BONNAT
+Tech State/Province:CREUSE
+Tech Postal Code:23220
+Tech Country:FR
+Tech Phone:+33.555805498
+Tech Phone Ext.:
+Tech FAX:+33.555805499
+Tech FAX Ext.:
+Tech Email:domaines@acatix.com
+Name Server:NS1.AFSW.NET
+Name Server:NS2.AFSW.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
