@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXPRESSOONLINE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-sep-2010
-   Creation Date: 13-sep-2005
-   Expiration Date: 13-sep-2012
+   Domain Name: PROGPOL.COM
+   Registrar: NETART REGISTRAR SP. Z O.O.
+   Whois Server: whois.netart-registrar.com
+   Referral URL: http://www.netart-registrar.com
+   Name Server: NS0.XNAME.ORG
+   Name Server: NS3.PROGPOL.PL
+   Status: ok
+   Updated Date: 26-apr-2011
+   Creation Date: 20-apr-2007
+   Expiration Date: 20-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:46:10 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to the NetArt Registrar WHOIS Server.
+Domain Name: progpol.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Sponsoring Registrar: NetArt Registrar Sp. z o.o. (http://netart-registrar.com)
+Created On: 20 Apr 2007 07:25:01 UTC
+Expiration Date: 20 Apr 2012 07:25:01 UTC
+Last Updated On: 23 Feb 2011 13:05:37 UTC
 
+Registrant Name: Tomasz Kujalowicz
+Registrant Organization: ProgPol s.c. Artur Szewczyk i Tomasz Kujalowicz
+Registrant Street1: ul.Dabrowskiego 75/47
+Registrant Street2:
+Registrant Street3:
+Registrant City: Poznan
+Registrant State/Province: wielkopolskie
+Registrant Postal Code: 60-523
+Registrant Country: PL
+Registrant Phone: +48.618331223
+Registrant Fax: +48.618331223
+Registrant Email: biuro@progpol.pl
 
-Registrant:
-   Original Espresso Machine Co.
+Admin Name: Katarzyna Sekunda-Piszczek
+Admin Organization: NetArt Spolka Akcyjna S.K.A.
+Admin Street1: Cystersow 20a
+Admin Street2:
+Admin Street3:
+Admin City: Krakow
+Admin State/Province: malopolskie
+Admin Postal Code: 31-553
+Admin Country: PL
+Admin Phone: +48.122978810
+Admin Fax: +48.122978808
+Admin Email: info@nazwa.pl
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EXPRESSOONLINE.COM
+Billing Name: Katarzyna Sekunda-Piszczek
+Billing Organization: NetArt Spolka Akcyjna S.K.A.
+Billing Street1: Cystersow 20a
+Billing Street2:
+Billing Street3:
+Billing City: Krakow
+Billing State/Province: malopolskie
+Billing Postal Code: 31-553
+Billing Country: PL
+Billing Phone: +48.122978810
+Billing Fax: +48.122978808
+Billing Email: info@nazwa.pl
 
-   Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
+Tech Name: Katarzyna Sekunda-Piszczek
+Tech Organization: NetArt Spolka Akcyjna S.K.A.
+Tech Street1: Cystersow 20a
+Tech Street2:
+Tech Street3:
+Tech City: Krakow
+Tech State/Province: malopolskie
+Tech Postal Code: 31-553
+Tech Country: PL
+Tech Phone: +48.122978810
+Tech Fax: +48.122978808
+Tech Email: info@nazwa.pl
 
+Name Server: ns3.progpol.pl
+Name Server: ns0.xname.org
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EXPRESSOONLINE.COM

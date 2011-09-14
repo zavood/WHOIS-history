@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXPRESSOONLINE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
+   Domain Name: BHGAMER.COM
+   Registrar: ADVANTAGE INTERACTIVE LTD
+   Whois Server: whois.advantage-interactive.com
+   Referral URL: http://www.lcn.com
+   Name Server: NS1.PIPEDNS.COM
+   Name Server: NS2.PIPEDNS.COM
+   Name Server: NS3.PIPEDNS.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-sep-2010
-   Creation Date: 13-sep-2005
-   Expiration Date: 13-sep-2012
+   Updated Date: 06-feb-2011
+   Creation Date: 02-feb-2010
+   Expiration Date: 02-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:46:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:47:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:  BHGAMER.COM
+owner-c: AI-783119
+admin-c: AI-783119
+tech-c: AI-300624
+bill-c: AI-300624
+nserver: ns3.pipedns.com 99.198.106.74
+nserver: ns2.pipedns.com 99.198.106.66
+nserver: ns1.pipedns.com 67.212.177.42
+created: 2010-02-02 11:05:05
+expires: 2012-02-02 11:05:05
+changed: 2011-05-03 13:15:25
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-handle: AI-783119
+contact:        Andrew Smith
+address:        3 Numbit Lane
+address:        Swan View
+address:        Perth
+address:        6056
+address:        AU
+phone:          +61.437007067
+email:          apsmif101@iinet.net.au
 
+contact-handle: AI-300624
+contact:        Hostmaster
+address:        Units H, J, K
+address:        Gateway 1000
+address:        Whittle Way
+address:        Stevenage
+address:        England
+address:        SG1 2FP
+address:        GB
+phone:          +44.1438342490
+fax:            +44.1438300137
+email:          support@lcn.com
 
-Registrant:
-   Original Espresso Machine Co.
+****************************************************************
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EXPRESSOONLINE.COM
+Domain Registration Service Provider:
 
-   Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
+    lcn
+    For all domain related queries go to http://www.lcn.com
 
+****************************************************************
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EXPRESSOONLINE.COM

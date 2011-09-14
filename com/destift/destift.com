@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EXPRESSOONLINE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS21.DOMAINCONTROL.COM
-   Name Server: NS22.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-sep-2010
-   Creation Date: 13-sep-2005
-   Expiration Date: 13-sep-2012
+   Domain Name: DESTIFT.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: FAY.NS.CLOUDFLARE.COM
+   Name Server: GABE.NS.CLOUDFLARE.COM
+   Status: ok
+   Updated Date: 21-may-2011
+   Creation Date: 08-nov-2007
+   Expiration Date: 08-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:46:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:45:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+; This data is provided by TransIP BV
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; TransIP BV does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+DOMAIN: DESTIFT.COM
 
+RSP: TransIP BV
+URL: http://www.transip.nl
 
-Registrant:
-   Original Espresso Machine Co.
+owner-contact: P-NON3476
+owner-fname: Nimma
+owner-lname: Numaga
+owner-street: Numaga Street 13
+owner-city: Numaga
+owner-zip: 6666 XX
+owner-country: NL
+owner-phone: +31 266666666
+owner-email: admin@numaga.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: EXPRESSOONLINE.COM
+admin-contact: P-NJN3337
+admin-fname: Nimma
+admin-lname: Numaga
+admin-street: Numaga Street 13
+admin-city: Numaga
+admin-zip: 6666 XX
+admin-country: NL
+admin-phone: +31 266666666
+admin-email: admin@numaga.com
 
-   Domain servers in listed order:
-      NS21.DOMAINCONTROL.COM
-      NS22.DOMAINCONTROL.COM
+tech-contact: P-NON3477
+tech-fname: Nimma
+tech-lname: Numaga
+tech-street: Numaga Street 13
+tech-city: Numaga
+tech-zip: 6666 XX
+tech-country: NL
+tech-phone: +31 266666666
+tech-email: admin@numaga.com
 
+billing-contact: P-NJN3337
+billing-fname: Nimma
+billing-lname: Numaga
+billing-street: Numaga Street 13
+billing-city: Numaga
+billing-zip: 6666 XX
+billing-country: NL
+billing-phone: +31 266666666
+billing-email: admin@numaga.com
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EXPRESSOONLINE.COM
+nameserver: fay.ns.cloudflare.com
+nameserver: gabe.ns.cloudflare.com
+
+; TransIP BV
+; Real-time domeinregistratie en -beheer vanaf 4.99 Euro!
+; http://www.transip.nl/products/domain/
+
