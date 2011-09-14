@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D28339195-LROR
+Domain Name:CRANESCHOOLS.ORG
+Created On:01-Jun-2000 22:18:52 UTC
+Last Updated On:03-Aug-2011 23:54:16 UTC
+Expiration Date:01-Jun-2012 22:18:52 UTC
+Sponsoring Registrar:Brandon Gray Internet Services (R1322-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:bGNj1xcHBPbYfWz2
+Registrant Name:Herb Harries
+Registrant Organization:Private Registration
+Registrant Street1:4250 W 16th Street
+Registrant Street2:null
+Registrant Street3:
+Registrant City:Yuma
+Registrant State/Province:AZ
+Registrant Postal Code:85364
+Registrant Country:US
+Registrant Phone:+1.9283733400
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hharries@craneschools.org
+Admin ID:bGNj1xcHBPbYfWz2
+Admin Name:Herb Harries
+Admin Organization:Private Registration
+Admin Street1:4250 W 16th Street
+Admin Street2:null
+Admin Street3:
+Admin City:Yuma
+Admin State/Province:AZ
+Admin Postal Code:85364
+Admin Country:US
+Admin Phone:+1.9283733400
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hharries@craneschools.org
+Tech ID:bGNj1xcHBPbYfWz2
+Tech Name:Herb Harries
+Tech Organization:Private Registration
+Tech Street1:4250 W 16th Street
+Tech Street2:null
+Tech Street3:
+Tech City:Yuma
+Tech State/Province:AZ
+Tech Postal Code:85364
+Tech Country:US
+Tech Phone:+1.9283733400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hharries@craneschools.org
+Name Server:AUTHNS1.QWEST.NET
+Name Server:AUTHNS2.QWEST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
