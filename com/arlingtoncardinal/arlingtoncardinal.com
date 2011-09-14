@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EHEALTHINSURANCE.COM
+   Domain Name: ARLINGTONCARDINAL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: NS1.PRESSHARBOR.COM
+   Name Server: NS2.PRESSHARBOR.COM
+   Name Server: NS3.PRESSHARBOR.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2008
-   Creation Date: 01-jun-1998
-   Expiration Date: 31-may-2013
+   Updated Date: 09-nov-2010
+   Creation Date: 09-dec-2008
+   Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:56:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:56:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ehealthinsurance.com
+Whois Query: arlingtoncardinal.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:52:27 EDT 2011
+Date and Time of Query: Wed Sep 14 18:52:41 EDT 2011
 Reason Code: IE

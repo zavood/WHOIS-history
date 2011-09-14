@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EHEALTHINSURANCE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
-   Status: clientTransferProhibited
-   Updated Date: 30-sep-2008
-   Creation Date: 01-jun-1998
-   Expiration Date: 31-may-2013
+   Domain Name: TV-EH.COM
+   Registrar: A TECHNOLOGY COMPANY, INC.
+   Whois Server: whois.namesystem.com
+   Referral URL: http://www.NameSystem.com
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
+   Status: ok
+   Updated Date: 28-jul-2011
+   Creation Date: 27-jul-2006
+   Expiration Date: 27-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:56:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:56:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +51,76 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in the NameSystem
+WHOIS database is provided by NameSystem
+for information purposes, and to assist persons in obtaining information about or
+related to a domain name registration record.
+NameSystem does not guarantee its accuracy.  By submitting a WHOIS query, you agree that
+you will use this Data only for lawful purposes and that, under no circumstances will you use this
+Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic
+processes that apply to  NameSystem( or its systems).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NameSystem reserves the right to modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: tv-eh.com
+Registrar: NameSystem
 
-http://www.networksolutions.com/whois/index.jhtml
+Creation Date: 2010-06-07 01:42:30.0
+Expiration Date: 2011-07-27 00:00:00.0
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+registrant contact data
+*********  ******* ****
+HiddenWhois Dept HiddenWhois Dept
+NameSystem.com
+2373 NW 185th Ave,#339
 
-Whois Query: ehealthinsurance.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:52:27 EDT 2011
-Reason Code: IE
+Hillsboro, OR, 97124
+US
+Phone: +1.+1.503-664-4199
+Fax:
+EmailAddress: hiddenwhois@namesystem.com
+
+admin contact data
+*********  ******* ****
+HiddenWhois Dept HiddenWhois Dept
+NameSystem.com
+2373 NW 185th Ave,#339
+
+Hillsboro, OR, 97124
+US
+Phone: +1.+1.503-664-4199
+Fax:
+EmailAddress: hiddenwhois@namesystem.com
+
+tech contact data
+*********  ******* ****
+HiddenWhois Dept HiddenWhois Dept
+NameSystem.com
+2373 NW 185th Ave,#339
+
+Hillsboro, OR, 97124
+US
+Phone: +1.+1.503-664-4199
+Fax:
+EmailAddress: hiddenwhois@namesystem.com
+
+billing contact data
+*********  ******* ****
+HiddenWhois Dept HiddenWhois Dept
+NameSystem.com
+2373 NW 185th Ave,#339
+
+Hillsboro, OR, 97124
+US
+Phone: +1.+1.503-664-4199
+Fax:
+EmailAddress: hiddenwhois@namesystem.com
+
+
+Nameservers:
+
+ns51.1and1.com
+ns52.1and1.com
+

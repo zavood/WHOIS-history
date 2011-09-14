@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ch-stbrieuc.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ch-stbrieuc.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CHDS46-FRNIC
+admin-c:     NC2771-FRNIC
+tech-c:      NC2771-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL38468-FRNIC
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+anniversary: 14/04
+created:     10/06/1999
+last-update: 02/08/2010
+source:      FRNIC
+
+ns-list:     NSL38468-FRNIC
+nserver:     ns.ch-stbrieuc.fr [93.93.155.211]
+nserver:     ns2.sfrbusinessteam.fr [84.96.147.1]
+source:      FRNIC
+
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+type:        Isp Option 1
+address:     42 Avenue de Friedland
+address:     PARIS
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      serge.ribeiro@sfr.com
+website:     http://www.sfrbusinessteam.fr
+anonymous:   NO
+registered:  02/08/2010
+source:      FRNIC
+
+nic-hdl:     NC2771-FRNIC
+type:        ORGANIZATION
+contact:     NEUF CEGETEL
+address:     NEUF CEGETEL
+address:     40, quai du Point du Jour
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      noc@9tel.net
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     CHDS46-FRNIC
+type:        ORGANIZATION
+contact:     CENTRE HOSPITALIER DE SAINT BRIEUC
+address:     10, rue Marcel Proust
+address:     22000 Saint-Brieuc
+country:     FR
+phone:       +33 2 96 01 71 23
+e-mail:      JEAN-YVES.BRIANT@ch-stbrieuc.fr
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

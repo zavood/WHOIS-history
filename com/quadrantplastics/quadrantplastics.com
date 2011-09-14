@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EHEALTHINSURANCE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Domain Name: QUADRANTPLASTICS.COM
+   Registrar: IP MIRROR PTE LTD. DBA IP MIRROR
+   Whois Server: whois.ipmirror.com
+   Referral URL: http://www.ipmirror.com
+   Name Server: NS1.IPMIRROR.COM
+   Name Server: NS2.IPMIRROR.COM
+   Name Server: NS3.IPMIRROR.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2008
-   Creation Date: 01-jun-1998
-   Expiration Date: 31-may-2013
+   Updated Date: 15-aug-2011
+   Creation Date: 27-nov-2002
+   Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:56:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:57:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,23 +52,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrar: IP Mirror Pte Ltd
+Registrar Whois: whois.ipmirror.com
+Website: http://www.ipmirror.com
+Domain Name: quadrantplastics.com
+Domain nameservers listed in order:
 
-http://www.networksolutions.com/whois/index.jhtml
+ns1.ipmirror.com
+ns2.ipmirror.com
+ns3.ipmirror.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ehealthinsurance.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:52:27 EDT 2011
-Reason Code: IE
+Registration Date: 2002-11-27
+Expiration Date: 2011-11-27
+Domain last updated on: 2011-08-24
+
+Registrant Contact:
+Organization: QUADRANT IP AG
+Name: Frank-Michael Schilling
+Street 1: Grafenau 6
+Street 2:
+City: Zug
+Postal Code: CH-6300
+Country: Switzerland
+Email Address: frank.schilling@qplas.com
+Tel 1: 41.628858427
+Fax: 41.628858385
+
+
+Administrator Contact:
+Organization: Quadrant IP AG
+Name: Domain Admin
+Street 1: Grafenau 6
+Street 2:
+City: Zug
+Postal Code: CH-6300
+Country: Switzerland
+Email Address: domainadmin@qplas.com
+Tel 1: 41.442136666
+Fax: 41.442136699
+
+
+Technical Contact:
+Organization: Quadrant IP AG
+Name: Domain Tech
+Street 1: Grafenau 6
+Street 2:
+City: Zug
+Postal Code: CH-6300
+Country: Switzerland
+Email Address: domaintech@qplas.com
+Tel 1: 41.442136666
+Fax: 41.442136699
+
+
+Billing Contact:
+Organization: Quadrant IP AG
+Name: Domain Billing
+Street 1: Grafenau 6
+Street 2:
+City: Zug
+Postal Code: CH-6300
+Country: Switzerland
+Email Address: domainadmin@qplas.com
+Tel 1: 41.442136666
+Fax: 41.442136699
+
+
+
+
