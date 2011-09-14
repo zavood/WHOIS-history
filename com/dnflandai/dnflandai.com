@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVERAIL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jul-2010
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2013
+   Domain Name: DNFLANDAI.COM
+   Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
+   Whois Server: grs-whois.hichina.com
+   Referral URL: http://www.net.cn
+   Name Server: DOMAIN1.EXPIREDNS.COM
+   Name Server: DOMAIN2.EXPIREDNS.COM
+   Status: pendingDelete
+   Updated Date: 11-sep-2011
+   Creation Date: 09-jul-2010
+   Expiration Date: 09-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:11:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Not Found!

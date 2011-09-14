@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVERAIL.COM
+   Domain Name: MIDLANDSTEXTILEFORUM.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS3.FREEOLA.NET
+   Name Server: NS4.FREEOLA.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jul-2010
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2013
+   Updated Date: 08-sep-2011
+   Creation Date: 20-jul-2006
+   Expiration Date: 20-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:11:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

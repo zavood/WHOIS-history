@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVERAIL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Domain Name: DESCRIPTIVEFINANCIALANALYST.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jul-2010
-   Creation Date: 24-jul-2004
-   Expiration Date: 24-jul-2013
+   Updated Date: 09-sep-2011
+   Creation Date: 19-aug-2010
+   Expiration Date: 19-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:10:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +53,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+    Domain Name: DESCRIPTIVEFINANCIALANALYST.COM
+         Status: EXPIRED - PENDING DELETE
+        Contact: support@moniker.com
+
+&lt;a href=&quot;http://www.moniker.com/renew-expired-domains.jsp?domain=DESCRIPTIVEFINANCIALANALYST.COM&quot; target=&quot;pending_delete&quot;&gt;Renew Now&lt;/a&gt;
+
+&lt;a href=&quot;https://www.snapnames.com/?dom=DESCRIPTIVEFINANCIALANALYST.COM&amp;aff=400&quot; target=&quot;backorder&quot;&gt;Backorder this domain&lt;/a&gt;
+
+Domain servers in listed order:
+
+        NS3.MONIKER.COM
+        NS4.MONIKER.COM
+
+        Record created on:        2010-08-19 15:20:01.877
+        Database last updated on: 2011-04-07 04:04:24.347
+        Domain Expires on:        2011-08-19 15:20:00.0
+
+

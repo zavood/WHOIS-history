@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D63274931-LROR
+Domain Name:PHP-NUKE.ORG
+Created On:22-Feb-2001 04:16:10 UTC
+Last Updated On:04-Mar-2011 11:45:44 UTC
+Expiration Date:22-Feb-2012 04:16:10 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:efdf7ec44839ded1
+Registrant Name:Brendan  Brader
+Registrant Street1:21 corporate drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:clifton park
+Registrant State/Province:NY
+Registrant Postal Code:12065
+Registrant Country:US
+Registrant Phone:+1.5183713421
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:marketing@hostrocket.com
+Admin ID:efdf7ec44839ded1
+Admin Name:Brendan  Brader
+Admin Street1:21 corporate drive
+Admin Street2:
+Admin Street3:
+Admin City:clifton park
+Admin State/Province:NY
+Admin Postal Code:12065
+Admin Country:US
+Admin Phone:+1.5183713421
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:marketing@hostrocket.com
+Tech ID:efdf7ec44839ded1
+Tech Name:Brendan  Brader
+Tech Street1:21 corporate drive
+Tech Street2:
+Tech Street3:
+Tech City:clifton park
+Tech State/Province:NY
+Tech Postal Code:12065
+Tech Country:US
+Tech Phone:+1.5183713421
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:marketing@hostrocket.com
+Name Server:DNS1.HRNOC.NET
+Name Server:DNS2.HRNOC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
