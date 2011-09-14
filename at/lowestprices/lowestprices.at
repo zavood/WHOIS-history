@@ -1,0 +1,64 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         lowestprices.at
+registrant:     IOSI1294293-NICAT
+admin-c:        RW1069083-NICAT
+tech-c:         RW1069083-NICAT
+nserver:        ns1.sitelutions.com
+remarks:        66.117.40.22
+nserver:        ns2.sitelutions.com
+remarks:        64.71.130.140
+nserver:        ns3.sitelutions.com
+remarks:        63.219.151.5
+nserver:        ns4.sitelutions.com
+remarks:        82.96.97.28
+nserver:        ns5.sitelutions.com
+remarks:        69.93.94.154
+changed:        20040510 13:33:18
+source:         AT-DOM
+
+personname:     Russell Weiss
+organization:   InfoRelay Online Systems, Inc.
+street address: 4 Bridge Plaza Drive
+postal code:    USA-07726
+city:           Englishtown
+country:        United States
+phone:          +112406319324
+nic-hdl:        IOSI1294293-NICAT
+changed:        20030324 16:39:12
+source:         AT-DOM
+
+personname:     Russell Weiss
+organization:
+street address: 4 Bridge Plaza Drive
+street address: US-07726 Englishtown
+street address: UNITED STATES
+postal code:
+city:
+country:
+phone:          +112406319324
+nic-hdl:        RW1069083-NICAT
+changed:        20020319 11:31:03
+source:         AT-DOM
+
