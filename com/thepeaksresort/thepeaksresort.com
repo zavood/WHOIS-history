@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 08-oct-1998
    Expiration Date: 07-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:44:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,66 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about THEPEAKSRESORT.COM
-&lt;a href=&quot;http://www.aboutus.org/THEPEAKSRESORT.COM&quot;&gt;AboutUs: THEPEAKSRESORT.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-Grand Heritage Hotels
-   39 Bay Dr
-   Annapolis, MD 21403
-   US
-
-   Domain Name: THEPEAKSRESORT.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact, Technical Contact:
-      Cullen, John		itadmin@grandheritage.com
-      Grand Heritage Hotel Group
-      39 Bay Drive
-      Annapolis, MD 21403
-      US
-      410-280-9800
-
-
-   Record expires on 07-Oct-2013.
-   Record created on 10-Nov-2009.
-   Database last updated on 12-Sep-2011 07:34:18 EDT.
-
-   Domain servers in listed order:
-
-   A.NS.INTERLAND.NET
-   B.NS.INTERLAND.NET
-   C.NS.INTERLAND.NET
-
-
+Whois Query: thepeaksresort.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 13:19:15 EDT 2011
+Reason Code: IE

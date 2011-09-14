@@ -1,1 +1,84 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156571569-LROR
+Domain Name:DAKARDRAGONS.ORG
+Created On:03-Jul-2009 14:55:22 UTC
+Last Updated On:03-Jul-2011 04:09:40 UTC
+Expiration Date:03-Jul-2013 14:55:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuauN2VRuXRyg5jn
+Registrant Name:Marieme Jamme
+Registrant Organization:Spotone
+Registrant Street1:147 yew Tree Drive Bellfields
+Registrant Street2:
+Registrant Street3:
+Registrant City:guildford
+Registrant State/Province:
+Registrant Postal Code:GU11NZ
+Registrant Country:GB
+Registrant Phone:+44.1483829990
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mjamme@gmail.com
+Admin ID:tuilmZK2Jx4cJdgl
+Admin Name:Marieme Jamme
+Admin Organization:Spotone
+Admin Street1:147 yew Tree Drive Bellfields
+Admin Street2:
+Admin Street3:
+Admin City:guildford
+Admin State/Province:
+Admin Postal Code:GU11NZ
+Admin Country:GB
+Admin Phone:+44.1483829990
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mjamme@gmail.com
+Tech ID:tuzRRU8b4pfV5WJR
+Tech Name:Webfusion Ltd
+Tech Organization:Webfusion Ltd.
+Tech Street1:5 Roundwood Avenue
+Tech Street2:Stockley Park
+Tech Street3:
+Tech City:Uxbridge
+Tech State/Province:Middlesex
+Tech Postal Code:UB111FF
+Tech Country:GB
+Tech Phone:+44.8712309525
+Tech Phone Ext.:
+Tech FAX:+44.8701650437
+Tech FAX Ext.:
+Tech Email:services@123-reg.co.uk
+Name Server:DNS.US-NOC.COM
+Name Server:DNS.UK-NOC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

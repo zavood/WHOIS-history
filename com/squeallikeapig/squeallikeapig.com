@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 22-feb-2000
    Expiration Date: 22-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:43:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: Domain Registry of America
-Contact: support@droa.com
-Web:http://www.droa.com
-
-
-Domain name: squeallikeapig.com
-
-Registrant Contact:
-      William    D. McKinney
-      Private Registration
-      2316 Delaware Ave Suite #266
-      Buffalo
-      NY,   14216-2687    US
-      866-434-0212
-      866-434-0211
-      5847b2aa56ccbdfd@private-contact.com
-
-Administrative Contact:
-      William    D. McKinney
-      Private Registration
-      2316 Delaware Ave Suite #266
-      Buffalo
-      NY,   14216-2687    US
-      866-434-0212
-      866-434-0211
-      mwwum31ikcsuzjzy@private-contact.com
-
-Technical Contact:
-      William    D. McKinney
-      Private Registration
-      2316 Delaware Ave Suite #266
-      Buffalo
-      NY,   14216-2687    US
-      866-434-0212
-      866-434-0211
-      2l3ycc0ksfmrnphp@private-contact.com
-
-Update date: 2008-11-24
-Expiration date: 2014-02-22
-
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
+request limit exceeded
