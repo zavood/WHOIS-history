@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINNTEL.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.WINNTEL.COM
-   Name Server: NS2.WINNTEL.COM
-   Name Server: NS3.WINNTEL.COM
-   Name Server: NS4.WINNTEL.COM
+   Domain Name: FAPYRYPUMUMUVA.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.FAPYRYPUMUMUVA.COM
+   Name Server: NS2.FAPYRYPUMUMUVA.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-jan-2009
-   Creation Date: 30-mar-1998
-   Expiration Date: 29-mar-2012
+   Updated Date: 27-may-2011
+   Creation Date: 18-may-2011
+   Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:43:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:44:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Georges Chaloux sad@mail13.com +33.491504556
+	 Georges Chaloux
+	 4 Allees Leon Gambetta
+	 Marseille,Bouches-du-Rhone,FR 13001
+
+
+Domain Name:fapyrypumumuva.com
+Record last updated at
+Record created on 2011/5/18
+Record expired on 2012/5/18
+
+
+Domain servers in listed order:
+	 ns1.fapyrypumumuva.com 	 ns2.fapyrypumumuva.com
+
+Administrator:
+	 Name-- Georges Chaloux
+ EMail-: (sad@mail13.com)
+ tel --: +33.491504556
+	 org: Georges Chaloux
+	 4 Allees Leon Gambetta
+	 Marseille,Bouches-du-Rhone,FR 13001
+
+Technical Contactor:
+	 Name-- Georges Chaloux
+ EMail-: (sad@mail13.com)
+ tel --: +33.491504556
+	 org: Georges Chaloux
+	 4 Allees Leon Gambetta
+	 Marseille,Bouches-du-Rhone,FR 13001
+
+Billing Contactor:
+	 Name-- Georges Chaloux
+ EMail-: (sad@mail13.com)
+ tel --: +33.491504556
+	 org: Georges Chaloux
+	 4 Allees Leon Gambetta
+	 Marseille,Bouches-du-Rhone,FR 13001
+
