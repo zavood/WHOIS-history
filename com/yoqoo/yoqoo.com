@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YOUKU.COM
+   Domain Name: YOQOO.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
    Name Server: NS1.YOUKU.COM
    Name Server: NS2.YOUKU.COM
-   Name Server: NS3.YOUKU.COM
    Status: ok
    Updated Date: 19-apr-2011
-   Creation Date: 22-dec-2003
-   Expiration Date: 22-dec-2012
+   Creation Date: 14-mar-2006
+   Expiration Date: 14-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:36:34 UTC &lt;&lt;&lt;
 
@@ -52,52 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... youku.com
+Domain Name ..................... yoqoo.com
 Name Server ..................... ns1.youku.com
                                   ns2.youku.com
-                                  ns3.youku.com
-Registrant ID ................... hc029497508-cn
-Registrant Name ................. JinGuo Liu
-Registrant Organization ......... 1Verge Information Technology (Beijing) Co., Ltd.
+Registrant ID ................... hc223636356-cn
+Registrant Name ................. Jinguo Liu
+Registrant Organization ......... 1Verge Internet Technology (Beijing) Co.,Ltd.
 Registrant Address .............. 5F,SinoSteel Plaza, 8 Haidian Street
-Registrant City ................. Beijing
-Registrant Province/State ....... Beijing
+Registrant City ................. beijing
+Registrant Province/State ....... beijing
 Registrant Postal Code .......... 100080
 Registrant Country Code ......... CN
 Registrant Phone Number ......... +86.01058851881 -
 Registrant Fax .................. +86.01059708818 -
 Registrant Email ................ liujinguo@youku.com
-Administrative ID ............... hc481859878-cn
-Administrative Name ............. JinGuo Liu
-Administrative Organization ..... 1Verge Information Technology (Beijing) Co., Ltd.
+Administrative ID ............... hc984544142-cn
+Administrative Name ............. Jinguo Liu
+Administrative Organization ..... 1Verge Internet Technology (Beijing) Co.,Ltd.
 Administrative Address .......... 5F,SinoSteel Plaza, 8 Haidian Street
-Administrative City ............. Beijing
-Administrative Province/State ... Beijing
+Administrative City ............. beijing
+Administrative Province/State ... beijing
 Administrative Postal Code ...... 100080
 Administrative Country Code ..... CN
 Administrative Phone Number ..... +86.01058851881 -
 Administrative Fax .............. +86.01059708818 -
 Administrative Email ............ liujinguo@youku.com
-Billing ID ...................... hc343783649-cn
-Billing Name .................... JinGuo Liu
-Billing Organization ............ 1Verge Information Technology (Beijing) Co., Ltd.
-Billing Address ................. 5F,SinoSteel Plaza, 8 Haidian Street
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100080
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01058851881 -
-Billing Fax ..................... +86.01059708818 -
-Billing Email ................... liujinguo@youku.com
-Technical ID .................... hc490519186-cn
-Technical Name .................. JinGuo Liu
-Technical Organization .......... 1Verge Information Technology (Beijing) Co., Ltd.
+Technical ID .................... hc286511085-cn
+Technical Name .................. Jinguo Liu
+Technical Organization .......... 1Verge Internet Technology (Beijing) Co.,Ltd.
 Technical Address ............... 5F,SinoSteel Plaza, 8 Haidian Street
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
+Technical City .................. beijing
+Technical Province/State ........ beijing
 Technical Postal Code ........... 100080
 Technical Country Code .......... CN
 Technical Phone Number .......... +86.01058851881 -
 Technical Fax ................... +86.01059708818 -
 Technical Email ................. liujinguo@youku.com
-Expiration Date ................. 2012-12-22 09:57:45
+Billing ID ...................... hc962102672-cn
+Billing Name .................... Jinguo Liu
+Billing Organization ............ 1Verge Internet Technology (Beijing) Co.,Ltd.
+Billing Address ................. 5F,SinoSteel Plaza, 8 Haidian Street
+Billing City .................... beijing
+Billing Province/State .......... beijing
+Billing Postal Code ............. 100080
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.01058851881 -
+Billing Fax ..................... +86.01059708818 -
+Billing Email ................... liujinguo@youku.com
+Expiration Date ................. 2012-03-14 08:40:59
