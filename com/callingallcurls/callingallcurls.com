@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HODESIQ.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-jan-2011
-   Creation Date: 08-feb-2001
-   Expiration Date: 08-feb-2016
+   Domain Name: CALLINGALLCURLS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: ok
+   Updated Date: 12-apr-2011
+   Creation Date: 30-jan-2006
+   Expiration Date: 30-jan-2014
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:32 UTC &lt;&lt;&lt;
 
@@ -54,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... callingallcurls.com
+  Creation Date........ 2006-01-31
+  Registration Date.... 2006-01-31
+  Expiry Date.......... 2014-01-31
+  Organisation Name.... Jessica Mcconnell
+  Organisation Address. 8620 old bonnhome
+  Organisation Address. apt c
+  Organisation Address. st louis
+  Organisation Address. 63132
+  Organisation Address. MO
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Jessica Mcconnell
+  Admin Address........ 8620 old bonnhome
+  Admin Address........ apt c
+  Admin Address........ st louis
+  Admin Address........ 63132
+  Admin Address........ MO
+  Admin Address........ UNITED STATES
+  Admin Email.......... jessmc80@yahoo.com
+  Admin Phone.......... +1.3145502028
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: hodesiq.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:17:10 EDT 2011
-Reason Code: IE

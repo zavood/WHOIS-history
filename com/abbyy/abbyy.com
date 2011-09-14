@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HODESIQ.COM
+   Domain Name: ABBYY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
+   Name Server: DIWAN.BITSOFT.RU
+   Name Server: NS1.ABBYY.COM
    Status: clientTransferProhibited
-   Updated Date: 06-jan-2011
-   Creation Date: 08-feb-2001
-   Expiration Date: 08-feb-2016
+   Updated Date: 01-sep-2011
+   Creation Date: 30-sep-1997
+   Expiration Date: 29-sep-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: hodesiq.com
+Whois Query: abbyy.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:17:10 EDT 2011
+Date and Time of Query: Wed Sep 14 08:16:57 EDT 2011
 Reason Code: IE

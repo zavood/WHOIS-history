@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HODESIQ.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-jan-2011
-   Creation Date: 08-feb-2001
-   Expiration Date: 08-feb-2016
+   Domain Name: CAFFEINEFISH.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   Status: ok
+   Updated Date: 28-jun-2010
+   Creation Date: 19-nov-2009
+   Expiration Date: 19-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:27:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: hodesiq.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:17:10 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

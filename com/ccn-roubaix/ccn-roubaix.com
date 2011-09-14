@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HODESIQ.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-jan-2011
-   Creation Date: 08-feb-2001
-   Expiration Date: 08-feb-2016
+   Domain Name: CCN-ROUBAIX.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.SFRBUSINESSTEAM.FR
+   Name Server: NS2.SFRBUSINESSTEAM.FR
+   Status: ok
+   Updated Date: 04-mar-2011
+   Creation Date: 23-aug-2005
+   Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: hodesiq.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:17:10 EDT 2011
-Reason Code: IE
+Domain Name : CCN-ROUBAIX.COM
+Created On : 2005-08-23
+Expiration Date : 2012-08-23
+Status : ACTIVE
+Registrant Name : CENTRE CHOREGRAPHIQUE NATIONAL ROUBAIX
+Registrant Street1 : 33 rue de l'Epeule
+Registrant City : ROUBAIX
+Registrant State/Province  :
+Registrant Postal Code : 59500
+Registrant Country : FR
+Admin Name : 9 TELECOM
+Admin Street1 : 38, quai du point du jour
+Admin City : BOULOGNE BILLANCOURT
+Admin State/Province : FR
+Admin Postal Code : 92659
+Admin Country : FR
+Admin Phone : +33.170186414
+Admin Email : domaine@9tel.net
+Tech Name : 9 TELECOM
+Tech Street1 : 38, quai du point du jour
+Tech City : BOULOGNE BILLANCOURT
+Tech State/Province : FR
+Tech Postal Code : 92659
+Tech Country : FR
+Tech Phone : +33.170186414
+Tech Email : domaine@9tel.net
+Billing Name : 9 TELECOM
+Billing Street1 : 38, quai du point du jour
+Billing City : BOULOGNE BILLANCOURT
+Billing State/Province : FR
+Billing Postal Code : 92659
+Billing Country : FR
+Billing Phone : +33.170186414
+Billing Email : domaine@9tel.net
+Name Server : NS1.SFRBUSINESSTEAM.FR
+Name Server : NS2.SFRBUSINESSTEAM.FR
+Registrar Name : Namebay

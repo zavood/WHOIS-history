@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HODESIQ.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-jan-2011
-   Creation Date: 08-feb-2001
-   Expiration Date: 08-feb-2016
+   Domain Name: SZM.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS.ALINET.SK
+   Name Server: NS2.ALINET.SK
+   Status: ok
+   Updated Date: 28-jan-2008
+   Creation Date: 04-nov-1999
+   Expiration Date: 04-nov-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:26:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:27:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,23 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain Name:	szm.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: hodesiq.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:17:10 EDT 2011
-Reason Code: IE
+Registrant Contact
+
+Name:		Milan    Igrini
+Address:	Denesova 27
+		Kosice, sk  04001
+		SK
+
+Email Address:	szm@szm.com
+Phone Number:	(421)556-405146
+Fax Number:	(421)556-405146
+
+Administrative Contact
+
+Name:		Milan    Igrini
+Address:	Denesova 27
+		Kosice, sk  04001
+		SK
+
+Email Address:	szm@szm.com
+Phone Number:	(421)556-405146
+Fax Number:	(421)556-405146
+
+Technical Contact
+
+Name:		Milan    Igrini
+Address:	Denesova 27
+		Kosice, sk  04001
+		SK
+
+Email Address:	szm@szm.com
+Phone Number:	(421)556-405146
+Fax Number:	(421)556-405146
+
+Record Created on........ 1999-11-04 06:43:20.000
+Record last updated on... 2008-01-28 14:20:17.076
+Expire on................ 2017-11-04 14:20:16.255
+
+Domain Nameservers in listed order:
+
+	ns2.alinet.sk
+ 	ns.alinet.sk
+
