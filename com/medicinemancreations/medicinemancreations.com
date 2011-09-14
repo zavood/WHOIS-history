@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-KAYAK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-KAYAK.COM
+   Domain Name: MEDICINEMANCREATIONS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Status: ok
+   Updated Date: 02-mar-2011
+   Creation Date: 28-apr-2009
+   Expiration Date: 28-apr-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:58:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:59:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... medicinemancreations.com
+  Creation Date........ 2009-04-29
+  Registration Date.... 2009-04-29
+  Expiry Date.......... 2013-04-29
+  Organisation Name.... Cheryl Davey
+  Organisation Address. PO Box 21
+  Organisation Address.
+  Organisation Address. Parramatta, Sydney
+  Organisation Address. 2124
+  Organisation Address. NSW
+  Organisation Address. AUSTRALIA
+
+Admin Name........... Cheryl Davey
+  Admin Address........ PO Box 21
+  Admin Address........
+  Admin Address........ Parramatta, Sydney
+  Admin Address........ 2124
+  Admin Address........ NSW
+  Admin Address........ AUSTRALIA
+  Admin Email.......... info@fireworkswebsites.com.au
+  Admin Phone.......... 0413091769
+  Admin Fax............
+
+Tech Name............ Cheryl Davey
+  Tech Address......... PO Box 21
+  Tech Address.........
+  Tech Address......... Parramatta, Sydney
+  Tech Address......... 2124
+  Tech Address......... NSW
+  Tech Address......... AUSTRALIA
+  Tech Email........... info@fireworkswebsites.com.au
+  Tech Phone........... 0413091769
+  Tech Fax.............
+  Name Server.......... ns25.domaincontrol.com
+  Name Server.......... ns26.domaincontrol.com
+
+

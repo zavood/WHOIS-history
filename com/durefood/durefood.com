@@ -5,14 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-KAYAK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-KAYAK.COM
+   Domain Name: DUREFOOD.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS23.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS31.DNSEVER.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 25-aug-2011
+   Creation Date: 12-apr-2004
+   Expiration Date: 12-apr-2013
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:58:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:58:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to GABIA.COM's WHOIS data service.
+
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+
+Registrant : durefood
+	93-1ducksam Jeongmi-myeon, Dangjin-gun, CHUNGCHEONGNAM-DO
+	(343863)
+
+	Domain Name:  DUREFOOD.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
+
+	Administrative, Technical, Billing Contact:
+		Seo,Jeogn Man	wjdaks30@naver.com
+		93-1ducksam Jeongmi-myeon, Dangjin-gun, CHUNGCHEONGNAM-DO
+		(Tel) 041-352-6811	(fax) 041-352-6818
+
+	Record created on 	april     13, 2004
+	Record expires on 	2013-04-13
+	Record last updated on 	2011-08-25
+
+	Domain servers in listed order:
+
+	ns19.dnsever.com
+	ns23.dnsever.com
+	ns31.dnsever.com
+	ns231.dnsever.com
+	ns259.dnsever.com
+
+Register a domain name at www.gabia.com
+
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;
