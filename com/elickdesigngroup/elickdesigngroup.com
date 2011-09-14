@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLEANUSECAR.COM
+   Domain Name: ELICKDESIGNGROUP.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
-   Name Server: NS2.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
+   Name Server: NS33.DOMAINCONTROL.COM
+   Name Server: NS34.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-aug-2011
-   Creation Date: 04-nov-2008
-   Expiration Date: 04-nov-2011
+   Updated Date: 23-mar-2011
+   Creation Date: 13-apr-2010
+   Expiration Date: 02-jun-2013
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:55:07 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Del Rey auto Ent INC
+   ELICKDESIGNGROUP
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: CLEANUSECAR.COM
+   Domain Name: ELICKDESIGNGROUP.COM
 
    Domain servers in listed order:
-      NS1.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
-      NS2.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
+      NS33.DOMAINCONTROL.COM
+      NS34.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=CLEANUSECAR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ELICKDESIGNGROUP.COM

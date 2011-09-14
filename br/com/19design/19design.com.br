@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-14 15:56:25 (BRT -03:00)
+
+domain:      19design.com.br
+owner:       19 Design Editora Ltda
+ownerid:     001.732.852/0001-36
+responsible: Hugo Rafael
+country:     BR
+owner-c:     DED35
+admin-c:     DED35
+tech-c:      ZAC
+billing-c:   DED35
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20000804 #398694
+expires:     20120804
+changed:     20110817
+status:      published
+
+nic-hdl-br:  DED35
+person:      19 Design
+e-mail:      hugorafael@19design.com.br
+created:     20011128
+changed:     20070110
+
+nic-hdl-br:  ZAC
+person:      ZAZ Corporativo
+e-mail:      fapesp@terraempresas.com.br
+created:     19990715
+changed:     20100920
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
