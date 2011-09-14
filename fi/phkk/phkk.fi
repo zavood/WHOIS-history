@@ -1,0 +1,19 @@
+
+domain:   phkk.fi
+descr:    P&auml;ij&auml;t-H&auml;meen koulutuskonserni-kuntayhtym&auml;
+descr:    09936446
+address:  Tietohallintopalvelut
+address:  Teinintie 4
+address:  15200
+address:  Lahti
+phone:    050 526 5827
+status:   Granted
+created:  1.1.1991
+expires:  7.5.2015
+nserver: amoeboid.lpt.fi [OK]
+nserver: ns1.phkk.fi [OK] 195.95.209.3
+nserver: ns5.taajama.fi [OK]
+nserver: ukko.phkk.fi [OK] 195.95.209.2
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority
