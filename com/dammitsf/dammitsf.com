@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DELATELA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DELATELA.COM
-   Name Server: NS2.DELATELA.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DAMMITSF.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.DNS-HE.COM
+   Name Server: NS2.DNS-HE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 26-feb-2011
-   Creation Date: 25-feb-2003
-   Expiration Date: 25-feb-2012
+   Updated Date: 26-jan-2011
+   Creation Date: 25-jan-2005
+   Expiration Date: 25-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:31:36 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-Registrant:
-   Delatela
+   Registrant:
+      Light Speed
+      John Gillette
+      571 Fell st. apt. A
+      San Francisco, CA 94102
+      US
+      Phone: 1-415-5031852
+      Email: j_r_gillette@sbcglobal.net
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DELATELA.COM
-
-   Domain servers in listed order:
-      NS1.DELATELA.COM
-      NS2.DELATELA.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DELATELA.COM
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: dammitsf.com
+      Created on..............: 2005-01-25
+      Expires on..............: 2012-01-25
+
+   Administrative Contact:
+      American Dream Records
+      John Gillette
+      571 Fell st. apt A
+      San Francisco, CA 94102
+      US
+      Phone: 4155031852
+      Email: j_r_gillette@sbcglobal.net
+
+
+   Technical  Contact:
+      Register.Com
+      Domain Registrar
+      575 8th Avenue 11th Floor
+      New York, NY 10018
+      US
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
+
+
+   DNS Servers:
+      ns1.dns-he.com
+      ns2.dns-he.com
+
+
+
+Visit AboutUs.org for more information about dammitsf.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/dammitsf.com&quot;&gt;AboutUs: dammitsf.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

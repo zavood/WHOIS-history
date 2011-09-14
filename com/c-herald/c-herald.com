@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HDFORUMS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNSCDC.CARSDIRECT.COM
-   Name Server: DNSLA.CARSDIRECT.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-jun-2010
-   Creation Date: 26-nov-2003
-   Expiration Date: 26-nov-2016
+   Domain Name: C-HERALD.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS.WEBJEAN.ORG
+   Name Server: NS2.WEBJEAN.ORG
+   Status: ok
+   Updated Date: 03-jul-2008
+   Creation Date: 30-jun-2003
+   Expiration Date: 30-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:32:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:32:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name : c-herald.com
+
+::Registrant::
+Name : dae sik Jung
+Email : mc415@hanafos.com
+Address : Samhwan APT, Karak 2-dong, Songpa-gu, Seoul
+Zipcode : 138745
+Nation : KR
+Tel : 02-430-4156
+Fax :
+
+::Administrative Contact::
+Name : dae sik Jung
+Email : mc415@hanafos.com
+Address : Samhwan APT, Karak 2-dong, Songpa-gu, Seoul
+Zipcode : 138745
+Nation : KR
+Tel : 02-430-4156
+Fax :
+
+::Technical Contact::
+Name : dae sik Jung
+Email : mc415@hananet.net
+Address : Samhwan APT, Karak 2-dong, Songpa-gu, Seoul
+Zipcode : 138745
+Nation : KR
+Tel : 02-430-4156
+Fax :
+
+::Name Servers::
+ns.webjean.org
+ns2.webjean.org
+
+::Dates &amp; Status::
+Created Date : 2003/06/30 02:34:35 EST
+Updated Date : 2008/07/04 10:09:19 EST
+Valid Date : 2013/06/30 02:34:35 EST
+Status ACTIVE
 
 
-Registrant:
-   Internet Brands
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HDFORUMS.COM
-
-   Domain servers in listed order:
-      DNSCDC.CARSDIRECT.COM
-      DNSLA.CARSDIRECT.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HDFORUMS.COM
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HDFORUMS.COM
+   Domain Name: BLANDAID.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNSCDC.CARSDIRECT.COM
-   Name Server: DNSLA.CARSDIRECT.COM
+   Name Server: NS07.DOMAINCONTROL.COM
+   Name Server: NS08.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-jun-2010
-   Creation Date: 26-nov-2003
-   Expiration Date: 26-nov-2016
+   Updated Date: 06-jan-2010
+   Creation Date: 04-jan-2008
+   Expiration Date: 04-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:32:53 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Internet Brands
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HDFORUMS.COM
+   Domain Name: BLANDAID.COM
 
    Domain servers in listed order:
-      DNSCDC.CARSDIRECT.COM
-      DNSLA.CARSDIRECT.COM
+      NS07.DOMAINCONTROL.COM
+      NS08.DOMAINCONTROL.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HDFORUMS.COM
+   ****************************************************
+   See Business Registration Listing
+   ****************************************************
+   Copy and paste the link below to view additional details:
+   http://who.godaddy.com/whoischeck.aspx?domain=BLANDAID.COM

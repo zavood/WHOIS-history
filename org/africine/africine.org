@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104998428-LROR
+Domain Name:AFRICINE.ORG
+Created On:14-Oct-2004 11:56:21 UTC
+Last Updated On:08-Sep-2010 12:20:29 UTC
+Expiration Date:14-Oct-2016 11:56:21 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:O-857737-GANDI
+Registrant Name:BARLET Olivier
+Registrant Organization:Association AFRICULTURES
+Registrant Street1:LES PILLES
+Registrant Street2:
+Registrant Street3:
+Registrant City:NYONS
+Registrant State/Province:
+Registrant Postal Code:26110
+Registrant Country:FR
+Registrant Phone:+33.475277480
+Registrant Phone Ext.:
+Registrant FAX:+33.475277575
+Registrant FAX Ext.:
+Registrant Email:1189b1bf2c35c0a12c1520616cbec684-81231@contact.gandi.net
+Admin ID:BO107-GANDI
+Admin Name:BARLET Olivier
+Admin Organization:Association AFRICULTURES
+Admin Street1:LES PILLES
+Admin Street2:
+Admin Street3:
+Admin City:NYONS
+Admin State/Province:
+Admin Postal Code:26110
+Admin Country:FR
+Admin Phone:+33.475277480
+Admin Phone Ext.:
+Admin FAX:+33.475277575
+Admin FAX Ext.:
+Admin Email:1189b1bf2c35c0a12c1520616cbec684-81231@contact.gandi.net
+Tech ID:BM431-GANDI
+Tech Name:Benedicte Martinet
+Tech Organization:Platine Communication
+Tech Street1:12 Rue Graham Bell
+Tech Street2:
+Tech Street3:
+Tech City:Pessac
+Tech State/Province:
+Tech Postal Code:33600
+Tech Country:FR
+Tech Phone:+33.556150809
+Tech Phone Ext.:
+Tech FAX:+33.556150236
+Tech FAX Ext.:
+Tech Email:benedicte@platine.com
+Name Server:NS2.SD-FRANCE.NET
+Name Server:SRV775.SD-FRANCE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

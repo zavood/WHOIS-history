@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D73262981-LROR
+Domain Name:GLOBALCOOL.ORG
+Created On:25-Jun-2001 15:03:27 UTC
+Last Updated On:15-Dec-2010 17:41:30 UTC
+Expiration Date:25-Jun-2017 15:03:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuOvNCRbnaBGrYfS
+Registrant Name:Gavin Starks
+Registrant Organization:Global Cool Productions Limited
+Registrant Street1:19-20 Noel Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:W1F8GW
+Registrant Country:GB
+Registrant Phone:+44.7931387769
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:websupport@global-cool.com
+Admin ID:tuOvNCRbnaBGrYfS
+Admin Name:Gavin Starks
+Admin Organization:Global Cool Productions Limited
+Admin Street1:19-20 Noel Street
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:W1F8GW
+Admin Country:GB
+Admin Phone:+44.7931387769
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:websupport@global-cool.com
+Tech ID:tuOvNCRbnaBGrYfS
+Tech Name:Gavin Starks
+Tech Organization:Global Cool Productions Limited
+Tech Street1:19-20 Noel Street
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:
+Tech Postal Code:W1F8GW
+Tech Country:GB
+Tech Phone:+44.7931387769
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:websupport@global-cool.com
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
