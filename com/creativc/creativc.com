@@ -5,7 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ILOVEAU.NET&quot;.
+   Domain Name: CREATIVC.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
+   Status: ok
+   Updated Date: 14-apr-2011
+   Creation Date: 25-jan-2010
+   Expiration Date: 25-jan-2012
+
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:43:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
@@ -41,3 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+&lt;a href='http://www.namebay.com'&gt;NAMEBAY&lt;/a&gt;
+
+Domain Name : CREATIVC.COM
+Created On : 2010-01-25
+Expiration Date : 2012-01-25
+Status : ACTIVE
+Registrant Name : creative content
+Registrant Street1 : 14, av. Vibert
+Registrant City : Carouge
+Registrant State/Province  :
+Registrant Postal Code : 1227
+Registrant Country : CH
+Admin Name : creative content
+Admin Street1 : 14, av. Vibert
+Admin City : Carouge
+Admin State/Province : CH
+Admin Postal Code : 1227
+Admin Country : CH
+Admin Phone : +41.774589707
+Admin Email : gb@geaif.com
+Tech Name : creative content
+Tech Street1 : 14, av. Vibert
+Tech City : Carouge
+Tech State/Province : CH
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.774589707
+Tech Email : gb@geaif.com
+Billing Name : creative content
+Billing Street1 : 14, av. Vibert
+Billing City : Carouge
+Billing State/Province : CH
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.774589707
+Billing Email : gb@geaif.com
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay
