@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-nov-1997
    Expiration Date: 13-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:28:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:57:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,64 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about ONLINEATHENS.COM
-&lt;a href=&quot;http://www.aboutus.org/ONLINEATHENS.COM&quot;&gt;AboutUs: ONLINEATHENS.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-Athens Newspapers, LLC
-   P.O. Box 936
-   Augusta, GA 30903
-   US
-
-   Domain Name: ONLINEATHENS.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact, Technical Contact:
-      Athens Newspapers, LLC		domain.admin@morris.com
-      P.O. Box 936
-      Augusta, GA 30903
-      US
-      706-828-3861
-
-
-   Record expires on 13-Nov-2011.
-   Record created on 14-Nov-1997.
-   Database last updated on 10-Sep-2011 15:19:14 EDT.
-
-   Domain servers in listed order:
-
-   ZNET.GROUPZ.NET              216.116.230.12
-   DUKE.GROUPZ.NET              216.116.243.133
-
-
+Whois Query: onlineathens.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 09:47:23 EDT 2011
+Reason Code: IE

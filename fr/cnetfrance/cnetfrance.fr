@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cnetfrance.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cnetfrance.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CNFS3-FRNIC
+admin-c:     JI57-FRNIC
+tech-c:      ZFN1-FRNIC
+tech-c:      MO1428-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL17297-FRNIC
+registrar:   CNET NETWORKS FRANCE SAS
+anniversary: 24/05
+created:     24/05/2004
+last-update: 22/05/2007
+source:      FRNIC
+
+ns-list:     NSL17297-FRNIC
+nserver:     ns2.cnet.co.uk
+nserver:     ns.cnet.com
+nserver:     ns2.cnet.com
+source:      FRNIC
+
+registrar:   CNET NETWORKS FRANCE SAS
+type:        Isp Option 2
+anonymous:   YES
+registered:  11/12/2001
+source:      FRNIC
+
+nic-hdl:     JI57-FRNIC
+type:        PERSON
+contact:     Jacob Isabelle
+address:     CNET NETWORKS FRANCE SAS
+address:     14, place Marie Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 46 39 55 00
+e-mail:      isabelle.jacob@cnet.com
+changed:     24/05/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CNFS3-FRNIC
+type:        ORGANIZATION
+contact:     CNET NETWORKS FRANCE SAS
+address:     14, place Marie Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 46 39 55 00
+e-mail:      mustapha.omar@cnet.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ZFN1-FRNIC
+type:        ROLE
+contact:     ZDNet France NOC
+address:     ZDNet France SAS
+address:     14, place Marie-Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+e-mail:      mustapha.omar@cnet.com
+admin-c:     IJ12-FRNIC
+tech-c:      MO1428-FRNIC
+changed:     18/12/2001 mustapha.omar@cnet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MO1428-FRNIC
+type:        PERSON
+contact:     Mustapha Omar
+address:     ZDNet France SAS
+address:     14, place Marie-Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 46 39 55 97
+changed:     18/12/2001 mustapha.omar@cnet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

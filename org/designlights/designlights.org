@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27567192-LROR
+Domain Name:DESIGNLIGHTS.ORG
+Created On:22-May-2000 00:45:02 UTC
+Last Updated On:03-Apr-2008 18:34:40 UTC
+Expiration Date:22-May-2013 00:45:02 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31540108-NSI
+Registrant Name:NortheastEnergyEfficiency Partnerships
+Registrant Organization:NortheastEnergyEfficiency Partnerships
+Registrant Street1:5 Militia Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lexington
+Registrant State/Province:MA
+Registrant Postal Code:02410-4012
+Registrant Country:US
+Registrant Phone:+1.78186091
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sdagher@DESIGNLIGHTS.ORG
+Admin ID:31540110-NSI
+Admin Name:NortheastEnergyEfficiency Partnerships
+Admin Organization:NortheastEnergyEfficiency Partnerships
+Admin Street1:5 MILITIA DR
+Admin Street2:
+Admin Street3:
+Admin City:LEXINGTON
+Admin State/Province:MA
+Admin Postal Code:02421-4716
+Admin Country:US
+Admin Phone:+1.78186091
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sdagher@DESIGNLIGHTS.ORG
+Tech ID:5452931-NSI
+Tech Name:Roger Wright
+Tech Organization:Local Link Internet
+Tech Street1:P.O. Box 84
+Tech Street2:
+Tech Street3:
+Tech City:Greenland
+Tech State/Province:NH
+Tech Postal Code:03801
+Tech Country:US
+Tech Phone:+1.6034331158
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rwright@LOCALLINK.COM
+Name Server:NS1.LOCALLINK.COM
+Name Server:NS2.LOCALLINK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

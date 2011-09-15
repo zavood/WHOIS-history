@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; opodo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      opodo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    O2597-FRNIC
+admin-c:     JBL83-FRNIC
+tech-c:      JBL81-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL48107-FRNIC
+registrar:   NAMESHIELD
+anniversary: 21/11
+created:     08/10/2001
+last-update: 07/04/2011
+source:      FRNIC
+
+ns-list:     NSL48107-FRNIC
+nserver:     mucdns02.amadeus-dns.com
+nserver:     atldnsv7.amadeus-dns.com
+nserver:     atldnsv8.amadeus-dns.com
+nserver:     mucdns01.amadeus-dns.com
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     O2597-FRNIC
+type:        ORGANIZATION
+contact:     OPODO
+address:     17, rue de l'echiquier
+address:     75010 Paris
+country:     FR
+phone:       +33 1 41 08 18 37
+fax-no:      +33 1 47 36 50 67
+e-mail:      domainadmin@opodo.fr
+changed:     12/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JBL83-FRNIC
+type:        PERSON
+contact:     Jean-Bernard Lassalle
+address:     OPODO
+address:     17, rue de l'echiquier
+address:     75010 Paris
+country:     FR
+phone:       +33 1 48 08 18 37
+fax-no:      +33 1 47 36 50 67
+e-mail:      domainadmin@opodo.fr
+changed:     26/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JBL81-FRNIC
+type:        PERSON
+contact:     Jean-Bernard Lassalle
+address:     OPODO SAS
+address:     17, rue de l'echiquier
+address:     75010 Paris
+country:     FR
+phone:       +33 1 48 08 18 37
+fax-no:      +33 1 47 36 50 67
+e-mail:      domainadmin@opodo.fr
+changed:     26/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
