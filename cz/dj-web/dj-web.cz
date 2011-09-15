@@ -1,0 +1,46 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:38:04 2011
+
+domain:       dj-web.cz
+registrant:   CID:IGN-C166293-BT3
+nsset:        NS:IC
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   23.08.2008 22:23:09
+changed:      24.01.2010 14:18:02
+expire:       23.08.2012
+
+contact:      CID:IGN-C166293-BT3
+name:         Ji&Aring;ô&Atilde;&shy; Marek
+address:      Havl&Atilde;&shy;&Auml;çkova 147
+address:      Hru&Aring;&iexcl;ovany u Brna
+address:      66462
+address:      CZ
+registrar:    REG-IGNUM
+created:      09.10.2007 00:17:01
+
+nsset:        NS:IC
+nserver:      ns1.ic.cz
+nserver:      ns2.ic.cz
+tech-c:       CID:IGN-C166293-BT3
+registrar:    REG-IGNUM
+created:      26.09.2008 17:27:15
+
+

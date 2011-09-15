@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABCDISTRIBUTING.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-dec-2007
-   Creation Date: 24-jan-1997
-   Expiration Date: 25-jan-2014
+   Domain Name: ESDPACK.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: KNS3.KTDOM.COM
+   Name Server: KNS4.KTDOM.COM
+   Status: ok
+   Updated Date: 07-jun-2011
+   Creation Date: 11-jun-2003
+   Expiration Date: 11-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:38:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:37:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name : esdpack.com
+
+::Registrant::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Administrative Contact::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Technical Contact::
+Name : Ktdom
+Email : domain@ktdom.com
+Address : 721-38 Ktdom Bldg, Yeoksam-dong Kangnam-gu Seoul Korea
+Zipcode : 135920
+Nation : KR
+Tel : 02-393-3322
+Fax :
+
+::Name Servers::
+kns3.ktdom.com
+kns4.ktdom.com
+
+::Dates &amp; Status::
+Created Date : 2003/06/11 05:29:15 EST
+Updated Date : 2011/06/07 21:34:44 EST
+Valid Date : 2012/06/11 04:29:15 EST
+Status ACTIVE
 
 
-Registrant:
-   abc distributing llc
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ABCDISTRIBUTING.COM
-
-   Domain servers in listed order:
-      UDNS2.ULTRADNS.NET
-      UDNS1.ULTRADNS.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ABCDISTRIBUTING.COM
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

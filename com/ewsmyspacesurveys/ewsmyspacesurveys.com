@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ABCDISTRIBUTING.COM
+   Domain Name: EWSMYSPACESURVEYS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: UDNS1.ULTRADNS.NET
-   Name Server: UDNS2.ULTRADNS.NET
+   Name Server: NS1.ANIMATEDMYSPACELAYOUTS.NET
+   Name Server: NS2.ANIMATEDMYSPACELAYOUTS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-dec-2007
-   Creation Date: 24-jan-1997
-   Expiration Date: 25-jan-2014
+   Updated Date: 11-mar-2011
+   Creation Date: 08-jan-2007
+   Expiration Date: 08-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:38:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:37:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   abc distributing llc
+   e Web Services Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ABCDISTRIBUTING.COM
+   Domain Name: EWSMYSPACESURVEYS.COM
 
    Domain servers in listed order:
-      UDNS2.ULTRADNS.NET
-      UDNS1.ULTRADNS.NET
+      NS1.ANIMATEDMYSPACELAYOUTS.NET
+      NS2.ANIMATEDMYSPACELAYOUTS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ABCDISTRIBUTING.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EWSMYSPACESURVEYS.COM

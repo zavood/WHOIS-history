@@ -1,0 +1,65 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       good.is
+descr:        Jay Ku
+descr:        915 N. Citrus Av.
+descr:        Los Angeles, CA 90038
+descr:        US
+admin-c:      VE285-IS
+tech-c:       JK42-IS
+zone-c:       FH200-IS
+billing-c:    JK45-IS
+nserver:      ns1.p10.dynect.net
+nserver:      ns2.p10.dynect.net
+nserver:      ns3.p10.dynect.net
+nserver:      ns4.p10.dynect.net
+created:      November 30 2007
+expires:      November 30 2011
+source:       ISNIC
+
+person:       Jay Ku
+address:      1123 9th St.
+address:      Apt. 2
+address:      Santa Monica, CA 90403
+address:      US
+e-mail:       doug@goodinc.com
+nic-hdl:      JK42-IS
+created:      October 16 2007
+source:       ISNIC
+
+role:         Jay Ku
+address:      1123 9th St.
+address:      Apt. 2
+address:      Santa Monica, CA 90403
+address:      US
+phone:        +310 388 7333
+e-mail:       jayku1983@yahoo.com
+nic-hdl:      JK45-IS
+created:      November 28 2007
+source:       ISNIC
+
+role:         VITS ehf
+address:      &THORN;ingholtsstr&aelig;ti 6
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 564 5555
+e-mail:       domains@vits.co.uk
+nic-hdl:      VE285-IS
+created:      October 19 2005
+source:       ISNIC
+
+role:         Fred Hoth
+address:      Dynamic Network Services, Inc.
+address:      1230 Elm St. Fifth Floor
+address:      Manchester, NH 03101
+address:      US
+phone:        +1 603 6684998
+fax-no:       +1 603 2961590
+e-mail:       concierge@dynect.com
+nic-hdl:      FH200-IS
+created:      March 17 2010
+source:       ISNIC
+
+
