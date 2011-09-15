@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lavenirdelartois.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lavenirdelartois.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SNNL4-FRNIC
+admin-c:     PD4235-FRNIC
+tech-c:      TN1723-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL25054-FRNIC
+registrar:   AUDAXIS SAS
+anniversary: 10/10
+created:     10/10/2007
+last-update: 11/12/2008
+source:      FRNIC
+
+ns-list:     NSL25054-FRNIC
+nserver:     nsa.audaxis.com
+nserver:     nsb.audaxis.com
+source:      FRNIC
+
+registrar:   AUDAXIS SAS
+type:        Isp Option 2
+address:     14 Rue du Sec Arembault
+address:     BP 201
+address:     LILLE CEDEX
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      info@audaxis.com
+website:     http://www.audaxis.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     SNNL4-FRNIC
+type:        ORGANIZATION
+contact:     Soci&eacute;t&eacute; Nouvelle Nord Littoral
+address:     91, boulevard Jacquard
+address:     62100 Calais
+country:     FR
+phone:       +33 3 21 19 12 12
+e-mail:      pascal.dejean@nord-littoral.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PD4235-FRNIC
+type:        PERSON
+contact:     Pascal Dejean
+address:     Soci&eacute;t&eacute; Nouvelle Nord Littoral
+address:     91, boulevard Jacquard
+address:     62100 Calais
+country:     FR
+phone:       +33 3 21 19 12 12
+e-mail:      pascal.dejean@nord-littoral.fr
+changed:     10/10/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     TN1723-FRNIC
+type:        ROLE
+contact:     TELMEDIA NOC
+address:     TELMEDIA
+address:     14, rue du Sec Arembault
+address:     B.P. 201
+address:     59002 Lille Cedex
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      noc@telmedia.fr
+trouble:     mailto:noc@telmedia.fr
+admin-c:     BM405-FRNIC
+tech-c:      DG313-FRNIC
+notify:      noc@telmedia.fr
+changed:     26/03/2001 noc@telmedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

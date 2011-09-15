@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STYLEECHO.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS49.DOMAINCONTROL.COM
-   Name Server: NS50.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: HEROKUDEV.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: NS1.P19.DYNECT.NET
+   Name Server: NS2.P19.DYNECT.NET
+   Name Server: NS3.P19.DYNECT.NET
+   Name Server: NS4.P19.DYNECT.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-may-2011
-   Creation Date: 18-jun-2010
-   Expiration Date: 18-jun-2012
+   Updated Date: 09-oct-2010
+   Creation Date: 28-jul-2007
+   Expiration Date: 28-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:27:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:28:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Style Echo
+ Heroku
+ Folsom St
+ San Francisco, CA 94103
+ US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STYLEECHO.COM
-
-   Domain servers in listed order:
-      NS49.DOMAINCONTROL.COM
-      NS50.DOMAINCONTROL.COM
+ Domain name: HEROKUDEV.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STYLEECHO.COM
+ Administrative Contact:
+    Wiggins, Adam  dns@heroku.com
+    Folsom St
+    San Francisco, CA 94103
+    US
+    111222333
+ Technical Contact:
+    Wiggins, Adam  dns@heroku.com
+    Folsom St
+    San Francisco, CA 94103
+    US
+    111222333
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 09-Oct-2010.
+ Record expires on 28-Jul-2013.
+ Record created on 28-Jul-2007.
+
+ Domain servers in listed order:
+    NS3.P19.DYNECT.NET
+    NS1.P19.DYNECT.NET
+    NS4.P19.DYNECT.NET
+    NS2.P19.DYNECT.NET
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 3 lookups left today
