@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; weleda.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      weleda.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    W1762-FRNIC
+admin-c:     LG3119-FRNIC
+tech-c:      CTC54-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10273-FRNIC
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+anniversary: 06/12
+created:     15/02/2000
+last-update: 02/08/2010
+source:      FRNIC
+
+ns-list:     NSL10273-FRNIC
+nserver:     ns1.9services.com
+nserver:     ns2.9services.com
+source:      FRNIC
+
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+type:        Isp Option 1
+address:     42 Avenue de Friedland
+address:     PARIS
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      serge.ribeiro@sfr.com
+website:     http://www.sfrbusinessteam.fr
+anonymous:   NO
+registered:  02/08/2010
+source:      FRNIC
+
+nic-hdl:     LG3119-FRNIC
+type:        PERSON
+contact:     Laurent Gervilliers
+address:     Weleda
+address:     9, rue Eugene Jung
+address:     B.P. 152
+address:     68331 Huningue Cedex
+country:     FR
+phone:       +33 3 89 69 68 00
+fax-no:      +33 3 89 69 68 99
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CTC54-FRNIC
+type:        ROLE
+contact:     CEGETEL Technical Contact
+address:     Tour Sequoia
+address:     1, place Carpeaux
+address:     92915 Paris la Defense Cedex
+country:     FR
+fax-no:      +33 1 71 07 77 17
+e-mail:      frnic-tech-contact@cegetel.net
+trouble:     ================================================
+trouble:     Pour toute demande concernant les domaines .fr,
+trouble:     Veuillez ecrire a:  beadmcontact@cegetel.fr
+trouble:     ================================================
+admin-c:     SM6527-FRNIC
+admin-c:     MART1-FRNIC
+tech-c:      SM6527-FRNIC
+tech-c:      MART1-FRNIC
+tech-c:      RG569-FRNIC
+tech-c:      BB5-FRNIC
+remarks:     ------------------------------
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     W1762-FRNIC
+type:        ORGANIZATION
+contact:     Weleda
+address:     9, rue Eugene Jung
+address:     B.P. 152
+address:     68331 Huningue Cedex
+country:     FR
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

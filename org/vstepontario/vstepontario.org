@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109717966-LROR
+Domain Name:VSTEPONTARIO.ORG
+Created On:20-Dec-2005 03:31:42 UTC
+Last Updated On:21-Dec-2010 01:22:25 UTC
+Expiration Date:20-Dec-2011 03:31:42 UTC
+Sponsoring Registrar:NameScout Corp. (R57-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NS625597
+Registrant Name:Mr Alec Martin
+Registrant Organization:VSTEP
+Registrant Street1:100 Stone Road West, Suite 204
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guelph
+Registrant State/Province:on
+Registrant Postal Code:N1G5L3
+Registrant Country:CA
+Registrant Phone:+1.5197673267
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@rkd.ca
+Admin ID:NS272621
+Admin Name:Mr Alec Martin
+Admin Organization:VSTEP
+Admin Street1:100 Stone Road West, Suite 204
+Admin Street2:
+Admin Street3:
+Admin City:Guelph
+Admin State/Province:on
+Admin Postal Code:N1G5L3
+Admin Country:CA
+Admin Phone:+1.5197673267
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@rkd.ca
+Tech ID:NS272621
+Tech Name:Mr Alec Martin
+Tech Organization:VSTEP
+Tech Street1:100 Stone Road West, Suite 204
+Tech Street2:
+Tech Street3:
+Tech City:Guelph
+Tech State/Province:on
+Tech Postal Code:N1G5L3
+Tech Country:CA
+Tech Phone:+1.5197673267
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@rkd.ca
+Name Server:NS1.RKD.CA
+Name Server:NS2.RKD.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

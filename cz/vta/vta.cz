@@ -1,0 +1,60 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:51:42 2011
+
+domain:       vta.cz
+registrant:   SB:VOJTAH2
+admin-c:      VOJTAH
+nsset:        NSS:VOJTAH2:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   13.07.2003 17:24:00
+expire:       12.07.2012
+
+contact:      SB:VOJTAH2
+name:         Vojt&Auml;›ch Hlave&Aring;&iexcl;
+address:      Prost&Aring;™edn&Atilde;&shy; 16
+address:      Praha 4
+address:      14100
+address:      CZ
+e-mail:       VHlaves@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      23.06.2003 14:41:00
+
+contact:      VOJTAH
+name:         Vojt&Auml;›ch Hlave&Aring;&iexcl;
+address:      Prost&Aring;™edn&Atilde;&shy; 16
+address:      Praha 4
+address:      14100
+address:      CZ
+phone:        241481563
+e-mail:       VHlaves@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      23.06.2003 14:31:00
+changed:      23.06.2003 12:41:00
+
+nsset:        NSS:VOJTAH2:1
+nserver:      ns2.pipni.cz
+nserver:      ns.pipni.cz
+tech-c:       SB:VOJTAH2
+tech-c:       VOJTAH
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+
