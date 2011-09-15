@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELGRITODEMEXICO.COM
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: ok
-   Updated Date: 17-jul-2011
-   Creation Date: 16-jul-2006
-   Expiration Date: 16-jul-2012
+   Domain Name: WGLHOLDINGS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: AUTH110.NS.UU.NET
+   Status: clientTransferProhibited
+   Updated Date: 14-jun-2006
+   Creation Date: 03-jan-2000
+   Expiration Date: 03-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:53:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:56:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Arsys Internet's WHOIS database is only for information purposes,
-this information consists on domain name registration records.
-Arsys Internet does not guarantee the accuracy of the information
-contained in the WHOIS. Arsys Internet allows the use of the
-information only for lawful purposes, under no circumstances this data
-will be use for: (a) allow, enable, or otherwise support the transmission
-by e-mail, telephone, or facsimile of mass unsolicited, commercial
-advertising or solicitations to entities other than the data recipient's
-own existing customers; or (b) enable high volume, automated,
-electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as
-reasonably necessary to register domain names or modify existing
-registrations.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Domain name: elgritodemexico.com
+http://www.networksolutions.com/whois/index.jhtml
 
-Registrant:
-      ALVARO GONZALEZ HIGAREDA  (SROW-1232037)
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28016   ES
-   +34 914572063   fax: +34 914572063
-
-
-Administrative contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898816)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax: +34 914572063
-
-
-Technical contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898817)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax:+34 914572063
-
-
-Domain servers in listed order:
-   ns51.domaincontrol.com  216.69.185.26
-   ns52.domaincontrol.com  208.109.255.26
-
-
-Created:       16 Jul 2006 15:33:21:000   UTC
-Expires:       16 Jul 2012 15:33:21:000   UTC
-Last updated:  17 Jul 2011 12:11:08:457   UTC
-
-
-
+Whois Query: wglholdings.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 17:46:31 EDT 2011
+Reason Code: IE

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104728982-LROR
+Domain Name:IFOCO.ORG
+Created On:06-Aug-2004 16:40:27 UTC
+Last Updated On:08-Jul-2011 05:02:31 UTC
+Expiration Date:06-Aug-2012 16:40:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuxOLuIcQkENgJUr
+Registrant Name:Tara Coste
+Registrant Organization:Tara Coste
+Registrant Street1:8 School St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Standish
+Registrant State/Province:ME
+Registrant Postal Code:04084
+Registrant Country:US
+Registrant Phone:+1.2076426864
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tcoste@usm.maine.edu
+Admin ID:tuxOLuIcQkENgJUr
+Admin Name:Tara Coste
+Admin Organization:Tara Coste
+Admin Street1:8 School St.
+Admin Street2:
+Admin Street3:
+Admin City:Standish
+Admin State/Province:ME
+Admin Postal Code:04084
+Admin Country:US
+Admin Phone:+1.2076426864
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tcoste@usm.maine.edu
+Tech ID:tuFkHt6T2VLMNVDj
+Tech Name:Domain Administrator
+Tech Organization:Homestead Technologies, Inc
+Tech Street1:3375 Edison Way
+Tech Street2:
+Tech Street3:
+Tech City:Menlo Park
+Tech State/Province:California
+Tech Postal Code:94025-1811
+Tech Country:US
+Tech Phone:+1.8007972958
+Tech Phone Ext.:
+Tech FAX:+1.6503647329
+Tech FAX Ext.:
+Tech Email:hostmaster@homesteadsupport.com
+Name Server:NS1.MDNSSERVICE.COM
+Name Server:NS2.MDNSSERVICE.COM
+Name Server:NS3.MDNSSERVICE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

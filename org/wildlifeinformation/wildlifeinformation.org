@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3562767-LROR
+Domain Name:WILDLIFEINFORMATION.ORG
+Created On:11-Feb-1999 05:00:00 UTC
+Last Updated On:17-Feb-2011 10:41:40 UTC
+Expiration Date:11-Feb-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17215940-NSI
+Registrant Name:ROBERT SOWTON
+Registrant Street1:18 Badger Close
+Registrant Street2:
+Registrant Street3:
+Registrant City:Four Marks
+Registrant State/Province:HAMPSHIRE
+Registrant Postal Code:GU34 5HB
+Registrant Country:GB
+Registrant Phone:+1.014205600
+Registrant Phone Ext.:
+Registrant FAX:+1.019627931
+Registrant FAX Ext.:
+Registrant Email:bob.sowton@comnet2000.com
+Admin ID:17215940-NSI
+Admin Name:ROBERT SOWTON
+Admin Street1:18 Badger Close
+Admin Street2:
+Admin Street3:
+Admin City:Four Marks
+Admin State/Province:HAMPSHIRE
+Admin Postal Code:GU34 5HB
+Admin Country:GB
+Admin Phone:+1.014205600
+Admin Phone Ext.:
+Admin FAX:+1.019627931
+Admin FAX Ext.:
+Admin Email:bob.sowton@comnet2000.com
+Tech ID:17215940-NSI
+Tech Name:ROBERT SOWTON
+Tech Street1:18 Badger Close
+Tech Street2:
+Tech Street3:
+Tech City:Four Marks
+Tech State/Province:HAMPSHIRE
+Tech Postal Code:GU34 5HB
+Tech Country:GB
+Tech Phone:+1.014205600
+Tech Phone Ext.:
+Tech FAX:+1.019627931
+Tech FAX Ext.:
+Tech Email:bob.sowton@comnet2000.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

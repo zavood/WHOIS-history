@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELGRITODEMEXICO.COM
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: ok
-   Updated Date: 17-jul-2011
-   Creation Date: 16-jul-2006
-   Expiration Date: 16-jul-2012
+   Domain Name: HOWBEATS.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.AFRAID.ORG
+   Name Server: NS2.AFRAID.ORG
+   Name Server: NS3.AFRAID.ORG
+   Name Server: NS4.AFRAID.ORG
+   Status: clientDeleteProhibited
+   Status: clientHold
+   Status: clientTransferProhibited
+   Updated Date: 19-aug-2011
+   Creation Date: 01-dec-2010
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:53:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:56:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +55,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Arsys Internet's WHOIS database is only for information purposes,
-this information consists on domain name registration records.
-Arsys Internet does not guarantee the accuracy of the information
-contained in the WHOIS. Arsys Internet allows the use of the
-information only for lawful purposes, under no circumstances this data
-will be use for: (a) allow, enable, or otherwise support the transmission
-by e-mail, telephone, or facsimile of mass unsolicited, commercial
-advertising or solicitations to entities other than the data recipient's
-own existing customers; or (b) enable high volume, automated,
-electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as
-reasonably necessary to register domain names or modify existing
-registrations.
 
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
+Domain name: howbeats.com
 
-Domain name: elgritodemexico.com
+Registrant Contact:
+   STFU
+   George Lester admin@howbeats.com
+   +1.9073554 fax: +1.9073554
+   Greg st po 564
+   Florida CA 45784
+   us
 
-Registrant:
-      ALVARO GONZALEZ HIGAREDA  (SROW-1232037)
+Administrative Contact:
+   George Lester admin@howbeats.com
+   +1.9073554 fax: +1.9073554
+   Greg st po 564
+   Florida CA 45784
+   us
 
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28016   ES
-   +34 914572063   fax: +34 914572063
+Technical Contact:
+   George Lester admin@howbeats.com
+   +1.9073554 fax: +1.9073554
+   Greg st po 564
+   Florida CA 45784
+   us
 
+Billing Contact:
+   George Lester admin@howbeats.com
+   +1.9073554 fax: +1.9073554
+   Greg st po 564
+   Florida CA 45784
+   us
 
-Administrative contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898816)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax: +34 914572063
+Registration Service Provider:
+name: DomainCompany
 
+DNS:
+ns1.afraid.org
+ns2.afraid.org
+ns3.afraid.org
+ns4.afraid.org
 
-Technical contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898817)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax:+34 914572063
-
-
-Domain servers in listed order:
-   ns51.domaincontrol.com  216.69.185.26
-   ns52.domaincontrol.com  208.109.255.26
-
-
-Created:       16 Jul 2006 15:33:21:000   UTC
-Expires:       16 Jul 2012 15:33:21:000   UTC
-Last updated:  17 Jul 2011 12:11:08:457   UTC
-
-
-
+Created: 2010-12-02
+Expires: 2011-12-02

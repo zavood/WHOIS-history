@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELGRITODEMEXICO.COM
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: NS51.DOMAINCONTROL.COM
-   Name Server: NS52.DOMAINCONTROL.COM
-   Status: ok
-   Updated Date: 17-jul-2011
-   Creation Date: 16-jul-2006
-   Expiration Date: 16-jul-2012
+   Domain Name: ZEWP.COM
+   Registrar: LIQUIDNET LTD.
+   Whois Server: whois.liquidnetlimited.com
+   Referral URL: http://www.liquidnetlimited.com
+   Name Server: NS25.DOMAINCONTROL.COM
+   Name Server: NS26.DOMAINCONTROL.COM
+   Status: clientTransferProhibited
+   Updated Date: 05-jul-2011
+   Creation Date: 06-jul-2005
+   Expiration Date: 06-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:53:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 22:02:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Arsys Internet's WHOIS database is only for information purposes,
-this information consists on domain name registration records.
-Arsys Internet does not guarantee the accuracy of the information
-contained in the WHOIS. Arsys Internet allows the use of the
-information only for lawful purposes, under no circumstances this data
-will be use for: (a) allow, enable, or otherwise support the transmission
-by e-mail, telephone, or facsimile of mass unsolicited, commercial
-advertising or solicitations to entities other than the data recipient's
-own existing customers; or (b) enable high volume, automated,
-electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as
-reasonably necessary to register domain names or modify existing
-registrations.
 
 
+Registration Service Provided By: Zewg Hosting
+Contact: support@propersupport.com
+Visit: http://zewg.us/
 
-Domain name: elgritodemexico.com
+Domain Name: zewp.com
 
 Registrant:
-      ALVARO GONZALEZ HIGAREDA  (SROW-1232037)
+    N/A
+    Bryan Cooper (zewg@zewg.com)
+    235 Montgomery St. ste 480
 
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28016   ES
-   +34 914572063   fax: +34 914572063
-
-
-Administrative contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898816)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax: +34 914572063
+    San Francisco, CA 94104
+    US
+    Tel: +1.4159568100
+    Fax:
 
 
-Technical contact:
-   ALVARO GONZALEZ HIGAREDA   (SRCO-1898817)
-   higaredaalvaro@gmail.com
-   FUENTE DEL SAZ, 7-401
-   MADRID   MADRID
-   28106   ES
-   +34 914572063   fax:+34 914572063
-
+Creation Date: 2005-07-06 17:59:04
+Expiration Date: 2012-07-06 17:59:04
 
 Domain servers in listed order:
-   ns51.domaincontrol.com  216.69.185.26
-   ns52.domaincontrol.com  208.109.255.26
+    ns26.domaincontrol.com
+    ns25.domaincontrol.com
 
 
-Created:       16 Jul 2006 15:33:21:000   UTC
-Expires:       16 Jul 2012 15:33:21:000   UTC
-Last updated:  17 Jul 2011 12:11:08:457   UTC
+Administrative Contact:
+    N/A
+    Bryan Cooper (zewg@zewg.com)
+    235 Montgomery St. ste 480
+
+    San Francisco, CA 94104
+    US
+    Tel: +1.4159568100
+    Fax:
 
 
+Technical Contact:
+    N/A
+    Bryan Cooper (zewg@zewg.com)
+    235 Montgomery St. ste 480
 
+    San Francisco, CA 94104
+    US
+    Tel: +1.4159568100
+    Fax:
+
+
+Billing Contact:
+    N/A
+    Bryan Cooper (zewg@zewg.com)
+    235 Montgomery St. ste 480
+
+    San Francisco, CA 94104
+    US
+    Tel: +1.4159568100
+    Fax:
+
+
+Status: Unlocked
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is LiquidNet Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
