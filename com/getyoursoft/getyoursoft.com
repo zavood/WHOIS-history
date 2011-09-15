@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOST-ED.NET
+   Domain Name: GETYOURSOFT.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HOST-ED.NET
-   Name Server: NS2.HOST-ED.NET
+   Name Server: NS23.DOMAINCONTROL.COM
+   Name Server: NS24.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 27-sep-2006
-   Expiration Date: 27-sep-2019
+   Updated Date: 24-mar-2011
+   Creation Date: 18-mar-2010
+   Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:52:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:50:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Host-ed Inc.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: HOST-ED.NET
+   Domain Name: GETYOURSOFT.COM
 
    Domain servers in listed order:
-      NS1.HOST-ED.NET
-      NS2.HOST-ED.NET
+      NS23.DOMAINCONTROL.COM
+      NS24.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=HOST-ED.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=GETYOURSOFT.COM
