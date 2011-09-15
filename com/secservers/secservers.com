@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STICKR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SECSERVERS.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: DEV.NULL.CZ
+   Name Server: NS.BULVAR.CZ
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2013
+   Updated Date: 24-jan-2011
+   Creation Date: 22-feb-2004
+   Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:24:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       secservers.com
+owner:        Josef Petrydes
+email:        petrydes@viakom.cz
+address:      n. Dobrovskeho 13
+city:         Rumburk
+postal-code:  40801
+country:      CZ
+phone:        +420.2
+admin-c:      CCOM-95853 petrydes@viakom.cz
+tech-c:       CCOM-19878 dom-reg-joker@ignum.cz
+billing-c:    CCOM-19878 dom-reg-joker@ignum.cz
+reseller:     Domena byla registrovana na www.domena.cz.
+reseller:     Domain registered at www.domena.cz.
+reseller:     (c) IGNUM, s.r.o.
+nserver:      ns.bulvar.cz
+nserver:      dev.null.cz
+status:       lock
+created:      2004-02-22 12:01:17 UTC
+modified:     2011-01-24 10:28:13 UTC
+expires:      2012-02-22 12:01:01 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-95853
+person:       Josef Petrydes
+email:        petrydes@viakom.cz
+address:      n. Dobrovskeho 13
+city:         Rumburk
+postal-code:  40801
+country:      CZ
+phone:        +420.2
 
+contact-hdl:  CCOM-19878
+person:       Robert Prokes
+organization: IGNUM, s.r.o.
+email:        dom-reg-joker@ignum.cz
+address:      Vinohradska 190
+city:         Praha 3
+postal-code:  130 61
+country:      CZ
+phone:        +420.296332211
 
-Registrant:
-   Informer Technologies, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STICKR.COM
-
-   Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STICKR.COM
+source:       joker.com live whois service
+query-time:   0.042801
+db-updated:   2011-09-15 04:25:17
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

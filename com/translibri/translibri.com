@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STICKR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2013
+   Domain Name: TRANSLIBRI.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS00.NS0.COM
+   Name Server: NS105.PAIR.COM
+   Status: ok
+   Updated Date: 10-jan-2009
+   Creation Date: 15-mar-2005
+   Expiration Date: 15-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Informer Technologies, Inc.
+  translibri.com
+  Preetzer Strasse 3
+  Hamburg,  22335
+  DE
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STICKR.COM
+  kp@KPNetwork.com
+   +49.40437472
+   +49.40435196
 
-   Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+Domain Name: TRANSLIBRI.COM
 
+Administrative &amp; Technical Contact:
+  Karsten Petersen
+  Preetzer Str. 3
+  Hamburg,  22335
+  DE
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STICKR.COM
+  kp@KPNetwork.com
+   +49.40437472
+   +49.40435196
+
+Domain Name Servers:
+  NS00.NS0.COM
+  NS105.PAIR.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     March 15, 2005
+Modified:     January 10, 2009
+ Expires:     March 15, 2014
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

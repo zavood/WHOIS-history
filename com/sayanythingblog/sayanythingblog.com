@@ -5,23 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STICKR.COM
+   Domain Name: SAYANYTHINGBLOG.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS47.DOMAINCONTROL.COM
+   Name Server: NS48.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2013
+   Updated Date: 08-jan-2011
+   Creation Date: 11-jan-2004
+   Expiration Date: 11-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:25:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Informer Technologies, Inc.
+   Freedom Force
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STICKR.COM
+   Domain Name: SAYANYTHINGBLOG.COM
 
    Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+      NS47.DOMAINCONTROL.COM
+      NS48.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STICKR.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SAYANYTHINGBLOG.COM

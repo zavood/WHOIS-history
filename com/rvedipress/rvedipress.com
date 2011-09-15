@@ -5,23 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STICKR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: RVEDIPRESS.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS1.METKADNS.COM
+   Name Server: NS2.METKADNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2013
+   Updated Date: 10-sep-2011
+   Creation Date: 11-oct-2002
+   Expiration Date: 11-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:25:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+nicline.com's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+nicline.com does not guarantee the accuracy of the information
+contained in the WHOIS. nicline.com allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
+
+
+Domain name: rvedipress.com
 
 Registrant:
-   Informer Technologies, Inc.
+      RV Edipress  (SROW-1590175)
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STICKR.COM
-
-   Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+   RV Edipress
+   empresa@alojamiento4ever.com
+   Agustin de Foxa, 17; 7  B
+   Madrid   Madrid
+   28036   ES
+   +34 913140911
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STICKR.COM
+Administrative contact:
+   Metka   (SRCO-2439257)
+   Metka Consultores Nuevas Tecnolog&iacute;as, S.L.
+   empresa@dominios4ever.com
+   Paseo de la Castellana, 1844
+   Madrid   Madrid
+   28046   ES
+   +34 913593614   fax: +34 915932694
+
+
+Technical contact:
+   Metka   (SRCO-2439276)
+   Metka Consultores Nuevas Tecnolog&iacute;as, S.L.
+   empresa@dominios4ever.com
+   Paseo de la Castellana, 1844
+   Madrid   Madrid
+   28046   ES
+   +34 913593614   fax:+34 915932694
+
+
+Domain servers in listed order:
+   ns1.metkadns.com  82.98.128.196
+   ns2.metkadns.com  82.98.128.133
+
+
+Created:       11 Oct 2002 16:08:38:000   UTC
+Expires:       11 Oct 2012 16:08:38:000   UTC
+Last updated:  10 Sep 2011 13:19:03:627   UTC
+
+
+

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARCUSHOTELS.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.REDANVIL.NET
-   Name Server: NS2.REDANVIL.NET
+   Domain Name: 369963.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
    Status: ok
-   Updated Date: 18-may-2011
-   Creation Date: 12-jul-1996
-   Expiration Date: 11-jul-2016
+   Updated Date: 20-jun-2011
+   Creation Date: 13-oct-2005
+   Expiration Date: 13-oct-2015
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:25:56 UTC &lt;&lt;&lt;
 
@@ -51,59 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name      : 369963.com
+PunnyCode        : 369963.com
+Creation Date    : 2005-10-13 00:00:00
+Updated Date     : 2011-06-20 23:39:31
+Expiration Date  : 2015-10-13 00:00:00
+
 
 Registrant:
-   Marcus Corporation
-   100 E. Wisconsin Ave
-   Milwaukee, WI  53202
-   US
+  Organization   : daju2126.com
+  Name           : daju
+  Address        : suzhou
+  City           : suzhoushi
+  Province/State : jiangsusheng
+  Country        : china
+  Postal Code    : 225002
 
-   Registrar: DOTSTER
-   Domain Name: MARCUSHOTELS.COM
-      Created on: 12-JUL-96
-      Expires on: 11-JUL-16
-      Last Updated on: 18-MAY-11
+Administrative Contact:
+  Name           : www.369963.com
+  Organization   : www.369963.com
+  Address        : suzhou
+  City           : suzhoushi
+  Province/State : jiangsusheng
+  Country        : china
+  Postal Code    :
+  Phone Number   : 86-139-135-55055
+  Fax            : 86-0512-61165856
+  Email          : daju2@126.com
 
-   Administrative Contact:
-      Steeves, Pamela  pamsteeves@marcuscorp.com
-      Marcus Corporation
-      100 E. Wisconsin Ave
-      Milwaukee, WI  53202
-      US
-      414-905-1000
-      414-905-1687
+Technical Contact:
+  Name           : www.369963.com
+  Organization   : www.369963.com
+  Address        : suzhou
+  City           : suzhoushi
+  Province/State : jiangsusheng
+  Country        : china
+  Postal Code    :
+  Phone Number   : 86-139-135-55055
+  Fax            : 86-0512-61165856
+  Email          : daju2@126.com
 
-   Technical Contact:
-      Burton, Michelle  michelleburton@marcuscorp.com
-      Marcus Corporation
-      100 E. Wisconsin Ave
-      Milwaukee, WI  53202
-      US
-      414-905-1000
-      414-905-1687
-
-
-   Domain servers in listed order:
-      NS1.REDANVIL.NET
-      NS2.REDANVIL.NET
-
-End of Whois Information
+Billing Contact:
+  Name           : www.369963.com
+  Organization   : www.369963.com
+  Address        : suzhou
+  City           : suzhoushi
+  Province/State : jiangsusheng
+  Country        : china
+  Postal Code    :
+  Phone Number   : 86-139-135-55055
+  Fax            : 86-0512-61165856
+  Email          : daju2@126.com

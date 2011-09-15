@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MARCUSHOTELS.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS1.REDANVIL.NET
-   Name Server: NS2.REDANVIL.NET
+   Domain Name: FIRBEC.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS2.TRIODNS.NET
+   Name Server: NS3.TRIODNS.NET
    Status: ok
-   Updated Date: 18-may-2011
-   Creation Date: 12-jul-1996
-   Expiration Date: 11-jul-2016
+   Updated Date: 07-dec-2009
+   Creation Date: 15-dec-2005
+   Expiration Date: 15-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:25:56 UTC &lt;&lt;&lt;
 
@@ -51,59 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: POCENIGOSTOVANJE.COM
+Contact: +386.40493798
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name: FIRBEC.COM
 
 Registrant:
-   Marcus Corporation
-   100 E. Wisconsin Ave
-   Milwaukee, WI  53202
-   US
+    Borut Jansa
+    Borut Jansa        (info@firbec.com)
+    Trg osvobodilne fronte 4
+    Ljubljana
+    Osrednjeslovenska,1000
+    SI
+    Tel. +386.19671243
 
-   Registrar: DOTSTER
-   Domain Name: MARCUSHOTELS.COM
-      Created on: 12-JUL-96
-      Expires on: 11-JUL-16
-      Last Updated on: 18-MAY-11
+Creation Date: 15-Dec-2005
+Expiration Date: 15-Dec-2011
 
-   Administrative Contact:
-      Steeves, Pamela  pamsteeves@marcuscorp.com
-      Marcus Corporation
-      100 E. Wisconsin Ave
-      Milwaukee, WI  53202
-      US
-      414-905-1000
-      414-905-1687
-
-   Technical Contact:
-      Burton, Michelle  michelleburton@marcuscorp.com
-      Marcus Corporation
-      100 E. Wisconsin Ave
-      Milwaukee, WI  53202
-      US
-      414-905-1000
-      414-905-1687
+Domain servers in listed order:
+    ns2.triodns.net
+    ns3.triodns.net
 
 
-   Domain servers in listed order:
-      NS1.REDANVIL.NET
-      NS2.REDANVIL.NET
+Administrative Contact:
+    Borut Jansa
+    Borut Jansa        (info@firbec.com)
+    Trg osvobodilne fronte 4
+    Ljubljana
+    Osrednjeslovenska,1000
+    SI
+    Tel. +386.19671243
 
-End of Whois Information
+Technical Contact:
+    Borut Jansa
+    Borut Jansa        (info@firbec.com)
+    Trg osvobodilne fronte 4
+    Ljubljana
+    Osrednjeslovenska,1000
+    SI
+    Tel. +386.19671243
+
+Billing Contact:
+    Borut Jansa
+    Borut Jansa        (info@firbec.com)
+    Trg osvobodilne fronte 4
+    Ljubljana
+    Osrednjeslovenska,1000
+    SI
+    Tel. +386.19671243
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

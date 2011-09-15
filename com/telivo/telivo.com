@@ -5,23 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STICKR.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Domain Name: TELIVO.COM
+   Registrar: ADVANTAGE INTERACTIVE LTD
+   Whois Server: whois.advantage-interactive.com
+   Referral URL: http://www.lcn.com
+   Name Server: NS0.AI270.NET
+   Name Server: NS1.AI270.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-feb-2011
-   Creation Date: 11-feb-2005
-   Expiration Date: 11-feb-2013
+   Updated Date: 09-aug-2006
+   Creation Date: 19-oct-2001
+   Expiration Date: 19-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:25:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +53,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:  TELIVO.COM
+owner-c: AI-0002
+admin-c: AI-0002
+tech-c: AI-300624
+bill-c: AI-300624
+nserver: ns1.ai270.net 195.82.107.234
+nserver: ns0.ai270.net 94.126.40.2
+created: 2001-10-19 13:41:58
+expires: 2014-10-19 13:41:58
+changed: 2011-05-03 14:12:41
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-handle: AI-0002
+contact:        Hostmaster
+organisation:   Telivo Ltd
+address:        10-16 Tiller Rd,
+address:        Docklands,
+address:        London.
+address:        London
+address:        E14 8PX
+address:        GB
+phone:          +44.8700116204
+fax:            +44.8700116205
+email:          support@telivo.com
 
+contact-handle: AI-300624
+contact:        Hostmaster
+address:        Units H, J, K
+address:        Gateway 1000
+address:        Whittle Way
+address:        Stevenage
+address:        England
+address:        SG1 2FP
+address:        GB
+phone:          +44.1438342490
+fax:            +44.1438300137
+email:          support@lcn.com
 
-Registrant:
-   Informer Technologies, Inc.
+****************************************************************
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: STICKR.COM
+Domain Registration Service Provider:
 
-   Domain servers in listed order:
-      NS1.EASYDNS.COM
-      NS2.EASYDNS.COM
-      REMOTE1.EASYDNS.COM
-      REMOTE2.EASYDNS.COM
+    lcn
+    For all domain related queries go to http://www.lcn.com
 
+****************************************************************
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=STICKR.COM
