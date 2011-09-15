@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMISSION.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.XMISSION.COM
-   Name Server: NS1.XMISSION.COM
-   Name Server: NS2.XMISSION.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 25-feb-2011
-   Creation Date: 25-mar-1994
-   Expiration Date: 26-mar-2012
+   Domain Name: TIMEFORANEWPLACE.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:29:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:28:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+You have exceeded your access quota. Please try again later.
