@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; formation-secourisme-travail.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      formation-secourisme-travail.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C4678-FRNIC
+admin-c:     C4678-FRNIC
+tech-c:      AC8212-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23184-FRNIC
+registrar:   AB CONNECT
+anniversary: 21/10
+created:     21/10/2009
+last-update: 26/10/2009
+source:      FRNIC
+
+ns-list:     NSL23184-FRNIC
+nserver:     ns1.o2switch.net
+nserver:     ns2.o2switch.net
+source:      FRNIC
+
+registrar:   AB CONNECT
+type:        Isp Option 1
+address:     2 Avenue des D&eacute;port&eacute;s de la R&eacute;sistance
+address:     AIX EN PROVENCE
+country:     FR
+phone:       0 892 701 308
+fax-no:      +33 4 42 92 49 40
+e-mail:      afnic@hosteur.com
+website:     http://www.hosteur.com
+anonymous:   NO
+registered:  13/09/2004
+source:      FRNIC
+
+nic-hdl:     C4678-FRNIC
+type:        ORGANIZATION
+contact:     CAMINADE JEAN-BRICE
+address:     caminade jean-brice
+address:     5, lieu dit vigneras
+address:     24200 Sarlat-la-Can&eacute;da
+country:     FR
+phone:       +33 5 40 72 00 88
+fax-no:      +33 4 42 29 44 18
+e-mail:      contact@internet-creation-sites.com
+changed:     11/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AC8212-FRNIC
+type:        ORGANIZATION
+contact:     AB CONNECT
+address:     AB CONNECT
+address:     2, avenue des d&eacute;port&eacute;es de la r&eacute;sistance
+address:     13100 Aix-en-Provence
+country:     FR
+phone:       +33 8 92 70 13 08
+fax-no:      +33 4 42 29 44 18
+e-mail:      contact@hosteur.com
+changed:     20/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

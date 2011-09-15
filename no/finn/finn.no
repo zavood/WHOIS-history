@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FIN3252D-NORID
+Domain Name................: finn.no
+Domain Holder Handle.......: FNA312O-NORID
+Registrar Handle...........: REG887-NORID
+Legal-c Handle.............: EF1621P-NORID
+Tech-c Handle..............: ADT3R-NORID
+Name Server Handle.........: DNSA152H-NORID
+Name Server Handle.........: DNSA156H-NORID
+Name Server Handle.........: NN43H-NORID
+Name Server Handle.........: NSPR56H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: FNA312O-NORID
+Type.......................: organization
+Name.......................: FINN NO AS
+Id Type....................: organization_number
+Id Number..................: 981159772
+Registrar Handle...........: REG887-NORID
+Post Address...............: Postboks 1178 Sentrum
+Postal Code................: NO-0107
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22864410
+Fax Number.................: +47.22827837
+Email Address..............: hostmaster@finn.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
