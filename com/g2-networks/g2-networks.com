@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOSSCASINOS.COM
+   Domain Name: G2-NETWORKS.COM
    Registrar: DIRECTNIC, LTD
    Whois Server: whois.directnic.com
    Referral URL: http://www.directnic.com
@@ -15,9 +15,9 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 13-feb-1998
-   Expiration Date: 12-feb-2016
+   Updated Date: 11-may-2011
+   Creation Date: 17-may-2010
+   Expiration Date: 17-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:42:50 UTC &lt;&lt;&lt;
 
@@ -88,7 +88,7 @@ Registrant:
 Fax:46470703050
 
 
-Domain Name: BOSSCASINOS.COM
+Domain Name: G2-NETWORKS.COM
 
 Administrative Contact:
  Brolin, Cristian domainmaster@bosscasinos.com
@@ -108,9 +108,9 @@ Technical Contact:
 Fax:46470703050
 
 
-Record last updated 05-04-2011 03:33:42 PM
-Record expires on 02-12-2016
-Record created on 02-13-1998
+Record last updated 05-04-2011 03:33:48 PM
+Record expires on 05-17-2012
+Record created on 05-17-2010
 
 Domain servers in listed order:
 	NS-01.AC.G2-NETWORKS.COM	217.21.143.21

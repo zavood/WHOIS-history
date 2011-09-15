@@ -1,0 +1,17 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       12.in-addr.arpa
+
+organisation: AT&amp;T Bell Laboratories
+
+nserver:      CBRU.BR.NS.ELS-GMS.ATT.NET.
+nserver:      CMTU.MT.NS.ELS-GMS.ATT.NET.
+nserver:      DBRU.BR.NS.ELS-GMS.ATT.NET.
+nserver:      DMTU.MT.NS.ELS-GMS.ATT.NET.
+
+changed:      1995-06
+changed:      2011-01-08
+source:       IANA
+

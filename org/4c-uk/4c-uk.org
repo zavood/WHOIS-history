@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120200243-LROR
+Domain Name:4C-UK.ORG
+Created On:10-Apr-2006 14:18:15 UTC
+Last Updated On:22-Nov-2010 00:25:02 UTC
+Expiration Date:10-Apr-2013 14:18:15 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuzHEsgTeqMjW9c7
+Registrant Name:Paul Smith
+Registrant Organization:GB Group PLC
+Registrant Street1:GB House
+Registrant Street2:Kingsfield Court
+Registrant Street3:
+Registrant City:Chester Business Park
+Registrant State/Province:Chester
+Registrant Postal Code:CH49GB
+Registrant Country:GB
+Registrant Phone:+44.1244657000
+Registrant Phone Ext.:
+Registrant FAX:+44.1244680808
+Registrant FAX Ext.:
+Registrant Email:paul.smith@gb.co.uk
+Admin ID:tubmpvwEhykDO0lp
+Admin Name:Paul Smith
+Admin Organization:GB Group PLC
+Admin Street1:GB House
+Admin Street2:Kingsfield Court
+Admin Street3:
+Admin City:Chester Business Park
+Admin State/Province:Chester
+Admin Postal Code:CH49GB
+Admin Country:GB
+Admin Phone:+44.1244657000
+Admin Phone Ext.:
+Admin FAX:+44.1244680808
+Admin FAX Ext.:
+Admin Email:paul.smith@gb.co.uk
+Tech ID:tuYbUpboGFYbbUeB
+Tech Name:Paul Smith
+Tech Organization:GB Group PLC
+Tech Street1:GB House
+Tech Street2:Kingsfield Court
+Tech Street3:
+Tech City:Chester Business Park
+Tech State/Province:Chester
+Tech Postal Code:CH49GB
+Tech Country:GB
+Tech Phone:+44.1244657000
+Tech Phone Ext.:
+Tech FAX:+44.1244680808
+Tech FAX Ext.:
+Tech Email:paul.smith@gb.co.uk
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

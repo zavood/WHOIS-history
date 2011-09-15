@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHEMALESGETBAREBACKED.COM
+   Domain Name: FOURSQUARE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NATIONALNET.COM
-   Name Server: NS2.NATIONALNET.COM
+   Name Server: NS-1013.AWSDNS-62.NET
+   Name Server: NS-1360.AWSDNS-42.ORG
+   Name Server: NS-1758.AWSDNS-27.CO.UK
+   Name Server: NS-91.AWSDNS-11.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-may-2011
-   Creation Date: 08-jun-2010
-   Expiration Date: 08-jun-2012
+   Updated Date: 23-aug-2011
+   Creation Date: 25-mar-2002
+   Expiration Date: 25-mar-2020
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:46:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:43:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   HMSP Media Limited
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SHEMALESGETBAREBACKED.COM
+   Domain Name: FOURSQUARE.COM
 
    Domain servers in listed order:
-      NS1.NATIONALNET.COM
-      NS2.NATIONALNET.COM
+      NS-1758.AWSDNS-27.CO.UK
+      NS-1360.AWSDNS-42.ORG
+      NS-91.AWSDNS-11.COM
+      NS-1013.AWSDNS-62.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SHEMALESGETBAREBACKED.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=FOURSQUARE.COM

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148157222-LROR
+Domain Name:RFIDGLOBAL.ORG
+Created On:18-Jun-2007 15:49:31 UTC
+Last Updated On:12-May-2011 10:33:11 UTC
+Expiration Date:18-Jun-2012 15:49:31 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc295662797-cn
+Registrant Name:weiqi yang
+Registrant Organization:yang weiqi
+Registrant Street1:shenzhen futian
+Registrant Street2:
+Registrant Street3:
+Registrant City:shenzhen
+Registrant State/Province:Guangdong
+Registrant Postal Code:518048
+Registrant Country:CN
+Registrant Phone:+86.075526690537
+Registrant Phone Ext.:0
+Registrant FAX:+86.075526690537
+Registrant FAX Ext.:0
+Registrant Email:rfidabc@gmail.com
+Admin ID:hc404791241-cn
+Admin Name:weiqi yang
+Admin Organization:yang weiqi
+Admin Street1:shenzhen futian
+Admin Street2:
+Admin Street3:
+Admin City:shenzhen
+Admin State/Province:Guangdong
+Admin Postal Code:518048
+Admin Country:CN
+Admin Phone:+86.075526690537
+Admin Phone Ext.:0
+Admin FAX:+86.075526690537
+Admin FAX Ext.:0
+Admin Email:rfidabc@gmail.com
+Tech ID:hc804791241-cn
+Tech Name:weiqi yang
+Tech Organization:yang weiqi
+Tech Street1:shenzhen futian
+Tech Street2:
+Tech Street3:
+Tech City:shenzhen
+Tech State/Province:Guangdong
+Tech Postal Code:518048
+Tech Country:CN
+Tech Phone:+86.075526690537
+Tech Phone Ext.:0
+Tech FAX:+86.075526690537
+Tech FAX Ext.:0
+Tech Email:rfidabc@gmail.com
+Name Server:DNS15.HICHINA.COM
+Name Server:DNS16.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
