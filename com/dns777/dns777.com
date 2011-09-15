@@ -1,0 +1,159 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: DNS777.COM
+   Registrar: XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.
+   Whois Server: whois.cnolnic.com
+   Referral URL: http://www.zzy.cn
+   Name Server: NS5.69969.NET
+   Name Server: NS5.HBDNS.NET
+   Name Server: NS6.69969.NET
+   Name Server: NS6.HBDNS.NET
+   Status: clientTransferProhibited
+   Updated Date: 03-mar-2011
+   Creation Date: 06-apr-2010
+   Expiration Date: 06-apr-2012
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:46:23 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+----------------------whois in china source-------------------
+  Support:[com net info  biz  org  cc  mobi]
+  You can enter &quot;help&quot; or &quot;?&quot; for more information.
+  Sure,You also can enter &quot;quit&quot; or &quot;exit&quot; to close this session.
+--------------------------------------------------------------
+
+
+    NOTICE AND TERMS OF USE:
+ You are not authorized to accessor query our WHOIS database through the use of high-volume, automated, electronic processes.
+ The Data in Xiamen ChinaSource Internet Service Co,. ltd.' WHOIS database is provided by
+ Xiamen ChinaSource Internet Service Co,. ltd. for information purposes only,
+ and to assist persons in obtaining information about or related to a domain name registration record.
+ Xiamen ChinaSource Internet Service Co,. ltd. does not guarantee its accuracy.
+    By submitting a WHOIS query, you agree to abide by the following terms of use:
+    You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to:
+ (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail, telephone, or facsimile; or
+ (2) enable high volume, automated,electronic processes that apply to
+ Xiamen ChinaSource Internet Service Co,. ltd. (or its computer systems).
+ The compilation, repackaging, dissemination or other use of this Data is expressly
+ prohibited without the prior written consent of Xiamen ChinaSource Internet Service Co,. ltd..
+ You agree not to use high-volume, automated, electronic processes to access or query the WHOIS database.
+ Xiamen ChinaSource Internet Service Co,. ltd. reserves the right to terminate
+ your access to the WHOIS database in its sole discretion,
+ including without limitation, for excessive querying of the WHOIS database or for failure to otherwise abide by this policy.
+    Xiamen ChinaSource Internet Service Co,. ltd. reserves the right to modify these terms at any time.
+
+    Registration Service Provided By: Xiamen ChinaSource Internet Service Co,. ltd.
+    [Visit:www.zzy.com]
+
+	Domain name: dns777.com
+	Creation Date:2010-04-06
+	Expiration Date:2012-04-06
+Status:
+	clientTransferProhibited
+Name Server:
+	ns5.hbdns.net
+	ns6.69969.net
+	ns6.hbdns.net
+	ns5.69969.net
+
+Registrant Contact:
+	Registrant Name: xiangfanshi baiwang xinxi keji youxian gongsi
+	Registrant Organization:
+	Registrant Street1: xiangfan
+	Registrant Street2:
+	Registrant Street3:
+	Registrant City: xiangfan
+	           Province: Hubei
+	           Country: China
+	Registrant Postal Code: 441000
+	Registrant Phone: +86.7103851666
+	Registrant Phone Ext.:
+	Registrant FAX: +86.7103851666
+	Registrant FAX Ext.:
+	Registrant Email: wangdeqin@tom.com
+
+Administrative Contact:
+	Admin Name: deqin wang
+	Admin Organization:
+	Admin Street1: xiangfan
+	Admin Street2:
+	Admin Street3:
+	Admin City: xiangfan
+	      Province: Hubei
+	      Country: China
+	Admin Postal Code: 441000
+	Admin Phone: +86.7103851666
+	Admin Phone Ext.:
+	Admin FAX: +86.7103851666
+	Admin FAX Ext.:
+	Admin Email: wangdeqin@tom.com
+
+Technical Contact:
+	Tech Name: deqin wang
+	Tech Organization:
+	Tech Street1: xiangfan
+	Tech Street2:
+	Tech Street3:
+	Tech City: xiangfan
+	     Province: Hubei
+	     Country: China
+	Tech Postal Code: 441000
+	Tech Phone: +86.7103851666
+	Tech Phone Ext.:
+	Tech FAX: +86.7103851666
+	Tech FAX Ext.:
+	Tech Email: wangdeqin@tom.com
+
+Billing Contact:
+	Bill Name: deqin wang
+	Bill Organization:
+	Bill Street1: xiangfan
+	Bill Street2:
+	Bill Street3:
+	Bill City: xiangfan
+	     Province: Hubei
+	     Country: China
+	Bill Postal Code: 441000
+	Bill Phone: +86.7103851666
+	Bill Phone Ext.:
+	Bill FAX: +86.7103851666
+	Bill FAX Ext.:
+	Bill Email: wangdeqin@tom.com
