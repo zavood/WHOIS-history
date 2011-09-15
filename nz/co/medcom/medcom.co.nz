@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T14:47:48+12:00
+domain_name: medcom.co.nz
+query_status: 200 Active
+domain_dateregistered: 2003-05-13T15:23:07+12:00
+domain_datebilleduntil: 2011-11-13T15:23:07+13:00
+domain_datelastmodified: 2011-09-01T19:35:17+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Wave Internet, DNS Administrator
+registrar_address1: PO Box 7281
+registrar_address2: Wellesley Street
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 359 2766
+registrar_fax: +64 9 359 2777
+registrar_email: hostmaster@wave.co.nz
+%
+registrant_contact_name: Acacia Corporation
+registrant_contact_address1: 458 Airport Rd
+registrant_contact_address2: R D 3
+registrant_contact_city: Hamilton
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 7 856 8568
+registrant_contact_email: docbill@thenet.co.nz
+%
+admin_contact_name: Bill Reeder
+admin_contact_address1: 458 Airport Rd
+admin_contact_address2: R D 3
+admin_contact_city: Hamilton
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 7 856 8568
+admin_contact_email: docbill@thenet.co.nz
+%
+technical_contact_name: Wave DNS Administrator
+technical_contact_address1: PO Box 7281
+technical_contact_address2: Wellesley Street
+technical_contact_city: Auckland
+technical_contact_postalcode: 1036
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 359 2766
+technical_contact_fax: +64 9 359 2777
+technical_contact_email: hostmaster@wave.co.nz
+%
+ns_name_01: ns.wave.co.nz
+ns_name_02: ns2.wave.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

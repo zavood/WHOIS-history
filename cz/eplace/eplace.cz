@@ -1,0 +1,75 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:47:20 2011
+
+domain:       eplace.cz
+registrant:   SB:TJ353-RIPE_XX
+admin-c:      TJ353-RIPE
+nsset:        NSS:EPLACE_CZ_GLUE_NEW
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   18.01.2001 12:41:00
+changed:      13.03.2011 17:12:05
+expire:       19.01.2012
+
+contact:      SB:TJ353-RIPE_XX
+org:          DISK obchod a technika k. s.
+name:         DISK obchod a technika k. s.
+address:      Lochotinska 45
+address:      Plzen
+address:      301 11
+address:      CZ
+e-mail:       eplace@diskobol.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      09.02.2005 18:15:00
+
+contact:      TJ353-RIPE
+name:         Tomas Jilek
+address:      Lochotinska 43
+address:      Plzen
+address:      30111
+address:      CZ
+phone:        +420 377539667
+fax-no:       +420 377539634
+e-mail:       eplace@diskobol.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      09.02.2005 18:15:00
+
+nsset:        NSS:EPLACE_CZ_GLUE_NEW
+nserver:      ns.eplace.cz (213.192.26.242)
+nserver:      ns2.eplace.cz (77.48.253.230)
+tech-c:       SB:DISK_CZ
+registrar:    REG-IGNUM
+created:      11.03.2011 14:36:06
+
+contact:      SB:DISK_CZ
+org:          Disk obchod &amp; technika, spol. s r.o.
+name:         Disk obchod &amp; technika, spol. s r.o.
+address:      Lochot&Atilde;&shy;nsk&Atilde;&iexcl; 43
+address:      Plzen
+address:      30111
+address:      CZ
+e-mail:       eplace@diskobol.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      17.01.2007 09:45:00
+
+

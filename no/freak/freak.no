@@ -1,0 +1,34 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FRE2290D-NORID
+Domain Name................: freak.no
+Domain Holder Handle.......: TM282O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: PRST2P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2001-02-28
+Last updated:    2011-03-02
+
+NORID Handle...............: TM282O-NORID
+Type.......................: organization
+Name.......................: TUV MEDIAHUS
+Id Type....................: organization_number
+Id Number..................: 992349891
+Registrar Handle...........: REG5-NORID
+Post Address...............: Markeveien 4 B
+Postal Code................: NO-5012
+Postal Area................: BERGEN
+Country....................: NO
+Mobile Phone Number........: +47.40040075
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

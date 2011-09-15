@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T14:46:14+12:00
+domain_name: consultants.co.nz
+query_status: 200 Active
+domain_dateregistered: 1997-04-10T00:00:00+12:00
+domain_datebilleduntil: 2011-09-20T10:09:42+12:00
+domain_datelastmodified: 2010-09-15T09:09:17+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: OPENHOST
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: North Shore City
+registrar_postalcode: 0751
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 2655
+registrar_email: domains@openhost.co.nz
+%
+registrant_contact_name: David Thexton
+registrant_contact_address1: 19 Hofland Road
+registrant_contact_city: London
+registrant_contact_postalcode: W14 0LN
+registrant_contact_country: GB (UNITED KINGDOM)
+registrant_contact_phone: +44 7990 975701
+registrant_contact_fax: +64 9 373 2918
+registrant_contact_email: david@consultants.co.nz
+%
+admin_contact_name: Mr. David Thexton
+admin_contact_address1: 19 Hofland Road
+admin_contact_city: London
+admin_contact_postalcode: W14 0LN
+admin_contact_country: GB (UNITED KINGDOM)
+admin_contact_phone: +44 7990 975701
+admin_contact_fax: +64 9 373 2918
+admin_contact_email: david@consultants.co.nz
+%
+technical_contact_name: Mr. David Thexton
+technical_contact_address1: 19 Hofland Road
+technical_contact_city: London
+technical_contact_postalcode: W14 0LN
+technical_contact_country: GB (UNITED KINGDOM)
+technical_contact_phone: +44 7990 975701
+technical_contact_email: david@consultants.co.nz
+%
+ns_ip4_01: 87.194.2.222
+ns_name_01: gw-consultants.consultants.co.nz
+ns_name_02: ns0.xname.org
+ns_name_03: ns1.xname.org
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T14:46:15+12:00
+domain_name: dlink.co.nz
+query_status: 200 Active
+domain_dateregistered: 2000-02-29T00:00:00+13:00
+domain_datebilleduntil: 2012-03-01T00:00:00+13:00
+domain_datelastmodified: 2011-02-22T19:26:31+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: RegisterDirect
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9516
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@registerdirect.net
+%
+registrant_contact_name: D-link australia pty ltd
+registrant_contact_address1: Bld A, Level 3, 11 Talavera Rd
+registrant_contact_address2: North Ryde, NSW 2113
+registrant_contact_city: North Ryde
+registrant_contact_postalcode: NSW 2069
+registrant_contact_country: AU (AUSTRALIA)
+registrant_contact_phone: +61 2 88991800
+registrant_contact_fax: +61 2 88991868
+registrant_contact_email: admin@dlink.com.au
+%
+admin_contact_name: Administrator
+admin_contact_address1: Bld A, Level 3, 11 Talavera Rd
+admin_contact_address2: North Ryde, NSW 2113
+admin_contact_city: North Ryde
+admin_contact_postalcode: NSW 2069
+admin_contact_country: AU (AUSTRALIA)
+admin_contact_phone: +61 2 88991800
+admin_contact_fax: +61 294 171077
+admin_contact_email: admin@dlink.com.au
+%
+technical_contact_name: RegisterDIRECT
+technical_contact_address1: PO Box 1520
+technical_contact_address2: Christchurch, New Zealand
+technical_contact_phone: +64 3 377 6535
+technical_contact_fax: +64 3 377 6536
+technical_contact_email: hostmaster@registerdirect.net.nz
+%
+ns_ip4_01: 210.55.4.13
+ns_name_01: ns1.registerdirect.net.nz
+ns_ip4_02: 210.55.4.14
+ns_name_02: ns2.registerdirect.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
