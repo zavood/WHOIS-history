@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: DAILYSEXDOSE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 06-apr-2005
-   Expiration Date: 06-apr-2012
+   Updated Date: 08-sep-2011
+   Creation Date: 23-sep-2010
+   Expiration Date: 23-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:37:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,7 +79,7 @@ Registrant:
    Pressplay Entertainment Ltd.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: DAILYSEXDOSE.COM
 
    Domain servers in listed order:
       NS1.21SEXTURY.COM
@@ -87,4 +87,4 @@ Registrant:
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=21SEXTURYCASH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DAILYSEXDOSE.COM

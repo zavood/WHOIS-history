@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 21SEXTURYCASH.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.21SEXTURY.COM
-   Name Server: NS2.21SEXTURY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: PBAWHITEPLAINS.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS3337.HOSTGATOR.COM
+   Name Server: NS3338.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 06-apr-2005
-   Expiration Date: 06-apr-2012
+   Updated Date: 11-sep-2011
+   Creation Date: 03-apr-2008
+   Expiration Date: 03-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:36:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain pbawhiteplains.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Date Registered: 2008-4-3
+Date Modified: 2011-9-11
+Expiry Date: 2013-4-3
 
+DNS1: ns3338.hostgator.com
+DNS2: ns3337.hostgator.com
 
-Registrant:
-   Pressplay Entertainment Ltd.
+Registrant
+    Private Whois pbawhiteplains.com
+    Private Whois pbawhiteplains.com  jugswhm4e67819c17b58@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pbawhiteplains.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 21SEXTURYCASH.COM
+Administrative Contact
+    Private Whois pbawhiteplains.com
+    Private Whois pbawhiteplains.com  nasngl44e67819c18325@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pbawhiteplains.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-   Domain servers in listed order:
-      NS1.21SEXTURY.COM
-      NS2.21SEXTURY.COM
+Technical Contact
+    Private Whois pbawhiteplains.com
+    Private Whois pbawhiteplains.com  xhl74mv4e67819c17f3d@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pbawhiteplains.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=21SEXTURYCASH.COM
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

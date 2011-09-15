@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: SOUTHCAROLINASUPERADS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.21SEXTURY.COM
-   Name Server: NS2.21SEXTURY.COM
+   Name Server: NS1.DATAPIPE.NET
+   Name Server: NS2.DATAPIPE.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 06-apr-2005
-   Expiration Date: 06-apr-2012
+   Updated Date: 05-nov-2010
+   Creation Date: 27-nov-2004
+   Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:37:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Pressplay Entertainment Ltd.
+   Domain Condom
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: SOUTHCAROLINASUPERADS.COM
 
    Domain servers in listed order:
-      NS1.21SEXTURY.COM
-      NS2.21SEXTURY.COM
+      NS1.DATAPIPE.NET
+      NS2.DATAPIPE.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=21SEXTURYCASH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SOUTHCAROLINASUPERADS.COM

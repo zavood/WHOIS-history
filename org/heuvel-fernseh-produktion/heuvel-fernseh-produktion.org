@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102553932-LROR
+Domain Name:HEUVEL-FERNSEH-PRODUKTION.ORG
+Created On:12-Nov-2003 19:57:25 UTC
+Last Updated On:13-Nov-2010 01:22:47 UTC
+Expiration Date:12-Nov-2011 19:57:25 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10335121
+Registrant Name:Raimar Neuhaus
+Registrant Street1:Haehnelstrasse 19
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:DE
+Registrant Postal Code:12159
+Registrant Country:DE
+Registrant Phone:+49.01743075638
+Registrant Phone Ext.:
+Registrant FAX:+49.01743075638
+Registrant FAX Ext.:
+Registrant Email:sphenoid@gmx.de
+Admin ID:ABM-10335121
+Admin Name:Raimar Neuhaus
+Admin Street1:Haehnelstrasse 19
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:DE
+Admin Postal Code:12159
+Admin Country:DE
+Admin Phone:+49.01743075638
+Admin Phone Ext.:
+Admin FAX:+49.01743075638
+Admin FAX Ext.:
+Admin Email:sphenoid@gmx.de
+Tech ID:ABM-565213
+Tech Name:Gregor Lorenz
+Tech Organization:Blue Media Star
+Tech Street1:Bahnhofsplatz 14
+Tech Street2:
+Tech Street3:
+Tech City:Kronach
+Tech State/Province:DE
+Tech Postal Code:96317
+Tech Country:DE
+Tech Phone:+49.9261530561
+Tech Phone Ext.:
+Tech FAX:+49.9261530564
+Tech FAX Ext.:
+Tech Email:info@bluestarhosting.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

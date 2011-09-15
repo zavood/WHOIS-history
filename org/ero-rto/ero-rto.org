@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159405970-LROR
+Domain Name:ERO-RTO.ORG
+Created On:12-Jun-2010 15:47:14 UTC
+Last Updated On:13-Jun-2011 01:23:15 UTC
+Expiration Date:12-Jun-2012 15:47:14 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-39759873
+Registrant Name:Igor Radovanovic
+Registrant Organization:The Retired Teachers of Ontari
+Registrant Street1:18 Spadina Rd
+Registrant Street2:Ste 300
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M5R 2S7
+Registrant Country:CA
+Registrant Phone:+1.4166404629
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:iradovanovic@rto-ero.org
+Admin ID:SPAG-39759873
+Admin Name:Igor Radovanovic
+Admin Organization:The Retired Teachers of Ontari
+Admin Street1:18 Spadina Rd
+Admin Street2:Ste 300
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M5R 2S7
+Admin Country:CA
+Admin Phone:+1.4166404629
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:iradovanovic@rto-ero.org
+Tech ID:SPAG-32126886
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Inc.
+Tech Street1:701 Lee Rd.
+Tech Street2:Suite 300
+Tech Street3:
+Tech City:Chesterbrook
+Tech State/Province:PA
+Tech Postal Code:19087
+Tech Country:US
+Tech Phone:+1.8774612631
+Tech Phone Ext.:
+Tech FAX:+1.6105601501
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.com
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

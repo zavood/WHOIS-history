@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: TIFFANYANNLEWIS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.21SEXTURY.COM
-   Name Server: NS2.21SEXTURY.COM
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 06-apr-2005
-   Expiration Date: 06-apr-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 16-mar-2005
+   Expiration Date: 16-mar-2020
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:39:03 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Pressplay Entertainment Ltd.
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: 21SEXTURYCASH.COM
+   Domain Name: TIFFANYANNLEWIS.COM
 
    Domain servers in listed order:
-      NS1.21SEXTURY.COM
-      NS2.21SEXTURY.COM
+      NS1.BLUEHOST.COM
+      NS2.BLUEHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=21SEXTURYCASH.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=TIFFANYANNLEWIS.COM
