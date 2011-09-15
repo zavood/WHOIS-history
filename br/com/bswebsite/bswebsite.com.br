@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 03:45:51 (BRT -03:00)
+
+domain:      bswebsite.com.br
+owner:       MD INDUSTRIA E COMERCIO DE PLASTICOS LIQUIDOS LTDA
+ownerid:     008.857.877/0001-05
+responsible: MD INDUSTRIA E COMERCIO DE PLASTICOS
+country:     BR
+owner-c:     DEM23
+admin-c:     DEM23
+tech-c:      JOGSO32
+billing-c:   JOGSO32
+nserver:     ns.brasilshop.psi.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns1.brasilshop.psi.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20071025 #3993550
+expires:     20111025
+changed:     20101005
+status:      published
+
+nic-hdl-br:  DEM23
+person:      Denis Engel Madureira
+e-mail:      denis@brasilshop.com.br
+created:     19990415
+changed:     20110617
+
+nic-hdl-br:  JOGSO32
+person:      Jonatan Geraldo de Souza
+e-mail:      suportebs@gmail.com
+created:     20090303
+changed:     20090522
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INETSOLUTION.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.INETSOLUTION.NET
-   Name Server: NS5.INETSOLUTION.NET
+   Domain Name: CMCORE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.COREMETRICS.COM
+   Name Server: DNS2.COREMETRICS.COM
+   Name Server: DNS3.COREMETRICS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 09-jun-1998
-   Expiration Date: 08-jun-2018
+   Updated Date: 13-dec-2010
+   Creation Date: 05-jan-2009
+   Expiration Date: 05-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:46:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:46:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... cmcore.com
+  Creation Date........ 2009-01-06
+  Registration Date.... 2010-12-13
+  Expiry Date.......... 2012-01-06
+  Organisation Name.... Coremetrics, Inc.
+  Organisation Address. 10814 Jollyville Rd
+  Organisation Address. #300
+  Organisation Address. Austin
+  Organisation Address. 78759
+  Organisation Address. TX
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... DNS Administrator
+  Admin Address........ 10814 Jollyville Rd
+  Admin Address........ #300
+  Admin Address........ Austin
+  Admin Address........ 78759
+  Admin Address........ TX
+  Admin Address........ UNITED STATES
+  Admin Email.......... dnsadmin@coremetrics.com
+  Admin Phone.......... +1.5126821101
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ DNS Administrator
+  Tech Address......... 10814 Jollyville Rd
+  Tech Address......... #300
+  Tech Address......... Austin
+  Tech Address......... 78759
+  Tech Address......... TX
+  Tech Address......... UNITED STATES
+  Tech Email........... dnsadmin@coremetrics.com
+  Tech Phone........... +1.5126821101
+  Tech Fax.............
+  Name Server.......... DNS3.COREMETRICS.COM
+  Name Server.......... DNS1.COREMETRICS.COM
+  Name Server.......... DNS2.COREMETRICS.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: inetsolution.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:06 EDT 2011
-Reason Code: IE

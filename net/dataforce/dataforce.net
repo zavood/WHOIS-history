@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INETSOLUTION.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.INETSOLUTION.NET
-   Name Server: NS5.INETSOLUTION.NET
+   Domain Name: DATAFORCE.NET
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS.DATAFORCE.NET
+   Name Server: NS2.DATAFORCE.NET
    Status: clientTransferProhibited
-   Updated Date: 07-apr-2011
-   Creation Date: 09-jun-1998
-   Expiration Date: 08-jun-2018
+   Updated Date: 26-nov-2010
+   Creation Date: 23-dec-1996
+   Expiration Date: 22-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:46:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:49:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain name:             DATAFORCE.NET
+Name Server:             ns.dataforce.net 195.42.160.61
+Name Server:             ns2.dataforce.net 195.42.162.50
+Creation Date:           1996.12.23
+Expiration Date:         2011.12.22
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Status:                  DELEGATED
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant ID:           64SZBXH-RU
+Registrant Name:         DataForce IP
+Registrant Organization: DataForce IP
+Registrant Street1:      3d Samotechiy per. 11
+Registrant City:         Moscow
+Registrant Postal Code:  127473
+Registrant Country:      RU
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative, Technical Contact
+Contact ID:              64SZBXH-RU
+Contact Name:            DataForce IP
+Contact Organization:    DataForce IP
+Contact Street1:         3d Samotechiy per. 11
+Contact City:            Moscow
+Contact Postal Code:     127473
+Contact Country:         RU
+Contact Phone:           +7 495 7373246
+Contact Fax:             +7 495 7373246
+Contact E-mail:          info@dataforce.net
 
-Whois Query: inetsolution.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:06 EDT 2011
-Reason Code: IE
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+
+Last updated on 2011.09.15 10:49:39 MSK/MSD
+
