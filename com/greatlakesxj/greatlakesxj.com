@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOOMLE.COM
+   Domain Name: GREATLAKESXJ.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NOOMLE.COM
-   Name Server: NS2.NOOMLE.COM
+   Name Server: NS13.DOMAINCONTROL.COM
+   Name Server: NS14.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-oct-2009
-   Creation Date: 20-mar-2008
-   Expiration Date: 20-mar-2012
+   Updated Date: 17-aug-2010
+   Creation Date: 03-jan-2006
+   Expiration Date: 03-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:30:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:30:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   rachid el harrab
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NOOMLE.COM
+   Domain Name: GREATLAKESXJ.COM
 
    Domain servers in listed order:
-      NS1.NOOMLE.COM
-      NS2.NOOMLE.COM
+      NS13.DOMAINCONTROL.COM
+      NS14.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NOOMLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GREATLAKESXJ.COM

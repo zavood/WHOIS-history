@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOOMLE.COM
+   Domain Name: CLOUDHOSTINGMAG.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NOOMLE.COM
-   Name Server: NS2.NOOMLE.COM
+   Name Server: NS19.DOMAINCONTROL.COM
+   Name Server: NS20.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-oct-2009
-   Creation Date: 20-mar-2008
-   Expiration Date: 20-mar-2012
+   Updated Date: 16-jan-2011
+   Creation Date: 24-feb-2010
+   Expiration Date: 24-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:30:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:29:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   rachid el harrab
+   None
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NOOMLE.COM
+   Domain Name: CLOUDHOSTINGMAG.COM
 
    Domain servers in listed order:
-      NS1.NOOMLE.COM
-      NS2.NOOMLE.COM
+      NS19.DOMAINCONTROL.COM
+      NS20.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NOOMLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CLOUDHOSTINGMAG.COM

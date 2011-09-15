@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NOOMLE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.NOOMLE.COM
-   Name Server: NS2.NOOMLE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: GLOBALPOPCONSPIRACY.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.QUUXUUM.COM
+   Name Server: NS2.QUUXUUM.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-oct-2009
-   Creation Date: 20-mar-2008
-   Expiration Date: 20-mar-2012
+   Updated Date: 13-jan-2011
+   Creation Date: 22-jan-2000
+   Expiration Date: 22-jan-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:30:58 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       globalpopconspiracy.com
+owner:        Brendan Cully
+email:        joker@quuxuum.com
+address:      5620 Montgomery Pl
+city:         Vancouver
+state:        BC
+postal-code:  V6T 2C7
+country:      CA
+phone:        +1.6042882835
+admin-c:      CCOM-1610680 joker@quuxuum.com
+tech-c:       CCOM-1610680 joker@quuxuum.com
+billing-c:    CCOM-1610680 joker@quuxuum.com
+nserver:      ns2.quuxuum.com
+nserver:      ns1.quuxuum.com
+status:       lock
+created:      2000-01-22 16:23:27 UTC
+modified:     2011-01-13 05:51:07 UTC
+expires:      2013-01-22 16:23:27 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-1610680
+person:       Brendan Cully
+email:        joker@quuxuum.com
+address:      5620 Montgomery Pl
+city:         Vancouver
+state:        BC
+postal-code:  V6T 2C7
+country:      CA
+phone:        +1.6042882835
 
-
-Registrant:
-   rachid el harrab
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NOOMLE.COM
-
-   Domain servers in listed order:
-      NS1.NOOMLE.COM
-      NS2.NOOMLE.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NOOMLE.COM
+source:       joker.com live whois service
+query-time:   0.021287
+db-updated:   2011-09-15 04:31:44
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

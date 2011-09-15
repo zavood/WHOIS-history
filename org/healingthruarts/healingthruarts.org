@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103751396-LROR
+Domain Name:HEALINGTHRUARTS.ORG
+Created On:14-Jan-2004 21:32:11 UTC
+Last Updated On:15-Jan-2011 13:51:31 UTC
+Expiration Date:14-Jan-2012 21:32:11 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32302842
+Registrant Name:Douglas Barra
+Registrant Organization:Pegasus WebDZign
+Registrant Street1:2544 Swanson Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Coconut Grove
+Registrant State/Province:Florida
+Registrant Postal Code:33133
+Registrant Country:US
+Registrant Phone:+1.5614145209
+Registrant Phone Ext.:
+Registrant FAX:+1.5618920402
+Registrant FAX Ext.:
+Registrant Email:doug@pegasuswebdzign.com
+Admin ID:CR32302844
+Admin Name:Douglas Barra
+Admin Organization:Pegasus WebDZign
+Admin Street1:2544 Swanson Ave
+Admin Street2:
+Admin Street3:
+Admin City:Coconut Grove
+Admin State/Province:Florida
+Admin Postal Code:33133
+Admin Country:US
+Admin Phone:+1.5614145209
+Admin Phone Ext.:
+Admin FAX:+1.5618920402
+Admin FAX Ext.:
+Admin Email:doug@pegasuswebdzign.com
+Tech ID:CR32302843
+Tech Name:Douglas Barra
+Tech Organization:Pegasus WebDZign
+Tech Street1:2544 Swanson Ave
+Tech Street2:
+Tech Street3:
+Tech City:Coconut Grove
+Tech State/Province:Florida
+Tech Postal Code:33133
+Tech Country:US
+Tech Phone:+1.5614145209
+Tech Phone Ext.:
+Tech FAX:+1.5618920402
+Tech FAX Ext.:
+Tech Email:doug@pegasuswebdzign.com
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
