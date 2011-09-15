@@ -1,0 +1,70 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         europetrol.at
+registrant:     FP6800993-NICAT
+admin-c:        FP6800994-NICAT
+tech-c:         PL6800995-NICAT
+nserver:        ns1.resellerinterface.de
+remarks:        95.128.200.131
+nserver:        ns2.resellerinterface.de
+remarks:        193.203.122.35
+changed:        20100120 14:44:45
+source:         AT-DOM
+
+personname:     Fritz Paischer
+organization:
+street address: EuroPetrol Diskonttankstelle
+street address: Gschwendt 213
+postal code:    5053
+city:           Strobl
+country:        Austria
+fax-no:         +43123456789
+nic-hdl:        FP6800993-NICAT
+changed:        20100120 14:44:44
+source:         AT-DOM
+
+personname:     Fritz Paischer
+organization:
+street address: EuroPetrol Diskonttankstelle
+street address: Gschwendt 213
+postal code:    5053
+city:           Strobl
+country:        Austria
+fax-no:         +43123456789
+nic-hdl:        FP6800994-NICAT
+changed:        20100120 14:44:44
+source:         AT-DOM
+
+personname:     Patrick Lehmann
+organization:
+street address: Paebbels Networks
+street address: Dorfstrasse 24
+postal code:    06385
+city:           Aken
+country:        Germany
+fax-no:         +493514384520
+nic-hdl:        PL6800995-NICAT
+changed:        20100120 14:44:44
+source:         AT-DOM
+

@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         kasper.at
+registrant:     RE8004153-NICAT
+admin-c:        RE8004154-NICAT
+tech-c:         RE8004154-NICAT
+nserver:        ns.kasper.at
+remarks:        86.111.40.146
+nserver:        ns1.netzlabor.com
+remarks:        194.208.119.122
+changed:        20110505 12:36:29
+source:         AT-DOM
+
+personname:     Horst Kasper
+organization:   Resuce EDV
+street address: Langacker 1
+postal code:    6714
+city:           Nueziders
+country:        Austria
+phone:          +43555268300
+fax-no:         +4355526830040
+e-mail:         office@rescue.at
+nic-hdl:        RE8004153-NICAT
+changed:        20110505 12:36:29
+source:         AT-DOM
+
+personname:     Horst Kasper
+organization:   Resuce EDV
+street address: Langacker 1
+postal code:    6714
+city:           Nueziders
+country:        Austria
+phone:          +43555268300
+fax-no:         +4355526830040
+e-mail:         office@rescue.at
+nic-hdl:        RE8004154-NICAT
+changed:        20110505 12:36:29
+source:         AT-DOM
+

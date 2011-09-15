@@ -3,19 +3,19 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     SPBSUT.RU
-nserver:    ns.itut.ru.
-nserver:    ns2.delfa.net.
-nserver:    ns3.delfa.net.
-nserver:    ns4.delfa.net.
-nserver:    ns4.delfa.ru.
+domain:     USSURIISK.RU
+nserver:    ns.ussuriisk.ru. 212.122.17.132
+nserver:    ns.vmts.ru.
+nserver:    ns2.vmts.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-person:     Private Person
-e-mail:     sher@itut.ru
-e-mail:     sher@sut.ru
+org:        Primorie branch of OJSC &quot;Rostelecom&quot;
+phone:      +7 4232 267405
+fax-no:     +7 4232 406029
+e-mail:     igg@prim.dsv.ru
+e-mail:     oper@vladivostok.ru
 registrar:  RU-CENTER-REG-RIPN
-created:    2008.12.05
-paid-till:  2011.12.05
+created:    1997.08.06
+paid-till:  2012.09.01
 source:     TCI
 
 Last updated on 2011.09.15 11:48:42 MSK/MSD

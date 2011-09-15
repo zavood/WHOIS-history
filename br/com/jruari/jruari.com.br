@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 04:50:54 (BRT -03:00)
+
+domain:      jruari.com.br
+owner:       MKT - Solutions
+ownerid:     000.722.434/0001-03
+responsible: Jeferson Ruari
+country:     BR
+owner-c:     JER55
+admin-c:     JER55
+tech-c:      JER55
+billing-c:   JER55
+nserver:     ns.mkt-solutions.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.mkt-solutions.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20080414 #4390112
+expires:     20120414
+changed:     20110323
+status:      published
+
+nic-hdl-br:  JER55
+person:      jeff ruari
+e-mail:      jeff@mkt-solutions.com.br
+created:     20010503
+changed:     20100524
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

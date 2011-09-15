@@ -1,0 +1,19 @@
+
+domain:   capgemini.fi
+descr:    Capgemini Finland Oy
+descr:    16281425
+address:  Patrik Andersin
+address:  Sinim&auml;entie 12
+address:  02630
+address:  Espoo
+phone:    +358 9 452 651
+status:   Granted
+created:  4.5.2009
+expires:  4.5.2012
+nserver: ns1.capgemini.fi [OK] 145.247.23.4
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.capgemini.fi [OK] 145.247.23.20
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

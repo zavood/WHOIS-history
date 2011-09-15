@@ -3,20 +3,16 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     SPBSUT.RU
-nserver:    ns.itut.ru.
-nserver:    ns2.delfa.net.
-nserver:    ns3.delfa.net.
-nserver:    ns4.delfa.net.
-nserver:    ns4.delfa.ru.
+domain:     RDMPTR.RU
+nserver:    ns1.privateperson.ru.
+nserver:    ns2.privateperson.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
 person:     Private Person
-e-mail:     sher@itut.ru
-e-mail:     sher@sut.ru
+e-mail:     domains@privateperson.ru
 registrar:  RU-CENTER-REG-RIPN
-created:    2008.12.05
-paid-till:  2011.12.05
+created:    2011.07.12
+paid-till:  2012.07.12
 source:     TCI
 
-Last updated on 2011.09.15 11:48:42 MSK/MSD
+Last updated on 2011.09.15 11:53:42 MSK/MSD
 
