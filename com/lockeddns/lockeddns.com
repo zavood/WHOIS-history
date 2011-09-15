@@ -5,16 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
-   Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Domain Name: LOCKEDDNS.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-sep-2011
+   Creation Date: 21-may-2003
+   Expiration Date: 21-may-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
 
@@ -51,69 +56,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
-
-
 Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
+ Hostmaster, DynDNS  hostmaster@dyndns.com
+ Dynamic Network Services, Inc.
+ 150 Dow St.
+ Manchester, NH 03101
+ US
 
-Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+ Domain name: LOCKEDDNS.COM
 
-Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
 
-Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+ Administrative Contact, Technical Contact:
+    Hostmaster, DynDNS  hostmaster@dyndns.com
+    Dynamic Network Services, Inc.
+    150 Dow St.
+    Manchester, NH 03101
+    US
+    +1.6036684998  fax: +1.6036686474
+
+
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
+
+
+ Record last updated on 06-Sep-2011 20:18:42 UTC.
+ Record expires on 22-May-2013.
+ Record created on 22-May-2003.
+
+
+ This domain is delegated to DynDNS.com Custom DNS:
+    NS1.MYDYNDNS.ORG
+    NS5.MYDYNDNS.ORG
+    NS4.MYDYNDNS.ORG
+    NS2.MYDYNDNS.ORG
+    NS3.MYDYNDNS.ORG
+ 100% uptime since 2001! ** Learn more here: http://www.dyn.com/ **
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+

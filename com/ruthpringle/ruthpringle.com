@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
+   Domain Name: RUTHPRINGLE.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS1.OAKDNS.NET
+   Name Server: NS2.OAKDNS.NET
    Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Updated Date: 07-may-2011
+   Creation Date: 11-jun-2008
+   Expiration Date: 11-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:32:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
 
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
+Whois Output for: ruthpringle.com
+Domain Registration Partner: Little Oak
+Website: http://www.
 
-Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
+Domain Name Owner:
+  Ruth Pringle
+  83a Henderson St
+  Bridge of Allan, Central Scotland FK9 4HG
+  GB
 
 Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Pringle, Ruth
+  Ruth Pringle
+  83a Henderson St
+  Bridge of Allan, Central Scotland FK9 4HG, GB
+  Phone: +44.0044314020695
+  Email: ruthpringle@hotmail.com
 
 Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Pringle, Ruth
+  Ruth Pringle
+  83a Henderson St
+  Bridge of Allan, Central Scotland FK9 4HG, GB
+  Phone: +44.0044314020695
+  Email: ruthpringle@hotmail.com
 
 Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Pringle, Ruth
+  Ruth Pringle
+  83a Henderson St
+  Bridge of Allan, Central Scotland FK9 4HG, GB
+  Phone: +44.0044314020695
+  Email: ruthpringle@hotmail.com
+
+Record Information:
+  Domain Record Created: June 11, 2008
+  Domain Record Updated: May 07, 2011
+  Domain Record Expires: June 11, 2013
+
+DNS Information:
+  Name Server: ns1.oakdns.net
+  Name Server: ns2.oakdns.net
+

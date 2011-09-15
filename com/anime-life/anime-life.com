@@ -5,16 +5,15 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
+   Domain Name: ANIME-LIFE.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: VDNS.SHINOBI.JP
    Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Updated Date: 07-jun-2011
+   Creation Date: 14-jul-2009
+   Expiration Date: 14-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
 
@@ -51,69 +50,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
+GMO Internet, Inc. whois server 2.0
 
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: anime-life.com
+Created On: 2009-07-14 07:16:34.0
+Last Updated On: 2011-06-08 12:26:00.0
+Expiration Date: 2012-07-14 07:16:34.0
+Status: ACTIVE
+Registrant Name: Junichi Ryusekido
+Registrant Organization: Samurai Factory Inc.
+Registrant Street1: 16-28 Nanpeidai-cho
+Registrant Street2: Glass City Shibuya 5F
+Registrant City: Shibuya-ku
+Registrant State: Tokyo
+Registrant Postal Code: 150-0036
+Registrant Country: JP
+Registrant Phone: 0362775281
+Registrant Fax:
+Registrant Email: domainregist@ml.ninja.co.jp
+Admin Name: Junichi Ryusekido
+Admin Organization: Samurai Factory Inc.
+Admin Street1: Nanpeidai-cho 16-28
+Admin Street2:
+Admin City: Shibuya-ku
+Admin State: Tokyo-to
+Admin Postal Code: 150-0036
+Admin Country: JP
+Admin Phone: 0362775281
+Admin Fax: 0362775283
+Admin Email: domainregist@ml.ninja.co.jp
+Billing Name: Junichi Ryusekido
+Billing Organization: Samurai Factory Inc.
+Billing Street1: Nanpeidai-cho 16-28
+Billing Street2:
+Billing City: Shibuya-ku
+Billing State: Tokyo-to
+Billing Postal Code: 150-0036
+Billing Country: JP
+Billing Phone: 0362775281
+Billing Fax: 0362775283
+Billing Email: domainregist@ml.ninja.co.jp
+Tech Name: Junichi Ryusekido
+Tech Organization: Samurai Factory Inc.
+Tech Street1: Nanpeidai-cho 16-28
+Tech Street2:
+Tech City: Shibuya-ku
+Tech State: Tokyo-to
+Tech Postal Code: 150-0036
+Tech Country: JP
+Tech Phone: 0362775281
+Tech Fax: 0362775283
+Tech Email: domainregist@ml.ninja.co.jp
+Name Server: vdns.shinobi.jp
 
-Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-
-Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
-
-Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
-
-Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com

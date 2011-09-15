@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:32:40 2011
+
+domain:       rehacek.cz
+registrant:   PER000004182-ZONER
+admin-c:      PER000004182-ZONER
+nsset:        NSS:SUB100000001-ZONER:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   04.08.2003 12:26:00
+changed:      25.02.2009 08:26:54
+expire:       03.08.2012
+
+contact:      PER000004182-ZONER
+name:         David Rehacek
+address:      Zebetinska 3
+address:      Brno
+address:      62300
+address:      CZ
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      15.10.2009 22:53:45
+
+nsset:        NSS:SUB100000001-ZONER:1
+nserver:      ns1.regzone.info
+nserver:      ns1.regzone.de
+nserver:      ns1.regzone.cz (217.198.113.10, 2a00:19a0:2:300::2)
+tech-c:       SB:SUB100000001-ZONER
+tech-c:       PER000000001-ZONER
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+changed:      01.08.2011 13:15:34
+
+contact:      SB:SUB100000001-ZONER
+org:          ZONER software a.s.
+name:         ZONER software a.s.
+address:      Nov&Atilde;&copy; sady 18
+address:      Brno
+address:      60200
+address:      CZ
+e-mail:       admin@zoner.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      30.03.2010 13:54:49
+
+contact:      PER000000001-ZONER
+name:         Petr Horinek
+address:      Nov&Atilde;&copy; sady 18
+address:      Brno
+address:      60200
+address:      CZ
+phone:        +420.543257244
+fax-no:       +420.543257245
+e-mail:       auto-reg@admin.czechia.com
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      26.08.2005 15:05:00
+
+

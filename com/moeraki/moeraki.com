@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 31-mar-1999
    Expiration Date: 31-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:46:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: moeraki.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 17:42:07 EDT 2011
+Date and Time of Query: Wed Sep 14 23:23:13 EDT 2011
 Reason Code: IE

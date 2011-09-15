@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
+   Domain Name: ADELSHEIM.COM
+   Registrar: ANSWERABLE.COM (I) PVT. LTD.
+   Whois Server: whois.answerable.com
+   Referral URL: http://www.answerable.com
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
    Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Updated Date: 20-jun-2008
+   Creation Date: 18-apr-2002
+   Expiration Date: 18-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
+Registration Service Provided By: BIGROCK.COM
+Contact: +01.4153580892
+Website: http://www.bigrock.com
 
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
-
+Domain Name: ADELSHEIM.COM
 
 Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
+    Adelsheim Vineyard, LLC
+    Kathi Neal        (kneal@adelsheimvineyard.com)
+    P.O. Box 909
+    Newberg
+    OR,97132
+    US
+    Tel. +001.5035383652
+
+Creation Date: 18-Apr-2002
+Expiration Date: 18-Apr-2013
+
+Domain servers in listed order:
+    ns1.eapps.com
+    ns2.eapps.com
+
 
 Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+    Adelsheim Vineyard, LLC
+    Kathi Neal        (kneal@adelsheimvineyard.com)
+    P.O. Box 909
+    Newberg
+    OR,97132
+    US
+    Tel. +001.5035383652
 
 Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+    Adelsheim Vineyard LLC
+    Dave Adelsheim        (dadelsheim@aol.com)
+    P.O. Box 909
+    Newberg
+    OR,97132
+    US
+    Tel. +001.5035541510
 
 Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+    Adelsheim Vineyard, LLC
+    Kathi Neal        (kneal@adelsheimvineyard.com)
+    P.O. Box 909
+    Newberg
+    OR,97132
+    US
+    Tel. +001.5035383652
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Answerable.com (I) Pvt. Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

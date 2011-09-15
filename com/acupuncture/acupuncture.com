@@ -5,16 +5,12 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
-   Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+ACUPUNCTURE.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
+ACUPUNCTURE.COM
+
+To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
+of the records displayed above. If the records are the same, look them up
+with &quot;=xxx&quot; to receive a full display for each record.
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
 
@@ -51,69 +47,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
-
-
-Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-
-Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
-
-Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
-
-Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com

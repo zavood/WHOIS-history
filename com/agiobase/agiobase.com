@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
+   Domain Name: AGIOBASE.COM
    Registrar: XIN NET TECHNOLOGY CORPORATION
    Whois Server: whois.paycenter.com.cn
    Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Updated Date: 19-feb-2011
+   Creation Date: 19-feb-2011
+   Expiration Date: 19-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,54 +66,54 @@ apply to Paycenter or its systems.
 Paycenter reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
+Domain Name      : agiobase.com
+PunnyCode        : agiobase.com
+Creation Date    : 2011-02-20 11:43:13
+Updated Date     : 2011-02-20 11:43:13
+Expiration Date  : 2012-02-20 11:43:13
 
 
 Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
+  Organization   : lin xiang
+  Name           : lin guoxiang
+  Address        : shuzhou road #366
+  City           : shanghai
+  Province/State : Shanghai
+  Country        : CN
+  Postal Code    : 200025
 
 Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Name           : lin xiang
+  Organization   : lin xiang
+  Address        : shuzhou road #366
+  City           : shanghai
+  Province/State : Shanghai
+  Country        : shanghai
+  Postal Code    : 200025
+  Phone Number   : 86-021-3633000
+  Fax            : 86-021-3633232
+  Email          : ptjzjj1001@163.com
 
 Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Name           : lin xiang
+  Organization   : lin xiang
+  Address        : shuzhou road #366
+  City           : shanghai
+  Province/State : Shanghai
+  Country        : shanghai
+  Postal Code    : 200025
+  Phone Number   : 86-021-3633000
+  Fax            : 86-021-3633232
+  Email          : ptjzjj1001@163.com
 
 Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+  Name           : lin xiang
+  Organization   : lin xiang
+  Address        : shuzhou road #366
+  City           : shanghai
+  Province/State : Shanghai
+  Country        : shanghai
+  Postal Code    : 200025
+  Phone Number   : 86-021-3633000
+  Fax            : 86-021-3633232
+  Email          : ptjzjj1001@163.com

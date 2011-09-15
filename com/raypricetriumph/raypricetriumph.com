@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 580CLUB.COM
-   Registrar: XIN NET TECHNOLOGY CORPORATION
-   Whois Server: whois.paycenter.com.cn
-   Referral URL: http://www.xinnet.com
-   Name Server: NS1.ORAY.NET
-   Name Server: NS2.ORAY.NET
+   Domain Name: RAYPRICETRIUMPH.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
    Status: ok
-   Updated Date: 29-sep-2010
-   Creation Date: 18-oct-2009
-   Expiration Date: 18-oct-2011
+   Updated Date: 17-jun-2010
+   Creation Date: 06-feb-2010
+   Expiration Date: 06-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:33:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
+
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
+
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
-Domain Name      : 580club.com
-PunnyCode        : 580club.com
-Creation Date    : 2009-10-18 23:18:44
-Updated Date     : 2010-09-30 02:34:16
-Expiration Date  : 2011-10-18 23:18:41
+Domain Name:	raypricetriumph.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Registrant:
-  Organization   : Jally He
-  Name           : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
+Registrant Contact
 
-Administrative Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+Name:		Ray    Price
+Address:	1126 Saunders St
+		Raleigh, NC  27603
+		US
 
-Technical Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+Email Address:	kris@rayprice.com
+Phone Number:	(919)832-2261
 
-Billing Contact:
-  Name           : Jally He
-  Organization   : Jally He
-  Address        : suzhou SIP
-  City           : Suzhou
-  Province/State : Jiangsu
-  Country        : cn
-  Postal Code    : 210000
-  Phone Number   : 86-512-69360511
-  Fax            : 86-512-69360511
-  Email          : jally_he@hotmail.com
+
+Administrative Contact
+
+Name:		Ray    Price
+Address:	1126 Saunders St
+		Raleigh, NC  27603
+		US
+
+Email Address:	kris@rayprice.com
+Phone Number:	(919)832-2261
+
+
+Technical Contact
+
+Name:		PowerSports    Network
+Address:	N56 N24660 North Corporate Circle
+		Sussex, WI  53089
+		US
+
+Email Address:	hostmaster@powersportsnetwork.com
+Phone Number:	(262)246-7900
+
+
+Record Created on........ 2010-02-06 17:44:34.218
+Expire on................ 2015-02-06 17:44:03.000
+
+Domain Nameservers in listed order:
+
+	pdns1.ultradns.net
+ 	pdns2.ultradns.net
+
