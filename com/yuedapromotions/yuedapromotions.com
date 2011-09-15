@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMBLDGMAINT.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS2817.HOSTGATOR.COM
-   Name Server: NS2818.HOSTGATOR.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 12-aug-2011
-   Expiration Date: 12-aug-2012
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:19:15 UTC &lt;&lt;&lt;
+No match for &quot;YUEDAPROMOTIONS.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:14:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,35 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain smbldgmaint.com
-
-Date Registered: 2011-8-12
-Date Modified: 2011-8-12
-Expiry Date: 2012-8-12
-
-DNS1: ns2817.hostgator.com
-DNS2: ns2818.hostgator.com
-
-Registrant
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
-
-Administrative Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
-
-Technical Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
-
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

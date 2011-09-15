@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMBLDGMAINT.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS2817.HOSTGATOR.COM
-   Name Server: NS2818.HOSTGATOR.COM
+   Domain Name: SAFEKIDSNOW.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS05.DOMAINCONTROL.COM
+   Name Server: NS06.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 12-aug-2011
-   Expiration Date: 12-aug-2012
+   Status: clientUpdateProhibited
+   Updated Date: 27-oct-2008
+   Creation Date: 27-oct-2008
+   Expiration Date: 27-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:19:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:12:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,35 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain smbldgmaint.com
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Date Registered: 2011-8-12
-Date Modified: 2011-8-12
-Expiry Date: 2012-8-12
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-DNS1: ns2817.hostgator.com
-DNS2: ns2818.hostgator.com
 
-Registrant
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+Registrant:
+   Stephanie Mann
 
-Administrative Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: SAFEKIDSNOW.COM
 
-Technical Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+   Domain servers in listed order:
+      NS05.DOMAINCONTROL.COM
+      NS06.DOMAINCONTROL.COM
 
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SAFEKIDSNOW.COM

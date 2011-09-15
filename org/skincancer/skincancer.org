@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D710578-LROR
+Domain Name:SKINCANCER.ORG
+Created On:27-Feb-1997 05:00:00 UTC
+Last Updated On:30-Dec-2008 20:17:08 UTC
+Expiration Date:28-Feb-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31210823-NSI
+Registrant Name:The Skin Cancer Foundation
+Registrant Organization:The Skin Cancer Foundation
+Registrant Street1:149 Madison Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:NY
+Registrant State/Province:NY
+Registrant Postal Code:10016
+Registrant Country:US
+Registrant Phone:+1.212725517
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:sk6f@DTI.NET
+Admin ID:39105597-NSI
+Admin Name:Paul Melia
+Admin Organization:The Skin Cancer Foundation
+Admin Street1:149 Madison Ave
+Admin Street2:Suite 901
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10016
+Admin Country:US
+Admin Phone:+1.2127255176
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pmelia@skincancer.org
+Tech ID:39105597-NSI
+Tech Name:Paul Melia
+Tech Organization:The Skin Cancer Foundation
+Tech Street1:149 Madison Ave
+Tech Street2:Suite 901
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10016
+Tech Country:US
+Tech Phone:+1.2127255176
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pmelia@skincancer.org
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:NS6.EASYDNS.NET
+Name Server:NS3.EASYDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

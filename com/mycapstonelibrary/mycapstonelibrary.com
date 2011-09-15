@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHOPNSAVELISTENS.COM
+   Domain Name: MYCAPSTONELIBRARY.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS13.ZONEEDIT.COM
-   Name Server: NS2.ZONEEDIT.COM
+   Name Server: NS1.HICKORYTECH.NET
+   Name Server: NS2.HICKORYTECH.NET
    Status: clientTransferProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 17-apr-2009
-   Expiration Date: 17-apr-2012
+   Updated Date: 09-jul-2008
+   Creation Date: 05-sep-2007
+   Expiration Date: 05-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:22:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:22:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Medallia Inc.
-      Borge Hald
-      800 El Camino Real, Suite 400
-      Menlo Park, CA 94025
+      Coughlan Companies, Inc.
+      Paul Peterson
+      151 Good Counsel Drive
+      Mankato, MN 56001
       US
-      Phone: +1.6503213000
-      Email: hostmaster@lists.medallia.com
+      Phone: +1.5073858437
+      Email: domainsupport@coughlancompanies.com
 
 
 
@@ -84,39 +84,39 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: shopnsavelistens.com
-      Created on..............: 2010-03-30
-      Expires on..............: 2012-04-17
+   Domain Name: mycapstonelibrary.com
+      Created on..............: 2007-09-05
+      Expires on..............: 2013-09-05
 
    Administrative Contact:
-      Medallia Inc.
-      Borge Hald
-      1010 El Camino Real, Suite 340
-      Menlo Park, CA 94025
+      Coughlan Companies, Inc.
+      Domain Support
+      151 Good Counsel Dr.
+      Mankato, MN 56001
       US
-      Phone: +1.6503213000
-      Email: support@medallia.com
+      Phone: +1.5073858437
+      Email: domainsupport@coughlancompanies.com
 
 
    Technical  Contact:
-      Medallia, Inc.
-      Serge Pluess
-      395 Page Mill Road Suite 100
-      Palo Alto, CA 94306
+      Coughlan Companies, Inc.
+      Domain Support
+      151 Good Counsel Dr.
+      Mankato, MN 56001
       US
-      Phone: +1.6503213000
-      Email: admin@lists.medallia.com
+      Phone: +1.5073858437
+      Email: domainsupport@coughlancompanies.com
 
 
    DNS Servers:
-      ns2.zoneedit.com
-      ns13.zoneedit.com
+      ns2.hickorytech.net
+      ns1.hickorytech.net
 
 
 
-Visit AboutUs.org for more information about shopnsavelistens.com
+Visit AboutUs.org for more information about mycapstonelibrary.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/shopnsavelistens.com&quot;&gt;AboutUs: shopnsavelistens.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/mycapstonelibrary.com&quot;&gt;AboutUs: mycapstonelibrary.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

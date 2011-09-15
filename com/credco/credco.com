@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMBLDGMAINT.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS2817.HOSTGATOR.COM
-   Name Server: NS2818.HOSTGATOR.COM
-   Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 12-aug-2011
-   Expiration Date: 12-aug-2012
+   Domain Name: CREDCO.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS.BMA.CORELOGIC.COM
+   Name Server: NS.DAL.CORELOGIC.COM
+   Name Server: NS.ECO.CORELOGIC.COM
+   Name Server: NS.SNA.CORELOGIC.COM
+   Status: ok
+   Updated Date: 05-jan-2011
+   Creation Date: 26-apr-2001
+   Expiration Date: 26-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:19:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:14:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,35 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain smbldgmaint.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Date Registered: 2011-8-12
-Date Modified: 2011-8-12
-Expiry Date: 2012-8-12
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-DNS1: ns2817.hostgator.com
-DNS2: ns2818.hostgator.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Technical Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
-
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
+Whois Query: credco.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 16:10:14 EDT 2011
+Reason Code: IE

@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SMBLDGMAINT.COM
-   Registrar: INTERNET.BS CORP.
-   Whois Server: whois.internet.bs
-   Referral URL: http://www.internet.bs
-   Name Server: NS2817.HOSTGATOR.COM
-   Name Server: NS2818.HOSTGATOR.COM
+   Domain Name: YOURCITYPILOT.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 12-aug-2011
-   Expiration Date: 12-aug-2012
+   Status: clientUpdateProhibited
+   Updated Date: 10-aug-2011
+   Creation Date: 25-aug-2007
+   Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:19:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:11:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,35 +55,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain smbldgmaint.com
 
-Date Registered: 2011-8-12
-Date Modified: 2011-8-12
-Expiry Date: 2012-8-12
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-DNS1: ns2817.hostgator.com
-DNS2: ns2818.hostgator.com
+Registrant:
+   Marco Lang
+   Barichgasse 19/28
+   Vienna,    1030
+   AT
 
-Registrant
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+   Registrar: NAMESDIRECT
+   Domain Name: YOURCITYPILOT.COM
+      Created on: 25-AUG-07
+      Expires on: 25-AUG-12
+      Last Updated on: 10-AUG-11
 
-Administrative Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
+   Administrative, Technical Contact:
+      Lang, Marco  marco.lang@chello.at
+      Barichgasse 19/28
+      Vienna,    1030
+      AT
+      +436646207591
 
-Technical Contact
-    udin loveyou  udin_loveyou@yahoo.com
-    Bukit Hijau no.108
-    61172 Malang
-    Indonesia
-    Tel: +62.85736002532
 
-Registrar: Internet.bs Corp.
-Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
+
+End of Whois Information
