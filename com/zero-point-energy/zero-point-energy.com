@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-jan-2003
    Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:26:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:47:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain zero-point-energy.com
-% Timestamp: 2011-09-13 00:27:08
+% Timestamp: 2011-09-15 02:47:43
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
