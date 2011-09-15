@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155336700-LROR
+Domain Name:DESIGNFREEBIES.ORG
+Created On:11-Feb-2009 12:41:51 UTC
+Last Updated On:01-Feb-2011 01:18:09 UTC
+Expiration Date:11-Feb-2013 12:41:51 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40588924
+Registrant Name:Carmelo Torres
+Registrant Street1:- - -
+Registrant Street2:- - -
+Registrant Street3:
+Registrant City:Manila
+Registrant State/Province:NCR
+Registrant Postal Code:1008
+Registrant Country:PH
+Registrant Phone:+63.9994959276
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:designfreebies@yahoo.com
+Admin ID:CR40588932
+Admin Name:Carmelo Torres
+Admin Street1:- - -
+Admin Street2:- - -
+Admin Street3:
+Admin City:Manila
+Admin State/Province:NCR
+Admin Postal Code:1008
+Admin Country:PH
+Admin Phone:+63.9994959276
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:designfreebies@yahoo.com
+Tech ID:CR40588926
+Tech Name:Carmelo Torres
+Tech Street1:- - -
+Tech Street2:- - -
+Tech Street3:
+Tech City:Manila
+Tech State/Province:NCR
+Tech Postal Code:1008
+Tech Country:PH
+Tech Phone:+63.9994959276
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:designfreebies@yahoo.com
+Name Server:NS1909.HOSTGATOR.COM
+Name Server:NS1910.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

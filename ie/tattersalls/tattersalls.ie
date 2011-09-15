@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      tattersalls.ie
+descr:       Tattersalls (Ireland) Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     CD68-IEDR
+tech-c:      DAD1-IEDR
+renewal:     31-January-2012
+status:      Active
+nserver:     ns1.hosting.digiweb.ie
+nserver:     ns2.hosting.digiweb.ie
+nserver:     ns3.hosting.digiweb.ie
+source:      IEDR
+
+person:      Cathal Donnelly
+nic-hdl:     CD68-IEDR
+source:      IEDR
+
+person:      Digiweb Hosting
+nic-hdl:     DAD1-IEDR
+source:      IEDR
+

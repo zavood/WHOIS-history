@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 07-oct-2002
    Expiration Date: 07-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 20:07:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:20:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,9 +114,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.eds.com
     ns2.eds.com
     ns1.eds.com
+    ns3.eds.com
 
 
 
