@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASCENDONE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: POLONIUM.ASCENDONE.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 29-mar-2002
-   Expiration Date: 29-mar-2012
+   Domain Name: WILHELMINENHOF.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS19.RZONE.DE
+   Name Server: SHADES03.RZONE.DE
+   Status: ok
+   Updated Date: 04-may-2011
+   Creation Date: 03-may-2007
+   Expiration Date: 03-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:52:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:53:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Waree Treipl
 
-http://www.networksolutions.com/whois/index.jhtml
+   Wilhelminenhofstrasse 37
+   Berlin, 12459, DE
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Punycode Name:  wilhelminenhof.com
+   Unicode Name:   wilhelminenhof.com
 
-Whois Query: ascendone.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:30 EDT 2011
-Reason Code: IE
+   Admin Contact
+      Waree Treipl
+
+      jasmin@waree-massage.de
+      Wilhelminenhofstrasse 37
+      Berlin, 12459, DE
+      phone: +49 3053012097
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-05-03 17:40:25
+
+   Domain servers in listed order:
+
+      shades03.rzone.de
+      docks19.rzone.de
+
+
+

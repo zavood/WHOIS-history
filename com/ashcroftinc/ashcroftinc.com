@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASCENDONE.COM
+   Domain Name: ASHCROFTINC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: POLONIUM.ASCENDONE.COM
+   Name Server: DNS1.EQUANT.NET
+   Name Server: DNS2.EQUANT.NET
+   Name Server: DNS3.EQUANT.NET
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 29-mar-2002
-   Expiration Date: 29-mar-2012
+   Updated Date: 14-dec-2010
+   Creation Date: 14-sep-2005
+   Expiration Date: 14-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:52:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:54:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ascendone.com
+Whois Query: ashcroftinc.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:30 EDT 2011
+Date and Time of Query: Wed Sep 14 21:44:21 EDT 2011
 Reason Code: IE

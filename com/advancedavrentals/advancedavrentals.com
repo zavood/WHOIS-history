@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASCENDONE.COM
+   Domain Name: ADVANCEDAVRENTALS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: POLONIUM.ASCENDONE.COM
+   Name Server: NS.VALUEWEB.NET
+   Name Server: NS2.VALUEWEB.NET
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 29-mar-2002
-   Expiration Date: 29-mar-2012
+   Updated Date: 03-feb-2009
+   Creation Date: 02-apr-2004
+   Expiration Date: 02-apr-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:52:31 UTC &lt;&lt;&lt;
 
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: ascendone.com
+Whois Query: advancedavrentals.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:30 EDT 2011
+Date and Time of Query: Wed Sep 14 21:42:59 EDT 2011
 Reason Code: IE

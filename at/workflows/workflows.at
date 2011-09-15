@@ -1,0 +1,58 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         workflows.at
+registrant:     WBKA2492593-NICAT
+admin-c:        WBKA2492593-NICAT
+tech-c:         HE1365741-NICAT
+nserver:        ns49.1und1.de
+remarks:        195.20.224.149
+nserver:        ns50.1und1.de
+remarks:        212.227.123.63
+changed:        20070118 16:46:29
+source:         AT-DOM
+
+personname:     Bernd Klaus Achter
+organization:   Werbeagentur Bernd Klaus Achter
+street address: c/o Bernd Klaus Achter
+street address: Roseggerweg 36
+postal code:    2201
+city:           Gerasdorf
+country:        Austria
+phone:          +43224621922
+fax-no:         +4322462192220
+e-mail:         bernd.achter@workflows.at
+nic-hdl:        WBKA2492593-NICAT
+changed:        20100222 14:22:17
+source:         AT-DOM
+
+personname:     Hostmaster EINSUNDEINS
+organization:   1&amp;1 Internet AG
+street address: Elgendorfer Strasse 57
+postal code:    56410
+city:           Montabaur
+country:        Germany
+nic-hdl:        HE1365741-NICAT
+changed:        20040210 12:16:29
+source:         AT-DOM
+

@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASCENDONE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS2.NETTICA.COM
-   Name Server: DNS4.NETTICA.COM
-   Name Server: POLONIUM.ASCENDONE.COM
+   Domain Name: WOLFCREEKBREWINGCO.COM
+   Registrar: SPOT DOMAIN LLC DBA DOMAINSITE.COM
+   Whois Server: whois.domainsite.com
+   Referral URL: http://www.domainsite.com
+   Name Server: NS2.INTERMEDIA.NET
+   Name Server: NS3.INTERMEDIA.NET
+   Name Server: NS4.INTERMEDIA.NET
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 29-mar-2002
-   Expiration Date: 29-mar-2012
+   Status: clientUpdateProhibited
+   Updated Date: 18-may-2010
+   Creation Date: 01-jun-2001
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:52:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:53:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +55,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name:     wolfcreekbrewingco.com
+Registrar:       Spot Domain LLC
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Expiration Date: 2012-06-01 23:08:52
+Creation Date:   2001-06-01 19:08:52
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Name Servers:
+	ns2.intermedia.net
+	ns3.intermedia.net
+	ns4.intermedia.net
 
-http://www.networksolutions.com/whois/index.jhtml
+REGISTRANT CONTACT INFO
+Wolf Creek Brewing Company
+Carrie Junod
+ 27746 North McBean Pkwy
+Valencia
+CA
+91354
+US
+Phone:         +1.6612639653
+Email Address: ckj73@sbcglobal.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+ADMINISTRATIVE CONTACT INFO
+Wolf Creek Brewing Company
+Carrie Junod
+ 27746 North McBean Pkwy
+Valencia
+CA
+91354
+US
+Phone:         +1.6612639653
+Email Address: ckj73@sbcglobal.net
 
-Whois Query: ascendone.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:30 EDT 2011
-Reason Code: IE
+TECHNICAL CONTACT INFO
+Wolf Creek Brewing Company
+Carrie Junod
+ 27746 North McBean Pkwy
+Valencia
+CA
+91354
+US
+Phone:         +1.6612639653
+Email Address: ckj73@sbcglobal.net
+
+BILLING CONTACT INFO
+Wolf Creek Brewing Company
+Carrie Junod
+ 27746 North McBean Pkwy
+Valencia
+CA
+91354
+US
+Phone:         +1.6612639653
+Email Address: ckj73@sbcglobal.net
+
+Timestamp: 1316051617.7328
+
+The Data in the Spot Domain LLC WHOIS database is provided by Spot Domain LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Spot Domain LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Spot Domain LLC (or its systems). Spot Domain LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-14T19:53:37-06:00
