@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-jul-2006
    Expiration Date: 19-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 16:13:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:32:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Rent-A-Center
-   5501 Headquarters Drive
-   Plano, Texas 75024
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: RACACCEPTANCE.COM
-      Created on: 19-Jul-06
-      Expires on: 19-Jul-13
-      Last Updated on: 07-Jun-11
-
-   Administrative Contact:
-      West, Inc, Rent-A-Center  domains@racenter.com
-      Rent-A-Center
-      5501 Headquarters Drive
-      Plano, Texas 75024
-      United States
-      +1.9728011100      Fax --
-
-   Technical Contact:
-      West, Inc, Rent-A-Center  domains@racenter.com
-      Rent-A-Center
-      5501 Headquarters Drive
-      Plano, Texas 75024
-      United States
-      +1.9728011100      Fax --
 
    Domain servers in listed order:
       AUTH00.NS.UU.NET
       AUTH100.NS.UU.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=RACACCEPTANCE.COM

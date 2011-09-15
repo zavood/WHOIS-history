@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: XTR187D-NORID
+Domain Name................: xtractor.no
+Domain Holder Handle.......: OSA185O-NORID
+Registrar Handle...........: REG318-NORID
+Legal-c Handle.............: RJ1730P-NORID
+Tech-c Handle..............: BH30R-NORID
+Name Server Handle.........: NSOS7H-NORID
+Name Server Handle.........: NSST126H-NORID
+
+Additional information:
+Created:         2005-11-24
+Last updated:    2010-11-26
+
+NORID Handle...............: OSA185O-NORID
+Type.......................: organization
+Name.......................: ONLINE SERVICES AS
+Id Type....................: organization_number
+Id Number..................: 984902409
+Registrar Handle...........: REG318-NORID
+Post Address...............: ONLINE SERVICES AS, Frognerseterveien 3 B
+Postal Code................: NO-0319
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22144590
+Email Address..............: postmaster@sokemotor.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: STR2315D-NORID
+Domain Name................: strynibilder.no
+Domain Holder Handle.......: MMMS7O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: MS3349P-NORID
+Tech-c Handle..............: MS3349P-NORID
+Name Server Handle.........: NSSU137H-NORID
+Name Server Handle.........: NSSU49H-NORID
+Name Server Handle.........: NSSU93H-NORID
+
+Additional information:
+Created:         2006-07-14
+Last updated:    2011-06-14
+
+NORID Handle...............: MMMS7O-NORID
+Type.......................: organization
+Name.......................: MABSA MEDIA Martin Sandal
+Id Type....................: organization_number
+Id Number..................: 990044805
+Registrar Handle...........: REG42-NORID
+Post Address...............: postboks 95
+Postal Code................: NO-6781
+Postal Area................: STRYN
+Country....................: NO
+Mobile Phone Number........: +47.91159195
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
