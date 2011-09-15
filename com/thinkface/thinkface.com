@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELEVEN2.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.180SERVERS.COM
-   Name Server: NS2.180SERVERS.COM
+   Domain Name: THINKFACE.COM
+   Registrar: NETDORM, INC. DBA DNSEXIT.COM
+   Whois Server: whois.netdorm.com
+   Referral URL: http://www.netdorm.com
+   Name Server: NS1.NETDORM.COM
+   Name Server: NS2.NETDORM.COM
+   Name Server: NS3.NETDORM.COM
+   Name Server: NS4.NETDORM.COM
    Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 03-may-2003
-   Expiration Date: 03-may-2012
+   Updated Date: 20-jun-2011
+   Creation Date: 24-jul-2007
+   Expiration Date: 24-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:51:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:53:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +53,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about eleven2.com
-&lt;a href=&quot;http://www.aboutus.org/eleven2.com&quot;&gt;AboutUs: eleven2.com&lt;/a&gt;
+Registration at: http://www.dnsExit.com
+With Free Dynamic DNS services to allow running websites on home PC.
+
+Domain:            thinkface.com
+Registration Date: 2007-07-24
+Expiration Date:   2013-07-24
+
+Registrant
+ Lisa Zheng
+ jchen@dnsexit.com
+ ND
+ 988 Eight Mile Rd
+ Cincinnati OH, 45255
+ +1.8595728480
+ CA
+
+Administrative Contacts
+ Lisa Zheng
+ jchen@dnsexit.com
+ ND
+ 988 Eight Mile Rd
+ Cincinnati OH, 45255
+ CA
+ +1.8595728480
+
+Billing Contacts
+ Lisa Zheng
+ jchen@dnsexit.com
+ ND
+ 988 Eight Mile Rd
+ Cincinnati OH, 45255
+ CA
+ +1.8595728480
+
+Domain Name Servers
+ ns1.netdorm.com
+ ns2.netdorm.com
+ ns3.netdorm.com
+ ns4.netdorm.com
 
 
-Domain name: eleven2.com
-
-Registrant Contact:
-   Eleven2, Inc.
-   Rodney Giles ()
-
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
-
-Administrative Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
-
-Technical Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
-
-Status: Locked
-
-Name Servers:
-   ns1.180servers.com
-   ns2.180servers.com
-
-Creation date: 03 May 2003 18:04:34
-Expiration date: 03 May 2012 18:04:34
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Note: Automated collection of data from this database is strictly prohibited.

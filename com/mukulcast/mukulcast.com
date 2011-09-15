@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELEVEN2.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.180SERVERS.COM
-   Name Server: NS2.180SERVERS.COM
+   Domain Name: MUKULCAST.COM
+   Registrar: GABIA, INC.
+   Whois Server: whois.gabia.com
+   Referral URL: http://www.gabia.com
+   Name Server: NS19.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS29.DNSEVER.COM
+   Name Server: NS31.DNSEVER.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 03-may-2003
-   Expiration Date: 03-may-2012
+   Updated Date: 01-may-2011
+   Creation Date: 01-may-2001
+   Expiration Date: 01-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:51:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:53:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,70 +54,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about eleven2.com
-&lt;a href=&quot;http://www.aboutus.org/eleven2.com&quot;&gt;AboutUs: eleven2.com&lt;/a&gt;
+Welcome to GABIA.COM's WHOIS data service.
 
+The Data in Gabia' WHOIS database is provided by Gabia
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-Domain name: eleven2.com
+Registrant : JUNG Kyung Hyo
+	Daechi 4(sa)-dong Seolleung-Yuk Dae-Woo i-Vill 1311(Ho)., Gangnam-gu, Seoul
+	(135839)
 
-Registrant Contact:
-   Eleven2, Inc.
-   Rodney Giles ()
+	Domain Name:  MUKULCAST.COM
+	Registrar:  Gabia,Inc. (GABIA.COM)
 
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+	Administrative, Technical, Billing Contact:
+		JUNG Kyung Hyo	nextboys@mukulcast.com
+		Sillim 11(sibil)-dong, Gwanak-gu, Seoul
+		(Tel) 016-548-8488	(fax)
 
-Administrative Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+	Record created on 	may       01, 2001
+	Record expires on 	2014-05-02
+	Record last updated on 	2011-05-02
 
-Technical Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+	Domain servers in listed order:
 
-Status: Locked
+	ns19.dnsever.com
+	ns29.dnsever.com
+	ns31.dnsever.com
+	ns231.dnsever.com
 
-Name Servers:
-   ns1.180servers.com
-   ns2.180servers.com
+Register a domain name at www.gabia.com
 
-Creation date: 03 May 2003 18:04:34
-Expiration date: 03 May 2012 18:04:34
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+ &lt;a href='http://www.gabia.com/ad.php?ad=AD-0013763' target='_blank'&gt;&lt;img src='http://domain.gabia.com/images/domain_s.gif' border='0'&gt;&lt;/a&gt;

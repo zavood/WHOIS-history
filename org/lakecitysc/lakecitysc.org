@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D47268491-LROR
+Domain Name:LAKECITYSC.ORG
+Created On:11-Dec-2000 15:27:15 UTC
+Last Updated On:10-May-2011 13:31:50 UTC
+Expiration Date:11-Dec-2011 15:27:15 UTC
+Sponsoring Registrar:The Registry at Info Avenue d/b/a Spirit Telecom (R111-LROR)
+Status:OK
+Registrant ID:DI_11356514
+Registrant Name:Steven Shinall
+Registrant Organization:WebsWorldWide.net
+Registrant Street1:1397 Barnwell Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sumter
+Registrant State/Province:South Carolina
+Registrant Postal Code:29154
+Registrant Country:US
+Registrant Phone:+1.8034992108
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:steve@websworldwide.net
+Admin ID:DI_11356514
+Admin Name:Steven Shinall
+Admin Organization:WebsWorldWide.net
+Admin Street1:1397 Barnwell Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Sumter
+Admin State/Province:South Carolina
+Admin Postal Code:29154
+Admin Country:US
+Admin Phone:+1.8034992108
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:steve@websworldwide.net
+Tech ID:DI_11356514
+Tech Name:Steven Shinall
+Tech Organization:WebsWorldWide.net
+Tech Street1:1397 Barnwell Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Sumter
+Tech State/Province:South Carolina
+Tech Postal Code:29154
+Tech Country:US
+Tech Phone:+1.8034992108
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:steve@websworldwide.net
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

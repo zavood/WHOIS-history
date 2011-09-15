@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ELEVEN2.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.180SERVERS.COM
-   Name Server: NS2.180SERVERS.COM
-   Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 03-may-2003
-   Expiration Date: 03-may-2012
+   Domain Name: NIGHTSKYOBSERVER.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: NS1.BRAVEHOST.COM
+   Name Server: NS2.BRAVEHOST.COM
+   Status: ok
+   Updated Date: 28-feb-2011
+   Creation Date: 28-feb-2001
+   Expiration Date: 28-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:51:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:52:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,56 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about eleven2.com
-&lt;a href=&quot;http://www.aboutus.org/eleven2.com&quot;&gt;AboutUs: eleven2.com&lt;/a&gt;
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-Domain name: eleven2.com
+Domain name: nightskyobserver.com
 
 Registrant Contact:
-   Eleven2, Inc.
-   Rodney Giles ()
-
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+      Gary    Nugent
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Churchtown
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      g3rtm58w6vmpeufa@private-contact.com
 
 Administrative Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+      Gary    Nugent
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Churchtown
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      x9yj6qys8nwgcifz@private-contact.com
 
 Technical Contact:
-   Eleven2, Inc.
-   Rodney Giles (domains@eleven2.com)
-   +1.2813744960
-   Fax:
-   17018 Seven Pines Drive
-   Suite 600
-   Spring, TX 77379
-   US
+      Gary    Nugent
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Churchtown
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      tg0pmhobhft1b3l1@private-contact.com
 
-Status: Locked
-
-Name Servers:
-   ns1.180servers.com
-   ns2.180servers.com
-
-Creation date: 03 May 2003 18:04:34
-Expiration date: 03 May 2012 18:04:34
+Update date: 2011-02-28
+Expiration date: 2012-02-29
 
 
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -117,4 +111,3 @@ consent from us.
 
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
