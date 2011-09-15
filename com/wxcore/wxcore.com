@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XDMET.COM
+   Domain Name: WXCORE.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS15.HICHINA.COM
-   Name Server: DNS16.HICHINA.COM
+   Name Server: DNS23.HICHINA.COM
+   Name Server: DNS24.HICHINA.COM
    Status: ok
-   Updated Date: 20-apr-2011
-   Creation Date: 05-may-2010
-   Expiration Date: 05-may-2012
+   Updated Date: 18-apr-2011
+   Creation Date: 17-jan-2011
+   Expiration Date: 17-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:54:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:49:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,31 +51,31 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... xdmet.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc134212842-cn
-Registrant Name ................. na zhiwei
-Registrant Organization ......... A popular thespace technology service Co., LTD
-Registrant Address .............. National stadium, honghe natatorium upstairs
-Registrant City ................. GejiuCity
-Registrant Province/State ....... yunnan
-Registrant Postal Code .......... 661000
+Domain Name ..................... wxcore.com
+Name Server ..................... dns23.hichina.com
+                                  dns24.hichina.com
+Registrant ID ................... hc079164397-cn
+Registrant Name ................. DAN DI
+Registrant Organization ......... wuxi dahe Technology Co., Ltd.
+Registrant Address .............. Taihu Lake in Wuxi City, Jiangsu Province, Lan Bao Yuan Road, No. 15
+Registrant City ................. wuxi
+Registrant Province/State ....... jiangsu
+Registrant Postal Code .......... 216000
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.08732217688 -
-Registrant Fax .................. +86.08732217699 -
-Registrant Email ................ ynewxj@qq.com
-Administrative ID ............... hc134212842-cn
-Administrative Name ............. na zhiwei
-Administrative Organization ..... A popular thespace technology service Co., LTD
-Administrative Address .......... National stadium, honghe natatorium upstairs
-Administrative City ............. GejiuCity
-Administrative Province/State ... yunnan
-Administrative Postal Code ...... 661000
+Registrant Phone Number ......... +86.051085182525 -
+Registrant Fax .................. +86.051085182525 -
+Registrant Email ................ dandy8806@yahoo.com.cn
+Administrative ID ............... hc079164397-cn
+Administrative Name ............. DAN DI
+Administrative Organization ..... wuxi dahe Technology Co., Ltd.
+Administrative Address .......... Taihu Lake in Wuxi City, Jiangsu Province, Lan Bao Yuan Road, No. 15
+Administrative City ............. wuxi
+Administrative Province/State ... jiangsu
+Administrative Postal Code ...... 216000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.08732217688 -
-Administrative Fax .............. +86.08732217699 -
-Administrative Email ............ ynewxj@qq.com
+Administrative Phone Number ..... +86.051085182525 -
+Administrative Fax .............. +86.051085182525 -
+Administrative Email ............ dandy8806@yahoo.com.cn
 Billing ID ...................... hichina001-cn
 Billing Name .................... hichina
 Billing Organization ............ HiChina Web Solutions Limited
@@ -102,4 +102,4 @@ Technical Country Code .......... CN
 Technical Phone Number .......... +86.01064242299 -
 Technical Fax ................... +86.01064258796 -
 Technical Email ................. domainadm@hichina.com
-Expiration Date ................. 2012-05-05 06:19:19
+Expiration Date ................. 2021-01-17 17:00:25

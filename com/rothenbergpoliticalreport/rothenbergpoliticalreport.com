@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CLEARFLOW.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.CLEARFLOW.COM
-   Name Server: NS2.CLEARFLOW.COM
+   Domain Name: ROTHENBERGPOLITICALREPORT.COM
+   Registrar: DOMAINPEOPLE, INC.
+   Whois Server: whois.domainpeople.com
+   Referral URL: http://www.domainpeople.com
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 04-jan-2000
-   Expiration Date: 04-jan-2012
+   Updated Date: 24-jan-2011
+   Creation Date: 28-jan-2003
+   Expiration Date: 28-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:55:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:50:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,62 +54,55 @@ Registrars.
 =-=-=-=
 
 
-Domain name: clearflow.com
+Domain name: rothenbergpoliticalreport.com
 
 Registrant Contact:
-   ClearFlow
-   NULL NULL ()
+   The Rothenberg Political Report
+   Domain Administrator ()
 
    Fax:
-   One Blue Hill Plaza, 5th Floor
-   Perl River, NY 10965
+   13305 Morning Field Way
+   POTOMAC, MD 20854
    US
 
 Administrative Contact:
-   Clearflow.com
-   Technical Contact (postmaster@clearflow.com)
-   845-620-1212
+   The Rothenberg Political Report
+   Domain Administrator (srpolitics@aol.com)
+   +1.2025462822
    Fax:
-   One Blue Hill Plaza, 5th Floor
-   Pearl River, NY 10965
+   13305 Morning Field Way
+   POTOMAC, MD 20854
    US
 
 Technical Contact:
-   Clearflow.com
-   Technical Contact (postmaster@clearflow.com)
-   845-620-1212
+   WinSave
+   Domain Tech (domaintech@winsave.com)
+   +1.9543348000
    Fax:
-   One Blue Hill Plaza, 5th Floor
-   Pearl River, NY 10965
+   3250 W. Commercial Blvd.
+   Ft. Lauderdale, FL 33309
    US
 
 Status: Locked
 
 Name Servers:
-   ns1.clearflow.com
-   ns2.clearflow.com
+   ns51.1and1.com
+   ns52.1and1.com
 
-Creation date: 04 Jan 2000 17:12:36
-Expiration date: 04 Jan 2012 17:12:00
+Creation date: 28 Jan 2003 00:00:00
+Expiration date: 28 Jan 2012 00:00:00
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+
 =-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
+You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes.  The data in DomainPeople, Inc.'s WHOIS database (&quot;Data&quot;) is provided by DomainPeople, Inc. for information purposes only.  DomainPeople, Inc.
+does not guarantee the accuracy of this Data and it is provided &quot;as- is&quot;.
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via mail, email (spam), telephone or facsimile, or solicitations to entities other than the data recipients own, existing customers; or (2) enable high-volume, automated, electronic processes that apply to DomainPeople, Inc. (or its systems).  The compilation, repackaging, dissemination, distribution or other use of this Data is expressly prohibited without the prior written consent of DomainPeople, Inc.
+
+You agree not to use high-volume, automated, electronic processes to access or query the WHOIS database.  DomainPeople, Inc. reserves the right to terminate your access to the DomainPeople, Inc. WHOIS database in its sole discretion, including without limitation, for excessive querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+DomainPeople, Inc. reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the terms of this policy.

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94662556-LROR
+Domain Name:X-SIDE.ORG
+Created On:19-Feb-2003 15:35:25 UTC
+Last Updated On:15-Sep-2011 10:56:25 UTC
+Expiration Date:19-Feb-2012 15:35:25 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Registrant ID:ABM-10275212
+Registrant Name:Christian Heigele
+Registrant Street1:Bergstrasse 24-1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ulm
+Registrant State/Province:DE
+Registrant Postal Code:89081
+Registrant Country:DE
+Registrant Phone:+49.731385372
+Registrant Phone Ext.:
+Registrant FAX:+49.731385372
+Registrant FAX Ext.:
+Registrant Email:admin@x-side.org
+Admin ID:ABM-10275212
+Admin Name:Christian Heigele
+Admin Street1:Bergstrasse 24-1
+Admin Street2:
+Admin Street3:
+Admin City:Ulm
+Admin State/Province:DE
+Admin Postal Code:89081
+Admin Country:DE
+Admin Phone:+49.731385372
+Admin Phone Ext.:
+Admin FAX:+49.731385372
+Admin FAX Ext.:
+Admin Email:admin@x-side.org
+Tech ID:ABM-565213
+Tech Name:Gregor Lorenz
+Tech Organization:Blue Media Star
+Tech Street1:Bahnhofsplatz 14
+Tech Street2:
+Tech Street3:
+Tech City:Kronach
+Tech State/Province:DE
+Tech Postal Code:96317
+Tech Country:DE
+Tech Phone:+49.9261530561
+Tech Phone Ext.:
+Tech FAX:+49.9261530564
+Tech FAX Ext.:
+Tech Email:info@bluestarhosting.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

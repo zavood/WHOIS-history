@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159249188-LROR
+Domain Name:PLACERUMETAIKO.ORG
+Created On:23-May-2010 19:37:08 UTC
+Last Updated On:03-Apr-2011 17:40:53 UTC
+Expiration Date:23-May-2012 19:37:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:2062a8858a8fd8ec
+Registrant Name:Carolyn  Germino
+Registrant Street1:1008 Mayflower Ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:Roseville
+Registrant State/Province:CA
+Registrant Postal Code:95747
+Registrant Country:US
+Registrant Phone:+1.9167680304
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rolita_gordita@yahoo.com
+Admin ID:2062a8858a8fd8ec
+Admin Name:Carolyn  Germino
+Admin Street1:1008 Mayflower Ct
+Admin Street2:
+Admin Street3:
+Admin City:Roseville
+Admin State/Province:CA
+Admin Postal Code:95747
+Admin Country:US
+Admin Phone:+1.9167680304
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rolita_gordita@yahoo.com
+Tech ID:2062a8858a8fd8ec
+Tech Name:Carolyn  Germino
+Tech Street1:1008 Mayflower Ct
+Tech Street2:
+Tech Street3:
+Tech City:Roseville
+Tech State/Province:CA
+Tech Postal Code:95747
+Tech Country:US
+Tech Phone:+1.9167680304
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rolita_gordita@yahoo.com
+Name Server:NS5.PACIFICHOST.COM
+Name Server:NS6.PACIFICHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
