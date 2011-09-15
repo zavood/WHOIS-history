@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CITYOFPENSACOLA.COM
+   Domain Name: DEWDROPDESIGNS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.APPRIVER.COM
-   Name Server: DNS2.APPRIVER.COM
+   Name Server: NS3.PPCWEBHOST.COM
+   Name Server: NS4.PPCWEBHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 18-nov-2008
-   Creation Date: 18-jun-1999
-   Expiration Date: 18-jun-2014
+   Updated Date: 31-jan-2011
+   Creation Date: 06-feb-1999
+   Expiration Date: 06-feb-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:57:34 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cityofpensacola.com
+Whois Query: dewdropdesigns.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:53:18 EDT 2011
+Date and Time of Query: Wed Sep 14 21:48:22 EDT 2011
 Reason Code: IE

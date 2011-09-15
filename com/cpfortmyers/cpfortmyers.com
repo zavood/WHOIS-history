@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CITYOFPENSACOLA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.APPRIVER.COM
-   Name Server: DNS2.APPRIVER.COM
-   Status: clientTransferProhibited
-   Updated Date: 18-nov-2008
-   Creation Date: 18-jun-1999
-   Expiration Date: 18-jun-2014
+   Domain Name: CPFORTMYERS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.SECURE.NET
+   Name Server: NS2.SECURE.NET
+   Status: ok
+   Updated Date: 22-oct-2010
+   Creation Date: 24-oct-2006
+   Expiration Date: 24-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:57:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:58:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... cpfortmyers.com
+  Creation Date........ 2006-10-25
+  Registration Date.... 2006-10-25
+  Expiry Date.......... 2011-10-25
+  Organisation Name.... Crowne Plaza Fort Myers
+  Organisation Address. 13051 Bell Tower Drive
+  Organisation Address.
+  Organisation Address. Fort Myers
+  Organisation Address. 33907
+  Organisation Address. Florida
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Kent Tewell
+  Admin Address........ 1530 Cypress Drive
+  Admin Address........ Suite B
+  Admin Address........ Jupiter
+  Admin Address........ 33469
+  Admin Address........ Florida
+  Admin Address........ UNITED STATES
+  Admin Email.......... ktewell@letgroup.com
+  Admin Phone.......... (888) 533-3636
+  Admin Fax............ (561) 658-6266
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Kent Tewell
+  Tech Address......... 1530 Cypress Drive
+  Tech Address......... Suite B
+  Tech Address......... Jupiter
+  Tech Address......... 33469
+  Tech Address......... Florida
+  Tech Address......... UNITED STATES
+  Tech Email........... ktewell@letgroup.com
+  Tech Phone........... (888) 533-3636
+  Tech Fax............. (561) 658-6266
+  Name Server.......... ns1.secure.net
+  Name Server.......... ns2.secure.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: cityofpensacola.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:53:18 EDT 2011
-Reason Code: IE

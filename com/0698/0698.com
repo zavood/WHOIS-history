@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CITYOFPENSACOLA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.APPRIVER.COM
-   Name Server: DNS2.APPRIVER.COM
+   Domain Name: 0698.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS3.EASILY.NET
+   Name Server: NS4.EASILY.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-nov-2008
-   Creation Date: 18-jun-1999
-   Expiration Date: 18-jun-2014
+   Updated Date: 28-oct-2010
+   Creation Date: 25-sep-2002
+   Expiration Date: 25-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:57:34 UTC &lt;&lt;&lt;
 
@@ -51,23 +52,33 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain 0698.com:
+  Cykon Technology Limited
+  1007 Richmond Commercial Building, 107-111 Argyle
+  Kowloon, Kowloon 00000 HK
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative contact:
+Technical contact:
+Billing contact:
+  Cykon Technology Limited
+  DNS Administrator
+  admin@cykon.com
+  1007 Richmond Commercial Building, 107-111 Argyle
+  Kowloon, Kowloon 00000 HK
+  Phone: +852.29590898
+  Fax:
 
-http://www.networksolutions.com/whois/index.jhtml
+Record dates:
+  Record created on: 2002-09-25 15:07:47 UTC
+  Record modified on: 2010-10-28 06:10:40 UTC
+  Record expires on: 2011-09-25 UTC
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Nameservers:
+  ns3.easily.net:
+    74.117.112.65
+  ns4.easily.net:
+    74.117.119.65
 
-Whois Query: cityofpensacola.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:53:18 EDT 2011
-Reason Code: IE
+Note: Automated collection of data from this database is strictly prohibited.
+

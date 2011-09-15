@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CITYOFPENSACOLA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.APPRIVER.COM
-   Name Server: DNS2.APPRIVER.COM
-   Status: clientTransferProhibited
-   Updated Date: 18-nov-2008
-   Creation Date: 18-jun-1999
-   Expiration Date: 18-jun-2014
+   Domain Name: DOEHNER.COM
+   Registrar: AZPRIVATEZ, LLC
+   Whois Server: whois.azprivatez.com
+   Referral URL: http://azprivatez.com
+   Name Server: NS.BUYDOMAINS.COM
+   Name Server: THIS-DOMAIN-FOR-SALE.COM
+   Status: ok
+   Updated Date: 10-aug-2011
+   Creation Date: 10-aug-2011
+   Expiration Date: 10-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:57:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:57:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+  Rarenames, Inc.
+  RareNames WebReg      brokerage@buydomains.com
+  738 Main Street, #389
+  Waltham, MA 02451
+  US
+  Tel. +1.7818397993
+  Fax. +1.7818392801
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain Name: doehner.com
+    Creation Date: Aug-10-2011
+    Expiration Date: Aug-10-2012
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+  Administrative Contact, Technical Contact:
+    Rarenames, Inc.
+    RareNames WebReg      brokerage@buydomains.com
+    738 Main Street, #389
+    Waltham, MA 02451
+    US
+    Tel. +1.7818397993
+    Fax. +1.7818392801
 
-Whois Query: cityofpensacola.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:53:18 EDT 2011
-Reason Code: IE
+  Domain servers in listed order::
+    NS.BUYDOMAINS.COM
+    THIS-DOMAIN-FOR-SALE.COM
+
