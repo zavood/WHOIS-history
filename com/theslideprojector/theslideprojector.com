@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KUGOO.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS.KUGOU.NET
-   Name Server: NS1.KUGOU.NET
+   Domain Name: THESLIDEPROJECTOR.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
    Status: ok
-   Updated Date: 05-sep-2011
-   Creation Date: 05-mar-2003
-   Expiration Date: 05-mar-2013
+   Updated Date: 01-jun-2011
+   Creation Date: 01-jun-2005
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:54:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:53:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,68 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Domain Name.......... theslideprojector.com
+  Creation Date........ 2005-06-02
+  Registration Date.... 2005-06-02
+  Expiry Date.......... 2012-06-02
+  Organisation Name.... Denise Johnson
+  Organisation Address. 2211 Corinth Ave
+  Organisation Address.
+  Organisation Address. Los Angeles
+  Organisation Address. 90064
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
 
+Admin Name........... Denise Johnson
+  Admin Address........ 2211 Corinth Ave
+  Admin Address........
+  Admin Address........ Los Angeles
+  Admin Address........ 90064
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... theslideprojector.com@dns-protect.net
+  Admin Phone.......... 888-321-4678
+  Admin Fax............
 
-Registrant:
-	 Guangzhou Kugou Inc gaojin8831@gmail.com +86.02085559005
-	 Guangzhou Kugou Inc
-	 guangzhou
-	 guangzhou,Guangdong,CN 510000
+Tech Name............ Denise Johnson
+  Tech Address......... 2211 Corinth Ave
+  Tech Address.........
+  Tech Address......... Los Angeles
+  Tech Address......... 90064
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... theslideprojector.com@dns-protect.net
+  Tech Phone........... 888-321-4678
+  Tech Fax.............
+  Name Server.......... ns.inmotionhosting.com
+  Name Server.......... ns2.inmotionhosting.com
 
-
-Domain Name:kugoo.com
-Record last updated at 2011-09-05 21:33:09
-Record created on 2003/3/5
-Record expired on 2013/3/5
-
-
-Domain servers in listed order:
-	 ns.kugou.net 	 ns1.kugou.net
-
-Administrator:
-	 name: KuGou Tecnology Information Co. Ltd.
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: KuGou Tecnology Information Co. Ltd.
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
-Technical Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
-Billing Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
 

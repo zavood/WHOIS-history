@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KUGOO.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS.KUGOU.NET
-   Name Server: NS1.KUGOU.NET
-   Status: ok
-   Updated Date: 05-sep-2011
-   Creation Date: 05-mar-2003
-   Expiration Date: 05-mar-2013
+   Domain Name: BLACKMARKETTRAVEL.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS47.WORLDNIC.COM
+   Name Server: NS48.WORLDNIC.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 13-sep-2006
+   Expiration Date: 13-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:54:38 UTC &lt;&lt;&lt;
 
@@ -51,68 +51,27 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
+database through the use of high-volume, automated, electronic processes. The
+Data in Network Solutions' WHOIS database is provided by Network Solutions for information
+purposes only, and to assist persons in obtaining information about or related
+to a domain name registration record. Network Solutions does not guarantee its accuracy.
+By submitting a WHOIS query, you agree to abide by the following terms of use:
+You agree that you may use this Data only for lawful purposes and that under no
+circumstances will you use this Data to: (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or solicitations
+via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+electronic processes that apply to Network Solutions (or its computer systems). The
+compilation, repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of Network Solutions. You agree not to use
+high-volume, automated, electronic processes to access or query the WHOIS
+database. Network Solutions reserves the right to terminate your access to the WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this policy.
+Network Solutions reserves the right to modify these terms at any time.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
 
+http://www.networksolutions.com
 
-Registrant:
-	 Guangzhou Kugou Inc gaojin8831@gmail.com +86.02085559005
-	 Guangzhou Kugou Inc
-	 guangzhou
-	 guangzhou,Guangdong,CN 510000
-
-
-Domain Name:kugoo.com
-Record last updated at 2011-09-05 21:33:09
-Record created on 2003/3/5
-Record expired on 2013/3/5
-
-
-Domain servers in listed order:
-	 ns.kugou.net 	 ns1.kugou.net
-
-Administrator:
-	 name: KuGou Tecnology Information Co. Ltd.
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: KuGou Tecnology Information Co. Ltd.
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
-Technical Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
-Billing Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
+No match for &quot;BLACKMARKETTRAVEL.COM&quot;.

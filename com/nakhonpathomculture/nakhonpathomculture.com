@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KUGOO.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: NS.KUGOU.NET
-   Name Server: NS1.KUGOU.NET
+   Domain Name: NAKHONPATHOMCULTURE.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS10.HOSTINGDYNAMO.NET
+   Name Server: NS9.HOSTINGDYNAMO.NET
    Status: ok
-   Updated Date: 05-sep-2011
-   Creation Date: 05-mar-2003
-   Expiration Date: 05-mar-2013
+   Updated Date: 18-jun-2011
+   Creation Date: 19-jan-2009
+   Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:54:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:54:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,51 +68,42 @@ The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
 
 
 Registrant:
-	 Guangzhou Kugou Inc gaojin8831@gmail.com +86.02085559005
-	 Guangzhou Kugou Inc
-	 guangzhou
-	 guangzhou,Guangdong,CN 510000
+	 Nakhonpathom charinya_p@hotmail.com +66.034340349
+	 Nakhonpathom Provincial Cultural Office
+	 Nakhonpathom Cityhall
+	 Maungnakhonpathom,Nakhon Pathom,TH 7300
 
 
-Domain Name:kugoo.com
-Record last updated at 2011-09-05 21:33:09
-Record created on 2003/3/5
-Record expired on 2013/3/5
+Domain Name:nakhonpathomculture.com
+Record last updated at 2011-01-19 22:59:22
+Record created on 2009/1/19
+Record expired on 2012/1/19
 
 
 Domain servers in listed order:
-	 ns.kugou.net 	 ns1.kugou.net
+	 ns9.hostingdynamo.net 	 ns10.hostingdynamo.net
 
 Administrator:
-	 name: KuGou Tecnology Information Co. Ltd.
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: KuGou Tecnology Information Co. Ltd.
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
+	 Nakhonpathom charinya_p@hotmail.com +66.034340349
+	 Nakhonpathom Provincial Cultural Office
+	 Nakhonpathom Cityhall
+	 Maungnakhonpathom,Nakhon Pathom,TH 7300
 
 Technical Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
-
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
+	 Nakhonpathom charinya_p@hotmail.com +66.034340349
+	 Nakhonpathom Provincial Cultural Office
+	 Nakhonpathom Cityhall
+	 Maungnakhonpathom,Nakhon Pathom,TH 7300
 
 Billing Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
+	 Nakhonpathom charinya_p@hotmail.com +66.034340349
+	 Nakhonpathom Provincial Cultural Office
+	 Nakhonpathom Cityhall
+	 Maungnakhonpathom,Nakhon Pathom,TH 7300
 
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
 
+Registration Service Provider:
+	name: Hosting Dynamo
+	tel: +66.65673201
+ 	fax: +66.29403279
+ 	web:http://www.hostingdynamo.com
