@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 03:50:22 (BRT -03:00)
+
+domain:      opalacluberj.com.br
+owner:       ASSOCIA&Ccedil;&Atilde;O OPALA CLUBE DO RIO DE JANEIRO
+ownerid:     005.299.191/0001-58
+responsible: Marcus Vinicius
+country:     BR
+owner-c:     MVOSO2
+admin-c:     MVOSO2
+tech-c:      MVOSO2
+billing-c:   MVOSO2
+nserver:     dns1.marcusvinicius.net.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     dns2.marcusvinicius.net.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20050610 #2197318
+expires:     20120610
+changed:     20110620
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  MVOSO2
+person:      Marcus Vinicius de Oliveira Souza
+e-mail:      mvsouza86@gmail.com
+created:     20080227
+changed:     20080506
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

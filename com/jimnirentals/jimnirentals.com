@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WEBS.COM.VRSINSPIRATIONALTHINGS.COM
-WEBS.COM.VN
-WEBS.COM.TRANSFORMEDWEB.COM
-WEBS.COM.KHAOTICSOUNDS.COM
-WEBS.COM.JUST-4-FUNPAGES.COM
-WEBS.COM
+   Domain Name: JIMNIRENTALS.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: A.AUTH-NS.SONIC.NET
+   Name Server: B.AUTH-NS.SONIC.NET
+   Name Server: C.AUTH-NS.SONIC.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-jul-2011
+   Creation Date: 25-jul-2003
+   Expiration Date: 25-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:51:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:49:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

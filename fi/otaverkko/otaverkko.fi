@@ -1,0 +1,17 @@
+
+domain:   otaverkko.fi
+descr:    Otaverkko Oy
+descr:    14412655
+address:  Internet-tunnukset
+address:  Mets&auml;nneidonkuja 6
+address:  02130
+address:  ESPOO
+phone:    0207 42 43 44
+status:   Granted
+created:  5.3.1998
+expires:  31.8.2012
+nserver: ns1.otaverkko.fi [OK] 212.68.0.10
+nserver: ns2.otaverkko.fi [OK] 212.68.17.85
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

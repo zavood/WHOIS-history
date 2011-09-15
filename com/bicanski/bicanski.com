@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-WEBS.COM.VRSINSPIRATIONALTHINGS.COM
-WEBS.COM.VN
-WEBS.COM.TRANSFORMEDWEB.COM
-WEBS.COM.KHAOTICSOUNDS.COM
-WEBS.COM.JUST-4-FUNPAGES.COM
-WEBS.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:51:14 UTC &lt;&lt;&lt;
+No match for &quot;BICANSKI.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:49:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
