@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:18:50 2011
+
+domain:       hknet.cz
+registrant:   SB:HKNET
+admin-c:      JA11-RIPE
+admin-c:      LR66-RIPE
+nsset:        NSS:HKNET:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   15.11.1997 01:00:00
+changed:      05.06.2009 10:45:41
+expire:       20.10.2011
+
+contact:      SB:HKNET
+org:          Universita Karlova - Farmaceuticka fakulta, HKNET
+name:         Universita Karlova - Farmaceuticka fakulta, HKNET
+address:      Heyrovsk&Atilde;&copy;ho 1203
+address:      Hradec Kr&Atilde;&iexcl;lov&Atilde;&copy;
+address:      500 05
+address:      CZ
+e-mail:       andrs@faf.cuni.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      23.10.2006 09:15:00
+
+contact:      JA11-RIPE
+name:         Jindrich Andrs
+address:      CZ
+phone:        +420.495518123
+fax-no:       +420.495518123
+e-mail:       andrs@hknet.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      22.10.2004 13:25:00
+
+contact:      LR66-RIPE
+name:         Ladislav Rudisar
+address:      CZ
+phone:        +420 495517021 ext. 255
+fax-no:       +420 495518002
+e-mail:       rudisar@faf.cuni.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:HKNET:1
+nserver:      ns.hknet.cz (195.113.115.171)
+nserver:      ns2.hknet.cz (195.113.115.174)
+nserver:      ns.ces.net
+tech-c:       JA11-RIPE
+registrar:    REG-GENREG
+created:      05.06.2009 10:36:02
+changed:      18.06.2009 14:03:12
+
+
