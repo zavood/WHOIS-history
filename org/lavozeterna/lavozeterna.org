@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71788387-LROR
+Domain Name:LAVOZETERNA.ORG
+Created On:02-Jun-2001 14:29:15 UTC
+Last Updated On:04-Mar-2011 15:07:27 UTC
+Expiration Date:02-Jun-2012 14:29:15 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:704271006B074B49
+Registrant Name:Sue Mozley
+Registrant Organization:La Voz Eterna Publications
+Registrant Street1:P. O. Box 15218
+Registrant Street2:6011 Lyons Ave.
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:Texas
+Registrant Postal Code:77220
+Registrant Country:US
+Registrant Phone:+1.7136747172
+Registrant Phone Ext.:
+Registrant FAX:+1.7136746545
+Registrant FAX Ext.:
+Registrant Email:lavozeterna@aol.com
+Admin ID:704271006B074B49
+Admin Name:Sue Mozley
+Admin Organization:La Voz Eterna Publications
+Admin Street1:P. O. Box 15218
+Admin Street2:6011 Lyons Ave.
+Admin Street3:
+Admin City:Houston
+Admin State/Province:Texas
+Admin Postal Code:77220
+Admin Country:US
+Admin Phone:+1.7136747172
+Admin Phone Ext.:
+Admin FAX:+1.7136746545
+Admin FAX Ext.:
+Admin Email:lavozeterna@aol.com
+Tech ID:704271006B074B49
+Tech Name:Sue Mozley
+Tech Organization:La Voz Eterna Publications
+Tech Street1:P. O. Box 15218
+Tech Street2:6011 Lyons Ave.
+Tech Street3:
+Tech City:Houston
+Tech State/Province:Texas
+Tech Postal Code:77220
+Tech Country:US
+Tech Phone:+1.7136747172
+Tech Phone Ext.:
+Tech FAX:+1.7136746545
+Tech FAX Ext.:
+Tech Email:lavozeterna@aol.com
+Name Server:NS.ADDR.COM
+Name Server:NS2.ADDR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

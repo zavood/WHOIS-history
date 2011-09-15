@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
+   Domain Name: FAMOUSPAINTINGS.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.PEER1.NET
+   Name Server: NS2.PEER1.NET
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Updated Date: 03-feb-2011
+   Creation Date: 04-mar-2003
+   Expiration Date: 04-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
 
@@ -55,38 +53,86 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: FAMOUSPAINTINGS.COM
+Registrar: MONIKER
+
+Registrant [4622]:
+        Netcorp Netcorp email816@aol.com
+        THIS DOMAIN MAY BE FOR SALE
+        P.O. Box 251506
+        Glendale
+        CA
+        91225
+        US
 
 
-Registrant:
-   Joshua Opperman
+Administrative Contact [4622]:
+        Netcorp Netcorp email816@aol.com
+        THIS DOMAIN MAY BE FOR SALE
+        P.O. Box 251506
+        Glendale
+        CA
+        91225
+        US
+        Phone: +1.8185499839
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
 
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
+Billing Contact [4622]:
+        Netcorp Netcorp email816@aol.com
+        THIS DOMAIN MAY BE FOR SALE
+        P.O. Box 251506
+        Glendale
+        CA
+        91225
+        US
+        Phone: +1.8185499839
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM
+Technical Contact [4622]:
+        Netcorp Netcorp email816@aol.com
+        THIS DOMAIN MAY BE FOR SALE
+        P.O. Box 251506
+        Glendale
+        CA
+        91225
+        US
+        Phone: +1.8185499839
+
+
+Domain servers in listed order:
+
+        NS1.PEER1.NET
+        NS2.PEER1.NET
+
+        Record created on:        2003-03-04 14:10:00.0
+        Database last updated on: 2011-02-03 18:04:53.517
+        Domain Expires on:        2012-03-04 14:10:00.0
+
+
+

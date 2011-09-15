@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
+   Domain Name: BOARDRIDERLOUNGE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS1.GIPPY.NET
+   Name Server: NS2.GIPPY.NET
+   Name Server: NS3.GIPPY.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Updated Date: 23-oct-2008
+   Creation Date: 09-sep-2008
+   Expiration Date: 09-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
 
@@ -77,16 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Joshua Opperman
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
+   Domain Name: BOARDRIDERLOUNGE.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
+      NS1.GIPPY.NET
+      NS2.GIPPY.NET
+      NS3.GIPPY.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=BOARDRIDERLOUNGE.COM

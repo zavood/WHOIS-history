@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
+   Domain Name: OFCARD.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.DNSV2.COM
+   Name Server: NS2.DNSV2.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Updated Date: 27-aug-2011
+   Creation Date: 15-sep-2003
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:49:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
+Domain name: ofcard.com
 
-Registrant:
-   Joshua Opperman
+Registrant Contact:
+   shizhengchuan
+   shizhengchuan shizhengchuan shizhengchuan@gmail.com
+   13705160066 fax: 025-68586301
+   Huangpukeji building, 21# floor, Nanjing Huangpu road
+   Nanjing Jiangsu 210016
+   China
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
+Administrative Contact:
+   Zhengchuan Shi shizhengchuan@gmail.com
+   13705160066 fax: 025-68586301
+   Huangpukeji building, 21# floor, Nanjing Huangpu road
+   Nanjing Jiangsu 210016
+   cn
 
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
+Technical Contact:
+   Zhengchuan Shi shizhengchuan@gmail.com
+   13705160066 fax: 025-68586301
+   Huangpukeji building, 21# floor, Nanjing Huangpu road
+   Nanjing Jiangsu 210016
+   cn
 
+Billing Contact:
+   Zhengchuan Shi shizhengchuan@gmail.com
+   13705160066 fax: 025-68586301
+   Huangpukeji building, 21# floor, Nanjing Huangpu road
+   Nanjing Jiangsu 210016
+   cn
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM
+DNS:
+ns1.dnsv2.com
+ns2.dnsv2.com
+
+Created: 2006-01-31
+Expires: 2012-09-16

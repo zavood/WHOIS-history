@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Domain Name: ZEROFREAK.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.GISH.COM.AU
+   Name Server: NS2.GISH.COM.AU
+   Status: ok
+   Updated Date: 11-may-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
+
+   Domain Name: ZEROFREAK.COM
+      Reseller..............: Gish
+      Created on............: 1 Jul 2010 11:41:26 EST
+      Expires on............: 1 Jul 2012 11:41:26 EST
+      Record last updated on: 12 May 2011 09:53:16 EST
+      Status................: ACTIVE
 
 
-Registrant:
-   Joshua Opperman
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      Loughlan Burnett (ID00172028)
+      c/o PlanetDomain
+      Melbourne, Victoria 3000
+      Australia
+      Phone: +61.399234163
+      Email: loughlan@gmail.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
 
+      NS1.GISH.COM.AU
+      NS2.GISH.COM.AU
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM

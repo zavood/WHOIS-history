@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Domain Name: HOFFERIEN.COM
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS5.KASSERVER.COM
+   Name Server: NS6.KASSERVER.COM
+   Status: ok
+   Updated Date: 30-jun-2011
+   Creation Date: 29-jun-2004
+   Expiration Date: 29-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
 
@@ -55,38 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
+domain:          hofferien.com
+nserver:         ns5.kasserver.com
+nserver:         ns6.kasserver.com
+created:         2004-06-29
+updated:         2010-05-26
 
-Registrant:
-   Joshua Opperman
+owner-id:        HK591791
+owner-org:       BOHEMAmarktpraesenz e.k.
+owner-name:      herbert kupferschmid
+owner-address:   neuhauser str. 74
+owner-pcode:     78576
+owner-city:      emmingen-liptingen
+owner-country:   DE
+owner-phone:     +49 7465 2233
+owner-fax:       +49 7465 2263
+owner-email:     markt@bohema.net
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
+admin-id:        HK591791
+admin-org:       BOHEMAmarktpraesenz e.k.
+admin-name:      herbert kupferschmid
+admin-address:   neuhauser str. 74
+admin-pcode:     78576
+admin-city:      emmingen-liptingen
+admin-country:   DE
+admin-phone:     +49 7465 2233
+admin-fax:       +49 7465 2263
+admin-email:     markt@bohema.net
 
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
+tech-id:         HK591791
+tech-org:        BOHEMAmarktpraesenz e.k.
+tech-name:       herbert kupferschmid
+tech-address:    neuhauser str. 74
+tech-pcode:      78576
+tech-city:       emmingen-liptingen
+tech-country:    DE
+tech-phone:      +49 7465 2233
+tech-fax:        +49 7465 2263
+tech-email:      markt@bohema.net
 
+billing-id:      HK591791
+billing-org:     BOHEMAmarktpraesenz e.k.
+billing-name:    herbert kupferschmid
+billing-address: neuhauser str. 74
+billing-pcode:   78576
+billing-city:    emmingen-liptingen
+billing-country: DE
+billing-phone:   +49 7465 2233
+billing-fax:     +49 7465 2263
+billing-email:   markt@bohema.net
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM

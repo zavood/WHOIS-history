@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150190827-LROR
+Domain Name:OEKOLISTE.ORG
+Created On:05-Dec-2007 19:32:08 UTC
+Last Updated On:06-Dec-2010 01:23:03 UTC
+Expiration Date:05-Dec-2011 19:32:08 UTC
+Sponsoring Registrar:Cronon AG (R110-LROR)
+Status:OK
+Registrant ID:OWN7550-ABC
+Registrant Name:Pankonin Ralf-Sven
+Registrant Organization:Bauherrengemeinsch. Kahla GbR
+Registrant Street1:Im Camisch 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kahla
+Registrant State/Province:Germany
+Registrant Postal Code:07768
+Registrant Country:DE
+Registrant Phone:+49.3642452656
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:imcamisch8@yahoo.de
+Admin ID:RP349-ABC
+Admin Name:Pankonin Ralf-Sven
+Admin Street1:Im Camisch 8
+Admin Street2:
+Admin Street3:
+Admin City:Kahla
+Admin State/Province:Germany
+Admin Postal Code:07768
+Admin Country:DE
+Admin Phone:+49.3642452656
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:imcamisch8@yahoo.de
+Tech ID:HR151-ABC
+Tech Name:Hostmaster Strato Rechenzentrum
+Tech Organization:Cronon AG Professional IT-Services
+Tech Street1:Emmy-Noether-Str. 10
+Tech Street2:
+Tech Street3:
+Tech City:Karlsruhe
+Tech State/Province:Germany
+Tech Postal Code:76131
+Tech Country:DE
+Tech Phone:+49.72166320305
+Tech Phone Ext.:
+Tech FAX:+49.72166320303
+Tech FAX Ext.:
+Tech Email:hostmaster@cronon-isp.net
+Name Server:SHADES15.RZONE.DE
+Name Server:DOCKS19.RZONE.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

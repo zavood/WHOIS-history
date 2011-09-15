@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
+   Domain Name: GREYBULLSTANDARD.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS1.IHOSTASP.NET
+   Name Server: NS2.IHOSTASP.NET
+   Name Server: NS3.IHOSTASP.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Updated Date: 04-nov-2010
+   Creation Date: 02-jan-2004
+   Expiration Date: 02-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
 
@@ -77,16 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Joshua Opperman
+   Etenex
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
+   Domain Name: GREYBULLSTANDARD.COM
 
    Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
+      NS1.IHOSTASP.NET
+      NS2.IHOSTASP.NET
+      NS3.IHOSTASP.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GREYBULLSTANDARD.COM

@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IDONOWIDONT.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: TAKT8.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NS1.ROCKETNET.JP
+   Name Server: NS2.ROCKETNET.JP
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 09-aug-2011
-   Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2013
+   Updated Date: 28-feb-2011
+   Creation Date: 10-dec-2010
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:50:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:49:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,38 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: takt8.com
+Created On: 2010-12-10 12:25:02.0
+Last Updated On: 2011-02-28 18:54:59.0
+Expiration Date: 2011-12-10 00:25:02.0
+Status: ACTIVE
+Registrant Name: RocketNet CustomerServiceCenter
+Registrant Organization: GMO CLOUD K.K.
+Registrant Street1: 26-1 Cerulean Tower
+Registrant Street2:
+Registrant City: Shibuya-ku Sakuragaoka-cho
+Registrant State: Tokyo
+Registrant Postal Code: 150-8512
+Registrant Country: JP
+Registrant Phone: 03-64156100
+Registrant Fax:
+Registrant Email: domain@rocketnet.jp
+Admin Name: CustomerServiceCenter RocketNet
+Admin Organization: GMO CLOUD K.K.
+Admin Street1: 26-1 Cerulean Tower
+Admin Street2:
+Admin City: Shibuya-ku Sakuragaoka-cho
+Admin State: Tokyo
+Admin Postal Code: 150-8512
+Admin Country: JP
+Admin Phone: 03-64156100
+Admin Fax:
+Admin Email: domain@rocketnet.jp
+Billing Name: CustomerServiceCenter RocketNet
+Billing Organization: GMO CLOUD K.K.
+Billing Street1: 26-1 Cerulean Tower
+Billing Street2:
+Billing City: Shibuya-ku Sakuragaoka-cho
+Billing State: Tokyo
+Billing Postal Code: 150-8512
+Billing Country: JP
+Billing Phone: 03-64156100
+Billing Fax:
+Billing Email: domain@rocketnet.jp
+Tech Name: CustomerServiceCenter RocketNet
+Tech Organization: GMO CLOUD K.K.
+Tech Street1: 26-1 Cerulean Tower
+Tech Street2:
+Tech City: Shibuya-ku Sakuragaoka-cho
+Tech State: Tokyo
+Tech Postal Code: 150-8512
+Tech Country: JP
+Tech Phone: 03-64156100
+Tech Fax:
+Tech Email: domain@rocketnet.jp
+Name Server: ns1.rocketnet.jp
+Name Server: ns2.rocketnet.jp
 
-Registrant:
-   Joshua Opperman
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IDONOWIDONT.COM
-
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IDONOWIDONT.COM
