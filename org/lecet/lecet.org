@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92122-LROR
+Domain Name:LECET.ORG
+Created On:21-Aug-1996 04:00:00 UTC
+Last Updated On:18-Jun-2010 19:50:43 UTC
+Expiration Date:20-Aug-2019 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24207045-NSI
+Registrant Name:LECET
+Registrant Organization:LECET
+Registrant Street1:905 16 st. NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20006
+Registrant Country:US
+Registrant Phone:+1.2027833545
+Registrant Phone Ext.:
+Registrant FAX:+1.2023471721
+Registrant FAX Ext.:
+Registrant Email:katey@LECET.ORG
+Admin ID:24207048-NSI
+Admin Name:Katey Bailey
+Admin Organization:LECET
+Admin Street1:905 16TH ST NW
+Admin Street2:1st Floor
+Admin Street3:
+Admin City:WASHINGTON
+Admin State/Province:DC
+Admin Postal Code:20006-1703
+Admin Country:US
+Admin Phone:+1.2027833545
+Admin Phone Ext.:
+Admin FAX:+1.2023471721
+Admin FAX Ext.:
+Admin Email:katey@LECET.ORG
+Tech ID:33907434-NSI
+Tech Name:Stephen Metts
+Tech Street1:905 16th Street NW
+Tech Street2:1st Floor
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20006
+Tech Country:US
+Tech Phone:+1.2025084400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:smetts@lecet.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

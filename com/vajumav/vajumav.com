@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LENNOXINTL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 20-may-2008
-   Creation Date: 23-jul-1995
-   Expiration Date: 22-jul-2013
+   Domain Name: VAJUMAV.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
+   Status: ok
+   Updated Date: 26-jul-2011
+   Creation Date: 21-oct-2010
+   Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:11:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... vajumav.com
+  Creation Date........ 2010-10-22
+  Registration Date.... 2010-10-22
+  Expiry Date.......... 2011-10-22
+  Organisation Name.... Jeff Hankins
+  Organisation Address. 451 Westwood Dr
+  Organisation Address.
+  Organisation Address. frankfort
+  Organisation Address. 40601
+  Organisation Address. ky
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Jeff Hankins
+  Admin Address........ 451 Westwood Dr
+  Admin Address........
+  Admin Address........ frankfort
+  Admin Address........ 40601
+  Admin Address........ ky
+  Admin Address........ UNITED STATES
+  Admin Email.......... xajadyf@yahoo.com
+  Admin Phone.......... +1.5022102769
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns2.yahoo.com
+  Name Server.......... yns1.yahoo.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: lennoxintl.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:07:09 EDT 2011
-Reason Code: IE

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LENNOXINTL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 20-may-2008
-   Creation Date: 23-jul-1995
-   Expiration Date: 22-jul-2013
+   Domain Name: CYBERSTORE24.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: NS1.TMEDIA-CROSS-COMMUNICATIONS.DE
+   Name Server: NS2.TMEDIA-CROSS-COMMUNICATIONS.DE
+   Status: ok
+   Updated Date: 01-nov-2010
+   Creation Date: 31-oct-2002
+   Expiration Date: 31-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:11:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Doris Teitge-Seifert
+   TMEDIA cross communications
+   Ekkehardstr. 33
+   Singen, 78224, DE
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  cyberstore24.com
+   Unicode Name:   cyberstore24.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Johannes Teitge
+      TMEDIA cross communications
+      info@tmedia.de
+      Ekkehardstra&Atilde;Ÿe 33
+      Singen, 78224, DE
+      phone: +49.77318228190
 
-Whois Query: lennoxintl.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:07:09 EDT 2011
-Reason Code: IE
+   Technical Contact
+      Johannes Teitge
+      TMEDIA cross communications
+      teitge@tmedia.de
+      Ekkehardstr. 33
+      Singen, 78224, DE
+      phone: +49.77318228190
+
+   Zone Contact
+      Doris Teitge-Seifert
+      TMEDIA cross communications
+      info@tmedia.de
+      Ekkehardstr. 33
+      Singen, 78224, DE
+      phone: +49.77318228190
+
+   Record expires on: 2011-10-31 00:00:00
+
+   Domain servers in listed order:
+
+      ns2.tmedia-cross-communications.de 89.200.169.10
+      ns1.tmedia-cross-communications.de 89.200.168.66
+
+
+

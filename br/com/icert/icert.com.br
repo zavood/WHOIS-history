@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 04:08:08 (BRT -03:00)
+
+domain:      icert.com.br
+owner:       iCert - solu&ccedil;&otilde;es inteligentes
+ownerid:     007.940.168/0001-26
+responsible: Franciel Dors
+country:     BR
+owner-c:     ICERT
+admin-c:     ICERT
+tech-c:      ICERT
+billing-c:   ICERT
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20060424 #2750647
+expires:     20120424
+changed:     20110517
+status:      published
+
+nic-hdl-br:  ICERT
+person:      iC ert
+e-mail:      sac@icert.com.br
+created:     20110517
+changed:     20110517
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

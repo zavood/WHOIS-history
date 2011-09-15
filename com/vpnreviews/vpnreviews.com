@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LENNOXINTL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 20-may-2008
-   Creation Date: 23-jul-1995
-   Expiration Date: 22-jul-2013
+   Domain Name: VPNREVIEWS.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.GOHSPHERE.COM
+   Name Server: NS2.GOHSPHERE.COM
+   Status: ok
+   Updated Date: 02-sep-2011
+   Creation Date: 17-oct-2007
+   Expiration Date: 17-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:11:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:01:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name:vpnreviews.com
+Record created:2007/10/17
+Record expired:2012/10/17
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Domain servers in listed order:
+	 ns1.gohsphere.com 	 ns2.gohsphere.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrat:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- vp3041155869101@domainidshield.com
+Technical Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- vp3041155740802@domainidshield.com
+Billing Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- vp3041155740803@domainidshield.com
+Registrant Contact:
+   name-- Domain ID Shield Service
+   org-- Domain ID Shield Service CO., Limited
+   country-- CN
+   province-- Hong Kong
+   city-- Hong Kong
+   address-- 1102-1103,11/F,Kowloon Bldg.,555 Nathan Rd.,Mongkok,Kowloon
+   postalcode-- 999077
+   telephone-- +852.22060092
+   fax-- +852.30030133
+   E-mail-- vp3041155615304@domainidshield.com
 
-Whois Query: lennoxintl.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:07:09 EDT 2011
-Reason Code: IE
