@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SPR578D-NORID
+Domain Name................: sprosseservice.no
+Domain Holder Handle.......: SMHA7O-NORID
+Registrar Handle...........: REG609-NORID
+Legal-c Handle.............: AM3502P-NORID
+Tech-c Handle..............: JS3531P-NORID
+Name Server Handle.........: NSEW101H-NORID
+Name Server Handle.........: NSEW98H-NORID
+
+Additional information:
+Created:         2003-12-11
+Last updated:    2010-12-11
+
+NORID Handle...............: SMHA7O-NORID
+Type.......................: organization
+Name.......................: Sprosseservice Mel&oslash;y &amp; Hansen ANS
+Id Type....................: organization_number
+Id Number..................: 937400411
+Registrar Handle...........: REG609-NORID
+Post Address...............: Nansetgt. 78
+Postal Code................: NO-3269
+Postal Area................: Larvik
+Country....................: NO
+Phone Number...............: +47.33187933
+Fax Number.................: +47.33186929
+Email Address..............: sp.serv@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

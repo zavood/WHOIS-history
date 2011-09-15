@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWNLOADACES.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.GTSOLUTIONS.RO
-   Name Server: NS1.HOSTBASE.NET
-   Name Server: NS2.GTSOLUTIONS.RO
-   Name Server: NS2.HOSTBASE.NET
+   Domain Name: DUBBELE.COM
+   Registrar: KEY-SYSTEMS GMBH
+   Whois Server: whois.rrpproxy.net
+   Referral URL: http://www.key-systems.net
+   Name Server: DNS5.DUBBELE.COM
+   Name Server: NS1.DUBBELE.COM
+   Name Server: NS2.DUBBELE.COM
    Status: clientTransferProhibited
-   Updated Date: 08-sep-2011
-   Creation Date: 08-oct-2009
-   Expiration Date: 08-oct-2012
+   Updated Date: 08-may-2011
+   Creation Date: 19-mar-1999
+   Expiration Date: 19-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:18:48 UTC &lt;&lt;&lt;
 
@@ -53,69 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about downloadaces.com
-&lt;a href=&quot;http://www.aboutus.org/downloadaces.com&quot;&gt;AboutUs: downloadaces.com&lt;/a&gt;
+; This data is provided by Dubbele.com
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; Dubbele.com does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
 
+DOMAIN: DUBBELE.COM
 
-Domain name: downloadaces.com
+RSP: Dubbele.com
+URL: -
 
-Registrant Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu ()
+owner-contact: P-JWS120
+owner-organization: Dubbele.com
+owner-fname: John
+owner-lname: Sinteur
+owner-street: marshallplein 91
+owner-city: Rijswijk
+owner-zip: 2286 LJ
+owner-country: NL
+owner-phone: +31 642801389
+owner-email: john@sinteur.com
 
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+admin-contact: P-JWS120
+admin-organization: Dubbele.com
+admin-fname: John
+admin-lname: Sinteur
+admin-street: marshallplein 91
+admin-city: Rijswijk
+admin-zip: 2286 LJ
+admin-country: NL
+admin-phone: +31 642801389
+admin-email: john@sinteur.com
 
-Administrative Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu (sergiu@gtsolutions.ro)
-   +40.0742895834
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+tech-contact: P-JWS120
+tech-organization: Dubbele.com
+tech-fname: John
+tech-lname: Sinteur
+tech-street: marshallplein 91
+tech-city: Rijswijk
+tech-zip: 2286 LJ
+tech-country: NL
+tech-phone: +31 642801389
+tech-email: john@sinteur.com
 
-Technical Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu (sergiu@gtsolutions.ro)
-   +40.0742895834
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+billing-contact: P-JSS125
+billing-organization: Dubbele.com
+billing-fname: John
+billing-lname: Sinteur
+billing-street: Marshallplein 91
+billing-city: Rijswijk
+billing-zip: 2286 LJ
+billing-country: NL
+billing-phone: +31 642801389
+billing-email: john@sinteur.com
 
-Status: Locked
+nameserver: dns5.dubbele.com 85.17.171.116
+nameserver: ns1.dubbele.com 85.17.171.87
+nameserver: ns2.dubbele.com 85.17.171.88
 
-Name Servers:
-   ns1.gtsolutions.ro
-   ns1.hostbase.net
-   ns2.gtsolutions.ro
-   ns2.hostbase.net
-
-Creation date: 08 Oct 2009 19:32:39
-Expiration date: 08 Oct 2012 19:32:39
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002

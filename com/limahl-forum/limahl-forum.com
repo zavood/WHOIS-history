@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DOWNLOADACES.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.GTSOLUTIONS.RO
-   Name Server: NS1.HOSTBASE.NET
-   Name Server: NS2.GTSOLUTIONS.RO
-   Name Server: NS2.HOSTBASE.NET
+   Domain Name: LIMAHL-FORUM.COM
+   Registrar: INTERNETWIRE COMMUNICATIONS GMBH
+   Whois Server: whois.internetwire.de
+   Referral URL: http://www.internetwire.de
+   Name Server: NS3.KASSERVER.COM
+   Name Server: NS4.KASSERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 08-sep-2011
-   Creation Date: 08-oct-2009
-   Expiration Date: 08-oct-2012
+   Updated Date: 11-may-2011
+   Creation Date: 10-may-2004
+   Expiration Date: 10-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:18:48 UTC &lt;&lt;&lt;
 
@@ -53,69 +51,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about downloadaces.com
-&lt;a href=&quot;http://www.aboutus.org/downloadaces.com&quot;&gt;AboutUs: downloadaces.com&lt;/a&gt;
 
+% Copyright (c)2008 by InterNetWire Communications GmbH
+%
+% Restricted rights.
+%
+% Except for agreed Internet operational purposes, no
+% part of this information may be reproduced, stored in
+% a retrieval system, or transmitted, in any form or by
+% any means, electronic, mechanical, recording, or
+% otherwise, without prior permission of the
+% InterNetWire Communications GmbH on behalf of itself
+% and/or the copyright holders. Any use of this material
+% to target advertising or similar activities are
+% explicitly forbidden and will be prosecuted. The
+% InterNetWire Communications GmbH requests to be
+% notified of any such activities or suspicions thereof.
 
-Domain name: downloadaces.com
+domain:          limahl-forum.com
+nserver:         ns3.kasserver.com
+nserver:         ns4.kasserver.com
+created:         2004-05-10
+updated:         2008-05-14
 
-Registrant Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu ()
+owner-id:        EB292240
+owner-org:
+owner-name:      Evi Bernauer
+owner-address:   Faerberstrasse 12
+owner-pcode:     83352
+owner-city:      Altenmarkt
+owner-country:   DE
+owner-phone:     +49 862 163549
+owner-email:     goldsternchen13@aol.com
 
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+admin-id:        EB292240
+admin-org:
+admin-name:      Evi Bernauer
+admin-address:   Faerberstrasse 12
+admin-pcode:     83352
+admin-city:      Altenmarkt
+admin-country:   DE
+admin-phone:     +49 862 163549
+admin-email:     goldsternchen13@aol.com
 
-Administrative Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu (sergiu@gtsolutions.ro)
-   +40.0742895834
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+tech-id:         WK1126
+tech-org:        Neue Medien Muennich GmbH
+tech-name:       Werner Kaltofen
+tech-address:    Hauptstr. 68
+tech-pcode:      02742
+tech-city:       Friedersdorf
+tech-country:    DE
+tech-phone:      +49 35872 35310
+tech-fax:        +49 35872 35330
+tech-email:      hostmaster@all-inkl.com
 
-Technical Contact:
-   GT Solutions S.R.L.
-   Gilca Sergiu (sergiu@gtsolutions.ro)
-   +40.0742895834
-   Fax:
-   Str. Renasterii Nr. 13
-   Pascani, Iasi 7005200
-   RO
+billing-id:      WK1126
+billing-org:     Neue Medien Muennich GmbH
+billing-name:    Werner Kaltofen
+billing-address: Hauptstr. 68
+billing-pcode:   02742
+billing-city:    Friedersdorf
+billing-country: DE
+billing-phone:   +49 35872 35310
+billing-fax:     +49 35872 35330
+billing-email:   hostmaster@all-inkl.com
 
-Status: Locked
-
-Name Servers:
-   ns1.gtsolutions.ro
-   ns1.hostbase.net
-   ns2.gtsolutions.ro
-   ns2.hostbase.net
-
-Creation date: 08 Oct 2009 19:32:39
-Expiration date: 08 Oct 2012 19:32:39
-
-
-
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
-
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
