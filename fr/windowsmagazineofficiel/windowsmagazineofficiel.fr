@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; windowsmagazineofficiel.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      windowsmagazineofficiel.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    YM57-FRNIC
+admin-c:     YM57-FRNIC
+tech-c:      IDN2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5426-FRNIC
+registrar:   INDOM
+anniversary: 26/10
+created:     26/10/2009
+last-update: 26/10/2009
+source:      FRNIC
+
+ns-list:     NSL5426-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom130.indomco.org
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     YM57-FRNIC
+type:        ORGANIZATION
+contact:     YELLOW MEDIA
+address:     101-109, rue Jean-Jaures
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 41 27 38 47
+e-mail:      jane.wray@yellowmedia.fr
+changed:     19/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IDN2-FRNIC
+type:        ORGANIZATION
+contact:     Indom
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     23/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
