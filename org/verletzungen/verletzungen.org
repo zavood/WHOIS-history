@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158362562-LROR
+Domain Name:VERLETZUNGEN.ORG
+Created On:14-Feb-2010 17:10:17 UTC
+Last Updated On:02-Jul-2011 07:41:38 UTC
+Expiration Date:14-Feb-2012 17:10:17 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-9624250
+Registrant Name:Alexander Auer
+Registrant Street1:Rieslingweg 2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Loerzweiler
+Registrant State/Province:DE
+Registrant Postal Code:55296
+Registrant Country:DE
+Registrant Phone:+49.1708648670
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:auer@alexander-auer.de
+Admin ID:ABM-9624251
+Admin Name:Alexander Auer
+Admin Street1:Rieslingweg 2
+Admin Street2:
+Admin Street3:
+Admin City:Loerzweiler
+Admin State/Province:DE
+Admin Postal Code:55296
+Admin Country:DE
+Admin Phone:+49.1708648670
+Admin Phone Ext.:
+Admin FAX:+49.61315548742
+Admin FAX Ext.:
+Admin Email:auer@alexander-auer.de
+Tech ID:ABM-9624251
+Tech Name:Alexander Auer
+Tech Street1:Rieslingweg 2
+Tech Street2:
+Tech Street3:
+Tech City:Loerzweiler
+Tech State/Province:DE
+Tech Postal Code:55296
+Tech Country:DE
+Tech Phone:+49.1708648670
+Tech Phone Ext.:
+Tech FAX:+49.61315548742
+Tech FAX Ext.:
+Tech Email:auer@alexander-auer.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

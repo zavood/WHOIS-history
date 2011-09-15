@@ -1,0 +1,58 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 07:38:25 (BRT -03:00)
+
+domain:      coface.com.br
+owner:       COFACE DO BRASIL SER DE GERENCIAMENTO DE CRE LTDA
+ownerid:     004.095.747/0001-21
+responsible: HUGO MOUR&Atilde;O
+country:     BR
+owner-c:     SIART
+admin-c:     HUTMO
+tech-c:      ACR88
+billing-c:   HUTMO
+nserver:     ns1.coface.com.br 189.126.108.2
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.coface.com.br 201.76.40.2
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20001023 #451817
+expires:     20171023
+changed:     20100429
+status:      published
+
+nic-hdl-br:  ACR88
+person:      Andr&eacute; Cripa Rodrigues
+e-mail:      andre@interaktiv.com.br
+created:     19991216
+changed:     20100817
+
+nic-hdl-br:  HUTMO
+person:      HUGO T. MOUR&Atilde;O
+e-mail:      hugotm@gmail.com
+created:     20070122
+changed:     20091013
+
+nic-hdl-br:  SIART
+person:      Site Art
+e-mail:      suporte@nsinternet.com.br
+created:     20070405
+changed:     20100630
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

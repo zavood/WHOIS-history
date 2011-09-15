@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; eurosportpoker.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      eurosportpoker.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ES2261-FRNIC
+admin-c:     SP4971-FRNIC
+tech-c:      FF2736-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL38043-FRNIC
+registrar:   NAMESHIELD
+anniversary: 20/04
+created:     20/04/2010
+last-update: 20/04/2011
+source:      FRNIC
+
+ns-list:     NSL38043-FRNIC
+nserver:     ns0.eurosportbet.com
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ES2261-FRNIC
+type:        ORGANIZATION
+contact:     EUROSPORT
+address:     EUROSPORT sa
+address:     3, rue Gaston et Rene Caudron
+address:     92798 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 40 93 81 07
+fax-no:      +33 1 40 93 80 28
+e-mail:      dnsmaster@eurosport.com
+changed:     31/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SP4971-FRNIC
+type:        PERSON
+contact:     Stephane Petit
+address:     SPS SA
+address:     89, rue de la boetie
+address:     75008 Paris
+country:     FR
+phone:       +33 1 45 61 00 12
+fax-no:      +33 1 45 61 10 85
+e-mail:      nklein@eurosportbet.com
+changed:     18/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FF2736-FRNIC
+type:        PERSON
+contact:     Francois Fanuel
+address:     SPS SA
+address:     89, rue de la boetie
+address:     75008 Paris
+country:     FR
+phone:       +33 1 45 61 00 12
+fax-no:      +33 1 45 61 10 85
+e-mail:      network.it@spsbetting.com
+changed:     17/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

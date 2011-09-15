@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149203673-LROR
+Domain Name:TRANSFRONTERA.ORG
+Created On:22-Sep-2007 04:25:14 UTC
+Last Updated On:07-Sep-2011 16:17:37 UTC
+Expiration Date:22-Sep-2012 04:25:14 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37031096
+Registrant Name:Jose Luis Velasco Solorzano
+Registrant Organization:Jose Luis Velasco Solorzano
+Registrant Street1:Volcan Baru 2300
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zapopan
+Registrant State/Province:Jalisco
+Registrant Postal Code:45070
+Registrant Country:MX
+Registrant Phone:+1.3336206852
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cuanticawebs@gmail.com
+Admin ID:CR37031098
+Admin Name:Jose Luis Velasco Solorzano
+Admin Organization:Jose Luis Velasco Solorzano
+Admin Street1:Volcan Baru 2300
+Admin Street2:
+Admin Street3:
+Admin City:Zapopan
+Admin State/Province:Jalisco
+Admin Postal Code:45070
+Admin Country:MX
+Admin Phone:+1.3336206852
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cuanticawebs@gmail.com
+Tech ID:CR37031097
+Tech Name:Jose Luis Velasco Solorzano
+Tech Organization:Jose Luis Velasco Solorzano
+Tech Street1:Volcan Baru 2300
+Tech Street2:
+Tech Street3:
+Tech City:Zapopan
+Tech State/Province:Jalisco
+Tech Postal Code:45070
+Tech Country:MX
+Tech Phone:+1.3336206852
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cuanticawebs@gmail.com
+Name Server:NS1.CUANTICAWEBS.COM
+Name Server:NS2.CUANTICAWEBS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

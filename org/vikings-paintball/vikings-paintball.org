@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150885507-LROR
+Domain Name:VIKINGS-PAINTBALL.ORG
+Created On:05-Feb-2008 18:22:42 UTC
+Last Updated On:06-Feb-2011 01:24:54 UTC
+Expiration Date:05-Feb-2012 18:22:42 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-9939975
+Registrant Name:Markus Memler
+Registrant Street1:Eichhorster Weg 14
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:Deutschland
+Registrant Postal Code:13435
+Registrant Country:DE
+Registrant Phone:+49.3056970974
+Registrant Phone Ext.:
+Registrant FAX:+49.3056970974
+Registrant FAX Ext.:
+Registrant Email:vikings-tc@web.de
+Admin ID:ABM-9939975
+Admin Name:Markus Memler
+Admin Street1:Eichhorster Weg 14
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:Deutschland
+Admin Postal Code:13435
+Admin Country:DE
+Admin Phone:+49.3056970974
+Admin Phone Ext.:
+Admin FAX:+49.3056970974
+Admin FAX Ext.:
+Admin Email:vikings-tc@web.de
+Tech ID:ABM-10261428
+Tech Name:Oliver Gruen
+Tech Organization:Gruen Software AG
+Tech Street1:Augustastr.78-80
+Tech Street2:
+Tech Street3:
+Tech City:Aachen
+Tech State/Province:NRW
+Tech Postal Code:52070
+Tech Country:DE
+Tech Phone:+49.24118900
+Tech Phone Ext.:
+Tech FAX:+49.2411890555
+Tech FAX Ext.:
+Tech Email:adminteam@gruen.net
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-feb-2006
    Expiration Date: 24-feb-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:40:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:33:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,7 +81,7 @@ Staggs, Brandon
 
    Record expires on 24-Feb-2018.
    Record created on 24-Feb-2006.
-   Database last updated on 14-Sep-2011 05:30:33 EDT.
+   Database last updated on 15-Sep-2011 06:24:06 EDT.
 
    Domain servers in listed order:
 

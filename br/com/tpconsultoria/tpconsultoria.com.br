@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 07:29:25 (BRT -03:00)
+
+domain:      tpconsultoria.com.br
+owner:       Thomas Perlaky - EEP
+ownerid:     007.359.550/0001-40
+responsible: Thomas Perlaky
+country:     BR
+owner-c:     THP104
+admin-c:     THP104
+tech-c:      JOS566
+billing-c:   THP104
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20050614 #2201930
+expires:     20130614
+changed:     20080527
+status:      published
+
+nic-hdl-br:  JOS566
+person:      jesus de oliveira saad
+e-mail:      jesus_oliveira@yahoo.com.br
+created:     20050204
+changed:     20080614
+
+nic-hdl-br:  THP104
+person:      Thomas Perlaky
+e-mail:      thomas.perlaky@terra.com.br
+created:     20050614
+changed:     20060920
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

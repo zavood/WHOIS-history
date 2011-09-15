@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-feb-2010
    Expiration Date: 27-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:18:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:40:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    N/A
-   Jugantor, Motijheel Dhaka Dhaka,1000 Tel. +880.1711112420 Creation Date: 27-Feb-2010 Expir
-   ation Date: 27-Feb-2011 Domain servers in listed order: ns969.hostgator.com ns970.hostgator.com
-   ,
-   Bangladesh
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: NATOKMOVIE.COM
-      Created on: 27-Feb-10
-      Expires on: 27-Feb-12
-      Last Updated on: 07-Jan-11
-
-   Administrative Contact:
-      Kafi, SM  sm.kafi@yahoo.com
-      N/A
-      Jugantor, Motijheel Dhaka Dhaka,1000 Tel. +880.1711112420
-      ,
-      Bangladesh
-            Fax --
-
-   Technical Contact:
-      Kafi, SM  sm.kafi@yahoo.com
-      N/A
-      Jugantor, Motijheel Dhaka Dhaka,1000 Tel. +880.1711112420
-      ,
-      Bangladesh
-            Fax --
 
    Domain servers in listed order:
       NS970.HOSTGATOR.COM
       NS969.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=NATOKMOVIE.COM

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; trustpilot.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      trustpilot.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    NB1343-FRNIC
+admin-c:     ADK18-FRNIC
+tech-c:      PH2255-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10151-FRNIC
+registrar:   NameWeb bvba
+anniversary: 27/01
+created:     27/01/2009
+last-update: 17/06/2011
+source:      FRNIC
+
+ns-list:     NSL10151-FRNIC
+nserver:     ns1.gratisdns.dk
+nserver:     ns2.gratisdns.dk
+nserver:     ns3.gratisdns.dk
+nserver:     ns4.gratisdns.dk
+nserver:     ns5.gratisdns.dk
+source:      FRNIC
+
+registrar:   NameWeb bvba
+type:        Isp Option 1
+address:     Ternesselei 73
+address:     B-2160 WOMMELGEM
+country:     BE
+phone:       +32 3 295 34 74
+fax-no:      +32 3 400 17 10
+e-mail:      info@bnamed.net
+website:     http://www.bnamed.net
+anonymous:   NO
+registered:  05/05/2006
+source:      FRNIC
+
+nic-hdl:     NB1343-FRNIC
+type:        ORGANIZATION
+contact:     NameWeb BVBA
+address:     Ternesselei 73
+address:     2160 Wommelgem
+country:     BE
+phone:       +32 32953474
+fax-no:      +32 34001710
+e-mail:      info@nameweb.biz
+changed:     27/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ADK18-FRNIC
+type:        PERSON
+contact:     Andre De Kinder
+address:     Nameweb
+address:     3, rue Germain David
+address:     69003 Lyon
+country:     FR
+phone:       +33 1 70 81 88 36
+e-mail:      info@nameweb.biz
+changed:     18/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PH2255-FRNIC
+type:        PERSON
+contact:     Peter Holten
+address:     Trustpilot ApS
+address:     Gustav Wieds Vej 10
+address:     8000 Aarhus C
+country:     DK
+phone:       +45 69911282
+e-mail:      atj@trustpilot.dk
+changed:     29/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
