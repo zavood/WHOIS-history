@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 12:54:28 (BRT -03:00)
+
+domain:      admderedes.com.br
+owner:       Vin&iacute;cius Ramos Apolinario
+ownerid:     224.253.668-06
+country:     BR
+owner-c:     VRA15
+admin-c:     VRA15
+tech-c:      VRA15
+billing-c:   VRA15
+nserver:     ns01.domaincontrol.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns02.domaincontrol.com
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20100823 #7240722
+expires:     20120823
+changed:     20110822
+status:      published
+
+nic-hdl-br:  VRA15
+person:      Vin&iacute;cius Ramos Apolin&aacute;rio
+e-mail:      vinicius_apolinario@hotmail.com
+created:     20011031
+changed:     20110822
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

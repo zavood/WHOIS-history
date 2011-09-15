@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cosco.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cosco.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CF383-FRNIC
+admin-c:     JMC561-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      JMC561-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL44-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 22/10
+created:     22/10/1999
+last-update: 30/09/2009
+source:      FRNIC
+
+ns-list:     NSL44-FRNIC
+nserver:     ns0.oleane.net
+nserver:     ns1.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     CF383-FRNIC
+type:        ORGANIZATION
+contact:     COSCO FRANCE
+address:     16, rue Baudin
+address:     92300 Levallois-Perret
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JMC561-FRNIC
+type:        PERSON
+contact:     Jean-Michel Cornier
+address:     COSCON FRANCE
+address:     169, boulevard de Strasbourg immeuble Neptune Building
+address:     76600 Le Havre
+country:     FR
+phone:       +33 2 52 92 59 48
+fax-no:      +33 2 52 92 59 48
+e-mail:      JMCORNIER@coscon.fr
+changed:     30/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

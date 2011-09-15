@@ -1,0 +1,100 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:48:05 2011
+
+domain:       purina.cz
+registrant:   SB:SUB_SPN
+admin-c:      SPNCP2
+nsset:        NSS:NESTLEDNS:3
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   05.01.2003 16:31:00
+changed:      23.09.2010 13:19:58
+expire:       05.01.2012
+
+contact:      SB:SUB_SPN
+org:          Societe des Produits Nestle S.A.
+name:         Societe des Produits Nestle S.A.
+address:      Av. Nestle 55
+address:      1800 Vevey
+address:      000000
+address:      CH
+e-mail:       pavel.golasik@nestle.cz
+registrar:    REG-ZONER
+created:      01.06.2004 20:25:00
+
+contact:      SPNCP2
+org:          Societe des Produits Nestle
+name:         Caroline Perriard
+address:      Avenue Nestle 55
+address:      Vevey
+address:      Vaud
+address:      1800
+address:      CH
+phone:        +41.219243825
+e-mail:       domain_names@nestle.com
+registrar:    REG-ZONER
+created:      08.11.2007 17:20:03
+
+nsset:        NSS:NESTLEDNS:3
+nserver:      aoadns1.nestle.com
+nserver:      eurdns1.nestle.com
+nserver:      ctrdns1.nestle.com
+nserver:      amsdns1.nestle.com
+tech-c:       NESTLEDNS
+tech-c:       ADK
+tech-c:       SB:NESTLEDNS
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+
+contact:      NESTLEDNS
+name:         Nestle DNS Administration
+address:      Avenue Nestle 55
+address:      Vevey
+address:      1800
+address:      CH
+phone:        +41.219242700
+e-mail:       NestleDNSAdmin@nestle.com
+registrar:    REG-ZONER
+created:      07.06.2006 20:25:00
+
+contact:      ADK
+name:         Annemieke de Koster
+address:      Avenue Nestle 55
+address:      Vevey
+address:      1800
+address:      CH
+phone:        +41.219243170
+fax-no:       +41.219242700
+e-mail:       domain_names@nestle.com
+registrar:    REG-ZONER
+created:      29.06.2006 16:25:00
+
+contact:      SB:NESTLEDNS
+org:          Societe des Produits Nestle S.A.
+name:         Nestle DNS Administration
+address:      Avenue Nestle 55
+address:      Vevey
+address:      1800
+address:      CH
+e-mail:       domain_names@nestle.com
+registrar:    REG-ZONER
+created:      30.06.2006 18:55:00
+
+

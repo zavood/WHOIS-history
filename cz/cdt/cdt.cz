@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:56:20 2011
+
+domain:       cdt.cz
+registrant:   SB:CD-T
+admin-c:      CD-MS
+nsset:        NSS:CZ-CDT:2
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   07.09.2000 02:11:00
+changed:      21.07.2011 14:34:02
+expire:       07.09.2012
+
+contact:      SB:CD-T
+org:          &Auml;ŒD-Telematika, a. s.
+name:         Bo&Aring;&frac34;ena Srbeck&Atilde;&iexcl;
+address:      Pernerova 2819/2a
+address:      Praha 3
+address:      13000
+address:      CZ
+e-mail:       bozena.srbecka@cdt.cz
+registrar:    REG-IGNUM
+created:      02.05.2005 10:35:00
+changed:      04.10.2007 12:06:03
+
+contact:      CD-MS
+name:         Martin Srbecky
+address:      Purkynova 22
+address:      Plzen
+address:      30100
+address:      CZ
+e-mail:       martin.srbecky@cdtel.cz
+registrar:    REG-IGNUM
+created:      24.03.2004 17:35:00
+changed:      30.07.2008 21:45:09
+
+nsset:        NSS:CZ-CDT:2
+nserver:      ns.cdt.cz (81.19.33.2)
+nserver:      ns.dmz.cd.cz
+nserver:      mail.dmz.cd.cz
+nserver:      ns2.cdt.cz (81.19.34.2)
+tech-c:       SB:CZ-CDT
+tech-c:       CZ-NESETRIL
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      SB:CZ-CDT
+org:          CD-Telematika a.s.
+name:         CD-Telematika a.s.
+address:      Pernerova 2a
+address:      Praha
+address:      130 00
+address:      CZ
+e-mail:       frantisek.nesetril@cdt.cz
+registrar:    REG-IGNUM
+created:      04.09.2001 17:46:00
+changed:      17.01.2006 16:25:00
+
+contact:      CZ-NESETRIL
+name:         Frantisek Nesetril
+address:      Pernerova 2a;CD-Telematika a.s.
+address:      Praha 10
+address:      130 00
+address:      CZ
+phone:        +420.210021661
+fax-no:       +420.210021699
+e-mail:       frantisek.nesetril@cdt.cz
+registrar:    REG-IGNUM
+created:      04.09.2001 17:31:00
+changed:      17.01.2006 16:55:00
+
+

@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:58:42 2011
+
+domain:       hellux.cz
+registrant:   SB:ZV84-RIPE_XX
+admin-c:      ZV84-RIPE
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   23.09.1998 02:00:00
+changed:      17.10.2008 11:39:43
+expire:       28.10.2014
+
+contact:      SB:ZV84-RIPE_XX
+org:          Hellux Elektra s.r.o.
+name:         Hellux Elektra s.r.o.
+address:      Okruzni 526
+address:      Ceske Budejovice
+address:      370 21
+address:      CZ
+e-mail:       kochova@hellux.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+
+contact:      ZV84-RIPE
+name:         Zdenek Vojc
+address:      Okru&Aring;&frac34;n&Atilde;&shy; 526
+address:      &Auml;Œesk&Atilde;&copy; Bud&Auml;›jovice
+address:      370 21
+address:      CZ
+phone:        +420.602144855
+fax-no:       +420 387513722
+e-mail:       kochova@hellux.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      23.03.2004 14:50:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

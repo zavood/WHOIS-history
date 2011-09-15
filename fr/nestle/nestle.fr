@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; nestle.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nestle.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SDPN49-FRNIC
+admin-c:     CP4560-FRNIC
+tech-c:      NDA12-FRNIC
+tech-c:      NDA11-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1277-FRNIC
+registrar:   COM LAUDE (NOM IQ LIMITED)
+anniversary: 19/12
+created:     28/06/2005
+last-update: 22/10/2008
+source:      FRNIC
+
+ns-list:     NSL1277-FRNIC
+nserver:     ctrdns1.nestle.com
+nserver:     amsdns1.nestle.com
+nserver:     aoadns1.nestle.com
+nserver:     eurdns1.nestle.com
+source:      FRNIC
+
+registrar:   COM LAUDE (NOM IQ LIMITED)
+type:        Isp Option 2
+address:     116 Long Acre
+address:     WC2E 9SU LONDON
+country:     GB
+phone:       +44 20 7836 0070
+fax-no:      +44 87 0011 8187
+e-mail:      info@comlaude.com
+website:     http://www.comlaude.com
+anonymous:   NO
+registered:  19/07/2005
+source:      FRNIC
+
+nic-hdl:     SDPN49-FRNIC
+type:        ORGANIZATION
+contact:     Societe des Produits Nestle S.A.
+address:     Vevey
+address:     01800 Vaud
+country:     CH
+phone:       +33 1 60 53 21 00
+e-mail:      domain_names@nestle.com
+changed:     22/10/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CP4560-FRNIC
+type:        PERSON
+contact:     Caroline Perriard
+address:     Nestle France SAS
+address:     7, boulevard Pierre Carle
+address:     B.P. 900 Noisiel
+address:     77446 Marne la Vallee Cedex
+country:     FR
+phone:       +33 1 60 53 21 00
+e-mail:      domain_names@nestle.com
+changed:     22/10/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NDA12-FRNIC
+type:        ROLE
+contact:     Nestle DNS Administration
+address:     Societ&eacute; des Produits Nestl&eacute; S.A.
+address:     Avenue Nestl&eacute; 55
+address:     1800 Vevey
+address:     CH
+e-mail:      domain_names@nestle.com
+admin-c:     ADK7-FRNIC
+admin-c:     CF1131-FRNIC
+tech-c:      NDA11-FRNIC
+changed:     09/06/2006 domain_names@nestle.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NDA11-FRNIC
+type:        PERSON
+contact:     Nestle Dns Administration
+address:     Societ&eacute; des Produits Nestl&eacute; S.A.
+address:     Avenue Nestl&eacute; 55
+address:     1800 Vevey
+address:     CH
+phone:       +33 2 19 24 27 00
+changed:     09/06/2006 domain_names@nestle.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
