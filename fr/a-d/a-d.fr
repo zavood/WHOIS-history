@@ -1,0 +1,103 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; a-d.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      a-d.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A7261-FRNIC
+admin-c:     TP1117-FRNIC
+tech-c:      CD2642-FRNIC
+tech-c:      TP140-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23416-FRNIC
+registrar:   PUBLICIS TECHNOLOGY
+anniversary: 27/04
+created:     27/04/2000
+last-update: 04/04/2009
+source:      FRNIC
+
+ns-list:     NSL23416-FRNIC
+nserver:     ns3.publicisgroupe.com
+nserver:     ns4.publicisgroupe.com
+source:      FRNIC
+
+registrar:   PUBLICIS TECHNOLOGY
+type:        Isp Option 1
+anonymous:   YES
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CD2642-FRNIC
+type:        ROLE
+contact:     Christophe Decombe
+address:     Publicis Technology
+address:     75011 Paris
+country:     FR
+phone:       +33 1 49 29 66 00
+fax-no:      +33 1 49 29 66 19
+e-mail:      nicadmin@publicis.fr
+admin-c:     CD607-FRNIC
+tech-c:      PM3210-FRNIC
+notify:      nicadmin@publicis.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A7261-FRNIC
+type:        ORGANIZATION
+contact:     Autodistribution
+address:     119-131, avenue Rene Morin
+address:     91427 Morangis Cedex
+country:     FR
+changed:     12/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TP1117-FRNIC
+type:        PERSON
+contact:     Thierry Paumier
+address:     Sgip / Publicis
+address:     19, rue Erard
+address:     75012 Paris
+country:     FR
+phone:       +33 1 44 75 66 00
+fax-no:      +33 1 43 42 14 80
+e-mail:      tpaumier@publicis.fr
+changed:     04/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     TP140-FRNIC
+type:        PERSON
+contact:     Thierry Paumier
+address:     SGIP / Publicis
+address:     19, rue Erard
+address:     75012 Paris
+country:     FR
+phone:       +33 1 44 75 66 00
+fax-no:      +33 1 43 42 14 80
+e-mail:      tpaumier@publicis.fr
+notify:      noc@rain.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

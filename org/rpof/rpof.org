@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D194043-LROR
+Domain Name:RPOF.ORG
+Created On:28-Mar-1997 05:00:00 UTC
+Last Updated On:14-Mar-2006 15:09:40 UTC
+Expiration Date:29-Mar-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27411636-NSI
+Registrant Name:Republican Party of Florida
+Registrant Organization:Republican Party of Florida
+Registrant Street1:P.O. Box 311
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tallahassee
+Registrant State/Province:FL
+Registrant Postal Code:32303
+Registrant Country:US
+Registrant Phone:+1.8502227920
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ThomasFranklin@RPOF.ORG
+Admin ID:36160272-NSI
+Admin Name:Network Administrator
+Admin Organization:Republican Party of Florida
+Admin Street1:420 East Jefferson Street
+Admin Street2:
+Admin Street3:
+Admin City:Tallahassee
+Admin State/Province:FL
+Admin Postal Code:32301
+Admin Country:US
+Admin Phone:+1.8502227920
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:it@rpof.org
+Tech ID:36160272-NSI
+Tech Name:Network Administrator
+Tech Organization:Republican Party of Florida
+Tech Street1:420 East Jefferson Street
+Tech Street2:
+Tech Street3:
+Tech City:Tallahassee
+Tech State/Province:FL
+Tech Postal Code:32301
+Tech Country:US
+Tech Phone:+1.8502227920
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:it@rpof.org
+Name Server:NS1.YUMASOL.COM
+Name Server:NS2.YUMASOL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

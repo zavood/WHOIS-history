@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: IKK89D-NORID
+Domain Name................: ikke.no
+Domain Holder Handle.......: BSI18O-NORID
+Registrar Handle...........: REG429-NORID
+Legal-c Handle.............: BS3323P-NORID
+Tech-c Handle..............: SK3R-NORID
+Name Server Handle.........: DNSS148H-NORID
+Name Server Handle.........: DNSS150H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: BSI18O-NORID
+Type.......................: organization
+Name.......................: BJ&Oslash;RN-OLAV STRAND IKKENO-WEB
+Id Type....................: organization_number
+Id Number..................: 977455014
+Registrar Handle...........: REG429-NORID
+Post Address...............: Stensgata 10 B
+Postal Code................: NO-0358
+Postal Area................: Oslo
+Country....................: NO
+Mobile Phone Number........: +47.91337784
+Email Address..............: bolav@ikke.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

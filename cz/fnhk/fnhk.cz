@@ -1,0 +1,90 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:04:29 2011
+
+domain:       fnhk.cz
+registrant:   SB:FNHK-CZ
+admin-c:      KARLIAKJ
+temp-c:       PROCHAZKAM
+temp-c:       JM2131-RIPE
+nsset:        NSS:FNHK-CZ:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   21.06.1996 02:00:00
+changed:      06.09.2006 13:25:00
+expire:       13.10.2011
+
+contact:      SB:FNHK-CZ
+org:          Fakultni nemocnice Hradec Kralove
+name:         Fakultni nemocnice Hradec Kralove
+address:      Sokolska 581
+address:      Hradec Kralove
+address:      50005
+address:      CZ
+e-mail:       matous@fnhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      06.09.2006 13:25:00
+
+contact:      KARLIAKJ
+name:         Josef Karliak
+address:      Sokolska 581
+address:      Hradec Kralove
+address:      50005
+address:      CZ
+phone:        +420.495833931
+e-mail:       karliak@fnhk.cz
+registrar:    REG-ACTIVE24
+created:      29.08.2006 22:35:00
+
+contact:      PROCHAZKAM
+name:         Miroslav Prochazka
+address:      Sokolska 581
+address:      Hradec Kralove
+address:      50005
+address:      CZ
+phone:        +420.495832447
+e-mail:       prochazkam@fnhk.cz
+registrar:    REG-ACTIVE24
+created:      29.08.2006 22:25:00
+
+contact:      JM2131-RIPE
+name:         Jiri Matous
+address:      Sokolska 581
+address:      Hradec Kralove
+address:      50005
+address:      CZ
+phone:        +420.495833915
+fax-no:       +420.495832084
+e-mail:       matous@fnhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      13.09.2006 14:45:00
+
+nsset:        NSS:FNHK-CZ:1
+nserver:      slimak.fnhk.cz (195.113.123.85)
+nserver:      ns.hknet.cz
+tech-c:       SB:FNHK-CZ
+tech-c:       KARLIAKJ
+tech-c:       JM2131-RIPE
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      11.06.2009 08:42:13
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152615091-LROR
+Domain Name:1CA.ORG
+Created On:03-May-2008 06:53:48 UTC
+Last Updated On:18-Mar-2011 00:26:19 UTC
+Expiration Date:03-May-2012 06:53:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR72679132
+Registrant Name:Angela Brita
+Registrant Organization:Angela Brita
+Registrant Street1:Santalo
+Registrant Street2:
+Registrant Street3:
+Registrant City:Barcelona
+Registrant State/Province:Barcelona
+Registrant Postal Code:08970
+Registrant Country:ES
+Registrant Phone:+34.933687966
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cmv.boss@gmail.com
+Admin ID:CR72679179
+Admin Name:Angela Brita
+Admin Organization:Angela Brita
+Admin Street1:Santalo
+Admin Street2:
+Admin Street3:
+Admin City:Barcelona
+Admin State/Province:Barcelona
+Admin Postal Code:08970
+Admin Country:ES
+Admin Phone:+34.933687966
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cmv.boss@gmail.com
+Tech ID:CR72679152
+Tech Name:Angela Brita
+Tech Organization:Angela Brita
+Tech Street1:Santalo
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08970
+Tech Country:ES
+Tech Phone:+34.933687966
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cmv.boss@gmail.com
+Name Server:NS1465.HOSTGATOR.COM
+Name Server:NS1466.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

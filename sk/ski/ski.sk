@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         ski.sk
+Admin-id            SKII-0003
+Admin-name          Skiinfo, s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36847119
+Admin-address       Internatna 18, Zilina 010 08
+Admin-telephone     +421 905 661050, +421 907 845364
+Admin-email         marketing@ski.sk
+Tech-id             WEBG-0001
+Tech-name           WEBGLOBE, s.r.o.
+Tech-org.-ID        36306444
+Tech-address        Stara Prievozska 2, Bratislava 82109
+Tech-telephone      02 / 58101062, 02 / 58101060
+Tech-email          sk-nic@webglobe.sk
+dns_name            dns1.skiinfo.com
+dns_name            dns2.skiinfo.com
+Last-update         2011-02-22
+Valid-date          2012-03-18
+Domain-status       DOM_OK
+

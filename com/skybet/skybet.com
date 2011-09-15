@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 12-oct-1998
    Expiration Date: 22-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:35:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 15:05:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,5 +76,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: skybet.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 08:25:51 EDT 2011
+Date and Time of Query: Thu Sep 15 11:01:11 EDT 2011
 Reason Code: IE

@@ -1,0 +1,105 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:08:59 2011
+
+domain:       khur.cz
+registrant:   SB:INETCZ-UEMVUZ-22823
+admin-c:      INETCZ-UEMVUZ-22823
+nsset:        BANAN.CZ-NSSET
+registrar:    REG-BANAN
+status:       paid and in zone
+registered:   02.02.2004 23:50:00
+changed:      23.05.2011 23:15:14
+expire:       02.02.2013
+
+contact:      SB:INETCZ-UEMVUZ-22823
+name:         Petr Kh&Atilde;&frac14;r
+address:      Na Dlouh&Atilde;&copy;m l&Atilde;&iexcl;nu 35
+address:      Praha 6
+address:      16000
+address:      CZ
+e-mail:       petr.khur@email.cz
+registrar:    REG-INTERNET-CZ
+created:      02.02.2004 23:50:00
+
+contact:      INETCZ-UEMVUZ-22823
+name:         Petr Kh&Atilde;&frac14;r
+address:      Na Dlouh&Atilde;&copy;m l&Atilde;&iexcl;nu 35
+address:      Praha 6
+address:      16000
+address:      CZ
+phone:        +420.737456489
+fax-no:       +420.235250532
+e-mail:       petr.khur@email.cz
+registrar:    REG-INTERNET-CZ
+created:      02.02.2004 23:50:00
+
+nsset:        BANAN.CZ-NSSET
+nserver:      ns3.banan.it
+nserver:      ns.banan.cz (77.93.211.204, 2a01:430:1a::204)
+nserver:      ns2.banan.cz (46.47.154.5)
+tech-c:       BANAN.CZ-CARBOL
+tech-c:       BANAN.CZ-KADERA
+tech-c:       BANAN.CZ
+registrar:    REG-BANAN
+created:      05.05.2009 15:04:36
+changed:      18.07.2011 14:18:13
+
+contact:      BANAN.CZ-CARBOL
+org:          banan s.r.o.
+name:         Martin Carbol
+address:      Slav&Atilde;&shy;kova 1744/22
+address:      Ostrava
+address:      70800
+address:      CZ
+phone:        +420.553810250
+fax-no:       +420.597579250
+e-mail:       carbol@banan.cz
+registrar:    REG-BANAN
+created:      10.07.2008 11:27:00
+changed:      10.11.2009 18:37:31
+
+contact:      BANAN.CZ-KADERA
+org:          banan s.r.o.
+name:         Michal Kad&Auml;›ra
+address:      Slav&Atilde;&shy;kova 1744/22
+address:      Ostrava
+address:      70800
+address:      CZ
+phone:        +420.596630274
+fax-no:       +420.596630274
+e-mail:       kadera@banan.cz
+registrar:    REG-GENREG
+created:      10.07.2008 11:30:00
+
+contact:      BANAN.CZ
+org:          banan s.r.o.
+name:         Michal Kad&Auml;›ra
+address:      Slav&Atilde;&shy;kova 1744/22
+address:      Ostrava
+address:      70800
+address:      CZ
+phone:        +420.553810250
+fax-no:       +420.597579250
+e-mail:       cz@banan.cz
+registrar:    REG-BANAN
+created:      10.09.2008 08:59:51
+changed:      10.11.2009 18:34:29
+
+

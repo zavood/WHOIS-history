@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160787107-LROR
+Domain Name:TATTOO54.ORG
+Created On:29-Nov-2010 03:40:00 UTC
+Last Updated On:28-Jan-2011 03:49:30 UTC
+Expiration Date:29-Nov-2011 03:40:00 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTEuzy7n7ciasuv
+Registrant Name:Private Whois Service
+Registrant Organization:Private Whois Service
+Registrant Street1:*******PLEASE DO NOT SEND LETTERS******
+Registrant Street2:****Contact the owner by email only****
+Registrant Street3:c/o tattoo54.org
+Registrant City:Nassau
+Registrant State/Province:
+Registrant Postal Code:N4892
+Registrant Country:BS
+Registrant Phone:+852.81720004
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mdjjb614d95a166c3a19@oqjij874d9300d54bd95.privatewhois.net
+Admin ID:INTE30l8bqy2t8cu
+Admin Name:Private Whois Service
+Admin Organization:Private Whois Service
+Admin Street1:*******PLEASE DO NOT SEND LETTERS******
+Admin Street2:****Contact the owner by email only****
+Admin Street3:c/o tattoo54.org
+Admin City:Nassau
+Admin State/Province:
+Admin Postal Code:N4892
+Admin Country:BS
+Admin Phone:+852.81720004
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:vixkwa54d95a167ebe9e@oqjij874d9300d54bd95.privatewhois.net
+Tech ID:INTE44lz3m7pldhj
+Tech Name:Private Whois Service
+Tech Organization:Private Whois Service
+Tech Street1:*******PLEASE DO NOT SEND LETTERS******
+Tech Street2:****Contact the owner by email only****
+Tech Street3:c/o tattoo54.org
+Tech City:Nassau
+Tech State/Province:
+Tech Postal Code:N4892
+Tech Country:BS
+Tech Phone:+852.81720004
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wcegt3w4d95a1672c8c3@oqjij874d9300d54bd95.privatewhois.net
+Name Server:NS2581.HOSTGATOR.COM
+Name Server:NS2582.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

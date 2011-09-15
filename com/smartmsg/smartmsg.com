@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 26-sep-2002
    Expiration Date: 26-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:10:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 15:07:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,6 +73,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: smartmsg.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Mon Sep 12 12:00:48 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 10:57:50 EDT 2011
 Reason Code: IE

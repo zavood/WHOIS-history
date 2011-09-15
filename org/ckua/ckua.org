@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31197-LROR
+Domain Name:CKUA.ORG
+Created On:18-Jun-1996 04:00:00 UTC
+Last Updated On:08-Mar-2011 22:57:54 UTC
+Expiration Date:17-Jun-2020 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuYoJHnA0uhMtgGi
+Registrant Name:Ken Regan
+Registrant Organization:CKUA Radio Foundation
+Registrant Street1:4th Floor 10526 Jasper Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edmonton
+Registrant State/Province:Alberta
+Registrant Postal Code:T5J1Z7
+Registrant Country:CA
+Registrant Phone:+1.7804282017
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jbath@ckua.org
+Admin ID:tu0S7rWZ03ph0nZU
+Admin Name:Daisy Zhuang
+Admin Organization:CKUA Radio Network
+Admin Street1:4th Floor 10526 Jasper Ave
+Admin Street2:
+Admin Street3:
+Admin City:Edmonton
+Admin State/Province:Alberta
+Admin Postal Code:T5J1Z7
+Admin Country:CA
+Admin Phone:+1.7804282017
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dzhuang@ckua.com
+Tech ID:tufg47ZCURcMWmfZ
+Tech Name:Daisy Zhuang
+Tech Organization:CKUA Radio Network
+Tech Street1:4th Floor 10526 Jasper Ave
+Tech Street2:
+Tech Street3:
+Tech City:Edmonton
+Tech State/Province:Alberta
+Tech Postal Code:T5J1Z7
+Tech Country:CA
+Tech Phone:+1.7804282017
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dzhuang@ckua.com
+Name Server:PDNS1.ULTRADNS.NET
+Name Server:PDNS2.ULTRADNS.NET
+Name Server:PDNS3.ULTRADNS.ORG
+Name Server:PDNS4.ULTRADNS.ORG
+Name Server:PDNS5.ULTRADNS.INFO
+Name Server:PDNS6.ULTRADNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NDL12D-NORID
+Domain Name................: ndla.no
+Domain Holder Handle.......: CA2650O-NORID
+Registrar Handle...........: REG359-NORID
+Legal-c Handle.............: TWN11P-NORID
+Tech-c Handle..............: HA2335P-NORID
+Name Server Handle.........: DNSI287H-NORID
+Name Server Handle.........: DNSI288H-NORID
+
+Additional information:
+Created:         2007-01-16
+Last updated:    2011-02-15
+
+NORID Handle...............: CA2650O-NORID
+Type.......................: organization
+Name.......................: CERPUS AS
+Id Type....................: organization_number
+Id Number..................: 984371594
+Registrar Handle...........: REG359-NORID
+Post Address...............: Alsv&aring;g
+Postal Code................: NO-8432
+Postal Area................: ALSV&Aring;G
+Country....................: NO
+Phone Number...............: +47.76119900
+Email Address..............: tommy@cerpus.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NOR12650D-NORID
+Domain Name................: norad.no
+Domain Holder Handle.......: DFUS1O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: KRG54P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-12-22
+
+NORID Handle...............: DFUS1O-NORID
+Type.......................: organization
+Name.......................: DIREKTORATET FOR UTVIKLINGS- SAMARBEID
+Id Type....................: organization_number
+Id Number..................: 971277882
+Registrar Handle...........: REG42-NORID
+Post Address...............: Rusel&oslash;kkveien 26, Postboks 8034 Dep
+Postal Code................: NO-0030
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22242030
+Fax Number.................: +47.22242031
+Email Address..............: Kai.Roger.Gjestemoen@norad.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-12-22
+
