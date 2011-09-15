@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       webhost.ee
+registrant:   CID:ZONE:202520
+admin-c:      CID:ZONE:202521
+nsset:        NSSID:ZONE:42994
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:14:18
+changed:      03.02.2011 11:45:05
+expire:       03.02.2012
+
+contact:      CID:ZONE:202520
+org:          IMF Baltic O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.02.2011 11:45:02
+
+contact:      CID:ZONE:202521
+name:         Rain Amor
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.02.2011 11:45:02
+
+nsset:        NSSID:ZONE:42994
+nserver:      ns.webhost.ee (80.79.113.194)
+nserver:      ns2.elion.ee
+nserver:      ns.artun.ee
+tech-c:       CID:ZONE:202522
+registrar:    zone
+created:      03.02.2011 11:45:02
+
+contact:      CID:ZONE:202522
+name:         Rain Amor
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.02.2011 11:45:02
+
+
