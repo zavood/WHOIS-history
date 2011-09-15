@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         rulez.sk
+Admin-id            SYSC-0005
+Admin-name          SysCare s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       44543042
+Admin-address       Stefanovicova 12, Bratislava 811 04
+Admin-telephone     +421 2 526 34 704, +421 903 666 466
+Admin-email         dns@syscare.sk
+Tech-id             SYSC-0005
+Tech-name           SysCare s.r.o.
+Tech-org.-ID        44543042
+Tech-address        Stefanovicova 12, Bratislava 811 04
+Tech-telephone      +421 2 526 34 704, +421 903 666 466
+Tech-email          dns@syscare.sk
+dns_name            ns1.syscare.sk
+dns_name            ns2.syscare.sk
+Last-update         2010-11-24
+Valid-date          2011-12-07
+Domain-status       DOM_OK
+

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81165295-LROR
+Domain Name:NCATP.ORG
+Created On:13-Dec-2001 21:04:14 UTC
+Last Updated On:15-Dec-2006 15:47:18 UTC
+Expiration Date:13-Dec-2011 21:04:14 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31727489-NSI
+Registrant Name:NorthcarolinaAssistive Technology Program
+Registrant Organization:NorthcarolinaAssistive Technology Program
+Registrant Street1:110 Navaho Drive, Suite 101
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27609
+Registrant Country:US
+Registrant Phone:+1.70435527
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chelling@NCATP.ORG
+Admin ID:31727492-NSI
+Admin Name:NCATP
+Admin Organization:NCATP
+Admin Street1:Ranking Bldg., 1200 Blythe Blv
+Admin Street2:
+Admin Street3:
+Admin City:Charlotte
+Admin State/Province:NC
+Admin Postal Code:28203
+Admin Country:US
+Admin Phone:+1.70435527
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chelling@NCATP.ORG
+Tech ID:5645224-NSI
+Tech Name:Windstream Technical Communications
+Tech Street1:4200 Rodney Parham Road
+Tech Street2:
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:AR
+Tech Postal Code:72201
+Tech Country:US
+Tech Phone:+1.8003164581
+Tech Phone Ext.:
+Tech FAX:+1.7047227601
+Tech FAX Ext.:
+Tech Email:hostmaster@windstream.net
+Name Server:NS1.AT-NET.NET
+Name Server:NS2.AT-NET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

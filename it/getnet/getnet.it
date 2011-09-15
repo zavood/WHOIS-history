@@ -1,0 +1,56 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             getnet.it
+Status:             ACTIVE
+Created:            1996-07-18 00:00:00
+Last Update:        2011-08-03 00:01:23
+Expire Date:        2012-07-18
+
+Registrant
+  Name:             GetNet srl
+  ContactID:        GETN1-ITNIC
+  Address:          Via G.Mazzini, 146
+                    Roma
+                    00195
+                    RM
+                    IT
+  Created:          2007-03-01 10:30:36
+  Last Update:      2011-09-06 11:39:48
+
+Admin Contact
+  Name:             Piccioni Paolo
+  ContactID:        PP5931-ITNIC
+  Address:          Via G.Mazzini, 146
+                    Roma
+                    00195
+                    RM
+                    IT
+  Created:          2002-01-09 00:00:00
+  Last Update:      2007-03-01 07:36:59
+
+Technical Contacts
+  Name:             Hostmaster Getnet
+  ContactID:        HG6386-ITNIC
+  Address:          Via Giuseppe Mazzini, 146
+                    Roma
+                    00195
+                    RM
+                    IT
+  Created:          2000-10-19 00:00:00
+  Last Update:      2009-10-12 11:38:12
+
+Registrar
+  Organization:     Unidata s.p.a.
+  Name:             MAGELLANO-MNT
+
+Nameservers
+  dns.ecity.it
+  dns2.ecity.it
+

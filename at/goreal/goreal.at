@@ -1,0 +1,69 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         goreal.at
+registrant:     WSRO4249702-NICAT
+admin-c:        MT4249703-NICAT
+tech-c:         AH705455-NICAT
+nserver:        ns1.websupport.sk
+nserver:        ns2.websupport.sk
+changed:        20110129 09:13:21
+source:         AT-DOM
+
+personname:     Michal Truban
+organization:   Websupport, s.r.o.
+street address: Kysucky Lieskovec 457
+postal code:    02334
+city:           Kysucky Lieskovec
+country:        Slovakia
+phone:          +421904306081
+e-mail:         helpdesk@websupport.sk
+nic-hdl:        WSRO4249702-NICAT
+changed:        20081206 09:36:24
+source:         AT-DOM
+
+personname:     Michal Truban
+organization:
+street address: Kysucky Lieskovec 457
+postal code:    02334
+city:           Kysucky Lieskovec
+country:        Slovakia
+phone:          +421904306081
+e-mail:         helpdesk@websupport.sk
+nic-hdl:        MT4249703-NICAT
+changed:        20081206 09:36:27
+source:         AT-DOM
+
+personname:     Registry Department
+organization:   Active 24 ASA
+street address: Pilestredet 75C Postboks 5198 Majorstua
+postal code:    N-0302
+city:           Oslo
+country:        Norway
+phone:          +4721933000
+fax-no:         +4721933001
+e-mail:         registry@registry.active24.com
+nic-hdl:        AH705455-NICAT
+changed:        20080411 08:49:16
+source:         AT-DOM
+

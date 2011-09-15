@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10834-LROR
+Domain Name:CDFE.ORG
+Created On:13-Feb-1996 05:00:00 UTC
+Last Updated On:07-Jan-2011 01:02:58 UTC
+Expiration Date:14-Feb-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30003355-NSI
+Registrant Name:CenterForThe Defense of Free Enterprise
+Registrant Organization:CenterForThe Defense of Free Enterprise
+Registrant Street1:12500 N.E. Tenth Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bellevue
+Registrant State/Province:WA
+Registrant Postal Code:98005
+Registrant Country:US
+Registrant Phone:+1.20645550
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rarnold@ESKIMO.COM
+Admin ID:15643336-NSI
+Admin Name:Ron Arnold
+Admin Street1:12500 NE 10TH PL
+Admin Street2:
+Admin Street3:
+Admin City:BELLEVUE
+Admin State/Province:WA
+Admin Postal Code:98005-2532
+Admin Country:US
+Admin Phone:+1.4254555038
+Admin Phone Ext.:
+Admin FAX:+1.4254513959
+Admin FAX Ext.:
+Admin Email:arnold.ron@gmail.com
+Tech ID:5374143-NSI
+Tech Name:Robert Dinse
+Tech Organization:Eskimo North
+Tech Street1:P.O. Box 55816
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98155
+Tech Country:US
+Tech Phone:+1.2068120051
+Tech Phone Ext.:
+Tech FAX:+1.2068120054
+Tech FAX Ext.:
+Tech Email:nanook@ESKIMO.COM
+Name Server:DNS1.NETTICA.COM
+Name Server:DNS2.NETTICA.COM
+Name Server:DNS3.NETTICA.COM
+Name Server:DNS4.NETTICA.COM
+Name Server:DNS5.NETTICA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

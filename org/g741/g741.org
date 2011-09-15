@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103488651-LROR
+Domain Name:G741.ORG
+Created On:18-Dec-2003 08:11:40 UTC
+Last Updated On:03-Dec-2010 11:48:49 UTC
+Expiration Date:18-Dec-2011 08:11:40 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu2vyGUscoa8kDFE
+Registrant Name:Robi Mukherjee
+Registrant Organization:g741.org
+Registrant Street1:27949 Oakgale ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Canyon Country
+Registrant State/Province:CA
+Registrant Postal Code:91351
+Registrant Country:US
+Registrant Phone:+1.6612995272
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:robi@g741.org
+Admin ID:tuzQSJ5C7FeQ9tpv
+Admin Name:Robi Mukherjee
+Admin Organization:g741.org
+Admin Street1:27949 Oakgale ave
+Admin Street2:
+Admin Street3:
+Admin City:Canyon Country
+Admin State/Province:CA
+Admin Postal Code:91351
+Admin Country:US
+Admin Phone:+1.6612995272
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:robi@g741.org
+Tech ID:tuDVYWpGEXia99yB
+Tech Name:Robi Mukherjee
+Tech Organization:http://home.att.net/~m37registry
+Tech Street1:27949 Oakgale ave
+Tech Street2:
+Tech Street3:
+Tech City:Canyon Country
+Tech State/Province:CA
+Tech Postal Code:91351
+Tech Country:US
+Tech Phone:+1.6612995272
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tinmuk@att.net
+Name Server:NS1.BLUEDOMINO.NET
+Name Server:NS2.BLUEDOMINO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

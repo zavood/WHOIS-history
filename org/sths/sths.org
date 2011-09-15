@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87594-LROR
+Domain Name:STHS.ORG
+Created On:30-Oct-1996 05:00:00 UTC
+Last Updated On:20-Nov-2008 15:55:25 UTC
+Expiration Date:29-Oct-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26403991-NSI
+Registrant Name:St. Thomas High School
+Registrant Organization:St. Thomas High School
+Registrant Street1:4500 Memorial Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:TX
+Registrant Postal Code:77007
+Registrant Country:US
+Registrant Phone:+1.713864634
+Registrant Phone Ext.:
+Registrant FAX:+1.713864575
+Registrant FAX Ext.:
+Registrant Email:sths@STHS.ORG
+Admin ID:26403993-NSI
+Admin Name:St. Thomas High School
+Admin Organization:St. Thomas High School
+Admin Street1:4500 Memorial Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:TX
+Admin Postal Code:77007
+Admin Country:US
+Admin Phone:+1.71386463
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sths@STHS.ORG
+Tech ID:26403992-NSI
+Tech Name:St. Thomas High School
+Tech Organization:St. Thomas High School
+Tech Street1:4500 Memorial Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:TX
+Tech Postal Code:77007
+Tech Country:US
+Tech Phone:+1.713864634
+Tech Phone Ext.:
+Tech FAX:+1.713864575
+Tech FAX Ext.:
+Tech Email:craig.slein@sths.org
+Name Server:NS1.ACTSGROUP.NET
+Name Server:NS2.ACTSGROUP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2065286-LROR
+Domain Name:NEARI.ORG
+Created On:18-Jul-1996 04:00:00 UTC
+Last Updated On:24-Jun-2005 18:58:38 UTC
+Expiration Date:17-Jul-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26541188-NSI
+Registrant Name:NationalEducationAssociation of Rhode Island
+Registrant Organization:NationalEducationAssociation of Rhode Island
+Registrant Street1:99 Bald Hill Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cranston
+Registrant State/Province:RI
+Registrant Postal Code:02920-2631
+Registrant Country:US
+Registrant Phone:+1.61752714
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jcanestraro@MATCHPOINT.COM
+Admin ID:16356960-NSI
+Admin Name:NationalEducationAssociation of Rhode Island
+Admin Organization:NationalEducationAssociation of Rhode Island
+Admin Street1:99 BALD HILL RD
+Admin Street2:
+Admin Street3:
+Admin City:CRANSTON
+Admin State/Province:RI
+Admin Postal Code:02920-2648
+Admin Country:US
+Admin Phone:+1.6175271441
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jcanestraro@MATCHPOINT.COM
+Tech ID:15099655-NSI
+Tech Name:ZipLink LLC
+Tech Organization:ZipLink LLC
+Tech Street1:900 CHELMSFORD ST FL TOWER15
+Tech Street2:
+Tech Street3:
+Tech City:LOWELL
+Tech State/Province:MA
+Tech Postal Code:01851-8100
+Tech Country:US
+Tech Phone:+1.9785518100
+Tech Phone Ext.:
+Tech FAX:+1.9785512116
+Tech FAX Ext.:
+Tech Email:dom_tech@ZIPLINK.NET
+Name Server:NS.EMBOLDEN.COM
+Name Server:NS2.EMBOLDEN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

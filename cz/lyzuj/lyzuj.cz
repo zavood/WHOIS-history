@@ -1,0 +1,77 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:19:26 2011
+
+domain:       lyzuj.cz
+registrant:   ZONER-200844924
+admin-c:      SB:WEBGLOBE
+admin-c:      JUROHA
+nsset:        NSS:WEBGLOBE:82
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   23.12.2005 16:15:00
+changed:      05.06.2009 13:48:35
+expire:       23.12.2011
+
+contact:      ZONER-200844924
+org:          Skiinfo s. r. o.
+name:         Ing. &Auml;&frac12;udov&Atilde;&shy;t Jambrich
+address:      Intern&Atilde;&iexcl;tna 18
+address:      &Aring;&frac12;ilina
+address:      010 08
+address:      SK
+phone:        +421.905661050
+e-mail:       marketing@ski.sk
+registrar:    REG-ZONER
+created:      04.04.2008 09:24:15
+
+contact:      SB:WEBGLOBE
+org:          WEBGLOBE s.r.o.
+name:         WEBGLOBE s.r.o.
+address:      Star&Atilde;&iexcl; Prievozsk&Atilde;&iexcl; 2
+address:      Bratislava
+address:      821 09
+address:      SK
+e-mail:       cznic@webglobe.sk
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      24.05.2011 15:03:45
+
+contact:      JUROHA
+org:          WEBGLOBE, s.r.o.
+name:         Juraj Hantak
+address:      Zahumenska 682/21
+address:      Ilava
+address:      01901
+address:      SK
+phone:        +421.258101062
+fax-no:       +421.258101069
+e-mail:       hantak@wg.sk
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      11.07.2008 15:49:03
+
+nsset:        NSS:WEBGLOBE:82
+nserver:      dns1.skiinfo.com
+nserver:      dns2.skiinfo.com
+tech-c:       SB:WEBGLOBE
+registrar:    REG-ZONER
+created:      05.06.2009 13:44:08
+
+

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149844053-LROR
+Domain Name:VIRAE.ORG
+Created On:17-Nov-2007 23:12:37 UTC
+Last Updated On:16-Dec-2010 09:04:49 UTC
+Expiration Date:17-Nov-2011 23:12:37 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-256487
+Registrant Name:Michal Simonfy
+Registrant Street1:Mladych budovatelov 25
+Registrant Street2:
+Registrant Street3:
+Registrant City:Banska Bystrica
+Registrant State/Province:--
+Registrant Postal Code:97401
+Registrant Country:SK
+Registrant Phone:+421.902352308
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webhouse@webhouse.sk
+Admin ID:CORG-236302
+Admin Name:Ivan Pekarovic
+Admin Organization:WebHouse, s.r.o.
+Admin Street1:Paulinska 20
+Admin Street2:
+Admin Street3:
+Admin City:Trnava
+Admin State/Province:--
+Admin Postal Code:917 01
+Admin Country:SK
+Admin Phone:+421.910969601
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webhouse@webhouse.sk
+Tech ID:CORG-236302
+Tech Name:Ivan Pekarovic
+Tech Organization:WebHouse, s.r.o.
+Tech Street1:Paulinska 20
+Tech Street2:
+Tech Street3:
+Tech City:Trnava
+Tech State/Province:--
+Tech Postal Code:917 01
+Tech Country:SK
+Tech Phone:+421.910969601
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webhouse@webhouse.sk
+Name Server:NS2.WEBSUPPORT.SK
+Name Server:NS1.WEBSUPPORT.SK
+Name Server:NS3.WEBSUPPORT.SK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

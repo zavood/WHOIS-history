@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17486909-LROR
+Domain Name:AWMI.ORG
+Created On:13-Jan-2000 19:58:32 UTC
+Last Updated On:06-Jan-2010 17:31:10 UTC
+Expiration Date:13-Jan-2015 19:58:32 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:41425393-NSI
+Registrant Name:Association of Women in the Metal Industry
+Registrant Organization:Association of Women in the Metal Industry
+Registrant Street1:Talley Management Group, Inc.
+Registrant Street2:19 Mantua Road
+Registrant Street3:
+Registrant City:Mt. Royal
+Registrant State/Province:NJ
+Registrant Postal Code:08061
+Registrant Country:US
+Registrant Phone:+1.856423320
+Registrant Phone Ext.:
+Registrant FAX:+1.856423342
+Registrant FAX Ext.:
+Registrant Email:updates@talley.com
+Admin ID:39515637-NSI
+Admin Name:Darla Dobson
+Admin Organization:Talley Management Group
+Admin Street1:19 Mantua Road
+Admin Street2:
+Admin Street3:
+Admin City:Mt. Royal
+Admin State/Province:NJ
+Admin Postal Code:08061
+Admin Country:US
+Admin Phone:+1.856423722
+Admin Phone Ext.:
+Admin FAX:+1.856423342
+Admin FAX Ext.:
+Admin Email:updates@talley.com
+Tech ID:41425393-NSI
+Tech Name:Association of Women in the Metal Industry
+Tech Organization:Association of Women in the Metal Industry
+Tech Street1:Talley Management Group, Inc.
+Tech Street2:19 Mantua Road
+Tech Street3:
+Tech City:Mt. Royal
+Tech State/Province:NJ
+Tech Postal Code:08061
+Tech Country:US
+Tech Phone:+1.856423320
+Tech Phone Ext.:
+Tech FAX:+1.856423342
+Tech FAX Ext.:
+Tech Email:updates@talley.com
+Name Server:DNS1.LAYER8HOSTING.COM
+Name Server:DNS2.LAYER8HOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
