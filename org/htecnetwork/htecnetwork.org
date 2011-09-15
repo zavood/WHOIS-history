@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150177762-LROR
+Domain Name:HTECNETWORK.ORG
+Created On:04-Dec-2007 19:59:54 UTC
+Last Updated On:05-Dec-2010 01:24:12 UTC
+Expiration Date:04-Dec-2011 19:59:54 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-3IGNOP6Q2X3D
+Registrant Name:Domain Administrator
+Registrant Organization:Immersive Engineering, Inc.
+Registrant Street1:4673 Wendrick Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Bloomfield
+Registrant State/Province:Michigan
+Registrant Postal Code:48323
+Registrant Country:US
+Registrant Phone:+1.2488652001
+Registrant Phone Ext.:
+Registrant FAX:+1.2486715342
+Registrant FAX Ext.:
+Registrant Email:domain@immerse2learn.com
+Admin ID:DOT-D8XVI2IL2T98
+Admin Name:Domain Contact
+Admin Organization:Immersive Engineering, Inc.
+Admin Street1:4226 Derry Road
+Admin Street2:
+Admin Street3:
+Admin City:Bloomfield
+Admin State/Province:MI
+Admin Postal Code:48302
+Admin Country:US
+Admin Phone:+1.2488652001
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@immersive.biz
+Tech ID:DOT-0QEGGO7MRQOA
+Tech Name:Domain Contact
+Tech Organization:Immersive Engineering, Inc.
+Tech Street1:4226 Derry Road
+Tech Street2:
+Tech Street3:
+Tech City:Bloomfield
+Tech State/Province:MI
+Tech Postal Code:48302
+Tech Country:US
+Tech Phone:+1.2488652001
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain@immersive.biz
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
