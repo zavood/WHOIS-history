@@ -1,0 +1,91 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:28:34 2011
+
+domain:       pmfhk.cz
+registrant:   SB:JM661-RIPE_XX
+admin-c:      JZ42463
+temp-c:       VK666
+nsset:        NSS:PV238-RIPE_XX:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   01.08.1994 02:00:00
+changed:      10.11.2004 11:45:00
+expire:       27.10.2011
+
+contact:      SB:JM661-RIPE_XX
+org:          Purkyne Medical Faculty
+name:         Purkyne Medical Faculty
+address:      Trebesska 1575
+address:      Hradec Kralove
+address:      50001
+address:      CZ
+e-mail:       zednicek@pmfhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      10.11.2004 11:55:00
+
+contact:      JZ42463
+name:         Ji&Aring;ô&Atilde;&shy; Zedn&Atilde;&shy;&Auml;çek
+address:      Trebesska 1575
+address:      Hradec Kralove
+address:      50001
+address:      CZ
+phone:        +420.973253002
+fax-no:       +420.973253278
+e-mail:       zednicek@pmfhk.cz
+registrar:    REG-ACTIVE24
+created:      12.02.2004 14:50:00
+changed:      10.11.2004 11:45:00
+
+contact:      VK666
+name:         V&Atilde;&shy;t Ku&Auml;çera
+address:      Trebesska 1575
+address:      Hradec Kralove
+address:      500 01
+address:      CZ
+phone:        +420.973253018
+e-mail:       kucera@pmfhk.cz
+registrar:    REG-ACTIVE24
+created:      12.02.2004 12:35:00
+changed:      18.03.2004 11:05:00
+
+nsset:        NSS:PV238-RIPE_XX:1
+nserver:      pmf.pmfhk.cz (195.113.121.1)
+nserver:      ns.hknet.cz (195.113.115.171)
+tech-c:       JZ42463
+tech-c:       VK666
+tech-c:       SB:PV238-RIPE_XX
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      01.07.2009 09:39:48
+
+contact:      SB:PV238-RIPE_XX
+org:          Purkyne Medical Faculty
+name:         Purkyne Medical Faculty
+address:      OIT  Trebesska 1575
+address:      Hradec Kralove
+address:      50001
+address:      CZ
+e-mail:       zednicek@pmfhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      10.11.2004 11:45:00
+
+

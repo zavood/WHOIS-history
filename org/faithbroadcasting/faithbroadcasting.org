@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D134030535-LROR
+Domain Name:FAITHBROADCASTING.ORG
+Created On:30-Nov-2006 14:50:05 UTC
+Last Updated On:01-Dec-2010 01:22:13 UTC
+Expiration Date:30-Nov-2011 14:50:05 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-35425657
+Registrant Name:Bob Crittenden
+Registrant Organization:Faith Broadcasting, Inc.
+Registrant Street1:P.O. Box 210789
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montgomery
+Registrant State/Province:AL
+Registrant Postal Code:36121-0789
+Registrant Country:US
+Registrant Phone:+1.3342718900
+Registrant Phone Ext.:
+Registrant FAX:+1.3342608962
+Registrant FAX Ext.:
+Registrant Email:bob@faithradio.org
+Admin ID:SPAG-35425657
+Admin Name:Bob Crittenden
+Admin Organization:Faith Broadcasting, Inc.
+Admin Street1:P.O. Box 210789
+Admin Street2:
+Admin Street3:
+Admin City:Montgomery
+Admin State/Province:AL
+Admin Postal Code:36121-0789
+Admin Country:US
+Admin Phone:+1.3342718900
+Admin Phone Ext.:
+Admin FAX:+1.3342608962
+Admin FAX Ext.:
+Admin Email:bob@faithradio.org
+Tech ID:SPAG-32126886
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Inc.
+Tech Street1:701 Lee Rd.
+Tech Street2:Suite 300
+Tech Street3:
+Tech City:Chesterbrook
+Tech State/Province:PA
+Tech Postal Code:19087
+Tech Country:US
+Tech Phone:+1.8774612631
+Tech Phone Ext.:
+Tech FAX:+1.6105601501
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.com
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

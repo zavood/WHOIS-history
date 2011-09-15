@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HEG390D-NORID
+Domain Name................: hegnar.no
+Domain Holder Handle.......: HMA448O-NORID
+Registrar Handle...........: REG318-NORID
+Legal-c Handle.............: RK1851P-NORID
+Tech-c Handle..............: BH30R-NORID
+Name Server Handle.........: NSOS23H-NORID
+Name Server Handle.........: NSST126H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: HMA448O-NORID
+Type.......................: organization
+Name.......................: HEGNAR MEDIA AS
+Id Type....................: organization_number
+Id Number..................: 930213675
+Registrar Handle...........: REG318-NORID
+Post Address...............: Hoffsvei 70A
+Postal Code................: NO-0377
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.23296300
+Fax Number.................: +47.23296301
+Email Address..............: roger@hegnar.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

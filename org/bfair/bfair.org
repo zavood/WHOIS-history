@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154237-LROR
+Domain Name:BFAIR.ORG
+Created On:20-Feb-1997 05:00:00 UTC
+Last Updated On:15-Jul-2009 19:05:23 UTC
+Expiration Date:21-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28054422-NSI
+Registrant Name:BFAIR Inc.
+Registrant Organization:BFAIR Inc.
+Registrant Street1:771 South Church Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:North Adams
+Registrant State/Province:MA
+Registrant Postal Code:01247
+Registrant Country:US
+Registrant Phone:+1.4136649382
+Registrant Phone Ext.:
+Registrant FAX:+1.4136646293
+Registrant FAX Ext.:
+Registrant Email:bfair@VGERNET.NET
+Admin ID:37683362-NSI
+Admin Name:Jamie Williams
+Admin Organization:BFAIR, Inc
+Admin Street1:771South Church Street
+Admin Street2:
+Admin Street3:
+Admin City:North Adams
+Admin State/Province:MA
+Admin Postal Code:01247
+Admin Country:US
+Admin Phone:+1.413664938
+Admin Phone Ext.:
+Admin FAX:+1.413664629
+Admin FAX Ext.:
+Admin Email:jwilliams@bfair.org
+Tech ID:37683362-NSI
+Tech Name:Jamie Williams
+Tech Organization:BFAIR, Inc
+Tech Street1:771South Church Street
+Tech Street2:
+Tech Street3:
+Tech City:North Adams
+Tech State/Province:MA
+Tech Postal Code:01247
+Tech Country:US
+Tech Phone:+1.413664938
+Tech Phone Ext.:
+Tech FAX:+1.413664629
+Tech FAX Ext.:
+Tech Email:jwilliams@bfair.org
+Name Server:NS9.WORLDNIC.COM
+Name Server:NS10.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

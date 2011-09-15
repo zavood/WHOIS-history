@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: OKO547D-NORID
+Domain Name................: okonor.no
+Domain Holder Handle.......: OA1396O-NORID
+Registrar Handle...........: REG359-NORID
+Legal-c Handle.............: KE1429P-NORID
+Tech-c Handle..............: KH5359P-NORID
+Name Server Handle.........: DNSI287H-NORID
+Name Server Handle.........: DNSI288H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2011-02-11
+
+NORID Handle...............: OA1396O-NORID
+Type.......................: organization
+Name.......................: &Oslash;KONOR-GRUPPEN AS
+Id Type....................: organization_number
+Id Number..................: 860651572
+Registrar Handle...........: REG359-NORID
+Post Address...............: Sivert Nilsensgate 26
+Post Address...............: Postboks 376
+Postal Code................: NO-8301
+Postal Area................: Svolvar
+Country....................: NO
+Phone Number...............: +47.76071877
+Fax Number.................: +47.76072159
+Email Address..............: k11@sn.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

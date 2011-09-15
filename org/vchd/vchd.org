@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1873997-LROR
+Domain Name:VCHD.ORG
+Created On:30-Aug-1998 04:00:00 UTC
+Last Updated On:22-Jul-2011 19:16:30 UTC
+Expiration Date:29-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuXz1BzyX1jb2V2T
+Registrant Name:Vermilion County Health Department
+Registrant Organization:Vermilion County Health Department
+Registrant Street1:200 College St.
+Registrant Street2:Suite A
+Registrant Street3:
+Registrant City:Danville
+Registrant State/Province:IL
+Registrant Postal Code:61832
+Registrant Country:US
+Registrant Phone:+1.21743126
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:slaker@vchd.org
+Admin ID:tuEP2nH0EKPtcDd4
+Admin Name:Steve Laker
+Admin Organization:Vermillion County Health
+Admin Street1:200 S COLLEGE ST
+Admin Street2:
+Admin Street3:
+Admin City:DANVILLE
+Admin State/Province:IL
+Admin Postal Code:61832-6744
+Admin Country:US
+Admin Phone:+1.217431266
+Admin Phone Ext.:
+Admin FAX:+1.2174317483
+Admin FAX Ext.:
+Admin Email:slaker@vchd.org
+Tech ID:tuvGutKyy583fNwe
+Tech Name:Domain Administrator
+Tech Organization:The Iserv Company
+Tech Street1:5222 33rd Street SE
+Tech Street2:
+Tech Street3:
+Tech City:Grand Rapids
+Tech State/Province:MI
+Tech Postal Code:49512
+Tech Country:US
+Tech Phone:+1.6164933720
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:opensrs_tech@iserv.net
+Name Server:NS1.COOKETECH.NET
+Name Server:NS2.COOKETECH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

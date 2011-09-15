@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; sicame.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sicame.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    S6708-FRNIC
+admin-c:     JB1608-FRNIC
+tech-c:      LC159-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5325-FRNIC
+registrar:   PROXIM IT
+anniversary: 14/01
+created:     13/06/1997
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL5325-FRNIC
+nserver:     ns1.lsv.fr [85.14.178.9]
+nserver:     ns3.proximit.fr [85.14.178.65]
+source:      FRNIC
+
+registrar:   PROXIM IT
+type:        Isp Option 2
+address:     Les Hauts de Chignac
+address:     POMPADOUR
+country:     FR
+phone:       +33 5 55 73 99 00
+fax-no:      +33 5 55 73 61 84
+e-mail:      ndd@proximit.fr
+website:     http://www.proximit.fr
+anonymous:   NO
+registered:  01/01/2006
+source:      FRNIC
+
+nic-hdl:     S6708-FRNIC
+type:        ORGANIZATION
+contact:     Sicame
+address:     B.P. 1
+address:     19231 Arnac-Pompadour
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JB1608-FRNIC
+type:        PERSON
+contact:     Jerome Barbier
+address:     SICAME
+address:     1, avenue Basile Lachaud
+address:     19230 Arnac-Pompadour
+country:     FR
+phone:       +33 5 55 73 89 14
+e-mail:      jerome.barbier@sicame.fr
+changed:     08/01/2003 postmaster@lsv.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LC159-FRNIC
+type:        ROLE
+contact:     PROXIM IT
+address:     PROXIM IT
+address:     24, avenue du President Wilson
+address:     87700 Aixe-sur-Vienne
+country:     FR
+e-mail:      hebergement@proximit.fr
+admin-c:     PR204-FRNIC
+tech-c:      PR204-FRNIC
+changed:     14/02/2006 hebergement@proximit.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

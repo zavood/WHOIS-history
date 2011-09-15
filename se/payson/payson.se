@@ -1,0 +1,35 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           payson.se
+holder:           payson0910-00003
+admin-c:          hanbas3514-00001
+tech-c:           hanbas3514-00001
+billing-c:        hanbas3514-00001
+created:          2003-10-31
+modified:         2010-10-27
+expires:          2011-10-31
+transferred:      2009-10-29
+nserver:          ns01.osl.basefarm.net
+nserver:          ns01.sth.basefarm.net
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Domaininfo AB

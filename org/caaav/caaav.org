@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27531761-LROR
+Domain Name:CAAAV.ORG
+Created On:20-May-2000 22:33:15 UTC
+Last Updated On:23-May-2011 13:07:26 UTC
+Expiration Date:20-May-2012 22:33:15 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-478800
+Registrant Name:samlath tuy
+Registrant Organization:CAAAV
+Registrant Street1:2473 valentine ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:bronx
+Registrant State/Province:NY
+Registrant Postal Code:10458
+Registrant Country:US
+Registrant Phone:+1.7182207391
+Registrant Phone Ext.:16
+Registrant FAX:+1.7182207398
+Registrant FAX Ext.:
+Registrant Email:stuy@caaav.org
+Admin ID:ODN-478800
+Admin Name:samlath tuy
+Admin Organization:CAAAV
+Admin Street1:2473 valentine ave
+Admin Street2:
+Admin Street3:
+Admin City:bronx
+Admin State/Province:NY
+Admin Postal Code:10458
+Admin Country:US
+Admin Phone:+1.7182207391
+Admin Phone Ext.:16
+Admin FAX:+1.7182207398
+Admin FAX Ext.:
+Admin Email:stuy@caaav.org
+Tech ID:ODN-482960
+Tech Name:Johnn Tan
+Tech Street1:1215 S Beach Blvd #310
+Tech Street2:
+Tech Street3:
+Tech City:Anaheim
+Tech State/Province:CA
+Tech Postal Code:92804
+Tech Country:US
+Tech Phone:+1.7147505849
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sales@mangohost.com
+Name Server:NS1.STEADFAST.NET
+Name Server:NS2.STEADFAST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

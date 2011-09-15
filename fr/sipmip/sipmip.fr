@@ -1,0 +1,83 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; sipmip.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sipmip.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    S6499-FRNIC
+admin-c:     S6499-FRNIC
+tech-c:      LM3505-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2549-FRNIC
+registrar:   LNET MULTIMEDIA
+anniversary: 19/02
+created:     19/02/2010
+last-update: 22/02/2010
+source:      FRNIC
+
+ns-list:     NSL2549-FRNIC
+nserver:     oneida.lnet.fr [91.121.61.120]
+nserver:     carib.lnet.fr [91.121.161.159]
+source:      FRNIC
+
+registrar:   LNET MULTIMEDIA
+type:        Isp Option 2
+address:     19 Avenue Jacques Cartier
+address:     Immeuble La Fr&eacute;gate - Hall B
+address:     SAINT HERBLAIN CEDEX
+country:     FR
+phone:       +33 5 49 49 46 00
+fax-no:      +33 5 49 49 46 01
+e-mail:      dns@lnet.fr
+website:     http://www.lnet.fr
+anonymous:   NO
+registered:  20/01/1998
+source:      FRNIC
+
+nic-hdl:     S6499-FRNIC
+type:        ORGANIZATION
+contact:     SQLI
+address:     268, avenue du Pr&eacute;sident Wilson
+address:     93210 la Plaine Saint Denis
+country:     FR
+phone:       +33 1 55 93 26 00
+e-mail:      bfourka@lnet.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LM3505-FRNIC
+type:        ROLE
+contact:     LNET MULTIMEDIA
+address:     T&eacute;l&eacute;port 4 - Ast&eacute;rama 1
+address:     B.P. 50137
+address:     86960 Futuroscope Cedex
+country:     FR
+phone:       +33 5 49 49 46 00
+fax-no:      +33 5 49 49 46 01
+e-mail:      dns@lnet.fr
+admin-c:     BF353-FRNIC
+tech-c:      BF353-FRNIC
+tech-c:      BD2189-FRNIC
+notify:      dns@lnet.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,73 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T03:30:49+12:00
+domain_name: starbucks.co.nz
+query_status: 200 Active
+domain_dateregistered: 1997-09-02T00:00:00+12:00
+domain_datebilleduntil: 2012-09-02T00:00:00+12:00
+domain_datelastmodified: 2011-08-16T00:37:49+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Melbourne IT Limited
+registrar_address1: Level 2
+registrar_address2: 120 King Street
+registrar_city: Melbourne
+registrar_province: Victoria
+registrar_postalcode: 3000
+registrar_country: AU (AUSTRALIA)
+registrar_phone: +61 3 8624 2300
+registrar_fax: +61 3 8624 2499
+registrar_email: hostmaster@melbourneit.com
+%
+registrant_contact_name: Starbucks Corporation
+registrant_contact_address1: 2401 Utah Avenue S
+registrant_contact_address2: Mailstop #S-IT7
+registrant_contact_city: SEATTLE
+registrant_contact_province: WA
+registrant_contact_postalcode: 98134
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +1 206 3187955
+registrant_contact_fax: +1 206 3181317
+registrant_contact_email: inethost@starbucks.com
+%
+admin_contact_name: Internet Hostmaster
+admin_contact_address1: 2401 Utah Avenue S
+admin_contact_address2: Mailstop #S-IT7
+admin_contact_city: SEATTLE
+admin_contact_province: WA
+admin_contact_postalcode: 98134
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +1 206 3187955
+admin_contact_fax: +1 206 3181317
+admin_contact_email: inethost@starbucks.com
+%
+technical_contact_name: DBMS Tech
+technical_contact_address1: VeriSign, Inc., 487 E. Middlefield Rd., Mailstop MV 3-1-2
+technical_contact_city: Mountain View , CA , 94043
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1 800 5792848
+technical_contact_email: dbms-tech@verisign.com
+%
+ns_name_01: a4.nstld.com
+ns_name_02: f4.nstld.com
+ns_name_03: g4.nstld.com
+ns_name_04: l4.nstld.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
