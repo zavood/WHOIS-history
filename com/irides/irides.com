@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YIOD.NET
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Domain Name: IRIDES.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: DNS1.IRIDES.COM
+   Name Server: DNS2.IRIDES.COM
+   Name Server: DNS3.IRIDES.COM
    Status: clientTransferProhibited
-   Updated Date: 25-mar-2011
-   Creation Date: 17-apr-2009
-   Expiration Date: 17-apr-2012
+   Updated Date: 13-sep-2010
+   Creation Date: 16-nov-1998
+   Expiration Date: 15-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:32:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:32:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,52 +52,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
 =-=-=-=
-Visit AboutUs.org for more information about yiod.net
-&lt;a href=&quot;http://www.aboutus.org/yiod.net&quot;&gt;AboutUs: yiod.net&lt;/a&gt;
 
 
-Domain name: yiod.net
+Domain name: irides.com
 
 Registrant Contact:
-   Ministerio YIOD
-   Ornan Santana ()
+   Irides, LLC
+   NA NA ()
 
    Fax:
-   Santo Domingo
-   Santo Domingo, DN 0000
-   DO
+   1000 Wilson Blvd.
+   Suite 601
+   Arlington, VA 22209
+   US
 
 Administrative Contact:
-   Ministerio YIOD
-   Ornan Santana (ornan07@hotmail.com)
-   +1.8095320071
-   Fax:
-   Santo Domingo
-   Santo Domingo, DN 0000
-   DO
+   NA
+   LLC Irides (support@irides.com)
+   +1.7032367900
+   Fax: 703-236-7901
+   1000 Wilson Blvd.
+   Suite 601
+   Arlington, VA 22209
+   US
 
 Technical Contact:
-   Ministerio YIOD
-   Ornan Santana (ornan07@hotmail.com)
-   +1.8095320071
-   Fax:
-   Santo Domingo
-   Santo Domingo, DN 0000
-   DO
+   NA
+   Dan Kunitz (support@irides.com)
+   +1.7032367900
+   Fax: 703-236-7901
+   Irides, LLC
+   1000 Wilson Blvd.
+   Arlington, VA 22209
+   US
 
 Status: Locked
 
 Name Servers:
-   ns51.1and1.com
-   ns52.1and1.com
+   dns1.irides.com
+   dns2.irides.com
+   dns3.irides.com
 
-Creation date: 17 Apr 2009 19:56:06
-Expiration date: 17 Apr 2012 19:56:06
+Creation date: 16 Nov 1998 05:00:00
+Expiration date: 15 Nov 2016 05:00:00
 
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+
 =-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
@@ -115,3 +136,10 @@ consent from us.
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
 Version 6.3 4/3/2002
+
+
+Visit AboutUs.org for more information about irides.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/irides.com&quot;&gt;AboutUs: irides.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
