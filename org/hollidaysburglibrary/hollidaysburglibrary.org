@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D76025113-LROR
+Domain Name:HOLLIDAYSBURGLIBRARY.ORG
+Created On:14-Aug-2001 16:04:47 UTC
+Last Updated On:15-Aug-2011 10:30:50 UTC
+Expiration Date:14-Aug-2013 16:04:47 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR30696275
+Registrant Name:Janet Eldred
+Registrant Organization:Hollidaysburg Area Public Library
+Registrant Street1:405 Clark Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hollidaysburg
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:16648
+Registrant Country:US
+Registrant Phone:+1.8146955961
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hapldirector@atlanticbb.net
+Admin ID:CR30696277
+Admin Name:Janet Eldred
+Admin Organization:Hollidaysburg Area Public Library
+Admin Street1:405 Clark Street
+Admin Street2:
+Admin Street3:
+Admin City:Hollidaysburg
+Admin State/Province:Pennsylvania
+Admin Postal Code:16648
+Admin Country:US
+Admin Phone:+1.8146955961
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hapldirector@atlanticbb.net
+Tech ID:CR30696276
+Tech Name:Janet Eldred
+Tech Organization:Hollidaysburg Area Public Library
+Tech Street1:405 Clark Street
+Tech Street2:
+Tech Street3:
+Tech City:Hollidaysburg
+Tech State/Province:Pennsylvania
+Tech Postal Code:16648
+Tech Country:US
+Tech Phone:+1.8146955961
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hapldirector@atlanticbb.net
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157410693-LROR
+Domain Name:FINANCEANDECONOMICS.ORG
+Created On:22-Oct-2009 12:52:09 UTC
+Last Updated On:22-Sep-2010 13:02:28 UTC
+Expiration Date:22-Oct-2011 12:52:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuXg6SjdwyIYrx7r
+Registrant Name:Alasdair Macleod
+Registrant Organization:Alasdair Macleod
+Registrant Street1:Somerled Back Lane
+Registrant Street2:Newton Poppleford
+Registrant Street3:
+Registrant City:Sidmouth
+Registrant State/Province:Devon
+Registrant Postal Code:EX100BX
+Registrant Country:GB
+Registrant Phone:+44.01395568393
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:macleod@cwgsy.net
+Admin ID:tu6WBNXYAj9muiVR
+Admin Name:Alasdair Macleod
+Admin Organization:Alasdair Macleod
+Admin Street1:Somerled Back Lane
+Admin Street2:Newton Poppleford
+Admin Street3:
+Admin City:Sidmouth
+Admin State/Province:Devon
+Admin Postal Code:EX100BX
+Admin Country:GB
+Admin Phone:+44.01395568393
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:macleod@cwgsy.net
+Tech ID:tuNQGElSF5wBvXnJ
+Tech Name:Alasdair Macleod
+Tech Organization:Alasdair Macleod
+Tech Street1:Somerled Back Lane
+Tech Street2:Newton Poppleford
+Tech Street3:
+Tech City:Sidmouth
+Tech State/Province:Devon
+Tech Postal Code:EX100BX
+Tech Country:GB
+Tech Phone:+44.01395568393
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:macleod@cwgsy.net
+Name Server:NS1.LIVEDNS.CO.UK
+Name Server:NS2.LIVEDNS.CO.UK
+Name Server:NS3.LIVEDNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

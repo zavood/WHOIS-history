@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FTMYERSLIMO.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVDNS.COM
-   Name Server: NS2.SERVDNS.COM
+   Domain Name: GG007.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS1.35INTER.COM
+   Name Server: NS2.35INTER.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 20-mar-2005
-   Expiration Date: 20-mar-2013
+   Updated Date: 16-feb-2011
+   Creation Date: 22-feb-2006
+   Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:49:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:50:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +52,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name      : gg007.com
+PunnyCode        : gg007.com
+Creation Date    : 2006-02-22 00:00:00
+Updated Date     : 2011-02-17 08:59:36
+Expiration Date  : 2012-02-22 00:00:00
 
 
 Registrant:
-   WebSmart Int. INC
+  Organization   : chenwei
+  Name           : chen wei
+  Address        : fuzhou
+  City           : fuzhou
+  Province/State : Fujian
+  Country        : CN
+  Postal Code    : 350003
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FTMYERSLIMO.COM
+Administrative Contact:
+  Name           : chen wei
+  Organization   : chenwei
+  Address        : fuzhou
+  City           : fuzhou
+  Province/State : Fujian
+  Country        : CN
+  Postal Code    :
+  Phone Number   : 86-0591-87808620
+  Fax            : -0591-87808620
+  Email          : hibei@163.com
 
-   Domain servers in listed order:
-      NS1.SERVDNS.COM
-      NS2.SERVDNS.COM
+Technical Contact:
+  Name           : chen wei
+  Organization   : chenwei
+  Address        :
+  City           : fuzhou
+  Province/State : Fujian
+  Country        : CN
+  Postal Code    :
+  Phone Number   : 86-0591-87808620
+  Fax            : 86-0591-87808620
+  Email          : hibei@163.com
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FTMYERSLIMO.COM
+Billing Contact:
+  Name           : chen wei
+  Organization   : chenwei
+  Address        : fuzhou
+  City           : fuzhou
+  Province/State : Fujian
+  Country        : CN
+  Postal Code    :
+  Phone Number   : --
+  Fax            : 86-0591-87808620
+  Email          : hibei@163.com

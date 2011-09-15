@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D823052-LROR
+Domain Name:MEHCA.ORG
+Created On:28-Jan-1998 05:00:00 UTC
+Last Updated On:18-Jan-2011 17:13:58 UTC
+Expiration Date:27-Jan-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26492546-NSI
+Registrant Name:Maine Health Care Association
+Registrant Organization:Maine Health Care Association
+Registrant Street1:317 State Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Augusta
+Registrant State/Province:ME
+Registrant Postal Code:04330
+Registrant Country:US
+Registrant Phone:+1.20762311
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dchicoin@MEHCA.ORG
+Admin ID:26492548-NSI
+Admin Name:Maine Health Care Association
+Admin Organization:Maine Health Care Association
+Admin Street1:317 State Street
+Admin Street2:
+Admin Street3:
+Admin City:Augusta
+Admin State/Province:ME
+Admin Postal Code:04330
+Admin Country:US
+Admin Phone:+1.20762311
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dchicoin@MEHCA.ORG
+Tech ID:5878151-NSI
+Tech Name:Prexar.com LLC
+Tech Organization:Prexar.com LLC
+Tech Street1:40 SUMMER ST
+Tech Street2:
+Tech Street3:
+Tech City:BANGOR
+Tech State/Province:ME
+Tech Postal Code:04401-6446
+Tech Country:US
+Tech Phone:+1.2079744300
+Tech Phone Ext.:
+Tech FAX:+1.2079744378
+Tech FAX Ext.:
+Tech Email:hostmaster@PREXAR.COM
+Name Server:NS357.WEBSITEWELCOME.COM
+Name Server:NS358.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

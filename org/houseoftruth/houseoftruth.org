@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D163142990-LROR
+Domain Name:HOUSEOFTRUTH.ORG
+Created On:25-Aug-2011 23:22:15 UTC
+Last Updated On:25-Aug-2011 23:22:17 UTC
+Expiration Date:25-Aug-2016 23:22:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:CR91023700
+Registrant Name:Michael Akinyemi
+Registrant Organization:House of Truth Family Church
+Registrant Street1:5324 Sorghum Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fort Worth
+Registrant State/Province:Texas
+Registrant Postal Code:76179
+Registrant Country:US
+Registrant Phone:+1.4697338772
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:makinyemi@sbcglobal.net
+Admin ID:CR91023702
+Admin Name:Michael Akinyemi
+Admin Organization:House of Truth Family Church
+Admin Street1:5324 Sorghum Dr
+Admin Street2:
+Admin Street3:
+Admin City:Fort Worth
+Admin State/Province:Texas
+Admin Postal Code:76179
+Admin Country:US
+Admin Phone:+1.4697338772
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:makinyemi@sbcglobal.net
+Tech ID:CR91023701
+Tech Name:Michael Akinyemi
+Tech Organization:House of Truth Family Church
+Tech Street1:5324 Sorghum Dr
+Tech Street2:
+Tech Street3:
+Tech City:Fort Worth
+Tech State/Province:Texas
+Tech Postal Code:76179
+Tech Country:US
+Tech Phone:+1.4697338772
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:makinyemi@sbcglobal.net
+Name Server:NS35.DOMAINCONTROL.COM
+Name Server:NS36.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

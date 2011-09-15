@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FTMYERSLIMO.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVDNS.COM
-   Name Server: NS2.SERVDNS.COM
+   Domain Name: 21-PLASTIC.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   Name Server: NS1.DNSV2.COM
+   Name Server: NS2.DNSV2.COM
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 20-mar-2005
-   Expiration Date: 20-mar-2013
+   Updated Date: 08-sep-2011
+   Creation Date: 11-sep-2007
+   Expiration Date: 11-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:49:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:51:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +54,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
+Domain name: 21-plastic.com
 
-Registrant:
-   WebSmart Int. INC
+Registrant Contact:
+   huangfaxiang
+   faxiang huang chinaweone@gmail.com
+   +86.59522206208 fax: +86.59522207208
+   fujiangqz
+   quanzhou fujian 362000
+   cn
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FTMYERSLIMO.COM
+Administrative Contact:
+   faxiang huang chinaweone@gmail.com
+   +86.59522206208 fax: +86.59522207208
+   fujiangqz
+   quanzhou fujian 362000
+   cn
 
-   Domain servers in listed order:
-      NS1.SERVDNS.COM
-      NS2.SERVDNS.COM
+Technical Contact:
+   faxiang huang chinaweone@gmail.com
+   +86.59522206208 fax: +86.59522207208
+   fujiangqz
+   quanzhou fujian 362000
+   cn
 
+Billing Contact:
+   faxiang huang chinaweone@gmail.com
+   +86.59522206208 fax: +86.59522207208
+   fujiangqz
+   quanzhou fujian 362000
+   cn
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FTMYERSLIMO.COM
+DNS:
+ns1.dnsv2.com
+ns2.dnsv2.com
+f1g1ns1.dnspod.net
+f1g1ns2.dnspod.net
+
+Created: 2007-09-11
+Expires: 2013-09-11

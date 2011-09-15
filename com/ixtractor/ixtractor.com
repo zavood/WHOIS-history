@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FTMYERSLIMO.COM
+   Domain Name: IXTRACTOR.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.SERVDNS.COM
-   Name Server: NS2.SERVDNS.COM
+   Name Server: NS18.ZONEEDIT.COM
+   Name Server: NS8.ZONEEDIT.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 20-mar-2005
-   Expiration Date: 20-mar-2013
+   Updated Date: 16-sep-2010
+   Creation Date: 15-sep-2004
+   Expiration Date: 15-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:49:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:50:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   WebSmart Int. INC
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FTMYERSLIMO.COM
+   Domain Name: IXTRACTOR.COM
 
    Domain servers in listed order:
-      NS1.SERVDNS.COM
-      NS2.SERVDNS.COM
+      NS18.ZONEEDIT.COM
+      NS8.ZONEEDIT.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=FTMYERSLIMO.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=IXTRACTOR.COM
