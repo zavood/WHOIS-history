@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SOHU.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-SOHU.COM
+   Domain Name: RIGHTSOURCERX.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: clientTransferProhibited
+   Updated Date: 10-sep-2010
+   Creation Date: 10-nov-2005
+   Expiration Date: 10-nov-2011
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:40:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:43:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... rightsourcerx.com
+  Creation Date........ 2005-11-11
+  Registration Date.... 2010-09-11
+  Expiry Date.......... 2011-11-11
+  Organisation Name.... Humana Inc.
+  Organisation Address. 500 West Main St.
+  Organisation Address.
+  Organisation Address. Louisville
+  Organisation Address. 40202
+  Organisation Address. KY
+  Organisation Address. UNITED STATES
+
+Admin Name........... Admin .
+  Admin Address........ 500 West Main Street
+  Admin Address........
+  Admin Address........ Louisville
+  Admin Address........ 40202
+  Admin Address........ KY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domainadmin@humana.com
+  Admin Phone.......... +1.5025801000
+  Admin Fax............
+
+Tech Name............ Admin .
+  Tech Address......... 500 West Main Street
+  Tech Address.........
+  Tech Address......... Louisville
+  Tech Address......... 40202
+  Tech Address......... KY
+  Tech Address......... UNITED STATES
+  Tech Email........... domainadmin@humana.com
+  Tech Phone........... +1.5025801000
+  Tech Fax.............
+  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
+  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
+
+

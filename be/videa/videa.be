@@ -35,30 +35,30 @@
 %- DNS can take measures to limit the use of its whois services in order to
 %- protect the privacy of its registrants or the integrity of the database.
 %-
-% WHOIS kopjeskrant
-Domain:      kopjeskrant
+% WHOIS videa
+Domain:      videa
 Status:      REGISTERED
-Registered:  Wed Aug  4 2010
+Registered:  Fri Mar 23 2007
 
 Licensee:
    Not shown, please visit www.dns.be for webbased whois.
 
 Agent Technical Contacts:
-   Last Name:     Christian Sieberer
-   Company Name:  Christian Sieberer EDV
-   Language:      en
-   Street:        Barakgasse 1-3/19/4
-   Location:      1230 Vienna
-   Country:       AT
-   Phone:         +43.69910476660
-   Fax:           +43.125303330021
-   Email:         chris@sispace.at
+   Last Name:     Anouar Adlani
+   Company Name:  EuroDNS S.A
+   Language:      fr
+   Street:        2, rue Leon Laval
+   Location:      L-3372 Leudelange
+   Country:       LU
+   Phone:         +352.26319161
+   Fax:           +352.26372537
+   Email:         hostmaster@eurodns.com
 
 Agent:
-   Name:      Christian Sieberer EDV
-   Website:   www.sispace.at
+   Name:      Eurodns S.A.
+   Website:   www.eurodns.com
 
 Nameservers:
-   ns1.phreneticus.at
-   ns2.phreneticus.at
+   ns1.eurodns.com
+   ns2.eurodns.com
 

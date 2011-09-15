@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D143868-LROR
+Domain Name:MIUSA.ORG
+Created On:11-Feb-1997 05:00:00 UTC
+Last Updated On:16-Dec-2009 18:17:15 UTC
+Expiration Date:12-Feb-2019 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27059476-NSI
+Registrant Name:MIUSA
+Registrant Organization:MIUSA
+Registrant Street1:132 E Broadway
+Registrant Street2:Suite 343
+Registrant Street3:
+Registrant City:Eugene
+Registrant State/Province:OR
+Registrant Postal Code:97401
+Registrant Country:US
+Registrant Phone:+1.541343128
+Registrant Phone Ext.:
+Registrant FAX:+1.541343681
+Registrant FAX Ext.:
+Registrant Email:rwinand@miusa.org
+Admin ID:27059477-NSI
+Admin Name:Rose Winand
+Admin Organization:Mobility International USA
+Admin Street1:132 E Broadway
+Admin Street2:Suite 343
+Admin Street3:
+Admin City:Eugene
+Admin State/Province:OR
+Admin Postal Code:97401
+Admin Country:US
+Admin Phone:+1.541343128
+Admin Phone Ext.:
+Admin FAX:+1.541343681
+Admin FAX Ext.:
+Admin Email:rwinand@miusa.org
+Tech ID:27059477-NSI
+Tech Name:Rose Winand
+Tech Organization:Mobility International USA
+Tech Street1:132 E Broadway
+Tech Street2:Suite 343
+Tech Street3:
+Tech City:Eugene
+Tech State/Province:OR
+Tech Postal Code:97401
+Tech Country:US
+Tech Phone:+1.541343128
+Tech Phone Ext.:
+Tech FAX:+1.541343681
+Tech FAX Ext.:
+Tech Email:rwinand@miusa.org
+Name Server:NS1.FEYNMAN.NET
+Name Server:NS2.FEYNMAN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

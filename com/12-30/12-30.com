@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SOHU.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-SOHU.COM
+   Domain Name: 12-30.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS33.DOMAINCONTROL.COM
+   Name Server: NS34.DOMAINCONTROL.COM
+   Status: redemptionPeriod
+   Updated Date: 08-sep-2011
+   Creation Date: 17-jan-2010
+   Expiration Date: 17-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:40:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:42:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+No match for &quot;12-30.com&quot; in the registrar database.
+

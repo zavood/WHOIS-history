@@ -5,14 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SOHU.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-SOHU.COM
+   Domain Name: BIXIP.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: A.NS.JOKER.COM
+   Name Server: B.NS.JOKER.COM
+   Name Server: C.NS.JOKER.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-jun-2011
+   Creation Date: 02-jul-2008
+   Expiration Date: 02-jul-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:40:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:43:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +52,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       bixip.com
+owner:        Webhaz Ltd
+organization: Webhaz Ltd
+email:        deface@deface.hu
+address:      1580 Bp 145 Pf 37
+city:         Budapest
+state:        Hungary
+postal-code:  1580
+country:      HU
+phone:        +363.06583066
+admin-c:      CCOM-1294131 deface@deface.hu
+tech-c:       CCOM-1294131 deface@deface.hu
+billing-c:    CCOM-1294131 deface@deface.hu
+nserver:      a.ns.joker.com 207.44.185.100
+nserver:      b.ns.joker.com 66.197.237.21
+nserver:      c.ns.joker.com 207.44.185.10
+status:       lock
+created:      2008-07-02 20:19:34 UTC
+modified:     2011-06-14 08:51:13 UTC
+expires:      2012-07-02 20:19:34 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-1294131
+person:       Webhaz Ltd
+organization: Webhaz Ltd
+email:        deface@deface.hu
+address:      1580 Bp 145 Pf 37
+city:         Budapest
+state:        Hungary
+postal-code:  1580
+country:      HU
+phone:        +363.06583066
+
+source:       joker.com live whois service
+query-time:   0.03342
+db-updated:   2011-09-15 08:44:07
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

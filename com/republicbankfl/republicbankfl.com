@@ -5,14 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SOHU.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-SOHU.COM
+   Domain Name: REPUBLICBANKFL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
+   Status: clientTransferProhibited
+   Updated Date: 02-sep-2011
+   Creation Date: 26-oct-1995
+   Expiration Date: 25-oct-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:40:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:41:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... republicbankfl.com
+  Creation Date........ 1995-10-26
+  Registration Date.... 2010-08-15
+  Expiry Date.......... 2012-10-26
+  Organisation Name.... Branch Banking and Trust Co. BB&amp;T
+  Organisation Address. 3127 Smoketree Court
+  Organisation Address.
+  Organisation Address. Raleigh
+  Organisation Address. 27604
+  Organisation Address. NC
+  Organisation Address. UNITED STATES
+
+Admin Name........... . .
+  Admin Address........ 3127 Smoketree Court
+  Admin Address........
+  Admin Address........ Raleigh
+  Admin Address........ 27604
+  Admin Address........ NC
+  Admin Address........ UNITED STATES
+  Admin Email.......... Dns-admin@bbandt.com
+  Admin Phone.......... +1.9197913428
+  Admin Fax............ +1.9197913356
+
+Tech Name............ Admin .
+  Tech Address......... 3127 Smoketree Court
+  Tech Address.........
+  Tech Address......... Raleigh
+  Tech Address......... 27604
+  Tech Address......... NC
+  Tech Address......... UNITED STATES
+  Tech Email........... Dns-admin@bbandt.com
+  Tech Phone........... +1.9197913428
+  Tech Fax............. +1.9197913356
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+
+

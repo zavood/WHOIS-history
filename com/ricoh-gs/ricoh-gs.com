@@ -5,14 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-SOHU.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-SOHU.COM
+   Domain Name: RICOH-GS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
+   Status: clientTransferProhibited
+   Updated Date: 06-apr-2011
+   Creation Date: 26-may-2005
+   Expiration Date: 26-may-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:40:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:42:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+Domain Name.......... ricoh-gs.com
+  Creation Date........ 2005-05-26
+  Registration Date.... 2010-05-22
+  Expiry Date.......... 2012-05-27
+  Organisation Name.... Ricoh Europe Plc
+  Organisation Address. 66 Chiltern Street
+  Organisation Address.
+  Organisation Address. London
+  Organisation Address. W1U 4AG
+  Organisation Address. -
+  Organisation Address. GREAT BRITAIN (UK)
+
+Admin Name........... Rosemin Patel
+  Admin Address........ Ricoh Europe Plc
+  Admin Address........ 66 Chiltern Street
+  Admin Address........ London
+  Admin Address........ W1U 4AG
+  Admin Address........ -
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... cco@ricoh-europe.com
+  Admin Phone.......... +44.2074651062
+  Admin Fax............
+
+Tech Name............ Martin Read
+  Tech Address......... Ricoh Europe Plc
+  Tech Address......... 66 Chiltern Street
+  Tech Address......... London
+  Tech Address......... W1U 4AG
+  Tech Address......... -
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... admin@melbourneitdbs.com
+  Tech Phone........... +44.2074651101
+  Tech Fax.............
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... k4.nstld.com
+  Name Server.......... l4.nstld.com
+
+
