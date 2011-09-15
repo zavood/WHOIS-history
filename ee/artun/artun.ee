@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       artun.ee
+registrant:   CID:ZONE:138744
+admin-c:      CID:ZONE:138745
+nsset:        NSSID:ZONE:27066
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:10:57
+changed:      16.12.2010 11:15:51
+expire:       16.12.2011
+
+contact:      CID:ZONE:138744
+org:          Eesti Kunstiakadeemia
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      16.12.2010 11:15:17
+
+contact:      CID:ZONE:138745
+name:         Mihkel-Mikelis Putrin&Aring;&iexcl;
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      16.12.2010 11:15:16
+
+nsset:        NSSID:ZONE:27066
+nserver:      ns.artun.ee (193.40.129.200)
+nserver:      ns.eenet.ee
+tech-c:       CID:ZONE:138746
+registrar:    zone
+created:      16.12.2010 11:15:17
+
+contact:      CID:ZONE:138746
+name:         Mihkel-Mikelis Putrin&Aring;&iexcl;
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      16.12.2010 11:15:16
+
+

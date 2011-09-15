@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PCH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: MIA01.DIGEX.COM
-   Name Server: MIA02.DIGEX.COM
+   Domain Name: INSTALLHARDWOODFLOORTIPS.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1239.WEBSITEWELCOME.COM
+   Name Server: NS1240.WEBSITEWELCOME.COM
    Status: clientTransferProhibited
-   Updated Date: 14-dec-2010
-   Creation Date: 18-jan-1994
-   Expiration Date: 19-jan-2013
+   Updated Date: 27-aug-2011
+   Creation Date: 20-may-2010
+   Expiration Date: 20-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:42:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:42:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name: installhardwoodfloortips.com
+Registered at http://www.dynadot.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+balinese breze llc
+trent l
+1220 liberty way #B
+vista, CA 92081
+United States
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+balinese breze llc
+trent l
+1220 liberty way #B
+vista, CA 92081
+United States
+blueskies@zotai.com
++760 7344448
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+balinese breze llc
+trent l
+1220 liberty way #B
+vista, CA 92081
+United States
+blueskies@zotai.com
++760 7344448
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record expires on 2012/05/20 UTC
+Record created on 2010/05/20 UTC
 
-Whois Query: pch.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:33:16 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+ns1239.websitewelcome.com
+ns1240.websitewelcome.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/14 18:39:23 PST &lt;&lt;&lt;
+

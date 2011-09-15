@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5291302-LROR
+Domain Name:JSMI.ORG
+Created On:10-Oct-1996 04:00:00 UTC
+Last Updated On:01-Jun-2011 14:23:05 UTC
+Expiration Date:09-Oct-2019 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ODN-399861
+Registrant Name:Jerry Savelle
+Registrant Organization:Jerry Savelle Ministries Inter
+Registrant Street1:P.O. Box 748
+Registrant Street2:
+Registrant Street3:
+Registrant City:Crowley
+Registrant State/Province:TX
+Registrant Postal Code:76036
+Registrant Country:US
+Registrant Phone:+1.8172973155
+Registrant Phone Ext.:
+Registrant FAX:+1.8172923544
+Registrant FAX Ext.:
+Registrant Email:webmaster@jsmi.org
+Admin ID:ODN-399861
+Admin Name:Jerry Savelle
+Admin Organization:Jerry Savelle Ministries Inter
+Admin Street1:P.O. Box 748
+Admin Street2:
+Admin Street3:
+Admin City:Crowley
+Admin State/Province:TX
+Admin Postal Code:76036
+Admin Country:US
+Admin Phone:+1.8172973155
+Admin Phone Ext.:
+Admin FAX:+1.8172923544
+Admin FAX Ext.:
+Admin Email:webmaster@jsmi.org
+Tech ID:ODN-399861
+Tech Name:Jerry Savelle
+Tech Organization:Jerry Savelle Ministries Inter
+Tech Street1:P.O. Box 748
+Tech Street2:
+Tech Street3:
+Tech City:Crowley
+Tech State/Province:TX
+Tech Postal Code:76036
+Tech Country:US
+Tech Phone:+1.8172973155
+Tech Phone Ext.:
+Tech FAX:+1.8172923544
+Tech FAX Ext.:
+Tech Email:webmaster@jsmi.org
+Name Server:NS1.SOFTLAYER.COM
+Name Server:NS2.SOFTLAYER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

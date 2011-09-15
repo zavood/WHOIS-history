@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PCH.COM
+   Domain Name: LEFTYSCORNER.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: MIA01.DIGEX.COM
-   Name Server: MIA02.DIGEX.COM
+   Name Server: NS1.JLINET.COM
+   Name Server: NS1.NETAXS.COM
    Status: clientTransferProhibited
-   Updated Date: 14-dec-2010
-   Creation Date: 18-jan-1994
-   Expiration Date: 19-jan-2013
+   Updated Date: 26-jul-2010
+   Creation Date: 19-sep-2002
+   Expiration Date: 19-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:42:25 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: pch.com
+Whois Query: leftyscorner.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:33:16 EDT 2011
+Date and Time of Query: Wed Sep 14 21:38:15 EDT 2011
 Reason Code: IE

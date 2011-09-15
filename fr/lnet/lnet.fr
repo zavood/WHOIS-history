@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lnet.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lnet.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LM431-FRNIC
+admin-c:     BF353-FRNIC
+tech-c:      LM3505-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2549-FRNIC
+registrar:   LNET MULTIMEDIA
+anniversary: 08/06
+created:     30/01/1996
+last-update: 13/06/2009
+source:      FRNIC
+
+ns-list:     NSL2549-FRNIC
+nserver:     oneida.lnet.fr [91.121.61.120]
+nserver:     carib.lnet.fr [91.121.161.159]
+source:      FRNIC
+
+registrar:   LNET MULTIMEDIA
+type:        Isp Option 2
+address:     19 Avenue Jacques Cartier
+address:     Immeuble La Fr&eacute;gate - Hall B
+address:     SAINT HERBLAIN CEDEX
+country:     FR
+phone:       +33 5 49 49 46 00
+fax-no:      +33 5 49 49 46 01
+e-mail:      dns@lnet.fr
+website:     http://www.lnet.fr
+anonymous:   NO
+registered:  20/01/1998
+source:      FRNIC
+
+nic-hdl:     LM431-FRNIC
+type:        ORGANIZATION
+contact:     LNET Multimedia
+address:     Teleport 2, residence Morphee
+address:     B.P. 153
+address:     86960 Futuroscope Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     BF353-FRNIC
+type:        PERSON
+contact:     Bouziane Fourka
+address:     LNET Multimedia
+address:     Teleport 2
+address:     B.P. 153
+address:     86960 Futuroscope Cedex
+country:     FR
+phone:       +33 5 49 49 46 00
+fax-no:      +33 5 49 49 46 01
+e-mail:      bfourka@lnet.fr
+notify:      bfourka@lnet.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LM3505-FRNIC
+type:        ROLE
+contact:     LNET MULTIMEDIA
+address:     T&eacute;l&eacute;port 4 - Ast&eacute;rama 1
+address:     B.P. 50137
+address:     86960 Futuroscope Cedex
+country:     FR
+phone:       +33 5 49 49 46 00
+fax-no:      +33 5 49 49 46 01
+e-mail:      dns@lnet.fr
+admin-c:     BF353-FRNIC
+tech-c:      BF353-FRNIC
+tech-c:      BD2189-FRNIC
+notify:      dns@lnet.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
