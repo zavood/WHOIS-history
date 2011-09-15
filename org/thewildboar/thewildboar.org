@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150670726-LROR
+Domain Name:THEWILDBOAR.ORG
+Created On:17-Jan-2008 10:52:27 UTC
+Last Updated On:17-Jan-2011 08:33:15 UTC
+Expiration Date:17-Jan-2012 10:52:27 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_7610855
+Registrant Name:Felip Gili Ribes
+Registrant Organization:Felip Gili Ribes
+Registrant Street1:Unio, 26,  3er, 2a.
+Registrant Street2:
+Registrant Street3:
+Registrant City:L
+Registrant State/Province:Barcelona
+Registrant Postal Code:08902
+Registrant Country:ES
+Registrant Phone:+034.934311948
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:felipgili@yahoo.es
+Admin ID:DI_7610855
+Admin Name:Felip Gili Ribes
+Admin Organization:Felip Gili Ribes
+Admin Street1:Unio, 26,  3er, 2a.
+Admin Street2:
+Admin Street3:
+Admin City:L
+Admin State/Province:Barcelona
+Admin Postal Code:08902
+Admin Country:ES
+Admin Phone:+034.934311948
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:felipgili@yahoo.es
+Tech ID:DI_5329990
+Tech Name:Responsable Dominios
+Tech Organization:Activa NT, C.B
+Tech Street1:C/ Cura Ibanez N9 Entlos
+Tech Street2:
+Tech Street3:
+Tech City:Yecla
+Tech State/Province:Murcia
+Tech Postal Code:30510
+Tech Country:ES
+Tech Phone:+034.968752934
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gestiondominios@es-activa.com
+Name Server:NS1.SAITSERVER.NET
+Name Server:NS2.SAITSERVER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

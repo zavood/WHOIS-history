@@ -1,0 +1,26 @@
+[Domain]
+Domain: dainuskapis.lv
+Status: active
+Changed: 2006-04-21T12:48:46+03:00
+
+[Holder]
+Type: Legal person
+Name: SIA Lursoft IT
+Email: guna@lursoft.lv
+Fax: +371-7315315
+Phone: +371-7844300
+Address: Matisa iela 8, Riga, LV-1001, Latvia
+RegNr: 40003170000
+
+[Tech]
+Type: Natural person
+Email: guna@lursoft.lv
+Fax: +371-7315315
+Phone: +371-7844300
+
+[Nservers]
+Nserver: ns.lursoft.lv
+Nserver: ns.gov.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

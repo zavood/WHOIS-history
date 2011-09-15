@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107861774-LROR
+Domain Name:VIVA-FIZIKA.ORG
+Created On:18-Oct-2005 10:13:31 UTC
+Last Updated On:19-Mar-2011 11:26:24 UTC
+Expiration Date:18-Oct-2011 10:13:31 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11611098
+Registrant Name:Milija Jovicic
+Registrant Organization:None
+Registrant Street1:Recica 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Priboj
+Registrant State/Province:Srbija
+Registrant Postal Code:31330
+Registrant Country:RS
+Registrant Phone:+00.3813357692
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jovicicmster@gmail.com
+Admin ID:DI_11611098
+Admin Name:Milija Jovicic
+Admin Organization:None
+Admin Street1:Recica 6
+Admin Street2:
+Admin Street3:
+Admin City:Priboj
+Admin State/Province:Srbija
+Admin Postal Code:31330
+Admin Country:RS
+Admin Phone:+00.3813357692
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jovicicmster@gmail.com
+Tech ID:DI_11611098
+Tech Name:Milija Jovicic
+Tech Organization:None
+Tech Street1:Recica 6
+Tech Street2:
+Tech Street3:
+Tech City:Priboj
+Tech State/Province:Srbija
+Tech Postal Code:31330
+Tech Country:RS
+Tech Phone:+00.3813357692
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jovicicmster@gmail.com
+Name Server:DNS.IPB.AC.RS
+Name Server:DNS1.IPB.AC.RS
+Name Server:DNS3.IPB.AC.RS
+Name Server:DNS4.IPB.AC.RS
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
