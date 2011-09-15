@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKOSH.COM
+   Domain Name: STMARYCATHOLICSCHOOL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ACCESS.NET
-   Name Server: NS2.ACCESS.NET
+   Name Server: NS3089.HOSTGATOR.COM
+   Name Server: NS3090.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2007
-   Creation Date: 31-aug-1999
-   Expiration Date: 31-aug-2017
+   Updated Date: 01-aug-2011
+   Creation Date: 08-aug-2003
+   Expiration Date: 08-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkosh.com
+Whois Query: stmarycatholicschool.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:21:12 EDT 2011
+Date and Time of Query: Wed Sep 14 22:15:03 EDT 2011
 Reason Code: IE

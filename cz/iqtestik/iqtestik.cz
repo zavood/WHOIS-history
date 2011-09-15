@@ -1,0 +1,60 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:26:05 2011
+
+domain:       iqtestik.cz
+registrant:   CID:VOVPRAHA
+admin-c:      CID:VOVPRAHA
+nsset:        UPLINK
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   13.05.2009 16:21:40
+expire:       13.05.2012
+
+contact:      CID:VOVPRAHA
+org:          VOV PRAHA s.r.o.
+name:         Oleg Veselkov
+address:      Mezi &Aring;&iexcl;kolami 2476
+address:      Praha 5
+address:      15800
+address:      Czech Republic
+address:      CZ
+registrar:    REG-GRANSY
+created:      02.01.2009 14:39:34
+
+nsset:        UPLINK
+nserver:      ns1.uplink.cz (93.170.18.12)
+nserver:      ns2.uplink.cz (91.201.21.115)
+nserver:      ns3.uplink.cz
+tech-c:       CID:MARTIN-MALEK
+registrar:    REG-GENREG
+created:      04.09.2008 17:24:11
+changed:      12.06.2011 23:36:11
+
+contact:      CID:MARTIN-MALEK
+name:         Martin M&Atilde;&iexcl;lek
+address:      Erbenova 2
+address:      Plzen
+address:      30100
+address:      Czech Republic
+address:      CZ
+registrar:    REG-GRANSY
+created:      21.05.2010 13:44:27
+
+

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKOSH.COM
+   Domain Name: LOMTEC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ACCESS.NET
-   Name Server: NS2.ACCESS.NET
+   Name Server: NS.NEXTRA.SK
+   Name Server: NS1.NEXTRA.SK
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2007
-   Creation Date: 31-aug-1999
-   Expiration Date: 31-aug-2017
+   Updated Date: 15-nov-2007
+   Creation Date: 30-nov-1998
+   Expiration Date: 29-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:36 UTC &lt;&lt;&lt;
 
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: forkosh.com
+Whois Query: lomtec.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:21:12 EDT 2011
+Date and Time of Query: Wed Sep 14 22:16:12 EDT 2011
 Reason Code: IE

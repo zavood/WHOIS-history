@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKOSH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ACCESS.NET
-   Name Server: NS2.ACCESS.NET
+   Domain Name: MADISONAVENUE.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.RICKLATONA.COM
+   Name Server: NS2.RICKLATONA.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2007
-   Creation Date: 31-aug-1999
-   Expiration Date: 31-aug-2017
+   Updated Date: 20-oct-2010
+   Creation Date: 02-nov-1995
+   Expiration Date: 01-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,34 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain madisonavenue.com:
+  Marc Womack
+  1579 Monroe Drive, Suite F#605
+  Atlanta, GA 30324 US
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative contact:
+Technical contact:
+Billing contact:
+  Marc Womack
+  Marc Womack
+  marc@marcwomack.com
+  1579 Monroe Drive, Suite F#605
+  Atlanta, GA 30324 US
+  Phone: +404.8060810
+  Fax:
 
-http://www.networksolutions.com/whois/index.jhtml
+Record dates:
+  Record created on: 1995-11-02 05:00:00 UTC
+  Record modified on: 2010-10-20 20:12:50 UTC
+  Record expires on: 2011-11-01 UTC
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Nameservers:
+  ns2.ricklatona.com:
+    50.56.28.55
+  ns1.ricklatona.com:
+    50.56.127.107
+    50.56.28.55
 
-Whois Query: forkosh.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:21:12 EDT 2011
-Reason Code: IE
+Note: Automated collection of data from this database is strictly prohibited.
+

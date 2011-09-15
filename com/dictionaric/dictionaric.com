@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKOSH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ACCESS.NET
-   Name Server: NS2.ACCESS.NET
-   Status: clientTransferProhibited
-   Updated Date: 18-sep-2007
-   Creation Date: 31-aug-1999
-   Expiration Date: 31-aug-2017
+   Domain Name: DICTIONARIC.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: DOCKS02.RZONE.DE
+   Name Server: SHADES06.RZONE.DE
+   Status: ok
+   Updated Date: 13-jun-2011
+   Creation Date: 12-jun-2003
+   Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:24:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Patrick Jouannes
 
-http://www.networksolutions.com/whois/index.jhtml
+   99 Grand Place
+   Lachapelle Saint Pierre, 60730, FR
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Punycode Name:  dictionaric.com
+   Unicode Name:   dictionaric.com
 
-Whois Query: forkosh.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:21:12 EDT 2011
-Reason Code: IE
+   Admin Contact
+      Patrick Jouannes
+
+      dictionaric@aol.com
+      99 Grand Place
+      Lachapelle Saint Pierre, 60730, FR
+      phone: +33 44086832
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-06-12 08:50:06
+
+   Domain servers in listed order:
+
+      shades06.rzone.de
+      docks02.rzone.de
+
+
+

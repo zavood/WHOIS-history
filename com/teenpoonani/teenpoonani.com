@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORKOSH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.ACCESS.NET
-   Name Server: NS2.ACCESS.NET
+   Domain Name: TEENPOONANI.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS0.REFLECTED.NET
+   Name Server: NS1.REFLECTED.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2007
-   Creation Date: 31-aug-1999
-   Expiration Date: 31-aug-2017
+   Updated Date: 28-jul-2011
+   Creation Date: 27-apr-2006
+   Expiration Date: 27-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain teenpoonani.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 59529103699912
+  59529103699912-c483c1@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 59529103699912
+  59529103699912-c483c1@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record dates:
+  Record created on: 2006-04-27 18:59:32 UTC
+  Record modified on: 2011-07-28 20:53:46 UTC
+  Record expires on: 2012-04-27 UTC
 
-Whois Query: forkosh.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:21:12 EDT 2011
-Reason Code: IE
+Nameservers:
+  ns0.reflected.net:
+    66.254.126.2
+  ns1.reflected.net:
+    66.254.127.2
+
+Note: Automated collection of data from this database is strictly prohibited.
+
