@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; tout-acheter-pas-cher.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      tout-acheter-pas-cher.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDA39-FRNIC
+admin-c:     FH1223-FRNIC
+tech-c:      HRH5-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL606-FRNIC
+registrar:   1API GmbH
+anniversary: 04/05
+created:     15/04/2009
+last-update: 04/05/2011
+source:      FRNIC
+
+ns-list:     NSL606-FRNIC
+nserver:     dns1.dnsspace.net
+nserver:     dns2.dnsspace.net
+source:      FRNIC
+
+registrar:   1API GmbH
+type:        Isp Option 2
+address:     Talstrasse 27
+address:     66424 HOMBURG
+country:     DE
+phone:       +49 6841 6984200
+fax-no:      +49 6841 6984299
+e-mail:      general_registries@1api.net
+website:     http://www.1api.net
+anonymous:   NO
+registered:  03/09/2008
+source:      FRNIC
+
+nic-hdl:     UDA39-FRNIC
+type:        ORGANIZATION
+contact:     united-domains AG
+address:     united-domains AG
+address:     Gautinger Str. 10
+address:     82319 Starnberg
+country:     DE
+phone:       +49 8151368670
+fax-no:      +49 8151368677
+e-mail:      hostmaster@dopoly.de
+changed:     04/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FH1223-FRNIC
+type:        PERSON
+contact:     Florian Huber
+address:     7, place de la gare - B.P. 70109
+address:     57201 Sarreguemines
+country:     FR
+phone:       +33 1 74 31 11 15
+e-mail:      hostmaster@dopoly.de
+changed:     23/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HRH5-FRNIC
+type:        ORGANIZATION
+contact:     Herr Ralf Hein
+address:     nonstopConsulting International GmbH
+address:     Eichenweg 4a
+address:     85774 Unterfoehring
+country:     DE
+phone:       +49.08999529414
+fax-no:      +49.08999529429
+e-mail:      rh@nonstopconsulting.de
+changed:     15/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

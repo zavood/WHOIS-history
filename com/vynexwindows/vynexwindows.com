@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADOBE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ADOBE-DNS-01.ADOBE.COM
-   Name Server: ADOBE-DNS-02.ADOBE.COM
-   Name Server: ADOBE-DNS-03.ADOBE.COM
-   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Domain Name: VYNEXWINDOWS.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 17-nov-1986
-   Expiration Date: 16-may-2013
+   Status: clientUpdateProhibited
+   Updated Date: 01-sep-2011
+   Creation Date: 03-sep-2008
+   Expiration Date: 03-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
 
-Domain Name.......... adobe.com
-  Creation Date........ 1986-11-17
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2013-05-17
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366777
-  Admin Fax............ +1.4085374000
-
-Tech Name............ Adobe Systems Incorporated
-  Tech Address......... 345 Park Avenue
-  Tech Address.........
-  Tech Address......... San Jose
-  Tech Address......... 95110
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@adobe.com
-  Tech Phone........... +1.4085366000
-  Tech Fax.............
-  Name Server.......... ADOBE-DNS-02.ADOBE.COM
-  Name Server.......... ADOBE-DNS-01.ADOBE.COM
-  Name Server.......... ADOBE-DNS-04.ADOBE.COM
-  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
 
 
+Registrant:
+   Fred Mauro
+
+   Registered through: CAESAR E-nterprises
+   Domain Name: VYNEXWINDOWS.COM
+
+   Domain servers in listed order:
+      NS51.1AND1.COM
+      NS52.1AND1.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=VYNEXWINDOWS.COM&amp;prog_id=retoz

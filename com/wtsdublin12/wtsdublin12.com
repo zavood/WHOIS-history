@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADOBE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ADOBE-DNS-01.ADOBE.COM
-   Name Server: ADOBE-DNS-02.ADOBE.COM
-   Name Server: ADOBE-DNS-03.ADOBE.COM
-   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Domain Name: WTSDUBLIN12.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS0.PHASE8.NET
+   Name Server: NS1.PHASE8.NET
+   Name Server: NS2.PHASE8.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 17-nov-1986
-   Expiration Date: 16-may-2013
+   Status: clientUpdateProhibited
+   Updated Date: 23-jun-2011
+   Creation Date: 23-jun-2009
+   Expiration Date: 23-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +55,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... adobe.com
-  Creation Date........ 1986-11-17
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2013-05-17
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+REGISTER.IT SPA - Whois Server Version 1.4
 
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366777
-  Admin Fax............ +1.4085374000
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-Tech Name............ Adobe Systems Incorporated
-  Tech Address......... 345 Park Avenue
-  Tech Address.........
-  Tech Address......... San Jose
-  Tech Address......... 95110
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@adobe.com
-  Tech Phone........... +1.4085366000
-  Tech Fax.............
-  Name Server.......... ADOBE-DNS-02.ADOBE.COM
-  Name Server.......... ADOBE-DNS-01.ADOBE.COM
-  Name Server.......... ADOBE-DNS-04.ADOBE.COM
-  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+     Domain name: WTSDUBLIN12.COM
+     Created on: 2009-06-23
+     Updated on: 2011-06-23
+     Expires on: 2012-06-23
+     Registrant Name: WHATS THE STORY?
+     Contact: Whats The Story?
+     Registrant Address: 6 St. Agnes Road, Crumlin Village
+     Registrant City: Crumlin
+     Registrant Postal Code: DUBLIN 12
+     Registrant Country: IE
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS0.PHASE8.NET
+     Secondary Name Server Hostname: NS1.PHASE8.NET
 
+
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:12:23 2011 &lt;&lt;&lt;
 

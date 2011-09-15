@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADOBE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ADOBE-DNS-01.ADOBE.COM
-   Name Server: ADOBE-DNS-02.ADOBE.COM
-   Name Server: ADOBE-DNS-03.ADOBE.COM
-   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Domain Name: ZHER8.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: NS1.ABCHOSTING.NET
+   Name Server: NS2.ABCHOSTING.NET
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 17-nov-1986
-   Expiration Date: 16-may-2013
+   Updated Date: 19-jul-2010
+   Creation Date: 16-sep-2009
+   Expiration Date: 16-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:42:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Dear Valued Customer,
 
-Domain Name.......... adobe.com
-  Creation Date........ 1986-11-17
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2013-05-17
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
-
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366777
-  Admin Fax............ +1.4085374000
-
-Tech Name............ Adobe Systems Incorporated
-  Tech Address......... 345 Park Avenue
-  Tech Address.........
-  Tech Address......... San Jose
-  Tech Address......... 95110
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@adobe.com
-  Tech Phone........... +1.4085366000
-  Tech Fax.............
-  Name Server.......... ADOBE-DNS-02.ADOBE.COM
-  Name Server.......... ADOBE-DNS-01.ADOBE.COM
-  Name Server.......... ADOBE-DNS-04.ADOBE.COM
-  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
 
 
+Domain name: zher8.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
+
+Registrant:
+Name: tanaka
+Organization: tanaka
+Address: osaka
+City: osaka
+Province/state: OSAKA
+Country: JP
+Postal Code: 1040045
+Email: info@zher8.com
+
+Administrative Contact:
+Name: tanaka
+Organization: tanaka
+Address: osaka
+City: osaka
+Province/state: OSAKA
+Country: JP
+Postal Code: 1040045
+Phone: +86.1040560444
+Fax: +86.1006546044
+Email: info@zher8.com
+
+Technical Contact:
+Name: tanaka
+Organization: tanaka
+Address: osaka
+City: osaka
+Province/state: OSAKA
+Country: JP
+Postal Code: 1040045
+
+
+Nameserver Information:
+    ns1.abchosting.net
+    ns2.abchosting.net
+
+Create: 2009-09-16 14:43:57
+Update: 2010-07-19
+Expired: 2011-09-16
+QueryTimes: 89
+
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.

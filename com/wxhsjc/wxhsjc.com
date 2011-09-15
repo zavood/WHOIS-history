@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADOBE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ADOBE-DNS-01.ADOBE.COM
-   Name Server: ADOBE-DNS-02.ADOBE.COM
-   Name Server: ADOBE-DNS-03.ADOBE.COM
-   Name Server: ADOBE-DNS-04.ADOBE.COM
+   Domain Name: WXHSJC.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS1.DNS-DIY.COM
+   Name Server: NS2.DNS-DIY.COM
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 31-aug-2011
-   Creation Date: 17-nov-1986
-   Expiration Date: 16-may-2013
+   Updated Date: 27-jul-2011
+   Creation Date: 17-aug-2004
+   Expiration Date: 17-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:41:52 UTC &lt;&lt;&lt;
 
@@ -53,43 +54,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... adobe.com
-  Creation Date........ 1986-11-17
-  Registration Date.... 2011-08-31
-  Expiry Date.......... 2013-05-17
-  Organisation Name.... Adobe Systems Incorporated
-  Organisation Address. 345 Park Avenue
-  Organisation Address.
-  Organisation Address. San Jose
-  Organisation Address. 95110
-  Organisation Address. CA
-  Organisation Address. UNITED STATES
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
-Admin Name........... DNS Admin
-  Admin Address........ 345 Park Avenue
-  Admin Address........
-  Admin Address........ San Jose
-  Admin Address........ 95110
-  Admin Address........ CA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-admin@adobe.com
-  Admin Phone.......... +1.4085366777
-  Admin Fax............ +1.4085374000
 
-Tech Name............ Adobe Systems Incorporated
-  Tech Address......... 345 Park Avenue
-  Tech Address.........
-  Tech Address......... San Jose
-  Tech Address......... 95110
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-admin@adobe.com
-  Tech Phone........... +1.4085366000
-  Tech Fax.............
-  Name Server.......... ADOBE-DNS-02.ADOBE.COM
-  Name Server.......... ADOBE-DNS-01.ADOBE.COM
-  Name Server.......... ADOBE-DNS-04.ADOBE.COM
-  Name Server.......... ADOBE-DNS-03.ADOBE.COM
+Registrant:
+	 wu xi shi li guo ji xie zhi zao you xian gong si sales@chinalitong.com +86.5108580435
+	 wuxishihongshengjiancaijixiechang
+	 wuxishihongshengzhen
+	 Wuxi,Jiangsu,CN 214000
 
+
+Domain Name:wxhsjc.com
+Record last updated at 2011-06-12 19:35:41
+Record created on 2004/8/17
+Record expired on 2012/8/17
+
+
+Domain servers in listed order:
+	 ns1.dns-diy.com 	 ns2.dns-diy.com
+
+Administrator:
+	 Name-- johnmin ren
+ EMail-: (sales@chinalitong.com)
+ tel --: +86.5108580435
+	 org: wuxishihongshengjiancaijixiechang
+	 wuxishihongshengzhen
+	 Wuxi,Jiangsu,CN 214000
+
+Technical Contactor:
+	 Name-- johnmin ren
+ EMail-: (sales@chinalitong.com)
+ tel --: +86.5108580435
+	 org: wuxishihongshengjiancaijixiechang
+	 wuxishihongshengzhen
+	 Wuxi,Jiangsu,CN 214000
+
+Billing Contactor:
+	 Name-- johnmin ren
+ EMail-: (sales@chinalitong.com)
+ tel --: +86.5108580435
+	 org: wuxishihongshengjiancaijixiechang
+	 wuxishihongshengzhen
+	 Wuxi,Jiangsu,CN 214000
 
