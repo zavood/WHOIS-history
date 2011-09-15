@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
+   Domain Name: JGHARDING.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 12-aug-2010
+   Creation Date: 12-aug-2010
+   Expiration Date: 12-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:23:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -5,20 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Domain Name: SIAMGOLDFISH.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.BANGKOKSERVER.NET
+   Name Server: NS2.BANGKOKSERVER.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 26-jan-2011
+   Creation Date: 25-jan-2005
+   Expiration Date: 25-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
 
@@ -55,5 +52,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Nattawat Suwanthevarat siamgoldfish@hotmail.com +66.018068660
+	 Siamgoldfish International
+	 D189, Jatujak Plaza, Khampang phet 2, Ladya
+	 Jatujak,Bangkok,TH 10120
+
+
+Domain Name:siamgoldfish.com
+Record last updated at 2011-01-27 03:31:47
+Record created on 2005/1/25
+Record expired on 2012/1/25
+
+
+Domain servers in listed order:
+	 ns1.bangkokserver.net 	 ns2.bangkokserver.net
+
+Administrator:
+	 name:(Niwat Rittisakdanon)
+	Email:(ninewat@hotmail.com) tel-- +66.018207688
+	 Niwat Rittisakdanon
+	 25/5 Tarad Bobae Saphan 4, Krungkasem
+\r
+t Pathumwan
+Bangkok,
+TH
+
+ zipcode:10330
+
+Technical Contactor:
+	 name:(Suracha  S.)
+	Email:(support@ititem.net) tel-- +66.024465199
+	 ITITEM Limited Partnership
+	 600 Charansanitwong road,
+\r
+t Bangplad
+Bangkok,
+TH
+
+ zipcode:10700
+
+Billing Contactor:
+	 name:(Wanalee W.)
+	Email:(billing@ititem.com) tel-- +66.024465199
+	 ITITEM Limited Partnership
+	 600 Charansanitwong road,
+\r
+t Bangplad
+Bangkok,
+TH
+
+ zipcode:10700
+
+
+Registration Service Provider:
+	name: ITITEM Limited Partnership
+	tel: +66.26120011
+ 	fax: +66.26121220
+ 	web:http://www.ititem.net

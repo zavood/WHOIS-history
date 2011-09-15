@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DUPKREMER.COM
+   Domain Name: FREEWEBSPACE.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Name Server: NS3.MONIKERDNS.NET
-   Name Server: NS4.MONIKERDNS.NET
+   Name Server: NS1.SJ1.NORTHSKY.COM
+   Name Server: NS2.SJ1.NORTHSKY.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-apr-2011
-   Creation Date: 22-mar-2011
-   Expiration Date: 22-mar-2012
+   Updated Date: 16-dec-2008
+   Creation Date: 04-apr-2000
+   Expiration Date: 04-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:23:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:25:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,58 +79,63 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: DUPKREMER.COM
+Domain Name: FREEWEBSPACE.COM
 Registrar: MONIKER
 
-Registrant [3599430]:
-        Registrant Offices downsouthhosting@gmail.com
-        2665 N ATLANTIC AVE
-        Daytona Beach
-        FL
-        32118
+Registrant [23005]:
+        Domain Admin domains@netgears.com
+        NetGears LLC
+        PO Box 77231
+        San Francisco
+        CA
+        94107
         US
 
 
-Administrative Contact [3599430]:
-        Registrant Offices downsouthhosting@gmail.com
-        2665 N ATLANTIC AVE
-        Daytona Beach
-        FL
-        32118
+Administrative Contact [23005]:
+        Domain Admin domains@netgears.com
+        NetGears LLC
+        PO Box 77231
+        San Francisco
+        CA
+        94107
         US
-        Phone: +1.9042978643
+        Phone: +1.8156420899
+        Fax:   +1.8156420899
 
 
-Billing Contact [3599430]:
-        Registrant Offices downsouthhosting@gmail.com
-        2665 N ATLANTIC AVE
-        Daytona Beach
-        FL
-        32118
+Billing Contact [23005]:
+        Domain Admin domains@netgears.com
+        NetGears LLC
+        PO Box 77231
+        San Francisco
+        CA
+        94107
         US
-        Phone: +1.9042978643
+        Phone: +1.8156420899
+        Fax:   +1.8156420899
 
 
-Technical Contact [3599430]:
-        Registrant Offices downsouthhosting@gmail.com
-        2665 N ATLANTIC AVE
-        Daytona Beach
-        FL
-        32118
+Technical Contact [23005]:
+        Domain Admin domains@netgears.com
+        NetGears LLC
+        PO Box 77231
+        San Francisco
+        CA
+        94107
         US
-        Phone: +1.9042978643
+        Phone: +1.8156420899
+        Fax:   +1.8156420899
 
 
 Domain servers in listed order:
 
-        NS1.MONIKERDNS.NET         208.73.210.41
-        NS2.MONIKERDNS.NET         208.73.211.42
-        NS3.MONIKERDNS.NET         208.73.210.43
-        NS4.MONIKERDNS.NET         50.57.11.88
+        NS1.SJ1.NORTHSKY.COM
+        NS2.SJ1.NORTHSKY.COM
 
-        Record created on:        2011-03-22 00:33:27.0
-        Database last updated on: 2011-04-10 15:18:05.73
-        Domain Expires on:        2012-03-22 00:33:28.0
+        Record created on:        2000-04-04 06:38:00.0
+        Database last updated on: 2008-12-16 23:49:51.03
+        Domain Expires on:        2017-04-04 06:38:00.0
 
 
 

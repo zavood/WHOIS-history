@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Domain Name: SIDHOST.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.SIDHOST.COM
+   Name Server: NS2.SIDHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 15-apr-2010
+   Creation Date: 21-may-2008
+   Expiration Date: 21-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+domain:       sidhost.com
+owner:        n/a
+organization: Squidz Ink Design, Inc.
+email:        domains@squidzink.com
+address:      627 W. 19th Street
+address:      Suite 208
+city:         HOUSTON
+postal-code:  TX 77008
+country:      US
+phone:        +49.1234578
+admin-c:      CCOM-88119 domains@squidzink.com
+tech-c:       CCOM-88119 domains@squidzink.com
+billing-c:    CCOM-88119 domains@squidzink.com
+nserver:      ns1.sidhost.com 173.0.137.146
+nserver:      ns2.sidhost.com 173.0.137.144
+status:       lock
+created:      2008-05-21 20:12:46 UTC
+modified:     2010-04-15 20:53:25 UTC
+expires:      2012-05-21 20:12:46 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-88119
+person:       n/a
+organization: Squidz Ink Design, Inc.
+email:        domains@squidzink.com
+address:      1005 E 27th ST
+city:         HOUSTON
+postal-code:  TX 77009
+country:      US
+phone:        +49.1234578
+
+source:       joker.com live whois service
+query-time:   0.030868
+db-updated:   2011-09-15 06:25:15
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

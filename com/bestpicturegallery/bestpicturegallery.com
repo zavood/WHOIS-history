@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Domain Name: BESTPICTUREGALLERY.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 22-dec-2010
+   Creation Date: 20-sep-2007
+   Expiration Date: 20-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
+
+Registrant:
+    GKG.NET Domain Proxy Service
+    GKG.NET Domain Proxy Service Administrator
+    PO BOX 1450
+    Bryan, TX 77806
+    US
+    +1.8667767584 (FAX) +1.2816175825
+    bestpicturegallery.com@privatedomain.gkg.net
+
+Administrative Contact:
+    GKG.NET Domain Proxy Service
+    GKG.NET Domain Proxy Service Administrator
+    PO BOX 1450
+    Bryan, TX 77806
+    US
+    +1.8667767584 (FAX) +1.2816175825
+    bestpicturegallery.com-admin@privatedomain.gkg.net
+
+Technical Contact:
+    GKG.NET Domain Proxy Service
+    GKG.NET Domain Proxy Service Administrator
+    PO BOX 1450
+    Bryan, TX 77806
+    US
+    +1.8667767584 (FAX) +1.2816175825
+    bestpicturegallery.com-tech@privatedomain.gkg.net
+
+Billing Contact
+    GKG.NET Domain Proxy Service
+    GKG.NET Domain Proxy Service Administrator
+    PO BOX 1450
+    Bryan, TX 77806
+    US
+    +1.8667767584 (FAX) +1.2816175825
+    bestpicturegallery.com-billing@privatedomain.gkg.net
+
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: BESTPICTUREGALLERY.COM
+	Created on..............: 20-SEP-2007
+	Expires on..............: 20-SEP-2012
+	Record last updated on..: 22-DEC-2010
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS1.BLUEHOST.COM
+    NS2.BLUEHOST.COM

@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Domain Name: SHOTDEV.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS2493.HOSTGATOR.COM
+   Name Server: NS2494.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 08-mar-2011
+   Creation Date: 07-mar-2009
+   Expiration Date: 07-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:23:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +51,74 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Weerachai  Nukitram is_php@hotmail.com +66.819876107
+	 Thai
+	 68/1 Moo 4 Tumbol Muangphai
+	 Krasang,Buriram,TH 31160
+
+
+Domain Name:shotdev.com
+Record last updated at 2011-03-08 08:44:29
+Record created on 2009/3/7
+Record expired on 2012/3/7
+
+
+Domain servers in listed order:
+	 ns2493.hostgator.com 	 ns2494.hostgator.com
+
+Administrator:
+	 name: Weerachai  Nukitram
+ mail: is_php@hotmail.com tel: +66.819876107
+	 org: Thai
+
+address: 68/1 Moo 4 Tumbol Muangphai
+	 city: Krasang
+,province: Buriram
+,country: TH
+ postcode: 31160
+
+Technical Contactor:
+	 name: Weerachai  Nukitram
+ mail: is_php@hotmail.com tel: +66.819876107
+	 org: Thai
+
+address: 68/1 Moo 4 Tumbol Muangphai
+	 city: Krasang
+,province: Buriram
+,country: TH
+ postcode: 31160
+
+Billing Contactor:
+	 name: Weerachai  Nukitram
+ mail: is_php@hotmail.com tel: +66.819876107
+	 org: Thai
+
+address: 68/1 Moo 4 Tumbol Muangphai
+	 city: Krasang
+,province: Buriram
+,country: TH
+ postcode: 31160
+
+
+Registration Service Provider:
+	name: EASYSOFTSOLUTION.COM
+	tel: +66.819876107
+ 	fax: +66.819876107
+ 	web:http://www.easysoftsolution.com

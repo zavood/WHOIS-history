@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
+   Domain Name: QIPUAD.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: DNS1.3366DNS.COM
+   Name Server: DNS2.3366.COM.CN
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Updated Date: 21-jan-2011
+   Creation Date: 08-feb-2007
+   Expiration Date: 08-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
 
@@ -55,5 +53,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name      : qipuad.com
+PunnyCode        : qipuad.com
+Creation Date    : 2007-02-08 00:00:00
+Updated Date     : 2011-01-21 17:34:43
+Expiration Date  : 2012-02-08 00:00:00
+
+
+Registrant:
+  Organization   : smart
+  Name           : smart
+  Address        : xian
+  City           : xian
+  Province/State : Shanxi3
+  Country        : CN
+  Postal Code    : 710065
+
+Administrative Contact:
+  Name           : wang huiying
+  Organization   : smart
+  Address        : xian
+  City           : xian
+  Province/State : Shanxi3
+  Country        : CN
+  Postal Code    : 710065
+  Phone Number   : 86-0596-2930101-888
+  Fax            : 86-0596-2944446-668
+  Email          : web@0807.net
+
+Technical Contact:
+  Name           : wang huiying
+  Organization   : smart
+  Address        : xian
+  City           : xian
+  Province/State : Shanxi3
+  Country        : CN
+  Postal Code    : 710065
+  Phone Number   : --2930101
+  Fax            : --2944446
+  Email          : web@0807.net
+
+Billing Contact:
+  Name           : wang huiying
+  Organization   : smart
+  Address        : xian
+  City           : xian
+  Province/State : Shanxi3
+  Country        : CN
+  Postal Code    : 710065
+  Phone Number   : --2930101
+  Fax            : --2944446
+  Email          : web@0807.net

@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REMOTE.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.REMOTE.NET
-   Name Server: NS15.REMOTE.NET
-   Name Server: NS16.REMOTE.NET
-   Name Server: NS17.REMOTE.NET
-   Name Server: NS2.REMOTE.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-nov-2007
-   Creation Date: 19-oct-1996
-   Expiration Date: 18-oct-2012
+   Domain Name: THEUNCOMMONSENSEBLOG.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS.M6INTERACTIVE.COM
+   Name Server: DNS1.GOALEX.COM
+   Status: ok
+   Updated Date: 06-dec-2010
+   Creation Date: 04-jan-2008
+   Expiration Date: 04-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:24:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:25:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+
+
+Domain name: theuncommonsenseblog.com
+
+Administrative Contact:
+   Emsix
+   David Moncur (dns@emsix.com)
+   +1.2486498086
+   Fax: +1.2486498087
+   1700 W. Big Beaver Road, Suite 315
+   Troy, MI 48084
+   US
+
+Technical Contact:
+   Emsix
+   David Moncur (dns@emsix.com)
+   +1.2486498086
+   Fax: +1.2486498087
+   1700 W. Big Beaver Road, Suite 315
+   Troy, MI 48084
+   US
+
+Registrant Contact:
+   Emsix
+   David Moncur ()
+
+   Fax:
+   1700 W. Big Beaver Road, Suite 315
+   Troy, MI 48084
+   US
+
+Status: Active
+
+Name Servers:
+   dns.m6interactive.com
+   dns1.goalex.com
+
+Creation date: 04 Jan 2008 13:21:45
+Expiration date: 04 Jan 2012 13:21:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
