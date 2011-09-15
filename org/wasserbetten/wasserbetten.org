@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22295006-LROR
+Domain Name:WASSERBETTEN.ORG
+Created On:13-Mar-2000 15:34:28 UTC
+Last Updated On:30-Aug-2011 17:51:26 UTC
+Expiration Date:13-Mar-2012 15:34:28 UTC
+Sponsoring Registrar:InterNetWire Communications GmbH (R1565-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:MR671249
+Registrant Name:Manfred Rieter
+Registrant Street1:Thomas-Mann-Strasse 24-28
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bonn
+Registrant State/Province:
+Registrant Postal Code:53111
+Registrant Country:DE
+Registrant Phone:+49.1023659857
+Registrant Phone Ext.:
+Registrant FAX:+49.1023659857
+Registrant FAX Ext.:
+Registrant Email:klimt@gaycastle.net
+Admin ID:MR671249
+Admin Name:Manfred Rieter
+Admin Street1:Thomas-Mann-Strasse 24-28
+Admin Street2:
+Admin Street3:
+Admin City:Bonn
+Admin State/Province:
+Admin Postal Code:53111
+Admin Country:DE
+Admin Phone:+49.1023659857
+Admin Phone Ext.:
+Admin FAX:+49.1023659857
+Admin FAX Ext.:
+Admin Email:klimt@gaycastle.net
+Tech ID:MR671249
+Tech Name:Manfred Rieter
+Tech Street1:Thomas-Mann-Strasse 24-28
+Tech Street2:
+Tech Street3:
+Tech City:Bonn
+Tech State/Province:
+Tech Postal Code:53111
+Tech Country:DE
+Tech Phone:+49.1023659857
+Tech Phone Ext.:
+Tech FAX:+49.1023659857
+Tech FAX Ext.:
+Tech Email:klimt@gaycastle.net
+Name Server:NS5.KASSERVER.COM
+Name Server:NS6.KASSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
