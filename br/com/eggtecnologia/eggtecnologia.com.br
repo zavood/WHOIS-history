@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 10:13:17 (BRT -03:00)
+
+domain:      eggtecnologia.com.br
+owner:       EGG Comercio Virtual Ltda
+ownerid:     002.639.008/0001-28
+responsible: Suporte T&eacute;cnico
+country:     BR
+owner-c:     ELL29
+admin-c:     ELL29
+tech-c:      ELL29
+billing-c:   ELL29
+nserver:     ns3.eggtecnologia.com.br 200.219.214.4
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns4.eggtecnologia.com.br 200.219.214.5
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20000923 #431935
+expires:     20130923
+changed:     20100928
+status:      published
+
+nic-hdl-br:  ELL29
+person:      Egg Tecnologia Ltda
+e-mail:      egg@egg.com.br
+created:     20000208
+changed:     20080426
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
