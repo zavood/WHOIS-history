@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HVA513D-NORID
+Domain Name................: hvasser.no
+Domain Holder Handle.......: IMA153O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: CL1023P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2001-03-06
+Last updated:    2011-03-08
+
+NORID Handle...............: IMA153O-NORID
+Type.......................: organization
+Name.......................: ICECUBE MEDIA AS
+Id Type....................: organization_number
+Id Number..................: 932313642
+Registrar Handle...........: REG5-NORID
+Post Address...............: Oscars gate 52
+Postal Code................: NO-0258
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.21982450
+Email Address..............: tim@hvasser.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

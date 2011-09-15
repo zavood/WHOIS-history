@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISCONSINSTATEJOURNAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 06-jan-2000
-   Expiration Date: 06-jan-2016
+   Domain Name: ZIGARETTENFILTER.COM
+   Registrar: WEBAGENTUR.AT INTERNET SERVICES GMBH DBA DOMAINNAME.AT
+   Whois Server: whois.inname.net
+   Referral URL: http://www.domainname.at
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   Status: ok
+   Updated Date: 24-aug-2011
+   Creation Date: 15-apr-2008
+   Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:33:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+# This data is provided by webagentur
+# for information purposes, and to assist persons obtaining information
+# about or related to domain name registration records.
+# webagentur does not guarantee its accuracy.
+# By submitting a WHOIS query, you agree that you will use this data
+# only for lawful purposes and that, under no circumstances, you will
+# use this data to
+# 1) allow, enable, or otherwise support the transmission of mass
+#    unsolicited, commercial advertising or solicitations via E-mail
+#    (spam); or
+# 2) enable high volume, automated, electronic processes that apply
+#    to this WHOIS server.
+# These terms may be changed without prior notice.
+# By submitting this query, you agree to abide by this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Please also visit &lt;a href=&quot;http://www.web-whois.org&quot;&gt;www.web-whois.org&lt;/a&gt;
 
-http://www.networksolutions.com/whois/index.jhtml
+No match for domain &quot;zigarettenfilter.com&quot;.
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: wisconsinstatejournal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:24:59 EDT 2011
-Reason Code: IE

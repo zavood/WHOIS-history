@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISCONSINSTATEJOURNAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
+   Domain Name: YTNSTAR.COM
+   Registrar: TODAY AND TOMORROW CO. LTD.
+   Whois Server: whois.ttpia.com
+   Referral URL: http://www.ttpia.com
+   Name Server: NS3.COMN.COM
+   Name Server: NS4.COMN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 06-jan-2000
-   Expiration Date: 06-jan-2016
+   Status: clientUpdateProhibited
+   Updated Date: 14-dec-2010
+   Creation Date: 25-nov-2009
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:32:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +53,26 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+* Welcome to TTpia.com.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name : ytnstar.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant Contact:
+&iexcl;&iexcl; admin
+&iexcl;&iexcl; 1408-201 Lotte CastleGoldPark Hwanggeum 1-dong Suseong-gu DAEGU, KOREA
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative Contact; Technical Contact:
+&iexcl;&iexcl; admin
+&iexcl;&iexcl; cio@3v.net
+&iexcl;&iexcl; 1408-201 Lotte CastleGoldPark Hwanggeum 1-dong Suseong-gu DAEGU, KOREA
+&iexcl;&iexcl; Tel : 011-514-8055
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record Creadted on : 2009-11-26
+Record Expires on : 2011-11-25
+Record last updated on : 2011-09-14
 
-Whois Query: wisconsinstatejournal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:24:59 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+&iexcl;&iexcl; ns4.comn.com
+&iexcl;&iexcl; ns3.comn.com
+
+* Tomorrow is From Today.. TTpia

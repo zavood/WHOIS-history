@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISCONSINSTATEJOURNAL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
-   Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 06-jan-2000
-   Expiration Date: 06-jan-2016
+   Domain Name: ZUWON.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS1.MIREENE.COM
+   Name Server: NS2.MIREENE.COM
+   Status: ok
+   Updated Date: 31-oct-2010
+   Creation Date: 02-nov-2003
+   Expiration Date: 02-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+domain
+	zuwon.com
+Registrar	              :Dotname Korea Corp.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant Contact Information
+	company       :
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Contact Information
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Contact Information
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: wisconsinstatejournal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:24:59 EDT 2011
-Reason Code: IE
+Name Server Information
+	&lt;BR&gt;Created on 2003-11-02&lt;BR&gt;Updated on 2010-11-01&lt;BR&gt;Expires on 2011-11-02&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;BR&gt;

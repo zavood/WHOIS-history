@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISCONSINSTATEJOURNAL.COM
+   Domain Name: ZIPSWEEPSTAKES.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
+   Name Server: NS5.IXWEBHOSTING.COM
+   Name Server: NS6.IXWEBHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 06-jan-2000
-   Expiration Date: 06-jan-2016
+   Updated Date: 28-may-2008
+   Creation Date: 11-jun-2006
+   Expiration Date: 11-jun-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:13 UTC &lt;&lt;&lt;
 
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: wisconsinstatejournal.com
+Whois Query: zipsweepstakes.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:24:59 EDT 2011
+Date and Time of Query: Wed Sep 14 22:24:28 EDT 2011
 Reason Code: IE

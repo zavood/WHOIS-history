@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WISCONSINSTATEJOURNAL.COM
+   Domain Name: WEEKENDWITHTHEWIREMASTERS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SLICEHOST.NET
-   Name Server: NS2.SLICEHOST.NET
-   Name Server: NS3.SLICEHOST.NET
+   Name Server: NS20.NETRIPLEX.COM
+   Name Server: NS21.NETRIPLEX.COM
+   Name Server: NS22.NETRIPLEX.COM
+   Name Server: NS23.NETRIPLEX.COM
    Status: clientTransferProhibited
-   Updated Date: 30-sep-2009
-   Creation Date: 06-jan-2000
-   Expiration Date: 06-jan-2016
+   Updated Date: 28-jul-2010
+   Creation Date: 16-nov-2009
+   Expiration Date: 16-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:34:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:32:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: wisconsinstatejournal.com
+Whois Query: weekendwiththewiremasters.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:24:59 EDT 2011
+Date and Time of Query: Wed Sep 14 22:22:42 EDT 2011
 Reason Code: IE
