@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104917053-LROR
+Domain Name:BRALIN.ORG
+Created On:22-Sep-2004 07:07:58 UTC
+Last Updated On:23-Aug-2011 02:49:06 UTC
+Expiration Date:22-Sep-2012 07:07:58 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuMBdwFsZ22sIkH7
+Registrant Name:Stanislav Cikalo
+Registrant Organization:Stanislav Cikalo
+Registrant Street1:Okruzni 924
+Registrant Street2:
+Registrant Street3:
+Registrant City:Orlova 4
+Registrant State/Province:CZ
+Registrant Postal Code:73514
+Registrant Country:CZ
+Registrant Phone:+420.777624129
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bralin@seznam.cz
+Admin ID:tu1eQvQ5gFgv65eu
+Admin Name:Stanislav Cikalo
+Admin Organization:Stanislav Cikalo
+Admin Street1:Okruzni 924
+Admin Street2:
+Admin Street3:
+Admin City:Orlova 4
+Admin State/Province:CZ
+Admin Postal Code:73514
+Admin Country:CZ
+Admin Phone:+420.777624129
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bralin@seznam.cz
+Tech ID:tu99blOLruRwjyoR
+Tech Name:P.E.S. consulting, s.r.o.
+Tech Organization:P.E.S. consulting, s.r.o.
+Tech Street1:Vaclavske namesti 17
+Tech Street2:
+Tech Street3:
+Tech City:Prague 1
+Tech State/Province:
+Tech Postal Code:11000
+Tech Country:CZ
+Tech Phone:+420.383835353
+Tech Phone Ext.:
+Tech FAX:+420.383835354
+Tech FAX Ext.:
+Tech Email:admin@forpsi.com
+Name Server:NS1.IC.CZ
+Name Server:NS2.IC.CZ
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

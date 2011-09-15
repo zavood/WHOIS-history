@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T05:53:56+12:00
+domain_name: messagelabs.co.nz
+query_status: 200 Active
+domain_dateregistered: 2007-11-19T13:17:03+13:00
+domain_datebilleduntil: 2012-11-19T13:17:03+13:00
+domain_datelastmodified: 2009-12-25T07:48:09+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Symantec Corporation
+registrant_contact_address1: 20330 Stevens Creek Blvd
+registrant_contact_city: CUPERTINO
+registrant_contact_province: CA
+registrant_contact_postalcode: 95014
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +14 8 5177979
+registrant_contact_fax: +14 8 5177979
+registrant_contact_email: domains@symantec.com
+%
+admin_contact_name: Symantec Corporation
+admin_contact_address1: 20330 Stevens Creek Blvd
+admin_contact_city: CUPERTINO
+admin_contact_province: CA
+admin_contact_postalcode: 95014
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +14 8 5177979
+admin_contact_fax: +14 8 5177979
+admin_contact_email: domains@symantec.com
+%
+technical_contact_name: Domain Manager
+technical_contact_address1: 20330 Stevens Creek Blvd
+technical_contact_city: Cupertino CA 95014
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1 40 85177979
+technical_contact_email: domains@symantec.com
+%
+ns_name_01: DNS1.MESSAGELABS.COM
+ns_name_02: DNS2.MESSAGELABS.COM
+ns_name_03: DNS3.MESSAGELABS.COM
+ns_name_04: DNS4.MESSAGELABS.COM
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

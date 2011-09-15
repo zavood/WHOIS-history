@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136734204-LROR
+Domain Name:MYAHYA.ORG
+Created On:07-Jan-2007 18:30:22 UTC
+Last Updated On:21-Feb-2011 01:13:34 UTC
+Expiration Date:07-Jan-2012 18:30:22 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:06352cacac5a0965
+Registrant Name:Mohamed  Yahya
+Registrant Street1:MPI Campus E14
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saarbruecken
+Registrant State/Province:SL
+Registrant Postal Code:66123
+Registrant Country:DE
+Registrant Phone:+49.15779731209
+Registrant Phone Ext.:
+Registrant FAX:+49.15779731209
+Registrant FAX Ext.:
+Registrant Email:yahya.mohamed@gmail.com
+Admin ID:a8e62900fee6549d
+Admin Name:Mohamed  Yahya
+Admin Street1:MPI Campus E14
+Admin Street2:
+Admin Street3:
+Admin City:Saarbruecken
+Admin State/Province:SL
+Admin Postal Code:66123
+Admin Country:DE
+Admin Phone:+49.15779731209
+Admin Phone Ext.:
+Admin FAX:+49.15779731209
+Admin FAX Ext.:
+Admin Email:yahya.mohamed@gmail.com
+Tech ID:2c7e4751b93e094f
+Tech Name:Mohamed  Yahya
+Tech Street1:MPI Campus E14
+Tech Street2:
+Tech Street3:
+Tech City:Saarbruecken
+Tech State/Province:SL
+Tech Postal Code:66123
+Tech Country:DE
+Tech Phone:+49.15779731209
+Tech Phone Ext.:
+Tech FAX:+49.15779731209
+Tech FAX Ext.:
+Tech Email:yahya.mohamed@gmail.com
+Name Server:NS2581.HOSTGATOR.COM
+Name Server:NS2582.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
