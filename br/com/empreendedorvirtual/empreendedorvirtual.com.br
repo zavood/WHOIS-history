@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 11:17:05 (BRT -03:00)
+
+domain:      empreendedorvirtual.com.br
+owner:       Sociedade Civil de Educ. Escola Guarani Ltda
+ownerid:     051.363.331/0001-27
+responsible: Valdir Pereira de Oliveira
+country:     BR
+owner-c:     CLS286
+admin-c:     CLS286
+tech-c:      DEM23
+billing-c:   FAC525
+nserver:     ns.brasilshop.psi.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns1.brasilshop.psi.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20070507 #3563132
+expires:     20120507
+changed:     20100510
+status:      published
+
+nic-hdl-br:  CLS286
+person:      Claudio Santos
+e-mail:      web@radio1.com.br
+created:     20010911
+changed:     20110325
+
+nic-hdl-br:  DEM23
+person:      Denis Engel Madureira
+e-mail:      denis@brasilshop.com.br
+created:     19990415
+changed:     20110617
+
+nic-hdl-br:  FAC525
+person:      Fabio Chaves
+e-mail:      fabiochaves@braslink.com
+created:     20030414
+changed:     20040323
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

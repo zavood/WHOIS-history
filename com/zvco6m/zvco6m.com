@@ -6,20 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: ZVCO6M.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2008
-   Expiration Date: 27-jun-2011
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-sep-2011
+   Creation Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:04:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:24:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+Domain Name: zvco6m.com
+Registered at http://www.dynadot.com
+
+Registrant:
+song yanchao
+zhuhai renmin donglu xihaidaxia a404
+zhuhai, guangdong
+China
+
+Administrative Contact:
+song yanchao
+zhuhai renmin donglu xihaidaxia a404
+zhuhai, guangdong
+China
+zp@4418.com
++86 7562274418
+
+Technical Contact:
+song yanchao
+zhuhai renmin donglu xihaidaxia a404
+zhuhai, guangdong
+China
+zp@4418.com
++86 7562274418
+
+Record expires on 2012/09/14 UTC
+Record created on 2011/09/14 UTC
+
+Domain servers in listed order:
+ns1.dreamhost.com
+ns2.dreamhost.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/15 07:20:23 PST &lt;&lt;&lt;
+

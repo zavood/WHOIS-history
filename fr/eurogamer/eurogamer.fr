@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; eurogamer.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      eurogamer.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EF348-FRNIC
+admin-c:     XB355-FRNIC
+tech-c:      ER507-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL51656-FRNIC
+registrar:   EURODNS S.A.
+anniversary: 16/01
+created:     16/01/2009
+last-update: 03/08/2011
+source:      FRNIC
+
+ns-list:     NSL51656-FRNIC
+nserver:     ns0.eurogamer.net
+nserver:     ns1.eurogamer.net
+source:      FRNIC
+
+registrar:   EURODNS S.A.
+type:        Isp Option 1
+address:     2 Rue L&eacute;on Laval
+address:     L-3372 LEUDELANGE
+country:     LU
+phone:       +352 26 19 16 1
+e-mail:      staff@eurodns.com
+website:     http://www.eurodns.com
+anonymous:   NO
+registered:  24/09/2003
+source:      FRNIC
+
+nic-hdl:     EF348-FRNIC
+type:        ORGANIZATION
+contact:     Eurodns France
+address:     23-25, rue Jean Jacques Rousseau
+address:     75001 Paris
+country:     FR
+phone:       +33 8 70 44 14 00
+e-mail:      dnsfr@admin.eurodns.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     XB355-FRNIC
+type:        ROLE
+contact:     Xavier Buck
+address:     Eurodns France
+address:     23-25, rue Jean Jacques Rousseau
+address:     75001 Paris
+country:     FR
+phone:       +33 8 70 44 14 00
+e-mail:      dnsfr@admin.eurodns.com
+admin-c:     ER507-FRNIC
+tech-c:      ER507-FRNIC
+changed:     21/09/2006 dnsfr@admin.eurodns.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ER507-FRNIC
+type:        ROLE
+contact:     EDNS ROLE
+address:     EuroDNS S.A.
+address:     41, z.a. am Bann
+address:     3372 Leudelange
+address:     LU
+e-mail:      dnsfr@admin.eurodns.com
+admin-c:     MM2096-FRNIC
+tech-c:      PYG1-FRNIC
+changed:     15/05/2006 dnsfr@admin.eurodns.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
