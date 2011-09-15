@@ -3,27 +3,23 @@ See http://www.nic.ch/terms/aup.html
 
 
 Domain name:
-bkracing.ch
+cleanteam.ch
 
 Holder of domain name:
-BK Racing
-Bucher Yves
-Rennsport
-Fraubuechliweg 12
-CH-8309 N&Atilde;&frac14;rensdorf
+Mosca Michel
+Grundstrasse 27
+CH-8934 Knonau
 Switzerland
 Contractual Language: German
 
 Technical contact:
-BK Racing
-Bucher Yves
-Rennsport
-Fraubuechliweg 12
-CH-8309 N&Atilde;&frac14;rensdorf
+Mosca Michel
+Grundstrasse 27
+CH-8934 Knonau
 Switzerland
 
 DNSSEC:N
 
 Name servers:
-ns3.hostforweb.net
-ns4.hostforweb.net
+ns51.domaincontrol.com
+ns52.domaincontrol.com

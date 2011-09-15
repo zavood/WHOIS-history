@@ -5,24 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAM.NET
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: ASIA1.AKAM.NET
-   Name Server: EUR1.AKAM.NET
-   Name Server: NS1-1.AKAM.NET
-   Name Server: USC2.AKAM.NET
-   Name Server: USE4.AKAM.NET
-   Name Server: USW4.AKAM.NET
-   Name Server: USW5.AKAM.NET
+   Domain Name: TRUSTOO.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.ARTMAM.COM
+   Name Server: NS.TATET.COM
+   Name Server: NS.TRUSTOO.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-dec-2009
-   Creation Date: 15-mar-1999
-   Expiration Date: 15-mar-2017
+   Updated Date: 28-oct-2010
+   Creation Date: 09-nov-2004
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:31:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:30:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,5 +52,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+domain:       trustoo.com
+owner:        Ivan Davidchuk
+organization: Nashford
+email:        ivan-mark@ukr.net
+address:      Borispilska 9
+city:         Kiev
+postal-code:  09022
+country:      UA
+phone:        +386.75024084
+admin-c:      CCOM-129145 ivan-mark@ukr.net
+tech-c:       CCOM-129145 ivan-mark@ukr.net
+billing-c:    CCOM-129145 ivan-mark@ukr.net
+nserver:      ns.trustoo.com 217.20.171.193
+nserver:      ns.tatet.com 67.15.143.6
+nserver:      ns.artmam.com 209.85.14.74
+status:       lock
+created:      2004-11-09 09:16:42 UTC
+modified:     2010-10-28 07:33:06 UTC
+expires:      2011-11-09 09:16:42 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CCOM-129145
+person:       Ivan Davidchuk
+organization: Nashford
+email:        ivan-mark@ukr.net
+address:      Borispilska 9
+city:         Kiev
+postal-code:  09022
+country:      UA
+phone:        +386.75024084
+
+source:       joker.com live whois service
+query-time:   0.027449
+db-updated:   2011-09-15 07:31:48
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

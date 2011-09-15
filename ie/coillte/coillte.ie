@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      coillte.ie
+descr:       Coillte Teoranta
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     KCB10-IEDR
+tech-c:      AJQ088-IEDR
+renewal:     03-July-2012
+status:      Active
+nserver:     ns1.nethop.ie
+nserver:     ns2.nethop.ie
+source:      IEDR
+
+person:      Gary Williamson
+nic-hdl:     KCB10-IEDR
+source:      IEDR
+
+person:      Carl Ledwidge
+nic-hdl:     AJQ088-IEDR
+source:      IEDR
+

@@ -1,0 +1,24 @@
+[Domain]
+Domain: omlete.lv
+Status: active
+Changed: 2005-12-29T14:15:45+02:00
+
+[Holder]
+Type: Legal person
+Name: BALTICOVO, A/S
+Email: janisv@balticovo.lv
+Phone: +37128811634
+Address: &quot;Administrativa eka&quot;, Iecavas novads, LV-3913
+RegNr: 40003058863
+
+[Tech]
+Type: Natural person
+Email: janisv@balticovo.lv
+Phone: +37128811634
+
+[Nservers]
+Nserver: ns1.twisted4life.com
+Nserver: ns.omlete.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00
