@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ZHENXI.COM
+   Domain Name: ZHUANGYAO.COM
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
@@ -13,10 +13,10 @@ for detailed information.
    Name Server: DNS16.HICHINA.COM
    Status: ok
    Updated Date: 19-apr-2011
-   Creation Date: 22-apr-2003
-   Expiration Date: 22-apr-2014
+   Creation Date: 13-apr-2007
+   Expiration Date: 13-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:48:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:49:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,55 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... zhenxi.com
+Domain Name ..................... zhuangyao.com
 Name Server ..................... dns15.hichina.com
                                   dns16.hichina.com
-Registrant ID ................... hc070559155-cn
-Registrant Name ................. chen liu
-Registrant Organization ......... shenzhenshidiguwangkejiyouxiangognsi
-Registrant Address .............. Shenzhenshi nanshanqu kejiyuanbeiqu langshanlu11hao tongfangxinxigangA-3
-Registrant City ................. &Eacute;&icirc;&Ucirc;&Uacute;
-Registrant Province/State ....... &sup1;&atilde;&para;&laquo;
-Registrant Postal Code .......... 518057
+Registrant ID ................... hc980616501-cn
+Registrant Name ................. ZHONG YAN
+Registrant Organization ......... ZHONG YAN
+Registrant Address .............. GUNAG XI NAN NING
+Registrant City ................. nan ning
+Registrant Province/State ....... guangxi
+Registrant Postal Code .......... 530219
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.075586296333 - 8021
-Registrant Fax .................. +86.075586296333 - 8021
-Registrant Email ................ chen.liu@sinofriends.com
-Technical ID .................... tech
-Technical Name .................. tech
-Technical Organization .......... HiChina Web Solutions (Hong Kong) Limited
-Technical Address ............... 3/F., HiChina Mansion,
-                                  No.27 Gulouwai Avenue Dongcheng District,
-                                  Beijing, China
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064254247 -
-Technical Email ................. domainadm@hichina.com
-Billing ID ...................... billing
-Billing Name .................... billing
-Billing Organization ............ HiChina Web Solutions (Hong Kong) Limited
-Billing Address ................. 3/F., HiChina Mansion,
-                                  No.27 Gulouwai Avenue Dongcheng District,
-                                  Beijing, China
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064254247 -
-Billing Email ................... domainadm@hichina.com
-Administrative ID ............... hc102824685-cn
-Administrative Name ............. chen liu
-Administrative Organization ..... d3zone
-Administrative Address .......... Shenzhenshi nanshanqu kejiyuanbeiqu langshanlu11hao tongfangxinxigangA-3
-Administrative City ............. shenzhen
-Administrative Province/State ... guangdong
-Administrative Postal Code ...... 518057
+Registrant Phone Number ......... +86.07712280820 -
+Registrant Fax .................. +86.07712280820 -
+Registrant Email ................ zy280@sina.com
+Administrative ID ............... hc980616501-cn
+Administrative Name ............. ZHONG YAN
+Administrative Organization ..... ZHONG YAN
+Administrative Address .......... GUNAG XI NAN NING
+Administrative City ............. nan ning
+Administrative Province/State ... guangxi
+Administrative Postal Code ...... 530219
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.075586296333 - 8021
-Administrative Fax .............. +86.075586296305 -
-Administrative Email ............ chen.liu@sinofriends.com
-Expiration Date ................. 2014-04-22 13:23:05
+Administrative Phone Number ..... +86.07712280820 -
+Administrative Fax .............. +86.07712280820 -
+Administrative Email ............ zy280@sina.com
+Billing ID ...................... hc980616501-cn
+Billing Name .................... ZHONG YAN
+Billing Organization ............ ZHONG YAN
+Billing Address ................. GUNAG XI NAN NING
+Billing City .................... nan ning
+Billing Province/State .......... guangxi
+Billing Postal Code ............. 530219
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.07712280820 -
+Billing Fax ..................... +86.07712280820 -
+Billing Email ................... zy280@sina.com
+Technical ID .................... hc980616501-cn
+Technical Name .................. ZHONG YAN
+Technical Organization .......... ZHONG YAN
+Technical Address ............... GUNAG XI NAN NING
+Technical City .................. nan ning
+Technical Province/State ........ guangxi
+Technical Postal Code ........... 530219
+Technical Country Code .......... CN
+Technical Phone Number .......... +86.07712280820 -
+Technical Fax ................... +86.07712280820 -
+Technical Email ................. zy280@sina.com
+Expiration Date ................. 2012-04-13 05:31:58
