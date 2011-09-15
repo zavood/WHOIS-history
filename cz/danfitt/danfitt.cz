@@ -1,0 +1,65 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:39:57 2011
+
+domain:       danfitt.cz
+registrant:   SB:DANFITT-CZ
+admin-c:      DANFITT
+nsset:        NSS:DANFITT-CZ:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   05.05.2000 15:51:00
+changed:      12.05.2007 17:05:00
+expire:       05.05.2012
+
+contact:      SB:DANFITT-CZ
+name:         Stanislav Plevak
+address:      Osvobozen&Atilde;&shy; 128
+address:      Cavisov
+address:      747 64
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      15.12.2005 13:05:00
+changed:      08.10.2007 22:31:58
+
+contact:      DANFITT
+name:         Vladan Pitel
+address:      Prokesovo nam. 1803/8
+address:      Ostrava
+address:      70200
+address:      CZ
+phone:        +420.608700307
+fax-no:       +420.608092307
+e-mail:       vp@danfitt.cz
+registrar:    REG-INTERNET-CZ
+created:      18.12.2003 17:50:00
+changed:      03.05.2006 15:45:00
+
+nsset:        NSS:DANFITT-CZ:1
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.us
+nserver:      ns.forpsi.it
+tech-c:       SB:DANFITT-CZ
+tech-c:       DANFITT
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      17.07.2009 10:25:12
+
+

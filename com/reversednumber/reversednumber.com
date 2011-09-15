@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REDRUNGRILL.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 21-jan-2004
-   Expiration Date: 01-jun-2012
+   Domain Name: REVERSEDNUMBER.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS-CANADA.TOPDNS.COM
+   Name Server: NS-UK.TOPDNS.COM
+   Name Server: NS-USA.TOPDNS.COM
+   Status: ok
+   Updated Date: 01-jun-2011
+   Creation Date: 05-jun-2010
+   Expiration Date: 05-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:38:34 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+Domain reversednumber.com
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Date Registered: 2010-6-5
+Date Modified: 2011-6-1
+Expiry Date: 2012-6-5
 
+DNS1: ns-canada.topdns.com
+DNS2: ns-uk.topdns.com
+DNS3: ns-usa.topdns.com
 
-Registrant:
-   RABbitDev Redux
+Registrant
+    Private Whois reversednumber.com
+    Private Whois reversednumber.com  ib0pi0x4d94afd11e499@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o reversednumber.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-   Registered through: FXDomains
-   Domain Name: REDRUNGRILL.COM
+Administrative Contact
+    Private Whois reversednumber.com
+    Private Whois reversednumber.com  cfs6ylo4d94afd12f985@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o reversednumber.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
+Technical Contact
+    Private Whois reversednumber.com
+    Private Whois reversednumber.com  jgq2w084d94afd126569@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o reversednumber.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=REDRUNGRILL.COM&amp;prog_id=FXDomains
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

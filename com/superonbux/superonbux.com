@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOGUTMAEKIPMANLARI.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.HOSTINGVADISI.COM
-   Name Server: NS2.HOSTINGVADISI.COM
-   Status: clientTransferProhibited
-   Updated Date: 08-nov-2010
-   Creation Date: 08-nov-2010
-   Expiration Date: 08-nov-2011
+   Domain Name: SUPERONBUX.COM
+   Registrar: INSTINCT SOLUTIONS, INC.
+   Whois Server: whois.instinctsolutions.com
+   Referral URL: http://www.instinctsolutions.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
+   Status: ok
+   Updated Date: 28-apr-2011
+   Creation Date: 25-apr-2011
+   Expiration Date: 25-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:38:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:39:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+Registration Service Provided By: BIGROCK.COM
+Contact: +01.4153580892
+Website: http://www.bigrock.com
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+Domain Name: SUPERONBUX.COM
 
 Registrant:
-	 ERHAN  ATAY admin@hostingvadisi.com +90.5334296738
-	 Hosting Vadisi
-	 MELIKGAZI
-	 KAYSERI,TR,TR 38070
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
 
-
-Domain Name:sogutmaekipmanlari.com
-Record last updated at 2010-11-08 07:59:23
-Record created on 2010/11/8
-Record expired on 2011/11/8
-
+Creation Date: 25-Apr-2011
+Expiration Date: 25-Apr-2012
 
 Domain servers in listed order:
-	 ns1.hostingvadisi.com 	 ns2.hostingvadisi.com
-
-Administrator:
-	 ERHAN  ATAY admin@hostingvadisi.com +90.5334296738
-	 Hosting Vadisi
-	 MELIKGAZI
-	 KAYSERI,TR,TR 38070
-
-Technical Contactor:
-	 ERHAN  ATAY admin@hostingvadisi.com +90.5334296738
-	 Hosting Vadisi
-	 MELIKGAZI
-	 KAYSERI,TR,TR 38070
-
-Billing Contactor:
-	 ERHAN  ATAY admin@hostingvadisi.com +90.5334296738
-	 Hosting Vadisi
-	 MELIKGAZI
-	 KAYSERI,TR,TR 38070
+    ns1.bodis.com
+    ns2.bodis.com
 
 
-Registration Service Provider:
-	name: Hosting Vadisi
-	tel: +90.5334296738
- 	fax: +90.5334296738
- 	web:http://www.hostingvadisi.com
+Administrative Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Technical Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Billing Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Instinct Solutions, Inc.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

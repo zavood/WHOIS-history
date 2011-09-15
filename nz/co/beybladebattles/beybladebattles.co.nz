@@ -1,0 +1,72 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T15:40:00+12:00
+domain_name: beybladebattles.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-10-20T10:13:02+13:00
+domain_datebilleduntil: 2011-10-20T10:13:02+13:00
+domain_datelastmodified: 2010-07-09T03:04:58+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: MarkMonitor
+registrar_address1: 391 N. Ancestor Place
+registrar_city: Boise
+registrar_province: ID
+registrar_postalcode: 83704
+registrar_country: US (UNITED STATES)
+registrar_phone: +1 208 3895740
+registrar_fax: +1 208 3895771
+registrar_email: ccops@markmonitor.com
+%
+registrant_contact_name: Hasbro, Inc.
+registrant_contact_address1: 1027 Newport Ave.
+registrant_contact_city: Pawtucket
+registrant_contact_province: Rhode Island
+registrant_contact_postalcode: 02861-2539
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +1  4017275757
+registrant_contact_fax: +1  4017275089
+registrant_contact_email: domains@HASBRO.COM
+%
+admin_contact_name: Hasbro, Inc.
+admin_contact_address1: 1027 Newport Ave.
+admin_contact_city: Pawtucket
+admin_contact_province: Rhode Island
+admin_contact_postalcode: 02861-2539
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +1  4017275757
+admin_contact_fax: +1  4017275089
+admin_contact_email: domains@HASBRO.COM
+%
+technical_contact_name: Hasbro, Inc.
+technical_contact_address1: 1027 Newport Ave.
+technical_contact_city: Pawtucket
+technical_contact_province: Rhode Island
+technical_contact_postalcode: 02861-2539
+technical_contact_country: US (UNITED STATES)
+technical_contact_phone: +1  4017275757
+technical_contact_fax: +1  4017275089
+technical_contact_email: domains@HASBRO.COM
+%
+ns_name_01: dns1.hasbro.com
+ns_name_02: dns2.hasbro.com
+ns_name_03: dns3.hasbro.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

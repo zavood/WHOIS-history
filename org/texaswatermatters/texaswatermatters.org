@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75749694-LROR
+Domain Name:TEXASWATERMATTERS.ORG
+Created On:06-Aug-2001 20:21:06 UTC
+Last Updated On:11-May-2011 18:50:35 UTC
+Expiration Date:06-Aug-2012 20:21:06 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuj9uFP26X1I6Wo8
+Registrant Name:Lacey McCormick
+Registrant Organization:National Wildlife Federation
+Registrant Street1:44 East Avenue, Suite 200
+Registrant Street2:
+Registrant Street3:
+Registrant City:Austin
+Registrant State/Province:Texas
+Registrant Postal Code:78701
+Registrant Country:US
+Registrant Phone:+1.5126107765
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mccormick@nwf.org
+Admin ID:turBR1dXtbbyc5gf
+Admin Name:Lacey McCormick
+Admin Organization:National Wildlife Federation
+Admin Street1:44 East Avenue, Suite 200
+Admin Street2:
+Admin Street3:
+Admin City:Austin
+Admin State/Province:Texas
+Admin Postal Code:78701
+Admin Country:US
+Admin Phone:+1.5126107765
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mccormick@nwf.org
+Tech ID:tuqhYb4pFWpfFuQN
+Tech Name:Cedant Web Hosting
+Tech Organization:Cedant Web Hosting
+Tech Street1:216 F Street PMB49
+Tech Street2:
+Tech Street3:
+Tech City:Davis
+Tech State/Province:CA
+Tech Postal Code:95616
+Tech Country:US
+Tech Phone:+1.5307533787
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@CEDANT.COM
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

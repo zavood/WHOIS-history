@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REDRUNGRILL.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS43.DOMAINCONTROL.COM
-   Name Server: NS44.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-jun-2011
-   Creation Date: 21-jan-2004
-   Expiration Date: 01-jun-2012
+   Domain Name: SOYOKAZE-AH.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
+   Status: ok
+   Updated Date: 02-mar-2011
+   Creation Date: 04-oct-2009
+   Expiration Date: 04-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:38:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:39:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: soyokaze-ah.com
+Created On: 2009-10-04 14:19:18.0
+Last Updated On: 2011-03-03 13:19:12.0
+Expiration Date: 2011-10-04 05:19:18.0
+Status: ACTIVE
+Registrant Name: taisuke yamazaki
+Registrant Organization: soyokaze animal hospital
+Registrant Street1: 2-634-1 Suzutani
+Registrant Street2:
+Registrant City: saitama-shi Cyuou-ku
+Registrant State: Saitama
+Registrant Postal Code: 3380013
+Registrant Country: JP
+Registrant Phone: 81-000000000
+Registrant Fax:
+Registrant Email: info@soyokaze-ah.com
+Admin Name: taisuke yamazaki
+Admin Organization: soyokaze animal hospital
+Admin Street1: 2-634-1 Suzutani
+Admin Street2:
+Admin City: saitama-shi Cyuou-ku
+Admin State: Saitama
+Admin Postal Code: 3380013
+Admin Country: JP
+Admin Phone: 81-000000000
+Admin Fax:
+Admin Email: info@soyokaze-ah.com
+Billing Name: taisuke yamazaki
+Billing Organization: soyokaze animal hospital
+Billing Street1: 2-634-1 Suzutani
+Billing Street2:
+Billing City: saitama-shi Cyuou-ku
+Billing State: Saitama
+Billing Postal Code: 3380013
+Billing Country: JP
+Billing Phone: 81-000000000
+Billing Fax:
+Billing Email: info@soyokaze-ah.com
+Tech Name: taisuke yamazaki
+Tech Organization: soyokaze animal hospital
+Tech Street1: 2-634-1 Suzutani
+Tech Street2:
+Tech City: saitama-shi Cyuou-ku
+Tech State: Saitama
+Tech Postal Code: 3380013
+Tech Country: JP
+Tech Phone: 81-000000000
+Tech Fax:
+Tech Email: info@soyokaze-ah.com
+Name Server: dns0.heteml.jp
+Name Server: dns1.heteml.jp
 
-Registrant:
-   RABbitDev Redux
-
-   Registered through: FXDomains
-   Domain Name: REDRUNGRILL.COM
-
-   Domain servers in listed order:
-      NS43.DOMAINCONTROL.COM
-      NS44.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=REDRUNGRILL.COM&amp;prog_id=FXDomains
