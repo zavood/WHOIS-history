@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-dec-2010
    Expiration Date: 02-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:16:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:04:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-10 08:17:17 CEST
+# 2011-09-15 10:05:23 CEST
 
 domain: basylo.com
 reg_created: 2010-12-02 16:20:49

@@ -1,0 +1,29 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         atlas.sk
+Admin-id            ATLS-0001
+Admin-name          Centrum Holdings, a.s.
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       35796634
+Admin-address       Prievozska 4/D, Bratislava 82109
+Admin-telephone     02/32131200
+Admin-email         dnsadmin@sk.centrumholdings.com
+Tech-id             ATLS-0001
+Tech-name           Centrum Holdings, a.s.
+Tech-org.-ID        35796634
+Tech-address        Prievozska 4/D, Bratislava 82109
+Tech-telephone      02/32131200
+Tech-email          dnsadmin@sk.centrumholdings.com
+dns_name            ns1.atlas.sk
+dns_ip              213.215.117.110
+dns_name            ns2.atlas.sk
+dns_ip              81.0.254.36
+dns_name            ns3.atlas.sk
+dns_ip              213.215.117.150
+Last-update         2011-09-07
+Valid-date          2012-09-23
+Domain-status       DOM_OK
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D853613-LROR
+Domain Name:WGBH.ORG
+Created On:04-Jan-1991 05:00:00 UTC
+Last Updated On:24-Oct-2009 00:29:19 UTC
+Expiration Date:03-Jan-2019 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR12922986
+Registrant Name:Domain Administrator
+Registrant Organization:WGBH Educational Foundation
+Registrant Street1:One Guest Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02135
+Registrant Country:US
+Registrant Phone:+1.6173002000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:donna_taub@wgbh.org
+Admin ID:CR12923008
+Admin Name:Domain Administrator
+Admin Organization:WGBH Educational Foundation
+Admin Street1:One Guest Street
+Admin Street2:
+Admin Street3:
+Admin City:Boston
+Admin State/Province:Massachusetts
+Admin Postal Code:02135
+Admin Country:US
+Admin Phone:+1.6173002000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:donna_taub@wgbh.org
+Tech ID:CR12922993
+Tech Name:Domain Administrator
+Tech Organization:WGBH Educational Foundation
+Tech Street1:One Guest Street
+Tech Street2:
+Tech Street3:
+Tech City:Boston
+Tech State/Province:Massachusetts
+Tech Postal Code:02135
+Tech Country:US
+Tech Phone:+1.6173002000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:donna_taub@wgbh.org
+Name Server:GRIFFIN.WGBH.ORG
+Name Server:JAM.WGBH.ORG
+Name Server:STRAWB.MIT.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

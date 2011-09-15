@@ -1,0 +1,65 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 10:02:01 2011
+
+domain:       schlecker.cz
+registrant:   ANTON-SCHLECKER
+nsset:        NSS:SCHLECKER
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   02.10.2003 10:50:00
+changed:      25.09.2009 11:33:40
+expire:       02.10.2011
+
+contact:      ANTON-SCHLECKER
+org:          Anton Schlecker
+name:         Ingo Naumann
+address:      Talstr. 12-14
+address:      Ehingen
+address:      89579
+address:      DE
+phone:        +49.73915841236
+fax-no:       +49.73915847236
+e-mail:       i.naumann@de.schlecker.net
+registrar:    REG-GENREG
+created:      11.09.2009 15:36:01
+changed:      18.07.2011 15:21:13
+
+nsset:        NSS:SCHLECKER
+nserver:      it.schlecker.de
+nserver:      pns.dtag.de
+nserver:      secondary006.dtag.net
+tech-c:       KNIPP
+registrar:    REG-GENREG
+created:      25.09.2009 11:30:19
+
+contact:      KNIPP
+org:          Knipp Medien und Kommunikation GmbH
+name:         Elmar Knipp
+address:      Martin-Schmeisser-Weg 9
+address:      Dortmund
+address:      44227
+address:      DE
+phone:        +49.23197030
+fax-no:       +49.23197032000
+e-mail:       cctld@knipp.de
+registrar:    REG-GENREG
+created:      04.10.2007 14:00:01
+
+

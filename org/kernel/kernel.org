@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D169413-LROR
+Domain Name:KERNEL.ORG
+Created On:07-Mar-1997 05:00:00 UTC
+Last Updated On:07-Sep-2011 16:06:43 UTC
+Expiration Date:08-Mar-2014 05:00:00 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:KH222-GANDI
+Registrant Name:kernel.org hostmaster
+Registrant Organization:Linux Kernel Organization, Inc.
+Registrant Street1:3475 Clover Oak Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Jose
+Registrant State/Province:CA
+Registrant Postal Code:95148
+Registrant Country:US
+Registrant Phone:+1.4082232618
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:54dbfe65bdbcab91fde1817d4ae6e004-kh222@contact.gandi.net
+Admin ID:KH222-GANDI
+Admin Name:kernel.org hostmaster
+Admin Organization:Linux Kernel Organization, Inc.
+Admin Street1:3475 Clover Oak Dr
+Admin Street2:
+Admin Street3:
+Admin City:San Jose
+Admin State/Province:CA
+Admin Postal Code:95148
+Admin Country:US
+Admin Phone:+1.4082232618
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:54dbfe65bdbcab91fde1817d4ae6e004-kh222@contact.gandi.net
+Tech ID:KH222-GANDI
+Tech Name:kernel.org hostmaster
+Tech Organization:Linux Kernel Organization, Inc.
+Tech Street1:3475 Clover Oak Dr
+Tech Street2:
+Tech Street3:
+Tech City:San Jose
+Tech State/Province:CA
+Tech Postal Code:95148
+Tech Country:US
+Tech Phone:+1.4082232618
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:54dbfe65bdbcab91fde1817d4ae6e004-kh222@contact.gandi.net
+Name Server:NS.VGER.KERNEL.ORG
+Name Server:NS4.KERNEL.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

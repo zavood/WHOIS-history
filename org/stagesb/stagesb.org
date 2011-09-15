@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105582218-LROR
+Domain Name:STAGESB.ORG
+Created On:16-Jan-2005 03:03:19 UTC
+Last Updated On:16-Jan-2011 18:27:31 UTC
+Expiration Date:16-Jan-2012 03:03:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31720796
+Registrant Name:Zlatko Bagaric
+Registrant Organization:OS IGK
+Registrant Street1:Huge Badalica 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Slavonski Brod
+Registrant State/Province:
+Registrant Postal Code:35000
+Registrant Country:HR
+Registrant Phone:+354.47314
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@sbnet.hr
+Admin ID:CR31720798
+Admin Name:ZELJKO KLINDZIC
+Admin Organization:SB NET
+Admin Street1:Nas. Kralja Tomislava 3/I
+Admin Street2:
+Admin Street3:
+Admin City:Slavonski Brod
+Admin State/Province:HR
+Admin Postal Code:35000
+Admin Country:HR
+Admin Phone:+385.98391868
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@sbnet.hr
+Tech ID:CR31720797
+Tech Name:ZELJKO KLINDZIC
+Tech Organization:SB NET
+Tech Street1:Nas. Kralja Tomislava 3/I
+Tech Street2:
+Tech Street3:
+Tech City:Slavonski Brod
+Tech State/Province:HR
+Tech Postal Code:35000
+Tech Country:HR
+Tech Phone:+385.98391868
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@sbnet.hr
+Name Server:NS1.SBNET-HOST.COM
+Name Server:NS2.SBNET-HOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

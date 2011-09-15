@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T20:00:27+12:00
+domain_name: alsco.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-01-05T00:00:00+13:00
+domain_datebilleduntil: 2011-10-05T10:53:22+13:00
+domain_datelastmodified: 2011-09-05T23:33:13+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Xtra Limited
+registrar_address1: Private Bag 92028
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 355-5200
+registrar_fax: +64 9 355-5281
+registrar_email: soa@xtra.co.nz
+%
+registrant_contact_name: Alsco Limited (t/a NZTS)
+registrant_contact_address1: P O Box 74450
+registrant_contact_address2: Market Rd
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 77060
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 5243222
+registrant_contact_fax: +64 9 5243220
+registrant_contact_email: mprigg@alsco.co.nz
+%
+admin_contact_name: Alsco Limited (t/a NZTS)
+admin_contact_address1: P O Box 74450
+admin_contact_address2: Market Rd
+admin_contact_city: Auckland
+admin_contact_postalcode: 77060
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 5243222
+admin_contact_fax: +64 9 5243220
+admin_contact_email: cmattar@alsco.co.nz
+%
+technical_contact_name: Xtra Limited
+technical_contact_address1: Private Bag 92028
+technical_contact_city: Auckland
+technical_contact_province: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 3555200
+technical_contact_fax: +64 9 3555281
+technical_contact_email: soa@xtra.co.nz
+%
+ns_name_01: alien.xtra.co.nz
+ns_name_02: terminator.xtra.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

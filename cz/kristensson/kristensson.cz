@@ -1,0 +1,131 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 09:55:29 2011
+
+domain:       kristensson.cz
+registrant:   SB:KRI887-20010201S
+admin-c:      KUB887-20010201P
+nsset:        NSS:CZ.VOL:53
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   01.02.2001 19:11:00
+changed:      21.12.2006 10:25:00
+expire:       02.02.2012
+
+contact:      SB:KRI887-20010201S
+org:          KRISTESSON spol.s r.o.
+name:         KRISTESSON spol.s r.o.
+address:      Sportovni ulice (areal a.s. Silnic H.K.)
+address:      Trutnov 3
+address:      54103
+address:      CZ
+e-mail:       martina@skip.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      KUB887-20010201P
+name:         Roman Kubec
+address:      Sportovni ulice (areal a.s. Silnic H.K.)
+address:      Trutnov 3
+address:      54103
+address:      CZ
+phone:        +420 499841246
+e-mail:       martina@skip.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:CZ.VOL:53
+nserver:      alpha.humlak.cz
+nserver:      alpha2.humlak.cz
+tech-c:       SB:CZ.VOL
+tech-c:       RYSLINKD_COL
+tech-c:       ZEMANV01-COL
+tech-c:       JR1434-RIPE
+tech-c:       VOL-TECH-C
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+
+contact:      SB:CZ.VOL
+org:          Volny, a.s.
+name:         Milan Salajka
+address:      U nakladoveho nadrazi 8
+address:      Praha 3
+address:      130 00
+address:      CZ
+e-mail:       hostmaster@firma.volny.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      25.10.2010 17:28:17
+
+contact:      RYSLINKD_COL
+org:          VOLNY, a.s.
+name:         Daniel Ryslink
+address:      U Nakladoveho nadrazi 8
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.246000222
+fax-no:       +420.246000118
+e-mail:       daniel.ryslink@firma.volny.cz
+registrar:    REG-DIAL-TEL
+created:      02.01.2002 13:21:00
+changed:      09.04.2009 10:25:06
+
+contact:      ZEMANV01-COL
+org:          VOLNY, a.s.
+name:         Vlastimil Zeman
+address:      U Nakladoveho nadrazi 8
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.246000222
+fax-no:       +420.246000118
+e-mail:       vlastimil.zeman@firma.volny.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      09.04.2009 10:26:06
+
+contact:      JR1434-RIPE
+org:          Telekom Austria Czech Republic, a.s.
+name:         Jan Redl
+address:      U N&Atilde;&iexcl;kladov&Atilde;&copy;ho n&Atilde;&iexcl;dra&Aring;&frac34;&Atilde;&shy; 8
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.246000222
+fax-no:       +420.246000118
+e-mail:       jan.redl@telekomaustria.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      12.12.2007 18:35:43
+
+contact:      VOL-TECH-C
+org:          VOLNY, a.s.
+name:         VOLNY, a.s.
+address:      U Nakladoveho nadrazi 8
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.246000222
+e-mail:       hostmaster@firma.volny.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      09.04.2009 10:22:44
+
+
