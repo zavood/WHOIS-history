@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOORA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS53.WORLDNIC.COM
-   Name Server: NS54.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 19-aug-2008
-   Creation Date: 31-dec-1995
-   Expiration Date: 30-dec-2017
+   Domain Name: BLEU-CROISIERES.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.FIRSTDNS.COM
+   Name Server: NS2.FIRSTDNS.COM
+   Status: ok
+   Updated Date: 25-aug-2011
+   Creation Date: 09-sep-2002
+   Expiration Date: 09-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:55:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:55:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: boora.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:45:32 EDT 2011
-Reason Code: IE
+Domain Name : BLEU-CROISIERES.COM
+Created On : 2002-09-09
+Expiration Date : 2012-09-09
+Status : ACTIVE
+Registrant Name : KARAVEL SAS
+Registrant Street1 : 17 rue de l'Echiquier
+Registrant City : PARIS
+Registrant State/Province  : FR
+Registrant Postal Code : 75010
+Registrant Country : FR
+Admin Name : KARAVEL SAS
+Admin Street1 : 17 rue de l'Echiquier
+Admin City : PARIS
+Admin State/Province : ILE DE FRANCE
+Admin Postal Code : 75010
+Admin Country : FR
+Admin Phone : +33.148012600
+Admin Email : ndd@karavel.com
+Tech Name : KARAVEL SAS
+Tech Street1 : 17 rue de l'Echiquier
+Tech City : PARIS
+Tech State/Province : ILE DE FRANCE
+Tech Postal Code : 75010
+Tech Country : FR
+Tech Phone : +33.148012600
+Tech Email : ndd@karavel.com
+Billing Name : KARAVEL SAS
+Billing Street1 : 17 rue de l'Echiquier
+Billing City : PARIS
+Billing State/Province : ILE DE FRANCE
+Billing Postal Code : 75010
+Billing Country : FR
+Billing Phone : +33.148012600
+Billing Email : ndd@karavel.com
+Name Server : NS2.FIRSTDNS.COM
+Name Server : NS1.FIRSTDNS.COM
+Registrar Name : Namebay

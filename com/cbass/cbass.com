@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 09-dec-1996
    Expiration Date: 08-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:39:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:56:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,85 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Clarence Bass Ripped Enterprises
- 528 Chama NE
- Albuquerque, NM 87108
- US
-
- Domain name: CBASS.COM
-
-
- Administrative Contact:
-    Bass, Carol  hostmaster@osogrande.com
-    528 Chama NE
-    Albuquerque, NM 87108
-    US
-    (505)266-5858
- Technical Contact:
-    Group, Systems  hostmaster@osogrande.net
-    725 6th St. NW
-    Albuquerque, NM 87102
-    US
-    +1.5058167373    Fax: +1.5053456559
-
-
-
- Registration Service Provider:
-    Oso Grande Technologies Inc, hostmaster@osogrande.com
-    505 345 6555
-    505 345 6559 (fax)
-    http://www.osogrande.com
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 08-Aug-2011.
- Record expires on 08-Dec-2011.
- Record created on 09-Dec-1996.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    DNS1.OSOGRANDE.COM
-    DNS2.OSOGRANDE.COM
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

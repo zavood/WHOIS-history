@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOORA.COM
+   Domain Name: ALLIEDTUBE-SPRINKLER.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS53.WORLDNIC.COM
-   Name Server: NS54.WORLDNIC.COM
+   Name Server: HERCULES.NTSO.COM
+   Name Server: NS.NTSO.COM
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2008
-   Creation Date: 31-dec-1995
-   Expiration Date: 30-dec-2017
+   Updated Date: 06-jan-2009
+   Creation Date: 05-may-2008
+   Expiration Date: 05-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:55:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:55:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: boora.com
+Whois Query: alliedtube-sprinkler.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:45:32 EDT 2011
+Date and Time of Query: Wed Sep 14 21:44:47 EDT 2011
 Reason Code: IE

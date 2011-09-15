@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:56:55 2011
+
+domain:       bowl.cz
+registrant:   FORPSI-QSD-S287117
+nsset:        GIGASERVER
+registrar:    REG-SEONET
+status:       paid and in zone
+registered:   08.02.2010 02:51:08
+changed:      13.04.2010 11:05:11
+expire:       08.02.2012
+
+contact:      FORPSI-QSD-S287117
+name:         Petr Va&Aring;&iexcl;ut
+address:      m&Atilde;&iexcl;nesova 6
+address:      Hav&Atilde;&shy;&Aring;™ov-M&Auml;›sto
+address:      736 01
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      01.08.2008 13:11:03
+
+nsset:        GIGASERVER
+nserver:      ns1.gigaserver.cz (88.208.118.146)
+nserver:      ns2.gigaserver.cz (88.208.118.147)
+nserver:      ns3.gigaserver.cz (88.208.118.40)
+nserver:      ns4.gigaserver.cz (67.208.112.110)
+tech-c:       GIGASERVER
+registrar:    REG-SEONET
+created:      01.10.2007 20:00:08
+changed:      03.02.2011 12:44:49
+
+contact:      GIGASERVER
+org:          Seonet Multimedia s.r.o.
+name:         Pavel Ond&Aring;™ej
+address:      Krnovsk&Atilde;&iexcl; 233/135
+address:      Opava
+address:      74707
+address:      CZ
+phone:        +420.774151730
+fax-no:       +420.591140073
+e-mail:       info@seonet.cz
+registrar:    REG-SEONET
+created:      01.10.2007 19:58:00
+changed:      13.01.2010 08:12:49
+
+

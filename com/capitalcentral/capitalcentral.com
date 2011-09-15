@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BOORA.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS53.WORLDNIC.COM
-   Name Server: NS54.WORLDNIC.COM
+   Domain Name: CAPITALCENTRAL.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: EPDNS2.JOURNALREGISTERCO.COM
+   Name Server: EPDNS3.JOURNALREGISTERCO.COM
+   Name Server: EPDNS4.JOURNALREGISTERCO.COM
    Status: clientTransferProhibited
-   Updated Date: 19-aug-2008
-   Creation Date: 31-dec-1995
-   Expiration Date: 30-dec-2017
+   Status: clientUpdateProhibited
+   Updated Date: 22-apr-2011
+   Creation Date: 27-apr-1998
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:55:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:56:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: boora.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:45:32 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.
