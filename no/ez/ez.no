@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: EZ12D-NORID
+Domain Name................: ez.no
+Domain Holder Handle.......: ESA490O-NORID
+Registrar Handle...........: REG553-NORID
+Legal-c Handle.............: HOF26P-NORID
+Tech-c Handle..............: ESH4R-NORID
+Name Server Handle.........: NSON26H-NORID
+Name Server Handle.........: PAX2H-NORID
+Name Server Handle.........: ZAP2H-NORID
+Name Server Handle.........: ZHAD2H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-12-23
+
+NORID Handle...............: ESA490O-NORID
+Type.......................: organization
+Name.......................: EZ SYSTEMS AS
+Id Type....................: organization_number
+Id Number..................: 981601564
+Registrar Handle...........: REG553-NORID
+Post Address...............: Postboks 2870
+Postal Code................: NO-3702
+Postal Area................: Skien
+Country....................: NO
+Phone Number...............: +47.35587020
+Fax Number.................: +47.35587021
+Email Address..............: info@ez.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

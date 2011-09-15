@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTORIESINC.COM
+   Domain Name: EXTREMEFUNNYPICTURES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Name Server: NS1.SCALR.NET
+   Name Server: NS2.SCALR.NET
+   Name Server: NS3.SCALR.NET
+   Name Server: NS4.SCALR.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 16-may-2004
-   Expiration Date: 16-may-2013
+   Updated Date: 09-may-2011
+   Creation Date: 07-jul-2003
+   Expiration Date: 07-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:26:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:26:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Madison Logic
+   Dwayne Lafleur
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DIRECTORIESINC.COM
+   Domain Name: EXTREMEFUNNYPICTURES.COM
 
    Domain servers in listed order:
-      NS2.RACKSPACE.COM
-      NS.RACKSPACE.COM
+      NS1.SCALR.NET
+      NS2.SCALR.NET
+      NS3.SCALR.NET
+      NS4.SCALR.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DIRECTORIESINC.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=EXTREMEFUNNYPICTURES.COM

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTORIESINC.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DIGITALPHONEDISCOUNTS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS251.HOSTGATOR.COM
+   Name Server: NS252.HOSTGATOR.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 16-may-2004
-   Expiration Date: 16-may-2013
+   Updated Date: 02-oct-2010
+   Creation Date: 04-nov-2007
+   Expiration Date: 04-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:26:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:26:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... digitalphonediscounts.com
+  Creation Date........ 2007-11-04
+  Registration Date.... 2007-11-04
+  Expiry Date.......... 2011-11-04
+  Organisation Name.... DigitalPhoneDiscounts.com DigitalPhoneDiscounts.com
+  Organisation Address. DigitalPhoneDiscounts.com
+  Organisation Address.
+  Organisation Address. Vancouver
+  Organisation Address. V5C3X3
+  Organisation Address. BC
+  Organisation Address. CANADA
+
+Admin Name........... DigitalPhoneDiscounts.com DigitalPhoneDiscounts.com
+  Admin Address........ DigitalPhoneDiscounts.com
+  Admin Address........
+  Admin Address........ Seattle
+  Admin Address........ 98108
+  Admin Address........ WA
+  Admin Address........ UNITED STATES
+  Admin Email.......... digitalphonediscounts@yahoo.com
+  Admin Phone.......... +1.8005551234
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@YAHOO-INC.COM
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... ns251.hostgator.com
+  Name Server.......... ns252.hostgator.com
 
 
-Registrant:
-   Madison Logic
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DIRECTORIESINC.COM
-
-   Domain servers in listed order:
-      NS2.RACKSPACE.COM
-      NS.RACKSPACE.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DIRECTORIESINC.COM

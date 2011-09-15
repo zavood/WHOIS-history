@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152752191-LROR
+Domain Name:WEBENGINEERINGDEGREES.ORG
+Created On:18-May-2008 20:43:15 UTC
+Last Updated On:24-May-2011 16:13:12 UTC
+Expiration Date:18-May-2012 20:43:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35811035
+Registrant Name:William Cullifer
+Registrant Street1:P.O. Box 1743
+Registrant Street2:
+Registrant Street3:
+Registrant City:Folsom
+Registrant State/Province:California
+Registrant Postal Code:95763
+Registrant Country:US
+Registrant Phone:+1.9168042455
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:billcullifer@yahoo.com
+Admin ID:CR35811037
+Admin Name:William Cullifer
+Admin Street1:P.O. Box 1743
+Admin Street2:
+Admin Street3:
+Admin City:Folsom
+Admin State/Province:California
+Admin Postal Code:95763
+Admin Country:US
+Admin Phone:+1.9168042455
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:billcullifer@yahoo.com
+Tech ID:CR35811036
+Tech Name:William Cullifer
+Tech Street1:P.O. Box 1743
+Tech Street2:
+Tech Street3:
+Tech City:Folsom
+Tech State/Province:California
+Tech Postal Code:95763
+Tech Country:US
+Tech Phone:+1.9168042455
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:billcullifer@yahoo.com
+Name Server:NS1.PEER1.NET
+Name Server:NS2.PEER1.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

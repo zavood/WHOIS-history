@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DIRECTORIESINC.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SEARCHENGINEWATCH.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.INCBASE.NET
+   Name Server: NS2.INCBASE.NET
+   Name Server: NS3.INCBASE.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 16-may-2004
-   Expiration Date: 16-may-2013
+   Updated Date: 04-apr-2011
+   Creation Date: 20-mar-1998
+   Expiration Date: 19-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:26:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:25:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   Madison Logic
+  INCISIVE MEDIA INVESTMENTS LIMITED (INCIS44446)
+  HAYMARKET HOUSE
+  28-29 HAYMARKET
+  LONDON, , SW1Y 4RX
+  GB
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DIRECTORIESINC.COM
+  Domain name: searchenginewatch.com
 
-   Domain servers in listed order:
-      NS2.RACKSPACE.COM
-      NS.RACKSPACE.COM
+Technical contact:
+  Administrator, Domain (DA021271)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
 
+Administrative contact:
+  Doobay, Ron (RD23787)
+  INCISIVE MEDIA INVESTMENTS LIMITED
+  HAYMARKET HOUSE
+  28-29 HAYMARKET
+  LONDON, SW1Y 4RX
+  GB
+  dns@incisivemedia.com
+  +44.2074849700 Fax: +44.2079302238
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DIRECTORIESINC.COM
+Record created:           2010-11-13 07:08:49
+Record last updated:      2010-11-13 07:08:49
+Record expires:           2012-03-19 04:00:00
+
+Domain servers in listed order:
+  NS1.INCBASE.NET (NS1IN17072)
+  NS2.INCBASE.NET (NS2IN33554)
+  NS3.INCBASE.NET (NS3IN96412)

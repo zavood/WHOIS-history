@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ccpoh.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ccpoh.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CCPO1-FRNIC
+admin-c:     AA3740-FRNIC
+tech-c:      JS980-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6768-FRNIC
+registrar:   INOVAGORA
+anniversary: 14/09
+created:     28/07/2004
+last-update: 04/04/2009
+source:      FRNIC
+
+ns-list:     NSL6768-FRNIC
+nserver:     ns1.inovawork.net
+nserver:     ns2.inovawork.net
+source:      FRNIC
+
+registrar:   INOVAGORA
+type:        Isp Option 2
+address:     6 bis, Rue Fournier Sarlov&egrave;ze
+address:     COMPIEGNE
+country:     FR
+phone:       +33 3 44 86 41 30
+fax-no:      +33 3 44 86 45 72
+e-mail:      contact@inovagora.net
+website:     http://www.inovagora.net
+anonymous:   NO
+registered:  01/07/2005
+source:      FRNIC
+
+nic-hdl:     CCPO1-FRNIC
+type:        ORGANIZATION
+contact:     COMMUNAUTE COMMUNES PAYS OISE ET HALAT
+address:     1, rue d'Halatte
+address:     60700 Pont-Sainte-Maxence
+country:     FR
+phone:       +33 3 44 70 04 01
+fax-no:      +33 3 44 70 04 02
+e-mail:      OISE.HALATTE@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JS980-FRNIC
+type:        ROLE
+contact:     Inovagora
+address:     Inovagora
+address:     16, rue Martel
+address:     60200 Compi&egrave;gne
+country:     FR
+phone:       +33 3 44 36 78 51
+e-mail:      tech@inovagora.net
+admin-c:     BE264-FRNIC
+tech-c:      BE264-FRNIC
+changed:     17/07/2006 tech@inovagora.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AA3740-FRNIC
+type:        PERSON
+contact:     Antoine Aubree
+address:     Communaute Communes Pays Oise et Halat
+address:     1, rue d'Halatte
+address:     60700 Pont-Sainte-Maxence
+country:     FR
+phone:       +33 3 44 70 04 01
+fax-no:      +33 3 44 70 04 02
+e-mail:      OISE.HALATTE@wanadoo.fr
+changed:     04/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
