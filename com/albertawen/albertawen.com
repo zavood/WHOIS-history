@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEM7.COM
+   Domain Name: ALBERTAWEN.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1239.WEBSITEWELCOME.COM
-   Name Server: NS1240.WEBSITEWELCOME.COM
+   Name Server: NS11.101SITEHOSTING.NET
+   Name Server: NS12.101SITEHOSTING.NET
    Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 05-may-2009
-   Expiration Date: 05-may-2012
+   Updated Date: 26-oct-2010
+   Creation Date: 25-nov-2008
+   Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lem7.com
-&lt;a href=&quot;http://www.aboutus.org/lem7.com&quot;&gt;AboutUs: lem7.com&lt;/a&gt;
+Visit AboutUs.org for more information about albertawen.com
+&lt;a href=&quot;http://www.aboutus.org/albertawen.com&quot;&gt;AboutUs: albertawen.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lem7.com
+Domain name: albertawen.com
 
 Registrant Contact:
-   balinese breeze
-   trent lake ()
+
+   Rick Dola ()
 
    Fax:
-   1220 liberty way #B
-   vista, ca 92081
-   US
+   4104-34 Avenue
+   Leduc, Alberta T9E 6C4
+   CA - CANADA
 
 Administrative Contact:
-   balinese breeze
-   trent lake (trent@worldbuyers.com)
-   +1.7607344441
-   Fax: +1.5555555555
-   1220 liberty way #B
-   vista, ca 92081
-   US
+
+   Rick Dola (rdola@shaw.ca)
+   +1.7809867823
+   Fax: +1.7809867823
+   4104-34 Avenue
+   Leduc, Alberta T9E 6C4
+   CA - CANADA
 
 Technical Contact:
-   balinese breeze
-   trent lake (trent@worldbuyers.com)
-   +1.7607344441
-   Fax: +1.5555555555
-   1220 liberty way #B
-   vista, ca 92081
-   US
+
+   Rick Dola (rdola@shaw.ca)
+   +1.7809867823
+   Fax: +1.7809867823
+   4104-34 Avenue
+   Leduc, Alberta T9E 6C4
+   CA - CANADA
 
 Status: Locked
 
 Name Servers:
-   NS1239.WEBSITEWELCOME.COM
-   NS1240.WEBSITEWELCOME.COM
+   ns11.101sitehosting.net
+   ns12.101sitehosting.net
 
-Creation date: 05 May 2009 19:02:14
-Expiration date: 05 May 2012 19:02:14
+Creation date: 25 Nov 2008 21:03:54
+Expiration date: 25 Nov 2011 21:03:54
 
 
 

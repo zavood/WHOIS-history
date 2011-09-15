@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ORSERGUIDE.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:54 UTC &lt;&lt;&lt;
+   Domain Name: EZ-NET.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.EZ-NET.COM
+   Name Server: NS2.EZ-NET.COM
+   Status: ok
+   Updated Date: 16-dec-2010
+   Creation Date: 29-dec-1995
+   Expiration Date: 28-dec-2011
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:49:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

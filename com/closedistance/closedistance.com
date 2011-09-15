@@ -5,7 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;ORSERGUIDE.COM&quot;.
+   Domain Name: CLOSEDISTANCE.COM
+   Registrar: ANNULET, INC
+   Whois Server: whois.annulet.com
+   Referral URL: http://www.annulet.com
+   Name Server: NS.BUYDOMAINS.COM
+   Name Server: THIS-DOMAIN-FOR-SALE.COM
+   Status: ok
+   Updated Date: 09-may-2011
+   Creation Date: 07-may-2007
+   Expiration Date: 07-may-2012
+
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
@@ -41,3 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+WHOIS Server version 2.0
+
+
+Annulet Incorporated's WHOIS database is provided &quot;as is&quot; with no guarantee or
+warranties regarding its accuracy. This information is provided for researching
+and reviewing information about domain name registration records. Any other use
+of this data for any other purpose is expressly forbidden without the prior
+written permission of Annulet Incorporated. By submitting an inquiry, you agree
+to these terms of usage and limitations of the warranty. In particular, you
+agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and solicitations
+of any kind, including spam. You further agree not to use this data to enable
+high volume, automated or robotic electronic processes designed to collect or
+compile this data for any purpose, including mining this data for your own
+personal or commercial purposes.
+
+
+ ---------------------------------------
+       This domain may be for sale!
+            visit BuyDomains
+       http://www.buydomains.com
+          Phone: 781-839-7993
+     or email brokerage@buydomains.com
+ ---------------------------------------
+
+Domain Name: CLOSEDISTANCE.COM
+  Record Created: 2011-05-04
+  Expiration Date: 2012-05-07
+  Last Updated: 2009-05-18
+
+Registrar: Annulet, Inc. (annulet.com)
+Whois Server: whois.annulet.com
+Referral URL: http://www.annulet.com
+
+Administrative Contact
+  Rarenames, Inc.
+  RN WebReg (brokerage@buydomains.com)
+  738 Main Street, #389
+  Waltham, MA 02451
+  Phone: 781-839-7993
+  Fax: 781-839-2801
+
+Technical Contact
+  Rarenames, Inc.
+  RN WebReg (brokerage@buydomains.com)
+  738 Main Street, #389
+  Waltham, MA 02451
+  Phone: 781-839-7993
+  Fax: 781-839-2801
+
+Registrant Contact
+  Rarenames, Inc.
+  RN WebReg (brokerage@buydomains.com)
+  738 Main Street, #389
+  Waltham, MA 02451
+  Phone: 781-839-7993
+  Fax: 781-839-2801
+
+Name Servers:
+  ns.buydomains.com
+  this-domain-for-sale.com
+  ns.buydomains.com
+  this-domain-for-sale.com
+

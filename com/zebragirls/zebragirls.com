@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LEM7.COM
+   Domain Name: ZEBRAGIRLS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1239.WEBSITEWELCOME.COM
-   Name Server: NS1240.WEBSITEWELCOME.COM
+   Name Server: NS1.SWIFTWILL.COM
+   Name Server: NS2.SWIFTWILL.COM
+   Name Server: NS3.SWIFTWILL.COM
    Status: clientTransferProhibited
-   Updated Date: 27-jul-2011
-   Creation Date: 05-may-2009
-   Expiration Date: 05-may-2012
+   Updated Date: 31-jan-2011
+   Creation Date: 01-mar-2007
+   Expiration Date: 01-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:48:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +53,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about lem7.com
-&lt;a href=&quot;http://www.aboutus.org/lem7.com&quot;&gt;AboutUs: lem7.com&lt;/a&gt;
+Visit AboutUs.org for more information about zebragirls.com
+&lt;a href=&quot;http://www.aboutus.org/zebragirls.com&quot;&gt;AboutUs: zebragirls.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: lem7.com
-
-Registrant Contact:
-   balinese breeze
-   trent lake ()
-
-   Fax:
-   1220 liberty way #B
-   vista, ca 92081
-   US
+Domain name: zebragirls.com
 
 Administrative Contact:
-   balinese breeze
-   trent lake (trent@worldbuyers.com)
-   +1.7607344441
-   Fax: +1.5555555555
-   1220 liberty way #B
-   vista, ca 92081
+   Directech Inc
+   C Rosenberg (support@directechgroup.com)
+   +1.9712250005
+   Fax:
+   10645 N. Tatum Blvd
+   STE 200-517
+   Phoenix, AZ 85028
    US
 
 Technical Contact:
-   balinese breeze
-   trent lake (trent@worldbuyers.com)
-   +1.7607344441
-   Fax: +1.5555555555
-   1220 liberty way #B
-   vista, ca 92081
+   Directech Inc
+   C Rosenberg (support@directechgroup.com)
+   +1.9712250005
+   Fax:
+   10645 N. Tatum Blvd
+   STE 200-517
+   Phoenix, AZ 85028
+   US
+
+Registrant Contact:
+   Directech Inc
+   C Rosenberg ()
+
+   Fax:
+   10645 N. Tatum Blvd
+   STE 200-517
+   Phoenix, AZ 85028
    US
 
 Status: Locked
 
 Name Servers:
-   NS1239.WEBSITEWELCOME.COM
-   NS1240.WEBSITEWELCOME.COM
+   NS1.SWIFTWILL.COM
+   NS2.SWIFTWILL.COM
+   NS3.SWIFTWILL.COM
 
-Creation date: 05 May 2009 19:02:14
-Expiration date: 05 May 2012 19:02:14
+Creation date: 01 Mar 2007 21:38:21
+Expiration date: 01 Mar 2012 21:38:00
 
 
 
