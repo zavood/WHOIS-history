@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSERVERSYSTEMS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.WEBSERVERSYSTEMS.COM
-   Name Server: NS2.WEBSERVERSYSTEMS.COM
-   Status: ok
-   Updated Date: 18-feb-2011
-   Creation Date: 14-jun-2004
-   Expiration Date: 14-jun-2013
+   Domain Name: BIRDGRAINS.COM
+   Registrar: 1 &amp; 1 INTERNET AG
+   Whois Server: whois.schlund.info
+   Referral URL: http://REGISTRAR.SCHLUND.INFO
+   Name Server: NS1.SECURESERVERDOT.COM
+   Name Server: NS2.SECURESERVERDOT.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 30-sep-2003
+   Expiration Date: 30-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:06:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:04:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,25 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+% The data in the WHOIS database of 1&amp;1 Internet AG is provided by
+% 1&amp;1 for information purposes, and to assist persons in obtaining
+% information about or related to a domain name registration record.
+% 1&amp;1 does not guarantee its accuracy. By submitting a WHOIS query,
+% you agree that you will use this data only for lawful purposes and that,
+% under no circumstances, you will use this data to
+%  (1) allow, enable, or otherwise support the transmission by e-mail,
+%      telephone, or facsimile of mass, unsolicited, commercial advertising or
+%      solicitations to entities other than the data recipient's own existing
+%      customers; or
+%  (2) enable high volume, automated, electronic processes that send queries or
+%      data to the systems of any Registry Operator or ICANN-Accredited registrar,
+%      except as reasonably necessary to register domain names or modify existing
+%      registrations.
+% 1&amp;1 reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+
+Domain birdgrains.com is not registered here.
+
+% See http://registrar.1und1.info for information about 1&amp;1 Internet AG
+

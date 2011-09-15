@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSERVERSYSTEMS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.WEBSERVERSYSTEMS.COM
-   Name Server: NS2.WEBSERVERSYSTEMS.COM
-   Status: ok
-   Updated Date: 18-feb-2011
-   Creation Date: 14-jun-2004
-   Expiration Date: 14-jun-2013
+   Domain Name: INTERNATIONALSTANDARDBIBLE.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS26.PAIR.COM
+   Name Server: NS5.NS0.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-mar-2010
+   Creation Date: 20-jun-2007
+   Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:06:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:05:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+Staggs, Brandon
+   Brandon Staggs
+   PO Box 140478
+   Broken Arrow, OK 74014
+   US
+
+   Domain Name: INTERNATIONALSTANDARDBIBLE.COM
+
+   Administrative Contact:
+      Staggs, Brandon		bstaggs@swordsearcher.com
+      Brandon Staggs
+      PO Box 140478
+      Broken Arrow, OK 74014
+      US
+      9183571946
+
+   Technical Contact:
+      Staggs, Brandon		bstaggs@swordsearcher.com
+
+      PO Box 140478
+      Broken Arrow, OK 74014
+      US
+      9183571946
+
+
+   Record expires on 20-Jun-2012.
+   Record created on 20-Jun-2007.
+   Database last updated on 15-Sep-2011 00:00:56 EDT.
+
+   Domain servers in listed order:
+
+   NS26.PAIR.COM                209.68.1.61
+   NS5.NS0.COM                  216.92.61.30
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

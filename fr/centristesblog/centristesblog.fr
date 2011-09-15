@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; centristesblog.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      centristesblog.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    RLC58-FRNIC
+admin-c:     ME607-FRNIC
+tech-c:      EM1358-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2171-FRNIC
+registrar:   VIADUC
+anniversary: 13/02
+created:     13/02/2009
+last-update: 13/02/2009
+source:      FRNIC
+
+ns-list:     NSL2171-FRNIC
+nserver:     ns1.nom-domaine.fr [46.105.50.13]
+nserver:     ns2.nom-domaine.fr [88.190.231.25]
+source:      FRNIC
+
+registrar:   VIADUC
+type:        Isp Option 1
+address:     14 Rue Mickael Faraday
+address:     BEAUCOUZE
+country:     FR
+phone:       +33 2 41 39 51 98
+fax-no:      +33 2 41 22 04 82
+e-mail:      info@viaduc.fr
+website:     http://www.nom-domaine.fr
+anonymous:   NO
+registered:  22/11/2006
+source:      FRNIC
+
+nic-hdl:     RLC58-FRNIC
+type:        ORGANIZATION
+contact:     Rassembler les centristes
+address:     33, rue de Fleurus
+address:     75006 Paris
+country:     FR
+phone:       +33 6 07 29 22 20
+e-mail:      laurence.duboysfresney@gmail.com
+changed:     04/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ME607-FRNIC
+type:        PERSON
+contact:     Mickael Esnault
+address:     Viaduc
+address:     14, rue Mickael Faraday
+address:     49070 Beaucouz&iquest;
+country:     FR
+phone:       +33 2 41 39 51 98
+e-mail:      info@viaduc.fr
+changed:     28/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EM1358-FRNIC
+type:        ROLE
+contact:     ESNAULT Mickael
+address:     VIADUC
+address:     48, rue Henri Hamelin
+address:     49000 Angers
+country:     FR
+e-mail:      info@viaduc.fr
+admin-c:     ME607-FRNIC
+tech-c:      ME607-FRNIC
+changed:     08/01/2008 info@viaduc.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

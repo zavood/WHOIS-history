@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-may-2011
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:32:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:05:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,20 @@ Domain servers in listed order:
 	 ns1.gasicekymas.com 	 ns2.gasicekymas.com
 
 Administrator:
-	 Name-- Julita Walczak
- EMail-: (foxes@mailti.com)
- tel --: +48.585582680
-	 org: Julita Walczak
+	 Julita Walczak foxes@mailti.com +48.585582680
+	 Julita Walczak
 	 Ul. Bursztynowa 10
 	 Gdansk,Pomerania,PL 80342
 
 Technical Contactor:
-	 Name-- Julita Walczak
- EMail-: (foxes@mailti.com)
- tel --: +48.585582680
-	 org: Julita Walczak
+	 Julita Walczak foxes@mailti.com +48.585582680
+	 Julita Walczak
 	 Ul. Bursztynowa 10
 	 Gdansk,Pomerania,PL 80342
 
 Billing Contactor:
-	 Name-- Julita Walczak
- EMail-: (foxes@mailti.com)
- tel --: +48.585582680
-	 org: Julita Walczak
+	 Julita Walczak foxes@mailti.com +48.585582680
+	 Julita Walczak
 	 Ul. Bursztynowa 10
 	 Gdansk,Pomerania,PL 80342
 

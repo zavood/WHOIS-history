@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSERVERSYSTEMS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.WEBSERVERSYSTEMS.COM
-   Name Server: NS2.WEBSERVERSYSTEMS.COM
+   Domain Name: NICOCUPPEN.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS1.ALEXANDRA.HOSTINGCOLLECTIEF.NL
+   Name Server: NS2.ALEXANDRA.HOSTINGCOLLECTIEF.NL
    Status: ok
-   Updated Date: 18-feb-2011
-   Creation Date: 14-jun-2004
-   Expiration Date: 14-jun-2013
+   Updated Date: 25-jul-2011
+   Creation Date: 19-dec-2001
+   Expiration Date: 19-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:06:39 UTC &lt;&lt;&lt;
 
@@ -51,5 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain Name:nicocuppen.com
+Name Server:ns1.alexandra.hostingcollectief.nl
+Name Server:ns2.alexandra.hostingcollectief.nl
+Created On:2007-11-19
+Last Updated On:2011-07-25
+Expiration Date:2011-12-19
+Dealer:hostingcollectief
+Registrant ID:domain-admin-436@hostingcollectief.nl
+Registrant Name:Nico Cuppen
+Registrant Organization:Nico Cuppen Software
+Registrant Street1:Pijnboomstraat 39
+Registrant Street2:
+Registrant Street3:
+Registrant City:HAARLEM
+Registrant State/Province:-
+Registrant Postal Code:2023 VN
+Registrant Country:NL
+Registrant Phone:+31.235256080
+Registrant Fax:+31.235256080
+Registrant Email:domain-admin@hostingcollectief.nl
+Admin ID:domain-admins@hostingcollectief.nl
+Admin Name:F.L.J. Leffers
+Admin Organization:Hostingcollectief
+Admin Street1:Postbus 269
+Admin Street2:
+Admin Street3:
+Admin City:Zoetermeer
+Admin State/Province:
+Admin Postal Code:2700 AG
+Admin Country:NL
+Admin Phone:+31.793478319
+Admin Fax:+31.793427806
+Admin Email:domain-admins@hostingcollectief.nl
+Billing ID:info@hostingcollectief.nl
+Billing Name:F.L.J. Leffers
+Billing Organization:Hostingcollectief B.V.
+Billing Street1:Edisonstraat
+Billing Street2:
+Billing Street3:
+Billing City:Zoetermeer
+Billing State/Province:Zuid Holland
+Billing Postal Code:2713 GM
+Billing Country:NL
+Billing Phone:+31.793478319
+Billing Fax:+31.793427806
+Billing Email:info@hostingcollectief.nl
+Tech ID:domain-admins@hostingcollectief.nl
+Tech Name:F.L.J. Leffers
+Tech Organization:Hostingcollectief
+Tech Street1:Postbus 269
+Tech Street2:
+Tech Street3:
+Tech City:Zoetermeer
+Tech State/Province:
+Tech Postal Code:2700 AG
+Tech Country:NL
+Tech Phone:+31.793478319
+Tech Fax:+31.793427806
+Tech Email:domain-admins@hostingcollectief.nl

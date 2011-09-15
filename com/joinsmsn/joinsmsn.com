@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBSERVERSYSTEMS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.WEBSERVERSYSTEMS.COM
-   Name Server: NS2.WEBSERVERSYSTEMS.COM
-   Status: ok
-   Updated Date: 18-feb-2011
-   Creation Date: 14-jun-2004
-   Expiration Date: 14-jun-2013
+   Domain Name: JOINSMSN.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS1.JOINSMSN.COM
+   Name Server: NS2.JOINSMSN.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-aug-2011
+   Creation Date: 19-oct-2009
+   Expiration Date: 19-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:06:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:07:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
+
+Domain Name : joinsmsn.com
+
+::Registrant::
+Name : JES
+Email : dnsadmin@jcubei.com
+Address : Seoul , Korea T-tower Bldg. 5th Floor, 97-1,Cheongdam-dong, Gangnam-gu
+Zipcode : 100194
+Nation : KR
+Tel : +82.21162000
+Fax : +82-2-2116-2001
+
+::Administrative Contact::
+Name : joins.com
+Email : dnsadmin@jcubei.com
+Address : Seoul , Korea T-tower Bldg. 5th Floor, 97-1,Cheongdam-dong, Gangnam-gu
+Zipcode : 100194
+Nation : KR
+Tel : +82.21162000
+Fax : +82-2-2116-2001
+
+::Technical Contact::
+Name : joins.com
+Email : dnsadmin@jcubei.com
+Address : Seoul , Korea T-tower Bldg. 5th Floor, 97-1,Cheongdam-dong, Gangnam-gu
+Zipcode : 100194
+Nation : KR
+Tel : +82.21162000
+Fax : +82-2-2116-2001
+
+::Name Servers::
+ns1.joinsmsn.com
+ns2.joinsmsn.com
+
+::Dates &amp; Status::
+Created Date : 2009/10/19 23:23:26 EST
+Updated Date : 2011/08/19 18:18:44 EST
+Valid Date : 2012/10/19 22:23:26 EST
+Status ACTIVE
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
