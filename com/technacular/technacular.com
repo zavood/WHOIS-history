@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEHAPPYIMBIBE.COM
+   Domain Name: TECHNACULAR.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
    Name Server: NS51.1AND1.COM
    Name Server: NS52.1AND1.COM
    Status: ok
-   Updated Date: 17-sep-2010
-   Creation Date: 17-sep-2010
-   Expiration Date: 17-sep-2011
+   Updated Date: 10-jan-2011
+   Creation Date: 09-jan-2007
+   Expiration Date: 09-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:59:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:53:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,35 +69,37 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          thehappyimbibe.com
-created:                         18-Sep-2010
-last-changed:                    18-Sep-2010
-registration-expiration:         18-Sep-2011
+domain:                          technacular.com
+created:                         09-Jan-2007
+last-changed:                    10-Jan-2011
+registration-expiration:         09-Jan-2012
 
 nserver:                         ns51.1and1.com 74.208.2.8
 nserver:                         ns52.1and1.com 74.208.3.7
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-firstname:            Trevor
-registrant-lastname:             Newberry
-registrant-street1:              109 E Glenwood Dr
-registrant-pcode:                35209
-registrant-state:                AL
-registrant-city:                 Birmingham
+registrant-firstname:            Vikas
+registrant-lastname:             Sah
+registrant-street1:              2653 Somerset Blvd
+registrant-street2:              Apt 110
+registrant-pcode:                48084
+registrant-state:                MI
+registrant-city:                 Troy
 registrant-ccode:                US
-registrant-phone:                +1.2564180038
-registrant-email:                365beer@gmail.com
+registrant-phone:                +1.2485281814
+registrant-email:                vikassah@gmail.com
 
-admin-c-firstname:               Trevor
-admin-c-lastname:                Newberry
-admin-c-street1:                 109 E Glenwood Dr
-admin-c-pcode:                   35209
-admin-c-state:                   AL
-admin-c-city:                    Birmingham
+admin-c-firstname:               Vikas
+admin-c-lastname:                Sah
+admin-c-street1:                 2653 Somerset Blvd
+admin-c-street2:                 Apt 110
+admin-c-pcode:                   48084
+admin-c-state:                   MI
+admin-c-city:                    Troy
 admin-c-ccode:                   US
-admin-c-phone:                   +1.2564180038
-admin-c-email:                   365beer@gmail.com
+admin-c-phone:                   +1.2485281814
+admin-c-email:                   vikassah@gmail.com
 
 tech-c-firstname:                Hostmaster
 tech-c-lastname:                 ONEANDONE

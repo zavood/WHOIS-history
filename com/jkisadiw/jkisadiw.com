@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ALLEGIANCESTAFFING.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.CNCHOST.COM
-   Name Server: NS2.CNCHOST.COM
+   Domain Name: JKISADIW.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: NS1.ENAME.NET
+   Name Server: NS2.ENAME.NET
+   Name Server: NS3.ENAME.NET
+   Name Server: NS4.ENAME.NET
+   Name Server: NS5.ENAME.NET
+   Name Server: NS6.ENAME.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 21-jan-2008
-   Creation Date: 30-jan-1999
-   Expiration Date: 30-jan-2013
+   Updated Date: 08-feb-2011
+   Creation Date: 08-feb-2011
+   Expiration Date: 08-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:58:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:55:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain Name : jkisadiw.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant Contact Information :
+zhangfensheng
+zhang fensheng
+rtewrtfgdf@tom.com
+Tianjin Anyuan Qu Meiliyuan Road 1, Changan Street, 362545
+tel: 86 01045698745
+fax: 86 01045698745
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact Information :
+zhangfensheng
+zhang fensheng
+rtewrtfgdf@tom.com
+Tianjin Anyuan Qu Meiliyuan Road 1, Changan Street, 362545
+tel: 86 01045698745
+fax: 86 01045698745
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact Information :
+zhangfensheng
+zhang fensheng
+rtewrtfgdf@tom.com
+Tianjin Anyuan Qu Meiliyuan Road 1, Changan Street, 362545
+tel: 86 01045698745
+fax: 86 01045698745
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Contact Information :
+zhangfensheng
+zhang fensheng
+rtewrtfgdf@tom.com
+Tianjin Anyuan Qu Meiliyuan Road 1, Changan Street, 362545
+tel: 86 01045698745
+fax: 86 01045698745
 
-Whois Query: allegiancestaffing.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 16:53:44 EDT 2011
-Reason Code: IE
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+ns1.ename.net
+ns2.ename.net
+ns3.ename.net
+ns4.ename.net
+ns5.ename.net
+ns6.ename.net
+
+Registration Date :2011-2-8
+Expiration Date : 2012-2-8
+
+For more information, please go to http://whois.ename.com.
+

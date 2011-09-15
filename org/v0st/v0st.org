@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161452806-LROR
+Domain Name:V0ST.ORG
+Created On:09-Feb-2011 14:18:04 UTC
+Last Updated On:23-Aug-2011 05:52:45 UTC
+Expiration Date:09-Feb-2012 14:18:04 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:oln85065124
+Registrant Name:Janne Zvonareva
+Registrant Organization:Dister Corp.
+Registrant Street1:Efimova street, 5
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint-Peterburg
+Registrant State/Province:Saint-Peterburg
+Registrant Postal Code:190031
+Registrant Country:RU
+Registrant Phone:+7.9031773060
+Registrant Phone Ext.:
+Registrant FAX:+7.9031773060
+Registrant FAX Ext.:
+Registrant Email:rune12@yandex.ru
+Admin ID:oln85065125
+Admin Name:Janne Zvonareva
+Admin Organization:Dister Corp.
+Admin Street1:Efimova street, 5
+Admin Street2:
+Admin Street3:
+Admin City:Saint-Peterburg
+Admin State/Province:Saint-Peterburg
+Admin Postal Code:190031
+Admin Country:RU
+Admin Phone:+7.9031773060
+Admin Phone Ext.:
+Admin FAX:+7.9031773060
+Admin FAX Ext.:
+Admin Email:rune12@yandex.ru
+Tech ID:oln85065127
+Tech Name:Janne Zvonareva
+Tech Organization:Dister Corp.
+Tech Street1:Efimova street, 5
+Tech Street2:
+Tech Street3:
+Tech City:Saint-Peterburg
+Tech State/Province:Saint-Peterburg
+Tech Postal Code:190031
+Tech Country:RU
+Tech Phone:+7.9031773060
+Tech Phone Ext.:
+Tech FAX:+7.9031773060
+Tech FAX Ext.:
+Tech Email:rune12@yandex.ru
+Name Server:DNS2.FREEHOSTIA.COM
+Name Server:DNS1.FREEHOSTIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
