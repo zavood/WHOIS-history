@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160185820-LROR
+Domain Name:SWAZILII.ORG
+Created On:19-Sep-2010 08:42:28 UTC
+Last Updated On:19-Nov-2010 03:48:46 UTC
+Expiration Date:19-Sep-2011 08:42:28 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-P1XVMQ31XYPL
+Registrant Name:Kerry Anderson
+Registrant Street1:86 4th Avenue
+Registrant Street2:Melville
+Registrant Street3:
+Registrant City:Johannesburg
+Registrant State/Province:
+Registrant Postal Code:2092
+Registrant Country:ZA
+Registrant Phone:+27.836790110
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:web@kerryanderson.co.za
+Admin ID:DOT-422D47417S7S
+Admin Name:Kerry Anderson
+Admin Street1:86 4th Avenue
+Admin Street2:Melville
+Admin Street3:
+Admin City:Johannesburg
+Admin State/Province:
+Admin Postal Code:2092
+Admin Country:ZA
+Admin Phone:+27.836790110
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:web@kerryanderson.co.za
+Tech ID:DOT-AASX5JA4ZWQ8
+Tech Name:Kerry Anderson
+Tech Street1:86 4th Avenue
+Tech Street2:Melville
+Tech Street3:
+Tech City:Johannesburg
+Tech State/Province:
+Tech Postal Code:2092
+Tech Country:ZA
+Tech Phone:+27.836790110
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:web@kerryanderson.co.za
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

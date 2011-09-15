@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-sep-2008
    Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:56:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:03:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,40 +84,28 @@ Domain servers in listed order:
 	 ns1.agava.net.ru 	 ns2.agava.net.ru
 
 Administrator:
-	 name:(Paranin Andrey)
-	Email:(aparanin@yandex.ru) tel-- +7.9106475006
-	 Paranin Andrey
+	 Name-- Paranin Andrey
+ EMail-: (aparanin@yandex.ru)
+ tel --: +7.9106475006
+	 org: Paranin Andrey
 	 Glavpochtamt
-\r
-t Tver
-na,
-RU
-
- zipcode:177000
+	 Tver,na,RU 177000
 
 Technical Contactor:
-	 name:(Nikita Kapitansky)
-	Email:(noc@sweb.ru) tel-- +7.8123341222
-	 SpaceWEB JSC
+	 Name-- Nikita Kapitansky
+ EMail-: (noc@sweb.ru)
+ tel --: +7.8123341222
+	 org: SpaceWEB JSC
 	 5/3 Medikov pr.
-\r
-t Saint-Petersburg
-na,
-RU
-
- zipcode:197376
+	 Saint-Petersburg,na,RU 197376
 
 Billing Contactor:
-	 name:(Paranin Andrey)
-	Email:(aparanin@yandex.ru) tel-- +7.9106475006
-	 Paranin Andrey
+	 Name-- Paranin Andrey
+ EMail-: (aparanin@yandex.ru)
+ tel --: +7.9106475006
+	 org: Paranin Andrey
 	 Glavpochtamt
-\r
-t Tver
-na,
-RU
-
- zipcode:177000
+	 Tver,na,RU 177000
 
 
 Registration Service Provider:

@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THESOCCERPLAZA.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CXTRACK.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.CXWEBSOLUTIONS.COM
+   Name Server: NS2.CXWEBSOLUTIONS.COM
+   Name Server: NS3.CXWEBSOLUTIONS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Updated Date: 12-feb-2011
+   Creation Date: 13-mar-2008
+   Expiration Date: 13-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:08:59 UTC &lt;&lt;&lt;
 
@@ -54,37 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about cxtrack.com
+&lt;a href=&quot;http://www.aboutus.org/cxtrack.com&quot;&gt;AboutUs: cxtrack.com&lt;/a&gt;
 
 
-Registrant:
-   Soccer Plaza
+Domain name: cxtrack.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THESOCCERPLAZA.COM
+Administrative Contact:
+   Cyberplex Inc.
+   Hostmaster Cyberplex (domains@cyberplex.com)
+   +1.4165978889
+   Fax: +1.4165972345
+   1255 Bay Street
+   Suite 400
+   Toronto, ONTARIO M5R 2A9
+   CA
 
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+Technical Contact:
+   Cyberplex Inc.
+   Hostmaster Cyberplex (domains@cyberplex.com)
+   +1.4165978889
+   Fax: +1.4165972345
+   1255 Bay Street
+   Suite 400
+   Toronto, ONTARIO M5R 2A9
+   CA
+
+Registrant Contact:
+   Cyberplex Inc.
+   Hostmaster Cyberplex ()
+
+   Fax:
+   1255 Bay Street
+   Suite 400
+   Toronto, ONTARIO M5R 2A9
+   CA
+
+Status: Locked
+
+Name Servers:
+   NS1.CXWEBSOLUTIONS.COM
+   NS2.CXWEBSOLUTIONS.COM
+   NS3.CXWEBSOLUTIONS.COM
+
+Creation date: 13 Mar 2008 21:28:00
+Expiration date: 13 Mar 2012 21:28:00
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THESOCCERPLAZA.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

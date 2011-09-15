@@ -5,10 +5,12 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CPRO20.COM
+   Domain Name: GEAVIATION.COM
    Registrar: CSC CORPORATE DOMAINS, INC.
    Whois Server: whois.corporatedomains.com
    Referral URL: http://www.cscglobal.com
+   Name Server: NS1.NETBCP.COM
+   Name Server: NS2.NETBCP.NET
    Name Server: PDNS1.ULTRADNS.NET
    Name Server: PDNS2.ULTRADNS.NET
    Name Server: PDNS3.ULTRADNS.ORG
@@ -16,11 +18,11 @@ for detailed information.
    Name Server: PDNS5.ULTRADNS.INFO
    Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 26-jan-2011
-   Creation Date: 04-jul-2007
-   Expiration Date: 04-jul-2016
+   Updated Date: 10-apr-2011
+   Creation Date: 14-apr-1999
+   Expiration Date: 14-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:12:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:05:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,39 +65,50 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      j2 Global Communications, Inc.
-      Legal Department
-      6922 Hollywood Blvd. Suite 500
-      Los Angeles, CA 90028
+      General Electric Company
+      . Internet  Registrations
+      3135 Easton Turnpike
+      Fairfield, CT 06828-0001
       US
-      Email: domains@j2global.com
+      Email: domain.admin@ge.com
 
    Registrar Name....: CORPORATE DOMAINS, INC.
    Registrar Whois...: whois.corporatedomains.com
    Registrar Homepage: www.cscprotectsbrands.com
 
-   Domain Name: cpro20.com
+   Domain Name: geaviation.com
 
-      Created on..............: Wed, Jul 04, 2007
-      Expires on..............: Mon, Jul 04, 2016
-      Record last updated on..: Wed, Jan 26, 2011
+      Created on..............: Wed, Apr 14, 1999
+      Expires on..............: Sat, Apr 14, 2012
+      Record last updated on..: Sun, Apr 10, 2011
 
-   Administrative,Technical Contact:
-      j2 Global Communications, Inc.
-      Legal Department
-      6922 Hollywood Blvd. Suite 500
-      Los Angeles, CA 90028
+   Administrative Contact:
+      General Electric Company
+      . Internet  Registrations
+      3135 Easton Turnpike
+      Fairfield, CT 06828-0001
       US
-      Phone: +1.3232971541
-      Email: domains@j2global.com
+      Phone: 1.2
+      Email: domain.admin@ge.com
+
+   Technical Contact:
+      General Electric Company
+      . Internet  Registrations
+      3135 Easton Turnpike
+      Fairfield, CT 06828-0001
+      US
+      Phone: 1.2
+      Email: domain.admin@ge.com
 
    DNS Servers:
 
-   pdns1.ultradns.net
-   pdns4.ultradns.org
-   pdns5.ultradns.info
-   pdns6.ultradns.co.uk
+   ns2.netbcp.net
    pdns2.ultradns.net
+   pdns5.ultradns.info
+   pdns4.ultradns.org
+   ns1.netbcp.com
+   pdns6.ultradns.co.uk
+   pdns1.ultradns.net
    pdns3.ultradns.org
 
 
