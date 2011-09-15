@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ORENCHI.COM
-   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
-   Whois Server: whois.discount-domain.com
-   Referral URL: http://www.onamae.com
-   Name Server: NS.CCC-NS.NET
-   Name Server: NS2.CCC-NS.NET
+   Domain Name: WCQ521.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.DNSV1.COM
+   Name Server: NS2.DNSV1.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
    Status: clientTransferProhibited
-   Updated Date: 21-mar-2011
-   Creation Date: 22-mar-2000
-   Expiration Date: 22-mar-2012
+   Status: clientUpdateProhibited
+   Updated Date: 05-may-2011
+   Creation Date: 03-feb-2010
+   Expiration Date: 03-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:49:04 UTC &lt;&lt;&lt;
 
@@ -51,61 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-GMO Internet, Inc. whois server 2.0
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-This server only serves information on GMO Internet,Inc.-maintained domain names
-For more information, please contact hostmaster@gmo.jp.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-Domain Handle: None
-Domain Name: orenchi.com
-Created On: 2000-03-22 09:18:32.0
-Last Updated On: 2011-03-22 00:16:53.0
-Expiration Date: 2012-03-22 08:18:32.0
-Status: ACTIVE
-Registrant Name: web-cre inc.
-Registrant Organization: web-cre inc.
-Registrant Street1: 2F, 3386 Takara-machi
-Registrant Street2:
-Registrant City: Mitukaido-shi
-Registrant State: Ibaraki
-Registrant Postal Code: 303-0023
-Registrant Country: JP
-Registrant Phone: 0297-22-3971
-Registrant Fax:
-Registrant Email: domain@comcomclub.com
-Admin Name: Startia Inc.
-Admin Organization: Startia Inc.
-Admin Street1: 2nd FL., 1-14-11 Nishi-Shinjuku
-Admin Street2:
-Admin City: Shinjuku-ku
-Admin State: Tokyo
-Admin Postal Code: 160-0023
-Admin Country: JP
-Admin Phone: 03-5339-2108
-Admin Fax: 03-5339-2104
-Admin Email: domain@comcomclub.com
-Billing Name: Startia Inc.
-Billing Organization: Startia Inc.
-Billing Street1: 2nd FL., 1-14-11 Nishi-Shinjuku
-Billing Street2:
-Billing City: Shinjuku-ku
-Billing State: Tokyo
-Billing Postal Code: 160-0023
-Billing Country: JP
-Billing Phone: 03-5339-2108
-Billing Fax: 03-5339-2104
-Billing Email: domain@comcomclub.com
-Tech Name: Takayuki Takeda
-Tech Organization: Startia co.,Ltd.
-Tech Street1: 1-14-11 Nishishinjuku
-Tech Street2: Nikko BLD
-Tech City: Shinjuku-ku
-Tech State: Tokyo
-Tech Postal Code: 160-0023
-Tech Country: JP
-Tech Phone: 03-5339-2598
-Tech Fax: 03-5339-2104
-Tech Email: domain@comcomclub.com
-Name Server: ns.ccc-ns.net
-Name Server: ns2.ccc-ns.net
 
+Registrant:
+   zhe zhang
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: WCQ521.COM
+
+   Domain servers in listed order:
+      NS1.DNSV1.COM
+      NS2.DNSV1.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WCQ521.COM
