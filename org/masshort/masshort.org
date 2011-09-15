@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4499148-LROR
+Domain Name:MASSHORT.ORG
+Created On:20-Nov-1996 05:00:00 UTC
+Last Updated On:20-Nov-2010 01:22:23 UTC
+Expiration Date:19-Nov-2011 05:00:00 UTC
+Sponsoring Registrar:Dotregistrar, LLC (R114-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-GWDCPCD1BD7N
+Registrant Name:Massachusetts Horticultural Society
+Registrant Street1:Elm Bank Horticulture Center
+Registrant Street2:900 Washington St.
+Registrant Street3:
+Registrant City:Wellesley
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02482-5735
+Registrant Country:US
+Registrant Phone:+1.6179334944
+Registrant Phone Ext.:
+Registrant FAX:+1.5084820167
+Registrant FAX Ext.:
+Registrant Email:mopton@masshort.org
+Admin ID:DOT-TW9GS959J4GM
+Admin Name:Massachusetts Horticultural Society
+Admin Street1:Elm Bank Horticulture Center
+Admin Street2:900 Washington St.
+Admin Street3:
+Admin City:Wellesley
+Admin State/Province:Massachusetts
+Admin Postal Code:02482-5735
+Admin Country:US
+Admin Phone:+1.6179334944
+Admin Phone Ext.:
+Admin FAX:+1.5084820167
+Admin FAX Ext.:
+Admin Email:mopton@masshort.org
+Tech ID:DOT-P00ZGK1TMKJD
+Tech Name:Massachusetts Horticultural Society
+Tech Street1:Elm Bank Horticulture Center
+Tech Street2:900 Washington St.
+Tech Street3:
+Tech City:Wellesley
+Tech State/Province:Massachusetts
+Tech Postal Code:02482-5735
+Tech Country:US
+Tech Phone:+1.6179334944
+Tech Phone Ext.:
+Tech FAX:+1.5084820167
+Tech FAX Ext.:
+Tech Email:mopton@masshort.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; pmu.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pmu.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PMU16-FRNIC
+admin-c:     EB4111-FRNIC
+tech-c:      EW156-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ORDIPAT
+anniversary: 22/04
+created:     07/04/1997
+last-update: 22/04/2010
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ORDIPAT
+type:        Isp Option 1
+address:     3 Rue Moncey
+address:     PARIS
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 53 32 80 89
+e-mail:      info@ordipat.fr
+website:     http://www.ordipat.net/
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     PMU16-FRNIC
+type:        ORGANIZATION
+contact:     GIE PARI MUTUEL URBAIN
+address:     2, rue du Professeur Florian Delbarre
+address:     75015 Paris
+country:     FR
+phone:       +33 1 56 09 91 00
+e-mail:      noc@ordipat.fr
+changed:     28/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     EB4111-FRNIC
+type:        PERSON
+contact:     Eric Brion
+address:     PARI MUTUEL URBAIN
+address:     2, rue du Professeur F.Delbarre
+address:     75734 Paris
+country:     FR
+phone:       +33 1 46 52 89 00
+fax-no:      +33 1 46 52 89 52
+e-mail:      webmaster@pmu.fr
+changed:     25/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EW156-FRNIC
+type:        PERSON
+contact:     Eric Willems
+address:     Atos Worldline
+address:     zone industrielle A, rue de la pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 76 67
+fax-no:      +33 3 20 32 52 22
+e-mail:      eric.willems@atosorigin.com
+changed:     10/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

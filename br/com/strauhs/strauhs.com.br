@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 05:15:59 (BRT -03:00)
+
+domain:      strauhs.com.br
+owner:       Strauhs Equipamentos e Fundicao Ltda
+ownerid:     084.689.629/0001-80
+responsible: Marcel Strauhs Ferreira
+country:     BR
+owner-c:     MSF3
+admin-c:     MSF3
+tech-c:      MSF3
+billing-c:   MSF3
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19980112 #82131
+expires:     20130112
+changed:     20110124
+status:      published
+
+nic-hdl-br:  MSF3
+person:      Marcel Strauhs Ferreira
+e-mail:      strauhs@netville.com.br
+created:     19980112
+changed:     19980112
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

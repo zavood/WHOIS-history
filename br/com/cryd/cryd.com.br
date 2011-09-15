@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 05:22:35 (BRT -03:00)
+
+domain:      cryd.com.br
+owner:       Euclides G. S.
+ownerid:     302.299.138-06
+country:     BR
+owner-c:     CRGSN
+admin-c:     CRGSN
+tech-c:      CRGSN
+billing-c:   CRGSN
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20090402 #5428630
+expires:     20120402
+changed:     20110307
+status:      published
+
+nic-hdl-br:  CRGSN
+person:      cryd g. s.
+e-mail:      cryd@uol.com.br
+created:     20090401
+changed:     20110202
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

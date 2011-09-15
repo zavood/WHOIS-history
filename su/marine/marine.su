@@ -1,0 +1,22 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     MARINE.SU
+descr:      JC TransTelecom. Domain for the Primorye Territory.
+nserver:    ns.vlad.ru.
+nserver:    ns.vmts.ru.
+state:      REGISTERED, DELEGATED
+org:        TransTelecom Company
+phone:      +7 432 2446252
+fax-no:     +7 432 2446454
+e-mail:     ash@vlad.ru
+e-mail:     dns@tty.ru
+registrar:  FID-REG-FID
+created:    1999.06.03
+paid-till:  2011.10.01
+source:     TCI
+
+Last updated on 2011.09.15 12:13:42 MSK/MSD
+

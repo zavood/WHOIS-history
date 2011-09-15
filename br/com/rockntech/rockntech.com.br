@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 05:16:56 (BRT -03:00)
+
+domain:      rockntech.com.br
+owner:       Simon Vin&iacute;cius Camargo Ferreira
+ownerid:     218.549.728-63
+country:     BR
+owner-c:     SVCFE2
+admin-c:     SVCFE2
+tech-c:      SVCFE2
+billing-c:   SVCFE2
+nserver:     ns1.rockntech.com.br 74.53.153.226
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.rockntech.com.br 74.53.153.227
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20091127 #6314791
+expires:     20111127
+changed:     20110825
+provider:    HOSTGATOR-BRASIL (43)
+status:      published
+
+nic-hdl-br:  SVCFE2
+person:      Simon Vin&iacute;cius Camargo Ferreira
+e-mail:      simonvinicius@gmail.com
+created:     20090730
+changed:     20110825
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

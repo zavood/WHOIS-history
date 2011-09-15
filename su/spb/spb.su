@@ -1,0 +1,23 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     SPB.SU
+descr:      Open registration
+descr:      https://www.nic.ru/dns/domain/geo.html
+nserver:    ns3-geo.nic.ru.
+nserver:    ns4-geo.nic.ru.
+nserver:    ns8-geo.nic.ru.
+state:      REGISTERED, DELEGATED
+org:        JSC 'RU-CENTER'
+phone:      +7 495 7370601
+fax-no:     +7 495 7370602
+e-mail:     ru-ncc@nic.ru
+registrar:  RUCENTER-REG-FID
+created:    2000.10.06
+paid-till:  2011.10.01
+source:     TCI
+
+Last updated on 2011.09.15 12:13:42 MSK/MSD
+
