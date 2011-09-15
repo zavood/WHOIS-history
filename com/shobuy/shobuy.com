@@ -5,25 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GINYAS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS10.DNSMADEEASY.COM
-   Name Server: NS11.DNSMADEEASY.COM
-   Name Server: NS12.DNSMADEEASY.COM
-   Name Server: NS13.DNSMADEEASY.COM
-   Name Server: NS14.DNSMADEEASY.COM
-   Name Server: NS15.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SHOBUY.COM
+   Registrar: HANGANG SYSTEMS, INC. D/B/A DOREGI.COM
+   Whois Server: whois.doregi.com
+   Referral URL: http://www.doregi.com
+   Name Server: NS1.DEXNER.COM
+   Name Server: NS2.KORNET.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-jul-2011
-   Creation Date: 13-may-2006
-   Expiration Date: 13-may-2012
+   Updated Date: 31-dec-2010
+   Creation Date: 02-jan-2004
+   Expiration Date: 02-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:36:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:38:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,41 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Welcome to DOREGI.COM's WHOIS data service.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+The Data in Doregi' WHOIS database is provided by Doregi
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Doregi does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Doregi (or its systems).  Doregi reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
+Domain Name: SHOBUY.COM
+Registrar: HANGANG Systems,Inc. dba doregi.com
 
-Registrant:
-   Igal Rubinstein
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: GINYAS.COM
-
-   Domain servers in listed order:
-      NS10.DNSMADEEASY.COM
-      NS11.DNSMADEEASY.COM
-      NS12.DNSMADEEASY.COM
-      NS13.DNSMADEEASY.COM
-      NS14.DNSMADEEASY.COM
-      NS15.DNSMADEEASY.COM
+    Registrant:
+      jeonggon seo
+      1475-3 youngchunri  Jangseong-eup Jangseong-gun Jeollanam-do
+      damin7@kornet.net
+      +82.613931011
+      +82.613931011
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=GINYAS.COM
+    Administrative Contact:
+      jeonggon seo
+      damin7@kornet.net
+      +82.613931011
+
+
+    Technical Contact:
+      jeonggon seo
+      damin7@kornet.net
+      +82.613931011
+
+
+    Billing Contact:
+      jeonggon seo
+      damin7@kornet.net
+      +82.613931011
+
+
+   Record created on.......: Jan 02, 2004
+   Record last updated on..: Dec 31, 2010
+   Record expires on.......: Jan 02, 2012
+
+   Domain name servers in listed order:
+
+   NS1.DEXNER.COM
+   NS2.KORNET.NET
+
+
+

@@ -1,0 +1,22 @@
+[Domain]
+Domain: calis.lv
+Status: active
+Changed: 2006-03-30T16:35:15+03:00
+
+[Holder]
+Type: Natural person
+Email: vidnere@gmail.com
+Phone: +371 25919156
+
+[Tech]
+Type: Natural person
+Email: dmitry.dulepov@gmail.com
+Fax: +37164129393
+Phone: +37125919370
+
+[Nservers]
+Nserver: ns.calis.lv
+Nserver: ns2.vernet.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00
