@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GETCLICKY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P19.DYNECT.NET
-   Name Server: NS2.P19.DYNECT.NET
-   Name Server: NS3.P19.DYNECT.NET
-   Name Server: NS4.P19.DYNECT.NET
+   Domain Name: CAHUETE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 28-nov-2006
-   Expiration Date: 28-nov-2011
+   Updated Date: 22-sep-2010
+   Creation Date: 06-oct-2006
+   Expiration Date: 06-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:48:44 UTC &lt;&lt;&lt;
 
@@ -54,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : CAHUETE.COM
+Created On : 2006-10-06
+Expiration Date : 2011-10-06
+Status : PROTECTED
+Registrant Name : jeremy charlot
+Registrant Street1 : 6b, rue jean jaures
+Registrant City : nouzonville
+Registrant State/Province  :
+Registrant Postal Code : 08700
+Registrant Country : FR
+Admin Name : jeremy charlot
+Admin Street1 : 6b, rue jean jaures
+Admin City : nouzonville
+Admin State/Province : FR
+Admin Postal Code : 08700
+Admin Country : FR
+Admin Phone : +33.676549258
+Admin Email : namebay@infomaniak.ch
+Tech Name : Infomaniak Network
+Tech Street1 : Av. de la Praille 26
+Tech City : Carouge
+Tech State/Province : Geneva
+Tech Postal Code : 1227
+Tech Country : CH
+Tech Phone : +41.228203541
+Tech Email : namebay@infomaniak.ch
+Billing Name : Infomaniak Network
+Billing Street1 : Av. de la Praille 26
+Billing City : Carouge
+Billing State/Province : Geneva
+Billing Postal Code : 1227
+Billing Country : CH
+Billing Phone : +41.228203541
+Billing Email : namebay@infomaniak.ch
+Name Server : NS1.INFOMANIAK.CH
+Name Server : NS2.INFOMANIAK.CH
+Registrar Name : Namebay

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GETCLICKY.COM
+   Domain Name: NORTHERNMICHIGANHOMESALES.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P19.DYNECT.NET
-   Name Server: NS2.P19.DYNECT.NET
-   Name Server: NS3.P19.DYNECT.NET
-   Name Server: NS4.P19.DYNECT.NET
+   Name Server: NS1.MDNSSERVICE.COM
+   Name Server: NS2.MDNSSERVICE.COM
+   Name Server: NS3.MDNSSERVICE.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 28-nov-2006
-   Expiration Date: 28-nov-2011
+   Updated Date: 30-aug-2011
+   Creation Date: 28-sep-2010
+   Expiration Date: 28-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:48:44 UTC &lt;&lt;&lt;
 

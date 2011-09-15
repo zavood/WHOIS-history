@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GETCLICKY.COM
+   Domain Name: RODSDOT.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P19.DYNECT.NET
-   Name Server: NS2.P19.DYNECT.NET
-   Name Server: NS3.P19.DYNECT.NET
-   Name Server: NS4.P19.DYNECT.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 28-nov-2006
-   Expiration Date: 28-nov-2011
+   Name Server: NS1.DISCOUNTASP.NET
+   Name Server: NS2.DISCOUNTASP.NET
+   Name Server: NS3.DISCOUNTASP.NET
+   Status: ok
+   Updated Date: 12-feb-2011
+   Creation Date: 22-apr-2001
+   Expiration Date: 22-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:48:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:49:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

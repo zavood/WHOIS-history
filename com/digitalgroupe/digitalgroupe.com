@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GETCLICKY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P19.DYNECT.NET
-   Name Server: NS2.P19.DYNECT.NET
-   Name Server: NS3.P19.DYNECT.NET
-   Name Server: NS4.P19.DYNECT.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 21-nov-2010
-   Creation Date: 28-nov-2006
-   Expiration Date: 28-nov-2011
+   Domain Name: DIGITALGROUPE.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: NS1.AFRAID.ORG
+   Name Server: NS2.AFRAID.ORG
+   Name Server: NS3.AFRAID.ORG
+   Name Server: NS4.AFRAID.ORG
+   Status: ok
+   Updated Date: 18-jan-2010
+   Creation Date: 18-jan-2010
+   Expiration Date: 18-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:48:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:49:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +53,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Acceso restringido
