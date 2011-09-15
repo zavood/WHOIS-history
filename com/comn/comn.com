@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUNGARDNS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUNGARDNS.COM
-   Name Server: NS2.SUNGARDNS.COM
-   Name Server: NS3.SUNGARDNS.COM
+   Domain Name: COMN.COM
+   Registrar: INAMES CO., LTD.
+   Whois Server: whois.inames.co.kr
+   Referral URL: http://www.inames.co.kr
+   Name Server: NS3.COMN.COM
+   Name Server: NS4.COMN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 09-jul-2008
-   Creation Date: 08-feb-1999
-   Expiration Date: 08-feb-2014
+   Status: clientUpdateProhibited
+   Updated Date: 11-dec-2010
+   Creation Date: 09-may-2000
+   Expiration Date: 09-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:15:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:14:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +53,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Welcome to Inames Co., Ltd. dba inames.co.kr's WHOIS Service
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: COMN.COM
+Domain Status: LOCK
+Registrar: Inames Co., Ltd. dba inames.co.kr
+Referral URL: http://www.inames.co.kr
 
-http://www.networksolutions.com/whois/index.jhtml
+Service Provider: Cypack
+Phone: 02-3445-6651
+URL: www.cypack.com
+Email: webmaster@cydentity.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Domain Registration Date....: 2000-05-09 GMT.
+Domain Expiration Date......: 2015-05-09 GMT.
+Domain Last Updated Date....: 2010-12-11 12:53:33 GMT.
 
-Whois Query: sungardns.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 23:05:59 EDT 2011
-Reason Code: IE
+Registrant:
+    admin
+    1408-201 Lotte CastleGoldPark, Hwanggeum 1-dong, Suseong-gu
+    Daegu,  706934
+    Korea
+
+Administrative, Technical, Billing Contact:
+    admin    bosskk@nate.com
+    1408-201 Lotte CastleGoldPark, Hwanggeum 1-dong, Suseong-gu
+    Daegu,  706934
+    Korea
+    (PHONE) +82-11-514-8055    (FAX)
+
+
+Domain Name Servers in listed order:
+    NS4.COMN.COM		218.38.54.61
+    NS3.COMN.COM		218.38.54.62
+
