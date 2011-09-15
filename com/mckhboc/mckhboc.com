@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDRANDUNIVERSITY.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 29-aug-2008
-   Expiration Date: 29-aug-2012
+   Domain Name: MCKHBOC.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: AUTH00.NS.UU.NET
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: NS1-AUTH.SPRINTLINK.NET
+   Name Server: NS2-AUTH.SPRINTLINK.NET
+   Name Server: NS3-AUTH.SPRINTLINK.NET
+   Status: clientTransferProhibited
+   Updated Date: 02-sep-2011
+   Creation Date: 22-oct-1998
+   Expiration Date: 21-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:28:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:27:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +54,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... mckhboc.com
+  Creation Date........ 1998-10-22
+  Registration Date.... 2009-08-27
+  Expiry Date.......... 2012-10-22
+  Organisation Name.... McKesson Corporation, Inc.
+  Organisation Address. 11000 Trade Center Dr.
+  Organisation Address.
+  Organisation Address. Rancho Cordova
+  Organisation Address. 95670
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Kapeel Sharma
+  Admin Address........ 11000 Trade Center Dr.
+  Admin Address........
+  Admin Address........ Rancho Cordova
+  Admin Address........ 95670
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... kapeel.sharma@MCKESSON.COM
+  Admin Phone.......... +1.9166368925
+  Admin Fax............ +1.9166368701
+
+Tech Name............ Network Utility Services -
+  Tech Address......... 11000 Trade Center Dr.
+  Tech Address.........
+  Tech Address......... Rancho Cordova
+  Tech Address......... 95670
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... NetworkUtilityServices@MCKESSON.COM
+  Tech Phone........... +1.9166368777
+  Tech Fax.............
+  Name Server.......... NS2-AUTH.SPRINTLINK.NET
+  Name Server.......... NS1-AUTH.SPRINTLINK.NET
+  Name Server.......... NS3-AUTH.SPRINTLINK.NET
+  Name Server.......... AUTH100.NS.UU.NET
+  Name Server.......... AUTH00.NS.UU.NET
+
+

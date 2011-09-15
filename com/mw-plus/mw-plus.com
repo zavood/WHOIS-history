@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDRANDUNIVERSITY.COM
+   Domain Name: MW-PLUS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
+   Name Server: NS1.HYPERMART.NET
+   Name Server: NS2.HYPERMART.NET
    Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 29-aug-2008
-   Expiration Date: 29-aug-2012
+   Updated Date: 02-jul-2011
+   Creation Date: 16-jul-2001
+   Expiration Date: 16-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:28:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:27:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

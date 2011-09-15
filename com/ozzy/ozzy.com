@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDRANDUNIVERSITY.COM
+   Domain Name: OZZY.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 29-aug-2008
-   Expiration Date: 29-aug-2012
+   Updated Date: 05-oct-2010
+   Creation Date: 11-jun-1998
+   Expiration Date: 10-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:28:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:28:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

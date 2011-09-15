@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MIDRANDUNIVERSITY.COM
+   Domain Name: PUZZLER.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 06-sep-2011
-   Creation Date: 29-aug-2008
-   Expiration Date: 29-aug-2012
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 28-may-2009
+   Creation Date: 13-may-2002
+   Expiration Date: 13-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:28:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:26:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
