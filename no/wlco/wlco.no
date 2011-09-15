@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: WLC4D-NORID
+Domain Name................: wlco.no
+Domain Holder Handle.......: WCA92O-NORID
+Registrar Handle...........: REG89-NORID
+Legal-c Handle.............: NS814P-NORID
+Tech-c Handle..............: TAH6R-NORID
+Name Server Handle.........: DNST69H-NORID
+Name Server Handle.........: DNST74H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: WCA92O-NORID
+Type.......................: organization
+Name.......................: Westfal-Larsen &amp; Co A/S
+Id Type....................: local_id_number
+Id Number..................: N.LEG.000005622
+Registrar Handle...........: REG89-NORID
+Post Address...............: Postboks 1192
+Postal Code................: NO-5002
+Postal Area................: Bergen
+Country....................: NO
+Phone Number...............: +47.55303400
+Fax Number.................: +47.55303405
+Email Address..............: nils.staurland@wlco.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
