@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162078614-LROR
+Domain Name:MEYOO.ORG
+Created On:20-Apr-2011 09:48:12 UTC
+Last Updated On:20-Jun-2011 03:50:19 UTC
+Expiration Date:20-Apr-2012 09:48:12 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:OK
+Registrant ID:n0z058evh2uw37
+Registrant Name:kuo li
+Registrant Organization:kuo li
+Registrant Street1:shan xi sheng yu lin shi sui de xian
+Registrant Street2:
+Registrant Street3:
+Registrant City:yulin
+Registrant State/Province:Shaxi
+Registrant Postal Code:718000
+Registrant Country:CN
+Registrant Phone:+86.09125630028
+Registrant Phone Ext.:
+Registrant FAX:+86.09125630028
+Registrant FAX Ext.:
+Registrant Email:lee.k@foxmail.com
+Admin ID:n0z058evh2uw37a
+Admin Name:kuo li
+Admin Organization:kuo li
+Admin Street1:shan xi sheng yu lin shi sui de xian
+Admin Street2:
+Admin Street3:
+Admin City:yulin
+Admin State/Province:Shaxi
+Admin Postal Code:718000
+Admin Country:CN
+Admin Phone:+86.09125630028
+Admin Phone Ext.:
+Admin FAX:+86.09125630028
+Admin FAX Ext.:
+Admin Email:lee.k@foxmail.com
+Tech ID:n0z058evh2uw37a
+Tech Name:kuo li
+Tech Organization:kuo li
+Tech Street1:shan xi sheng yu lin shi sui de xian
+Tech Street2:
+Tech Street3:
+Tech City:yulin
+Tech State/Province:Shaxi
+Tech Postal Code:718000
+Tech Country:CN
+Tech Phone:+86.09125630028
+Tech Phone Ext.:
+Tech FAX:+86.09125630028
+Tech FAX Ext.:
+Tech Email:lee.k@foxmail.com
+Name Server:NS11.BIGWWW.COM
+Name Server:NS12.BIGWWW.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D544941-LROR
+Domain Name:NFID.ORG
+Created On:13-Oct-1997 04:00:00 UTC
+Last Updated On:03-Dec-2008 20:23:25 UTC
+Expiration Date:12-Oct-2018 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29744359-NSI
+Registrant Name:NationalFoundationfor Infectious Diseases
+Registrant Organization:NationalFoundationfor Infectious Diseases
+Registrant Street1:4733 Bethesda Avenue, Suite 75
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bethesda
+Registrant State/Province:MD
+Registrant Postal Code:20814
+Registrant Country:US
+Registrant Phone:+1.30165600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lnovick@NFID.ORG
+Admin ID:29744361-NSI
+Admin Name:NationalFoundationfor Infectious Diseases
+Admin Organization:NationalFoundationfor Infectious Diseases
+Admin Street1:4733 BETHESDA AVE STE 750
+Admin Street2:
+Admin Street3:
+Admin City:BETHESDA
+Admin State/Province:MD
+Admin Postal Code:20814-5278
+Admin Country:US
+Admin Phone:+1.30165600
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lnovick@NFID.ORG
+Tech ID:5657623-NSI
+Tech Name:Douglas L Mauer
+Tech Organization:Biz Net Technologies, Inc.
+Tech Street1:1715 PRATT DR STE 3500
+Tech Street2:
+Tech Street3:
+Tech City:BLACKSBURG
+Tech State/Province:VA
+Tech Postal Code:24060-6492
+Tech Country:US
+Tech Phone:+1.5409617560
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dmauer@BNT.COM
+Name Server:MNS01.DOMAINCONTROL.COM
+Name Server:MNS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

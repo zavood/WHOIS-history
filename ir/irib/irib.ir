@@ -1,0 +1,33 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'irib.ir'
+
+
+domain:		irib.ir
+ascii:		irib.ir
+remarks:	(Domain Holder) Islamic Republic Of IRAN BroadCasting Org.
+remarks:	(Domain Holder Address) IT Department , Fanni Building No 3, Jame jam , Valiasr St., Tehran, Tehran, IR
+holder-c:	is426-irnic
+admin-c:	is426-irnic
+tech-c:		is426-irnic
+nserver:	ns1.irib.ir
+nserver:	ns2.irib.ir
+nserver:	ns3.irib.ir
+last-updated:	2011-05-28
+source:		IRNIC # Filtered
+
+nic-hdl:	is426-irnic
+org:		Islamic Republic Of IRAN BroadCasting Org.
+person:		mohammad Asgari
+e-mail:		info-nic@irib.ir
+address:	IT Department , Fanni Building No 3, Jame jam , Valiasr St., Tehran, Tehran, IR
+phone:		+98 21 22164961
+fax-no:		+98 21 22164962
+source:		IRNIC # Filtered
+
