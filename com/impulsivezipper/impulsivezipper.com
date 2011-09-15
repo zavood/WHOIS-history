@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: IMPULSIVEZIPPER.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS1.EQUINE-INTERNET.COM
+   Name Server: NS2.EQUINE-INTERNET.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 07-oct-2010
+   Creation Date: 19-oct-1999
+   Expiration Date: 19-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:04:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about IMPULSIVEZIPPER.COM
+&lt;a href=&quot;http://www.aboutus.org/IMPULSIVEZIPPER.COM&quot;&gt;AboutUs: IMPULSIVEZIPPER.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Best Farms
+   25401 Dunning St.
+   Cassopolis, MI 49031
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: IMPULSIVEZIPPER.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +94,29 @@ Panther Express
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+   Administrative Contact:
+      Best, Roberta		bestfarms@BEANSTALK.NET
+      Best Farms
+      25401 DUNNING ST
+      CASSOPOLIS, MI 49031-8627
       US
-      212-741-7803
+      (616) 445-3357 fax: (616) 445-8202
+
+   Technical Contact:
+      Ellis Web Concepts &amp; Computer Services		james.ellis@ELLISWEBCONCEPTS.COM
+      517 GRANGER HILLS DR
+      ORTONVILLE, MI 48462-9264
+      US
+      248-627-6313 fax: 248-627-5125
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 19-Oct-2015.
+   Record created on 19-Oct-1999.
+   Database last updated on 14-Sep-2011 23:54:52 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS1.EQUINE-INTERNET.COM      64.128.95.108
+   NS2.EQUINE-INTERNET.COM      64.128.95.108
 
 

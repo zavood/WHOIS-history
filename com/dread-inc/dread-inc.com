@@ -5,21 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEGRANDEXCHANGE.COM
+   Domain Name: DREAD-INC.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.M6.NET
-   Name Server: DNS2.M6.NET
+   Name Server: NS1.BYET.ORG
+   Name Server: NS2.BYET.ORG
+   Name Server: NS3.BYET.ORG
+   Name Server: NS4.BYET.ORG
+   Name Server: NS5.BYET.ORG
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2010
-   Creation Date: 29-jan-2008
-   Expiration Date: 29-jan-2012
+   Updated Date: 06-sep-2011
+   Creation Date: 30-jul-2011
+   Expiration Date: 30-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Glen Smith
+   Joshua Havens
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEGRANDEXCHANGE.COM
+   Domain Name: DREAD-INC.COM
 
    Domain servers in listed order:
-      DNS1.M6.NET
-      DNS2.M6.NET
+      NS1.BYET.ORG
+      NS2.BYET.ORG
+      NS3.BYET.ORG
+      NS4.BYET.ORG
+      NS5.BYET.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEGRANDEXCHANGE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DREAD-INC.COM

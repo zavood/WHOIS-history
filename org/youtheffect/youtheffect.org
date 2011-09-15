@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160041832-LROR
+Domain Name:YOUTHEFFECT.ORG
+Created On:01-Sep-2010 19:32:40 UTC
+Last Updated On:02-Sep-2011 10:57:12 UTC
+Expiration Date:01-Sep-2012 19:32:40 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR61687314
+Registrant Name:Lucian Tarnowski
+Registrant Organization:BRAVENEWTALENT
+Registrant Street1:40 Beak Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:Select a region
+Registrant Postal Code:EC1V 1NQ
+Registrant Country:GB
+Registrant Phone:+44.7733107326
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lucian@bravenewtalent.com
+Admin ID:CR61687318
+Admin Name:Lucian Tarnowski
+Admin Organization:BRAVENEWTALENT
+Admin Street1:40 Beak Street
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:Select a region
+Admin Postal Code:EC1V 1NQ
+Admin Country:GB
+Admin Phone:+44.7733107326
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lucian@bravenewtalent.com
+Tech ID:CR61687316
+Tech Name:Lucian Tarnowski
+Tech Organization:BRAVENEWTALENT
+Tech Street1:40 Beak Street
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:Select a region
+Tech Postal Code:EC1V 1NQ
+Tech Country:GB
+Tech Phone:+44.7733107326
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lucian@bravenewtalent.com
+Name Server:DNS2.STABLETRANSIT.COM
+Name Server:DNS1.STABLETRANSIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

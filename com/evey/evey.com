@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: EVEY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS1.MYPRIVATE.COM
+   Name Server: NS2.MYPRIVATE.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 14-jul-2009
+   Creation Date: 09-sep-1997
+   Expiration Date: 08-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:02:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about EVEY.COM
+&lt;a href=&quot;http://www.aboutus.org/EVEY.COM&quot;&gt;AboutUs: EVEY.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Evey Engineering Company, Inc.
+   730 SOUTH WEST BLVD.
+   VINELAND, NJ 08360
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: EVEY.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +94,30 @@ Panther Express
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+   Administrative Contact:
+      EVEY, GAYLORD		john@EVEY.COM
+      EVEY ENGINEERING
+      730 SOUTH WEST BLVD.
+      VINELAND, NJ 08360
       US
-      212-741-7803
+      (856) 692-2610 fax: 856-692-6554
+
+   Technical Contact:
+      FRAME, DON		mrproducts@cat123.com
+      COMPUTER ACTION TEAM
+      PO BOX 92
+      NORMA, NJ 08347
+      US
+      856-205-0410 fax: 856-205-0410
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 08-Sep-2013.
+   Record created on 09-Sep-1997.
+   Database last updated on 14-Sep-2011 23:51:53 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS1.MYPRIVATE.COM
+   NS2.MYPRIVATE.COM
 
 

@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEGRANDEXCHANGE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.M6.NET
-   Name Server: DNS2.M6.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: SUPERTOUR.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-jan-2010
-   Creation Date: 29-jan-2008
-   Expiration Date: 29-jan-2012
+   Updated Date: 10-aug-2009
+   Creation Date: 08-aug-2004
+   Expiration Date: 08-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:59:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +56,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
 Registrant:
-   Glen Smith
+ Mok3 Inc
+ 55 Moody Street, Suite 21
+ Waltham, MA 02453
+ US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEGRANDEXCHANGE.COM
-
-   Domain servers in listed order:
-      DNS1.M6.NET
-      DNS2.M6.NET
+ Domain name: SUPERTOUR.COM
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEGRANDEXCHANGE.COM
+ Administrative Contact:
+    RoleAccount, Mok3  sysadmins@mok3.com
+    55 Moody Street, Suite 21
+    Waltham, MA 02453
+    US
+    +1.6178282825
+ Technical Contact:
+    Hostmaster, easyDNS  hostmaster@easydns.com
+    304A-219 Dufferin Street
+    Toronto, Ontario M6K 3E3
+    CA
+    +1.4165358672
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 10-Aug-2009.
+ Record expires on 08-Aug-2013.
+ Record created on 08-Aug-2004.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 5 lookups left today

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEGRANDEXCHANGE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.M6.NET
-   Name Server: DNS2.M6.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jan-2010
-   Creation Date: 29-jan-2008
-   Expiration Date: 29-jan-2012
+   Domain Name: AS-IN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS11.101SITEHOSTING.NET
+   Name Server: NS12.101SITEHOSTING.NET
+   Status: ok
+   Updated Date: 21-jun-2011
+   Creation Date: 14-jul-2004
+   Expiration Date: 14-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:59:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+=-=-=-=
+Visit AboutUs.org for more information about as-in.com
+&lt;a href=&quot;http://www.aboutus.org/as-in.com&quot;&gt;AboutUs: as-in.com&lt;/a&gt;
 
 
-Registrant:
-   Glen Smith
+Domain name: as-in.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEGRANDEXCHANGE.COM
+Registrant Contact:
 
-   Domain servers in listed order:
-      DNS1.M6.NET
-      DNS2.M6.NET
+   Jean-Pierre Paats-Williams ()
+
+   Fax:
+   7 Avonleigh Court Palmyra Road
+   Bedminster, BRISTOL V4T 2T7
+   GB
+
+Administrative Contact:
+
+   Jean-Pierre Paats-Williams (jp@network-a.com)
+   44.7838246793
+   Fax:
+   7 Avonleigh Court Palmyra Road
+   Bedminster, BRISTOL V4T 2T7
+   GB
+
+Technical Contact:
+
+   Jean-Pierre Paats-Williams (jp@network-a.com)
+   44.7838246793
+   Fax:
+   7 Avonleigh Court Palmyra Road
+   Bedminster, BRISTOL V4T 2T7
+   GB
+
+Status: Locked
+
+Name Servers:
+   ns11.101sitehosting.net
+   ns12.101sitehosting.net
+
+Creation date: 14 Jul 2004 16:46:40
+Expiration date: 14 Jul 2012 16:46:40
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEGRANDEXCHANGE.COM
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

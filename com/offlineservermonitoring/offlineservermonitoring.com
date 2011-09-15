@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEGRANDEXCHANGE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.M6.NET
-   Name Server: DNS2.M6.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: OFFLINESERVERMONITORING.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: DNS1.OFFLINESERVERMONITORING.COM
+   Name Server: DNS2.OFFLINESERVERMONITORING.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jan-2010
-   Creation Date: 29-jan-2008
-   Expiration Date: 29-jan-2012
+   Updated Date: 25-jan-2011
+   Creation Date: 25-jan-2011
+   Expiration Date: 25-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,40 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain name:             OFFLINESERVERMONITORING.COM
+Name Server:             dns1.offlineservermonitoring.com 66.199.251.242
+Name Server:             dns2.offlineservermonitoring.com 66.199.251.242
+Creation Date:           2011.01.25
+Updated Date:            2011.01.25
+Expiration Date:         2012.01.25
 
+Status:                  DELEGATED
 
-Registrant:
-   Glen Smith
+Registrant ID:           VAMNEJT-RU
+Registrant Name:         Sergey Grigoryev
+Registrant Organization: Sergey Grigoryev
+Registrant Street1:      Tula, Pushkina 11-19
+Registrant City:         Tula
+Registrant Postal Code:  712390
+Registrant Country:      RU
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEGRANDEXCHANGE.COM
+Administrative, Technical Contact
+Contact ID:              VAMNEJT-RU
+Contact Name:            Sergey Grigoryev
+Contact Organization:    Sergey Grigoryev
+Contact Street1:         Tula, Pushkina 11-19
+Contact City:            Tula
+Contact Postal Code:     712390
+Contact Country:         RU
+Contact Phone:           +7 914 0928164
+Contact E-mail:          ferrero.david@yahoo.com
 
-   Domain servers in listed order:
-      DNS1.M6.NET
-      DNS2.M6.NET
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
+Last updated on 2011.09.15 08:02:11 MSK/MSD
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEGRANDEXCHANGE.COM

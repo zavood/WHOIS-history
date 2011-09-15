@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEGRANDEXCHANGE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS1.M6.NET
-   Name Server: DNS2.M6.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: DEUTSCH-LERNEN.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: AUTH1.ARTFILES.DE
+   Name Server: AUTH2.ARTFILES.DE
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-jan-2010
-   Creation Date: 29-jan-2008
-   Expiration Date: 29-jan-2012
+   Updated Date: 20-jul-2010
+   Creation Date: 21-dec-1999
+   Expiration Date: 21-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:59:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
 Registrant:
-   Glen Smith
+   Roland Ernst
+   Gebirgsgasse 23
+   Vienna, VIENNA A-1130
+   AT
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEGRANDEXCHANGE.COM
+   Domain Name: DEUTSCH-LERNEN.COM
+
+   Administrative Contact:
+      Roland Ernst
+      Gebirgsgasse 23
+      Vienna, VIENNA A-1130
+      AT
+      00431 877-6701
+      00431 877-6703 [fax]
+      rolande@inode.at
+
+   Technical Contact, Zone Contact:
+      Roland Ernst
+      Gebirgsgasse 23
+      Vienna, VIENNA A-1130
+      AT
+      (431)877-6701
+      (431)877-6703 [fax]
+      info@actilingua.com
+
+   Domain created on 21-Dec-1999
+   Domain expires on 21-Dec-2013
+   Last updated on 20-Jul-2010
 
    Domain servers in listed order:
-      DNS1.M6.NET
-      DNS2.M6.NET
 
+      AUTH1.ARTFILES.DE
+      AUTH2.ARTFILES.DE
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEGRANDEXCHANGE.COM
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
+

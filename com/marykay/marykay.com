@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: MARYKAY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: DNS1.MARYKAY.COM
+   Name Server: DNS2.MARYKAY.COM
+   Name Server: DNS3.MARYKAY.COM
+   Name Server: DNS4.MARYKAY.COM
+   Name Server: DNS5.MARYKAY.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 03-may-2010
+   Creation Date: 15-sep-1993
+   Expiration Date: 14-sep-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
 
@@ -74,20 +77,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MARYKAY.COM
+&lt;a href=&quot;http://www.aboutus.org/MARYKAY.COM&quot;&gt;AboutUs: MARYKAY.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+MARY KAY INC.
+   PO BOX 799045
+   DALLAS, TX 75379-9045
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: MARYKAY.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +98,23 @@ Panther Express
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+      Hostmaster, MKI		mki.hostmaster@mkcorp.com
+      PO Box 799045
+      Dallas, TX 75379
       US
-      212-741-7803
+      972-687-6300
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 14-Sep-2013.
+   Record created on 15-Sep-1993.
+   Database last updated on 14-Sep-2011 23:52:39 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   DNS1.MARYKAY.COM             208.86.48.2
+   DNS2.MARYKAY.COM             208.86.52.2
+   DNS3.MARYKAY.COM             208.86.48.10
+   DNS4.MARYKAY.COM             198.67.35.109
+   DNS5.MARYKAY.COM             208.86.50.2
 
 

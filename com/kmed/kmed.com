@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: KMED.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS1.TRITONDNS.COM
+   Name Server: NS2.TRITONDNS.COM
+   Name Server: NS3.TRITONDNS.COM
+   Name Server: NS4.TRITONDNS.COM
+   Name Server: NS5.TRITONDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 03-aug-2011
+   Creation Date: 03-jun-1998
+   Expiration Date: 02-jun-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:03:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +77,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about KMED.COM
+&lt;a href=&quot;http://www.aboutus.org/KMED.COM&quot;&gt;AboutUs: KMED.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Bicoastal Rogue Valley
+   1 Blackfield Dr Suite 333
+   Tiburon, CA 94920
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: KMED.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +98,23 @@ Panther Express
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+      Bicoastal Rogue Valley		kevin@bicoastalmedia.com
+      1 Blackfield Dr Suite 333
+      Tiburon, CA 94920
       US
-      212-741-7803
+      4157895035
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 02-Jun-2016.
+   Record created on 05-Dec-2007.
+   Database last updated on 14-Sep-2011 23:59:27 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS1.TRITONDNS.COM
+   NS2.TRITONDNS.COM
+   NS3.TRITONDNS.COM
+   NS4.TRITONDNS.COM
+   NS5.TRITONDNS.COM
 
 

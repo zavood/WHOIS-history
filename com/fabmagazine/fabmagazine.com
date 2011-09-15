@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: FABMAGAZINE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS69.WORLDNIC.COM
+   Name Server: NS70.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 18-apr-2011
+   Creation Date: 19-may-1999
+   Expiration Date: 19-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
 
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about FABMAGAZINE.COM
+&lt;a href=&quot;http://www.aboutus.org/FABMAGAZINE.COM&quot;&gt;AboutUs: FABMAGAZINE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
-   US
+Pink Triangle Press
+   491 Church St. Suite 200
+   Toronto, ON M4Y 2C6
+   CA
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: FABMAGAZINE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +95,20 @@ Panther Express
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
-      US
-      212-741-7803
+      Pink Triangle Press		tera.mallette@xtra.ca
+      491 Church St. Suite 200
+      Toronto, ON M4Y 2C6
+      CA
+      416-925-6665 X222 fax: 999 999 9999
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 19-May-2012.
+   Record created on 19-May-1999.
+   Database last updated on 14-Sep-2011 23:51:49 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS69.WORLDNIC.COM            205.178.190.35
+   NS70.WORLDNIC.COM            206.188.198.35
 
 

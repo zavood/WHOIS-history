@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: BRIGHIDSFIRE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS.IPNS.COM
+   Name Server: NS2.IPNS.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 05-may-2008
+   Creation Date: 22-may-1999
+   Expiration Date: 22-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:00:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about BRIGHIDSFIRE.COM
+&lt;a href=&quot;http://www.aboutus.org/BRIGHIDSFIRE.COM&quot;&gt;AboutUs: BRIGHIDSFIRE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Gwen Tollefson
+   19928 Bothell Everett Hwy #1011
+   Bothell, WA 98012
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: BRIGHIDSFIRE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +94,29 @@ Panther Express
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+   Administrative Contact:
+      Tollefson, Gwen		brighid@DRIZZLE.COM
+      Brighid's Fire
+      20605 Little Bear Creek Rd
+      Woodinville, WA 98072
       US
-      212-741-7803
+      (425) 481-1505 fax: 999 999 9999
+
+   Technical Contact:
+      Gwen Tollefson		brighid@DRIZZLE.COM
+      19928 Bothell Everett Hwy #1011
+      Bothell, WA 98012
+      US
+      (425) 481-1505 fax: 999 999 9999
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 22-May-2013.
+   Record created on 22-May-1999.
+   Database last updated on 14-Sep-2011 23:56:10 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS.IPNS.COM
+   NS2.IPNS.COM
 
 

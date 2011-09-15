@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: DVCRC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: NS1.HOSTMONSTER.COM
+   Name Server: NS2.HOSTMONSTER.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 17-oct-2008
+   Creation Date: 12-sep-1996
+   Expiration Date: 11-sep-2017
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
 
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about DVCRC.COM
+&lt;a href=&quot;http://www.aboutus.org/DVCRC.COM&quot;&gt;AboutUs: DVCRC.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Dickson Valley Ministries
+   8250 Finnie Rd.
+   Newark, IL 60541
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: DVCRC.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -96,21 +95,21 @@ Panther Express
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+      Caldwell, Mark		mark.caldwell@DVCRC.COM
+      Dickson Valley Ministries
+      8250 FINNIE RD
+      NEWARK, IL 60541-9573
       US
-      212-741-7803
+      (630) 553-6233 fax: (630) 553-6240
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 11-Sep-2017.
+   Record created on 12-Sep-1996.
+   Database last updated on 14-Sep-2011 23:51:33 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   NS1.HOSTMONSTER.COM          74.220.195.131
+   NS2.HOSTMONSTER.COM          69.89.16.8
 
 

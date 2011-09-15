@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: DWGPLOT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PANTHERCDN.COM
-   Name Server: NS2.PANTHERCDN.COM
+   Name Server: DNS13.REGISTER.COM
+   Name Server: DNS14.REGISTER.COM
    Status: clientTransferProhibited
-   Updated Date: 02-oct-2007
-   Creation Date: 06-aug-2005
-   Expiration Date: 06-aug-2012
+   Updated Date: 17-sep-2010
+   Creation Date: 09-dec-1999
+   Expiration Date: 09-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:01:52 UTC &lt;&lt;&lt;
 
@@ -74,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about PANTHERCDN.COM
-&lt;a href=&quot;http://www.aboutus.org/PANTHERCDN.COM&quot;&gt;AboutUs: PANTHERCDN.COM &lt;/a&gt;
+Visit AboutUs.org for more information about DWGPLOT.COM
+&lt;a href=&quot;http://www.aboutus.org/DWGPLOT.COM&quot;&gt;AboutUs: DWGPLOT.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Panther Express
-   40 West 20th Street
-   Sixth Floor
-   New York, NY 10011
+Bentley Systems, Incorporated
+   685 Stockton Drive
+   Exton, PA 19341
    US
 
-   Domain Name: PANTHERCDN.COM
+   Domain Name: DWGPLOT.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -95,22 +94,29 @@ Panther Express
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Panther Express		ops-sd@cdnetworks.com
-      40 West 20th Street
-      Sixth Floor
-      New York, NY 10011
+   Administrative Contact:
+      Bartlett, Geoff		dnsadmin@bentley.com
+      Bentley Systems
+      685 Stockton Drive
+      Exton, PA 19341
       US
-      212-741-7803
+      610-458-5000 fax: 610-458-2900
+
+   Technical Contact:
+      Walls, Steve		steve.walls@BENTLEY.COM
+      690 PENNSYLVANIA DR
+      EXTON, PA 19341-1127
+      US
+      (610) 458-2854 fax: (610) 458-2911
 
 
-   Record expires on 06-Aug-2012.
-   Record created on 11-Oct-2005.
-   Database last updated on 14-Sep-2011 23:51:42 EDT.
+   Record expires on 09-Dec-2011.
+   Record created on 07-Sep-2004.
+   Database last updated on 14-Sep-2011 23:52:24 EDT.
 
    Domain servers in listed order:
 
-   NS1.PANTHERCDN.COM           205.252.255.11
-   NS2.PANTHERCDN.COM           67.72.21.11
+   DNS13.REGISTER.COM
+   DNS14.REGISTER.COM
 
 

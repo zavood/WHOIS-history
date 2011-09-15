@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104911267-LROR
+Domain Name:IMCDB.ORG
+Created On:20-Sep-2004 21:02:06 UTC
+Last Updated On:07-Aug-2011 13:18:08 UTC
+Expiration Date:20-Sep-2012 21:02:06 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4e3e908e47b1
+Registrant Name:Antoine Potten
+Registrant Organization:antp.be
+Registrant Street1:Mail du Topweg 2 bte 9
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bruxelles
+Registrant State/Province:
+Registrant Postal Code:1090
+Registrant Country:BE
+Registrant Phone:+32.486397894
+Registrant Phone Ext.:
+Registrant FAX:+32.24258056
+Registrant FAX Ext.:
+Registrant Email:ant@swing.be
+Admin ID:ovh4e3e908eb0wm
+Admin Name:Antoine Potten
+Admin Street1:Mail du Topweg 2 bte 9
+Admin Street2:
+Admin Street3:
+Admin City:bruxelles
+Admin State/Province:
+Admin Postal Code:1090
+Admin Country:BE
+Admin Phone:+32.486397894
+Admin Phone Ext.:
+Admin FAX:+32.24258056
+Admin FAX Ext.:
+Admin Email:ant@swing.be
+Tech ID:ovh4e3e908eb0wm
+Tech Name:Antoine Potten
+Tech Street1:Mail du Topweg 2 bte 9
+Tech Street2:
+Tech Street3:
+Tech City:bruxelles
+Tech State/Province:
+Tech Postal Code:1090
+Tech Country:BE
+Tech Phone:+32.486397894
+Tech Phone Ext.:
+Tech FAX:+32.24258056
+Tech FAX Ext.:
+Tech Email:ant@swing.be
+Name Server:NS.OVH.NET
+Name Server:DNS.OVH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
