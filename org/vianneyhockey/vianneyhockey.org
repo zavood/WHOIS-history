@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D78410601-LROR
+Domain Name:VIANNEYHOCKEY.ORG
+Created On:08-Oct-2001 21:18:04 UTC
+Last Updated On:09-Oct-2010 01:23:40 UTC
+Expiration Date:08-Oct-2011 21:18:04 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-I871IJXLR1TT
+Registrant Name:Tom Stemm
+Registrant Organization:GadellNet
+Registrant Street1:2519 Cassens Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fenton
+Registrant State/Province:Missouri
+Registrant Postal Code:63026
+Registrant Country:US
+Registrant Phone:+1.3144310358
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hosting@gadellnet.com
+Admin ID:DOT-LL2NS4LF0JJ3
+Admin Name:Tom Stemm
+Admin Organization:GadellNet
+Admin Street1:2519 Cassens Drive
+Admin Street2:
+Admin Street3:
+Admin City:Fenton
+Admin State/Province:Missouri
+Admin Postal Code:63026
+Admin Country:US
+Admin Phone:+1.3144310358
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hosting@gadellnet.com
+Tech ID:DOT-B1TM41TALQWT
+Tech Name:Tom Stemm
+Tech Organization:GadellNet
+Tech Street1:2519 Cassens Drive
+Tech Street2:
+Tech Street3:
+Tech City:Fenton
+Tech State/Province:Missouri
+Tech Postal Code:63026
+Tech Country:US
+Tech Phone:+1.3144310358
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hosting@gadellnet.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
