@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASDF456.COM
+   Domain Name: ENLIGHTENMENTECONOMICS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: C3PO.ASDF456.COM
-   Name Server: R2D2.ASDF456.COM
-   Status: clientDeleteProhibited
+   Name Server: NS1.LIVEDNS.CO.UK
+   Name Server: NS2.LIVEDNS.CO.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 31-mar-2011
-   Creation Date: 29-apr-2000
-   Expiration Date: 29-apr-2012
+   Updated Date: 23-mar-2011
+   Creation Date: 12-mar-2001
+   Expiration Date: 12-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:33:50 UTC &lt;&lt;&lt;
 

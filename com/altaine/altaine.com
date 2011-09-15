@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASDF456.COM
+   Domain Name: ALTAINE.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: C3PO.ASDF456.COM
-   Name Server: R2D2.ASDF456.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-mar-2011
-   Creation Date: 29-apr-2000
-   Expiration Date: 29-apr-2012
+   Name Server: NS1.REGISTERDIRECT.NET.NZ
+   Name Server: NS2.REGISTERDIRECT.NET.NZ
+   Status: ok
+   Updated Date: 18-apr-2011
+   Creation Date: 16-jun-2005
+   Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:33:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:34:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

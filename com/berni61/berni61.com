@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ASDF456.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: C3PO.ASDF456.COM
-   Name Server: R2D2.ASDF456.COM
-   Status: clientDeleteProhibited
+   Domain Name: BERNI61.COM
+   Registrar: GLOBAL DOMAINS INTERNATIONAL, INC.
+   Whois Server: whois.website.ws
+   Referral URL: http://www.website.ws
+   Name Server: NS1.GDIDNS.COM
+   Name Server: NS2.GDIDNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 31-mar-2011
-   Creation Date: 29-apr-2000
-   Expiration Date: 29-apr-2012
+   Updated Date: 09-nov-2010
+   Creation Date: 09-nov-2010
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:33:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:34:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Welcome to the .WS Whois Server
+
+Use of this service for any purpose other
+than determining the availability of a domain
+in the .WS TLD to be registered is strictly
+prohibited.
+
+  Domain Name: BERNI61.COM
+
+  Registrant Name: bernadine isaac
+  Registrant Email: berni61@yahoo.com
+
+  Administrative Contact Email: berni61@yahoo.com
+  Administrative Contact Telephone: 5619837233
+
+  Registrar Name: .WS Registry
+  Registrar Email: support@website.ws
+  Registrar Telephone: ---
+  Registrar Whois: whois.website.ws
+
+  Domain Created: 2010-11-09
+  Domain Last Updated: 2010-12-15
+  Domain Currently Expires: 2011-11-09
+
+  Current Nameservers:
+
+    ns1.gdidns.com .......... 64.70.19.78
+    ns2.gdidns.com .......... 64.70.19.88
+
+

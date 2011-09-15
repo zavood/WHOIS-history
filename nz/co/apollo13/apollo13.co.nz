@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T13:34:50+12:00
+domain_name: apollo13.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-04-10T10:34:26+12:00
+domain_datebilleduntil: 2016-04-10T10:34:26+12:00
+domain_datelastmodified: 2011-04-21T16:05:49+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domain Agent
+registrar_address1: PO Box 302829
+registrar_address2: North Harbour
+registrar_city: Auckland
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 477 0055
+registrar_fax: +64 9 475 5976
+registrar_email: dns@domainagent.co.nz
+%
+registrant_contact_name: Hackman
+registrant_contact_address1: 18 Wellington Rd
+registrant_contact_address2: Hataitai
+registrant_contact_city: Wellington
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 9701191
+registrant_contact_email: hackman.nz@gmail.com
+%
+admin_contact_name: Hackman
+admin_contact_address1: 18 Wellington Rd
+admin_contact_address2: Hataitai
+admin_contact_city: Wellington
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 9701191
+admin_contact_email: hackman.nz@gmail.com
+%
+technical_contact_name: Hackman
+technical_contact_address1: 18 Wellington Rd
+technical_contact_address2: Hataitai
+technical_contact_city: Wellington
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 9701191
+technical_contact_email: hackman.nz@gmail.com
+%
+ns_name_01: ns5.hostexcellence.com
+ns_name_02: ns6.hostexcellence.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ
