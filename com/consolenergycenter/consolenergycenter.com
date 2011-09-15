@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
+   Domain Name: CONSOLENERGYCENTER.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
+   Name Server: NS75.WORLDNIC.COM
+   Name Server: NS76.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 03-mar-2008
+   Expiration Date: 03-mar-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:09:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
+Whois Query: consolenergycenter.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
+Date and Time of Query: Wed Sep 14 22:59:38 EDT 2011
 Reason Code: IE

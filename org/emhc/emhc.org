@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5028203-LROR
+Domain Name:EMHC.ORG
+Created On:06-Apr-1999 04:00:00 UTC
+Last Updated On:22-Feb-2010 20:16:58 UTC
+Expiration Date:06-Apr-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28861285-NSI
+Registrant Name:Elmhurst Memorial Healthcare
+Registrant Organization:Elmhurst Memorial Healthcare
+Registrant Street1:200 Berteau Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Elmhurst
+Registrant State/Province:IL
+Registrant Postal Code:60126
+Registrant Country:US
+Registrant Phone:+630.8338200
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:FSCAFID@emhc.org
+Admin ID:35324161-NSI
+Admin Name:JOE GANGE
+Admin Organization:Elmhurst Memorial Hospital
+Admin Street1:855 NORTH CHURCH COURT
+Admin Street2:
+Admin Street3:
+Admin City:ELMHURST
+Admin State/Province:IL
+Admin Postal Code:60126
+Admin Country:US
+Admin Phone:+630.8338200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:JGANGE@emhc.org
+Tech ID:35324161-NSI
+Tech Name:JOE GANGE
+Tech Organization:Elmhurst Memorial Hospital
+Tech Street1:855 NORTH CHURCH COURT
+Tech Street2:
+Tech Street3:
+Tech City:ELMHURST
+Tech State/Province:IL
+Tech Postal Code:60126
+Tech Country:US
+Tech Phone:+630.8338200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:JGANGE@emhc.org
+Name Server:AUTH100.NS.UU.NET
+Name Server:AUTH110.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

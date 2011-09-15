@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Domain Name: ACSSRL.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: DNS.SEEWEB.IT
+   Name Server: DNS2.SEEWEB.IT
+   Status: ok
+   Updated Date: 06-nov-2010
+   Creation Date: 05-nov-2002
+   Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:08:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+REGISTER.IT SPA - Whois Server Version 1.4
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-http://www.networksolutions.com/whois/index.jhtml
+     Domain name: ACSSRL.COM
+     Created on: 2008-02-13
+     Updated on: 2010-11-30
+     Expires on: 2011-11-05
+     Registrant Name: ACS SRL
+     Contact: ACS srl
+     Registrant Address: Via Armenia  16 ZIPR
+     Registrant City: San Vito al Tagliamento
+     Registrant Postal Code: 33078
+     Registrant Country: IT
+     Administrative Contact Organization: ACS srl
+     Administrative Contact Name: Bertelli, Carlo
+     Administrative Contact Address: Via Armenia  16 ZIPR
+     Administrative Contact City: San Vito al Tagliamento
+     Administrative Contact Postal Code: 33078
+     Administrative Contact Country: IT
+     Administrative Contact Email: info@acssrl.com
+     Administrative Contact Tel: null
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: DNS.SEEWEB.IT
+     Secondary Name Server Hostname: DNS2.SEEWEB.IT
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:12:23 2011 &lt;&lt;&lt;
+

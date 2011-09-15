@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
+   Domain Name: BOTCDN.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.EU.BITNAMES.COM
+   Name Server: NS1.US.BITNAMES.COM
+   Name Server: NS2.EU.BITNAMES.COM
+   Name Server: NS2.US.BITNAMES.COM
+   Name Server: NS3.US.BITNAMES.COM
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Status: clientUpdateProhibited
+   Updated Date: 01-aug-2011
+   Creation Date: 26-oct-2010
+   Expiration Date: 26-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:09:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +55,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
-
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

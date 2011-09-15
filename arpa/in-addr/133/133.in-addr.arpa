@@ -1,0 +1,21 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       133.in-addr.arpa
+
+organisation: Administered by APNIC
+
+nserver:      A.DNS.JP.
+nserver:      B.DNS.JP.
+nserver:      D.DNS.JP.
+nserver:      E.DNS.JP.
+nserver:      F.DNS.JP.
+nserver:      G.DNS.JP.
+
+whois:        whois.apnic.net
+
+changed:      1997-03
+changed:      2011-01-08
+source:       IANA
+

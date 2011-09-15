@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T15:09:20+12:00
+domain_name: act.org.nz
+query_status: 200 Active
+domain_dateregistered: 1997-06-03T00:00:00+12:00
+domain_datebilleduntil: 2012-01-01T00:00:00+13:00
+domain_datelastmodified: 2010-11-27T02:30:51+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: DiscountDomains.co.nz
+registrar_address1: P O Box 25-129
+registrar_city: Christchurch
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 961 9554
+registrar_fax: +64 3 961 9553
+registrar_email: admin@discountdomains.co.nz
+%
+registrant_contact_name: ACT NZ
+registrant_contact_address1: Suite 5, Level 2, 309 Broadway
+registrant_contact_address2: Newmarket
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 21 443525
+registrant_contact_email: stuart@act.org.nz
+%
+admin_contact_name: ACT NZ
+admin_contact_address1: Suite 5, Level 2, 309 Broadway
+admin_contact_address2: Newmarket
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 21 443525
+admin_contact_email: admin@act.org.nz
+%
+technical_contact_name: ACT NZ
+technical_contact_address1: Suite 5, Level 2, 309 Broadway
+technical_contact_address2: Newmarket
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 21 443525
+technical_contact_email: admin@act.org.nz
+%
+ns_name_01: ns1.discountdomains.co.nz
+ns_name_02: ns2.discountdomains.co.nz
+ns_name_03: ns3.discountdomains.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

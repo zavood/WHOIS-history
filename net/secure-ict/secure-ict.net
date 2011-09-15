@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Domain Name: SECURE-ICT.NET
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS-TK061.OCN.AD.JP
+   Name Server: NS01.SECURE-ICT.NET
+   Name Server: NS02.SECURE-ICT.NET
+   Name Server: NS03.SECURE-ICT.NET
+   Status: ok
+   Updated Date: 08-oct-2010
+   Creation Date: 11-oct-2006
+   Expiration Date: 11-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:09:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... secure-ict.net
+  Creation Date........ 2006-10-11
+  Registration Date.... 2006-10-11
+  Expiry Date.......... 2011-10-11
+  Organisation Name.... NTT Communications Corporation
+  Organisation Address. 3-4-1 Shibaura
+  Organisation Address.
+  Organisation Address. Minato-ku
+  Organisation Address. 108-8118
+  Organisation Address. Tokyo
+  Organisation Address. JAPAN
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Kazuya Iwanaga
+  Admin Address........ 3-4-1 Shibaura
+  Admin Address........
+  Admin Address........ Chiyoda-ku
+  Admin Address........ 108-8118
+  Admin Address........ Tokyo
+  Admin Address........ JAPAN
+  Admin Email.......... nic@secure-ict.net
+  Admin Phone.......... 0367338344
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Kazuya Iwanaga
+  Tech Address......... 3-4-1 Shibaura
+  Tech Address.........
+  Tech Address......... Chiyoda-ku
+  Tech Address......... 108-8118
+  Tech Address......... Tokyo
+  Tech Address......... JAPAN
+  Tech Email........... nic@secure-ict.net
+  Tech Phone........... 0367338344
+  Tech Fax.............
+  Name Server.......... ns01.secure-ict.net
+  Name Server.......... ns02.secure-ict.net
+  Name Server.......... ns03.secure-ict.net
+  Name Server.......... ns-tk061.ocn.ad.jp
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE

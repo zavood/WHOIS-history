@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Domain Name: SVDIGITALS.COM
+   Registrar: NET 4 INDIA LIMITED
+   Whois Server: whois.net4domains.com
+   Referral URL: http://www.net4.in
+   Name Server: NS1.NET4INDIA.COM
+   Name Server: NS2.NET4INDIA.COM
+   Status: ok
+   Updated Date: 03-jun-2011
+   Creation Date: 02-jun-2004
+   Expiration Date: 02-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+  Registrant :
+	Fax: 0
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Domain : svdigitals.com
 
-http://www.networksolutions.com/whois/index.jhtml
+  Administrative Contact :
+	Fax: 0
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+  Technical Contact :
+	Fax: 0
 
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE
+   Created on.......: 2010-03-24
+   Expired on.......: 2011-03-24
+   Last updated on..: 2010-03-24
+
+  Domain servers :
+
+
+
+ The Data in the NET4INDIA LIMITED Registrar WHOIS database is provided to you by NET4INDIA LIMITED
+ for information purposes only, and may be used to assist you in obtaining
+ information about or related to a domain name's registration record.
+
+ NET4INDIA LIMITED makes this information available &quot;as is,&quot; and does not guarantee its
+ accuracy.
+
+ By submitting a WHOIS query, you agree that you will use this data only for
+ lawful purposes and that, under no circumstances will you use this data to:
+ a) allow, enable, or otherwise support the transmission by e-mail,
+ telephone, or facsimile of mass, unsolicited, commercial advertising or
+ solicitations to entities other than the data recipient's own existing
+ customers; or (b) enable high volume, automated, electronic processes that
+ send queries or data to the systems of any Registry Operator or
+ ICANN-Accredited registrar, except as reasonably necessary to register
+ domain names or modify existing registrations.
+
+ NET4INDIA LIMITED reserves the right to terminate your access to the NET4INDIA LIMITED WHOIS
+ database in its sole discretion, including without limitation, for excessive
+ querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+ NET4INDIA LIMITED reserves the right to modify these terms at any time.
+
+ By submitting this query, you agree to abide by these terms.
+
+ NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+ RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+

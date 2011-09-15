@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
+   Domain Name: AERI.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
+   Name Server: DNS.AERI.COM
+   Name Server: DNS1.EASYSOFTWEB.COM
+   Name Server: DNS2.EASYSOFTWEB.COM
    Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Updated Date: 28-jul-2009
+   Creation Date: 21-may-1996
+   Expiration Date: 22-may-2015
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
 
@@ -67,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
+Whois Query: aeri.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
+Date and Time of Query: Wed Sep 14 22:57:39 EDT 2011
 Reason Code: IE

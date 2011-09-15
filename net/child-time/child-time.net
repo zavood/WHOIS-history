@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Domain Name: CHILD-TIME.NET
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.DNS.NE.JP
+   Name Server: NS2.DNS.NE.JP
+   Status: ok
+   Updated Date: 26-sep-2010
+   Creation Date: 29-nov-2005
+   Expiration Date: 29-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:08:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... child-time.net
+  Creation Date........ 2005-11-29
+  Registration Date.... 2005-11-29
+  Expiry Date.......... 2011-11-29
+  Organisation Name.... NAOTO TAKAI
+  Organisation Address. 1-9-26-3F Kyutaro-cho, Chuo-ku
+  Organisation Address.
+  Organisation Address. Osaka
+  Organisation Address. 541-0056
+  Organisation Address. Osaka
+  Organisation Address. JAPAN
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Internet SAKURA
+  Admin Address........ 1-9-26-3F Kyutaro-cho, Chuo-ku
+  Admin Address........
+  Admin Address........ Osaka
+  Admin Address........ 541-0056
+  Admin Address........ Osaka
+  Admin Address........ JAPAN
+  Admin Email.......... nic-staff@sakura.ad.jp
+  Admin Phone.......... 81-6-6265-4830
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Internet SAKURA
+  Tech Address......... 1-9-26-3F Kyutaro-cho, Chuo-ku
+  Tech Address.........
+  Tech Address......... Osaka
+  Tech Address......... 541-0056
+  Tech Address......... Osaka
+  Tech Address......... JAPAN
+  Tech Email........... nic-staff@sakura.ad.jp
+  Tech Phone........... 81-6-6265-4830
+  Tech Fax.............
+  Name Server.......... ns1.dns.ne.jp
+  Name Server.......... ns2.dns.ne.jp
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE

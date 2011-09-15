@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SERVER306.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SERVER306.COM
-   Name Server: NS2.SERVER306.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-jan-2011
-   Creation Date: 30-jul-2004
-   Expiration Date: 30-jul-2012
+   Domain Name: TOTESPORT.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS0.PHASE8.NET
+   Name Server: NS1.PHASE8.NET
+   Name Server: NS2.PHASE8.NET
+   Status: ok
+   Updated Date: 10-dec-2010
+   Creation Date: 20-nov-2003
+   Expiration Date: 20-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:45 UTC &lt;&lt;&lt;
 
@@ -51,23 +52,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+REGISTER.IT SPA - Whois Server Version 1.4
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-http://www.networksolutions.com/whois/index.jhtml
+     Domain name: TOTESPORT.COM
+     Created on: 2010-10-23
+     Updated on: 2010-10-23
+     Expires on: 2011-11-20
+     Registrant Name: HORSERACE TOTALISATOR BOARD
+     Contact: Horserace Totalisator Board
+     Registrant Address: Douglas House Tote Park, Off Chapel Lane
+     Registrant City: Wigan
+     Registrant Postal Code: WN3 4HS
+     Registrant Country: GB
+     Administrative Contact Organization: Namesco Limited
+     Administrative Contact Name: Domain Administrator
+     Administrative Contact Address: Acton House, Perdiswell Park
+     Administrative Contact City: Worcester
+     Administrative Contact Postal Code: WR3 7GD
+     Administrative Contact Country: GB
+     Administrative Contact Email: transfers-auth@names.co.uk
+     Administrative Contact Tel: +44 845 3633630
+     Technical Contact Organization: Namesco Limited
+     Technical Contact Name:
+     Technical Contact Address: Acton House, Perdiswell Park
+     Technical Contact City: Worcester
+     Technical Contact Postal Code: WR3 7GD
+     Technical Contact Country: GB
+     Technical Contact Email: register.it@names.co.uk
+     Technical Contact Phone: +44 845 3633630
+     Technical Contact Fax: +44 845 363 3631
+     Primary Name Server Hostname: NS0.PHASE8.NET
+     Secondary Name Server Hostname: NS1.PHASE8.NET
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: server306.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:58:36 EDT 2011
-Reason Code: IE
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:12:23 2011 &lt;&lt;&lt;
+
