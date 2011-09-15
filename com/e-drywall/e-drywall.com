@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DYNTLD.NET
-   Registrar: DYNAMIC NETWORK SERVICES, INC
-   Whois Server: whois.dyndns.com
-   Referral URL: http://www.dyndns.com
-   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
+   Domain Name: E-DRYWALL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 14-apr-2009
-   Creation Date: 02-may-2007
-   Expiration Date: 02-may-2012
+   Updated Date: 06-oct-2010
+   Creation Date: 14-nov-2002
+   Expiration Date: 14-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:23:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:22:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- dyntld.net, Secret Registration Customer ID 189  dyntld.net@secretregistration.com
- Dyn Inc
- c/o dyntld.net
- 816 Elm Street
- Box 606
- Manchester, NH 03101
- US
 
- Domain name: DYNTLD.NET
+Domain Name.......... e-drywall.com
+  Creation Date........ 2002-11-15
+  Registration Date.... 2009-09-27
+  Expiry Date.......... 2011-11-15
+  Organisation Name.... Lafarge North America
+  Organisation Address. 12950 Worldgate Drive, Suite 500
+  Organisation Address.
+  Organisation Address. Herndon
+  Organisation Address. 20170
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
 
+Admin Name........... Gypsum Division Marketing- LNA DomainNames
+  Admin Address........ 12950 Worldgate Drive, Suite 500
+  Admin Address........
+  Admin Address........ Herndon
+  Admin Address........ 20170
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... LNA_Domain_Names_Gypsum@lafarge-na.com
+  Admin Phone.......... +1.7034803800
+  Admin Fax............ +1.1231231234
 
- Administrative Contact, Technical Contact:
-    dyntld.net, Secret Registration Customer ID 189  dyntld.net@secretregistration.com
-    Dyn Inc
-    c/o dyntld.net
-    816 Elm Street
-    Box 606
-    Manchester, NH 03101
-    US
-    +1.6037124016
+Tech Name............ DBMS Tech
+  Tech Address......... 487 E. Middlefield Rd.
+  Tech Address......... Mailstop MV 3-1-2
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dbms-tech@verisign.com
+  Tech Phone........... +1.8005792848
+  Tech Fax............. +1.6502378883
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
 
-
- Registration Service Provider:
-    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
-    Login to your account at http://www.dyndns.com/+domains/ to manage
-    nameservers and contacts for your domain name.
-
-
- Record last updated on 14-Apr-2009 20:00:41 UTC.
- Record expires on 03-May-2012.
- Record created on 03-May-2007.
-
-
- Domain servers in listed order:
-    NS1.DYNAMICNETWORKSERVICES.NET
-    NS3.DYNAMICNETWORKSERVICES.NET
-    NS4.DYNAMICNETWORKSERVICES.NET
-    NS2.DYNAMICNETWORKSERVICES.NET
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
 

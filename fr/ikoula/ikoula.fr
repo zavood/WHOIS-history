@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ikoula.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ikoula.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IC1172-FRNIC
+admin-c:     NI181-FRNIC
+tech-c:      NI181-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL648-FRNIC
+registrar:   IKOULA NET
+anniversary: 09/11
+created:     14/10/1998
+last-update: 22/07/2006
+source:      FRNIC
+
+ns-list:     NSL648-FRNIC
+nserver:     ns1.ikoula.fr [213.246.33.228]
+nserver:     ns2.ikoula.fr [213.246.33.229]
+source:      FRNIC
+
+registrar:   IKOULA NET
+type:        Isp Option 1
+address:     175-177 Rue D'Aguesseau
+address:     BOULOGNE-BILLANCOURT
+country:     FR
+phone:       0 892 350 503
+fax-no:      +33 1 71 14 00 19
+e-mail:      ikoula@ikoula.com
+website:     http://www.ikoula.fr
+anonymous:   NO
+registered:  10/05/1999
+source:      FRNIC
+
+nic-hdl:     NI181-FRNIC
+type:        ROLE
+contact:     NOC IKOULA
+address:     IKOULA
+address:     Energy Park, immeuble Energy 6, 130 boulevard de Verdun
+address:     92400 Courbevoie
+country:     FR
+phone:       +33 8 90 71 07 12
+e-mail:      ikoula@ikoula.com
+trouble:     Hebergement : http://www.ikoula.fr
+trouble:     Monitoring : http://ping.ikoula.com
+admin-c:     JG890-FRNIC
+tech-c:      JG890-FRNIC
+notify:      ikoula@ikoula.com
+changed:     22/11/2007 ikoula@ikoula.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC1172-FRNIC
+type:        ORGANIZATION
+contact:     IKOULA COM
+address:     ikoula
+address:     175-177, rue d'Aguesseau
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 8 92 35 05 03
+fax-no:      +33 1 71 14 00 19
+e-mail:      ikoula@ikoula.com
+changed:     25/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

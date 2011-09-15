@@ -1,0 +1,59 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 06:24:40 2011
+
+domain:       infonet.cz
+registrant:   SB:MP206-RIPE_XX
+admin-c:      MP206-RIPE
+nsset:        NSS:MP206-RIPE_XX:1
+registrar:    REG-TERMS
+status:       paid and in zone
+registered:   08.03.1997 01:00:00
+changed:      28.05.2007 13:26:00
+expire:       10.10.2011
+
+contact:      SB:MP206-RIPE_XX
+org:          MITE Infonet s.r.o.
+name:         MITE Infonet s.r.o.
+address:      Na hrazi 32/519
+address:      Praha 8
+address:      180 00
+address:      CZ
+e-mail:       marp@infonet.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+
+contact:      MP206-RIPE
+name:         Martin Pohnetal
+address:      CZ
+phone:        +420 26833330
+e-mail:       marp@infonet.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MP206-RIPE_XX:1
+nserver:      ns.infonet.cz (212.71.128.157)
+nserver:      ns1.termsnet.cz
+tech-c:       SB:MP206-RIPE_XX
+tech-c:       MP206-RIPE
+registrar:    REG-TERMS
+created:      01.10.2007 02:00:00
+changed:      12.07.2011 14:23:23
+
+

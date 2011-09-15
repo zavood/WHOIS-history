@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DYNTLD.NET
-   Registrar: DYNAMIC NETWORK SERVICES, INC
-   Whois Server: whois.dyndns.com
-   Referral URL: http://www.dyndns.com
-   Name Server: NS1.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS2.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS3.DYNAMICNETWORKSERVICES.NET
-   Name Server: NS4.DYNAMICNETWORKSERVICES.NET
+   Domain Name: E2ESOCCER.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-apr-2009
-   Creation Date: 02-may-2007
-   Expiration Date: 02-may-2012
+   Updated Date: 20-aug-2011
+   Creation Date: 19-aug-2002
+   Expiration Date: 19-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:23:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:22:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,47 +55,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
 Registrant:
- dyntld.net, Secret Registration Customer ID 189  dyntld.net@secretregistration.com
- Dyn Inc
- c/o dyntld.net
- 816 Elm Street
- Box 606
- Manchester, NH 03101
- US
+   Chris Irving
+   86 Greynam Court
+   Nepean Ontario K2G5T3
+   Nepean, ON  K2G5T3
+   CA
 
- Domain name: DYNTLD.NET
+   Registrar: NAMESDIRECT
+   Domain Name: E2ESOCCER.COM
+      Created on: 19-AUG-02
+      Expires on: 19-AUG-12
+      Last Updated on: 30-JUL-11
 
+   Administrative Contact:
+      Irving, Chris  chrisirving@rogers.com
+      86 Greynam Court
+      Nepean Ontario K2G5T3
+      Nepean, ON  K2G5T3
+      CA
+      (613) 447-6461
 
- Administrative Contact, Technical Contact:
-    dyntld.net, Secret Registration Customer ID 189  dyntld.net@secretregistration.com
-    Dyn Inc
-    c/o dyntld.net
-    816 Elm Street
-    Box 606
-    Manchester, NH 03101
-    US
-    +1.6037124016
-
-
- Registration Service Provider:
-    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
-    Login to your account at http://www.dyndns.com/+domains/ to manage
-    nameservers and contacts for your domain name.
-
-
- Record last updated on 14-Apr-2009 20:00:41 UTC.
- Record expires on 03-May-2012.
- Record created on 03-May-2007.
+   Technical Contact:
+      Support, NamesDirect.com  support@namesdirect.com
+      Visit us at
+      www.NamesDirect.com CA 95030
+      www.NamesDirect.com, CA  95030
+      US
+      +1.6044346517
 
 
- Domain servers in listed order:
-    NS1.DYNAMICNETWORKSERVICES.NET
-    NS3.DYNAMICNETWORKSERVICES.NET
-    NS4.DYNAMICNETWORKSERVICES.NET
-    NS2.DYNAMICNETWORKSERVICES.NET
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
 
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
+End of Whois Information
