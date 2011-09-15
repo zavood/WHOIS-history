@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86755507-LROR
+Domain Name:WORLDJEWISHCONGRESS.ORG
+Created On:20-May-2002 14:28:46 UTC
+Last Updated On:21-May-2011 01:23:20 UTC
+Expiration Date:20-May-2012 14:28:46 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:AT6238445-016
+Registrant Name:World Jewish Congress
+Registrant Organization:World Jewish Congress
+Registrant Street1:PO Box 90400
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20090
+Registrant Country:US
+Registrant Phone:+1.212755577
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@worldjewishcongress.org
+Admin ID:AT6238446-016
+Admin Name:World Jewish Congress
+Admin Organization:World Jewish Congress
+Admin Street1:PO Box 90400
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20090
+Admin Country:US
+Admin Phone:+1.212755577
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@worldjewishcongress.org
+Tech ID:AT6238447-016
+Tech Name:World Jewish Congress
+Tech Organization:World Jewish Congress
+Tech Street1:PO Box 90400
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20090
+Tech Country:US
+Tech Phone:+1.212755577
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@worldjewishcongress.org
+Name Server:NS.BE.HOSTBASKET.COM
+Name Server:NS.NL.HOSTBASKET.COM
+Name Server:NS.FR.HOSTBASKET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

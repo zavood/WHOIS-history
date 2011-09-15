@@ -1,0 +1,72 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         novasol.at
+registrant:     NA5385729-NICAT
+admin-c:        NAS7533936-NICAT
+tech-c:         NN3927583-NICAT
+nserver:        ns1.ascio.net
+remarks:        80.82.97.156
+nserver:        ns2.ascio.net
+remarks:        80.237.153.102
+nserver:        ns3.ascio.net
+remarks:        64.34.211.132
+changed:        20101019 11:17:35
+source:         AT-DOM
+
+personname:
+organization:   NOVASOL AS
+street address: Rygards Alle 104
+postal code:    2900
+city:           Hellerup
+country:        Denmark
+nic-hdl:        NA5385729-NICAT
+changed:        20090707 13:36:20
+source:         AT-DOM
+
+personname:     Axel Girgensohn
+organization:   Novasol A/S
+street address: Rygaards Alle 104
+postal code:    2900
+city:           Hellerup
+country:        Denmark
+phone:          +4539277000
+fax-no:         +4539130144
+e-mail:         domainmanager@novasol.com
+nic-hdl:        NAS7533936-NICAT
+changed:        20101019 11:17:30
+source:         AT-DOM
+
+personname:     Speednames Technical
+organization:   Speednames
+street address: Islands Brygge 55
+postal code:    2300
+city:           Copenhagen S
+country:        Denmark
+phone:          +4533886300
+fax-no:         +4533886301
+e-mail:         hostmaster@speednames.com
+nic-hdl:        NN3927583-NICAT
+changed:        20080910 12:52:27
+source:         AT-DOM
+

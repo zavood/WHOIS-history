@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79821238-LROR
+Domain Name:TYPO3.ORG
+Created On:16-Nov-2001 10:57:01 UTC
+Last Updated On:18-Jul-2009 00:48:42 UTC
+Expiration Date:16-Nov-2013 10:57:01 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:IMG-539177
+Registrant Name:Kasper Skaarhoej
+Registrant Organization:Curby Soft Multimedia
+Registrant Street1:Tryggevaeldevej 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vanlose
+Registrant State/Province:Sjaelland
+Registrant Postal Code:DK-2720
+Registrant Country:DK
+Registrant Phone:+45.4520999115
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@typo3.com
+Admin ID:IMG-539177
+Admin Name:Kasper Skaarhoej
+Admin Organization:Curby Soft Multimedia
+Admin Street1:Tryggevaeldevej 8
+Admin Street2:
+Admin Street3:
+Admin City:Vanlose
+Admin State/Province:Sjaelland
+Admin Postal Code:DK-2720
+Admin Country:DK
+Admin Phone:+45.4520999115
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@typo3.com
+Tech ID:IMG-539177
+Tech Name:Kasper Skaarhoej
+Tech Organization:Curby Soft Multimedia
+Tech Street1:Tryggevaeldevej 8
+Tech Street2:
+Tech Street3:
+Tech City:Vanlose
+Tech State/Province:Sjaelland
+Tech Postal Code:DK-2720
+Tech Country:DK
+Tech Phone:+45.4520999115
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@typo3.com
+Name Server:NAMESERVER1.PUNKT.DE
+Name Server:NS1.SNOWFLAKEHOSTING.CH
+Name Server:NS2.SNOWFLAKEHOSTING.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

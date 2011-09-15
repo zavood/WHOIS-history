@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: EUR1374D-NORID
+Domain Name................: eurolines.no
+Domain Holder Handle.......: NOA142O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: TAH370P-NORID
+Tech-c Handle..............: BA1390P-NORID
+Name Server Handle.........: NSAS16H-NORID
+Name Server Handle.........: NSAS40H-NORID
+Name Server Handle.........: NSAS56H-NORID
+
+Additional information:
+Created:         2001-09-13
+Last updated:    2011-09-15
+
+NORID Handle...............: NOA142O-NORID
+Type.......................: organization
+Name.......................: NETTBUSS &Oslash;STFOLD AS
+Id Type....................: organization_number
+Id Number..................: 917469415
+Registrar Handle...........: REG164-NORID
+Post Address...............: Postboks 403
+Postal Code................: NO-1701
+Postal Area................: Sarpsborg
+Country....................: NO
+Mobile Phone Number........: +47.91107964
+Email Address..............: svein.arne.bergh@nettbuss.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

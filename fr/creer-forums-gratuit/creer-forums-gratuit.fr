@@ -1,0 +1,89 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; creer-forums-gratuit.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      creer-forums-gratuit.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    E667-FRNIC
+admin-c:     E667-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34091-FRNIC
+registrar:   GANDI
+anniversary: 02/12
+created:     30/11/2009
+last-update: 02/12/2010
+source:      FRNIC
+
+ns-list:     NSL34091-FRNIC
+nserver:     ns1.forumotion.com
+nserver:     ns2.forumotion.com
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     E667-FRNIC
+type:        ORGANIZATION
+contact:     SARL ETOXIC
+address:     eToxic
+address:     885, avenue Docteur J. Lefebvre
+address:     06270 Villeneuve
+country:     FR
+phone:       +33 9 25 65 05 60
+e-mail:      e2e411c31df32d2bf6fa03455121a6d1-e1294@contact.gandi.net
+changed:     26/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

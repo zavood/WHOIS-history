@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NOR17576D-NORID
+Domain Name................: norge123.no
+Domain Holder Handle.......: HMUD1O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: BJ963P-NORID
+Tech-c Handle..............: SH3846P-NORID
+Name Server Handle.........: NSAS16H-NORID
+Name Server Handle.........: NSAS40H-NORID
+Name Server Handle.........: NSAS56H-NORID
+
+Additional information:
+Created:         2006-02-23
+Last updated:    2011-02-25
+
+NORID Handle...............: HMUD1O-NORID
+Type.......................: organization
+Name.......................: HJEMMET MORETENSEN UKENTLIG DA
+Id Type....................: organization_number
+Id Number..................: 982522412
+Registrar Handle...........: REG164-NORID
+Post Address...............: Gullhaugveien 1
+Postal Code................: NO-0441
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22585000
+Fax Number.................: +47.22585879
+Email Address..............: bjorn-petter.jensen@hm-media.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
