@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JEWEL-OSCOLISTENS.COM
+   Domain Name: COM-MAG.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: NS13.ZONEEDIT.COM
-   Name Server: NS2.ZONEEDIT.COM
+   Name Server: NS.NS4UA.COM
+   Name Server: NS2.NS4UA.COM
    Status: clientTransferProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 17-apr-2009
-   Expiration Date: 17-apr-2012
+   Updated Date: 17-dec-2008
+   Creation Date: 28-dec-2006
+   Expiration Date: 28-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:56:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Medallia Inc.
-      Borge Hald
-      800 El Camino Real, Suite 400
-      Menlo Park, CA 94025
+      Monte Ulm
+      Monte Ulm
+      P.O. box 41
+      Pendleton, IN 46064
       US
-      Phone: +1.6503213000
-      Email: hostmaster@lists.medallia.com
+      Phone: +1.7656064511
+      Email: monteulm@hotmail.com
 
 
 
@@ -84,39 +84,39 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: jewel-oscolistens.com
-      Created on..............: 2010-03-30
-      Expires on..............: 2012-04-17
+   Domain Name: com-mag.com
+      Created on..............: 2006-12-28
+      Expires on..............: 2012-12-28
 
    Administrative Contact:
-      Medallia Inc.
-      Borge Hald
-      1010 El Camino Real, Suite 340
-      Menlo Park, CA 94025
+      Monte Ulm
+      Monte Ulm
+      P.O. Box 41
+      Pendleton, IN 46064
       US
-      Phone: +1.6503213000
-      Email: support@medallia.com
+      Phone: +1.7656064511
+      Email: monteulm@hotmail.com
 
 
    Technical  Contact:
-      Medallia, Inc.
-      Serge Pluess
-      395 Page Mill Road Suite 100
-      Palo Alto, CA 94306
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
       US
-      Phone: +1.6503213000
-      Email: admin@lists.medallia.com
+      Phone: +1.9027492701
+      Email: domainregistrar@register.com
 
 
    DNS Servers:
-      ns2.zoneedit.com
-      ns13.zoneedit.com
+      ns2.ns4ua.com
+      ns.ns4ua.com
 
 
 
-Visit AboutUs.org for more information about jewel-oscolistens.com
+Visit AboutUs.org for more information about com-mag.com
 
-&lt;A HREF=&quot;http://www.aboutus.org/jewel-oscolistens.com&quot;&gt;AboutUs: jewel-oscolistens.com&lt;/A&gt;
+&lt;A HREF=&quot;http://www.aboutus.org/com-mag.com&quot;&gt;AboutUs: com-mag.com&lt;/A&gt;
 
 Register your domain name at http://www.register.com
 

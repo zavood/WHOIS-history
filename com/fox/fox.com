@@ -5,23 +5,26 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RENEWSI.COM
+   Domain Name: FOX.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS1.SAVVIS.NET
-   Name Server: NS2.SAVVIS.NET
-   Name Server: NS3.SAVVIS.NET
-   Name Server: NS4.SAVVIS.NET
-   Name Server: NS5.SAVVIS.NET
+   Name Server: ASIA2.AKAM.NET
+   Name Server: EUR1.AKAM.NET
+   Name Server: EUR3.AKAM.NET
+   Name Server: NS1-40.AKAM.NET
+   Name Server: NS1-75.AKAM.NET
+   Name Server: USE2.AKAM.NET
+   Name Server: USW1.AKAM.NET
+   Name Server: USW7.AKAM.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-jul-2011
-   Creation Date: 04-aug-2009
-   Expiration Date: 04-aug-2013
+   Updated Date: 01-mar-2011
+   Creation Date: 20-dec-1995
+   Expiration Date: 19-dec-2019
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:05:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:54:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,45 +85,48 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Domain Administration
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Intellectual Property Department (TCFFC)
+        Twentieth Century Fox Film Corporation
+        P.O. Box 900
+         Beverly Hills CA 90213-0900
         US
-        domain_admin@timeinc.net +1.2125229565 Fax: +1.2125229514
+        wmf@fox.com +1.3103691000 Fax: +1.11111111
 
-    Domain Name: renewsi.com
+    Domain Name: fox.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Domain Administration
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Fox Webmaster
+        Twentieth Century Fox Film Corporation
+        Intellectual Property Department P.O. Box 900
+         Beverly Hills CA 90213
         US
-        domain_admin@timeinc.net +1.2125229565 Fax: +1.2125229514
+        wmf@fox.com +1.3103691000 Fax: -
     Technical Contact, Zone Contact:
-        Domain Tech
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Network Data Communications
+        Twentieth Century Fox Film Corporation
+        P.O. Box 900
+         Beverly Hills CA 90213
         US
-        domain_tech@timeinc.net +1.2125229565 Fax: +1.2125229514
+        dns.support@fox.com +1.3103691000 Fax: -
 
-    Created on..............: 2009-08-04.
-    Expires on..............: 2013-08-04.
-    Record last updated on..: 2011-07-06.
+    Created on..............: 1995-12-20.
+    Expires on..............: 2019-12-18.
+    Record last updated on..: 2011-03-01.
 
     Domain servers in listed order:
 
-    ns1.savvis.net
-    ns3.savvis.net
-    ns2.savvis.net
-    ns5.savvis.net
-    ns4.savvis.net
+    ns1-40.akam.net
+    eur3.akam.net
+    usw7.akam.net
+    ns1-75.akam.net
+    usw1.akam.net
+    asia2.akam.net
+    use2.akam.net
+    eur1.akam.net
 
 
 

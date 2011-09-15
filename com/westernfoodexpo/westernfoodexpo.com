@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
+   Domain Name: WESTERNFOODEXPO.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: AUTH110.NS.UU.NET
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Updated Date: 06-mar-2007
+   Creation Date: 15-mar-1999
+   Expiration Date: 15-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:05:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
-  Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
+Whois Query: westernfoodexpo.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 14:55:35 EDT 2011
+Reason Code: IE

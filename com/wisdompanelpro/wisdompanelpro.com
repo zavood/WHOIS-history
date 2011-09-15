@@ -5,23 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RENEWSI.COM
+   Domain Name: WISDOMPANELPRO.COM
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS1.SAVVIS.NET
-   Name Server: NS2.SAVVIS.NET
-   Name Server: NS3.SAVVIS.NET
-   Name Server: NS4.SAVVIS.NET
-   Name Server: NS5.SAVVIS.NET
+   Name Server: NS1V.DATAPIPE.NET
+   Name Server: NS2V.DATAPIPE.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-jul-2011
-   Creation Date: 04-aug-2009
-   Expiration Date: 04-aug-2013
+   Updated Date: 02-may-2011
+   Creation Date: 02-jun-2009
+   Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:05:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:05:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,45 +79,42 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Domain Administration
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Mars Incorporated
+        Mars, Incorporated
+        100 International Drive
+         Mount Olive NJ 07828
         US
-        domain_admin@timeinc.net +1.2125229565 Fax: +1.2125229514
+        domain.administrator@effem.com +1.9736913500 Fax: +1.9736913829
 
-    Domain Name: renewsi.com
+    Domain Name: wisdompanelpro.com
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Domain Administration
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Mars Incorporated
+        Mars, Incorporated
+        100 International Drive
+         Mount Olive NJ 07828
         US
-        domain_admin@timeinc.net +1.2125229565 Fax: +1.2125229514
+        domain.administrator@effem.com +1.9736913500 Fax: +1.9736913829
     Technical Contact, Zone Contact:
-        Domain Tech
-        Time Inc.
-        1271 Avenue of the Americas
-         New York NY 10020
+        Mars Incorporated
+        Mars, Incorporated
+        100 International Drive
+         Mount Olive NJ 07828
         US
-        domain_tech@timeinc.net +1.2125229565 Fax: +1.2125229514
+        domain.administrator@effem.com +1.9736913500 Fax: +1.9736913829
 
-    Created on..............: 2009-08-04.
-    Expires on..............: 2013-08-04.
-    Record last updated on..: 2011-07-06.
+    Created on..............: 2009-06-02.
+    Expires on..............: 2012-06-02.
+    Record last updated on..: 2011-08-10.
 
     Domain servers in listed order:
 
-    ns1.savvis.net
-    ns3.savvis.net
-    ns2.savvis.net
-    ns5.savvis.net
-    ns4.savvis.net
+    ns1v.datapipe.net
+    ns2v.datapipe.net
 
 
 
@@ -135,4 +129,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

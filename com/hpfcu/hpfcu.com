@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
+   Domain Name: HPFCU.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Name Server: DNS2.OCEANIC.NET
+   Name Server: NS.OCEANIC.COM
+   Status: ok
+   Updated Date: 02-dec-2010
+   Creation Date: 04-dec-2001
+   Expiration Date: 04-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:06:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
+Domain Name.......... hpfcu.com
+  Creation Date........ 2001-12-04
+  Registration Date.... 2004-03-05
+  Expiry Date.......... 2011-12-04
+  Organisation Name.... Honolulu Police Federal Credit Un
+  Organisation Address. 1537 Young Street, 3rd Floor
   Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
+  Organisation Address. Honolulu
+  Organisation Address. 96826
+  Organisation Address. HI
+  Organisation Address. UNITED STATES
 
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
+Admin Name........... Rene Matsuura
+  Admin Address........ Honolulu Police Federal Credit Union
+  Admin Address........ 1537 Young Street, 3rd Floor
+  Admin Address........ Honolulu
+  Admin Address........ 96826
+  Admin Address........ HI
+  Admin Address........ UNITED STATES
+  Admin Email.......... rene@hpfcu.com
+  Admin Phone.......... +1.8089734311
+  Admin Fax............ +1.8089490556
 
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+Tech Name............ Nathan Hatico
+  Tech Address......... Honolulu Police Federal Credit Union
+  Tech Address......... 1537 Young Street, 3rd Floor
+  Tech Address......... Honolulu
+  Tech Address......... 96826
+  Tech Address......... HI
+  Tech Address......... UNITED STATES
+  Tech Email........... stringman5@hotmail.com
+  Tech Phone........... +1.8089734311
+  Tech Fax............. +1.8089490556
+  Name Server.......... NS.OCEANIC.COM
+  Name Server.......... DNS2.OCEANIC.NET
 
 

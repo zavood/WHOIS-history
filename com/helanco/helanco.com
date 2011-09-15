@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
+   Domain Name: HELANCO.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.DIBASERVER.COM
+   Name Server: NS2.DIBASERVER.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Updated Date: 21-jul-2011
+   Creation Date: 08-aug-2001
+   Expiration Date: 08-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
 
@@ -51,41 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
-  Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
-
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
-
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 Mehran Khabbaz Azar admin@dibacommerce.com +98.4115549121
+	 Dibacommerce
+	 No 7, 3th Floor Sahand Complex ,Emam Ave.
+	 Tabriz,East Azarbayjan,IR 513383884
+
+
+Domain Name:helanco.com
+Record last updated at 2009-11-25 09:59:11
+Record created on 2001/8/8
+Record expired on 2012/8/8
+
+
+Domain servers in listed order:
+	 ns1.dibaserver.com 	 ns2.dibaserver.com
+
+Administrator:
+	 name:(Ramin Tajallaei)
+	Email:(admin@dibacommerce.com) tel-- +98.4115549121
+	 Dibacommerce
+	 No 7, 3th Floor Sahand Complex ,Emam Ave.
+\r
+t Tabriz
+East Azarbayjan,
+IR
+
+ zipcode:513383884
+
+Technical Contactor:
+	 name:(Ramin Tajallaei)
+	Email:(admin@dibacommerce.com) tel-- +98.4115549121
+	 Dibacommerce
+	 No 7, 3th Floor Sahand Complex ,Emam Ave.
+\r
+t Tabriz
+East Azarbayjan,
+IR
+
+ zipcode:513383884
+
+Billing Contactor:
+	 name:(Ramin Tajallaei)
+	Email:(admin@dibacommerce.com) tel-- +98.4115549121
+	 Dibacommerce
+	 No 7, 3th Floor Sahand Complex ,Emam Ave.
+\r
+t Tabriz
+East Azarbayjan,
+IR
+
+ zipcode:513383884
+
+
+Registration Service Provider:
+	name: TS information technology
+	tel: +44.1273906062
+ 	fax: +44.1273271660
+ 	web:http://www.mihannic.com

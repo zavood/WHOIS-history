@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Domain Name: WENDYSBRIDALSHOW.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.WENDYSBRIDALSHOW.COM
+   Name Server: NS2.WENDYSBRIDALSHOW.COM
+   Status: ok
+   Updated Date: 03-may-2011
+   Creation Date: 02-may-2007
+   Expiration Date: 02-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:00:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
-  Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
+Registrant:
+   Steve Kramer
+   25422 Trabuco Road
+   105-404
+   Lake Forest, CA  92630
+   US
 
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+   Registrar: NAMESDIRECT
+   Domain Name: WENDYSBRIDALSHOW.COM
+      Created on: 02-MAY-07
+      Expires on: 02-MAY-13
+      Last Updated on: 03-MAY-11
+
+   Administrative, Technical Contact:
+      Kramer, Steve  skramer@exposites.com
+      25422 Trabuco Road
+      105-404
+      Lake Forest, CA  92630
+      US
+      (949) 588-2740
 
 
+   Domain servers in listed order:
+      NS1.WENDYSBRIDALSHOW.COM
+      NS2.WENDYSBRIDALSHOW.COM
+
+End of Whois Information

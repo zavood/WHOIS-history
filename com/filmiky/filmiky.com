@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
-   Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Domain Name: FILMIKY.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.IC.CZ
+   Name Server: NS2.IC.CZ
+   Status: ok
+   Updated Date: 11-oct-2010
+   Creation Date: 10-nov-2008
+   Expiration Date: 10-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:01:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,13 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The IP Address 174.142.225.246 you are using to query our Whois Server has exceeded the 100 Whois queries per day limit. Any further queries from this IP Address will not result in a response until 24 hours.
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
-  Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
+You could have received this message, if 174.142.225.246 is a Public IP Address and has been used to query our Whois Server today, by multiple individuals before your query.
 
-Admin Name........... Domain Manager
-  Admin Address........ -
-  Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
+This limit is set to effectively dissuade Whois Contact Details harvesting, apart from balancing load on our Whois Server.
 
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
-  Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+If you wish to continue your investigation, please perform a Whois Lookup at http://manage.logicboxes.com/whois.
 
+In order to increase this limit, please write to compliance@logicboxes.com with your IP Address and an explanation as to why you require a higher limit.
 

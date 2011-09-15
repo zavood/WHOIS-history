@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TELIACARRIER.COM
+   Domain Name: POSTDIRECT.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.TELIA.COM
-   Name Server: DNS2.TELIA.COM
+   Name Server: NS3.CLICKACTION.NET
+   Name Server: NS4.CLICKACTION.NET
+   Name Server: NS6.POSTDIRECT.COM
    Status: clientTransferProhibited
-   Updated Date: 06-apr-2011
-   Creation Date: 25-may-2000
-   Expiration Date: 25-may-2012
+   Updated Date: 28-mar-2011
+   Creation Date: 08-jun-1997
+   Expiration Date: 08-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:03:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:06:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +53,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... teliacarrier.com
-  Creation Date........ 2000-05-26
-  Registration Date.... 2004-08-31
-  Expiry Date.......... 2012-05-26
-  Organisation Name.... TeliaSonera AB
-  Organisation Address. Sturegatan 1
+Domain Name.......... postdirect.com
+  Creation Date........ 1997-06-08
+  Registration Date.... 2011-03-29
+  Expiry Date.......... 2012-06-09
+  Organisation Name.... Yesmail
+  Organisation Address. 2197 E Bayshore Rd
   Organisation Address.
-  Organisation Address. Stockholm
-  Organisation Address. SE-106 63
-  Organisation Address. -
-  Organisation Address. SWEDEN
+  Organisation Address. Palo Alto
+  Organisation Address. 64303
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
 
-Admin Name........... Domain Manager
-  Admin Address........ -
+Admin Name........... Yesmail .
+  Admin Address........ 959 Skyway Road, Suite 150
   Admin Address........
-  Admin Address........ Gothenburg
-  Admin Address........ SE-405 35
-  Admin Address........ -
-  Admin Address........ SWEDEN
-  Admin Email.......... domain-manager@teliasonera.com
-  Admin Phone.......... +46.850455000
-  Admin Fax............ +46.86114642
+  Admin Address........ San Carlos
+  Admin Address........ 94070
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... dbms-admin@verisign.com
+  Admin Phone.......... +1.6506201200
+  Admin Fax............
 
-Tech Name............ Registry Telia Net
-  Tech Address......... Marbackagatan 11
+Tech Name............ Yesmail .
+  Tech Address......... 959 Skyway Road, Suite 150
   Tech Address.........
-  Tech Address......... Stockholm
-  Tech Address......... SE-123 86
-  Tech Address......... -
-  Tech Address......... SWEDEN
-  Tech Email........... dns@telia.net
-  Tech Phone........... +46.84568930
-  Tech Fax............. +46.84568935
-  Name Server.......... dns1.telia.com
-  Name Server.......... dns2.telia.com
+  Tech Address......... San Carlos
+  Tech Address......... 94070
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... dbms-tech@verisign.com
+  Tech Phone........... +1.6506201200
+  Tech Fax.............
+  Name Server.......... NS3.CLICKACTION.NET
+  Name Server.......... NS4.CLICKACTION.NET
+  Name Server.......... NS6.POSTDIRECT.COM
 
 
