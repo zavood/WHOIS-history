@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMLSTATREPORTS.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.XMLSTATREPORTS.COM
-   Name Server: DNS2.XMLSTATREPORTS.COM
-   Status: clientTransferProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 09-aug-2011
-   Expiration Date: 09-aug-2012
+   Domain Name: CORELSC.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: NS1.THEMALAY0586.INFO
+   Name Server: NS2.THEMALAY0586.INFO
+   Status: ok
+   Updated Date: 07-oct-2010
+   Creation Date: 13-dec-2008
+   Expiration Date: 13-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:35:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,40 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+GMO Internet, Inc. whois server 2.0
 
-Domain name:             XMLSTATREPORTS.COM
-Name Server:             dns1.xmlstatreports.com 64.120.214.18
-Name Server:             dns2.xmlstatreports.com 64.120.214.18
-Creation Date:           2011.08.09
-Updated Date:            2011.09.02
-Expiration Date:         2012.08.09
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Status:                  DELEGATED
-
-Registrant ID:           L7VXDY3-RU
-Registrant Name:         Olegovich Alexander
-Registrant Organization: Olegovich Alexander
-Registrant Street1:      Knyazheskaya 15
-Registrant City:         Moscow
-Registrant Postal Code:  119332
-Registrant Country:      RU
-
-Administrative, Technical Contact
-Contact ID:              L7VXDY3-RU
-Contact Name:            Olegovich Alexander
-Contact Organization:    Olegovich Alexander
-Contact Street1:         Knyazheskaya 15
-Contact City:            Moscow
-Contact Postal Code:     119332
-Contact Country:         RU
-Contact Phone:           +7 495 1234567
-Contact E-mail:          frolov1985@hotmail.com
-
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.16 00:35:32 MSK/MSD
+Domain Handle: None
+Domain Name: corelsc.com
+Created On: 2008-12-13 19:40:29.0
+Expiration Date: 2011-12-13 19:40:29.0
+Status: ACTIVE
+Registrant Name: Tomohiko Ishii ()
+Registrant Organization: -
+Registrant Street1: 3-46-3, Ebisu
+Registrant Street2:
+Registrant City: shibuya-ku
+Registrant State: JP
+Registrant Postal Code: 150-0013
+Registrant Country: JP
+Registrant Phone: 99-9999-9999
+Registrant Fax:
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Tomohiko Ishii
+Admin Organization: -
+Admin Street1: 3-46-3, Ebisu
+Admin Street2:
+Admin City: shibuya-ku
+Admin State: JP
+Admin Postal Code: 150-0013
+Admin Country: JP
+Admin Phone: 0364082870
+Admin Fax: 1
+Admin Email: ml-link@ioix.com
+Billing Name: Tomohiko Ishii
+Billing Organization: -
+Billing Street1: 3-46-3, Ebisu
+Billing Street2:
+Billing City: shibuya-ku
+Billing State: JP
+Billing Postal Code: 150-0013
+Billing Country: JP
+Billing Phone: 0364082870
+Billing Fax: 1
+Billing Email: ml-link@ioix.com
+Tech Name: Tomohiko Ishii
+Tech Organization: -
+Tech Street1: 3-46-3, Ebisu
+Tech Street2:
+Tech City: shibuya-ku
+Tech State: JP
+Tech Postal Code: 150-0013
+Tech Country: JP
+Tech Phone: 0364082870
+Tech Fax: 1
+Tech Email: ml-link@ioix.com
+Name Server: ns1.themalay0586.info
+Name Server: ns2.themalay0586.info
 

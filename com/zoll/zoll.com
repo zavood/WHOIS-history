@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMLSTATREPORTS.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.XMLSTATREPORTS.COM
-   Name Server: DNS2.XMLSTATREPORTS.COM
+   Domain Name: ZOLL.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 09-aug-2011
-   Expiration Date: 09-aug-2012
+   Updated Date: 06-oct-2006
+   Creation Date: 19-jan-1995
+   Expiration Date: 20-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:23:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,40 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Domain name:             XMLSTATREPORTS.COM
-Name Server:             dns1.xmlstatreports.com 64.120.214.18
-Name Server:             dns2.xmlstatreports.com 64.120.214.18
-Creation Date:           2011.08.09
-Updated Date:            2011.09.02
-Expiration Date:         2012.08.09
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Status:                  DELEGATED
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant ID:           L7VXDY3-RU
-Registrant Name:         Olegovich Alexander
-Registrant Organization: Olegovich Alexander
-Registrant Street1:      Knyazheskaya 15
-Registrant City:         Moscow
-Registrant Postal Code:  119332
-Registrant Country:      RU
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative, Technical Contact
-Contact ID:              L7VXDY3-RU
-Contact Name:            Olegovich Alexander
-Contact Organization:    Olegovich Alexander
-Contact Street1:         Knyazheskaya 15
-Contact City:            Moscow
-Contact Postal Code:     119332
-Contact Country:         RU
-Contact Phone:           +7 495 1234567
-Contact E-mail:          frolov1985@hotmail.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.16 00:35:32 MSK/MSD
-
+Whois Query: zoll.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 16:13:38 EDT 2011
+Reason Code: IE

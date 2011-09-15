@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXUX.COM
+   Domain Name: YOULUNG.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.R4L.COM
-   Name Server: NS2.R4L.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-aug-2011
-   Creation Date: 03-jul-2001
-   Expiration Date: 03-jul-2013
+   Name Server: NS1.BIZS.COM.TW
+   Name Server: NS2.BIZS.COM.TW
+   Status: ok
+   Updated Date: 02-nov-2010
+   Creation Date: 15-nov-2002
+   Expiration Date: 15-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:28:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:25:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,50 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- N/A
- 5802 Bob Bullock C1 Unit 328C-195
- Laredo, TX 78041-8813
- US
+ youlung
+ 4F.,No.12,Alley 38,Lane 218,Se
+ c. 5,Luosfu Rd.,Wenshan Chiu,T
+ Taipei,  Taiwan 116
+ TW
 
- Domain name: LXUX.COM
+ Domain name: YOULUNG.COM
 
 
  Administrative Contact:
-    Privacy Advocate, Register4Less  v8El338u@privacyadvocate.org
-    5802 Bob Bullock C1 Unit 328C-195
-    Laredo, TX 78041-8813
-    US
-    +1.5149056500
+    Johnson, Feng  service@bizs.com.tw
+    5F, No.38, Sec 1, Fu Shen S Rd., Taipei, Taiwan
+    Taipei,  Taiwan 104
+    TW
+    +886-2-87721797    Fax: +886-2-87721795
+
  Technical Contact:
-    Privacy Advocate, Register4Less  v8El338u@privacyadvocate.org
-    5802 Bob Bullock C1 Unit 328C-195
-    Laredo, TX 78041-8813
-    US
-    +1.5149056500
-
-
- Registration Service Provider:
-    Register4less, support@r4l.com
-    (514) 905-6500
-    http://register4less.com
+    Team, Domain  name@080.net
+    5F,25,Sec. 3, RenAi Rd.
+    Taipei, Taiwan 106
+    TW
+    886-2-27515668    Fax: 886-2-27512791
 
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 01-Aug-2011.
- Record expires on 03-Jul-2013.
- Record created on 03-Jul-2001.
+ Record last updated on 02-Nov-2010.
+ Record expires on 15-Nov-2013.
+ Record created on 15-Nov-2002.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.R4L.COM
-    NS2.R4L.COM
+    NS1.BIZS.COM.TW
+    NS2.BIZS.COM.TW
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

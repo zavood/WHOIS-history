@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMLSTATREPORTS.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.XMLSTATREPORTS.COM
-   Name Server: DNS2.XMLSTATREPORTS.COM
+   Domain Name: STEELBYTES.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 09-aug-2011
-   Expiration Date: 09-aug-2012
+   Updated Date: 07-apr-2010
+   Creation Date: 05-jul-2000
+   Expiration Date: 05-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,40 +53,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+domain:       steelbytes.com
+owner:        Louis Solomon
+email:        louis@steelbytes.com
+address:      GPO Box 2066
+city:         Melbourne
+state:        VIC
+postal-code:  3001
+country:      AU
+phone:        +471.1
+admin-c:      CCOM-17977 louis@steelbytes.com
+tech-c:       CCOM-17977 louis@steelbytes.com
+billing-c:    CCOM-17977 louis@steelbytes.com
+nserver:      ns1.mydomain.com
+nserver:      ns2.mydomain.com
+nserver:      ns3.mydomain.com
+nserver:      ns4.mydomain.com
+status:       lock
+created:      2000-07-05 01:06:35 UTC
+modified:     2010-04-07 09:26:40 UTC
+expires:      2014-07-05 05:06:35 UTC
+query-source: 174.142.225.246
 
-Domain name:             XMLSTATREPORTS.COM
-Name Server:             dns1.xmlstatreports.com 64.120.214.18
-Name Server:             dns2.xmlstatreports.com 64.120.214.18
-Creation Date:           2011.08.09
-Updated Date:            2011.09.02
-Expiration Date:         2012.08.09
+contact-hdl:  CCOM-17977
+person:       . .
+organization: SteelBytes
+email:        louis@steelbytes.com
+address:      GPO Box 2066
+city:         Melbourne
+state:        VIC
+postal-code:  3001
+country:      AU
+phone:        +49.1234578
 
-Status:                  DELEGATED
-
-Registrant ID:           L7VXDY3-RU
-Registrant Name:         Olegovich Alexander
-Registrant Organization: Olegovich Alexander
-Registrant Street1:      Knyazheskaya 15
-Registrant City:         Moscow
-Registrant Postal Code:  119332
-Registrant Country:      RU
-
-Administrative, Technical Contact
-Contact ID:              L7VXDY3-RU
-Contact Name:            Olegovich Alexander
-Contact Organization:    Olegovich Alexander
-Contact Street1:         Knyazheskaya 15
-Contact City:            Moscow
-Contact Postal Code:     119332
-Contact Country:         RU
-Contact Phone:           +7 495 1234567
-Contact E-mail:          frolov1985@hotmail.com
-
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.16 00:35:32 MSK/MSD
-
+source:       joker.com live whois service
+query-time:   0.016835
+db-updated:   2011-09-15 20:34:41
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

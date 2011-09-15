@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D578537-LROR
+Domain Name:SSFCU.ORG
+Created On:19-Dec-1995 05:00:00 UTC
+Last Updated On:29-Oct-2010 07:50:39 UTC
+Expiration Date:18-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22625262-NSI
+Registrant Name:SecurityServiceFederal Credit Union
+Registrant Organization:SecurityServiceFederal Credit Union
+Registrant Street1:16211 La Cantera Parkway
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Antonio
+Registrant State/Province:TX
+Registrant Postal Code:78256-2419
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kcastillo@SSFCU.ORG
+Admin ID:16730563-NSI
+Admin Name:Karen Castillo
+Admin Organization:Security Service Federal Credit Union
+Admin Street1:16211 LA CANTERA PKWY
+Admin Street2:
+Admin Street3:
+Admin City:SAN ANTONIO
+Admin State/Province:TX
+Admin Postal Code:78256-2419
+Admin Country:US
+Admin Phone:+1.210476470
+Admin Phone Ext.:
+Admin FAX:+1.210476404
+Admin FAX Ext.:
+Admin Email:kcastillo@SSFCU.ORG
+Tech ID:22625264-NSI
+Tech Name:SecurityServiceFederal Credit Union
+Tech Organization:SecurityServiceFederal Credit Union
+Tech Street1:16211 La Cantera Pkwy
+Tech Street2:
+Tech Street3:
+Tech City:San Antonio
+Tech State/Province:TX
+Tech Postal Code:78256
+Tech Country:US
+Tech Phone:+1.21047646
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mward@SSFCU.ORG
+Name Server:CBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:DBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:DNS01.SSFCU.ORG
+Name Server:DNS02.SSFCU.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOPROSCOPO.COM
-   Registrar: MONIKER ONLINE SERVICES, INC.
-   Whois Server: whois.moniker.com
-   Referral URL: http://www.moniker.com
-   Name Server: NS1.ABOVE.COM
-   Name Server: NS2.ABOVE.COM
+   Domain Name: TAGGGED.COM
+   Registrar: BASIC FUSION, INC.
+   Whois Server: whois.basicfusion.com
+   Referral URL: http://www.basicfusion.com
+   Name Server: DPNS1.DNSNAMESERVER.ORG
+   Name Server: DPNS2.DNSNAMESERVER.ORG
+   Name Server: DPNS3.DNSNAMESERVER.ORG
+   Name Server: DPNS4.DNSNAMESERVER.ORG
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-sep-2011
-   Creation Date: 17-may-2004
-   Expiration Date: 17-may-2012
+   Updated Date: 06-sep-2011
+   Creation Date: 21-dec-2004
+   Expiration Date: 21-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:27:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,86 +55,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Data contained in Basic Fusion, Inc.'s Whois database, while believed by the company to be reliable, is provided &quot;as is&quot; with no guarantee or warranties regarding its accuracy.  This information is provided for the sole purpose of assisting you in obtaining information about domain name registration records. Any use of this data for any other purpose is expressly forbidden without the prior written permission of Basic Fusion, Inc.  By submitting an inquiry, you agree to these terms of usage and limitations of warranty.  In particular, you agree not to use this data to allow, enable, or otherwise make possible, dissemination or collection of this data, in part or in its entirety, for any purpose, such as the transmission of unsolicited advertising and and solicitations of any kind, including spam.  You further agree not to use this data to enable high volume, automated or robotic electronic processes designed to collect or compile this data for any purpose, including mining this data for your own personal or commercial purposes.
 
-Moniker Whois Server Version 2.0
+Registrant:
+Domain Name Proxy, LLC
+3370 N. Hayden Rd.
+#726
+Scottsdale, AZ 85251
+Email: tagggedcomadmin@domainnameproxyllc.com
+Phone: 4805038970
 
-The Data in Moniker's WHOIS database
-is provided for information purposes only, and is
-designed to assist persons in obtaining information
-related to domain name registration records.
-Moniker does not guarantee its accuracy.
-By submitting a WHOIS query, you agree that you
-will use this Data only for lawful purposes and
-that, under no circumstances will you use this Data
-to: (1) allow, enable, or otherwise support the
-transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam),
-telephone, or facsimile; or
-(2) enable high volume, automated, electronic
-processes that apply to Moniker (or its
-systems). Moniker reserves the right
-to modify these terms at any time.  By submitting
-this query, you agree to abide by this policy.
+Domain Name: TAGGGED.COM
 
-The compilation, repackaging, dissemination or
-other use of this Data is expressly
-prohibited without the prior written consent
-of Moniker.
+Administrative Contact:
+Domain Name Proxy, LLC
+3370 N. Hayden Rd.
+#726
+Scottsdale, AZ 85251
+Email: tagggedcomadmin@domainnameproxyllc.com
+Phone: 4805038970
 
-Domain Name: HOPROSCOPO.COM
-Registrar: MONIKER
+Technical Contact:
+Domain Name Proxy, LLC
+3370 N. Hayden Rd.
+#726
+Scottsdale, AZ 85251
+Email: tagggedcomadmin@domainnameproxyllc.com
+Phone: 4805038970
 
-Registrant [4622]:
-        Netcorp Netcorp email816@aol.com
-        THIS DOMAIN MAY BE FOR SALE
-        P.O. Box 251506
-        Glendale
-        CA
-        91225
-        US
+Billing Contact:
+Domain Name Proxy, LLC
+3370 N. Hayden Rd.
+#726
+Scottsdale, AZ 85251
+Email: tagggedcomadmin@domainnameproxyllc.com
+Phone: 4805038970
 
+Record expires on 12/21/2011
+Record created on 12/21/2004
+Database last updated on 9/15/2011
 
-Administrative Contact [4622]:
-        Netcorp Netcorp email816@aol.com
-        THIS DOMAIN MAY BE FOR SALE
-        P.O. Box 251506
-        Glendale
-        CA
-        91225
-        US
-        Phone: +1.8185499839
+Domain servers:
 
-
-Billing Contact [4622]:
-        Netcorp Netcorp email816@aol.com
-        THIS DOMAIN MAY BE FOR SALE
-        P.O. Box 251506
-        Glendale
-        CA
-        91225
-        US
-        Phone: +1.8185499839
-
-
-Technical Contact [4622]:
-        Netcorp Netcorp email816@aol.com
-        THIS DOMAIN MAY BE FOR SALE
-        P.O. Box 251506
-        Glendale
-        CA
-        91225
-        US
-        Phone: +1.8185499839
-
-
-Domain servers in listed order:
-
-        NS1.ABOVE.COM
-        NS2.ABOVE.COM
-
-        Record created on:        2004-05-17 19:08:19.0
-        Database last updated on: 2011-09-03 19:32:39.907
-        Domain Expires on:        2012-05-17 19:08:19.0
-
+dpns1.dnsnameserver.org
+dpns2.dnsnameserver.org
+dpns3.dnsnameserver.org
+dpns4.dnsnameserver.org
 
 

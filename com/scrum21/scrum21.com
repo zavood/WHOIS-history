@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMLSTATREPORTS.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.XMLSTATREPORTS.COM
-   Name Server: DNS2.XMLSTATREPORTS.COM
+   Domain Name: SCRUM21.COM
+   Registrar: FIRSTSERVER, INC.
+   Whois Server: whois.do-reg.jp
+   Referral URL: http://www.do-reg.jp
+   Name Server: NS3.DO-REG.JP
+   Name Server: NS4.DO-REG.JP
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 09-aug-2011
-   Expiration Date: 09-aug-2012
+   Updated Date: 22-jun-2011
+   Creation Date: 21-jul-2006
+   Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:30:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,40 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
 
-Domain name:             XMLSTATREPORTS.COM
-Name Server:             dns1.xmlstatreports.com 64.120.214.18
-Name Server:             dns2.xmlstatreports.com 64.120.214.18
-Creation Date:           2011.08.09
-Updated Date:            2011.09.02
-Expiration Date:         2012.08.09
+### Do-REG WHOIS database / ###
 
-Status:                  DELEGATED
+String for search [ SCRUM21.COM ]
 
-Registrant ID:           L7VXDY3-RU
-Registrant Name:         Olegovich Alexander
-Registrant Organization: Olegovich Alexander
-Registrant Street1:      Knyazheskaya 15
-Registrant City:         Moscow
-Registrant Postal Code:  119332
-Registrant Country:      RU
 
-Administrative, Technical Contact
-Contact ID:              L7VXDY3-RU
-Contact Name:            Olegovich Alexander
-Contact Organization:    Olegovich Alexander
-Contact Street1:         Knyazheskaya 15
-Contact City:            Moscow
-Contact Postal Code:     119332
-Contact Country:         RU
-Contact Phone:           +7 495 1234567
-Contact E-mail:          frolov1985@hotmail.com
+[Domain Name]     SCRUM21.COM
+[Status]          clientTransferProhibited
+[Nameserver]      NS3.DO-REG.JP
+[Nameserver]      NS4.DO-REG.JP
 
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+[Creation Date]   2006-07-21 20:14:15(JST)
+[Expiration Date] 2012-07-21 20:14:15(JST)
+[Last Update]     2011-06-22 20:52:40(JST)
 
-Last updated on 2011.09.16 00:35:32 MSK/MSD
+[Registrant]
+        tsurugashima-igyosyukouryukai
+        Name:           Haruo Muta
+        Address:         855 tsurugaoka tsurugashima-sity Saitama, JP
+
+[Admin Contact]
+        Handle:         DRHM0125
+        Organization:   tsurugashima-igyosyukouryukai
+        Name:           Haruo Muta
+        E-Mail:         telecom@e-seniornet.com
+        Postal-Code:    350-2204
+        Address:         855 tsurugaoka tsurugashima-sity Saitama, JP
+        Phone-Number:   049-287-1255
+        Fax-Number:     049-287-7799
+[Tech Contact]
+        Handle:         DRHM0125
+        Organization:   tsurugashima-igyosyukouryukai
+        Name:           Haruo Muta
+        E-Mail:         telecom@e-seniornet.com
+        Postal-Code:    350-2204
+        Address:         855 tsurugaoka tsurugashima-sity Saitama, JP
+        Phone-Number:   049-287-1255
+        Fax-Number:     049-287-7799
 

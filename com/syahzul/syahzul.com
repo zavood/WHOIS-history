@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXUX.COM
+   Domain Name: SYAHZUL.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.R4L.COM
-   Name Server: NS2.R4L.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-aug-2011
-   Creation Date: 03-jul-2001
-   Expiration Date: 03-jul-2013
+   Name Server: ART.NS.CLOUDFLARE.COM
+   Name Server: PAT.NS.CLOUDFLARE.COM
+   Status: ok
+   Updated Date: 26-may-2011
+   Creation Date: 13-feb-2007
+   Expiration Date: 13-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:28:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:35:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,50 +52,54 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- N/A
- 5802 Bob Bullock C1 Unit 328C-195
- Laredo, TX 78041-8813
- US
+ Contact Privacy Inc. Customer 0126741504
+ 96 Mowat Ave
+ Toronto, ON M6K 3M1
+ CA
 
- Domain name: LXUX.COM
+ Domain name: SYAHZUL.COM
 
 
  Administrative Contact:
-    Privacy Advocate, Register4Less  v8El338u@privacyadvocate.org
-    5802 Bob Bullock C1 Unit 328C-195
-    Laredo, TX 78041-8813
-    US
-    +1.5149056500
+    Contact Privacy Inc. Customer 0126741504,   syahzul.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
  Technical Contact:
-    Privacy Advocate, Register4Less  v8El338u@privacyadvocate.org
-    5802 Bob Bullock C1 Unit 328C-195
-    Laredo, TX 78041-8813
-    US
-    +1.5149056500
+    Contact Privacy Inc. Customer 0126741504,   syahzul.com@contactprivacy.com
+    96 Mowat Ave
+    Toronto, ON M6K 3M1
+    CA
+    +1.4165385457
 
 
  Registration Service Provider:
-    Register4less, support@r4l.com
-    (514) 905-6500
-    http://register4less.com
-
+    Netfirms, Inc., support@netfirms.com
+    +1.8663174678
+    +1.7812722915 (fax)
+    http://netfirms.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 01-Aug-2011.
- Record expires on 03-Jul-2013.
- Record created on 03-Jul-2001.
+ Record last updated on 26-May-2011.
+ Record expires on 13-Feb-2012.
+ Record created on 13-Feb-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    NS1.R4L.COM
-    NS2.R4L.COM
+    ART.NS.CLOUDFLARE.COM
+    PAT.NS.CLOUDFLARE.COM
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
+
+
+This domain's privacy is protected by contactprivacy.com. To reach the domain contacts, please go to http://www.contactprivacy.com and follow the instructions.
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

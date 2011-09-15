@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XMLSTATREPORTS.COM
-   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
-   Whois Server: whois.nic.ru
-   Referral URL: http://www.nic.ru
-   Name Server: DNS1.XMLSTATREPORTS.COM
-   Name Server: DNS2.XMLSTATREPORTS.COM
+   Domain Name: WC-SAGA.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
    Status: clientTransferProhibited
-   Updated Date: 01-sep-2011
-   Creation Date: 09-aug-2011
-   Expiration Date: 09-aug-2012
+   Updated Date: 08-dec-2010
+   Creation Date: 04-mar-2010
+   Expiration Date: 04-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:58 UTC &lt;&lt;&lt;
 
@@ -51,40 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-% By submitting a query to RU-CENTER's Whois Service
-% you agree to abide by the following terms of use:
-% http://www.nic.ru/about/servpol.html (in Russian)
-% http://www.nic.ru/about/en/servpol.html (in English).
+GMO Internet, Inc. whois server 2.0
 
-Domain name:             XMLSTATREPORTS.COM
-Name Server:             dns1.xmlstatreports.com 64.120.214.18
-Name Server:             dns2.xmlstatreports.com 64.120.214.18
-Creation Date:           2011.08.09
-Updated Date:            2011.09.02
-Expiration Date:         2012.08.09
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Status:                  DELEGATED
-
-Registrant ID:           L7VXDY3-RU
-Registrant Name:         Olegovich Alexander
-Registrant Organization: Olegovich Alexander
-Registrant Street1:      Knyazheskaya 15
-Registrant City:         Moscow
-Registrant Postal Code:  119332
-Registrant Country:      RU
-
-Administrative, Technical Contact
-Contact ID:              L7VXDY3-RU
-Contact Name:            Olegovich Alexander
-Contact Organization:    Olegovich Alexander
-Contact Street1:         Knyazheskaya 15
-Contact City:            Moscow
-Contact Postal Code:     119332
-Contact Country:         RU
-Contact Phone:           +7 495 1234567
-Contact E-mail:          frolov1985@hotmail.com
-
-Registrar:               Regional Network Information Center, JSC dba RU-CENTER
-
-Last updated on 2011.09.16 00:35:32 MSK/MSD
+Domain Handle: None
+Domain Name: wc-saga.com
+Created On: 2010-03-04 11:09:30.0
+Last Updated On: 2010-12-08 14:17:40.0
+Expiration Date: 2012-03-04 11:09:30.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns0.heteml.jp
+Name Server: dns1.heteml.jp
 

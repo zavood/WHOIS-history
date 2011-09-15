@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: STERILESUPPLIERSOFAMERICA.COM
+   Domain Name: SOFLOORING.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
@@ -17,10 +17,10 @@ for detailed information.
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
    Updated Date: 07-apr-2011
-   Creation Date: 11-jan-2011
-   Expiration Date: 11-jan-2012
+   Creation Date: 24-jan-2011
+   Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:36:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:23:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,57 +81,46 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: STERILESUPPLIERSOFAMERICA.COM
+Domain Name: SOFLOORING.COM
 Registrar: MONIKER
 
-Registrant [3511649]:
-        Moniker Privacy Services STERILESUPPLIERSOFAMERICA.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Registrant [3472758]:
+        Brent Brague servers@amc0.com
+        5348 Vegas Dr #476
+        Las Vegas
+        NV
+        89108
         US
 
 
-Administrative Contact [3511649]:
-        Moniker Privacy Services STERILESUPPLIERSOFAMERICA.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Administrative Contact [3472758]:
+        Brent Brague servers@amc0.com
+        5348 Vegas Dr #476
+        Las Vegas
+        NV
+        89108
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7028669104
 
 
-Billing Contact [3511649]:
-        Moniker Privacy Services STERILESUPPLIERSOFAMERICA.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Billing Contact [3472758]:
+        Brent Brague servers@amc0.com
+        5348 Vegas Dr #476
+        Las Vegas
+        NV
+        89108
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7028669104
 
 
-Technical Contact [3511649]:
-        Moniker Privacy Services STERILESUPPLIERSOFAMERICA.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Technical Contact [3472758]:
+        Brent Brague servers@amc0.com
+        5348 Vegas Dr #476
+        Las Vegas
+        NV
+        89108
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.7028669104
 
 
 Domain servers in listed order:
@@ -141,9 +130,9 @@ Domain servers in listed order:
         NS3.MONIKERDNS.NET         208.73.210.43
         NS4.MONIKERDNS.NET         50.57.11.88
 
-        Record created on:        2011-01-11 13:06:21.0
-        Database last updated on: 2011-04-07 05:54:11.363
-        Domain Expires on:        2012-01-11 13:06:22.0
+        Record created on:        2011-01-24 12:24:48.0
+        Database last updated on: 2011-04-07 07:59:18.183
+        Domain Expires on:        2012-01-24 12:24:49.0
 
 
 
