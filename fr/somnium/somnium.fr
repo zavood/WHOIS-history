@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; somnium.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      somnium.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      ER507-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL22869-FRNIC
+registrar:   EURODNS S.A.
+anniversary: 30/06
+created:     30/06/2008
+last-update: 22/12/2008
+source:      FRNIC
+
+ns-list:     NSL22869-FRNIC
+nserver:     ns1.host-care.com
+nserver:     ns2.host-care.com
+source:      FRNIC
+
+registrar:   EURODNS S.A.
+type:        Isp Option 1
+address:     2 Rue L&eacute;on Laval
+address:     L-3372 LEUDELANGE
+country:     LU
+phone:       +352 26 19 16 1
+e-mail:      staff@eurodns.com
+website:     http://www.eurodns.com
+anonymous:   NO
+registered:  24/09/2003
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     30/06/2008 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ER507-FRNIC
+type:        ROLE
+contact:     EDNS ROLE
+address:     EuroDNS S.A.
+address:     41, z.a. am Bann
+address:     3372 Leudelange
+address:     LU
+e-mail:      dnsfr@admin.eurodns.com
+admin-c:     MM2096-FRNIC
+tech-c:      PYG1-FRNIC
+changed:     15/05/2006 dnsfr@admin.eurodns.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

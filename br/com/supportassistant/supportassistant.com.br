@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 14:01:58 (BRT -03:00)
+
+domain:      supportassistant.com.br
+owner:       ROBERTA FARIAS
+ownerid:     042.721.929-90
+country:     BR
+owner-c:     IVFER21
+admin-c:     IVFER21
+tech-c:      IVFER21
+billing-c:   IVFER21
+nserver:     ns10.hostlocation.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns11.hostlocation.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20110809 #8684273
+expires:     20110809
+changed:     20110823
+status:      on-hold
+
+nic-hdl-br:  IVFER21
+person:      IVANIR DE FERNANDES
+e-mail:      ivanir1955@hotmail.com
+created:     20100428
+changed:     20100428
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

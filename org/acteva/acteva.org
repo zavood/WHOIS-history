@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D110791733-LROR
+Domain Name:ACTEVA.ORG
+Created On:06-Jan-2006 03:27:25 UTC
+Last Updated On:05-Feb-2011 10:50:29 UTC
+Expiration Date:06-Jan-2012 03:27:25 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:7441971a43df5987
+Registrant Name:Lu Cordova
+Registrant Organization:Acteva.com
+Registrant Street1:100 Pine St.
+Registrant Street2:10th Floor
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94111
+Registrant Country:US
+Registrant Phone:+1.4159629000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bhoover@acteva.com
+Admin ID:5904517d3f43c792
+Admin Name:Pankaj Gupta
+Admin Organization:Web2Web Marketing, Inc.
+Admin Street1:60 Spear Street, 9th Floor
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94105
+Admin Country:US
+Admin Phone:+1.4159629026
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:acteva.admin@gmail.com
+Tech ID:0840161182197569
+Tech Name:Brian Hoover
+Tech Organization:Acteva.com
+Tech Street1:60 Spear St
+Tech Street2:9th Floor
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94105
+Tech Country:US
+Tech Phone:+1.4152357574
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:acteva.admin@gmail.com
+Name Server:DNS203.A.REGISTER.COM
+Name Server:DNS065.B.REGISTER.COM
+Name Server:DNS244.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
