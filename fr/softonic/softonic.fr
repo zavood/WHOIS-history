@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; softonic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      softonic.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IS707-FRNIC
+admin-c:     BP751-FRNIC
+tech-c:      TD288-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL14633-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 06/08
+created:     06/08/2004
+last-update: 27/03/2009
+source:      FRNIC
+
+ns-list:     NSL14633-FRNIC
+nserver:     masterdns.softonic.com
+nserver:     dns2.softonic.com
+nserver:     nse.softonic.com
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     BP751-FRNIC
+type:        PERSON
+contact:     Brunswick Philippe
+address:     Brunswick et Associes
+address:     51, avenue Raymond Poincare
+address:     75116 Paris
+country:     FR
+phone:       +33 1 53 65 05 65
+e-mail:      lp-fr@ascio.com
+changed:     05/01/2005 Catherine.Jean@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IS707-FRNIC
+type:        ORGANIZATION
+contact:     Infojobs SL
+address:     San Francesc 4
+address:     Barcelona
+address:     08290 Cerdanyola Del Valles
+country:     ES
+phone:       +34 935920115
+fax-no:      +34 935921826
+e-mail:      cctld@ubilibet.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TD288-FRNIC
+type:        ROLE
+contact:     Tomas Diago
+address:     San Francesc 4
+address:     08290 Cerdanyola del Valles
+country:     ES
+e-mail:      cctld@ubilibet.com
+admin-c:     TD287-FRNIC
+tech-c:      TD287-FRNIC
+changed:     06/08/2004 callback@speednic.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

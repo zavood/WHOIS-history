@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92484268-LROR
+Domain Name:PHISHARE.ORG
+Created On:22-Nov-2002 21:14:00 UTC
+Last Updated On:03-Jun-2011 15:48:58 UTC
+Expiration Date:22-Nov-2012 21:14:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:21983466-NSI
+Registrant Name:PopulationReferenceBureau, Inc.
+Registrant Organization:PopulationReferenceBureau, Inc.
+Registrant Street1:1875 Connecticut Ave., N.W. Su
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20009-5728
+Registrant Country:US
+Registrant Phone:+1.2024831100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jscott@PRB.ORG
+Admin ID:21983467-NSI
+Admin Name:Jim Scott
+Admin Organization:Population Reference Bureau, Inc.
+Admin Street1:1875 Connecticut Ave., NW
+Admin Street2:Suite 520
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20009-5728
+Admin Country:US
+Admin Phone:+1.202939542
+Admin Phone Ext.:
+Admin FAX:+1.202328393
+Admin FAX Ext.:
+Admin Email:jscott@PRB.ORG
+Tech ID:15995535-NSI
+Tech Name:John Davis
+Tech Organization:Population Reference Bureau, Inc.
+Tech Street1:1875 CONNECTICUT AVE NW STE 520
+Tech Street2:
+Tech Street3:
+Tech City:WASHINGTON
+Tech State/Province:DC
+Tech Postal Code:20009-5738
+Tech Country:US
+Tech Phone:+1.2029395469
+Tech Phone Ext.:
+Tech FAX:+1.2023283937
+Tech FAX Ext.:
+Tech Email:jdavis@PRB.ORG
+Name Server:NS63.WORLDNIC.COM
+Name Server:NS64.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

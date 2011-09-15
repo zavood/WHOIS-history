@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      cadamedia.ie
+descr:       Cada Media Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AGY981-IEDR
+tech-c:      AAM456-IEDR
+renewal:     17-April-2012
+status:      Active
+nserver:     ns.thewebguy.ie
+nserver:     ns2.thewebguy.ie
+source:      IEDR
+
+person:      Dave Jordan
+nic-hdl:     AGY981-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

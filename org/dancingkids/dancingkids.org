@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161362224-LROR
+Domain Name:DANCINGKIDS.ORG
+Created On:31-Jan-2011 10:28:34 UTC
+Last Updated On:02-Apr-2011 03:50:25 UTC
+Expiration Date:31-Jan-2012 10:28:34 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2fc2ab7bec311055
+Registrant Name:Harika  Pekinel
+Registrant Organization:D.E Dancing
+Registrant Street1:Wainford Villa
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bromley
+Registrant State/Province:Kent
+Registrant Postal Code:BR2 0QR
+Registrant Country:GB
+Registrant Phone:+44.7710287701
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:harika1106@aol.com
+Admin ID:2fc2ab7bec311055
+Admin Name:Harika  Pekinel
+Admin Organization:D.E Dancing
+Admin Street1:Wainford Villa
+Admin Street2:
+Admin Street3:
+Admin City:Bromley
+Admin State/Province:Kent
+Admin Postal Code:BR2 0QR
+Admin Country:GB
+Admin Phone:+44.7710287701
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:harika1106@aol.com
+Tech ID:2fc2ab7bec311055
+Tech Name:Harika  Pekinel
+Tech Organization:D.E Dancing
+Tech Street1:Wainford Villa
+Tech Street2:
+Tech Street3:
+Tech City:Bromley
+Tech State/Province:Kent
+Tech Postal Code:BR2 0QR
+Tech Country:GB
+Tech Phone:+44.7710287701
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:harika1106@aol.com
+Name Server:NS37.REDBACKINTERNET.NET
+Name Server:NS38.REDBACKINTERNET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

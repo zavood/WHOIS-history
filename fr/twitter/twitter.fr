@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; twitter.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      twitter.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TI584-FRNIC
+admin-c:     DDA49-FRNIC
+tech-c:      MIDT4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7342-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 26/07
+created:     16/03/2007
+last-update: 26/07/2009
+source:      FRNIC
+
+ns-list:     NSL7342-FRNIC
+nserver:     a4.nstld.com
+nserver:     f4.nstld.com
+nserver:     g4.nstld.com
+nserver:     l4.nstld.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     TI584-FRNIC
+type:        ORGANIZATION
+contact:     Twitter, Inc.
+address:     Twitter, Inc.
+address:     539, Bryant Street, Sainte 402
+address:     94107 San Francisco
+country:     US
+phone:       +1 4158962008
+fax-no:      +1 4158962062
+e-mail:      domains@twitter.com
+changed:     08/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DDA49-FRNIC
+type:        PERSON
+contact:     Dbs Domain Admin
+address:     MELBOURNE IT DBS
+address:     52, boulevard de Sebastopol
+address:     75003 Paris
+country:     FR
+phone:       +33 1 53 30 41 02
+e-mail:      admin@melbourneitdbs.com
+changed:     08/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MIDT4-FRNIC
+type:        PERSON
+contact:     Melbourne It Dbs Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6506182574
+e-mail:      tech@melbourneitdbs.com
+changed:     21/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

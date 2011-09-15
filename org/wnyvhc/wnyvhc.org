@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27199938-LROR
+Domain Name:WNYVHC.ORG
+Created On:16-May-2000 16:44:46 UTC
+Last Updated On:14-Mar-2011 14:48:54 UTC
+Expiration Date:16-May-2014 16:44:46 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR4717271
+Registrant Name:Inc. WNYVeteransHousing Coalition
+Registrant Organization:WNYVeteransHousing Coalition, Inc.
+Registrant Street1:1125 Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buffalo
+Registrant State/Province:New York
+Registrant Postal Code:14209
+Registrant Country:US
+Registrant Phone:+1.71688259
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wnyvhc@aol.com
+Admin ID:CR4717273
+Admin Name:Inc. WNY Veterans Housing Coalition
+Admin Street1:25 West Utica Street
+Admin Street2:
+Admin Street3:
+Admin City:Buffalo
+Admin State/Province:New York
+Admin Postal Code:14209
+Admin Country:US
+Admin Phone:+1.7168835935
+Admin Phone Ext.:
+Admin FAX:+1.7168833756
+Admin FAX Ext.:
+Admin Email:cobrien@veteranslifeops.org
+Tech ID:CR4717272
+Tech Name:Inc. WNY Veterans Housing Coalition
+Tech Street1:25 West Utica Street
+Tech Street2:
+Tech Street3:
+Tech City:Buffalo
+Tech State/Province:New York
+Tech Postal Code:14209
+Tech Country:US
+Tech Phone:+1.7168835935
+Tech Phone Ext.:
+Tech FAX:+1.7168833756
+Tech FAX Ext.:
+Tech Email:cobrien@veteranslifeops.org
+Name Server:NS1053.WEBSITEWELCOME.COM
+Name Server:NS1054.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

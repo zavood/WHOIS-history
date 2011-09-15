@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T22:15:27+12:00
+domain_name: cults.co.nz
+query_status: 200 Active
+domain_dateregistered: 2003-10-04T20:32:38+12:00
+domain_datebilleduntil: 2011-11-04T20:32:38+13:00
+domain_datelastmodified: 2010-10-22T00:24:12+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: iSERVE
+registrar_address1: P O Box 47-020
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 939-8502
+registrar_fax: +64 4 939-8501
+registrar_email: soa@iserve.co.nz
+%
+registrant_contact_name: Ian Mander
+registrant_contact_address1: PO Box 49-080
+registrant_contact_city: New Zealand
+registrant_contact_postalcode: 1445
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 21 607707
+registrant_contact_email: edit@cults.co.nz
+%
+admin_contact_name: Ian Mander
+admin_contact_address1: PO BOX 49-080
+admin_contact_city: New Zealand
+admin_contact_postalcode: 1445
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 21 607707
+admin_contact_email: edit@cults.co.nz
+%
+technical_contact_name: Domain Administrator
+technical_contact_address1: PO BOX 31-444
+technical_contact_address2: Lower Hutt
+technical_contact_city: Wellington
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 9151981
+technical_contact_fax: +64 4 9151980
+technical_contact_email: soa@iserve.net.nz
+%
+ns_name_01: ns1.openhost.net.nz
+ns_name_02: ns2.openhost.net.nz
+ns_name_03: ns3.openhost.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129619177-LROR
+Domain Name:WAADOOKODAADING.ORG
+Created On:26-Sep-2006 17:11:06 UTC
+Last Updated On:25-Aug-2011 21:10:50 UTC
+Expiration Date:26-Sep-2011 17:11:06 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:OK
+Registrant ID:CR32423284
+Registrant Name:Rick Rooney
+Registrant Organization:Circle Systems, Inc.
+Registrant Street1:8558N County Rd K
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hayward
+Registrant State/Province:Wisconsin
+Registrant Postal Code:54843
+Registrant Country:US
+Registrant Phone:+1.7156340290
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rick@circlesystemsinc.com
+Admin ID:CR32423286
+Admin Name:Rick Rooney
+Admin Organization:Circle Systems, Inc.
+Admin Street1:8558N County Rd K
+Admin Street2:
+Admin Street3:
+Admin City:Hayward
+Admin State/Province:Wisconsin
+Admin Postal Code:54843
+Admin Country:US
+Admin Phone:+1.7156340290
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rick@circlesystemsinc.com
+Tech ID:CR32423285
+Tech Name:Rick Rooney
+Tech Organization:Circle Systems, Inc.
+Tech Street1:8558N County Rd K
+Tech Street2:
+Tech Street3:
+Tech City:Hayward
+Tech State/Province:Wisconsin
+Tech Postal Code:54843
+Tech Country:US
+Tech Phone:+1.7156340290
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rick@circlesystemsinc.com
+Name Server:NS1.AFRAID.ORG
+Name Server:NS4.AFRAID.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
