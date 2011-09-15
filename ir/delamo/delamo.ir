@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'delamo.ir'
+
+
+domain:		delamo.ir
+ascii:		delamo.ir
+remarks:	(Domain Holder) Mehrdad Moghareh Abed
+remarks:	(Domain Holder Address) No. 10, Masjed Al-Reza St., Sheikh Sadoogh Ave.,, Esfahan, Esfahan, IR
+holder-c:	mm1076-irnic
+admin-c:	mm1076-irnic
+tech-c:		mm1076-irnic
+bill-c:		to52-irnic
+nserver:	ns.netafraz.com
+nserver:	ns2.netafraz.com
+last-updated:	2011-09-14
+source:		IRNIC # Filtered
+
+nic-hdl:	mm1076-irnic
+person:		Mehrdad Moghareh Abed
+e-mail:		mehrdad.abed@gmail.com
+address:	No. 10, Masjed Al-Reza St., Sheikh Sadoogh Ave.,, Esfahan, Esfahan, IR
+phone:		0913 114 6026
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+source:		IRNIC # Filtered
+

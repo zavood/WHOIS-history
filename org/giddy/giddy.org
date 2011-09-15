@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D183165-LROR
+Domain Name:GIDDY.ORG
+Created On:11-Feb-1997 05:00:00 UTC
+Last Updated On:25-Jan-2010 19:01:36 UTC
+Expiration Date:12-Feb-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28621771-NSI
+Registrant Name:Giddy Research
+Registrant Organization:Giddy Research
+Registrant Street1:119 West 82nd Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10024
+Registrant Country:US
+Registrant Phone:+1.21236293
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ian.giddy@NYU.EDU
+Admin ID:27534851-NSI
+Admin Name:Jennifer Giddy
+Admin Organization:giddyonline.com
+Admin Street1:75 Grinnell St
+Admin Street2:P O Box 247
+Admin Street3:
+Admin City:Rhinecliff
+Admin State/Province:NY
+Admin Postal Code:12574
+Admin Country:US
+Admin Phone:+1.9174945408
+Admin Phone Ext.:
+Admin FAX:+1.9174637629
+Admin FAX Ext.:
+Admin Email:jenny.giddy@gmail.com
+Tech ID:5359169-NSI
+Tech Name:Domain Administrator
+Tech Organization:pair Networks
+Tech Street1:2403 Sidney St, Suite 510
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15203
+Tech Country:US
+Tech Phone:+1.4123817247
+Tech Phone Ext.:
+Tech FAX:+1.4123819997
+Tech FAX Ext.:
+Tech Email:domain@pair.com
+Name Server:NS0.NS0.COM
+Name Server:NS10.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

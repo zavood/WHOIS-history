@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; yamaha.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      yamaha.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    YMF6-FRNIC
+admin-c:     JM3802-FRNIC
+tech-c:      DD2582-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2995-FRNIC
+registrar:   Interoute Managed Services France
+anniversary: 22/04
+created:     22/04/1999
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL2995-FRNIC
+nserver:     ns0.eu.dedicatedserver.com
+nserver:     ns1.eu.dedicatedserver.com
+source:      FRNIC
+
+registrar:   Interoute Managed Services France
+type:        Isp Option 1
+address:     34 Rue des Gardinoux
+address:     AUBERVILLIERS CEDEX
+country:     FR
+phone:       +33 1 41 61 45 00
+fax-no:      +33 1 41 61 45 01
+e-mail:      dom-reg@interoute.com
+website:     http://www.interoute.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     YMF6-FRNIC
+type:        ORGANIZATION
+contact:     YAMAHA MUSIQUE FRANCE
+address:     B.P. 70
+address:     77312 Marne la Vallee Cedex 2
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JM3802-FRNIC
+type:        PERSON
+contact:     Jean Mullor
+address:     YAMAHA MUSIQUE FRANCE
+address:     B.P. 70
+address:     77312 Marne la Vallee Cedex 2
+country:     FR
+phone:       +33 1 64 61 40 92
+fax-no:      +33 1 60 06 93 17
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD2582-FRNIC
+type:        ROLE
+contact:     DNS Department
+address:     Interoute Managed Services Switzerland
+address:     Chemin de l'Epinglier 2
+address:     1217 Meyrin
+address:     CH
+phone:       +41 227836000
+e-mail:      dom-reg@interoute.com
+admin-c:     PH5672-FRNIC
+tech-c:      PH5672-FRNIC
+notify:      dom-reg@europe.psi.com
+changed:     18/10/2006 dom-reg@interoute.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

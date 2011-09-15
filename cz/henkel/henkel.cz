@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 17:46:03 2011
+
+domain:       henkel.cz
+registrant:   SB:ACTIVE24-HENKEL
+admin-c:      ACTIVE24-HENKELAG-ADMIN
+nsset:        NSS:HENKELSLAVE
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   10.08.1998 02:00:00
+changed:      22.07.2010 17:35:21
+expire:       27.10.2012
+
+contact:      SB:ACTIVE24-HENKEL
+org:          Henkel AG &amp; Co. KGaA
+name:         Trademark Department
+address:      Henkelstrasse 67
+address:      Duesseldorf
+address:      40589
+address:      DE
+fax-no:       +492.117982465
+e-mail:       admin@internationaladmin.com
+registrar:    REG-ACTIVE24
+created:      19.06.2008 16:47:40
+changed:      23.02.2011 14:26:52
+
+contact:      ACTIVE24-HENKELAG-ADMIN
+org:          Henkel AG &amp; Co. KGaA
+name:         Joachim Renner
+address:      Henkelstrasse 67
+address:      Duesseldorf
+address:      40589
+address:      DE
+e-mail:       domainadmin@henkel.com
+registrar:    REG-ACTIVE24
+created:      19.06.2008 16:50:30
+
+nsset:        NSS:HENKELSLAVE
+nserver:      hh-ns01.henkel.de
+nserver:      sbdns3.cscdns.net
+tech-c:       ACTIVE24-HENKELTECH2
+registrar:    REG-ACTIVE24
+created:      29.09.2008 12:42:01
+
+contact:      ACTIVE24-HENKELTECH2
+org:          Henkel AG &amp; Co. KGaA
+name:         IT Department
+address:      Henkelstrasse 67
+address:      Duesseldorf
+address:      40589
+address:      DE
+e-mail:       dns-tech@henkel.com
+registrar:    REG-ACTIVE24
+created:      29.09.2008 12:34:29
+
+

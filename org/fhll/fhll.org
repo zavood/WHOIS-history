@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83938960-LROR
+Domain Name:FHLL.ORG
+Created On:25-Feb-2002 03:25:21 UTC
+Last Updated On:01-Feb-2008 01:55:50 UTC
+Expiration Date:25-Feb-2013 03:25:21 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-8WVAJWYYV54F
+Registrant Name:Larry Berkowitz
+Registrant Organization:Forest Hills Youth Activities Association
+Registrant Street1:66-01 Fleet Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Forest Hills
+Registrant State/Province:New York
+Registrant Postal Code:11375
+Registrant Country:US
+Registrant Phone:+1.7185442296
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:larry@fhyaa.com
+Admin ID:DOT-XD02D0NJ7UNQ
+Admin Name:Michael Polikoff
+Admin Organization:Forest Hills Youth Activities Association
+Admin Street1:66-01 Fleet Street
+Admin Street2:
+Admin Street3:
+Admin City:Forest Hills
+Admin State/Province:New York
+Admin Postal Code:11375
+Admin Country:US
+Admin Phone:+1.7185442296
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fhll_email@yahoo.com
+Tech ID:DOT-YJ512EKKPRDH
+Tech Name:Michael Polikoff
+Tech Organization:Forest Hills Youth Activities Association
+Tech Street1:66-01 Fleet Street
+Tech Street2:
+Tech Street3:
+Tech City:Forest Hills
+Tech State/Province:New York
+Tech Postal Code:11375
+Tech Country:US
+Tech Phone:+1.7185442296
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fhll_email@yahoo.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
