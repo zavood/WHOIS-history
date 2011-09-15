@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOSS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: ACTIVE-NS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.CATALYST2.NET
+   Name Server: NS2.CATALYST2.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2003
-   Expiration Date: 14-nov-2011
+   Updated Date: 25-aug-2010
+   Creation Date: 04-dec-2002
+   Expiration Date: 04-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:56:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:56:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about active-ns.com
+&lt;a href=&quot;http://www.aboutus.org/active-ns.com&quot;&gt;AboutUs: active-ns.com&lt;/a&gt;
+
+
+Domain name: active-ns.com
+
+Administrative Contact:
+   catalyst2
+   Paul Redpath (domains@catalyst2.com)
+   +44.08001077979
+   Fax: +44.08452804993
+   79 Chichester Street
+   Belfast, GB BT1 4JE
+   GB
+
+Technical Contact:
+   catalyst2
+   Paul Redpath (domains@catalyst2.com)
+   +44.08001077979
+   Fax: +44.08452804993
+   79 Chichester Street
+   Belfast, GB BT1 4JE
+   GB
+
+Registrant Contact:
+   catalyst2
+   Paul Redpath ()
+
+   Fax:
+   79 Chichester Street
+   Belfast, GB BT1 4JE
+   GB
+
+Status: Locked
+
+Name Servers:
+   NS1.CATALYST2.NET
+   NS2.CATALYST2.NET
+
+Creation date: 04 Dec 2002 15:33:00
+Expiration date: 04 Dec 2014 15:33:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

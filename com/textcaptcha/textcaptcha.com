@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOSS.COM
+   Domain Name: TEXTCAPTCHA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
@@ -13,11 +13,11 @@ for detailed information.
    Name Server: NS2.123-REG.CO.UK
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2003
-   Expiration Date: 14-nov-2011
+   Updated Date: 14-jul-2010
+   Creation Date: 06-sep-2006
+   Expiration Date: 06-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:56:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:51:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

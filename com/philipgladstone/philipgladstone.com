@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOSS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: PHILIPGLADSTONE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.PHILIPGLADSTONE.COM
+   Name Server: NS2.PHILIPGLADSTONE.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2003
-   Expiration Date: 14-nov-2011
+   Updated Date: 15-may-2011
+   Creation Date: 17-may-2005
+   Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:56:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:57:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... philipgladstone.com
+  Creation Date........ 2005-05-17
+  Registration Date.... 2005-05-17
+  Expiry Date.......... 2012-05-17
+  Organisation Name.... Lycos, Inc.
+  Organisation Address. PO Box 300
+  Organisation Address.
+  Organisation Address. New Milford
+  Organisation Address. 06776
+  Organisation Address. CT
+  Organisation Address. UNITED STATES
+
+Admin Name........... Philip Gladstone
+  Admin Address........ PO Box 300
+  Admin Address........
+  Admin Address........ New Milford
+  Admin Address........ 06776
+  Admin Address........ CT
+  Admin Address........ UNITED STATES
+  Admin Email.......... gladstonefinearts@charter.net
+  Admin Phone.......... 8603542060
+  Admin Fax............
+
+Tech Name............ Lycos Domains NIC
+  Tech Address......... 100 Fifth Ave
+  Tech Address.........
+  Tech Address......... Waltham
+  Tech Address......... 02451
+  Tech Address......... MA
+  Tech Address......... UNITED STATES
+  Tech Email........... nic@domains.lycos.com
+  Tech Phone........... +1.7813702700
+  Tech Fax.............
+  Name Server.......... ns1.philipgladstone.com
+  Name Server.......... ns2.philipgladstone.com
+
+

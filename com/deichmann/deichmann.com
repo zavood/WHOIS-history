@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NEOSS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2003
-   Expiration Date: 14-nov-2011
+   Domain Name: DEICHMANN.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.ARCOR-IP.DE
+   Name Server: NS2.ARCOR-IP.DE
+   Name Server: NS3.ARCOR-IP.DE
+   Status: ok
+   Updated Date: 01-dec-2010
+   Creation Date: 01-dec-1994
+   Expiration Date: 30-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:56:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:53:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Heinrich Deichmann Schuhe GmbH u. Co (HEINRICH739)
+  Boehnertweg 9
+
+  Essen, , 45359
+  DE
+
+  Domain name: deichmann.com
+
+Technical contact:
+  Domain Registry, Arcor (DD467)
+  Arcor AG u. Co. KG
+  Otto-Volger-Str. 19
+
+  Sulzbach, NRW, 65843
+  DE
+  ip-registry@arcor.net
+  +49.2118527278 Fax: +49.2118527270
+
+Administrative contact:
+  Lakeit, Peter (PL1596)
+  Heinrich Deichmann Schuhe GmbH u. Co
+  Boehnertweg 9
+
+  Essen, 45359
+  DE
+  peter.lakeit@DEICHMANN.COM
+  +49.20186760 Fax: +49.201867649835
+
+Record created:           2005-09-01 14:26:01
+Record last updated:      2005-09-02 07:51:43
+Record expires:           2011-11-30 00:00:00
+
+Domain servers in listed order:
+  ns1.arcor-ip.de (NSARCORI406)
+  ns2.arcor-ip.de (NSARCORI425)
+  ns3.arcor-ip.de (NSARCORI41)
