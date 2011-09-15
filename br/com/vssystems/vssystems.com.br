@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 09:00:19 (BRT -03:00)
+
+domain:      vssystems.com.br
+owner:       FELIPE LOPES ARAUJO DE SOUZA
+ownerid:     009.322.468/0001-77
+responsible: Felipe Souza
+country:     BR
+owner-c:     FLS56
+admin-c:     FLS56
+tech-c:      FLS56
+billing-c:   FLS56
+nserver:     ns1.vssystems.com.br 200.219.214.4
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.vssystems.com.br 200.219.214.5
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20080213 #4236298
+expires:     20120213
+changed:     20110424
+status:      published
+
+nic-hdl-br:  FLS56
+person:      Felipe Lopes Araujo de Souza
+e-mail:      kanury9@hotmail.com
+created:     19990827
+changed:     20080212
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

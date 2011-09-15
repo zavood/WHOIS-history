@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105681177-LROR
+Domain Name:WIRELESS-SPEAKERS.ORG
+Created On:04-Feb-2005 16:16:29 UTC
+Last Updated On:27-Jul-2011 21:07:46 UTC
+Expiration Date:04-Feb-2012 16:16:29 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DN-1171734
+Registrant Name:Anjana Chalise
+Registrant Organization:iBrizInteractive
+Registrant Street1:2612 Painted Rock Drive
+Registrant Street2:2612 Painted Rock Drive
+Registrant Street3:2612 Painted Rock Drive
+Registrant City:Santa Clara
+Registrant State/Province:CA
+Registrant Postal Code:95051
+Registrant Country:US
+Registrant Phone:+1.6504928295
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bjyanj@gmail.com
+Admin ID:DN-1171734
+Admin Name:Anjana Chalise
+Admin Organization:iBrizInteractive
+Admin Street1:2612 Painted Rock Drive
+Admin Street2:2612 Painted Rock Drive
+Admin Street3:2612 Painted Rock Drive
+Admin City:Santa Clara
+Admin State/Province:CA
+Admin Postal Code:95051
+Admin Country:US
+Admin Phone:+1.6504928295
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bjyanj@gmail.com
+Tech ID:DN-1171734
+Tech Name:Anjana Chalise
+Tech Organization:iBrizInteractive
+Tech Street1:2612 Painted Rock Drive
+Tech Street2:2612 Painted Rock Drive
+Tech Street3:2612 Painted Rock Drive
+Tech City:Santa Clara
+Tech State/Province:CA
+Tech Postal Code:95051
+Tech Country:US
+Tech Phone:+1.6504928295
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bjyanj@gmail.com
+Name Server:NS2.HIPNEO.COM
+Name Server:NS1.HIPNEO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

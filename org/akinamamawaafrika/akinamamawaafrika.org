@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158131064-LROR
+Domain Name:AKINAMAMAWAAFRIKA.ORG
+Created On:19-Jan-2010 14:05:14 UTC
+Last Updated On:10-Jan-2011 10:05:16 UTC
+Expiration Date:19-Jan-2012 14:05:14 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40607334
+Registrant Name:Peter Klu
+Registrant Organization:Digitalix Inc.
+Registrant Street1:8710 Brae Brooke Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lanham
+Registrant State/Province:Maryland
+Registrant Postal Code:20706
+Registrant Country:US
+Registrant Phone:+1.2403618665
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@mydigitalix.com
+Admin ID:CR40607336
+Admin Name:Peter Klu
+Admin Organization:Digitalix Inc.
+Admin Street1:8710 Brae Brooke Dr
+Admin Street2:
+Admin Street3:
+Admin City:Lanham
+Admin State/Province:Maryland
+Admin Postal Code:20706
+Admin Country:US
+Admin Phone:+1.2403618665
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@mydigitalix.com
+Tech ID:CR40607335
+Tech Name:Peter Klu
+Tech Organization:Digitalix Inc.
+Tech Street1:8710 Brae Brooke Dr
+Tech Street2:
+Tech Street3:
+Tech City:Lanham
+Tech State/Province:Maryland
+Tech Postal Code:20706
+Tech Country:US
+Tech Phone:+1.2403618665
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@mydigitalix.com
+Name Server:NS1128.WEBSITEWELCOME.COM
+Name Server:NS1127.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

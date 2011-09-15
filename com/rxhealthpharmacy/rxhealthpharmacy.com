@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-apr-2011
    Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 22:26:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:58:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,6 +118,6 @@ billing-phone: 31.104622266
 billing-fax: 31.104622266
 billing-email: lab@mailti.com
 
-nameserver: ns1.rxhealthpharmacy.com 218.86.115.243
-nameserver: ns2.rxhealthpharmacy.com 218.75.172.53
+nameserver: ns1.rxhealthpharmacy.com 61.153.66.134
+nameserver: ns2.rxhealthpharmacy.com 218.24.6.66
 
