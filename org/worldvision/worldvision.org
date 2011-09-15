@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1052951-LROR
+Domain Name:WORLDVISION.ORG
+Created On:10-Apr-1996 04:00:00 UTC
+Last Updated On:10-Jan-2011 23:15:14 UTC
+Expiration Date:11-Apr-2020 04:00:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOTR-00305166
+Registrant Name:World Vision
+Registrant Organization:World Vision Inc.
+Registrant Street1:P.O. Box 9716
+Registrant Street2:
+Registrant Street3:
+Registrant City:Federal Way
+Registrant State/Province:WA
+Registrant Postal Code:98063
+Registrant Country:US
+Registrant Phone:+1.2538151000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:worldvisionadmin@worldvision.org
+Admin ID:DOTC-01248793
+Admin Name:World Vision
+Admin Organization:World Vision Inc.
+Admin Street1:P.O. Box 9716
+Admin Street2:
+Admin Street3:
+Admin City:Federal Way
+Admin State/Province:WA
+Admin Postal Code:98063
+Admin Country:US
+Admin Phone:+1.2538151000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:worldvisionadmin@worldvision.org
+Tech ID:DOTC-01248797
+Tech Name:World Vision
+Tech Organization:World Vision Inc.
+Tech Street1:P.O. Box 9716
+Tech Street2:
+Tech Street3:
+Tech City:Federal Way
+Tech State/Province:WA
+Tech Postal Code:98063
+Tech Country:US
+Tech Phone:+1.2538151000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:worldvisionadmin@worldvision.org
+Name Server:PDNS1.ULTRADNS.NET
+Name Server:PDNS2.ULTRADNS.NET
+Name Server:PDNS3.ULTRADNS.ORG
+Name Server:PDNS4.ULTRADNS.ORG
+Name Server:PDNS5.ULTRADNS.INFO
+Name Server:PDNS6.ULTRADNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

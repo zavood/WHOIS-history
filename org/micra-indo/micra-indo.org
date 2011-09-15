@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D142862379-LROR
+Domain Name:MICRA-INDO.ORG
+Created On:04-Apr-2007 03:29:57 UTC
+Last Updated On:08-Apr-2011 03:13:11 UTC
+Expiration Date:04-Apr-2012 03:29:57 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-2747852-4
+Registrant Name:Hostmaster Net2Cyber
+Registrant Organization:PT. Net2Cyber Indonesia
+Registrant Street1:Kawasan Mega Kuningan Lot.5.1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jakarta
+Registrant State/Province:Jakarta
+Registrant Postal Code:12950
+Registrant Country:ID
+Registrant Phone:+62.215761234
+Registrant Phone Ext.:
+Registrant FAX:+62.215762345
+Registrant FAX Ext.:
+Registrant Email:hostmaster@net2cyber.net
+Admin ID:ONLC-2747852-1
+Admin Name:Hostmaster Net2Cyber
+Admin Organization:PT. Net2Cyber Indonesia
+Admin Street1:Kawasan Mega Kuningan Lot.5.1
+Admin Street2:
+Admin Street3:
+Admin City:Jakarta
+Admin State/Province:Jakarta
+Admin Postal Code:12950
+Admin Country:ID
+Admin Phone:+62.215761234
+Admin Phone Ext.:
+Admin FAX:+62.215762345
+Admin FAX Ext.:
+Admin Email:hostmaster@net2cyber.net
+Tech ID:ONLC-2747852-2
+Tech Name:Hostmaster Net2Cyber
+Tech Organization:PT. Net2Cyber Indonesia
+Tech Street1:Kawasan Mega Kuningan Lot.5.1
+Tech Street2:
+Tech Street3:
+Tech City:Jakarta
+Tech State/Province:Jakarta
+Tech Postal Code:12950
+Tech Country:ID
+Tech Phone:+62.215761234
+Tech Phone Ext.:
+Tech FAX:+62.215762345
+Tech FAX Ext.:
+Tech Email:hostmaster@net2cyber.net
+Name Server:DNS1.MASTERWEBNET.COM
+Name Server:DNS2.MASTERWEBNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129778475-LROR
+Domain Name:HCIFONLINE.ORG
+Created On:30-Sep-2006 02:45:30 UTC
+Last Updated On:01-Sep-2011 08:38:18 UTC
+Expiration Date:30-Sep-2012 02:45:30 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GODA-023874567
+Registrant Name:HCIF Webmaster
+Registrant Organization:The Health Care Improvement Foundation
+Registrant Street1:1835 Market Street
+Registrant Street2:Suite 1050
+Registrant Street3:
+Registrant City:Philadelphia
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:19103
+Registrant Country:US
+Registrant Phone:+1.2155632444
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@hcifonline.org
+Admin ID:GODA-223874567
+Admin Name:HCIF Webmaster
+Admin Organization:The Health Care Improvement Foundation
+Admin Street1:1835 Market Street
+Admin Street2:Suite 1050
+Admin Street3:
+Admin City:Philadelphia
+Admin State/Province:Pennsylvania
+Admin Postal Code:19103
+Admin Country:US
+Admin Phone:+1.2155632444
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@hcifonline.org
+Tech ID:GODA-123874567
+Tech Name:HCIF Webmaster
+Tech Organization:The Health Care Improvement Foundation
+Tech Street1:1835 Market Street
+Tech Street2:Suite 1050
+Tech Street3:
+Tech City:Philadelphia
+Tech State/Province:Pennsylvania
+Tech Postal Code:19103
+Tech Country:US
+Tech Phone:+1.2155632444
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@hcifonline.org
+Name Server:NS2.FORUMONE.COM
+Name Server:NS.FORUMONE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

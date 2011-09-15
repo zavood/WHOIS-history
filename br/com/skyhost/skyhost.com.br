@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 08:08:12 (BRT -03:00)
+
+domain:      skyhost.com.br
+owner:       SkyHost Web Hosting Services
+ownerid:     072.971.399-71
+country:     BR
+owner-c:     ANLME39
+admin-c:     ANLME39
+tech-c:      ANLME39
+billing-c:   ANLME39
+nserver:     ns1.skyhost.com.br 74.63.237.247
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.skyhost.com.br 74.63.237.248
+nsstat:      20110914 AA
+nslastaa:    20110914
+saci:        yes
+created:     20101101 #7521434
+expires:     20121101
+changed:     20110914
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  ANLME39
+person:      Andr&iquest; Luiz de Mello
+e-mail:      skyhostweb@gmail.com
+created:     20101101
+changed:     20110109
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
