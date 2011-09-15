@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
+   Domain Name: BITTEK.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: DNS1.IIDNS.COM
+   Name Server: DNS2.IIDNS.COM
+   Name Server: DNS3.IIDNS.COM
+   Name Server: DNS4.IIDNS.COM
+   Name Server: DNS5.IIDNS.COM
+   Name Server: DNS6.IIDNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Updated Date: 20-jul-2011
+   Creation Date: 23-jul-2000
+   Expiration Date: 23-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +56,54 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : bittek.com
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Registrant Contact Information :
+Zhuang Xiaobo
+Bittek Systems, Inc.
+info@bitinfo.com
+67 Xuefu Road, 212003
+tel: 86 051185118400
+fax: 86 051188888530
 
-Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+Administrative Contact Information :
+Zhuang Xiaobo
+Bittek Systems, Inc.
+info@bitinfo.com
+67 Xuefu Road, 212003
+tel: 86 051185118400
+fax: 86 051188888530
 
-   Domain Name: MULEPELADA.NET
+Technical Contact Information :
+Zhuang Xiaobo
+Bittek Systems, Inc.
+info@bitinfo.com
+67 Xuefu Road, 212003
+tel: 86 051185118400
+fax: 86 051188888530
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+Billing Contact Information :
+Zhuang Xiaobo
+Bittek Systems, Inc.
+info@bitinfo.com
+67 Xuefu Road, 212003
+tel: 86 051185118400
+fax: 86 051188888530
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
+Status :
+clientDeleteProhibited
+clientTransferProhibited
 
-   Domain servers in listed order:
+Domain Name Server :
+dns1.iidns.com
+dns2.iidns.com
+dns3.iidns.com
+dns4.iidns.com
+dns5.iidns.com
+dns6.iidns.com
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
+Registration Date :2000-7-23
+Expiration Date : 2012-7-23
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+For more information, please go to http://whois.ename.com.
 

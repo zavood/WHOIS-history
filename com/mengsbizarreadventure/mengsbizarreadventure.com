@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Domain Name: MENGSBIZARREADVENTURE.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
+   Status: ok
+   Updated Date: 29-may-2011
+   Creation Date: 02-nov-2007
+   Expiration Date: 02-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+  Steven Loh (520035)
+  50 Adelaide Gardens
+  Romford
+  London, , rm6
+  GB
 
-   Domain Name: MULEPELADA.NET
+  Domain name: mengsbizarreadventure.com
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+Administrative and Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
 
-   Domain servers in listed order:
+Record created:           2008-10-26 17:41:55
+Record last updated:      2011-05-29 15:31:42
+Record expires:           2011-11-03 00:00:00
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
-
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+Domain servers in listed order:
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)

@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:02:31 2011
+
+domain:       fabric.cz
+registrant:   SB:CAM597-20000522S
+admin-c:      STE597-20000522P
+nsset:        NSS:MPS-RS:8
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   23.05.2000 19:11:00
+changed:      23.06.2006 05:05:00
+expire:       23.05.2012
+
+contact:      SB:CAM597-20000522S
+org:          C.M.R. s.r.o.
+name:         C.M.R. s.r.o.
+address:      Plyn&Atilde;&iexcl;rn&Atilde;&shy; 7
+address:      Ostrava - Moravsk&Atilde;&iexcl; Ostrava
+address:      702 00
+address:      CZ
+e-mail:       nexus@vol.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+
+contact:      STE597-20000522P
+name:         Vladimir Stefek
+address:      30.dubna 2/B
+address:      Ostrava
+address:      70200
+address:      CZ
+phone:        +420 602713557
+fax-no:       +420 596111535
+e-mail:       nexus@vol.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MPS-RS:8
+nserver:      ns2.pes.cz
+nserver:      dns2.pes.cz
+tech-c:       RS_MPS
+tech-c:       SB:MPS-RS
+registrar:    REG-MEDIA4WEB
+created:      01.10.2007 02:00:00
+
+contact:      RS_MPS
+name:         Robert Sebek
+address:      CZ
+phone:        +420.552305305
+e-mail:       robert.sebek@ha-vel.cz
+registrar:    REG-HAVEL
+created:      10.08.2001 22:13:00
+changed:      05.12.2006 16:05:00
+
+contact:      SB:MPS-RS
+org:          ha-vel family s.r.o.
+name:         ha-vel family s.r.o.
+address:      K&Aring;™i&Aring;&iexcl;&Aring;&yen;anova 1049/15
+address:      Ostrava - P&Aring;™&Atilde;&shy;voz
+address:      702 00
+address:      CZ
+e-mail:       sebek@ha-vel.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      13.02.2004 09:35:00
+
+

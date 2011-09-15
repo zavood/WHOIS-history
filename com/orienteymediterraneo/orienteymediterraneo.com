@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Domain Name: ORIENTEYMEDITERRANEO.COM
+   Registrar: NOMINALIA INTERNET S.L.
+   Whois Server: whois.nominalia.com
+   Referral URL: http://www.nominalia.com
+   Name Server: DNS1.NOMINALIA.COM
+   Name Server: DNS2.NOMINALIA.COM
+   Status: ok
+   Updated Date: 18-oct-2010
+   Creation Date: 31-oct-2006
+   Expiration Date: 31-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
 
@@ -52,48 +52,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+NOMINALIA INTERNET S.L. - Whois Server Version 1.4
 
-Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-   Domain Name: MULEPELADA.NET
+     Domain name: ORIENTEYMEDITERRANEO.COM
+     Created on: 2007-05-28
+     Updated on: 2011-01-20
+     Expires on: 2011-10-31
+     Registrant Name: FERNANDO GARCIA
+     Contact: Fernando Garcia
+     Registrant Address: C/Prado Luis, 11
+     Registrant City: Guadarrama
+     Registrant Postal Code: 28440
+     Registrant Country: ES
+     Administrative Contact Organization: ediciones del oriente y del mediterraneo s.l.
+     Administrative Contact Name: Fernando Garcia null
+     Administrative Contact Address: C/Prado Luis, 11
+     Administrative Contact City: Guadarrama
+     Administrative Contact Postal Code: 28440
+     Administrative Contact Country: ES
+     Administrative Contact Email: sicamor@teleline.es
+     Administrative Contact Tel: +34 918543428
+     Administrative Contact Fax: +34 918548352
+     Technical Contact Organization: Nominalia Internet, S.L.
+     Technical Contact Name:
+     Technical Contact Address: Josep Pla, 2. Torres Diagonal Litoral. Edificio B3, planta 3-D
+     Technical Contact City: Barcelona
+     Technical Contact Postal Code: E-08019
+     Technical Contact Country: ES
+     Technical Contact Email: payment@nominalia.com
+     Technical Contact Phone: +34.935074360
+     Technical Contact Fax: +34.933102360
+     Primary Name Server Hostname: DNS1.NOMINALIA.COM
+     Secondary Name Server Hostname: DNS2.NOMINALIA.COM
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
-
-   Domain servers in listed order:
-
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
-
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:10:52 2011 &lt;&lt;&lt;
 

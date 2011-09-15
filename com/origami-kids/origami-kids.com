@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
+   Domain Name: ORIGAMI-KIDS.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.VICTORTORREALBA.COM
+   Name Server: NS2.VICTORTORREALBA.COM
    Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Updated Date: 17-jul-2011
+   Creation Date: 08-dec-2006
+   Expiration Date: 31-dec-2019
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:03:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
 
-Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+Domain name: origami-kids.com
 
-   Domain Name: MULEPELADA.NET
+Registrant Contact:
+   Victor Torrealba
+   NA NA ()
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+   Fax:
+   Urb. Lomas del Este,  Edif.  Norma,  PH2
+   Valencia, CARABOBO 0123
+   VE
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
+Administrative Contact:
+   NA
+   Victor Torrealba (vtorreal@hotmail.com)
+   +58.02418595593
+   Fax:
+   Urb. Lomas del Este,  Edif.  Norma,  PH2
+   Valencia, CARABOBO 0123
+   VE
 
-   Domain servers in listed order:
+Technical Contact:
+   NA
+   Victor Torrealba (vtorreal@hotmail.com)
+   +58.02418595593
+   Fax:
+   Urb. Lomas del Este,  Edif.  Norma,  PH2
+   Valencia, CARABOBO 0123
+   VE
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
+Status: Locked
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
+Name Servers:
+   ns1.victortorrealba.com
+   ns2.victortorrealba.com
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+Creation date: 08 Dec 2006 14:39:00
+Expiration date: 01 Jan 2020 04:59:00
 
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

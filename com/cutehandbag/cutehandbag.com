@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Domain Name: CUTEHANDBAG.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
+   Status: ok
+   Updated Date: 24-mar-2011
+   Creation Date: 05-oct-2004
+   Expiration Date: 05-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
 
@@ -52,48 +52,51 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+   WebContents, Inc. (www.WebContents.com)
+   106 West Calendar Court
+   Suite 141
+   La Grange, IL  60525
+   US
 
-   Domain Name: MULEPELADA.NET
+   Registrar: DOTSTER
+   Domain Name: CUTEHANDBAG.COM
+      Created on: 06-OCT-04
+      Expires on: 06-OCT-11
+      Last Updated on: 24-MAR-11
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+   Administrative, Technical Contact:
+      Management, Domain  Support@WebContents.com
+      WebContents, Inc. (www.WebContents.com)
+      106 West Calendar Court
+      Suite 141
+      La Grange, IL  60525
+      US
+      877-877-3053
+      708-444-0642
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
 
    Domain servers in listed order:
+      NS1.BODIS.COM
+      NS2.BODIS.COM
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
-
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+End of Whois Information

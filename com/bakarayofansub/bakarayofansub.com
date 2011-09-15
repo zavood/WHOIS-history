@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
+   Domain Name: BAKARAYOFANSUB.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.DOMINIOS.UOL.COM.BR
+   Name Server: NS2.DOMINIOS.UOL.COM.BR
+   Name Server: NS3.DOMINIOS.UOL.COM.BR
    Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Updated Date: 24-sep-2010
+   Creation Date: 24-sep-2010
+   Expiration Date: 24-sep-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
 
@@ -51,49 +52,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% UOL HOST whois server
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Searching for bakarayofansub.com.  Found 1 record(s) matching bakarayofansub.com.
+
+Domain:              bakarayofansub.com
+Nameserver:          ns1.dominios.uol.com.br
+Nameserver:          ns2.dominios.uol.com.br
+Nameserver:          ns3.dominios.uol.com.br
+Created:             20100924
+Updated:             20100924
 
 Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
 
-   Domain Name: MULEPELADA.NET
+Name:                Valdir Pazeti de oliveira
+Organization:        Valdir Pazeti de oliveira
+E-mail:              neiji.hyuuga@uol.com.br
+Address:             AVENIDA PRESIDENTE KENNEDY 4385 null
+Address:             11702200
+Address:             PRAIA GRANDE - SP
+Phone:               55 13 35968020
+Country:             BRASIL
+Created:             20100925
+Updated:             20100925
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+Administrative Contact:
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
+Name:                Valdir Pazeti de oliveira
+Organization:        Valdir Pazeti de oliveira
+E-mail:              neiji.hyuuga@uol.com.br
+Address:             AVENIDA PRESIDENTE KENNEDY 4385 null
+Address:             11702200
+Address:             PRAIA GRANDE - SP
+Phone:               55 13 35968020
+Country:             BRASIL
+Created:             20100925
+Updated:             20100925
 
-   Domain servers in listed order:
+Technical Contact:
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
-
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+Name:                Valdir Pazeti de oliveira
+Organization:        Valdir Pazeti de oliveira
+E-mail:              neiji.hyuuga@uol.com.br
+Address:             AVENIDA PRESIDENTE KENNEDY 4385 null
+Address:             11702200
+Address:             PRAIA GRANDE - SP
+Phone:               55 13 35968020
+Country:             BRASIL
+Created:             20100925
+Updated:             20100925
 

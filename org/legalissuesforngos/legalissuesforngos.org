@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98276934-LROR
+Domain Name:LEGALISSUESFORNGOS.ORG
+Created On:21-Jun-2003 09:56:17 UTC
+Last Updated On:16-Jun-2011 12:22:58 UTC
+Expiration Date:21-Jun-2012 09:56:17 UTC
+Sponsoring Registrar:Net 4 India Limited (R1434-LROR)
+Status:OK
+Registrant ID:10686501846670
+Registrant Name:ZION COMPUTERS PRIVATE LIMITED
+Registrant Street1:qweqw
+Registrant Street2:
+Registrant Street3:
+Registrant City:qwewq
+Registrant State/Province:DE
+Registrant Postal Code:201301
+Registrant Country:IN
+Registrant Phone:+91.911202546732
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:renu@fmsfindia.org
+Admin ID:10686501849710
+Admin Name:Renu Relan
+Admin Street1:A-5, Sector 26
+Admin Street2:
+Admin Street3:
+Admin City:NOIDA
+Admin State/Province:UP
+Admin Postal Code:201 301
+Admin Country:IN
+Admin Phone:+91.911202546732
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:renu@fmsfindia.org
+Tech ID:10686501856370
+Tech Name:Renu Relan
+Tech Street1:A-5, Sector 26
+Tech Street2:
+Tech Street3:
+Tech City:NOIDA
+Tech State/Province:UP
+Tech Postal Code:201 301
+Tech Country:IN
+Tech Phone:+91.911202546732
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:renu@fmsfindia.org
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

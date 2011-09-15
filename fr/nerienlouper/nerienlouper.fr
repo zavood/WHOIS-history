@@ -1,0 +1,85 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; nerienlouper.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nerienlouper.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ET1155-FRNIC
+admin-c:     ET1155-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2731-FRNIC
+registrar:   NAMEBAY
+anniversary: 31/03
+created:     31/03/2009
+last-update: 25/06/2010
+source:      FRNIC
+
+ns-list:     NSL2731-FRNIC
+nserver:     dns1.namebay.com
+nserver:     dns2.namebay.com
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     ET1155-FRNIC
+type:        PERSON
+contact:     Edouard Tiran
+address:     4, rue Isaac Jogues
+address:     45000 Orl&eacute;ans
+country:     FR
+phone:       +33 6 19 10 07 44
+e-mail:      namebay@infomaniak.ch
+changed:     31/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

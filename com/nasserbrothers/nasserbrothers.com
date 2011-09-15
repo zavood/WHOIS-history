@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MULEPELADA.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.VELCOM.COM
-   Name Server: NS2.VELCOM.COM
-   Status: clientTransferProhibited
-   Updated Date: 16-dec-2010
-   Creation Date: 19-feb-2010
-   Expiration Date: 19-feb-2012
+   Domain Name: NASSERBROTHERS.COM
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://domains.omnis.com
+   Name Server: NS5.PEXSOL.NET
+   Name Server: NS6.PEXSOL.NET
+   Status: ok
+   Updated Date: 17-sep-2010
+   Creation Date: 24-sep-2009
+   Expiration Date: 24-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:01:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,48 +52,60 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Omnis Network, LLC's WHOIS data is provided for information and reference
+only. Omnis Network, LLC makes no guarantee or warranty that the data
+available is accurate. You agree that the data will not be used under any
+circumstances to allow, enable, or otherwise support the transmission by
+email, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitation. You agree not to enable high volume,
+automated, electronic processes that submit queries to Omnis Network, LLC
+or send data to the systems of any Registry operator or ICANN-Accredited
+registrar. Compilation, repackaging, dissemination or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is
+not allowed without prior written permission of Omnis Network, LLC. By
+submitting this query, you agree to be bound by these terms.
 
-Registrant:
-   Luiz Henrique de Castro
-   Rua Quito, 410 ap 406
-   Penha
-   Rio de Janeiro, RJ 21020330
-   BR
+Whois Output for: nasserbrothers.com
 
-   Domain Name: MULEPELADA.NET
+Domain Name Owner:
+  Pexsol Interactive
+  28-C, M1, 'A' Street, Saba Commercial Area,Defence Phase 5
+  Karachi, Sindh 75500
+  PK
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Luiz Henrique de Castro
-      Rua Quito, 410 ap 406
-      Penha
-      Rio de Janeiro, RJ 21020330
-      BR
-      55-21-93312590
-      whois@emailaddressprotection.com
-   ** VISIT http://www.emailaddressprotection.com **
+Administrative Contact:
+  Paracha, Kamran
+  Pexsol Interactive
+  28-C, M1, 'A' Street, Saba Commercial Area,Defence Phase 5
+  Karachi, Sindh 75500, PK
+  Phone: +92.215341292
+  Fax:   +92.8318512416
+  Email: kparacha@pexsol.com
 
-   Domain created on 19-Feb-2010
-   Domain expires on 19-Feb-2012
-   Last updated on 15-Dec-2010
+Technical Contact:
+  Paracha, Kamran
+  Pexsol Interactive
+  28-C, M1, 'A' Street, Saba Commercial Area,Defence Phase 5
+  Karachi, Sindh 75500, PK
+  Phone: +92.215341292
+  Fax:   +92.8318512416
+  Email: kparacha@pexsol.com
 
-   Domain servers in listed order:
+Billing Contact:
+  Paracha, Kamran
+  Pexsol Interactive
+  28-C, M1, 'A' Street, Saba Commercial Area,Defence Phase 5
+  Karachi, Sindh 75500, PK
+  Phone: +92.215341292
+  Fax:   +92.8318512416
+  Email: kparacha@pexsol.com
 
-      NS1.VELCOM.COM
-      NS2.VELCOM.COM
+Record Information:
+  Domain Record Created: September 24, 2009
+  Domain Record Updated: September 17, 2010
+  Domain Record Expires: September 24, 2011
 
-At our customer's request, our system is acting as a proxy for email
-addressed to the contacts which are listed above. Please visit
-www.emailaddressprotection.com to contact the appropriate party.
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+DNS Information:
+  Name Server: ns6.pexsol.net
+  Name Server: ns5.pexsol.net
 
