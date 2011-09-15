@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 16-jan-2006
    Expiration Date: 16-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:59:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:18:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    a4.nstld.com
+    f4.nstld.com
     g4.nstld.com
     l4.nstld.com
-    f4.nstld.com
+    a4.nstld.com
 
 
 
