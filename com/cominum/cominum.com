@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNETWORKS.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.CDNETWORKS.NET
-   Name Server: NS2.CDNETWORKS.NET
-   Name Server: NS3.CDNETWORKS.NET
-   Name Server: NS4.CDNETWORKS.NET
-   Name Server: NS5.CDNETWORKS.NET
-   Name Server: NS6.CDNETWORKS.NET
+   Domain Name: COMINUM.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS2.TRIODNS.NET
+   Name Server: NS3.TRIODNS.NET
    Status: clientTransferProhibited
-   Updated Date: 27-aug-2010
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2014
+   Updated Date: 09-nov-2010
+   Creation Date: 26-nov-2008
+   Expiration Date: 26-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:12:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:22:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,58 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       cominum.com
+owner:        Kulturno drustvo Cominum
+organization: Kulturno drustvo Cominum
+email:        cominum@gmail.com
+address:      Komen 95b
+city:         Komen
+state:        --
+postal-code:  6223
+country:      SI
+phone:        +386.57668239
+admin-c:      CCOM-1643606 cominum@gmail.com
+tech-c:       CCOM-1643606 cominum@gmail.com
+billing-c:    CCOM-67018 domene@domovanje.com
+reseller:     Domovanje d.o.o.
+reseller:     spletno gostovanje in registracija domen
+reseller:     www.domovanje.com
+nserver:      ns2.triodns.net
+nserver:      ns3.triodns.net
+status:       lock
+created:      2008-11-26 21:54:29 UTC
+modified:     2010-11-09 14:58:11 UTC
+expires:      2012-11-26 21:54:29 UTC
+query-source: 174.142.225.246
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+contact-hdl:  CCOM-1643606
+person:       - - -
+organization: Kulturno drustvo Cominum
+email:        cominum@gmail.com
+address:      Komen 95b
+city:         Komen
+state:        --
+postal-code:  6223
+country:      SI
+phone:        +386.57668239
 
-Registrant:
-   CDNetworks Inc.
-   2218 N 1st ST.
-   San Jose, CA 95131
-   US
+contact-hdl:  CCOM-67018
+person:       - -
+organization: Domovanje d.o.o.
+email:        domene@domovanje.com
+address:      Bistrica 35
+city:         Trzic
+postal-code:  4290
+country:      SI
+phone:        +386.12807778
 
-   Domain Name: CDNETWORKS.NET
-
-   Administrative Contact:
-      CDNetworks Inc.
-      OPS
-      441 W Trimble RD
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      support@cdnetworks.com
-
-   Technical Contact, Zone Contact:
-      CDNetworks Inc.
-      Jennifer Shin
-      2218 N 1st ST.
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      jennifer.shin@cdnetworks.com
-
-   Domain created on 13-Jun-2006
-   Domain expires on 13-Jun-2014
-   Last updated on 24-Feb-2009
-
-   Domain servers in listed order:
-
-      NS1.CDNETWORKS.NET
-      NS2.CDNETWORKS.NET
-      NS3.CDNETWORKS.NET
-      NS4.CDNETWORKS.NET
-      NS5.CDNETWORKS.NET
-      NS6.CDNETWORKS.NET
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+source:       joker.com live whois service
+query-time:   0.018503
+db-updated:   2011-09-15 19:23:30
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

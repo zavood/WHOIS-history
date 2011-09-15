@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNETWORKS.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.CDNETWORKS.NET
-   Name Server: NS2.CDNETWORKS.NET
-   Name Server: NS3.CDNETWORKS.NET
-   Name Server: NS4.CDNETWORKS.NET
-   Name Server: NS5.CDNETWORKS.NET
-   Name Server: NS6.CDNETWORKS.NET
+   Domain Name: KWTCARD.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.BOXLINK.NET
+   Name Server: NS2.BOXLINK.NET
    Status: clientTransferProhibited
-   Updated Date: 27-aug-2010
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2014
+   Updated Date: 18-jul-2011
+   Creation Date: 24-aug-2009
+   Expiration Date: 24-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:12:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:23:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,58 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about kwtcard.com
+&lt;a href=&quot;http://www.aboutus.org/kwtcard.com&quot;&gt;AboutUs: kwtcard.com&lt;/a&gt;
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
 
-Registrant:
-   CDNetworks Inc.
-   2218 N 1st ST.
-   San Jose, CA 95131
-   US
+Domain name: kwtcard.com
 
-   Domain Name: CDNETWORKS.NET
+Registrant Contact:
+   kwtCard.com
+   Ali Alqenai ()
 
-   Administrative Contact:
-      CDNetworks Inc.
-      OPS
-      441 W Trimble RD
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      support@cdnetworks.com
+   Fax:
+   Kuwait
+   Kuwait,  00000
+   KW
 
-   Technical Contact, Zone Contact:
-      CDNetworks Inc.
-      Jennifer Shin
-      2218 N 1st ST.
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      jennifer.shin@cdnetworks.com
+Administrative Contact:
+   kwtCard.com
+   Ali Alqenai (info@kwtcard.com)
+   +965.22649006
+   Fax:
+   Kuwait
+   Kuwait,  00000
+   KW
 
-   Domain created on 13-Jun-2006
-   Domain expires on 13-Jun-2014
-   Last updated on 24-Feb-2009
+Technical Contact:
+   kwtCard.com
+   Ali Alqenai (info@kwtcard.com)
+   +965.22649006
+   Fax:
+   Kuwait
+   Kuwait, KW 00000
+   KW
 
-   Domain servers in listed order:
+Status: Locked
 
-      NS1.CDNETWORKS.NET
-      NS2.CDNETWORKS.NET
-      NS3.CDNETWORKS.NET
-      NS4.CDNETWORKS.NET
-      NS5.CDNETWORKS.NET
-      NS6.CDNETWORKS.NET
+Name Servers:
+   NS1.BOXLINK.NET
+   NS2.BOXLINK.NET
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+Creation date: 24 Aug 2009 22:29:12
+Expiration date: 24 Aug 2012 22:29:12
 
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

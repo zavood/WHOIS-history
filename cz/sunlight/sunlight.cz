@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 21:16:06 2011
+
+domain:       sunlight.cz
+registrant:   SB:SCH5302FROLICHOVA7397
+admin-c:      CH5302FROLICHOVA7397
+admin-c:      MATKLOUB
+nsset:        NSSID:IGN-N14964-IAS
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   10.10.2006 15:45:00
+changed:      17.02.2011 15:03:06
+expire:       10.10.2012
+
+contact:      SB:SCH5302FROLICHOVA7397
+name:         Kl&Atilde;&iexcl;ra Frolichov&Atilde;&iexcl;
+address:      Mor&Atilde;&iexcl;vky 1410
+address:      Velk&Atilde;&copy; B&Atilde;&shy;lovice
+address:      69102
+address:      CZ
+e-mail:       klara.frolichova@post.cz
+registrar:    REG-IGNUM
+created:      10.10.2006 15:05:00
+
+contact:      CH5302FROLICHOVA7397
+name:         Kl&Atilde;&iexcl;ra Frolichov&Atilde;&iexcl;
+address:      Mor&Atilde;&iexcl;vky 1410
+address:      Velk&Atilde;&copy; B&Atilde;&shy;lovice
+address:      69102
+address:      CZ
+phone:        +420.777991765
+e-mail:       klara.frolichova@post.cz
+registrar:    REG-IGNUM
+created:      10.10.2006 14:55:00
+
+contact:      MATKLOUB
+name:         Matej Kloubek
+address:      Nadrazni 42/82
+address:      Praha 5
+address:      15000
+address:      CZ
+phone:        +420.777811029
+e-mail:       podpora@cesky-hosting.cz
+registrar:    REG-GENREG
+created:      11.07.2003 20:11:00
+changed:      26.09.2007 11:35:00
+
+nsset:        NSSID:IGN-N14964-IAS
+nserver:      dns2.master.cz
+nserver:      d808.master.cz
+tech-c:       CH5302FROLICHOVA7397
+registrar:    REG-IGNUM
+created:      17.09.2009 10:07:34
+changed:      06.05.2011 12:25:02
+
+

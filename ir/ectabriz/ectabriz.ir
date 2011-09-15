@@ -1,0 +1,37 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'ectabriz.ir'
+
+
+domain:		ectabriz.ir
+ascii:		ectabriz.ir
+remarks:	(Domain Holder) Ramin Tajallaei
+remarks:	(Domain Holder Address) No 7, 3rd Floor Sahand Complex ,Emam Ave., Tabriz, East Azarbaijan, IR
+holder-c:	rt59-irnic
+admin-c:	rt59-irnic
+tech-c:		rt59-irnic
+bill-c:		to52-irnic
+nserver:	ns1.dibaserver.com
+nserver:	ns2.dibaserver.com
+last-updated:	2011-07-21
+source:		IRNIC # Filtered
+
+nic-hdl:	rt59-irnic
+person:		Ramin Tajallaei
+e-mail:		ramindiba@gmail.com
+address:	No 7, 3rd Floor Sahand Complex ,Emam Ave., Tabriz, East Azarbaijan, IR
+phone:		+984115549121
+fax-no:		+984115531013
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+source:		IRNIC # Filtered
+

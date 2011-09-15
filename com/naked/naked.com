@@ -5,17 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPVULTURES.COM
-   Registrar: PDXPRIVATENAMES.COM LLC
-   Whois Server: whois.pdxprivatenames.com
-   Referral URL: http://www.pdxprivatenames.com
-   Name Server: No nameserver
-   Status: ok
-   Updated Date: 15-sep-2011
-   Creation Date: 15-sep-2011
-   Expiration Date: 15-sep-2012
+   Domain Name: NAKED.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.DPNET.COM
+   Name Server: NS2.DPNET.COM
+   Name Server: NS3.DPNET.COM
+   Name Server: NS4.DPNET.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 20-aug-2008
+   Creation Date: 14-jan-1995
+   Expiration Date: 09-may-2018
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:16:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:12:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,14 +68,82 @@ will use this Data only for lawful purposes and
 that, under no circumstances will you use this Data
 to: (1) allow, enable, or otherwise support the
 transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
 (2) enable high volume, automated, electronic
 processes that apply to Moniker (or its
 systems). Moniker reserves the right
 to modify these terms at any time.  By submitting
 this query, you agree to abide by this policy.
 
-No Match
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: NAKED.COM
+Registrar: MONIKER
+
+Registrant [1494441]:
+        Moniker Privacy Services NAKED.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+
+
+Administrative Contact [1494441]:
+        Moniker Privacy Services NAKED.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Billing Contact [1494441]:
+        Moniker Privacy Services NAKED.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Technical Contact [1494441]:
+        Moniker Privacy Services NAKED.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Domain servers in listed order:
+
+        NS1.DPNET.COM         208.78.93.250
+        NS3.DPNET.COM         208.78.93.251
+        NS2.DPNET.COM         208.91.207.17
+        NS4.DPNET.COM         208.91.207.18
+
+        Record created on:        1995-01-14 00:00:00.0
+        Database last updated on: 2008-08-20 16:14:20.59
+        Domain Expires on:        2018-05-09 00:20:12.0
 
 
 

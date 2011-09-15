@@ -5,17 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POPVULTURES.COM
-   Registrar: PDXPRIVATENAMES.COM LLC
-   Whois Server: whois.pdxprivatenames.com
-   Referral URL: http://www.pdxprivatenames.com
-   Name Server: No nameserver
-   Status: ok
-   Updated Date: 15-sep-2011
-   Creation Date: 15-sep-2011
-   Expiration Date: 15-sep-2012
+   Domain Name: WHONEEDSTV.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   Name Server: NS15.DNSMADEEASY.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 05-sep-2011
+   Creation Date: 14-sep-2007
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:16:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:20:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,14 +70,84 @@ will use this Data only for lawful purposes and
 that, under no circumstances will you use this Data
 to: (1) allow, enable, or otherwise support the
 transmission of mass unsolicited, commercial
-advertising or solicitations via e-mail (spam); or
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
 (2) enable high volume, automated, electronic
 processes that apply to Moniker (or its
 systems). Moniker reserves the right
 to modify these terms at any time.  By submitting
 this query, you agree to abide by this policy.
 
-No Match
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: WHONEEDSTV.COM
+Registrar: MONIKER
+
+Registrant [2437320]:
+        Moniker Privacy Services WHONEEDSTV.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+
+
+Administrative Contact [2437320]:
+        Moniker Privacy Services WHONEEDSTV.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Billing Contact [2437320]:
+        Moniker Privacy Services WHONEEDSTV.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Technical Contact [2437320]:
+        Moniker Privacy Services WHONEEDSTV.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
+        US
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
+
+
+Domain servers in listed order:
+
+        NS10.DNSMADEEASY.COM
+        NS11.DNSMADEEASY.COM
+        NS12.DNSMADEEASY.COM
+        NS13.DNSMADEEASY.COM
+        NS14.DNSMADEEASY.COM
+        NS15.DNSMADEEASY.COM
+
+        Record created on:        2007-09-14 20:45:11.0
+        Database last updated on: 2011-09-05 06:27:06.063
+        Domain Expires on:        2012-09-14 20:45:11.0
 
 
 

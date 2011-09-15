@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CDNETWORKS.NET
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.CDNETWORKS.NET
-   Name Server: NS2.CDNETWORKS.NET
-   Name Server: NS3.CDNETWORKS.NET
-   Name Server: NS4.CDNETWORKS.NET
-   Name Server: NS5.CDNETWORKS.NET
-   Name Server: NS6.CDNETWORKS.NET
-   Status: clientTransferProhibited
-   Updated Date: 27-aug-2010
-   Creation Date: 13-jun-2006
-   Expiration Date: 13-jun-2014
+   Domain Name: DAIWYNN.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS3.EZYREG.COM
+   Name Server: NS4.EZYREG.COM
+   Status: ok
+   Updated Date: 10-jul-2008
+   Creation Date: 20-nov-2001
+   Expiration Date: 20-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:12:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:12:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,57 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
 
-Registrant:
-   CDNetworks Inc.
-   2218 N 1st ST.
-   San Jose, CA 95131
-   US
+   Domain Name: DAIWYNN.COM
+      Reseller..............: Web Presence.net.au Pty Ltd
+      Created on............: 20 Nov 2001 17:52:02 EST
+      Expires on............: 20 Nov 2012 17:52:02 EST
+      Record last updated on: 10 Jul 2008 16:00:50 EST
+      Status................: ACTIVE
 
-   Domain Name: CDNETWORKS.NET
 
-   Administrative Contact:
-      CDNetworks Inc.
-      OPS
-      441 W Trimble RD
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      support@cdnetworks.com
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      QYNCOM Corporation Pty Ltd
+      David Wynn (ID00370879)
+      7 Irilbarra Road
+      Canterbury, Victoria 3126
+      Australia
+      Phone: +61.398366796
+      Email: daiwynnfineart@gmail.com
 
-   Technical Contact, Zone Contact:
-      CDNetworks Inc.
-      Jennifer Shin
-      2218 N 1st ST.
-      San Jose, CA 95131
-      US
-      (408)432-1301
-      (408)432-1306 [fax]
-      jennifer.shin@cdnetworks.com
-
-   Domain created on 13-Jun-2006
-   Domain expires on 13-Jun-2014
-   Last updated on 24-Feb-2009
 
    Domain servers in listed order:
 
-      NS1.CDNETWORKS.NET
-      NS2.CDNETWORKS.NET
-      NS3.CDNETWORKS.NET
-      NS4.CDNETWORKS.NET
-      NS5.CDNETWORKS.NET
-      NS6.CDNETWORKS.NET
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+      NS3.EZYREG.COM
+      NS4.EZYREG.COM
 
