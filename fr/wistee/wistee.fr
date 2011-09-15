@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; wistee.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      wistee.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    WS457-FRNIC
+admin-c:     ACW198-FRNIC
+tech-c:      K3-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL30685-FRNIC
+registrar:   WISTEE
+anniversary: 25/01
+created:     25/01/2008
+last-update: 10/10/2010
+source:      FRNIC
+
+ns-list:     NSL30685-FRNIC
+nserver:     dns-ns12.wistee.fr [94.124.84.12]
+nserver:     dns-ns1.wistee.fr [213.251.160.20]
+source:      FRNIC
+
+registrar:   WISTEE
+type:        Isp Option 2
+address:     4 Rue Albert 1er
+address:     BEAUMONT SUR OISE
+country:     FR
+phone:       +33 9 60 16 07 30
+fax-no:      +33 1 30 28 21 60
+e-mail:      assistance.technique@wistee.fr
+website:     http://www.wistee.fr
+anonymous:   NO
+registered:  25/05/2007
+source:      FRNIC
+
+nic-hdl:     K3-FRNIC
+type:        ROLE
+contact:     WISTEE SARL
+address:     WISTEE SARL
+address:     4, rue Albert 1Er
+address:     95260 Beaumont-sur-Oise
+country:     FR
+e-mail:      assistance.technique@wistee.fr
+trouble:     Informations : http://www.wistee.fr
+trouble:     Questions : assistance.technique@wistee.fr
+trouble:     Abuse : abuse@wistee.fr
+admin-c:     CK544-FRNIC
+tech-c:      CK544-FRNIC
+changed:     25/01/2008 assistance.technique@wistee.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ACW198-FRNIC
+type:        PERSON
+contact:     Christophe Kasse
+address:     WISTEE SARL
+address:     4, rue Albert 1Er
+address:     95260 Beaumont-sur-Oise
+country:     FR
+phone:       +33 9 60 16 07 30
+fax-no:      +33 1 30 28 21 60
+e-mail:      assistance.technique@wistee.fr
+changed:     25/01/2008 assistance.technique@wistee.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WS457-FRNIC
+type:        ORGANIZATION
+contact:     WISTEE SARL
+address:     4, rue Albert 1er
+address:     95260 Beaumont-sur-Oise
+country:     FR
+phone:       +33 9 60 16 07 30
+fax-no:      +33 1 30 28 21 60
+e-mail:      assistance.technique@wistee.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

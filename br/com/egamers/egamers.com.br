@@ -1,0 +1,51 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 07:43:17 (BRT -03:00)
+
+domain:      egamers.com.br
+owner:       Murilo gomes aureliano
+ownerid:     346.710.968-38
+country:     BR
+owner-c:     MGA138
+admin-c:     THDIN3
+tech-c:      MGA138
+billing-c:   THDIN3
+nserver:     a.sec.dns.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     b.sec.dns.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+dsrecord:    64733 RSA/SHA-1 664404CE24EAEA562B7850E8797D1991F1D3CDDC
+dsstatus:    20110915 DSOK
+dslastok:    20110915
+created:     20081104 #4978565
+expires:     20111104
+changed:     20110902
+status:      published
+
+nic-hdl-br:  MGA138
+person:      Murilo Gomes Aureliano
+e-mail:      muriloaureliano@gmail.com
+created:     20040929
+changed:     20080617
+
+nic-hdl-br:  THDIN3
+person:      Thiago Diniz
+e-mail:      gamer0092@hotmail.com
+created:     20080710
+changed:     20080909
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

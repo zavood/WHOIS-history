@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-feb-1998
    Expiration Date: 08-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:51:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:42:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: buybuybaby.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 16:41:19 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 06:33:17 EDT 2011
 Reason Code: IE

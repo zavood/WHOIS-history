@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 07:44:18 (BRT -03:00)
+
+domain:      terra.com.br
+owner:       Terra Networks Brasil S.A.
+ownerid:     091.088.328/0001-67
+responsible: Hostmaster Terra Networks
+country:     BR
+owner-c:     MPL4
+admin-c:     MPL4
+tech-c:      ALG3
+billing-c:   CTN25
+nserver:     a.dns.terra.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     b.dns.terra.com.br 200.215.193.1
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     c.dns.terra.com
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     d.dns.terra.com.br 200.215.194.1
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     19981130 #129987
+expires:     20171130
+changed:     20101206
+status:      published
+
+nic-hdl-br:  ALG3
+person:      Hostmaster Terra Networks
+e-mail:      domain@terra.com.br
+created:     19971226
+changed:     20070821
+
+nic-hdl-br:  CTN25
+person:      Cobran&ccedil;a Terra Networks
+e-mail:      idcobranca@terra.com.br
+created:     20041103
+changed:     20070124
+
+nic-hdl-br:  MPL4
+person:      Hostmaster Terra Networks
+e-mail:      domain@terra.com.br
+created:     19980122
+changed:     20070821
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
