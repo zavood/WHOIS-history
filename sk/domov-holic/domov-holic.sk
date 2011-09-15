@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         domov-holic.sk
+Admin-id            ROMA-0811
+Admin-name          euroap s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       46165151
+Admin-address       Marie Terezie 3129/13, Holic 90851
+Admin-telephone     +421905415029
+Admin-email         roman.kucera@euroap.sk
+Tech-id             ISKI-0001
+Tech-name           INTERNET SK s.r.o.
+Tech-org.-ID        35826339
+Tech-address        Palisady 33, Bratislava 81106
+Tech-telephone      +421 2 52623007, +420 383835353
+Tech-email          sknic@forpsi.com;domain@forpsi.com
+dns_name            ns.forpsi.net
+dns_name            ns.forpsi.it
+dns_name            ns.forpsi.cz
+dns_name            ns.forpsi.cn
+Last-update         2011-04-22
+Valid-date          2012-05-04
+Domain-status       DOM_OK
+

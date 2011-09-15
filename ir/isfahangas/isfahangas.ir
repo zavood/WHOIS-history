@@ -1,0 +1,46 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'isfahangas.ir'
+
+
+domain:		isfahangas.ir
+ascii:		isfahangas.ir
+remarks:	(Domain Holder) ISFAHAN GAS COMPANY
+remarks:	(Domain Holder Address) esfahan,charbaghe bala street, roberooye mogtamae park, sherkate gas ostan esfahan, ESFAHAN, ESFAHAN, IR
+holder-c:	is344-irnic
+admin-c:	mk1302-irnic
+tech-c:		ra50-irnic
+bill-c:		ra50-irnic
+nserver:	ns1.ouriran.net
+nserver:	ns2.ouriran.net
+last-updated:	2010-09-26
+source:		IRNIC # Filtered
+
+nic-hdl:	is344-irnic
+org:		ISFAHAN GAS COMPANY
+person:		MORTEZA TOGHIANY DOLATABADI
+e-mail:		khatibzadeh1352@gmail.com
+address:	esfahan,charbaghe bala street, roberooye mogtamae park, sherkate gas ostan esfahan, ESFAHAN, ESFAHAN, IR
+phone:		0311 6271031
+fax-no:		03116274419
+source:		IRNIC # Filtered
+
+nic-hdl:	mk1302-irnic
+person:		mohsen khatibzadeh
+e-mail:		khatibzadeh@nigc-isfahan.ir
+address:	chahar baghe bala- roberoye mojtamae park, isfahan, isfahan, IR
+phone:		03116286354
+fax-no:		03116274419
+source:		IRNIC # Filtered
+
+nic-hdl:	ra50-irnic
+org:		Ravand Tazeh (ouriran)
+e-mail:		hostmaster@ouriran.com
+source:		IRNIC # Filtered
+

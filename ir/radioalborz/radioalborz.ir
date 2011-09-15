@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'radioalborz.ir'
+
+
+domain:		radioalborz.ir
+ascii:		radioalborz.ir
+remarks:	(Domain Holder) Voice of Islamic Republic of Iran Broadcasting (IRIB - Radio)
+remarks:	(Domain Holder Address) Vali Asr Ave., Jaame Jam, Radio Bldg., 6th Floor, IT Management,, Tehran, Tehran, IR
+holder-c:	vo53-irnic
+admin-c:	vo53-irnic
+tech-c:		af50-irnic
+nserver:	ns1.irib.ir
+nserver:	ns2.irib.ir
+last-updated:	2008-12-01
+source:		IRNIC # Filtered
+
+nic-hdl:	vo53-irnic
+org:		Voice of Islamic Republic of Iran Broadcasting (IRIB - Radio)
+e-mail:		radio@irib.ir
+address:	Vali Asr Ave., Jaame Jam, Radio Bldg., 6th Floor, IT Management,, Tehran, Tehran, IR
+phone:		22167915
+fax-no:		22652482
+source:		IRNIC # Filtered
+
+nic-hdl:	af50-irnic
+person:		Arash Fazeli
+e-mail:		a.fazeli@gmail.com
+source:		IRNIC # Filtered
+

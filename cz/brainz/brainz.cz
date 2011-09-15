@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 10:57:42 2011
+
+domain:       brainz.cz
+registrant:   BRAINZ
+temp-c:       PES
+nsset:        NSS:PES:9
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   18.12.2001 12:36:00
+changed:      06.05.2011 13:11:16
+expire:       19.12.2011
+
+contact:      BRAINZ
+org:          brainz.cz s.r.o.
+name:         Ladislav Durch&Atilde;&iexcl;nek
+address:      Fibichova 13/2
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.296330939
+registrar:    REG-ACTIVE24
+created:      26.04.2011 15:47:36
+
+contact:      PES
+name:         Josef Grill
+address:      V&Atilde;&iexcl;clavsk&Atilde;&copy; n&Atilde;&iexcl;m. 17
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       domain@forpsi.com
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      11.03.2008 16:06:49
+
+nsset:        NSS:PES:9
+nserver:      ns2.pipni.cz
+nserver:      ns.pipni.cz
+tech-c:       FORPSI-HOSTMASTER
+tech-c:       STEFANO
+tech-c:       SB:PES
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+contact:      FORPSI-HOSTMASTER
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+e-mail:       admin@forpsi.com
+registrar:    REG-INTERNET-CZ
+created:      16.09.2005 11:35:00
+changed:      22.10.2008 11:35:35
+
+contact:      STEFANO
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+phone:        +420.383835353
+fax-no:       +420.383835354
+e-mail:       domain@forpsi.com
+registrar:    REG-INTERNET-CZ
+created:      15.09.2005 19:35:00
+changed:      26.03.2010 13:34:35
+
+contact:      SB:PES
+org:          INTERNET CZ, s.r.o.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      384 03
+address:      CZ
+phone:        +420.383835353
+fax-no:       +420.383835354
+e-mail:       admin@forpsi.com
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      21.10.2008 15:35:54
+
+
