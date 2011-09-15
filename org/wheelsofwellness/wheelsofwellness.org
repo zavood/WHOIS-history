@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155224257-LROR
+Domain Name:WHEELSOFWELLNESS.ORG
+Created On:29-Jan-2009 21:36:50 UTC
+Last Updated On:26-Jan-2011 21:19:05 UTC
+Expiration Date:29-Jan-2013 21:36:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38673020
+Registrant Name:Bill Peterson
+Registrant Organization:The Wellness Community of Arizona
+Registrant Street1:360 E Palm Ln
+Registrant Street2:
+Registrant Street3:
+Registrant City:Phoenix
+Registrant State/Province:AZ
+Registrant Postal Code:85004
+Registrant Country:US
+Registrant Phone:+1.6027121006
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:twc@ourwebnames.com
+Admin ID:CR38673022
+Admin Name:Bill Peterson
+Admin Organization:The Wellness Community of Arizona
+Admin Street1:360 E Palm Ln
+Admin Street2:
+Admin Street3:
+Admin City:Phoenix
+Admin State/Province:AZ
+Admin Postal Code:85004
+Admin Country:US
+Admin Phone:+1.6027121006
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:twc@ourwebnames.com
+Tech ID:CR38673021
+Tech Name:Bill Peterson
+Tech Organization:The Wellness Community of Arizona
+Tech Street1:360 E Palm Ln
+Tech Street2:
+Tech Street3:
+Tech City:Phoenix
+Tech State/Province:AZ
+Tech Postal Code:85004
+Tech Country:US
+Tech Phone:+1.6027121006
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:twc@ourwebnames.com
+Name Server:NS24.DOMAINCONTROL.COM
+Name Server:NS23.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
