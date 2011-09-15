@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNNUB.COM
-   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
-   Whois Server: whois.aboutdomainsolutions.com
-   Referral URL: http://www.aboutdomain.com
-   Name Server: NS1.PARKLOGIC.COM
-   Name Server: NS2.PARKLOGIC.COM
-   Status: ok
-   Updated Date: 15-sep-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
+   Domain Name: QUESTARCAPITAL.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: clientTransferProhibited
+   Updated Date: 12-jun-2008
+   Creation Date: 23-jun-1998
+   Expiration Date: 22-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:33:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:32:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,38 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	Luca Mueller
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-	Domain Name: pornnub.com
-	Created on: 2007-10-10 13:12:20
-	Expires on: 2011-10-10 13:12:20
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Administrative Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Technical Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+http://www.networksolutions.com/whois/index.jhtml
 
-Domain servers in listed order:
-	NS1.PARKLOGIC.COM
-	NS2.PARKLOGIC.COM
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-
+Whois Query: questarcapital.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 04:22:02 EDT 2011
+Reason Code: IE

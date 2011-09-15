@@ -1,0 +1,61 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 10:34:32 2011
+
+domain:       mersy.cz
+registrant:   SB:JANMERTLIK
+admin-c:      JANMERTLIK
+nsset:        NSS:JANMERTLIK:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   13.04.2006 11:15:00
+changed:      04.05.2006 23:35:00
+expire:       13.04.2014
+
+contact:      SB:JANMERTLIK
+name:         Jan Mertl&Atilde;&shy;k
+address:      Nad Stanic&Atilde;&shy; 22a
+address:      Praha 6
+address:      16200
+address:      CZ
+e-mail:       mertlik@iol.cz
+registrar:    REG-INTERNET-CZ
+created:      13.04.2006 11:05:00
+
+contact:      JANMERTLIK
+name:         Jan Mertl&Atilde;&shy;k
+address:      Nad Stanic&Atilde;&shy; 22a
+address:      Praha 6
+address:      16200
+address:      CZ
+e-mail:       mertlik@iol.cz
+registrar:    REG-INTERNET-CZ
+created:      13.04.2006 10:55:00
+
+nsset:        NSS:JANMERTLIK:1
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.us
+nserver:      ns.forpsi.cn
+tech-c:       JANMERTLIK
+tech-c:       SB:JANMERTLIK
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+

@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+No match!!
+
+JPRS WHOIS$B$O!&quot;(BJPRS$B$,4IM}$7$F$$$k0J2&lt;$N%I%a%$%sL&gt;$K4X$9$k&gt;pJs$r3NG'$G$-(B
+$B$k%5!&lt;%S%9$G$9!#(B
+    $B!&amp;EPO?$5$l$F$$$k(BJP$B%I%a%$%sL&gt;(B
+    $B!&amp;(BJPRS$B$r4IM}%l%8%9%H%i$H$9$k(BgTLD$BEy%I%a%$%sL&gt;(B
+$B&gt;\$7$/$O(B http://jprs.jp/info/jprs-whois/ $B$r;2&gt;H$7$F$/$@$5$$!#(B
+
+$B;29M(B: IP$B%&quot;%I%l%9$N(BWHOIS$B%5!&lt;%P(B
+   $B!&amp;(BJPNIC WHOIS(whois.nic.ad.jp)
+   $B!&amp;(BAPNIC WHOIS(whois.apnic.net)
+   $B!&amp;(BARIN WHOIS(whois.arin.net)
+   $B!&amp;(BRIPE WHOIS(whois.ripe.net)
+   $B!&amp;(BLACNIC WHOIS(whois.lacnic.net)
+   $B!&amp;(BAfriNIC WHOIS(whois.afrinic.net)
+

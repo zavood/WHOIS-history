@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNNUB.COM
-   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
-   Whois Server: whois.aboutdomainsolutions.com
-   Referral URL: http://www.aboutdomain.com
-   Name Server: NS1.PARKLOGIC.COM
-   Name Server: NS2.PARKLOGIC.COM
-   Status: ok
-   Updated Date: 15-sep-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:33:24 UTC &lt;&lt;&lt;
+No match for &quot;HKHOCKMWJVO.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:35:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,38 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	Luca Mueller
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-	Domain Name: pornnub.com
-	Created on: 2007-10-10 13:12:20
-	Expires on: 2011-10-10 13:12:20
-
-Administrative Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-Technical Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
-
-Domain servers in listed order:
-	NS1.PARKLOGIC.COM
-	NS2.PARKLOGIC.COM
-
-
-
-

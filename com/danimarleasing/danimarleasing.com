@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PORNNUB.COM
-   Registrar: ABOUT DOMAIN DOT COM SOLUTIONS PVT. LTD. D/B/A WWW.ABOUTDOMAINSOLUTIONS.COM
-   Whois Server: whois.aboutdomainsolutions.com
-   Referral URL: http://www.aboutdomain.com
-   Name Server: NS1.PARKLOGIC.COM
-   Name Server: NS2.PARKLOGIC.COM
+   Domain Name: DANIMARLEASING.COM
+   Registrar: REGISTER.IT SPA
+   Whois Server: whois.register.it
+   Referral URL: http://we.register.it
+   Name Server: NS1.REGISTER.IT
+   Name Server: NS2.REGISTER.IT
    Status: ok
-   Updated Date: 15-sep-2011
-   Creation Date: 10-oct-2007
-   Expiration Date: 10-oct-2011
+   Updated Date: 13-may-2011
+   Creation Date: 12-may-2003
+   Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:33:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:32:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,38 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
-	Luca Mueller
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
 
-	Domain Name: pornnub.com
-	Created on: 2007-10-10 13:12:20
-	Expires on: 2011-10-10 13:12:20
+REGISTER.IT SPA - Whois Server Version 1.4
 
-Administrative Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-Technical Contact:
-	Mueller, Luca luca.mueller1@gmail.com
-	Feringastr. 6
-	85774 Unterfoehring
-	Germany
-	+49 (0) 89 99216 476 (v)
-	+49 (0) 89 99216 170 (f)
+     Domain name: DANIMARLEASING.COM
+     Created on: 2003-05-12
+     Updated on: 2011-06-06
+     Expires on: 2012-05-12
+     Registrant Name: DSS.ITALY S.R.L.
+     Contact: Dss.Italy S.r.l.
+     Registrant Address: Via Padre Ugo Frasca s.n
+     Registrant City: CHIETI SCALO
+     Registrant Postal Code: 66013
+     Registrant Country: IT
+     Administrative Contact Organization: Marco Colombo
+     Administrative Contact Name: Marco Colombo
+     Administrative Contact Address: Via Padre Ugo Frasca s.n
+     Administrative Contact City: CHIETI SCALO
+     Administrative Contact Postal Code: 66013
+     Administrative Contact Country: IT
+     Administrative Contact Email: register@dssitaly.com
+     Administrative Contact Tel: +39 871 573379
+     Administrative Contact Fax: +39 871 540272
+     Technical Contact Organization: Register.it S.p.A.
+     Technical Contact Name:
+     Technical Contact Address: Via Montessori s/n
+     Technical Contact City: Bergamo
+     Technical Contact Postal Code: 24126
+     Technical Contact Country: IT
+     Technical Contact Email: support@register.it
+     Technical Contact Phone: +39 035 3230400
+     Technical Contact Fax: +39 035 3230312
+     Primary Name Server Hostname: NS1.REGISTER.IT
+     Secondary Name Server Hostname: NS2.REGISTER.IT
 
-Domain servers in listed order:
-	NS1.PARKLOGIC.COM
-	NS2.PARKLOGIC.COM
 
-
-
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 10:04:36 2011 &lt;&lt;&lt;
 

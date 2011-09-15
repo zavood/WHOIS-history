@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: RADIORICHANDFRIENDS.COM
+   Domain Name: RANCHOVALENCIA.COM
    Registrar: 1 &amp; 1 INTERNET AG
    Whois Server: whois.schlund.info
    Referral URL: http://REGISTRAR.SCHLUND.INFO
    Name Server: NS51.1AND1.COM
    Name Server: NS52.1AND1.COM
    Status: ok
-   Updated Date: 07-may-2011
-   Creation Date: 06-may-2009
-   Expiration Date: 06-may-2012
+   Updated Date: 16-oct-2010
+   Creation Date: 09-apr-1997
+   Expiration Date: 10-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:32:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:33:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,61 +69,63 @@ Registrars.
 % 1&amp;1 reserves the right to modify these terms at any time.
 % By submitting this query, you agree to abide by this policy.
 
-domain:                          radiorichandfriends.com
-created:                         06-May-2009
-last-changed:                    13-Jul-2011
-registration-expiration:         06-May-2012
+domain:                          ranchovalencia.com
+created:                         09-Apr-1997
+last-changed:                    16-Oct-2010
+registration-expiration:         10-Apr-2014
 
-nserver:                         ns51.1and1.com 217.160.80.164
-nserver:                         ns52.1and1.com 217.160.81.164
+nserver:                         ns51.1and1.com 74.208.2.8
+nserver:                         ns52.1and1.com 74.208.3.7
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 
-registrant-firstname:            Timothy
-registrant-lastname:             Nesbitt Jr.
-registrant-street1:              424 Cherokee Dr
-registrant-pcode:                66436
-registrant-state:                KS
-registrant-city:                 Holton
+registrant-firstname:            Oneandone
+registrant-lastname:             Private Registration
+registrant-organization:         1&amp;1 Internet, Inc. - http://1and1.com/contact
+registrant-street1:              701 Lee Road, Suite 300
+registrant-street2:              ATTN: ranchovalencia.com
+registrant-pcode:                19087
+registrant-state:                PA
+registrant-city:                 Chesterbrook
 registrant-ccode:                US
-registrant-phone:                +1.7858518284
-registrant-email:                nygiantstim@gmail.com
+registrant-phone:                +1.8772064254
+registrant-email:                proxy2414174@1and1-private-registration.com
 
-admin-c-firstname:               Timothy
-admin-c-lastname:                Nesbitt Jr.
-admin-c-street1:                 424 Cherokee Dr
-admin-c-pcode:                   66436
-admin-c-state:                   KS
-admin-c-city:                    Holton
+admin-c-firstname:               Oneandone
+admin-c-lastname:                Private Registration
+admin-c-organization:            1&amp;1 Internet, Inc. - http://1and1.com/contact
+admin-c-street1:                 701 Lee Road, Suite 300
+admin-c-street2:                 ATTN: ranchovalencia.com
+admin-c-pcode:                   19087
+admin-c-state:                   PA
+admin-c-city:                    Chesterbrook
 admin-c-ccode:                   US
-admin-c-phone:                   +1.7858518284
-admin-c-email:                   nygiantstim@gmail.com
+admin-c-phone:                   +1.8772064254
+admin-c-email:                   proxy2414174@1and1-private-registration.com
 
-tech-c-firstname:                Hostmaster
-tech-c-lastname:                 ONEANDONE
-tech-c-organization:             1&amp;1 Internet Inc.
-tech-c-street1:                  701 Lee Rd.
-tech-c-street2:                  Suite 300
+tech-c-firstname:                Oneandone
+tech-c-lastname:                 Private Registration
+tech-c-organization:             1&amp;1 Internet, Inc. - http://1and1.com/contact
+tech-c-street1:                  701 Lee Road, Suite 300
+tech-c-street2:                  ATTN: ranchovalencia.com
 tech-c-pcode:                    19087
 tech-c-state:                    PA
 tech-c-city:                     Chesterbrook
 tech-c-ccode:                    US
-tech-c-phone:                    +1.8774612631
-tech-c-fax:                      +1.6105601501
-tech-c-email:                    hostmaster@1and1.com
+tech-c-phone:                    +1.8772064254
+tech-c-email:                    proxy2414174@1and1-private-registration.com
 
-bill-c-firstname:                Hostmaster
-bill-c-lastname:                 ONEANDONE
-bill-c-organization:             1&amp;1 Internet Inc.
-bill-c-street1:                  701 Lee Rd.
-bill-c-street2:                  Suite 300
+bill-c-firstname:                Oneandone
+bill-c-lastname:                 Private Registration
+bill-c-organization:             1&amp;1 Internet, Inc. - http://1and1.com/contact
+bill-c-street1:                  701 Lee Road, Suite 300
+bill-c-street2:                  ATTN: ranchovalencia.com
 bill-c-pcode:                    19087
 bill-c-state:                    PA
 bill-c-city:                     Chesterbrook
 bill-c-ccode:                    US
-bill-c-phone:                    +1.8774612631
-bill-c-fax:                      +1.6105601501
-bill-c-email:                    hostmaster@1and1.com
+bill-c-phone:                    +1.8772064254
+bill-c-email:                    proxy2414174@1and1-private-registration.com
 
 % See http://registrar.1und1.info for information about 1&amp;1 Internet AG
 
