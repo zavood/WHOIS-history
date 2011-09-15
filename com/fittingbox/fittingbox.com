@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 16-may-2006
    Expiration Date: 16-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:36:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:53:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-13 22:37:44 CEST
+# 2011-09-15 12:53:55 CEST
 
 domain: fittingbox.com
 reg_created: 2006-05-16 11:48:15

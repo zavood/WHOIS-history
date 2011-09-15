@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D752366-LROR
+Domain Name:TRACEROUTE.ORG
+Created On:12-Jan-1998 05:00:00 UTC
+Last Updated On:06-Jun-2011 14:28:32 UTC
+Expiration Date:11-Jan-2016 05:00:00 UTC
+Sponsoring Registrar:Hostopia.com Inc. d/b/a Aplus.net (R14-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:4ljg5mqvio1v9nan
+Registrant Name:Thomas Kernen
+Registrant Organization:Thomas Kernen
+Registrant Street1:Route du Mandement 330
+Registrant Street2:
+Registrant Street3:
+Registrant City:Russin
+Registrant State/Province:
+Registrant Postal Code:1281
+Registrant Country:CH
+Registrant Phone:+41.794089380
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@kernen.net
+Admin ID:tlr63cfddpc4l2dm
+Admin Name:Thomas Kernen
+Admin Organization:Thomas Kernen
+Admin Street1:Route du Mandement 330
+Admin Street2:
+Admin Street3:
+Admin City:Russin
+Admin State/Province:
+Admin Postal Code:1281
+Admin Country:CH
+Admin Phone:+41.794089380
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@kernen.net
+Tech ID:q7jnd7rmdnum4am5
+Tech Name:Thomas Kernen
+Tech Organization:Thomas Kernen
+Tech Street1:Route du Mandement 330
+Tech Street2:
+Tech Street3:
+Tech City:Russin
+Tech State/Province:
+Tech Postal Code:1281
+Tech Country:CH
+Tech Phone:+41.794089380
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@kernen.net
+Name Server:NSZ1.DE.KPN-EURORINGS.NET
+Name Server:NSZ2.DE.KPN-EURORINGS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

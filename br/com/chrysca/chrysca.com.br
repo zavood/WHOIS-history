@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 07:54:13 (BRT -03:00)
+
+domain:      chrysca.com.br
+owner:       ALDA SALETE BARBOSA DO NASCIMENTO - ME
+ownerid:     005.427.479/0001-60
+responsible: Christianne Pires Green Short
+country:     BR
+owner-c:     CPGSH
+admin-c:     CPGSH
+tech-c:      CPGSH
+billing-c:   CPGSH
+nserver:     ns1.softhost.org
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.softhost.org
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20070314 #3445942
+expires:     20120314
+changed:     20110315
+status:      published
+
+nic-hdl-br:  CPGSH
+person:      Christianne Pires Green Short
+e-mail:      chrysca@hotmail.com
+created:     20070313
+changed:     20110228
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

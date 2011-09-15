@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154541462-LROR
+Domain Name:TEAMBRIGHTPINK.ORG
+Created On:24-Oct-2008 22:47:11 UTC
+Last Updated On:17-Jan-2011 21:14:12 UTC
+Expiration Date:24-Oct-2012 22:47:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37160828
+Registrant Name:Patrick Jones
+Registrant Organization:Patrick Jones
+Registrant Street1:780 S. Federal St., Unit 1110
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:Illinois
+Registrant Postal Code:60605
+Registrant Country:US
+Registrant Phone:+1.3124043225
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:oupatjones@gmail.com
+Admin ID:CR37160830
+Admin Name:Chumpot Ratanawong
+Admin Organization:Bright Pink
+Admin Street1:400 N. State St., Ste. 230
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:Illinois
+Admin Postal Code:60654
+Admin Country:US
+Admin Phone:+1.3124043225
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chumpotr@gmail.com
+Tech ID:CR37160829
+Tech Name:Patrick Jones
+Tech Organization:Well-Fit Triathlon and Training
+Tech Street1:780 S. Federal St., Unit 1110
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:Illinois
+Tech Postal Code:60605
+Tech Country:US
+Tech Phone:+1.3124043225
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:oupatjones@gmail.com
+Name Server:NS1.MYHOSTING.COM
+Name Server:NS2.MYHOSTING.COM
+Name Server:NS.MYHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
