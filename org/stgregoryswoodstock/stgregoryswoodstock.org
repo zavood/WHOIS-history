@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107554756-LROR
+Domain Name:STGREGORYSWOODSTOCK.ORG
+Created On:20-Sep-2005 17:01:07 UTC
+Last Updated On:09-Jul-2011 15:27:18 UTC
+Expiration Date:20-Sep-2013 17:01:07 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31489871
+Registrant Name:Charlotte Cross
+Registrant Organization:St Gregory's Episcopal Church
+Registrant Street1:P.O. Box 66
+Registrant Street2:
+Registrant Street3:
+Registrant City:Woodstock
+Registrant State/Province:New York
+Registrant Postal Code:12498
+Registrant Country:US
+Registrant Phone:+1.8456798800
+Registrant Phone Ext.:
+Registrant FAX:+1.8456796394
+Registrant FAX Ext.:
+Registrant Email:cfcross@mac.com
+Admin ID:CR31489873
+Admin Name:Charlotte Cross
+Admin Organization:St Gregory's Episcopal Church
+Admin Street1:P.O. Box 66
+Admin Street2:
+Admin Street3:
+Admin City:Woodstock
+Admin State/Province:New York
+Admin Postal Code:12498
+Admin Country:US
+Admin Phone:+1.8456798800
+Admin Phone Ext.:
+Admin FAX:+1.8456796394
+Admin FAX Ext.:
+Admin Email:cfcross@mac.com
+Tech ID:CR31489872
+Tech Name:Charlotte Cross
+Tech Organization:St Gregory's Episcopal Church
+Tech Street1:P.O. Box 66
+Tech Street2:
+Tech Street3:
+Tech City:Woodstock
+Tech State/Province:New York
+Tech Postal Code:12498
+Tech Country:US
+Tech Phone:+1.8456798800
+Tech Phone Ext.:
+Tech FAX:+1.8456796394
+Tech FAX Ext.:
+Tech Email:cfcross@mac.com
+Name Server:NS1.POWERDNS4U2.COM
+Name Server:NS2.POWERDNS4U2.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

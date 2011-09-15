@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ANCHORFREE.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.ANCHORFREE.COM
-   Name Server: NS2.ANCHORFREE.COM
-   Status: clientTransferProhibited
-   Updated Date: 10-apr-2011
-   Creation Date: 02-may-2003
-   Expiration Date: 02-may-2012
+   Domain Name: SIGMAGURU.COM
+   Registrar: SQUARE BROTHERS INFORMATION TECHNOLOGIES PVT LTD
+   Whois Server: whois.gooddomainregistry.com
+   Referral URL: http://gooddomainregistry.com
+   Name Server: NS1.999SERVERS.COM
+   Name Server: NS2.999SERVERS.COM
+   Status: ok
+   Updated Date: 02-apr-2011
+   Creation Date: 20-feb-2004
+   Expiration Date: 20-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:02:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,68 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: WEB HOSTING LOGIC MANAGED DOMAINS
-Contact: +1.8669454678
+Registration Service Provided By: SQUARE BROTHERS
+Contact: +91.4426205356
+Website: http://www.squarebrothers.com
 
-Domain Name: ANCHORFREE.COM
+Domain Name: SIGMAGURU.COM
 
 Registrant:
-    Web Hosting Logic, Inc
-    Af Managed Domains Support        (af-managed-domains@webhostinglogic.com)
-    3231C Business Park Drive
-    Suite 307
-    Vista
-    California,92081
-    US
-    Tel. +1.8669454678
-    Fax. +1.8883983665
+    Sigmaguru.com
+    Vidyut        (deovrat@eth.net)
+    15-Shaunak,
+    Lane-15,Prabhat road
+    Pune
+    null,411004
+    IN
+    Tel. +91.2025658052
 
-Creation Date: 02-May-2003
-Expiration Date: 02-May-2012
+Creation Date: 20-Feb-2004
+Expiration Date: 20-Feb-2014
 
 Domain servers in listed order:
-    ns1.anchorfree.com
-    ns2.anchorfree.com
+    ns1.999servers.com
+    ns2.999servers.com
 
 
 Administrative Contact:
-    Web Hosting Logic, Inc
-    Af Managed Domains Support        (af-managed-domains@webhostinglogic.com)
-    3231C Business Park Drive
-    Suite 307
-    Vista
-    California,92081
-    US
-    Tel. +1.8669454678
-    Fax. +1.8883983665
+    Sigmaguru.com
+    Vidyut        (deovrat@eth.net)
+    15-Shaunak,
+    Lane-15,Prabhat road
+    Pune
+    null,411004
+    IN
+    Tel. +91.2025658052
 
 Technical Contact:
-    Web Hosting Logic, Inc
-    Af Managed Domains Support        (af-managed-domains@webhostinglogic.com)
-    3231C Business Park Drive
-    Suite 307
-    Vista
-    California,92081
-    US
-    Tel. +1.8669454678
-    Fax. +1.8883983665
+    Sigmaguru.com
+    Vidyut        (deovrat@eth.net)
+    15-Shaunak,
+    Lane-15,Prabhat road
+    Pune
+    null,411004
+    IN
+    Tel. +91.2025658052
 
 Billing Contact:
-    Web Hosting Logic, Inc
-    Af Managed Domains Support        (af-managed-domains@webhostinglogic.com)
-    3231C Business Park Drive
-    Suite 307
-    Vista
-    California,92081
-    US
-    Tel. +1.8669454678
-    Fax. +1.8883983665
+    Sigmaguru.com
+    Vidyut        (deovrat@eth.net)
+    15-Shaunak,
+    Lane-15,Prabhat road
+    Pune
+    null,411004
+    IN
+    Tel. +91.2025658052
 
-Status:LOCKED
-	Note: This Domain Name is currently Locked. In this status the domain
-	name cannot be transferred, hijacked, or modified. The Owner of this
-	domain name can easily change this status from their control panel.
-	This feature is provided as a security measure against fraudulent domain name hijacking.
+Status:ACTIVE
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -124,7 +117,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is Square Brothers Information Technologies Pvt. Ltd. d/b/a gooddomainregistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

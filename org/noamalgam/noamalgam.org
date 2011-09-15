@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130121627-LROR
+Domain Name:NOAMALGAM.ORG
+Created On:05-Oct-2006 14:20:29 UTC
+Last Updated On:12-Aug-2011 06:07:26 UTC
+Expiration Date:05-Oct-2012 14:20:29 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-227944
+Registrant Name:Erlend Hodneland
+Registrant Organization:Erlend Hodneland
+Registrant Street1:Kattuglebrotet 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bergen
+Registrant State/Province:
+Registrant Postal Code:N-5099
+Registrant Country:NO
+Registrant Phone:+47.92463756
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:erlend.hodneland@uib.no
+Admin ID:CORG-90000
+Admin Name:Domain Dept
+Admin Organization:Domregistry ApS
+Admin Street1:Kirsebaerhaven 14
+Admin Street2:Himmelev
+Admin Street3:
+Admin City:Roskilde
+Admin State/Province:--
+Admin Postal Code:DK-4000
+Admin Country:DK
+Admin Phone:+45.42420960
+Admin Phone Ext.:
+Admin FAX:+45.46320960
+Admin FAX Ext.:
+Admin Email:robot@jth.net
+Tech ID:CORG-90000
+Tech Name:Domain Dept
+Tech Organization:Domregistry ApS
+Tech Street1:Kirsebaerhaven 14
+Tech Street2:Himmelev
+Tech Street3:
+Tech City:Roskilde
+Tech State/Province:--
+Tech Postal Code:DK-4000
+Tech Country:DK
+Tech Phone:+45.42420960
+Tech Phone Ext.:
+Tech FAX:+45.46320960
+Tech FAX Ext.:
+Tech Email:robot@jth.net
+Name Server:NS.TALKACTIVE.NET
+Name Server:NS2.TALKACTIVE.NET
+Name Server:NS3.TALKACTIVE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

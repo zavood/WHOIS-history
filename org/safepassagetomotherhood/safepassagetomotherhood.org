@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152884655-LROR
+Domain Name:SAFEPASSAGETOMOTHERHOOD.ORG
+Created On:03-Jun-2008 02:48:30 UTC
+Last Updated On:31-May-2011 20:03:48 UTC
+Expiration Date:03-Jun-2013 02:48:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR46130271
+Registrant Name:Mari Alexander
+Registrant Organization:Safe Passage to Motherhood
+Registrant Street1:3527 NE 15th Ave
+Registrant Street2:#222
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:Oregon
+Registrant Postal Code:97212
+Registrant Country:US
+Registrant Phone:+1.5035239629
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:marikalexander@gmail.com
+Admin ID:CR46130273
+Admin Name:Mari Alexander
+Admin Organization:Safe Passage to Motherhood
+Admin Street1:3527 NE 15th Ave
+Admin Street2:#222
+Admin Street3:
+Admin City:Portland
+Admin State/Province:Oregon
+Admin Postal Code:97212
+Admin Country:US
+Admin Phone:+1.5035239629
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:marikalexander@gmail.com
+Tech ID:CR46130272
+Tech Name:Mari Alexander
+Tech Organization:Safe Passage to Motherhood
+Tech Street1:3527 NE 15th Ave
+Tech Street2:#222
+Tech Street3:
+Tech City:Portland
+Tech State/Province:Oregon
+Tech Postal Code:97212
+Tech Country:US
+Tech Phone:+1.5035239629
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:marikalexander@gmail.com
+Name Server:NS1.AFFORDABLEWEBSITEASSISTANCE.COM
+Name Server:NS2.AFFORDABLEWEBSITEASSISTANCE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
