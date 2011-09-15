@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: EDGECASTCDN.NET
+   Domain Name: HYSMA.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.EDGECASTCDN.NET
-   Name Server: NS2.EDGECASTCDN.NET
-   Status: ok
-   Updated Date: 12-feb-2010
-   Creation Date: 30-nov-2006
-   Expiration Date: 30-nov-2012
+   Name Server: DNS1.HOSTYERSITE.COM
+   Name Server: NS3.HYSMA.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 21-dec-2010
+   Creation Date: 08-jan-2000
+   Expiration Date: 08-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:32:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:31:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
