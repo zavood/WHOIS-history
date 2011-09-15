@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS51.1AND1.COM
    Name Server: NS52.1AND1.COM
    Status: ok
-   Updated Date: 13-sep-2010
+   Updated Date: 13-sep-2011
    Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2011
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 06:08:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:04:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,11 +71,11 @@ Registrars.
 
 domain:                          morechurches.com
 created:                         13-Sep-2006
-last-changed:                    14-Sep-2010
-registration-expiration:         13-Sep-2011
+last-changed:                    13-Sep-2011
+registration-expiration:         13-Sep-2012
 
-nserver:                         ns51.1and1.com 74.208.2.8
-nserver:                         ns52.1and1.com 74.208.3.7
+nserver:                         ns51.1and1.com 217.160.80.164
+nserver:                         ns52.1and1.com 217.160.81.164
 
 status:                          CLIENT-TRANSFER-PROHIBITED
 

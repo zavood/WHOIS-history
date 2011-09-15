@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-12 23:22:19 (BRT -03:00)
+%  2011-09-15 06:10:00 (BRT -03:00)
 
 domain:      zevallos.com.br
 owner:       S&amp;M Consultoria em Informatica Ltda
@@ -17,11 +17,11 @@ admin-c:     RZJ
 tech-c:      RZJ
 billing-c:   RZJ
 nserver:     ns1-auth.rollernet.us
-nsstat:      20110908 AA
-nslastaa:    20110908
+nsstat:      20110913 AA
+nslastaa:    20110913
 nserver:     ns2-auth.rollernet.us
-nsstat:      20110908 AA
-nslastaa:    20110908
+nsstat:      20110913 AA
+nslastaa:    20110913
 created:     19960823 #14714
 expires:     20120823
 changed:     20110510

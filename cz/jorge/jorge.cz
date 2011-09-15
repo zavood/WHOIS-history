@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 11:08:03 2011
+
+domain:       jorge.cz
+registrant:   PIPNI-JORGE
+nsset:        NSPIPNI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   18.01.2010 19:31:26
+expire:       18.01.2012
+
+contact:      PIPNI-JORGE
+name:         Ji&Aring;™&Atilde;&shy; Dolina
+address:      Obecn&Atilde;&shy; 625
+address:      Kunovice
+address:      68604
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      18.01.2010 19:04:23
+
+nsset:        NSPIPNI
+nserver:      ns.pipni.cz
+nserver:      ns2.pipni.cz
+nserver:      ns3.pipni.cz
+tech-c:       PIPNI
+registrar:    REG-PIPNI
+created:      01.10.2007 13:29:57
+changed:      09.01.2009 11:22:27
+
+contact:      PIPNI
+name:         Petr Simonek
+address:      Karlovo n&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; 290/16
+address:      Praha 2
+address:      120 00
+address:      CZ
+registrar:    REG-PIPNI
+created:      14.02.2003 01:56:00
+changed:      23.01.2009 00:55:36
+
+

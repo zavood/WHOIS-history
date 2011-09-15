@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 11:04:11 2011
+
+domain:       mourek.cz
+registrant:   SB:MOUREK
+admin-c:      MOUREK_PETR
+nsset:        NSS:MOUREK:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   03.06.2000 00:21:00
+changed:      20.04.2006 09:05:00
+expire:       03.06.2012
+
+contact:      SB:MOUREK
+name:         Petr Mourek
+address:      Pod nemocnici 2344
+address:      Rakovnik
+address:      269 01
+address:      CZ
+e-mail:       petr@mail-box.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      MOUREK_PETR
+name:         Petr Mourek
+address:      CZ
+e-mail:       petr@mail-box.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MOUREK:1
+nserver:      ns.sofist.cz
+nserver:      ns.mourek.cz (84.42.185.245)
+tech-c:       SB:MOUREK
+tech-c:       MOUREK_PETR
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      30.10.2007 10:54:08
+
+

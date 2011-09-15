@@ -1,0 +1,50 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 06:08:57 (BRT -03:00)
+
+domain:      optcon.com.br
+owner:       jorge goncalves dos santos filho
+ownerid:     031.184.740-41
+country:     BR
+owner-c:     JGDSF8
+admin-c:     JGDSF8
+tech-c:      JGDSF8
+billing-c:   WELTD
+nserver:     ns1.webnames-l03.com
+nsstat:      20110915 UDN
+nslastaa:    20110910
+nserver:     ns2.webnames-l03.com
+nsstat:      20110915 UDN
+nslastaa:    20110910
+created:     20100627 #7035524
+expires:     20130627
+changed:     20110717
+provider:    WEBNAMES (29)
+status:      published
+
+nic-hdl-br:  JGDSF8
+person:      jorge goncalves dos santos filho
+e-mail:      snooboarderman@hotmail.com
+created:     20100627
+changed:     20100627
+provider:    WEBNAMES (29)
+
+nic-hdl-br:  WELTD
+person:      webermaq ltda
+e-mail:      webermaq@webermaq.com
+created:     20070703
+changed:     20110414
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
