@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WIPEOUTYOURSELF.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: ORNS01.DIG.COM
-   Name Server: ORNS02.DIG.COM
-   Name Server: SENS01.DIG.COM
-   Name Server: SENS02.DIG.COM
+   Domain Name: NUVOGENETEA.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS3.FOURGUYSFROMTAMPA.COM
+   Name Server: NS4.FOURGUYSFROMTAMPA.COM
    Status: clientTransferProhibited
-   Updated Date: 09-may-2011
-   Creation Date: 09-may-2011
-   Expiration Date: 09-may-2012
+   Updated Date: 28-may-2011
+   Creation Date: 01-jun-2009
+   Expiration Date: 01-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:24:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:25:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+nuvogenetea.com
 
-Domain Name.......... wipeoutyourself.com
-  Creation Date........ 2011-05-10
-  Registration Date.... 2011-05-10
-  Expiry Date.......... 2012-05-10
-  Organisation Name.... ABC, Inc.
-  Organisation Address. 77 West 66th Street
-  Organisation Address.
-  Organisation Address. New York
-  Organisation Address. 10023
-  Organisation Address. NY
-  Organisation Address. UNITED STATES
+Registrant:
+         Dr. Ann de Wees Allen  (xftzm6vhu6g@privateregistration.srsplus.com)
+        Nutrilab
+	ATTN: nuvogenetea.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
 
-Admin Name........... dig.com .
-  Admin Address........ 506 2ND AVE STE 2100
-  Admin Address........
-  Admin Address........ SEATTLE
-  Admin Address........ 98104-2300
-  Admin Address........ WA
-  Admin Address........ UNITED STATES
-  Admin Email.......... dns-ops@dig.com
-  Admin Phone.......... +1.2066644000
-  Admin Fax............ +1.2066644009
+Domain Name: nuvogenetea.com
 
-Tech Name............ dig.com .
-  Tech Address......... 506 2ND AVE STE 2100
-  Tech Address.........
-  Tech Address......... SEATTLE
-  Tech Address......... 98104-2300
-  Tech Address......... WA
-  Tech Address......... UNITED STATES
-  Tech Email........... dns-ops@dig.com
-  Tech Phone........... +1.2066644000
-  Tech Fax............. +1.2066644009
-  Name Server.......... sens02.dig.com
-  Name Server.......... orns01.dig.com
-  Name Server.......... sens01.dig.com
-  Name Server.......... orns02.dig.com
+
+
+
+Administrative, Technical, Billing Contact:
+         Dr. Ann de Wees Allen  (xftzm6vhu6g@privateregistration.srsplus.com)
+        Nutrilab
+	ATTN: nuvogenetea.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
+
+
+
+
+   Record created on Jun 1 2009.
+   Record expires on Jun 1 2012.
+Domain servers:
+        ns3.fourguysfromtampa.com
+        ns4.fourguysfromtampa.com
+
+
+
+Domain Service Provider:
+   Nutrilab Corp
 
 
