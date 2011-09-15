@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136254077-LROR
+Domain Name:10-7.ORG
+Created On:31-Dec-2006 15:20:58 UTC
+Last Updated On:01-Jan-2011 01:23:49 UTC
+Expiration Date:31-Dec-2011 15:20:58 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:C116754004589489
+Registrant Name:David Outlaw
+Registrant Organization:David Outlaw
+Registrant Street1:3830 Fallscrest Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Clermont
+Registrant State/Province:FL
+Registrant Postal Code:34711
+Registrant Country:US
+Registrant Phone:+1.2572585
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:doutlaw981@cfl.rr.com
+Admin ID:C116754004589486
+Admin Name:David Outlaw
+Admin Organization:David Outlaw
+Admin Street1:3830 Fallscrest Circle
+Admin Street2:
+Admin Street3:
+Admin City:Clermont
+Admin State/Province:FL
+Admin Postal Code:34711
+Admin Country:US
+Admin Phone:+1.2572585
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:doutlaw981@cfl.rr.com
+Tech ID:C116754004589488
+Tech Name:Verio Hostmaster
+Tech Street1:5050 Blue Lake Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Boca Raton
+Tech State/Province:FL
+Tech Postal Code:33431
+Tech Country:US
+Tech Phone:+1.8886636648
+Tech Phone Ext.:
+Tech FAX:+1.8886636655
+Tech FAX Ext.:
+Tech Email:hostmaster@VERIO-HOSTING.COM
+Name Server:NS19A.NAMESERVERS.NET
+Name Server:NS19B.NAMESERVERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
