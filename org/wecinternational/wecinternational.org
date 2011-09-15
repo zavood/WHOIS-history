@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152886189-LROR
+Domain Name:WECINTERNATIONAL.ORG
+Created On:03-Jun-2008 08:25:42 UTC
+Last Updated On:18-Dec-2009 08:18:13 UTC
+Expiration Date:03-Jun-2013 08:25:42 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tunP4o10s4cwDSyo
+Registrant Name:Richard Davies
+Registrant Organization:WEC International
+Registrant Street1:Springhead Park House Park Lane
+Registrant Street2:Rothwell
+Registrant Street3:
+Registrant City:LEEDS
+Registrant State/Province:W Yorks
+Registrant Postal Code:LS260ET
+Registrant Country:GB
+Registrant Phone:+44.1132822291
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:iwm@uk.wec-int.org
+Admin ID:tunP4o10s4cwDSyo
+Admin Name:Richard Davies
+Admin Organization:WEC International
+Admin Street1:Springhead Park House Park Lane
+Admin Street2:Rothwell
+Admin Street3:
+Admin City:LEEDS
+Admin State/Province:W Yorks
+Admin Postal Code:LS260ET
+Admin Country:GB
+Admin Phone:+44.1132822291
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:iwm@uk.wec-int.org
+Tech ID:tuu0nTQPtZ02v3cz
+Tech Name:Webfusion Ltd
+Tech Organization:Webfusion Ltd.
+Tech Street1:5 Roundwood Avenue
+Tech Street2:Stockley Park
+Tech Street3:
+Tech City:Uxbridge
+Tech State/Province:Middlesex
+Tech Postal Code:UB111FF
+Tech Country:GB
+Tech Phone:+44.8712309525
+Tech Phone Ext.:
+Tech FAX:+44.8701650437
+Tech FAX Ext.:
+Tech Email:services@123-reg.co.uk
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

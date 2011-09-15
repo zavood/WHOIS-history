@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NUDIFICATION.COM
+   Domain Name: HOBBSCONSTRUCTION.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS07.DOMAINCONTROL.COM
-   Name Server: NS08.DOMAINCONTROL.COM
+   Name Server: NS43.DOMAINCONTROL.COM
+   Name Server: NS44.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-mar-2011
-   Creation Date: 25-mar-2010
-   Expiration Date: 25-mar-2012
+   Updated Date: 04-feb-2011
+   Creation Date: 02-feb-2005
+   Expiration Date: 02-feb-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:45:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:44:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Albert Pantaleon
+   Hobbs Mize
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NUDIFICATION.COM
+   Domain Name: HOBBSCONSTRUCTION.COM
 
    Domain servers in listed order:
-      NS07.DOMAINCONTROL.COM
-      NS08.DOMAINCONTROL.COM
+      NS43.DOMAINCONTROL.COM
+      NS44.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NUDIFICATION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=HOBBSCONSTRUCTION.COM

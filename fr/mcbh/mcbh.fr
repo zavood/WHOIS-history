@@ -1,0 +1,103 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; mcbh.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      mcbh.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      MC8651-FRNIC
+tech-c:      DD195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL33081-FRNIC
+registrar:   MAILCLUB
+anniversary: 10/08
+created:     10/08/2007
+last-update: 26/01/2011
+source:      FRNIC
+
+ns-list:     NSL33081-FRNIC
+nserver:     t213.x1.fr
+nserver:     ns2.x1.fr
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     10/08/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC8651-FRNIC
+type:        ROLE
+contact:     Service Clientele
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      ripe@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@mailclub.fr
+changed:     20/07/2006 ripe@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD195-FRNIC
+type:        ROLE
+contact:     Service Technique
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      technique@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@daydream.org
+changed:     20/07/2006 technique@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

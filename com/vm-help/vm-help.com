@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NUDIFICATION.COM
+   Domain Name: VM-HELP.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-mar-2011
-   Creation Date: 25-mar-2010
-   Expiration Date: 25-mar-2012
+   Updated Date: 30-dec-2010
+   Creation Date: 07-jan-2008
+   Expiration Date: 07-jan-2020
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:45:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:48:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,10 +76,10 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Albert Pantaleon
+   Dave Mishchenko
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NUDIFICATION.COM
+   Domain Name: VM-HELP.COM
 
    Domain servers in listed order:
       NS07.DOMAINCONTROL.COM
@@ -87,4 +87,4 @@ Registrant:
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NUDIFICATION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=VM-HELP.COM

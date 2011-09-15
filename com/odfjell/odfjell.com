@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NUDIFICATION.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS07.DOMAINCONTROL.COM
-   Name Server: NS08.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: ODFJELL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 05-mar-2011
-   Creation Date: 25-mar-2010
-   Expiration Date: 25-mar-2012
+   Updated Date: 06-oct-2010
+   Creation Date: 11-nov-1998
+   Expiration Date: 10-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:45:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:43:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... odfjell.com
+  Creation Date........ 1998-11-11
+  Registration Date.... 2009-09-27
+  Expiry Date.......... 2011-11-11
+  Organisation Name.... Odfjell SE
+  Organisation Address. Conrad Mohrs veg 29
+  Organisation Address. P.O. Box 6101 Posterminalen
+  Organisation Address. Bergen
+  Organisation Address. 5892
+  Organisation Address. Bergen
+  Organisation Address. NORWAY
+
+Admin Name........... Harald Stein
+  Admin Address........ Odfjell SE
+  Admin Address........ Conrad Mohrs veg 29
+  Admin Address........ Bergen
+  Admin Address........ 5892
+  Admin Address........ Bergen
+  Admin Address........ NORWAY
+  Admin Email.......... domaincontact@odfjell.com
+  Admin Phone.......... +47.55270000
+  Admin Fax............
+
+Tech Name............ Odfjell ASA
+  Tech Address......... Postboks 25
+  Tech Address.........
+  Tech Address......... Minde
+  Tech Address......... n-5032
+  Tech Address......... Minde
+  Tech Address......... NORWAY
+  Tech Email........... post@ODLOG.COM
+  Tech Phone........... +47.55270000
+  Tech Fax.............
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
 
 
-Registrant:
-   Albert Pantaleon
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NUDIFICATION.COM
-
-   Domain servers in listed order:
-      NS07.DOMAINCONTROL.COM
-      NS08.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NUDIFICATION.COM
